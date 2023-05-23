@@ -1,0 +1,76 @@
+Title: Spektr{| class="toccolours" style="width: 25em; float: right; clear: right; margin: 0 0 1em 1em;"
+|-
+!colspan="2" style="text-align: center; background: #FFDEAD;" | Spektr Module
+|-
+|colspan="2" style="text-align: center;" |310pxThis shot of Spektr was taken after the collision with the Progress spacecraft. Note damage to solar arrays.
+|-
+!colspan="2" style="text-align: center; background: #FFDEAD;" | Module statistics
+|-
+|Mission name||Mir
+|- style="vertical-align: top;"
+|Launch||May 20, 199503:33:22 UTCLC-81/23, Baikonur Cosmodrome, LC 81L, USSR
+|- style="vertical-align: top;"
+|Launch vehicle||Proton-K
+|- style="vertical-align: top;"
+|Docked||June 1, 199500:56:16 UTC
+|- style="vertical-align: top;"
+|Depressurized||June 25, 1997
+|- style="vertical-align: top;"
+|Re-entry||March 23, 200105:50:00 UTC
+|- style="vertical-align: top;"
+|Time in Orbit||2134 days, 2 hours 
+
+|- style="vertical-align: top;"
+|Length||9.1 m
+|- style="vertical-align: top;"
+|Diameter||4.35 m 
+
+|- style="vertical-align: top;"
+|Mass||43,290 lb (19,640 kg)
+
+|}
+
+
+
+Spektr (; ) (TKM-O, 77KSO, 11F77O) was the fifth module of the Mir Space Station.  The module was designed for remote observation of Earth's environment containing atmospheric and surface research equipment.  Spektr also had four solar arrays which generated about half of the station's electrical power.
+
+==Development==
+thumb|left|200px|Cut-away view of Spektr
+The Spektr module was originally developed as part of a top-secret military program code-named "Oktant". It was planned to carry experiments with space-borne surveillance and test antimissile defense. The surveillance instruments were mounted on the exterior of the module opposite the docking port.  Also in this location were two launchers for artificial targets. The heart of the Spektr payload was an experimental optical telescope code-named "Pion” (Peony).
+
+Instrument list:
+
+*  286K binocular radiometer
+* Astra 2 – monitored atmospheric trace constituents, Mir environment
+* Balkan 1 lidar – measures upper cloud altitude. Used a 5320-angstrom laser source, provided 4.5 m resolution
+* EFO 2 photometer
+* KOMZA – interstellar gas detector
+* MIRAS absorption spectrometer – had to measure neutral atmospheric composition, but couldn't work due to a failure
+* Phaza spectrometer – surface studies. Examined wavelengths between 0.340 and 285 micrometers, and provides 200 km resolution
+* Taurus/Grif – monitored Mir's induced X/gamma-ray background
+* VRIZ UV spectroradiometer
+
+These experiments would have been a continuation of the research aboard a top-secret TKS-M module, which docked to Salyut 7 in 1985. However, with the end of the Cold War and the shrinking of Russia's space budget, the module was stuck on the ground.
+
+In the mid-1990s with the return of US-Russian cooperation in space, NASA agreed to provide funds to complete the Spektr and Priroda modules in exchange for having 600 to 700 kg of US experiments installed.  The Oktava military component was replaced with a conical mounting area for two additional solar arrays.  The airlock for the Oktava targets to be used instead to expose experiments to the vacuum of space.
+
+Once in orbit, Spektr served as the living quarters for American astronauts until the collision in late June 1997.
+
+==Collision==
+
+On June 25, 1997, the Progress M-34 spacecraft crashed into Spektr while doing an experimental docking maneuver with  the Kvant-1 module. The collision damaged one of Spektr's solar arrays and punctured the hull, causing a relatively slow leak. The crew had enough time to install a hatch cover and seal the module off to prevent depressurization of the entire Mir station.  To seal the module, the crew had to remove the cables that were routed through the (open) hatchway, including the power cables from Spektr's solar panels.
+
+An internal spacewalk in the Spektr module in August 1997 by cosmonauts Anatoly Solovyov and Pavel Vinogradov, from Soyuz TM-26, succeeded in restoring these power connections by installing a modified hatch cover to allow the power cables to pass through the hatch when it was in the closed position.  
+In a second internal spacewalk in October they connected two of the panels to a computer system to allow the panels to be controlled remotely and align with the Sun. These modifications allowed power generation to return to approximately 70% of the pre-collision generation capability.
+
+
+Spektr was left depressurized and isolated from the remainder of the Mir complex.
+
+==Gallery==
+
+Image:Spektr before collision - cropped.jpg|Overall view of Spektr before the collision, opposite angle
+Image:Damaged Spektr solar array.jpg|Damaged Spektr solar array
+Image:Damaged Spektr radiator.jpg|Damaged radiator on Spektr
+Image:STS-79 p-060-low.jpg|Interior
+
+

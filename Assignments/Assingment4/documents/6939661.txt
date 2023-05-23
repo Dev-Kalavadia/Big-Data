@@ -1,0 +1,119 @@
+Title: List of municipalities of the Province of Trapani
+
+This is a list of the 25 municipalities (comuni) of the Province of Trapani, Sicily, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|081001
+||Alcamo
+| align="right" |44,959
+|-
+|081002
+|Buseto Palizzolo
+| align="right" |3,198
+|-
+|081003
+|Calatafimi-Segesta
+| align="right" |7,385
+|-
+|081004
+|Campobello di Mazara
+| align="right" |10,942
+|-
+|081005
+|Castellammare del Golfo
+| align="right" |14,811
+|-
+|081006
+|Castelvetrano
+| align="right" |30,369
+|-
+|081007
+|Custonaci
+| align="right" |5,013
+|-
+|081008
+|Erice
+| align="right" |29,169
+|-
+|081009
+|Favignana
+| align="right" |4,297
+|-
+|081010
+|Gibellina
+| align="right" |4,558
+|-
+|081011
+|Marsala
+| align="right" |80,391
+|-
+|081012
+|Mazara del Vallo
+| align="right" |51,424
+|-
+|081013
+|Paceco
+| align="right" |11,110
+|-
+|081014
+|Pantelleria
+| align="right" |7,679
+|-
+|081015
+|Partanna
+| align="right" |11,427
+|-
+|081016
+|Poggioreale
+| align="right" |1,681
+|-
+|081017
+|Salaparuta
+| align="right" |1,769
+|-
+|081018
+|Salemi
+| align="right" |11,436
+|-
+|081019
+|Santa Ninfa
+| align="right" |5,265
+|-
+|081020
+|San Vito Lo Capo
+| align="right" |4,027
+|-
+|081021
+|Trapani
+| align="right" |70,735
+|-
+|081022
+|Valderice
+| align="right" |11,544
+|-
+|081023
+|Vita
+| align="right" |2,316
+|-
+|081024
+|Petrosino
+| align="right" |7,458
+|-
+|081025
+|Misiliscemi
+|8,669
+|-
+|
+|Total
+| align="right" |432,963
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

@@ -1,0 +1,89 @@
+Title: 2001 Tokyo prefectural election
+Prefectural elections were held in Tokyo for the city's Metropolitan Assembly on June 24, 2001. The Liberal Democratic Party (LDP) and New Komeito Party secured their positions as ruling parties. Japanese Communist Party (JCP) lost almost half its seats while Democratic Party of Japan (DPJ) saw an increase by ten seats.
+
+==Results==
+
+|-
+! style="background-color:#E9E9E9;text-align:left;" |Parties
+! style="background-color:#E9E9E9;text-align:right;" |Candidates
+! style="background-color:#E9E9E9;text-align:right;" |Votes
+! style="background-color:#E9E9E9;text-align:right;" |%
+! style="background-color:#E9E9E9;text-align:right;" |Seats
+|-
+| style="text-align:left;" |Liberal Democratic Party of Japan (自由民主党, Jiyū Minshutō)
+| style="text-align:right;" | 55
+| style="text-align:right;" | 1,721,603
+| style="text-align:right;" | 35.96
+| style="text-align:right;" | 53
+|-
+| style="text-align:left;" |New Komeito party (公明党, Kōmeitō)
+| style="text-align:right;" | 23
+| style="text-align:right;" | 722,464
+| style="text-align:right;" | 15.09
+| style="text-align:right;" | 23
+|-
+| style="text-align:left;" |Democratic Party of Japan (民主党, Minshutō)
+| style="text-align:right;" | 33
+| style="text-align:right;" | 647,572
+| style="text-align:right;" | 13.53
+| style="text-align:right;" | 22
+|-
+| style="text-align:left;" |Japanese Communist Party (日本共産党, Nihon Kyōsan-tō)
+| style="text-align:right;" | 44
+| style="text-align:right;" | 748,085
+| style="text-align:right;" | 15.63
+| style="text-align:right;" | 15
+|-
+| style="text-align:left;" |Tokyo Seikatsusha Network (東京・生活者ネットワーク)
+| style="text-align:right;" | 6
+| style="text-align:right;" | 137,489
+| style="text-align:right;" | 2.87
+| style="text-align:right;" | 6
+|-
+| style="text-align:left;" |Social Democratic Party (社民党 Shamin-tō)
+| style="text-align:right;" | 6
+| style="text-align:right;" | 68,055
+| style="text-align:right;" | 1.42
+| style="text-align:right;" | 0
+|-
+| style="text-align:left;" |Liberal Party (自由党, Jiyū-tō)
+| style="text-align:right;" | 13
+| style="text-align:right;" | 132,719
+| style="text-align:right;" | 2.77
+| style="text-align:right;" | 0
+|-
+| style="text-align:left;" |Others
+| style="text-align:right;" | 3
+| style="text-align:right;" | 49,224
+| style="text-align:right;" | 1.03
+| style="text-align:right;" | 1
+|-
+| style="text-align:left;" |Independents
+| style="text-align:right;" | 61
+| style="text-align:right;" | 560,245
+| style="text-align:right;" | 11.7
+| style="text-align:right;" | 7
+|-
+|style="text-align:left;background-color:#E9E9E9"|Total (turnout 50.08%)
+|width="75" style="text-align:right;background-color:#E9E9E9"| 244
+|width="75" style="text-align:right;background-color:#E9E9E9"| 4,862,229
+|width="30" style="text-align:right;background-color:#E9E9E9"| 100.00
+|width="30" style="text-align:right;background-color:#E9E9E9"| 127
+|-
+| style="text-align:left;" colspan=4 |Source:Tokyo electoral commission ,  
+|}
+
+==See also==
+
+
+== References ==
+
+*JCP secures 15 seats in Tokyo Metropolitan Assembly election Japan Press Weekly
+
+
+
+Category:Tokyo prefectural elections
+Category:2001 elections in Japan
+Category:June 2001 events in Japan
+Category:2001 in Tokyo
+

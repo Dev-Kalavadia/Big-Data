@@ -1,0 +1,34 @@
+Title: Takatsuki-class destroyer
+{|
+
+
+
+|}
+The Takatsuki class destroyer was a vessel of the Japan Maritime Self-Defense Force. It was the predecessor of the , and was mainly used for anti-submarine warfare duties.
+
+In 1985-1988, Takatsuki and Kikuzuki were upgraded with Sea Sparrow SAM launchers, Harpoon missile anti-ship missile launchers, Phalanx CIWS systems (Kikuzuki only), new FCS (FCS-2-12) fire control radar and TASS. Mochizuki and Nagatsuki were in the upgrade program, but were eventually not upgraded.
+
+==Ships==
+{|class=wikitable
+! Building no. || Pennant no. || Name || Laid down || Launched || Completed || Decommissioned 
+|-
+| 2304 || DD-164 || Takatsuki || 8 October 1964 || 7 January 1966 || 15 March 1967 || 16 August 2002
+|-
+| 2305 || DD-165 || Kikuzuki || 15 March 1966 || March 25, 1967 || 27 March 1968 || 6 November 2003
+|-
+| 2306 || DD-166/ASU-7019 || Mochizuki || 22 November 1966 || 15 March 1968 || 25 March 1969 || Converted to ASU-7019 on 16 March 1995, decommissioned on 19 March 1999
+|-
+| 2307 || DD-167 || Nagatsuki || 2 March 1968 || 19 March 1969 || 12 February 1970 || 1 April 1996,sunk as target off 3 August 1998
+|}
+
+==Books==
+*The Maru Special, Ships of the JMSDF No.57 Takatsuki class escort vessels, Ushio Shobō (Japan), November 1981
+*The Maru Special, Ships of the JMSDF No.78 Electronics weapons, Power Plants and Helicopters, Ushio Shobō (Japan), August 1983
+
+ 
+
+
+
+
+Category:Destroyer classes
+ 

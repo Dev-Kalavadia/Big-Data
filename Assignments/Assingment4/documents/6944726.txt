@@ -1,0 +1,77 @@
+Title: Andes orthohantavirus
+
+
+Andes orthohantavirus (ANDV), a species of Orthohantavirus, is a major causative agent of hantavirus cardiopulmonary syndrome (HCPS) and hantavirus pulmonary syndrome (HPS) in South America. It is named for the Andes mountains of Chile and Argentina, where it was first discovered. Originating in the reservoir of rodents, Andes orthohantavirus is easily transmitted to humans who come into contact with infected rodents or their fecal droppings. However, infected rodents do not appear ill, so there is no readily apparent indicator to determine whether the rodent is infected or not. Additionally, Andes orthohantavirus, specifically, is the only hantavirus that can be spread by human to human contact via bodily fluids or long-term contact from one infected individual to a healthy person.
+
+== Discovery ==
+Andes orthohantavirus was first identified when outbreaks of this new infection spread throughout Chile and Argentina. In 1995, it was finally characterized in Argentina on the basis of specimens from a patient who had died from HPS complications, a severe consequence of infection from Andes viruses.  As an emerging virus, it is more lethal than that of some of the other hantaviruses having a mortality rate between 40% and 50% in South America. By far, it has been responsible for the most recorded cases of HPS in Argentina, Chile, and Uruguay combined and contributes to a large number of kidney failure cases. Although it can be carried by both humans and rodents, Andes orthohantavirus is most commonly found in the Oligoryzomys longicaudatus, a species of pygmy rat native to the Chile-Argentina region, and in other cases, in the Abrothrix longipilis, a long-haired grass mouse.
+
+== Classification ==
+Andes orthohantavirus is a species of Hantavirus, a group of  enveloped, Negative-sense single-stranded RNA virus, belonging to the family Hantaviridae and genus orthohantavirus. All genera excluding hantavirus are air-borne viruses while the hantavirus is rodent-borne. Transmission of the hantaviruses are through aerosol exposure to rodent bodily fluids. Additionally, Hantaviruses seem to cause no detectable cytopathology in vertebrate cell cultures.
+
+== Genome and structure ==
+The spherical virion of the Hantavirus is typically 80-120 nm long and contains the segmented single-stranded genome. The tri-segmented genome includes a S (small), M (medium), and L (large) segment that code for nucleocapsid (N), glycoproteins G1 and G2, and L protein respectively. The S segment of the Andes virus contains 1876 nucleotides in total, while encoding a 547 nucleotide-long N protein. Upon comparison of S and M segments to other variants, the Andes virus was found to form a lineage with viruses such as ESQ H-1/96, CH H-1/96 Bayou, and Black Creek Canal viruses. When expressed, the M segment generates the glycoprotein precursor (GPC) which can be cleaved into the envelope Gn and Gc proteins. The L protein encoded by the L segment possesses enzymatic functions that are involved within transcription and replication.
+
+In addition to these segments, the virion also contains RdRP which are all enclosed in an envelope. Unlike the other four genera in the family the hantavirion segments also contain a complementary 3'-terminal nucleotide sequence to the 5'-terminal sequence. These nucleotide sequences are AUCAUCAUCUG... at the 3′ end and UAGUAGUAUGC... at the 5′ end.
+
+== Entry and replication cycle ==
+The Hantavirus replication takes place strictly in the cytoplasm of a host cell primarily targeting endothelial cells. During early infection, Andes virus can produce a weak, innate immune response in the cell. The entry and uncoating of the virus begins when the virion attaches to cell receptors on the surface of the host cell, which then brings in the virus via endocytosis. By a process called pH-dependent fusion between the virion and the endosomal membrane, nucleocapsids enter the cytoplasm. The virus genome contains its own RNA-dependent RNA polymerase (RdRp) which directs both transcription and replication of the viral genome. Once the nucleocapsids are released, RdRp initiates transcription by binding to the encapsidated segments. While M segment mRNAs are translated by membrane-bound ribosomes, L and S segment mRNAs are translated by free ribosomes. Once transcribed, the mRNA is capped by L proteins via Cap snatching. These capped RNA fragments can then be transferred to L protein, to be further trimmed in length by the endonuclease and used by the RdRp to initiate viral mRNA synthesis. Replication is terminated when the plasma membrane begins to fuse with cytoplasmic vesicles and mature virions are released.
+
+== Signs and symptoms ==
+Initial signs of an Andes orthohantavirus infection can easily be mistaken for the flu. Signs and symptoms can appear as early as 4 days and up to 6 weeks after exposure. The only way to diagnose Andes orthohantavirus as the cause for these symptoms is by testing the patient's blood for Andes orthohantavirus genetic material or for corresponding antibodies of Andes orthohantavirus. Individuals are typically only infectious while they are showing symptoms such as having one or more of the following:
+
+=== Early symptoms ===
+* Nausea or vomiting
+* Headache
+* Diarrhea
+* Muscle aches
+* Fever
+
+=== Severe symptoms ===
+* Coughing
+* Shortness of breath
+* Fluid in lungs
+
+Although there are only two possible vectors of the virus, humans and rodents, there are multiple routes of infection to be aware of. These include:
+* Breathing in the virus aerosols; stirred up rodent feces or urine
+* Direct contact with eyes, nose, or mouth after touching infected rodent, its feces, urine, or nesting material
+* Bite from infected rodent
+* Although rare, through direct or close contact with an infected person
+* Bodily fluids (blood, saliva, urine, or semen)
+
+== Associated Diseases, Prevention, and Treatment ==
+
+=== Andes Hantavirus Pulmonary Syndrome (HPS) ===
+Hantavirus pulmonary syndrome is an acute, severe, and sometimes fatal respiratory disease caused by an infection from the Andes orthohantavirus.  Four to ten days after initial symptoms begin, respiratory symptoms indicating HPS can appear. Such symptoms include muscle aches, fatigue, shortness of breath, and fever. HPS symptoms can develop quickly, therefore, it is imperative to seek healthcare immediately. Early care is more beneficial to the patient as there is no vaccine or specific treatment for HPS. In extreme cases, infected individuals may be intubated and receive oxygen therapy.
+
+Although hantavirus infections are prevalent in the United States, there currently are very few recorded cases of HPS due to infection from the Andes virus in the United States and the rest of North America; however, there have been several cases reported in Chile and Argentina.
+
+=== Hantavirus Cardiopulmonary Syndrome (HCPS) ===
+HCPS as a result of Andes orthohantavirus infection has a case fatality rate of about 25–35% in Argentina and 37% in Chile. ANDV, lineage ANDV-Sout, is the only hantavirus for which person-to-person transmission has been described; all other human hantavirus infections are transmitted exclusively from animals to humans. Several ANDV strains are co-circulating in Argentina (e.g. Bermejo, Lechiguanas, Maciel, Oran and Pergamino). HCPS cases have also been reported in nearby Bolivia, Brazil, Paraguay and Uruguay, but only for Chile and Argentina can they be strictly associated with ANDV.
+
+In Argentina and Chile, the long-tailed rice rat, Oligoryzomys longicaudatus, and other species of the genus Oligoryzomys, have been documented as the reservoir for ANDV. Another unique characteristic of ANDV is the availability of an animal model. ANDV causes lethal disease in the Syrian hamster (Mesocricetus auratus) that closely models the course of disease progression in humans, including a rapid progression from first symptoms to death, which is characterized by fluid in the pleural cavity and the histopathology of the lungs and spleen. Lethality of ANDV in hamsters is not true of all viruses causing HCPS; hamsters infected with Sin Nombre virus, for example, show no symptoms of disease. The availability of this model allows for the study of various drugs and other treatments that may affect the treatment of all HCPS-causing hantavirus infections.
+
+=== Prevention ===
+When visiting geographical locations where Andes orthohantavirus has been documented, such as South America, people should avoid areas of high rodent populations where the virus is more likely to be found and transmitted quickly and easily from rodent to the next. Properly disinfecting living spaces and areas where rodents may have been present will kill the virus before it is able to be contracted. To prevent transmission from contact with infected humans, individuals, infected or not, should hand-wash frequently, abstain from kissing or sexual activity with one another, and avoid sharing spaces of close confinement for long periods of time.
+
+=== Treatment ===
+There is no current treatment, cure, or vaccine available for illness caused by Andes virus. However, if patients seek medical attention quickly, early symptoms can be abated through intensive care or intubation, if necessary, for patients with severe breathing difficulties.
+
+== References ==
+
+
+== External links ==
+
+
+* CDC's Hantavirus Technical Information Index page
+* Viralzone: Hantavirus
+* Virus Pathogen Database and Analysis Resource (ViPR): Hantaviridae
+* Occurrences and deaths in North and South America
+
+
+
+
+
+Category:Viral diseases
+Category:Hantaviridae
+Category:Rodent-carried diseases

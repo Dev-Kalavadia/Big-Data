@@ -1,0 +1,59 @@
+Title: Van der Grinten projection
+350px|thumb|Van der Grinten projection of the world
+
+The van der Grinten projection is a compromise map projection, which means that it is neither equal-area nor conformal. Unlike perspective projections, the van der Grinten projection is an arbitrary geometric construction on the plane. Van der Grinten projects the entire Earth into a circle. It largely preserves the familiar shapes of the Mercator projection while modestly reducing Mercator's distortion. Polar regions are subject to extreme distortion. Lines of longitude converge to points at the poles.Flattening the Earth: Two Thousand Years of Map Projections, John P. Snyder, 1993, pp. 258–262, .
+
+==History==
+Alphons J. van der Grinten invented the projection in 1898 and received US patent #751,226 for it and three others in 1904.A Bibliography of Map Projections, John P. Snyder and Harry Steward, 1989, p. 94, US Geological Survey Bulletin 1856. The National Geographic Society adopted the projection for their reference maps of the world in 1922, raising its visibility and stimulating its adoption elsewhere. In 1988, National Geographic replaced the van der Grinten projection with the Robinson projection.
+
+== Geometric construction==
+The geometric construction given by van der Grinten can be written algebraically:Map Projections – A Working Manual , USGS Professional Paper 1395, John P. Snyder, 1987, pp. 239–242.
+
+\begin{align}
+ x &= \pm \pi \frac{A (G - P^2) + \sqrt{A^2 (G - P^2)^2 - (P^2 + A^2) (G^2 - P^2)}}{P^2 + A^2}, \\
+ y &= \pm \pi \frac{P Q - A \sqrt{(A^2 + 1) (P^2 + A^2) - Q^2}}{P^2 + A^2},
+\end{align}
+
+where x takes the sign of , y takes the sign of φ, and
+
+\begin{align}
+ A &= \frac{1}{2} \left| \frac{\pi}{\lambda - \lambda_0} - \frac{\lambda - \lambda_0}{\pi} \right|, \\
+ G &= \frac{\cos \theta}{\sin \theta + \cos \theta - 1}, \\
+ P &= G \left(\frac{2}{\sin \theta} - 1\right), \\
+ \theta &= \arcsin \left|\frac{2 \varphi}{\pi}\right|, \\
+ Q &= A^2 + G.
+\end{align}
+
+If φ = 0, then
+
+\begin{align}
+ x &= (\lambda - \lambda_0), \\
+ y &= 0.
+\end{align}
+
+Similarly, if λ = λ or φ = ±/2, then
+
+\begin{align}
+ x &= 0, \\
+ y &= \pm \pi \tan \frac{\theta}{2}.
+\end{align}
+
+In all cases, φ is the latitude, λ is the longitude, and λ is the central meridian of the projection.
+
+== Van der Grinten IV projection ==
+
+The van der Grinten IV projection is a later polyconic map projection developed by Alphons J. van der Grinten.
+The central meridian and equator are straight lines. All other meridians and parallels are arcs of circles.
+"Van der Grinten IV Projection".
+
+"An Album of Map Projections".
+p. 205.
+
+"van der Grinten IV".
+
+
+==See also==
+
+*List of map projections
+*Robinson projection (successor)
+

@@ -1,0 +1,95 @@
+Title: Oxford University Rowing Clubs
+
+Oxford University Rowing Clubs (OURCs) is a federation of the Oxford University Boat Club (OUBC), the Oxford University Women's Boat Club (OUWBC), the Oxford University Lightweight Rowing Club (OULRC), and the Oxford University Women's Lightweight Rowing Club (OUWLRC), as well as all college boat clubs. OURCs is a purely administrative organisation with no training or crews. It was created in 1986 in order to remove the organisational burden from the university squad and is responsible for organising inter-collegiate competitions and overseeing the conduct of college rowing. The student-led organisation of OURCs is supported by senior members of the university, the Council for Oxford University Rowing, which issues advice and deals with aspects of rowing safety.  A similar function is fulfilled by the Cambridge University Combined Boat Clubs for rowing clubs of the University of Cambridge.
+
+==Clubs==
+{| class="wikitable sortable"
+! Name !! Established !! BR Club Code !! Blade
+|-
+|Oxford University Boat Club || 1829 || OUB || 100px
+|-
+|Oxford University Women's Boat Club  || 1927 || OUW|| 100px
+|-
+|Oxford University Lightweight Rowing Club||1975|| OUL  || 100px
+|-
+| Oxford University Women's Lightweight Rowing Club||1984|| OLW ||  100px
+|-
+| Balliol College Boat Club || 1825 || BAL || 100px
+|-
+| Brasenose College Boat Club || 1815 || BRC || 100px
+|-
+| Christ Church Boat Club || 1817 || CHB ||100px
+|-
+| Corpus Christi College Boat Club (Oxford) || 1858 || COO|| 100px
+|-
+| Exeter College Boat Club || 1823 || EXC|| 100px
+|- 
+| Green Templeton Boat Club || 2008 || GTM||100px
+|-
+| Hertford College Boat Club || 1875 || HEC|| 100px
+|-
+|Jesus College Boat Club || 1815 || JEO||100px
+|-
+| Keble College Boat Club || 1870 || KEB||100px
+|- 
+| Lady Margaret Hall Boat Club ||1972|| LMH||100px
+|-
+| Linacre Boat Club || 1969 || LIN ||100px
+|-
+| Lincoln College Boat Club || 1880 || LIC|| 100px
+|-
+| Magdalen College Boat Club || 1859 || MAG||100px
+|-
+| Mansfield College Boat Club || 1965 || MAN||100px
+|-
+| Merton College Boat Club || 1838 || MER|| 100px
+|-
+| New College Boat Club || 1840 || NEC|| 100px
+|-
+| Oriel College Boat Club || 1830 || ORO || 100px
+|-
+| Osler House Boat Club || 1839 || OSG||
+|-
+| Pembroke College Boat Club || 1842 || PMB|| 100px
+|-
+| The Queen's College Boat Club || 1827 || QCO||100px
+|-
+| Regent's Park College Boat Club || 1927 || RPC|| 100px
+|-
+| Somerville College Boat Club || 1921 ||SOM|| 100px
+|-
+| St Anne's College Boat Club || ||SAC|| 100px
+|-
+| St Antony's College Boat Club || 1994 ||SAY|| 100px
+|-
+| St Benet's Hall Boat Club || 1981 || SBH|| 100px
+|-
+| St Catherine's College Boat Club || 1875 || SCO|| 100px
+|-
+| St Edmund Hall Boat Club || 1851 || SEH|| 100px
+|-
+| St Hilda's College Boat Club || 1904 || SHI||100px
+|-
+| St Hugh's Boat Club || 1976 || SHG|| 100px 
+|-
+| St John's College Boat Club || 1863 || SJO|| 
+|-
+| St Peter's College Boat Club || 1929 || SPC|| 100px 
+|-
+| Trinity College Boat Club || 1820 || TRO||100px 
+|-
+| University College Boat Club || 1827 || UCO|| 100px 
+|-
+| Wadham College Boat Club || 1835 || WAD|| 100px 
+|-
+| Wolfson College Boat Club || 1969 || WOO||100px 
+|-
+| Worcester College Boat Club || 1825 || WRO||100px 100px
+|}
+
+==OURCs run events==
+*Autumn Fours (Michaelmas Term)
+*Isis Winter League (Michaelmas and Hilary Term)
+*Torpids (Hilary Term)
+*Summer Eights (Trinity Term)
+

@@ -1,0 +1,312 @@
+Title: Modern Greek phonology
+
+
+
+
+This article deals with the phonology and phonetics of Standard Modern Greek. For phonological characteristics of other varieties, see varieties of Modern Greek, and for Cypriot, specifically, see .
+
+==Consonants==
+Greek linguists do not agree on which consonants to count as phonemes in their own right, and which to count as conditional allophones. The table below is adapted from , who considers the palatals and both affricates,  and , to be allophonic.
+
+{| class="wikitable" style="text-align: center"
+
+|+ Consonant phonemes
+! colspan=2|
+! Labial
+! Dental
+! Alveolar
+! Velar
+|-
+! colspan=2|Nasal
+|  μ
+| 
+|  ν
+| 
+|-
+! rowspan=2|Plosive
+! 
+|  π
+| 
+|  τ
+|  κ
+|-
+! 
+|  μπ
+| 
+|  ντ
+|  γκ
+|-
+! rowspan=2| Fricative
+! 
+|  φ
+|  θ
+|  σ, ς
+|  χ
+|-
+! 
+|  β
+|  δ
+|  ζ
+|  γ
+|-
+! colspan=2|Tap
+| 
+| 
+| // ρ
+| 
+|-
+! colspan=2|Lateral
+| 
+| 
+|  λ
+| 
+|}
+
+{|class="toccolours" style="float: right;"
+|+ Examples for consonant phonemes
+|-
+| 
+| 
+| 'I took'
+|-
+| 
+| 
+| 'beer'
+|-
+| 
+| 
+| 'phase'
+|-
+| 
+| 
+| 'base'
+|-
+| 
+| 
+| 'alone'
+|-
+| 
+| 
+| 'law'
+|-
+| 
+| 
+| 'I tend'
+|-
+| 
+| 
+| 'I dress'
+|-
+| 
+| 
+| 'topic'
+|-
+| 
+| 
+| 'parcel'
+|-
+| 
+| 
+| 'safe' (fem.)
+|-
+| 
+| 
+| 'animals'
+|-
+| 
+| 
+| 'verb'
+|-
+| 
+| 
+| 'nail file'
+|-
+| 
+| 
+| 'comma'
+|-
+| 
+| 
+| 'soil'
+|-
+| 
+| 
+| 'eraser'
+|-
+| 
+| 
+| 'range'
+|}
+
+The alveolar nasal  is assimilated to following obstruents; it can be labiodental (e.g.   'doubt'), dental (e.g.   'flower'), retracted alveolar (e.g.   'pliers'), alveolo-palatal (e.g.   'to annoy'), or velar (e.g.   'stress').
+
+Voiceless stops are unaspirated and with a very short voice onset time. They may be lightly voiced in rapid speech, especially when intervocalic. 's exact place of articulation ranges from alveolar to denti-alveolar, to dental. It may be fricated  in rapid speech, and very rarely, in function words, it is deleted.  and  are reduced to lesser degrees in rapid speech.
+
+Voiced stops are prenasalised (which is reflected in the orthography) to varying extents, and sometimes not at all. The nasal component—when present—does not increase the duration of the stop's closure; as such, prenasalised voiced stops would be most accurately transcribed  or , depending on the length of the nasal component. Word-initially and after  or , they are very rarely, if ever, prenasalised. In rapid and casual speech, prenasalisation is generally rarer, and voiced stops may be lenited to fricatives. This also accounts for Greeks having trouble disambiguating voiced stops, nasalised voiced stops, and nasalised voiceless stops in borrowings and names from foreign languages; for example, d, nd, and nt, which are all written ντ in Greek.
+
+ and  are somewhat retracted (); they are produced in between English alveolars  and postalveolars .  is variably fronted or further retracted depending on environment, and, in some cases, it may be better described as an advanced postalveolar ().
+
+The only Greek rhotic  is prototypically an alveolar tap , often retracted (). It may be an alveolar approximant  intervocalically, and is usually a trill  in clusters, with two or three short cycles.
+
+Greek has palatals  which are allophones of the velar consonants  before the front vowels . The velars also merge with a following nonsyllabic  to the corresponding palatal before the vowels , e.g.   (= ) 'snow', thus producing a surface contrast between palatal and velar consonants before .  and  occur as allophones of  and , respectively, in  (consonant–glide–vowel) clusters, in analyses that posit an archiphoneme-like glide  that contrasts with the vowel . All palatals may be analysed in the same way. The palatal stops and fricatives are somewhat retracted, and  and  are somewhat fronted.  is best described as a postalveolar, and  as alveolo-palatal.
+
+Finally, Greek has two phonetically affricate clusters,  and .  is reluctant to treat these as phonemes on the grounds of inconclusive research into their phonological behaviour.
+
+The table below, adapted from , displays a near-full array of consonant phones in Standard Modern Greek.
+
+{|class="wikitable" style="text-align: center;"
+|+ Consonant phones
+!
+!colspan="2"|Bilabial
+!colspan="2"|Labio-dental
+!colspan="2"|Dental
+!colspan="2"|Alveolar
+!colspan="2"|Retractedalveolar
+!colspan="2"|Post-alveolar
+!colspan="2"|Alveolo-palatal
+!colspan="2"|Retractedpalatal
+!colspan="2"|Velar
+|-
+!Nasal
+|style="border-right: 0;"| ||style="border-left: 0;"|
+|style="border-right: 0;"| ||style="border-left: 0;"|
+|style="border-right: 0;"| ||style="border-left: 0;"|
+|style="border-right: 0;"| ||style="border-left: 0;"|
+|style="border-right: 0;"| ||style="border-left: 0;"|
+|style="border-right: 0;"| ||style="border-left: 0;"|
+|style="border-right: 0;"| ||style="border-left: 0;"|
+|style="border-right: 0;"| ||style="border-left: 0;"|
+|style="border-right: 0;"| ||style="border-left: 0;"|
+|-
+!Stop
+| ||
+|colspan="2"|
+|colspan="2"|
+| ||
+|colspan="2"|
+|colspan="2"|
+|colspan="2"|
+| ||
+| ||
+|-
+!Affricate
+|colspan="2"|
+|colspan="2"|
+|colspan="2"|
+| ||
+|colspan="2"|
+|colspan="2"|
+|colspan="2"|
+|colspan="2"|
+|colspan="2"|
+|-
+!Fricative
+|colspan="2"|
+| ||
+| ||
+|colspan="2"|
+| ||
+|colspan="2"|
+|colspan="2"|
+| ||
+| ||
+|-
+!Approximant
+|colspan="2"|
+|colspan="2"|
+|colspan="2"|
+|colspan="2"|
+|style="border-right: 0;"| || style="border-left: 0;"|
+|colspan="2"|
+|colspan="2"|
+|colspan="2"|
+|colspan="2"|
+|-
+!Flap or tap
+|colspan="2"|
+|colspan="2"|
+|colspan="2"|
+|colspan="2"|
+|style="border-right: 0;"| || style="border-left: 0;"|
+|colspan="2"|
+|colspan="2"|
+|colspan="2"|
+|colspan="2"|
+|-
+!Trill
+|colspan="2"|
+|colspan="2"|
+|colspan="2"|
+|colspan="2"|
+|style="border-right: 0;"| || style="border-left: 0;"|
+|colspan="2"|
+|colspan="2"|
+|colspan="2"|
+|colspan="2"|
+|-
+!Lateral
+|colspan="2"|
+|colspan="2"|
+|colspan="2"|
+|style="border-right: 0;"| || style="border-left: 0;"|
+|colspan="2"|
+|style="border-right: 0;"| || style="border-left: 0;"|
+|colspan="2"|
+|colspan="2"|
+|colspan="2"|
+|}
+
+===Sandhi===
+Some assimilatory processes mentioned above also occur across word boundaries. In particular, this goes for a number of grammatical words ending in , most notably the negation particles  and  and the accusative forms of the personal pronoun and definite article  and . If these words are followed by a voiceless stop,  either assimilates for place of articulation to the stop, or is altogether deleted, and the stop - in both circumstances -  becomes voiced. This results in pronunciations such as   ('the father' ACC) or   ('it doesn't matter'), instead of  and . The precise extent of assimilation may vary according to dialect, speed and formality of speech. This may be compared with pervasive sandhi phenomena in Celtic languages, particularly nasalisation in Irish and in certain dialects of Scottish Gaelic.
+
+==Vowels==
+
+
+Greek has a system of five vowels . The first two have qualities approaching their respective cardinal vowels , the mid vowels  are true-mid  and the open  is near-open central .
+
+There is no phonemic length distinction, but vowels in stressed syllables are pronounced somewhat longer  than in unstressed syllables. Furthermore, vowels in stressed syllables are more peripheral, but the difference is not large. In casual speech, unstressed  and  in the vicinity of voiceless consonants may become devoiced or even elided.
+
+{| class="toccolours"
+|+ Examples for vowel phonemes
+|-
+| 
+| 
+| 'you go' subj.
+|-
+| 
+| 
+| 'say' imper.
+|-
+| 
+| 
+| 'you say' subj.
+|-
+| 
+| 
+| 'that' conj.
+|-
+| 
+| 
+| 'where'
+|}
+
+Modern Greek retains the fricativization that has existed in many varieties of Greek since at least the first century BCE. The phonetic values of ⟨αυ⟩, ⟨ευ⟩ and ⟨ηυ⟩ are ,  and  when they appear before a voiced consonant or a vowel and ,  and  otherwise (before voiceless consonants).
+
+==Stress==
+Unlike Ancient Greek, which had a pitch accent system, Modern Greek has variable (phonologically unpredictable) stress. Every multisyllabic word carries stress on one of its three final syllables. Enclitics form a single phonological word together with the host word to which they attach, and count towards the three-syllable rule too. In these cases, primary stress shifts to the second-to-last syllable (e.g.   'my car'). Phonetically, stressed syllables are longer, or carry higher amplitude, or both.
+
+The position of the stress can vary between different inflectional forms of the same word within its inflectional paradigm. In some paradigms, the stress is always on the third last syllable, shifting its position in those forms that have longer affixes (e.g.  'I called' vs.  'we called';  'problem' vs.  'problems'). In some word classes, stress position also preserves an older pattern inherited from Ancient Greek, according to which a word could not be accented on the third-from-last syllable if the last syllable was long, e.g.  ('man', nom. sg., last syllable short), but  ('of men', gen. pl., last syllable long). However, in Modern Greek this rule is no longer automatic and does not apply to all words (e.g.  'monk',  'of monks'), as the phonological length distinction itself no longer exists.
+
+==Sample==
+This sample text, the first sentence of Aesop's fable "The North Wind and the Sun" in Greek, and the accompanying transcription, are adapted from .
+
+===Orthographic version===
+
+
+
+===Transcription===
+
+
+==Notes==
+
+

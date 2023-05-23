@@ -1,0 +1,105 @@
+Title: Miglieglia
+
+Miglieglia (; ) is a municipality in the district of Lugano in the canton of Ticino in Switzerland.
+
+==History==
+Numerous, but inconclusive archaeological findings indicate that there may have been a Roman era settlement near the current municipality.  On a promontory overlooking the river Magliasina are the ruins known as Castello di Miglieglia.  These ruins were interpreted as remnants of an extensive fortification from the late Classical period.  Although is in not confirmed archaeologically, it is likely that the ruins are the remains of a fortified refuge, which was destroyed by the Milanese in 1156 during the conquest of the Diocese of Como.
+
+Miglieglia is first mentioned in 1214 as Mullielia.  In the Late Middle Ages, Miglieglia, Iseo, Cimo and Aranno formed the Concilium (neighborhood) of S. Maria Giovena.  In 1478 the village was destroyed in a fire.
+
+On a hill above the village rises the romanesque-style church of S. Stefano.  Probably the oldest part of the church is the bell tower.  During the Gothic period, the church was extended.  The chancel frescoes are from 1511.  The parish was formed in 1621 after the secession of Agno.  The new, parish church of St. Stefan is from the 17th century.
+
+Agriculture and livestock formerly dominated the village economy.  In the 19th century it was partly depopulated because of emigration to German-speaking Switzerland, northern Italy and America.  In the second half of the 19th century a mine operated for a short time.  A chair lift opened in 1952 to Monte Lema () and expanded in 1997 with a cable car.
+
+==Geography==
+thumb|Aerial view (1948)
+Miglieglia has an area, , of .  Of this area,  or 3.9% is used for agricultural purposes, while  or 76.2% is forested.   Of the rest of the land,  or 2.1% is settled (buildings or roads),  or 0.4% is either rivers or lakes and  or 9.9% is unproductive land.
+
+Of the built up area, housing and buildings made up 1.4% and transportation infrastructure made up 0.4%.  Out of the forested land, 68.0% of the total land area is heavily forested and 2.9% is covered with orchards or small clusters of trees.  Of the agricultural land, 2.5% is used for growing crops and 1.4% is used for alpine pastures.  All the water in the municipality is flowing water.  Of the unproductive areas, 9.7% is unproductive vegetation.Altitudine, superficie, secondo il genere di utilizzazione, rilevazione 1992/1997, e densità della popolazione, nel 2000   accessed 25 October 2010
+
+The municipality is located in the Lugano district, on a terrace in the upper Malcantone valley at the foot of Monte Lema.  It consists of the village of Miglieglia and the abandoned village of Tortoglio (first mentioned in 1335 as Tortolio), that was abandoned in the 16th century after an epidemic.  The division of Tortoglio's land led to a long running fight with Breno that was not resolved until 1890.
+
+==Coat of arms==
+The blazon of the municipal coat of arms is Gules an oak tree eradicated vert acorned or between a chestnut and a walnut both or.  All the symbols (oak, chestnut, walnut) refer to the typical vegetation of the area.Flags of the World.com accessed 14-January-2011
+
+==Demographics==
+Miglieglia has a population () of .  , 10.8% of the population are resident foreign nationals.Swiss Federal Statistical Office - Superweb database - Gemeinde Statistics 1981-2008   accessed 19 June 2010  Over the last 10 years (1997–2007) the population has changed at a rate of 12.3%.
+
+Most of the population () speaks Italian (80.5%), with German being second most common (10.2%) and French being third (4.2%).Swiss Federal Statistical Office  accessed 14-January-2011  Of the Swiss national languages (), 22 speak German, 9 people speak French, 173 people speak Italian.  The remainder (11 people) speak another language.Popolazione residente, secondo la lingua principale e la religione, nel 2000   accessed 23 November 2010
+
+, the gender distribution of the population was 49.1% male and 50.9% female.  The population was made up of 117 Swiss men (42.9% of the population), and 17 (6.2%) non-Swiss men.  There were 129 Swiss women (47.3%), and 10 (3.7%) non-Swiss women.
+
+In  there were 6 live births to Swiss citizens and were 4 deaths of Swiss citizens.  Ignoring immigration and emigration, the population of Swiss citizens increased by 2 while the foreign population remained the same.  There was 1 Swiss man and 4 Swiss women who emigrated from Switzerland.  At the same time, there .  The total Swiss population change in 2008 (from all sources, including moves across municipal borders) was a decrease of 10 and the non-Swiss population change was a decrease of 5 people.  This represents a population growth rate of -5.3%.
+
+The age distribution, , in Miglieglia is; 39 children or 14.3% of the population are between 0 and 9 years old and 19 teenagers or 7.0% are between 10 and 19.  Of the adult population, 16 people or 5.9% of the population are between 20 and 29 years old.  46 people or 16.8% are between 30 and 39, 52 people or 19.0% are between 40 and 49, and 32 people or 11.7% are between 50 and 59.  The senior population distribution is 31 people or 11.4% of the population are between 60 and 69 years old, 30 people or 11.0% are between 70 and 79, there are 8 people or 2.9% who are over 80.01.02.03 Popolazione residente permanente   accessed 23 November 2010
+
+, there were 100 private households in the municipality, and an average of 2.1 persons per household.   there were 105 single family homes (or 83.3% of the total) out of a total of 126 inhabited buildings.  There were 14 two family buildings (11.1%) and 2 multi-family buildings (1.6%).  There were also 5 buildings in the municipality that were multipurpose buildings (used for both housing and commercial or another purpose). 09.02.01 Edifici   accessed 23 November 2010
+
+The vacancy rate for the municipality, , was 0%.   there were 141 apartments in the municipality.  The most common apartment size was the 4 room apartment of which there were 39.  There were 10 single room apartments and 39 apartments with five or more rooms.  09.02.02 Abitazioni   accessed 23 November 2010  Of these apartments, a total of 100 apartments (70.9% of the total) were permanently occupied, while 38 apartments (27.0%) were seasonally occupied and 3 apartments (2.1%) were empty.  , the construction rate of new housing units was 0 new units per 1000 residents.
+
+The historical population is given in the following chart:Popolazione residente, dal 1850   accessed 23 November 2010
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.8)
+ImageSize  = width:1020 height:210
+PlotArea   = height:150 left:100 bottom:50 right:100
+AlignBars  = justify
+DateFormat = x.y
+Period     = from:0 till:340
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:100 start:0
+ScaleMinor = gridcolor:lightgrey increment:20 start:0
+PlotData=
+  color:yellowgreen width:40   mark:(line,white) align:center
+  bar:1591 from:start till:257 text:"257"
+  bar:1850 from:start till:314 text:"314"
+  bar:1860 from:start till:305 text:"305"
+  bar:1870 from:start till:334 text:"334"
+  bar:1880 from:start till:321 text:"321"
+  bar:1890 from:start till:298 text:"298"
+  bar:1900 from:start till:289 text:"289"
+  bar:1910 from:start till:292 text:"292"
+  bar:1920 from:start till:290 text:"290"
+  bar:1930 from:start till:228 text:"228"
+  bar:1941 from:start till:232 text:"232"
+  bar:1950 from:start till:222 text:"222"
+  bar:1960 from:start till:198 text:"198"
+  bar:1970 from:start till:197 text:"197"
+  bar:1980 from:start till:184 text:"184"
+  bar:1990 from:start till:210 text:"210"
+  bar:2000 from:start till:215 text:"215"
+
+
+==Heritage sites of national significance==
+The Church of S. Stefano Al Colle with ossuary is listed as a Swiss heritage site of national significance.
+
+==Politics==
+In the 2007 federal election the most popular party was the SP which received 35.03% of the vote.  The next three most popular parties were the Ticino League (17.6%), the FDP (15.79%) and the SVP (11.84%).  In the federal election, a total of 77 votes were cast, and the voter turnout was 40.1%.Swiss Federal Statistical Office, Nationalratswahlen 2007: Stärke der Parteien und Wahlbeteiligung, nach Gemeinden/Bezirk/Canton   accessed 28 May 2010
+
+In the  Gran Consiglio election, there were a total of 195 registered voters in Miglieglia, of which 122 or 62.6% voted.  3 blank ballots were cast, leaving 119 valid ballots in the election.  The most popular party was the PS which received 40 or 33.6% of the vote.  The next three most popular parties were; the PLRT (with 21 or 17.6%), the SSI (with 19 or 16.0%) and the LEGA (with 17 or 14.3%). Elezioni cantonali: Gran Consiglio, Consiglio di Stato   accessed 23 November 2010
+
+In the  Consiglio di Stato election, 2 blank ballots were cast, leaving 119 valid ballots in the election.  The most popular party was the PS which received 37 or 31.1% of the vote.  The next three most popular parties were; the LEGA (with 25 or 21.0%), the PLRT (with 20 or 16.8%) and the PLRT (with 20 or 16.8%).
+
+==Economy==
+, Miglieglia had an unemployment rate of 3.66%.  , there were 9 people employed in the primary economic sector and about 3 businesses involved in this sector.  2 people were employed in the secondary sector and there were 2 businesses in this sector.  20 people were employed in the tertiary sector, with 6 businesses in this sector.  There were 91 residents of the municipality who were employed in some capacity, of which females made up 40.7% of the workforce.
+
+, there were 22 workers who commuted into the municipality and 66 workers who commuted away.  The municipality is a net exporter of workers, with about 3.0 workers leaving the municipality for every one entering.  About 22.7% of the workforce coming into Miglieglia are coming from outside Switzerland.Swiss Federal Statistical Office - Statweb   accessed 24 June 2010  Of the working population, 14.3% used public transportation to get to work, and 62.6% used a private car.
+
+, there was one hotel in Miglieglia. Settori alberghiero e paralberghiero   accessed 23 November 2010
+
+==Religion==
+From the , 145 or 67.4% were Roman Catholic, while 17 or 7.9% belonged to the Swiss Reformed Church.  There are 42 individuals (or about 19.53% of the population) who belong to another church (not listed on the census), and 11 individuals (or about 5.12% of the population) did not answer the question.
+
+==Education==
+In Miglieglia about 69.5% of the population (between age 25 and 64) have completed either non-mandatory upper secondary education or additional higher education (either university or a Fachhochschule).
+
+In Miglieglia there were a total of 39 students ().  The Ticino education system provides up to three years of non-mandatory kindergarten and in Miglieglia there were 12 children in kindergarten.  The primary school program lasts for five years.  In the municipality, 11 students attended the standard primary schools.  In the lower secondary school system, students either attend a two-year middle school followed by a two-year pre-apprenticeship or they attend a four-year program to prepare for higher education.  There were 8 students in the two-year middle school, while 1 students were in the four-year advanced program.
+
+The upper secondary school includes several options, but at the end of the upper secondary program, a student will be prepared to enter a trade or to continue on to a university or college.  In Ticino, vocational students may either attend school while working on their internship or apprenticeship (which takes three or four years) or may attend school followed by an internship or apprenticeship (which takes one year as a full-time student or one and a half to two years as a part-time student).  There were 3 vocational students who were attending school full-time and 3 who attend part-time.
+
+The professional program lasts three years and prepares a student for a job in engineering, nursing, computer science, business, tourism and similar fields.  There was 1 student in the professional program. Allievi e studenti, secondo il genere di scuola, anno scolastico 2009/2010   accessed 23 November 2010
+
+, there were 25 students from Miglieglia who attended schools outside the municipality.
+

@@ -1,0 +1,73 @@
+Title: Santosham Best Actress Award
+
+
+
+The Santosham Best Actress Award is given by the Santosham Film magazine as part of its annual Santosham Film Awards for Telugu films. The award was first given to Asin in 2003. Here is a list of the award winners and the films for which they won.
+
+==Superlatives==
+{| class="wikitable" style="text-align: center"
+|-
+!width="25"|Superlative
+!colspan="2" width="100"|Best Actress
+|-style="height:2.5em;"
+| rowspan="2" width="250" |Most awards
+|width="150"|Anushka Shetty 
+| rowspan="2" |3 awards
+|-
+|Samantha
+|- style="height:2.5em;"
+| rowspan="2" width="250" |Second most winner  
+| width="150" |Shriya Saran
+| rowspan="2" |2 awards
+|-
+|Trisha Krishnan
+|}
+
+==Winners==
+{| cellspacing="1" cellpadding="1" border="0" style="width:50%;"
+|- style="background:#d1e4fd;"
+! Year || Actress || Film || Ref
+|-
+|2021
+| Tamannaah
+|F2: Fun and Frustration
+|
+|-style="background:#edf3fe;"
+|2017
+|Shriya Saran
+|Gautamiputra Satakarni
+|
+|-
+| 2016 ||Samantha || A Aa ||
+|-
+|-style="background:#edf3fe;"
+| 2015 ||Anushka Shetty || Rudhramadevi ||
+|- style="background:#edf3fe;"
+
+|-
+| 2014 || Shriya Saran || Manam ||http://www.iluvcinema.in/telugu/santosham-awards-2015-winners-list-ram-charan-bags-the-best-actor-award/
+|-style="background:#edf3fe;"
+| 2013 || Samantha || Attarintiki Daredi ||http://www.idlebrain.com/news/functions1/santoshamawrds2014.html 
+|-
+| 2012 || Samantha || Eega || 
+|-
+|- style="background:#edf3fe;"
+| 2011 || Nayanthara || Sri Rama Rajyam || 
+|-
+| 2010 || Anushka Shetty || Vedam ||
+|- style="background:#edf3fe;"
+| 2009 || Anushka Shetty || Arundhati || 
+|-
+| 2008 || Ileana D'Cruz|| Jalsa  || 
+|- style="background:#edf3fe;"
+| 2007 || Bhumika Chawla || Anasuya || 
+|-
+| 2006 || Genelia D'Souza || Bommarillu || 
+|- style="background:#edf3fe;"
+| 2005 || Charmy Kaur || Anukokunda Oka Roju|| 
+|-
+| 2004 || Trisha || Varsham || 
+|- style="background:#edf3fe;"
+| 2003 ||  Asin || Sivamani || 
+|}
+

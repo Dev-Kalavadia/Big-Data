@@ -1,0 +1,107 @@
+Title: NightRider (bus service)
+
+
+
+
+The NightRider was a network of bus services in Melbourne, Australia. It operated on weekends and for special events from the Melbourne central business district to the outer suburbs on 13 routes, with over 300 stops between 01:30 (00:00 on the Doncaster route) and 04:30 on Saturdays and 05:30 on Sundays. NightRider ceased operation on 27 December 2015, being replaced by Night Network's Night Bus services which commenced operation in 2016.Night Bus Public Transport Victoria
+
+==History==
+The NightRider network was launched in May 1993 with nine routes all originating on Swanston Street.Night Rider Australian Bus Panorama issue 8/9 June 1993 page 32 They were the first night routes in Melbourne after the Melbourne & Metropolitan Tramways Board withdrew its services in the 1960s.Nightrider Services Australian Bus Panorama issue 8/2 September 1992 page 27
+
+In November 2008, the NightRider network was overhauled. The logo and branding were replaced, and operators of several routes changed. New routes commenced to Doncaster, Healesville and Cranbourne. Frequencies were increased from 60 to 30 minutes. Due to Metro Trains Melbourne now running until 01:00, the first services were revised to depart at 01:30 instead of 00:30 on most services.
+
+Route numbers were issued by Metlink for the first time (previously some operators did display them on buses) and are all in the 900 series, with the numbers corresponding to the predominant route number allocations at the outer termini. For example, many buses in the Dandenong area were in the 800s, hence the number 980 and 981 was allocated to them.
+
+Originally fares were set at a flat $5 regardless of distance travelled. From March 2007 standard Metcard tickets were adopted for use on the service.Media Release: Nightrider Now Included in Metcard Fare Department of Premier & Cabinet 2 March 2007
+
+Buses were labelled with a large NightRider logo, and text saying "NightRider – The after midnight bus service".
+
+==Routes==
+Buses ran half hourly from 01:30 (00:00 on Doncaster route 961) to 04:30 on Saturdays and 05:30 on Sundays on the following routes:NightRider buses Public Transport Victoria
+{|class="wikitable sortable" border="1"
+!scope="col"align="center"|Route
+!scope="col"|From
+!scope="col"|To
+!scope="col"|Via
+!scope="col"|Operator
+|-
+!align="center" style="font-style:bold; font-size:100%; background:#000000;"|942
+|City
+|St Albans
+|Footscray, Sunshine & Deer Park
+|Dysons
+|-
+!align="center" style="font-style:bold; font-size:100%; background:#000000;"|943
+|Deer Park
+|Melton
+|Rockbank
+|Dysons
+|-
+!align="center" style="font-style:bold; font-size:100%; background:#000000;"|944
+|City
+|Werribee
+|Spotswood, Newport & Hoppers Crossing
+|Dysons
+|-
+!align="center" style="font-style:bold; font-size:100%; background:#000000;"|954
+|City
+|Craigieburn
+|Moonee Ponds, Essendon & Broadmeadows
+|Dysons
+|-
+!align="center" style="font-style:bold; font-size:100%; background:#000000;"|956
+|City
+|Epping
+|Brunswick, Coburg & Preston
+|Dysons
+|-
+!align="center" style="font-style:bold; font-size:100%; background:#000000;"|958
+|City
+|Eltham
+|Fitzroy, Northcote & Heidelberg
+|Dysons
+|-
+!align="center" style="font-style:bold; font-size:100%; background:#000000;"|961
+|City
+|Doncaster
+|Bulleen & Templestowe
+|Dysons
+|-
+!align="center" style="font-style:bold; font-size:100%; background:#000000;"|965
+|Lilydale
+|Healesville
+|Yarra Glen, Woori & Yallock
+|McKenzie's Tourist Services
+|-
+!align="center" style="font-style:bold; font-size:100%; background:#000000"|966
+|City
+|Croydon
+|Balwyn, Box Hill & Lilydale
+|Ventura Bus Lines
+|-
+!align="center" style="font-style:bold; font-size:100%; background:#000000;"|968
+|City
+|Belgrave
+|South Yarra, Glen Waverley & Westfield Knox
+|Ventura Bus Lines
+|-
+!align="center" style="font-style:bold; font-size:100%; background:#000000;"|970
+|City
+|Mornington
+|St Kilda, Mentone & Frankston
+|Ventura Bus Lines
+|-
+!align="center" style="font-style:bold; font-size:100%; background:#000000;"|980
+|City
+|Dandenong
+|Prahran, Monash University & Springvale
+|Ventura Bus Lines
+|-
+!align="center" style="font-style:bold; font-size:100%; background:#000000;"|981
+|Dandenong
+|Cranbourne
+|Narre Warren, Berwick & Hampton Park
+|Ventura Bus Lines
+|-
+|}
+

@@ -1,0 +1,65 @@
+Title: Legislative districts of Baguio
+The legislative districts of Baguio are the representations of the highly urbanized city of Baguio in the various national legislatures of the Philippines. The city is currently represented in the lower house of the Congress of the Philippines through its lone congressional district.
+
+== History ==
+
+In 1917, the city of Baguio, along with the undivided Mountain Province, was provided representation in the Philippine Legislature. Pursuant to the Revised Administrative Code (Act No. 2711) enacted on March 10, 1917, the non-Christian-majority areas of the Philippines, which then included the Mountain Province and Baguio, were to be collectively represented in the legislature's upper house by two senators from the 12th senatorial district, both appointed by the Governor-General. Three assembly members, also appointed by the Governor-General, were to represent the Mountain Province and the chartered city of Baguio in the lower house as a single at-large district.
+
+The residents of Baguio and the Mountain Province only began electing representatives through popular vote in 1935 by virtue of Act No. 4203; the law provided the territorial coverage for each lower house representative district, while also abolishing the senatorial district system. The city was then represented as part of the Mountain Province's second district, which also included the sub-province of Benguet.
+
+Areas now under the jurisdiction of Baguio were first represented separately during the Second World War. As a chartered city, two delegates represented Baguio in the National Assembly of the Japanese-sponsored Second Philippine Republic: one was the city mayor (an ex officio member), while the other was elected through an assembly of KALIBAPI members within the city during the Japanese occupation of the Philippines. Upon the restoration of the Philippine Commonwealth in 1945, the city reverted to its pre-war representation with the sub-province of Benguet as part of the undivided Mountain Province's second district.
+
+The enactment of Republic Act No. 4695 on June 18, 1966 made the sub-province of Benguet into a full-fledged province. Per Section 10 of R.A. 4695 Baguio was to be part of the newly independent province's representative district. The new province of Benguet, along with Baguio, together elected one representative starting in the next general election.
+
+Baguio was represented in the Interim Batasang Pambansa as part of Region I from 1978 to 1984. Having been classified as a highly urbanized city on 22 December 1979 through Batas Pambansa Blg. 51, Baguio was granted separate representation in the Regular Batasang Pambansa, returning one representative, elected at-large in 1984.
+
+The city was once more grouped with Benguet under the new Constitution which was proclaimed on 11 February 1987. Baguio, despite being an independent city since 1909, comprised what was legally known between 1987 and 1995 as the first district of Benguet, while the territory of the actual province of Benguet itself comprised the second district. Both elected members to the restored House of Representatives starting that same year.
+
+Starting in 1992, the first district of Benguet was re-designated as the "Legislative district of Baguio" thereby permitting the city to once again elect a representative under its own name.
+
+== Current districts ==
+{| class="wikitable sortable" style="margin: 1em auto; font-size:100%; line-height:20px; text-align:center"
+|+Legislative Districts and Congressional Representatives of Baguio
+|-
+!District
+! colspan="3" | Current Representative
+!Party
+! Population (2020)
+! Area
+|-
+!Lone
+| style="background:;" |
+|150x150px
+| style="text-align:left;" |Marquez Go(since 2016)
+|Nacionalista
+| 366,358
+| 57.51 km2 
+|}
+
+== At-Large (defunct) ==
+=== 1943-1944 ===
+{| class="wikitable" style="text-align:center; width:40%;"
+|-
+! width="40%"| Period
+! Representatives
+|-
+| rowspan="2"| National Assembly1943–1944
+| Florendo Aquino
+|-
+| Nicasio S. Valderrosa (ex officio)
+|}
+
+=== 1984-1986 ===
+{| class="wikitable" style="text-align:center; width:40%;"
+|-
+! width="40%"| Period
+! Representatives
+|-
+| Regular Batasang Pambansa1984–1986
+| Honorato Y. Aquino
+|}
+
+==See also==
+*Legislative district of Mountain Province
+*Legislative district of Benguet
+

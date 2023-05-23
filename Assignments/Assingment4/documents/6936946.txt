@@ -1,0 +1,48 @@
+Title: Plasmodium yoelii
+
+
+Plasmodium yoelii is a parasite of the genus Plasmodium subgenus Vinckeia. As in all Plasmodium species, P. yoelii has both vertebrate and insect hosts. The vertebrate hosts for this parasite are mammals.
+
+== Taxonomy ==
+This species was described in 1968 by Landau, Michel and Adam. Three subspecies are recognised: P. y. killicki, P. y. nigeriensis and P. y. yoelli.
+
+=== Strains ===
+*P. yoelii 
+
+== Distribution ==
+This species occurs in Africa.
+
+== Vectors ==
+The natural vectors of this species are not currently known. One possible is the female Anopheles mosquito which serves as a vector for Plasmodium vivax.
+
+== Hosts ==
+This species infects Thamnomys rutilans.
+
+== Pathogenesis ==
+P. yoelii impairs immune responses including impairing responses to other pathogens. Fewer granulocytes move out from the bone marrow and in a separate action induces the rodent's own heme oxygenase 1 (HO-1). Although HO-1 induction is a tolerance response by the host to malaria  preventing damage caused by the host's own immune response  the reduced reactive oxygen species production takes away a weapon vital to fighting some unrelated microbes. Cunnington et al. 2012 find mice tolerating P. yoelii 17XNL do not clear coinfections with other pathogens as easily as they normally would.
+
+== Notes ==
+It is used in the laboratory to infect mice, as a model of human malaria, particularly with respect to the immune response. It is advantageous to have a whole-animal model of malaria because often it is difficult to know which factors to study in vitro, particularly in a complex system like the immune system.  Moreover, for many experiments it is not ethical or practical to use humans.
+
+One of the special things about this particular model is that it has two strains with vastly different pathogenicity.  These are generally referred to as the "lethal" and "non-lethal" strains of the species. Comparison of these two strains can be used to deduce which factors may contribute to more serious malaria infections in humans.
+
+== References ==
+
+
+== Further reading ==
+* 
+* 
+* 
+* 
+* 
+* 
+
+== External links ==
+
+;Information about the genome and genes of P. yoelii:
+*www.genedb.org/Homepage/PyoeliiYM
+
+
+
+yoelii
+Category:Parasites of rodents

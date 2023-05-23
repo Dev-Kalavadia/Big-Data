@@ -1,0 +1,72 @@
+Title: Batch distillationBatch distillation refers to the use of distillation in batches, meaning that a mixture is distilled to separate it into its component fractions before the distillation still is again charged with more mixture and the process is repeated. This is in contrast with continuous distillation where the feedstock is added and the distillate drawn off without interruption.
+Batch distillation has always been an important part of the production of seasonal, or low capacity and high-purity chemicals. It is a very frequent separation process in the pharmaceutical industry.
+
+==Batch rectifier==
+frame|right|Diagram of a Batch Rectifier
+The simplest and most frequently used batch distillation configuration is the batch rectifier, including the alembic and pot still.
+The batch rectifier consists of a pot (or reboiler), rectifying column, a condenser, some means of splitting off a portion of the condensed vapour (distillate) as reflux, and one or more receivers.
+
+The pot is filled with liquid mixture and heated. Vapour flows upwards in the rectifying column and condenses at the top. Usually, the entire condensate is initially returned to the column as reflux. This contacting of vapour and liquid considerably improves the separation. Generally, this step is named start-up. The first condensate is the head, and it contains undesirable components. The last condensate is the feints and it is also undesirable, although it adds flavor. In between is the heart and this forms the desired product.
+
+The head and feints may be thrown out, refluxed, or added to the next batch of mash/juice, according to the practice of the distiller. After some time, a part of the overhead condensate is withdrawn continuously as distillate and it is accumulated in the receivers, and the other part is recycled into the column as reflux.
+
+Owing to the differing vapour pressures of the distillate, there will be a change in the overhead distillation with time, as early on in the batch distillation, the distillate will contain a high concentration of the component with the higher relative volatility. As the supply of the material is limited and lighter components are removed, the relative fraction of heavier components will increase as the distillation progresses.
+
+==Batch stripper==
+
+frame|right|Diagram of a Batch Stripper
+The other simple batch distillation configuration is the batch stripper. The batch stripper consists of the same parts as the batch rectifier. However, in this case, the charge pot is located above the stripping column.
+
+During operation (after charging the pot and starting up the system) the high boiling constituents are primarily separated from the charge mixture. The liquid in the pot is depleted in the high boiling constituents, and enriched in low boiling ones. The high boiling product is routed into the bottom product receivers. The residual low boiling product is withdrawn from the charge pot. This mode of batch distillation is very seldom applied in industrial processes.
+frame|right|Diagram of a Middle Vessel Column
+
+==Middle vessel column==
+
+A third feasible batch column configuration is the middle vessel column. The middle vessel column consists of both a rectifying and a stripping section and the charge pot is located at the middle of the column.
+
+== Feasibility studies==
+
+Generally, the feasibility studies of batch distillation are based on analyses of the following maps:
+
+* Residue curve map 
+* still path map
+* distillate path map 
+* different column profile maps
+
+During the feasibility studies, the following basic simplifying assumptions are made:
+
+* infinite number of equilibrium stages
+* infinite reflux ratio
+* negligible tray hold-up in the two column sections
+* quasi-steady state in the column
+* constant molar overflow
+
+Bernot et al. used the batch distillation regions to determine the sequence of the fractions. According to Ewell and Welch, a batch distillation region gives the same fractions upon rectification of any mixture lying within it. Bernot et al. examined the still and distillate paths for the determination of the region boundaries under high number of stages and high reflux ratio, named maximal separation. Pham and Doherty in pioneering work described the structure and properties of residue curve maps for ternary heterogeneous azeotropic mixtures. In their model, the possibility of the phase separation of the vapour condensed is not taken into consideration yet. The singular points of the residue curve maps determined by this method were used to assign batch distillation regions by Rodriguez-Donis et al. and Skouras et al. Modla et al. pointed out that this method may give misleading results for the minimal amount of entrainer. Lang and Modla extended the method of Pham and Doherty and suggested a new, general method for the calculation of residue curves and for the determination of batch distillation regions of heteroazeotropic distillation.
+
+Lelkes et al.  published a feasibility method for the separation of minimum boiling point azeotropes by continuously entrainer feeding batch distillation. This method has been applied for the use of a light entrainer in the batch rectifier and stripper by Lang et al. (1999) and it applied for maximum azeotropes by Lang et al. Modla et al. extended this method for batch heteroazeotropic distillation under continuous entrainer feeding.
+
+== See also ==
+*Azeotropic distillation
+*Extractive distillation
+*Fractional distillation
+*Heteroazeotrope
+*Steam distillation
+*Vacuum distillation
+*Theoretical plate
+
+== References ==
+
+
+==Further reading==
+* 
+* 
+* 
+* Hilmen Eva-Katrine, Separation of Azeotropic Mixtures:Tools for Analysis and Studies on Batch Distillation Operation, Thesis, Norwegian University of Science and Technology Department of Chemical Engineering, (2000).
+*
+
+==External links==
+*Batch distillation program online Batch distillation of the hydrocarbon compounds.
+
+
+
+Category:Distillation

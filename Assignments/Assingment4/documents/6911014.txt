@@ -1,0 +1,42 @@
+Title: Donald D. Chamberlin
+
+
+
+Donald D. Chamberlin is an American computer scientist who is one of the principal designers of the original SQL language specification with Raymond Boyce. He also made significant contributions to the development of XQuery.
+
+Chamberlin was elected a member of the National Academy of Engineering in 1997 for contributions to the SQL database query language.
+
+==Biography==
+Donald D. Chamberlin was born in San Jose, California. After attending Campbell High School, he studied engineering at Harvey Mudd College from where he holds a BS. After graduating, he went to Stanford University on a National Science Foundation grant. At Stanford, he studied electrical engineering and minored in computer science. Chamberlin holds an MSc and a PhD degree in electrical engineering from Stanford University. After graduating, Chamberlin went to work for IBM Research at the Yorktown Heights research facility in New York, where he had previously had a summer internship.
+
+Chamberlin is best known as co-inventor of SQL (Structured Query Language), the world's most widely used database language. Developed in the mid-1970s by Chamberlin and Raymond Boyce, SQL was the first commercially successful language for relational databases. Chamberlin also was one of the managers of IBM's System R project, which produced the first SQL implementation and developed much of IBM's relational database technology. System R, together with the Ingres project at U.C. Berkeley, received the ACM Software System Award in 1988.
+Until his retirement in 2009, he was based at the Almaden Research Center. He was appointed an IBM Fellow in 2003.
+
+In 2000, jointly with Jonathan Robie and Daniela Florescu, he drafted a proposal for an XML query language called Quilt. Many ideas from this proposal found their way into the XQuery language specification, which was developed by W3C with Chamberlin as an editor. XQuery became a W3C Recommendation in January 2007.
+
+Chamberlin is also an ACM Fellow, IEEE Fellow, and a member of the National Academy of Engineering. In 2005, he was awarded an honorary doctorate by the University of Zurich.
+
+In 2009, he was made a Fellow of the Computer History Museum "for his fundamental work on structured query language (SQL) and database architectures."
+
+==Research==
+In 1988, Chamberlin was awarded the ACM Software Systems Award for his work on System R.
+
+==Current work==
+Donald Chamberlin joined Couchbase, Inc. as Technical Advisor in 2015.http://www.bizjournals.com/sanjose/potmsearch/detail/submission/5279522/Donald_D_Chamberlin
+
+==Bibliography==
+He is the author of two books on IBM's DB2 UDB, and more than 50 technical papers.
+
+He contributed a chapter (and the cover photograph) to the 2003 book XQuery from the Experts, .
+
+He contributed a chapter titled Sharing Our Planet to the 1997 book Beyond Calculation: the Next Fifty Years of Computing, .
+
+He has also contributed problems and served as a judge for the ACM International Collegiate Programming Contest for seventeen consecutive years (1998–2014).
+
+He is the author of the book SQL++ For SQL Users: A Tutorial, .
+
+==External links==
+* Chamberlin's bio at IBM Research
+* Oral history interview with Donald Chamberlin, dated October 2001. Archived at Charles Babbage Institute.
+* Oral history interview with Donald Chamberlin, dated July 2009. Archived at Computer History Museum.
+

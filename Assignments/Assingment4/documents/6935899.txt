@@ -1,0 +1,251 @@
+Title: List of municipalities of the Metropolitan City of Catania
+
+The following is a list of the 58 municipalities (comuni) of the Metropolitan City of Catania, Sicily, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|087001
+|Aci Bonaccorsi
+| align="right" |2,695
+|-
+|087002
+|Aci Castello
+| align="right" |18,117
+|-
+|087003
+|Aci Catena
+| align="right" |27,895
+|-
+|087004
+|Acireale
+| align="right" |52,206
+|-
+|087005
+|Aci Sant'Antonio
+| align="right" |16,692
+|-
+|087006
+|Adrano
+| align="right" |35,611
+|-
+|087007
+|Belpasso
+| align="right" |21,841
+|-
+|087008
+|Biancavilla
+| align="right" |23,176
+|-
+|087009
+|Bronte
+| align="right" |19,142
+|-
+|087010
+|Calatabiano
+| align="right" |5,286
+|-
+|087011
+|Caltagirone
+| align="right" |39,228
+|-
+|087012
+|Camporotondo Etneo
+| align="right" |3,360
+|-
+|087013
+|Castel di Judica
+| align="right" |4,758
+|-
+|087014
+|Castiglione di Sicilia
+| align="right" |3,574
+|-
+|087015
+|Catania
+| align="right" |305,773
+|-
+|087016
+|Fiumefreddo di Sicilia
+| align="right" |9,683
+|-
+|087017
+|Giarre
+| align="right" |26,808
+|-
+|087018
+|Grammichele
+| align="right" |13,225
+|-
+|087019
+|Gravina di Catania
+| align="right" |28,068
+|-
+|087020
+|Licodia Eubea
+| align="right" |3,228
+|-
+|087021
+|Linguaglossa
+| align="right" |5,401
+|-
+|087022
+|Maletto
+| align="right" |4,051
+|-
+|087023
+|Mascali
+| align="right" |12,066
+|-
+|087024
+|Mascalucia
+| align="right" |26,068
+|-
+|087025
+|Militello in Val di Catania
+| align="right" |8,015
+|-
+|087026
+|Milo
+| align="right" |1,070
+|-
+|087027
+|Mineo
+| align="right" |5,432
+|-
+|087028
+|Mirabella Imbaccari
+| align="right" |6,602
+|-
+|087029
+|Misterbianco
+| align="right" |45,961
+|-
+|087030
+|Motta Sant'Anastasia
+| align="right" |10,431
+|-
+|087031
+|Nicolosi
+| align="right" |6,560
+|-
+|087032
+|Palagonia
+| align="right" |16,402
+|-
+|087033
+|Paternò
+| align="right" |48,997
+|-
+|087034
+|Pedara
+| align="right" |11,233
+|-
+|087035
+|Piedimonte Etneo
+| align="right" |3,780
+|-
+|087036
+|Raddusa
+| align="right" |3,433
+|-
+|087037
+|Ramacca
+| align="right" |10,630
+|-
+|087038
+|Randazzo
+| align="right" |11,287
+|-
+|087039
+|Riposto
+| align="right" |14,619
+|-
+|087040
+|San Cono
+| align="right" |2,941
+|-
+|087041
+|San Giovanni la Punta
+| align="right" |20,385
+|-
+|087042
+|San Gregorio di Catania
+| align="right" |10,785
+|-
+|087043
+|San Michele di Ganzaria
+| align="right" |4,343
+|-
+|087044
+|San Pietro Clarenza
+| align="right" |6,313
+|-
+|087045
+|Sant'Agata li Battiati
+| align="right" |9,939
+|-
+|087046
+|Sant'Alfio
+| align="right" |1,677
+|-
+|087047
+|Santa Maria di Licodia
+| align="right" |6,788
+|-
+|087048
+|Santa Venerina
+| align="right" |8,148
+|-
+|087049
+|Scordia
+| align="right" |17,202
+|-
+|087050
+|Trecastagni
+| align="right" |8,936
+|-
+|087051
+|Tremestieri Etneo
+| align="right" |21,144
+|-
+|087052
+|Valverde
+| align="right" |7,468
+|-
+|087053
+|Viagrande
+| align="right" |7,225
+|-
+|087054
+|Vizzini
+| align="right" |7,017
+|-
+|087055
+|Zafferana Etnea
+| align="right" |8,648
+|-
+|087056
+|Mazzarrone
+| align="right" |3,727
+|-
+|087057
+|Maniace
+| align="right" |3,606
+|-
+|087058
+|Ragalna
+| align="right" |3,187
+|-
+|
+|Total
+| align="right" |1,071,883
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

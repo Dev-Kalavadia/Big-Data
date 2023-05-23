@@ -1,0 +1,579 @@
+Title: List of tallest structures in Austria
+
+
+
+
+
+
+
+
+
+
+
+
+
+thumb|right|Kraftwerk Riedersbach
+A list of tallest structures and buildings in Austria. The list contains all types of structures. Please expand and correct this list.
+The tallest buildings are listed in the List of tallest buildings in Austria.
+
+{| class="wikitable sortable"
+|- bgcolor=#DDDDDD
+!Construction
+!Location
+!Height
+!Structural type
+!Coordinates
+|-
+| style="padding-left: 1em" | Donauturm
+| style="padding-left: 1em" | Vienna
+| style="padding-left: 1em" | 252 m
+| style="padding-left: 1em" | concrete watchtower
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | DC tower 1
+| style="padding-left: 1em" | Vienna
+| style="padding-left: 1em" | 248 m
+| style="padding-left: 1em" | skyscraper
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | chimney of Dürnrohr power station
+| style="padding-left: 1em" | Dürnrohr
+| style="padding-left: 1em" | 210 m
+| style="padding-left: 1em" | chimney
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Millennium tower
+| style="padding-left: 1em" | Vienna
+| style="padding-left: 1em" | 202 m
+| style="padding-left: 1em" | skyscraper
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Kölnbrein dam
+| style="padding-left: 1em" | Malta
+| style="padding-left: 1em" | 200 m
+| style="padding-left: 1em" | dam
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | chimney of Simmering power station
+| style="padding-left: 1em" | Vienna
+| style="padding-left: 1em" | 200 m
+| style="padding-left: 1em" | chimney
+| style="padding-left: 1em" | ;  ; 
+|-
+| style="padding-left: 1em" | Europabrücke
+| style="padding-left: 1em" | Innsbruck
+| style="padding-left: 1em" | 192 m
+| style="padding-left: 1em" | bridge
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | chimney of Riedersbach power station
+| style="padding-left: 1em" | Riedersbach
+| style="padding-left: 1em" | 191 m
+| style="padding-left: 1em" | chimney
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Zillergründl dam
+| style="padding-left: 1em" | Mayrhofen
+| style="padding-left: 1em" | 186 m
+| style="padding-left: 1em" | dam
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | chimney of district heating plant Mitte Linz
+| style="padding-left: 1em" | Linz
+| style="padding-left: 1em" | 183 m
+| style="padding-left: 1em" | chimney
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | chimney of Mellach district heating plant
+| style="padding-left: 1em" | Fernitz Mellach
+| style="padding-left: 1em" | 175 m
+| style="padding-left: 1em" | chimney
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Sendeturm Dobratsch
+| style="padding-left: 1em" | Villach
+| style="padding-left: 1em" | 165 m
+| style="padding-left: 1em" | tower, partially guyed
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Kahlenberg transmitter
+| style="padding-left: 1em" | Vienna
+| style="padding-left: 1em" | 165 m
+| style="padding-left: 1em" | guyed mast
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Lavant bridge
+| style="padding-left: 1em" | Bezirk Wolfsberg
+| style="padding-left: 1em" | 165 m
+| style="padding-left: 1em" | bridge
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | chimney of Korneuburg power station
+| style="padding-left: 1em" | Korneuburg
+| style="padding-left: 1em" | 160 m
+| style="padding-left: 1em" | chimney
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Lenzing chimney
+| style="padding-left: 1em" | Lenzing
+| style="padding-left: 1em" | 156 m
+| style="padding-left: 1em" | chimney
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Dobl transmitter
+| style="padding-left: 1em" | Graz
+| style="padding-left: 1em" | 156 m
+| style="padding-left: 1em" | guyed lattice tower, insulated against ground
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Funkturm Arsenal
+| style="padding-left: 1em" | Vienna
+| style="padding-left: 1em" | 155 m
+| style="padding-left: 1em" | concrete tower
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Lichtenberg transmitter
+| style="padding-left: 1em" | Linz
+| style="padding-left: 1em" | 155 m
+| style="padding-left: 1em" | guyed mast
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Gepatschspeicher dam
+| style="padding-left: 1em" | Kaunertal
+| style="padding-left: 1em" | 153 m
+| style="padding-left: 1em" | dam
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Hochhaus Neue Donau
+| style="padding-left: 1em" | Vienna
+| style="padding-left: 1em" | 150 m
+| style="padding-left: 1em" | skyscraper
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | chimney of Donaustadt power station
+| style="padding-left: 1em" | Vienna
+| style="padding-left: 1em" | 150 m
+| style="padding-left: 1em" | chimney
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Finstertal dam
+| style="padding-left: 1em" | Tyrol
+| style="padding-left: 1em" | 149 m
+| style="padding-left: 1em" | dam
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Freinberg transmitter
+| style="padding-left: 1em" | Linz
+| style="padding-left: 1em" | 146 m
+| style="padding-left: 1em" | guyed mast
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Sendeturm Jauerling
+| style="padding-left: 1em" | Jauerling
+| style="padding-left: 1em" | 141 m
+| style="padding-left: 1em" | lattice tower, partially guyed
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Vienna Twin towers
+| style="padding-left: 1em" | Vienna
+| style="padding-left: 1em" | 138 m
+| style="padding-left: 1em" | skyscraper
+| style="padding-left: 1em" |  ; 
+|-
+| style="padding-left: 1em" | Stephansdom
+| style="padding-left: 1em" | Vienna
+| style="padding-left: 1em" | 137 m
+| style="padding-left: 1em" | church
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | New Cathedral, Linz
+| style="padding-left: 1em" | Linz
+| style="padding-left: 1em" | 135 m
+| style="padding-left: 1em" | church
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | chimney of Theiss power station
+| style="padding-left: 1em" | Gedersdorf
+| style="padding-left: 1em" | 135 m
+| style="padding-left: 1em" | chimney
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | chimney of Spittelau power station
+| style="padding-left: 1em" | Vienna
+| style="padding-left: 1em" | 135 m
+| style="padding-left: 1em" | chimney
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Linz VOEST-Sinter chimney
+| style="padding-left: 1em" | Linz
+| style="padding-left: 1em" | 135 m
+| style="padding-left: 1em" | chimney
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Schlegeisspeicher 
+| style="padding-left: 1em" | Mayrhofen
+| style="padding-left: 1em" | 131 m
+| style="padding-left: 1em" | dam
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | IZD tower
+| style="padding-left: 1em" | Vienna - Donau City
+| style="padding-left: 1em" | 130 m
+| style="padding-left: 1em" | skyscraper
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Wachberg transmitter
+| style="padding-left: 1em" | Weitra
+| style="padding-left: 1em" | 130 m
+| style="padding-left: 1em" | partially guyed tower
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Vienna International Centre (Building A)
+| style="padding-left: 1em" | Vienna - Donau City
+| style="padding-left: 1em" | 127 m
+| style="padding-left: 1em" | skyscraper
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | chimney of Simmering power station
+| style="padding-left: 1em" | Vienna
+| style="padding-left: 1em" | 121 m
+| style="padding-left: 1em" | chimney
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | chimney of Peisching Heating power Plant
+| style="padding-left: 1em" | Neunkirchen
+| style="padding-left: 1em" | 120 m
+| style="padding-left: 1em" | chimney
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | chimney of Simmering power station
+| style="padding-left: 1em" | Vienna
+| style="padding-left: 1em" | 120 m
+| style="padding-left: 1em" | chimney
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Wasserfallboden dam
+| style="padding-left: 1em" | Kaprun
+| style="padding-left: 1em" | 120 m
+| style="padding-left: 1em" | dam
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Vienna International Centre
+| style="padding-left: 1em" | Vienna
+| style="padding-left: 1em" | 120 m
+| style="padding-left: 1em" | highrise
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Praterturm
+| style="padding-left: 1em" | Vienna
+| style="padding-left: 1em" | 117 m
+| style="padding-left: 1em" | tower
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Lauterach transmitter
+| style="padding-left: 1em" | Lauterach
+| style="padding-left: 1em" | 116 m
+| style="padding-left: 1em" | guyed mast
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Donawitz chimney
+| style="padding-left: 1em" | Donawitz
+| style="padding-left: 1em" | 115 m
+| style="padding-left: 1em" | chimney
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Linz VOEST-chimney
+| style="padding-left: 1em" | Linz
+| style="padding-left: 1em" | 115 m
+| style="padding-left: 1em" | chimney
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Support pillar of Glacial Aerial Tramway Kaprun III
+| style="padding-left: 1em" | Kaprun
+| style="padding-left: 1em" | 113.6 m
+| style="padding-left: 1em" | lattice tower (tallest aerial tramway support pillar)
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Andromeda tower
+| style="padding-left: 1em" | Vienna - Donau City
+| style="padding-left: 1em" | 113 m
+| style="padding-left: 1em" | dam
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Florido tower
+| style="padding-left: 1em" | Vienna
+| style="padding-left: 1em" | 113 m
+| style="padding-left: 1em" | skyscraper
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Mooserboden dam
+| style="padding-left: 1em" | Kaprun
+| style="padding-left: 1em" | 112 m
+| style="padding-left: 1em" | dam
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Herz-Jesu-Kirche
+| style="padding-left: 1em" | Graz
+| style="padding-left: 1em" | 110 m
+| style="padding-left: 1em" | church 
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Zwentendorf Nuclear power Plant chimney
+| style="padding-left: 1em" | Zwentendorf
+| style="padding-left: 1em" | 110 m
+| style="padding-left: 1em" | chimney
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Sendeturm Fleckendorf
+| style="padding-left: 1em" | Ansfelden
+| style="padding-left: 1em" | 110 m
+| style="padding-left: 1em" | lattice tower
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Exelberg Telecommunication tower
+| style="padding-left: 1em" | Vienna
+| style="padding-left: 1em" | 109 m
+| style="padding-left: 1em" | telecommunication tower
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Control tower of Vienna International Airport
+| style="padding-left: 1em" | Schwechat
+| style="padding-left: 1em" | 109 m
+| style="padding-left: 1em" | airport tower
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Mischek tower
+| style="padding-left: 1em" | Vienna - Donau City
+| style="padding-left: 1em" | 108 m
+| style="padding-left: 1em" | skyscraper
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | chimney Glanzstoffwerke Sankt Pölten
+| style="padding-left: 1em" | Sankt Pölten
+| style="padding-left: 1em" | 108 m
+| style="padding-left: 1em" | chimney
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Linz VOEST-Furnace
+| style="padding-left: 1em" | Linz
+| style="padding-left: 1em" | 108 m
+| style="padding-left: 1em" | furnace
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Delugan-Meissl-tower
+| style="padding-left: 1em" | Vienna - Wienerberg
+| style="padding-left: 1em" | 108 m
+| style="padding-left: 1em" | skyscraper
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Arzl, transmission tower
+| style="padding-left: 1em" | Arzl
+| style="padding-left: 1em" | 107 m
+| style="padding-left: 1em" | transmission tower
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Moserboden dam
+| style="padding-left: 1em" | Kaprun
+| style="padding-left: 1em" | 107 m
+| style="padding-left: 1em" | dam
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Trieben RHI chimney
+| style="padding-left: 1em" | Trieben
+| style="padding-left: 1em" | 105 m
+| style="padding-left: 1em" | chimney
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Boiler Houses of Dürnrohr power station
+| style="padding-left: 1em" | Dürnrohr
+| style="padding-left: 1em" | 105 m
+| style="padding-left: 1em" | Building
+| style="padding-left: 1em" |
+|-
+| style="padding-left: 1em" | Hochfilzen RHB chimney
+| style="padding-left: 1em" | Hochfilzen
+| style="padding-left: 1em" | 105 m
+| style="padding-left: 1em" | chimney
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Linz VOEST-Fume chimney
+| style="padding-left: 1em" | Linz
+| style="padding-left: 1em" | 105 m
+| style="padding-left: 1em" | chimney
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Linz VOEST-Boiler
+| style="padding-left: 1em" | Linz
+| style="padding-left: 1em" | 105 m
+| style="padding-left: 1em" | building
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Wiener Rathaus
+| style="padding-left: 1em" | Vienna
+| style="padding-left: 1em" | 103,3 m
+| style="padding-left: 1em" | building
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Kitzbüheler Horn transmitter
+| style="padding-left: 1em" | Kitzbühl
+| style="padding-left: 1em" | 102 m
+| style="padding-left: 1em" | partially guyed concrete base mast
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Linz VOEST-Gasometer
+| style="padding-left: 1em" | Linz
+| style="padding-left: 1em" | 102 m
+| style="padding-left: 1em" | building
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | chimney of Flötzersteig Incinerating Plant
+| style="padding-left: 1em" | Vienna
+| style="padding-left: 1em" | 101 m
+| style="padding-left: 1em" | chimney
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Ares tower
+| style="padding-left: 1em" | Vienna - Donau City
+| style="padding-left: 1em" | 100 m
+| style="padding-left: 1em" | skyscraper
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Sonnwendstein transmitter
+| style="padding-left: 1em" | Sonnwendstein
+| style="padding-left: 1em" | 100 m
+| style="padding-left: 1em" | partially guyed steel tube tower
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Hirschenstein transmitter
+| style="padding-left: 1em" | Hirschenstein
+| style="padding-left: 1em" | 100 m
+| style="padding-left: 1em" | lattice tower
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Schwechat oil refinery largest chimney
+| style="padding-left: 1em" | Schwechat
+| style="padding-left: 1em" | 100 m
+| style="padding-left: 1em" | chimney
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Bergern Danube powerline Crossing, tower South
+| style="padding-left: 1em" | Bergern
+| style="padding-left: 1em" | 100 m
+| style="padding-left: 1em" |powerline crossing
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Bergern Danube powerline Crossing, tower north
+| style="padding-left: 1em" | Bergern
+| style="padding-left: 1em" | 100 m
+| style="padding-left: 1em" |powerline crossing
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Gailitz chimney
+| style="padding-left: 1em" | Gailitz
+| style="padding-left: 1em" | 100 m
+| style="padding-left: 1em" |chimney
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Gaisberg transmitter
+| style="padding-left: 1em" | Salzburg
+| style="padding-left: 1em" | 100 m
+| style="padding-left: 1em" | lattice tower
+| style="padding-left: 1em" | 
+|-
+|Votiv church
+|Vienna
+|99m
+|neo-gothic, christian church
+|48° 12′ 55.46″ N, 16° 21′ 31.09″ E
+|-
+| style="padding-left: 1em" | Terminal tower
+| style="padding-left: 1em" | Linz
+| style="padding-left: 1em" | 98.5 m
+| style="padding-left: 1em" | Skyscraper, highest skyscraper in Linz (as of 2016)
+| style="padding-left: 1em" | 
+|-
+| style="padding-left: 1em" | Schöckl transmitter
+| style="padding-left: 1em" | Schöckl
+| style="padding-left: 1em" | 95 m
+| style="padding-left: 1em" | lattice tower, originally free-standing, now additionally guyed
+| style="padding-left: 1em" | 
+|}
+
+==Destroyed/demolished structures==
+{| class="wikitable"
+|- bgcolor=#DDDDDD
+!Structure
+! Location
+! Height
+! Structure type
+|-
+| style="padding-left: 1em" | Nordmast Bisamberg
+| style="padding-left: 1em" | Bisamberg
+| style="padding-left: 1em" | 265 m
+| style="padding-left: 1em" | guyed mast, insulated against ground, built in 1933, demolished in 2010
+|-
+|chimney of Fernitz Mellach power plant
+|Neudorf-Werndorf
+|175m
+|guyed chimney, built 1968,demolished in2017
+|-
+| style="padding-left: 1em" | Aldrans transmitter
+| style="padding-left: 1em" | Aldrans
+| style="padding-left: 1em" | 151 m
+| style="padding-left: 1em" | 2 guyed masts, insulated against ground
+|-
+| style="padding-left: 1em" | Radio Mast Deutsch-Altenburg
+| style="padding-left: 1em" | Bad Deutsch-Altenburg
+| style="padding-left: 1em" | 150 m
+| style="padding-left: 1em" | guyed mast, built in 1917, demolished
+|-
+|Mannesmannturm Wien
+|Vienna
+|150m
+|lattice tower (demolished in 1987)
+|-
+| style="padding-left: 1em" | Radio Mast Kronstorf
+| style="padding-left: 1em" | Kronstorf
+| style="padding-left: 1em" | 137 m
+| style="padding-left: 1em" | guyed mast, insulated against ground
+|-
+| style="padding-left: 1em" | Blaw-Knox Masts Bisamberg
+| style="padding-left: 1em" | Bisamberg
+| style="padding-left: 1em" | 130 m
+| style="padding-left: 1em" | two guyed masts of same height, built in 1933/34, demolished in 1945
+|-
+| style="padding-left: 1em" | Alter Sendemast Kahlenberg
+| style="padding-left: 1em" | Kahlenberg
+| style="padding-left: 1em" | 129 m
+| style="padding-left: 1em" | guyed mast used for FM- and TV-transmission, built in 1959, 1974 demolished
+|-
+| style="padding-left: 1em" | Radio masts Klagenfurt-See
+| style="padding-left: 1em" | Klagenfurt
+| style="padding-left: 1em" | 120 m
+| style="padding-left: 1em" | guyed mast, insulated against ground, built in 1954, demolished in 1984
+|-
+| style="padding-left: 1em" | Radio mast Lienz
+| style="padding-left: 1em" | Lienz
+| style="padding-left: 1em" | 104 m
+| style="padding-left: 1em" | guyed mast, insulated against ground, built in 1958, shut down in 1984 (demolished?)
+|-
+| style="padding-left: 1em" | Südmast Bisamberg
+| style="padding-left: 1em" | Bisamberg
+| style="padding-left: 1em" | 120 m
+| style="padding-left: 1em" | guyed mast, insulated against ground, built in 1933, demolished in 2010
+|-
+| style="padding-left: 1em" | Longwave Masts of Deutsch-Altenburg Radio station
+| style="padding-left: 1em" | Bad Deutsch-Altenburg
+| style="padding-left: 1em" | 100 m
+| style="padding-left: 1em" | three guyed masts, built in 1953, demolished
+|}
+
+
+== External links ==
+*Skyscraperpage.com
+*http://eaip.austrocontrol.at/lo/091218/PART_2/LO_ENR_5_4_en.pdf
+
+
+
+Tallest structures
+Austria

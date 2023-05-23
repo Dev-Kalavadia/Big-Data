@@ -1,0 +1,25 @@
+Title: CTX (explosive-detection device)The CTX (Computer Tomography X-ray) is an explosive detection device, a family of x-ray devices developed by InVision Technologies in 1990 that uses CAT scans and sophisticated image processing software to automatically screen checked baggage for explosives.
+
+==CTX-5000==
+In 1994, the CTX-5000 became the first computed tomography explosive detection system certified by the US Federal Aviation Administration (FAA). The certification of the CTX-5000 followed nine years of development. During that time the FAA invested $90 million in explosives detection and nearly $8.6 million in the specific technology. From 1995 to 1997, the CTX-5000 was tested to solve the challenges involved in integrating an explosives detection system into a baggage system and to validate the estimated costs of wide-scale deployment of the systems.
+
+==CTX-5000 SP==
+The CTX-5000 SP scanning system, an improved version of the CTX-5000 for checked baggage, was delivered to the FAA in 1997 and placed at several of the US's busiest and largest airports. From 1997 to 2000, more than 100 of the systems have been purchased by the FAA to install in US airports, according to InVision.
+
+==CTX-5500DS==
+The CTX-5500DS is an automated explosives detection system that uses computed tomography to characterize materials in checked bags and automatically identify objects that could be improvised explosive devices. The CTX-5500DS is the most widely used, FAA-certified Explosives Detection System in the world. It can be used for either standalone applications or in an integrated manner with airport baggage handling systems. It can also be configured to detect other types of contraband material. The CTX-5500DS has an FAA-certified throughput of 384 bags per hour. Its Dynamic Screening (DS) capability offers flexibility by allowing manual or automatic switching between various screening modes.
+
+==CTX-2500==
+The CTX-2500 is a small-sized explosives detection system that is half the length of earlier CTX models. The CTX 2500 utilizes a single rotating X-ray source to acquire positioning images and CT-slice images, thus achieving its smaller size. The CTX 2500 system is the first FAA-certified Explosives Detection System (EDS) mounted on a truck for easy mobility and access to cargo. One of the units costs approximately US$700,000.
+
+==CTX-9000==
+The CTX-9000 DSi system is the world's fastest FAA-certified (Certification moved to TSA Transportation Security Lab in 2002) Explosives Detection System, handling 542 bags per hour. It features alternate operational modes yielding even higher throughputs. The CTX-9000 DSi is designed for integrated airport installations. Its 1-metre wide conveyor coordinates with standard airport baggage handling systems. The system's architecture utilizes modular components, helping to ease scanner upgrading and servicing. The scanner contains 4 active radiation-shielding curtains. In addition, the gantry rotates at 120 RPM, enabling a slice image to be generated within half a second. A high-speed RF data link connects the rotating gantry to the stationary part of the unit. An air-conditioning unit ensures high performance and reliability in hot, dusty and humid airport environments.
+
+==Competition==
+In the late 1990s, L-3 Communications developed a competing computerized tomography system that also met FAA approval, however it was not TSA Qualified until late 2002. In November 1999, the FAA awarded a contract worth up to US$75 million to L-3 to purchase up to 60 of its explosive detection systems. The eXaminer 3DX 6000 explosive detection system developed by L-3 operates similarly to the CTX system.
+
+In 2013 Rapiscan Systems made the first delivery of its RTT product. This machine operates with a non-rotating 360 degree multi source X-ray tube and detector array CT imaging system so the only moving part is the conveyor belt. This allows it to achieve a throughput of 1800 bags per hour.
+
+==Recent Developments==
+Recent research has evaluated the use of computer vision based algorithms that operate on the volumetric data used collected as CT-slice images by these and other manufacturers computed tomography (CT) baggage scanner machines for the automatic detection of other threat types (e.g. guns, knives, liquid containers) using 3D object classification.
+

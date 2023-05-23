@@ -1,0 +1,3474 @@
+Title: 2008 IndyCar Series
+
+
+
+The 2008 IndyCar Series was the 13th season of the IndyCar Series. It was the 97th recognized season of top-level American open wheel racing. On February 26, 2008, the managements of Indy Racing League and Champ Car came to an agreement to become a single entity, ending a twelve-year split and resulting in the cancellation of the 2008 Champ Car World Series.
+
+The first race was held March 29, at Homestead-Miami Speedway. The premier event was the 92nd Indianapolis 500 on May 25. All races were televised on ABC, ESPN, ESPN2, or ESPN Classic. All IndyCar Series broadcasts continued to use the Side-By-Side format in their first year of HD broadcasts. Races were also broadcast on the IMS Radio Network and XM for the radios.
+
+Scott Dixon driving for Chip Ganassi Racing won the first unified title for 13 years after completing the IndyCar–Indy 500 double. Dixon took six victories over the course of the season but had to fend off a consistent championship challenge from Hélio Castroneves until the final round at Chicagoland Speedway.
+
+==Series news==
+===Unification with Champ Car===
+On January 23, 2008, Robin Miller reported that Tony George had offered to Champ Car management a proposal that included free cars and engine leases to Champ Car teams willing to run the entire 2008 IndyCar Series schedule in exchange for adding Champ Car's dates at Long Beach, Toronto, Edmonton, Mexico City, and Australia to the IndyCar Series schedule, effectively reuniting American open wheel racing. The offer was initially made in November 2007. On February 10, 2008, Tony George, along with IRL representatives Terry Angstadt and Brian Barnhart, plus former Honda executive Robert Clarke, traveled to Japan to discuss moving the Indy Japan 300 at Twin Ring Motegi. Moving that race, or postponing it, would be required in order to accommodate the Long Beach Grand Prix, which is scheduled for the same weekend. Optimism following the meeting was high.
+
+On February 19, 2008, Robin Miller reported on SPEED and Curt Cavin blogged on IndyStar.com that the managements of Indy Racing League and Champ Car have come to an agreement to become one entity. The move would effectively end a 12-year split and reunite American Open Wheel racing. Meanwhile, Brian Barnhart announced that Tony George is negotiating the unification, and an inventory of available IndyCar chassis and equipment for the Champ Car teams is underway. On February 22, Cavin initially reported that no deal had been reached between the IRL and CCWS in a lengthy dinner meeting between George and CCWS president Kevin Kalkhoven the previous evening. Later in the day, however, it was reported that the merger deal had been completed, confirmed by George, and that it would be formally announced at a press conference the following week.
+
+===Rule changes===
+* Semi-automatic paddle shifters became mandatory for full time series entrants, while remaining optional for Indianapolis 500-only entries.
+* Cars were fitted with a "Zylon" synthetic-fiber intrusion barrier.
+* For the oval track events, qualifying changed from single-lap to two-lap average speed, similar to that used at Indianapolis in most years since 1920.
+* Fuel mixture adjustment control was reinstated.
+* Due to the added cars brought by unification, the road and street course qualifying procedure was altered to a knockout qualifying format (similar to Formula One), beginning with a pair of preliminary sessions, each composed of half of the field, the six fastest drivers from each preliminary session going to a third session and the six fastest drivers from that session competing for the pole in the Firestone Fast Six.Ryan, Nate. Growth forcing IRL to alter qualifying format, USA Today, April 1, 2008
+
+===Revenue sharing===
+In an effort to enhance full-time participation, the IndyCar Series announced a revenue sharing plan entitled IndyCar TEAM (Team Enhancement and Allocation Matrix) for 2008.
+* Teams would receive a minimum of US$1.2 million for each car competing in the full schedule.
+* Race purses were eliminated for all events except for the Indianapolis 500.
+* The top five finishers in each race were eligible for special cash bonuses.
+* The total purse for the 2008 Indianapolis 500 increased with the winner receiving US$2.5 million, 33rd place paying no less than $270,000. Indy-only entries were eligible for the $270,000 minimum along with the full-season entries. The entire race purse totalled at least US$13.4 million, not including contingency awards. In 2007, race winner Dario Franchitti received $1,645,233, and last place Roberto Moreno won $224,805.
+* The season champion won $1 million, as they had in earlier seasons. Second through fifth in the season championship were eligible for cash bonuses.
+
+===Testing===
+The following open tests were held:
+* October 12, 2007, at Barber Motorsports Park.
+*  February 27–28 at Homestead (night).
+*  March 3–6 at Sebring.
+*  March 19–20 at Sebring for former Champ Car teams.
+*  March 24–25 at Homestead for former Champ Car teams (night).
+*  August 13–14 at Infineon Raceway to evaluate new track  configuration.
+
+=== Sponsor news ===
+* PEAK Motor Oil will be the official engine oil product of the Indy Racing League for some IndyCar teams except Team Penske with Mobil 1, Andretti Green Racing with Castrol, A. J. Foyt Racing with Elf and Chip Ganassi Racing with Havoline.
+* DirecTV will be the IndyCar Series presenting sponsor.
+* Coca-Cola will be the official soft drink sponsor of the IndyCar Series through 2010.
+* Raybestos will be the preferred competition brake friction through 2009, and sponsor the Raybestos Road and Street Course Challenge, awarding $5,000 to the winner of each road/street course race and $25,000 to the driver with the highest average finish on road and street courses at the end of the season.
+* Izod has signed a multi-year deal to be the official clothing supplier of the IndyCar Series
+
+
+==2008 IndyCar Series schedule==
+The original 16 race schedule, which was released on September 16, 2007, became a 19 race schedule (18 championship and 1 Non-Championship) on February 26, 2008. Some of the Champ Car races in Toronto, Houston, and Road America were added years later.
+
+{|class="wikitable" style="font-size: 85%"
+|-
+!colspan=2|Rnd
+!Date
+!Race Name
+!Track
+!Location
+|-
+!colspan=2|1
+| March 29
+| XM Indy 300 at Homestead-Miami
+|  Homestead-Miami Speedway
+| Homestead, Florida
+|-
+!colspan=2|2
+| April 6
+| Honda IndyCar Grand Prix at St. Petersburg
+|  Streets of St. Petersburg
+| St. Petersburg, Florida
+|-
+!rowspan=2|3
+!A
+| April 20
+| Indy Japan 300 (see below)
+|  Twin Ring Motegi
+| Motegi, Japan
+|- 
+!B
+| April 20
+| Toyota Grand Prix of Long Beach (see below)
+|  Streets of Long Beach
+| Long Beach, California
+|-
+!colspan=2|4
+| April 27
+| RoadRunner Turbo Indy 300
+|  Kansas Speedway
+| Kansas City, Kansas
+|-
+!colspan=2|5
+| May 25
+| 92nd Indianapolis 500
+|  Indianapolis Motor Speedway
+| Speedway, Indiana
+|-
+!colspan=2|6
+| June 1
+| ABC Supply Company A. J. Foyt 225
+|  The Milwaukee Mile
+| West Allis, Wisconsin
+|-
+!colspan=2|7
+| June 7
+| Bombardier Learjet IndyCar 550k at Texas
+|  Texas Motor Speedway
+| Fort Worth, Texas
+|-
+!colspan=2|8
+| June 22
+| Ethanol IndyCar 250 at Iowa presented by Midwest Corn Growers
+|  Iowa Speedway
+| Newton, Iowa
+|-
+!colspan=2|9
+| June 28
+| SunTrust Indy Challenge
+|  Richmond International Raceway
+| Richmond, Virginia
+|-
+!colspan=2|10
+| July 6
+| Camping World IndyCar Grand Prix at The Glen
+|  Watkins Glen International
+| Watkins Glen, New York
+|-
+!colspan=2|11
+| July 12
+| Firestone IndyCar 200 at Nashville
+|  Nashville Superspeedway
+| Lebanon, Tennessee
+|-
+!colspan=2|12
+| July 20
+| Honda IndyCar Grand Prix at Mid-Ohio
+|  Mid-Ohio Sports Car Course
+| Lexington, Ohio
+|-
+!colspan=2|13
+| July 26
+| Rexall Edmonton Indy
+|  Edmonton City Centre Airport
+| Edmonton, Canada
+|-
+!colspan=2|14
+| August 9
+| Meijer Indy 300
+|  Kentucky Speedway
+| Sparta, Kentucky
+|-
+!colspan=2|15
+| August 24
+| Peak Antifreeze & Motor Oil Indy Grand Prix of Sonoma County
+|  Infineon Raceway
+| Sonoma, California
+|-
+!colspan=2|16
+| August 31
+| Detroit Indy Grand Prix presented by Firestone
+|  The Raceway on Belle Isle Park
+| Detroit, Michigan
+|-
+!colspan=2|17
+| September 7
+| Peak Antifreeze & Motor Oil Indy 300
+|  Chicagoland Speedway
+| Joliet, Illinois
+|-
+!colspan=2|NC
+| October 26
+| Nikon Indy 300
+|  Surfers Paradise Street Circuit
+| Surfers Paradise, Australia
+|}
+ Oval/Speedway
+ Permanent road course/street circuit
+NC Non-championship race
+
+3B – The race at Long Beach was the last event sanctioned by Champ Car World Series. Points were awarded for the 2008 IndyCar Series championship to those drivers and teams which moved to the IndyCar Series under the open wheel racing unification agreement between the owners of CCWS and the IRL.
+
+===Schedule development===
+* The Honda Grand Prix of St. Petersburg will return through at least 2013. This was announced April 6, 2008.
+* The Milwaukee Mile will host the race the weekend immediately following the Indy 500 through at least 2009.
+* Michigan International Speedway has been removed from the schedule for 2008.
+* Iowa Speedway has been renewed through 2009.
+* Texas Motor Speedway signed a two-year contract extension through 2009.
+* Detroit will be held August 31, 2008, part of Labor Day weekend along with ALMS.
+* Mid-Ohio signed a three-year deal through 2009.
+* The following were reported possibilities for schedule expansion in 2008. However, none were part of the official announcement on September 19:
+** Following a feasibility test in September 2006, and an open test on January 31, – February 1, 2007, the IndyCar Series is still considering Daytona International Speedway.
+** The IndyCar Series is exploring the possibility of holding new races at Biloxi, Sepang, Palm Springs, and Denver.
+** A possible event has been considered at Rockingham Speedway in North Carolina. The track was auctioned off on October 2, 2007, and was purchased by former Indy 500 starter Andy Hillenburg, who promptly reopened the track that held an ARCA race May 4, 2008.
+** A return to Phoenix is under consideration. It appears questionable for 2009.
+** A replacement for Michigan was to be announced by the league to maintain a 17-race schedule. League officials had confirmed only that it would be in the United States, and would be a new venue in California. Rumors suggested a street circuit at Dodger Stadium. It never came to fruition.
+** On October 12, 2007, the IndyCar Series conducted an open test at Barber Motorsports Park. Track officials indicated they are exploring a race for 2009.
+
+===Schedule details===
+* The original official 16-race schedule was announced September 19, 2007. On February 26, 2008, it was announced that former Champ Car events at Long Beach, Edmonton, and Australia would be added to the 2008 schedule.IndyCar.com  
+* An unresolvable scheduling conflict occurred between Motegi and Long Beach. Existing IndyCar teams competed in the Indy Japan 300, while some of the former Champ Car teams raced at Long Beach using their 2007 Panoz DP01 chassis. Both races counted toward the 2008 title.
+* The Indy Japan 300 was scheduled for 12:00 a.m. EDT, but was delayed to 10:00 p.m. EDT. Persistent "weepers" due to earlier rain delayed the race a day in Japan.
+* The Edmonton race was moved to Saturday instead of Sunday to avoid clash with the NASCAR Allstate 400 at the Brickyard; the Indianapolis Motor Speedway has an agreement not to hold IRL races directly against the NASCAR race at their circuit.
+* The Richmond race has been extended by 50 laps (37.5 miles), turning it from a 250-lap race to 300 laps.
+
+==Confirmed entries==
+{| class="wikitable" style="font-size: 85%"
+|-
+!Team
+!Chassis
+!Engine
+!Tire
+!
+!Drivers
+!Rounds
+|-
+| rowspan="4" | Vision Racing
+| rowspan="4" style="text-align:center;" | Dallara
+| rowspan="4" style="text-align:center;" | Honda
+| rowspan="4" style="text-align:center;" | 
+| 2
+|nowrap| A. J. Foyt IV
+| All
+|-
+| 20
+|nowrap| Ed Carpenter
+| All
+|-
+| rowspan="2" |22
+| Davey Hamilton
+|5
+|-
+| Paul Tracy
+|13
+|-
+|rowspan="2"| Team Penske
+|rowspan=2 style="text-align:center;" | Dallara
+|rowspan=2 style="text-align:center;" | Honda
+|rowspan=2 style="text-align:center;" | 
+| 3
+|nowrap| Hélio Castroneves
+| All
+|-
+| 6
+|nowrap|  Ryan Briscoe
+| All
+|-
+|rowspan="2"| Panther Racing
+|rowspan=2 style="text-align:center;" | Dallara
+|rowspan=2 style="text-align:center;" | Honda
+|rowspan=2 style="text-align:center;" | 
+|rowspan=2| 4
+|nowrap|  Vítor Meira
+| All
+|-
+|nowrap|  Dan Wheldon
+| Surfers Paradise only
+|-
+|rowspan="2"| KV Racing Technology
+|rowspan=2 style="text-align:center;" | Dallara
+|rowspan=2 style="text-align:center;" | Honda
+|rowspan=2 style="text-align:center;" | 
+| 5
+|nowrap| Oriol Servià
+| All
+|-
+| 8
+|nowrap| Will Power (R)
+| All
+|-
+| rowspan="4"| Andretti Green Racing
+|rowspan=4 style="text-align:center;" | Dallara
+|rowspan=4 style="text-align:center;" | Honda
+|rowspan=4 style="text-align:center;" | 
+| 7
+|nowrap| Danica Patrick
+| All
+|-
+| 11
+|nowrap| Tony Kanaan
+| All
+|-
+| 26
+|nowrap| Marco Andretti
+| All
+|-
+| 27
+|nowrap| Hideki Mutoh (R)
+| All
+|-
+| rowspan="3"| Target Chip Ganassi Racing
+|rowspan=3 style="text-align:center;" | Dallara
+|rowspan=3 style="text-align:center;" | Honda
+|rowspan=3 style="text-align:center;" | 
+| 9
+|nowrap| Scott Dixon
+| All
+|-
+|rowspan=2| 10
+|nowrap| Dan Wheldon
+| All
+|-
+|nowrap| Dario Franchitti
+| Surfers Paradise only
+|-
+|rowspan="2"| Newman/Haas/Lanigan Racing
+|rowspan=2 style="text-align:center;" | Dallara
+|rowspan=2 style="text-align:center;" | Honda
+|rowspan=2 style="text-align:center;" | 
+| 02
+|nowrap|  Justin Wilson (R)
+| All
+|-
+| 06
+|nowrap|  Graham Rahal (R)
+| All
+|-
+| Luczo Dragon Racing
+| style="text-align:center;" | Dallara
+| style="text-align:center;" | Honda
+| style="text-align:center;" | 
+|12
+| Tomas Scheckter
+|4–5, 7, 15–17
+|-
+| rowspan="4" | A. J. Foyt Racing
+| rowspan="4" style="text-align:center;" | Dallara
+| rowspan="4" style="text-align:center;" | Honda
+| rowspan="4" style="text-align:center;" | 
+| rowspan="2" | 14
+| nowrap="" | Darren Manning
+| All
+|-
+|nowrap| Vítor Meira
+| Surfers Paradise only
+|-
+| rowspan="2" |41
+| Jeff Simmons
+|5
+|-
+| Franck Perera (R)
+|17
+|-
+| rowspan="4" | Dreyer & Reinbold Racing
+| rowspan="4" style="text-align:center;" | Dallara
+| rowspan="4" style="text-align:center;" | Honda
+| rowspan="4" style="text-align:center;" | 
+| 15
+| nowrap="" | Buddy Rice
+| All
+|-
+|rowspan=2| 23
+|nowrap| Milka Duno
+| 1, 4–5, 7–8, 10–12, 14, 16–17
+|-
+| rowspan="2" | Townsend Bell
+| 2–3, 6, 9, 13, 15
+|-
+|99
+|5
+|-
+| rowspan="2" | Rahal Letterman Racing
+| rowspan="2" style="text-align:center;" |Dallara
+| rowspan="2" style="text-align:center;" |Honda
+| rowspan="2" style="text-align:center;" |
+|16
+| Alex Lloyd
+|5
+|-
+| 17
+| nowrap="" | Ryan Hunter-Reay
+| All
+|-
+|rowspan="2"| Dale Coyne Racing
+|rowspan=2 style="text-align:center;" | Dallara
+|rowspan=2 style="text-align:center;" | Honda
+|rowspan=2 style="text-align:center;" | 
+| 18
+|nowrap| Bruno Junqueira
+| All
+|-
+| 19
+|nowrap|  Mario Moraes (R)
+| All
+|-
+| rowspan="3"| Roth Racing
+|rowspan=3 style="text-align:center;" | Dallara
+|rowspan=3 style="text-align:center;" | Honda
+|rowspan=3 style="text-align:center;" | 
+|rowspan=2| 24
+|nowrap| Jay Howard (R)
+| 1–4, 10
+|-
+|nowrap| John Andretti
+| 5–9
+|-
+| 25
+|nowrap| Marty Roth
+| 1–9, 11–17
+|-
+| HVM Racing
+| style="text-align:center;" | Dallara
+| style="text-align:center;" | Honda
+| style="text-align:center;" | 
+| 33
+|nowrap| E. J. Viso (R)
+| 1–10, 12–17
+|-
+| rowspan="4"| Conquest Racing
+|rowspan=4 style="text-align:center;" | Dallara
+|rowspan=4 style="text-align:center;" | Honda
+|rowspan=4 style="text-align:center;" | 
+|rowspan=2| 34
+|nowrap| Franck Perera (R)
+| 1–3
+|-
+|nowrap| Jaime Camara (R)
+| 4–17
+|-
+|rowspan=2| 36
+|nowrap| Enrique Bernoldi (R)
+| 1–15
+|-
+|nowrap| Alex Tagliani
+| 16–17
+|-
+| Rubicon Race Team
+| style="text-align:center;" | Dallara
+| style="text-align:center;" | Honda
+| style="text-align:center;" | 
+| 44
+|nowrap| Max Papis
+| 5
+|-
+| Sarah Fisher Racing
+| style="text-align:center;" | Dallara
+| style="text-align:center;" | Honda
+| style="text-align:center;" | 
+| 67
+|nowrap| Sarah Fisher
+| 5, 14, 17
+|-
+|rowspan="2"| CURB/Agajanian/Beck Motorsports/Wellman Racing
+|rowspan=2 style="text-align:center;" | Dallara
+|rowspan=2 style="text-align:center;" | Honda
+|rowspan=2 style="text-align:center;" | 
+| 77
+|nowrap rowspan=2 | Roger Yasukawa
+| 3
+|-
+| 98
+| 5
+
+|-
+| American Dream Motorsports
+| style="text-align:center;" | Panoz
+| style="text-align:center;" | Honda
+| style="text-align:center;" | 
+| 88
+|nowrap| Phil Giebler
+| 5
+|-
+| Hemelgarn Johnson Racing
+| style="text-align:center;" | Dallara
+| style="text-align:center;" | Honda
+| style="text-align:center;" | 
+| 91
+|nowrap| Buddy Lazier
+| 5
+|-
+| Pacific Coast Motorsports
+| style="text-align:center;" | Dallara
+| style="text-align:center;" | Honda
+| style="text-align:center;" | 
+| 96
+|nowrap| Mario Domínguez (R)
+| 3, 5–7, 10, 12–13, 15
+|-
+!colspan=8|Long Beach only entries 
+|-
+| rowspan="3"| Forsythe/Pettit Racing
+|rowspan=3 style="text-align:center;" | Panoz
+|rowspan=3 style="text-align:center;" | Cosworth
+|rowspan=3 style="text-align:center;" | 
+|3
+|nowrap| Paul Tracy
+|
+|-
+|7
+|nowrap| Franck Montagny
+|
+|-
+|37
+|nowrap| David Martínez
+|
+|-
+|rowspan="2"| Minardi Team USA/HVM Racing
+|rowspan=2 style="text-align:center;" | Panoz
+|rowspan=2 style="text-align:center;" | Cosworth
+|rowspan=2 style="text-align:center;" | 
+|4
+|nowrap| Nelson Philippe
+|
+|-
+|14
+|nowrap| Roberto Moreno
+|
+|-
+|rowspan="2"| Rocketsports
+|rowspan=2 style="text-align:center;" | Panoz
+|rowspan=2 style="text-align:center;" | Cosworth
+|rowspan=2 style="text-align:center;" | 
+|9
+|nowrap| Antônio Pizzonia
+|
+|-
+|10
+|nowrap| Juho Annala
+|
+|-
+| KV Racing Technology
+| style="text-align:center;" | Panoz
+| style="text-align:center;" | Cosworth
+| style="text-align:center;" | 
+|12
+|nowrap| Jimmy Vasser
+|
+
+|-
+| Walker Racing
+| style="text-align:center;" | Panoz
+| style="text-align:center;" | Cosworth
+| style="text-align:center;" | 
+|15
+|nowrap| Alex Tagliani
+|
+|-
+| Pacific Coast Motorsports
+| style="text-align:center;" | Panoz
+| style="text-align:center;" | Cosworth
+| style="text-align:center;" | 
+|29
+|nowrap| Alex Figge
+|
+|}
+* On March 5, the IRL announced that former Champ Car teams would be paired with current IndyCar teams to aid their transition.
+
+
+===Driver and team news===
+* Penske Racing: Sam Hornish Jr. did not race in the 2008 season because of his departure to the NASCAR Sprint Cup Series. Ryan Briscoe was announced as the full-time driver for the second Penske car.
+* Andretti Green Racing: The team retained four cars, with Tony Kanaan, Marco Andretti, and Danica Patrick scheduled to return. Dario Franchitti has left IndyCar to join Ganassi in 2008 in the NASCAR Sprint Cup Series. On October 31, AGR announced that they had signed Autobacs Racing Team Aguri driver and 2007 Indy Pro Series runner up Hideki Mutoh to drive the No. 27 car in 2008, replacing Franchitti.
+* Panther Racing: Vítor Meira said on Racefanradio.comRacefanradio.com that he would return to Panther Racing for 2008.
+* Chip Ganassi Racing: Alex Lloyd signed as a development driver for Ganassi Racing and was expected to compete in selected IndyCar events. However, he only drove in the Indy 500.
+* Roth Racing: Jay Howard was signed to drive a second car, joining team owner Marty Roth who confirmed that he will return in the first car.
+* Rahal Letterman Racing: On November 28, 2007, Rahal Letterman informed the media that they had filed suit against driver Scott Sharp and his sponsor Patrón for breach of contract, indicating that Sharp intends to race elsewhere in 2008 while the team believes he is under contract to race for them.RLR Files Suit Against Sharp, Patron , SpeedTV.com, November 28, 2007
+* All Nine Champ Car teams attended an introductory meeting with the IRL on February 26,. Newman/Haas/Lanigan Racing, Walker Racing, and Conquest Racing signed paperwork to receive IndyCar Series cars.
+* The following Champ Car teams fielded 2008 entries.
+** Newman/Haas/Lanigan Racing (two cars) Will run two cars for Justin Wilson and Graham Rahal
+** KV Racing (two cars) Ran two cars with former Walker Racing driver, Will Power and CCWS veteran Oriol Servià
+** Conquest Racing (two cars) Conquest racing signed a technical partnership with Forsythe Performance Research for 2008. Franck Perera and Enrique Bernoldi are named as the drivers for Conquest Racing. Jaime Camara replaced Perera as a Conquest driver before the Kansas race.
+** Dale Coyne Racing (two cars) Ran two cars for CCWS veteran Bruno Junqueira and former British F3 driver Mario Moraes
+** HVM Racing (one car) E. J. Viso ran in 2008 with HVM Racing
+** Pacific Coast Motorsports (one car) Did not start the season, but began a program with Mario Domínguez starting with the Indy 500.
+* Former Champ Car team Walker Racing announced on March 9, that it would not compete in the IndyCar Series besides Long Beach in 2008 due to lack of sponsorship. Craig Gore had taken the Team Australia sponsorship and driver Will Power to KV Racing.Walker Racing will not be making switch from Champ Car to IndyCar Series, Associated Press, March 9, 2008   However, Vision & Walker Racing fielded Paul Tracy at the Edmonton Indy in a joint effort.
+* Former Champ Car team Minardi Team USA only competed at the Long Beach Grand Prix and did not run any other IndyCar Series races. Keith Wiggins's HVM racing continued on and only Paul Stoddart and the "Team Minardi" left.Cavin, Curt. IRL gets orientation process moving, Indianapolis Star, February 24, 2008   
+* Rocketsports did not make the transition due to Enrique Bernoldi signing with Conquest Racing. Bernoldi was set to drive Rocketsports' entry in Champ Car.
+* Former Champ Car team Forsythe Racing only competed in the Long Beach Grand Prix due to lack of sponsorship.Forsythe Racing to Focus on Atlantic Championship, Forsythe Racing press release, February 28, 2008  
+
+==Race summaries==
+
+===Round 1: GAINSCO Auto Insurance Indy 300===
+
+* Saturday March 29, 2008 – 8:00 p.m. EDT
+* Homestead-Miami Speedway – Homestead, Florida (1.485 mile oval)
+* Distance: 200 laps / 297 miles
+* Race weather: , Fair skies
+* Television: ESPN2 (Marty Reid, Scott Goodyear, Jack Arute, Vince Welch, Brienne Pedigo)
+* Nielsen ratings: 0.8 rating and 815,070 householdsIndianapolis Star , IndyStar.com, April 1, 2008  
+* Attendance: 40,000 (estimated)Blount, Terry. Indy newbies from Champ Car get schooled at Homestead-Miami Speedway, ESPN.com, March 30, 2008
+* Pole position winner: No. 9 Scott Dixon, 213.341 mph (343.339 km/h)
+
+After qualifying, the Vision Racing qualifying times of Ed Carpenter and A. J. Foyt IV (2nd and 3rd) were disallowed, and forced to move to the rear of the field. After a crash during qualifying, Dan Wheldon was forced to a back-up car at the rear of the field as well.
+
+At the start, Scott Dixon beat Danica Patrick into the first turn. Dixon went on to lead most of the way through lap 71. After a series of pit stops, Marco Andretti moved into the lead. On lap 127, Milka Duno spun in turn two, and collected Ryan Briscoe, who was running sixth. Later, Tony Kanaan moved back into the lead until the final round of pit stops. By pitting out-of-sequence Danica Patrick unlapped herself, and moved up to second place. The position was short-lived, as she was forced to pit for fuel before the end of the race. With seven laps to go, E. J. Viso spun directly in front the leader Kanaan, and clipped his right-front suspension. Kanaan attempted to limp around and hold on to the victory if the race finished under caution. With four laps to go, the green came out, and Kanaan was forced to pull out of the way. Scott Dixon got by, and held on for the victory.
+
+Despite starting at the rear of the field, Dan Wheldon charged to the front, managed to lead 9 laps, and came home third. In addition, both Vision cars rebounded to finish in the top 10.
+
+2008 was the last season that the series season opener held in an oval track to date until 2020.
+{|class="wikitable" style="font-size:95%;text-align:center"
+|-
+!colspan=9|Top five finishers
+|-
+!Fin.Pos !! St.Pos !! CarNo. !! Driver !! Team !! Laps !! Time !! LapsLed
+|-
+!1
+|1
+|9
+|style="text-align:left"| Scott Dixon
+|style="text-align:left"|Chip Ganassi Racing
+|200
+|align=right|1:44:03.5914
+|67
+|-
+!2
+|4
+|26
+|style="text-align:left"| Marco Andretti
+|style="text-align:left"|Andretti Green Racing
+|200
+|align=right|+0.5828
+|85
+|-
+!3
+|22
+|10
+|style="text-align:left"| Dan Wheldon
+|style="text-align:left"|Chip Ganassi Racing
+|200
+|align=right|+1.4278
+|9
+|-
+!4
+|5
+|3
+|style="text-align:left"| Hélio Castroneves
+|style="text-align:left"|Penske Racing
+|200
+|align=right|+8.0340
+|4
+|-
+!5
+|24
+|20
+|style="text-align:left"| Ed Carpenter
+|style="text-align:left"|Vision Racing
+|199
+|align=right|+1 lap
+|0
+|-
+!colspan=9|Race average speed: 
+|-
+!colspan=9|Lead changes: 12 between 5 drivers
+|-
+!colspan=9|Cautions: 3 for 24 laps
+|}
+
+===Round 2: Honda Grand Prix of St. Petersburg===
+
+* Sunday April 6, 2008 – 2:30 p.m. EDT
+* Streets of St. Petersburg – St. Petersburg, Florida (1.8-mile temporary street course)
+* Distance: 100 laps / 180 miles (shortened to 83 laps / 149.4 miles due to 2-hour time limit)
+* Race weather: , rain & clouds
+* Television: ESPN (Marty Reid, Scott Goodyear, Jack Arute, Vince Welch, Brienne Pedigo)
+* Nielsen ratings: 0.42
+* Attendance: 45,000 (race day)
+
+* Pole position winner: No. 11 Tony Kanaan – 1:02.5322 sec, 103.627 mph (166.771 km/h)
+
+Heavy rain in the morning soaked the track, and left considerable standing water. The race was started under 10 laps of caution as the track dried. At the start, Tony Kanaan assumed the lead, but soon was passed by Justin Wilson. The early part of the race saw several spins by several cars, including Danica Patrick, Marco Andretti and Mario Moraes.
+
+On the 37th lap after a restart, rookie Graham Rahal was hit from behind by Will Power while running 3rd. He was able to continue. Several cautions slowed the race, including a crash by Ryan Briscoe, and a multi-car incident involving Vítor Meira, Franck Perera, and Townsend Bell. On the restart that followed, Rahal-Letterman Racing driver Ryan Hunter-Reay led Graham Rahal. Rahal got the jump and took the lead into the first turn. With time running out before the two-hout time limit, the race was poised to end before the scheduled distance. On the final restart, just under 4 minutes of racing remained. Rahal held off a charging Hélio Castroneves and won his first race.
+
+At 19 years, 93 days old, Rahal became the youngest driver ever to win an Indy-style race, as well as the youngest winner in IndyCar Series history. He broke Marco Andretti's record from 2006. He also became the fourth driver to win an IndyCar Series race in his first start, joining Buzz Calkins, Juan Pablo Montoya and Scott Dixon.
+
+{|class="wikitable" style="font-size:95%;text-align:center"
+|-
+!colspan=9|Top five finishers
+|-
+! Fin.Pos !! St.Pos !! CarNo. !! Driver !! Team !! Laps !! Time !! LapsLed
+|-
+!1
+|9
+|06
+|style="text-align:left"| Graham Rahal
+|style="text-align:left"|Newman/Haas/Lanigan Racing
+|83
+|align=right|2:00:43.5562
+|19
+|-
+!2
+|4
+|3
+|style="text-align:left"| Hélio Castroneves
+|style="text-align:left"|Penske Racing
+|83
+|align=right|+3.5192
+|0
+|-
+!3
+|1
+|11
+|style="text-align:left"| Tony Kanaan
+|style="text-align:left"|Andretti Green Racing
+|83
+|align=right|+5.5134
+|15
+|-
+!4
+|15
+|33
+|style="text-align:left"| E. J. Viso
+|style="text-align:left"|HVM Racing
+|83
+|align=right|+8.8575
+|12
+|-
+!5
+|18
+|36
+|style="text-align:left"| Enrique Bernoldi
+|style="text-align:left"|Conquest Racing
+|83
+|align=right|+9.6360
+|3
+|-
+!colspan=9|Race average speed: 
+|-
+!colspan=9|Lead changes: 7 between 8 drivers
+|-
+!colspan=9|Cautions: 6 for 29 laps
+|}
+
+===Round 3A: Indy Japan 300===
+
+* Sunday  April 20–11:00 a.m. JST / Saturday  April 19, 10,:00 p.m. EDT; postponed from Saturday  April 19–1:00 p.m. JST / 12:00 a.m. EDT due to weepers (water seeping up onto the track from previous heavy rains).
+* Twin Ring Motegi – Motegi, Japan (1.52-mile oval)
+* Distance: 200 laps / 304 miles
+* Race weather: , Mostly cloudy
+* Television: ESPN Classic, ESPN2 (Marty Reid, Scott Goodyear, Jack Arute )
+* Nielsen ratings: 0.27 (rainout); 0.19 (live); 0.33 (re-air)
+* Attendance: TBA
+* Pole position winner: No. 3 Hélio Castroneves (qualifying rained out; lineup set by IndyCar points standings)
+
+At the start, Marco Andretti lost control in turn one due to cold tires and crashed out of the race. Meanwhile, Hélio Castroneves took the lead, and led the first 92 laps. On the 48th lap, Ed Carpenter and Danica Patrick pitted, but moments later the caution came out when Hideki Mutoh crashed. The pits became closed, and the remainder of the leaders had to wait to make their respective pit stops. After the field was shuffled, Castroneves still maintained the lead.
+
+On the 92nd lap, Vítor Meira brushed the wall. In the pits, Vision Racing teammates Carpenter and A. J. Foyt IV made contact in their pit stalls. Scott Dixon exited the pits first, and took over the lead.
+
+On lap 142, Roger Yasukawa stalled on the mainstretch with a brake failure. The ensuing caution period set up an exciting finish due to fuel strategy, as most teams were getting 51 laps on a single tank of fuel. The top seven leaders all pitted together, with Dixon coming out in the lead once again. On lap 148, Castroneves, Patrick, and Carpenter all returned to the pits to top off their tanks, in hopes of going the distance without one last pit stop, hoping that the race would go green to the finish.
+
+Shortly after the restart on lap 149, Patrick dropped back to seventh place (last car on the lead lap) in a fuel conservation strategy to have enough fuel to challenge the leader at the end of the race. With the race remaining green, during the final ten laps, most of the leaders, not having enough fuel to get to the end, ducked off the track for "splash-and-go" pit stops for fuel. Despite topping off his tank earlier, Ed Carpenter, getting poorer fuel economy than the rest of the lead-lap cars, was forced to pit for fuel. Castroneves inherited the lead with less than 5 laps to go, with Patrick charging in second place. Castroneves slowed his pace to conserve fuel, and Patrick took the lead with 2 laps to go. Patrick held on to win, and became the first female to win a race in the history of top-level American open wheel racing.
+
+{|class="wikitable" style="font-size:95%;text-align:center"
+|-
+!colspan=9|Top five finishers
+|-
+! Fin.Pos !! St.Pos !! CarNo. !! Driver !! Team !! Laps !! Time !! LapsLed
+|-
+! 1
+|6
+|7
+|style="text-align:left"| Danica Patrick
+|style="text-align:left"|Andretti Green Racing
+|200
+|align=right|1:51:02.6739
+|3
+|-
+!2
+|1
+|3
+|style="text-align:left"| Hélio Castroneves
+|style="text-align:left"|Penske Racing
+|200
+|align=right|+5.8594
+|94
+|-
+!3
+|2
+|9
+|style="text-align:left"| Scott Dixon
+|style="text-align:left"|Chip Ganassi Racing
+|200
+|align=right|+10.0559
+|101
+|-
+!4
+|5
+|10
+|style="text-align:left"| Dan Wheldon
+|style="text-align:left"|Chip Ganassi Racing
+|200
+|align=right|+13.1116
+|2
+|-
+! 5
+|3
+|11
+|style="text-align:left"| Tony Kanaan
+|style="text-align:left"|Andretti Green Racing
+|200
+|align=right| +16.0731
+|0
+|-
+!colspan=9|Race average speed: 
+|-
+!colspan=9|Lead changes: 5 between 4 drivers
+|-
+!colspan=9|Cautions: 4 for 29 laps
+|}
+
+===Round 3B: Toyota Grand Prix of Long Beach===
+
+* Sunday  April 20–1:00 p.m. PDT / 4:00 p.m. EDT
+* Streets of Long Beach – Long Beach, California (1.968-mile temporary street course)
+* Distance: 1 Hour, 45 Minutes [83 laps, ]. Race used former Champ Car rules which called for a time limit instead of laps run.
+* Race weather: Sunny, 
+* Television: ESPN2 (Marty Reid, Scott Goodyear, Jack Arute, Jamie Little, Brienne Pedigo)
+* Nielsen ratings: 0.51
+* Attendance: 75,000 (race day)Matsuda, Darryl. Champ Car series bids farewell, Mercury News, April 21, 2008
+* Pole Position winner: No. 02 Justin Wilson, 1:06.902 sec, 105.898 mph (170.426 km/h)
+
+The final race of the Champ Car era took place less than a day after the checkered flag fell at the Indy Japan 300. Teams which raced in ChampCars in 2007 stayed in North America for the 34th annual Long Beach Grand Prix, while teams which planned to compete in the IndyCar Series before the merger raced at Motegi.
+
+The contingent of former Champ Car teams produced a 20-car field, all using the turbocharged Cosworth/Panoz DP01 for the final time. From a standing start (the first such at Long Beach since 1983; Champ Car had used the start from June 2007), Will Power got the jump from fourth position to take the lead into turn one. Power led 81 of the 83 laps, relinquishing the top position only during pit stops.
+
+All participants entering other IndyCar races earned points towards the 2008 IndyCar Series championship. All the teams raced together again a week later at Kansas Speedway, and for the remainder of the schedule together.
+
+The race was run under Champ Car rules, which included the standing start, option tire, two-day qualifying format, ran on time (1hr 45 mins) rather than a set number of laps.
+
+{|class="wikitable" style="font-size:95%;text-align:center"
+|-
+!colspan=9|Top five finishers
+|-
+!Fin.Pos !! St.Pos !! CarNo. !! Driver !! Team !! Laps !! Time !! LapsLed
+|-
+!1
+|align=center|4
+|8
+|style="text-align:left"| Will Power
+|style="text-align:left"|KV Racing
+|83
+|align=right|1:45:25.415
+|81
+|-
+!2
+|6
+|7
+|style="text-align:left"| Franck Montagny
+|style="text-align:left"|Forsythe/Pettit Racing
+|83
+|align=right|+5.094
+|0
+|-
+!3
+|10
+|96
+|style="text-align:left"| Mario Domínguez
+|style="text-align:left"|Pacific Coast Motorsports
+|83
+|align=right|+15.516
+|0
+|-
+!4
+|8
+|36
+|style="text-align:left"| Enrique Bernoldi
+|style="text-align:left"|Conquest Racing
+|83
+|align=right|+25.677
+|0
+|-
+!5
+|12
+|5
+|style="text-align:left"| Oriol Servia
+|style="text-align:left"|KV Racing
+|83
+|align=right|+26.276
+|0
+|-
+!colspan=9|Race average speed: 
+|-
+!colspan=9|Lead changes: 3 between 3 drivers
+|-
+!colspan=9|Cautions: 3 for 9 laps
+|}
+
+===Round 4: RoadRunner Turbo Indy 300===
+
+* Sunday  April 27–4:00 p.m. CDT / 5:00 p.m. EDT
+* Kansas Speedway – Kansas City, Kansas (1.52 mile oval)
+* Distance: 200 laps / 304 miles
+* Race weather: Mostly Sunny, 
+* Television: ESPN2 (Marty Reid, Scott Goodyear, Jack Arute, Vince Welch, Brienne Pedigo)
+* Nielsen ratings: 0.74The Score » TV ratings up for Sunday's IRL race
+* Attendance: 70,000 (estimated)Wheldon wins
+* Pole Position winner: No. 9 Scott Dixon 213.496 mph (343.589 km/h)
+
+At the start, Scott Dixon took the lead from the pole position. Meanwhile, Enrique Bernoldi spun and headed to the pits. On lap 23, Will Power crashed in turn 2. While the field pitted under the caution, Justin Wilson stayed out and took the lead.
+
+Dixon took the lead back on the restart, and maintained the lead through the next series of pit stops. On lap 98, the caution came out again for a crash involving E. J. Viso and Tomas Scheckter. After another long green flag segment, Buddy Rice brought out the yellow on lap 153 with a heavy crash in turn 2. In the pits, Danica Patrick retired from the race with a broken wheel hub. Meanwhile, Scott Dixon, who had dominated most of the race, was shuffled back to seventh place.
+
+The race resumed after a long yellow with Dan Wheldon leading. Wheldon pulled away and led the final 49 laps to record his first IndyCar Series victory since April 2007.
+
+{|class="wikitable" style="font-size:95%;text-align:center"
+|-
+!colspan=9|Top five finishers
+|-
+!Fin.Pos !! St.Pos !! CarNo. !! Driver !! Team !! Laps !! Time !! LapsLed
+|-
+!1
+|2
+|10
+|style="text-align:left"| Dan Wheldon
+|style="text-align:left"|Chip Ganassi Racing
+|200
+|align=right|1:52:49.9806
+|49
+|-
+!2
+|11
+|11
+|style="text-align:left"| Tony Kanaan
+|style="text-align:left"|Andretti Green Racing
+|200
+|align=right|+2.1778
+|0
+|-
+!3
+|1
+|9
+|style="text-align:left"| Scott Dixon
+|style="text-align:left"|Chip Ganassi Racing
+|200
+|align=right|+4.3922
+|145
+|-
+! 4
+|8
+|3
+|style="text-align:left"| Hélio Castroneves
+|style="text-align:left"|Penske Racing
+|200
+|align=right|+9.2889
+|1
+|-
+!5
+|14
+|26
+|style="text-align:left"| Marco Andretti
+|style="text-align:left"|Andretti Green Racing
+|200
+|align=right|+9.2986
+|0
+|-
+!colspan=9|Race average speed: 
+|-
+!colspan=9|Lead changes: 5 between 4 drivers
+|-
+!colspan=9|Cautions: 4 for 41 laps
+|}
+
+===Round 5: Indianapolis 500===
+
+* Sunday  May 25–1:11 p.m. EDT
+* Indianapolis Motor Speedway – Speedway, Indiana (2.5 mile oval)
+* Distance: 200 laps / 500 miles
+* Race weather: Partly cloudy, 
+* Television: ABC (Marty Reid, Scott Goodyear, Eddie Cheever, Brent Musburger, Jack Arute, Vince Welch, Brienne Pedigo, Jamie Little)
+* Nielsen ratings: 4.5
+* Attendance: estimated 400,0002008 Indianapolis 500 facts and figures – Auto Racing – CBSSports.com Sprint Cup, Nationwide, Trucks
+* Pole Position winner: No. 9 Scott Dixon, 2:39.0348, 226.366 mph (364.301 km/h)
+Polesitter Scott Dixon led 115 laps, including the last 29, to win his first Indy 500. Several cars, including Tony Kanaan, Graham Rahal, Jeff Simmons and Justin Wilson were involved in crashes. With 29 laps to go Danica Patrick was eliminated when Ryan Briscoe clipped her car exiting the pits, damaging both. They were fined $100,000 and placed on probation for their actions. 
+
+{|class="wikitable" style="font-size:95%;text-align:center"
+|-
+!colspan=9|Top five finishers
+|-
+!Fin.Pos !! St.Pos !! CarNo. !! Driver !! Team !! Laps !! Time !! LapsLed
+|-
+!1
+|1
+|9
+|style="text-align:left"| Scott Dixon
+|style="text-align:left"|Chip Ganassi Racing
+|200
+|align=right|3:28:57.6792
+|115
+|-
+!2
+|8
+|4
+|style="text-align:left"| Vítor Meira
+|style="text-align:left"|Panther Racing
+|200
+|align=right|+1.7498
+|12
+|-
+!3
+|7
+|26
+|style="text-align:left"| Marco Andretti
+|style="text-align:left"|Andretti Green Racing
+|200
+|align=right|+2.3127
+|15
+|-
+!4
+|4
+|3
+|style="text-align:left"| Hélio Castroneves
+|style="text-align:left"|Penske Racing
+|200
+|align=right|+6.2619
+|0
+|-
+!5
+|10
+|20
+|style="text-align:left"| Ed Carpenter
+|style="text-align:left"|Vision Racing
+|200
+|align=right|+6.5505
+|2
+|-
+!colspan=9|Race average speed: 
+|-
+!colspan=9|Lead changes: 18 between 9 drivers
+|-
+!colspan=9|Cautions: 8 for 69 laps
+|}
+
+===Round 6: ABC Supply Company A. J. Foyt 225===
+
+* Sunday  June 1–3:00 p.m. CDT / 4:00 p.m. EDT
+* Milwaukee Mile – West Allis, Wisconsin (1.032 mile oval)
+* Distance: 225 laps / 232.2 miles
+* Race weather: , sunny
+* Television: ESPN on ABC (Marty Reid, Scott Goodyear, Jack Arute, Vince Welch, Brienne Pedigo)
+* Nielsen ratings: 0.8Final Nielsen Ratings From Recent Sports Events, Sports Business Daily, June 4, 2008
+* Attendance: 28,000
+* Pole Position winner: No. 26 Marco Andretti 1:26.9591 168.053 mph (270.455 km/h) (4 laps)
+
+Marco Andretti took the lead from the pole position, and led the first 40 laps. He was chased early by Scott Dixon and teammate Tony Kanaan. Graham Rahal, who started on the outside of the front row, shuffled back, but remained in the top 5 for the first half of the race.
+
+The first half was mostly green, with only a minor caution involving Oriol Servia and another for debris. Later in the first fuel segment, Andretti's handling started to suffer, and Scott Dixon took over the lead. Hélio Castroneves took over second, and Andretti fell back as deep as tenth.
+
+On lap 130, Graham Rahal went high in turn three to pass Darren Manning. He got into the marbles, and brushed along the wall in turn four. After holding the lead for 136 laps, Dixon was finally challenged by Ryan Briscoe. Briscoe took over the lead on lap 177, and held it until a green flag pit stop on lap 194. After a sequence of pit stops, Castroneves, Andretti and Wheldon all cycled near the front. When all pit stops were complete, Briscoe held a half-second lead over Dixon. The two battled for the lead over the final 21 laps.
+
+With less than three laps to go, Marco Andretti dove underneath Ed Carpenter in turn one. The cars touched, and both cars spun into the wall. Vítor Meira became caught up in the smoke, and rode up over Andretti, becoming airborne. He landed upright, and all drivers were uninjured. The race finished under caution with Ryan Briscoe picking up his first career IndyCar victory, and 300th overall win for the Mooresville, North Carolina-based Penske Racing in all motorsports series.
+
+{|class="wikitable" style="font-size:95%;text-align:center"
+|-
+!colspan=9|Top five finishers
+|-
+!Fin.Pos !! St.Pos !! CarNo. !! Driver !! Team !! Laps !! Time !! LapsLed
+|-
+!1
+|11
+|6
+|style="text-align:left"| Ryan Briscoe
+|style="text-align:left"|Penske Racing
+|225
+|align=right|1:42:41.7387
+|36
+|-
+!2
+|3
+|9
+|style="text-align:left"| Scott Dixon
+|style="text-align:left"|Chip Ganassi Racing
+|225
+|align=right|+0.0487
+|147
+|-
+!3
+|6
+|11
+|style="text-align:left"| Tony Kanaan
+|style="text-align:left"|Andretti Green Racing
+|225
+|align=right|+1.8413
+|0
+|-
+!4
+|7
+|10
+|style="text-align:left"| Dan Wheldon
+|style="text-align:left"|Chip Ganassi Racing
+|225
+|align=right|+2.9314
+|0
+|-
+!5
+|5
+|3
+|style="text-align:left"| Hélio Castroneves
+|style="text-align:left"|Penske Racing
+|225
+|align=right| 4.6704
+|2
+|-
+!colspan=9|Race average speed: 
+|-
+!colspan=9|Lead changes: 5 between 4 drivers
+|-
+!colspan=9|Cautions: 4 for 29 laps
+|}
+
+===Round 7: Bombardier Learjet 550===
+
+* Saturday  June 7–9:00 p.m. CDT / 10:00 p.m. EDT
+* Texas Motor Speedway – Fort Worth, Texas (1.455 mile oval)
+* Distance: 228 laps / 
+* Race weather:
+* Television: ESPN2 (Marty Reid, Scott Goodyear, Jack Arute, Brienne Pedigo)
+* Nielsen ratings: 1.0 (highest rated IRL race broadcast on ESPN2 and second-highest rated IRL race on any ESPN station)
+* Attendance: 83,000
+* Pole Position winner: No. 9 Scott Dixon 1:37.5063 214.878 mph (345.813 km/h) (4 laps)
+
+In the first half, three single-car incidents involving Mario Domínguez, Justin Wilson, and Oriol Servia slowed the race. The lead changed hands between Hélio Castroneves, Bruno Junqueira, and Scott Dixon for the first 100 laps.
+
+Two sequences of green flag pit stops occurred under a long stretch of green flag conditions. A caution for debris came out on lap 165, sending the leaders to the pits once more. Vítor Meira stayed out to take over the lead.
+
+With 21 laps to go, Meira was forced to pit for fuel, giving up the lead to Marco Andretti. Moments later, Enrique Bernoldi crashed in turn four. Andretti led the field back to green on lap 219.
+
+With six laps to go, Scott Dixon slipped by Andretti to take the lead. On the next lap, down the backstretch, third place Ryan Hunter-Reay dove below Andretti heading into turn three. Hunter-Reay pinched his left wheels onto the apron, lost control, and touched wheels with Andretti. Both cars spun and crashed hard into the wall. The race finished under caution with Dixon the winner, and Hélio Castroneves slipping by the accident to finish second.
+
+{|class="wikitable" style="font-size:95%;text-align:center"
+|-
+!colspan=9|Top five finishers
+|-
+!Fin.Pos !! St.Pos !! CarNo. !! Driver !! Team !! Laps !! Time !! LapsLed
+|-
+!1
+|1
+|9
+|style="text-align:left"| Scott Dixon
+|style="text-align:left"|Chip Ganassi Racing
+|228
+|align=right|2:04:36.3153
+|58
+|-
+!2
+|2
+|3
+|style="text-align:left"| Hélio Castroneves
+|style="text-align:left"|Penske Racing
+|228
+|align=right|+0.0479
+|85
+|-
+!3
+|3
+|6
+|style="text-align:left"| Ryan Briscoe
+|style="text-align:left"|Penske Racing
+|228
+|align=right|+0.6173
+|12
+|-
+!4
+|7
+|10
+|style="text-align:left"| Dan Wheldon
+|style="text-align:left"|Chip Ganassi Racing
+|228
+|align=right|+3.3000
+|0
+|-
+!5
+|6
+|11
+|style="text-align:left"| Tony Kanaan
+|style="text-align:left"|Andretti Green Racing
+|228
+|align=right|+4.3124
+|0
+|-
+!colspan=9|Race average speed: 
+|-
+!colspan=9|Lead changes: 21 between 6 drivers
+|-
+!colspan=9|Cautions: 8 for 52 laps
+|}
+
+===Round 8: Iowa Corn Indy 250===
+
+* Sunday  June 22–12:00 p.m. CDT / 1:00 p.m. EDT
+* Iowa Speedway – Newton, Iowa (0.875 mile oval)
+* Distance: 250 laps / 
+* Race weather: , Sunny
+* Television: ABC (Marty Reid, Scott Goodyear, Jack Arute, Brienne Pedigo)
+* Nielsen ratings: 1.1The Ratings Game. Sports Media Watch
+* Attendance: 39,271Gray, Rob. , Des Moines Register, June 23, 2008 
+* Pole Position winner: No. 9 Scott Dixon (qualifying rained out; lineup set by IndyCar points standings)
+
+At the green flag, Hélio Castroneves took the lead in turn 1 from polesitter Scott Dixon. Tony Kanaan quickly moved up to second position. Over the next 10–15 laps, Castroneves and Kanaan battled back-and-forth for the lead, side-by-side on many laps. Kanaan finally muscled the lead away on lap 16, and gained a lead of roughly one second.
+
+On lap 39, Ed Carpenter brushed the outside wall in turn 2. The leaders pit, and Kanaan exited the pits as the leader. On lap 51, the green came back out, and a lap later, Castroneves got by Kanaan for the lead. Jaime Camara brought out the yellow on lap 106 when his car lost power and stopped on the course. After another sequence of pit stops, Tony Kanaan led Dan Wheldon and Marco Andretti. On the restart, Wheldon lost control and slid up the track, falling to 8th place.
+
+On lap 157 Mario Moraes spun into the pit apron, bringing out a caution, and the leaders pitted. John Andretti's pitcrew had trouble engaging the fuel hose, and he dropped back the end of the running order. Prior to this he had been running in 7th place, one of the highest positions ever for a Roth Racing car.
+
+Castroneves regained the lead on lap 170, and held it until another yellow came out on lap 188 for a spin by Enrique Bernoldi. Most of the leaders pitted, but Dan Wheldon, Hideki Mutoh, and Danica Patrick stayed out to lead the field. On the restart Mario Moraes spun for the second time of the day, and prolonged the yellow until lap 202. On lap 212, Tony Kanaan (running third) suddenly lost control and crashed in turn 1.
+
+On the lap 227 restart, Marco Andretti and Scott Dixon passed Danica Patrick to take third and fourth place respectively. Over the final 15 laps, Mutoh and Andretti battled for second, with Mutoh holding off Andretti's challenge. Dan Wheldon went on to win, and Chip Ganassi Racing donated their race winnings from both cars to Iowa flood relief. After getting by Danica Patrick late in the race, A. J. Foyt IV finished in the top 5, while John Andretti just missed the top 10, working his way back to 11th.
+
+{|class="wikitable" style="font-size:95%;text-align:center"
+|-
+!colspan=9|Top five finishers
+|-
+!Fin.Pos !! St.Pos !! CarNo. !! Driver !! Team !! Laps !! Time !! LapsLed
+|-
+!1
+|3
+|10
+|style="text-align:left"| Dan Wheldon
+|style="text-align:left"|Chip Ganassi Racing
+|250
+|align=right| 1:30:50.3110
+|61
+|-
+!2
+|7
+|27
+|style="text-align:left"| Hideki Mutoh
+|style="text-align:left"|Andretti Green Racing
+|250
+|align=right|+0.1430
+|0
+|-
+!3
+|8
+|26
+|style="text-align:left"| Marco Andretti
+|style="text-align:left"|Andretti Green Racing
+|250
+|align=right|+0.9028
+|26
+|-
+!4
+|1
+|9
+|style="text-align:left"| Scott Dixon
+|style="text-align:left"|Chip Ganassi Racing
+|250
+|align=right|+1.2726
+|0
+|-
+!5
+|18
+|2
+|style="text-align:left"| A. J. Foyt IV
+|style="text-align:left"|Vision Racing
+|250
+|align=right|+1.3564
+|0
+|-
+!colspan=9|Race average speed: 
+|-
+!colspan=9|Lead changes: 9 between 4 drivers
+|-
+!colspan=9|Cautions: 6 for 57 laps
+|}
+
+===Round 9: SunTrust Indy Challenge===
+
+* Saturday  June 28–8:00 p.m. EDT
+* Richmond International Raceway – Richmond, Virginia (0.750 mile oval)
+* Distance: 300 laps / 
+* Race weather: , Hazy
+* Television: ESPN (Marty Reid, Scott Goodyear, Jack Arute, Brienne Pedigo)
+* Nielsen ratings: 0.9
+* Attendance: 60,000 
+* Pole Position winner: No. 11 Tony Kanaan 167.876 mph (270.170 km/h)
+
+At the start, Ryan Hunter-Reay spun just before the start/finish line, which brought the yellow out immediately. The first 7 laps were run under yellow with Tony Kanaan leading from the pole position. On lap 8, the green came out, but only one lap was completed before the next yellow. Will Power was driving below Hélio Castroneves, lost control, and crashed in turn 4. The race finally got going on lap 21, when the green came out once again.
+
+On lap 31, A. J. Foyt IV touched wheels with John Andretti, and Foyt crashed in the wall in turn 2. His Vision Racing teammate Ed Carpenter ran over debris from the crash, and both cars were sidelined. During the caution, a handful of cars pitted, including Danica Patrick and rookie Jaime Camara, but most of the leaders stayed on the track.
+
+Kanaan continued to lead when debris brought out the caution again on lap 67. All of the leaders pitted, while Camara and Patrick stayed out and took the first two spots. On the restart, Camara led the field, but Buddy Rice spun and tagged the wall on the frontstretch. The field checked up, and Darren Manning, Ryan Briscoe and Bruno Junqueira were involved in a separate crash.
+
+Camara led at the next restart, while Kanaan, Patrick, and Castroneves went 3-wide for second. Behind them in turn 2, John Andretti and Vítor Meira tangled, and crashed hard in the wall. Patrick returned to the pits, and topped off with fuel. Camara continued to lead, and impressively held off Kanaan on the restart. On lap 116, Marco Andretti caught up to Camara, and took the lead for the first time.
+
+Graham Rahal crashed on lap 133 in turn 4. Many of the leaders pitted, but Andretti stayed out to lead. Another restart saw only three green laps, as yet another crash occurred, this time involving Ryan Hunter-Reay and Mario Moraes. Around this time, some teams anticipated that rain might end the race early.
+
+Marco Andretti gave up the lead on lap 204 when he made his final pit stop. That put Tony Kanaan back into the lead. On lap 217, after a brilliant run in the top five, Jaime Camara lost control and crashed on the frontstretch. The yellow trapped Andretti a lap down, and kept Kanaan in the lead after the final sequence of pits stops. The rain held off, and Kanaan led the rest of the way for his first victory of the season.
+{|class="wikitable" style="font-size:95%;text-align:center"
+|-
+!colspan=9|Top five finishers
+|-
+!Fin.Pos !! St.Pos !! CarNo. !! Driver !! Team !! Laps !! Time !! LapsLed
+|-
+!1
+|1
+|11
+|style="text-align:left"| Tony Kanaan
+|style="text-align:left"|Andretti Green Racing
+|300
+|align=right| 2:04:05.5111
+|166
+|-
+!2
+|18
+|3
+|style="text-align:left"| Hélio Castroneves
+|style="text-align:left"|Penske Racing
+|300
+|align=right|+4.7691
+|0
+|-
+!3
+|4
+|9
+|style="text-align:left"| Scott Dixon
+|style="text-align:left"|Chip Ganassi Racing
+|300
+|align=right|+6.6504
+|0
+|-
+!4
+|6
+|10
+|style="text-align:left"| Dan Wheldon
+|style="text-align:left"|Chip Ganassi Racing
+|300
+|align=right|+7.7270
+|0
+|-
+!5
+|10
+|5
+|style="text-align:left"| Oriol Servia
+|style="text-align:left"|KV Racing
+|300
+|align=right|+10.7701
+|0
+|-
+!colspan=9|Race average speed: 
+|-
+!colspan=9|Lead changes: 3 between 3 drivers
+|-
+!colspan=9|Cautions: 9 for 102 laps
+|}
+
+===Round 10: Camping World Watkins Glen Grand Prix===
+
+* Sunday  July 6–3:30 p.m. EDT
+* Watkins Glen International – Watkins Glen, New York (3.40 mile permanent road course)
+* Distance: 60 laps / 
+* Race weather:
+* Television: ABC (Marty Reid, Scott Goodyear, Jack Arute, Brienne Pedigo)
+* Nielsen ratings: 1.1
+* Attendance: 30,000Miller, Robin. Open Wheel Notebook , July 8, 2008
+* Pole Position winner: No. 6 Ryan Briscoe 1:29.3456 135.787 mph (218.528 km/h)
+
+
+Polesitter Ryan Briscoe led from the start, but Scott Dixon, who qualified fourth, quickly passed Justin Wilson and Ryan Hunter-Reay to move into second for most of the first half of the race. Dixon was unable to pass Briscoe, but posed a serious challenge and posted comparable lap times.
+
+The start of the race was relatively attrition-free, except for incidents involving two championship contenders. Dan Wheldon made contact with Darren Manning on the first lap, leading to suspension damage for Wheldon. On lap 6 Hélio Castroneves, who had started last after being unable to post a time in qualifying due to a broken throttle, snapping his streak of three consecutive poles at Watkins Glen, had a gearbox problem and stopped just shy of pit lane. With few other drivers dropping out in the first 40 laps, Dixon was poised to massively increase his points lead.
+
+After a brief interlude when Vítor Meira led during a pit stop cycle, Briscoe and Dixon returned to the top two positions and thoroughly dominated the race, leading third-place Hunter-Reay by over 20 seconds. However, Meira and E. J. Viso made contact in turn 8 and the ensuing caution period allowed the other lead-lap cars to catch up to Briscoe and Dixon. All drivers pitted on this caution period except Manning, who stayed out of the pits in an attempt to stretch his fuel mileage. Dixon beat Briscoe and Hunter-Reay out of the pits, but Manning took the lead.
+
+A brief green-flag period on lap 44 ended when Enrique Bernoldi crashed in turn 1, and then the race took a rather unusual turn, with two wrecks occurring under the caution period, before the race returned to green. A restart was waved off when A. J. Foyt IV and Milka Duno crashed in turn 9. Once that was cleaned up, and the IRL officials attempted to restart the race again, Dixon, who was swerving his tires to clean them, unexpectedly spun out and collected Briscoe. Hunter-Reay, who avoided the wreck, suddenly found himself second to Manning.
+
+On lap 51, the race returned to green, with Manning ahead of Hunter-Reay. Hunter-Reay, who had no need to conserve fuel, newer tires, and a stronger car, easily dispatched of Manning in a short green-flag period before another caution came out for Jaime Camara's crash in turn 6. This was the final caution of the race, and Hunter-Reay won easily, claiming his first win in IndyCar, his first American open wheel win since 2004, and the Rahal Letterman Racing team's first win since 2004, with Buddy Rice. Manning did not come close to running out of fuel with all the cautions and finished second, his best career finish. With Castroneves, Wheldon, and Dixon's trouble, Tony Kanaan, who finished third, was the big gainer in the points standings, but Dixon still held a lead of 48 points on Castroneves, and 51 on Wheldon.
+
+{|class="wikitable" style="font-size:95%;text-align:center"
+|-
+!colspan=9|Top five finishers
+|-
+!Fin.Pos !! St.Pos !! CarNo. !! Driver !! Team !! Laps !! Time !! LapsLed
+|-
+!1
+|3
+|17
+|style="text-align:left"| Ryan Hunter-Reay
+|style="text-align:left"|Rahal Letterman Racing
+|60
+|align=right|1:54:01.1795
+|9
+|-
+!2
+|8
+|14
+|style="text-align:left"| Darren Manning
+|style="text-align:left"|A. J. Foyt Racing
+|60
+|align=right|+2.4009
+|10
+|-
+!3
+|6
+|11
+|style="text-align:left"| Tony Kanaan
+|style="text-align:left"|Andretti Green Racing
+|60
+|align=right|+4.1054
+|0
+|-
+!4
+|17
+|15
+|style="text-align:left"| Buddy Rice
+|style="text-align:left"|Dreyer & Reinbold Racing
+|60
+|align=right|+4.8111
+|0
+|-
+!5
+|7
+|26
+|style="text-align:left"| Marco Andretti
+|style="text-align:left"|Andretti Green Racing
+|60
+|align=right|+5.3132
+|0
+|-
+!colspan=9|Race average speed: 
+|-
+!colspan=9|Lead changes: 5 between 4 drivers
+|-
+!colspan=9|Cautions: 6 for 14 laps
+|}
+
+===Round 11: Firestone Indy 200===
+
+* Saturday  July 12–7:00 p.m. CDT
+* Nashville Superspeedway – Lebanon, Tennessee (1.333 mile concrete oval)
+* Distance: 200 laps /  (shortened to 171 laps / 228 miles due to rain)
+* Race weather: , rain throughout the afternoon and evening
+* Television: ESPN (Marty Reid, Scott Goodyear, Jack Arute, Vince Welch, Brienne Pedigo)
+* Nielsen ratings: 0.5
+* Attendance: 29,000Kreager, Tom. Nashville Superspeedway loses IRL race, The Tennessean, July 28, 2008
+* Pole Position winner: No. 3 Hélio Castroneves 1:31.5320 204.519 mph (329.141 km/h) 4-lap average
+:
+Pole winner Hélio Castroneves led at the start, with Danica Patrick second. On lap 3, Marco Andretti's car wiggled in turn 2, made contact with Ryan Briscoe, and both cars crashed into the outside wall. After the caution, Castroneves continued to lead, and Patrick held on to second.
+
+On lap 45, Patrick attempted to take the lead, but Castroneves was able to hold the position. The move shuffled Patrick back to fifth position. After the first sequence of pit stops, the lead changed hands between Scott Dixon and Tony Kanaan. Kanaan held the lead through the next caution, when Ryan Hunter-Reay crashed in turn 3 on lap 100. All of the leaders pitted under the yellow on lap 102.
+
+On lap 139, Kanaan continued to lead when a light rain brought out the caution. On lap 149, Kanaan, Vítor Meira, Patrick, Castroneves, and others, pitted for tires and fuel. Scott Dixon and Dan Wheldon, however, stayed out and moved into the lead. When the rain stopped, the race went back to green on lap 152.
+
+Scott Dixon led Dan Wheldon as the race passed the 160 lap mark (40 laps to go). With fuel running low, both cars gambled on the rain resuming. On lap 166, rain began to fall, with Dixon the leader. Heavy rain put out the red flag after lap 171. Fifteen minutes later, the race was called, and Scott Dixon was declared the winner.
+
+{|class="wikitable" style="font-size:95%;text-align:center"
+|-
+!colspan=9|Top five finishers
+|-
+!Fin.Pos !! St.Pos !! CarNo. !! Driver !! Team !! Laps !! Time !! LapsLed
+|-
+!1
+|5
+|9
+|style="text-align:left"| Scott Dixon
+|style="text-align:left"|Chip Ganassi Racing
+|171
+|align=right|1:30:04.6499
+|53
+|-
+!2
+|6
+|10
+|style="text-align:left"| Dan Wheldon
+|style="text-align:left"|Chip Ganassi Racing
+|171
+|align=right|+1.0680
+|0
+|-
+!3
+|1
+|3
+|style="text-align:left"| Hélio Castroneves
+|style="text-align:left"|Penske Racing
+|171
+|align=right|+4.1054
+|54
+|-
+!4
+|7
+|11
+|style="text-align:left"| Tony Kanaan
+|style="text-align:left"|Andretti Green Racing
+|171
+|align=right|+6.4612
+|59
+|-
+!5
+|2
+|7
+|style="text-align:left"| Danica Patrick
+|style="text-align:left"|Andretti Green Racing
+|171
+|align=right|+7.8301
+|0
+|-
+!colspan=9|Race average speed: 
+|-
+!colspan=9|Lead changes: 5 between 4 drivers
+|-
+!colspan=9|Cautions: 4 for 37 laps
+|}
+
+===Round 12: Honda 200===
+
+* Sunday  July 20–1:30 p.m. CDT
+* Mid-Ohio Sports Car Course – Lexington, Ohio (2.4 mile permanent road course)
+* Distance: 85 laps / 
+* Race weather:
+* Television: ESPN on ABC (Marty Reid, Scott Goodyear, Jack Arute, Vince Welch, Brienne Pedigo)
+* Nielsen ratings: 1.5 (overnight),Miller, Robin. Double or Nothin' , SpeedTV.com, July 21, 2008 1.3 (final)Weekend ratings predictions., Sports Media Watch, July 26, 2008
+* Attendance:
+* Pole Position winner: No. 3 Hélio Castroneves 1:07.2480 120.878 mph (194.534 km/h)
+
+{|class="wikitable" style="font-size:95%;text-align:center"
+|-
+!colspan=9|Top five finishers
+|-
+!Fin.Pos !! St.Pos !! CarNo. !! Driver !! Team !! Laps !! Time !! LapsLed
+|-
+!1
+|2
+|6
+|style="text-align:left"| Ryan Briscoe
+|style="text-align:left"|Penske Racing
+|85
+|align=right|2:01:22.8496
+|43
+|-
+!2
+|1
+|3
+|style="text-align:left"| Hélio Castroneves
+|style="text-align:left"|Penske Racing
+|85
+|align=right|+7.2640
+|5
+|-
+!3
+|6
+|9
+|style="text-align:left"| Scott Dixon
+|style="text-align:left"|Chip Ganassi Racing
+|85
+|align=right|+7.6967
+|0
+|-
+!4
+|12
+|8
+|style="text-align:left"| Will Power
+|style="text-align:left"|KV Racing
+|85
+|align=right|+12.7569
+|3
+|-
+!5
+|8
+|5
+|style="text-align:left"| Oriol Servia
+|style="text-align:left"|KV Racing
+|85
+|align=right|+13.4713
+|0
+|-
+!colspan=9|Race average speed: 
+|-
+!colspan=9|Lead changes: 7 between 7 drivers
+|-
+!colspan=9|Cautions: 5 for 19 laps
+|}
+
+===Round 13: Edmonton Indy|Rexall Edmonton Indy===
+
+* Saturday  July 26–3:00 p.m. MDT / 5:00 p.m. EDT
+* Edmonton City Centre Airport – Edmonton, Alberta (1.96 mile temporary airport course)
+* Distance: 95 laps /  (shortened to 91 laps / 178.36 miles due to 1-hour 50-minute time limit)
+* Race weather: 83F
+* Television: ESPN (Bob Jenkins, Scott Goodyear, Jon Beekhuis, Brienne Pedigo)
+* Nielsen ratings: 0.8
+* Attendance: 60,000
+* Pole Position winner: No. 6 Ryan Briscoe 1:00.7311 116.955 mph (188.221 km/h)
+:
+
+{|class="wikitable" style="font-size:95%;text-align:center"
+|-
+!colspan=9|Top five finishers
+|-
+!Fin.Pos !! St.Pos !! CarNo. !! Driver !! Team !! Laps !! Time !! LapsLed
+|-
+!1
+|4
+|9
+|style="text-align:left"| Scott Dixon
+|style="text-align:left"|Chip Ganassi Racing
+|91
+|align=right|1:51:05.7039
+|30
+|-
+!2
+|2
+|3
+|style="text-align:left"| Hélio Castroneves
+|style="text-align:left"|Penske Racing
+|91
+|align=right|+5.9237
+|35
+|-
+!3
+|6
+|02
+|style="text-align:left"| Justin Wilson
+|style="text-align:left"|Newman/Haas/Lanigan Racing
+|91
+|align=right|+13.4009
+|0
+|-
+!4
+|15
+|22
+|style="text-align:left"| Paul Tracy
+|style="text-align:left"|Vision Racing
+|91
+|align=right|+28.1462
+|0
+|-
+!5
+|3
+|5
+|style="text-align:left"| Oriol Servia
+|style="text-align:left"|KV Racing
+|91
+|align=right|+28.7132
+|0
+|-
+!colspan=9|Race average speed: 
+|-
+!colspan=9|Lead changes: 9 between 6 drivers
+|-
+!colspan=9|Cautions: 4 for 19 laps
+|}
+
+===Round 14: Meijer Indy 300===
+
+* Saturday  August 9–6:30 p.m. CDT / 5:30 p.m. EDT
+* Kentucky Speedway – Sparta, Kentucky (1.5 mile oval)
+* Distance: 200 laps / 300 miles
+* Race weather:
+* Television: ESPN2 (Marty Reid, Scott Goodyear, Jack Arute, Vince Welch, Brienne Pedigo)
+* Nielsen ratings: 0.43 (overnight)
+* Attendance: 66,000+Kentucky Speedway Friday news , August 8, 2008
+* Pole Position winner: No. 9 Scott Dixon, 218.968 mph (352.395 km/h)
+:
+This race had a shuffling finish, with Dixon, Andretti and Meira each leading at least one lap in the dying stages before pitting for splash-and-go stops. Castroneves inherited the lead, stayed out as his team assumed he would have enough fuel to finish, and was still leading when the white flag came out. But on the final corner, Castroneves ran out of fuel and Dixon flew past to take his sixth win of the season.
+
+{|class="wikitable" style="font-size:95%;text-align:center"
+|-
+!colspan=9|Top five finishers
+|-
+!Fin.Pos !! St.Pos !! CarNo. !! Driver !! Team !! Laps !! Time !! LapsLed
+|-
+!1
+|1
+|9
+|style="text-align:left"| Scott Dixon
+|style="text-align:left"|Chip Ganassi Racing
+|200
+|align=right|1:36:42.3467
+|151
+|-
+!2
+|6
+|3
+|style="text-align:left"| Hélio Castroneves
+|style="text-align:left"|Penske Racing
+|200
+|align=right|+0.5532
+|5
+|-
+!3
+|9
+|26
+|style="text-align:left"| Marco Andretti
+|style="text-align:left"|Andretti Green Racing
+|200
+|align=right|+0.5707
+|38
+|-
+!4
+|2
+|4
+|style="text-align:left"| Vítor Meira
+|style="text-align:left"|Panther Racing
+|200
+|align=right|+0.9102
+|5
+|-
+!5
+|3
+|10
+|style="text-align:left"| Dan Wheldon
+|style="text-align:left"|Chip Ganassi Racing
+|200
+|align=right|+2.1472
+|0
+|-
+!colspan=9|Race average speed: 
+|-
+!colspan=9|Lead changes: 10 between 5 drivers
+|-
+!colspan=9|Cautions: 4 for 19 laps
+|}
+
+===Round 15: Peak Antifreeze & Motor Oil Indy Grand Prix===
+
+* Sunday  August 24–2:30 p.m. PDT / 5:30 p.m. EDT
+* Infineon Raceway – Sonoma, California (2.303 mile road course)
+* Distance: 80 laps / 184.24 miles
+* Race weather:
+* Television: ESPN2 (Marty Reid, Scott Goodyear, Jack Arute, Vince Welch, Brienne Pedigo)
+* Nielsen ratings: 0.41
+* Attendance:
+* Pole Position winner: No. 3 Hélio Castroneves 1:16.9027 sec, 107.809 mph (173.502 km/h)
+:
+After so many second places, this was the race Castroneves had been waiting for, with a smooth, dominant drive to claim his long-awaited first win of the season and close the gap on Dixon in the title race.
+
+{|class="wikitable" style="font-size:95%;text-align:center"
+|-
+!colspan=9|Top five finishers
+|-
+!Fin.Pos !! St.Pos !! CarNo. !! Driver !! Team !! Laps !! Time !! LapsLed
+|-
+!1
+|1
+|3
+|style="text-align:left"| Hélio Castroneves
+|style="text-align:left"|Penske Racing
+|80
+|align=right|1:50:15.8282
+|51
+|-
+!2
+|2
+|6
+|style="text-align:left"| Ryan Briscoe
+|style="text-align:left"|Penske Racing
+|80
+|align=right|+5.2926
+|19
+|-
+!3
+|4
+|11
+|style="text-align:left"| Tony Kanaan
+|style="text-align:left"|Andretti Green Racing
+|80
+|align=right|+16.6032
+|1
+|-
+!4
+|16
+|10
+|style="text-align:left"| Dan Wheldon
+|style="text-align:left"|Chip Ganassi Racing
+|80
+|align=right|+17.7720
+|0
+|-
+!5
+|9
+|7
+|style="text-align:left"| Danica Patrick
+|style="text-align:left"|Andretti Green Racing
+|80
+|align=right|+25.8458
+|0
+|-
+!colspan=9|Race average speed: 
+|-
+!colspan=9|Lead changes: 8 between 4 drivers
+|-
+!colspan=9|Cautions: 1 for 2 laps
+|}
+
+===Round 16: Detroit Indy Grand Prix===
+
+* Sunday  August 31–2:30 p.m. CDT / 3:30 p.m. EDT
+* The Raceway on Belle Isle – Detroit, Michigan (2.07 mile temporary street course)
+* Distance: 90 laps / 186.3 miles (shortened to 87 laps / 180.09 miles due to 2-hour time limit)
+* Race weather: 86F
+* Television: ABC (Marty Reid, Scott Goodyear, Jack Arute, Vince Welch, Brienne Pedigo)
+* Nielsen ratings: 0.9(Belated) weekend Ratings, Sports Business Daily, September 3, 2008
+* Attendance: 100,000 (weekend)
+
+
+* Pole Position winner: No. 9 Scott Dixon 1:12.2861 sec, 103.090 mph (165.907 km/h)
+:
+The finish to this race was not without controversy. Late in the race, Castroneves led Wilson by less than a second, and Castroneves appeared to make an illegal block, causing IRL officials to penalize him, allowing Wilson to move past and take the win by more than 4 seconds.
+
+{|class="wikitable" style="font-size:95%;text-align:center"
+|-
+!colspan=9|Top five finishers
+|-
+!Fin.Pos !! St.Pos !! CarNo. !! Driver !! Team !! Laps !! Time !! LapsLed
+|-
+!1
+|4
+|02
+|style="text-align:left"| Justin Wilson
+|style="text-align:left"|Newman/Haas/Lanigan Racing
+|87
+|align=right|2:00:10.7618
+|15
+|-
+!2
+|2
+|3
+|style="text-align:left"| Hélio Castroneves
+|style="text-align:left"|Penske Racing
+|87
+|align=right|+4.4058
+|53
+|-
+!3
+|8
+|11
+|style="text-align:left"| Tony Kanaan
+|style="text-align:left"|Andretti Green Racing
+|87
+|align=right|+17.6815
+|0
+|-
+!4
+|3
+|5
+|style="text-align:left"| Oriol Servia
+|style="text-align:left"|KV Racing
+|87
+|align=right|+26.5468
+|0
+|-
+!5
+|1
+|9
+|style="text-align:left"| Scott Dixon
+|style="text-align:left"|Chip Ganassi Racing
+|87
+|align=right|+27.7185
+|18
+|-
+!colspan=9|Race average speed: 
+|-
+!colspan=9|Lead changes: 4 between 4 drivers
+|-
+!colspan=9|Cautions: 4 for 11 laps
+|}
+
+===Round 17: Peak Antifreeze & Motor Oil Indy 300===
+
+* Sunday  September 7–2:30 p.m. CDT / 3:30 p.m. EDT
+* Chicagoland Speedway – Joliet, Illinois (1.52 mile oval)
+* Distance: 200 laps / 304 miles
+* Race weather:
+* Television: ABC (Marty Reid, Scott Goodyear, Jack Arute, Vince Welch, Brienne Pedigo)
+* Nielsen ratings: 0.8Weekend Ratings, Sports Business Daily, September 9, 2008
+* Attendance:
+* Pole Position winner: No. 6 Ryan Briscoe, 215.818 mph (347.325 km/h)
+: The final points race saw Hélio Castroneves winning his second round of the season, having started dead last after being demoted to the rear of the grid due to him illegally moving his car below the white line during qualifications. His drive from 28th to first was the farthest back a driver has won an IndyCar Series race from. The Brazilian held off the newly crowned champion Scott Dixon by 0.0033 seconds or 12⅛ inches, in the second closest finish in the twelve-year history of the series. The race was originally given to Dixon by what would have been a closest winning margin of 0.0010 seconds, but the result was changed following a review. Hideki Mutoh claimed rookie of the year after he finished 22nd and Justin Wilson could finish no higher than 11th.
+
+{|class="wikitable" style="font-size:95%;text-align:center"
+|-
+!colspan=9|Top five finishers
+|-
+!Fin.Pos !! St.Pos !! CarNo. !! Driver !! Team !! Laps !! Time !! LapsLed
+|-
+!1
+|28
+|3
+|style="text-align:left"| Hélio Castroneves
+|style="text-align:left"|Penske Racing
+|200
+|align=right|2:01:04.5907
+|79
+|-
+!2
+|2
+|9
+|style="text-align:left"| Scott Dixon
+|style="text-align:left"|Chip Ganassi Racing
+|200
+|align=right|+0.0033
+|15
+|-
+!3
+|1
+|6
+|style="text-align:left"| Ryan Briscoe
+|style="text-align:left"|Penske Racing
+|200
+|align=right|+0.0811
+|41
+|-
+!4
+|4
+|11
+|style="text-align:left"| Tony Kanaan
+|style="text-align:left"|Andretti Green Racing
+|200
+|align=right|+0.6128
+|47
+|-
+!5
+|10
+|8
+|style="text-align:left"| Will Power
+|style="text-align:left"|KV Racing
+|200
+|align=right|+1.3613
+|0
+|-
+!colspan=9|Race average speed: 
+|-
+!colspan=9|Lead changes: 22 between 6 drivers
+|-
+!colspan=9|Cautions: 7 for 53 laps
+|}
+
+===Nikon Indy 300===
+
+* Sunday  October 26–12:30 p.m. AEST / Saturday  October 25–10:30 p.m. EDT
+* Surfers Paradise Street Circuit – Surfers Paradise, Australia (2.795 mile temporary street circuit)
+* Distance: 60 laps / 167.7 miles
+* Race weather: 82F
+* Television: ESPN Classic (Bob Jenkins, Scott Goodyear, Jon Beekhuis) / Seven Network (Matthew White, Aaron Noonan, Scott Pruett, Brienne Pedigo)
+* Nielsen ratings: 0.20
+* Attendance: 94,465 (race day), 297,288 (weekend)
+* Pole Position winner: No. 8 Will Power 1:34.9451 sec, 105.977 mph (169.563 km/h)
+
+Justin Wilson pitted on the warm-up lap, with the gearbox sticking in third, but joined the start from the back. Will Power immediately dominated the start, pulling a two-second lead on the first lap. Scott Dixon started second but after being forced to cut the first chicane was relegated behind Ryan Briscoe by officialdom.
+
+Mario Moraes and Vítor Meira clashed at the second chicane with Meira spinning without hitting anyone. A few lap later Moraes caused the first safety car, clipping the turn 2 chicane, breaking the right rear corner of the car. Townsend Bell was eliminated after a clash with Hélio Castroneves which wrecked Bell's steering. Later the same lap Castroneves had a right rear puncture caused by Danica Patrick's front wing while passing the Andretti Green Racing driver.
+
+Lap 17 saw the end of Power's dominance of the meeting as he crashed at the Bartercard chicane, which put Briscoe into the lead ahead of Dixon. Briscoe pitted for fuel immediately upon catching the tailmarker, Patrick, but Dixon waited another lap and was held up behind Patrick. At the same time Graham Rahal touched the rear of Ed Carpenter, spinning the Vision Racing car around, almost blocking the track. The emerging safety car almost hit Dixon as he completed his stop.
+
+Behind the safety car Patrick stopped and stalled, almost hitting the stationary car of Carpenter. Dario Franchitti clipped the tyre bundle on the inside of the same chicane and spun and stalled bringing out the safety car. After the restart Tony Kanaan had the right rear suspension break without apparent reason.
+
+After the second round of pitstops the battle for third between Alex Tagliani and Ryan Hunter-Reay was interrupted by Franchitti as a poor pitstop and a poor pit position for Conquest Racing saw Tagliani drop several position behind E. J. Viso. Viso later would twice have to give up spots for cutting chicanes, first to Tagliani, then Castroneves. Lap 48 saw Jaime Camara go straight on and stalled the car attempting to recover.
+
+In the races closing stages Dixon closed in on Briscoe, the two remaining local drivers lapping significantly faster than the rest of the field. Carpenter hit the wall at turn 3 on the last lap but it did not affect the lead battle and Briscoe won his home race ahead of Dixon and Hunter-Reay finished third.
+
+{|class="wikitable" style="font-size:95%;text-align:center"
+|-
+!colspan=9|Top five finishers
+|-
+!Fin.Pos !! St.Pos !! CarNo. !! Driver !! Team !! Laps !! Time !! LapsLed
+|-
+!1
+|3
+|6
+|style="text-align:left"| Ryan Briscoe
+|style="text-align:left"|Penske Racing
+|60
+|align=right|1:45:50.3868
+|39
+|-
+!2
+|2
+|9
+|style="text-align:left"| Scott Dixon
+|style="text-align:left"|Chip Ganassi Racing
+|60
+|align=right|+0.5019
+|1
+|-
+!3
+|5
+|17
+|style="text-align:left"| Ryan Hunter-Reay
+|style="text-align:left"|Rahal Letterman Racing
+|60
+|align=right|+9.1179
+|9
+|-
+!4
+|7
+|36
+|style="text-align:left"| Alex Tagliani
+|style="text-align:left"|Conquest Racing
+|60
+|align=right|+19.9844
+|1
+|-
+!5
+|15
+|5
+|style="text-align:left"| Oriol Servia
+|style="text-align:left"|KV Racing
+|60
+|align=right|+20.4376
+|0
+|-
+!colspan=9|Race average speed: 
+|-
+!colspan=9|Lead changes: 7 between 6 drivers
+|-
+!colspan=9|Cautions: 3 for 6 laps
+|}
+
+== Season Summary ==
+
+=== Race results ===
+NC Non-championship race
+
+{|class="wikitable sortable" style="font-size: 85%"
+|-
+!class="unsortable"| Rnd
+! Race
+! Pole position
+! Fastest lap
+! Most Laps Led
+! Winner
+! Winning team
+!class="unsortable"| Report
+|-
+! 1
+| Homestead
+|  Scott Dixon
+|  Ryan Briscoe
+|  Marco Andretti
+| Scott Dixon
+|  Target Chip Ganassi Racing
+| Report
+|-
+! 2
+| St. Petersburg
+|  Tony Kanaan
+|  Tony Kanaan
+|  Graham Rahal
+| Graham Rahal
+|  Newman/Haas/Lanigan Racing
+| Report
+|-
+! 3A
+| Motegi
+|  Hélio Castroneves
+|  Hélio Castroneves
+|  Scott Dixon
+| Danica Patrick
+|  Andretti Green Racing
+| Report
+|-
+! 3B
+| Long Beach
+|  Justin Wilson
+|  Antônio Pizzonia
+|  Will Power
+| Will Power
+|  KV Racing
+| Report
+|-
+! 4
+| Kansas
+|  Scott Dixon
+|  Scott Dixon
+|  Scott Dixon
+| Dan Wheldon
+|  Target Chip Ganassi Racing
+| Report
+|-
+! 5
+| Indianapolis
+|  Scott Dixon
+|  Marco Andretti
+|  Scott Dixon
+| Scott Dixon
+|  Target Chip Ganassi Racing
+| Report
+|-
+! 6
+| Milwaukee
+|  Marco Andretti
+|  Scott Dixon
+|  Scott Dixon
+| Ryan Briscoe
+|  Team Penske
+| Report
+|-
+! 7
+| Fort Worth
+|  Scott Dixon
+|  Dan Wheldon
+|  Hélio Castroneves
+| Scott Dixon
+|  Target Chip Ganassi Racing
+| Report
+|-
+! 8
+| Iowa
+|  Scott Dixon
+|  Ryan Briscoe
+|  Hélio Castroneves
+| Dan Wheldon
+|  Target Chip Ganassi Racing
+| Report
+|-
+! 9
+| Richmond
+|  Tony Kanaan
+|  Tony Kanaan
+|  Tony Kanaan
+| Tony Kanaan
+|  Andretti Green Racing
+| Report
+|-
+! 10
+| Watkins Glen
+|  Ryan Briscoe
+|  Ryan Briscoe
+|  Ryan Briscoe
+| Ryan Hunter-Reay
+|  Rahal Letterman Racing
+| Report
+|-
+! 11
+| Nashville
+|  Hélio Castroneves
+|  Tony Kanaan
+|  Tony Kanaan
+| Scott Dixon
+|  Target Chip Ganassi Racing
+| Report
+|-
+! 12
+| Mid-Ohio
+|  Hélio Castroneves
+|  Ryan Briscoe
+|  Ryan Briscoe
+| Ryan Briscoe
+|  Team Penske
+| Report
+|-
+! 13
+| Edmonton
+|  Ryan Briscoe
+|  Will Power
+|  Hélio Castroneves
+| Scott Dixon
+|  Target Chip Ganassi Racing
+| Report
+|-
+! 14
+| Kentucky
+|  Scott Dixon
+|  Ed Carpenter
+|  Scott Dixon
+| Scott Dixon
+|  Target Chip Ganassi Racing
+| Report
+|-
+! 15
+| Sonoma
+|  Hélio Castroneves
+|  Hélio Castroneves
+|  Hélio Castroneves
+| Hélio Castroneves
+|  Team Penske
+| Report
+|-
+! 16
+| Detroit
+|  Scott Dixon
+|  Justin WilsonOfficial Box Score IndyCar Series Detroit Indy Grand Prix presented by Firestone at The Raceway at Belle Isle Park Sunday, Aug 31, 2008
+|  Hélio Castroneves
+| Justin Wilson
+|  Newman/Haas/Lanigan Racing
+| Report
+|-
+! 17
+| Chicagoland
+|  Ryan Briscoe
+|  Hélio Castroneves
+|  Hélio Castroneves
+| Hélio Castroneves
+|  Team Penske
+| Report
+|-
+!NC
+| Surfers Paradise
+|  Will Power
+|  Dario Franchitti
+|  Ryan Briscoe
+| Ryan Briscoe
+|  Team Penske
+| Report
+|}
+
+=== Final driver standings ===
+
+
+{|
+|-
+|
+{|class="wikitable" style="font-size: 85%"
+|- valign="top"
+!valign="middle"| Pos
+!valign="middle"| Driver
+! HMS
+! STP
+! MOT1
+! LBH1
+! KAN
+! INDY
+! MIL
+! TXS
+! IOW
+! RIR
+! WGL
+! NSH
+! MDO
+! EDM
+! KTY
+! SNM
+! DET
+! CHI
+!valign="middle"| Pts
+! SUR2
+|-
+! 1
+| Scott Dixon
+|style="background:#ffffbf; text-align:center;"|1
+|style="background:#efcfff; text-align:center;"|22
+|style="background:#ffdf9f; text-align:center;"|3*
+|
+|style="background:#ffdf9f; text-align:center;"|3*
+|style="background:#ffffbf; text-align:center;"|1*
+|style="background:#dfdfdf; text-align:center;"|2*
+|style="background:#ffffbf; text-align:center;"|1
+|style="background:#dfffdf; text-align:center;"|4
+|style="background:#ffdf9f; text-align:center;"|3
+|style="background:#cfcfff; text-align:center;"|11
+|style="background:#ffffbf; text-align:center;"|1
+|style="background:#ffdf9f; text-align:center;"|3
+|style="background:#ffffbf; text-align:center;"|1
+|style="background:#ffffbf; text-align:center;"|1*
+|style="background:#cfcfff; text-align:center;"|12
+|style="background:#dfffdf; text-align:center;"|5
+|style="background:#dfdfdf; text-align:center;"|2
+! 646
+|style="background:#dfdfdf; text-align:center;"|2
+|-
+! 2
+| Hélio Castroneves
+|style="background:#dfffdf; text-align:center;"|4
+|style="background:#dfdfdf; text-align:center;"|2
+|style="background:#dfdfdf; text-align:center;"|2
+|
+|style="background:#dfffdf; text-align:center;"|4
+|style="background:#dfffdf; text-align:center;"|4
+|style="background:#dfffdf; text-align:center;"|5
+|style="background:#dfdfdf; text-align:center;"|2*
+|style="background:#cfcfff; text-align:center;"|14*
+|style="background:#dfdfdf; text-align:center;"|2
+|style="background:#cfcfff; text-align:center;"|16
+|style="background:#ffdf9f; text-align:center;"|3
+|style="background:#dfdfdf; text-align:center;"|2
+|style="background:#dfdfdf; text-align:center;"|2*
+|style="background:#dfdfdf; text-align:center;"|2
+|style="background:#ffffbf; text-align:center;"|1*
+|style="background:#dfdfdf; text-align:center;"|2*
+|style="background:#ffffbf; text-align:center;"|1*
+! 629
+|style="background:#cfeaff; text-align:center;"|7
+|-
+! 3
+| Tony Kanaan
+|style="background:#cfeaff; text-align:center;"|8
+|style="background:#ffdf9f; text-align:center;"|3
+|style="background:#dfffdf; text-align:center;"|5
+|
+|style="background:#dfdfdf; text-align:center;"|2
+|style="background:#efcfff; text-align:center;"|29
+|style="background:#ffdf9f; text-align:center;"|3
+|style="background:#dfffdf; text-align:center;"|5
+|style="background:#efcfff; text-align:center;"|18
+|style="background:#ffffbf; text-align:center;"|1*
+|style="background:#ffdf9f; text-align:center;"|3
+|style="background:#dfffdf; text-align:center;"|4*
+|style="background:#cfeaff; text-align:center;"|7
+|style="background:#cfeaff; text-align:center;"|9
+|style="background:#cfeaff; text-align:center;"|8
+|style="background:#ffdf9f; text-align:center;"|3
+|style="background:#ffdf9f; text-align:center;"|3
+|style="background:#dfffdf; text-align:center;"|4
+! 513
+|style="background:#efcfff; text-align:center;"|21
+|-
+! 4
+| Dan Wheldon
+|style="background:#ffdf9f; text-align:center;"|3
+|style="background:#cfcfff; text-align:center;"|12
+|style="background:#dfffdf; text-align:center;"|4
+|
+|style="background:#ffffbf; text-align:center;"|1
+|style="background:#cfcfff; text-align:center;"|12
+|style="background:#dfffdf; text-align:center;"|4
+|style="background:#dfffdf; text-align:center;"|4
+|style="background:#ffffbf; text-align:center;"|1
+|style="background:#dfffdf; text-align:center;"|4
+|style="background:#efcfff; text-align:center;"|24
+|style="background:#dfdfdf; text-align:center;"|2
+|style="background:#cfcfff; text-align:center;"|17
+|style="background:#cfeaff; text-align:center;"|7
+|style="background:#dfffdf; text-align:center;"|5
+|style="background:#dfffdf; text-align:center;"|4
+|style="background:#cfcfff; text-align:center;"|20
+|style="background:#cfeaff; text-align:center;"|6
+! 492
+|style="background:#cfcfff; text-align:center;"|11
+|-
+! 5
+| Ryan Briscoe
+|style="background:#efcfff; text-align:center;"|19
+|style="background:#efcfff; text-align:center;"|23
+|style="background:#cfeaff; text-align:center;"|9
+|
+|style="background:#cfeaff; text-align:center;"|7
+|style="background:#efcfff; text-align:center;"|23
+|style="background:#ffffbf; text-align:center;"|1
+|style="background:#ffdf9f; text-align:center;"|3
+|style="background:#cfeaff; text-align:center;"|7
+|style="background:#efcfff; text-align:center;"|15
+|style="background:#cfcfff; text-align:center;"|12*
+|style="background:#efcfff; text-align:center;"|23
+|style="background:#ffffbf; text-align:center;"|1*
+|style="background:#cfeaff; text-align:center;"|6
+|style="background:#cfeaff; text-align:center;"|7
+|style="background:#dfdfdf; text-align:center;"|2
+|style="background:#cfeaff; text-align:center;"|9
+|style="background:#ffdf9f; text-align:center;"|3
+! 447
+|style="background:#ffffbf; text-align:center;"|1*
+|-
+! 6
+| Danica Patrick
+|style="background:#cfeaff; text-align:center;"|6
+|style="background:#cfeaff; text-align:center;"|10
+|style="background:#ffffbf; text-align:center;"|1
+|
+|style="background:#efcfff; text-align:center;"|19
+|style="background:#efcfff; text-align:center;"|22
+|style="background:#cfeaff; text-align:center;"|9
+|style="background:#cfeaff; text-align:center;"|10
+|style="background:#cfeaff; text-align:center;"|6
+|style="background:#cfeaff; text-align:center;"|6
+|style="background:#cfcfff; text-align:center;"|14
+|style="background:#dfffdf; text-align:center;"|5
+|style="background:#cfcfff; text-align:center;"|12
+|style="background:#cfcfff; text-align:center;"|18
+|style="background:#cfcfff; text-align:center;"|11
+|style="background:#dfffdf; text-align:center;"|5
+|style="background:#cfcfff; text-align:center;"|16
+|style="background:#cfeaff; text-align:center;"|10
+! 379
+|style="background:#cfcfff; text-align:center;"|18
+|-
+! 7
+| Marco Andretti
+|style="background:#dfdfdf; text-align:center;"|2*
+|style="background:#efcfff; text-align:center;"|25
+|style="background:#efcfff; text-align:center;"|18
+|
+|style="background:#dfffdf; text-align:center;"|5
+|style="background:#ffdf9f; text-align:center;"|3
+|style="background:#efcfff; text-align:center;"|21
+|style="background:#efcfff; text-align:center;"|19
+|style="background:#ffdf9f; text-align:center;"|3
+|style="background:#cfeaff; text-align:center;"|9
+|style="background:#dfffdf; text-align:center;"|5
+|style="background:#efcfff; text-align:center;"|24
+|style="background:#efcfff; text-align:center;"|25
+|style="background:#cfcfff; text-align:center;"|17
+|style="background:#ffdf9f; text-align:center;"|3
+|style="background:#cfcfff; text-align:center;"|14
+|style="background:#efcfff; text-align:center;"|18
+|style="background:#cfeaff; text-align:center;"|8
+! 363
+|style="background:#cfcfff; text-align:center;"|13
+|-
+! 8
+| Ryan Hunter-Reay
+|style="background:#cfeaff; text-align:center;"|7
+|style="background:#cfcfff; text-align:center;"|17
+|style="background:#cfeaff; text-align:center;"|7
+|
+|style="background:#cfcfff; text-align:center;"|18
+|style="background:#cfeaff; text-align:center;"|6
+|style="background:#cfcfff; text-align:center;"|15
+|style="background:#efcfff; text-align:center;"|20
+|style="background:#cfeaff; text-align:center;"|8
+|style="background:#efcfff; text-align:center;"|16
+|style="background:#ffffbf; text-align:center;"|1
+|style="background:#efcfff; text-align:center;"|19
+|style="background:#cfeaff; text-align:center;"|10
+|style="background:#cfeaff; text-align:center;"|8
+|style="background:#cfeaff; text-align:center;"|9
+|style="background:#cfcfff; text-align:center;"|18
+|style="background:#cfeaff; text-align:center;"|6
+|style="background:#cfeaff; text-align:center;"|9
+! 360
+|style="background:#ffdf9f; text-align:center;"|3
+|-
+! 9
+| Oriol Servià
+|style="background:#cfcfff; text-align:center;"|12
+|style="background:#cfeaff; text-align:center;"|7
+|
+|style="background:#dfffdf; text-align:center;"|5
+|style="background:#cfcfff; text-align:center;"|11
+|style="background:#cfcfff; text-align:center;"|11
+|style="background:#cfeaff; text-align:center;"|6
+|style="background:#efcfff; text-align:center;"|26
+|style="background:#cfcfff; text-align:center;"|16
+|style="background:#dfffdf; text-align:center;"|5
+|style="background:#efcfff; text-align:center;"|23
+|style="background:#cfcfff; text-align:center;"|16
+|style="background:#dfffdf; text-align:center;"|5
+|style="background:#dfffdf; text-align:center;"|5
+|style="background:#cfcfff; text-align:center;"|12
+|style="background:#cfcfff; text-align:center;"|15
+|style="background:#dfffdf; text-align:center;"|4
+|style="background:#cfcfff; text-align:center;"|17
+! 358
+|style="background:#dfffdf; text-align:center;"|5
+|-
+! 10
+| Hideki Mutoh 
+|style="background:#efcfff; text-align:center;"|24
+|style="background:#cfeaff; text-align:center;"|6
+|style="background:#cfcfff; text-align:center;"|11
+|
+|style="background:#cfeaff; text-align:center;"|6
+|style="background:#cfeaff; text-align:center;"|7
+|style="background:#cfcfff; text-align:center;"|12
+|style="background:#cfeaff; text-align:center;"|6
+|style="background:#dfdfdf; text-align:center;"|2
+|style="background:#efcfff; text-align:center;"|13
+|style="background:#cfeaff; text-align:center;"|9
+|style="background:#cfcfff; text-align:center;"|14
+|style="background:#cfeaff; text-align:center;"|9
+|style="background:#efcfff; text-align:center;"|27
+|style="background:#efcfff; text-align:center;"|18
+|style="background:#cfcfff; text-align:center;"|13
+|style="background:#cfcfff; text-align:center;"|11
+|style="background:#cfcfff; text-align:center;"|22
+!346
+|style="background:#cfeaff; text-align:center;"|8
+|-
+!11
+| Justin Wilson 
+|style="background:#cfcfff; text-align:center;"|15
+|style="background:#cfeaff; text-align:center;"|9
+|
+|style="background:#efcfff; text-align:center;"|19
+|style="background:#cfeaff; text-align:center;"|9
+|style="background:#efcfff; text-align:center;"|27
+|style="background:#cfeaff; text-align:center;"|7
+|style="background:#efcfff; text-align:center;"|27
+|style="background:#cfcfff; text-align:center;"|12
+|style="background:#cfeaff; text-align:center;"|7
+|style="background:#efcfff; text-align:center;"|25
+|style="background:#cfcfff; text-align:center;"|18
+|style="background:#cfcfff; text-align:center;"|11
+|style="background:#ffdf9f; text-align:center;"|3
+|style="background:#efcfff; text-align:center;"|24
+|style="background:#cfeaff; text-align:center;"|9
+|style="background:#ffffbf; text-align:center;"|1
+|style="background:#cfcfff; text-align:center;"|11
+!340
+|style="background:#cfcfff; text-align:center;"|12
+|-
+!12
+| Will Power 
+|style="background:#efcfff; text-align:center;"|25
+|style="background:#cfeaff; text-align:center;"|8
+|
+|style="background:#ffffbf; text-align:center;"|1*
+|style="background:#efcfff; text-align:center;"|27
+|style="background:#cfcfff; text-align:center;"|13
+|style="background:#cfcfff; text-align:center;"|14
+|style="background:#cfcfff; text-align:center;"|13
+|style="background:#cfeaff; text-align:center;"|9
+|style="background:#efcfff; text-align:center;"|25
+|style="background:#cfcfff; text-align:center;"|15
+|style="background:#cfcfff; text-align:center;"|11
+|style="background:#dfffdf; text-align:center;"|4
+|style="background:#cfcfff; text-align:center;"|22
+|style="background:#efcfff; text-align:center;"|26
+|style="background:#cfcfff; text-align:center;"|25
+|style="background:#cfeaff; text-align:center;"|8
+|style="background:#dfffdf; text-align:center;"|5
+! 331
+|style="background:#efcfff; text-align:center;"|22
+|-
+! 13
+| Vítor Meira
+|style="background:#cfeaff; text-align:center;"|10
+|style="background:#efcfff; text-align:center;"|19
+|style="background:#efcfff; text-align:center;"|16
+|
+|style="background:#efcfff; text-align:center;"|22
+|style="background:#dfdfdf; text-align:center;"|2
+|style="background:#efcfff; text-align:center;"|22
+|style="background:#cfeaff; text-align:center;"|7
+|style="background:#cfcfff; text-align:center;"|15
+|style="background:#efcfff; text-align:center;"|20
+|style="background:#efcfff; text-align:center;"|22
+|style="background:#cfeaff; text-align:center;"|6
+|style="background:#cfeaff; text-align:center;"|6
+|style="background:#cfcfff; text-align:center;"|19
+|style="background:#dfffdf; text-align:center;"|4
+|style="background:#cfeaff; text-align:center;"|7
+|style="background:#cfcfff; text-align:center;"|17
+|style="background:#efcfff; text-align:center;"|27
+! 324
+|style="background:#cfcfff; text-align:center;"|14
+|-
+! 14
+| Darren Manning
+|style="background:#cfcfff; text-align:center;"|13
+|style="background:#cfcfff; text-align:center;"|13
+|style="background:#cfeaff; text-align:center;"|8
+|
+|style="background:#efcfff; text-align:center;"|24
+|style="background:#cfeaff; text-align:center;"|9
+|style="background:#cfcfff; text-align:center;"|13
+|style="background:#efcfff; text-align:center;"|28
+|style="background:#efcfff; text-align:center;"|21
+|style="background:#cfcfff; text-align:center;"|12
+|style="background:#dfdfdf; text-align:center;"|2
+|style="background:#cfeaff; text-align:center;"|9
+|style="background:#cfeaff; text-align:center;"|8
+|style="background:#cfeaff; text-align:center;"|10
+|style="background:#efcfff; text-align:center;"|19
+|style="background:#cfcfff; text-align:center;"|22
+|style="background:#cfcfff; text-align:center;"|12
+|style="background:#cfeaff; text-align:center;"|7
+! 323
+|
+|-
+! 15
+| Ed Carpenter
+|style="background:#dfffdf; text-align:center;"|5
+|style="background:#efcfff; text-align:center;"|18
+|style="background:#cfeaff; text-align:center;"|6
+|
+|style="background:#cfeaff; text-align:center;"|10
+|style="background:#dfffdf; text-align:center;"|5
+|style="background:#efcfff; text-align:center;"|20
+|style="background:#cfeaff; text-align:center;"|9
+|style="background:#efcfff; text-align:center;"|23
+|style="background:#cfcfff; text-align:center;"|11
+|style="background:#cfcfff; text-align:center;"|17
+|style="background:#cfeaff; text-align:center;"|8
+|style="background:#cfcfff; text-align:center;"|15
+|style="background:#cfcfff; text-align:center;"|13
+|style="background:#cfeaff; text-align:center;"|6
+|style="background:#cfcfff; text-align:center;"|23
+|style="background:#cfcfff; text-align:center;"|14
+|style="background:#efcfff; text-align:center;"|28
+!320
+|style="background:#efcfff; text-align:center;"|20
+|-
+!16
+| Buddy Rice
+|style="background:#cfcfff; text-align:center;"|11
+|style="background:#cfcfff; text-align:center;"|15
+|style="background:#cfcfff; text-align:center;"|12
+|
+|style="background:#efcfff; text-align:center;"|20
+|style="background:#cfeaff; text-align:center;"|8
+|style="background:#cfeaff; text-align:center;"|10
+|style="background:#cfeaff; text-align:center;"|8
+|style="background:#efcfff; text-align:center;"|22
+|style="background:#efcfff; text-align:center;"|22
+|style="background:#dfffdf; text-align:center;"|4
+|style="background:#cfeaff; text-align:center;"|7
+|style="background:#cfcfff; text-align:center;"|20
+|style="background:#cfcfff; text-align:center;"|11
+|style="background:#cfeaff; text-align:center;"|10
+|style="background:#cfcfff; text-align:center;"|11
+|style="background:#efcfff; text-align:center;"|19
+|style="background:#efcfff; text-align:center;"|25
+! 306
+|style="background:#cfeaff; text-align:center;"|10
+|-
+! 17
+| Graham Rahal 
+|
+|style="background:#ffffbf; text-align:center;"|1*
+|
+|style="background:#cfcfff; text-align:center;"|13
+|style="background:#cfcfff; text-align:center;"|12
+|style="background:#efcfff; text-align:center;"|33
+|style="background:#efcfff; text-align:center;"|25
+|style="background:#cfcfff; text-align:center;"|11
+|style="background:#cfeaff; text-align:center;"|10
+|style="background:#efcfff; text-align:center;"|18
+|style="background:#cfeaff; text-align:center;"|8
+|style="background:#cfcfff; text-align:center;"|12
+|style="background:#cfcfff; text-align:center;"|16
+|style="background:#efcfff; text-align:center;"|26
+|style="background:#efcfff; text-align:center;"|25
+|style="background:#cfeaff; text-align:center;"|8
+|style="background:#cfcfff; text-align:center;"|13
+|style="background:#efcfff; text-align:center;"|19
+! 288
+|style="background:#cfeaff; text-align:center;"|9
+|-
+! 18
+| E. J. Viso 
+|style="background:#efcfff; text-align:center;"|17
+|style="background:#dfffdf; text-align:center;"|4
+|
+|style="background:#cfeaff; text-align:center;"|9
+|style="background:#cfcfff; text-align:center;"|14
+|style="background:#efcfff; text-align:center;"|26
+|style="background:#cfeaff; text-align:center;"|8
+|style="background:#cfcfff; text-align:center;"|14
+|style="background:#cfcfff; text-align:center;"|13
+|style="background:#cfeaff; text-align:center;"|10
+|style="background:#cfeaff; text-align:center;"|10
+|
+|style="background:#cfcfff; text-align:center;"|22
+|style="background:#cfcfff; text-align:center;"|15
+|style="background:#cfcfff; text-align:center;"|13
+|style="background:#cfeaff; text-align:center;"|6
+|style="background:#efcfff; text-align:center;"|24
+|style="background:#efcfff; text-align:center;"|23
+! 286
+|style="background:#cfeaff; text-align:center;"|6
+|-
+! 19
+| A. J. Foyt IV
+|style="background:#cfeaff; text-align:center;"|9
+|style="background:#cfcfff; text-align:center;"|11
+|style="background:#efcfff; text-align:center;"|15
+|
+|style="background:#cfeaff; text-align:center;"|8
+|style="background:#cfcfff; text-align:center;"|21
+|style="background:#cfcfff; text-align:center;"|17
+|style="background:#cfcfff; text-align:center;"|12
+|style="background:#dfffdf; text-align:center;"|5
+|style="background:#efcfff; text-align:center;"|24
+|style="background:#efcfff; text-align:center;"|19
+|style="background:#efcfff; text-align:center;"|22
+|style="background:#cfcfff; text-align:center;"|18
+|style="background:#cfcfff; text-align:center;"|12
+|style="background:#efcfff; text-align:center;"|20
+|style="background:#cfcfff; text-align:center;"|20
+|style="background:#cfeaff; text-align:center;"|10
+|style="background:#cfcfff; text-align:center;"|13
+! 280
+|style="background:#cfcfff; text-align:center;"|17
+|-
+! 20
+| Bruno Junqueira
+|style="background:#efcfff; text-align:center;"|23
+|style="background:#efcfff; text-align:center;"|24
+|
+|style="background:#cfcfff; text-align:center;"|12
+|style="background:#cfcfff; text-align:center;"|15
+|style="background:#cfcfff; text-align:center;"|20
+|style="background:#cfcfff; text-align:center;"|18
+|style="background:#cfcfff; text-align:center;"|15
+|style="background:#DFC484;" align=center| Wth
+|style="background:#efcfff; text-align:center;"|23
+|style="background:#cfeaff; text-align:center;"|6
+|style="background:#cfcfff; text-align:center;"|15
+|style="background:#cfcfff; text-align:center;"|13
+|style="background:#cfcfff; text-align:center;"|14
+|style="background:#cfcfff; text-align:center;"|14
+|style="background:#cfcfff; text-align:center;"|17
+|style="background:#cfeaff; text-align:center;"|7
+|style="background:#cfcfff; text-align:center;"|20
+! 256
+|style="background:#cfcfff; text-align:center;"|15
+|-
+! 21
+| Mario Moraes 
+|style="background:#cfcfff; text-align:center;"|16
+|style="background:#cfcfff; text-align:center;"|16
+|
+|style="background:#efcfff; text-align:center;"|20
+|style="background:#cfcfff; text-align:center;"|17
+|style="background:#cfcfff; text-align:center;"|18
+|style="background:#cfcfff; text-align:center;"|23
+|style="background:#cfcfff; text-align:center;"|18
+|style="background:#efcfff; text-align:center;"|19
+|style="background:#efcfff; text-align:center;"|17
+|style="background:#cfeaff; text-align:center;"|7
+|style="background:#cfeaff; text-align:center;"|10
+|style="background:#efcfff; text-align:center;"|24
+|style="background:#cfcfff; text-align:center;"|20
+|style="background:#cfcfff; text-align:center;"|17
+|style="background:#cfeaff; text-align:center;"|10
+|style="background:#cfcfff; text-align:center;"|15
+|style="background:#efcfff; text-align:center;"|21
+! 244
+|style="background:#efcfff; text-align:center;"|24
+|-
+! 22
+| Enrique Bernoldi 
+|style="background:#efcfff; text-align:center;"|18
+|style="background:#dfffdf; text-align:center;"|5
+|
+|style="background:#dfffdf; text-align:center;"|4
+|style="background:#efcfff; text-align:center;"|25
+|style="background:#cfcfff; text-align:center;"|15
+|style="background:#cfcfff; text-align:center;"|16
+|style="background:#efcfff; text-align:center;"|23
+|style="background:#cfcfff; text-align:center;"|17
+|style="background:#efcfff; text-align:center;"|26
+|style="background:#efcfff; text-align:center;"|21
+|style="background:#efcfff; text-align:center;"|20
+|style="background:#efcfff; text-align:center;"|26
+|style="background:#cfcfff; text-align:center;"|16
+|style="background:#efcfff; text-align:center;"|22
+|style="background:#cfcfff; text-align:center;"|21
+|style="background:#DFC484;" align=center| Wth
+|
+! 220
+|
+|-
+! 23
+| Jaime Camara 
+|
+|
+|
+|
+|style="background:#cfcfff; text-align:center;"|21
+|style="background:#efcfff; text-align:center;"|31
+|style="background:#cfcfff; text-align:center;"|24
+|style="background:#cfcfff; text-align:center;"|24
+|style="background:#efcfff; text-align:center;"|20
+|style="background:#efcfff; text-align:center;"|14
+|style="background:#efcfff; text-align:center;"|18
+|style="background:#efcfff; text-align:center;"|21
+|style="background:#cfcfff; text-align:center;"|14
+|style="background:#efcfff; text-align:center;"|23
+|style="background:#cfcfff; text-align:center;"|16
+|style="background:#cfcfff; text-align:center;"|24
+|style="background:#efcfff; text-align:center;"|25
+|style="background:#cfcfff; text-align:center;"|18
+! 174
+|style="background:#cfcfff; text-align:center;"|19
+|-
+! 24
+| Marty Roth
+|style="background:#efcfff; text-align:center;"|21
+| DNS
+|style="background:#efcfff; text-align:center;"|17
+|
+|style="background:#efcfff; text-align:center;"|26
+|style="background:#efcfff; text-align:center;"|32
+|style="background:#DFC484;" align=center| Wth
+|style="background:#cfcfff; text-align:center;"|22
+|style="background:#DFC484;" align=center| Wth
+|style="background:#efcfff; text-align:center;"|19
+|
+|style="background:#cfcfff; text-align:center;"|13
+|style="background:#cfcfff; text-align:center;"|21
+|style="background:#cfcfff; text-align:center;"|21
+|style="background:#efcfff; text-align:center;"|23
+|style="background:#cfcfff; text-align:center;"|26
+|style="background:#DFC484;" align=center| Wth
+|style="background:#cfcfff; text-align:center;"|16
+! 166
+|
+|-
+! 25
+| Milka Duno
+|style="background:#efcfff; text-align:center;"|20
+|
+|
+|
+|style="background:#cfcfff; text-align:center;"|16
+|style="background:#cfcfff; text-align:center;"|19
+|
+|style="background:#cfcfff; text-align:center;"|17
+|style="background:#efcfff; text-align:center;"|24
+|
+|style="background:#efcfff; text-align:center;"|20
+|style="background:#cfcfff; text-align:center;"|17
+|style="background:#cfcfff; text-align:center;"|23
+|
+|style="background:#efcfff; text-align:center;"|21
+|
+|style="background:#efcfff; text-align:center;"|23
+|style="background:#cfcfff; text-align:center;"|14
+! 140
+|
+|-
+! 26
+| Townsend Bell
+|
+|style="background:#efcfff; text-align:center;"|21
+|style="background:#cfeaff; text-align:center;"|10
+|
+|
+|style="background:#cfeaff; text-align:center;"|10
+|style="background:#cfcfff; text-align:center;"|11
+|
+|
+|style="background:#cfeaff; text-align:center;"|8
+|
+|
+|
+|style="background:#efcfff; text-align:center;"|25
+|
+|style="background:#cfcfff; text-align:center;"|19
+|
+|
+! 117
+|style="background:#efcfff; text-align:center;"|23
+|-
+! 27
+| Mario Domínguez 
+|
+|
+|
+|style="background:#ffdf9f; text-align:center;"|3
+|
+|style="background:#ffcfcf; text-align:center;"|DNQ
+|style="background:#efcfff; text-align:center;"|26
+|style="background:#cfcfff; text-align:center;"|21
+|
+|
+|style="background:#cfcfff; text-align:center;"|13
+|
+|style="background:#cfcfff; text-align:center;"|19
+|style="background:#efcfff; text-align:center;"|24
+|
+|style="background:#cfcfff; text-align:center;"|16
+|
+|
+! 112
+|
+|-
+! 28
+| Jay Howard 
+|style="background:#efcfff; text-align:center;"|22
+|style="background:#cfcfff; text-align:center;"|14
+|style="background:#cfcfff; text-align:center;"|13
+|
+|style="background:#cfcfff; text-align:center;"|13
+|style="background:#DFC484;" align=center| Wth
+|
+|
+|
+|
+|style="background:#efcfff; text-align:center;"|26
+|
+|
+|
+|
+|
+|
+|
+! 72
+|
+|-
+! 29
+| Franck Perera 
+|style="background:#cfcfff; text-align:center;"|14
+|style="background:#efcfff; text-align:center;"|20
+|
+|style="background:#cfeaff; text-align:center;"|6
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#cfcfff; text-align:center;"|15
+! 71
+|
+|-
+! 30
+| John Andretti
+|
+|
+|
+|
+|
+|style="background:#cfcfff; text-align:center;"|16
+|style="background:#cfcfff; text-align:center;"|19
+|style="background:#cfcfff; text-align:center;"|16
+|style="background:#cfcfff; text-align:center;"|11
+|style="background:#efcfff; text-align:center;"|21
+|
+|
+|
+|
+|
+|
+|
+|
+! 71
+|
+|-
+! 31
+| Tomas Scheckter
+|
+|
+|
+|
+|style="background:#efcfff; text-align:center;"|23
+|style="background:#efcfff; text-align:center;"|24
+|
+|style="background:#efcfff; text-align:center;"|25
+|
+|
+|
+|
+|
+|
+|
+|style="background:#efcfff; text-align:center;"|27
+|style="background:#cfcfff; text-align:center;"|21
+|style="background:#efcfff; text-align:center;"|26
+! 66
+|
+|-
+! 32
+| Alex Tagliani
+|
+|
+|
+|style="background:#cfeaff; text-align:center;"|7
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#efcfff; text-align:center;"|22
+|style="background:#cfcfff; text-align:center;"|12
+! 56
+|style="background:#dfffdf; text-align:center;"|4
+|-
+! 33
+| Paul Tracy
+|
+|
+|
+|style="background:#cfcfff; text-align:center;"|11
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#dfffdf; text-align:center;"|4
+|
+|
+|
+|
+! 51
+|
+|-
+! 34
+| Sarah Fisher
+|
+|
+|
+|
+|
+|style="background:#efcfff; text-align:center;"|30
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#cfcfff; text-align:center;"|15
+|
+|
+|style="background:#efcfff; text-align:center;"|24
+! 37
+|
+|-
+! 35
+| Roger Yasukawa
+|
+|
+|style="background:#cfcfff; text-align:center;"|14
+|
+|
+|style="background:#ffcfcf; text-align:center;"|DNQ
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+! 16
+|
+|-
+! 36
+| Davey Hamilton
+|
+|
+|
+|
+|
+|style="background:#cfcfff; text-align:center;"|14
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+! 16
+|
+|-
+! 37
+| Buddy Lazier
+|
+|
+|
+|
+|
+|style="background:#cfcfff; text-align:center;"|17
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+! 13
+|
+|-
+! 38
+| Alex Lloyd 
+|
+|
+|
+|
+|
+|style="background:#efcfff; text-align:center;"|25
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+! 10
+|
+|-
+! 39
+| Jeff Simmons
+|
+|
+|
+|
+|
+|style="background:#efcfff; text-align:center;"|28
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+! 10
+|
+|-
+! 40
+|
+|
+|
+|
+|style="background:#dfdfdf; text-align:center;"|2
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+! 0
+|
+|-
+! 41
+| David Martínez 3 
+|
+|
+|
+|style="background:#cfeaff; text-align:center;"|8
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+! 0
+|
+|-
+! 42
+| Jimmy Vasser 3
+|
+|
+|
+|style="background:#cfeaff; text-align:center;"|10
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+! 0
+|
+|-
+! 43
+| Alex Figge 3 
+|
+|
+|
+|style="background:#cfcfff; text-align:center;"|14
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+! 0
+|
+|-
+! 44
+| Nelson Philippe 3 
+|
+|
+|
+|style="background:#cfcfff; text-align:center;"|15
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+! 0
+|
+|-
+! 45
+| Antônio Pizzonia 3 
+|
+|
+|
+|style="background:#cfcfff; text-align:center;"|16
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+! 0
+|
+|-
+! 46
+| Roberto Moreno 3
+|
+|
+|
+|style="background:#efcfff; text-align:center;"|17
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+! 0
+|
+|-
+! 47
+| Juho Annala 3 
+|
+|
+|
+|style="background:#efcfff; text-align:center;"|18
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+! 0
+|
+|-
+! —
+| Dario Franchitti
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+! 0
+|style="background:#cfcfff; text-align:center;"|16
+|-
+! —
+| Phil Giebler
+|
+|
+|
+|
+|
+|style="background:#ffcfcf; text-align:center;"|DNQ
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+! 0
+|
+|-
+! —
+| Max Papis
+|
+|
+|
+|
+|
+|style="background:#ffcfcf; text-align:center;"|DNQ
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+! 0
+|
+|- valign="top"
+!valign="middle"| Pos
+!valign="middle"| Driver
+! HMS
+! STP
+! MOT1
+! LBH1
+! KAN
+! INDY
+! MIL
+! TXS
+! IOW
+! RIR
+! WGL
+! NSH
+! MDO
+! EDM
+! KTY
+! SNM
+! DET
+! CHI
+!valign="middle"| Pts
+! SUR2
+|}
+|valign="top"|
+{|
+|-
+|
+{| style="margin-right:0; font-size:85%; text-align:center;" class="wikitable"
+|-
+! Color
+! Result
+|- style="background:#ffffbf;"
+| Gold
+| Winner
+|- style="background:#dfdfdf;"
+| Silver
+| 2nd place
+|- style="background:#ffdf9f;"
+| Bronze
+| 3rd place
+|- style="background:#dfffdf;"
+| Green
+| 4th & 5th place
+|- style="background:#cfeaff;"
+| Light Blue
+| 6th–10th place
+|- style="background:#cfcfff;"
+| Dark Blue
+| Finished(Outside Top 10)
+|- style="background:#efcfff;"
+| Purple
+| Did not finish(Ret)
+|- style="background:#ffcfcf;"
+| Red
+| Did not qualify(DNQ)
+|- style="background:#dfc484;"
+| Brown
+| Withdrawn(Wth)
+|-  style="background:#000; color:white;"
+| Black
+| Disqualified(DSQ)
+|- style="background:#fff;"
+|| White
+| Did not start(DNS)
+|-
+|rowspan=2| Blank
+| Did notparticipate(DNP)
+|-
+| Not competing
+|}
+|-
+|
+{| style="margin-right:0; font-size:85%; text-align:center;" class="wikitable"
+|style="background:#f2f2f2; text-align:center;" colspan="2"|In-Line Notation
+|-  style="text-align:center; background:#f2f2f2;"
+||Bold
+||Pole position
+|-  style="text-align:center; background:#f2f2f2;"
+||Italics
+||Ran fastest race lap
+|-  style="text-align:center; background:#f2f2f2;"
+||*
+||Led most race laps(3 points)
+|-  style="text-align:center; background:#f2f2f2;"
+||DNS
+||Any driver who qualifiesbut does not start (DNS),earns half the pointshad they taken part.
+|-  style="text-align:center; background:#f2f2f2;"
+||Note 1
+||Races run on same day(Motegi / IndyCar)(Long Beach / Champ Car)
+|-  style="text-align:center; background:#f2f2f2;"
+||Note 2
+||Non-championship round(no points awarded)
+|-  style="text-align:center; background:#f2f2f2;"
+||Note 3
+||no points awarded(Long Beach participants did notenter other 2008 IndyCar races)
+|-
+|style="text-align:center;" colspan="2"| Rookie of the Year
+|-
+|style="text-align:center" colspan="2"| Rookie
+|}
+|}
+|}
+
+* Ties in points broken by number of wins, followed by number of 2nds, 3rds, etc., and then by number of pole positions, followed by number of times qualified 2nd, etc.
+
+==See also==
+* 2008 Indianapolis 500
+* 2008 Indy Lights season
+* 2008 Champ Car season (cancelled)
+* 2008 Atlantic Championship season
+

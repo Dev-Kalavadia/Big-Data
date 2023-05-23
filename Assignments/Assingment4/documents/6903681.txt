@@ -1,0 +1,5 @@
+Title: PP-format
+The PP-format (Post Processing Format) is a proprietary file format for meteorological data developed by the Met Office, the United Kingdom's national weather service.
+
+Simulations of the weather are performed by the Met Office's Unified Model, which can be used for Numerical Weather Prediction or Climatology, and data is collected. This data is usually meteorological in nature and may include averaged data for parameters like global surface temperatures or accumulations of rainfall for locations inside the model, though the Unified Model is capable of outputting many sophisticated diagnostics to PP-format. These files are binary streams, structured in a proprietary file format which can then be processed and transformed into other, more portable, formats. The main reason for using such a format is to increase the rate at which data can be written from the model to disk, a major consideration when running a simulation that must be timely and efficient.
+

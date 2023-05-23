@@ -1,0 +1,113 @@
+Title: List of script typefaces
+
+This is a list of script typefaces.  This list details standard script fonts used in classical typesetting and printing.
+
+== Calligraphic ==
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+== Handwriting ==
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+== Additional script typefaces ==
+
+
+* Forte
+
+== See also ==
+
+* Fixedsys
+* List of display typefaces
+* List of monospaced typefaces
+* List of sans serif typefaces
+* List of serif typefaces
+
+
+List
+Script
+Script

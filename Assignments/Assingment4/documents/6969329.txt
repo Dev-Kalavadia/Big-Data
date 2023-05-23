@@ -1,0 +1,3253 @@
+Title: 1987 World Sportscar Championship
+The 1987 World Sportscar Championship season was the 35th season of FIA World Sportscar Championship racing.  It featured the 1987 FIA World Sports Prototype Championship which was contested over a ten race series that commenced on 22 March and ended on 27 September. The championship was open to FIA Group C Sports Prototypes, FIA Group C2 Sports Prototypes and IMSA GTP cars. Raul Boesel won the Drivers Championship, Fermin Velez  was awarded the FIA Cup for Group C2 Drivers, Silk Cut Jaguar won the Teams Championship and the FIA Cup for Group C2 Teams was awarded to Spice Engineering.FIA Yearbook, 1988, white section, pages 88-93 Jaguar won 8 out of the 10 races and Porsche 2.
+
+==Schedule==
+
+{| class="wikitable" style="font-size: 90%;"
+|-
+! Rnd
+! Race
+! Circuit
+! Date
+|-
+! 1
+|  Grand Premio Fortuna (360 km)
+| Circuito Permanente Del Jarama
+| 22 March
+|-
+! 2
+|  1000 km Jerez
+| Circuito Permanente de Jerez
+| 29 March
+|-
+! 3
+|  1000km Monza
+| Autodromo Nazionale Monza
+| 12 April
+|-
+! 4
+|  Autoglass 1000 Kilometres Silverstone
+| Silverstone Circuit
+| 10 May
+|-
+! 5
+|  24 Hours of Le Mans
+| Circuit de la Sarthe
+| 13 June14 June
+|-
+! 6
+|  200 Meilen von Nürnberg
+| Norisring
+| 28 June
+|-
+! 7
+|  Shell Gemini 1000 Kilometres Brands Hatch
+| Brands Hatch
+| 26 July
+|-
+! 8
+|  International ADAC 1000km-Rennen
+| Nürburgring
+| 30 August
+|-
+! 9
+|  Kouros 1000km Spa
+| Circuit de Spa-Francorchamps
+| 13 September
+|-
+! 10
+|  Mount Fuji 1000 Kilometres
+| Fuji Speedway
+| 27 September
+|}
+
+==Entries==
+===Group C1===
+{| class="wikitable" style="font-size: 85%"
+|-
+! Entrant
+! Car
+! Engine
+! Tyre
+! 
+! Drivers
+! Rounds
+|-
+|rowspan=28|  Brun Motorsport
+|rowspan=28| Porsche 962C
+|rowspan=28| Porsche Type-935/79 2.8 L Turbo Flat-6Porsche Type-935/82 3.0 L Turbo Flat-6
+|rowspan=28| 
+|rowspan=10| 1
+|  Walter Brun
+| 1–4, 6–9
+|-
+|  Frank Jelinski
+| 1–2
+|-
+|  Oscar Larrauri
+| 3, 10
+|-
+|  Jésus Pareja
+| 4, 6–7
+|-
+|  Uwe Schäfer
+| 4, 8
+|-
+|  Paul Belmondo
+| 5
+|-
+|  Michel Trollé
+| 5
+|-
+|  Pierre de Thoisy
+| 5
+|-
+|  Massimo Sigala
+| 9
+|-
+|  Jochen Mass
+| 10
+|-
+|rowspan=7| 2
+|  Massimo Sigala
+| 1–4
+|-
+|  Gianfranco Brancatelli
+| 1–3
+|-
+|  Oscar Larrauri
+| 4–9
+|-
+|  Uwe Schäfer
+| 5, 10
+|-
+|  Jésus Pareja
+| 5, 10
+|-
+|  Jochen Mass
+| 6–9
+|-
+|  Manuel Reuter
+| 10
+|-
+|rowspan=11| 3
+|  Oscar Larrauri
+| 1–3, 6
+|-
+|  Jésus Pareja
+| 1–3, 8–9
+|-
+|  Walter Brun
+| 2
+|-
+|  Frank Jelinski
+| 3
+|-
+|  Bill Adam
+| 5
+|-
+|  Scott Goodyear
+| 5
+|-
+|  Richard Spenard
+| 5
+|-
+|  Jochen Mass
+| 6
+|-
+|  Hans-Peter Kaufmann
+| 8
+|-
+|  Franz Hunkeler
+| 8
+|-
+|  Uwe Schäfer
+| 9
+|-
+|rowspan=14|  Silk Cut Jaguar
+|rowspan=14| Jaguar XJR-8
+|rowspan=14| Jaguar 7.0 L V12
+|rowspan=14| 
+|rowspan=5| 4
+|  Raul Boesel
+| All
+|-
+|  Eddie Cheever
+| 1–2, 4–6, 8–9
+|-
+|  John Nielsen
+| 2–3, 7, 9
+|-
+|  Jan Lammers
+| 5
+|-
+|  Johnny Dumfries
+| 10
+|-
+|rowspan=4| 5
+|  Jan Lammers
+| All
+|-
+|  John Watson
+| All
+|-
+|  Win Percy
+| 5
+|-
+|  Raul Boesel
+| 9
+|-
+|rowspan=5| 6
+|  Martin Brundle
+| 4–5, 9
+|-
+|  John Nielsen
+| 4–5
+|-
+|  Armin Hahne
+| 5
+|-
+|  Johnny Dumfries
+| 9
+|-
+|  Raul Boesel
+| 9
+|-
+|rowspan=20|  Joest Racing Blaupunkt-Joest Racing
+|rowspan=20| Porsche 962C
+|rowspan=20| Porsche Type-935/79 2.8 L Turbo Flat-6Porsche Type-935/82 3.0 L Turbo Flat-6
+|rowspan=20| 
+|rowspan=9| 7
+|  Klaus Ludwig
+| 3, 6
+|-
+|  Piercarlo Ghinzani
+| 3
+|-
+|  Sarel van der Merwe
+| 5
+|-
+|  Chip Robinson
+| 5
+|-
+|  David Hobbs
+| 5
+|-
+|  Bob Wollek
+| 6, 9–10
+|-
+|  Hans-Joachim Stuck
+| 7–9
+|-
+|  Derek Bell
+| 7–9
+|-
+|  Harald Grohs
+| 10
+|-
+|rowspan=7| 8
+|  Stanley Dickens
+| 3, 5–6, 8–10
+|-
+|  "John Winter"
+| 3, 6, 8–10
+|-
+|  Klaus Ludwig
+| 3
+|-
+|  Frank Jelinski
+| 5, 8–10
+|-
+|  Hurley Haywood
+| 5
+|-
+|  Sarel van der Merwe
+| 5
+|-
+|  Bob Wollek
+| 9–10
+|-
+|rowspan=4| 9
+|  Klaus Ludwig
+| 6, 8
+|-
+|  Frank Jelinski
+| 6
+|-
+|  Sarel van der Merwe
+| 6
+|-
+|  Bob Wollek
+| 8
+|-
+|rowspan=13|  Porsche Kremer Racing
+|rowspan=13| Porsche 962C
+|rowspan=13| Porsche Type-935/79 2.8 L Turbo Flat-6Porsche Type-935/82 3.0 L Turbo Flat-6
+|rowspan=13| 
+|rowspan=6| 10
+|  Volker Weidler
+| 1–2, 4–9
+|-
+|  Kris Nissen
+| 1–2, 4–9
+|-
+|  Allen Berg
+| 4
+|-
+|  Kunimitsu Takahashi
+| 5
+|-
+|  Franz Konrad
+| 10
+|-
+|  George Fouché
+| 10
+|-
+|rowspan=7| 11
+|  Emilio de Villota
+| 1–2
+|-
+|  Paco Romero
+| 1–2
+|-
+|  George Fouché
+| 5
+|-
+|  Wayne Taylor
+| 5
+|-
+|  Franz Konrad
+| 5
+|-
+|  Volker Weidler
+| 10
+|-
+|  Kris Nissen
+| 10
+|-
+|rowspan=4|  Primagaz Compétition
+|rowspan=4| Cougar C20
+|rowspan=4| Porsche Type-935/76 2.6 L Turbo Flat-6Porsche Type-935/79 2.8 L Turbo Flat-6
+|rowspan=4| 
+|rowspan=4| 13
+|  Hervé Regout
+| 3–5
+|-
+|  Joël Gouhier
+| 3
+|-
+|  Yves Courage
+| 4–5
+|-
+|  Pierre-Henri Raphanel
+| 5
+|-
+|rowspan=2|  Mussato Action Car
+|rowspan=2| Lancia LC2/85
+|rowspan=2| Ferrari 308C 3.0 L Turbo V8
+|rowspan=2| 
+|rowspan=2| 14
+|  Franz Konrad
+| 6
+|-
+|  Bruno Giacomelli
+| 6
+|-
+|rowspan=7|  Liqui Moly Equipe Britten-Lloyd Racing
+|rowspan=7| Porsche 962C GTi
+|rowspan=7| Porsche Type-935/79 2.8 L Turbo Flat-6
+|rowspan=7| 
+|rowspan=7| 15
+|  Mauro Baldi
+| 1–4, 6–10
+|-
+|  Jonathan Palmer
+| 1–2, 4–6, 8–9
+|-
+|  Bruno Giacomelli
+| 3
+|-
+|  Price Cobb
+| 5
+|-
+|  James Weaver
+| 5
+|-
+|  Johnny Dumfries
+| 7
+|-
+|  Mike Thackwell
+| 10
+|-
+|rowspan=9|  Porsche AG
+|rowspan=9| Porsche 962C
+|rowspan=9| Porsche Type-935/82 3.0 L Turbo Flat-6
+|rowspan=9| 
+|rowspan=3| 17
+|  Hans-Joachim Stuck
+| 1–6
+|-
+|  Derek Bell
+| 1–6
+|-
+|  Al Holbert
+| 5
+|-
+|rowspan=3| 18
+|  Bob Wollek
+| 2–5
+|-
+|  Jochen Mass
+| 2–5
+|-
+|  Vern Schuppan
+| 5
+|-
+|rowspan=3| 19
+|  Vern Schuppan
+| 5
+|-
+|  Kees Nierop
+| 5
+|-
+|  Price Cobb
+| 5
+|-
+|rowspan=5|  Tiga Team
+|rowspan=5| Tiga GC87
+|rowspan=5| Ford Cosworth DFL 3.3 L Turbo V8
+|rowspan=5| 
+|rowspan=5| 20
+|  Tim Lee-Davey
+| 8–10
+|-
+|  Chico Serra
+| 8–9
+|-
+|  Evan Clements
+| 8
+|-
+|  Val Musetti
+| 9
+|-
+|  Tetsuya Ota
+| 10
+|-
+|rowspan=7|  Nissan Motorsports
+|rowspan=7| Nissan R87E
+|rowspan=7| Nissan VEJ30 3.0 L Turbo V8
+|rowspan=7| 
+|rowspan=4| 23
+|  Kazuyoshi Hoshino
+| 5, 10
+|-
+|  Kenji Takehashi
+| 5, 10
+|-
+|  Keiji Matsumoto
+| 5
+|-
+|  Dave Scott
+| 10
+|-
+|rowspan=3| 32
+|  Masahiro Hasemi
+| 5, 10
+|-
+|  Aguri Suzuki
+| 5, 10
+|-
+|  Takao Wada
+| 5
+|-
+|rowspan=3|  Advan Alpha Nova
+|rowspan=5| Porsche 962C
+|rowspan=5| Porsche Type-935/79 3.0 L Turbo Flat-6
+|rowspan=3| 
+|rowspan=3| 25
+|  Kunimitsu Takahashi
+| 10
+|-
+|  Kazuo Mogi
+| 10
+|-
+|  Kenny Acheson
+| 10
+|-
+|rowspan=2|  From A Racing
+|rowspan=2| 
+|rowspan=2| 27
+|  Hideki Okada
+| 10
+|-
+|  John Nielsen
+| 10
+|-
+|rowspan=2|  Person's Racing Team
+|rowspan=5| Nissan R86V
+|rowspan=5| Nissan VG30ET 3.0 L V6
+|rowspan=5| 
+|rowspan=2| 28
+|  Anders Olofsson
+| 10
+|-
+|  Takao Wada
+| 10
+|-
+|rowspan=3|  Italya Sports
+|rowspan=3| 29
+|  Anders Olofsson
+| 5
+|-
+|  Alain Ferté
+| 5
+|-
+|  Patrick Gonin
+| 5
+|-
+|rowspan=3|  Dauer Racing
+|rowspan=3| Porsche 962C
+|rowspan=3| Porsche Type-935/79 2.8 L Turbo Flat-6
+|rowspan=3| 
+|rowspan=3| 31
+|  Jochen Dauer
+| 6, 8
+|-
+|  Johnny Dumfries
+| 6
+|-
+|  Harald Grohs
+| 8
+|-
+|rowspan=2|  Walter Lechner Racing School
+|rowspan=2| Porsche 962C
+|rowspan=2| Porsche Type-935/79 2.8 L Turbo Flat-6
+|rowspan=2| 
+|rowspan=2| 34
+|  Walter Lechner
+| 6
+|-
+|  Ernst Franzmaier
+| 6
+|-
+|rowspan=8|  Toyota Team Tom's
+|rowspan=8| Toyota 87C
+|rowspan=8| Toyota 3S-GTM 2.1 L Turbo I4
+|rowspan=8| 
+|rowspan=4| 36
+|  Alan Jones
+| 5, 10
+|-
+|  Geoff Lees
+| 5, 10
+|-
+|  Eje Elgh
+| 5
+|-
+|  Masanori Sekiya
+| 10
+|-
+|rowspan=4| 37
+|  Masanori Sekiya
+| 5, 10
+|-
+|  Tiff Needell
+| 5
+|-
+|  Kaoru Hoshino
+| 5
+|-
+|  Nobuhide Tachi
+| 10
+|-
+|rowspan=2|  Dome Motorsport
+|rowspan=2| Dome 87C
+|rowspan=2| Toyota 3S-GTM 2.1 L Turbo I4
+|rowspan=2| 
+|rowspan=2| 38
+|  Ross Cheever
+| 10
+|-
+|  Eje Elgh
+| 10
+|-
+|rowspan=3|  Graff Racing
+|rowspan=3| Rondeau M482
+|rowspan=3| Ford Cosworth DFL 3.3 L V8
+|rowspan=3| 
+|rowspan=3| 40
+|  Jean-Philippe Grand
+| 5
+|-
+|  Gaston Rahier
+| 5
+|-
+|  Jacques Terrien
+| 5
+|-
+|rowspan=6|  Del Bello Racing
+|rowspan=6| Sauber C8
+|rowspan=6| Mercedes-Benz M117 5.0 L Turbo V8
+|rowspan=6| 
+|rowspan=6| 42
+|  Gilles Lempereur
+| 5, 7
+|-
+|  Pierre-Alain Lombardi
+| 5
+|-
+|  Jacques Guillot
+| 5
+|-
+|  Jean-Pierre Jassaud
+| 7–8
+|-
+|  Lucien Rossiaud
+| 7–8
+|-
+|  Noël del Bello
+| 8
+|-
+|rowspan=2|  Auto Beaurex Motorsport
+|rowspan=2| Tom's 86C
+|rowspan=2| Toyota 3S-GTM 2.1 L Turbo I4
+|rowspan=2| 
+|rowspan=2| 45
+|  Kaoru Hoshino
+| 10
+|-
+|  Will Hoy
+| 10
+|-
+|rowspan=6|  Secateva
+|rowspan=3| WM P86
+|rowspan=6| Peugeot ZNS4 2.9 L Turbo I4
+|rowspan=6| 
+|rowspan=3| 51
+|  François Migault
+| 5
+|-
+|  Pascal Pessiot
+| 5
+|-
+|  Jean-Daniel Raulet
+| 5
+|-
+|rowspan=3| WM P87
+|rowspan=3| 52
+|  Roger Dorchy
+| 5
+|-
+|  Philippe Gache
+| 5
+|-
+|  Dominique Delestre
+| 5
+|-
+|rowspan=3|  Alpha Cubic Racing Team renoma
+|rowspan=3| Porsche 962C
+|rowspan=3| Porsche Type-935/79 2.8 L Turbo Flat-6
+|rowspan=3| 
+|rowspan=3| 55
+|  Naoki Nagasaka
+| 10
+|-
+|  Chiyomi Totani
+| 10
+|-
+|  Hitoshi Ogawa
+| 10
+|-
+|rowspan=10|  Kouros Racing Formel Rennsportclub
+|rowspan=10| Sauber C9
+|rowspan=10| Mercedes-Benz M117 5.0 L Turbo V8
+|rowspan=10| 
+|rowspan=6| 61
+|  Mike Thackwell
+| 4–6, 8–9
+|-
+|  Henri Pescarolo
+| 4–5, 8
+|-
+|  Hideki Okada
+| 5
+|-
+|  Manuel Reuter
+| 6
+|-
+|  Johnny Dumfries
+| 8
+|-
+|  Jean-Louis Schlesser
+| 9
+|-
+|rowspan=4| 62
+|  Johnny Dumfries
+| 5, 8
+|-
+|  Chip Ganassi
+| 5
+|-
+|  Mike Thackwell
+| 5
+|-
+|  Manuel Reuter
+| 8
+|-
+|rowspan=4|  Primagaz Compétition
+|rowspan=4| Porsche 962C
+|rowspan=4| Porsche Type-935/79 2.8 L Turbo Flat-6
+|rowspan=4| 
+|rowspan=4| 72
+|  Jürgen Lässig
+| 5–6, 8–9
+|-
+|  Pierre Yver
+| 5–6, 9
+|-
+|  Bernard de Dryver
+| 5, 8–9
+|-
+|  Cathy Muller
+| 8
+|-
+|rowspan=2|  Best House Racing Team
+|rowspan=2| LM 07
+|rowspan=2| Toyota 3S-GTM 2.1 L Turbo I4
+|rowspan=2| 
+|rowspan=2| 77
+|  Osamu Nakako
+| 10
+|-
+|  Maurizio Sandro Sala
+| 10
+|-
+|rowspan=2|  Rothmans Porsche Team Schuppan
+|rowspan=5| Porsche 962C
+|rowspan=5| Porsche Type-935/82 3.0 L Turbo Flat-6
+|rowspan=5| 
+|rowspan=2| 99
+|  Geoff Brabham
+| 10
+|-
+|  Derek Bell
+| 10
+|-
+|rowspan=3|  Trust Racing Team
+|rowspan=3| 100
+|  Vern Schuppan
+| 10
+|-
+|  James Weaver
+| 10
+|-
+|  Keiichi Suzuki
+| 10
+|-
+|}
+
+===Group C2===
+{| class="wikitable" style="font-size: 85%"
+|-
+! Entrant
+! Car
+! Engine
+! Tyre
+! 
+! Drivers
+! Rounds
+|-
+|rowspan=11|  Swiftair Ecurie Ecosse
+|rowspan=11| Ecosse C286
+|rowspan=11| Ford Cosworth DFL 3.3 L V8
+|rowspan=11| 
+|rowspan=8| 101
+|  David Leslie
+| 1–3
+|-
+|  Ray Mallock
+| 1–3
+|-
+|  Mike Wilds
+| 4–10
+|-
+|  Johnny Dumfries
+| 4
+|-
+|  Andy Petery
+| 5
+|-
+|  Les Delano
+| 5
+|-
+|  Win Percy
+| 6, 8
+|-
+|  Marc Duez
+| 7, 9–10
+|-
+|rowspan=3| 102
+|  Ray Mallock
+| 4–10
+|-
+|  David Leslie
+| 4–10
+|-
+|  Marc Duez
+| 5
+|-
+|rowspan=10|  John Bartlett Racing with Goodmans Sound
+|rowspan=10| Bardon DB2
+|rowspan=10| Ford Cosworth DFL 3.3 L V8
+|rowspan=10| 
+|rowspan=10| 103
+|  Kenneth Leim
+| 2, 4
+|-
+|  Val Musetti
+| 2, 4
+|-
+|  Max Cohen-Olivar
+| 2
+|-
+|  John Bartlett
+| 4, 6, 9
+|-
+|  Robin Donovan
+| 5
+|-
+|  Tim Lee-Davey
+| 5
+|-
+|  Raymond Boutinaud
+| 5
+|-
+|  Rob Wilson
+| 6
+|-
+|  Giovanni Lavaggi
+| 9
+|-
+|  Tom Waring
+| 9
+|-
+|rowspan=6|  URD Junior Team
+|rowspan=6| URD C81/2
+|rowspan=6| BMW M88 3.5 L I6
+|rowspan=6| 
+|rowspan=6| 104
+|  Hellmut Mundas
+| 1–4, 6–8, 10
+|-
+|  Rudi Seher
+| 1–4, 6–8
+|-
+|  Dieter Heinzelmann
+| 2–3
+|-
+|  Rudi Thomann
+| 4
+|-
+|  Sean Walker
+| 7
+|-
+|  Robin Smith
+| 10
+|-
+|rowspan=4|  Kelmar Racing
+|rowspan=4| Tiga GC85
+|rowspan=4| Ford Cosworth DFL 3.3 L V8
+|rowspan=4| 
+|rowspan=4| 106
+|  Ranieri Randaccio
+| 2–4, 6–8
+|-
+|  Maurizio Gellini
+| 2–4, 6–7
+|-
+|  Vito Veninata
+| 2–3, 8–9
+|-
+|  Pasquale Barberio
+| 4, 7–9
+|-
+|rowspan=3|  Roland Bassaler
+|rowspan=3| Sauber SHS C6
+|rowspan=3| BMW M88 3.5 L I6
+|rowspan=3| 
+|rowspan=3| 108
+|  Jean-François Yvon
+| 5
+|-
+|  Herve Bourjade
+| 5
+|-
+|  Yves Harvalet
+| 5
+|-
+|rowspan=5|  Spice Engineering
+|rowspan=5| Spice SE86CSpice SE87C
+|rowspan=5| Ford Cosworth DFL 3.3 L V8
+|rowspan=5| 
+|rowspan=3| 111
+|  Gordon Spice
+| All
+|-
+|  Fermín Vélez
+| All
+|-
+|  Philippe de Henning
+| 5
+|-
+|rowspan=2| 112
+|  Ray Bellm
+| 6
+|-
+|  Nick Adams
+| 6
+|-
+|rowspan=3|  José Thibault
+|rowspan=3| Chevron B36
+|rowspan=3| Talbot 3.0 L V6
+|rowspan=3| 
+|rowspan=3| 113
+|  José Thibault
+| 5
+|-
+|  André Heinrich
+| 5
+|-
+|  Lionel Née
+| 5
+|-
+|rowspan=6|  Team Tiga Ford Denmark
+|rowspan=6| Tiga GC287
+|rowspan=6| Ford Cosworth BDT-E 1.8 L Turbo I4
+|rowspan=6| 
+|rowspan=6| 114
+|  Thorkild Thyrring
+| 1–3, 5–10
+|-
+|  Leif Lindström
+| 1–3
+|-
+|  John Sheldon
+| 5–6
+|-
+|  Ian Harrower
+| 5
+|-
+|  Val Musetti
+| 7
+|-
+|  Peter Elgaard
+| 8–10
+|-
+|rowspan=3|  ADA Engineering
+|rowspan=3| Gebhardt JC843
+|rowspan=3| Ford Cosworth DFL 3.3 L V8
+|rowspan=3| 
+|rowspan=3| 115
+|  Ian Harrower
+| 1–2, 7
+|-
+|  Mike Wilds
+| 1–2
+|-
+|  Tiff Needell
+| 7
+|-
+|rowspan=7|  Techno Racing
+|rowspan=7| Alba AR3
+|rowspan=7| Ford Cosworth DFL 3.3 L V8
+|rowspan=7| 
+|rowspan=7| 116
+|  Luigi Taverna
+| 1–3, 5, 7
+|-
+|  Jean-Pierre Frey
+| 1–2, 7
+|-
+|  Oscar Berselli
+| 2–3
+|-
+|  Pasquale Barberio
+| 3
+|-
+|  Patrick Trucco
+| 5
+|-
+|  Evan Clements
+| 5
+|-
+|  Giovanni Lavaggi
+| 7
+|-
+|rowspan=3|  Team Lucky Strike Schanche
+|rowspan=3| Argo JM19B
+|rowspan=3| Zakspeed 1.9 L Turbo I4
+|rowspan=3| 
+|rowspan=3| 117
+|  Martin Schanche
+| 1–9
+|-
+|  Will Hoy
+| 1–9
+|-
+|  Robin Smith
+| 5
+|-
+|rowspan=5|  Olindo Iacobelli Chamberlain Engineering
+|rowspan=5| Royale RP40Spice SE86C
+|rowspan=5| Ford Cosworth DFL 3.3 L V8
+|rowspan=12| 
+|rowspan=5| 118
+|  Jean-Louis Ricci
+| 5, 7–10
+|-
+|  Olindo Iacobelli
+| 5, 7–8, 10
+|-
+|  Georges Tessier
+| 5, 8–9
+|-
+|  John Nicholson
+| 7
+|-
+|  Gerard Cardinaud
+| 9
+|-
+|rowspan=7|  Chamberlain Engineering
+|rowspan=7| Spice SE86C
+|rowspan=7| Hart 418T 1.9 L Turbo I4
+|rowspan=7| 127
+|  Nick Adams
+| 3–5, 7–9
+|-
+|  Graham Duxbury
+| 3–5, 10
+|-
+|  Costas Los
+| 3
+|-
+|  Richard Jones
+| 5
+|-
+|  John Foulston
+| 7
+|-
+|  Bob Juggins
+| 8
+|-
+|  Ian Khan
+| 9–10
+|-
+|rowspan=2|  Karl-Heinz Becker
+|rowspan=2| Lola T600
+|rowspan=2| BMW 1.6 L Turbo I4
+|rowspan=2| 
+|rowspan=2| 119
+|  Karl-Heinz Becker
+| 6
+|-
+|  Volker Cordlandwehr
+| 6
+|-
+|rowspan=5|  Cosmik Racing with GP Motorsport
+|rowspan=5| Tiga GC287
+|rowspan=5| Ford Cosworth DFL 3.3 L V8
+|rowspan=5| 
+|rowspan=5| 121
+|  Costas Los
+| 4–10
+|-
+|  Dudley Wood
+| 4–9
+|-
+|  James Weaver
+| 4, 7
+|-
+|  Tom Hessert
+| 5
+|-
+|  Chris Hodgetts
+| 10
+|-
+|rowspan=9|  Charles Ivey Racing
+|rowspan=9| Tiga GC287
+|rowspan=9| Porsche Type-935/76 2.6 L Turbo Flat-6
+|rowspan=9| 
+|rowspan=9| 123
+|  Dudley Wood
+| 1, 3
+|-
+|  Mark Newby
+| 1, 3
+|-
+|  Ian Taylor
+| 4
+|-
+|  Pete Lovett
+| 4
+|-
+|  John Cooper
+| 5
+|-
+|  Tom Dodd-Noble
+| 5
+|-
+|  Max Cohen-Olivar
+| 5
+|-
+|  John Sheldon
+| 7–9
+|-
+|  Philippe de Henning
+| 7–9
+|-
+|rowspan=3|  Oudet Racing Vetir Racing Team
+|rowspan=3| Tiga GC85
+|rowspan=3| Ford Cosworth DFL 3.3 L V8
+|rowspan=3| 
+|rowspan=3| 125
+|  Patrick Oudet
+| 4–5
+|-
+|  Bruno Sotty
+| 4–5
+|-
+|  Jean-Claude Justice
+| 4–5
+|-
+|rowspan=3|  Alba Carma
+|rowspan=3| Alba AR6
+|rowspan=3| Carma 1.9 L Turbo I4
+|rowspan=3| 
+|rowspan=3| 130
+|  Martino Finotto
+| 3
+|-
+|  Pietro Silva
+| 3
+|-
+|  Ruggero Melgrati
+| 3
+|-
+|rowspan=3|  Gebhardt Motorsport
+|rowspan=3| Gebhardt JC873
+|rowspan=3| Audi 2.1 L Turbo I5
+|rowspan=3| 
+|rowspan=3| 140
+|  Günther Gebhardt
+| 9
+|-
+|  Ernst Franzmaier
+| 9
+|-
+|  Walter Lechner
+| 9
+|-
+|rowspan=3|  British Barn Racing Team
+|rowspan=3| JTK 62C
+|rowspan=3| Ford Cosworth DFL 3.3 L V8
+|rowspan=3| 
+|rowspan=3| 150
+|  Jirou Yoneyama
+| 10
+|-
+|  Hideshi Matsuda
+| 10
+|-
+|  Kiyoshi Misaki
+| 10
+|-
+|rowspan=3|  Ba-Tsu Racing Team
+|rowspan=3| MCS Guppy
+|rowspan=3| Mazda 13B 1.3 L 2-rotor
+|rowspan=3| 
+|rowspan=3| 170
+|  Ichirou Mizuno
+| 10
+|-
+|  Syuuji Fujii
+| 10
+|-
+|  Kazuhiko Oda
+| 10
+|-
+|rowspan=7|  CEE Sport Racing
+|rowspan=7| Tiga GC286
+|rowspan=7| Volvo 2.3 L Turbo I4Ford Cosworth BDT 1.7 L Turbo I4
+|rowspan=7| 
+|rowspan=7| 171
+|  Slim Borgudd
+| 5
+|-
+|  Tryggve Gronvall
+| 5
+|-
+|  Andrew Ratcliffe
+| 5
+|-
+|  Laurence Jacobsen
+| 7, 9
+|-
+|  Stefano Sebastiani
+| 7, 9
+|-
+|  John Fyda
+| 7
+|-
+|  Richard Jones
+| 9
+|-
+|rowspan=13|  Automobiles Louis Descartes
+|rowspan=4| ALD 03
+|rowspan=13| BMW M88 3.5 L I6
+|rowspan=13| 
+|rowspan=4| 177
+|  Jacques Heuclin
+| 3–5, 7, 9
+|-
+|  Dominique Lacaud
+| 3, 5, 7–9
+|-
+|  Gérard Tremblay
+| 3, 8
+|-
+|  Louis Descartes
+| 4–5, 7–9
+|-
+|rowspan=9| ALD 02
+|rowspan=9| 178
+|  Gérard Tremblay
+| 2, 4–5, 7–9
+|-
+|  Dominique Lacaud
+| 2, 4
+|-
+|  Louis Descartes
+| 2
+|-
+|  Sylvain Boulay
+| 4–5
+|-
+|  Michel Lateste
+| 5
+|-
+|  Rudi Thomann
+| 7
+|-
+|  Jean-Claude Ferrarin
+| 7
+|-
+|  Bruno Sotty
+| 8–9
+|-
+|  Thierry Lecerf
+| 9
+|-
+|rowspan=3|  Dune Motorsport
+|rowspan=3| Tiga GC287
+|rowspan=3| Rover V64V 3.2 L V6
+|rowspan=3| 
+|rowspan=3| 181
+|  Neil Crang
+| 3–4, 9
+|-
+|  Duncan Bain
+| 3–4, 9
+|-
+|  Jean Krucker
+| 4
+|-
+|rowspan=3|  Ark Racing with Arthur Hough
+|rowspan=3| Ceekar 83J-1
+|rowspan=3| Ford Cosworth DFV 3.0 L V8
+|rowspan=3| 
+|rowspan=3| 188
+|  Max Payne
+| 7–9
+|-
+|  Lawrie Hickman
+| 7–9
+|-
+|  Chris Ashmore
+| 9
+|-
+|rowspan=2|  PC Automotive
+|rowspan=2| Royale RP40
+|rowspan=2| Ford Cosworth DFL 3.3 L V8
+|rowspan=2| 
+|rowspan=2| 191
+|  Richard Piper
+| 7
+|-
+|  Mike Catlow
+| 7
+|-
+|rowspan=15|  Roy Baker Racing
+|rowspan=15| Tiga GC286
+|rowspan=12| Ford Cosworth DFL 3.3 L V8
+|rowspan=15| 
+|rowspan=12| 198
+|  Costas Los
+| 1–2
+|-
+|  Pasquale Barberio
+| 1–2
+|-
+|  Val Musetti
+| 3
+|-
+|  Rudi Thomann
+| 3
+|-
+|  David Andrews
+| 4–5, 7–10
+|-
+|  Robert Peters
+| 4–5
+|-
+|  Max Cohen-Olivar
+| 4, 8
+|-
+|  Mike Allison
+| 5
+|-
+|  Mike Kimpton
+| 7, 9
+|-
+|  Jeremy Rossiter
+| 7
+|-
+|  Chris Ashmore
+| 8
+|-
+|  Patrick de Radigues
+| 10
+|-
+|rowspan=3| Ford Cosworth BDT-E 1.7 L Turbo I4
+|rowspan=3| 199
+|  John Sheldon
+| 4
+|-
+|  Robert Peters
+| 4
+|-
+|  Tryggve Gronvall
+| 4
+|-
+|rowspan=9|  Dahm Cars Racing
+|rowspan=9| Argo JM19
+|rowspan=9| Porsche 3.2 L Turbo Flat-6
+|rowspan=9| 
+|rowspan=9| 200
+|  Peter Fritsch
+| 5, 8
+|-
+|  Teddy Pilette
+| 5
+|-
+|  Jean-Paul Libert
+| 5
+|-
+|  Dieter Heinzelmann
+| 6, 8
+|-
+|  Olaf Manthey
+| 6
+|-
+|  Kenneth Leim
+| 7–9
+|-
+|  Robin Donovan
+| 7
+|-
+|  Patrick de Radigues
+| 9
+|-
+|  Guy Nève
+| 9
+|-
+|}
+
+==Season results==
+
+===Races===
+
+{| class="wikitable" style="font-size: 90%;"
+|-
+!rowspan=2| Rnd
+!rowspan=2| Circuit
+! Outright Winning Team
+! C2 Winning Team
+!rowspan=2| Reports
+|-
+! Outright Winning Drivers
+! C2 Winning Drivers
+|-
+!rowspan=2| 1
+|rowspan=2| Jarama
+|  No. 5 Silk Cut Jaguar
+|  No. 111 Spice Engineering
+|rowspan=2| Report
+|-
+|  Jan Lammers John Watson
+|  Gordon Spice Fermín Vélez
+|-
+!rowspan=2| 2
+|rowspan=2| Jerez
+|  No. 4 Silk Cut Jaguar
+|  No. 111 Spice Engineering
+|rowspan=2| Report
+|-
+|  Eddie Cheever Raul Boesel
+|  Gordon Spice Fermín Vélez
+|-
+!rowspan=2| 3
+|rowspan=2| Monza
+|  No. 5 Silk Cut Jaguar
+|  No. 111 Spice Engineering
+|rowspan=2| Report
+|-
+|  Jan Lammers John Watson
+|  Gordon Spice Fermín Vélez
+|-
+!rowspan=2| 4
+|rowspan=2| Silverstone
+|  No. 4 Silk Cut Jaguar
+|  No. 102 Swiftair Ecurie Ecosse
+|rowspan=2| Report
+|-
+|  Eddie Cheever Raul Boesel
+|  Ray Mallock David Leslie
+|-
+!rowspan=2| 5
+|rowspan=2| Le Mans
+|  No. 17 Porsche AG
+|  No. 111 Spice Engineering
+|rowspan=2| Report
+|-
+|  Hans-Joachim Stuck Derek Bell Al Holbert
+|  Gordon Spice Fermín Vélez Philippe de Henning
+|-
+!rowspan=2| 6
+|rowspan=2| Norisring
+|  No. 15 Liqui Moly Equipe
+|  No. 111 Spice Engineering
+|rowspan=2| Report
+|-
+|  Mauro Baldi Jonathan Palmer
+|  Gordon Spice Fermín Vélez
+|-
+!rowspan=2| 7
+|rowspan=2| Brands Hatch
+|  No. 4 Silk Cut Jaguar
+|  No. 102 Swiftair Ecurie Ecosse
+|rowspan=2| Report
+|-
+|  Raul Boesel John Nielsen
+|  Ray Mallock David Leslie
+|-
+!rowspan=2| 8
+|rowspan=2| Nürburgring
+|  No. 4 Silk Cut Jaguar
+|  No. 121 Cosmik Racing with GP Motorsport
+|rowspan=2| Report
+|-
+|  Eddie Cheever Raul Boesel
+|  Costas Los Dudley Wood
+|-
+!rowspan=2| 9
+|rowspan=2| Spa-Francorchamps
+|  No. 6 Silk Cut Jaguar
+|  No. 111 Spice Engineering
+|rowspan=2| Report
+|-
+|  Raul Boesel Martin Brundle Johnny Dumfries
+|  Gordon Spice Fermín Vélez
+|-
+!rowspan=2| 10
+|rowspan=2| Fuji
+|  No. 5 Silk Cut Jaguar
+|  No. 111 Spice Engineering
+|rowspan=2| Report
+|-
+|  Jan Lammers John Watson
+|  Gordon Spice Fermín Vélez
+|}
+
+{| class="wikitable" style="font-size: 85%; text-align:center"
+|-
+|+Points system
+|-
+! 1st
+! 2nd
+! 3rd
+! 4th
+! 5th
+! 6th
+! 7th
+! 8th
+! 9th
+! 10th
+!rowspan=4|
+! Group C2 Bonus
+|-
+|style="background:#FFFFBF;"| 20
+|style="background:#DFDFDF;"| 15
+|style="background:#FFDF9F;"| 12
+|style="background:#DFFFDF;"| 10
+|style="background:#DFFFDF;"| 8
+|style="background:#DFFFDF;"| 6
+|style="background:#DFFFDF;"| 4
+|style="background:#DFFFDF;"| 3
+|style="background:#DFFFDF;"| 2
+|style="background:#DFFFDF;"| 1
+|style="background:#DFFFDF;"| 2
+|-
+|}
+
+In order to be classified for points, a team had to complete 90% of the winner's distance. Further, drivers were required to complete at least 30% of their car's total race distance to qualify for championship points. Drivers forfeited points if they drove in more than one car during the race. Group C2 drivers earned extra championship points for any finish within the overall top ten positions.Peter Higham, The Guinness Guide to International Motor Racing, 1995
+
+===Drivers championships===
+The respective driver championships only counted each driver's seven highest scores toward the final championship total.  Points not counted toward the driver's tally are marked with parenthesis.
+
+====World Sports Prototype Championship for Drivers====
+{|
+|
+{| class="wikitable" style="font-size:85%; text-align:center"
+|-
+!valign="middle"| Pos
+!valign="middle"| Driver
+!valign="middle"| Team
+! JAR
+! JRZ
+! MON
+! SIL
+! LMS
+! NOR
+! BRH
+! NUR
+! SPA
+! FUJ
+! Points
+|-
+! 1
+|align=left|  Raul Boesel
+|align=left|  Silk Cut Jaguar
+|style="background:#ffdf9f;"| 3
+|style="background:#ffffbf;"| 1
+|style="background:#efcfff;"| Ret
+|style="background:#ffffbf;"| 1
+|style="background:#dfffdf;"| (5)
+|style="background:#dfffdf;"| (4)
+|style="background:#ffffbf;"| 1
+|style="background:#ffffbf;"| 1
+|style="background:#ffffbf;"| 1
+|style="background:#dfdfdf;"| 2
+| 127
+|-
+! 2
+|align=left|  Jan Lammers
+|align=left|  Silk Cut Jaguar
+|style="background:#ffffbf;"| 1
+|style="background:#efcfff;"| Ret
+|style="background:#ffffbf;"| 1
+|style="background:#dfdfdf;"| 2
+|style="background:#cfcfff;"| 5
+|style="background:#efcfff;"| Ret
+|style="background:#ffdf9f;"| 3
+|style="background:#efcfff;"| Ret
+|style="background:#dfdfdf;"| 2
+|style="background:#ffffbf;"| 1
+| 102
+|-
+! 2
+|align=left|  John Watson
+|align=left|  Silk Cut Jaguar
+|style="background:#ffffbf;"| 1
+|style="background:#efcfff;"| Ret
+|style="background:#ffffbf;"| 1
+|style="background:#dfdfdf;"| 2
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#ffdf9f;"| 3
+|style="background:#efcfff;"| Ret
+|style="background:#dfdfdf;"| 2
+|style="background:#ffffbf;"| 1
+| 102
+|-
+! 4
+|align=left|  Eddie Cheever
+|align=left|  Silk Cut Jaguar
+|style="background:#ffdf9f;"| 3
+|style="background:#ffffbf;"| 1
+|
+|style="background:#ffffbf;"| 1
+|style="background:#dfffdf;"| 5
+|style="background:#dfffdf;"| 4
+|
+|style="background:#ffffbf;"| 1
+|style="background:#dfffdf;"| 4
+|
+| 100
+|-
+!rowspan=3| 5
+|rowspan=3 align=left|  Derek Bell
+|align=left|  Porsche AG
+|style="background:#dfdfdf;"| 2
+|style="background:#ffdf9f;"| 3
+|style="background:#dfdfdf;"| 2
+|style="background:#ffdf9f;"| 3
+|style="background:#ffffbf;"| 1
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|rowspan=3| 99
+|-
+|align=left|  Joest Racing
+|
+|
+|
+|
+|
+|
+|style="background:#dfffdf;"| 4
+|style="background:#dfdfdf;"| 2
+|style="background:#dfffdf;"| (5)
+|
+|-
+|align=left|  Rothmans Porsche Team Schuppan
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#dfffdf;"| (6)
+|-
+!rowspan=2| 5
+|rowspan=2 align=left|  Hans-Joachim Stuck
+|align=left|  Porsche AG
+|style="background:#dfdfdf;"| 2
+|style="background:#ffdf9f;"| 3
+|style="background:#dfdfdf;"| 2
+|style="background:#ffdf9f;"| 3
+|style="background:#ffffbf;"| 1
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|rowspan=2| 99
+|-
+|align=left|  Joest Racing
+|
+|
+|
+|
+|
+|
+|style="background:#dfffdf;"| 4
+|style="background:#dfdfdf;"| 2
+|style="background:#dfffdf;"| (5)
+|
+|-
+! 7
+|align=left|  Oscar Larrauri
+|align=left|  Brun Motorsport
+|style="background:#dfffdf;"| 5
+|style="background:#dfffdf;"| 7
+|style="background:#cfcfff;"| 3
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 5
+|style="background:#ffdf9f;"| 3
+|style="background:#ffdf9f;"| 3
+|style="background:#dfffdf;"| 4
+| 69
+|-
+! 8
+|align=left|  Mauro Baldi
+|align=left|  Liqui Moly Equipe
+|style="background:#dfffdf;"| 8
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|
+|style="background:#ffffbf;"| 1
+|style="background:#dfdfdf;"| 2
+|style="background:#dfffdf;"| 5
+|style="background:#efcfff;"| Ret
+|style="background:#ffdf9f;"| 3
+| 58
+|-
+!rowspan=2| 8
+|rowspan=2 align=left|  Jochen Mass
+|align=left|  Porsche AG
+|
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 6
+|style="background:#dfffdf;"| 4
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|rowspan=2| 58
+|-
+|align=left|  Brun Motorsport
+|
+|
+|
+|
+|
+|style="background:#cfcfff;"| 2
+|style="background:#dfffdf;"| 5
+|style="background:#ffdf9f;"| 3
+|style="background:#ffdf9f;"| 3
+|style="background:#dfffdf;"| 4
+|-
+!rowspan=5| 10
+|rowspan=5 align=left|  Johnny Dumfries
+|align=left|  Swiftair Ecurie Ecosse
+|
+|
+|
+|style="background:#dfffdf;"| 8
+|
+|
+|
+|
+|
+|
+|rowspan=5| 55
+|-
+|align=left|  Kouros Racing
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|style="background:#ffffff;"| DNS
+|
+|
+|-
+|align=left|  Dauer Racing
+|
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|-
+|align=left|  Liqui Moly Equipe
+|
+|
+|
+|
+|
+|
+|style="background:#dfdfdf;"| 2
+|
+|
+|
+|-
+|align=left|  Silk Cut Jaguar
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#ffffbf;"| 1
+|style="background:#dfdfdf;"| 2
+|-
+! 11
+|align=left|  Gordon Spice
+|align=left|  Spice Engineering
+|style="background:#dfffdf;"| (9)
+|style="background:#dfffdf;"| 4
+|style="background:#dfffdf;"| 7
+|style="background:#dfffdf;"| 7
+|style="background:#dfffdf;"| 6
+|style="background:#dfffdf;"| 6
+|style="background:#dfffdf;"| 8
+|style="background-color:#000000; color:white"| DSQ
+|style="background:#dfffdf;"| (10)
+|style="background:#dfffdf;"| 8
+| 50
+|-
+! 11
+|align=left|  Fermín Vélez
+|align=left|  Spice Engineering
+|style="background:#dfffdf;"| (9)
+|style="background:#dfffdf;"| 4
+|style="background:#dfffdf;"| 7
+|style="background:#dfffdf;"| 7
+|style="background:#dfffdf;"| 6
+|style="background:#dfffdf;"| 6
+|style="background:#dfffdf;"| 8
+|style="background-color:#000000; color:white"| DSQ
+|style="background:#dfffdf;"| (10)
+|style="background:#dfffdf;"| 8
+| 50
+|-
+!rowspan=2| 13
+|rowspan=2 align=left|  Frank Jelinski
+|align=left|  Brun Motorsport
+|style="background:#dfffdf;"| 7
+|style="background:#efcfff;"| Ret
+|style="background:#ffdf9f;"| 3
+|
+|
+|
+|
+|
+|
+|
+|rowspan=2| 40
+|-
+|align=left|  Joest Racing
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|style="background-color:#000000; color:white"| DSQ
+|
+|style="background:#dfffdf;"| 4
+|style="background:#dfffdf;"| 6
+|style="background:#dfffdf;"| 5
+|-
+! 13
+|align=left|  Ray Mallock
+|align=left|  Swiftair Ecurie Ecosse
+|style="background:#cfcfff;"| 11
+|style="background:#dfffdf;"| 5
+|style="background:#dfffdf;"| 8
+|style="background:#dfffdf;"| 6
+|style="background:#dfffdf;"| 8
+|style="background:#dfffdf;"| 7
+|style="background:#dfffdf;"| 7
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 13
+|style="background:#cfcfff;"| 14
+| 40
+|-
+! 13
+|align=left|  David Leslie
+|align=left|  Swiftair Ecurie Ecosse
+|style="background:#cfcfff;"| 11
+|style="background:#dfffdf;"| 5
+|style="background:#dfffdf;"| 8
+|style="background:#dfffdf;"| 6
+|style="background:#dfffdf;"| 8
+|style="background:#dfffdf;"| 7
+|style="background:#dfffdf;"| 7
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 13
+|style="background:#cfcfff;"| 14
+| 40
+|-
+! 16
+|align=left|  Jésus Pareja
+|align=left|  Brun Motorsport
+|style="background:#dfffdf;"| 5
+|style="background:#dfffdf;"| 7
+|style="background:#ffdf9f;"| 3
+|style="background:#dfffdf;"| 5
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 10
+|style="background:#cfcfff;"| 9
+|style="background:#dfffdf;"| 6
+|style="background:#cfcfff;"| 8
+|style="background:#efcfff;"| Ret
+| 38
+|-
+!rowspan=2| 17
+|rowspan=2 align=left|  John Nielsen
+|align=left|  Tom Walkinshaw Racing
+|
+|style="background:#ffffff;"| DNS
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|
+|style="background:#ffffbf;"| 1
+|
+|style="background:#dfffdf;"| 4
+|
+|rowspan=2| 32
+|-
+|align=left|  From-A Racing
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#dfffdf;"| 9
+|-
+! 17
+|align=left|  Stanley Dickens
+|align=left|  Joest Racing
+|
+|
+|style="background:#dfffdf;"| 4
+|
+|style="background:#efcfff;"| Ret
+|style="background:#ffdf9f;"| 3
+|
+|style="background:#dfffdf;"| 4
+|style="background:#cfcfff;"| 6
+|style="background:#ffffff;"| DNS
+| 32
+|-
+! 19
+|align=left|  Volker Weidler
+|align=left|  Porsche Kremer Racing
+|style="background:#dfffdf;"| 4
+|style="background:#dfdfdf;"| 2
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| NC
+|style="background:#dfffdf;"| 6
+|style="background:#cfcfff;"| 14
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| NC
+| 31
+|-
+! 19
+|align=left|  Kris Nissen
+|align=left|  Porsche Kremer Racing
+|style="background:#dfffdf;"| 4
+|style="background:#dfdfdf;"| 2
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| NC
+|style="background:#dfffdf;"| 6
+|style="background:#cfcfff;"| 14
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| NC
+| 31
+|-
+! 19
+|align=left|  Jonathan Palmer
+|align=left|  Liqui Moly Equipe
+|style="background:#dfffdf;"| 8
+|style="background:#efcfff;"| Ret
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#ffffbf;"| 1
+|
+|style="background:#dfffdf;"| 5
+|style="background:#efcfff;"| Ret
+|
+| 31
+|-
+! 22
+|align=left|  Jürgen Lässig
+|align=left|  Primagaz Compétition
+|
+|
+|
+|
+|style="background:#dfdfdf;"| 2
+|style="background:#dfffdf;"| 5
+|
+|style="background:#dfffdf;"| 7
+|style="background:#dfffdf;"| 9
+|
+| 29
+|-
+! 23
+|align=left|  Pierre Yver
+|align=left|  Primagaz Compétition
+|
+|
+|
+|
+|style="background:#dfdfdf;"| 2
+|style="background:#dfffdf;"| 5
+|
+|
+|style="background:#cfcfff;"| 9
+|
+| 23
+|-
+! 24
+|align=left|  "John Winter"
+|align=left|  Joest Racing
+|
+|
+|style="background:#dfffdf;"| 4
+|
+|
+|style="background:#ffdf9f;"| 3
+|
+|style="background:#cfcfff;"| 4
+|style="background:#cfcfff;"| 6
+|style="background:#cfcfff;"| 5
+| 22
+|-
+! 25
+|align=left|  Al Holbert
+|align=left|  Porsche AG
+|
+|
+|
+|
+|style="background:#ffffbf;"| 1
+|
+|
+|
+|
+|
+| 20
+|-
+! 25
+|align=left|  Martin Brundle
+|align=left|  Silk Cut Jaguar
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|style="background:#ffffbf;"| 1
+|
+| 20
+|-
+! 25
+|align=left|  Massimo Sigala
+|align=left|  Brun Motorsport
+|style="background:#dfffdf;"| 6
+|style="background:#dfffdf;"| 6
+|style="background:#dfffdf;"| 5
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|style="background:#cfcfff;"| 11
+|
+| 20
+|-
+! 25
+|align=left|  Gianfranco Brancatelli
+|align=left|  Brun Motorsport
+|style="background:#dfffdf;"| 6
+|style="background:#dfffdf;"| 6
+|style="background:#dfffdf;"| 5
+|
+|
+|
+|
+|
+|
+|
+| 20
+|-
+!rowspan=2| 29
+|rowspan=2 align=left|  Mike Thackwell
+|align=left|  Kouros Racing
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 7
+|
+|rowspan=2| 16
+|-
+|align=left|  Liqui Moly Equipe
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#ffdf9f;"| 3
+|-
+!rowspan=2| 29
+|rowspan=2 align=left|  Bob Wollek
+|align=left|  Porsche AG
+|
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 6
+|style="background:#dfffdf;"| 4
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|rowspan=2| 16
+|-
+|align=left|  Joest Racing
+|
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 5
+|style="background:#cfcfff;"| 5
+|-
+! 31
+|align=left|  Walter Brun
+|align=left|  Brun Motorsport
+|style="background:#dfffdf;"| 7
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 5
+|
+|style="background:#dfffdf;"| 10
+|style="background:#dfffdf;"| 9
+|style="background:#cfcfff;"| 12
+|style="background:#cfcfff;"| 11
+|
+| 15
+|-
+! 32
+|align=left|  Hervé Regout
+|align=left|  Primagaz Compétition
+|
+|
+|style="background:#dfffdf;"| 9
+|style="background:#efcfff;"| Ret
+|style="background:#ffdf9f;"| 3
+|
+|
+|
+|
+|
+| 14
+|-
+! 33
+|align=left|  Pierre-Henri Raphanel
+|align=left|  Primagaz Compétition
+|
+|
+|
+|
+|style="background:#ffdf9f;"| 3
+|
+|
+|
+|
+|
+| 12
+|-
+!rowspan=2| 34
+|rowspan=2 align=left|  Franz Konrad
+|align=left|  Porsche Kremer Racing
+|
+|
+|
+|
+|style="background:#dfffdf;"| 4
+|
+|
+|
+|
+|style="background:#cfcfff;"| 12
+|rowspan=2| 10
+|-
+|align=left|  Mussato Action Car
+|
+|
+|
+|
+|
+|style="background-color:#000000; color:white"| DSQ
+|
+|
+|
+|
+|-
+! 34
+|align=left|  George Fouché
+|align=left|  Porsche Kremer Racing
+|
+|
+|
+|
+|style="background:#dfffdf;"| 4
+|
+|
+|
+|
+|style="background:#cfcfff;"| 12
+| 10
+|-
+! 34
+|align=left|  Ranieri Randaccio
+|align=left|  Kelmar Racing
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 10
+|
+|style="background:#dfffdf;"| 9
+|style="background:#cfcfff;"| 12
+|style="background:#dfffdf;"| 10
+|
+|
+| 10
+|-
+!valign="middle"| Pos
+!valign="middle"| Driver
+!valign="middle"| Team
+! JAR
+! JRZ
+! MON
+! SIL
+! LMS
+! NOR
+! BRH
+! NUR
+! SPA
+! FUJ
+! Points
+|-
+|}
+|valign="top"|
+
+|}
+
+===FIA Cup for Group C2 Drivers===
+
+{| class="wikitable" style="font-size:85%; text-align:center"
+|-
+!valign="middle"| Pos
+!valign="middle"| Driver
+!valign="middle"| Team
+! JAR
+! JRZ
+! MON
+! SIL
+! LMS
+! NOR
+! BRH
+! NUR
+! SPA
+! FUJ
+! Points
+|-
+! 1
+|align=left|  Gordon Spice
+|align=left|  Spice Engineering
+|style="background:#ffffbf;"| 1
+|style="background:#ffffbf;"| 1
+|style="background:#ffffbf;"| 1
+|style="background:#dfdfdf;"| (2)
+|style="background:#ffffbf;"| 1
+|style="background:#ffffbf;"| 1
+|style="background:#dfdfdf;"| (2)
+|style="background-color:#000000; color:white"| DSQ
+|style="background:#ffffbf;"| 1
+|style="background:#ffffbf;"| 1
+| 140
+|-
+! 1
+|align=left|  Fermín Vélez
+|align=left|  Spice Engineering
+|style="background:#ffffbf;"| 1
+|style="background:#ffffbf;"| 1
+|style="background:#ffffbf;"| 1
+|style="background:#dfdfdf;"| (2)
+|style="background:#ffffbf;"| 1
+|style="background:#ffffbf;"| 1
+|style="background:#dfdfdf;"| (2)
+|style="background-color:#000000; color:white"| DSQ
+|style="background:#ffffbf;"| 1
+|style="background:#ffffbf;"| 1
+| 140
+|-
+! 3
+|align=left|  Ray Mallock
+|align=left|  Swiftair Ecurie Ecosse
+|style="background:#dfdfdf;"| 2
+|style="background:#dfdfdf;"| 2
+|style="background:#dfdfdf;"| 2
+|style="background:#ffffbf;"| 1
+|style="background:#dfdfdf;"| 2
+|style="background:#dfdfdf;"| 2
+|style="background:#ffffbf;"| 1
+|style="background:#efcfff;"| Ret
+|style="background:#ffdf9f;"| (3)
+|style="background:#dfdfdf;"| (2)
+| 115
+|-
+! 3
+|align=left|  David Leslie
+|align=left|  Swiftair Ecurie Ecosse
+|style="background:#dfdfdf;"| 2
+|style="background:#dfdfdf;"| 2
+|style="background:#dfdfdf;"| 2
+|style="background:#ffffbf;"| 1
+|style="background:#dfdfdf;"| 2
+|style="background:#dfdfdf;"| 2
+|style="background:#ffffbf;"| 1
+|style="background:#efcfff;"| Ret
+|style="background:#ffdf9f;"| (3)
+|style="background:#dfdfdf;"| (2)
+| 115
+|-
+!rowspan=2| 5
+|rowspan=2 align=left |  Mike Wilds
+|align=left|  ADA Engineering
+|style="background:#dfffdf;"| 4
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|
+|rowspan=2| 73
+|-
+|align=left|  Swiftair Ecurie Ecosse
+|
+|
+|
+|style="background:#ffdf9f;"| 3
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#ffdf9f;"| 3
+|style="background:#ffdf9f;"| 3
+|style="background:#dfdfdf;"| 2
+|style="background:#ffdf9f;"| 3
+|-
+! 6
+|align=left|  Marc Duez
+|align=left|  Swiftair Ecurie Ecosse
+|
+|
+|
+|
+|style="background:#dfdfdf;"| 2
+|
+|style="background:#ffdf9f;"| 3
+|
+|style="background:#dfdfdf;"| 2
+|style="background:#ffdf9f;"| 3
+| 54
+|-
+! 7
+|align=left|  Thorkild Thyrring
+|align=left|  Team Tiga Ford Denmark
+|style="background:#ffdf9f;"| 3
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|
+|style="background:#dfffdf;"| 4
+|style="background:#dfffdf;"| 5
+|style="background:#dfffdf;"| 7
+|style="background:#cfcfff;"| NC
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 5
+| 46
+|-
+!rowspan=3| 8
+|rowspan=3 align=left|  Costas Los
+|align=left|  Roy Baker Racing
+|style="background:#efcfff;"| Ret
+|style="background:#ffdf9f;"| 3
+|
+|
+|
+|
+|
+|
+|
+|
+|rowspan=3| 44
+|-
+|align=left|  Chamberlain Engineering
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|-
+|align=left|  Cosmik Racing with GP Motorsport
+|
+|
+|
+|style="background:#cfcfff;"| NC
+|style="background:#ffdf9f;"| 3
+|style="background-color:#000000; color:white"| DSQ
+|style="background:#efcfff;"| Ret
+|style="background:#ffffbf;"| 1
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|-
+! 9
+|align=left|  Ranieri Randaccio
+|align=left|  Kelmar Racing
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 4
+|
+|style="background:#dfffdf;"| 4
+|style="background:#dfffdf;"| 5
+|style="background:#dfdfdf;"| 2
+|
+|
+| 43
+|-
+! 10
+|align=left|  Martin Schanche
+|align=left|  Team Lucky Strike Schanche
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 4
+|style="background:#ffffff;"| DNS
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 6
+|style="background:#dfffdf;"| 4
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 4
+|
+| 36
+|-
+! 10
+|align=left|  Will Hoy
+|align=left|  Team Lucky Strike Schanche
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 4
+|style="background:#ffffff;"| DNS
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 6
+|style="background:#dfffdf;"| 4
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 4
+|
+| 36
+|-
+! 12
+|align=left|  Hellmut Mundas
+|align=left|  URD Junior Team
+|style="background:#dfffdf;"| 5
+|style="background:#efcfff;"| Ret
+|style="background:#ffdf9f;"| 3
+|style="background:#dfffdf;"| 7
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 4
+|
+|style="background:#efcfff;"| Ret
+| 34
+|-
+! 12
+|align=left|  Rudi Seher
+|align=left|  URD Junior Team
+|style="background:#dfffdf;"| 5
+|style="background:#efcfff;"| Ret
+|style="background:#ffdf9f;"| 3
+|style="background:#dfffdf;"| 7
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 4
+|
+|
+| 34
+|-
+!rowspan=3| 14
+|rowspan=3 align=left|  Pasquale Barberio
+|align=left|  Roy Baker Racing
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| NC
+|
+|
+|
+|
+|
+|
+|
+|
+|rowspan=3| 33
+|-
+|align=left|  Techno Racing
+|
+|
+|style="background:#cfcfff;"| NC
+|
+|
+|
+|
+|
+|
+|
+|-
+|align=left|  Kelmar Racing
+|
+|
+|
+|style="background:#dfffdf;"| 4
+|
+|
+|style="background:#dfffdf;"| 5
+|style="background:#dfdfdf;"| 2
+|style="background:#dfffdf;"| 6
+|
+|-
+!rowspan=2| 15
+|rowspan=2 align=left|  Dudley Wood
+|align=left|  Charles Ivey Racing
+|style="background:#efcfff;"| Ret
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|rowspan=2| 32
+|-
+|align=left|  Cosmik Racing with GP Motorsport
+|
+|
+|
+|style="background:#cfcfff;"| NC
+|style="background:#ffdf9f;"| 3
+|style="background-color:#000000; color:white"| DSQ
+|style="background:#efcfff;"| Ret
+|style="background:#ffffbf;"| 1
+|style="background:#efcfff;"| Ret
+|
+|-
+!rowspan=2| 16
+|rowspan=2 align=left|  Nick Adams
+|align=left|  Chamberlain Engineering
+|
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| NC
+|
+|style="background:#dfffdf;"| 6
+|style="background:#dfffdf;"| 6
+|style="background:#dfffdf;"| 10
+|
+|rowspan=2| 28
+|-
+|align=left|  Spice Engineering
+|
+|
+|
+|
+|
+|style="background:#ffdf9f;"| 3
+|
+|
+|
+|
+|-
+! 17
+|align=left|  Vito Veninata
+|align=left|  Kelmar Racing
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|style="background:#dfffdf;"| 5
+|style="background:#dfdfdf;"| 2
+|
+|
+| 21
+|-
+!rowspan=3| 18
+|rowspan=3 align=left|  John Sheldon
+|align=left|  Roy Baker Racing
+|
+|
+|
+|style="background:#cfcfff;"| NC
+|
+|
+|
+|
+|
+|
+|rowspan=3| 18
+|-
+|align=left|  Team Tiga Ford Denmark
+|
+|
+|
+|
+|style="background:#dfffdf;"| 4
+|style="background:#dfffdf;"| 5
+|
+|
+|
+|
+|-
+|-
+|align=left|  Charles Ivey Racing
+|
+|
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| NC
+|style="background:#cfcfff;"| 11
+|
+|-
+! 19
+|align=left|  Jean-Louis Ricci
+|align=left|  Olindo Iacobelli
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|style="background:#dfffdf;"| 6
+|style="background:#cfcfff;"| NC
+|style="background:#dfffdf;"| 5
+|style="background:#efcfff;"| Ret
+| 17
+|-
+! 20
+|align=left|  Dominique Lacaud
+|align=left|  Automobiles Louis Descartes
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#ffcfcf;"| DNQ
+|style="background:#dfffdf;"| 5
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 8
+|
+| 14
+|-
+|}
+
+===Teams championships===
+====World Sports Prototype Championship for Teams====
+
+{|
+|
+{| class="wikitable" style="font-size:85%; text-align:center"
+|-
+!valign="middle"| Pos
+!valign="middle"| Team
+! JAR
+! JRZ
+! MON
+! SIL
+! LMS
+! NOR
+! BRH
+! NUR
+! SPA
+! FUJ
+! Points
+|-
+! 1
+|align=left|  Silk Cut Jaguar
+|style="background:#ffffbf;"| 1
+|style="background:#ffffbf;"| 1
+|style="background:#ffffbf;"| 1
+|style="background:#ffffbf;"| 1
+|style="background:#dfffdf;"| (5)
+|style="background:#dfffdf;"| (4)
+|style="background:#ffffbf;"| 1
+|style="background:#ffffbf;"| 1
+|style="background:#ffffbf;"| 1
+|style="background:#ffffbf;"| (1)
+| 140
+|-
+! 2
+|align=left|  Brun Motorsport
+|style="background:#dfffdf;"| 5
+|style="background:#dfffdf;"| (6)
+|style="background:#ffdf9f;"| 3
+|style="background:#dfffdf;"| 5
+|style="background:#efcfff;"| Ret
+|style="background:#dfdfdf;"| 2
+|style="background:#dfffdf;"| (5)
+|style="background:#ffdf9f;"| 3
+|style="background:#ffdf9f;"| 3
+|style="background:#dfffdf;"| 4
+| 77
+|-
+! 3
+|align=left|  Porsche AG
+|style="background:#dfdfdf;"| 2
+|style="background:#ffdf9f;"| 3
+|style="background:#dfdfdf;"| 2
+|style="background:#ffdf9f;"| 3
+|style="background:#ffffbf;"| 1
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 74
+|-
+! 4
+|align=left|  Joest Racing
+|
+|
+|style="background:#dfffdf;"| 4
+|
+|style="background:#efcfff;"| Ret
+|style="background:#ffdf9f;"| 3
+|style="background:#dfffdf;"| 4
+|style="background:#dfdfdf;"| 2
+|style="background:#dfffdf;"| 5
+|style="background:#dfffdf;"| 5
+| 63
+|-
+! 5
+|align=left|  Liqui Moly Equipe
+|style="background:#dfffdf;"| 8
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#ffffbf;"| 1
+|style="background:#dfdfdf;"| 2
+|style="background:#dfffdf;"| 5
+|style="background:#efcfff;"| Ret
+|style="background:#ffdf9f;"| 3
+| 58
+|-
+! 6
+|align=left|  Porsche Kremer Racing
+|style="background:#dfffdf;"| 4
+|style="background:#dfdfdf;"| 2
+|
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 4
+|style="background:#cfcfff;"| NC
+|style="background:#dfffdf;"| 6
+|style="background:#cfcfff;"| 14
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 12
+| 41
+|-
+! 7
+|align=left|  Spice Engineering
+|style="background:#dfffdf;"| (9)
+|style="background:#dfffdf;"| 4
+|style="background:#dfffdf;"| 7
+|style="background:#dfffdf;"| 7
+|style="background:#dfffdf;"| 6
+|style="background:#dfffdf;"| 6
+|style="background:#dfffdf;"| 8
+|style="background-color:#000000; color:white"| DSQ
+|style="background:#dfffdf;"| (10)
+|style="background:#dfffdf;"| 8
+| 36
+|-
+! 8
+|align=left|  Primagaz Competition
+|
+|
+|style="background:#dfffdf;"| 9
+|style="background:#efcfff;"| Ret
+|style="background:#dfdfdf;"| 2
+|style="background:#dfffdf;"| 5
+|
+|style="background:#dfffdf;"| 7
+|style="background:#dfffdf;"| 9
+|
+| 31
+|-
+! 9
+|align=left|  Swiftair Ecurie Ecosse
+|style="background:#cfcfff;"| 11
+|style="background:#dfffdf;"| 5
+|style="background:#dfffdf;"| 8
+|style="background:#dfffdf;"| 6
+|style="background:#dfffdf;"| 8
+|style="background:#dfffdf;"| 7
+|style="background:#dfffdf;"| 7
+|style="background:#cfcfff;"| 11
+|style="background:#cfcfff;"| 12
+|style="background:#cfcfff;"| 14
+| 28
+|-
+! 10
+|align=left|  Mazdaspeed
+|
+|
+|
+|
+|style="background:#dfffdf;"| 7
+|
+|
+|
+|
+|style="background:#dfffdf;"| 7
+| 8
+|-
+! 11
+|align=left|  Rothmans Porsche Team Schuppan
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#dfffdf;"| 6
+| 6
+|-
+! 12
+|align=left|  Kouros Racing 
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 7
+|
+| 4
+|-
+! 12
+|align=left|  Cosmik Racing with GP Motorsport
+|
+|
+|
+|style="background:#cfcfff;"| NC
+|style="background:#dfffdf;"| 9
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 9
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+| 4
+|-
+! 12
+|align=left|  Kelmar Racing
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 10
+|
+|style="background:#dfffdf;"| 9
+|style="background:#cfcfff;"| 12
+|style="background:#dfffdf;"| 10
+|style="background:#cfcfff;"| 16
+|
+| 4
+|-
+! 15
+|align=left|  Victor Dauer Racing
+|
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|style="background:#dfffdf;"| 8
+|
+|
+| 3
+|-
+! 16
+|align=left|  Richard Cleare Racing
+|
+|
+|
+|style="background:#dfffdf;"| 9
+|
+|
+|
+|
+|
+|
+| 2
+|-
+! 16
+|align=left|  From A Racing
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#dfffdf;"| 9
+| 2
+|-
+! 18
+|align=left|  URD Junior Team
+|style="background:#cfcfff;"| 14
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 10
+|style="background:#cfcfff;"| 13
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 13
+|
+|style="background:#efcfff;"| Ret
+| 1
+|-
+! 18
+|align=left|  Team Tiga Ford Denmark
+|style="background:#cfcfff;"| 12
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|
+|style="background:#dfffdf;"| 10
+|style="background:#cfcfff;"| 11
+|style="background:#cfcfff;"| 14
+|style="background:#cfcfff;"| NC
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 20
+| 1
+|-
+! 18
+|align=left|  Trust Racing Team
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#dfffdf;"| 10
+| 1
+|-
+|}
+|valign="top"|
+
+|}
+
+===1987 FIA Cup for Group C2 Teams===
+
+Points towards the 1987 FIA Cup for Group C2 Sports-Prototypes Teams were awarded to the top 10 Group C2 class finishers in the order of 20-15-12-10-8-6-4-3-2-1.
+
+Only the best seven round results could be retained towards a Team's total.
+
+{| class="wikitable" style="font-size: 90%;"
+|-
+! Pos 
+! Team 
+! Chassis
+! Engine
+! Rd1
+! Rd2
+! Rd3
+! Rd4
+! Rd5
+! Rd6
+! Rd7
+! Rd8
+! Rd9
+! Rd10
+! Total 
+|-
+! 1
+|  Spice Engineering
+| Spice SE86CSpice SE87C
+| Ford Cosworth DFL 3.3L V8
+|align=center| 20
+|align=center| 20
+|align=center| 20
+|align=center| (15)
+|align=center| 20
+|align=center| 20
+|align=center| (15)
+| 
+|align=center| 20
+|align=center| 20
+|align=center| 140
+|-
+! 2
+|  Swiftair Ecurie Ecosse
+| Ecosse C286
+| Ford Cosworth DFL 3.3L V8
+|align=center| 15
+|align=center| 15
+|align=center| 15
+|align=center| 20
+|align=center| 15
+|align=center| 15
+|align=center| 20
+|align=center| (12)
+|align=center| (15)
+|align=center| (15)
+|align=center| 115
+|-
+! 3
+|  Kelmar Racing 
+| Tiga GC85
+| Ford Cosworth DFL 3.3L V8
+| 
+| 
+| 
+|align=center| 10
+| 
+|align=center| 10
+|align=center| 8
+|align=center| 15
+|align=center| 6
+| 
+|align=center| 49
+|-
+! 4
+|  Tiga Ford DK
+| Tiga GC287
+| Ford Cosworth DBT-E 2.3L Turbo I4
+|align=center| 12
+| 
+| 
+| 
+|align=center| 10
+|align=center| 8
+|align=center| 4
+| 
+| 
+|align=center| 8
+|align=center| 46
+|-
+! 5
+|  Team Lucky Strike Schanche
+| Argo JM19B
+| Zakspeed 1.9L Turbo I4
+| 
+| 
+|align=center| 10
+| 
+| 
+|align=center| 6
+|align=center| 10
+| 
+|align=center| 10
+| 
+|align=center| 36
+|-
+! 6
+|  Chamberlain Engineering
+| Spice SE86C
+| Hart 418T 1.8L Turbo I4Ford Cosworth DFL 3.3L V8
+| 
+| 
+| 
+| 
+|align=center| 6
+| 
+|align=center| 6
+|align=center| 6
+|align=center| 8
+|align=center| 10
+|align=center| 36
+|-
+! 6
+|  URD Junior Team
+| URD C83
+| BMW 3.5L I6
+|align=center| 8
+| 
+|align=center| 12
+|align=center| 4
+| 
+| 
+| 
+|align=center| 10
+| 
+| 
+|align=center| 34
+|-
+! 8
+|  GP Motorsport
+| Tiga GC286Tiga GC287
+| Ford Cosworth DFL 3.3L V8
+| 
+| 
+| 
+| 
+|align=center| 12
+| 
+| 
+|align=center| 20
+| 
+| 
+|align=center| 32
+|-
+! 9
+|  Cosmik RBR
+| Tiga GC286
+| Ford Cosworth DFL 3.3L V8
+| 
+|align=center| 12
+| 
+| 
+| 
+| 
+| 
+|align=center| 8
+| 
+| 
+|align=center| 20
+|-
+! 10
+|  Automobiles Louis Descartes
+| ALD 02ALD 03
+| BMW 3.5L I6
+| 
+| 
+| 
+|align=center| 3
+|align=center| 8
+| 
+| 
+| 
+|align=center| 3
+| 
+|align=center| 14
+|-
+! 11
+|  ADA Engineering
+| Gebhardt JC843ADA 02
+| Ford Cosworth DFL 3.3L V8
+|align=center| 10
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|align=center| 10
+|-
+! 12
+|  Charles Ivey Engineering
+| Tiga GC287
+| Porsche 2.6L Turbo Flat-6
+| 
+| 
+| 
+|align=center| 8
+| 
+| 
+| 
+| 
+| 
+| 
+|align=center| 8
+|-
+! 13
+|  Dune Motorsport
+| Tiga GC287
+| Rover V64V 3.0L V6
+| 
+| 
+| 
+|align=center| 6
+| 
+| 
+| 
+| 
+| 
+| 
+|align=center| 6
+|-
+! 14
+|  Ark Racing 
+| Ceekar 83J
+| Ford Cosworth DFV 3.0L V8
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|align=center| 4
+| 
+|align=center| 4
+|-
+! 15
+|  CEE Sport Racing
+| Tiga GC286
+| Ford Cosworth BDT 1.7L Turbo I4
+| 
+| 
+| 
+| 
+| 
+| 
+|align=center| 2
+| 
+| 
+| 
+|align=center| 2
+|}
+

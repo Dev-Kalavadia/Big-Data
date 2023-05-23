@@ -1,0 +1,21 @@
+Title: Genocide & Juice
+
+Genocide & Juice is the second studio album by American hip hop group the Coup. It was released on Wild Pitch Records on October 13, 1994. It peaked at number 27 on the Billboard Heatseekers Albums chart, as well as number 62 on the Top R&B/Hip-Hop Albums chart.
+
+The album's title is a reference to the cocktail "gin and juice", made famous by Snoop Dogg's song of the same name, which was released nine months prior.
+
+==Track listing==
+
+
+==Charts==
+{| class="wikitable plainrowheaders sortable" style="text-align:center;" border="1"
+!scope="col"| Chart
+!scope="col"| Peakposition
+|-
+!scope="row"| US Heatseekers Albums (Billboard)
+| 27
+|-
+!scope="row"| US Top R&B/Hip-Hop Albums (Billboard)
+| 62
+|}
+

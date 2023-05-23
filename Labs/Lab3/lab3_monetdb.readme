@@ -1,0 +1,20 @@
+After installing MonetDB, you are supposed to create a new database with a schema as follows:
+
+> mkdir lab3
+> cd lab3
+> monetdbd create mydbfarm
+> monetdbd start mydbfarm
+> monetdb create flight
+> monetdb release flight
+
+
+Once done, you can connect to monetdb database from a client using the following command: (by default, the password should be "monetdb")
+
+> mclient -u monetdb -d flight
+
+
+MonetDB uses a different set of command lines. For example, to exit, type \q 
+
+
+If you want report the execution of queries within the client, use:
+> mclient -u monetdb -d flight --timer=performance

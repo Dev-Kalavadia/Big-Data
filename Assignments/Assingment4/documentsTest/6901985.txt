@@ -1,0 +1,75 @@
+Title: James Glimm
+
+
+
+
+James Gilbert Glimm (born March 24, 1934) is an American mathematician, former president of the American Mathematical Society, and distinguished professor at Stony Brook University. He has made many contributions in the areas of pure and applied mathematics.
+
+== Life and career ==
+thumb|Glimm discusses his contributions to the world of computer science through mathematical analysis and physics.
+James Glimm was born in Peoria, Illinois, United States on March 24, 1934. He received his BA in engineering from Columbia University in 1956. He continued on to graduate school at Columbia where he received his Ph.D. in mathematics in 1959; his advisor was Richard V. Kadison.http://www.ams.sunysb.edu/~glimm/Vita%20James%20Glimm.htm Glimm was at New York University, and at Rockefeller University, before arriving at Stony Brook University in 1989.
+
+He has been noted for contributions to C*-algebras, quantum field theory, partial differential equations, fluid dynamics, scientific computing, and the modeling of petroleum reservoirs. Together with Arthur Jaffe, he has founded a subject called constructive quantum field theory. His early work in the theory of operator algebras was seminal, and today the "Glimm algebras" that bear his name continue to play an important role in this area of research.AMS Presidents: A Timeline More recently, the United States Department of Energy adopted Glimm's front-track methodology for shock-wave calculations, e.g., simulating weapons performance.Department of Applied Mathematics and Statistics, Stony Brook
+
+Glimm was elected to the National Academy of Sciences in 1984. He was an Invited Speaker of the ICM in 1970 at NiceGlimm, James. "Quantum field theory models." Actes, Congrès int. Math., Nice, 1970. Tome 3: 3–8. and a Plenary Speaker of the ICM in 1974 at Vancouver.Glimm, James. "Analysis over infinite-dimensional spaces and applications to quantum field theory."  Proceedings of the International Congress of Mathematicians, Vancouver, 1974. vol. 1: 119–126. In 1993, Glimm was awarded the Leroy P. Steele Prize for his contribution to solving hyperbolic systems of partial differential equations.Timeline AMS Steel Prizes, He won the National Medal of Science in 2002 "For his original approaches and creative contribution to an array of disciplines in mathematical analysis and mathematical physics".https://www.ams.org/notices/200508/pres-elect.pdf  Starting January 1, 2007, he served a 2-year term as president of the American Mathematical Society. In 2012 he became a fellow of the American Mathematical Society.List of Fellows of the American Mathematical Society, retrieved 2013-01-19.
+
+==Appointments==
+{|class=wikitable
+|-
+!Years !!Appointments
+|- 
+|1999- ||Staff Member, Computational Science Center, Brookhaven National Laboratory
+|-
+|1989- ||Distinguished Professor, SUNY at Stony Brook
+|-
+|1982-89 ||Professor, Courant Institute of Mathematical Sciences, New York University
+|-
+|1974-82 ||Professor, The Rockefeller University
+|-
+|1968-74 ||Professor, Courant Institute of Mathematical Sciences, New York University
+|-
+|1960-68 ||Professor, Associate Professor, Assistant Professor, MIT
+|-
+|1959-60 ||Temporary Member, Institute for Advanced Study
+|}
+
+==Selected publications==
+* 
+* 
+* 
+* 
+*  
+*  
+* 
+*  
+* (Book) 
+* (Book) 
+
+== References ==
+
+
+==External links==
+*
+*Home Page, at Stony Brook
+
+
+
+
+
+
+Category:Members of the United States National Academy of Sciences
+Category:20th-century American mathematicians
+Category:21st-century American mathematicians
+Category:Stony Brook University faculty
+Category:Columbia School of Engineering and Applied Science alumni
+Category:Living people
+Category:National Medal of Science laureates
+Category:Fluid dynamicists
+Category:1934 births
+Category:Fellows of the Society for Industrial and Applied Mathematics
+Category:Fellows of the American Mathematical Society
+Category:Brookhaven National Laboratory staff
+Category:Presidents of the American Mathematical Society
+Category:Courant Institute of Mathematical Sciences faculty
+Category:People from Peoria, Illinois
+Category:Mathematicians from Illinois

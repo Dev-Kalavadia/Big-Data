@@ -1,0 +1,25 @@
+Title: XHTML+SMILXHTML+SMIL is a W3C Note that describes an integration of SMIL semantics with XHTML and CSS. It is based generally upon the HTML+TIME submission. The language is also known as HTML+SMIL.Bulterman, D.C.A., & Rutledge, L. (2008). SMIL 3.0 . New York, NY: Springer.
+
+The XHTML+SMIL language profile shares many modules with the standard SMIL language profiles, including the core modules of timing, media objects, linking, animation, transitions and content control. Where the other SMIL profiles use a language-specific layout model, XHTML+SMIL leverages the HTML flow layout and CSS positioning model familiar to many web authors. The semantics of integrating SMIL animation with the CSS model were also adopted in SVG.
+
+XHTML+SMIL was issued as a W3C Note rather than a recommendation as there was only one implementation of the language profile (in MSIE).
+
+==See also==
+*SMIL
+*HTML+TIME (Microsoft's implementation)
+*DAISY Digital Talking Book standard
+
+== References ==
+
+
+==External links==
+* XHTML+SMIL specification
+
+
+
+
+
+
+Category:World Wide Web Consortium standards
+Category:Markup languages
+Category:HTML

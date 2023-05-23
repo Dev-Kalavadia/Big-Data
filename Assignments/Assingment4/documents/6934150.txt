@@ -1,0 +1,26 @@
+Title: Airwork Flight 23
+
+
+Airwork Flight 23 was a New Zealand Post cargo flight between Auckland International Airport (AKL/NZAA) and Woodbourne Airport (BHE/NZWB) that disintegrated on 3 May 2005.
+
+==History==
+The aircraft was scheduled for take off at 9:00 P.M. local time, but it was delayed while cargo was being loaded. During the delay the pilots ordered an extra  of fuel and told the person refueling to put all the fuel in the left wing fuel tank, instead of splitting the fuel exactly between the two tanks, as was company procedure. The flight eventually took off at 9:36 P.M. local time.
+
+Immediately after take off the autopilot was engaged and it controlled the aircraft during its climb to flight level 220 (approximately . The flight was continued at full power instead of cruise setting to make up for lost time for the next fifteen minutes. On powering down to cruise power, the captain noticed imbalance between the fuel tanks and initiated cross flow procedures. Shortly after, at 10:13 P.M. local time, the plane entered a spiral descent and broke up, killing both pilots.
+
+==Investigation==
+The accident was investigated by the New Zealand Transport Accident Investigation Commission (TAIC). It found that when the captain noted the fuel imbalance, he said, "We'll just open the cross flow again ... sit on left ball and trim it accordingly." He repeated the instruction five times in the next 19 seconds, to which the co-pilot replied, "I was being a bit cautious". The captain said, "Don't be cautious mate, it'll do it good".
+
+This resulted in the plane being flown at a large sideslip angle while still under autopilot control, by means of the rudder trim mechanism. Forty-seven seconds after the cross flow was opened, the captain said, "Doesn't like that one mate ... you'd better grab it." One second later they received a "bank angle" warning, followed by a warning chime that was presumably a warning they were straying from their correct altitude.
+
+The investigation came to the conclusion that this was due to the autopilot disengaging, probably due to a servo reaching its torque limit. This meant that there was no compensation applied for the rudder trim input, and the plane entered a roll and steep descent, disintegrating around flight level 199. The investigation found poor visibility at night in low cloud was a factor in preventing the pilots realizing sooner.
+
+==Aftermath==
+
+The following improvements were implemented as a result:
+
+*On 30 May 2005, the operator issued a Notice to Pilots advising that forthwith the SOP was to give the refueller the volume of fuel to be put into each wing tank to achieve a balanced load prior to engine start, in accordance with the Pre-Start checklist, Metro Training Manual and AFM.
+*On 30 June 2006 the operator amended the Metro checklist to add to the Line-up and Approach checklists the item "cross flow closed".
+*On 4 July 2006 the operator amended the autopilot Standard Operating Procedures section of the company Metro Training Manual to include two cautions on the use of the fuel cross flow switch.
+*On 27 February 2006 the TAIC recommended to the Director of Civil Aviation to amend the AFM, in concert with the United States Federal Aviation Administration, to include a limitation and caution that the autopilot and yaw damper must be disconnected while in-flight fuel balancing is done.
+

@@ -1,0 +1,46 @@
+Title: Pisz County
+__NOTOC__
+Pisz County () is a unit of territorial administration and local government (powiat) in Warmian-Masurian Voivodeship, northern Poland. It came into being on 1 January 1999 as a result of the Polish local government reforms passed in 1998. Its administrative seat and largest town is Pisz, which lies  east of the regional capital Olsztyn. The county contains three other towns: Orzysz,  north-east of Pisz, Ruciane-Nida,  west of Pisz, and Biała Piska,  east of Pisz.
+
+The county covers an area of . As of 2006 its total population is 57,553, out of which the population of Pisz is 19,332, that of Orzysz is 5,804, that of Ruciane-Nida is 4,894, that of Biała Piska is 4,006, and the rural population is 23,517.
+
+==Neighbouring counties==
+Pisz County is bordered by Giżycko County to the north, Ełk County and Grajewo County to the east, Kolno County and Ostrołęka County to the south, Szczytno County to the west, and Mrągowo County to the north-west.
+
+==Administrative division==
+The county is subdivided into four gminas (all urban-rural, centred on the four towns). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km2)
+| style="text-align:center;"|Population(2006)
+| style="text-align:center;"|Seat
+|-
+|Gmina Pisz
+|urban-rural
+| style="text-align:right;"|634.8
+| style="text-align:right;"|27,224
+|Pisz
+|-
+|Gmina Biała Piska
+|urban-rural
+| style="text-align:right;"|420.1
+| style="text-align:right;"|12,135
+|Biała Piska
+|-
+|Gmina Orzysz
+|urban-rural
+| style="text-align:right;"|363.5
+| style="text-align:right;"|9,567
+|Orzysz
+|-
+|Gmina Ruciane-Nida
+|urban-rural
+| style="text-align:right;"|357.7
+| style="text-align:right;"|8,627
+|Ruciane-Nida
+|-
+|}
+

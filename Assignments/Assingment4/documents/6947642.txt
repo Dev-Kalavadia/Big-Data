@@ -1,0 +1,26 @@
+Title: Microsoft at Work
+
+Microsoft at Work (MaW) was a short-lived effort promoted by Microsoft to tie together common business machinery, like fax machines and photocopiers, with a common communications protocol allowing control and status information to be shared with computers running Microsoft Windows. Similar efforts for other markets included Microsoft at Home and Cablesoft. By any measure these efforts were a dismal failure; it appears only a small number of devices using Microsoft at Work were ever released before disappearing without a trace. Microsoft has since re-used the "at Work" term for a section of their web site describing various tips and tricks for using Windows in a business environment.
+
+Microsoft first presented the at Work concept at a release party on 9 June 1993. They described five classes of devices as being targets for the at Work system; fax machines, photocopiers, telephones, printers, and hand-held PDAs (personal digital assistants). The idea of at Work was to design a standard set of communications protocols, status codes and commands to allow the devices to be remotely operated in the same fashion as network printers under PostScript.
+
+The system consisted of five primary components;
+
+# Microsoft At Work Operating System, a small RTOS to be embedded in devices
+# Microsoft At Work Communications, a communications protocol for sending documents between at Work devices
+# Microsoft at Work Rendering, a unified high-quality rendering system, similar in concept to PDF
+# Microsoft At Work GUI, a simple UI driver that could be used on the devices to present a common interface
+# Applications, which were expected to allow users to direct documents to at Work machines
+
+Microsoft claimed that supporting at Work would add only a few dollars to a device supporting it, making it attractive for office equipment which would normally cost several hundreds of dollars. They also claimed to have signed up fifty partners who were developing at Work devices for release starting at the end of 1993. Ricoh demonstrated a fax machine with at Work at the release.
+
+It was not until May 1994 that the first at Work device actually shipped, a Lexmark printer, the WinWriter 600. By 1995 few, if any, additional devices had been added to the list, and the entire concept had essentially disappeared from view. Byte Magazine awarded it a "Whatever Happened To..." in July, noting that "few" products had come to market supporting the standard, and that the original at Work group had been broken up and sent to different divisions within the company. Microsoft continued to claim that it was still being developed, but it seems that by 1995 the effort was dead.
+
+One of the few pieces of software to support at Work was a Microsoft Outlook fax engine, Microsoft Fax (or Microsoft At Work Fax), which shipped with Windows 95 but stopped working under more recent versions of the OS.
+
+Although at Work eventually failed, its announcement caused other companies to offer competing systems of their own. Perhaps the best known was Novell's Novell Embedded Systems Technology (NEST), which was released in 1994. Like at Work, NEST eventually disappeared, but was somewhat more successful and lived on in a number of products.
+
+==See also==
+* Internet of Things (IoT)
+* Ricoh TV Commercial for At Work Fax Machine
+

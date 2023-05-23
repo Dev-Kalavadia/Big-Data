@@ -1,0 +1,26 @@
+Title: Static discharger
+
+
+Static dischargers, also called static wicks or static discharge wicks, are devices used to remove static electricity from aircraft in flight. They take the form of small sticks pointing backwards from the wings, and are fitted on almost all civilian aircraft.
+
+== Function ==
+Precipitation static is an electrical charge on an airplane caused by flying through rain, snow, ice, or dust particles. Charge also accumulates through friction between the aircraft hull and the air. When the aircraft charge is great enough, it discharges into the surrounding air.  Without static dischargers, the charge discharges in large batches through pointed aircraft extremities, such as antennas, wing tips, vertical and horizontal stabilizers, and other protrusions. The discharge creates a broad-band radio frequency noise from DC to 1000 MHz, which can affect aircraft communication.
+
+To control this discharge, so as to allow the continuous operation of navigation and radio communication systems, static dischargers are installed on the trailing edges of aircraft. These include (electrically grounded) ailerons, elevators, rudder, wing, horizontal and vertical stabilizer tips. Static dischargers are high electrical resistance (6-200 megaohm) devices with a lower corona voltage and sharper points than the surrounding aircraft structure. This means that the corona discharge into the atmosphere flows through them, and occurs gradually. 
+
+Static dischargers are not lightning arrestors and do not affect the likelihood of an aircraft being struck by lightning. They will not function if they are not properly bonded to the aircraft. There must be a conductive path from all parts of the airplane to the dischargers, otherwise they will be useless. Access panels, doors, cowls, navigation lights, antenna mounting hardware, control surfaces, etc., can create static noise if they cannot discharge through the static wick.
+
+== History ==
+thumb|right|A portion of a static discharger on an aircraft. Note the two sharp metal micropoints and the protective yellow plastic.
+
+The first static dischargers were developed by a joint Army-Navy team led by Dr. Ross Gunn of the Naval Research Laboratory and fitted onto military aircraft during World War II. They were shown to be effective even in extreme weather conditions in 1946 by a United States Army Air Corps team led by Capt. Ernest Lynn Cleveland. 
+
+Dayton Granger, an inventor from Florida, received a patent on static wicks in 1950.
+
+==See also==
+*Pan Am Flight 214
+*Precipitation (meteorology)
+*Electrostatic discharge
+*Triboelectric effect
+*Ground loop (electricity)
+

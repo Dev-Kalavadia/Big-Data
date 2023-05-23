@@ -1,0 +1,19 @@
+Title: ENTH domain
+
+  
+The epsin N-terminal homology (ENTH) domain is a structural domain that is found in proteins involved in endocytosis and cytoskeletal machinery.
+
+==Structure==
+This domain is approximately 150 amino acids in length and is always found located at the N-termini of proteins. The domain forms a compact globular structure, composed of nine alpha-helices connected by loops of
+varying length. The general topology is determined by three helical hairpins that are stacked consecutively with a right hand twist. An N-terminal helix folds back, forming a deep basic groove that forms the binding pocket for the Ins(1,4,5)P3 ligand. The lipid ligand is coordinated by residues from surrounding alpha-helices and all three phosphates are multiply coordinated.
+
+==Interactions with the lipid bilayer==
+Proteins containing this domain have been found to bind PtdIns(4,5)P2 and Ins(1,4,5)P3 suggesting that the domain is a membrane-interacting module. The main function of proteins containing this domain appears to be to act as accessory clathrin adaptors in endocytosis, epsin is able to recruit and promote clathrin polymerisation on a lipid monolayer, but may have additional roles in signalling and actin regulation. Epsin causes a strong degree of membrane curvature and tubulation, even fragmentation of membranes with a high PtdIns(4,5)P2 content. Epsin binding to membranes facilitates their deformation by insertion of the N-terminal helix into the inner leaflet of the bilayer, pushing the head groups apart. This would reduce the energy needed to curve the membrane into a vesicle, making it easier for the clathrin cage to fix and stabilise the curved membrane. This points to a pioneering role for epsin in vesicle budding, as it provides both a driving force and a link between membrane invagination and clathrin polymerisation.
+
+In particular, epsin-1 shows specificity for the membrane glycophospholipid phosphatidylinositol-4,5-bisphosphate, however not all ENTH domains bind to this molecule. Binding causes tubulation of liposomes and in vivo this membrane-binding function is normally coordinated with clathrin polymerisation.
+
+The N-terminal alpha-helix of this domain is hydrophobic and inserts into the membrane like a wedge and helps to drive membrane curvature.
+
+==Human proteins containing this domain ==
+CLINT1;    ENTHD1;    EPN2;      EPN3;
+

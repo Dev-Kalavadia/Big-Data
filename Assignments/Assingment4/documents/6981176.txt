@@ -1,0 +1,276 @@
+Title: JG Motorsports
+
+
+JG Motorsports was a NASCAR Busch Series race team co-owned by Jeff Gordon and Rick Hendrick, which attempted 20 races in the year 2000.
+
+The team evolved from Gordon–Evernham Motorsports, which ran six races in the Busch Series in 1999.
+
+==History==
+
+===Gordon–Evernham Motorsports (1999)===
+In 1999, Brooke Gordon (then wife of Jeff Gordon) and Ray Evernham formed Gordon/Evernham Motorsports (GEM) to compete in that year's Busch Series season. The team's Pepsi-sponsored cars ran six races with Jeff Gordon as driver and Evernham as crew chief. DuPont sponsored the No. 24 car in two races in 1999 with driver Ricky Hendrick, with Evernham and Patrick Donahue as crew chiefs. During the season, Gordon won the Outback Steakhouse 200, the inaugural Busch Series race at Phoenix International Raceway.
+
+Due to offers from Dodge, Evernham sold his half of GEM to Rick Hendrick at the end of the year.
+
+===JG Motorsports (2000)===
+The GEM cars competed in the 2000 NASCAR Busch Series under the title "JG Motorsports". The team was jointly owned by Jeff Gordon and Rick Hendrick and attempted 20 races in the year. The team ran sixteen races with Ricky Hendrick as driver and did not qualify for five of the sixteen. Pepsi stayed as sponsor for the five races Gordon drove and GMAC came on as sponsor for the races Ricky Hendrick drove. In the team's final race at Homestead-Miami Speedway, Gordon won the season finale after leading the final 71 laps.
+
+===Race statistics===
+(key) (Bold – Pole position awarded by qualifying time. Italics – Pole position earned by points standings or practice time. * – Most laps led.)
+{| class="wikitable"
+|-
+!colspan=8| 1999 (Gordon/Evernham Motorsports)
+|-
+! Round !! Driver !! Sponsor !! Race !! Location !! Qualified !! Result !! Ref
+|-
+| 3
+|rowspan=3| Jeff Gordon
+|rowspan=2| Pepsi
+| Sam's Town 300
+| Las Vegas Motor Speedway
+| 2
+| style="background:#DFDFDF;"| 4
+| 
+|-
+| 6
+| Coca-Cola 300
+| Texas Motor Speedway
+| 4
+| style="background:#DFFFDF;"| 13
+| 
+|-
+| 14
+| Pepsi/Star Wars: Episode I – The Phantom Menace
+| Carquest Auto Parts 300
+| Lowe's Motor Speedway
+| 5
+| style="background:#EFCFFF;"| 33
+| 
+|-
+| 19
+| Ricky Hendrick
+| DuPont
+| Myrtle Beach 250
+| Myrtle Beach Speedway
+| 5
+| style="background:#DFFFDF;"| 20
+| 
+|-
+| 23
+| Jeff Gordon
+| Pepsi
+| NAPA 200
+| Michigan International Speedway
+| 4
+| style="background:#DFDFDF;"| 2
+| 
+|-
+| 26
+| Ricky Hendrick
+| DuPont
+| Autolite Platinum 250
+| Richmond International Raceway
+| align=center colspan=2 style="background:#FFCFCF;"| DNQ
+| 
+|-
+| 28
+| Jeff Gordon
+| Pepsi
+| All Pro Bumper to Bumper 300
+| Lowe's Motor Speedway
+| 2
+| style="background:#DFDFDF;"| 2
+| 
+|-
+| 29
+| rowspan=2| Ricky Hendrick
+| rowspan=2| DuPont
+| Kmart 200
+| North Carolina Speedway
+| 33
+| style="background:#EFCFFF;"| 37
+| 
+|-
+| 30
+| Sam's Town 250
+| Memphis Motorsports Park
+| align=center colspan=2 style="background:#FFCFCF;"| DNQ
+| 
+|-
+| 31
+| Jeff Gordon
+| Pepsi
+| Outback Steakhouse 200
+| Phoenix International Raceway
+| Cancelled
+| style="background:#FFFFBF;"| 1
+| 
+|}
+
+{| class="wikitable"
+|-
+!colspan=8| 2000 (JG Motorsports)
+|-
+! Round !! Driver !! Sponsor !! Race !! Location !! Qualified !! Result !! Ref
+|-
+| 2
+| Ricky Hendrick
+| GMAC
+| Alltel 200
+| North Carolina Speedway
+| align=center colspan=2 style="background:#FFCFCF;"|  DNQ
+| 
+|-
+| 3
+| Jeff Gordon
+| Pepsi
+| Sam's Town 300
+| Las Vegas Motor Speedway
+| 27
+| style="background:#DFFFDF;"| 18
+| 
+|-
+| 5
+| Ricky Hendrick
+| GMAC
+| SunCom 200
+| Darlington Raceway
+| align=center colspan=2 style="background:#FFCFCF;"|  DNQ
+| 
+|-
+| 7
+| Jeff Gordon
+| Pepsi
+| Albertsons 300
+| Texas Motor Speedway
+| 31
+| style="background:#EFCFFF;"| 42
+| 
+|-
+| 8
+| rowspan=3| Ricky Hendrick
+| rowspan=3| GMAC
+| BellSouth Mobility 320
+| Nashville Speedway USA
+| 34
+| style="background:#DFDFDF;"| 5
+| 
+|-
+| 11
+| Hardee's 250
+| Richmond International Raceway
+| 27
+| style="background:#CFCFFF;"| 28
+| 
+|-
+| 12
+| Busch 200
+| New Hampshire International Speedway
+| align=center colspan=2 style="background:#FFCFCF;"| DNQ
+| 
+|-
+| 13
+| Jeff Gordon
+| Pepsi
+| CarQuest Auto Parts 300
+| Lowe's Motor Speedway
+| 6
+| style="background:#DFDFDF;"| 4
+| 
+|-
+| 15
+| rowspan=6| Ricky Hendrick
+| rowspan=6| GMAC
+| Textilease Medique 300
+| South Boston Speedway
+| 35
+| style="background:#EFCFFF;"| 42
+| 
+|-
+| 16
+| Myrtle Beach 250
+| Myrtle Beach Speedway
+| 9
+| style="background:#DFFFDF;"| 13
+| 
+|-
+| 18
+| Sears DieHard 250
+| Milwaukee Mile
+| align=center colspan=2 style="background:#FFCFCF;"| DNQ
+| 
+|-
+| 20
+| NAPA Auto Care 250
+| Pikes Peak International Raceway
+| 28
+| style="background:#CFCFFF;"| 26
+| 
+|-
+| 21
+| CarQuest Auto Parts 250
+| Gateway International Raceway
+| 37
+| style="background:#EFCFFF;"| 38
+| 
+|-
+| 22
+| Kroger 200
+| Indianapolis Raceway Park
+| 30
+| style="background:#EFCFFF;"| 36
+| 
+|-
+| 23
+| Jeff Gordon
+| Pepsi
+| NAPAonline 250
+| Michigan International Speedway
+| 25
+| style="background:#FFDF9F;"| 7
+| 
+|-
+| 24
+| rowspan=4| Ricky Hendrick
+| rowspan=4| GMAC
+| Food City 250
+| Bristol Motor Speedway
+| align=center colspan=2 style="background:#FFCFCF;"| DNQ
+| 
+|-
+| 25
+| Dura Lube 200
+| Darlington Raceway
+| 32
+| style="background:#CFCFFF;"| 29
+| 
+|-
+| 28
+| All Pro Bumper to Bumper 300
+| Lowe's Motor Speedway
+| 5
+| style="background:#DFFFDF;"| 13
+| 
+|-
+| 29
+| Sam's Club 200
+| North Carolina Speedway
+| 7
+| style="background:#EFCFFF;"| 39
+| 
+|-
+| rowspan=2| 32
+| Jeff Gordon
+| Pepsi No. 24
+| rowspan=2| Miami 300
+| rowspan=2| Homestead-Miami Speedway
+| 6
+| style="background:#FFFFBF;"| 1
+| rowspan=2| 
+|-
+| Ricky Hendrick
+| GMAC No. 14
+| 12
+| style="background:#EFCFFF;"| 39
+|}
+

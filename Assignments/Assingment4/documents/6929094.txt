@@ -1,0 +1,102 @@
+Title: Yasuharu Sorimachi
+
+
+ is a former Japanese football player and manager. He played for Japan national team. 
+
+==Club career==
+Sorimachi was educated at and played for Shimizu Higashi High School and Keio University. At the high school, he won the national high school championship with his teammates Shigeo Sawairi and Tatsuya Mochizuki.
+
+Sorimachi began his senior career with Japan Soccer League side All Nippon Airways in 1987. He helped All Nippon Airways gain promotion to the top flight in 1988. When Japan's first-ever professional league J1 League started in 1992, All Nippon Airways was transformed to Yokohama Flügels for whom he continued to play. While at Flügels, he won the Emperor's Cup in 1993. He moved to Bellmare Hiratsuka (later Shonan Bellmare) in 1994. He helped the club to win the Emperor's Cup in 1994, and the Asian Cup Winners' Cup in 1995.
+
+==National team career==
+Sorimachi was capped 4 times for the Japanese national team between 1990 and 1991. His first international appearance came on July 27, 1990 in a friendly against South Korea. He also played at 1990 Asian Games.Japan National Football Team Database
+
+==Coaching career==
+After retirement, in 2001, Sorimachi signed with J2 League club Albirex Niigata and became a manager. In 2003, the club won the champions and was promoted to J1 League. He resigned at the end of the 2005 season. In July 2006, he became a manager for Japan U-23 national team. He also served as assistant coach for Japan football team under manager Ivica Osim and Takeshi Okada until July 2007. At 2008 Summer Olympics Qualifiers, he led U-23 Japan to won qualify for 2008 Summer Olympics. In 2009, he signed with his former club Shonan Bellmare and managed until 2011. In 2012, he moved to Matsumoto Yamaga FC.
+
+==Club statistics==
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan=3 | Club performance
+! colspan=2 | League
+! colspan=2 | Cup
+! colspan=2 | League Cup
+! colspan=2 | Total
+|-
+! Season
+! Club
+! League
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+|-
+|1987/88||rowspan="5"|All Nippon Airways||JSL Division 2||25||11||||||4||0||29||11
+|-
+|1988/89||rowspan="4"|JSL Division 1||17||3||||||0||0||17||3
+|-
+|1989/90||20||7||||||2||0||22||7
+|-
+|1990/91||22||3||||||4||0||26||3
+|-
+|1991/92||21||1||||||1||0||22||1
+|-
+|1992||rowspan="2"|Yokohama Flügels||rowspan="2"|J1 League||colspan=2|-||2||1||5||0||7||1
+|-
+|1993||26||1||3||1||6||2||35||4
+|-
+|1994||rowspan="4"|Bellmare Hiratsuka||rowspan="4"|J1 League||25||0||2||0||1||0||28||0
+|-
+|1995||21||3||2||0||colspan=2|–||23||3
+|-
+|1996||14||1||1||0||1||0||16||1
+|-
+|1997||22||4||1||1||1||0||24||5
+|-
+!colspan=3|Total
+!213||34||11||3||25||2||249||39
+|}
+
+==National team statistics==
+
+{| class="wikitable" style="text-align:center"
+! colspan=3 | Japan national team
+|-
+!Year!!Apps!!Goals
+|-
+|1990||2||0
+|-
+|1991||2||0
+|-
+!Total||4||0
+|}
+
+==Managerial statistics==
+Update; December 31, 2018J.League Data Site
+{| class="wikitable" style="text-align: center"
+!rowspan="2"|Team
+!rowspan="2"|From
+!rowspan="2"|To
+!colspan="5"|Record
+|-
+!G!!W!!D!!L!!Win %
+|-
+|align="left"|Albirex Niigata
+|align="left"|2001
+|align="left"|2005
+
+|-
+|align="left"|Shonan Bellmare
+|align="left"|2009
+|align="left"|2011
+
+|-
+|align="left"|Matsumoto Yamaga FC
+|align="left"|2012
+|align="left"|present
+
+|-
+!colspan="3"|Total
+
+|}
+

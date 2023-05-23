@@ -1,0 +1,57 @@
+Title: Secondary calculus and cohomological physicsIn mathematics, secondary calculus is a proposed expansion of classical differential calculus on manifolds, to the "space" of solutions of a (nonlinear) partial differential equation. It is a sophisticated theory at the level of jet spaces and employing algebraic methods.
+
+== Secondary calculus ==
+
+Secondary calculus acts on the space of solutions of a system of partial differential equations (usually non-linear equations). When the number of independent variables is zero, i.e. the equations are algebraic ones, secondary calculus reduces to classical differential calculus.
+
+All objects in secondary calculus are cohomology classes of differential complexes growing on diffieties. The latter are, in the framework of secondary calculus, the analog of smooth manifolds.
+
+== Cohomological physics ==
+
+Cohomological physics was born with Gauss's theorem, describing the electric charge contained inside a given surface in terms of the flux of the electric field through the surface itself. Flux is the integral of a differential form and, consequently, a de Rham cohomology class. It is not by chance that formulas of this kind, such as the well known Stokes formula, though being a natural part of classical differential calculus, have entered in modern mathematics from physics.
+
+== Classical analogues ==
+
+All the constructions in classical differential calculus have an analog in secondary calculus. For instance, higher symmetries of a system of partial differential equations are the analog of vector fields on differentiable manifolds. The Euler operator, which associates to each variational problem the corresponding Euler–Lagrange equation, is the analog of the classical differential associating to a function on a variety its differential. The Euler operator is a secondary differential operator of first order, even if, according to its expression in local coordinates, it looks like one of infinite order. More generally, the analog of differential forms in secondary calculus are the elements of the first term of the so-called C-spectral sequence, and so on.
+
+The simplest diffieties are infinite prolongations of partial differential equations, which are subvarieties of infinite jet spaces. The latter are infinite dimensional varieties that can not be studied by means of standard functional analysis. On the contrary, the most natural language in which to study these objects is differential calculus over commutative algebras. Therefore, the latter must be regarded as a fundamental tool of secondary calculus. On the other hand, differential calculus over commutative algebras gives the possibility to develop algebraic geometry as if it were differential geometry.
+
+== Theoretical physics ==
+
+Recent developments of particle physics, based on quantum field theories and its generalizations, have led to understand the deep cohomological nature of the quantities describing both classical and quantum fields. The turning point was the discovery of the famous BRST transformation. For instance, it was understood that observables in field theory are classes in horizontal de Rham cohomology which are invariant under the corresponding gauge group and so on. This current in modern theoretical physics is actually growing and it is called Cohomological Physics.
+
+It is relevant that secondary calculus and cohomological physics, which developed for twenty years independently from each other, arrived at the same results. Their confluence took place at the international conference Secondary Calculus and Cohomological Physics (Moscow, August 24–30, 1997).
+
+== Prospects ==
+
+A large number of modern mathematical theories harmoniously converges in the framework of secondary calculus, for instance: commutative algebra and algebraic geometry, homological algebra and differential topology, Lie group and Lie algebra theory, differential geometry, etc.
+
+== See also ==
+
+* 
+* 
+
+== References ==
+
+
+
+
+* I. S. Krasil'shchik, Calculus over Commutative Algebras: a concise user's guide, Acta Appl. Math. 49 (1997) 235—248; DIPS-01/98
+* I. S. Krasil'shchik, A. M. Verbovetsky, Homological Methods in Equations of Mathematical Physics, Open Ed. and Sciences, Opava (Czech Rep.), 1998; DIPS-07/98.
+* I. S. Krasil'shchik, A. M. Vinogradov (eds.), Symmetries and conservation laws for differential equations of mathematical physics, Translations of Math. Monographs 182, Amer. Math. Soc., 1999.
+* J. Nestruev, Smooth Manifolds and Observables, Graduate Texts in Mathematics 220, Springer, 2002, .
+* A. M. Vinogradov, The C-spectral sequence, Lagrangian formalism, and conservation laws I. The linear theory, J. Math. Anal. Appl. 100 (1984) 1—40; Diffiety Inst. Library.
+* A. M. Vinogradov, The C-spectral sequence, Lagrangian formalism, and conservation laws II. The nonlinear theory, J. Math. Anal. Appl. 100 (1984) 41—129; Diffiety Inst. Library.
+* A. M. Vinogradov, From symmetries of partial differential equations towards secondary (`quantized') calculus, J. Geom. Phys. 14 (1994) 146—194; Diffiety Inst. Library.
+* A. M. Vinogradov, Introduction to Secondary Calculus, Proc. Conf. Secondary Calculus and Cohomology Physics (M. Henneaux, I. S. Krasil'shchik, and A. M. Vinogradov, eds.), Contemporary Mathematics, Amer. Math. Soc., Providence, Rhode Island, 1998; DIPS-05/98.
+* A. M. Vinogradov, Cohomological Analysis of Partial Differential Equations and Secondary Calculus, Translations of Math. Monographs 204, Amer. Math. Soc., 2001.
+
+== External links ==
+
+* The Diffiety Institute
+* Diffiety School
+
+
+
+Category:Homological algebra
+Category:Partial differential equations

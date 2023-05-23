@@ -1,0 +1,96 @@
+Title: Navigable servitude
+
+
+Navigable servitude is a doctrine in United States constitutional law that gives the federal government the right to regulate navigable waterways as an extension of the Commerce Clause in Article I, Section 8 of the constitution. It is also sometimes called federal navigational servitude.
+
+The Commerce Clause gives Congress the power to regulate "commerce ... among the several states." In Gibbons v. Ogden (1824), the United States Supreme Court ruled unanimously that this power extended to regulation over navigable waterways,  which were an important hub of transportation in the early years of the Republic.
+
+Although the Supreme Court recognizes Federal control over navigable waterways is absolute, see Phillips Petrol v. Mississippi, 484 US 469,480 (1988), the public interest is not absolute, Dardar v. Lafourche Realty Co., Inc., 55 F.3d 1082 (5th Cir.1995). The government has the power to reroute a waterway (South Carolina v. Georgia, 93 U.S. 4 (1876)); block a navigable creek (United States v. Commodore Park, 324 U.S. 386(1945)); or completely de-water a river (United States v. Chandler-Dunbar Water Power Co., 229 U.S. 53 (1913)), each without recourse by those who are adversely affected by the reduction in navigable capacity. One court has held that a federal agency can restrict individuals paddling on a stream, finding boating is not a 'federally protected right'. 8:09-2665-MGL  4th circuit (2013).
+This servitude does not extend beyond the navigable waterway.  It does not extend to the banks of a navigable stream.
+
+==United States v. Rands==
+An explanation of the rights of the United States in navigable waters may be found in United States v. Rands,United States v. Rands, 389 U.S. 121 (1967) The Commerce Clause confers a unique position upon the Government in connection with navigable waters. "The power to regulate commerce comprehends the control for that purpose, and to the extent necessary, of all the navigable waters of the United States. ... For this purpose they are the public property of the nation, and subject to all the requisite legislation by Congress."Gilman v. Philadelphia, 3 Wall. 713, 724-725 (1866) This power to regulate navigation confers upon the United States a "dominant servitude,"FPC v. Niagara Mohawk Power Corp., 347 U.S. 239, 249 (1954) which extends to the entire stream and the stream bed below ordinary high-water mark.
+
+The case continues:
+
+
+
+The navigational servitude of the United States does not extend into fast lands, which are lands above the high-water mark. Consequently, when fast lands are taken by the Government, just compensation must be paid. But "just as the navigational privilege permits the Government to reduce the value of riparian lands by denying the riparian owner access to the stream without compensation for his loss, ... it also permits the Government to disregard the value arising from this same fact of riparian location in compensating the owner when fast lands are appropriated."United States v. Virginia Elec. & Power Co., 365 U.S. 624, 629 (1961)
+
+It was held early "that the power to regulate commerce necessarily included power over navigation. To make its control effective the Congress may keep the 'navigable waters of the United States' open and free and provide by sanctions against any interference with the country's water assets. It may legislate to forbid or license dams in the waters; its power over improvements for navigation in rivers is 'absolute.'United States v. Appalachian Electric Power Co., 311 U.S. 377 (1940)
+
+The phrase "navigable servitude" wrongly implies the commerce clause powers over navigable waters are limited only to government activities that have a navigation purpose. In fact, the power is far more expansive than this. The Court stated in United States v. Appalachian Electric Power Co.:
+
+
+
+Under the Rands rule, when the federal government condemns land on or near a navigable waterway, it has no obligation to pay the full measure of just compensation to the landowner. Instead, it is permitted to exclude from the measure of just compensation any element of value attributable to the land's access or proximity to a navigable waterway.
+
+Congress responded to the Court's decision in Rands by enacting a statute, Section 111 of the Rivers and Harbors Act, which provides, as a matter of legislative grace, a right to compensation which the Supreme Court has declared that Congress is not constitutionally obligated to provide. Section 111 provides that the amount of just compensation paid to any landowner for land appropriated by the government must include any value attributable to the land's proximity to a navigable waterway.
+
+==Federalism issues==
+The Supreme Court's recent treatment of federalism and regulatory taking issues suggests that the Court may be inclined to undo some of the effects of the navigational servitude as it has developed over the past two centuries.
+
+33 U.S.C. 595a, consists of two relevant principal parts. The first part describes the rule for the determination of just compensation with respect to any real property lying above the high-water mark of a waterway that is taken by the United States in connection with the improvement of rivers, harbors, canals, or waterways of the United States. It unmistakably provides that, notwithstanding Rands, when property above the high-water mark is condemned for any of several specified purposes, the landowner is entitled to compensation for the part taken, under the same constitutional rules that are applicable in the non-riparian context. As such, the compensation to be paid to the landowner must reflect the value attributable to the property's proximity to the waterway:
+
+
+
+==Other cases==
+When the United States changes the course or current of a navigable water, or changes the access, or prevents its use for generating power, for example, no compensation is due, unless specific legislation authorizes that compensation. When damage results consequentially from an improvement to a river's navigable capacity, or from an improvement on a nonnavigable river designed to affect navigability elsewhere, it is generally not a taking of property but merely an exercise of a servitude to which the property is always subject. Several cases will illustrate these principles.
+
+===Scranton v Wheeler===
+In Scranton v. WheelerScranton v. Wheeler, 179 U.S. 141 (1900) the government constructed a long dike on submerged lands in the river to aid navigation. The dike cut the riparian owner off from direct access to deep water, and he claimed that his rights had been invaded and his property taken without compensation. This Supreme Court held that the government had not 'taken' any property and stated:
+
+
+
+===Chandler-Dunbar===
+So unfettered is this control of Congress over navigable streams of the country that its judgment as to whether a construction in or over such a river is or is not an obstacle and a hindrance to navigation is conclusive. Such judgment and determination is the exercise of legislative power in respect of a subject wholly within its control. In U. S. v. Chandler-Dunbar Water Power Co.,U. S. v. Chandler-Dunbar Water Power Co., 229 U.S. 53 (1913) the government acquired upland property located on the St. Mary's river, the outlet of Lake Superior. The property owner was a power company, and it argued that its property was more valuable because it the site was suitable for hydroelectric power. The United States refused to pay any enhanced value for the ability to generate power from the location. The Supreme Court rejected the claim:
+
+
+
+===United States v. Commodore Park===
+In United States v. Commodore Park,United States v. Commodore Park, 324 U.S. 386 (1945) the United States had dredged a tidewater navigable bay and deposited the dredged materials in a navigable arm of the bay called Mason Creek. The dredging destroyed the navigability of Mason Creek and impaired alleged valuable benefits resulting proximity of the land to a navigable tidewater creek. The Court stated that "The broad question presented is whether the Fifth Amendment requires the government to compensate an owner of residential property contiguous to the creek, whose fast lands, though not physically invaded, were decreased in market value." The Court found that obstruction of the navigability was an inherent right of the United States:
+
+
+
+===United States v. Dickinson===
+In United States v. DickinsonUnited States v. Dickinson, 331 U.S. 745 (1947) the Supreme Court considered the consequences of construction of the Winfield Dam, South Charleston. Construction of a dam or flood control works may increase the duration where a navigable water flows up to the height of the ordinary high water mark. This increased duration of full flowage is not compensable, of course. In addition, the pool behind the dam overflowed the prior ordinary high water level, and the landowner was entitled to compensation. This much was not in dispute. The dispute arose because, "In addition, erosion attributable to the improvement damaged the land which formed the new bank of the pool." The United States argued that it was not required to reimburse the landowner for this consequential erosion. The Court rejected that contention:
+
+
+
+===United States v. Sponenbarger===
+Flood control projects inherently change the hydrology of the rivers, lakes and streams both above and below the project. The Supreme Court has found a taking when a Government project directly subjects land to permanent intermittent floods to an owner's damage.Jacobs v. United StatesUnited States v. Cress, 243 U.S. 316United States v. Lynah, 188 U.S. 445Pumpelly v. Green Bay & M. Canal Co
+
+However, often the result of these projects is consequently to reduce water flow downstream at some times, and to increase it above the natural flow in some places at other times. Because of the complex hydrology of river systems, it is almost inevitable that some landowners may show, or seek to show, that sporadically, their lands experience flooding that would not otherwise occur in the absence of flood control projects. These allegations have periodically led landowners to claim compensation for changes in the hydrology of river systems having a consequence on their lands. This is the subject of the Court's decision in United States v. Sponenbarger.United States v. Sponenbarger, 308 U.S. 256 (1939) The Court's decision begins with some historical context:
+
+
+
+Eventually, the Corps of Engineers came to recognize that not all reaches of the river could be protected. A plan was authorized which would provide a higher level of protection to some lands; other lands would be protected by lower levees, and thus subject to a greater likelihood of flooding:
+
+
+
+The Supreme Court rejected the contention that landowners exposed to sporadic flooding as a result of this flood control plan were constitutionally required to compensation:
+
+An undertaking by the Government to reduce the menace from flood damages which were inevitable but for the Government's work does not constitute the Government a taker of all lands not fully and wholly protected. When undertaking to safeguard a large area from existing flood hazards, the Government does not owe compensation under the Fifth Amendment to every landowner which it fails to or cannot protect. In the very nature of things the degree of flood protection to be afforded must vary. And it is obviously more difficult to protect lands located where natural overflows or spillways have produced natural floodways. ... .The far reaching benefits which respondent's land enjoys from the Government's entire program precludes a holding that her property has been taken because of the bare possibility that some future major flood might cause more water to run over her land at a greater velocity than the 1927 flood which submerged it to a depth of fifteen or twenty feet and swept it clear of buildings. Enforcement of a broad flood control program does not involve a taking merely because it will result in an increase in the volume or velocity of otherwise inevitably destructive floods, where the program measured in its entirety greatly reduces the general flood hazards, and actually is highly beneficial to a particular tract of land.
+
+"The constitutional prohibition against uncompensated taking of private property for public use is grounded upon a conception of the injustice in favoring the public as against an individual property owner," the decision continued. "But if governmental activities inflict slight damage upon land in one respect and actually confer great benefits when measured in the whole, to compensate the landowner further would be to grant him a special bounty."
+
+===Twin Cities Power===
+The Chandler-Dunbar decision was confirmed once again in United States v. Twin Cities Power,United States v. Twin Cities Power, 350 U.S. 222 (1956) where the court rejected a power companies contention that uplands taken should be compensated at a value which reflected its special value because of its power generation capability:
+
+
+
+The Twin Cities case served as a watershed. After Twin Cities, individuals would know they could maintain no rights to the benefit of their property when utilized as part of the navigable waterways. Further, upon a condemnation, the increased value inuring from proximity to a waterway would no longer be paid.
+
+These developments in the law led the Supreme Court to acknowledge in 1979 that Congress's power to regulate the nation's waterways is best understood when viewed in terms of more traditional Commerce Clause analysis than by reference to whether the stream in fact is capable of supporting navigation or may be characterized as navigable water of the United States. Under the most recent Commerce Clause decisions, the test for determining whether Congress has the power to regulate an activity is whether the activity "substantially affects" interstate commerce.
+
+In Twin Cities, the Court stated that "[i]t is not for courts ... to substitute their judgments for congressional decisions on what is or is not necessary for the improvement or protection of navigation. In light of a very recent Supreme Court decision, however, there is some reason to believe that the courts may not automatically accept Congressional findings that a project benefits navigation or, to use the analysis favored in Kaiser Aetna, that it "substantially affects" interstate commerce. In United States v. Morrison, the Court, in striking down a section of an act as outside the Commerce Clause power, found that Congressional findings that the subject matter of the statute affected interstate commerce were inadequate. Since the five members of the Court who comprised the majority in Morrison have also adopted an expansive reading of the Takings Clause in the area of regulatory takings, one should not automatically assume that the judiciary will continue to defer to Congressional findings in cases involving the constitutionality of Congressional regulation of navigable waterways. It is likely that there will be waterway projects whose effects on interstate commerce will be so attenuated that the Court could declare them to be outside Congress's power to regulate interstate commerce.
+
+==Post-legislative judicial determinations==
+Section 111 has been described by two federal district courts as having legislatively set aside Rands and its predecessors, as having in essence abrogate the doctrine of non-compensation for riparian access found in Rands, and as having repealed the rule of Rands. This is not quite accurate, even as to the first part of Section 111, because Congress cannot abrogate or "set aside" or "repeal" a decision of the Court regarding the government's obligations under the Just Compensation Clause. A more precise characterization of the first part of Section 111 is that it provided by legislative grace some of the compensation rights which the Court in Rands held that Congress was not under constitutional compulsion to provide.In any event, the practical effect of Section 111 is that, at least with respect to property actually taken, compensation will be paid in accordance with the usual constitutional rules regarding just compensation, and not in accord with the rules pronounced in Twin City Power and Rands. As such, the just compensation paid to landowners should include any component of value attributable to their property's proximity to a navigable waterway.
+
+==See also==
+*Commerce Clause
+*Water law
+*Eminent domain
+*Public trust doctrine
+

@@ -1,0 +1,27 @@
+Title: Gpsd
+
+gpsd is a computer software program that collects data from a Global Positioning System (GPS) receiver and provides the data via an Internet Protocol (IP) network to potentially multiple client applications in a server-client application architecture. Gpsd may be run as a daemon to operate transparently as a background task of the server. The network interface provides a standardized data format for multiple concurrent client applications, such as Kismet or GPS navigation software.
+
+Gpsd is commonly used on Unix-like operating systems.Debian packages of gpsdFedora package of gpsd gpsd FreeBSD from the FreeBSD ports archive It is distributed as free software under the 3-clause BSD license.
+
+== Design ==
+gpsd provides a TCP/IP service by binding to port 2947 by default.gpsd manual page  gpsd project, retrieved 2011-07-11 It communicates via that socket by accepting commands, and returning results. These commands use a JSON-based syntax and provide JSON responses. Multiple clients can access the service concurrently.
+
+The application supports many types of GPS receivers with connections via serial ports, USB, and Bluetooth. Starting in 2009, gpsd also supports AIS receivers.A Brief History of GPSD, "In July and August 2009 ESR redesigned the GPSD command protocol and gave gpsd the ability to read data from marine AIS receivers and pass it to clients."; retrieved 2011-05-01 
+
+gpsd supports interfacing with the Network Time Protocol (NTP) server ntpd via shared memory to enable setting the host platform's time via the GPS clock.
+
+== Authors ==
+gpsd was originally written by Remco Treffkorn with Derrick Brashear, then maintained by Russell Nelson.GPSD CHANGELOG  It is now maintained by Eric S. Raymond.GPSD History Bad Code Offsets: Open Web Innovation
+
+== References ==
+
+
+
+== External links ==
+* 
+
+Category:Global Positioning System
+Category:Free software programmed in C
+Category:Free software programmed in Python
+Category:Software using the BSD license

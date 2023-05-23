@@ -1,0 +1,78 @@
+Title: Maritime lien
+
+
+The maritime lien is one of three in rem claims capable of being brought under UK Admiralty Law. Whilst being a common law instrument, it has been codified under s.21(3) of the Senior Courts Act 1981Senior Courts Act 1981, s 21(3) along with s.21(2)Senior Courts Act 1981, s 21(2) and s.21(4),Senior Courts Act 1981, s 21(4) its statutory counterparts. Maritime lien and ship mortgage have a single corresponding term in the civil law, namely the ship hypothec. 
+
+The maritime lien is a proprietary instrument meaning it concerns the property: the res. This includes the vessel (also covering its appurtenances and equipment), services rendered to it or injuries caused by that property. The rights include jus in re (right on the property) and jus in rem (right against the property). This means the lien treats the ship as the wrongdoer however, the lien is said to "implede"The Moses Taylor, 4 Wall 413 the owner into representing the res.
+
+The maritime lien is a privileged claim upon maritime property which attaches to the res from the moment a cause of action arises. It remains "inchoate"The Bold Buccleugh [1851] 7 Moo. P.C. 267, 284 (Sir John Jarvis) until the issuing of a writ. By remaining invisible from the moment of attachment, the lien is capable of surviving a change of ownership, even by a good faith purchaser.
+
+Two significant differences between maritime liens, which only exist in admiralty law, and the right to keep that exist in general civil law are (1) that in general civil law, "Prior in time is prior in right", i.e., the rights of the lienholder with the earliest lien are superior to those of later lienholders, whereas in maritime law the rights of the most recent lienholder are superior, and (2) all maritime liens are superior to all non-maritime liens. For instance, in the United States, a federal tax lien, which is a non-maritime lien, is subordinate to every lien for supplies, fuel, repairs, etc., which are all maritime liens.
+
+Normally, a maritime lien relates to the different marine transactions in the admiralty jurisdiction and creates the maritime claims. It will be created by the statute such as the Ship Mortgage Act.
+
+== Characteristics of maritime lien ==
+
+The Characteristics of maritime lien are as follows:
+
+* Wages of the ship's master and crew
+* Salvage operations
+* Claims for the breach of a charter party
+* Preferred ship mortgages
+* Claims under maritime contracts for repairs, supplies, towage, pilotage and a wide variety of other “necessaries”
+* Claims for maritime torts including personal injury and death, and collision claims
+* Claims for the damage or loss of cargo
+* Claim by the carrier of cargo for unpaid freight and demurrage
+* Pollution claims
+
+Although there is a list recognized by the admiralty jurisdiction, the definitions and criteria are not the same under the maritime law of differing jurisdictions. For example, bunker suppliers are not protected by maritime lien under UK law. However, the supplier of bunker goods might have the right of lien in the US if it can satisfy all statutory requirements. In the UK there is a closed list of situations where a maritime lien arises, being; salvage,The Two Friends (1799) 165 ER 174 seamen's wages,The Sydney Cove (1815) 2 Dods 11, 165 ER 1399 damage done by a ship due to wrongful act of manoeuvre,Currie v M’Knight [1897] AC 97 (HL) bottomry (although this no longer is used) and masters remunerations and disbursements.Merchants Shipping Act 1995 s41
+
+== Distinguished from shipowner’s lien ==
+
+A shipowner's lien is a possessory lien which is the major difference between it and other maritime liens. The right to this lien can be applied only on the goods which are delivering by the shipowner when the shipper is the contractual party. It may entitle the shipowner to retain the cargoes as security for the payment of a debt. The contractual shipowner's lien is currently found in all contracts for carriage of goods by sea nowadays, and may be claimed if the shippers fail to pay the due on time. However, some authorities state that there is no difference between shipowner's lien and maritime lien.
+
+== Advantage of action in rem ==
+
+Action in rem (property) is an action separated from the action in personam. The action is against the maritime property such as vessel, cargo or freight, but not against the owner. This concept is why such an action is said to be against “all the world”.
+
+Claimants take advantage of the action in rem, rather action in personam, because an action in rem is more easy and convenient to institute. It is more difficult, in an action in personam, to summon the defendant via writ outside the jurisdiction unless the defendant is a resident of EU or EFTA countries. Besides, the processes to find the rightful shipowner, the defendant, are very complicated and time consuming due to the complex and inconsistent ship registration in different countries. An action with respect to a bareboat ship will frequently encounter this problem.
+
+The Admiralty action in rem will concern when the claims and ship are put within the Admiralty Jurisdiction, an adequate and secure place for the claimants to ask for compensation. If the defendant does not provide enough security as compensation, the court may sell the “res” in order to achieve the satisfaction for the claim.
+
+There are two distinct advantages to an admiralty action in rem in England.
+
+1) Bringing the claim in England secures jurisdiction of the English Admiralty Court, though it can be disputed.The Freccia del Nord [1989] 1 Lloyds Rep 388 (Adm). London is world renowned for its fair, efficient, and consistent application of maritime law. It also promotes the certainty that commercial law demands. The claim can be brought against foreign ships.The Ella A. Clark [1863] 2 WLUK 46.
+
+2) It has the effect of turning the claimant into a secured creditor so upon insolvency the claimant will be preferred over other crediting parties thereby securing priority financial redress.In Re Arco Co Ltd [1980] Ch 196 (CA). Furthermore, a maritime lien will rank above other secured creditors and only is after the costs arising from the arrest and sale of the ship. 
+
+== Discharge and distinction of lien ==
+
+Although the maritime lien is attached to the maritime property whoever the shipowner is, it is possible to discharge or eliminate the lien by several ways. They include payment of the claims, waiver, laches, foreclosure, and sale or destruction of the res.
+
+The lienholder could give up the right of maritime lien either by expressed or implied intention. The intention to waive the lien should be shown clearly required by the court and the credit of the lienholder will be considered.
+
+Laches is a form of estoppel for delay. A person fails to arrest the ship within a reasonable time may result in cancellation of the original claim. The time of delay will be determined on a case-by-case basis.  The idea is that the holder must show diligence exercising the lien.
+
+Another method is an execution sale in a rem. This also removes the attachment of the lien. The new shipowner will get the vessel with clear title. This rule could be applied in case of an international judicial sale, such as an action in rem.
+
+Destruction of the res results in the extinction of the lien. In this case, the lien is eliminated when the whole ship is destroyed. However, partial destruction of the vessel will not remove the lien and the lien will be attached to the remaining part of the vessel.
+
+== Conflict of laws and choice of law ==
+
+“Proper law” is the decision as to which territorial law is to govern the contract, defines the obligations of the contractual parties and determines whether the contract is valid and legal. It also determines the effects and conditions of discharge. Selection of the “proper law” to adjudicate the marine contract is a difficult task in Admiralty Jurisdiction because the issue of whether enforcement of the maritime lien is allowed by international law may turn on interpretation of the law of the country where the litigation is. So, the question is over the priority of the law where the lien was created (lex loci), as opposed to the law of where the court exercising jurisdiction (lex fori).. For example, in the Republic of Korea, Korean Courts shall look to the law of the country of the vessel.
+
+The answer is found in the application of a multiplicity of contract analysis process. The court will weight and analyze all related factors between the transaction and the respective legal systems by a case-by-case analysis. The factors may include: (a)the need of the international system; (b)the protection of justified expectation; (c)ease in determination and application of the law to be applied; (d)relevant policies of other interested states; (e)the place of the wrong; (f)the law of flag; (g)the allegiance or domicile of the injured party; (h)the law of forum; (i)the place of the contract; (j)the allegiance of the defendant shipowner and so on. The prefect decision will result from a balance between the relevant factors.
+
+However, the US courts will choose the factors which could be applied to protect the American. If the relevant factors direct to select international law, the case may be dismissed on the grounds of forum non conveniens. If the choice of law is to apply the US law, the court will retain jurisdiction. The reason for this is that Federal Maritime Lien Act is used to protect Americans, not the foreigners.
+
+
+== References ==
+
+
+# 
+# 
+# 
+# 
+
+Category:Admiralty law
+Category:Liens

@@ -1,0 +1,57 @@
+Title: ALZip
+
+
+ALZip is an archive and compression utility from ESTsoft for Microsoft Windows.
+ALZip is a file compression program that can unzip 40 different zip file archives.
+ALZip can zip files into 8 different archives such as ZIP, EGG, TAR and others. Since ALZip version 8, the newly developed EGG format can be used, which supports Unicode and other features.
+
+== History ==
+Originally ALZip was developed in 1999 as an internal application at the South Korean software company ESTsoft in response to employee frustration with using the English interface in WinZip.
+
+The Korean interface was immediately well received and later that year, ALZip was publicly released as freeware. In just over a year, ALZip became the most popular zip program in Korea and by December 2001, was the top downloaded softwareMaeilkyungjae IT Internet (2001-12-03) in the country. By 2004, it had reached a 70% market share in South Korea. The popularity of the software and the ALZ archive format played a large role in earning ESTsoft a place in the Digital Innovation Awards Top 100 Companies in South Korea with the software taking special mention.
+
+Early in its development ALZip introduced the ALZ file format to deal with file size limitations of the ZIP file format. ALZ compression has no theoretical upper limit for file sizes, as they are only limited by operating system limits or the amount of available storage. The file format has become common in Korea.
+
+The first English version was released in 2002. Since then, support for over 20 languages has been added.
+
+The version 11.07 is available through Microsoft Store.
+
+== Licensing changes ==
+Originally ALZip was released as pure freeware, however in October 2001 changed to free for home use, with government usage requiring a software license. In April 2002, business license was also introduced, commercial usage. Licensing was based on the honor system, and there were no nag screens.
+
+With the version 7 release, the license was changed from freeware to adware, displaying downloaded banner ads, and finally beginning 1 December 2008, all new releases are shareware requiring a paid licensehttp://www.altools.com/Default.aspx except in its original Korean language, which requires no licensing fee.
+
+With version 8.51, from 22 August 2012, ALZip changed the license so that it can be licensed free of charge. On the download page of ALZip is a serial number to copy and paste when you start AlZip, in order to have the license of the software free of charge.
+
+== Naming and mascots ==
+The name "ALZip" was chosen, as the "AL" part is a transliteration from the Korean "aljip" (Hangul: 알집), literally EggZip. Other ALTools feature similar egghead cartoon characters as mascots for each program.
+
+Additionally, ALZip integrates into the "New Folder" function of Windows Explorer, where new folders are created with the option of using custom icons and names.
+
+== Issues on file format ==
+In 2003, there was a controversy over ALZip's own compression file format ALZ, when a developer of another Korean compression utility, "빵집" insisted that ALZip users were forced to use the ALZip archiver when decompressing ALZ files. He also insisted that ESTsoft does not offer decompression libraries, and third-party archiver developers have used reverse engineering to develop their own algorithms.
+
+The current version of "빵집" supports ALZ format.ť§Áý
+and, in ALZip 8.0 beta version, ESTsoft made some format. *.EGG
+
+== See also ==
+* Comparison of file archivers
+* Comparison of archive formats
+* List of archive formats
+
+== References ==
+
+
+== External links ==
+*  
+* Flickr pages with various ALTools Eggheads
+* unalz  - Open-source decompressor for ALZip files, for Windows and Linux.
+
+
+
+
+Category:Windows compression software
+Category:Freeware
+Category:ESTsoft
+Category:File archivers
+Category:Data compression software

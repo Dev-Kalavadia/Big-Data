@@ -1,0 +1,89 @@
+Title: JDS Amatsukaze
+
+{|
+
+
+
+|}
+JDS Amatsukaze (DDG-163) was a guided missile destroyer (DDG) of the Japan Maritime Self-Defense Force (JMSDF), and the only ship of her class. She was the first Japanese surface combatant equipped with surface-to-air missiles. 
+
+== Development ==
+JDS Amatsukaze was planned as the DDG variant of the preceding Akizuki-class anti-aircraft destroyers, mounting the American Tartar Guided Missile Fire Control System weapon system. However, the Tartar system turned out to be larger than expected, so Amatsukazes design was altered completely, with an enlarged hull and with a shelter-deck design based on that of the  and uprated steam turbines.
+
+== Construction and career ==
+She was laid down on 29 November 1962 and launched on 5 October 1963 by Mitsubishi shipyard in Nagasaki. Commissioned on 15 February 1965.
+
+From July 1st to July 31st of the same year, she participated in the maritime training in the direction of Guam with the escort vessels JDS Haruna, JDS Mochizuki and JDS Nagatsuki.
+
+Participated in Exercise RIMPAC 1980 from January 25, 1980, and from February 26 to March 18, the first joint exercise of the Maritime Self-Defense Force with the escort ship JDS Hiei and eight P-2J patrol aircraft. Participate in 80). The ship became a member of the USS Constellation  Task Force. She succeeded in all four ship-to-air engagements during the exercises, and was attacked by the temporary enemy, the Royal Australian Navy aircraft carrier HMAS Melbourne. She was highly evaluated as the best ship in this exercise by engaging with USS Sargo which approached with the intention of reattacking the wrecked USS Constellation and destroying her. Returned to Japan on April 2nd.
+
+From July 1st to July 31st, 1992, she participated in the maritime training in the Philippines with the escort vessels JDS Setoyuki, JDS Asayuki and JDS Mineyuki.
+
+Removed from the register on November 29, 1995. During the active period of 30 years and 9 months, the total voyage was 764,314 miles (about 1.4 million km), the total voyage time was 62,999.53 hours, and the Maritime Self-Defense Force exercises participated 19 times, integrated exercises 4 times, and 9 times. She was eventually sunk as an actual target for anti-ship missiles off Wakasa Bay. 
+
+Her port propeller is left at Yokosuka Education Corps, the starboard propeller is left at Yokosuka naval base, and the main anchor is left at Maizuru naval base.
+
+==Tartar missiles==
+Amatsukaze was one of the earliest foreign ships equipped with the American Tartar system. (The other is the French Kersaint-class DDG). Because of the financial burden of this expensive weapon system, the other equipment aboard Amatsukaze was almost the same as that of the  at first, but the JMSDF applied a spiral model to Amatsukaze, allowing continual updating of her equipment as described in the following table.
+
+The Tartar weapon system made a strong positive impression on the JMSDF, but it was too expensive for the JMSDF to be able to afford another Tartar-equipped DDG at once. As a result, the JMSDF had to wait 10 years to build another DDG, the first  destroyer.
+
+{|class=wikitable
+|
+! 1965
+! 1995
+|-
+!SAM
+|RIM-24B Improved Tartar
+|RIM-66 SM-1MR
+|-
+!SUM
+|none
+|RUR-5 ASROCwith Mk.112 octuple launcher
+|-
+!Torpedolauncher
+|Mk.2 over-the-side launchers
+|Mk.32 triple torpedo tubes
+|-
+!3D radar
+|AN/SPS-39
+|AN/SPS-52
+|-
+!GFCS
+|Mk.63 mod.14
+|FCS-2-21D
+|-
+!Sonar
+|AN/SQS-4 (search)AN/SQR-8 (attack)
+|AN/SQS-23
+|-
+!EW
+|NOLR-1B (intercept)
+|NOLR-6B (intercept)OLR-9B (missile warning)OLT-3 (jammer)
+|}
+
+==Ships in class==
+{|class=wikitable
+! Building no. || Pennant no. || Name || Laid down || Launched || Completed || Decommissioned
+|-
+| 2303 || DDG-163 || Amatsukaze || 29 November 1962 || 5 October 1963 || 15 February 1965 || 29 November 1995
+|}
+
+== Gallery ==
+
+File:JS Amatsukaze (DDG-163).jpg|JDS Amatsukaze underway, date unknown.
+File:JMSDF Amatsukaze (DDG-163).jpg|JDS Amatsukaze underway, date unknown.
+File:Main Anchor of JS Amatsukaze(DDG-163) at JMSDF Maizuru Naval Base July 27, 2014.jpg|JDS Amatsukaze’s anchor on display at JMSDF Naval Base Maizuru.
+File:Screw propeller(right) of JS Amatsukaze(DDG-163) at JMSDF Yokosuka Naval Base June 1, 2008.jpg|JDS Amatsukaze’s right propeller on display at Yokosuka Naval Base. 
+
+
+== References ==
+
+
+
+
+
+Category:Destroyer classes
+Category:Destroyers of the Japan Maritime Self-Defense Force
+Category:1963 ships
+Amatsukaze

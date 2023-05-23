@@ -1,0 +1,273 @@
+Title: List of places in Alaska (L)
+
+This list of cities, towns, unincorporated communities, counties, and other recognized places in the U.S. state of Alaska also includes information on the number and names of counties in which the place lies, and its lower and upper zip code bounds, if applicable.
+
+
+{| class="wikitable"
+!Name of place
+!Number of counties
+!Principal county
+!Lower zip code
+!Upper zip code
+|----
+|Labouchere Bay
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Lagoon
+|1
+|Denali Borough
+| 
+| 
+|----
+|Lake and Peninsula
+|1
+|Lake and Peninsula Borough
+|99576
+| 
+|----
+|Lake And Peninsula Borough School District
+|1
+|Lake and Peninsula Borough
+| 
+| 
+|----
+|Lake Clark National Park
+|3
+|Dillingham Census Area
+|99501
+| 
+|----
+|Lake Clark National Park
+|3
+|Kenai Peninsula Borough
+|99501
+| 
+|----
+|Lake Clark National Park
+|3
+|Matanuska-Susitna Borough
+|99501
+| 
+|----
+|Lake Louise
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Lake Minchumina
+|1
+|Yukon-Koyukuk Census Area
+|99757
+| 
+|----
+|Lake Minchumina
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Lakes
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Lakeview
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Lamont
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Lane
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Larsen Bay
+|1
+|Kodiak Island Borough
+|99624
+| 
+|----
+|Latouche
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Lawing
+|1
+|Kenai Peninsula Borough
+|99664
+| 
+|----
+|Lazy Mountain
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Lee's Camp
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Lemeta
+|1
+|Fairbanks North Star Borough
+|99701
+| 
+|----
+|Lemon Creek
+|1
+|City and Borough of Juneau
+|99801
+| 
+|----
+|Lena Cove
+|1
+|City and Borough of Juneau
+|99801
+| 
+|----
+|Levelock
+|1
+|Lake and Peninsula Borough
+|99625
+| 
+|----
+|Libbyville
+|1
+|Bristol Bay Borough
+| 
+| 
+|----
+|Lignite
+|1
+|Denali Borough
+| 
+| 
+|----
+|Lime Village
+|1
+|Bethel Census Area
+|99673
+| 
+|----
+|Little Diomede
+|1
+|Nome Census Area
+|99762
+| 
+|----
+|Livengood
+|1
+|Yukon-Koyukuk Census Area
+|99701
+| 
+|----
+|Long
+|1
+|Yukon-Koyukuk Census Area
+|99768
+| 
+|----
+|Long Island
+|1
+|Matanuska-Susitna Borough
+|99687
+| 
+|----
+|Long Island
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Loring
+|1
+|Ketchikan Gateway Borough
+| 
+| 
+|----
+|Lost River
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Lowell Point
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Lower Kalskag
+|1
+|Bethel Census Area
+|99626
+| 
+|----
+|Lower Kuskokwim
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|Lower Kuskokwim Regional Educational Attendance Area
+|2
+|Bethel Census Area
+| 
+| 
+|----
+|Lower Kuskokwim Regional Educational Attendance Area
+|2
+|Kusilvak Census Area
+| 
+| 
+|----
+|Lower Mendenhall Valley
+|1
+|City and Borough of Juneau
+|99801
+| 
+|----
+|Lower Tonsina
+|1
+|Valdez-Cordova Census Area
+|99573
+| 
+|----
+|Lower Yukon Regional Educational Attendance Area
+|2
+|Bethel Census Area
+| 
+| 
+|----
+|Lower Yukon Regional Educational Attendance Area
+|2
+|Kusilvak Census Area
+| 
+| 
+|----
+|Lutak
+|1
+|Haines Borough
+| 
+| 
+|----
+|}
+
+ L

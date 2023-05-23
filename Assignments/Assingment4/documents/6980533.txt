@@ -1,0 +1,24 @@
+Title: Thrust tectonics 
+
+Thrust tectonics or contractional tectonics is concerned with the structures formed by, and the tectonic processes associated with, the shortening and thickening of the crust or lithosphere. It is one of the three main types of tectonic regime, the others being extensional tectonics and strike-slip tectonics. These match the three types of plate boundary, convergent (thrust), divergent (extensional) and transform (strike-slip). There are two main types of thrust tectonics, thin-skinned and thick-skinned, depending on whether or not basement rocks are involved in the deformation. The principle geological environments where thrust tectonics is observed are zones of continental collision, restraining bends on strike-slip faults and as part of detached fault systems on some passive margins.
+
+==Deformation styles==
+In areas of thrust tectonics, two main processes are recognized: thin-skinned deformation and thick-skinned deformation. The distinction is important as attempts to structurally restore the deformation will give very different results depending on the assumed geometry.
+
+===Thin-skinned deformation===
+Thin-skinned deformation refers to shortening that only involves the sedimentary cover. This style is typical of many fold and thrust belts developed in the foreland of a collisional zone. This is particularly the case where a good basal decollement exists such as salt or a zone of high pore fluid pressure.
+
+===Thick-skinned deformation===
+Thick-skinned deformation refers to shortening that involves basement rocks rather than just the overlying cover. This type of geometry is typically found in the hinterland of a collisional zone.  This style may also occur in the foreland where no effective decollement surface is present or where pre-existing extensional rift structures may be inverted.
+
+==Geological environments associated with thrust tectonics==
+
+===Collisional zones===
+The most significant areas of thrust tectonics are associated with destructive plate boundaries leading to the formation of orogenic belts. The two main types are: the collision of two continental tectonic plates (for example the Arabian and Eurasian plates, which formed the Zagros fold and thrust belt) and collisions between a continent and an island arc such as that which formed Taiwan.
+
+===Restraining bends on strike-slip faults===
+When a strike-slip fault is offset along strike such that the resulting bend in the fault hinders easy movement, e.g. a right stepping bend on a sinistral (left-lateral) fault, this will cause local shortening or transpression. Examples include the 'Big Bend' region of the San Andreas fault,Rust, D. 1998. Contractional and extensional structures in the transpressive ‘Big Bend’ of the San Andreas fault, southern California. Geological Society, London, Special Publications; 135; p. 119-126 and parts of the Dead Sea Transform.Gomez, F., Nemer, T., Tabet, C., Meghraoui, M. & Barazangi, M. 2007. Strain partitioning of active transpression within the Lebanese restraining bend of the Dead Sea Fault (Lebanon and SW Syria). Geological Society, London, Special Publications; 290; 285–303
+
+===Passive margins=== 
+Passive margins are characterised by large prisms of sedimentary material deposited since the original break-up of a continent associated with formation of a new spreading centre. This wedge of material will tend to spread under gravity and, where an effective detachment layer is present such as salt, the extensional faulting that forms at the landward side will be balanced at the front of the wedge by a series of toe-thrusts. Examples include the outboard part of the Niger delta (with an overpressured mudstone detachment)Bilotti, F. & Shaw, J.H. 2005. Deep-water Niger Delta fold and thrust belt modeled as a critical taper wedge: The influence of elevated basal fluid pressure on structural styles. AAPG Bulletin; 89; 11; 1475–1491 and the Angola margin (with a salt detachment).Marton, G, & Schoenborn, G. 2008. Salt Tectonics of the Continent-Ocean Transition, Deep-Water Angola. MAPG conference abstract
+

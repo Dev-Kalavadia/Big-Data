@@ -1,0 +1,259 @@
+Title: Romic alphabet
+
+The Romic Alphabet, sometimes known as the Romic Reform, is a phonetic alphabet proposed by Henry Sweet. It descends from Ellis's Palaeotype alphabet and English Phonotypic Alphabet, and is the direct ancestor of the International Phonetic Alphabet. In Romic every sound had a dedicated symbol, and every symbol represented a single sound. There were no capital letters; there were letters derived from small capitals, though these were distinct letters.
+
+There were two variants, Broad Romic and Narrow Romic. Narrow Romic utilized italics to distinguish fine details of pronunciation; Broad Romic was cruder, and in it the vowels had their English "short" sounds when written singly, and their "long" sounds when doubled:
+
+
+
+Sweet adopted from Ellis and earlier philologists a method creating new letters by rotating existing ones, as in this way no new type would need to be cast:
+
+
+
+The IPA letter  acquired its modern pronunciation and first use with this alphabet. He resurrected three Anglo-Saxon letters, ash , eth  and thorn , the first two of which had the pronunciations they retain in the IPA.
+
+==Tables==
+===Consonants===
+The consonants were as follows by 1892:Henry Sweet, A Primer of Phonetics, Clarendon Press, 1892.
+{| border=1 cellspacing=0 cellpadding=3 class="IPA wikitable" style="text-align:center; font-size:larger;"
+|- style="font-size: x-small;vertical-align:top;"
+!  
+! Lab.
+! Lab-D.
+! Dent.
+! Alv.
+! Palv.
+! Pal.
+! Velar
+! Labv.
+! Phar.
+! Glot.
+|-
+! style="font-size:x-small" | Nasal
+| mh  ·  m
+|  
+|  
+| nh  ·  n
+|  
+| ñh  ·  ñ
+| ŋh  ·  ŋ
+|  
+|  
+|  
+|-
+! style="font-size:x-small" | Plosive
+| p  ·  b
+|  
+|  
+| t  ·  d
+|  
+| c  ·  ɟ
+| k  ·  g
+|  
+|  
+| (ʼ)?
+|-
+! style="font-size:x-small" | Fric./approx.
+| ϕ  ·  β
+| f  ·  v
+| þ  ·  ð
+| s  ·  z
+| ʃ  ·  ʒ
+| ç  ·  j
+| x  ·  ᵹ
+| ʍ  ·  w
+| ɹh  ·  ɹ
+| h  · 
+|-
+! style="font-size:x-small" | Lateral
+|  
+|  
+|  
+| lh  ·  l
+|  
+| λh  ·  λ
+| ꞁh  ·  ꞁ
+|  
+|  
+|  
+|-
+! style="font-size:x-small" | Rhotic
+|  
+|  
+|  
+| rh  ·  r
+|  
+|  
+|  
+|  
+|  
+|}
+
+ were eventually replaced with  in the IPA. was principally used for dark (velarized) , which Sweet analyzed as a velar sound. Apart from Sweet's use of italic h for voicelessness, the rest of the alphabet continues intact in the modern IPA.
+
+===Vowels===
+The vowels were as follows by 1892.
+
+In "wide" vowels, the tongue is described as relaxed and flattened; in "narrow", it is tense and more convex. This corresponds to descriptions of vowels as lax and tense. Lax vowels are indicated by italic type. In the case of the mid back unrounded vowel , the description of its place of articulation does not accord well with some of the words given as examples. Sweet described vowels as narrowed with the tongue raised as in high vowels, but the jaw open as in low vowels. This conflicts with the presentation of the IPA, in which high and close are synonymous, as are low and open. Other than the back unrounded vowels and the value of  for IPA  (but also for English bird, in broad notation), Sweet's notation is essentially that of the IPA.
+
+{| class="IPA wikitable" style="text-align:center; font-size:larger;"
+|+ style="font-size:x-small" | Tense vowels(italicize for lax vowels)
+!
+! style="font-size:x-small" | Front
+! style="font-size:x-small" | Central
+! style="font-size:x-small" | Back
+|-
+! style="font-size:x-small" | High
+| width=40 | i · y
+| width=40 | ï · ü
+| width=40 | ʌ · u
+|-
+! style="font-size:x-small" | Mid
+| e · ə
+| ë · ö
+| a· o
+|-
+! style="font-size:x-small" | Low
+| æ · œ
+| ä · ɔ̈
+| ɐ · ɔ
+|}
+
+Italic a takes its traditional shape, which would later be made distinct in the IPA. That is, italic a was , and italic ɐ, . Long vowels are written double. Nasal vowels with an italic nasal consonant letter, such as  or (for French) .
+
+These are defined by Sweet as:
+:: French , : German , Scots , : Swedish 
+:: French , : French , : Swedish 
+:: Welsh , : German , : English sir
+:: Norwegian , ...
+:: Gaelic ,This is indeed a high back unrounded vowel  in Scottish Gaelic. : English but,In broad transcription, Sweet used  for French  and Northern German  and, as long , for English father and German , while he used  for English come, which has the same vowel as but (see next symbol) – essentially the same as the usage of these letters in the IPA. However, these transcriptions may be remnants of his earlier sound values for these letters – see #History. : Cockney park
+:: French , Scots , : German , : English law
+
+The lax vowels are defined by Sweet as:
+:: English bit, : English men, : English man
+:: French , : (German  is overrounded œ)
+:: English pretty, : start of English eye, better, : start of English how, Portuguese 
+:: English value, : French 
+:: English father, : Swedish 
+:: English put, : German , English boy, : English not
+
+== History ==
+The 1877 version of the Romic alphabet differed rather substantially from the 1892 version. It was very similar to Ellis's Paleotype.
+
+===Vowels===
+Central vowels were indicated with a non-italic 'h' rather than a diaeresis, with regular  for later irregular .
+
+The unrounded back vowels were irregular in their composition, in that laxness was not indicated by italicizing, which was used instead for the low vowels. They were (tense) high , mid  (English but), low  and (lax) high , mid  (English father) and low  (Scots ).
+
+ was used for the unstressed English schwa. It was not listed in the vowel chart because it was not considered to have any particular articulation, being merely an independent element of voicing (what Sweet called a 'glide vowel'), and the voiced equivalent of unarticulated  (which would later become ).  is an open glottis,  (or ) a whispery glottis.
+
+Nasal vowels were indicated with a following italic 𝑛, the French "guttural" nasals with a following italic 𝑞, as in  and .
+
+Vowel length was indicated with a following  rather than doubling, as in  (or extra-long ).
+
+Reduced or barely pronounced sounds were marked by brackets, so .
+
+Indices were used to avoid complex detail when it would be understood, as  for English diphthongal 
+
+===Consonants===
+Glottal stop was x, the velar nasal q. Digraphs were used where later Sweet would use distinct characters.
+
+{| border=1 cellspacing=0 cellpadding=3 class="IPA wikitable" style="text-align:center; font-size:larger;"
+|- style="font-size: x-small;vertical-align:top;"
+!  
+! Lab.
+! Lab-D.
+! Dent.
+! Alv.
+! Palv.
+! Pal.
+! Velar
+! Labv.
+! Phar.
+! Glot.
+|-
+! style="font-size:x-small" | Nasal
+| mh · m
+|  
+|  
+| nh · n
+|  
+| ɴh · ɴ
+| qh · q
+|  
+|  
+|  
+|-
+! style="font-size:x-small" | Plosive
+| p · b
+|  
+|  
+| t · d
+|  
+| ᴛ · ᴅAlthough specifically palatal in the explanation of symbols in the table. Although  and  are elsewhere defined as palatalized  and , contrasting with  and  for palatalized  and , here Sweet notes that palatal  and  are merely likely to be confounded with the palatalized sounds.
+| k · g
+|  
+|  
+| x
+|-
+! style="font-size:x-small" | Fric./approx.
+| ph · bh
+| f · v
+| th · dh
+| s · zrh · r
+| sh · zh
+| jh · j
+| kh · gh
+| wh · w
+| ʀh · ʀ
+| ʜ · ʌ
+|-
+! style="font-size:x-small" | Lateral
+|  
+|  
+|  
+| lh · l
+|  
+| ʟh · ʟ
+| h · 
+|  
+|  
+|  
+|}
+
+ and  (IPA [h] and [ə]) might both be considered vowels, without any particular place of articulation, though at least [h] can sometimes behave as a glottal consonant.
+
+English ch and j sounds were written  and .  was specifically an English .
+
+====Modifications of consonants====
+Consonants took diacritics for fronting, as in dental ,Though the dental fricative was simply , without a diacritic. or retraction, as in uvular , retroflection, as in , and protrusion, as in interdental .
+
+Where the IPA uses superscript letters for secondary articulation, Sweet used italics. Labialization and palatalization were indicated by a following italic  and . An italic  was used for trills, e.g. Italian  (and voiceless Welsh ), German , bilabial , and epiglottal  and   as in Arabic ain and heth.
+
+Aspiration was marked with . (This was not italicized, but would be later when replaced with h.) Whispered sounds were marked e.g. .
+
+Simultaneous articulation was marked with *, as in .
+
+As with vowels, barely articulated or pronounced consonants were set off with [brackets].
+
+Much of the notation for phonetic detail may have carried over into later versions.
+
+===Stress and pitch===
+Stress is indicated with a  placed after the onset of the syllable, as in  'try' ( 'a try' vs  'at Rye'). Extra stress was marked with doubled , half stress with . Increasing, level, and decreasing stress (illustrated with the letter 'a') were , ,  respectively.
+
+Tone and intonation were indicated with iconic symbols such as rising , falling , level , rising-falling , etc., as in early IPA usage.
+
+== See also ==
+*History of the IPA
+
+== Bibliography ==
+* Sweet, Henry. (1877) A Handbook of Phonetics, Including a Popular Exposition of the Principles of Spelling Reform, Oxford: Clarendon Press. (on archive.org)
+
+==External links==
+* Henry Sweet's Romic alphabet reform
+
+==Notes==
+
+
+Category:Phonetic alphabets
+Category:English spelling reform

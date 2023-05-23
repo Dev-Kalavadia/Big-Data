@@ -1,0 +1,203 @@
+Title: EHF Women's Champions Trophy
+The EHF Women's Champions Trophy was an official competition for women's handball clubs of Europe.
+
+==History==
+It was organized annually by the European Handball Federation (EHF) from 1994 to 2008. Until 2007 it was known as the Women's European Club Championship or the Super Cup. In 2008 was the last edition.
+
+The Champions Trophy was played as a four team tournament between the winners of the Champions League, EHF Cup and Cup Winners' Cup plus an additional invited club.
+
+==Winners==
+{| border=1 style="border-collapse:collapse; font-size:90%;" cellpadding=3 cellspacing=0 width=100%
+|- bgcolor=#C1D8FF
+!rowspan=2 width=5%|Year
+!width=1% rowspan=17 bgcolor=ffffff|
+!colspan=3|Final
+!width=1% rowspan=17 bgcolor=ffffff|
+!colspan=3|Third place match
+|- bgcolor=#EFEFEF
+!width=15%|Champion
+!width=10%|Score
+!width=15%|Second place
+!width=15%|Third place
+!width=10%|Score
+!width=15%|Fourth place
+|- align=center bgcolor=#F5FAFF
+|1994Details
+|Hypo Niederösterreich
+| 25–23
+|TuS Walle Bremen
+|
+|
+|
+|- align=center bgcolor=#D0E7FF
+|1995Details
+|Rotor Volgograd
+| 27–21
+|DVSC-Aquaticum
+|Hypo Niederösterreich
+| 29–25
+|Dunaferr NK
+|- align=center bgcolor=#F5FAFF
+|1996Details
+|Podravka Dolcela
+| 22–21
+|TV Giessen-Lützellinden
+|Silcotub Zalău
+| 23–14
+|Debreceni VSC
+|- align=center bgcolor=#D0E7FF
+|1997Details
+|Mar Valencia
+|27–25
+|Istochnik Rostov
+|Robit Olimpija Ljubljana
+|33–32
+|Frankfurter HC
+|- align=center bgcolor=#F5FAFF
+|1998Details
+|Ikast F.S.
+|25–24
+|Baekkelagets Oslo
+|Dunaferr SE
+|28–23
+|Hypo Niederösterreich
+|- align=center bgcolor=#D0E7FF
+|1999Details
+| Dunaferr SE
+|28–27
+|Baekkelagets Oslo
+|Krim Electa NR Ljubljana
+|34–27
+| Viborg HK
+|- align=center bgcolor=#F5FAFF
+|2000Details
+|Hypo Niederösterreich
+|27–24
+|Volgograd AKVA
+|Ferrobus KU Mislata
+|32–23
+| CS Rapid CFR București
+|- align=center bgcolor=#D0E7FF
+|2001Details
+|Viborg HK A/S
+|23–22
+|Motor Zaporizhzhia
+|RK Krim Neutro Roberts
+|34–21
+|Nordstrand 2000, Oslo
+|- align=center bgcolor=#F5FAFF
+|2002Details
+| Kometal Gjorce Petrov Skopje
+|30–28
+|Ikast-Bording EH
+|HERZ – FTC Budapest
+|27–23
+| HC Lada Toljatti
+|- align=center bgcolor=#D0E7FF
+|2003Details
+|Krim Ljubljana
+|33–28
+|Slagelse FH
+|Ikast-Bording EH
+|23–22
+|ESBF Besançon
+|- align=center bgcolor=#F5FAFF
+|2004Details
+|Krim Ljubljana
+|34–25
+|Hypo Niederösterreich
+|HC Leipzig
+|27–26
+|Kometal Gjorce Petrov Skopje
+|-align=center
+|2005
+| colspan=3|Not held
+| colspan=3|Not held
+|- align=center bgcolor=#D0E7FF
+|2006Details
+|Viborg HK 
+|31–26
+|RK Krim Mercator Ljubljana
+|ZRK Buducnost MONET 
+|30–25
+|FTC Budapest
+|- align=center bgcolor=#F5FAFF
+|2007Details
+|CS Oltchim Râmnicu Vâlcea
+|23–19
+|Zvezda Zvenigorod
+|Slagelse DT
+|35–34
+| HC Lada Togliatti
+|- align=center bgcolor=#D0E7FF
+|2008Details
+|Zvezda Zvenigorod
+|28–27
+|Hypo Niederösterreich
+|Larvik HK
+|28–24
+|HC Dinamo Volgograd
+|}
+
+==Statistics==
+=== By country ===
+{| class="wikitable" style="text-align:center" width=30%
+! Country !! width=5%| 1st !! width=5%| 2nd !! width=5%| 3rd !! width=5%| 4th !! width=15%| Total
+|-
+| style="text-align:left"|  Denmark
+| 3 || 2 || 2 || 1 || 8
+|-
+| style="text-align:left"|  Russia
+| 2 || 3 || 0 || 3 || 8
+|-
+| style="text-align:left"|  Austria
+| 2 || 2 || 1 || 1 || 6
+|-
+| style="text-align:left"|  Slovenia
+| 2 || 1 || 3 || 0 || 6
+|-
+| style="text-align:left"|  Hungary
+| 1 || 1 || 2 || 3 || 7
+|-
+| style="text-align:left"|  Romania
+| 1 || 0 || 1 || 1 || 3
+|-
+| style="text-align:left"|  Spain
+| 1 || 0 || 1 || 0 || 2
+|-
+| style="text-align:left"|  Macedonia
+| 1 || 0 || 0 || 1 || 2
+|-
+| style="text-align:left"|  Croatia
+| 1 || 0 || 0 || 0 || 1
+|-
+| style="text-align:left"|  Norway
+| 0 || 2 || 1 || 1 || 4
+|-
+| style="text-align:left"|  Germany
+| 0 || 2 || 1 || 1 || 4
+|-
+| style="text-align:left"|  Ukraine
+| 0 || 1 || 0 || 0 || 1
+|-
+| style="text-align:left"|  Montenegro
+| 0 || 0 || 1 || 0 || 1
+|-
+| style="text-align:left"|  France
+| 0 || 0 || 0 || 1 || 1
+|}
+
+== References ==
+
+
+*
+
+
+
+
+
+ 
+Category:European Handball Federation competitions
+Category:Women's handball competitions
+Category:Recurring sporting events established in 1994
+Category:Recurring sporting events disestablished in 2008

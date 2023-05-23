@@ -1,0 +1,52 @@
+Title: Kristall
+
+
+
+The Kristall () (77KST, TsM-T, 11F77T) module was the fourth module and the third major addition to Mir. As with previous modules, its configuration was based on the 77K (TKS) module, and was originally named "Kvant 3". It was launched on May 31, 1990 on Proton-K. It docked to Mir autonomously on June 10, 1990.
+
+==Description==
+thumb|left|250px|Isolated view of Kristall
+Kristall had several materials processing furnaces. They were called Krater 5, Optizon 1, Zona 2, and Zona 3. It also had a biotechnology experiment called the Aniur electrophoresis unit. These experiments were capable of generating 100 kg of raw materials for use on Earth. Located in the docking node was the Priroda 5 camera which was used for Earth resources experiments. Kristall also had several astronomy and astrophysics experiments which were designed to augment experiments that were already located in Kvant-1. Kristall's solar panels were also different from others on Mir. They were designed to be "collapsible" which means that they could be deployed and retracted several times. One of Kristall's solar panels was removed and re-deployed on Kvant-1 in 1995. That solar panel was later disposed of in November, 1997. Kristall also carried six gyrodines for attitude control and to augment those already on the station. The control system of Kristall was developed by the JSC "Khartron"Krivonosov, Khartron: Computers for rocket guidance systems (Kharkiv, Ukraine).
+
+List of experiments:
+
+* Ainur electrophoresis unit
+* Krater 5, Optizon 1, and CSK-1/Kristallizator semiconductor materials processing furnaces
+* Zona 2/3  materials processing furnaces
+* Buket gamma-ray spectrometer
+* Glazar 2 UV telescope - cosmic radiation studies
+* Granar astrophysics spectrometer
+* Marina gamma ray telescope
+* Mariya magnetic spectrometer
+* Priroda 5 Earth resources camera system - consists of 2 KFA-1000 film cameras
+* Svet plant cultivation unit
+
+==Relation to Buran and Space Shuttle programs==
+thumb|APAS-89 docking mechanisms on Kristall
+thumb|Cut-way view of Kristall
+The most notable feature of Kristall was its relation to the Soviet Buran program. Kristall carried two APAS-89 designed to be compatible with the Buran shuttle. One unit was located axially and the other was located radially. After the cancellation of the Buran program in 1993, the lateral docking port found use for the Shuttle-Mir Program. The radial port was never used. The axial port was tested by the modified Soyuz TM-16 spacecraft in 1993 in preparation for Shuttle dockings. On May 26, 1995, Kristall was moved from the -Y port on the Mir base block to the -X port. It was then moved on May 30 to -Z port in preparation for the arrival of the Spektr module. On June 10, Kristall was moved back to -X port to prepare for the upcoming Shuttle docking. The first Space Shuttle docking occurred in 1995 during STS-71 by the . On July 17, 1995, Kristall was moved one last time to its permanent position at the -Z port. For Buran dockings, the entire procedure of moving Kristall would have to be used.
+
+On STS-74, the next Shuttle docking, Atlantis carried a docking module that was attached to Kristall. This allowed future Shuttle dockings to be carried out without the module rearrangement that had needed previously.
+
+== References ==
+
+
+==External links==
+
+
+*Russian Space Web
+*Encyclopedia Astronautica
+*Gunter's Space Page - information on Kristall
+
+
+
+
+
+
+
+Category:Mir
+Category:1990 in the Soviet Union
+Category:Buran program
+Category:Crewed space observatories
+Category:Spacecraft which reentered in 2001
+Category:Spacecraft launched in 1990

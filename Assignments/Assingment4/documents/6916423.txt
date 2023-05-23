@@ -1,0 +1,948 @@
+Title: List of mergers and acquisitions by Yahoo!
+thumb|Yahoo! logo
+Yahoo! is a computer software and web search engine company founded on March 1, 1995. The company is a public corporation and its headquarters is located in Sunnyvale, California. It was founded by Stanford University graduate students Jerry Yang and David Filo in 1994. According to web traffic analysis companies, Yahoo has been one of the most visited websites on the Internet, with more than 130 million unique users per month in the United States alone. As of October 2007, the global network of Yahoo receives 3.4 billion page views per day on average, making it one of the most visited US websites.
+
+Yahoo's first acquisition was the purchase of Net Controls, a web search engine company, in September 1997 for US$1.4 million. As of April 2008, the company's largest acquisition is the purchase of Broadcast.com, an Internet radio company, for $5.7 billion, making Broadcast.com co-founder Mark Cuban a billionaire. Most of the companies acquired by Yahoo are based in the United States; 78 of the companies are from the United States, and 15 are based in a foreign country. As of July 2015, Yahoo has acquired 114 companies, with Polyvore being the latest.
+
+
+__TOC__
+
+==Acquisitions==
+{| class="wikitable sortable"
+|-
+! style="width:120px;" | Date
+! Company
+! Business
+! Country
+! Value (USD)
+! Derived products
+!class="unsortable"|References
+|-
+| 
+| Net Controls
+| Web search engine
+| 
+|align="right"|$
+| Yahoo! Search
+| style="text-align:center;"|
+|-
+| 
+| Four11
+| Web-based email
+| 
+|align="right"|$
+| Yahoo! Mail
+| style="text-align:center;"|
+|-
+| 
+| Classic Games
+| Online game
+| 
+| style="text-align:center;"|—
+| Yahoo! Games
+| style="text-align:center;"|
+|-
+| 
+| Sportasy
+| Fantasy sport
+| 
+| style="text-align:center;"|—
+| Yahoo! Fantasy Sports
+| style="text-align:center;"|
+|-
+| 
+| Viaweb
+| Web application
+| 
+|align="right"|$
+| Yahoo! Store
+| style="text-align:center;"|
+|-
+| 
+| Webcal
+| Calendaring software
+| 
+|align="right"|$
+| Yahoo Calendar
+| style="text-align:center;"|
+|-
+| 
+| Yoyodyne
+| Direct marketing
+| 
+|align="right"|$
+| Yahoo! Search Marketing
+| style="text-align:center;"|
+|-
+| 
+| Hyperparallel
+| Data analysis
+| 
+|align="right"|$
+| Yahoo! Search
+| style="text-align:center;"|
+|-
+| 
+| Broadcast.com
+| Internet radio
+| 
+|align="right"|$
+| Yahoo! Music Radio (defunct)
+| style="text-align:center;"|
+|-
+| 
+| Encompass
+| Internet service provider
+| 
+|align="right"|$
+| Yahoo!
+| style="text-align:center;"|
+|-
+| 
+| GeoCities
+| Web hosting service
+| 
+|align="right"|$
+| Yahoo! GeoCities
+| style="text-align:center;"|
+|-
+| 
+| Online Anywhere
+| Content delivery network
+| 
+|align="right"|$
+| Yahoo! TV
+| style="text-align:center;"|
+|-
+| 
+| Arthas.com
+| E-commerce payment systems
+| 
+| style="text-align:center;"|—
+| Yahoo! Store
+| style="text-align:center;"|
+|-
+| 
+| MyQuest
+| Internet service provider
+| 
+| style="text-align:center;"|—
+| Yahoo!
+| style="text-align:center;"|
+|-
+| 
+| VivaSmart
+| E-commerce
+| 
+|align="right"|$
+| Yahoo! Shopping
+| style="text-align:center;"|
+|-
+| 
+| eGroups
+| Electronic mailing list
+| 
+|align="right"|$
+| Yahoo! Groups
+| style="text-align:center;"|
+|-
+| 
+| 
+| Web portal
+| 
+|align="right"|$
+| Yahoo! Kimo
+| style="text-align:center;"|
+|-
+| 
+| Sold.com.au
+| Online auction tools
+| 
+|align="right"|$
+| Yahoo! Shopping
+| style="text-align:center;"|
+|-
+| 
+| LAUNCH Media
+| Online music store
+| 
+|align="right"|$
+| Yahoo! Music
+| style="text-align:center;"|
+|-
+| 
+| Hotjobs.com
+| Job search engine
+| 
+|align="right"|$
+| Yahoo! HotJobs
+| style="text-align:center;"|
+|-
+| 
+| Inktomi Corporation
+| Internet service provider
+| 
+|align="right"|$
+| Yahoo! Search
+| style="text-align:center;"|
+|-
+| 
+| Overture Services, Inc.
+| Search engine marketing
+| 
+|align="right"|$
+| Yahoo! Search Marketing
+| style="text-align:center;"|
+|-
+| 
+| 3721 Internet Assistant
+| Browser helper object
+| 
+|align="right"|$
+| Yahoo! Assistant
+| style="text-align:center;"|
+|-
+| 
+| Kelkoo
+| Price comparison service
+| 
+|align="right"|$
+| Kelkoo
+| style="text-align:center;"|
+|-
+| 
+| Oddpost
+| Web-based email
+| 
+|align="right"|$
+| Yahoo! Mail
+| style="text-align:center;"|
+|-
+| 
+| Musicmatch Jukebox
+| Audio player
+| 
+|align="right"|$
+| Yahoo! Music
+| style="text-align:center;"|
+|-
+| 
+| The All-Seeing Eye
+| Game server browser
+| 
+| style="text-align:center;"|—
+| Yahoo! Games
+| style="text-align:center;"|
+|-
+| 
+| Stata Labs
+| Web-based email
+| 
+| style="text-align:center;"|—
+| Yahoo! Mail
+| style="text-align:center;"|
+|-
+| 
+| WUF Networks
+| Mobile media
+| 
+| style="text-align:center;"|—
+| Yahoo! Mobile
+| style="text-align:center;"|
+|-
+| 
+| Verdisoft
+| Wireless data sharing
+| 
+|align="right"|$
+| Yahoo! Mobile
+| style="text-align:center;"|
+|-
+| 
+| Stadeon
+| Online game
+| 
+| style="text-align:center;"|—
+| Yahoo! Games
+| style="text-align:center;"|
+|-
+| 
+| Ludicorp
+| Image hosting service
+| 
+|align="right"|$
+| Flickr
+| style="text-align:center;"|
+|-
+| 
+| TeRespondo
+| Advertising network
+| 
+| style="text-align:center;"|—
+| Yahoo! Search Marketing
+| style="text-align:center;"|
+|-
+| 
+| Dialpad
+| Voice over Internet Protocol
+| 
+| style="text-align:center;"|—
+| Yahoo! Voice
+| style="text-align:center;"|
+|-
+| 
+| blo.gs
+| Weblog software
+| 
+| style="text-align:center;"|—
+| Yahoo! 360°
+| style="text-align:center;"|
+|-
+| 
+| Konfabulator
+| Widget engine
+| 
+| style="text-align:center;"|—
+| Yahoo! Widgets
+| style="text-align:center;"|
+|-
+| 
+| Upcoming.org
+| Calendaring software
+| 
+| style="text-align:center;"|—
+| Yahoo! Local
+| style="text-align:center;"|
+|-
+| 
+| Whereonearth
+| Web mapping
+| 
+| style="text-align:center;"|—
+| Yahoo! Search Marketing
+| style="text-align:center;"|
+|-
+| 
+| del.icio.us
+| Social bookmarking
+| 
+|align="right"|$
+| del.icio.us
+| style="text-align:center;"|
+|-
+| 
+| Webjay
+| Online music store
+| 
+| style="text-align:center;"|—
+| Yahoo! Music
+| style="text-align:center;"|
+|-
+| 
+| SearchFox
+| Web search engine
+| 
+| style="text-align:center;"|—
+| Yahoo! Search
+| style="text-align:center;"|
+|-
+| 
+| Meedio
+| Digital video recorder
+| 
+| style="text-align:center;"|—
+| Yahoo! Go
+| style="text-align:center;"|
+|-
+| 
+| Jumpcut.com
+| Online video editing
+| 
+| style="text-align:center;"|—
+| Yahoo! Video
+| style="text-align:center;"|
+|-
+| 
+| AdInterax
+| Online advertising
+| 
+| style="text-align:center;"|—
+| Yahoo! Search Marketing
+| style="text-align:center;"|
+|-
+| 
+| Bix.com
+| Social media
+| 
+| style="text-align:center;"|—
+| Bix
+| style="text-align:center;"|
+|-
+| 
+| Kenet Works
+| Mobile software
+| 
+|align="right"|$
+| Yahoo! Mobile
+| style="text-align:center;"|
+|-
+| 
+| Wretch
+| Virtual community
+| 
+|align="right"|$
+| Wretch
+| style="text-align:center;"|
+|-
+| 
+| MyBlogLog
+| Social network service
+| 
+| style="text-align:center;"|—
+| MyBlogLog
+| style="text-align:center;"|
+|-
+| 
+| Right Media
+| Online advertising
+| 
+|align="right"|$
+| Yahoo! Search Marketing
+| style="text-align:center;"|
+|-
+| 
+| Rivals.com
+| College sports
+| 
+| style="text-align:center;"|—
+| Yahoo! Sports
+| style="text-align:center;"|
+|-
+| 
+| BlueLithium
+| Advertising network
+| 
+|align="right"|$
+| Yahoo! Search Marketing
+| style="text-align:center;"|
+|-
+| 
+| BuzzTracker
+| News site
+| 
+| style="text-align:center;"|—
+| Yahoo! News
+| style="text-align:center;"|
+|-
+| 
+| Zimbra
+| Collaborative software
+| 
+|align="right"|$
+| Zimbra
+| style="text-align:center;"|
+|-
+| 
+| FoxyTunes
+| Browser extension
+| 
+| style="text-align:center;"|—
+| FoxyTunes
+| style="text-align:center;"|
+|-
+| 
+| Maven Networks
+| Video on demand
+| 
+|align="right"|$
+| Yahoo! Video
+| style="text-align:center;"|
+|-
+| 
+| Inquisitor
+| Browser extension
+| 
+| style="text-align:center;"|—
+| Inquisitor
+| style="text-align:center;"|
+|-
+| 
+| Xoopit
+| Webmail applications
+| 
+|align="right"|$
+| Yahoo! Mail
+| style="text-align:center;"|
+|-
+| 
+| Maktoob.com
+| Social media
+| 
+|align="right"|$
+| Maktoob.com
+| style="text-align:center;"|
+|-
+| 
+| citizensports.com
+| Sports social media
+| 
+| style="text-align:center;"|—
+| citizensports.com
+| style="text-align:center;"|
+|-
+| 
+| Associated Content
+| Content farm
+| 
+| style="text-align:right;"|$
+| Associated Content
+| style="text-align:center;"|
+
+|-
+| 
+| Koprol
+| Geosocial network
+| 
+| style="text-align:center;"|—
+| Koprol
+| style="text-align:center;"|
+|-
+| 
+| Dapper
+| SmartAds
+| 
+|align="right"|$
+| Dapper
+| style="text-align:center;"|
+|-
+| 
+| Spreets
+| Daily deals
+| 
+|align="right"|$
+| Spreets
+| style="text-align:center;"|
+|-
+| 
+| IntoNow
+| Recognize TV content
+| 
+|align="right"|$
+| IntoNow
+| style="text-align:center;"|
+|-
+| 
+| Interclick
+| Data driven advertising
+| 
+|align="right"|$
+| Yahoo! Ad Network
+| style="text-align:center;"|
+|-
+| 
+| Stamped
+| Social recommendation
+| 
+| style="text-align:center;"|—
+| Yahoo! Mobile
+| style="text-align:center;"|
+|-
+| 
+| OnTheAir
+| OnTheAir
+| 
+| style="text-align:center;"|—
+| IntoNow
+| style="text-align:center;"|
+|-
+| 
+| Snip.it
+| Social network
+| 
+|align="right"|$
+| Snip.it
+| style="text-align:center;"|
+|-
+| 
+| Alike
+| Social recommendation
+| 
+| style="text-align:center;"|—
+| Yahoo! Mobile
+| style="text-align:center;"|
+|-
+| 
+| Jybe
+| Social recommendation
+| 
+| style="text-align:center;"|—
+| Jybe
+| style="text-align:center;"|
+|-
+| 
+| Summly
+| News aggregation, summarization
+| 
+|align="right"|$
+| Yahoo App
+| style="text-align:center;"|
+|-
+| 
+| Astrid
+| Productivity
+| 
+| style="text-align:center;"|—
+| Astrid
+| style="text-align:center;"|
+|-
+| 
+| GoPollGo
+| Real-time surveys
+| 
+| style="text-align:center;"|—
+| Yahoo Mobile Properties and Apps
+| style="text-align:center;"|
+|-
+| 
+| MileWise
+| Flight rewards management
+| 
+| style="text-align:center;"|—
+| Yahoo Mobile Properties and Apps
+| style="text-align:center;"|
+|-
+| 
+| Loki Studios
+| Mobile gaming
+| 
+| style="text-align:center;"|—
+| Yahoo Mobile Properties and Apps
+| style="text-align:center;"|
+|-
+| 
+| Tumblr
+| Blogging
+| 
+|align="right"|$
+| 
+| style="text-align:center;"|
+|-
+| 
+| PlayerScale
+| Online gaming
+| 
+| style="text-align:center;"|—
+| Yahoo Mobile Properties and Apps
+| style="text-align:center;"|
+|-
+| 
+| GhostBird Software
+| Mobile photography apps
+| 
+| style="text-align:center;"|—
+| Yahoo Mobile Properties and Apps
+| style="text-align:center;"|
+|-
+| 
+| Rondee
+| Video conferencing
+| 
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+| Bignoggins Productions
+| Fantasy sports
+| 
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+| Qwiki
+| Automated video production
+| 
+|align="right"|$
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+|  Xobni
+| CRM
+| 
+|align="right"|$
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+|  Ztelic
+| Social analytics
+| 
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+|  Lexity
+| E-commerce analytics
+| 
+| style="text-align:right;"|$
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+|  Rockmelt
+| News aggregator
+| 
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+|  IQ Engines
+| Image recognition
+| 
+| style="text-align:center;"|—
+| style="text-align:center;"|Flickr
+| style="text-align:center;"|
+|-
+| 
+|  Hitpost
+| Sports
+| 
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+|  Bread
+| Advertising
+| 
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+|  LookFlow
+| Image recognition
+| 
+| style="text-align:center;"|—
+| style="text-align:center;"|Flickr
+| style="text-align:center;"|
+|-
+| 
+|  SkyPhrase
+| Natural language processing
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+|  Ptch
+| Video sharing
+| 
+| style="text-align:right;"|$
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+|  EvntLive
+| Live and on-demand music playing
+| 
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+|  Quik.io
+| Cross-platform video streaming
+| 
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+| PeerCDN
+| Content delivery network
+| 
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+| Aviate
+|  Intelligent homescreen for the Android OS
+| 
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+|  SPARQ
+| Mobile marketing
+| 
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"| 
+|-
+| 
+|  Cloud Party
+| Virtual world gaming
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"| 
+|-
+| 
+|  Tomfoolery
+| Conversation platform
+| 
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"| 
+|-
+| 
+|  Incredible Labs
+| Time management app
+| 
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"| 
+|-
+| 
+| Wander
+|  Social diary
+| 
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+|  Distill
+| Technical recruiting
+| 
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+|  Vizify
+|   Social media information transformation
+| 
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+|  Blink
+|   Mobile messaging
+| 
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+|  PhotoDrive
+|   Photo management
+| 
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+|  RayV
+|   Video streaming platform
+| 
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+|  Flurry
+|   Mobile analytics
+| 
+|align="right"|$
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+|  ClarityRay
+| Ad security
+| 
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+|  Luminate
+| Advertising
+| 
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+|  Bookpad
+| Document handling
+| 
+| style="text-align:right;"|$
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+|  MessageMe
+| Messaging app
+| 
+| style="text-align:center;"|—
+| Yahoo! Livetext
+| style="text-align:center;"|
+|-
+| 
+|  BrightRoll
+| Online video advertising
+| 
+|align="right"|$
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+| Cooliris
+| Photo viewing
+| 
+|style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| 
+| Media Group One
+| Advertising and online video
+| 
+|style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+|
+|Polyvore
+|Clothing e-commerce website
+|
+| style="text-align:right;"|$
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|}
+
+== See also ==
+* List of largest mergers and acquisitions
+* Lists of corporate acquisitions and mergers
+
+== References ==
+
+
+
+
+
+
+*
+Yahoo
+*

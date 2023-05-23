@@ -1,0 +1,19 @@
+Title: Lightning (software)
+
+
+
+The Lightning project, announced on December 22, 2004, and   developed by the Mozilla Foundation, produces an extension that adds calendar and scheduling functionality to the Mozilla Thunderbird mail and newsgroup client and SeaMonkey internet suite. Lightning is an iCalendar compatible calendar.
+
+Unlike the discontinued Mozilla Sunbird and Mozilla Calendar extension, Lightning integrates tightly with Thunderbird.Lightning Project Launched to Provide Calendar Features for Mozilla Thunderbird- MozillaZine - MozillaZine article announcing the Lightning project and its aims.
+
+Lightning is available in 32-bit and 64-bit versions for Windows, macOS and Linux, and is installed by default on Thunderbird.
+
+== History ==
+Version 0.9 was the last planned release for Thunderbird 2. A calendar was originally to be fully integrated into Thunderbird 3, but those plans were changed due to concerns with the product's maturity and level of support. Lightning 1.0b2 is compatible with Thunderbird 3.1, Lightning 1.0b5 is compatible with Thunderbird 5 and 6, and Lightning 1.0b7 is compatible with Thunderbird 7. Lightning 1.0 was released to the public on November 7, 2011. It was released alongside Thunderbird 8.0. Following that, every Thunderbird release has been accompanied by a compatible Lightning point release. Lightning finally started shipping with Thunderbird with version 4.0. As of 21 October, 2018, Lightning 5.4 is incompatible with the latest release of Thunderbird 60.2.1.
+
+Sun Microsystems contributed significantly to the Lightning Project to provide users with an alternative free and open-source choice to Microsoft Office by combining OpenOffice.org and Thunderbird with the Lightning Extension. In addition to general bug-fixing, Sun focused on calendar views, team/collaboration features and support for the Sun Java System Calendar Server.Interview On Mozilla Lightning and OpenOffice.org
+
+==See also==
+
+* List of personal information managers
+

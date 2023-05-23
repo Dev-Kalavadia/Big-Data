@@ -1,0 +1,161 @@
+Title: Bonham (band)
+
+
+
+
+
+Bonham was a British rock band founded in 1988 by drummer Jason Bonham, the son of late Led Zeppelin drummer John Bonham. The band's most successful line-up was also its initial one which included late singer Daniel MacMaster, bassist/keyboardist John Smithson, and guitarist Ian Hatton. The band had released four studio albums between 1989 and 1997.
+
+== History ==
+
+In 1989, their debut album The Disregard of Timekeeping topped the rock airplay charts on the success of the single "Wait for You" and helped Bonham garner a gold record from the RIAA in 1990. The band toured extensively for two years, but the impact of such early success on its young members caused a great deal of internal friction. After a lengthy tour, Bonham released their second and final album together, Mad Hatter. Jason Bonham then decided to concentrate on session work and writing new music.
+
+In 1994, Jason Bonham reunited with Ian Hatton and John Smithson from his former band, this time featuring new lead vocalist Marti Frederiksen. This new lineup was known as Motherland. They released one album titled Peace 4 Me. Following the abortive Motherland project, Jason put together the Jason Bonham Band, recruiting lead vocalist Chas West, guitarist Tony Catania, and Smithson on bass and keyboards. Their 1997 album When You See the Sun was produced by ex-Motherland lead vocalist Marti Frederiksen and features backing vocals by Jason's aunt Debbie Bonham on the track "Turning Back the Time".  It was preceded by In the Name of My Father - The Zepset - Live from Electric Ladyland, released by the Bonham / West / Catania / Smithson line-up earlier that same year.
+
+On 16 March 2008, former lead vocalist Daniel MacMaster died at the age of 39 from a Group A streptococcal infection which he thought was a cold and developed sepsis.
+
+Original Bonham vocalist Paul Rafferty, together with fellow Brit Sean Manning, former guitarist for Quiet Riot and Hurricane, released the Led Zeppelin influenced The Exiles album in 1996 under the name Sean Manning & Paul Rafferty. He has since retired from music and become a respected painter based in the South of France, California and London. Rafferty guested with guitarist Joe Bonamassa at several stops during the 2009 The Ballad of John Henry tour, including the Nice Jazz Festival, and again the following year on the Black Rock tour, including the show in Zagreb, Croatia.
+
+=== Post-Bonham bands and projects ===
+
+Bonham appeared in the movies in 2000 as part of the fictitious band Steel Dragon fronted by actor Mark Wahlberg in the film Rock Star (also known as Metal God). His partners in this project were Dokken bassist Jeff Pilson and Ozzy Osbourne guitarist Zakk Wylde.
+
+Bonham joined American act Healing Sixes in 2000. Healing Sixes was based in Indianapolis, IN.  Their Manager Rick Hudnall  arranged a two-week tour for them opening for The Jason Bonham Band. That tour was through the Midwest. Hudnall says "I noticed as the tour went on Jason would spend more and more time in the back of the venues watching and listening to Healing Sixes as opening set. That led to an impromptu jam with the band's vocalist Doug Henthorn, guitarist Eric Saylors and bassist Chaz Winzenread. It went so well that about two songs into it Jason asked to join Healing Sixes. Together they went on to record an album "Enormosound" on Corazong Records. It was recorded at The Hit Factory in New York City and produced by Kevin "Caveman" Shirley.  Album cover art was done by Storm Thorgerson.
+
+Since making his studio debut on When You See the Sun with the Jason Bonham Band, vocalist Chas West has recorded with 3 Legged Dogg and Resurrection Kings,  both featuring Vinny Appice of Black Sabbath and Dio fame, Tribe of Gypsies, and Tango Down, and is currently fronting his own band, West Bound, whose debut album, Volume I, is slated for an early 2019 release.
+
+West appeared with the new Foreigner, featuring Jason Bonham on drums, at their 25 July 2004 show in Santa Barbara, California, at Fess Parker's Doubletree Resort, a benefit for muscular dystrophy, but was subsequently replaced by Kelly Hansen. West has also worked as a touring vocalist with Lynch Mob, Steve Priest's Sweet, Diamond Head, and Jake E. Lee's Red Dragon Cartel. He is the vocalist for Los Angeles, California-based Led Zeppelin tribute band, The Moby Dicks, who have appeared at the annual Bonzo Bash festivities.
+
+== Band members ==
+
+* Jason Bonham – drums, percussion, backing vocals (1988–1992, 1994, 1995–1997)
+* John Smithson – bass, keyboards, piano, violin, backing vocals (1988–1992, 1994, 1995–1997)
+* Ian Hatton – guitars, backing vocals (1988–1992, 1994)
+* Paul Rafferty – lead vocals (1988–1989)
+* Daniel MacMaster – lead vocals, keyboards, tambourine (1988–1992; died 2008)
+* Marti Frederiksen – lead vocals, guitar (1994)
+* Tony Catania – guitars, backing vocals (1995–1997)
+* Chas West – lead vocals (1995–1997)
+
+=== Timeline ===
+
+
+ImageSize = width:700 height:250
+PlotArea = left:100 bottom:120 top:0 right:50
+Alignbars = justify
+DateFormat  = dd/mm/yyyy
+Period = from:01/01/1988 till:01/01/1998
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:vertical position:bottom columns:4
+ScaleMajor = increment:2 start:1988
+ScaleMinor = increment:1 start:1988
+
+Colors =
+  id:voc value:red legend:Vocals
+  id:bv  value:pink legend:Backing_vocals
+  id:g    value:green legend:Guitars
+  id:key value:purple legend:Keyboards
+  id:b  value:blue legend:Bass,_Violin
+  id:dr  value:orange legend:Drums
+  id:alb  value:black legend:Studio_release
+  id:bars    value:gray(0.95)
+
+BackgroundColors = bars:bars
+
+LineData =
+  at:01/09/1989 color:black layer:back
+  at:01/03/1992 color:black layer:back
+  at:01/05/1994 color:black layer:back
+  at:01/05/1997 color:black layer:back
+
+PlotData=
+  width:11 textcolor:black align:left anchor:from shift:(10,-4)
+  bar:Paul Rafferty from:start till:01/05/1988 color:voc
+  bar:Daniel MacMaster from:01/05/1988 till:01/07/1992 color:voc
+  bar:Daniel MacMaster from:01/05/1988 till:01/07/1992 color:key width:3
+  bar:Marti Frederiksen from:01/01/1994 till:01/07/1994 color:voc
+  bar:Marti Frederiksen from:01/01/1994 till:01/07/1994 color:g width:3
+  bar:Chas West from:01/07/1995 till:end color:voc
+  bar:Ian Hatton from:start till:01/07/1992 color:g
+  bar:Ian Hatton from:01/01/1994 till:01/07/1994 color:g
+  bar:Tony Catania from:01/07/1995 till:end color:g
+  bar:John Smithson from:start till:01/07/1992 color:b
+  bar:John Smithson from:start till:01/07/1992 color:key width:7
+  bar:John Smithson from:01/01/1994 till:01/07/1994 color:b
+  bar:John Smithson from:01/01/1994 till:01/07/1994 color:key width:7
+  bar:John Smithson from:01/07/1995 till:end color:b
+  bar:John Smithson from:01/07/1995 till:end color:key width:7
+  bar:Jason Bonham from:start till:01/07/1992 color:dr
+  bar:Jason Bonham from:01/01/1994 till:01/07/1994 color:dr
+  bar:Jason Bonham from:01/07/1995 till:end color:dr
+
+  color:bv width:3
+  bar:Ian Hatton from:start till:01/07/1992 
+  bar:Ian Hatton from:01/01/1994 till:01/07/1994
+  bar:Tony Catania from:01/07/1995 till:end 
+  bar:John Smithson from:start till:01/07/1992 
+  bar:John Smithson from:01/01/1994 till:01/07/1994
+  bar:John Smithson from:01/07/1995 till:end
+  bar:Jason Bonham from:start till:01/07/1992
+  bar:Jason Bonham from:01/01/1994 till:01/07/1994 
+  bar:Jason Bonham from:01/07/1995 till:end 
+
+
+== Discography ==
+
+=== Studio albums ===
+
+* The Disregard of Timekeeping (1989)
+* Mad Hatter (1992)
+* Peace 4 Me (1994)
+* When You See The Sun (1997)
+
+=== Singles ===
+
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" | Title
+! scope="col" rowspan="2" | Title
+! scope="col" colspan="2" | Peak chart positions
+! scope="col" rowspan="2" | Album
+|-
+! scope="col" style="width:2.8em;font-size:90%;"| US
+! scope="col" style="width:2.8em;font-size:90%;"| US Main. Rock
+|-
+! scope="row"| "Wait for You"
+| 1989
+| style="text-align:center;"|55
+| style="text-align:center;"|9
+|rowspan="2"|The Disregard of Timekeeping
+|-
+! scope="row"| "Guilty"
+| 1990
+| style="text-align:center;"|—
+| style="text-align:center;"|29
+|-
+! scope="row"| "Change of a Season"
+| 1992
+| style="text-align:center;"|—
+| style="text-align:center;"|32
+| Mad Hatter
+|}
+
+== References ==
+
+
+
+== External links ==
+
+* Jason Bonham website
+* Marti Frederiksen website
+* Tony Catania website
+* Paul Rafferty website
+
+
+
+
+Category:British glam metal musical groups
+Category:British hard rock musical groups
+Category:British heavy metal musical groups
+Category:Musical groups established in 1988
+Category:Musical groups disestablished in 1997

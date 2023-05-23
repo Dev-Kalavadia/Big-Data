@@ -1,0 +1,30 @@
+Title: Widescreen display modes
+
+Widescreen televisions provide several modes for displaying video from 4:3 (standard aspect ratio) sources. These modes may be selected manually from a remote control, or automatically if an Active Format Descriptor is available.
+
+== Normal mode ==
+Normal mode frames the 4:3 video to the 16:9 picture area by displaying it in its original aspect ratio, with vertical gray or black bars on both sides of the screen. The disadvantage of this method is the fact that the image is small by virtue of not using the entire width of the screen. This is also known as the 4:3 mode.
+
+== Full mode ==
+Full mode horizontally stretches the 4:3 video evenly across the entire width of the screen. This is the proper mode to display anamorphic video. If used for standard aspect ratio video, everything on the screen will appear wider than normal. Contrast this with anamorphic video displayed without processing on a 4:3 display, in which people on the screen will appear taller than normal. This is also known as the 16:9 mode.
+
+== Zoom mode ==
+Zoom mode evenly stretches the picture both horizontally and vertically, until the picture fills the entire width of the screen. This crops out the top and bottom of the picture. This mode is used for letterboxed and open matte video.
+
+== 14:9 mode ==
+
+
+In 14:9 mode, the picture is magnified more than in Normal mode, but less than in Zoom mode, while retaining the original aspect ratio.
+
+== Wide Zoom mode ==
+Wide Zoom mode, also called Just mode, Horizon, or Smart Stretch, progressively stretches the picture horizontally, less in the middle and more on the edges. This allows normal aspect ratio video to be displayed across the entire width of the screen, with minimal cropping, and with much less of the unpleasing visual stretching effect of Full mode.
+
+== See also ==
+* Field of view in video games - Widescreen display modes for video games
+
+==External links==
+*http://www.cinemasource.com/articles/aspect_ratios.pdf Understanding Aspect Ratios
+
+Category:Film and video technology
+
+

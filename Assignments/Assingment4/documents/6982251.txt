@@ -1,0 +1,46 @@
+Title: Prudnik County
+__NOTOC__
+Prudnik County () is a unit of territorial administration and local government (powiat) in Opole Voivodeship, south-western Poland, on the Czech border. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and largest town is Prudnik, which lies  south-west of the regional capital Opole. The county also contains the towns of Głogówek, lying  east of Prudnik, and Biała,  north-east of Prudnik.
+
+The county covers an area of . As of 2019 its total population is 55,325, out of which the population of Prudnik is 21,041, that of Głogówek is 5,592, that of Biała is 2,426, and the rural population is 26,266.
+
+==Neighbouring counties==
+Prudnik County is bordered by Nysa County to the north-west, Opole County to the north, Krapkowice County and Kędzierzyn-Koźle County to the east, and Głubczyce County to the south-east. It also borders the Czech Republic to the south.
+
+==Administrative division==
+The county is subdivided into four gminas (three urban-rural and one rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km²)
+| style="text-align:center;"|Population(2019)
+| style="text-align:center;"|Seat
+|-
+|Gmina Prudnik
+|urban-rural
+| style="text-align:right;"|122.1
+| style="text-align:right;"|27,157
+|Prudnik
+|-
+|Gmina Głogówek
+|urban-rural
+| style="text-align:right;"|170.1
+| style="text-align:right;"|13,258
+|Głogówek
+|-
+|Gmina Biała
+|urban-rural
+| style="text-align:right;"|195.8
+| style="text-align:right;"|10,586
+|Biała
+|-
+|Gmina Lubrza
+|rural
+| style="text-align:right;"|83.2
+| style="text-align:right;"|4,324
+|Lubrza
+|-
+|}
+

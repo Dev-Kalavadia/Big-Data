@@ -1,0 +1,41 @@
+Title: Chikugo-class destroyer escort{|
+
+
+
+|}
+The Chikugo-class destroyer escort (or frigate) was a class of destroyer escorts built by the Japanese Maritime Self-Defense Force as the successor of the , with the same ASW mission. This class was followed by . This is the first Japanese destroyer escort class to carry ASROC anti-submarine missiles.
+
+The class entered service with Chikugo in 1971. Eleven ships were constructed and saw service until the mid-1990s and early 2000s. All vessels in the class were retired with Noshiro being the last to decommission in 2003.
+
+==Design==
+This class was designed as the modified variant of the , the preceding destroyer escort class. The main anti-submarine weapon was changed from the M/50  ASW rocket launcher to the ASROC Anti-submarine missile. The octuple launcher for ASROC was stationed at the mid-deck, and the entire ship design was prescribed by this stationing. To exploit the range of ASROC, this class was equipped with the long-range low-frequency (5 kHz) bow sonar, OQS-3A (Japanese version of the AN/SQS-23), and in addition, the latter batch had SQS-35(J) Variable Depth Sonar system. These anti-submarine sensors and weapons could be compare with those of destroyers in the main fleet of this age, such as  and .
+
+In contrast to their anti-submarine capability, the anti-aircraft fire power was weakened compared to the preceding class. The foredeck gun was a Type 68 3"/50 caliber twin cannon controlled by a FCS-1B Gun Fire Control System, which was standard anti-air weapon system in the JMSDF of this age. But the afterdeck gun was the old-fashioned Bofors 40 mm L/60 twin cannon, lacking the anti-ship missile defense (ASMD) capability. The final batch of this class was planned to equipped with the new Oerlikon 35 mm twin cannon, but this plan was frustrated because of the budgetary consideration.
+
+== Ships in the class ==
+{|class=wikitable
+! Hull no.||Name||Laid down||Launched||Commissioned||Decommissioned 
+|-
+|DE-215||  || December 9, 1968||January 13, 1970||July 31, 1971||April 15, 1996
+|-
+|DE-216||  || December 5, 1969||September 16, 1970||May 20, 1971||August 1, 1996
+|-
+|DE-217||  ||March 17, 1970||February 16, 1971||August 26, 1971||July 8, 1997
+|-
+|DE-218||  ||December 11, 1970||November 25, 1971||May 17, 1972||April 15, 1998
+|-
+|DE-219||  ||August 6, 1971||June 29, 1972||December 12, 1972||October 16, 1998
+|-
+|DE-220||  ||October 7, 1971||January 25, 1973||August 31, 1973||April 13, 1999
+|-
+|DE-221||  ||September 20, 1972||August 28, 1973||February 28, 1974||June 24, 1999
+|-
+|DE-222||  ||July 11, 1973||May 29, 1974||January 10, 1975||June 27, 2000
+|-
+|DE-223||  ||September 28, 1973||August 22, 1974||February 6, 1975||May 15, 2001
+|-
+|DE-224||  ||May 29, 1974||February 24, 1975||November 19, 1975||May 18, 2001
+|-
+|DE-225||  ||January 27, 1976||December 23, 1976||June 30, 1977||March 13, 2003 
+|}
+

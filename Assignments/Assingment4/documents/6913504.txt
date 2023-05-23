@@ -1,0 +1,69 @@
+Title: Hendre-Ddu Tramway
+
+
+
+
+
+The Hendre-Ddu Tramway was a  narrow gauge industrial railway built in 1874 in Mid-Wales to connect the Hendre-Ddu slate quarry to Aberangell station on the Mawddwy Railway. It consisted of a main line  long and several branch lines and spurs serving other quarries, local farms and the timber industry.
+
+== History ==
+=== Construction ===
+thumb|right|The remains of Hendre Ddu slate quarry in 2009
+The Hendreddu slate quarry opened in August 1868, on the north slope of Mynydd Hendre-ddu. The Hendre Ddu Slate and Slab Co. was established by Sir Edmund Buckley. The Company specialised in slate slabs for billiard table beds.
+
+Buckley opened the standard gauge Mawddwy Railway in 1867, connecting the Cambrian Railways mainline at Cemmaes Road to Dinas Mawddwy, passing through the village of Aberangell. Buckley's original intention was to build a standard gauge branch from Aberangell to Hendre Ddu Quarry, but access to the required land immediately to the west of Aberangell was blocked by landowner James Walton. To avoid Walton's land, the branch had to be routed along the roads of Clipiau, which were too steep and narrow to allow a standard gauge railway. Instead the quarry's internal gauge of 1 ft 11 in was adopted for the tramway. The tramway opened in 1874.
+
+=== Takeover ===
+In 1876, Buckley was declared bankrupt with debts of more than £500,000 (). The quarry and tramway were sold at auction to Dennis Bradwell - the mayor of Congleton - and his brother Jacob. 
+
+=== Quarry branches ===
+A Broad Vein quarry had operated at Maesygamfa, about 2 miles north of the tramway, in the 1860s, but on a very small scale. In 1868, Frederick Walton, the son of James, moved into the Cwmllecoediog estate. Frederick was the inventor of Linoleum and had made a substantial fortune. In 1886, Walton partnered with local quarry manager Edward Hurst Davies to lease and develop Maesygamfa Quarry. They needed a transport link to get their produce to market and negotiated running rights over the Hendre Ddu Tramway with the Bradwells. This allowed them to build a tramway from their quarry to the Hendre Ddu Tramway, in exchange for re-routing the Aberangell end of the Tramway over Walton's land.
+
+In 1881, the Narrow Vein Gartheiniog Quarry was opened as a commercial operation. It was situated close to the tramway's midpoint. By 1886, a long adit had been driven to access high quality slate underground. In October 1887, the quarry was connected to the Hendre-Ddu Tramway as part of the agreement between Walton, Davies and the Bradwells.
+
+A final quarry was connected via the Maesygamfa tramway - the Tal y Mierin Quarry. This was worked briefly in the 1860s, but wasn't a commercial operation until it was taken over by Inigo Jones in 1913. An incline was laid down to the Maesygamfa tramway.
+
+=== 1880-1914 ===
+The slate produced by the quarries produced slabs rather than roofing slates. These were used for a variety of products, including billiard tables, floors, channels, window sills and grave markers. The slabs carried on special trestle wagons similar to those on the nearby Corris Railway. Quarry workers rode in open cars called the car gwyllt which were occasionally also used for tourist excursions.  
+
+At the end of 1900, the workers of the Penrhyn Slate Quarry went on strike. Penrhyn had produced more than 20% of all slate quarried in Wales, and the quarries of the valley experienced a brief boom. When the strike ended in 1903, Penrhyn resumed production and many smaller quarries in Mid Wales shut down. Maesygamfa Quarry stopped working in 1908 - though it reopened briefly in 1909. Jacob Bradwell died in June 1908, and Davies purchased the Hendre Ddu quarry and tramway from him, though the quarry didn't reopen until 1911. The First World War significantly reduced demand for slate. Gartheiniog Quarry closed in 1916 and Hendre Ddu in early 1918.
+
+=== Timber extraction ===
+During the First World War demand for timber grown in Britain rose rapidly as German raids significantly reduced imported supplies. The woods near the tramway were suitable for the production of pit props. Colliery owner Henry Sharrock Higginbottom, son of Samuel Higginbottom, purchased the felling rights for much of the valley. He used a large number of temporary sawmills to produce pit props and laid tramways to connect them to the Hendre Ddu Tramway. The longest timber tramways were laid along Cwm Llecoediog and Cwm Caws. These supplied Higginbottom's coal mines throughout the war. Some sources say that Baguley petrol locomotive No. 774 was used on this line, but more recent research has dispelled this.
+
+=== Between the wars ===
+After the end of the First World War, rebuilding efforts created an increased demand for slate. Hendreddu and Gartheinog quarries were reopened in 1920 by the National Welsh Slate Quarries Co. and the Standard Housing Company, respectively. Both companies were founded by English entrepreneurs, and although they were promoted as independent companies, they were actually controlled by serial fraudster Roland Morgan, with his partner William Clayton Russon - father of Clayton Russon. The companies failed in 1921 and 1922, with shareholders taking significant losses. Russon was declared bankrupt,. and Morgan was convicted of fraud.
+
+Despite the failure, both quarries had been re-equipped and were soon restarted. Hendreddu was purchased by Major Charles Bill - son of Charles Bill - and William Bowley. Gartheiniog was owned by Russon, who leased it to a series of owners during the 1920s and 1930s. Both quarries were productive during the 1920s and used the Hendre Ddu Tramway to move their products to Aberangell. The Great Depression reduced demand for slate in the 1930s. Gartheiniog quarry closed in 1937. Hendreddu was purchased by T. Glyn William in 1937. He ran the quarry and tramway with a very low budget, and trains stopped running in 1938, replaced by road lorries.
+
+=== After closure ===
+During 1940 the Cwm Caws branch was again re-laid using Jubilee track for further timber extraction. This line was not lifted until October 1954 although the Hendre Ddu Tramway itself was converted into a road in 1941 for the safer conveyance of munitions which were stored in the Hendre Ddu Quarries during the war and for some years afterwards.
+
+A number of wagons from the Gartheiniog quarry were sold for use on the Meirion Mill Railway at Dinas Mawddwy in 1975. The railway closed in 1977, but several of the wagons remain at Meirion Mill in 2016.
+
+== Operations ==
+
+From 1874 until 1921, the railway operated using horse and gravity power. Loaded wagons descended by gravity and uphill trains were hauled by horses or pushed by people. The National Welsh Slate Quarries Co. introduced locomotives to the line. An unknown number of wagons were fitted with petrol engines in the 1920s to provide the quarrymen with powered uphill travel.
+
+== Locomotives ==
+
+{|class="wikitable"
+!Builder
+!Type
+!Works Number
+!Built
+!Notes
+|-
+|Motor Rail
+|Simplex 
+|2059
+|1921
+|Acquired new for the tramway in 1921. Sold in 1939 to light railway dealer Fred Watkins of the Forest of Dean. Sold in 1940 to the Gillingham Pottery Brick and Tile Company in Dorset. Purchased for private preservation in 1970.
+|-
+|Hendre-Ddu Tramway
+|Lorry conversion
+|n/a
+|1929
+|Conversion of a 1913 Willys-Overland lorry. It ran for 2 years before suffering from a broken radiator. The chassis and engine were reused as a winch at Gartheiniog quarry where they remained into the 1980s. Other parts were used to construct wagons for the tramway.
+|}
+

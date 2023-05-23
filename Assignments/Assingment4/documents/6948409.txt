@@ -1,0 +1,55 @@
+Title: Binary erasure channel
+thumb|right|The channel model for the binary erasure channel showing a mapping from channel input X to channel output Y (with known erasure symbol ?).  The probability of erasure is p_e
+
+In coding theory and information theory, a binary erasure channel (BEC) is a communications channel model. A transmitter sends a bit (a zero or a one), and the receiver either receives the bit correctly, or with some probability P_e receives a message that the bit was not received ("erased") .
+
+== Definition ==
+A binary erasure channel with erasure probability P_e is a channel with binary input, ternary output, and probability of erasure P_e. That is, let X be the transmitted random variable with alphabet \{0,1\}. Let Y be the received variable with alphabet \{0,1,\text{e} \}, where \text{e} is the erasure symbol. Then, the channel is characterized by the conditional probabilities:
+
+:\begin{align}
+\operatorname {Pr} [ Y = 0 | X = 0 ] &= 1 - P_e \\
+\operatorname {Pr} [ Y = 0 | X = 1 ] &= 0 \\
+\operatorname {Pr} [ Y = 1 | X = 0 ] &= 0 \\
+\operatorname {Pr} [ Y = 1 | X = 1 ] &= 1 - P_e \\
+\operatorname {Pr} [ Y = e | X = 0 ] &= P_e \\
+\operatorname {Pr} [ Y = e | X = 1 ] &= P_e
+\end{align}
+
+== Capacity ==
+The channel capacity of a BEC is 1-P_e, attained with a uniform distribution for X (i.e. half of the inputs should be 0 and half should be 1).
+
+:{| class="toccolours collapsible collapsed" width="80%" style="text-align:left"
+!Proof
+|-
+|By symmetry of the input values, the optimal input distribution is X \sim \mathrm{Bernoulli}\left(\frac{1}{2}\right). The channel capacity is:
+:\operatorname{I}(X;Y) = \operatorname{H}(X)-\operatorname{H}(X|Y)
+
+Observe that, for the binary entropy function \operatorname{H}_\text{b} (which has value 1 for input \frac{1}{2}),
+:\operatorname{H}(X|Y)=\sum_y P(y)\operatorname{H}(X|y)=P_e \operatorname{H}_{\text{b}}\left(\frac{1}{2}\right) = P_e
+as X is known from (and equal to) y unless y=e, which has probability P_e.
+
+By definition \operatorname{H}(X)=\operatorname{H}_{\text{b}}\left(\frac{1}{2}\right)=1, so
+:\operatorname{I}(X;Y) = 1-P_e.
+|}
+
+If the sender is notified when a bit is erased, they can repeatedly transmit each bit until it is correctly received, attaining the capacity 1-P_e. However, by the noisy-channel coding theorem, the capacity of 1-P_e can be obtained even without such feedback.
+
+== Related channels ==
+If bits are flipped rather than erased, the channel is a binary symmetric channel (BSC), which has capacity 1 - \operatorname H_\text{b}(P_e) (for the binary entropy function \operatorname{H}_\text{b}), which is less than the capacity of the BEC for 0<P_e<1/2. If bits are erased but the receiver is not notified (i.e. does not receive the output e) then the channel is a deletion channel, and its capacity is an open problem.
+
+== History ==
+The BEC was introduced by Peter Elias of MIT in 1955 as a toy example.
+
+== See also ==
+* Erasure code
+* Packet erasure channel
+
+== Notes ==
+
+
+== References ==
+* 
+* 
+* 
+
+Category:Coding theory

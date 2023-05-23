@@ -1,0 +1,43 @@
+Title: Delta-ring
+In mathematics, a non-empty collection of sets \mathcal{R} is called a -ring (pronounced "") if it is closed under union, relative complementation, and countable intersection. The name "delta-ring" originates from the German word for intersection, "Durschnitt", which is meant to highlight the ring's closure under countable intersection, in contrast to a -ring which is closed under countable unions. 
+
+== Definition ==
+
+A family of sets \mathcal{R} is called a -ring if it has all of the following properties:
+
+#Closed under finite unions: A \cup B \in \mathcal{R} for all A, B \in \mathcal{R},
+#Closed under relative complementation: A - B \in \mathcal{R} for all A, B \in \mathcal{R}, and
+#Closed under countable intersections: \bigcap_{n=1}^{\infty} A_n \in \mathcal{R} if A_n \in \mathcal{R} for all n \in \N.
+
+If only the first two properties are satisfied, then \mathcal{R} is a ring of sets but not a -ring. Every -ring is a -ring, but not every -ring is a -ring.
+
+-rings can be used instead of σ-algebras in the development of measure theory if one does not wish to allow sets of infinite measure.
+
+== Examples ==
+
+The family \mathcal{K} = \{ S \subseteq \mathbb{R} : S \text{ is bounded} \} is a -ring but not a -ring because \bigcup_{n=1}^{\infty} [0, n] is not bounded.
+
+== See also ==
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+== References ==
+
+
+
+
+* Cortzen, Allan. "Delta-Ring." From MathWorld—A Wolfram Web Resource, created by Eric W. Weisstein. http://mathworld.wolfram.com/Delta-Ring.html
+
+
+
+
+
+Category:Measure theory
+Category:Families of sets

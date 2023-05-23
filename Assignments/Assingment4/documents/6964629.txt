@@ -1,0 +1,126 @@
+Title: Interaction information
+
+The interaction information is a generalization of the mutual information for more than two variables.
+
+There are many names for interaction information, including amount of information, information correlation, co-information, and simply mutual information. Interaction information expresses the amount of information (redundancy or synergy) bound up in a set of variables, beyond that which is present in any subset of those variables. Unlike the mutual information, the interaction information can be either positive or negative. These functions, their negativity and minima have a direct interpretation in algebraic topology.
+
+== Definition ==
+
+The conditional mutual information can be used to inductively define the interaction information for any finite number of variables as follows:
+:I(X_1;\ldots;X_{n+1}) = I(X_1;\ldots;X_n) - I(X_1;\ldots;X_n\mid X_{n+1}),
+where
+:I(X_1;\ldots;X_n \mid X_{n+1}) = \mathbb E_{X_{n+1}}\big(I(X_1;\ldots;X_n) \mid X_{n+1}\big).
+Some authors define the interaction information differently, by swapping the two terms being subtracted in the preceding equation. This has the effect of reversing the sign for an odd number of variables.
+
+For three variables \{X,Y,Z\}, the interaction information I(X;Y;Z) is given by
+
+:
+I(X;Y;Z) = I(X;Y)-I(X;Y \mid Z)
+
+
+where I(X;Y) is the mutual information between variables X and Y, and I(X;Y \mid Z) is the conditional mutual information between variables X and Y given Z. The interaction information is symmetric, so it does not matter which variable is conditioned on. This is easy to see when the interaction information is written in terms of entropy and joint entropy, as follows:
+:
+\begin{alignat}{3}
+I(X;Y;Z) &= &&\; \bigl( H(X) + H(Y) + H(Z) \bigr) \\
+         &  &&- \bigl( H(X,Y) + H(X,Z) + H(Y,Z) \bigr) \\
+         &  &&+ H(X,Y,Z)
+\end{alignat}
+
+
+In general, for the set of variables \mathcal{V}=\{X_{1},X_{2},\ldots ,X_{n}\}, the interaction information can be written in the following form (compare with Kirkwood approximation):
+:
+I(\mathcal{V}) = \sum_{\mathcal{T}\subseteq \mathcal{V}}(-1)^{\left\vert\mathcal{T}\right\vert-1}H(\mathcal{T})  
+
+
+For three variables, the interaction information measures the influence of a variable Z on the amount of information shared between X and Y. Because the term I(X;Y \mid Z) can be larger than I(X;Y), the interaction information can be negative as well as positive. This will happen, for example, when X and Y are independent but not conditionally independent given Z. Positive interaction information indicates that variable Z inhibits (i.e., accounts for or explains some of) the correlation between X and Y, whereas negative interaction information indicates that variable Z facilitates or enhances the correlation.
+
+=== Properties ===
+Interaction information is bounded.  In the three variable case, it is bounded by
+:-\min \{ I(X;Y \mid Z), I(Y;Z \mid X), I(X;Z \mid Y) \} \leq I(X;Y;Z) \leq \min \{ I(X;Y), I(Y;Z), I(X;Z) \}
+If three variables form a Markov chain X\to Y \to Z, then I(X;Z \mid Y)=0, but I(X;Z)\ge 0. Therefore
+:I(X;Y;Z) = I(X;Z) - I(X;Z \mid Y) = I(X;Z) \ge 0.
+
+=== Examples ===
+
+==== Positive interaction information ====
+Positive interaction information seems much more natural than negative interaction information in the sense that such explanatory effects are typical of common-cause structures. For example, clouds cause rain and also block the sun; therefore, the correlation between rain and darkness is partly accounted for by the presence of clouds, I(\text{rain};\text{dark}\mid\text{cloud}) < I(\text{rain};\text{dark}). The result is positive interaction information I(\text{rain};\text{dark};\text{cloud}).
+
+==== Negative interaction information ====
+A car's engine can fail to start due to either a dead battery or a blocked fuel pump. Ordinarily, we assume that battery death and fuel pump blockage are independent events, I(\text{blocked fuel}; \text{dead battery}) = 0. But knowing that the car fails to start, if an inspection shows the battery to be in good health, we can conclude that the fuel pump must be blocked. Therefore I(\text{blocked fuel}; \text{dead battery} \mid \text{engine fails}) > 0, and the result is negative interaction information.
+
+== Difficulty of interpretation ==
+
+The possible negativity of interaction information can be the source of some confusion. Many authors have taken zero interaction information as a sign that three or more random variables do not interact, but this interpretation is wrong.
+
+To see how difficult interpretation can be, consider a set of eight independent binary variables \{X_{1},X_{2},X_{3},X_{4},X_{5},X_{6},X_{7},X_{8}\}. Agglomerate these variables as follows:
+
+:
+\begin{align}
+Y_{1} &=\{X_{1},X_{2},X_{3},X_{4},X_{5},X_{6},X_{7}\} \\
+Y_{2} &=\{X_{4},X_{5},X_{6},X_{7}\} \\
+Y_{3} &=\{X_{5},X_{6},X_{7},X_{8}\} 
+\end{align}
+
+
+Because the Y_{i}'s overlap each other (are redundant) on the three binary variables \{X_{5},X_{6},X_{7}\}, we would expect the interaction information I(Y_{1};Y_{2};Y_{3}) to equal 3 bits, which it does. However, consider now the agglomerated variables
+
+:
+\begin{align}
+Y_{1} &=\{X_{1},X_{2},X_{3},X_{4},X_{5},X_{6},X_{7}\} \\
+Y_{2} &=\{X_{4},X_{5},X_{6},X_{7}\} \\
+Y_{3} &=\{X_{5},X_{6},X_{7},X_{8}\} \\
+Y_{4} &=\{X_{7},X_{8}\}
+\end{align}
+
+
+These are the same variables as before with the addition of Y_{4}=\{X_{7},X_{8}\}. However, I(Y_{1};Y_{2};Y_{3};Y_{4}) in this case is actually equal to +1 bit, indicating less redundancy. This is correct in the sense that
+
+:
+\begin{align}
+I(Y_{1};Y_{2};Y_{3};Y_{4}) &= I(Y_{1};Y_{2};Y_{3})-I(Y_{1};Y_{2};Y_{3}|Y_{4}) \\
+&= 3-2 \\
+&= 1
+\end{align}
+
+
+but it remains difficult to interpret.
+
+== Uses ==
+* Jakulin and Bratko (2003b) provide a machine learning algorithm which uses interaction information.
+* Killian, Kravitz and Gilson (2007) use mutual information expansion to extract entropy estimates from molecular simulations.
+* LeVine and Weinstein (2014) use interaction information and other N-body information measures to quantify allosteric couplings in molecular simulations. 
+* Moore et al. (2006), Chanda P, Zhang A, Brazeau D, Sucheston L, Freudenheim JL, Ambrosone C, Ramanathan M. (2007) and Chanda P, Sucheston L, Zhang A, Brazeau D, Freudenheim JL, Ambrosone C, Ramanathan M. (2008) demonstrate the use of interaction information for analyzing gene-gene and gene-environmental interactions associated with complex diseases.
+* Pandey and Sarkar (2017) use interaction information in Cosmology to study the influence of large-scale environments on galaxy properties.
+* A python package for computing all multivariate interaction or mutual informations, conditional mutual information, joint entropies, total correlations, information distance in a dataset of n variables is available .
+
+==See also==
+*Mutual information
+*Total correlation
+*Dual total correlation
+
+== References ==
+
+* 
+* Bell, A J (2003), The co-information lattice 
+* Fano, R M (1961), Transmission of Information: A Statistical Theory of Communications, MIT Press, Cambridge, MA.
+* Garner W R (1962). Uncertainty and Structure as Psychological Concepts, JohnWiley & Sons, New York.
+* 
+* 
+* Hu Kuo Tin (1962), On the Amount of Information. Theory Probab. Appl.,7(4), 439-44. PDF
+* Jakulin A & Bratko I (2003a). Analyzing Attribute Dependencies, in N Lavra\quad{c}, D Gamberger, L Todorovski & H Blockeel, eds, Proceedings of the 7th European Conference on Principles and Practice of Knowledge Discovery in Databases, Springer, Cavtat-Dubrovnik, Croatia, pp. 229–240.
+* Jakulin A & Bratko I (2003b). Quantifying and visualizing attribute interactions .
+* 
+* 
+* Moore JH, Gilbert JC, Tsai CT, Chiang FT, Holden T, Barney N, White BC (2006). A flexible computational framework for detecting, characterizing, and interpreting statistical patterns of epistasis in genetic studies of human disease susceptibility, Journal of Theoretical Biology 241, 252-261. 
+* Nemenman I (2004). Information theory, multivariate dependence, and genetic network inference .
+* Pearl, J (1988), Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference, Morgan Kaufmann, San Mateo, CA.
+* Tsujishita, T (1995), On triple mutual information, Advances in applied mathematics 16, 269-274.
+* 
+* 
+* 
+* LeVine MV, Weinstein H (2014), NbIT - A New Information Theory-Based Analysis of Allosteric Mechanisms Reveals Residues that Underlie Function in the Leucine Transporter LeuT. PLoS Computational Biology. 
+* 
+* https://www3.nd.edu/~jnl/ee80653/Fall2005/tutorials/sunil.pdf
+* Yeung R W (1992). A new outlook on Shannon's information measures. in IEEE Transactions on Information Theory. 
+
+Category:Information theory

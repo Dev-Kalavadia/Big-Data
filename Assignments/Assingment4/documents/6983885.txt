@@ -1,0 +1,30 @@
+Title: Process specification
+Process Specification is a generic term for the specification of a process. It is not unique to business activity, but can be applied to any organizational activity.  
+
+Within some structured methods, the capitalized term Process Specification refers to a description of the procedure to be followed by an actor within an elementary level business activity, as represented on a process model such as a dataflow diagram or IDEF0 model. A common alias is minispec, short for miniature specification. 
+
+==Use in systems development==
+
+The process specification defines what must be done to transform inputs into outputs. It is a detailed set of instructions outlining a business procedure that each elementary level business activity is expected to carry out. Process specifications are commonly included as integral components of requirements documents in systems development. 
+
+==Techniques==
+
+A variety of approaches can be used to produce a process specification, including:
+*Decision tables
+*Structured English (favored technique of most systems analysts)
+*Pre/post conditions
+*Use cases, basic course or events/alternate paths in use cases
+*Flowcharts
+*Nassi–Shneiderman diagrams
+*UML Activity diagrams
+
+No matter what approach is used, a specification must communicate to system development designers, implementers and support professionals, and be verifiable by stakeholders and end users.
+
+== See also ==
+* Specification (technical standard)
+
+== External links ==
+*Chapter 11 of the Structured Analysis Wiki, by Ed Yourdon
+
+Category:Business process management
+Category:Software development process

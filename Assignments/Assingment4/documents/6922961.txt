@@ -1,0 +1,174 @@
+Title: 1994 Little League World Series
+The 1994 Little League World Series took place between August 22 and August 27 in Williamsport, Pennsylvania. The Coquivacoa Little League of Maracaibo, Venezuela, defeated the Northridge Little League team of Northridge, California, in the championship game of the 48th Little League World Series.
+
+==Teams==
+{| class="wikitable"
+|-
+! United States
+! International
+|- 
+|  Brooklyn Center, MinnesotaCentral RegionAmerican Little League
+|  Glace Bay, Nova Scotia Canada RegionGlace Bay Little League
+|- 
+|  Middleborough, MassachusettsEast RegionMiddleborough Little League
+|  Dhahran, Saudi ArabiaEurope RegionArabian American Little League
+|-
+|  Springfield, VirginiaSouth RegionCentral Springfield Little League
+|  Tainan, TaiwanFar East RegionLi-Jen Little League
+|-
+|  Northridge, CaliforniaWest RegionNorthridge Little League
+|  Maracaibo, VenezuelaLatin America RegionCoquivacoa Little League
+|}
+
+==Pool play==
+{| class="wikitable"
+|+United States
+|-
+! Rank
+! State
+! Record
+|- bgcolor="bbffbb"
+|align=center| 1
+|align="left" width="140" |   California
+|align=center| 2–1
+|- bgcolor="bbffbb"
+|align=center| 2
+|align="left" width="140" |   Virginia
+|align=center| 2–1
+|-
+|align=center| 3
+|align="left" width="140" |   Massachusetts
+|align=center| 1–2
+|-
+|align=center| 4
+|align="left" width="140" |   Minnesota
+|align=center| 1–2
+|}
+
+{| class="wikitable"
+|+International
+|-
+! Rank
+! Country
+! Record
+|- bgcolor="bbffbb"
+|align=center| 1
+|align="left" width="160" |   Venezuela
+|align=center| 3–0
+|- bgcolor="bbffbb"
+|align=center| 2
+|align="left" width="120" |   Saudi Arabia
+|align=center| 2–1
+|-
+|align=center| 3
+|align="left" width="120" |   Taiwan
+|align=center| 1–2
+|-
+|align=center| 4
+|align="left" width="120" |   Canada
+|align=center| 0–3
+|}
+
+{| class="wikitable"
+|-
+!Pool
+!width="160" |Team 1
+!Score
+!width="160" |Team 2
+!Score
+|-
+! colspan="6" | August 22
+|-
+|align=center|INT
+|align=center| Taiwan
+|align=center|4
+|align=center| Canada
+|align=center|1
+|-
+|align=center|US
+|align=center| Virginia 
+|align=center|2
+|align=center| Massachusetts
+|align=center|1
+|-
+|align=center|INT
+|align=center| Venezuela
+|align=center|5
+|align=center| Saudi Arabia
+|align=center|1
+|-
+|align=center|US
+|align=center| Minnesota
+|align=center|4
+|align=center| California
+|align=center|2
+|-
+! colspan="6" | August 23
+|-
+|align=center|INT
+|align=center| Canada
+|align=center|3
+|align=center| Saudi Arabia
+|align=center|6
+|-
+|align=center|US
+|align=center| Massachusetts
+|align=center|4
+|align=center| California
+|align=center|6
+|-
+|align=center|INT
+|align=center| Taiwan
+|align=center|1
+|align=center| Venezuela
+|align=center|4
+|-
+|align=center|US
+|align=center| Virginia
+|align=center|4
+|align=center| Minnesota
+|align=center|1
+|-
+! colspan="6" | August 24
+|-
+|align=center|INT
+|align=center| Saudi Arabia
+|align=center|3
+|align=center| Taiwan
+|align=center|2
+|-
+|align=center|US
+|align=center| Massachusetts
+|align=center|11
+|align=center| Minnesota
+|align=center|5
+|-
+|align=center|INT
+|align=center| Venezuela
+|align=center|3
+|align=center| Canada
+|align=center|0
+|-
+|align=center|US
+|align=center| Virginia
+|align=center|0
+|align=center| California
+|align=center|2
+|}
+
+==Elimination round==
+
+
+{| class="wikitable" style="text-align: center; margin: 0 auto;"
+|-
+!1994 Little League World Series Champions
+|-
+|100px|VenezuelaCoquivacoa Little LeagueMaracaibo, Venezuela
+|}
+
+==Notable players==
+*Matt Cassel (Northridge, California) – NFL quarterback
+*Yusmeiro Petit (Maracaibo, Venezuela) – MLB pitcher, first player to win both the LLWS and World Series ( and , San Francisco Giants)
+*Guillermo Quiróz (Maracaibo, Venezuela) – MLB catcher
+*Krissy Wendell-Pohl (Brooklyn Center, Minnesota) – Olympic hockey player; inducted to the Little League Hall of Excellence in 2004.
+

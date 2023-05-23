@@ -1,0 +1,4 @@
+Title: Gene transfer formatThe Gene transfer format (GTF) is a file format used to hold information about gene structure.  It is a tab-delimited text format based on the general feature format (GFF), but contains some additional conventions specific to gene information.  A significant feature of the GTF that can be validated: given a sequence and a GTF file, one can check that the format is correct.  This significantly reduces problems with the interchange of data between groups.
+
+GTF is identical to GFF, version 2.GFF/GTF info,  from Ensembl
+

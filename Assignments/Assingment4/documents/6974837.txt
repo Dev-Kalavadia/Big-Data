@@ -1,0 +1,56 @@
+Title: Systems Biology Ontologythumb|right
+
+The Systems Biology Ontology (SBO) is a set of controlled, relational vocabularies of terms commonly used in systems biology, and in particular in computational modeling. SBO is part of the BioModels.net effort.
+
+==Motivation==
+
+The rise of Systems Biology, seeking to comprehend biological processes as a whole, highlighted the need to not only develop corresponding quantitative models, but also to create standards allowing their exchange and integration. This concern drove the community to design common data format such as SBML and CellML. SBML is now largely accepted and used in the field.  However, as important as the definition of a common syntax is, it is also necessary to make clear the semantics of models. SBO is an attempt to provide the means of annotating models with terms that indicate the intended semantics of an important subset of models in common use in computational systems biology.Le Novère N. BioModels.net, tools and resources to support Computational Systems Biology. Proceedings of the 4th Workshop on Computation of Biochemical Pathways and Genetic Networks (2005), Logos, Berlin, pp. 69-74.Le Novère N., Courtot M., Laibe C. Adding semantics in kinetics models of biochemical pathways. Proceedings of the 2nd International Symposium on experimental standard conditions of enzyme characterizations (2007), 137-153. Available online The development of SBO was first discussed  at the 9th SBML Forum Meeting in Heidelberg Oct. 14–15, 2004. During the forum, Pedro Mendes mentioned that modellers possessed a lot of knowledge that was necessary to understand the model, and more importantly to simulate it,  but this knowledge was not encoded in SBML. Nicolas Le Novère proposed to create a controlled vocabulary to store the content of Pedro Mendes' mind before he wandered out of the community.Nicolas Le Novère, personal communication The development of the ontology was  announced more officially in a message from Le Novère to Michael Hucka and Andrew Finney on October 19.
+
+==Structure==
+
+SBO is currently made up of seven different vocabularies:
+* systems description parameter (catalytic constant, thermodynamic temperature...)
+* participant role (substrate, product, catalyst...)
+* modelling framework (discrete, continuous...)
+* mathematical expression (mass-action rate law, Hill-type rate law...)
+* occurring entity representation (biochemical process, molecular or genetic interaction...)
+* physical entity representation (transporter, physical compartment, observable...)
+* metadata representation (annotation)
+
+==Resources==
+
+To curate and maintain SBO, a dedicated resource has been developed and the public interface of the SBO browser can be accessed at http://www.ebi.ac.uk/sbo.
+A relational database management system (MySQL) at the back-end is
+accessed through a web interface based on Java Server Pages (JSP) and JavaBeans.  Its
+content is encoded in UTF-8, therefore supporting a large set of
+characters in the definitions of terms.  Distributed curation is made possible
+by using a custom-tailored locking system allowing concurrent access.
+This system allows a continuous update of the ontology with immediate
+availability and suppress merging problems.
+
+Several exports formats (OBO flat file, SBO-XML and OWL) are generated daily or on request and can be downloaded from the web interface.
+
+To allow programmatic access to the resource, Web Services have been implemented based on Apache Axis for the communication layer and Castor for the validation. The libraries, full documentation, samples and tutorial are available online.
+
+The SourceForge project can be accessed at http://sourceforge.net/projects/sbo/.
+
+==SBO and SBML==
+
+Since Level 2 Version 2 SBML provides a mechanism to annotate model components with SBO terms, therefore increasing the semantics of the
+model beyond the sole topology of interaction and mathematical expression.  Modelling tools such as SBMLsqueezer use SBO terms too. Simulation tools can check the consistency of a rate law, convert reaction from one modelling framework to another (e.g., continuous to discrete), or distinguish between identical mathematical expressions based on different assumptions (e.g., Michaelis–Menten vs. Briggs–Haldane).  Other tools such as semanticSBMLKrause F, Uhlendorf J., Lubitz T., Schulz M., Klipp E., Liebermeister W. (2010), Annotation and merging of SBML models with semanticSBML, Bioinformatics 26 (3), 421-422 can use the SBO annotation to integrate individual models into a larger one.  The use of SBO is not restricted to the development of models. Resources providing quantitative experimental information such as SABIO Reaction Kinetics will be able to annotate the parameters (what do they mean exactly, how were they calculated) and determine relationships between them.
+
+==SBO and SBGN==
+
+All the graphical symbols used in the SBGN languages are associated with an SBO term. This permits, for instance, to help generate SBGN maps from SBML models.
+
+==SBO and BioPAX==
+
+The Systems Biology Pathway Exchange (SBPAX) allows SBO terms to be added to Biological Pathway Exchange (BioPAX). This links BioPAX to information useful for modelling, especially by adding quantitative descriptions described by SBO.
+
+==Organization of SBO development==
+
+SBO is built in collaboration by the Computational Neurobiology Group (Nicolas Le Novère, EMBL-EBI, United-Kingdom) and the SBMLTeam (Michael Hucka, Caltech, USA).
+
+==Funding for SBO==
+SBO has benefited from the funds of the European Molecular Biology Laboratory and the National Institute of General Medical Sciences.
+

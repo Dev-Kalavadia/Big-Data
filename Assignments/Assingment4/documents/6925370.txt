@@ -1,0 +1,15 @@
+Title: Surround VideoSurround Video was a Microsoft technology, announced as a competitor, to Apple's QuickTime VR  for creating panoramic 360-degree 3D images. It was evaluated by reviewers as an equal to Quicktime VR. Despite never having shipped as an actual end-user product, Microsoft released a Surround Video ActiveX control.  Surround Video ActiveX Control Demo  
+
+The Surround Video control was used by websites such as CarPoint and Expedia.  Microsoft Surround Video Control  It also ships as part of Encarta encyclopedia where it is used for panoramic interactivities.
+
+A somewhat similar modern initiative by Microsoft is Microsoft Live Labs Photosynth.
+
+== References ==
+
+
+== External links ==
+*Byte: Panoramic video, using Apple's QuickTime VR and Microsoft's Surround Video, enables photo-quality virtual reality on your computer screen
+
+
+
+Category:Uncompleted Microsoft initiatives

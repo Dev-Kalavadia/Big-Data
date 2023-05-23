@@ -1,0 +1,52 @@
+Title: Nowe Miasto County
+__NOTOC__
+Nowe Miasto County () is a unit of territorial administration and local government (powiat) in Warmian-Masurian Voivodeship, northern Poland. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and only town is Nowe Miasto Lubawskie, which lies  south-west of the regional capital Olsztyn.
+
+The county covers an area of . As of 2006 its total population is 43,388, out of which the population of Nowe Miasto Lubawskie is 11,036 and the rural population is 32,352.
+
+==Neighbouring counties==
+Nowe Miasto County is bordered by Iława County to the north, Działdowo County to the east, Brodnica County to the south and Grudziądz County to the west.
+
+==Administrative division==
+The county is subdivided into five gminas (one urban and four rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km2)
+| style="text-align:center;"|Population(2006)
+| style="text-align:center;"|Seat
+|-
+|Nowe Miasto Lubawskie
+|urban
+| style="text-align:right;"|11.6
+| style="text-align:right;"|11,036
+| 
+|-
+|Gmina Biskupiec
+|rural
+| style="text-align:right;"|241.3
+| style="text-align:right;"|9,652
+|Biskupiec
+|-
+|Gmina Kurzętnik
+|rural
+| style="text-align:right;"|149.9
+| style="text-align:right;"|8,646
+|Kurzętnik
+|-
+|Gmina Nowe Miasto Lubawskie
+|rural
+| style="text-align:right;"|138.0
+| style="text-align:right;"|7,859
+|Mszanowo
+|-
+|Gmina Grodziczno
+|rural
+| style="text-align:right;"|154.3
+| style="text-align:right;"|6,195
+|Grodziczno
+|-
+|}
+

@@ -1,0 +1,86 @@
+Title: Tide-class replenishment oiler
+
+{|
+
+
+
+|}
+The Tide class was a series of six replenishment oilers used by the British Royal Fleet Auxiliary (RFA), the Royal Australian Navy (RAN), and the Chilean Navy.
+
+The class was based on , which had served with the British Pacific Fleet during World War II.Donohue, From Empire Defense to the Long Haul, p 106 Three ships were laid down for the RFA in 1953, with a fourth being ordered by the RAN at the same time. Two more ships, built for the RFA to a modified design, were launched in 1962.
+
+Upon completion, the Australian Tide Austral could not be accepted into service because of manpower and financial difficulties. The ship was instead loaned to the RFA from 1955 until 1962, when she was returned to the RAN and commissioned as . She was paid off in 1985.
+
+The first three ships were removed from service and scrapped during the late 1970s. The two modified ships, Tidespring and Tidepool saw service in the Falklands War, after which Tidepool was sold to the Chilean Navy and renamed Almirante Jorge Montt.Sharpe (ed.), Jane's Fighting Ships, 1996-1997, p. 111  Tidespring remained with the RFA and was scrapped in 1992. Supply remained with the RAN until 1985.
+
+==Ships==
+{| class="wikitable" style="font-size:97%;"
+!Name
+!Pennant
+!Builder
+!Laid down
+!Launched
+!Commissioned
+!Decommissioned
+!Fate
+|-
+|
+|A96
+|Swan Hunter & Wigham Richardson, Wallsend
+|2 June 1953
+|2 June 1954
+|30 August 1955
+|March 1978
+|Broken up at Bilbao, 1979
+|-
+|(ex-Tiderace)
+|A97
+|J.L. Thompson and Sons, Sunderland
+|30 August 1953
+|30 August 1953
+|25 January 1956
+|November 1975
+|Broken up at Bilbao, 1976
+|-
+|(ex-Tiderange)
+|A98
+|Sir James Laing & Sons, Sunderland
+|1 July 1953
+|1 July 1954
+|30 August 1955
+|May 1976
+|Broken up at Valencia, 1977
+|-
+|
+|A99
+|Harland and Wolff, Belfast
+|5 August 1952
+|1 September 1954
+|28 May 1955
+|15 August 1962
+|Returned to Australia as HMAS Supply
+|-
+|
+|A75
+|rowspan=2|Hawthorn Leslie, Hebburn
+|24 July 1961
+|3 May 1962
+|18 January 1963
+|13 December 1991
+|Broken up at Alang, 1992
+|-
+|
+|A76
+|14 December 1961
+|11 December 1962
+|28 June 1963
+|13 August 1982
+|Sold to Chile as Almirante Jorge Montt, 1982
+|-
+|}
+
+==See also==
+*List of replenishment ships of the Royal Fleet Auxiliary
+*List of Royal Australian Navy ships
+*MARS tanker - new class of RFA replenishment ships that will reuse some of the Tide names
+

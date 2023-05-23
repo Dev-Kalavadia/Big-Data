@@ -1,0 +1,56 @@
+Title: Picus (bird)
+
+
+Picus is a genus of birds in the woodpecker family. It has representatives in Europe, Asia and North Africa. The genus name is Latin for "woodpecker". The genus Picus was erected by the Swedish naturalist Carl Linnaeus in 1758 in the tenth edition of his Systema Naturae.
+
+These are large woodpeckers, typically with green upperparts. They are found in forests or more open woodland, and lay their white eggs in a tree hole nest, typically on a bed of wood chips. Picus woodpeckers are primarily insect eaters, with several species specialising in taking ants or termites. Some species will also consume fruit or eggs.  Insects are captured by a rapid outward flick of the long tongue and gummed to its tip by sticky saliva. This genus is less completely arboreal than some other woodpecker groups, and its members often feed on the ground, attacking anthills or termitaries.
+
+==Taxonomy==
+The genus Picus was introduced in 1758 by the  Swedish naturalist Carl Linnaeus in the tenth edition of his Systema Naturae. The genus name is the Latin word for a woodpecker. Picus was a figure in Roman mythology, the first king of Latium who was changed into a woodpecker by the sorceress Circe. Of the 13 species in the genus listed by Linnaeus, the English naturalist William John Swainson designated the European green woodpecker (Picus viridis) as the type species.
+
+The genus contains 14 species:
+{| class="wikitable"
+|-
+! Image !! Common Name !! Scientific name !! Distribution
+|-
+|120px ||  Lesser yellownape||  Picus chlorolophus||  India, Bhutan, Nepal, Bangladesh and Sri Lanka eastwards to Thailand, Burma, Cambodia, Laos, Indonesia, Malaysia and Vietnam. 
+|-
+|120px ||  Crimson-winged woodpecker||  Picus puniceus||  Brunei, Indonesia, Malaysia, Myanmar, Singapore, and Thailand. 
+|-
+| ||  Streak-breasted woodpecker||  Picus viridanus|| southeastern Bangladesh to central Malay Peninsula.
+|-
+|120px ||  Laced woodpecker||  Picus vittatus|| Cambodia, China, Indonesia, Laos, Malaysia, Myanmar, Singapore, Thailand and Vietnam.
+|-
+|120px ||  Streak-throated woodpecker||  Picus xanthopygaeus||  Indian Subcontinent and Southeast Asia
+|-
+|120px ||  Scaly-bellied woodpecker||  Picus squamatus|| Afghanistan, Iran, India, Nepal, Pakistan, and Turkmenistan. 
+|-
+|120px ||  Japanese green woodpecker||  Picus awokera||  Japan. 
+|-
+|120px ||  European green woodpecker||  Picus viridis|| Europe south from southern Yugoslavia, Bulgaria, Asia Minor, northern Iran and south-west Turkmenistan. 
+|-
+|120px ||  Iberian green woodpecker|| Picus sharpei|| Europe
+|-
+|120px ||  Levaillant's woodpecker||  Picus vaillantii||  Morocco, Algeria and Tunisia in northwest Africa
+|-
+| ||  Red-collared woodpecker||  Picus rabieri|| Cambodia, China, Laos, and Vietnam. 
+|-
+|120px || Black-headed woodpecker||  Picus erythropygius||  Cambodia, Laos, Myanmar, Thailand, and Vietnam. 
+|-
+|120px || Grey-headed woodpecker ||  Picus canus||  Central, Northern and Eastern Europe, as well as a wide belt south of the boreal coniferous forests across Asia all the way to the Pacific coast, Sakhalin and Hokkaidō
+|-
+|
+|Sumatran woodpecker
+|Picus dedemi
+|Indonesia
+|-
+|}
+
+==Former species==
+The following were formerly included in Picus, but are now placed in Chrysophlegma.
+* Greater yellownape,  Chrysophlegma flavinucha
+* Checker-throated woodpecker,  Chrysophlegma mentalis
+* Banded woodpecker,   Chrysophlegma miniaceus
+
+An extinct woodpecker has been described from a fossil of a left tarsometatarsus dating from late Miocene. It may belong to this genus and has been given the binomial name Picus peregrinabundus.
+

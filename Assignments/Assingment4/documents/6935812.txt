@@ -1,0 +1,73 @@
+Title: Axenfeld–Rieger syndrome
+Axenfeld–Rieger syndrome is a rare  autosomal dominant disorder, which affects the development of the teeth, eyes, and abdominal region.
+
+Axenfeld–Rieger syndrome is part of the so-called iridocorneal or anterior segment dysgenesis syndromes,Stahl, E. D. (2014). Anterior Segment Dysgenesis. International Ophthalmology Clinics, 54(3), 95–104. which were formerly known as anterior segment cleavage syndromes, anterior chamber segmentation syndromes or mesodermal dysgenesis. Although the exact classification of this set of signs and symptoms is somewhat confusing in current scientific literature, most authors agree with the classification cited here. Axenfeld Anomaly is known as the development of a posterior embryotoxon, associated with strands of the iris adhered to a Schwalbe line that has been displaced anteriorly, which when added to glaucoma is called Axenfeld Syndrome. Rieger's Anomaly is defined by a universe of congenital anomalies of the iris, such as iris hypoplasia, corectopia or polycoria.Rieger H. Contributions to the knowledge of rare malformations of the iris II: hypoplasia of the iris stroma with dislocation and irregularity of the pupil. Albrecht von Graefes arch klin exp ophthalmol. 1935;133:602–635. When systemic findings are added to Rieger's anomaly, such as bone, facial and/or dental defects, it is known as Rieger syndrome. The combination of both entities gives rise to the Axenfeld-Rieger Anomaly when there are no systemic abnormalities and Axenfeld-Rieger Syndrome when there are.Shields MB. Axenfeld-Rieger syndrome: a theory of mechanism and distinctions from the iridocorneal endothelial syndrome. Trans Am Ophthalmol Soc. 1983;81:736-84.
+
+Axenfeld-Rieger Syndrome, is a rare disease that affects the eye bilaterally, with an estimated prevalence of 1/200,000 people, without gender predilection, and is characterized by autosomal dominant inheritance with complete penetrance of variable expressivity. The genes that have been identified in approximately 50% of cases are PITX2 and FOXC1.Mears AJ, Jordan T, Mirzayans F, et al. Mutaciones del gen forkhead / winged-helix, FKHL7, en pacientes con anomalía de Axenfeld-Rieger. Soy J Hum Genet. 1998; 63 : 1316-1328.Nishimura DY, Swiderski RE, Alward WL, et al. El gen del factor de transcripción forkhead FKHL7 es responsable de los fenotipos de glaucoma que se asignan a 6p25. Nat Genet. 1998; 19 : 140-147.Semina EV, Reiter R, Leysens NJ, et al. Clonación y caracterización de un nuevo gen del factor de transcripción homeobox relacionado con bicoides, RIEG, implicado en el síndrome de Rieger. Nat Genet. 1996; 14 : 392–399. Given the important hereditary factor, it is important to evaluate the most direct members of the family.
+
+To explain the ocular alterations, there is a theory of the mechanism postulated by Shields et al., which implies an arrest in the migration of neural crest cells towards the third trimester of gestation, which leads to the persistence of primordial endothelial tissue in the iris and anterior chamber angle. Contraction of these membranes after birth lead to the progressive changes seen in some patients. This primordial endothelium also generates an excessive and atypical basement membrane, especially near the limbal corneal junction, which accounts for the prominent Schwalbe line. In the case of secondary glaucoma, it would be the consequence of dysgenesis in the chamber sinus.
+
+==Signs and symptoms==
+
+Disease manifestations:
+
+Regarding the age of diagnosis, this differs according to the intensity of the symptoms, ranging from asymptomatic to florid symptoms, characterized by ocular and systemic diseases, affecting multiple organs that have in common their origin in the neural crest.
+
+Eye manifestations:
+Bilateral ocular manifestations are usually pathognomonic of the disease. In the case of children who develop glaucoma,De Hauwere RC, Leroy JG, Adriaenssens K, Van Heule R: Iris dysplasia, orbital hypertelorism, and psychomotor retardation: a dominantly inherited developmental syndrome. J Pediatr 82:679--81, 1973 they may attend the consultation with signs and symptoms of buphthalmos, photosensitivity, tearing, corneal decompensation, which associated with poor vision, can be completed with a strabismus. In the case of the adult, there is a greater chance of not presenting symptoms, so an ophthalmological control may be required to detect the problem. Using a slit lamp, a posterior embryotoxon characterized by a prominent anteriorly displaced Schwalbe's ring near the temporal corneal limbus can be revealed. The unexpected finding of a posterior embryotoxon as a single whitish irregular arcuate ridge, on routine examination, is not necessarily a diagnosis of ARS, as this occurs in a percentage estimated in the literature from 8% to 15% of the normal population.Waring GO 3rd, Rodrigues MM, Laibson PR. Anterior chamber cleavage syndrome. A stepladder classification. Surv Ophthalmol 1975;20:3e27. In the case of gonioscopy, we can observe that the extension of the posterior embryotoxon can be greater and be present in the 360○, with a variable thickness of the annulusIdrees, F., Vaideanu, D., Fraser, S. G., Sowden, J. C., & Khaw, P. T. (2006). A Review of Anterior Segment Dysgenesis. Survey of Ophthalmology, 51(3), 213–231. and unusually detached and hanging within the anterior chamber.Espana, E. M., Mora, R., Liebmann, J., & Ritch, R. (2007). Bilateral Prominent Schwalbe Ring in the Anterior Chamber in a Patient with Axenfeld-Rieger Syndrome and Megalocornea. Cornea, 26(3), 379–381. Regarding the iris, we can observe peripheral extensions to Schwalbe's line, which can be thin or thick and extend over the trabecular meshwork, obscuring the scleral spur and even pulling the iris and producing corectopia in iris tissue that can range from atrophy mild stromal to the presence of uveal ectropion, pseudopolycoria or even absence of iris. These chamber sinus anomalies predispose half of the cases to open-angle glaucoma, which can manifest throughout life and therefore require regular ophthalmological check-ups.Chang, T. C., Summers, C. G., Schimmenti, L. A., & Grajewski, A. L. (2011). Axenfeld-Rieger syndrome: new perspectives: Figure 1. British Journal of Ophthalmology, 96(3), 318–322.Shields, M. B., Buckley, E., Klintworth, G. K., & Thresher, R. (1985). Axenfeld-Rieger syndrome. A spectrum of developmental disorders. Survey of Ophthalmology, 29(6), 387–409. Other related anomalies are strabismus due to alteration in the insertions of the extraocular muscles or secondary to amblyopia, and with a predisposition to exotropia and retinal detachment.Park SW, Kim HG, Heo H, et al. Anomalous sclera insertion of superior oblique in Axenfeld-Rieger syndrome. Korean J Ophthalmol 2009;23:62e4.Spallone A. Retinal detachment in Axenfeld-Rieger syndrome. Br J Ophthalmol 1989;73:559e62
+
+Systemic manifestations:
+In the case of pathologies that affect the extraocular organs, greater attention must be paid to anomalies in the cardiovascular system,Antevil J, Umakanthan R, Leacche M, et al. Idiopathic mitral valve disease in a patient presenting with Axenfeld-Rieger syndrome. J Heart Valve Dis 2009;18:349e51.Mammi I, De Giorgio P, Clementi M, et al. Cardiovascular anomaly in Rieger syndrome: heterogeneity or contiguity? Acta Ophthalmol Scand 1998;76: 509e12. since they represent the most worrying associations due to their repercussions at the systemic level. These are present in different structures that make it up, such as heart valve defects, the presence of Fallot's tetralogy,Brear DR & Insler MS (1985): Axenfeld's Syndrome associated with systemic abnormalities. Ann Ophthalmol 17: 291–294. atrial septal defectsCunningham ET Jr, Eliott D, Miller NR, et al. Familial Axenfeld-Rieger anomaly, atrial septal defect, and sensorineural hearing loss: a possible new genetic syndrome. Arch Ophthalmol 1998;116:78e82. or persistent truncus arteriosus.Gurbuz-Koz O, Atalay T, Koz C, et al. Axenfeld-Rieger syndrome associated with truncus arteriosus: a case report. Turk J Pediatr 2007;49:444e7 Other alterations described are craniofacial anomalies associated with hypoplasia of the midface, hypertelorism, telecanthus, maxillary hypoplasia, short nasolabial fold, thin upper lip and larger everted lower lip, which are typical facial characteristics although expressed in a variable way.Jena AK, Kharbanda OP. Axenfeld-Rieger syndrome: report on dental and craniofacial findings. J Clin Pediatr Dent 2005;30:83e8. Maxillary hypoplasia and poor tooth development produce a prognathic profile. Inspection of the oral cavity may show microdontia, hypodontia, oligodontia, and a thickened frenulum. The crowns of the anterior teeth may be conical or peg-shaped and the roots may be shortened, the gingival attachments may be reduced, and the enamel may be hypoplastic, contributing to poor dental health. There are other described associations such as umbilical,Shields, M. B., Buckley, E., Klintworth, G. K., & Thresher, R. (1985). Axenfeld-Rieger syndrome. A spectrum of developmental disorders. Survey of Ophthalmology, 29(6), 387–409Friedman JM: Umbilical dysmorphology. The importance of contemplating the belly button Clin Genet 28:343--7, 1985.Jorgenson RJ, Levin LS, Cross HE, et al: The Rieger syndrome. Am J Med Genet 2:307--18, 1978. auditory,De Hauwere RC, Leroy JG, Adriaenssens K, Van Heule R: Iris dysplasia, orbital hypertelorism, and psychomotor retardation: a dominantly inherited developmental syndrome. J Pediatr 82:679--81, 1973. pituitary,Kleinmann, R. E., Kazarian, E. L., Raptopoulos, V., & Braverman, L. E. (1981). Primary Empty Sella and Rieger's Anomaly of the Anterior Chamber of the Eye. New England Journal of Medicine, 304(2), 90–93. psychomotor, size,Brodsky MC, Whiteside-Michel J, Merin LM: Rieger anomaly and congenital glaucoma in the SHORT syndrome. Arch Ophthalmol 114:1146--7, 1996. urethral and analCrawford RA: Iris dysgenesis with other anomalies. Br J Ophthalmol 51:438--40, 1967. anomalies as well as albinism.Lubin, J. R. (1981). Oculocutaneous Albinism Associated with Corneal Mesodermal Dysgenesis. American Journal of Ophthalmology, 91(3), 347–350.
+
+==Pathophysiology==
+
+
+
+The molecular genetics of Axenfeld–Rieger syndrome are poorly understood, but center on three genes identified by cloning of chromosomal breakpoints from patients.
+
+This disorder is inheritable as an autosomal dominant trait, which means the defective gene is located on an autosome, and only one copy of the gene is sufficient to cause the disorder when inherited from a parent who has the disorder.  As shown in the diagram, this gives a 50/50 chance of offspring inheriting the condition from an affected parent.
+
+==Diagnosis==
+
+Although most recognized for its correlation with the onset of glaucoma, the malformation is not limited to the eye, as Axenfeld–Rieger syndrome when associated with the PITX2 genetic mutation usually presents congenital malformations of the face, teeth, and skeletal system.
+
+The most characteristic feature affecting the eye is a distinct corneal posterior arcuate ring, known as an "embryotoxon". In severe cases, iris may be adherent to the cornea anterior to the Schwalbe's line.
+
+One of the three known genetic mutations which cause Rieger syndrome can be identified through genetic samples analysis. About 40% of people with Axenfeld–Rieger have displayed mutations in genes PITX2, FOXC1, and PAX6. The difference between Type 1, 2, and 3 Axenfeld–Rieger syndrome is the genetic cause, all three types display the same symptoms and abnormalities.
+
+===Classification===
+The OMIM classification is as follows:
+
+{| class="wikitable"
+|-
+! Type
+! OMIM
+! Gene
+|-
+| Type 1
+| 
+| PITX2
+|-
+| Type 2
+| 
+| possibly FOXO1A
+|-
+| Type 3
+| 
+| FOXC1
+|-
+| DeHauwere syndrome
+| 
+| Unknown
+|}
+
+Detection of any of these mutations can give patients a clear diagnosis and prenatal procedures such as preimplantation genetic diagnosis, chorionic villus sampling and amniocentesis can be offered to patients and prospective parents.
+
+==Management==
+One of the surgical techniques used to treat this rare disease is the Phakic Retroiridian Pupilloplasty is an original surgical technique involving the creation of a sclerocorneal incision through a peripheral iridotomy, with the surgeon working behind the iris and creating a neopupil with an anterior chamber vitrectome. It requires very few follow-up visits and the patient's recovery is fast.
+
+==Eponym==
+It is named after the German ophthalmologist Theodor Axenfeld who studied anterior segment disorders, especially those such as Rieger syndrome and the Axenfeld anomaly.
+
+Axenfeld–Rieger syndrome is characterized by abnormalities of the eyes, teeth, and facial structure. Rieger syndrome, by medical definition, is determined by the presence of malformed teeth, underdeveloped anterior segment of the eyes, and cardiac problems associated with the Axenfeld anomaly. The term "Rieger syndrome" is sometimes used to indicate an association with glaucoma. Glaucoma occurs in up to 50% of patients with Rieger syndrome. Glaucoma develops during adolescence or late childhood, but often occurs in infancy. In addition, a prominent Schwalbe's line, an opaque ring around the cornea known as posterior embryotoxon, may arise with hypoplasia of the iris. Below average height and stature, stunted development of the mid-facial features and mental deficiencies may also be observed in patients.
+

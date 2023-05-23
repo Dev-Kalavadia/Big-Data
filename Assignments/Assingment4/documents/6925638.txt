@@ -1,0 +1,43 @@
+Title: Elizabeth Fulhame
+
+
+
+
+Elizabeth Fulhame (fl. 1794) was an early British chemist who invented the concept of catalysis and discovered photoreduction. She was described as 'the first solo woman researcher of modern chemistry'.
+
+Although she only published one text, she describes catalysis as a process at length in her 1794 book An Essay On Combustion with a View to a New Art of Dying and Painting, wherein the Phlogistic and Antiphlogistic Hypotheses are Proved Erroneous. The book relates in painstaking detail her experiments with oxidation-reduction reactions, and the conclusions she draws regarding phlogiston theory, in which she disagrees with both the Phlogistians and Antiphlogistians.
+
+In 1798, the book was translated into German by Augustin Gottfried Ludwig Lentin as Versuche über die Wiederherstellung der Metalle durch Wasserstoffgas. In 1810, it was published in the United States, to much critical acclaim. That same year, Fulhame was made an honorary member of the Philadelphia Chemical Society. Thomas P. Smith applauded her work, stating that "Mrs. Fulhame has now laid such bold claims to chemistry that we can no longer deny the sex the privilege of participating in this science also."
+
+==Personal life ==
+Elizabeth Fulhame published under her married name, as Mrs. Fulhame. She was married to Thomas Fulhame, an Irish-born physician who had attended the University of Edinburgh and studied puerperal fever as a student of Andrew Duncan (1744-1828).Fulhame, T. (1784). Dissertatio de febre puerperarum. Academiæ Edinburgenæ, facultatis medicæ; pro gradu doctoris. Thomas Fulhame, M.A. hibernus. Ad diem 13. Septemb. Edinburgi: Apud Balfour et Smellie, academiae typographos.  University of Edinburgh, Centre for Research Collections. Dr Thomas Fulhame was listed in Edinburgh directories between 1784-1800 (Bristo Square in 1784, Bristo Street in 1794, at 9 Society 1799, in Brown's Square 1800). She is believed by some to have been Scottish, but the evidence for this seems to be little more than that her husband studied in Edinburgh — on that basis Charles Darwin's wife Emma could be claimed as Scottish, but she clearly was not. Sir Benjamin Thompson, Count Rumford, referred to her as "the ingenious and lively Mrs. Fulhame", however this opinion may reflect the style of her book.
+
+==Work==
+ thumb|right | An essay on combustion : with a view to a new art of dying and painting. Wherein the phlogistic and antiphlogistic hypotheses are proven erroneous, 1794
+Mrs. Fulhame's work began with her interest in finding way of staining cloth with heavy metals under the influence of light. She originally considered calling her work An Essay on the Art of making Cloths of Gold, Silver, and other Metals, by chymical processes, but considering the "imperfect state of the art", decided to select a title reflecting the broader implications of her experiments.
+ 
+
+
+She was apparently encouraged to publish an account of her 14 years of research as a result of meeting Sir Joseph Priestley in 1793. Fulhame studied the experimental reduction of metallic salts in a variety of states (aqueous solution, dry state, and sometimes an ether or alcohol solution) by exposing them to the action of various reducing agents. The metal salts she examined included gold, silver, platinum, mercury, copper, and tin. As reducing agents, she experimented with hydrogen, gas, phosphorus, potassium sulfide, hydrogen sulfide, phosphine, charcoal, and light. She discovered a number of chemical reactions by which metal salts could be reduced to pure metals. Rayner-Canham considers her most important contribution to chemistry to be the discovery that metals could be processed through aqueous chemical reduction at room temperature, as an alternative to smelting at high temperatures.
+
+Her theoretical work on catalysis was "a major step in the history of chemistry", predating both Jöns Jakob Berzelius and Eduard Buchner. She proposed, and demonstrated through experiment, that many oxidation reactions occur only in the presence of water, that they directly involve water, and that water is regenerated and is detectable at the end of the reaction. Further, she proposed "recognisably modern mechanisms" for those reactions, and may have been the first scientist to do so. The role of oxygen, as she describes it, differs significantly from other theories of the time. Based on her experiments, she disagreed with some of the conclusions of Antoine Lavoisier as well as with the phlogiston theorists that he critiqued. Her research could be seen as a precursor to the work of Jöns Jakob Berzelius, however Fulhame focused specifically on water rather than heavy metals.
+
+Further, Eder, in 1905, and Schaaf consider her work on silver chemistry
+ to be a landmark in the birth and early history of photography. Fulhame's work on the role of light sensitive chemicals (silver salts) on fabric, predates Thomas Wedgwood's more famous photogram trials of 1801. Fulhame did not, however, attempt to make "images" or representational shadow prints in the way Wedgwood did, but she did engage in photoreduction using light.
+
+==Reception ==
+In addition to her book being republished in Germany and America, Fulhame's experiments were reviewed in a French journal, and several British magazines, and were positively commented on by Sir Benjamin Thompson, Count Rumford, and Sir John Herschel.
+
+According to the introduction of her book by her American editor in 1810, her work was lesser known than it could or should have been, adding that "the pride of science, revolted at the idea of being taught by a female". 
+
+Indeed, Fulhame acknowledges in her own introduction that the possessive climate of science during her historical moment balked at challenges to their "dictatorship in science" by new insight from a woman, as recounted in a book chapter about her as the inventor of catalysis:
+
+
+
+Fulhame published her experiments on reductions using water with metals in a book in the first place in order not to be "plagiarized." She also describes her book as possibly serving as "a beacon to future mariners" (e.g. women) taking up scientific inquiries. Antoine Lavoisier was executed six months before the publication of her book and thus could not respond to her theory. Irish chemist William Higgins complained that she had ignored his work on the involvement of water in the rusting of iron, but magnanimously concluded "I read her book with great pleasure, and heartily wish that her laudible example may be followed by the rest of her sex." 
+
+Fulhame's work was largely forgotten by the end of the 19th  century, but it was rediscovered by J. W. Mellor.  In the 20th century, she was noted in Physics Today, as being the first to 'systematically' vary 'her reaction conditions' and to 'generalise a whole class of reactions.... the reduction of metals' and first to suggest an explanation for the situations where 'water dissociated into its ionic form, facilitated the intermediate reaction steps, and was regenerated by the end of the metal reduction.'
+
+==See also==
+*Timeline of women in science
+

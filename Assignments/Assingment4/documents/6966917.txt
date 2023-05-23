@@ -1,0 +1,103 @@
+Title: Cureglia
+
+
+Cureglia is a municipality in the district of Lugano in the canton of Ticino in Switzerland.
+
+==History==
+Cureglia is first mentioned in 1335 as Curea or Curilia.
+
+In 1468, the village of Comano, which belonged to Cureglia, broke away from the parish of Lugano.  Cureglia became an independent parish in 1594.  The parish church of S. Cristoforo, was first mentioned in 1420.  In the 19th century it was totally rebuilt.  The Chapel of S. Maria del Buon Consiglio was built in the 18th century.
+
+The village was predominantly agricultural and produced mostly wine and cheese.  However, a number of craftsman families, including the Caresana, Rinaldi, Saroli, Tarilli and Brilli, moved away in the 16th and 17th centuries for work in other European countries.  Successful members of the families moved back to the village and built large homes, which are still standing in the village.  The progressive urbanization of the surrounding area of Lugano and the establishment of the television studios in Comano favored a rapid increase in population.  From 1950 to 2000, the number of residents quadrupled and housing was built outside the old village core.
+
+==Geography==
+thumb|Aerial view (1964)
+Cureglia has an area, , of .  Of this area,  or 46.2% is used for agricultural purposes, while  or 45.3% is forested.   Of the rest of the land,  or 45.3% is settled (buildings or roads).
+
+Of the built up area, housing and buildings made up 34.9% and transportation infrastructure made up 4.7%.  Power and water infrastructure as well as other special developed areas made up 1.9% of the area while parks, green belts and sports fields made up 3.8%.  Out of the forested land, 38.7% of the total land area is heavily forested and 6.6% is covered with orchards or small clusters of trees.  Of the agricultural land, 10.4% is used for growing crops and 34.9% is used for alpine pastures.Altitudine, superficie, secondo il genere di utilizzazione, rilevazione 1992/1997, e densità della popolazione, nel 2000  accessed 25 October 2010
+
+The municipality is located in the Lugano district, at the watershed between Val Vedeggio and Valle del Cassarate.
+
+==Coat of arms==
+The blazon of the municipal coat of arms is Or a hatsable with a feather gules.Flags of the World.com accessed 6 January 2011
+
+==Demographics==
+Cureglia has a population () of .  , 15.1% of the population are resident foreign nationals.Swiss Federal Statistical Office - Superweb database - Gemeinde Statistics 1981-2008   accessed 19 June 2010  Over the last 10 years (1997–2007) the population has changed at a rate of 2.1%.
+
+Most of the population () speaks Italian (87.8%), with German being second most common (7.7%) and French being third (2.1%).Swiss Federal Statistical Office  accessed 6 January 2011  Of the Swiss national languages (), 94 speak German, 26 people speak French, 1,070 people speak Italian, and 1 person speaks Romansh.  The remainder (28 people) speak another language.Popolazione residente, secondo la lingua principale e la religione, nel 2000   accessed 23 November 2010
+
+, the gender distribution of the population was 50.0% male and 50.0% female.  The population was made up of 546 Swiss men (41.8% of the population), and 107 (8.2%) non-Swiss men.  There were 567 Swiss women (43.4%), and 87 (6.7%) non-Swiss women.
+
+In  there were 20 live births to Swiss citizens and were 4 deaths of Swiss citizens and 2 non-Swiss citizen deaths.  Ignoring immigration and emigration, the population of Swiss citizens increased by 16 while the foreign population decreased by 2.  There was 1 Swiss man and 2 Swiss women who emigrated from Switzerland.  At the same time, there was 1 non-Swiss man and 9 non-Swiss women who immigrated from another country to Switzerland.  The total Swiss population change in 2008 (from all sources, including moves across municipal borders) was an increase of 35 and the non-Swiss population change was an increase of 13 people.  This represents a population growth rate of 3.8%.
+
+The age distribution, , in Cureglia is; 140 children or 10.7% of the population are between 0 and 9 years old and 141 teenagers or 10.8% are between 10 and 19.  Of the adult population, 140 people or 10.7% of the population are between 20 and 29 years old.  207 people or 15.8% are between 30 and 39, 191 people or 14.6% are between 40 and 49, and 181 people or 13.8% are between 50 and 59.  The senior population distribution is 165 people or 12.6% of the population are between 60 and 69 years old, 95 people or 7.3% are between 70 and 79, there are 47 people or 3.6% who are over 80.01.02.03 Popolazione residente permanente   accessed 23 November 2010
+
+, there were 497 private households in the municipality, and an average of 2.5 persons per household.   there were 217 single family homes (or 66.6% of the total) out of a total of 326 inhabited buildings.  There were 61 two family buildings (18.7%) and 39 multi-family buildings (12.0%).  There were also 9 buildings in the municipality that were multipurpose buildings (used for both housing and commercial or another purpose). 09.02.01 Edifici   accessed 23 November 2010
+
+The vacancy rate for the municipality, , was 0%.   there were 547 apartments in the municipality.  The most common apartment size was the 5 room apartment of which there were 190.  There were 22 single room apartments and 190 apartments with five or more rooms.  09.02.02 Abitazioni   accessed 23 November 2010  Of these apartments, a total of 497 apartments (90.9% of the total) were permanently occupied, while 41 apartments (7.5%) were seasonally occupied and 9 apartments (1.6%) were empty.  , the construction rate of new housing units was 0.8 new units per 1000 residents.
+
+The historical population is given in the following chart:Popolazione residente, dal 1850   accessed 23 November 2010
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.8)
+ImageSize  = width:1200 height:210
+PlotArea   = height:150 left:100 bottom:50 right:100
+AlignBars  = justify
+DateFormat = x.y
+Period     = from:0 till:1300
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:500 start:0
+ScaleMinor = gridcolor:lightgrey increment:100 start:0
+PlotData=
+  color:yellowgreen width:40   mark:(line,white) align:center
+  bar:1591 from:start till:120 
+  bar:1591 at:150 fontsize:M text: "[[Hearth tax|35 Hearths]]"  shift:(16,5)
+  bar:1696 from:start till:200 text:"200"
+  bar:1769 from:start till:218 text:"218"
+  bar:1801 from:start till:175 text:"175"
+  bar:1850 from:start till:277 text:"277"
+  bar:1860 from:start till:271 text:"271"
+  bar:1870 from:start till:271 text:"271"
+  bar:1880 from:start till:304 text:"304"
+  bar:1890 from:start till:306 text:"306"
+  bar:1900 from:start till:304 text:"304"
+  bar:1910 from:start till:305 text:"305"
+  bar:1920 from:start till:294 text:"294"
+  bar:1930 from:start till:294 text:"294"
+  bar:1941 from:start till:297 text:"297"
+  bar:1950 from:start till:335 text:"335"
+  bar:1960 from:start till:376 text:"376"
+  bar:1970 from:start till:526 text:"526"
+  bar:1980 from:start till:763 text:"763"
+  bar:1990 from:start till:1045 text:"1,045"
+  bar:2000 from:start till:1219 text:"1,219"
+
+
+==Politics==
+In the 2007 federal election the most popular party was the FDP which received 35.21% of the vote.  The next three most popular parties were the CVP (29.46%), the SP (12.29%) and the Ticino League (8.59%).  In the federal election, a total of 525 votes were cast, and the voter turnout was 60.3%.Swiss Federal Statistical Office, Nationalratswahlen 2007: Stärke der Parteien und Wahlbeteiligung, nach Gemeinden/Bezirk/Canton   accessed 28 May 2010
+
+In the  Gran Consiglio election, there were a total of 892 registered voters in Cureglia, of which 629 or 70.5% voted.  7 blank ballots and 1 null ballot were cast, leaving 621 valid ballots in the election.  The most popular party was the PLRT which received 190 or 30.6% of the vote.  The next three most popular parties were; the SSI (with 107 or 17.2%), the PPD+GenGiova (with 96 or 15.5%) and the PS (with 80 or 12.9%). Elezioni cantonali: Gran Consiglio, Consiglio di Stato   accessed 23 November 2010
+
+In the  Consiglio di Stato election, 4 blank ballots and 3 null ballots were cast, leaving 622 valid ballots in the election.  The most popular party was the PLRT which received 177 or 28.5% of the vote.  The next three most popular parties were; the LEGA (with 118 or 19.0%), the PPD (with 103 or 16.6%) and the PPD (with 103 or 16.6%).
+
+==Economy==
+, Cureglia had an unemployment rate of 2.29%.  , there were  people employed in the primary economic sector and about  businesses involved in this sector.  15 people were employed in the secondary sector and there were 4 businesses in this sector.  91 people were employed in the tertiary sector, with 31 businesses in this sector.  There were 575 residents of the municipality who were employed in some capacity, of which females made up 39.1% of the workforce.
+
+, there were 181 workers who commuted into the municipality and 479 workers who commuted away.  The municipality is a net exporter of workers, with about 2.6 workers leaving the municipality for every one entering.  About 16.6% of the workforce coming into Cureglia are coming from outside Switzerland.Swiss Federal Statistical Office - Statweb  accessed 24 June 2010  Of the working population, 5.7% used public transportation to get to work, and 71.7% used a private car.
+
+==Religion==
+From the , 994 or 81.5% were Roman Catholic, while 94 or 7.7% belonged to the Swiss Reformed Church.  There are 107 individuals (or about 8.78% of the population) who belong to another church (not listed on the census), and 24 individuals (or about 1.97% of the population) did not answer the question.
+
+==Education==
+The entire Swiss population is generally well educated.  In Cureglia about 83.7% of the population (between age 25-64) have completed either non-mandatory upper secondary education or additional higher education (either University or a Fachhochschule).
+
+In Cureglia there were a total of 228 students ().  The Ticino education system provides up to three years of non-mandatory kindergarten and in Cureglia there were 43 children in kindergarten.  The primary school program lasts for five years and includes both a standard school and a special school.  In the municipality, 62 students attended the standard primary schools and 1 student attended the special school.  In the lower secondary school system, students either attend a two-year middle school followed by a two-year pre-apprenticeship or they attend a four-year program to prepare for higher education.  There were 52 students in the two-year middle school, while 31 students were in the four-year advanced program.
+
+The upper secondary school includes several options, but at the end of the upper secondary program, a student will be prepared to enter a trade or to continue on to a university or college.  In Ticino, vocational students may either attend school while working on their internship or apprenticeship (which takes three or four years) or may attend school followed by an internship or apprenticeship (which takes one year as a full-time student or one and a half to two years as a part-time student).  There were 20 vocational students who were attending school full-time and 17 who attend part-time.
+
+The professional program lasts three years and prepares a student for a job in engineering, nursing, computer science, business, tourism and similar fields.  There were 2 students in the professional program. Allievi e studenti, secondo il genere di scuola, anno scolastico 2009/2010   accessed 23 November 2010
+
+, there were 3 students in Cureglia who came from another municipality, while 141 residents attended schools outside the municipality.
+

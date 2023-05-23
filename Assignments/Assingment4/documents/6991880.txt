@@ -1,0 +1,10 @@
+Title: Network (video game)
+
+Network is a real-time, two player business simulation game developed by David Mullich for the Apple II and published by Edu-Ware in 1980.
+
+==Gameplay==
+Two players play competitively against the computer, each taking the role of the programming chief for a major television network.  Each side bids on new television shows to add to the season's line-up, schedules them, monitors the weekly ratings, and then drops shows with poor ratings or reschedules them to recover from mistakes at the end of the thirteen-week season.  The side with the highest ratings is the winner.
+
+==Reception==
+Bruce Webster reviewed Network in The Space Gamer No. 31. Webster commented that "Unfortunately, I just could not get interested in the game. It moves slowly and requires (for intelligent play) that the players keep track of a lot of information that is not always easily accessible. One friend I played against quit out of boredom at one point, and I found myself yawning. There is a lack of tension, which means that personal interest must be the overriding factor in playing the game - and I'm just not that interested in network planning. If you are, then this is the game for you; otherwise, I'm afraid you'll just be disappointed."
+

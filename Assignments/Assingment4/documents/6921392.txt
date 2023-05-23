@@ -1,0 +1,838 @@
+Title: Parsec Awards
+
+The Parsec Awards were a set of annual awards created to recognize excellence in science fiction podcasts and podcast novels. The awards were created by Mur Lafferty, Tracy Hickman and Michael R. Mennenga and awarded by FarPoint Media. They were first presented in 2006 at DragonCon. In 2009 the awards were described as "one of the most recognizable honors in science and fiction podcasting". The awards were given from 2006 to 2018.
+
+Nominations were accepted from the listening public annually in each of the categories. The list was vetted for eligibility by the steering committee before producers were invited to submit samples of work for consideration by a panel of judges. The panel reduced the list of nominees to five finalists in each category. The finalists' work was submitted for judging and the winner was selected by that panel of authors, podcasters, and others knowledgeable in the field of speculative fiction, podcasting, and/or publishing. Past finalist judges have included Catherine Asaro, Charles de Lint, Cory Doctorow, and Evo Terra.
+
+The awards were last presented in 2018.
+
+== Winners ==
+{| class="wikitable sortable"
+|+2018
+!Category
+!Winner
+!Creator
+!
+|-
+!Best Speculative Fiction Audio Drama (Long Form)
+|Uncanny County 
+|Todd Faulkner, Alison Crane, William Franke, Nicole Greevy, and Jessica Walker
+| rowspan="13" |
+|-
+!Best Speculative Fiction Audio Drama (Short Form)
+|The Axe and Crown
+|Eli McIlveen and Sean Howard
+|-
+!Best Speculative Fiction Story: Large Cast (Short Form)
+|"Buddies for Hire", The Gray Area
+|Edward Champion
+|-
+!Best Speculative Fiction Story: Small Cast (Long Form)
+|Derelict: Tomb
+|Paul E. Cooley (Shadow Publications)
+|-
+!Best Speculative Fiction Story: Small Cast (Short Form)
+|"Six Jobs", PodCastle
+|Tim Pratt
+|-
+!Best Speculative Fiction Magazine or Anthology Podcast
+|Escape Pod
+|
+|-
+!Best Fact Behind the Fiction Podcast
+|Astronomy Cast
+|
+|-
+!Best Speculative Fiction Fan or News Podcast (General)
+|Kalanadi
+|
+|-
+!Best Speculative Fiction Fan or News Podcast (Specific)
+|To the Journey!
+|
+|-
+!Best Podcast about Speculative Fiction Content Creation
+|Under the Puppet
+|
+|-
+!Best Speculative Fiction Video Story
+|Active Radioactive Radio
+|
+|-
+!Best New Speculative Fiction Podcaster or Team
+|The Phenomenon
+|
+|-
+!Best Speculative Fiction Comedy or Parody Podcast
+|Robotz of the Company
+|
+|}
+{| class="wikitable sortable"
+|+2017
+!Category
+!Winner
+!Creator
+!
+|-
+!Best Speculative Fiction Comedy or Parody Podcast
+|Star Wars Best in Galaxy (Season 3)
+|Mark Restuccia and Patch Hyde
+| rowspan="14" |
+|-
+!Best Podcast about Speculative Fiction Content Creation
+|Calliope Writing Coach Podcast
+|Angie Fenimore and Michael Sheen (Dandelion Productions)
+|-
+!Best Speculative Fiction Fan or News Podcast (Specific)
+|Aggressive Negotiations: A Star Wars Podcast
+|John Mills and Matt Rushing
+|-
+!Best Speculative Fiction Magazine or Anthology Podcast
+|The Theatre of Tomorrow
+|Travis McMaster and Mark Whitten
+|-
+!Best Speculative Fiction Fan or News Podcast (General)
+|The Faculty of Horror
+|Andrea Subissati and Alexandra West
+|-
+!Best Fact Behind the Fiction Podcast
+|Talk Nerdy with Cara Santa Maria
+|Cara Santa Maria
+|-
+!Best Speculative Fiction Video Story
+|The Uncle Interloper Show
+|Grant Baciocco
+|-
+!Best New Speculative Fiction Podcaster or Team
+|MarsCorp
+|Definitely Human
+|-
+!Best Speculative Fiction Audio Drama (Long Form)
+|Uncanny County
+|Todd Faulkner, Alison Crane, and Nicole Greevy
+|-
+!Best Speculative Fiction Story: Large Cast (Short Form)
+|"Genie", Return Home
+|Maia Brown-Jackson
+|-
+!Best Speculative Fiction Story: Small Cast (Long Form)
+|"Things Unseen", The Raven and the Writing Desk
+|Chris Lester
+|-
+!Best Speculative Fiction Story: Small Cast (Short Form)
+|"Shadows", The Wicked Library
+|K. B. Goddard
+|-
+!Best Speculative Fiction Story: Small Cast (Novella Form)
+|Six Stories, Told at Night
+|K. T. Bryski
+|-
+!Best Speculative Fiction Audio Drama (Short Form)
+|"Woods Ferry", Campfire Radio Theater
+|John Ballentine
+|}
+{| class="wikitable sortable"
+|+2016
+!Category
+!Winner
+!Creator
+!
+|-
+!Best Speculative Fiction Comedy or Parody Podcast
+|"The Voyages of the USS Sisyphus", Improvised Star Trek
+|Christopher Rathjen
+| rowspan="14" |
+|-
+!Best Podcast about Speculative Fiction Content Creation
+|The Journeyman Writer
+|Alastair Stephens
+|-
+!Best Speculative Fiction Fan or News Podcast (Specific)
+|Verity!
+|Deborah Stanish, Erika Ensign, Katrina Griffiths, L. M. Myles, Lynne M. Thomas, and Tansy Rayner Roberts
+|-
+!Best Speculative Fiction Magazine or Anthology Podcast
+|The Uncanny Magazine Podcast
+|Lynne M. Thomas, Michael Damian Thomas, Erika Ensign, and Steven Schapansky
+|-
+!Best Speculative Fiction Fan or News Podcast (General)
+|The Incomparable
+|Jason Snell
+|-
+!Best Fact Behind the Fiction Podcast
+|Universe Today's Guide to Space
+|Fraser Cain
+|-
+!Best Speculative Fiction Video Story
+|The Ultimate Nerd-ament
+|Grant Baciocco and Russ Walko
+|-
+!Best New Speculative Fiction Podcaster or Team
+|Uncanny County
+|Todd Faulkner and Alison Crane
+|-
+!Best Speculative Fiction Audio Drama (Long Form)
+|Uncanny County
+|Todd Faulkner and Alison Crane
+|-
+!Best Speculative Fiction Story: Large Cast (Long Form)
+|"Property Damage Claim #1-1403986", Reading Out Loud
+|Ryan P. Duke
+|-
+!Best Speculative Fiction Story: Small Cast (Long Form)
+|After the Plague
+|Mike Bennett
+|-
+!Best Speculative Fiction Story: Small Cast (Short Form)
+|"Graves", Tales to Terrify
+|Justin Cawthorne
+|-
+!Best Speculative Fiction Audio Drama (Short Form)
+|"Balance of Darkness", The Galaxy Quest Restoration Project
+|David A. Mackenzie
+|-
+!Best Speculative Fiction Story: Large Cast (Short Form)
+|"Oddfellows Local", The Voice of Free Planet X  
+|Jared Axelrod
+|}
+{| class="wikitable sortable"
+|+2015
+!Category
+!Winner
+!Creator
+!
+|-
+!Best Speculative Fiction Audio Drama (Long Form)
+|"The Sinister Secret of StarNasty" or "A Mike in the Mechanics", Hadron Gospel Hour
+|Michael McQuilkin and Richard Wentworth
+| rowspan="13" |
+|-
+!Best Speculative Fiction Audio Drama (Short Form)
+|Aaron's World
+|Mike Meraz and Aaron Meraz
+|-
+!Best Podcast about Speculative Fiction Content Creation
+|The Journeyman Writer
+|
+|-
+!Best Speculative Fiction Comedy or Parody Podcast
+|[1] New Message
+|
+|-
+!Best Fact Behind the Fiction Podcast
+|Universe Today's Guide to Space
+|
+|-
+!Best Speculative Fiction Fan or News Podcast (General)
+|The Incomparable
+|
+|-
+!Best Speculative Fiction Fan or News Podcast (Specific)
+|The Scot and the Sassenach
+|
+|-
+!Best Speculative Fiction Story: Large Cast (Short Form)
+|"Last Contact", The Dunesteef Audio Fiction Magazine
+|Rish Outfield and Bigg Anklevich
+|-
+!Best Speculative Fiction Magazine or Anthology Podcast
+|Seminar
+|
+|-
+!Best New Speculative Fiction Podcaster or Team
+|PleasureTown
+|
+|-
+!Best Speculative Fiction Story: Small Cast (Novella and Long Form)
+|The Black
+|
+|-
+!Best Speculative Fiction Story: Small Cast (Short Form)
+|"O'Malley’s Media Storm", Seminar
+|V. C. Morrison
+|-
+!Best Speculative Fiction Video Story
+|Mario Warfare
+|
+|}
+{| class="wikitable sortable"
+|+2014
+!Category
+!Winner
+!Creator
+!
+|-
+!Best Speculative Fiction Story: Small Cast (Short Form)
+|"Growth Spurt", Pseudopod
+|Paul Lorello
+| rowspan="14" |
+|-
+!Best Speculative Fiction Story: Small Cast (Novella Form)
+|"Blood and Smoke", Underwood and Flinch
+|Mike Bennett
+|-
+!Best Speculative Fiction Story: Large Cast (Short Form)
+|"Dirty Hands", Seminar: An Original Anthology Show
+|Niall Kitson
+|-
+!Best Speculative Fiction Story: Long Form
+|Fire on the Mound
+|William J. Meyer
+|-
+!Best Speculative Fiction Audio Drama (Short Form)
+|"Tallington", We Are Not Alone
+|Jon Thrower
+|-
+!Best Speculative Fiction Audio Drama (Long Form)
+|We're Alive: A Story of Survival
+|Kc Wayland
+|-
+!Best Speculative Fiction Video Story
+|Once Upon a Time in the 1970s
+|Chris and Anne Lukeman
+|-
+!Best Speculative Fiction Magazine or Anthology Podcast
+|The NoSleep Podcast
+|David Cummings
+|-
+!Best New Speculative Fiction Podcaster or Team
+|Hadron Gospel Hour
+|Richard Wentworth, Michael McQuilkin, Lisa McQuilkin, and Michael Atkinson
+|-
+!Best Speculative Fiction Fan or News Podcast (Specific)
+|Cyborgs: A Bionic Podcast
+|John S. Drew and Paul K. Bisson
+|-
+!Best Speculative Fiction Fan or News Podcast (General)
+|Sword & Laser
+|Veronica Belmont and Tom Merritt
+|-
+!Best Podcast about Speculative Fiction Content Creation
+|StoryWonk Sunday
+|Lani Diane Rich and Alastair Stephens
+|-
+!Best Fact Behind the Fiction Podcast
+|Universe Today's Guide to Space
+|Fraser Cain
+|-
+!Best Speculative Fiction Comedy or Parody Podcast
+|DragonConTV
+|Brian Richardson, Stephen Granade, Alex White, Chris Lloyd, Tommy Byrd, Patrick Freeman, and Rachel Pendergrass
+|}
+{| class="wikitable sortable"
+|+2013
+!Category
+!Winner
+!Creator
+!
+|-
+!Best Speculative Fiction Story: Small Cast (Short Form)
+|"Now Cydonia", Cast of Wonders
+|Rick Kennett
+| rowspan="15" |
+|-
+!Best Speculative Fiction Story: Small Cast (Novella Form)
+|The Shadow Over Innsmouth by H.P. Lovecraft
+|Mike Bennett
+|-
+!Best Speculative Fiction Story: Small Cast (Long Form)
+|Underwood and Flinch
+|Mike Bennett
+|-
+!Best Speculative Fiction Story: Large Cast
+|"The Road To Utopia Plain", The Dunesteef Audio Fiction Magazine
+|Rick Kennett
+|-
+!Best Speculative Fiction Audio Drama (Short Form)
+|The Minister of Chance
+|Radio Static
+|-
+!Best Speculative Fiction Audio Drama (Long Form)
+|Star Trek: Outpost
+|Tony Raymond and Daniel McIntosh
+|-
+!Best Speculative Fiction Video Story
+|I Have Your Heart
+|Molly Crabapple, Kim Boekbinder, and Jim Batt
+|-
+!Best Speculative Fiction Magazine or Anthology Podcast
+|Tales from the Archives, Volume 2
+|Tee Morris and Pip Ballantine
+|-
+!Best New Speculative Fiction Podcaster or Team
+|The NoSleep Podcast
+|David Cummings
+|-
+!Best Speculative Fiction Fan or News Podcast (Specific)
+|RebelForce Radio
+|Jimmy Mac and Jason Swank
+|-
+!Best Speculative Fiction Fan or News Podcast (General)
+|Nights at the Round Table
+|Ash Farbrother
+|-
+!Best Podcast about Speculative Fiction Content Creation
+|StoryForward
+|J. C. Hutchins and Steve Peters
+|-
+!Best Fact Behind the Fiction Podcast
+|Hubblecast
+|Oli Usher and Joe Liske
+|-
+!Best Speculative Fiction Comedy or Parody Podcast
+|Blastropodcast
+|Mark Soloff
+|-
+!Best Speculative Fiction Music Podcast
+|The Funny Music Project
+|Devo Spice
+|}
+{| class="wikitable sortable"
+|+2012
+!Category
+!Winner
+!Creator
+!
+|-
+!Best Speculative Fiction Story: Small Cast (Short Form)
+|"Precarious Child", The Ministry of Peculiar Occurrences
+|Pip Ballantine
+| rowspan="13" |
+|-
+!Best Speculative Fiction Story: Small Cast (Long Form)
+|Underwood and Flinch: A Vampire Novel
+|Mike Bennett
+|-
+!Best Speculative Fiction Story: Large Cast
+|"The Seven", The Ministry of Peculiar Occurrences
+|P. C. Haring
+|-
+!Best Speculative Fiction Audio Drama (Short Form)
+|Keeg's Quest: A Skyrim Adventure
+|Rich Matheson
+|-
+!Best Speculative Fiction Audio Drama (Long Form)
+|The Mask of Inanna
+|Alicia Goranson
+|-
+!Best Speculative Fiction Magazine or Anthology Podcast
+|Drabblecast
+|
+|-
+!Best New Speculative Fiction Podcaster or Team
+|Toasted Cake
+|Tina Connolly
+|-
+!Best Speculative Fiction Fan or News Podcast (Specific)
+|The Signal
+|
+|-
+!Best Speculative Fiction Fan or News Podcast (General)
+|The Incomparable
+|
+|-
+!Best Podcast about Speculative Fiction Content Creation
+|Writing Excuses
+|Brandon Sanderson, Dan Wells, Eric James Stone, Howard Tayler, and Stacy Whitman
+|-
+!Best Fact Behind the Fiction Podcast
+|MonsterTalk
+|
+|-
+!Best Speculative Fiction Comedy or Parody Podcast
+|Supervillain Corner
+|
+|-
+!Best Speculative Fiction Music Podcast
+|Radio Free Hipster
+|
+|}
+{| class="wikitable sortable"
+|+2011
+!Category
+!Winner
+!Creator
+!
+|-
+!Best Speculative Fiction Story (Short Form)
+|Saying the Names
+|Maggie Clark
+| rowspan="15" |
+|-
+!Best Speculative Fiction Story (Novella Form)
+|Kissyman & the Gentleman
+|Scott Sigler
+|-
+!Best Speculative Fiction Story (Long Form)
+|Owner's Share
+|Nathan Lowell
+|-
+!Best Speculative Fiction Audio Drama (Short Form)
+|The Radio Adventures of Dr. Floyd
+|Grant Baciocco and Doug Price
+|-
+!Best Speculative Fiction Audio Drama (Long Form)
+|HG World
+|Jay Smith
+|-
+!Best Speculative Fiction Video Story
+|Grant's Advent Calendar Video Podcast
+|
+|-
+!Best Speculative Fiction Magazine or Anthology Podcast
+|Drabblecast
+|
+|-
+!Best New Speculative Fiction Podcaster or Team
+|Cobalt City Adventures Unlimited
+|
+|-
+!Best Speculative Fiction Fan or News Podcast (Specific)
+|PodCulture: TARDIS Interruptus
+|
+|-
+!Best Speculative Fiction Fan or News Podcast (General)
+|WhatTheCast
+|
+|-
+!Best Podcast about Speculative Fiction Content Creation
+|Fullcast Podcast
+|
+|-
+!Best Fact Behind the Fiction Podcast
+|Planetary Radio
+|
+|-
+!Best Speculative Fiction Comedy or Parody Podcast
+|Technorama
+|
+|-
+!Best Speculative Fiction Music Podcast
+|Renaissance Festival Podcast
+|
+|-
+!Best Youth-Driven Speculative Fiction Podcast
+|Aaron's World
+|
+|}
+{| class="wikitable sortable"
+|+2010
+!Category
+!Winner
+!Creator
+!
+|-
+!Best Speculative Fiction Story (Short Form)
+|The Tank
+|Scott Sigler
+| rowspan="14" |
+|-
+!Best Speculative Fiction Story (Novella Form)
+|Personal Effects: Sword of Blood
+|J. C. Hutchins
+|-
+!Best Speculative Fiction Story (Long Form)
+|Captain's Share
+|Nathan Lowell
+|-
+!Best Speculative Fiction Audio Drama (Short Form)
+|"Whispers in the Wood", The Metamor City Podcast
+|Chris Lester
+|-
+!Best Speculative Fiction Audio Drama (Long Form)
+|Decoder Ring Theatre
+|Gregg Taylor
+|-
+!Best Speculative Fiction Video Story
+|GOLD (Season 1)
+|David Nett and Andrew R. Deutsch
+|-
+!Best Speculative Fiction Magazine or Anthology Podcast
+|The Drabblecast
+|Norm Sherman
+|-
+!Best New Speculative Fiction Podcaster or Team
+|In The Gloaming
+|Nathaniel Tapley
+|-
+!Best Speculative Fiction Fan or News Podcast (Specific)
+|The Signal
+|Kari Haley, Kevin Bachelder, Kara Helgren, Les Howard, Jutta Jordans, Dave Tomasic, Andy King, Nick Edwards, Miranda Thomas, Helen Eaton, Anna Snyder, James Parkinson, and Jill Arroway
+|-
+!Best Speculative Fiction Fan or News Podcast (General)
+|Galactic Watercooler
+|Audra, Chuck, and Sean
+|-
+!Best Podcast about Speculative Fiction Content Creation
+|Writing Excuses
+|Brandon Sanderson, Dan Wells, Eric James Stone, Howard Tayler, and Stacy Whitman
+|-
+!Best Fact Behind the Fiction Podcast
+|Skeptoid
+|Brian Dunning
+|-
+!Best Speculative Fiction Comedy or Parody Podcast
+|Teknikal Diffikulties
+|Cayenne Chris Conroy
+|-
+!Best Speculative Fiction Music Podcast
+|Radio Free Hipster
+|Z.
+|}
+{| class="wikitable sortable"
+|+2009
+!Category
+!Winner
+!Creator
+!
+|-
+!Best Speculative Fiction Story (Short Form)
+|"Under The Bed", Variant Frequencies
+|Michael Natale
+| rowspan="16" |
+|-
+!Best Speculative Fiction Story (Novella Form)
+|"7th Son: Obsidion", Eusocial Networking
+|Scott Sigler
+|-
+!Best Speculative Fiction Story (Long Form / Novel)
+|FETIDUS: The Foundation for the Ethical Treatment of the Innocently Damned, Undead and Supernatural
+|James Durham
+|-
+!Best Speculative Fiction Audio Drama (Short Form including Independents)
+|The Radio Adventures of Dr. Floyd
+|Grant Baciocco and Doug Price
+|-
+!Best Speculative Fiction Audio Drama (Long Form including Independents)
+|"Making the Cut", The Metamor City Podcast
+|Chris Lester
+|-
+!Best Speculative Fiction Magazine or Anthology Podcast
+|Pseudopod
+|Ben Phillips and Alasdair Stuart
+|-
+!Best Speculative Fiction Video Podcast
+|Stranger Things
+|Earl Newton, David Kanter, and Cody P. Christian
+|-
+!Best Speculative Fiction Comedy or Parody Podcast
+|Bell's in the Batfry
+|John Bell
+|-
+!Best Speculative Fiction Writing-related Podcast
+|Writing Excuses
+|Brandon Sanderson, Howard Tayler, and Dan Wells
+|-
+!Best Speculative Fiction Fan Podcast
+|The ScapeCast
+|Brent Barrett, Chris Polansky, Hank Shiffman, Kevin Bachelder, Kimberly Thompson, Lindy Rae, Michael Falkner, Sammy Mohr, and Wendy Hembrock
+|-
+!Best Speculative Fiction News Podcast
+|(Cool) Shite on the Tube
+|Bruce Moyle, Chris Rattray, David Quinn, Dion Brooks, and Tiarne Double
+|-
+!Best Gaming Podcast
+|Brilliant Gameologists
+|Josh, Meg, Zeke, and Tom
+|-
+!Best Speculative Fiction Infotainment Podcast
+|365 Days of Astronomy
+|International Year of Astronomy
+|-
+!Best Speculative Fiction Music Podcast
+|The FuMP
+|Devo Spice, Possible Oscar, Raymond and Scum, Rob Balder, Robert Lund, and Spaff.com, the great Luke Ski, Tom Smith, and Worm Quartet
+|-
+!Best Anime Podcast
+|Anime World Order
+|
+|-
+!Best New Speculative Fiction Podcaster/Team
+|FETIDUS
+|James Durham
+|}
+{| class="wikitable sortable"
+|+2008
+!Category
+!Winner
+!Creator
+!
+|-
+!Best Speculative Fiction Story (Short Form)
+|Red Man
+|Scott Sigler
+| rowspan="13" |
+|-
+!Best Speculative Fiction Story (Novella Form)
+|"Wasteland", Heaven (Season Four)
+|Mur Lafferty
+|-
+!Best Speculative Fiction Story (Long Form)
+|Playing for Keeps
+|Mur Lafferty
+|-
+!Best Speculative Fiction Audio Drama (Short Form including Independents)
+|Space Casey
+|Christiana Ellis
+|-
+!Best Speculative Fiction Audio Drama (Long Form including Independents)
+|Billibub Baddings and the Case of the Singing Sword
+|Tee Morris
+|-
+!Best Speculative Fiction Video Podcast
+|Stranger Things
+|
+|-
+!Best Speculative Fiction Magazine or Anthology Podcast
+|Variant Frequencies
+|
+|-
+!Best Speculative Fiction Comedy or Parody Podcast
+|Short Cummings Audio
+|
+|-
+!Best Speculative Fiction Fan Podcast
+|Galactica Quorum
+|
+|-
+!Best Speculative Fiction News Podcast
+|Slice of SciFi
+|
+|-
+!Best Writing-related Podcast
+|Adventures in Scifi Publishing
+|
+|-
+!Best "Infotainment" Cast
+|The Weird Show
+|
+|-
+!Best Gaming Podcast
+|The Game Kennel
+|
+|}
+{| class="wikitable sortable"
+|+2007
+!Category
+!Winner
+!Creator
+!
+|-
+!Best Speculative Fiction Story (Short Form)
+|"No World for Warriors", Variant Frequencies
+|Matt Wallace
+| rowspan="18" |
+|-
+!Best Speculative Fiction Story (Novella Form)
+|The Arwen
+|Timothy P. Callahan
+|-
+!Best Speculative Fiction Story (Novel Form)
+|The Immortals
+|Tracy Hickman
+|-
+!Best Audio Drama (Short Form including Independents)
+|The Radio Adventures of Dr. Floyd
+|Grant Baciocco and Doug Price
+|-
+!Best Audio Drama (Long Form including Independents)
+|Prometheus Radio Theatre
+|Steven H. Wilson and Scott D. Farquhar
+|-
+!Best Audio Production
+|The Radio Adventures of Dr. Floyd
+|Grant Baciocco and Doug Price
+|-
+!Best Video Production
+|Missing Pages
+|Jerome Olivier
+|-
+!Best Video Podcast
+|Missing Pages
+|Jerome Olivier
+|-
+!Best Non-Speculative Fiction
+|Number One with a Bullet
+|Mark Yoshimoto Nemcoff
+|-
+!Best Fan Podcast
+|The Signal
+|Jill Arroway, Les Howard, and Kari Haley
+|-
+!Best Speculative Fiction News Podcast
+|Skepticality
+|Derek Colanduno and Robynn McCarthy
+|-
+!Best Anime Podcast
+|GeekNights Wednesdays: Anime Manga Comics
+|Rym and Scott
+|-
+!Best Gaming Podcast
+|Pulp Gamer: Inside Track
+|
+|-
+!Best Graphic Literature Podcast
+|Comics Radar
+|J. M. Campbell and Matt Melnyk
+|-
+!Best "Infotainment" Cast
+|Pulp Gamer: Out of Character
+|
+|-
+!Best Reality Podcast
+|Tag in the Seam
+|Leann
+|-
+!Best Tech Podcast
+|The Command Line
+|Thomas Gideon
+|-
+!Best Writing Related Podcast
+|I Should Be Writing
+|Mur Lafferty
+|}
+{| class="wikitable sortable"
+|+2006
+!Category
+!Winner
+!Creator
+!
+|-
+!Best Fiction (Short)
+|"Absolution Insured", Variant Frequencies
+|Matt Wallace
+| rowspan="9" |
+|-
+!Best Fiction (Long)
+|"How to Succeed in Evil", The Seanachai
+|Patrick McLean
+|-
+!Best Audio Production
+|Virgin Falls
+|Jeff Folchinsky
+|-
+!Best Writing Podcast
+|The Secrets
+|Michael A. Stackpole
+|-
+!Best Audio Drama (Long)
+|"The Stargate Café", Planet Retcon
+|
+|-
+!Best Audio Drama (Short)
+|The Radio Adventures of Dr. Floyd
+|Grant Baciocco
+|-
+!Best Fiction (Non-speculative)
+|"Death of A Dish Washer", The Seanachai
+|Patrick McLean
+|-
+!Best Fan Podcast
+|The Scapecast
+|Kevin Bachelder and Lindy Rae
+|-
+!Best News Podcast
+|The Future And You
+|Stephen Euin Cobb
+|}
+

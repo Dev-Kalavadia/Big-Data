@@ -1,0 +1,104 @@
+Title: Lesotho national cricket team
+
+
+
+
+The Lesotho national cricket team is the team that represents Lesotho in international cricket. They became an affiliate member of the International Cricket Council (ICC) in 2001 and an associate member in 2017.
+
+Lesotho has played international cricket since at least 1986, when they played Swaziland in Maseru. They made their official ICC debut at Division Three of the Africa Region of the ICC World Cricket League in April 2006, where they came last in the eight-team tournament. 
+
+In April 2018, the ICC decided to grant full Twenty20 International (T20I) status to all its members. Therefore, all Twenty20 matches played between Lesotho and other ICC members after 1 January 2019 will be a full T20I.
+
+==Records and Statistics==
+
+International Match Summary — Lesotho
+ 
+Last updated 25 November 2022
+{| class="wikitable" style="text-align: center; width: 500px;"
+|-
+| colspan=7 align="center" | Playing Record
+|-
+! Format !! M !! W !! L !! T !! NR !! Inaugural Match
+|-
+| align="left"| Twenty20 Internationals || 13 || 2 || 10 || 0 || 1 || 16 October 2021
+|}
+
+=== Twenty20 International ===
+* Highest team total: 153/3 v. Seychelles, 20 November 2022 at Gahanga International Cricket Stadium, Kigali. 
+* Highest individual score: 68*, Maaz Khan v. Seychelles, 20 November 2022 at Gahanga International Cricket Stadium, Kigali. 
+* Best individual bowling figures: 3/32, Yahya Jakda v. Seychelles, 20 November 2022 at Gahanga International Cricket Stadium, Kigali. 
+
+
+
+
+Most T20I runs for Lesotho
+{| class="wikitable"
+|- bgcolor=#bdb76b
+! Player!!Runs!!Average!!Career span
+|-
+|Maaz Khan || 203 || 18.45 || 2021–2022
+|-
+|Chachole Tlali || 197 || 16.41 || 2021–2022
+|-
+|Samir Patel || 160 || 16.00 || 2021–2022
+|-
+|Lerotholi Gabriel || 102 || 20.40 || 2022
+|-
+|Waseem Yaqoob || 102 || 17.00 || 2022
+|}
+
+
+Most T20I wickets for Lesotho
+{| class="wikitable"
+|- bgcolor=#bdb76b
+! Player!!Wickets!!Average!!Career span
+|-
+|Yahya Jakda || 12 || 29.08 || 2021–2022
+|-
+|Waseem Yaqoob || 8 || 26.75 || 2022
+|-
+|Molai Matsau || 7 || 33.14 || 2021–2022
+|-
+|Sarfaraj Patel || 6|| 24.66 || 2021
+|-
+|Gladwin Thamae || 6 || 29.83 || 2021–2022
+|}
+
+
+T20I record versus other nations
+
+Records complete to T20I #1923. Last updated 25 November 2022.
+{| class="wikitable" style="text-align: center; width: 600px;"
+|-
+! Opponent !! M !! W !! L !! T !! NR !! First match !! First win
+|-
+| colspan="8" style="text-align:center;"| vs Associate Members
+|-
+|align=left|  || 1 || 0 || 1 || 0 || 0 || 18 November 2022 || 
+|-
+|align=left|  || 1 || 0 || 1 || 0 || 0 || 16 October 2021 || 
+|-
+|align=left|  || 1 || 0 || 1 || 0 || 0 || 17 October 2021 || 
+|-
+|align=left|  || 1 || 0 || 1 || 0 || 0 || 21 November 2022 || 
+|-
+|align=left|  || 2 || 0 || 2 || 0 || 0 || 22 October 2021 || 
+|-
+|align=left|  || 1 || 1 || 0 || 0 || 0 || 17 November 2022 || 17 November 2022
+|-
+|align=left|  || 2 || 0 || 1 || 0 || 1 || 21 October 2021 || 
+|-
+|align=left|  || 1 || 0 || 1 || 0 || 0 || 22 November 2022 || 
+|-
+|align=left|  || 2 || 1 || 1 || 0 || 0 || 17 October 2021 || 20 November 2022
+|-
+|align=left|  || 1 || 0 || 1 || 0 || 0 || 19 October 2021 || 
+|}
+
+===Other matches===
+For a list of selected international matches played by Lesotho, see Cricket Archive.
+
+==See also==
+* List of Lesotho Twenty20 International cricketers
+* Lesotho women's national cricket team
+

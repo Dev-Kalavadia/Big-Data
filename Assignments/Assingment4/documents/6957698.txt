@@ -1,0 +1,118 @@
+Title: Capriasca
+
+Capriasca is a municipality in the district of Lugano in the canton of Ticino in Switzerland.
+
+The municipality was created in 2001 by a merger of Cagiallo, Lopagno, Roveredo, Sala Capriasca, Tesserete and Vaglio.Amtliches Gemeindeverzeichnis der Schweiz published by the Swiss Federal Statistical Office  accessed 14 January 2010
+
+==History==
+Cagiallo is first mentioned in the 13th Century as Guzallo.  In 1335 it was mentioned as Cazallo.  Sala Capriasca is first mentioned in 1078 as Sale.  In 1467 it was mentioned as Salla.  Lopagno is first mentioned in 1335 as Lopagnio.  Roveredo is first mentioned in 1583 as Roveretro.
+
+===Cagiallo===
+Together with Lopagno and Campestro, Cagiallo formed a Bürgergemeinde from the Middle Ages through the modern era.
+
+The late medieval church of S. Matteo was rebuilt 1672, but retained the romanesque clock tower.  The village was part of the parish of Tesserete.  The Chapel of St. Lucia is first mentioned in 1606, and the Chapel of St. Sebastian in Almatro was built in 1682.
+
+The pre-industrial economy was based on agriculture and emigration.  In the 18th and 19th Centuries, the Battaglini family played an important role throughout the valley.  Cagiallo supports the tourist facilities and hotels of the village of Tesserete, and has become a suburb of it in recent years.
+
+===Sala Capriasca===
+Sala Capriasca was originally a Lombard walled village.  In the 15th century, it formed a Vicinanza with Bigorio.  In the first half of the 16th century, had rights to the commons in the parish of Capriasca.  It was part of the Tesserete parish until 1933.
+
+The parish church of St. Anthony was first mentioned in 1413.  In the 15th and 16th Centuries it was totally rebuilt.  The monastery of Bigorio was founded in 1535 as the first seat of the Capuchins in Switzerland.
+
+Economically the village was dominated by agriculture and rural handicrafts.  The traditional seasonal migration brought extra income.  In the second half of the 20th century, it developed into a bedroom community.  In 2000, four-fifths of the working population were commuters, especially to Lugano.
+
+===Lopagno===
+Lopagno, together with Cagiallo and Campestro, formed a Vicinanza since the Middle Ages.  In the 16th and 17th Centuries there were several large-scale emigrations from the village.  The economy of the village was based on agriculture, trade and construction activities.  The inhabitants of Lopagno were among the leaders of the popular uprising against the authorities of the Helvetic Republic on 26 January 1802.  Since 1952, the Institute Don Orione for the care of the mentally disabled, is active in Lopagno.
+
+The S. Apollonia chapel dates back to the 16th century and is a dependent of the parish of Tesserete.
+
+In 2000 about three-quarters of the working population worked outside the village.
+
+===Roveredo===
+Roveredo belonged to the Pieve of Capriasca and the parish church of Tesserete.  The local Chapel of St. Bernard of Clairvaux was built in 1403.
+
+Agriculture and pastoralism were once the main sources of income.  Starting in the 1960s, Roveredo developed into a residential community, due to its proximity to Lugano and Tesserete.  In 2000, approximately four-fifths of the workforce in Roveredo commutes.
+thumb|Aerial view (1964)
+
+==Geography==
+Capriasca has an area, , of .  Of this area,  or 1.0% is used for agricultural purposes, while  or 5.9% is forested.   Of the rest of the land,  or 1.1% is settled (buildings or roads) and  or 0.2% is unproductive land.
+  
+Of the built up area, housing and buildings made up 0.8% and transportation infrastructure made up 0.2%.  Out of the forested land, all of the forested land area is covered with heavy forests.  Of the agricultural land, 0.2% is used for growing crops.Swiss Federal Statistical Office-Land Use Statistics 2009 data  accessed 25 March 2010
+
+Cagiallo village also contained the settlements of Sarone, Almatro, Bettagno and San Matteo-Muralta.  The village of Sala Capriasca is located in the Capriasca valley at the foot of Mount Bigorio and includes the settlements of Sala, Bigorio, Lelgio and Pezzolo.  The village of Lopagno is located in the Capriasca valley at the entrance to Val Colla and includes the hamlets of Treggia, Somazzo and Oggio.  The village of Roveredo is located in the upper Capriasca valley on the right side of the entrance to the Val Colla.
+
+==Demographics==
+Capriasca has a population () of .  , 10.0% of the population are resident foreign nationals.Swiss Federal Statistical Office - Superweb database - Gemeinde Statistics 1981-2008   accessed 19 June 2010  , the gender distribution of the population was 49.6% male and 50.4% female.  The population was made up of 2,765 Swiss men (44.1% of the population), and 347 (5.5%) non-Swiss men.  There were 2,874 Swiss women (45.8%), and 288 (4.6%) non-Swiss women.
+
+In  there were 50 live births to Swiss citizens and 7 births to non-Swiss citizens, and in same time span there were 58 deaths of Swiss citizens and 3 non-Swiss citizen deaths.  Ignoring immigration and emigration, the population of Swiss citizens decreased by 8 while the foreign population increased by 4.  There were 16 Swiss men and 6 Swiss women who immigrated back to Switzerland.  At the same time, there were 13 non-Swiss men and 14 non-Swiss women who immigrated from another country to Switzerland.  The total Swiss population change in 2008 (from all sources, including moves across municipal borders) was an increase of 90 and the non-Swiss population change was an increase of 49 people.  This represents a population growth rate of 2.3%.
+
+The age distribution, , in Capriasca is; 664 children or 10.6% of the population are between 0 and 9 years old and 694 teenagers or 11.1% are between 10 and 19.  Of the adult population, 607 people or 9.7% of the population are between 20 and 29 years old.  815 people or 13.0% are between 30 and 39, 1,101 people or 17.5% are between 40 and 49, and 922 people or 14.7% are between 50 and 59.  The senior population distribution is 728 people or 11.6% of the population are between 60 and 69 years old, 459 people or 7.3% are between 70 and 79, there are 284 people or 4.5% who are over 80.01.02.03 Popolazione residente permanente   accessed 23 November 2010
+
+==Historic population==
+The historical population is given in the following timeline:
+
+
+ImageSize  = width:600 height:350
+PlotArea   = height:300 left:100 bottom:50 right:100
+AlignBars  = justify
+DateFormat = x.y
+Period     = from:0 till:2400
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = unit:year increment:400 start:0
+PlotData=
+  bar:Year color:yellowgreen width:25   mark:(line,white) align:center
+  bar:Year color:yellowgreen width:50   from:start till:600 text:Cagiallo
+  bar:Year color:green width:50   from:600 till:1200 text:Sala Capriasca
+  bar:Year color:blue width:50   from:1200 till:1800 text:Lopagno
+  bar:Year color:red width:50   from:1800 till:2400 text:Roveredo
+  bar:1574 color:yellowgreen from:start till:265 text:"265"
+  bar:1574 color:green from:265 till:656 text:"391"
+  bar:1574 color:blue from:656 till:773 text:"117"
+  bar:1574 color:red from:773 till:886 text:"113"
+  bar:1638 color:yellowgreen from:start till:233 text:"233"
+  bar:1638 color:green from:233 till:738 text:"505"
+  bar:1638 color:blue from:738 till:831 text:"93"
+  bar:1638 color:red from:831 till:901 text:"70"
+  bar:1850 color:yellowgreen from:start till:288 text:"288"
+  bar:1850 color:green from:288 till:837 text:"549"
+  bar:1850 color:blue from:837 till:1247 text:"410"
+  bar:1850 color:red from:1247 till:1320 text:"73"
+  bar:1900 color:yellowgreen from:start till:298 text:"298"
+  bar:1900 color:green from:298 till:876 text:"578"
+  bar:1900 color:blue from:876 till:1273 text:"397"
+  bar:1900 color:red from:1273 till:1368 text:"95"
+  bar:1950 color:yellowgreen from:start till:315 text:"315"
+  bar:1950 color:green from:315 till:864 text:"549"
+  bar:1950 color:blue from:864 till:1223 text:"359"
+  bar:1950 color:red from:1223 till:1311 text:"88"
+  bar:2000 color:yellowgreen from:start till:538 text:"538"
+  bar:2000 color:green from:538 till:1717 text:"1,179"
+  bar:2000 color:blue from:1717 till:2213 text:"496"
+  bar:2000 color:red from:2213 till:2339 text:"126"
+
+
+==Politics==
+In the  federal election the most popular party was the CVP which received 25.87% of the vote.  The next three most popular parties were the FDP (22.35%), the SP (19.08%) and the Ticino League (15.1%).  In the federal election, a total of 1,708 votes were cast, and the voter turnout was 49.2%.Swiss Federal Statistical Office, Nationalratswahlen 2007: Stärke der Parteien und Wahlbeteiligung, nach Gemeinden/Bezirk/Canton   accessed 28 May 2010
+
+In the  Gran Consiglio election, there were a total of 3,471 registered voters in Capriasca, of which 2,208 or 63.6% voted.  26 blank ballots and 5 null ballots were cast, leaving 2,177 valid ballots in the election.  The most popular party was the PLRT which received 451 or 20.7% of the vote.  The next three most popular parties were; the PPD+GenGiova (with 414 or 19.0%), the SSI (with 362 or 16.6%) and the PS (with 361 or 16.6%). Elezioni cantonali: Gran Consiglio, Consiglio di Stato   accessed 23 November 2010
+
+In the  Consiglio di Stato election, 18 blank ballots and 9 null ballots were cast, leaving 2,182 valid ballots in the election.  The most popular party was the LEGA which received 505 or 23.1% of the vote.  The next three most popular parties were; the PS (with 434 or 19.9%), the PLRT (with 429 or 19.7%) and the PPD (with 423 or 19.4%).
+
+==Education==
+In Capriasca there were a total of 1,133 students ().  The Ticino education system provides up to three years of non-mandatory kindergarten and in Capriasca there were 193 children in kindergarten.  The primary school program lasts for five years and includes both a standard school and a special school.  In the municipality, 323 students attended the standard primary schools and 11 students attended the special school.  In the lower secondary school system, students either attend a two-year middle school followed by a two-year pre-apprenticeship or they attend a four-year program to prepare for higher education.  There were 280 students in the two-year middle school, while 136 students were in the four-year advanced program.
+
+The upper secondary school includes several options, but at the end of the upper secondary program, a student will be prepared to enter a trade or to continue on to a university or college.  In Ticino, vocational students may either attend school while working on their internship or apprenticeship (which takes three or four years) or may attend school followed by an internship or apprenticeship (which takes one year as a full-time student or one and a half to two years as a part-time student).  There were 67 vocational students who were attending school full-time and 114 who attend part-time.
+
+The professional program lasts three years and prepares a student for a job in engineering, nursing, computer science, business, tourism and similar fields.  There were 9 students in the professional program. Allievi e studenti, secondo il genere di scuola, anno scolastico 2009/2010   accessed 23 November 2010
+  
+, there were 416 students in Capriasca who came from another municipality, while 99 residents attended schools outside the municipality.
+
+==Economy==
+There were 590 residents of the municipality who were employed in some capacity, of which females made up 42.2% of the workforce.  , there were 432 workers who commuted into the municipality and 442 workers who commuted away.  The municipality is a net exporter of workers, with about 1.0 workers leaving the municipality for every one entering.  About 10.0% of the workforce coming into Capriasca are coming from outside Switzerland.Swiss Federal Statistical Office - Statweb  accessed 24 June 2010
+
+, there were 7 hotels in Capriasca with a total of 48 rooms and 103 beds. Settori alberghiero e paralberghiero   accessed 23 November 2010
+
+==Notable people==
+*Alfonsina Storni (1892–1938), poet
+

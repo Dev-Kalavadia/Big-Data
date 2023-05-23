@@ -1,0 +1,81 @@
+Title: Snakeskin
+Snakeskin may either refer to the skin of a live snake, the shed skin of a snake after molting, or to a type of leather that is made from the hide of a dead snake. Snakeskin and scales can have varying patterns and color formations, providing protection via camouflage from predators. The colors and iridescence in these scales are largely determined by the types and amount of chromatophores located in the dermis of the snake skin. The snake's skin and scales are also an important feature to their locomotion, providing protection and minimizing friction when gliding over surfaces.
+
+== Skin of a living snake ==
+In a living snake, its skin often deals with various forms of abrasion. To combat rough substrates, snakes have formed specialized and multilayered organizational epidermal structures to provide a safe and efficient sliding locomotion when maneuvering over rough surfaces.
+
+=== Display ===
+thumb|The large scutes on the right side cover the ventral, or belly side of the snake. The smaller scales cover the rest of the snake. Note how the scales overlap.
+
+==== Pattern formation ====
+Snakes can be ornately patterned. They can be striped, banded, solid, green, blue, yellow, red, black, orange, brown, spotted, or have a unique pattern all their own. These color schemes can serve many functions, including camouflage, heat absorption or reflection, or may play other, less understood roles. Melanin cells in the skin often overlap and form complex patterns and sheets that are highly recognizable. Sometimes the soft integument of a snake is colored differently than their hard scales. This is often utilized as a method of predator determent.
+
+==== Color and iridescence ====
+thumb|The variation of scale colors as caused by different chromatophores, located on the dorsal (top) surface of a Garter snake.
+Coloration of snakes is largely due to pigment cells and their distribution. Some scales have lightly colored centers, which arise from regions with a reduced cuticle. A thinner cuticle indicates that some sensory organ is present. Scales in general are numerous and coat the epidermis, and come in all shapes and colors. They are helpful in identification of snake species. Chromatophores in the dermis yield coloration when light shines through the corneal layer of the epidermis. There are many kinds of chromatophores. Melanophores yield brown pigmentation, and when paired with guanophores, yield grey. When paired with guanophores and lipophores, yellow results. When guanophores and allophores are added to melanophores, red pigment results. Carotenoids also help produce orange and red colors. Dark snakes (dark brown or black in color) appear as such due to melanocytes that are active in the epidermis. When melanin is absent, albino individuals result. Snakes do not possess blue or green pigments, instead these arise from guanophores, which are also called iridocytes. Iridocytes reside in the dermis, and are responsible for the iridescent appearance of many dark-colored snakes. Males and females may show varied coloration, as might hatchlings and adults of the same species.
+
+=== Structures and function ===
+thumb|Exposed integument of the garter snake after the overlying scales have been removed.
+Snakeskin, or integument, is more than just patterns and scales. Scales and patterning are features of snakeskin, and they are derived from a soft and complex integument. These scale patterns are unique to species, and the scales themselves help in locomoting by providing a friction buffer between the snake and the ground 
+
+==== Organization ====
+Reptiles, including snakes, possess extensive keratinization of the epidermis in the form of epidermal scales. A snake's epidermis is composed of four layers. The outer layer of a snake's skin is shed periodically, and is therefore a temporary layer, and is highly keratinized. Beneath the outer layer is the corneal layer (stratum corneum), which is thickened and flexible. Under the corneal layer is intermediary zone (stratum granulosum) and the basal layer (stratum basale), respectively. The dermis of a snake resides beneath the epidermis. The dermis of snakes is generally fibrous in nature, and not very prominent. The dermis houses pigment cells, nerves, and collagen fibers. Nerve fibers extend into the snake epidermis and anchor near scales, generally at the rostral, or head, end of the snake. Specifically, nerves anchor to sensory spines and pits, which are touch and thermal detection organs, respectively. The hypodermis is below the dermis, this layer mainly stores fat. 
+
+==== Friction reduction and protection ====
+The skin of a snake is a physically protective layer. It helps prevent injury, prevents drying out, and helps snakes to minimize friction. Snakeskin is composed of a soft, flexible inner layer (alpha-layer), as well as a hard, inflexible outer surface (beta-layer). Due to lack of limbs, snake bodies are in contact with a surface at all times, causing a large amount of friction. As a result, they have to both minimize friction in order to move forward, and generate their own friction in order to create enough propulsion to move. Scale and skin orientation helps to accomplish this, as it has been demonstrated that nanostructures on their scales may play a role in this process. Specifically, the inner alpha-layer contains alpha-keratins which serve as cytoskeletal proteins for a mechanical form of resistance against traction. Additionally to reduce friction, some snakes polish their scales. They secrete an oily substance from their nasal passage, and then rub the secretion all over the scales. This is done at varying intervals depending on the species of snake, sometimes frequently, other times only after shedding or molting. It is thought that scale polishing is used as a method of waterproofing, and it may also play a role in chemical messaging or friction reduction. Lastly, scales and snake skin provide protection in the form of keratin. It has been found, that beta-keratins aid in formation of scales, as the keratin proteins produce a pre-corneous layer of densely packed epidermal scales creating a thick corneous protective layer.  
+thumb|Exposed integument from the underside of a scute of a garter snake.
+
+==== Permeability ====
+Skin permeability may change seasonally in snakes to help with the problem of drying out. It is known that desert snakes have generally impermeable skins, and that aquatic snakes have a more permeable skin that can sometimes trap water to prevent drying out. Some snakes may change their environment throughout the year, and may subsequently change their skin's permeability as a result. For instance, aquatic snakes may latch on to more water if they are in an environment that is drying out by attracting a layer of water under their scales.
+
+==== Glands ====
+Not many glands are present in snake skin. Most snake glands are holocrine glands, meaning that the gland's cells are secreted along with the substance the gland makes. These holocrine glands in snakes do not have their own blood supply, and thus lie closely with vascularized connective tissue. Snakes also possess glands that aid in attracting mates, and some marine snake species possess a salt gland that helps remove excess salt that they have consumed. Most glands in reptiles are poorly understood due to their scarcity.
+
+==== Movement and flexibility ====
+The skin that lies beneath snake's scales is also responsible for snakes' flexibility. The regions between snake scales is made of soft integument called an alpha-layer, which is composed of alpha-keratin that allows for flexibility and movement. Snake mobility is dependent on the skin's contact to a friction surface, the tribological behavior of the snake skin allows for quick and precise changes in direction. For smooth gliding to occur, snakeskin is composed of sharp spines and interlocking longitudinal ridges. The snakeskin also contains highly organized 'micro-hairs' along the ventral (underneath) surface, oriented in a caudal (towards the back) direction. With both of these features, the snake is able to efficiently slide forward on surfaces of low friction, and create high friction when needing to retreat backwardly. 
+
+=== Phylogeny ===
+
+Snakes belong to a group of reptiles called the Lepidosauria, which are reptiles with overlapping scales. They further are grouped down into the Squamata, which includes all snakes and lizards, and all but two species of Lepidosauria that belong to the Rynchocephalia (the tuatara). The species belonging to both of these subgroups likewise share similar skin features with snakes, with unique adaptations and features, respectively.
+
+== Shed skin ==
+thumb|Close up of garter snake scales. Note the presence of soft integument, or skin, between the scales and how they overlap. 
+The molting of the skin occurs regularly in snakes. Molting is common, and results in the entire outer layer of epidermis being lost. In the case of snakes, it is called shedding or ecdysis. Snakes will rub against rough surfaces to shed their skin. A shed skin is much longer than the snake that shed it, as the skin covers the top and bottom of each scale. If the skin is shed intact, each scale is unwrapped on the top and bottom side of the scale which almost doubles the length of the shed skin. While a snake is in the process of shedding the skin over its eye, the eye may become milky. This impairs the vision of the snake and may result in aggressive behavior.
+
+== Leather ==
+thumb|left|Close-up of a patterned beige and brown snakeskin leather used to make a cigarette case
+Snakeskin is used to make clothing such as vests, belts, boots or shoes or fashion accessories such as handbags and wallets, and is used to cover the sound board of some string musical instruments, such as the banhu, sanxian or the sanshin.
+
+Snake leather is regarded as an exotic product alongside alligator, crocodile, lizard, ostrich, emu, camel, among others. With crocodile and lizard leathers, it belongs to the category of reptile leathers, with a scaly appearance. There is evidence that the harvest in at least some species of snakes killed for the leather industry is unsustainable and carried out in violation of national legislation in source countries.
+
+
+File:SnakeskinBoots1 gobeirne.jpg|Snakeskin boots in Arizona
+File:Cigarette Case MET DP291212.jpg|Art Deco snakeskin cigarette case, ca 1925
+File:Shoes, pair woman's (AM 1996.55-1).jpg|Pair of woman's high heeled platform shoes, 1930s
+File:Texas straw hat with the ornament made of a rattlesnake's skin.jpg|A Texas straw hat with the ornament made of a rattlesnake's skin
+File:Vintage clutch (847652012).jpg|A vintage clutch with a fold-over closure, made of red snakeskin
+File:Sanxian.gif|Chinese sanxian with snakeskin-covered sound board
+
+
+== Gallery ==
+
+File:Python Skins Burma.jpg|Leather goods and skins of Burmese python (Python molurus bivittatus) and reticulated python (Python reticulatus reticulatus) at a local shop at Mandalay, Burma
+File:Taxidermy of a snake skin.jpg|Snakeskin artifact
+File:Lamia by Herbert James Draper (1909).jpg|The Lamia: In this 1909 painting by Herbert James Draper, Lamia has human legs and a snakeskin around her waist. There is also a small snake on her right forearm.
+File:Snakeskin.JPG|A shed snake skin in nature
+File:Museo viviente, Puebla.jpg|Exhibition of snakeskins in Museo viviente in Puebla, Mexico
+
+
+== See also ==
+* Scute
+
+== References ==
+
+
+
+
+
+Category:Leather
+Category:Skin
+Category:Snake anatomy
+Category:Snake products

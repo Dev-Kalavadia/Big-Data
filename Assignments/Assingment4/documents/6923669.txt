@@ -1,0 +1,17 @@
+Title: Hammick reaction
+The Hammick reaction, named after Dalziel Hammick, is a chemical reaction in which the thermal decarboxylation of α-picolinic (or related) acids in the presence of carbonyl compounds forms 2-pyridyl-carbinols.
+
+center|300px|The Hammick reaction
+
+Using p-cymene as solvent has been shown to increase yields.
+
+==Reaction mechanism==
+Upon heating α-picolinic acid will spontaneously decarboxylate forming the so-called 'Hammick Intermediate' (3). This was initially though to be an aromatic ylide, but is now believed to be a carbene In the presence of a strong electrophile, such as an aldehyde or ketone, this species will undergo nucleophilic attack faster than proton transfer. After nucleophilic attack intramolecular proton transfer yields the desired carbinol (6).
+
+650px|center|The mechanism of the Hammick reaction
+
+The scope of the reaction is effectively limited to decarboxylating acids where the carboxyl group is α to the nitrogen, (reactivity has been reported when the acids are located elsewhere on the molecule but with low yields) thus suitable substrates are limited to the derivatives of α-picolinic acid including the α-carboxylic acids of quinoline and isoquinoline.
+
+==See also==
+* Quinonoid zwitterion
+

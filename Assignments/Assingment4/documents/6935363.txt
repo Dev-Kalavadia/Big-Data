@@ -1,0 +1,73 @@
+Title: Invariant differential operatorIn mathematics and theoretical physics, an invariant differential operator is a kind of mathematical map from some objects to an object of similar type. These objects are typically functions on \mathbb{R}^n, functions on a manifold, vector valued functions, vector fields, or, more generally, sections of a vector bundle.
+
+In an invariant differential operator D, the term differential operator indicates that the value Df of the map depends only on f(x) and the derivatives of f in x. The word invariant indicates that the operator contains some symmetry. This means that there is a group G with a group action on the functions (or other objects in question) and this action is preserved by the operator:
+
+:D(g\cdot f)=g\cdot (Df).
+
+Usually, the action of the group has the meaning of a change of coordinates (change of observer) and the invariance means that the operator has the same expression in all admissible coordinates.
+
+==Invariance on homogeneous spaces==
+Let M = G/H be a homogeneous space for a Lie group G and a Lie subgroup H. Every representation \rho:H\rightarrow\mathrm{Aut}(\mathbb{V}) gives rise to a vector bundle
+
+:V=G\times_{H}\mathbb{V}\;\text{where}\;(gh,v)\sim(g,\rho(h)v)\;\forall\;g\in G,\;h\in H\;\text{and}\;v\in\mathbb{V}.
+
+Sections \varphi\in\Gamma(V) can be identified with
+
+:\Gamma(V)=\{\varphi:G\rightarrow\mathbb{V}\;:\;\varphi(gh)=\rho(h^{-1})\varphi(g)\;\forall\;g\in G,\; h\in H\}.
+
+In this form the group G acts on sections via
+
+:(\ell_g \varphi)(g')=\varphi(g^{-1}g').
+
+Now let V and W be two vector bundles over M. Then a differential operator
+
+:d:\Gamma(V)\rightarrow\Gamma(W)
+
+that maps sections of V to sections of W is called invariant if
+
+:d(\ell_g \varphi) = \ell_g (d\varphi).
+
+for all sections \varphi in \Gamma(V) and elements g in G.  All linear invariant differential operators on homogeneous parabolic geometries, i.e. when G is semi-simple and H is a parabolic subgroup, are given dually by homomorphisms of generalized Verma modules.
+
+==Invariance in terms of abstract indices==
+Given two connections \nabla and \hat{\nabla} and a one form \omega, we have
+:\nabla_{a}\omega_{b}=\hat{\nabla}_{a}\omega_{b}-Q_{ab}{}^{c}\omega_{c}
+for some tensor Q_{ab}{}^{c}.  Given an equivalence class of connections [\nabla], we say that an operator is invariant if the form of the operator does not change when we change from one connection in the equivalence class to another. For example, if we consider the equivalence class of all torsion free connections, then the tensor Q is symmetric in its lower indices, i.e. Q_{ab}{}^{c}=Q_{(ab)}{}^{c}. Therefore we can compute
+:\nabla_{[a}\omega_{b]}=\hat{\nabla}_{[a}\omega_{b]},
+where brackets denote skew symmetrization. This shows the invariance of the exterior derivative when acting on one forms.
+Equivalence classes of connections arise naturally in differential geometry, for example:
+
+* in conformal geometry an equivalence class of connections is given by the Levi Civita connections of all metrics in the conformal class;
+*  in projective geometry an equivalence class of connection is given by all connections that have the same geodesics;
+* in CR geometry an equivalence class of connections is given by the Tanaka-Webster connections for each choice of pseudohermitian structure
+
+==Examples==
+# The usual gradient operator \nabla acting on real valued functions on Euclidean space is invariant with respect to all Euclidean transformations.
+# The differential acting on functions on a manifold with values in 1-forms (its expression is      d=\sum_j \partial_j \, dx_j in any local coordinates) is invariant with respect to all smooth transformations of the manifold (the action of the transformation on differential forms is just the pullback).
+# More generally, the exterior derivative      d:\Omega^n(M)\rightarrow\Omega^{n+1}(M) that acts on n-forms of any smooth manifold M is invariant with respect to all smooth transformations. It can be shown that the exterior derivative is the only linear invariant differential operator between those bundles.
+# The Dirac operator in physics is invariant with respect to the Poincaré group (if we choose the proper action of the Poincaré group on spinor valued functions. This is, however, a subtle question and if we want to make this mathematically rigorous, we should say that it is invariant with respect to a group which is a double cover of the Poincaré group)
+# The conformal Killing equation      X^a \mapsto \nabla_{(a}X_{b)}-\frac{1}{n}\nabla_c X^c g_{ab} is a conformally invariant linear differential operator between vector fields and symmetric trace-free tensors.
+
+==Conformal invariance==
+
+Image:conformalsphere.jpg| The sphere (here shown as a red circle) as a conformal homogeneous manifold.
+
+Given a metric 
+:g(x,y)=x_{1}y_{n+2}+x_{n+2}y_{1}+\sum_{i=2}^{n+1}x_{i}y_{i}
+
+on \mathbb{R}^{n+2}, we can write the sphere S^{n} as the space of generators of the nil cone
+
+:S^{n}=\{[x]\in\mathbb{RP}_{n+1}\; :\; g(x,x)=0 \}.
+
+In this way, the flat model of conformal geometry is the sphere S^{n}=G/P with G=SO_{0}(n+1,1) and P the stabilizer of a point in \mathbb{R}^{n+2}. A classification of all linear conformally invariant differential operators on the sphere is known (Eastwood and Rice, 1987).
+
+==See also==
+*Differential operators
+*Laplace invariant
+*Invariant factorization of LPDOs
+
+==Notes==
+
+
+
+

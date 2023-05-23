@@ -1,0 +1,2211 @@
+Title: List of places in Pennsylvania: A
+
+
+This list of current cities, towns, unincorporated communities, counties, and other recognized places in the U.S. state of Pennsylvania also includes information on the number and names of counties in which the place lies, and its lower and upper zip code bounds, if applicable.
+
+
+
+----
+
+{| class="wikitable"
+!Name of place
+!Number of counties
+!Principal county
+!Lower zip code
+!Upper zip code
+|----
+|Aaronsburg
+|1
+|Centre County
+|16820
+| 
+|----
+|Abbott Township
+|1
+|Potter County
+| 
+| 
+|----
+|Abbottstown
+|1
+|Adams County
+|17301
+| 
+|----
+|Aberdeen
+|1
+|Lancaster County
+|17022
+| 
+|----
+|Abington Township
+|1
+|Lackawanna County
+| 
+| 
+|----
+|Abington Township
+|1
+|Montgomery County
+|19001
+| 
+|----
+|Abrahams
+|1
+|Montgomery County
+| 
+| 
+|----
+|Abrahamsville
+|1
+|Wayne County
+|12723
+| 
+|----
+|Abrams
+|1
+|Montgomery County
+| 
+| 
+|----
+|Academia
+|1
+|Juniata County
+|17082
+| 
+|----
+|Academy Corners
+|1
+|Tioga County
+|16928
+| 
+|----
+|Academy Gardens
+|1
+|Philadelphia County
+| 
+| 
+|----
+|Acahela
+|1
+|Monroe County
+|18610
+| 
+|----
+|Accomac
+|1
+|York County
+|17406
+| 
+|----
+|Ache
+|1
+|Fayette County
+| 
+| 
+|----
+|Acheson
+|1
+|Washington County
+|15323
+| 
+|----
+|Acker
+|1
+|Perry County
+| 
+| 
+|----
+|Ackermanville
+|1
+|Northampton County
+|18010
+| 
+|----
+|Ackworth
+|1
+|Chester County
+| 
+| 
+|----
+|Acme
+|1
+|Washington County
+| 
+| 
+|----
+|Acme
+|1
+|Westmoreland County
+|15610
+| 
+|----
+|Acmetonia
+|1
+|Allegheny County
+|15024
+| 
+|----
+|Acosta
+|1
+|Somerset County
+|15520
+| 
+|----
+|Adah
+|1
+|Fayette County
+|15410
+| 
+|----
+|Adams
+|1
+|Armstrong County
+|16218
+| 
+|----
+|Adams
+|1
+|Somerset County
+| 
+| 
+|----
+|Adams Corner
+|1
+|Butler County
+|16057
+| 
+|----
+|Adams Hill
+|1
+|Westmoreland County
+|15642
+| 
+|----
+|Adams Township
+|1
+|Butler County
+| 
+| 
+|----
+|Adams Township
+|1
+|Cambria County
+| 
+| 
+|----
+|Adams Township
+|1
+|Snyder County
+| 
+| 
+|----
+|Adamsburg
+|1
+|Westmoreland County
+|15611
+| 
+|----
+|Adamsdale
+|1
+|Schuylkill County
+|17972
+| 
+|----
+|Adamstown
+|2
+|Berks County
+|19501
+| 
+|----
+|Adamstown
+|2
+|Lancaster County
+|19501
+| 
+|----
+|Adamsville
+|1
+|Crawford County
+|16110
+| 
+|----
+|Adamsville
+|1
+|York County
+| 
+| 
+|----
+|Addingham
+|1
+|Delaware County
+|19026
+| 
+|----
+|Addison
+|1
+|Somerset County
+|15411
+| 
+|----
+|Addison Township
+|1
+|Somerset County
+| 
+| 
+|----
+|Adelaide
+|1
+|Fayette County
+|15425
+| 
+|----
+|Admire
+|1
+|York County
+|17364
+| 
+|----
+|Adrian
+|1
+|Armstrong County
+|16210
+| 
+|----
+|Adrian Furnace
+|1
+|Clearfield County
+| 
+| 
+|----
+|Adrian Mines
+|1
+|Jefferson County
+| 
+| 
+|----
+|Advance
+|1
+|Adams County
+| 
+| 
+|----
+|Advance
+|1
+|Indiana County
+|15732
+| 
+|----
+|Africa
+|1
+|Franklin County
+|17236
+| 
+|----
+|Ahrensville
+|1
+|Venango County
+| 
+| 
+|----
+|Aiden Lair
+|1
+|Montgomery County
+|19025
+| 
+|----
+|Aiken
+|1
+|McKean County
+|16744
+| 
+|----
+|Ailston
+|1
+|York County
+| 
+| 
+|----
+|Airville
+|1
+|York County
+|17302
+| 
+|----
+|Airydale
+|1
+|Huntingdon County
+|17060
+| 
+|----
+|Aitch
+|1
+|Huntingdon County
+| 
+| 
+|----
+|Ajax
+|1
+|Venango County
+| 
+| 
+|----
+|Akeley
+|1
+|Warren County
+|16345
+| 
+|----
+|Akersville
+|1
+|Fulton County
+|15536
+| 
+|----
+|Akron
+|1
+|Lancaster County
+|17501
+| 
+|----
+|Aladdin
+|1
+|Armstrong County
+|15682
+| 
+|----
+|Alaska
+|1
+|Jefferson County
+|15825
+| 
+|----
+|Alaska
+|1
+|Northumberland County
+| 
+| 
+|----
+|Alba
+|1
+|Bradford County
+|16910
+| 
+|----
+|Albany
+|1
+|Berks County
+|19529
+| 
+|----
+|Albany
+|1
+|Fayette County
+|15417
+| 
+|----
+|Albany Township
+|1
+|Berks County
+| 
+| 
+|----
+|Albany Township
+|1
+|Bradford County
+| 
+| 
+|----
+|Albert
+|1
+|Luzerne County
+| 
+| 
+|----
+|Alberts Corners
+|1
+|Luzerne County
+|18707
+| 
+|----
+|Albidale
+|1
+|Montgomery County
+|19006
+| 
+|----
+|Albion
+|1
+|Erie County
+|16401
+| 
+|----
+|Albion
+|1
+|Jefferson County
+|15767
+| 
+|----
+|Albrightsville
+|1
+|Carbon County
+|18210
+| 
+|----
+|Alburtis
+|1
+|Lehigh County
+|18011
+| 
+|----
+|Alcoa Center
+|1
+|Westmoreland County
+|15069
+| 
+|----
+|Aldan
+|1
+|Delaware County
+|19018
+| 
+|----
+|Alden
+|1
+|Luzerne County
+|18634
+| 
+|----
+|Aldenville
+|1
+|Wayne County
+|18401
+| 
+|----
+|Alderson
+|1
+|Luzerne County
+|18618
+| 
+|----
+|Aldham
+|1
+|Chester County
+|19460
+| 
+|----
+|Aldovin
+|1
+|Wyoming County
+|18657
+| 
+|----
+|Aleppo Township
+|1
+|Allegheny County
+| 
+| 
+|----
+|Aleppo Township
+|1
+|Greene County
+|15310
+| 
+|----
+|Alexander Springs
+|1
+|Mifflin County
+|17004
+| 
+|----
+|Alexandria
+|1
+|Huntingdon County
+|16611
+| 
+|----
+|Alfarata
+|1
+|Huntingdon County
+| 
+| 
+|----
+|Alfarata
+|1
+|Mifflin County
+|17841
+| 
+|----
+|Alford
+|1
+|Susquehanna County
+|18826
+| 
+|----
+|Alice
+|1
+|Westmoreland County
+|15610
+| 
+|----
+|Alicia
+|1
+|Fayette County
+|15417
+| 
+|----
+|Alicia
+|1
+|Greene County
+|15338
+| 
+|----
+|Alinda
+|1
+|Perry County
+|17040
+| 
+|----
+|Aline
+|1
+|Snyder County
+|17853
+| 
+|----
+|Aliquippa
+|1
+|Beaver County
+|15001
+| 
+|----
+|Allandale
+|1
+|Cumberland County
+|17011
+| 
+|----
+|Allegany Township
+|1
+|Potter County
+| 
+| 
+|----
+|Allegheny
+|1
+|Allegheny County
+|15212
+| 
+|----
+|Allegheny Arsenal
+|1
+|Allegheny County
+|15201
+| 
+|----
+|Allegheny College
+|1
+|Crawford County
+|16335
+| 
+|----
+|Allegheny Furnace
+|1
+|Blair County
+| 
+| 
+|----
+|Allegheny Portage Railroad National Historic Site
+|3
+| 
+|16630
+| 
+|----
+|Allegheny Springs
+|1
+|Warren County
+| 
+| 
+|----
+|Allegheny Township
+|1
+|Blair County
+| 
+| 
+|----
+|Allegheny Township
+|1
+|Butler County
+| 
+| 
+|----
+|Allegheny Township
+|1
+|Cambria County
+| 
+| 
+|----
+|Allegheny Township
+|1
+|Somerset County
+| 
+| 
+|----
+|Allegheny Township
+|1
+|Venango County
+| 
+| 
+|----
+|Allegheny Township
+|1
+|Westmoreland County
+| 
+| 
+|----
+|Alleghenyville
+|1
+|Berks County
+|19540
+| 
+|----
+|Allemans
+|1
+|Clearfield County
+|16639
+| 
+|----
+|Allen
+|1
+|Cumberland County
+|17001
+| 
+|----
+|Allen Crest
+|1
+|Lehigh County
+|18052
+| 
+|----
+|Allen Junction
+|1
+|Lehigh County
+| 
+| 
+|----
+|Allen Lane
+|1
+|Philadelphia County
+| 
+| 
+|----
+|Allen Township
+|1
+|Northampton County
+| 
+| 
+|----
+|Allendale
+|1
+|Cambria County
+| 
+| 
+|----
+|Allendale
+|1
+|Cumberland County
+|17011
+| 
+|----
+|Allendale Farms
+|1
+|Delaware County
+|19008
+| 
+|----
+|Allenport
+|1
+|Huntingdon County
+|17066
+| 
+|----
+|Allenport
+|1
+|Washington County
+|15412
+| 
+|----
+|Allens
+|1
+|Lycoming County
+| 
+| 
+|----
+|Allens Crossroads
+|1
+|Westmoreland County
+| 
+| 
+|----
+|Allens Mills
+|1
+|Jefferson County
+|15851
+| 
+|----
+|Allensville
+|1
+|Mifflin County
+|17002
+| 
+|----
+|Allenton
+|1
+|Huntingdon County
+| 
+| 
+|----
+|Allentown
+|1
+|Lehigh County
+|18101
+|99
+|----
+|Allentown-Bethlehem-Easton Airport
+|1
+|Lehigh County
+|18103
+| 
+|----
+|Allenvale
+|1
+|Somerset County
+|15501
+| 
+|----
+|Allenwood
+|1
+|Union County
+|17810
+| 
+|----
+|Alliance Furnace
+|1
+|Westmoreland County
+| 
+| 
+|----
+|Allis Hollow
+|1
+|Bradford County
+|18837
+| 
+|----
+|Allison
+|1
+|Fayette County
+|15413
+| 
+|----
+|Allison Heights
+|1
+|Fayette County
+|15413
+| 
+|----
+|Allison Park
+|1
+|Allegheny County
+|15101
+| 
+|----
+|Allison Township
+|1
+|Clinton County
+| 
+| 
+|----
+|Allport
+|1
+|Cambria County
+|15714
+| 
+|----
+|Allport
+|1
+|Clearfield County
+|16821
+| 
+|----
+|Almaden
+|1
+|Clearfield County
+|16680
+| 
+|----
+|Almedia
+|1
+|Columbia County
+|17815
+| 
+|----
+|Almont
+|1
+|Bucks County
+|18960
+| 
+|----
+|Alpha
+|1
+|Northampton County
+|18091
+| 
+|----
+|Alpine
+|1
+|York County
+|17339
+| 
+|----
+|Alsace Manor
+|1
+|Berks County
+|19560
+| 
+|----
+|Alsace Township
+|1
+|Berks County
+| 
+| 
+|----
+|Alta Manor
+|1
+|Blair County
+|16601
+| 
+|----
+|Altamont
+|1
+|Schuylkill County
+|17931
+| 
+|----
+|Altenwald
+|1
+|Franklin County
+|17268
+| 
+|----
+|Althom
+|1
+|Warren County
+| 
+| 
+|----
+|Althouse
+|1
+|Somerset County
+| 
+| 
+|----
+|Altman
+|1
+|Lawrence County
+| 
+| 
+|----
+|Alton
+|1
+|Chester County
+|19380
+| 
+|----
+|Alton Park
+|1
+|Lehigh County
+| 
+| 
+|----
+|Altoona
+|1
+|Blair County
+|16601
+|03
+|----
+|Alum Bank
+|1
+|Bedford County
+|15521
+| 
+|----
+|Alum Rock
+|1
+|Clarion County
+|16373
+| 
+|----
+|Aluta
+|1
+|Northampton County
+|18064
+| 
+|----
+|Alvan
+|1
+|Bedford County
+| 
+| 
+|----
+|Alverda
+|1
+|Indiana County
+|15710
+| 
+|----
+|Alverton
+|1
+|Westmoreland County
+|15612
+| 
+|----
+|Amaranth
+|1
+|Fulton County
+|17267
+| 
+|----
+|Amasa
+|1
+|Lackawanna County
+|18433
+| 
+|----
+|Ambau
+|1
+|York County
+| 
+| 
+|----
+|Amberson
+|1
+|Franklin County
+|17210
+| 
+|----
+|Ambler
+|1
+|Montgomery County
+|19002
+| 
+|----
+|Ambler Farms
+|1
+|Delaware County
+|19074
+| 
+|----
+|Ambler Highlands
+|1
+|Montgomery County
+|19034
+| 
+|----
+|Ambridge
+|1
+|Beaver County
+|15003
+| 
+|----
+|Ambridge Heights
+|1
+|Beaver County
+|15003
+| 
+|----
+|Ambrose
+|1
+|Indiana County
+|15759
+| 
+|----
+|Amend
+|1
+|Fayette County
+|15401
+| 
+|----
+|Amesville
+|1
+|Clearfield County
+|16651
+| 
+|----
+|Amity
+|1
+|Bucks County
+| 
+| 
+|----
+|Amity
+|1
+|Washington County
+|15311
+| 
+|----
+|Amity Gardens
+|1
+|Berks County
+| 
+| 
+|----
+|Amity Hall
+|1
+|Perry County
+|17020
+| 
+|----
+|Amity Township
+|1
+|Berks County
+| 
+| 
+|----
+|Amity Township
+|1
+|Erie County
+| 
+| 
+|----
+|Amityville
+|1
+|Berks County
+| 
+| 
+|----
+|Amsbry
+|1
+|Cambria County
+|16641
+| 
+|----
+|Amsterdam
+|1
+|Mercer County
+|16127
+| 
+|----
+|Amwell Township
+|1
+|Washington County
+| 
+| 
+|----
+|Analomink
+|1
+|Monroe County
+|18320
+| 
+|----
+|Anchor
+|1
+|Lancaster County
+| 
+| 
+|----
+|Ancient Oaks
+|1
+|Lehigh County
+|18062
+| 
+|----
+|Andalusia
+|1
+|Bucks County
+|19020
+| 
+|----
+|Anderson
+|1
+|Clearfield County
+| 
+| 
+|----
+|Anderson
+|1
+|Mifflin County
+|17029
+| 
+|----
+|Anderson
+|1
+|Washington County
+| 
+| 
+|----
+|Anderson Creek
+|1
+|Clearfield County
+| 
+| 
+|----
+|Andersonburg
+|1
+|Perry County
+|17047
+| 
+|----
+|Andersontown
+|1
+|York County
+|17315
+| 
+|----
+|Andersontown
+|1
+|York County
+|17055
+| 
+|----
+|Andover
+|1
+|Fulton County
+|17233
+| 
+|----
+|Andreas
+|1
+|Schuylkill County
+|18211
+| 
+|----
+|Andrews Bridge
+|1
+|Lancaster County
+|17509
+| 
+|----
+|Andrews Plan
+|1
+|Beaver County
+|15001
+| 
+|----
+|Andrews Settlement
+|1
+|Potter County
+|16923
+| 
+|----
+|Angelica
+|1
+|Berks County
+|19540
+| 
+|----
+|Angels
+|1
+|Wayne County
+|18445
+| 
+|----
+|Angora
+|1
+|Philadelphia County
+| 
+| 
+|----
+|Anise
+|1
+|Montgomery County
+| 
+| 
+|----
+|Anita
+|1
+|Jefferson County
+|15711
+| 
+|----
+|Ankeny
+|1
+|Somerset County
+| 
+| 
+|----
+|Annaline Village
+|1
+|Delaware County
+|19061
+| 
+|----
+|Annandale
+|1
+|Butler County
+| 
+| 
+|----
+|Annin Creek
+|1
+|McKean County
+|16750
+| 
+|----
+|Annin Township
+|1
+|McKean County
+| 
+| 
+|----
+|Annisville
+|1
+|Butler County
+|16049
+| 
+|----
+|Annville
+|1
+|Lebanon County
+|17003
+| 
+|----
+|Annville Township
+|1
+|Lebanon County
+| 
+| 
+|----
+|Anselma
+|1
+|Chester County
+|19425
+| 
+|----
+|Ansonia
+|1
+|Tioga County
+|16901
+| 
+|----
+|Ansonville
+|1
+|Clearfield County
+|16656
+| 
+|----
+|Antes Fort
+|1
+|Lycoming County
+|17720
+| 
+|----
+|Anthony Township
+|1
+|Lycoming County
+| 
+| 
+|----
+|Anthony Township
+|1
+|Montour County
+| 
+| 
+|----
+|Anthracite
+|1
+|Lebanon County
+|17016
+| 
+|----
+|Antis Township
+|1
+|Blair County
+| 
+| 
+|----
+|Antram
+|1
+|Fayette County
+| 
+| 
+|----
+|Antrim
+|1
+|Tioga County
+|16901
+| 
+|----
+|Antrim Township
+|1
+|Franklin County
+| 
+| 
+|----
+|Apolacon Township
+|1
+|Susquehanna County
+| 
+| 
+|----
+|Apollo
+|1
+|Armstrong County
+|15613
+| 
+|----
+|Appalachian National Scenic Trail
+|11
+| 
+|25425
+| 
+|----
+|Appenzell
+|1
+|Monroe County
+|18360
+| 
+|----
+|Applebachsville
+|1
+|Bucks County
+|18951
+| 
+|----
+|Appletree Hill
+|1
+|Bucks County
+| 
+| 
+|----
+|Applewold
+|1
+|Armstrong County
+|16201
+| 
+|----
+|Apps
+|1
+|Northampton County
+| 
+| 
+|----
+|Aqua
+|1
+|Franklin County
+|17201
+| 
+|----
+|Aquashicola
+|1
+|Carbon County
+|18012
+| 
+|----
+|Aqueduct
+|1
+|Perry County
+|17020
+| 
+|----
+|Aquetong
+|1
+|Bucks County
+|18938
+| 
+|----
+|Ararat
+|1
+|Susquehanna County
+|18465
+| 
+|----
+|Ararat Township
+|1
+|Susquehanna County
+| 
+| 
+|----
+|Arbor
+|1
+|York County
+|17356
+| 
+|----
+|Arbuckle
+|1
+|Erie County
+|16438
+| 
+|----
+|Arcadia
+|1
+|Indiana County
+|15712
+| 
+|----
+|Arcadia
+|1
+|Lancaster County
+|17563
+| 
+|----
+|Arch Rock
+|1
+|Juniata County
+|17059
+| 
+|----
+|Arch Spring
+|1
+|Blair County
+|16686
+| 
+|----
+|Archbald
+|1
+|Lackawanna County
+|18403
+| 
+|----
+|Arcola
+|1
+|Montgomery County
+|19420
+| 
+|----
+|Ardara
+|1
+|Westmoreland County
+|15615
+| 
+|----
+|Arden
+|1
+|Washington County
+| 
+| 
+|----
+|Arden Mines
+|1
+|Washington County
+|15301
+| 
+|----
+|Ardenheim
+|1
+|Huntingdon County
+|16652
+| 
+|----
+|Ardmore
+|2
+|Delaware County
+|19003
+| 
+|----
+|Ardmore
+|2
+|Montgomery County
+|19003
+| 
+|----
+|Ardmore Manor
+|1
+|Delaware County
+|19003
+| 
+|----
+|Ardmore Park
+|1
+|Delaware County
+|19003
+| 
+|----
+|Ardsley
+|1
+|Montgomery County
+|19038
+| 
+|----
+|Arendtsville
+|1
+|Adams County
+|17303
+| 
+|----
+|Arensburg
+|1
+|Fayette County
+|15433
+| 
+|----
+|Argentine
+|1
+|Butler County
+|16040
+| 
+|----
+|Argus
+|1
+|Bucks County
+|18960
+| 
+|----
+|Ariel
+|1
+|Wayne County
+| 
+| 
+|----
+|Aristes
+|1
+|Columbia County
+|17920
+| 
+|----
+|Arlingham
+|1
+|Montgomery County
+|19031
+| 
+|----
+|Arlingham Hills
+|1
+|Montgomery County
+|19031
+| 
+|----
+|Arlington
+|1
+|Delaware County
+|19082
+| 
+|----
+|Arlington
+|1
+|Wayne County
+|18436
+| 
+|----
+|Arlington Heights
+|1
+|Monroe County
+|18360
+| 
+|----
+|Arlington Knolls
+|1
+|Lehigh County
+|18052
+| 
+|----
+|Armagh
+|1
+|Indiana County
+|15920
+| 
+|----
+|Armagh Township
+|1
+|Mifflin County
+| 
+| 
+|----
+|Armbrust
+|1
+|Westmoreland County
+|15616
+| 
+|----
+|Armenia Township
+|1
+|Bradford County
+| 
+| 
+|----
+|Armstrong
+|1
+|Butler County
+| 
+| 
+|----
+|Armstrong Township
+|1
+|Indiana County
+| 
+| 
+|----
+|Armstrong Township
+|1
+|Lycoming County
+| 
+| 
+|----
+|Arndts
+|1
+|Northampton County
+|18038
+| 
+|----
+|Arnold
+|1
+|Westmoreland County
+|15068
+| 
+|----
+|Arnold City
+|1
+|Fayette County
+|15012
+| 
+|----
+|Arnot
+|1
+|Tioga County
+|16911
+| 
+|----
+|Arnots Addition
+|1
+|Schuylkill County
+|17970
+| 
+|----
+|Arona
+|1
+|Westmoreland County
+|15617
+| 
+|----
+|Aronimink
+|1
+|Delaware County
+|19026
+| 
+|----
+|Aronimink Estates
+|1
+|Delaware County
+|19026
+| 
+|----
+|Aronimink Heights
+|1
+|Delaware County
+|19026
+| 
+|----
+|Aronimink Park
+|1
+|Delaware County
+|19026
+| 
+|----
+|Aronwold
+|1
+|Delaware County
+|19073
+| 
+|----
+|Arrowhead Lake
+|1
+|Monroe County
+|18347
+| 
+|----
+|Arroyo
+|1
+|Elk County
+| 
+| 
+|----
+|Artemas
+|1
+|Bedford County
+|17211
+| 
+|----
+|Arthurs
+|1
+|Clarion County
+|16254
+| 
+|----
+|Arundel Village
+|1
+|Montgomery County
+|19044
+| 
+|----
+|Asaph
+|1
+|Tioga County
+|16901
+| 
+|----
+|Asbury
+|1
+|Columbia County
+|17859
+| 
+|----
+|Asbury
+|1
+|Erie County
+|16509
+| 
+|----
+|Ashcom
+|1
+|Bedford County
+| 
+| 
+|----
+|Asherton
+|1
+|Northumberland County
+| 
+| 
+|----
+|Ashfield
+|1
+|Carbon County
+|18212
+| 
+|----
+|Ashland
+|1
+|Clearfield County
+|16666
+| 
+|----
+|Ashland
+|2
+|Columbia County
+|17921
+| 
+|----
+|Ashland
+|2
+|Schuylkill County
+|17921
+| 
+|----
+|Ashland
+|2
+|Columbia County
+|17921
+| 
+|----
+|Ashland Township
+|1
+|Clarion County
+| 
+| 
+|----
+|Ashley
+|1
+|Luzerne County
+|18706
+| 
+|----
+|Ashmead Village
+|1
+|Montgomery County
+| 
+| 
+|----
+|Ashmore
+|1
+|Luzerne County
+| 
+| 
+|----
+|Ashtola
+|1
+|Somerset County
+|15963
+| 
+|----
+|Ashtree
+|1
+|Greene County
+| 
+| 
+|----
+|Ashville
+|1
+|Cambria County
+|16613
+| 
+|----
+|Askam
+|1
+|Luzerne County
+|18706
+| 
+|----
+|Aspers
+|1
+|Adams County
+|17304
+| 
+|----
+|Aspinwall
+|1
+|Allegheny County
+|15215
+| 
+|----
+|Aston
+|1
+|Delaware County
+|19014
+| 
+|----
+|Aston Manor
+|1
+|Delaware County
+|19013
+| 
+|----
+|Aston Mills
+|1
+|Delaware County
+| 
+| 
+|----
+|Aston Township
+|1
+|Delaware County
+| 
+| 
+|----
+|Astral
+|1
+|Venango County
+| 
+| 
+|----
+|Asylum Township
+|1
+|Bradford County
+| 
+| 
+|----
+|Atchison
+|1
+|Fayette County
+| 
+| 
+|----
+|Atco
+|1
+|Wayne County
+|12764
+| 
+|----
+|Atglen
+|1
+|Chester County
+|19310
+| 
+|----
+|Athens
+|1
+|Bradford County
+|18810
+| 
+|----
+|Athens Township
+|1
+|Bradford County
+| 
+| 
+|----
+|Athens Township
+|1
+|Crawford County
+| 
+| 
+|----
+|Athol
+|1
+|Berks County
+|19519
+| 
+|----
+|Atkinson Mills
+|1
+|Mifflin County
+|17051
+| 
+|----
+|Atlantic
+|1
+|Clearfield County
+|16651
+| 
+|----
+|Atlantic
+|1
+|Crawford County
+|16111
+| 
+|----
+|Atlantic
+|1
+|Somerset County
+| 
+| 
+|----
+|Atlantic
+|1
+|Westmoreland County
+|15671
+| 
+|----
+|Atlas
+|1
+|Northumberland County
+|17851
+| 
+|----
+|Atlasburg
+|1
+|Washington County
+|15004
+| 
+|----
+|Atwells Crossing
+|1
+|Butler County
+| 
+| 
+|----
+|Atwood
+|1
+|Armstrong County
+|16249
+| 
+|----
+|Auburn
+|1
+|Schuylkill County
+|17922
+| 
+|----
+|Auburn
+|1
+|Susquehanna County
+| 
+| 
+|----
+|Auburn Center
+|1
+|Susquehanna County
+|18623
+| 
+|----
+|Auburn Four Corners
+|1
+|Susquehanna County
+|18844
+| 
+|----
+|Auburn Township
+|1
+|Susquehanna County
+| 
+| 
+|----
+|Aucheys
+|1
+|Schuylkill County
+| 
+| 
+|----
+|Auchincloss
+|1
+|Luzerne County
+| 
+| 
+|----
+|Audenried
+|1
+|Carbon County
+|18201
+| 
+|----
+|Audubon
+|1
+|Montgomery County
+|19407
+| 
+|----
+|Aughwick
+|1
+|Huntingdon County
+|17066
+| 
+|----
+|Augustaville
+|1
+|Northumberland County
+|17801
+| 
+|----
+|Aultman
+|1
+|Indiana County
+|15713
+| 
+|----
+|Austin
+|1
+|Potter County
+|16720
+| 
+|----
+|Austin Heights
+|1
+|Lackawanna County
+|18518
+| 
+|----
+|Austinburg
+|1
+|Tioga County
+|16928
+| 
+|----
+|Austinville
+|1
+|Bradford County
+|16914
+| 
+|----
+|Autumn Leaves
+|1
+|Wayne County
+| 
+| 
+|----
+|Avalon
+|1
+|Allegheny County
+|15202
+| 
+|----
+|Avella
+|1
+|Washington County
+|15312
+| 
+|----
+|Avery
+|1
+|Wyoming County
+| 
+| 
+|----
+|Avis
+|1
+|Clinton County
+|17721
+| 
+|----
+|Avoca
+|1
+|Luzerne County
+|18641
+| 
+|----
+|Avon
+|1
+|Lebanon County
+|17042
+| 
+|----
+|Avon Heights
+|1
+|Lebanon County
+|17042
+| 
+|----
+|Avondale
+|1
+|Chester County
+|19311
+| 
+|----
+|Avondale
+|1
+|Luzerne County
+| 
+| 
+|----
+|Avondale Hill
+|1
+|Luzerne County
+| 
+| 
+|----
+|Avondale Knolls
+|1
+|Delaware County
+|19086
+| 
+|----
+|Avonia
+|1
+|Erie County
+| 
+| 
+|----
+|Avonmore
+|1
+|Westmoreland County
+|15618
+| 
+|----
+|Avoy
+|1
+|Wayne County
+| 
+| 
+|----
+|Axemann
+|1
+|Centre County
+|16823
+| 
+|----
+|Ayers Crossroads
+|1
+|Bradford County
+| 
+| 
+|----
+|Ayers Hill
+|1
+|Potter County
+| 
+| 
+|----
+|Ayr Township
+|1
+|Fulton County
+| 
+| 
+|----
+|Azelta
+|1
+|Tioga County
+| 
+| 
+|}
+
+==See also==
+*List of cities in Pennsylvania
+*List of counties in Pennsylvania
+

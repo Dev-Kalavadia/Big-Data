@@ -1,0 +1,62 @@
+Title: Vulcain (rocket engine)
+
+
+
+
+
+Vulcain is a family of European first stage rocket engines for Ariane 5 and the future Ariane 6. Its development began in 1988 and the first flight was completed in 1996. The updated version of the engine, Vulcain 2, was first successfully flown in 2005. Both members of the family use liquid oxygen/liquid hydrogen cryogenic fuel. The new version under development for Ariane 6 will be called Vulcain 2.1.
+
+==History==
+The Vulcain rocket engine is named in French for Vulcan, the ancient Roman god of fire. Its development, carried out by a European partnership, began in 1988 with the Ariane 5 rocket program. It first flew in 1996 powering the ill-fated flight 501 without being the cause of the disaster, and had its first successful flight in 1997 (flight 502). 
+
+In 2002 the upgraded Vulcain 2 with 20% more thrust first flew on flight 157, although a problem with the engine turned the flight into a failure. The cause was due to flight loads being much higher than expected, as the inquiry board concluded. Subsequently, the nozzle was redesigned to include mechanical reinforcement of the structure and improvement of the thermal situation of the tube wall through enhancing hydrogen coolant flow as well as applying a thermal barrier coating to the flame-facing side of the coolant tubes. The first successful flight of the (partially redesigned) Vulcain 2 occurred in 2005 on flight 521.
+
+===Further development===
+
+On 17 June 2007 Volvo Aero announced that in spring of 2008 it expected to hot-fire test a Vulcain 2 nozzle manufactured with a new "sandwich" technology.
+
+The development of the future version for Ariane 6, Vulcain 2.1, began in 2014. First flight-configuration engine nozzle was delivered in June 2017, reducing parts count by 90%, cost by 40% and production time by 30% comparing to the engine nozzle of Vulcain 2.
+
+==Overview==
+The Vulcain is a gas-generator cycle rocket engine fed with cryogenic liquid oxygen and liquid hydrogen. It features regenerative cooling through a tube wall design, and the Vulcain 2 introduced a particular film cooling for the lower part of the nozzle, where exhaust gas from the turbine is re-injected in the engine. It powers the first stage of the Ariane 5 launcher, the EPC (Étage Principal Cryotechnique, main cryogenic stage) and provide 8% of the total lift-off thrust (the rest being provided by the two solid rocket boosters). The engine operating time is 600 s in both configurations. 3 m tall and 1.76 m in diameter, the engine weighs 1686 kg and provides 137 t of thrust in its latest version. The oxygen turbopump rotates at 13600 rpm with a power of 3 MW while the hydrogen turbopump rotates at 34000 rpm with 12 MW of power. The total mass flow rate is 235 kg/s, of which 41.2 kg/s are of hydrogen.
+
+==Contractors==
+The main contractor for the Vulcain engines is Snecma Moteurs (France), which also provides the liquid hydrogen turbopump. The liquid oxygen turbopump is the responsibility of Avio (Italy), and the gas turbines that power the turbopumps and the nozzle are developed by GKN (Formerly Volvo) (Sweden).
+
+==See also==
+* Comparison of orbital rocket engines
+* Spacecraft propulsion
+* Timeline of hydrogen technologies
+
+===Comparable engines===
+* RS-68
+* J-2X
+* RS-25 (SSME)
+* RD-0120
+
+==References and notes==
+
+
+==External links==
+
+* Arianespace – Ariane 5: Cryogenic Main Stage and Solid Boosters
+* Ariane 5 ECA and Snecma – Snecma Moteurs: Vulcain 2 engine proves its mettle
+*  – Volvo Aero
+*  – Volvo Aero
+*  – Volvo Aero
+*  – Volvo Aero
+*  – Volvo Aero
+*  – Volvo Aero
+
+===Related news===
+* EADS N.V. – EADS welcomes contract signature for 30 Ariane 5 launchers at ILA 2004 in Berlin
+* Three billion Euros contract for 30 Ariane 5 launchers – EADS Astrium
+
+
+
+
+
+Category:European Space Agency
+Category:Rocket engines using hydrogen propellant
+Category:Rocket propulsion
+Category:Rocket engines using the gas-generator cycle

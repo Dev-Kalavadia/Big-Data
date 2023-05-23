@@ -1,0 +1,6 @@
+Title: MINPACKMINPACK is a library of FORTRAN subroutines for the solving of systems of nonlinear equations, or the least-squares minimization of the residual of a set of linear or nonlinear equations.
+
+MINPACK, along with other similar libraries such as LINPACK and EISPACK, originated from the Mathematics and Computer Science Division Software (MCS) of Argonne National Laboratory. Written by Jorge Moré, Burt Garbow, and Ken Hillstrom, MINPACK is free and designed to be highly portable, robust and reliable. The quality of its implementation of the Levenberg–Marquardt algorithm is attested by Dennis and Schnabel.
+
+Five algorithmic paths each include a core subroutine and a driver routine. The algorithms proceed either from an analytic specification of the Jacobian matrix or directly from the problem functions. The paths include facilities for systems of equations with a banded Jacobian matrix, for least-squares problems with a large amount of data, and for checking the consistency of the Jacobian matrix with the functions.
+

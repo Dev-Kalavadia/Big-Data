@@ -1,0 +1,182 @@
+Title: Kota Lok Sabha constituency
+
+
+
+Kota Lok Sabha constituency is one of the 25 Lok Sabha (parliamentary) constituencies in Rajasthan state in India.
+
+==Assembly Segments==
+Presently, Kota Lok Sabha constituency comprises eight Vidhan Sabha (legislative assembly) segments. These are:
+
+{|class ="wikitable" width="500px"
+|-
+! width="50px" style="font-size:75%"|Constituency number
+! width="200px"|Name
+!width="100px" style="font-size:75%"|Reserved for (SC/ST/None)
+!width="150px"|District
+! MLA
+! Party
+|-
+|185
+|Keshoraipatan
+|SC
+|Bundi
+|Chandrakanta Meghwal
+|BJP
+|-
+|186
+|Bundi
+|None
+|Bundi
+|Ashok Dogara
+|BJP
+|-
+|187
+|Pipalda
+|None
+|Kota
+|Ramnarain Meena
+|INC
+|-
+|188
+|Sangod
+|None
+|Kota
+|Bharat Singh Kundanpur
+|INC
+|-
+|189
+|Kota North
+|None
+|Kota
+|Shanti Dhariwal
+|INC
+|-
+|190
+|Kota South
+|None
+|Kota
+|Sandeep Sharma
+|BJP
+|-
+|191
+|Ladpura
+|None
+|Kota
+|Kalpana Devi
+|BJP
+|-
+|192
+|Ramganj Mandi
+|SC
+|Kota
+|Madan Dilawar
+|BJP
+|-
+|}
+
+==Members of Parliament==
+{|class ="wikitable" 
+|-
+! #
+! Name of MP
+! colspan="2" |Party
+|-
+|1952
+|Nemi Chandra Kasliwal
+| rowspan="3" style="background-color: " |
+| rowspan="3" |Indian National Congress
+|-
+| rowspan="2" |1957
+|Nemi Chandra Kasliwal
+|-
+|Onkar Lal Berwa
+|-
+|1962
+| rowspan="3" |Onkar Lal Berwa
+| rowspan="3" style="background-color: " |
+| rowspan="3" |Bharatiya Jana Sangh
+|-
+|1967
+|-
+|1971
+|-
+|1977
+| rowspan="2" |Krishana Kumar Goyal
+| rowspan="2" style="background-color: " |
+| rowspan="2" |Janata Party
+|-
+|1980
+|-
+|1984
+|Shanti Dhariwal
+| style="background-color: " |
+|Indian National Congress
+|-
+|1989
+| rowspan="3" |Vaidya Dau Dayal Joshi
+| rowspan="3" style="background-color: " |
+| rowspan="3" |Bharatiya Janata Party
+|-
+|1991
+|-
+|1996
+|-
+|1998
+| rowspan="1" |Ram Narain Meena
+| rowspan="1" style="background-color: " |
+| rowspan="1" |Indian National Congress
+|-
+|1999
+| rowspan="2" |Raghuveer Singh Koshal
+| rowspan="2" style="background-color: " |
+| rowspan="2" |Bharatiya Janta Party
+|-
+|2004
+|-
+|2009
+|Ijyaraj Singh
+| rowspan="1" style="background-color: " |
+| rowspan="1" |Indian National Congress
+|-
+|2014
+| rowspan="2" |Om Birla
+| rowspan="2" style="background-color: " |
+| rowspan="2" |Bharatiya Janata Party
+|-
+|2019
+|-
+|}
+
+==Election results==
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==See also==
+* Kota district
+* List of Constituencies of the Lok Sabha
+

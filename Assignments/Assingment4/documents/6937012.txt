@@ -1,0 +1,121 @@
+Title: 1978 South Carolina gubernatorial election
+
+
+
+The 1978 South Carolina gubernatorial election was held on November 7, 1978 to select the governor of the state of South Carolina. Richard Riley, the Democratic nominee, defeated Republican Edward Lunn Young and became the 111th governor of South Carolina.
+
+==Democratic primary==
+The South Carolina Democratic Party held their primary for governor on June 13, featuring three high tier candidates. Richard Riley, a former member of the General Assembly, emerged as the winner of the runoff election over Lieutenant Governor W. Brantley Harvey, Jr. on June 27.
+
+{| border="1" cellpadding="4" cellspacing="0" align="left" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|- style="background-color:#E9E9E9"
+! colspan="3" | Democratic Primary
+|- style="background-color:#E9E9E9"
+! colspan="1" style="width: 170px"|Candidate
+! style="width: 50px"|Votes
+! style="width: 40px"|%
+|-
+|- 
+  | W. Brantley Harvey, Jr.
+  | align="right" | 142,785
+  | align="right" | 37.5
+|- 
+  | Richard Riley
+  | align="right" | 125,184
+  | align="right" | 32.9
+|- 
+  | William Jennings Bryan Dorn
+  | align="right" | 112,793
+  | align="right" | 29.6
+|-
+|}
+
+{| border="1" cellpadding="4" cellspacing="0" align="left" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|- style="background-color:#E9E9E9"
+! colspan="4" | Democratic Primary Runoff
+|- style="background-color:#E9E9E9"
+! colspan="1" style="width: 170px"|Candidate
+! style="width: 50px"|Votes
+! style="width: 40px"|%
+! style="width: 40px"|±%
+|-
+|- 
+| Richard Riley
+| align="right" | 180,882
+| align="right" | 53.3
+| align="right" | +20.4
+|- 
+| W. Brantley Harvey, Jr.
+| align="right" | 158,655
+| align="right" | 46.7
+| align="right" | +9.2
+|-
+|}
+
+
+==Republican primary==
+The South Carolina Republican Party held their primary for governor on June 13. The race between Edward Lunn Young and Raymon Finch drew little interest compared to the Democratic primary and turnout for the Republican was less than that of 1974. Young defeated Finch in a close contest and earned the right to face Riley in the general election.
+
+{| border="1" cellpadding="4" cellspacing="0" align="left" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|- style="background-color:#E9E9E9"
+! colspan="3" | Republican Primary
+|- style="background-color:#E9E9E9"
+! colspan="1" style="width: 170px"|Candidate
+! style="width: 50px"|Votes
+! style="width: 40px"|%
+|-
+|- 
+  | Edward Lunn Young
+  | align="right" | 12,143
+  | align="right" | 51.4
+|- 
+  | Raymon Finch
+  | align="right" | 11,501
+  | align="right" | 48.6
+|-
+|}
+
+
+==General election==
+The general election was held on November 7, 1978 and Richard Riley was elected as the next governor of South Carolina. Turnout was higher than the previous gubernatorial election because of the increasingly competitive nature of the race between the two parties.
+
+
+ 
+ 
+ 
+
+
+
+|-
+| 
+| colspan=5 |Democratic gain from Republican
+|-
+
+
+thumb|300px|none|1978 South Carolina gubernatorial election map, by percentile by county.
+
+
+
+
+
+
+
+==See also==
+*Governor of South Carolina
+*List of governors of South Carolina
+*South Carolina gubernatorial elections
+
+==External links==
+*SCIway Biography of Governor Richard Wilson Riley
+
+
+
+
+
+
+1978
+Category:1978 United States gubernatorial elections
+Gubernatorial
+Category:November 1978 events in the United States
+
+

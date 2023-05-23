@@ -1,0 +1,583 @@
+Title: TBV Lemgo
+
+
+
+TBV Lemgo is a handball club from Lemgo, Germany, and is competing in the Handball-Bundesliga.
+
+
+
+==History==
+The ascent to one of the best German handball clubs was slow but steady. In the year the Bundesliga was founded, the club was still in the Oberliga, promotion to the 2. Handball-Bundesliga in 1981/82, and since the 1983/84 season, TBV Lemgo has been playing in the top class, growing steadily for more than a decade. developed into a top team. Names such as Lajos Mocsai (coach since 1989), László Marosi (1990–1999 players) or Daniel Stephan (1994–2008 players) are associated with this. They won their first major title in 1995, winning the DHB-Pokal, followed in 1996 by the EHF Cup Winners' Cup. Lajos Mocsai finished his coaching job at TBV with this title. 1997 was the most successful year in the history of the club, led by his successor, Yuri Shevtsov. For the first time in a season, he was able to celebrate a championship title, a cup win and a Super Cup win. The team won the Handball-Bundesliga twice (1997, 2003), the DHB-Pokal 4 times (1995, 1997, 2002, 2020), the DHB-Supercup 4 times (1997, 1999, 2002, 2003), 1 time for the EHF Cup Winner's Cup (1996) and 2 times for the EHF Cup (2006, 2010).
+
+==Crest, colours, supporters==
+
+===Naming history===
+{| class="wikitable" style="text-align: left"
+|-
+! style="color:white; background:#0873FD"|Name
+! style="color:white; background:#0873FD"|Period
+|-
+|align=left|Ballsportverein Lemgo 1911
+|1911–1945
+|-
+|align=left|Turn- und Ballspielverein Lemgo
+|1945–2018
+|-
+|align=left|Turn- und Ballspielverein Lemgo Lippe
+|2018–present
+|}
+
+===Kit manufacturers===
+{| class="wikitable" style="font-size: 95%; text-align:center"
+|- 
+!scope=col style="color:white; background:#0873FD;"|Period
+!scope=col style="color:white; background:#0873FD;"|Kit manufacturer
+|-
+|  – 2019
+|  Salming
+|-
+| 2019 – present
+|  Joma
+|}
+
+===Kits===
+{| class="wikitable collapsible collapsed" style="width:65%"
+!colspan=6 ! style="color:white; background:#0873FD"| HOME
+|-
+|
+|
+|}
+
+{| class="wikitable collapsible collapsed" style="width:65%"
+!colspan=6 ! style="color:white; background:#0873FD"| AWAY
+|-
+|
+|
+|}
+
+==Accomplishments==
+*Handball-Bundesliga:
+** : 1997, 2003
+*DHB-Pokal:
+** : 1995, 1997, 2002, 2020
+*DHB-Supercup:
+** : 1997, 1999, 2002, 2003
+*EHF Cup Winner's Cup:
+** : 1996
+*EHF Cup:
+** : 2006, 2010
+* Double
+: Winners: 1996–97
+
+==Team==
+
+===Current squad===
+:Squad for the 2022–23 season
+
+{| class="wikitable" style="font-size:100%; text-align:center; width:50%"
+|-
+! colspan=5 style="background-color:#0873FD;color:white;text-align:center;"|TBV Lemgo
+|-
+|
+
+
+;Goalkeepers	
+*1  Borko Ristovski
+* 20  Finn Zecher
+* 99  Urh Kastelic
+;Left wingers
+*4  Samuel Zehnder
+* 22  Kian Schwarzer
+;Right wingers
+* 14  Bobby Schagen
+* 24  Lukas Zerbe
+;Line players
+*5  Yan Brosch
+* 30  Gedeon Guardiola
+* 40  Thore Oetjen
+
+;Left backs
+*2  Lukas Hutecek
+*8  Frederik Simak
+* 10  Emil Lærke
+;Centre Backs
+* 17  Niko Blaauw
+* 23  Tim Suton
+* 39  Thomas Houtepen
+;Right backs
+*7  Isaías Guardiola
+* 25  Niels Versteijnen
+
+|}
+
+===Technical staff===
+* Head coach:  Florian Kehrmann
+* Assistant coach:  Matthias Struck
+* Athletic Trainer:  Meinolf Krome
+* Club doctor:  Dr. Roland Kessler
+
+===Transfers===
+:Transfers for the 2022–23 season
+
+
+
+;Joining File:Arrow-up.png
+*  Urh Kastelic (GK) (from  Frisch Auf Göppingen)
+*  Samuel Zehnder (LW) (from  Kadetten Schaffhausen)
+*  Emil Lærke (LB) (from  GOG Håndbold)
+*  Niels Versteijnen (RB) (from  VfL Lübeck-Schwartau)
+*  Jan Brosch (P) (from  ASV Hamm-Westfalen)
+
+;File:Arrow-down.gif Leaving
+*  Peter Johannesson (GK) (to  Bergischer HC)
+*  Bjarki Már Elísson (LW)  (to  Telekom Veszprém)
+*  Andreas Cederholm (RB) (to  IFK Kristianstad)
+*  Linus Geis (LB) (to  DJK Rimpar Wölfe)
+*  Jonathan Carlsbogård (LB) (to  FC Barcelona)
+*  Andrej Kogut (CB)
+
+
+==Previous squads==
+{| class="wikitable collapsible collapsed" style="width:100%"
+! colspan=5 style="background-color:#0873FD;color:white;text-align:center;"|2019–2020 Team
+|- 
+! style="color:white; background:#0873FD"|Shirt No
+! style="color:white; background:#0873FD"|Nationality
+! style="color:white; background:#0873FD"|Player
+! style="color:white; background:#0873FD"|Birth Date
+! style="color:white; background:#0873FD"|Position
+|-
+|align=center| 1 ||  || Piotr Wyszomirski ||  || Goalkeeper
+|-
+|align=center| 4 ||  || Bjarki Már Elísson ||  || Left Winger
+|-
+|align=center| 5 ||  || Andrej Kogut ||  || Central Back
+|-
+|align=center| 7 ||  || Isaías Guardiola ||  || Right Back
+|-
+|align=center| 9 ||  || Jonathan Carlsbogård ||  || Left Back
+|-
+|align=center| 10 ||  || Fabian van Olphen ||  || Left Back
+|-
+|align=center| 13 ||  || Christoph Theuerkauf ||  || Line Player
+|-
+|align=center| 14 ||  || Bobby Schagen ||  || Right Winger
+|-
+|align=center| 18 ||  || Fynn Hangstein ||  || Central Back
+|-
+|align=center| 23 ||  || Tim Suton ||  || Central Back
+|-
+|align=center| 24 ||  || Lukas Zerbe ||  || Right Winger
+|-
+|align=center| 25 ||  || Peter Johannesson ||  || Goalkeeper
+|-
+|align=center| 27 ||  || Jari Lemke ||  || Left Back
+|-
+|align=center| 30 ||  || Finn Zecher ||  || Goalkeeper
+|-
+|align=center| 34 ||  || Andreas Cederholm ||  || Right Back
+|-
+|align=center| 37 ||  || Donát Bartók ||  || Right Back
+|-
+|align=center| 40 ||  || Maxim Schalles ||  || Right Winger
+|-
+|align=center| 41 ||  || Thore Oetjen ||  || Line Player
+|-
+|align=center| 42 ||  || Linus Geis ||  || Left Back
+|-
+|align=center| 44 ||  || Alexander Reimann ||  || Left Winger
+|-
+|align=center| 69 ||  || Christian Klimek ||  || Line Player
+|-
+|align=center| 77 ||  || Dani Baijens ||  || Central Back
+|-
+|align=center| 80 ||  || Evars Klešniks ||  || Right Back
+|}
+
+{| class="wikitable collapsible collapsed" style="width:100%"
+! colspan=5 style="background-color:#0873FD;color:white;text-align:center;"|2009–2010 Team
+|- 
+! style="color:white; background:#0873FD"|Shirt No
+! style="color:white; background:#0873FD"|Nationality
+! style="color:white; background:#0873FD"|Player
+! style="color:white; background:#0873FD"|Birth Date
+! style="color:white; background:#0873FD"|Position
+|-
+|align=center| 1 ||  || Carsten Lichtlein ||  || Goalkeeper
+|-
+|align=center| 2 ||  || Michael Kraus ||  || Central Back
+|-
+|align=center| 3 ||  || Ferenc Ilyés ||  || Left Back
+|-
+|align=center| 7 ||  || Sebastian Preiß ||  || Line Player
+|-
+|align=center| 8 ||  || Jens Bechtloff ||  || Left Winger
+|-
+|align=center| 11 ||  || Holger Glandorf ||  || Right Back
+|-
+|align=center| 12 ||  || Jesper Larsson ||  || Goalkeeper
+|-
+|align=center| 14 ||  || Mark Schmetz ||  || Right Winger
+|-
+|align=center| 15 ||  || Florian Kehrmann ||  || Right Winger
+|-
+|align=center| 16 ||  || Martin Galia ||  || Goalkeeper
+|-
+|align=center| 18 ||  || Tamás Mocsai ||  || Right Back
+|-
+|align=center| 19 ||  || Martin Strobel ||  || Central Back
+|-
+|align=center| 20 ||  || Rolf Hermann ||  || Right Back
+|-
+|align=center| 22 ||  || Vignir Svavarsson ||  || Line Player
+|-
+|align=center| 23 ||  || Logi Geirsson ||  || Left Winger
+|-
+|align=center| 77 ||  || Daniel Kubeš ||  || Left Back
+|}
+
+{| class="wikitable collapsible collapsed" style="width:100%"
+! colspan=5 style="background-color:#0873FD;color:white;text-align:center;"|2005–2006 Team
+|- 
+! style="color:white; background:#0873FD"|Shirt No
+! style="color:white; background:#0873FD"|Nationality
+! style="color:white; background:#0873FD"|Player
+! style="color:white; background:#0873FD"|Birth Date
+! style="color:white; background:#0873FD"|Position
+|-
+|align=center| 1 ||  || Carsten Lichtlein ||  || Goalkeeper
+|-
+|align=center| 3 ||  || Sven-Sören Christophersen ||  || Left Back
+|-
+|align=center| 4 ||  || Daniel Stephan ||  || Central Back
+|-
+|align=center| 5 ||  || André Tempelmeier ||  || Right Winger
+|-
+|align=center| 7 ||  || Sebastian Preiß ||  || Line Player
+|-
+|align=center| 8 ||  || Christian Schwarzer ||  || Line Player
+|-
+|align=center| 9 ||  || Ásgeir Örn Hallgrímsson ||  || Right Back
+|-
+|align=center| 10 ||  || Maximilian Ramota ||  || Left Back
+|-
+|align=center| 11 ||  || Volker Zerbe ||  || Right Back
+|-
+|align=center| 12 ||  || Jörg Zereike ||  || Goalkeeper
+|-
+|align=center| 15 ||  || Florian Kehrmann ||  || Right Winger
+|-
+|align=center| 16 ||  || René Selke ||  || Goalkeeper
+|-
+|align=center| 17 ||  || Michael Binder ||  || Left Winger
+|-
+|align=center| 22 ||  || Markus Baur ||  || Central Back
+|-
+|align=center| 23 ||  || Logi Geirsson ||  || Left Winger
+|-
+|align=center| 31 ||  || André Kropp ||  || Line Player
+|-
+|align=center| 39 ||  || Filip Jícha ||  || Left Back
+|}
+
+{| class="wikitable collapsible collapsed" style="width:100%"
+! colspan=5 style="background-color:#0873FD;color:white;text-align:center;"|2002–2003 Team
+|- 
+! style="color:white; background:#0873FD"|Shirt No
+! style="color:white; background:#0873FD"|Nationality
+! style="color:white; background:#0873FD"|Player
+! style="color:white; background:#0873FD"|Birth Date
+! style="color:white; background:#0873FD"|Position
+|-
+|align=center| 1 ||  || Christian Ramota ||  || Goalkeeper
+|-
+|align=center| 2 ||  || Matthias Struck ||  || Right Back
+|-
+|align=center| 3 ||  || Achim Schürmann ||  || Line Player
+|-
+|align=center| 4 ||  || Daniel Stephan ||  || Central Back
+|-
+|align=center| 5 ||  || André Tempelmeier ||  || Right Winger
+|-
+|align=center| 7 ||  || Ulf Ganschow ||  || Left Winger
+|-
+|align=center| 8 ||  || Christian Schwarzer ||  || Line Player
+|-
+|align=center| 10 ||  || Maximilian Ramota ||  || Left Back
+|-
+|align=center| 11 ||  || Volker Zerbe ||  || Right Back
+|-
+|align=center| 12 ||  || Jörg Zereike ||  || Goalkeeper
+|-
+|align=center| 13 ||  || Marc Baumgartner ||  || Left Back
+|-
+|align=center| 14 ||  || Rico Bonath ||  || Right Back
+|-
+|align=center| 15 ||  || Florian Kehrmann ||  || Right Winger
+|-
+|align=center| 17 ||  || Michael Binder ||  || Left Winger
+|-
+|align=center| 21 ||  || Carlos Lima ||  || Left Winger
+|-
+|align=center| 22 ||  || Markus Baur ||  || Central Back
+|-
+|align=center| 25 ||  || Robin Kothe ||  || Line Player
+|}
+
+{| class="wikitable collapsible collapsed" style="width:100%"
+! colspan=5 style="background-color:#0873FD;color:white;text-align:center;"|2001–2002 Team
+|- 
+! style="color:white; background:#0873FD"|Shirt No
+! style="color:white; background:#0873FD"|Nationality
+! style="color:white; background:#0873FD"|Player
+! style="color:white; background:#0873FD"|Birth Date
+! style="color:white; background:#0873FD"|Position
+|-
+|align=center| 1 ||  || Christian Ramota ||  || Goalkeeper
+|-
+|align=center| 2 ||  || Matthias Struck ||  || Right Back
+|-
+|align=center| 3 ||  || Achim Schürmann ||  || Line Player
+|-
+|align=center| 4 ||  || Daniel Stephan ||  || Central Back
+|-
+|align=center| 5 ||  || André Tempelmeier ||  || Right Winger
+|-
+|align=center| 7 ||  || Ulf Ganschow ||  || Left Winger
+|-
+|align=center| 8 ||  || Christian Schwarzer ||  || Line Player
+|-
+|align=center| 9 ||  || Alexander Koke ||  || Central Back
+|-
+|align=center| 10 ||  || Jörg Schulte ||  || Left Back
+|-
+|align=center| 11 ||  || Volker Zerbe ||  || Right Back
+|-
+|align=center| 12 ||  || Marco Stange ||  || Goalkeeper
+|-
+|align=center| 13 ||  || Marc Baumgartner ||  || Left Back
+|-
+|align=center| 14 ||  || Jochen Fraatz ||  || Left Winger
+|-
+|align=center| 15 ||  || Florian Kehrmann ||  || Right Winger
+|-
+|align=center| 16 ||  || Julius Kaiser ||  || Goalkeeper
+|-
+|align=center| 22 ||  || Markus Baur ||  || Central Back
+|-
+|align=center| 23 ||  || Lars-Henrik Walther ||  || Line Player
+|}
+
+{| class="wikitable collapsible collapsed" style="width:100%"
+! colspan=5 style="background-color:#0873FD;color:white;text-align:center;"|1998–1999 Team
+|- 
+! style="color:white; background:#0873FD"|Shirt No
+! style="color:white; background:#0873FD"|Nationality
+! style="color:white; background:#0873FD"|Player
+! style="color:white; background:#0873FD"|Birth Date
+! style="color:white; background:#0873FD"|Position
+|-
+|align=center| 1 ||  || Lutz Grosser ||  || Goalkeeper
+|-
+|align=center| 3 ||  || Achim Schürmann ||  || Line Player
+|-
+|align=center| 4 ||  || Daniel Stephan ||  || Central Back
+|-
+|align=center| 5 ||  || André Tempelmeier ||  || Right Winger
+|-
+|align=center| 6 ||  || László Marosi ||  || Left Back
+|-
+|align=center| 7 ||  || Ulf Ganschow ||  || Left Winger
+|-
+|align=center| 8 ||  || Andrej Siniak ||  || Right Winger
+|-
+|align=center| 9 ||  || Andreas Larsson ||  || Right Back
+|-
+|align=center| 10 ||  || Jens Lause ||  || Left Winger
+|-
+|align=center| 11 ||  || Volker Zerbe ||  || Right Back
+|-
+|align=center| 13 ||  || Lars-Henrik Walther ||  || Left Back
+|-
+|align=center| 14 ||  || Gennadij Chalepo ||  || Central Back
+|-
+|align=center| 22 ||  || Kasper Hvidt ||  || Goalkeeper
+|}
+
+==Retired numbers==
+{| class="wikitable" style="font-size:100%; text-align:center; width:50%"
+|-
+! colspan=5 style="background-color:#0873FD;color:#FFFFFF;text-align:center;"|TBV Lemgo retired numbers
+|-
+! style="width:40px; background:#0873FD; color:#FFFFFF;"|N°
+! style="width:40px; background:#0873FD; color:#FFFFFF;"|Nationality
+! style="width:160px; background:#0873FD; color:#FFFFFF;"|Player
+! style="width:160px; background:#0873FD; color:#FFFFFF;"|Position
+! style="width:160px; background:#0873FD; color:#FFFFFF;"|Tenure
+|-
+| 6 ||  ||  László Marosi || Left Back, Left Winger ||1990–1999
+|}
+
+==EHF ranking==
+
+{| class="wikitable" style="text-align: center"
+|-
+! style="color:#FFFFFF; background:#0873FD"|Rank !! style="color:#FFFFFF; background:#0873FD"|Team !! style="color:#FFFFFF; background:#0873FD"|Points
+|-
+|49||align=left| IK Sävehof||127
+|-
+|50||align=left| Dynamo Viktor|||126
+|-
+|51||align=left| Skjern Håndbold||125
+|-
+|52||align=left| TBV Lemgo||125
+|-
+|53||align=left| SKA Minsk||125
+|-
+|54||align=left| AHC Potaissa Turda||124
+|-
+|55||align=left| CSM București||120
+|}
+
+==Former club members==
+
+===Notable former players===
+
+*  Markus Baur (2001–2007)
+*  Jens Bechtloff (2007–2015)
+*  Mike Bezdicek (1989–1994, 1995–1998, 2004–2005)
+*  Sven-Sören Christophersen (2003–2006, 2007–2008)
+*  Nils Dresrüsse (2011–2016)
+*  Ulf Ganschow (1994–2003)
+*  Holger Glandorf (2009–2011)
+*  Lutz Grosser (1991–2001)
+*  Hans-Jürgen Grund (1982–1984)
+*  Michael Hegemann (2006–2008)
+*  Benjamin Herth (2013–2015)
+*  Rolf Hermann (2007–2017)
+*  Fynn Holpert (1989–1991, 1994–1998)
+*  Tim Hornke (2014–2019)
+*  Lars Kaufmann (2007–2009)
+*  Florian Kehrmann (1999–2014)
+*  Michael Kraus (2007–2010)
+*  Finn Lemke (2011–2015)
+*  Carsten Lichtlein (2005–2013)
+*  Nikolai Link (2010–2012)
+*  Arne Niemeyer (2015–2016)
+*  Rainer Niemeyer (1987–1988)
+*  Hendrik Pekeler (2012–2015)
+*  Sebastian Preiß (2005–2013)
+*  Christian Ramota (2001–2005)
+*  Timm Schneider (2012–2015)
+*  Achim Schürmann (1994–2003)
+*  Christian Schwarzer (2001–2007)
+*  Daniel Stephan (1994–2008)
+*  Martin Strobel (2008–2013)
+*  Tim Suton (2014–2015, 2016–)
+*  Christoph Theuerkauf (2010–2012, 2016–2021)
+*  Lukas Zerbe (2019–)
+*  Volker Zerbe (1984–2006)
+*  Jörg Zereike (2002–2009)
+*  Patrick Zieker (2012–2019)
+*  Thomas Bauer (2013–2015)
+*  Lukas Hutecek (2021–)
+*  Gennadij Chalepo (1998–1999)
+*  Andrej Siniak (1996–2001)
+*  Erwin Feuchtmann (2015–2016)
+*  Martin Galia (2008–2011)
+*  Filip Jícha (2005–2007)
+*  Daniel Kubeš (2008–2010)
+*  Lasse Boesen (2007–2008)
+*  Kasper Hvidt (1998–2000)
+*  Kasper Nielsen (2015)
+*  Mait Patrail (2011–2012)
+*  Philippe Julia (1996–1997)
+*  Sergo Datukashvili (2010–2011)
+*  Donát Bartók (2015–2019)
+*  Ferenc Ilyés (2009–2011)
+*  László Marosi (1990–1999)
+*  Tamás Mocsai (1989–1996, 2006–2010)
+*  Logi Geirsson (2004–2010)
+*  Ásgeir Örn Hallgrímsson (2005–2007)
+*  Bjarki Már Elísson (2019–2022)
+*  Vignir Svavarsson (2008–2010)
+*  Sigurður Sveinsson (1983–1988)
+*  Avishay Smoler (2010–2012)
+*  Evars Klešniks (2020)
+*  Dani Baijens (2018–2021)
+*  Niko Blaauw (2020–)
+*  Arjan Haenen (2009–2016)
+*  Bobby Schagen (2019–)
+*  Mark Schmetz (2008–2010)
+*  Fabian van Olphen (2017–2020)
+*  Piotr Wyszomirski (2016–2020)
+*  Ionuț Ramba (2015–2017)
+*  Sergey Pogorelov (1999–2000)
+*  Azat Valiullin (2016–2018)
+*  Jaume Fort (1999–2001)
+*  Gedeon Guardiola (2020–)
+*  Isaías Guardiola (2018–)
+*  Marc Baumgartner (1994–1998, 2000–2005)
+*  Carlos Lima (2002–2004)
+*  Manuel Liniger (2010–2012)
+*  Dan Beutler (2015)
+*  Jonathan Carlsbogård (2018–2022)
+*  Andreas Cederholm (2019–2022)
+*  Peter Johannesson (2017–2022)
+*  Andreas Larsson (1997–1999)
+*  Jesper Larsson (2009)
+*  Rickard Lönn (2013–2014)
+*  Anton Månsson (2015–2017)
+*  Jonathan Stenbäcken (2015–2017)
+
+
+===Former coaches===
+{| class="wikitable" style="text-align: center"
+|-
+! style="color:white; background:#0873FD"|Seasons !! style="color:white; background:#0873FD"|Coach !! style="color:white; background:#0873FD"|Country
+|-
+| style="text-align: center" | 1989–1996
+| style="text-align: center" | Lajos Mocsai
+| style="text-align: center" | 
+|-
+| style="text-align: center" | 1996–2001
+| style="text-align: center" | Yuri Shevtsov
+| style="text-align: center" | 
+|-
+| style="text-align: center" | 2001–2002
+| style="text-align: center" | Zbigniew Tluczynski
+| style="text-align: center" | 
+|-
+| style="text-align: center" | 2002–2007
+| style="text-align: center" | Volker Mudrow
+| style="text-align: center" | 
+|-
+| style="text-align: center" | 2007
+| style="text-align: center" | Peter Meisinger
+| style="text-align: center" | 
+|-
+| style="text-align: center" | 2007
+| style="text-align: center" | Volker Zerbe
+| style="text-align: center" | 
+|-
+| style="text-align: center" | 2008–2009
+| style="text-align: center" | Markus Baur
+| style="text-align: center" | 
+|-
+| style="text-align: center" | 2009–2011
+| style="text-align: center" | Volker Mudrow
+| style="text-align: center" | 
+|-
+| style="text-align: center" | 2011–2013
+| style="text-align: center" | Dirk Beuchler
+| style="text-align: center" | 
+|-
+| style="text-align: center" | 2013–2014
+| style="text-align: center" | Niels Pfannenschmidt
+| style="text-align: center" | 
+|-
+| style="text-align: center" | 2014–
+| style="text-align: center" | Florian Kehrmann
+| style="text-align: center" | 
+|}
+

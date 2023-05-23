@@ -1,0 +1,980 @@
+Title: Premier League Darts
+
+Premier League Darts is a darts tournament which launched on 20 January 2005 on Sky Sports. Now played weekly from February to May, the event originally started as a fortnightly fixture in small venues around the United Kingdom. The tournament originally featured seven players, gradually expanded to ten by 2013, before reduced again from 2022 to eight players from the PDC circuit competing in a knockout style format, with nights also hosted in Europe at different venues. The top four players in the PDC Order of Merit are joined by four wildcard selections to make up the eight-person field. Alongside the World Championship and the World Matchplay, it is considered part of the sport's Triple Crown. The current sponsor is Cazoo.
+
+While active, Phil Taylor dominated the event, winning six of the thirteen tournaments he appeared in. He went unbeaten throughout the first three seasons before James Wade ended his 44 match run in the first match of the 2008 season. A new champion was to be crowned after Mervyn King defeated him in the 2009 semi-finals, where Wade defeated King 13–8 in the final, to pick up the £125,000 first prize. Taylor defeated Wade the following season to claim his fifth title in the competition in 2010, achieving two nine-dart finishes in the final, the only player to achieve this accomplishment.
+
+Although there have been six overall winners of the Premier League, the league stage has been dominated by Taylor and Michael Van Gerwen, with Taylor topping the table for each of the first eight editions and van Gerwen winning the next seven. In 2020, Glen Durrant became the third player to finish top after all league fixtures had been completed. He went on to win the title, meaning all three players both topped the table and won the play-offs at their first attempt.
+
+The prize fund has risen from £265,000 in the early years of the tournament, steadily increasing each year for a prize fund of £1,000,000 in 2022. The winner currently receives £275,000.
+
+==Television coverage==
+The matches have been broadcast on Thursday nights on Sky Sports since the tournament inception. Originally the league alternated with Premier League Snooker one week and Premier League Darts the next. From 2006, the snooker moved to late autumn – giving the Premier League darts a straight weekly run in the spring.
+
+American sports channel OLN aired the 2006 Premier League Darts season on a slight delay, in August 2006. In 2018, BBC America started airing Premier League Darts on Thursday nights. In 2020, BBC America started airing Premier League Darts on Sunday mornings.
+
+German sports channel Sport1 broadcasts most matches live on TV and gives coverages of a selection of matches.
+
+The PDC announced in January 2007 that the contract with Sky Television for coverage of the Premier League had been extended to 2010.
+
+==Finals==
+{| class="wikitable"
+! rowspan=2 | Year
+! colspan=5 | Final
+! colspan=5 | Tournament
+|-
+! Champion
+! Score
+! Runner-up
+! Best of
+! Venue
+! Prize Fund
+! Sponsors
+! Players
+! Venues
+! League winner
+|-
+|2005
+|
+|16–4
+|
+|rowspan=4 align=center|31 legs
+|align=center|G-Mex, Manchester
+|width=70 align=center|£150,000
+|align=center|888.com
+|rowspan=2 align=center|7
+|rowspan=2 align=center|11
+|rowspan=8 align=center|
+|-
+|2006
+|
+|16–6
+|
+|align=center|
+|align=center|£167,500
+|rowspan=2 align=center|Holsten
+|-
+|2007
+|
+|16–6
+|
+|align=center|The Brighton Centre, Brighton
+|align=center|£265,000
+|rowspan=6 align=center|8
+|rowspan=7 align=center|15
+|-
+|2008
+|
+|16–8
+|
+|align=center|
+|align=center|£340,000
+|rowspan=3 align=center|Whyte & Mackay
+|-
+|2009
+|
+|13–8
+|
+|align=center|
+|rowspan=3 align=center|Wembley Arena, London
+|align=center|£405,000
+|-
+|2010
+|
+|10–8
+|
+|rowspan=5 align=center|19 legs
+|rowspan=2 align=center|£410,000
+|-
+|2011
+|
+|10–4
+|
+|align=center|888.com
+|-
+|2012
+|
+|10–7
+|
+|rowspan=8 align=center|The O2 Arena, London
+|align=center|£450,000
+|rowspan=2 align=center|McCoy's
+|-
+|2013
+|
+|10–8
+|
+|align=center |£520,000
+|align=center rowspan=6|10
+|rowspan=7 align=center|
+|-
+|2014
+|
+|10–6
+|
+|align=center|£550,000
+|rowspan=4 align=center|Betway
+|align=center rowspan=4|16
+|-
+|2015
+|
+|11–7
+|
+|rowspan=9 align=center|21 legs
+|align=center|£700,000
+|-
+|2016
+|
+|11–3
+|
+|align=center|£725,000
+|-
+|2017
+|
+|
+|
+|rowspan=4 align=center|£825,000
+|-
+|2018
+|
+|
+|
+|rowspan=4 align=center|Unibet
+|align=center|15
+|-
+|2019
+|
+|
+|
+| rowspan=2 align=center| 9
+| rowspan=1 align=center|16
+|-
+|2020
+|
+|
+|
+|align=center|Ricoh Arena, Coventry 
+| rowspan=1 align=center|8
+|align=center| 
+|-
+|2021
+|
+|
+|
+|align=center|
+| align="center" |£855,000
+|align=center|10
+|align=center|1
+|align=center|
+|-
+|2022
+|
+|
+|
+|align=center|
+|rowspan=3 align=center |£1,000,000
+|rowspan=2 align=center|Cazoo
+|rowspan=2 align=center|8
+|rowspan=2 align=center|17
+|align=center|
+|-
+|2023
+|
+|
+|
+|align=center|
+|align=center|
+|}
+
+
+
+==Records and statistics==
+
+
+===Total finalist appearances===
+{| class="wikitable sortable"
+|-
+!Rank
+!Player
+!Won
+!Runner-up
+!Finals
+!Appearances
+|-
+| align=center rowspan="2" |1
+|||align=center|6||align=center|2||align=center|8||align=center|13
+|-
+|||align=center|6||align=center|2||align=center|8||align=center|10
+|-
+| align=center rowspan="1" |3
+|||align=center|2||align=center|0||align=center|2||align=center|11
+|-
+| align=center rowspan="1" |4
+|||align=center|1||align=center|2||align=center|3||align=center|12
+|-
+| align=center rowspan="3" |5
+|||align=center|1||align=center|0||align=center|1||align=center|14
+|-
+|||align=center|1||align=center|0||align=center|1||align=center|2
+|-
+|||align=center|1||align=center|0||align=center|1||align=center|2
+|-
+| align=center rowspan="12" |8
+|||align=center|0||align=center|1||align=center|1||align=center|3
+|-
+|||align=center|0||align=center|1||align=center|1||align=center|3
+|-
+|||align=center|0||align=center|1||align=center|1||align=center|5
+|-
+|||align=center|0||align=center|1||align=center|1||align=center|2
+|-
+|||align=center|0||align=center|1||align=center|1||align=center|10
+|-
+|||align=center|0||align=center|1||align=center|1||align=center|6
+|-
+|||align=center|0||align=center|1||align=center|1||align=center|9
+|-
+|||align=center|0||align=center|1||align=center|1||align=center|5
+|-
+|||align=center|0||align=center|1||align=center|1||align=center|4
+|-
+|||align=center|0||align=center|1||align=center|1||align=center|2
+|-
+|||align=center|0||align=center|1||align=center|1||align=center|1
+|-
+|||align=center|0||align=center|1||align=center|1||align=center|1
+|}
+* Active players are shown in bold
+* Only players who reached the final are included
+* In the event of identical records, players are sorted by date first achieved
+
+===Champions by country===
+{| class="wikitable" style="text-align: center;"
+|-
+!Country
+!Players
+!Total
+!First title
+!Last title
+|-
+|align="left"|
+|3
+|8
+|2005
+|2020
+|-
+|align="left"|
+|2
+|7
+|2013
+|2022
+|-
+|align="left"|
+|1
+|2
+|2011
+|2015
+|-
+|align="left"|
+|1
+|1
+|2021
+|2021
+|}
+
+===Nine-dart finishes===
+Fourteen nine-dart finishes have been thrown in the Premier League. The first one was in 2006, and the most recent one was in 2022.
+{| class="wikitable sortable"
+|-
+!Player
+!Year (+ Week)
+!Location
+!Method
+!Opponent
+!Result
+|-
+|
+|2006, Week 5
+|Bournemouth
+|3 x T20; 3 x T20; T20, T19, D12
+|
+|8–3
+|-
+|
+|2010, Week 12
+|Aberdeen
+|3 x T20; 3 x T20; T20, T19, D12
+|
+|8–6
+|-
+|rowspan="2" |
+|rowspan="2" |2010, Final
+|rowspan="2" |London
+|T20, 2 x T19; 3 x T20; T20, T17, D18
+|rowspan="2" |
+|rowspan="2" |10–8
+|-
+|3 x T20; 3 x T20; T20, T19, D12
+|-
+|
+|2012, Week 2
+|Aberdeen
+|3 x T20; T20, 2 x T19; T20, T17, D18
+|
+|8–5
+|-
+|
+|2012, Semi-Final
+|London
+|3 x T20; 3 x T20; T20, T15, D18
+|
+|8–6
+|-
+|
+|2016, Week 11
+|Belfast
+|3 x T20; 2 x T20, T19; 2 x T20, D12
+|
+|7–5
+|-
+|
+|2017, Week 11
+|Liverpool
+|3 x T20; 3 x T20; T20, T19, D12
+|
+|7–4
+|-
+|
+|2020, Week 4
+|Dublin
+|3 x T20; 3 x T20; T20, T19, D12
+|
+|7–5
+|-
+|
+|2020, Night 11
+|Milton Keynes
+|3 x T20; 3 x T20; T20, T19, D12
+|
+|6–8
+|-
+|
+|2021, Night 3
+|Milton Keynes
+|3 x T20; 3 x T20; T20, T19, D12
+|
+|7–3
+|-
+|
+|2021, Night 4
+|Milton Keynes
+|3 x T20; 3 x T20; T20, T19, D12
+|
+|6–6
+|-
+|rowspan="2" |
+|rowspan="2" |2022, Night 3
+|rowspan="2" |Belfast
+|2 x T20, T19; 3 x T20; 2 x T20, D12
+|
+|6–5
+|-
+|3 x T20; 3 x T20; T19, T20, D12
+|
+|6–4
+|-
+|}
+
+===Tournament records===
+*Most titles: 6 – Phil Taylor and Michael van Gerwen''
+*Most tournament appearances: 14 – Raymond van Barneveld
+*Most matches played: 211 – Raymond van Barneveld
+*Longest unbeaten run: 44 matches – Phil Taylor (2005–2008)
+*Biggest victories (league stage): 11–1 Phil Taylor v Wayne Mardle (2005), 11–1 Phil Taylor v Peter Manley (2005)
+*Biggest victories (playoff stages): 16–4 Phil Taylor v Colin Lloyd (2005 final)
+*Most 180s by one player in a single match: 11 – Gary Anderson v Simon Whitlock (2011).  11 – José de Sousa v Nathan Aspinall (2021).
+*Most 100+ averages in a season: 18 – Michael van Gerwen (2017). Van Gerwen became the first player to average over 100 in every match of a season.
+*Highest match average: 123.40 – Michael van Gerwen (2016)
+*Highest group stage overall average: 107.95 – Phil Taylor (2012)
+*Lowest group stage overall average: 86.36 – Glen Durrant (2021)
+*Highest average in the final: 112.37 – Michael van Gerwen (2018)
+
+====Whitewashes====
+{| class=wikitable style="text-align:center"
+|-
+!width=50|Year
+!width=225|Player
+!width=50|Legs
+!width=225|Player
+|- align=left
+|align=center| 2007 ||align=right|  ||align=center| 0–8 || 
+|- align=left
+|align=center| 2008 ||align=right|  ||align=center| 8–0 || 
+|- align=left
+|align=center| 2012 ||align=right|  ||align=center| 8–0 || 
+|- align=left
+|align=center| 2014 ||align=right|  ||align=center| 0–7 || 
+|- align=left
+|align=center| 2015 ||align=right|  ||align=center| 0–7 || 
+|- align=left
+|align=center| 2016 ||align=right|  ||align=center| 0–7 || 
+|- align=left
+|align=center| 2016 ||align=right|  ||align=center| 0–7 || 
+|- align=left
+|align=center| 2017 ||align=right|  ||align=center| 0–7 || 
+|- align=left
+|align=center| 2018 ||align=right|  ||align=center| 0–7 || 
+|- align=left
+|align=center| 2019 ||align=right|  ||align=center| 0–7 || 
+|- align=left
+|align=center| 2020 ||align=right|  ||align=center| 0–7 || 
+|- align=left
+|align=center| 2021 ||align=right|  ||align=center| 0–7 || 
+|- align=left
+|align=center| 2022 ||align=right|  ||align=center| 6–0 || 
+|- align=left
+|align=center| 2023 ||align=right|  ||align=center| 0–6 || 
+|- align=left
+|align=center| 2023 ||align=right|  ||align=center| 6–0 || 
+
+|}
+
+===High averages===
+{| class="wikitable sortable"
+!colspan=5|Ten highest Premier League one-match averages
+|-
+!Average
+!Player
+!Year (+ Round)
+!Opponent
+!Result
+|-
+|123.40
+|
+|2016, Week 4
+|
+|7–1
+|-
+|119.50
+|
+|2017, Week 5
+|
+|7–2
+|-
+|117.95
+|
+|2016, Week 10
+|
+|7–5
+|-
+|117.35
+|
+|2012, Week 4
+|
+|8–4
+|-
+|116.90
+|
+|2015, Week 12
+|
+|7–0
+|-
+|116.67
+|
+|2016, Week 5
+|
+|7–2
+|-
+|116.10
+|
+|2012, Week 13
+|
+|8–1
+|-
+|116.01
+|
+|2009, Week 12
+|
+|8–3
+|-
+|115.80
+|
+|2015, Week 7
+|
+|4–7
+|-
+|115.25
+|
+|2016, Week 4
+|
+|7–5
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan=5|Five highest tournament averages
+|-
+!Average
+!Player
+!Year 
+|-
+|107.48
+|
+|2016
+|-
+|106.73
+|
+|2012
+|-
+|105.26
+|
+|2015
+|-
+|104.68
+|
+|2017
+|-
+|104.11
+|
+|2018
+|}
+
+==Appearances==
+Since the tournament made its debut in 2005, Phil Taylor made an appearance in every Premier League competition until his retirement following the 2018 PDC World Darts Championship. Raymond van Barneveld competed in every Premier League from 2006 to 2019. From 2005 until the 2010 tournament, the top six players in the PDC Order of Merit after the PDC World Darts Championship automatically qualified, with one wildcard (2005 and 2006) and two wildcards (2007–2010) chosen by either the PDC or Sky Sports. From the 2011 tournament, only the top four in the PDC Order of Merit automatically qualified, with four wildcards (2011 and 2012) chosen by both the PDC and Sky Sports. In 2013, the tournament grew from eight players to ten, with the top four players in the PDC Order of Merit automatically qualifying and six other players chosen as Wildcards on the basis of their performance in the past year or in earlier editions of the Premier League. In 2022, the tournament shrank back down to eight.
+
+In 2023, Chris Dobey was the latest player to make his Premier League debut.
+
+===Premier League players and performance===
+{| class="wikitable sortable" style="margin:0; text-align:center; font-size:90%;"
+|-
+! Player 
+! # 
+!data-sort-type="number"| 05 
+!data-sort-type="number"| 06 
+!data-sort-type="number"| 07 
+!data-sort-type="number"| 08 
+!data-sort-type="number"| 09 
+!data-sort-type="number"| 10 
+!data-sort-type="number"| 11 
+!data-sort-type="number"| 12 
+!data-sort-type="number"| 13 
+!data-sort-type="number"| 14 
+!data-sort-type="number"| 15 
+!data-sort-type="number"| 16 
+!data-sort-type="number"| 17 
+!data-sort-type="number"| 18 
+!data-sort-type="number"| 19
+!data-sort-type="number"| 20
+!data-sort-type="number"| 21
+!data-sort-type="number"| 22
+!data-sort-type="number"| 23
+|-
+|style="text-align:left; background:#efefef;"| 
+|13
+| style="background:lime;" |  W 
+| style="background:lime;" |  W
+| style="background:lime;" |  W
+| style="background:lime;" |  W
+| style="background:yellow;" |  SF
+| style="background:lime;" |  W
+| style="background:yellow;" |  SF
+| style="background:lime;" |  W
+| style="background:thistle;" |  RU
+| style="background:yellow;" |  SF
+| style="background:#afeeee;" | 5
+| style="background:thistle;" |  RU
+| style="background:yellow;" |  SF
+| style="text-align:center; color:#ccc;" colspan=6|  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|3
+| style="background:thistle;" |  RU
+| style="background:yellow;" |  SF
+| style="background:#afeeee;" | 5
+| colspan="16" style="color:#ccc;" |  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|4
+| style="background:yellow;" |  SF
+| style="background:#afeeee;" | 6
+| style="background:#afeeee;" | 6
+| style="background:#afeeee;" | 6
+| colspan="15" style="color:#ccc;" |  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|3
+| style="background:yellow;" |  SF
+| style="background:thistle;" |  RU
+| style="background:#afeeee;" | 8
+| colspan="16" style="color:#ccc;" |  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|1
+| style="background:#afeeee;" | 5
+| colspan="18" style="color:#ccc;" |  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|3
+| style="background:#afeeee;"| 6
+| colspan="2" style="color:#ccc;"|  ×
+| style="background:#afeeee;"| 8
+| style="background:#afeeee;"| 6
+| colspan="14" style="color:#ccc; |  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|4
+| style="background:#afeeee;"| 7
+| style="background:#afeeee;"| 7
+| style="color:#ccc;"|  ×
+| style="background:#afeeee;"| 5
+| style="background:#ffebcd;"|  WD
+| colspan="14" style="color:#ccc; |  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|14
+| style="text-align:center; color:#ccc;"|  ×
+| style="background:yellow;"|  SF
+| style="background:yellow;"|  SF
+| style="background:yellow;"|  SF
+| style="background:yellow;"|  SF
+| style="background:#afeeee;"| 6
+| style="background:yellow;"|  SF
+| style="background:#afeeee;"| 5
+| style="background:yellow;"|  SF
+| style="background:lime;" |  W
+| style="background:yellow;"|  SF
+| style="background:#afeeee;"| 7
+| style="background:#afeeee;"| 6
+| style="background:#afeeee;"| 6
+| style="background:#ffcccc;"| 9
+| colspan="4" style="color:#ccc; |  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|2
+| style="color:#ccc;"|  ×
+| style="background:#afeeee;"| 5
+| colspan=3 style="color:#ccc;"|  ×
+| style="background:#afeeee;"| 5
+| colspan="13" style="color:#ccc; |  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|5
+| colspan="2" style="color:#ccc;"|  ×
+| style="background:thistle;"|  RU
+| style="background:#afeeee;"| 7
+| style="background:#afeeee;"| 5
+| style="background:#afeeee;"| 8
+| style="background:#afeeee;"| 7
+| colspan="12" style="color:#ccc;"|  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|1
+| colspan=2 style="color:#ccc;"|  ×
+| style="background:yellow;"|  SF
+| style="color:#ccc;"|  ×
+| style="background:#D3D3D3;"|   C
+| colspan="14" style="color:#ccc; |  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|10
+| colspan="2" style="color:#ccc;"|  ×
+| style="background:#afeeee;"| 7
+| style="background:yellow;"|  SF
+| style="background:#D3D3D3;"|  C
+| style="background:#afeeee;"| 7
+| style="background:thistle;"|  RU
+| style="background:#afeeee;"| 6
+| style="background:#afeeee;"| 8
+| style="background:#afeeee;"| 6
+| style="background:#afeeee;"| 6
+| style="background:yellow;"|  SF
+| style="background:#afeeee;"| 8
+| colspan="6" style="color:#ccc;"|  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|12
+| colspan="3" style="color:#ccc;"|  ×
+| style="background:thistle;"|  RU
+| style="background:lime;"|  W
+| style="background:thistle;"|  RU
+| style="background:#afeeee;"| 5
+| style="background:yellow;"|  SF
+| style="background:yellow;"|  SF
+| style="color:#ccc;"|  ×
+| Style="background:#afeeee;"| 7
+| style="background:#afeeee;"| 6
+| style="background:#afeeee;"| 7
+| style="color:#ccc;"|  ×
+| style="background:yellow;"|  SF
+| colspan="1" style="color:#ccc;"|  ×
+| style="background:#afeeee;"| 6
+| style="background:yellow;"|  SF
+| colspan="1" style="color:#ccc;"|  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|2
+| colspan="4" style="color:#ccc;"|  ×
+| style="background:thistle;"|  RU
+| style="background:yellow;"|  SF
+| colspan="13" style="color:#ccc;"|  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|2
+| colspan="4" style="color:#ccc;"|  ×
+| style="background:#afeeee;"| 7
+| colspan="7" style="color:#ccc;"|  ×
+| style="background:#ffcccc;"| 9
+| colspan="6" style="color:#ccc;"|  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|6
+| colspan="5" style="color:#ccc;" |  ×
+| style="background:yellow;"|  SF
+| style="background:#afeeee;"| 6
+|  style="background:thistle;"|  RU
+| style="background:#afeeee;"| 6
+| style="background:#ffcccc;"| 10
+| colspan="3" style="color:#ccc;"|  ×
+| style="background:#afeeee;"| 8
+| colspan="5" style="color:#ccc;"|  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|11
+| colspan=4 style="color:#ccc;"|  ×
+| style="background:#D3D3D3;"|  C
+| style="color:#ccc;"|  ×
+| style="background:lime;"|  W
+| style="background:#afeeee;"| 8
+| style="background:#ffcccc;"| 10
+| style="background:yellow;"|  SF
+| style="background:lime;"|  W
+| style="background:yellow;"|  SF
+| style="background:yellow;"|  SF
+| style="background:yellow;"|  SF
+| style="background:white;"|  WD
+| style="background:yellow;"| SF
+| style="background:#afeeee;"| 8
+| style="background:#afeeee;"| 8
+| colspan="1" style="color:#ccc;"|  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|1
+| colspan=4 style="color:#ccc;"|  ×
+| style="background:#D3D3D3;"|  C
+| style="color:#ccc;"|  ×
+| style="background:#afeeee;"| 8
+| colspan="12" style="color:#ccc; |  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|2
+| colspan=7 style="color:#ccc;"|  ×
+| style="background:yellow;"|  SF
+| style="background:#afeeee;"| 7
+| colspan="10" style="color:#ccc; |  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|1
+| colspan=7 style="color:#ccc;"|  ×
+| style="background:#afeeee;"| 7
+| colspan="11" style="color:#ccc;|  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|11
+|  colspan="8" style="color:#ccc;"|  ×
+|  style="background:lime;"|  W
+|  style="background:thistle;"|  RU
+|  style="background:thistle;"|  RU
+|  style="background:lime;"|  W
+|  style="background:lime;"|  W
+|  style="background:lime;"|  W
+|  style="background:lime;"|  W
+| style="background:#afeeee;"| 6
+| style="background:yellow;"|  SF
+|  style="background:lime;"|  W
+| style="background:#afeeee;"| —
+|-
+|style="text-align:left; background:#efefef;"| 
+|3
+| colspan=4 style="color:#ccc;"|  ×
+| style="background:#D3D3D3;"|  C
+| colspan=3 style="color:#ccc;"|  ×
+| style="background:#afeeee;"| 5
+| style="background:#afeeee;"| 8
+| style="color:#ccc;"|  ×
+| style="background:#afeeee;"| 8
+| colspan="7" style="color:#ccc;|  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|2
+| colspan=8 style="color:#ccc;"|  ×
+| style="background:#ffcccc;"| 9
+| style="background:#ffcccc;"| 9
+| colspan="9" style="color:#ccc;|  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|10
+| colspan="9" style="color:#ccc;"|  ×
+| style="background:#afeeee;"| 5
+| style="background:#ffcccc;"| 9
+| style="background:#afeeee;"| 5
+| style="background:thistle;"|  RU
+| style="background:#afeeee;"| 7
+| style="background:#afeeee;"| 8
+| style="background:yellow;"|  SF
+| style="background:#afeeee;"| 7
+| style="background:#afeeee;"| 5
+| style="background:#afeeee;"| —
+|-
+|style="text-align:left; background:#efefef;"| 
+|4
+| colspan=9 style="color:#ccc;"|  ×
+| style="background:#afeeee;"| 7
+| style="background:yellow;"|  SF
+| style="background:#ffcccc;"| 9
+| style="background:#afeeee;"| 5
+| colspan="6" style="color:#ccc;|  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|1
+| colspan=10 style="color:#ccc;"|  ×
+| style="background:#afeeee;"| 8
+| colspan="4" style="color:#ccc;|  ×
+| style="background:#D3D3D3;"|  C
+| colspan="3" style="color:#ccc;|  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|2
+| colspan=10 style="color:#ccc;"|  ×
+| style="background:#ffcccc;"| 10
+| style="color:#ccc;|  ×
+| style="background:#ffcccc;"| 10
+| colspan="6" style="color:#ccc;|  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|6
+| colspan=11 style="color:#ccc;"|  ×
+| style="background:#ffcccc;"| 10
+| style="color:#ccc; |  ×
+| style="background:thistle;"|  RU
+| style="background:#afeeee;"| 7
+| style="background:#afeeee;"| 7
+| colspan=1 style="color:#ccc;"|  ×
+| style="background:#afeeee;"| 6
+| style="background:#afeeee;"| —
+|-
+|style="text-align:left; background:#efefef;"| 
+|4
+| colspan=13 style="color:#ccc;"|  ×
+| style="background:yellow;"|  SF
+| style="background:thistle;"|  RU
+| style="background:#ffcccc;"| 9
+| style="background:#ffcccc;"| 9
+| colspan=2 style="color:#ccc;"|  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|3
+| colspan=13 style="color:#ccc;"|  ×
+| style="background:#afeeee;"| 5
+| style="background:yellow;"|  SF
+| style="background:#afeeee;"| 8
+| colspan=3 style="color:#ccc;"|  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|2
+| colspan=13 style="color:#ccc;"|  ×
+| style="background:#ffcccc;"| 9
+| style="background:#afeeee;"| 6
+| colspan=4 style="color:#ccc;"|  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|5
+| colspan=13 style="color:#ccc;"|  ×
+| style="background:#ffcccc;"| 10
+| style="background:#afeeee;"| 5
+| style="background:#afeeee;"| 5
+| style="background:white;"|  WD
+| style="background:#afeeee;"| 7
+| style="background:#afeeee;"| —
+|-
+|style="text-align:left; background:#efefef;"| 
+|3
+| colspan=14 style="color:#ccc;"|  ×
+| style="background:#D3D3D3;"|  C
+| style="background:thistle;"|  RU
+| style="background:yellow;"|  SF
+| colspan=1 style="color:#ccc;"|  ×
+| style="background:#afeeee;"| —
+|-
+|style="text-align:left; background:#efefef;"| 
+|2
+| colspan=14 style="color:#ccc;"|  ×
+| style="background:#D3D3D3;"|  C
+|  style="background:lime;"|  W
+| style="background:#ffcccc;"| 10
+| colspan=2 style="color:#ccc;"|  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|2
+| colspan=14 style="color:#ccc;"|  ×
+| style="background:#D3D3D3;"|  C
+| colspan=1 style="color:#ccc;"|  ×
+| style="background:#afeeee;"| 5
+| colspan=1 style="color:#ccc;"|  ×
+| style="background:#afeeee;"| —
+|-
+|style="text-align:left; background:#efefef;"| 
+|3
+| colspan=15 style="color:#ccc;"|  ×
+| style="background:#D3D3D3;"|  C
+|  style="background:lime;"|  W
+| style="background:yellow;"|  SF
+| style="background:#afeeee;"| —
+|-
+|style="text-align:left; background:#efefef;"| 
+|1
+| colspan=16 style="color:#ccc;"|  ×
+| style="background:thistle;"|  RU
+| colspan=2 style="color:#ccc;"|  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|1
+| colspan=17 style="color:#ccc;"|  ×
+| style="background:thistle;"|  RU
+| colspan=2 style="color:#ccc;"|  ×
+|-
+|style="text-align:left; background:#efefef;"| 
+|1
+| colspan=14 style="color:#ccc;"|  ×
+| style="background:#D3D3D3;"|  C
+| style="background:#D3D3D3;"|  C
+| colspan=2 style="color:#ccc;"|  ×
+| style="background:#afeeee;"| —
+|}
+
+{| class="wikitable" style="font-size:100%;"
+|- style="background:#efefef;"
+! colspan="10"|Table Legend
+|-
+|  style="text-align:center; background:#0f0;"|W
+| Won in playoffs
+|  style="text-align:center; background:thistle;"|RU
+| Runner-up
+|  style="text-align:center; background:yellow;"|SF
+| Lost in the semi-finals
+|  style="text-align:center; background:#afeeee;"|#
+| colspan="3"|Place in table, not qualified for playoffs
+|-
+|  style="text-align:center; background:#ffcccc;"| #
+| Place in table, relegated
+| style="background:white;"| WD
+| Withdrew before tournament
+| style="background:#ffebcd;"| WD
+| Withdrew during tournament
+|  style="background:#D3D3D3; text-align:center; width:30px;"| C
+| Challenger
+|  style="color:#ccc; text-align:center; width:30px;"| ×
+| Did not play
+|}
+
+When Gary Anderson withdrew from the 2019 season just before it began, Chris Dobey, Glen Durrant, Steve Lennon, Luke Humphries, John Henderson, Nathan Aspinall, Max Hopp, Dimitri Van den Bergh and Jeffrey de Zwaan were named as "contenders" to play in Anderson's place each of the first eight weeks. This format was reused for the 2020 season, with nine regular players and nine challengers; Henderson, Fallon Sherrock, Jonny Clayton, William O'Connor, Humphries, Bunting, Dobey, de Zwaan and Jermaine Wattimena were the challengers.
+

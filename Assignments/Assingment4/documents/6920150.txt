@@ -1,0 +1,135 @@
+Title: List of municipalities of the Province of Taranto
+
+The following is a list of the 29 municipalities (comuni) of the Province of Taranto, Apulia, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|073001
+|Avetrana
+| align="right" |7,131
+|-
+|073002
+|Carosino
+| align="right" |6,192
+|-
+|073003
+|Castellaneta
+| align="right" |17,364
+|-
+|073004
+|Crispiano
+| align="right" |13,167
+|-
+|073005
+|Faggiano
+| align="right" |3,505
+|-
+|073006
+|Fragagnano
+| align="right" |5,581
+|-
+|073007
+|Ginosa
+| align="right" |22,368
+|-
+|073008
+|Grottaglie
+| align="right" |32,460
+|-
+|073009
+|Laterza
+| align="right" |15,019
+|-
+|073010
+|Leporano
+| align="right" |6,966
+|-
+|073011
+|Lizzano
+| align="right" |10,194
+|-
+|073012
+|Manduria
+| align="right" |31,771
+|-
+|073013
+|Martina Franca
+| align="right" |49,095
+|-
+|073014
+|Maruggio
+| align="right" |5,441
+|-
+|073015
+|Massafra
+| align="right" |31,242
+|-
+|073016
+|Monteiasi
+| align="right" |5,239
+|-
+|073017
+|Montemesola
+| align="right" |4,283
+|-
+|073018
+|Monteparano
+| align="right" |2,355
+|-
+|073019
+|Mottola
+| align="right" |16,518
+|-
+|073020
+|Palagianello
+| align="right" |7,747
+|-
+|073021
+|Palagiano
+| align="right" |15,826
+|-
+|073022
+|Pulsano
+| align="right" |10,541
+|-
+|073023
+|Roccaforzata
+| align="right" |1,782
+|-
+|073024
+|San Giorgio Ionico
+| align="right" |15,757
+|-
+|073025
+|San Marzano di San Giuseppe
+| align="right" |9,033
+|-
+|073026
+|Sava
+| align="right" |16,182
+|-
+|073027
+|Taranto
+| align="right" |199,012
+|-
+|073028
+|Torricella
+| align="right" |4,116
+|-
+|073029
+|Statte
+| align="right" |14,701
+|-
+|
+|Total
+| align="right" |580,588
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

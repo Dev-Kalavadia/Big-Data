@@ -1,0 +1,1774 @@
+Title: List of ABC television affiliates (table)
+
+
+The ABC Television Network is an American television network. The network currently has eight owned-and-operated stations and current affiliation agreements with 236 other television stations. This is a table listing of ABC's affiliates, with ABC-owned stations separated from privately-owned affiliates, and arranged in alphabetical order by the station's city of license. There are links to and articles on each of the stations, describing their local programming, hosts and technical information, such as broadcast frequencies
+
+The station's virtual (PSIP) channel number follows the call letters. The number in parentheses that follows is the station's actual digital channel number.
+
+
+
+Notes:
+:1) Two boldface asterisks appearing following a station's call letters (**) indicate a station that was built and signed-on by ABC;
+:2) Two boldface plus signs appearing following a station's call letters (++) indicate a station that was owned by Capital Cities Communications prior to its acquisition of ABC in 1986
+
+== Owned-and-operated stations ==
+
+
+Stations are listed alphabetically by state and city of license. Owned-and-operated stations broadcasting on digital subchannels are italicized.
+
+{|class="wikitable sortable"
+! City of license/Market
+! Station
+! ChannelTV (DT)
+! Year of affiliation
+! Owned since
+! Notes
+|-
+| Fresno, California
+| KFSN-TV ++
+| 30 (30)
+| 1985
+| 1986
+|
+|- style="vertical-align: top; text-align: left;"
+| Los Angeles
+| KABC-TV **
+| 7 (7)
+| 1949
+| 1949
+|
+|- style="vertical-align: top; text-align: left;"
+| San Francisco - Oakland - San Jose
+| KGO-TV **
+| 7 (12)
+| 1949
+| 1949
+|
+|- style="vertical-align: top; text-align: left;"
+| Chicago
+| WLS-TV **
+| 7 (22)
+| 1948
+| 1948
+|
+|- style="vertical-align: top; text-align: left;"
+| New York City
+| WABC-TV **
+| 7 (7)
+| 1948
+| 1948
+|
+|- style="vertical-align: top; text-align: left;"
+| Durham - Raleigh - Fayetteville
+| WTVD ++
+| 11 (9)
+| 1985
+| 1986
+| Previously with ABC 1954–1962
+|- style="vertical-align: top; text-align: left;"
+| Philadelphia
+| WPVI-TV ++
+| 6 (6)
+| 1948
+| 1986
+| Oldest continuous ABC affiliate
+|- style="vertical-align: top; text-align: left;"
+| Houston
+| KTRK-TV ++
+| 13 (13)
+| 1954
+| 1986
+|
+|- style="vertical-align: top; text-align: left;"
+|}
+
+== Affiliate stations ==
+Stations are arranged in alphabetical order by city of license. Affiliates broadcasting on digital subchannels are italicized.
+
+{|class="wikitable sortable"
+! City of license/Market
+! Station
+! ChannelTV (DT)
+! Year of affiliation
+! Ownership
+! Notes
+|-
+| Aberdeen, South Dakota
+| KABY-TV
+| 9 (9)
+| 1983
+| Gray Television
+| Full satellite of KSFY-TV, Sioux Falls, SD
+|- style="vertical-align: top; text-align: left;"
+| Ada, OK - Sherman, TX
+| KTEN-DT3
+| 10.3 (17.3)
+| 2010
+| Lockwood Broadcast Group
+| Brands itself as "ABC Texoma"Primary channel is affiliated with NBC
+|- style="vertical-align: top; text-align: left;"
+| Albany, Georgia
+| WALB-DT2
+| 10.2 (10.2)
+| 2011
+| Gray Television
+| Primary channel is affiliated with NBC
+|-style="vertical-align: top; text-align: left;"
+| Albany - Schenectady - Troy, NY
+| WTEN
+| 10 (24)
+| 1977
+| Nexstar Media Group
+| Previously with ABC 1953–1955
+|- style="vertical-align: top; text-align: left;"
+| Albuquerque - Santa Fe
+| KOAT-TV
+| 7 (7)
+| 1953
+| Hearst Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Alexandria, Louisiana
+| KLAX-TV
+| 31 (31)
+| 1985
+| Imagicomm Communications
+|
+|- style="vertical-align: top; text-align: left;"
+| Alexandria, Minnesota
+| KSAX
+| 42 (24)
+| 1987
+| Hubbard Broadcasting
+| Full satellite of KSTP-TV, St. Paul, MN
+|- style="vertical-align: top; text-align: left;"
+| Alpena, Michigan
+| WBKB-DT3
+| 11.3 (11.3)
+| 2013
+| The Marks Group
+| Primary channel is affiliated with CBS
+|- style="vertical-align: top; text-align: left;"
+| Altoona - Johnstown, PA
+| WATM-TV
+| 23 (31)
+| 1988
+| Palm Television(managed by Horseshoe Curve Communications)
+| Previously with ABC 1974–1980
+|- style="vertical-align: top; text-align: left;"
+| Amarillo, Texas
+| KVII-TV
+| 7 (20)
+| 1957
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Ames - Des Moines, IA
+| WOI-TV
+| 5 (5)
+| 1955
+| Tegna
+|
+|- style="vertical-align: top; text-align: left;"
+| Anchorage, Alaska
+| KYUR
+| 13 (12)
+| 1971
+| Vision Alaska, LLC
+| Certain station programming (including ABC network programming) are also broadcast in the Alaskan Bush via the Alaska Rural Communications Service
+|- style="vertical-align: top; text-align: left;"
+| Arcata - Eureka, CA
+| KAEF
+| 23 (22)
+| 1989
+| Sinclair Broadcast Group
+| Full satellite of KRCR-TV, Redding, CA
+|- style="vertical-align: top; text-align: left;"
+| Asheville - Greenville - Spartanburg
+| WLOS
+| 13 (13)
+| 1954
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Atlanta
+| WSB-TV
+| 2 (32)
+| 1980
+| Cox Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Augusta, Georgia
+| WJBF
+| 6 (28)
+| 1974
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Austin - Rochester, MN
+| KAAL
+| 6 (36)
+| 1954
+| Hubbard Broadcasting
+|
+|- style="vertical-align: top; text-align: left;"
+| Austin, Texas
+| KVUE
+| 24 (33)
+| 1971
+| Tegna
+|
+|- style="vertical-align: top; text-align: left;"
+| Bakersfield, California
+| KERO-TV
+| 23 (10)
+| 1996
+| E. W. Scripps Company
+|
+|-style="vertical-align: top; text-align: left;"
+| Baltimore
+| WMAR-TV
+| 2 (27)
+| 1995
+| E. W. Scripps Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Bangor, Maine
+| WVII-TV
+| 7 (7)
+| 1965
+| Rockfleet Broadcasting
+|
+|- style="vertical-align: top; text-align: left;"
+| Baton Rouge, Louisiana
+| WBRZ-TV
+| 2 (13)
+| 1977
+| Louisiana Television Broadcasting, LLC
+|
+|- style="vertical-align: top; text-align: left;"
+| Battle Creek, Michigan
+| WOTV
+| 41 (17)
+| 1971
+| Nexstar Media Group
+| Brands itself as "WOTV 4". News output is handled by NBC sister station WOOD-TV in Grand Rapids
+|- style="vertical-align: top; text-align: left;"
+| Beaumont - Port Arthur, TX
+| KBMT
+| 12 (12)
+| 1961
+| Tegna
+|
+|- style="vertical-align: top; text-align: left;"
+| Bend, Oregon
+| KOHD
+| 18 (18)
+| 2006
+| Zolo Media
+|
+|- style="vertical-align: top; text-align: left;"
+| Billings, Montana
+| KSVI
+| 6 (18)
+| 1993
+| Nexstar Media Group
+| 
+|- style="vertical-align: top; text-align: left;"
+| Biloxi - Gulfport, MS
+| WLOX
+| 13 (32)
+| 1962
+| Gray Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Binghamton, New York
+| WIVT
+| 34 (27)
+| 1962
+| Nexstar Media Group
+| Simulcasts on the CD3 subchannel of NBC affiliate WBGH-CD, Binghamton, NY
+|- style="vertical-align: top; text-align: left;"
+| Birmingham-Anniston-Tuscaloosa, Alabama
+| WBMA-LD
+| 58 (32)
+| 1996
+| Sinclair Broadcast Group
+| Low-power digital stationSimulcasts on the DT2 subchannels of CW affiliate WDBB, Bessemer, AL, MyNetworkTV affiliate WABM, Birmingham, AL, and Heroes & Icons affiliate WGWW, Anniston, ALBrands itself as "Alabama's ABC 33/40"
+|- style="vertical-align: top; text-align: left;"
+| Bismarck, North Dakota
+| KBMY
+| 17 (17)
+| 1985
+| Forum Communications
+|
+|- style="vertical-align: top; text-align: left;"
+| Boston
+| WCVB-TV
+| 5 (33)
+| 1972
+| Hearst Television
+| The station's predecessor, WHDH-TV, was affiliated with ABC from 1957–1961.
+|- style="vertical-align: top; text-align: left;"
+| Bowling Green, Kentucky
+| WBKO
+| 13 (13)
+| 1967
+| Gray Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Bryan - College Station, Texas
+| KRHD-CD
+| 40 (15)
+| 1990
+| rowspan="2" | E. W. Scripps Company
+| Full satellite of KXXV, Waco/Temple, TX
+|- style="vertical-align: top; text-align: left;"
+| Buffalo
+| WKBW-TV ++
+| 7 (34)
+| 1958
+|
+|- style="vertical-align: top: text-align: left;"
+| Burlington, VT - Plattsburgh, NY
+| WVNY
+| 22 (7)
+| 1968
+| Mission Broadcasting(operated by Nexstar Media Group)
+|
+|- style="vertical-align: top; text-align: left;"
+| Butte - Bozeman, MT
+| KWYB
+| 18 (19)
+| 1996
+| Cowles Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Casper - Riverton, WY
+| KTWO-TV
+| 2 (17)
+| 2004
+| Vision Alaska, LLC
+| 
+|- style="vertical-align: top; text-align: left;"
+| Cedar Rapids - Waterloo - Dubuque
+| KCRG-TV
+| 9 (9)
+| 1953
+| Gray Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Champaign - Urbana, IL
+| WICD
+| 15 (32)
+| 2005
+| Sinclair Broadcast Group
+| Full satellite of WICS, Springfield, IL
+|- style="vertical-align: top; text-align: left;"
+| Charleston, South Carolina
+| WCIV-DT2
+| 36.2 (25.2)
+| 2014
+| Sinclair Broadcast Group
+| Primary channel is affiliated with MyNetworkTVBrands itself as "ABC 4"Successor to WCIV, which had been with ABC since 1996
+|- style="vertical-align: top; text-align: left;"
+| Charleston - Huntington, WV
+| WCHS-TV
+| 8 (29)
+| 1986
+| Sinclair Broadcast Group
+| Previously with ABC 1958–1962
+|- style="vertical-align: top; text-align: left;"
+| Charlotte
+| WSOC-TV
+| 9 (19)
+| 1978
+| Cox Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Charlottesville, Virginia
+| WVAW-LD
+| 16 (16)
+| 2004
+| Lockwood Broadcast Group
+| Low-power digital station
+|- style="vertical-align: top; text-align: left;"
+| Chattanooga
+| WTVC
+| 9 (9)
+| 1958
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Cheyenne, Wyoming
+| KKTQ-LD
+| 16 (16)
+| 2013
+| Vision Alaska, LLC
+| Low-power digital stationFull satellite of KTWO-TV, Casper, WYSimulcasts on the DT2 subchannel of Fox affiliate KLWY, Cheyenne, WY
+|- style="vertical-align: top; text-align: left;"
+| Cincinnati
+| WCPO-TV
+| 9 (26)
+| 1996
+| E. W. Scripps Company
+| Previously with ABC 1949–1961
+|- style="vertical-align: top; text-align: left;"
+| Clarksburg - Weston, WV
+| WBOY-DT2
+| 12.2 (12.2)
+| 2008
+| Nexstar Media Group
+| Primary channel is affiliated with NBCBrands itself as "Your ABC"
+|- style="vertical-align: top; text-align: left;"
+| Cleveland
+| WEWS
+| 5 (15)
+| 1955
+| E. W. Scripps Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Clovis, New Mexico
+| KVIH-TV
+| 12 (12)
+| 1979
+| Sinclair Broadcast Group
+| Full satellite of KVII-TV, Amarillo, TX
+|- style="vertical-align: top; text-align: left;"
+| Colby, Kansas
+| KLBY
+| 4 (17)
+| 1987
+| Lockwood Broadcast Group
+| Full satellite of KAKE, Wichita, KS
+|- style="vertical-align: top; text-align: left;"
+| Colorado Springs - Pueblo
+| KRDO-TV
+| 13 (24)
+| 1960
+| News-Press & Gazette Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Columbia - Jefferson City, MO
+| KMIZ
+| 17 (17)
+| 1985
+| News-Press & Gazette Company
+| Previously with ABC 1971–1981
+|- style="vertical-align: top; text-align: left;"
+| Columbia, South Carolina
+| WOLO-TV
+| 25 (7)
+| 1953
+| Bahakel Communications
+| Brands itself as "ABC Columbia"
+|- style="vertical-align: top; text-align: left;"
+| Columbus, Georgia
+| WTVM
+| 9 (11)
+| 1960
+| Gray Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Columbus, Ohio
+| WSYX
+| 6 (28)
+| 1949
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Corpus Christi, Texas
+| KIII
+| 3 (8)
+| 1964
+| Tegna
+|
+|- style="vertical-align: top; text-align: left;"
+| Crandon, Wisconsin
+| WMOW-DT2
+| 4.2 (4.2)
+| 2010
+| Allen Media Broadcasting
+| Full satellite of WAOW, Wausau, WIPrimary channel is affiliated with The CW
+|- style="vertical-align: top; text-align: left;"
+| Dallas - Fort Worth
+| WFAA-TV
+| 8 (8)
+| 1957
+| Tegna
+|
+|- style="vertical-align: top; text-align: left;"
+| Dayton, Ohio
+| WKEF
+| 22 (34)
+| 2004
+| Sinclair Broadcast Group
+| Previously with ABC 1966–1980
+|- style="vertical-align: top; text-align: left;"
+| Denver
+| KMGH-TV
+| 7 (7)
+| 1995
+| E. W. Scripps Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Detroit
+| WXYZ-TV **
+| 7 (25)
+| 1948
+| E. W. Scripps Company
+| Was an ABC-owned station 1948–1985
+|- style="vertical-align: top; text-align: left;"
+| Devils Lake (Grand Forks, ND)
+| WDAZ-TV
+| 8 (8)
+| 1983
+| Forum Communications
+| Semi-satellite of WDAY-TV, Fargo, ND
+|- style="vertical-align: top; text-align: left;"
+| Dothan, Alabama
+| WDHN
+| 18 (21)
+| 1970
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Duluth, MN - Superior, WI
+| WDIO-TV
+| 10 (10)
+| 1966
+| Hubbard Broadcasting
+|
+|- style="vertical-align: top; text-align: left;"
+| Eagle River (Rhinelander, WI)
+| WYOW
+| 34 (34)
+| 1997
+| Allen Media Broadcasting
+| Full satellite of WAOW, Wausau, WI
+|- style="vertical-align: top; text-align: left;"
+| Eau Claire, Wisconsin
+| WQOW
+| 18 (25)
+| 1980
+| Allen Media Broadcasting
+| Semi-satellite of WXOW, La Crosse, WI
+|- style="vertical-align: top; text-align: left;"
+| El Centro, CA - Yuma, AZ
+| KECY-DT2
+| 9.2 (9.2)
+| 2007
+| News-Press & Gazette Company 
+| Primary channel is affiliated with Fox/MyNetworkTV; previously with ABC from 1968-1970 and 1982-1985Brands itself as "ABC 5"
+|- style="vertical-align: top; text-align: left;"
+| Elmira, New York
+| WENY-TV
+| 36 (35)
+| 1969
+| Lilly Broadcasting
+|
+|- style="vertical-align: top; text-align: left;"
+| El Paso, TX-Las Cruces, NM
+| KVIA-TV
+| 7 (17)
+| 1956
+| News-Press & Gazette Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Erie, Pennsylvania
+| WJET-TV
+| 24 (28)
+| 1966
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Eugene, Oregon
+| KEZI
+| 9 (9)
+| 1960
+| Allen Media Broadcasting
+|
+|- style="vertical-align: top; text-align: left;"
+| Evansville, Indiana
+| WEHT
+| 25 (12)
+| 1995
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Fairbanks, Alaska
+| KATN
+| 2 (18)
+| 1985
+| Vision Alaska, LLC
+|
+|- style="vertical-align: top; text-align: left;"
+| Fargo, North Dakota
+| WDAY-TV
+| 6 (21)
+| 1983
+| Forum Communications
+|
+|- style="vertical-align: top; text-align: left;"
+| Fayetteville, Arkansas
+| KHOG-TV
+| 29 (15)
+| 1978
+| Hearst Television
+| Full satellite of KHBS, Fort Smith AR
+|- style="vertical-align: top; text-align: left;"
+| Flint - Saginaw - Bay City, MI
+| WJRT-TV
+| 12 (12)
+| 1958
+| Allen Media Broadcasting
+| Was an ABC-owned station 1995–2011
+|- style="vertical-align: top; text-align: left;"
+| Florence - Myrtle Beach, SC
+| WPDE-TV
+| 15 (27)
+| 1980
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Fort Smith, Arkansas
+| KHBS
+| 40 (21)
+| 1978
+| Hearst Television
+| 
+|- style="vertical-align: top; text-align: left;"
+| Fort Wayne, Indiana
+| WPTA
+| 21 (24) 
+| 1957
+| Gray Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Gainesville, Florida
+| WCJB-TV
+| 20 (16)
+| 1973
+| Gray Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Garden City, Kansas
+| KUPK
+| 13 (13)
+| 1964
+| Lockwood Broadcast Group
+| Full satellite of KAKE, Wichita, KS
+|- style="vertical-align: top; text-align: left;"
+| Grand Junction - Montrose, CO
+| KJCT-LP
+| 8 (20)
+| 2014KJCT-LP, formerly KKHD-LP, replaced KGBY channel 20, which was formerly known as KJCT channel 8 and had been affiliated with ABC since 1979. The change was structured so that KKHD-LP/KJCT-LP and KJCT/KGBY swapped virtual channel numbers, keeping ABC on virtual channel 8. ()
+| Gray Television
+| Low-power digital stationSuccessor to KJCT, which had been with ABC since 1979
+|- style="vertical-align: top; text-align: left;"
+| Grand Rapids - Kalamazoo
+| WZZM
+| 13 (13)
+| 1962
+| Tegna
+|
+|- style="vertical-align: top; text-align: left;"
+| Great Falls, Montana
+| KFBB-TV
+| 5 (8)
+| 1966
+| Cowles Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Green Bay, Wisconsin
+| WBAY-TV
+| 2 (23)
+| 1992
+| Gray Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Greenwood - Greenville, MS
+| WABG-TV
+| 6 (32)
+| 1959
+| Imagicomm Communications
+|
+|- style="vertical-align: top; text-align: left;"
+| Hampton, VA (Hampton Roads)
+| WVEC-TV
+| 13 (13)
+| 1959
+| Tegna
+|
+|- style="vertical-align: top; text-align: left;"
+| Hannibal, MO - Quincy, IL
+| KHQA-DT2
+| 7.2 (7.2)
+| 2007
+| Sinclair Broadcast Group
+| Primary channel is affiliated with CBS
+|- style="vertical-align: top; text-align: left;"
+| Harrisburg, IL - Paducah, KY -Cape Girardeau, MO
+| WSIL-TV
+| 3 (34)
+| 1953
+| Allen Media Broadcasting
+|
+|- style="vertical-align: top; text-align: left;"
+| Harrisburg - Lancaster -York - Lebanon
+| WHTM-TV
+| 27 (10)
+| 1954
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Harrisonburg, Virginia
+| WHSV-TV
+| 3 (20)
+| 1968
+| Gray Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Hayes Center, Nebraska
+| KWNB-TV
+| 6 (6)
+| 1961
+| Sinclair Broadcast Group
+| Full satellite of KHGI-TV, Kearney, NE
+|- style="vertical-align: top; text-align: left;"
+| Helena, Montana
+| KHBB-LP
+| 21
+| 1998
+| Cowles Company
+| Semi-satellite of KFBB-TV, Great Falls, MT
+|- style="vertical-align: top; text-align: left;"
+| Hibbing, Minnesota
+| WIRT
+| 13 (13)
+| 1967
+| Hubbard Broadcasting
+| Full satellite of WDIO-TV, Duluth, MN
+|- style="vertical-align: top; text-align: left;"
+| Hilo, Hawaii
+| KHVO-TV
+| 4 (13)
+| 1960
+| Allen Media Broadcasting
+| Full satellite of KITV, Honolulu, HI
+|- style="vertical-align: top; text-align: left;"
+| Honolulu
+| KITV
+| 4 (20)
+| 1954
+| Allen Media Broadcasting
+|
+|- style="vertical-align: top; text-align: left;"
+| Huntsville, Alabama
+| WAAY-TV
+| 31 (17)
+| 1977
+| Allen Media Broadcasting
+| Previously with ABC 1959–1968
+|- style="vertical-align: top; text-align: left;"
+| Idaho Falls, Idaho
+| KIFI-TV
+| 8 (8)
+| 1996
+| News Press & Gazette Company
+| 
+|- style="vertical-align: top; text-align: left;"
+| Indianapolis
+| WRTV
+| 6 (25)
+| 1979
+| E. W. Scripps Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Ishpeming - Marquette, MI
+| WBUP
+| 10 (10)
+| 2003
+| The Marks Group
+| Simulcasts on the DT2 subchannel of CW affiliate WBKP, Calumet, MI
+|- style="vertical-align: top; text-align: left;"
+| Jackson, Mississippi
+| WAPT
+| 16 (21)
+| 1970
+| Hearst Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Jackson, Tennessee
+| WBBJ-TV
+| 7 (35)
+| 1967
+| Bahakel Communications
+|
+|- style="vertical-align: top; text-align: left;"
+| Johnson City, Tennessee (Tri-Cities, TN-VA)
+| WJHL-DT2
+| 11.2 (11.2)
+| 2016
+| Nexstar Media Group
+| Branded as "ABC Tri-Cities"Primary channel is affiliated with CBS; previously with ABC (secondary) from 1953-1969
+|- style="vertical-align: top; text-align: left;"
+| Jonesboro, Arkansas
+| KAIT
+| 8 (27)
+| 1965
+| Gray Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Joplin, Missouri
+| KODE-TV
+| 12 (23)
+| 1968
+| Mission Broadcasting(operated by Nexstar Media Group)
+|
+|-style="vertical-align: top; text-align: left;"
+| Juneau, Alaska
+| KJUD
+| 8 (11)
+| 1956
+| Vision Alaska, LLC
+|
+|- style="vertical-align: top; text-align: left;"
+| Kansas City
+| KMBC-TV
+| 9 (29)
+| 1955
+| Hearst Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Kearney, Nebraska
+| KHGI-TV
+| 13 (13)
+| 1961
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Kennewick - Richland - Pasco, WA
+| KVEW
+| 42 (27)
+| 1970
+| Morgan Murphy Media
+| Semi-satellite of KAPP, Yakima, WA
+|- style="vertical-align: top; text-align: left;"
+| Kirksville, MO - Ottumwa, IA
+| KTVO
+| 3 (33)
+| 1968
+| Sinclair Broadcast Group
+| 
+|- style="vertical-align: top; text-align: left;"
+| Klamath Falls, Oregon
+| KDKF
+| 31 (29)
+| 1989
+| Allen Media Broadcasting
+| Full satellite of KDRV, Medford, OR 
+|- style="vertical-align: top; text-align: left;"
+| Knoxville
+| WATE-TV
+| 6 (26)
+| 1979
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| La Crosse, Wisconsin
+| WXOW
+| 19 (28)
+| 1970
+| Allen Media Broadcasting
+|
+|- style="vertical-align: top; text-align: left;"
+| Lafayette, Indiana
+| WPBY-LD
+| 35 (35)
+| 2017
+| Star City Broadcasting
+| Low-power digital stationSimulcasts on the LD3 subchannel of Fox affiliate WPBI-LD, Lafayette, IN
+|- style="vertical-align: top; text-align: left;"
+| Lafayette, Louisiana
+| KATC
+| 3 (28)
+| 1962
+| E.W. Scripps Company
+| Brands itself as Acadiana's News Channel
+|- style="vertical-align: top; text-align: left;"
+| Lake Charles, Louisiana
+| KVHP-DT2
+| 29.2 (18.2)
+| 2017
+| American Spirit Media(operated by Gray Television)
+| Primary channel is affiliated with FoxBrands itself as "Southwest Louisiana ABC"
+|- style="vertical-align: top; text-align: left;"
+| Lansing, Michigan
+| WLAJ
+| 53 (14)
+| 1990
+| Mission Broadcasting(Operated by Nexstar Media Group)
+| 
+|- style="vertical-align: top; text-align: left;"
+| Laredo, Texas
+| KGNS-DT2
+| 8.2 (8.2)
+| 2014
+| Gray Television
+| Brands itself as "NGNS 12"Primary channel is affiliated with NBC
+|- style="vertical-align: top; text-align: left;"
+| Las Vegas
+| KTNV-TV
+| 13 (13)
+| 1956
+| E. W. Scripps Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Laurel - Hattiesburg, Mississippi
+| WDAM-DT2
+| 7.2 (7.2)
+| 2012
+| Gray Television
+| Primary channel is affiliated with NBC
+|- style="vertical-align: top; text-align: left;"
+| Lawton, OK - Wichita Falls, TX
+| KSWO-TV
+| 7 (11)
+| 1953
+| Gray Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Lead, South Dakota
+| KHSD-TV
+| 11 (5)
+| 2016
+| Gray Television
+| Full satellite of KOTA-TV, Rapid City, SDPreviously with ABC (on channel 5) from 1958-1965 (secondary) and from 1976-1984Successor to KHSD-TV, which had been a full satellite of KOTA-TV since 1966
+|- style="vertical-align: top; text-align: left;"
+| Lexington, Kentucky
+| WTVQ-TV
+| 36 (27)
+| 1968
+| Morris Multimedia
+|
+|- style="vertical-align: top; text-align: left;"
+| Lima, Ohio
+| WOHL-CD
+| 35 (15)
+| 2009
+| Block Communications
+| Low-power digital stationBrands itself as "ABC Lima"Simulcasts on translators WAMS-LD, New Bremen, OH and WPNM-LD, Leipsic, OH
+|- style="vertical-align: top; text-align: left;"
+| Lincoln, Nebraska
+| KLKN
+| 8 (8)
+| 1987
+| Standard Media
+| Previously with ABC 1964–1983
+|- style="vertical-align: top; text-align: left;"
+| Little Rock
+| KATV
+| 7 (22)
+| 1955
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Louisville
+| WHAS-TV
+| 11 (11)
+| 1990
+| Tegna
+|
+|- style="vertical-align: top; text-align: left;"
+| Lubbock, Texas
+| KAMC
+| 28 (27)
+| 1969
+| Mission Broadcasting(operated by Nexstar Media Group)
+|
+|- style="vertical-align: top; text-align: left;"
+| Lufkin, Texas
+| KTRE
+| 9 (9)
+| 1984
+| Gray Television
+| Semi-satellite of KLTV, Tyler, TX
+|- style="vertical-align: top; text-align: left;"
+| Lynchburg - Roanoke, VA
+| WSET-TV
+| 13 (7)
+| 1955
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Macon, Georgia
+| WGXA-DT2
+| 24.2 (26.2)
+| 2010
+| Sinclair Broadcast Group
+| Primary channel is affiliated with Fox; previously with ABC 1982–1995Brands itself as "ABC 16"
+|- style="vertical-align: top; text-align: left;"
+| Madison, Wisconsin
+| WKOW-TV
+| 27 (26)
+| 1956
+| Allen Media Broadcasting
+|
+|- style="vertical-align: top; text-align: left;"
+| Manchester, New Hampshire
+| WMUR-TV
+| 9 (9)
+| 1954
+| Hearst Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Medford, Oregon
+| KDRV
+| 12 (12)
+| 1984
+| Allen Media Broadcasting
+|
+|- style="vertical-align: top; text-align: left;"
+| Memphis
+| WATN-TV
+| 24 (25)
+| 1995
+| Tegna
+|
+|- style="vertical-align: top; text-align: left;"
+| Meridian, Mississippi
+| WTOK-TV
+| 11 (13)
+| 1980
+| Gray Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Miami - Fort Lauderdale
+| WPLG
+| 10 (10)
+| 1957
+| Berkshire Hathaway
+|
+|- style="vertical-align: top; text-align: left;"
+| Midland - Odessa, TX
+| KMID-TV
+| 2 (26)
+| 1981
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Milwaukee
+| WISN-TV
+| 12 (34)
+| 1977
+| Hearst Television
+| Previously with ABC 1954–1961
+|- style="vertical-align: top; text-align: left;"
+| Minot, North Dakota
+| KMCY
+| 14 (14)
+| 1985
+| Forum Communications
+| Satellite of KBMY-TV, Bismarck, ND
+|- style="vertical-align: top; text-align: left;"
+| Missoula, Montana
+| KTMF
+| 23 (23)
+| 1991
+| Cowles Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Moline, Illinois (Quad Cities)
+| WQAD-TV
+| 8 (31)
+| 1963
+| Tegna
+|
+|- style="vertical-align: top; text-align: left;"
+| Monroe, LA - El Dorado, AR
+| KNOE-DT2
+| 8.2 (8.2)
+| 2014
+| Gray Television
+| Primary channel is affiliated with CBSBrands itself as "ABC KAQY"Successor to KAQY, which had been with ABC since 1998
+|- style="vertical-align: top; text-align: left;"
+| Montgomery - Selma, AL
+| WNCF
+| 32 (32)
+| 1964
+| SagamoreHill Broadcasting(operated under SSA by Bahakel Communications)
+|
+|- style="vertical-align: top; text-align: left;"
+| Nampa - Boise, ID
+| KIVI-TV
+| 6 (24)
+| 1974
+| E. W. Scripps Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Naples - Fort Myers, FL
+| WZVN-TV
+| 26 (28)
+| 1974
+| Montclaire Communications(operated by Waterman Broadcasting Corporation)
+| Brands itself as "ABC 7"
+|- style="vertical-align: top; text-align: left;"
+| Nashville
+| WKRN-TV
+| 2 (27)
+| 1954
+| Nexstar Media Group
+| 
+|- style="vertical-align: top; text-align: left;"
+| New Bedford, MA - Providence, RI
+| WLNE-TV
+| 6 (24)
+| 1995
+| Standard Media
+| Previously with ABC 1963–1977
+|- style="vertical-align: top; text-align: left;"
+| New Bern - Greenville - Washington, NC
+| WCTI-TV
+| 12 (10)
+| 1963
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| New Haven - Hartford
+| WTNH ++
+| 8 (10)
+| 1956
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| New Orleans
+| WGNO
+| 26 (26)
+| 1996
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| North Platte, Nebraska
+| KHGI-CD
+| 27
+| 1989
+| Sinclair Broadcast Group
+| Full satellite of KHGI-TV, Kearney, NE
+|- style="vertical-align: top; text-align: left;"
+| Oak Hill - Beckley - Bluefield, WV
+| WOAY-TV
+| 4 (31)
+| 1954
+| Thomas Broadcasting Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Oklahoma City
+| KOCO-TV
+| 5 (7)
+| 1954
+| Hearst Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Omaha
+| KETV
+| 7 (20)
+| 1957
+| Hearst Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Orange Park - Jacksonville, FL
+| WJXX
+| 25 (10)
+| 1997
+| Tegna
+|
+|- style="vertical-align: top; text-align: left;
+| Orlando - Daytona Beach - Melbourne
+| WFTV
+| 9 (35)
+| 1958
+| Cox Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Palm Springs, California
+| KESQ-TV
+| 42 (28)
+| 1968
+| News-Press & Gazette Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Panama City, Florida
+| WMBB
+| 13 (13)
+| 1982
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Pensacola, FL - Mobile, AL
+| WEAR-TV
+| 3 (17)
+| 1955
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Peoria - Bloomington - Normal, IL
+| WEEK-DT2
+| 25.2 (25.2)
+| 2016
+| Gray Television
+| Primary channel is affiliated with NBCBrands itself as "Heart of Illinois ABC"
+|- style="vertical-align: top; text-align: left;"
+| Petersburg - Richmond, VA
+| WRIC-TV
+| 8 (28)
+| 1965
+| Nexstar Media Group
+| 
+|- style="vertical-align: top; text-align: left;"
+| Phoenix
+| KNXV-TV
+| 15 (15)
+| 1995
+| E. W. Scripps Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Pierre, South Dakota
+| KPRY-TV
+| 4 (13)
+| 1983
+| Gray Television
+| Full satellite of KSFY-TV, Sioux Falls, SD
+|- style="vertical-align: top; text-align: left;"
+| Pittsburgh
+| WTAE-TV
+| 4 (27)
+| 1958
+| Hearst Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Poland Spring - Portland, ME
+| WMTW
+| 8 (8)
+| 1954
+| Hearst Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Poplar Bluff, Missouri
+| KPOB-TV
+| 15 (15)
+| 1967
+| Allen Media Broadcasting
+| Full satellite of WSIL-TV, Harrisburg, IL
+|- style="vertical-align: top; text-align: left;"
+| Portland, Oregon
+| KATU
+| 2 (24)
+| 1964
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Rapid City, South Dakota
+| KOTA-TV
+| 3 (7)
+| 2016
+| Gray Television
+| Previously with ABC (on channel 7) from 1958-1965 (secondary) and from 1976-1984Brands itself as "KOTA Territory"Successor to KOTA-TV, which had been with ABC from 1965-1976 and since 1984
+|- style="vertical-align: top; text-align: left;"
+| Redding - Chico, CA
+| KRCR-TV
+| 7 (7)
+| 1978
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Redwood Falls - Mankato, MN
+| KRWF
+| 43 (27)
+| 1987
+| Hubbard Broadcasting
+| Full satellite of KSTP-TV, St. Paul, MN
+|- style="vertical-align: top; text-align: left;"
+| Reno, Nevada
+| KOLO-TV
+| 8 (8)
+| 1972 
+| Gray Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Rochester, New York
+| WHAM-TV
+| 13 (9)
+| 1962
+| Deerfield Media (operated by Sinclair Broadcast Group)
+|
+|- style="vertical-align: top; text-align: left;"
+| Rockford, Illinois
+| WTVO
+| 17 (16)
+| 1995
+| Mission Broadcasting(operated by Nexstar Media Group)
+|
+|- style="vertical-align: top; text-align: left;"
+| Sacramento - Stockton - Modesto
+| KXTV
+| 10 (10)
+| 1995
+| Tegna
+|
+|- style="vertical-align: top; text-align: left;"
+| St. James/Mankato, Minnesota
+| K30FN
+| 5 (30)
+| 
+| Cooperative Television Association of Southern Minnesota
+| Translator of KSTP-TV St. Paul/Minneapolis
+|- style="vertical-align: top; text-align: left;"
+| St. Joseph, Missouri
+| KQTV
+| 2 (7)
+| 1967
+| Heartland Media
+|
+|- style="vertical-align: top; text-align: left;"
+| St. Louis
+| KDNL-TV
+| 30 (31)
+| 1995
+| Sinclair Broadcast Group
+| 
+|- style="vertical-align: top; text-align: left;"
+| St. Paul - Minneapolis
+| KSTP-TV
+| 5 (35)
+| 1979
+| Hubbard Broadcasting
+|
+|- style="vertical-align: top; text-align: left;"
+| Salinas - Monterey - Santa Cruz, CA
+|KSBW-DT2
+|8.2 (8.2)
+| 2011
+| Hearst Television
+| Branded as "Central Coast ABC"Primary channel is affiliated with NBC; previously with ABC (secondary) from 1953-1960
+|- style="vertical-align: top; text-align: left;"
+| Salisbury, Maryland
+| WMDT
+| 47 (29)
+| 1980
+| Marquee Broadcasting
+|
+|-style="vertical-align: top; text-align: left;"
+| Salt Lake City
+| KTVX
+| 4 (30)
+| 1960
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| San Angelo, Texas
+| KTXE-LD
+| 12 (38)
+| 2002
+| Sinclair Broadcast Group
+| Low-power digital stationFull satellite of KTXS-TV, Sweetwater, TX
+|- style="vertical-align: top; text-align: left;"
+| San Antonio 
+| KSAT-TV
+| 12 (12)
+| 1957
+| Graham Media Group
+|
+|- style="vertical-align: top: text-align: left;"
+| San Diego
+| KGTV
+| 10 (10)
+| 1977
+| E. W. Scripps Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Santa Barbara - Santa Maria -San Luis Obispo
+| KEYT-TV
+| 3 (27)
+| 1969
+| News-Press & Gazette Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Sarasota - Bradenton, FL
+| WWSB
+| 40 (24)
+| 1971
+| Gray Television
+| Brands itself as "ABC 7"
+|- style="vertical-align: top; text-align: left;"
+| Sault Ste. Marie, Michigan
+| WGTQ
+| 8 (8)
+| 1976
+| Cunningham Broadcasting (operated by Sinclair Broadcast Group)
+| Full satellite of WGTU, Traverse City, MI
+|- style="vertical-align: top; text-align: left;"
+| Savannah, Georgia
+| WJCL
+| 22 (22)
+| 1985
+| Hearst Television
+| Previously with ABC 1970–1982
+|- style="vertical-align: top; text-align: left;"
+| Scranton - Wilkes-Barre
+| WNEP-TV
+| 16 (21)
+| 1954
+| Tegna
+|
+|- style="vertical-align: top; text-align: left;"
+| Seattle - Tacoma
+| KOMO-TV
+| 4 (30)
+| 1959
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Sheridan, Wyoming
+| KSGW-TV
+| 12 (13)
+| 1984
+| Gray Television
+| Full satellite of KOTA-TV, Rapid City, SD
+|- style="vertical-align: top; text-align: left;"
+| Shreveport, LA - Texarkana, TX
+| KTBS-TV
+| 3 (28)
+| 1960
+| KTBS, LLC
+|
+|- style="vertical-align: top; text-align: left;"
+| Sidney-Scottsbluff, Nebraska
+| KNEP
+| 4 (7)
+| 2016
+| Gray Television
+| Semi-satellite of KOTA-TV, Rapid City, SDThe station's DT2 subchannel is considered KNEP's primary channel and is affiliated with NBC
+|- style="vertical-align: top; text-align: left;"
+| Sioux City, Iowa
+| KCAU-TV
+| 9 (9)
+| 1967
+| Nexstar Media Group
+| 
+|- style="vertical-align: top; text-align: left;"
+| Sioux Falls, South Dakota
+| KSFY-TV
+| 13 (13)
+| 1983
+| Gray Television
+|
+|- style="vertical-align: top; text-align: left;"
+| South Bend, Indiana
+| WBND-LD
+| 57 (35)
+| 1995
+| Weigel Broadcasting
+|
+|- style="vertical-align: top; text-align: left;"
+| Spokane, Washington
+| KXLY-TV
+| 4 (13)
+| 1976
+| Morgan Murphy Media
+|
+|- style="vertical-align: top; text-align: left;"
+| Springfield - Decatur, IL
+| WICS
+| 20 (15)
+| 2005
+| Sinclair Broadcast Group
+| 
+|- style="vertical-align: top; text-align: left;"
+| Springfield, Massachusetts
+| WGGB-TV
+| 40 (26)
+| 1959
+| Gray Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Springfield, Missouri
+| KSPR-LD
+| 33 (34)
+| 2017
+| Gray Television
+| Low-power digital stationSuccessor to KSPR, which had been with ABC since 1986
+|- style="vertical-align: top; text-align: left;"
+| Sweetwater - Abilene, TX
+| KTXS-TV
+| 12 (20)
+| 1979
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Syracuse, New York
+| WSYR-TV
+| 9 (17)
+| 1962
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Tallahassee, Florida
+| WTXL-TV
+| 27 (27)
+| 1976
+| E. W. Scripps Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Tampa - St. Petersburg
+| WFTS-TV ++
+| 28 (17)
+| 1994
+| E. W. Scripps Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Tequesta - West Palm Beach, FL
+| WPBF
+| 25 (16)
+| 1989
+| Hearst Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Terre Haute, Indiana
+| WAWV-TV
+| 38 (18)
+| 2011WAWV-TV (formerly WFXW) rejoined the ABC network on Sept. 1, 2011.  This station was originally an ABC affiliate (under previous call signs WIIL-TV and WBAK) until it switched to Fox in 1995. ()
+| Mission Broadcasting(operated by Nexstar Media Group)
+| Previously with ABC from 1973–1995
+|- style="vertical-align: top; text-align: left;"
+| Toledo, Ohio
+| WTVG
+| 13 (13)
+| 1995
+| Gray Television
+| Previously with ABC 1958–1970; owned by ABC 1995–2011
+|- style="vertical-align: top; text-align: left;"
+| Topeka, Kansas
+| KTKA-TV
+| 49 (16)
+| 1983
+| Vaughan Media, LLC(operated by Nexstar Media Group)
+|  
+|- style="vertical-align: top; text-align: left;"
+| Traverse City, Michigan
+| WGTU
+| 29 (29)
+| 1971
+| Cunningham Broadcasting (operated by Sinclair Broadcast Group)
+|
+|- style="vertical-align: top; text-align: left;"
+| Tucson, Arizona
+| KGUN-TV
+| 9 (9)
+| 1956
+| E. W. Scripps Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Tulsa
+| KTUL-TV
+| 8 (10)
+| 1954
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Tupelo - Columbus, MS
+| WTVA-DT2
+| 9.2 (8.2)
+| 2012WTVA 9.2 replaced WKDH, which ceased operations on August 31, 2012. (; ; )
+| Allen Media Broadcasting
+| Primary channel is affiliated with NBC
+|- style="vertical-align: top; text-align: left;"
+| Twin Falls, Idaho
+| KSAW-LD
+| 6 (28)
+| 1985
+| E. W. Scripps Company
+| Low-power digital stationSemi-satellite of KIVI-TV, Nampa, ID
+|- style="vertical-align: top; text-align: left;"
+| Tyler - Longview, TX
+| KLTV
+| 7 (7)
+| 1954
+| Gray Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Utica - Rome, NY
+| WUTR
+| 20 (30)
+| 1970
+| Mission Broadcasting(operated by Nexstar Media Group)
+|
+|- style="vertical-align: top; text-align: left;"
+| Victoria, Texas
+| KAVU-TV
+| 25 (20)
+| 1994
+| Saga Communications
+|
+|- style="vertical-align: top; text-align: left;"
+| Waco - Temple, Texas
+| KXXV
+| 25 (26)
+| 1985
+| E. W. Scripps Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Wailuku, Hawaii
+| KMAU-TV
+| 4 (12)
+| 1955
+| Allen Media Broadcasting
+| Full satellite of KITV, Honolulu, HI
+|- style="vertical-align: top; text-align: left;"
+| Washington, D.C.
+| WJLA-TV
+| 7 (7)
+| 1948
+| Sinclair Broadcast Group
+| Oldest continuous ABC affiliate among non-owned and operated stations
+|- style="vertical-align: top; text-align: left;"
+| Watertown, New York
+| WWTI
+| 50 (31)
+| 1988
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Wausau - Rhinelander, WI
+| WAOW
+| 9 (9)
+| 1965
+| Allen Media Broadcasting
+|
+|- style="vertical-align: top; text-align: left;"
+| Weslaco, TX (Rio Grande Valley)
+| KRGV-TV
+| 5 (13)
+| 1976
+| KRGV-TV Corporation(Mobile Video Tapes, Inc.)
+|
+|- style="vertical-align: top; text-align: left;"
+| Wheeling, WV - Steubenville, OH
+| WTRF-DT3
+| 7.3 (7.3)
+| 2008
+| Nexstar Media Group
+| Primary channel is affiliated with CBSBrands itself as "ABC Ohio Valley"
+|- style="vertical-align: top; text-align: left;"
+| Wichita
+| KAKE
+| 10 (10)
+| 1955
+| Lockwood Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Wilmington, North Carolina
+| WWAY
+| 3 (24)
+| 1964
+| Morris Multimedia
+|
+|- style="vertical-align: top; text-align: left;"
+| Winston-Salem - Greensboro -High Point
+| WXLV-TV
+| 45 (29)
+| 1995
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Yakima, Washington
+| KAPP
+| 35 (14)
+| 1970
+| Morgan Murphy Media
+|
+|- style="vertical-align: top; text-align: left;"
+| Youngstown, Ohio
+| WYTV
+| 33 (36)
+| 1953
+| Vaughan Media, LLC(operated by Nexstar Media Group)
+|
+|- style="vertical-align: top; text-align: left;"
+|}
+
+=== U.S. territories ===
+{| class="wikitable"
+! City of license/Market
+! Station
+! ChannelTV (DT)
+! Year of affiliation
+! Ownership
+! Notes
+|- style="vertical-align: top; text-align: left;"
+| Tamuning - Hagåtña, Guam 
+| KTGM
+| 14 (14)
+| 1987
+| rowspan="2" | Sorensen Broadcasting Group
+| Brands itself as "ABC 7"
+|- style="vertical-align: top; text-align: left;"
+| Saipan, Northern Mariana Islands 
+| KPPI-LP
+| 7
+| 2005
+| Low-power analog station;Full satellite of KTGM, Tamuning, Guam
+|- style="vertical-align: top; text-align: left;"
+| Mayaguez, Puerto Rico
+| WORA-TV
+| 5 (29)
+| 2014
+| rowspan=2| Telecinco, Inc.
+| Rebroadcasts newscasts from WABC-TV, New York CityAirs network programming and local newscasts in Spanish
+|- style="vertical-align: top; text-align: left;"
+| Carolina, Puerto Rico
+| WRFB
+| 5 (30)
+| 2019
+| Rebroadcasts newscasts from WABC-TV, New York CityAirs network programming and local newscasts in Spanish
+|- style="vertical-align: top; text-align: left;"
+| Christiansted, U.S. Virgin Islands
+| WCVI-TV
+| 23.2 (23)
+| 2013
+| Lilly Broadcasting
+| Primary channel is affiliated with CBSRebroadcasts news from WENY-TV, Elmira
+|- style="vertical-align: top; text-align: left;"
+|}
+
+=== Outside the U.S. ===
+{| class="wikitable"
+! Location
+! Station
+! Channel
+! Year of Affiliation
+! Ownership
+|- style="vertical-align: top; text-align: left;"
+| Hamilton, Bermuda
+| ZFB-TV
+| 7
+|  1965
+| Bermuda Broadcasting
+|- style="vertical-align: top; text-align: left;"
+|}
+
+==Footnotes==
+
+
+==See also==
+*Lists of ABC television affiliates
+*Lists of NBC television affiliates
+*Lists of CBS television affiliates
+
+
+
+
+
+ 
+ABC
+ABC television affiliates

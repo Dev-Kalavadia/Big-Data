@@ -1,0 +1,217 @@
+Title: McIntyre-Takhini
+
+McIntyre-Takhini is an electoral district which returned a member (known as an MLA) to the Legislative Assembly of the Yukon Territory in Canada. It was dissolved in 2009 into the ridings Takhini-Kopper King and Mountainview. It contained the Whitehorse subdivisions of Takhini, Valleyview, and McIntyre, as well as the Kopper King, Takhini, and Northland mobile home parks.
+
+It is the former riding of Yukon's 5th Premier, Piers McDonald.
+
+==Members of the Legislative Assembly==
+
+{| border=1 cellpadding=5 cellspacing=0
+|- bgcolor="CCCCCC"
+! Parliament
+! Years
+! colspan="2" | Member
+! Party
+|-
+| bgcolor="CCCCCC" | 1992
+| 1992-1996
+| rowspan="2"  |    
+| rowspan="2" | Piers McDonald
+| rowspan="2" | New Democrat
+|-
+| bgcolor="CCCCCC" | 1996
+| 1996-2000
+|-
+| bgcolor="CCCCCC" rowspan="2"| 2000
+| 2000-2002
+|  |    
+| rowspan="2" | Wayne Jim
+| Liberal
+|-
+| 2002
+|  |    
+| Independent
+|-
+| bgcolor="CCCCCC" rowspan="2"| 2002
+| 2002-2006
+|  |    
+| rowspan="5" | John Edzerza
+| Yukon Party
+|-
+| 2006
+|  |    
+| Independent
+|-
+| bgcolor="CCCCCC" rowspan="3"| 2006
+| 2006-2009
+|  |    
+| New Democrat
+|-
+| 2009
+|  |    
+| Independent
+|-
+| 2009-2011
+|  |    
+| Yukon Party
+|}
+
+==Electoral results==
+
+=== 2006 general election ===
+
+
+|-
+
+| NDP
+| John Edzerza
+| align="right"|336
+| align="right"|38.84
+| align="right"|
+
+
+| Liberal
+| Ed Schultz
+| align="right"|328
+| align="right"|37.92
+| align="right"|
+
+
+|-
+! align=left colspan=3|Total
+! align=right|865
+! align=right|100.0
+|}
+
+===2002 general election===
+
+
+|-
+
+
+
+| NDP
+| Maureen Stephens
+| align="right"|270
+| align="right"|29.8
+| align="right"|
+
+
+| Liberal
+| Judy Gingell
+| align="right"|204
+| align="right"|22.5
+| align="right"|
+
+
+| Independent
+| Wayne Jim
+| align="right"|129
+| align="right"|14.2
+| align="right"|
+
+
+| Independent
+| Geoffrey Capp
+| align="right"|15
+| align="right"|1.7
+| align="right"|
+|-
+! align=left colspan=3|Total
+! align=right|906
+! align=right|100.0
+|}
+
+===2000 general election===
+
+
+|-
+
+| Liberal
+| Wayne Jim
+| align="right"|376
+| align="right"|38.4
+| align="right"|
+
+
+| NDP
+| Piers McDonald
+| align="right"|338
+| align="right"|34.5
+| align="right"|
+
+
+|-
+! align=left colspan=3|Total
+! align=right|979
+! align=right|100.0
+|}
+
+===1996 general election===
+
+
+|-
+
+| NDP
+| Piers McDonald
+| align="right"|441
+| align="right"|49.3
+| align="right"|
+
+
+
+
+| Liberal
+| Rosemary Couch
+| align="right"|182
+| align="right"|20.3
+| align="right"|
+
+
+| Independent
+| Clinton Fraser
+| align="right"|21
+| align="right"|2.4
+| align="right"|
+|-
+! align=left colspan=3|Total
+! align=right|895
+! align=right|100.0
+|}
+
+===1992 general election===
+
+
+|-
+
+| NDP
+| Piers McDonald
+| align="right"| 313
+| align="right"| 42.9
+| align="right"|
+
+
+
+
+| Liberal
+| Larry Bill
+| align="right"| 126
+| align="right"| 17.3
+| align="right"|
+
+|-
+! align=left colspan=3|Total
+! align=right| 729
+! align=right| 100
+! align=right|
+|}
+
+== References ==
+* McIntyre-Takhini - Yukon Votes 2006. Retrieved May 22, 2009.
+
+
+
+
+
+Category:Former Yukon territorial electoral districts
+Category:Politics of Whitehorse

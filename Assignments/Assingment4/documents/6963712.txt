@@ -1,0 +1,63 @@
+Title: Giżycko County
+
+__NOTOC__
+Giżycko County () is a unit of territorial administration and local government (powiat) in Warmian-Masurian Voivodeship, northern Poland. It came into being on 1 January 1999, as a result of the Polish local government reforms of 1998. Its administrative seat and largest town is Giżycko, which lies  east of the regional capital Olsztyn. The only other town in the county is Ryn, lying  south-west of Giżycko.
+
+The county covers an area of . As of 2019 its total population is 56,661, out of which the population of Giżycko is 29,335, that of Ryn is 2,851, and the rural population is 24,475.
+
+Until 2002 Giżycko County also included the three gminas which now form Węgorzewo County.
+
+==Neighbouring counties==
+Giżycko County is bordered by Węgorzewo County to the north, Gołdap County to the north-east, Olecko County and Ełk County to the east, Pisz County to the south, and Mrągowo County and Kętrzyn County to the west.
+
+==Administrative division==
+The county is subdivided into six gminas (one urban, one urban-rural and four rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km2)
+| style="text-align:center;"|Population(2019)
+| style="text-align:center;"|Seat
+|-
+|Giżycko
+|urban
+| style="text-align:right;"|13.9
+| style="text-align:right;"|29,335
+| 
+|-
+|Gmina Giżycko
+|rural
+| style="text-align:right;"|289.8
+| style="text-align:right;"|8,464
+|Giżycko *
+|-
+|Gmina Wydminy
+|rural
+| style="text-align:right;"|233.5
+| style="text-align:right;"|6,270
+|Wydminy
+|-
+|Gmina Ryn
+|urban-rural
+| style="text-align:right;"|211.2
+| style="text-align:right;"|5,686
+|Ryn
+|-
+|Gmina Miłki
+|rural
+| style="text-align:right;"|169.4
+| style="text-align:right;"|3,742
+|Miłki
+|-
+|Gmina Kruklanki
+|rural
+| style="text-align:right;"|201.0
+| style="text-align:right;"|3,164
+|Kruklanki
+|-
+|colspan=5 style="text-align:right;font-size:90%"|* seat not part of the gmina
+|-
+|}
+

@@ -1,0 +1,195 @@
+Title: Bube language
+
+
+
+
+Bube, Bohobé or Bube–Benga (Bobe, Bubi), is a Bantu language spoken by the Bubi, a Bantu people native to, and once the primary inhabitants of, Bioko Island in Equatorial Guinea. The language was brought to Bioko from continental Africa more than three thousand years ago when the Bubi began arriving on the island. EquatorialGuinea.org; Retrieved 12/08/1998
+
+It has around 50,000 speakers, with three variants: North, South and Central-East. It is noted for its tonal character and the divergence of words by gender. The language is also spoken by Bubi native to Gabon and Cameroon.
+
+The Bube language is divided into six different dialects that vary in the northern and southern regions of Bioko Island. For example, in the North, people speak Rebola and its variations: Basile, Banapa and Basupa. However, in the North-East, Bakake is spoken.
+
+Bube is also spoken in a small area on the mainland closest to the island, where speakers are shifting to Wumboko.Harald Hammarström (2013) Review of the Ethnologue, 16th Ed. This has been reported as "Bube", "Bubia" or "Wovea" (see Wovea people).
+
+The first works on the Bube language were those of the Baptist missionary John Clarke, published in 1846 and 1848.See Bibliography. A later Bube-to-English primer was authored in 1875 by William Barleycorn, a colonial era Primitive Methodist missionary of Igbo and Fernandino descent, while he was serving in the Bubi village of Basupu. An official language dictionary and grammar guide was published by the ethnic Bubi scholar Justo Bolekia Boleká.
+
+== Other names==
+Other names and forms of the name include Bubé, eVoové, eBubée, Bhubhi, Bubi, Ibubi, Ibhubhi, Pove and Eviia.
+
+== Phonology ==
+=== Vowels ===
+Bube has 7 vowels that can be either short or long:
+{|class="wikitable" style="text-align: center;"
+|+Vowel phonemes
+|-
+!
+!Front!! Back
+|-
+!Close
+|  (ĩ)
+|  (ũ)
+|-
+!Close-mid
+|  (ẽ)
+|  (õ)
+|-
+!Open-mid
+|  (ɛ̃)
+|  (ɔ̃)
+|-
+!Open
+|colspan="2" | (ã)
+|}
+
+The nasal vowels are allophones of respective oral vowels.
+
+=== Consonants ===
+Bube has 29 consonants. Some of them are prenasalized:
+
+{| class="wikitable" style="text-align:center;"
+|+Consonant Phonemes
+|-
+! colspan="3" |
+! Labial
+! Dental/ Alveolar
+! Palatal
+! Velar
+! Glottal
+|-
+! rowspan="2" colspan="2" | Nasal
+! 
+| 
+| 
+|
+|
+|
+|-
+! 
+| 
+| 
+| 
+|
+|
+|-
+! rowspan="4" | Stop
+! rowspan="2" | 
+! 
+| 
+| 
+| 
+| 
+| rowspan="2" | 
+|-
+! 
+| 
+| 
+| 
+| 
+|-
+! rowspan="2" | 
+! 
+| 
+| 
+| 
+|
+|
+|-
+! 
+| 
+| 
+| 
+|
+|
+|-
+! rowspan="3" colspan="2" | Fricative
+! 
+| 
+| 
+|
+|
+| 
+|-
+! 
+| 
+|
+|
+|
+|
+|-
+! 
+|
+| 
+|
+|
+|
+|-
+! colspan="3" | Approximant
+|
+| 
+| 
+| 
+|
+|-
+! colspan="3" | Rhotic
+|
+| 
+|
+|
+|
+|}
+
+== Numbers==
+The numbers one through ten in Bube are as follows:C. Junyent, Las lenguas del mundo, p. 66
+:{| class="wikitable" style="text-align:center;"
+|-
+! Number
+! Northern Bube
+! Northwestern Bube
+! Southern Bube
+|-
+| 1 || buule || buule || muule
+|-
+| 2 || eppa || eppa || memba
+|-
+| 3 || betta || betta || metta
+|-
+| 4 || yeele || yeele || myeeme
+|-
+| 5 || betto || betto || metto
+|-
+| 6 || ra'a6 || ra'a6 || metto na muule5+1
+|-
+| 7 || ra'a la buule6+1 || ra'a la buule6+1 || metto na memba5+2
+|-
+| 8 || yeele ketoppa4x2 || ra'a la eppa6+2 || metto na metta5+3
+|-
+| 9 || yeele ketoppa la buule4x2+1 || baa buule ka yo10-1 || metto na myeene5+4
+|-
+| 10 || yo || yo || myo
+|}
+
+== References ==
+
+
+==Bibliography==
+* Biddulph, Joseph, Fernandian (1988). The Bubi Bantu language of Bioco/Fernando Po. Pontypridd, Wales: Languages Information Centre, WorldCat no. 17838738.
+*Bolekia, Justo Bolekia (1991). Curso de lengua bubi. (Coleccion ensayos, 8.) Malabo: Centro Cultural Hispano-Guineano.
+*Bolekia, Justo (2009). Diccionario español-bubi. Madrid: Ediciones AKAL. 544pp.
+* Clarke, John (1846). Sentences in the Fernandian Tongue. Dunfermline Press, Bimbia.
+* Clarke, John (1848). Introduction To The Fernandian Tongue, Part 1. Berwick-on-Tweed.
+
+==External links==
+
+
+
+
+
+
+
+
+
+ 
+Category:Mbam languages
+Category:Languages of Equatorial Guinea
+Category:Languages of Gabon
+Category:Languages of Cameroon

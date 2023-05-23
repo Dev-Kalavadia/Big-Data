@@ -1,0 +1,78 @@
+Title: Arf invariant
+
+In mathematics, the Arf invariant of a nonsingular quadratic form over a field of characteristic 2 was defined by Turkish mathematician  when he started the systematic study of quadratic forms over arbitrary fields of characteristic 2. The Arf invariant is the substitute, in characteristic 2, for the discriminant for quadratic forms in characteristic not 2. Arf used his invariant, among others, in his endeavor to classify quadratic forms in characteristic 2.
+
+In the special case of the 2-element field F2 the Arf invariant can be described as the element of F2 that occurs most often among the values of the form. Two nonsingular quadratic forms over F2 are isomorphic if and only if they have the same dimension and the same Arf invariant. This fact was essentially known to , even for any finite field of characteristic 2, and Arf proved it for an arbitrary perfect field.
+
+The Arf invariant is particularly applied in geometric topology, where it is primarily used to define an invariant of -dimensional manifolds (singly even-dimensional manifolds: surfaces (2-manifolds), 6-manifolds, 10-manifolds, etc.) with certain additional structure called a framing, and thus the Arf–Kervaire invariant and the Arf invariant of a knot. The Arf invariant is analogous to the signature of a manifold, which is defined for 4k-dimensional manifolds (doubly even-dimensional); this 4-fold periodicity corresponds to the 4-fold periodicity of L-theory. The Arf invariant can also be defined more generally for certain 2k-dimensional manifolds.
+
+==Definitions==
+
+The Arf invariant is defined for a quadratic form q over a field K of characteristic 2 such that q is nonsingular, in the sense that the associated bilinear form b(u,v)=q(u+v)-q(u)-q(v) is nondegenerate. The form b is alternating since K has characteristic 2; it follows that a nonsingular quadratic form in characteristic 2 must have even dimension. Any binary (2-dimensional) nonsingular quadratic form over K is equivalent to a form q(x,y)= ax^2 + xy +by^2 with a, b in K. The Arf invariant is defined to be the product ab. If the form q'(x,y)=a'x^2 + xy+b'y^2 is equivalent to q(x,y), then the products ab and a'b' differ by an element of the form u^2+u  with u in K. These elements form an additive subgroup U of K. Hence the coset of ab modulo U is an invariant of q, which means that it is not changed when q is replaced by an equivalent form.
+
+Every nonsingular quadratic form q over K is equivalent to a direct sum q = q_1 + \cdots + q_r of nonsingular binary forms. This was shown by Arf, but it had been earlier observed by Dickson in the case of finite fields of characteristic 2. The Arf invariant Arf(q) is defined to be the sum of the Arf invariants of the q_i. By definition, this is a coset of K modulo U. ArfArf (1941) showed that indeed \operatorname{Arf}(q) does not change if q is replaced by an equivalent quadratic form, which is to say that it is an invariant of q.
+
+The Arf invariant is additive; in other words, the Arf invariant of an orthogonal sum of two quadratic forms is the sum of their Arf invariants.
+
+For a field K of characteristic 2, Artin–Schreier theory identifies the quotient group of K by the subgroup U above with the Galois cohomology group H1(K, F2). In other words, the nonzero elements of K/U are in one-to-one correspondence with the separable quadratic extension fields of K. So the Arf invariant of a nonsingular quadratic form over K is either zero or it describes a separable quadratic extension field of K. This is analogous to the discriminant of a nonsingular quadratic form over a field F of characteristic not 2. In that case, the discriminant takes values in F*/(F*)2, which can be identified with H1(F, F2) by Kummer theory.
+
+==Arf's main results==
+
+If the field K is perfect, then every nonsingular quadratic form over K is uniquely determined (up to equivalence) by its dimension and its Arf invariant. In particular, this holds over the field F2. In this case, the subgroup U above is zero, and hence the Arf invariant is an element of the base field F2; it is either 0 or 1.
+
+If the field K of characteristic 2 is not perfect (that is, K is different from its subfield K2 of squares), then the Clifford algebra is another important invariant of a quadratic form. A corrected version of Arf's original statement is that if the degree [K: K2] is at most 2, then every quadratic form over K is completely characterized by its dimension, its Arf invariant and its Clifford algebra.Falko Lorenz and Peter Roquette. Cahit Arf and his invariant. Section 9. Examples of such fields are function fields (or power series fields) of one variable over perfect base fields.
+
+==Quadratic forms over F2==
+
+Over F2, the Arf invariant is 0 if the quadratic form is equivalent to a direct sum of copies of the binary form xy, and it is 1 if the form is a direct sum of x^2+xy+y^2 with a number of copies of xy.
+
+William Browder has called the Arf invariant the democratic invariantMartino and Priddy, p. 61 because it is the value which is assumed most often by the quadratic form.Browder, Proposition III.1.8 Another characterization: q has Arf invariant 0 if and only if the underlying 2k-dimensional vector space over the field F2 has a k-dimensional subspace on which q is identically 0 – that is, a totally isotropic subspace of half the dimension. In other words, a nonsingular quadratic form of dimension 2k has Arf invariant 0 if and only if its isotropy index is k (this is the maximum dimension of a totally isotropic subspace of a nonsingular form).
+
+==The Arf invariant in topology==
+
+
+Let M be a compact, connected 2k-dimensional manifold with a boundary \partial M
+such that the induced morphisms in \Z_2-coefficient homology
+
+:H_k(M,\partial M;\Z_2) \to H_{k-1}(\partial M;\Z_2), \quad H_k(\partial M;\Z_2) \to H_k(M;\Z_2)
+
+are both zero (e.g. if M is closed). The intersection form 
+
+:\lambda : H_k(M;\Z_2)\times H_k(M;\Z_2)\to \Z_2
+
+is non-singular. (Topologists usually write F2 as \Z_2.) A quadratic refinement for  \lambda is a function \mu : H_k(M;\Z_2) \to \Z_2 which satisfies
+
+:\mu(x+y) + \mu(x) + \mu(y) \equiv \lambda(x,y) \pmod 2 \; \forall \,x,y \in H_k(M;\Z_2)
+
+Let \{x,y\} be any 2-dimensional subspace of H_k(M;\Z_2), such that \lambda(x,y) = 1. Then there are two possibilities. Either all of \mu(x+y), \mu(x), \mu(y) are 1, or else just one of them is 1, and the other two are 0. Call the first case H^{1,1}, and the second case H^{0,0}. Since every form is equivalent to a symplectic form, we can always find subspaces \{x,y\} with x and y being \lambda-dual. We can therefore split H_k(M;\Z_2) into a direct sum of subspaces isomorphic to either H^{0,0} or H^{1,1}. Furthermore, by a clever change of basis, H^{0,0} \oplus H^{0,0} \cong H^{1,1} \oplus H^{1,1}. We therefore define the Arf invariant 
+
+:\operatorname{Arf}(H_k(M;\Z_2);\mu) = (\text{number of copies of } H^{1,1} \text{ in a decomposition mod 2}) \in \Z_2. 
+
+===Examples===
+
+* Let M be a compact, connected, oriented 2-dimensional manifold, i.e. a surface, of genus g such that the boundary \partial M is either empty or is connected. Embed M in S^m, where m \geq 4. Choose a framing of M, that is a trivialization of the normal (m − 2)-plane vector bundle. (This is possible for m =3, so is certainly possible for m \geq 4). Choose a symplectic basis x_1, x_2, \ldots, x_{2g-1},x_{2g} for H_1(M)=\Z^{2g}. Each basis element is represented by an embedded circle x_i:S^1 \subset M. The normal (m − 1)-plane vector bundle of S^1 \subset M \subset S^m has two trivializations, one determined by a standard framing of a standard embedding S^1 \subset S^m and one determined by the framing of M, which differ by a map S^1 \to SO(m-1) i.e. an element of \pi_1(SO(m-1)) \cong \Z_2 for m \geq 4. This can also be viewed as the framed cobordism class of S^1 with this framing in the 1-dimensional framed cobordism group \Omega^\text{framed}_1 \cong \pi_m(S^{m-1}) \, (m \geq 4) \cong \Z_2, which is generated by the circle S^1 with the Lie group framing. The isomorphism here is via the Pontrjagin-Thom construction. Define \mu(x)\in \Z_2 to be this element. The Arf invariant of the framed surface is now defined
+
+:: \Phi(M) = \operatorname{Arf}(H_1(M,\partial M;\Z_2);\mu) \in \Z_2 
+
+:Note that \pi_1(SO(2)) \cong \Z, so we had to stabilise, taking m to be at least 4, in order to get an element of \Z_2. The case m=3 is also admissible as long as we take the residue modulo 2 of the framing.
+
+* The Arf invariant \Phi(M) of a framed surface detects whether there is a 3-manifold whose boundary is the given surface which extends the given framing. This is because H^{1,1} does not bound. H^{1,1} represents a torus T^2 with a trivialisation on both generators of H_1(T^2;\Z_2) which twists an odd number of times. The key fact is that up to homotopy there are two choices of trivialisation of a trivial 3-plane bundle over a circle, corresponding to the two elements of \pi_1(SO(3)). An odd number of twists, known as the Lie group framing, does not extend across a disc, whilst an even number of twists does. (Note that this corresponds to putting a spin structure on our surface.) Pontrjagin used the Arf invariant of framed surfaces to compute the 2-dimensional framed cobordism group \Omega^\text{framed}_2 \cong \pi_m(S^{m-2}) \, (m \geq 4) \cong \Z_2, which is generated by the torus T^2 with the Lie group framing. The isomorphism here is via the Pontrjagin-Thom construction.
+
+* Let (M^2,\partial M) \subset S^3 be a Seifert surface for a knot, \partial M = K : S^1 \hookrightarrow S^3, which can be represented as a disc D^2 with bands attached. The bands will typically be twisted and knotted. Each band corresponds to a generator x \in H_1(M;\Z_2). x can be represented by a circle which traverses one of the bands. Define \mu(x) to be the number of full twists in the band modulo 2. Suppose we let S^3 bound D^4, and push the Seifert surface M into D^4, so that its boundary still resides in S^3. Around any generator x \in H_1(M,\partial M), we now have a trivial normal 3-plane vector bundle. Trivialise it using the trivial framing of the normal bundle to the embedding M \hookrightarrow D^4 for 2 of the sections required. For the third, choose a section which remains normal to x, whilst always remaining tangent to M. This trivialisation again determines an element of \pi_1(SO(3)), which we take to be \mu(x). Note that this coincides with the previous definition of \mu.
+
+* The Arf invariant of a knot is defined via its Seifert surface. It is independent of the choice of Seifert surface (The basic surgery change of S-equivalence, adding/removing a tube, adds/deletes a H^{0,0} direct summand), and so is a knot invariant. It is additive under connected sum, and vanishes on slice knots, so is a knot concordance invariant.
+
+* The intersection form on the -dimensional \Z_2-coefficient homology H_{2k+1}(M;\Z_2) of a framed -dimensional manifold M has a quadratic refinement \mu, which depends on the framing. For k \neq 0,1,3 and x \in H_{2k+1}(M;\Z_2) represented by an embedding x\colon S^{2k+1}\subset M the value \mu(x)\in \Z_2 is 0 or 1, according as to the normal bundle of x is trivial or not. The Kervaire invariant of the framed -dimensional manifold M is the Arf invariant of the quadratic refinement \mu on H_{2k+1}(M;\Z_2). The Kervaire invariant is a homomorphism \pi_{4k+2}^S \to \Z_2 on the -dimensional stable homotopy group of spheres. The Kervaire invariant can also be defined for a -dimensional manifold M which is framed except at a point.
+
+* In surgery theory, for any 4k+2-dimensional normal map (f,b):M \to X there is defined a nonsingular quadratic form (K_{2k+1}(M;\Z_2),\mu) on the \Z_2-coefficient homology kernel
+
+::K_{2k+1}(M;\Z_2)=ker(f_*:H_{2k+1}(M;\Z_2)\to H_{2k+1}(X;\Z_2)) 
+
+:refining the homological intersection form \lambda. The Arf invariant of this form is the Kervaire invariant of (f,b). In the special case X=S^{4k+2} this is the Kervaire invariant of M. The Kervaire invariant features in the classification of exotic spheres by Michel Kervaire and John Milnor, and more generally in the classification of manifolds by surgery theory. William Browder defined \mu using functional Steenrod squares, and C. T. C. Wall defined \mu using framed immersions. The quadratic enhancement \mu(x) crucially provides more information than \lambda(x,x) : it is possible to kill x by surgery if and only if \mu(x)=0. The corresponding Kervaire invariant detects the surgery obstruction of (f,b) in the L-group L_{4k+2}(\Z)=\Z_2.
+
+==See also==
+* de Rham invariant, a mod 2 invariant of (4k + 1)-dimensional manifolds
+
+==Notes==
+
+

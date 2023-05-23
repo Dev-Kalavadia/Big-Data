@@ -1,0 +1,23 @@
+Title: Heinz mean
+
+In mathematics, the Heinz mean (named after E. HeinzE. Heinz (1951), "Beiträge zur Störungstheorie der Spektralzerlegung",  Math. Ann., 123, pp. 415–438.) of two non-negative real numbers A and B, was defined by Bhatia. as:
+
+:\operatorname{H}_x(A, B) = \frac{A^x B^{1-x} + A^{1-x} B^x}{2},
+
+with 0 ≤ x ≤ .
+
+For different values of x, this Heinz mean interpolates between the arithmetic (x = 0) and geometric (x = 1/2) means such that for 0 < x < :
+
+:\sqrt{A B} = \operatorname{H}_\frac{1}{2}(A, B) < \operatorname{H}_x(A, B) < \operatorname{H}_0(A, B) = \frac{A + B}{2}.
+
+The Heinz means appear naturally when symmetrizing 
+\alpha-divergences.
+.
+
+It may also be defined in the same way for positive semidefinite matrices, and satisfies a similar interpolation formula...
+
+==See also==
+*Mean
+*Muirhead's inequality
+*Inequality of arithmetic and geometric means
+

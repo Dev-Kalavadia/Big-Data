@@ -1,0 +1,49 @@
+Title: 1017 Jacqueline
+
+
+1017 Jacqueline (prov. designation:  or ) is a dark background asteroid from the central regions of the asteroid belt. It was discovered on 4 February 1924, by Russian-French astronomer Benjamin Jekhowsky at the Algiers Observatory, Algeria, in North Africa. The carbonaceous C-type asteroid has a rotation period of 7.87 hours with a high brightness amplitude of 0.6 magnitude and measures approximately  in diameter. It was named after the French physicist and long-time pupil of the discoverer, Jacqueline Zadoc-Kahn Eisenmann (1904–1998).
+
+== Orbit and classification ==
+
+Jacqueline is a non-family asteroid of the main belt's background population when applying the hierarchical clustering method to its proper orbital elements. It orbits the Sun in the intermediate asteroid belt at a distance of 2.4–2.8 AU once every 4 years and 3 months (1,536 days; semi-major axis of 2.61 AU). Its orbit has an eccentricity of 0.08 and an inclination of 8° with respect to the ecliptic. The asteroid's earliest preserved observation dates back to 7 March 1924 at Heidelberg Observatory, where the body's observation arc begins in February 1928, nearly four years after its official discovery observation at Algiers–Bouzaréah.
+
+== Naming ==
+
+This minor planet was named after Jacqueline Zadoc-Kahn Eisenmann (1904–1998), a French physicist and long-time student of Jekhowsky's. The  was mentioned in The Names of the Minor Planets by Paul Herget in 1955 ().
+
+== Physical characteristics ==
+
+In the Bus–Binzel SMASS classification, Jacqueline is a common, carbonaceous C-type asteroid.
+
+=== Rotation period ===
+
+In May 2000, a rotational lightcurve of Jacqueline was obtained from photometric observations by American photometrist Robert Stephens at the Santana Observatory  in California. Analysis of the classically shaped bimodal lightcurve gave a well-defined rotation period of  hours and a brightness variation of  magnitude, indicative of a non-spheroidal shape (). Other measurements by Eric Barbotin and by astronomers at the Palomar Transient Factory gave a similar period of 7.873 and 7.875 hours with an amplitude of 0.72 and 0.43 magnitude, respectively ().
+
+In 2016, a lightcurve was published using modeled photometric data from the Lowell Photometric Database. It gave a concurring sidereal period of 7.87149 hours, as well as two spin axes of (7.0°, 55.0°) and (170.0°, 65.0°) in ecliptic coordinates (λ, β).
+
+=== Diameter and albedo ===
+
+According to the surveys carried out by the Infrared Astronomical Satellite IRAS, the Japanese Akari satellite and the NEOWISE mission of NASA's Wide-field Infrared Survey Explorer, Jacqueline measures (), () and () kilometers in diameter and its surface has an albedo of (), () and (), respectively. The Collaborative Asteroid Lightcurve Link derives an albedo of 0.0497 and  a diameter of 37.61 kilometers based on an absolute magnitude of 11.0.
+
+Alternative mean-diameter measurements published by the WISE team include (), (), (), () and () with corresponding albedos of (), (), (), () and ().
+
+== References ==
+ 
+
+== External links ==
+* Lightcurve Database Query (LCDB), at www.minorplanet.info
+* Dictionary of Minor Planet Names, Google books
+* Asteroids and comets rotation curves, CdR – Geneva Observatory, Raoul Behrend
+* Discovery Circumstances: Numbered Minor Planets (1)-(5000) – Minor Planet Center
+* 
+* 
+
+
+
+
+
+001017
+Category:Discoveries by Benjamin Jekhowsky
+Category:Named minor planets
+001017
+19240204

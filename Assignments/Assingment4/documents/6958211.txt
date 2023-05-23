@@ -1,0 +1,130 @@
+Title: List of tallest structures in the Netherlands
+
+
+
+A non-exhaustive list of the tallest completed structures in the Netherlands. The list contains all types of structures.
+
+{| class="wikitable sortable" 
+|- 
+!Name
+!Year
+!Structural type
+!Town
+!Pinnacle height
+!Remarks
+|-
+| Gerbrandytoren Lopik || 1961 || Partially guyed tower || IJsselstein ||  ||  || Original height: 382.5 metres. 1987: height reduction to 375 metres. Further height reduction to 366.8 metres on 2 August 2007
+|-
+| Zendstation Smilde || 1959|| Partially guyed tower || Smilde ||  ||  || Hit by aircraft in 1968, caught fire on 15 July 2011, upper 200 meters destroyed but rebuilt as a lattice mast
+|-
+|De Zalmhaven I
+|2022
+|Skyscraper
+|Rotterdam
+|215 m (705 ft)
+|51°54′37″N 4°28′50″E 
+|Residential Tower. Tallest building in the Netherlands
+|-
+| KNMI-mast Cabauw || 1972|| Guyed mast || Cabauw ||  ||  || Meteorological research station 
+|-
+| Shell Pernis || 1968/1974|| Chimney || Pernis ||  ||  ;  ||Two chimneys. Municipality part of Rotterdam.
+|-
+| Zendmast Radio Kootwijk  || 1925 || Guyed mast || Radio Kootwijk ||  ||  || Demolished in 1945 by the Germans
+|-
+| Zendmast Radio Kootwijk  || 1947 || Guyed mast || Radio Kootwijk ||  ||  || Demolished in 1980
+|-
+| Zendmast Lopik || 1951 || Guyed mast || IJsselstein ||  || || Demolished on 8 May 1962, replaced by Gerbrandytoren Lopik
+|-
+| Zendmast Wieringermeer  || 1967 || Guyed mast || Wieringermeer ||  ||  
+|-
+| KPN-Zendmast Waalhaven || 1962 || Tower || Rotterdam-Waalhaven ||  ||  
+|-
+| KPN-Zendmast Hilversum || 1973 || Tower || Hilversum ||  || 
+|-
+| Mediumwave transmitter Flevoland || 1980 ||Guyed mast || Flevoland ||  ||  ;  || two masts, grounded, divided in 95 metres with an insulator, demolished 8 January 2019
+|-
+| Mediumwave transmitter Lopik || 1938 || Guyed mast || Lopik ||  ||  || insulated against ground, demolished on 4 September 2015 
+|-
+| Euromast || 1960 || Tower || Rotterdam ||  ||   || Tallest tower open to the public with restaurant and observation area. Height extended in 1970
+|-  
+| Maastoren || 2009 || Skyscraper || Rotterdam ||  ||  || Tallest office building in the country and Benelux
+|-
+| Hemweg Power Plant || || Chimney || Amsterdam ||  || 
+|- 
+|  Amercentrale || || Chimney || Geertruidenberg ||  ||  ;  ; 
+|- 
+|  Borssele Coal-Fired Power Station || || Chimney || Borsele ||  || 
+|- 
+| Hemweg Power Plant || || Chimney || Amsterdam ||  || 
+|- 
+|  Geleen || || Chimney || Geleen ||  || 
+|- 
+| Zendmast Lelystad  || ? || Tower || Lelystad ||  || 
+|-
+| Zendmast Markelo || ? || Tower || Markelo ||  || 
+|-
+|  Maasvlakte Power Plant || || Chimney || Rotterdam ||  || ; 
+|- 
+| Radio- en televisietoren Roermond || ? || Tower || Roermond ||  || 
+|-
+| Flarestick of Lyondell Maasvlakte PO-11 || ? || Guyed chimney || Nijmegen ||  || 
+|-
+| Delftse Poort || 1991 || Skyscraper || Rotterdam ||  ||  
+|-
+| Lekkerkerk Powerline Crossing || 1970 || Lattice Tower || Lekkerkerk ||  ||  ; 
+|- 
+|  Nijmegen Power Plant || || Chimney || Nijmegen ||  || 
+|- 
+| Lange Lies || 1953 || Chimney || Heerlen ||  || || Demolished in 1976
+|-
+| Zendmast Zwolle || || Lattice Tower || Zwolle ||  || 
+|-
+| Zendmast Digitenne || || Lattice tower || The Hague ||  || 
+|-
+|  Velson Power Station || || Chimney || Velsen ||  ||  ; 
+|-
+|  Kuwait Petroleum Refinery || || Chimney || Europoort ||  || 
+|- 
+|  Lage Weide Plant || || Chimney || Utrecht ||  || 
+|- 
+| Montevideo || 2005 || Skyscraper || Rotterdam ||  ||  || Including "M" on the roof
+|-
+| NEREFCO-Chimney|| || Chimney || Europoort ||  || 
+|- 
+| KEMA Toren || 1969 || Tower || Arnhem ||  || 
+|-
+|  Maastricht ENCI-Cement Factory|| || Chimney || Maastricht ||  || 
+|- 
+|  Claus Centrale|| || Chimney || Maasbracht ||  || ; 
+|-
+| Botlek || || Chimney || Botlek ||  || 
+|- 
+| Maasvlakte Wind Turbines || || Wind turbine || Rotterdam ||  ||  || 4 Units
+|-
+| Rembrandttower || 1995 || Skyscraper || Amsterdam ||  ||  || Including mast on the roof
+|- 
+| Milleniumtower || 2000 || Skyscraper || Rotterdam ||  ||   || Including mast on the roof
+|-
+| KPN-toren Haarlem || 1972 || Tower || Haarlem ||  || 
+|-
+| Nozema tower Wormer || 1968 || Tower || Wormer ||  || 
+|-
+| Westpoint Tower || 2004  || Skyscraper || Tilburg ||  ||  || Tallest flat in the country
+|-
+| Hoftoren || 2003 || Skyscraper || The Hague ||  || 
+|-
+| Lange Jan || 1937/38 || Chimney || Heerlen ||  || || Demolished in 1976
+|-
+| KPN-toren Den Haag || 1965 || Tower || The Hague ||  || 
+|-
+| Het Strijkijzer || 2007 || Skyscraper || The Hague ||  || 
+|-
+| The Red Apple || 2009 || Skyscraper || Rotterdam ||  ||   || 
+|-
+| World Port Center || 2001 || Skyscraper || Rotterdam ||  ||   || 
+|-
+| De Rotterdam || 2013 || Skyscraper || Rotterdam ||  ||   || 
+|-
+| Dom Tower || 1382 || Church tower || Utrecht ||  ||   || Nave destroyed by tornado in 1674, tower freestanding since
+|}
+

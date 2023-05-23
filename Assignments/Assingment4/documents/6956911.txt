@@ -1,0 +1,12 @@
+Title: Roland VariOS
+
+The Roland VariOS is a production environment with audio editing and sample playback, released by Roland Corporation in 2003. It is based on the technology from the VP-9000 VariPhrase processor, and features the ability to mount two expansion cards.
+
+== Overview ==
+The Roland VariOS is a rack-mounted open-ended variable system module. It is possible to independently manipulate the pitch, time and formant of a sample, add effects and build complete audio-based arrangements—all in a real-time environment and without CPU drain. In addition, the VariOS can emulate analogue synthesisers such as the Roland Jupiter 8 and Roland TB-303.
+
+The VariOS can operate as a stand-alone tool or alongside digital audio sequencers using MIDI clock and MTC sync. V-Producer arrangements can be saved as a Standard MIDI File, and processed audio files can be exported in WAV or AIFF format for use in other editors and software.
+
+== Expansion cards ==
+Two expansion cards were released for the VariOS. The VC-1 emulates a Roland D-50, while the VC-2 can allow vocal processing with an external microphone, with effects such as a vocoder and choir. Roland has not announced plans to release any future expansion cards. Furthermore, it appears the VC-2 is now out of production, with various sources claiming that Roland made a set number of cards in an "estimation" of demand.
+

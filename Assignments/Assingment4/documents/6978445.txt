@@ -1,0 +1,101 @@
+Title: Olsztyn County
+__NOTOC__
+Olsztyn County () is a unit of territorial administration and local government (powiat) in Warmian-Masurian Voivodeship, northern Poland. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat is the city of Olsztyn, although the city is not part of the county (it constitutes a separate city county). The county contains five towns: Dobre Miasto,  north of Olsztyn, Biskupiec,  east of Olsztyn, Olsztynek,  south-west of Olsztyn, Barczewo,  north-east of Olsztyn, and Jeziorany,  north-east of Olsztyn.
+
+The county covers an area of . As of 2006 its total population is 113,529, out of which the population of Dobre Miasto is 10,489, that of Biskupiec is 10,348, that of Olsztynek is 7,591, that of Barczewo is 7,401, that of Jeziorany is 3,376, and the rural population is 74,324.
+
+==Neighbouring counties==
+Apart from the city of Olsztyn, Olsztyn County is also bordered by Lidzbark County and Bartoszyce County to the north, Kętrzyn County and Mrągowo County to the east, Szczytno County to the south-east, Nidzica County to the south, and Ostróda County to the west.
+
+==Administrative division==
+The county is subdivided into 12 gminas (five urban-rural and seven rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km2)
+| style="text-align:center;"|Population(2006)
+| style="text-align:center;"|Seat
+|-
+|Gmina Biskupiec
+|urban-rural
+| style="text-align:right;"|290.4
+| style="text-align:right;"|19,018
+|Biskupiec
+|-
+|Gmina Barczewo
+|urban-rural
+| style="text-align:right;"|319.9
+| style="text-align:right;"|16,525
+|Barczewo
+|-
+|Gmina Dobre Miasto
+|urban-rural
+| style="text-align:right;"|258.7
+| style="text-align:right;"|15,920
+|Dobre Miasto
+|-
+|Gmina Olsztynek
+|urban-rural
+| style="text-align:right;"|372.0
+| style="text-align:right;"|13,666
+|Olsztynek
+|-
+|Gmina Dywity
+|rural
+| style="text-align:right;"|160.7
+| style="text-align:right;"|9,148
+|Dywity
+|-
+|Gmina Jeziorany
+|urban-rural
+| style="text-align:right;"|213.5
+| style="text-align:right;"|8,140
+|Jeziorany
+|-
+|Gmina Purda
+|rural
+| style="text-align:right;"|318.2
+| style="text-align:right;"|7,268
+|Purda
+|-
+|Gmina Jonkowo
+|rural
+| style="text-align:right;"|168.2
+| style="text-align:right;"|5,719
+|Jonkowo
+|-
+|Gmina Gietrzwałd
+|rural
+| style="text-align:right;"|174.1
+| style="text-align:right;"|5,315
+|Gietrzwałd
+|-
+|Gmina Stawiguda
+|rural
+| style="text-align:right;"|222.5
+| style="text-align:right;"|5,134
+|Stawiguda
+|-
+|Gmina Świątki
+|rural
+| style="text-align:right;"|163.8
+| style="text-align:right;"|4,234
+|Świątki
+|-
+|Gmina Kolno
+|rural
+| style="text-align:right;"|178.3
+| style="text-align:right;"|3,442
+|Kolno
+|-
+|}
+
+==External links==
+*Polish official population figures 2006
+
+
+
+ 
+Olsztyn

@@ -1,0 +1,41 @@
+Title: Trend analysis
+Trend analysis is the widespread practice of collecting information and attempting to spot a pattern. In some fields of study, the term has more formally defined meanings.Trend analysis tries to predict a trend like a bull market run and ride that trend until data suggests a trend reversal (e.g. bull to bear market). Trend analysis is ramping up in popularity because moving with trends, and not against them, will lead to profit for an investor. 
+     WebFinance, Inc., Investor-TA Trend analysis Definition: a comparative analysis of a company's financial ratios over time.
+ Iowa State University  Office of Social and Economic Trend Analysis.
+February 2004, John Immerwahr, Public Agenda, Public Attitudes on Higher Education – A Trend Analysis, 1993 to 2003.
+
+
+Although trend analysis is often used to predict future events, it could be used to estimate uncertain events in the past, such as how many ancient kings probably ruled between two dates, based on data such as the average years which other known kings reigned.
+
+==Project management==
+In project management, trend analysis is a mathematical technique that uses historical results to predict future outcome. This is achieved by tracking variances in cost and schedule performance. In this context, it is a project management quality control tool.
+Project Management Book of Knowledge, PMBOK, PMI, 1997, page 334.
+
+PMBOK Ready Reckoner Pages 7 and 8. 
+
+
+==Statistics==
+In statistics, trend analysis often refers to techniques for extracting an underlying pattern of behavior in a time series which would otherwise be partly or nearly completely hidden by noise. If the trend can be assumed to be linear, trend analysis can be undertaken within a formal regression analysis, as described in Trend estimation. If the trends have other shapes than linear, trend testing can be done by non-parametric methods, e.g. Mann-Kendall test, which is a version of Kendall rank correlation coefficient. Smoothing can also be used for testing and visualization of nonlinear trends.
+
+== Text ==
+Trend analysis can be also used for word usage, how words change in the frequency of use in time (diachronic analysis), in order to find neologisms or archaisms. It relates to diachronic linguistics, a field of linguistics which examines how languages change over time. Google provides tool Google Trends to explore how particular terms are trending in internet searches. On the other hand, there are tools which provide diachronic analysis for particular texts which compare word usage in each period of the particular text (based on timestamped marks), see e.g. Sketch Engine diachronic analysis (trends).
+
+
+== See also ==
+* Cool-hunting
+* Extrapolation
+* Horizon scanning
+* Technology forecasting
+* Weather forecasting
+
+== Notes ==
+
+
+== External links ==
+* Trend Analysis in Polls, Topics, Opinions and Answers
+* Megatrends and connected trends download files
+
+Category:Regression with time series structure
+Category:Research methods
+Category:Project management techniques
+Category:Futures techniques

@@ -1,0 +1,34 @@
+Title: Waimoa language
+
+Waimoa or Waimaa is a language spoken by about 18,467 (2010 census) people in northeast East Timor. Waimoa proper is reported to be mutually intelligible with neighboring Kairui and Midiki, with 5,000 speakers total.
+
+The classification of Waimoa is unclear. Structurally, it is Malayo-Polynesian. However, its vocabulary is largely Papuan, similar to that of Makasae.  Although generally classified as Austronesian languages or dialects that have been largely relexified under the influence of a language related to Makasae, it is possible that Waimoa, Kairui, and Midiki are instead Papuan languages related to Makasae which have been influenced by Austronesian.
+
+== Phonology ==
+
+Similarly to other Austronesian languages of the region,Naueti, Midiki, Meto, Helong, etc. Waimoa has aspirated/voiceless and glottalized/ejective consonants, which are distributed like  and  consonant clusters (or perhaps  and ) but are often pronounced as single segments.Kirsten Culhane (2021) Waimaa consonants: phonology and typological position in Greater Timor. 15th International Conference on Austronesian Linguistics.
+
+{| class="wikitable" style="text-align: center;"
+|+Waimoa plosives
+! !! Bilabial !! Coronal !! Velar !! Glottal
+|-
+! Voiceless unaspirated
+|  ||  ||  || 
+|-
+! Voiceless aspirated
+|  ||  ||  ||
+|-
+! Voiceless ejective
+|  ||  ||  ||
+|-
+! Voiced plain
+|  ||  ||  ||
+|}
+
+Similarly there are voiceless and glottalized . 
+
+There is also vowel harmony.
+
+==See also==
+*Kawaimina
+

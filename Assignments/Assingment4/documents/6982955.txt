@@ -1,0 +1,114 @@
+Title: Jakarta XML Web Services
+
+
+The Jakarta XML Web Services (JAX-WS; formerly Java API for XML Web Services) is a Jakarta EE API for creating web services, particularly SOAP services. JAX-WS is one of the Java XML programming APIs.
+
+==Overview==
+The JAX-WS 2.2 specification JSR 224 defines a standard Java- to-WSDL mapping which determines how WSDL operations are bound to Java methods when a SOAP message invokes a WSDL operation. This Java-to-WSDL mapping determines which Java method gets invoked and how that SOAP message is mapped to the method’s parameters.
+
+This mapping also determines how the method’s return value gets mapped to the SOAP response.
+
+JAX-WS uses annotations, introduced in Java SE 5, to simplify the development and deployment of web service clients and endpoints. It is part of the Java Web Services Development Pack. JAX-WS can be used in Java SE starting with version 6. JAX-WS 2.0 replaced the JAX-RPC API in Java Platform, Enterprise Edition 5 which leans more towards document style Web Services.
+
+This API provides the core of Eclipse Metro.
+
+JAX-WS also is one of the foundations of WSIT.
+
+==Standards Supported==
+* JAX-WS 2.0/2.1/2.2 (JSR 224)
+* WS-I Basic Profile 1.2 and 2.0
+* WS-I Attachments Profile 1.0
+* WS-I Simple SOAP Binding Profile 1.0
+* WS-Addressing 1.0 - Core, SOAP Binding, WSDL Binding
+
+==Main JWS Packages==
+{|class="wikitable" width="80%"
+|-
+!Package !!Description
+|-
+|javax.xml.ws
+|Has the Core JAX-WS APIs
+|-
+|javax.xml.ws.http
+|Has APIs specific to XML/HTTP Binding
+|-
+|javax.xml.ws.soap
+|Has APIs specific to SOAP/HTTP Binding
+|-
+|javax.xml.ws.handler
+|Has APIs for message handlers
+|-
+|javax.xml.ws.spi
+|defines SPIs for JAX-WS
+|-
+|javax.xml.ws.spi.http
+|Provides HTTP SPI that is used for portable deployment of JAX-WS in containers
+|-
+|javax.xml.ws.wsaddressing
+|Has APIs related to WS-Addressing
+|-
+|javax.jws
+|Has APIs specific to Java to WSDL mapping annotations
+|-
+|javax.jws.soap
+|Has APIs for mapping the Web Service onto the SOAP protocol
+|-
+|}
+
+==XML Web Services related Specs==
+{| class="wikitable" width="60%"
+| colspan="4" align="center"|Java EE 7
+|-
+|-
+! Specification!!Version !! Stds. Body!! JSR/Url
+|-
+|JAX-WS
+|2.3
+|JCP
+|224
+|-
+|Web Services
+|1.3
+|JCP
+|109
+|-
+|WS Metadata
+|2.1
+|JCP
+|181
+|-
+|JAXB
+|2.2
+|JCP
+|222
+|-
+|SAAJ
+|1.3
+|JCP
+|67
+|-
+|SOAP
+|1.2
+|W3C
+|soap
+|-
+|XML
+|1.1
+|W3C
+|xml
+|-
+|WSDL
+|1.1
+|W3C
+|wsdl
+|-
+|}
+
+==Implementations==
+*Eclipse Metro in Eclipse Enterprise for Java (EE4J)
+*Apache CXF
+*Apache Axis2
+*JBossWS in WildFly
+*IBM WebSphere Jax-Ws in WebSphere
+*Oracle Weblogic
+

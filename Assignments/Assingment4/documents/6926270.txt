@@ -1,0 +1,576 @@
+Title: 2006 Minnesota Vikings season
+
+The 2006 season was the Minnesota Vikings' 46th in the National Football League. Under new head coach Brad Childress, the team finished with a 6–10 record; however, they led the league in rushing defense, surrendering only 985 rushing yards; they are one of only two franchises in NFL history to allow fewer than 1,000 rushing yards in a 16-game season (the other was the Super Bowl champion Baltimore Ravens in 2000).
+
+
+
+==Offseason==
+On January 6, 2006, the Vikings hired Brad Childress to take over from Mike Tice as head coach, making them the first team to hire a new head coach during the 2006 offseason. Childress previously held the quarterbacks coach position with the Philadelphia Eagles from 1999 to 2002, and was the offensive coordinator from 2002 to 2005; he was also offensive coordinator for the Wisconsin Badgers from 1993 to 1999 under Barry Alvarez.
+
+===2006 Draft===
+
+
+{| class="wikitable"
+|-
+|style="background-color:lightsteelblue;border:1px solid #aaaaaa;width:2em"|
+|Pro Bowler
+|}
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="7" style=""| 2006 Minnesota Vikings Draft
+|-
+!colspan="2" style=""| Draft order
+!rowspan="2" style=""| Player name
+!rowspan="2" style=""| Position
+!rowspan="2" style=""| College
+!rowspan="2" style=""| Contract
+!rowspan="2" style=""| Notes
+|-
+!style=""| Round
+!style=""| Selection
+|-
+! 1
+! 17
+|bgcolor=lightsteelblue| Chad Greenway
+| Linebacker
+| Iowa
+| 5 years
+| 
+|-
+!rowspan="3"| 2
+! 48
+| Cedric Griffin
+| Cornerback
+| Texas
+| 4 years
+| 
+|-
+! 51
+| Ryan Cook
+| Center
+| New Mexico
+| 4 years
+| from Dolphins
+|-
+! 64
+| Tarvaris Jackson
+| Quarterback
+| Alabama State
+| 4 years
+| from Steelers
+|-
+!rowspan="2"| 3
+! 83
+|colspan="4"| Traded to the Pittsburgh Steelers
+|
+|-
+! 95
+|colspan="4"| Traded to the Pittsburgh Steelers
+| from Seahawks
+|-
+!rowspan="2" | 4
+! 115
+|colspan="4"| Traded to the Philadelphia Eagles
+|
+|-
+! 127
+| Ray Edwards
+| Defensive end
+| Purdue
+| 4 years
+| from Colts via Eagles
+|-
+! 5
+! 149
+| Greg Blue
+| Safety
+| Georgia
+| 4 years
+| 
+|-
+! 6
+! 185
+|colspan="4"| Traded to the Philadelphia Eagles
+|
+|-
+! 7
+! 227
+|colspan="4"| Traded to the San Diego Chargers
+|
+|}
+: The Vikings traded QB Daunte Culpepper to the Miami Dolphins in exchange for Miami's second-round selection (51st overall).
+: The Vikings traded their third-round selection (83rd overall) and the third-round selection they received from Seattle (95th overall) to the Pittsburgh Steelers in exchange for Pittsburgh's second-round selection (64th overall).
+: The Vikings received Seattle's third-round selection (95th overall) as compensation for restricted free agent WR Nate Burleson.
+: The Vikings traded their fourth- and sixth-round selections (115th and 185th overall) to the Philadelphia Eagles in exchange for Philadelphia's fourth-round selection (127th overall) and G Artis Hicks.
+: The Vikings traded their seventh-round selection (227th overall) to the San Diego Chargers in exchange for G Toniu Fonoti.
+
+===Transactions===
+{| class="wikitable"
+|+ Re-signed
+|-
+! Player !! Position !! Status !! Contract
+|-
+| Bryant McKinnie || OT || Free agent || 7 years ($48.5 million)
+|-
+| E.J. Henderson || LB || Free agent || 5 years ($25 million)
+|-
+| Kevin Williams || DT || Free agent || 7 years ($50 million)
+|-
+| Cullen Loeffler || LS || Free agent ||
+|-
+| Jeff Dugan || FB || Free agent || 5 years ($4.5 million)
+|}
+
+{| class="wikitable"
+|+Additions
+|-
+!Player!!Position!!Status (previous team)!!Contract
+|-
+|Ben Leber||LB||Free agent (SD)||5 years ($20 million)
+|-
+|Ryan Longwell||K||Free agent (GB)||5 years ($10 million)
+|-
+|Chester Taylor||RB||Free agent (BAL)||4 years ($14.1 million)
+|-
+|Steve Hutchinson||G||Restricted (SEA)||7 years ($49 million)
+|-
+|Tony Richardson||FB||Unrestricted (KC)||2 years ($2.5 million)
+|-
+|Tank Williams||SS||Free agent (TEN)||1 year ($900,000)
+|-
+|Jason Whittle||G||Free agent (NYG)||1 year ($695,000)
+|-
+|Ronyell Whitaker||CB||Free agent (TB)||
+|-
+|Dwight Smith||FS||Free agent (NO)||
+|-
+|Artis Hicks||G||Trade (PHI)||
+|-
+|Billy McMullen||WR||Trade (PHI)||
+|-
+|Artose Pinner||RB||Claimed off waivers (DET)||
+|-
+|Ross Kolodziej||DT||Free agent (ARI)||
+|-
+|Jason Glenn||LB||Free agent (NYJ)||
+|-
+|Bethel Johnson||WR||Free agent (NO)||
+|-
+|Rod Davis||LB||Free agent (CAR)||
+|-
+|Naufahu Tahi||FB||Signed from practice squad (CIN)||
+|-
+|Brooks Bollinger||QB||Trade (NYJ)||
+|-
+|Mike Hawkins||CB||Claimed off waivers (CLE)||
+|-
+|Martin Nance||WR||Free agent (BUF)||
+|-
+|Maurice Mann||WR||Free agent (SEA)||
+|}
+
+{| class="wikitable"
+|+Departures
+|-
+!Player!!Position!!Status (new team)!!Contract
+|-
+|Michael Bennett||RB||Free agent (KC)||
+|-
+|Brian Williams||CB||Free agent (JAC)||
+|-
+|Corey Chavous||SS||Free agent (STL)||
+|-
+|Daunte Culpepper||QB||Trade (MIA)||
+|-
+|Melvin Fowler||C||Unrestricted (BUF)||
+|-
+|Nate Burleson||WR||Restricted free agent (SEA)||
+|-
+|Raonall Smith||LB||Unrestricted (STL)||
+|-
+|Lance Johnstone||DE||Unrestricted (OAK)||
+|-
+|Hank Baskett||WR||Trade (PHI)||
+|-
+|Shaun Hill||QB||Unrestricted (SF)||
+|-
+|Cory Withrow||C||Unrestricted (SD)||
+|-
+|Koren Robinson||WR||Free agent (GB)||
+|-
+|Chris Liwienski||G||Free agent (ARI)||
+|-
+|Dustin Fox||CB||Free agent (PHI)||
+|-
+|C. J. Mosley||DT||Trade (NYJ)||
+|}
+
+==Preseason==
+===Schedule===
+{| class="wikitable" style="text-align:center"
+|-
+!style=""| Week
+!style=""| Date
+!style=""| Opponent
+!style=""| Result
+!style=""|  Record
+!style=""| Venue
+!style=""| Attendance
+!style=""| NFL.comrecap
+|- style="background:#fcc"
+! 1
+| August 14
+| Oakland Raiders
+| L 13–16
+| 0–1
+| Hubert H. Humphrey Metrodome
+| 63,278
+| Recap
+|- style="background:#cfc"
+! 2
+| August 19
+| at Pittsburgh Steelers
+| W 17–10
+| 1–1
+| Heinz Field
+| 57,813
+| Recap
+|- style="background:#cfc"
+! 3
+| August 25
+| Baltimore Ravens
+| W 30–7
+| 2–1
+| Hubert H. Humphrey Metrodome
+| 63,257
+| Recap
+|- style="background:#ffc"
+! 4
+| August 31
+| at Dallas Cowboys
+| T 10–10 
+| 2–1–1
+| Texas Stadium
+| 60,299
+| Recap
+|}
+
+===Game summaries===
+====Week 1: vs. Oakland Raiders====
+
+
+====Week 2: at Pittsburgh Steelers====
+
+
+====Week 3: vs. Baltimore Ravens====
+
+
+====Week 4: at Dallas Cowboys====
+
+
+==Regular season==
+
+===Schedule===
+{| class="wikitable" style="text-align:center"
+|-
+!style=""| Week
+!style=""| Date
+!style=""| Opponent
+!style=""| Result
+!style=""| Record
+!style=""| Venue
+!style=""| Attendance
+!style=""| NFL.comrecap
+|- style="background:#ddffdd"
+!1
+|September 11
+|at Washington Redskins
+|W 19–16
+|1–0
+|FedExField
+|90,608
+|Recap
+|- style="background:#ddffdd"
+!2
+|September 17
+|Carolina Panthers
+|W 16–13 
+|2–0
+|Hubert H. Humphrey Metrodome
+|63,623
+|Recap
+|- style="background:#ffdddd"
+!3
+|September 24
+|Chicago Bears
+|L 16–19
+|2–1
+|Hubert H. Humphrey Metrodome
+|63,754
+|Recap
+|- style="background:#ffdddd"
+!4
+|October 1
+|at Buffalo Bills
+|L 12–17
+|2–2
+|Ralph Wilson Stadium
+|71,972
+|Recap
+|- style="background:#ddffdd"
+!5
+|October 8
+|Detroit Lions
+|W 26–17
+|3–2
+|Hubert H. Humphrey Metrodome
+|63,906	
+|Recap
+|-
+!6
+|colspan="7" align="center"|Bye
+|- style="background:#ddffdd"
+!7
+|October 22
+|at Seattle Seahawks
+|W 31–13
+|4–2
+|Qwest Field
+|68,118
+|Recap
+|- style="background:#ffdddd"
+!8
+|October 30
+|New England Patriots 
+|L 7–31
+|4–3
+|Hubert H. Humphrey Metrodome
+|63,819
+|Recap
+|- style="background:#ffdddd"
+!9
+|November 5
+|at San Francisco 49ers
+|L 3–9
+|4–4
+|Monster Park
+|68,088
+|Recap
+|- style="background:#ffdddd"
+!10
+|November 12
+|Green Bay Packers
+|L 17–23
+|4–5
+|Hubert H. Humphrey Metrodome
+|63,924
+|Recap
+|- style="background:#ffdddd"
+!11
+|November 19
+|at Miami Dolphins
+|L 20–24
+|4–6
+|Dolphin Stadium
+|73,070
+|Recap
+|- style="background:#ddffdd"
+!12
+|November 26
+|Arizona Cardinals
+|W 31–26
+|5–6
+|Hubert H. Humphrey Metrodome
+|63,483
+|Recap
+|- style="background:#ffdddd"
+!13
+|December 3
+|at Chicago Bears
+|L 13–23
+|5–7
+|Soldier Field
+|62,221
+|Recap
+|- style="background:#ddffdd"
+!14
+|December 10
+|at Detroit Lions
+|W 30–20
+|6–7
+|Ford Field
+|60,861	
+|Recap
+|- style="background:#ffdddd"
+!15
+|December 17
+|New York Jets
+|L 13–26
+|6–8
+|Hubert H. Humphrey Metrodome
+|63,677
+|Recap
+|- style="background:#ffdddd"
+!16
+|December 21
+|at Green Bay Packers
+|L 7–9
+|6–9
+|Lambeau Field
+|70,864
+|Recap
+|- style="background:#ffdddd"
+!17
+|December 31
+|St. Louis Rams
+|L 21–41
+|6–10
+|Hubert H. Humphrey Metrodome
+|63,557	
+|Recap
+|}
+
+===Game summaries===
+====Week 1: at Washington Redskins====
+
+The Vikings started the regular season on the road against the Washington Redskins on September 11, the first game of a Monday Night Football doubleheader on opening weekend. The Vikings drew first blood as running back Chester Taylor ran in a 4-yard touchdown on their opening drive; however, during the extra-point try, holder Chris Kluwe fumbled the snap and instead tried to go for a two-point conversion, which failed. The Vikings lead was cut in half later in the quarter, as Redskins kicker John Hall made a 27-yard field goal. In the second quarter, things were starting to look grim for the Vikings, as Redskins running back Clinton Portis and kicker Hall gave the Redskins a 5-yard touchdown run and another 27-yard field goal to make the score 13–6. The Vikings responded with a last-second 46-yard field goal from kicker Ryan Longwell to close the first half. In the third quarter, the Vikings continued their comeback as quarterback Brad Johnson threw a 20-yard touchdown pass to wide receiver Marcus Robinson to give Minnesota a 16–13 lead. However, the Redskins tied the game up on a 22-yard field goal by Hall. Late in the fourth quarter, Longwell gave the Vikings a 19–16 lead, as he kicked a 31-yard field goal. During the final minute of the game, the Vikings held their ground and hung on to give Brad Childress his first head coaching win, as Hall missed a 48-yard field goal for the home side.
+
+====Week 2: vs. Carolina Panthers====
+
+In their Week 2 home-opener, the Vikings faced the Carolina Panthers in a low-scoring fight. The Vikings drew first blood with a 26-yard field goal by kicker Ryan Longwell. In the second quarter, Carolina got a field goal with opposing kicker John Kasay. The Vikings responded with another Longwell field goal from 22 yards, but they fell before halftime with opposing running back DeAngelo Williams getting a 3-yard run for the Panthers. The Vikings trailed a bit further in the third quarter, as Karney kicked a 26-yard field goal. The Vikings started their own comeback. In the fourth quarter, Longwell faked a field goal try and threw a 16-yard touchdown pass to fullback Richard Owens to tie the game up going into overtime. In the extra period, Longwell booted the game-winning 19-yard field goal to give Minnesota the win. It was the first time in Vikings history that a coach started 2–0 in his first year.
+
+====Week 3: vs. Chicago Bears====
+
+Staying at home, the Vikings played a fierce NFC North fight with the Chicago Bears. In the first quarter, Minnesota got on the board first with kicker Ryan Longwell completing a 31-yard field goal, but the Bears tied it up via a 41-yard field goal from kicker Robbie Gould. In the second quarter, Longwell put the Vikings back in front with a 26-yard field goal, the only score of the period. In the third quarter, Minnesota began to trail, as Gould kicked a 24-yard and a 31-yard field goal to give Chicago a small lead. In the fourth quarter, the Vikings retook the lead as cornerback Antoine Winfield returned an interception 7 yards for a touchdown. Gould kicked a 49-yard field goal, but Longwell answered with a 41-yard field goal for the Vikings. The Vikings fell to their doom, as Chester Taylor fumbled and the Bears quarterback Rex Grossman completed a 24-yard touchdown pass to wide receiver Rashied Davis, which gave the Vikings their first loss of the year. Of the first five games played by the Bears in the 2006 season, this was the closest game. All others have been decided by at least 26 points.
+
+====Week 4: at Buffalo Bills====
+
+Hoping to rebound from the previous week's loss, the Vikings traveled to Ralph Wilson Stadium for a match-up with the Buffalo Bills. In the first quarter, the Vikings drew first blood as kicker Ryan Longwell nailed a 37-yard field goal for the only score of the period. In the second quarter, Minnesota got into a tiny hole, as Bills running back Willis McGahee got a 1-yard touchdown run. Longwell gave the Vikings a 49-yard field goal as time ran out of the first half, but in the third quarter, the Vikes found themselves in a bit of a hole, as Buffalo quarterback J. P. Losman connected with wide receiver Peerless Price on an 8-yard touchdown pass for the only score of the period. In the fourth quarter, Minnesota trailed even further, as Bills kicker Rian Lindell got a 28-yard field goal. The Vikings tried to come back, as quarterback Brad Johnson completed a 29-yard touchdown pass to wide receiver Marcus Robinson. The two-point conversion failed and during their next drive, they ran out of time. With their loss, the Vikings fell to 2–2.
+
+====Week 5: vs. Detroit Lions====
+
+After dropping two straight games, the Vikings came home for an NFC North fight with the Detroit Lions. The Vikings struck first with a 26-yard field goal, which were the only points scored in the first quarter. The Vikings did not score again until the fourth quarter. Detroit got close, but Napoleon Harris got the first interception of his five-year career at the end of the first. In the second quarter, Detroit quarterback Jon Kitna ran 8 yards to score a touchdown, putting the Lions ahead 7–3. Detroit's next drive resulted in a field goal to put them ahead 10–3. In the third quarter, Detroit recovered a Vikings fumble and then go on to score another touchdown to bring their lead to 17–3. In the first minute of the fourth quarter, the Vikings' Travis Taylor scored a touchdown on a three-yard reception to bring the score to 17–10. The Lions' next drive ended in a forced fumble when Pat Williams burst through the line untouched and Kitna lost the ball, which was picked up by the Vikings' Ben Leber in the end zone for a touchdown; however, the extra point was blocked, leaving the score at 17–16. With a 4th-and-1 for the Vikings on the Lions' 34, kicker Ryan Longwell pooch-punted the ball to the Lions' 7. Later, the Vikings scored a 20-yard field goal to take the lead at 19–17. Detroit then threw an interception on 4th-and-10 to E.J. Henderson, who ran 45 yards to score a touchdown, bringing the score to 26–17. The Vikings' Darren Sharper got an interception in the last minute to seal the victory, bringing the Vikings' record up to 3–2.
+
+====Week 7: at Seattle Seahawks====
+
+Coming off their bye week, the Vikings flew to Qwest Field and took on the Seattle Seahawks. In the first quarter, the Vikes drew first blood with kicker Ryan Longwell nailing a 33-yard field goal. Afterwards, the Seahawks responded with quarterback Matt Hasselbeck completing a 72-yard touchdown pass to wide receiver Darrell Jackson. In the second quarter, Seattle improved its lead with kicker Josh Brown kicking a 42-yard field goal. Minnesota responded with quarterback Brad Johnson completing a 40-yard touchdown pass to wide receiver Marcus Robinson. In the third quarter, the Vikings managed to retake the lead with running back Mewelde Moore throwing a 15-yard option pass to tight end Jermaine Wiggins, while running back Chester Taylor ran 95 yards for a touchdown (the longest rushing touchdown play in franchise history). In the fourth quarter, the Seahawks had Brown kick a 26-yard field goal. The Vikes pulled away and won with defensive tackle Kevin Williams recovering a Seattle fumble in their endzone. With the win, Minnesota improved to 4–2.
+
+====Week 8: vs. New England Patriots====
+
+The Vikes fell to 4–3 with a loss at home on Monday Night Football to the New England Patriots.
+
+The Pats, who came out passing instead of bothering to even try challenging the Vikings rush defense, got out to an early lead on the opening drive as quarterback Tom Brady hit wide receiver Reche Caldwell for a 6-yard touchdown pass. Kicker Stephen Gostkowski connected on a 23-yard field goal early in the second quarter. Brady threw his second of what turned out to be four touchdown passes, this time to tight end Benjamin Watson just before halftime to give the Pats a 17–0 lead. The Vikes finally got on the board as running back Mewelde Moore returned a punt 71 yards for a touchdown early in the third quarter. That was all the Vikings could muster as Brady threw his final two touchdowns to wide receivers Troy Brown and Chad Jackson respectively to close out the scoring.
+
+====Week 9: at San Francisco 49ers====
+
+Hoping to rebound from their disappointing home loss to the Patriots, the Vikings flew to Monster Park for a Week 9 clash with the San Francisco 49ers. In the first quarter, the Vikings scored first, as kicker Ryan Longwell completed a 21-yard field goal for the only score of the period. In the second quarter, the 49ers get two Joe Nedney field goals (a 25-yarder and a 30-yarder) and take the lead. After a scoreless third quarter, Nedney put the game away for San Francisco as he nailed a 51-yard field goal. With another loss, the Vikes fell to 4–4.
+
+====Week 10: vs. Green Bay Packers====
+
+Trying to end their two-game skid, the Vikings flew home for an NFC North fight with the Green Bay Packers. In the first quarter, the Vikings trailed early as Packers kicker Dave Rayner nailed a 20-yard field goal, while quarterback Brett Favre completed a 5-yard touchdown pass to running back Noah Herron. In the second quarter, the Vikes took the lead as quarterback Brad Johnson completed a 40-yard touchdown pass to wide receiver Billy McMullen. Afterwards, McMullen recovered a fumble within the Packers end zone for another touchdown. However, Green Bay retook the lead with Favre completing an 82-yard touchdown pass to wide receiver Donald Driver. In the third quarter, Rayner helped the Packers with a 24-yard field goal for the only score of the period. In the fourth quarter, Rayner kicked one more field goal for Green Bay, as he kicked a 29-yard field goal. Minnesota tried to fight back, but all they could get was kicker Ryan Longwell nailing a 34-yard field goal. With their third-straight loss, the Vikings fell to 4–5.
+
+====Week 11: at Miami Dolphins====
+
+Trying to stop a three-game skid, the Vikings flew to Dolphin Stadium for an interconference fight with the Miami Dolphins. In the first quarter, the Vikes struck first with running back Chester Taylor getting a 1-yard touchdown run for the only score of the period. However, in the second quarter, the Dolphins took the lead with kicker Olindo Mare getting a 44-yard field goal, while quarterback Joey Harrington completed an 11-yard touchdown pass to tight end Justin Peelle. In the third quarter, Minnesota tied the game with kicker Ryan Longwell nailing a 35-yard field goal. Afterwards, in the fourth quarter, Longwell kicked a 19-yard field goal to help the Vikings retake the lead. However, Miami's defense made some huge stops on the Vikes, with free safety Renaldo Hill returning a fumble 48 yards for a touchdown, while defensive end Jason Taylor returned an interception 51 yards for a touchdown. The only response that Minnesota could muster was on the final offensive play of the game, as Taylor got another 1-yard touchdown run. With their fourth-straight loss, the Vikings fell 4–6.
+
+====Week 12: vs. Arizona Cardinals====
+
+Hoping to end their four-game skid, the Vikings returned home for a Week 12 fight against the Arizona Cardinals. This game was notable for the return of Head Coach Dennis Green, who formerly coached the Vikings and now works for the Cardinals. Right out of the gate, the Vikes trailed early as Cardinals running back J. J. Arrington returned the opening kickoff 99 yards for a touchdown. The Vikings responded with running back Chester Taylor getting a 1-yard touchdown run. In the second quarter, Cards kicker Neil Rackers helped increase Arizona's lead with a 21-yard and a 50-yard field goal. Afterwards, Minnesota struck back with quarterback Brad Johnson completing a 17-yard touchdown pass to wide receiver Marcus Robinson. In the third quarter, the Vikings took the lead with Johnson completing a 9-yard touchdown pass to rookie wide receiver Billy McMullen, while kicker Ryan Longwell nailed a 40-yard field goal. In the fourth quarter, the Vikes managed to put the icing on the game with Johnson completing a 3-yard touchdown pass to fullback Jeff Dugan. The Cardinals tried to fight back, with Strong Safety Adrian Wilson returning a fumble 99 yards for a touchdown (with a failed two-point conversion) and quarterback Matt Leinart completing a 9-yard touchdown pass to wide receiver Anquan Boldin. Minnesota held on to snap its four-game losing streak. With the win, the Vikings improved to 5–6.
+
+====Week 13: at Chicago Bears====
+
+Trying to build on their win over the Cardinals, the Vikings flew to Soldier Field for an NFC North rematch with the Chicago Bears. After a scoreless first quarter, the Bears drew first blood in the second quarter with defensive back Devin Hester returning a punt 45 yards for a touchdown. Afterwards, Minnesota had kicker Ryan Longwell nail a 23-yard field goal. In the third quarter, Longwell kicked a 30-yard field goal, but that was as close as the Vikings got to Chicago in the game, because after Longwell's field goal, the Bears took over with defensive back Ricky Manning, Jr. returning an interception 54 yards for a touchdown, while running back Cedric Benson got a 24-yard touchdown run. By the time the fourth quarter came around, quarterback Brad Johnson was benched for the game, due to throwing four interceptions. Back-up quarterback Brooks Bollinger took over, but he fare any better, as he got sacked in his own end zone by defensive tackle Tank Johnson for a safety. Afterwards, the Vikings had their only successful drive of the game with running back Ciatrick Fason getting a 4-yard touchdown run. Afterwards, Bollinger sprained his left arm during a sack, so rookie quarterback Tarvaris Jackson came in to finish the game. With the loss, Minnesota fell to 5–7.
+
+====Week 14: at Detroit Lions====
+
+After getting swept by the Bears, the Vikings flew to Ford Field for an NFC North rematch with the Detroit Lions. In the first quarter, running back Artose Pinner (a former Lion) helped Minnesota gain an early lead with a 3-yard and a 4-yard touchdown run. In the second quarter, quarterback Brad Johnson got a 3-yard touchdown run, yet it was followed up with a failed two-point conversion. Detroit retaliated with defensive back Jamar Fletcher returning an interception 88 yards for a touchdown, while kicker Jason Hanson kicked a 53-yard field goal. In the third quarter, the Vikes got a 30-yard field goal from kicker Ryan Longwell, yet Detroit's Hanson nailed a 45-yard field goal. In the fourth quarter, Pinner helped wrap the game up with a 1-yard touchdown run. Even though Lions quarterback Jon Kitna completed a 23-yard touchdown pass to running back Kevin Jones, Minnesota held on to sweep Detroit. With the win, the Vikings improved to 6–7.
+
+====Week 15: vs. New York Jets====
+
+Following their win over the Lions, the Vikings went home for a Week 15 interconference fight with the New York Jets. In the first quarter, the Vikes took an early lead with quarterback Brad Johnson completing a 30-yard touchdown pass to wide receiver Travis Taylor. However, the Jets struck back with running back Cedric Houston with a 6-yard touchdown run. In the second quarter, things got bad for Minnesota. First, New York got a 25-yard field goal from kicker Mike Nugent. Then, quarterback Chad Pennington completed a 21-yard touchdown pass to wide receiver Laveranues Coles. Afterwards, Nugent kicked a 52-yard and a 45-yard field goal. In the third quarter, the Jets' lead increased with Nugent's 20-yard field goal for the only score of the period. In the fourth quarter, rookie quarterback Tarvaris Jackson came in a completed a 35-yard touchdown pass to running back Mewelde Moore. That was the only response from the Purple People Eaters. With the loss, the Vikings fell to 6–8.
+
+====Week 16: at Green Bay Packers====
+
+Trying to keep their slim playoff hopes alive, the Vikings flew to Lambeau Field for an NFC North rematch with the Green Bay Packers in a Thursday night fight. For this game, Minnesota gave rookie quarterback Tarvaris Jackson the start. In the first half, the Packers took an early lead as kicker Dave Rayner nailed a 38-yard field goal in the first quarter and a 44-yard field goal in the second quarter. In the third quarter, the Vikes took the lead with cornerback Fred Smoot returning an interception 47 yards for a touchdown. In the fourth quarter, Rayner gave Green Bay the win with a 44-yard field goal. With the loss, not only did the Vikings fall to 6–9, but they also got eliminated from the NFC playoff race.
+
+A huge cause for Minnesota's loss was that the offense was only able to get three first downs the entire game. Also, in keeping with the fact that the Vikings were the most penalized team in the league in 2006, they committed 10 penalties for a loss of 68 yards.
+
+====Week 17: vs. St. Louis Rams====
+
+Trying to end their season on a high note, the Vikings went home for a Week 17 intraconference fight with the St. Louis Rams. In the first quarter, Minnesota trailed early as Rams defensive back Ronald Bartell returned an interception 38 yards for a touchdown. Also, kicker Jeff Wilkins helped St. Louis with a 42-yard field goal. Afterwards, the Vikings managed to score with quarterback Tarvaris Jackson getting a 1-yard touchdown run. However, in the second quarter, things got worse for the Vikes as Rams running back Steven Jackson got a 4-yard touchdown run and even a 10-yard touchdown pass from quarterback Marc Bulger. In the third quarter, things continued to get worse for Minnesota as Wilkins kicked a 53-yard field goal, while Jackson got a 2-yard touchdown run. In the fourth quarter, St. Louis wrapped up its domination with Jackson with a 59-yard touchdown run. Afterwards, the Vikes got its remaining points with running back Chester Taylor getting a 1-yard touchdown run, while Tarvaris Jackson completed a 3-yard touchdown pass to wide receiver Travis Taylor. With three straight losses to close out the season, the Vikings finished at 6–10.
+
+===Standings===
+
+
+==Statistics==
+
+===Team leaders===
+{| class="wikitable" style="text-align:center"
+|-
+!width=150px style=""| Category 
+!width=150px style=""| Player(s) 
+!width=75px style=""| Value
+|-
+| Passing yards || Brad Johnson || 2,750
+|-
+| Passing touchdowns || Brad Johnson || 9
+|-
+| Rushing yards || Chester Taylor || 1,216
+|-
+| Rushing touchdowns || Chester Taylor || 6
+|-
+| Receiving yards || Travis Taylor || 651
+|-
+| Receiving touchdowns || Marcus Robinson || 4
+|-
+| Points || Ryan Longwell || 90
+|-
+| Kickoff return yards || Bethel Johnson || 1,054 
+|-
+| Punt return yards || Mewelde Moore || 364
+|-
+| Tackles ||E. J. Henderson || 110 
+|-
+| Sacks || Darrion Scott || 5.5 
+|-
+| Interceptions || Darren Sharper  Dwight Smith <BR> Antoine Winfield || 4
+|-
+| Forced fumbles || Ben Leber || 3
+|}
+
+===League rankings===
+{| class="wikitable" style="text-align:center"
+|-
+!width=150px style=""| Category 
+!width=100px style=""| Total yards 
+!width=110px style=""| Yards per game 
+!width=80px style=""| NFL rank
+|-
+| Passing offense || 3,123 || 195.2 || 18th
+|-
+| Rushing offense || 1,820 || 113.8 || 16th
+|-
+| Total offense || 4,943 || 308.9 || 23rd
+|-
+| Passing defense || 3,818 || 238.6 || 31st (tied)
+|-
+| Rushing defense || 985 || 61.6 || 1st 
+|-
+| Total defense || 4,803 || 300.2 || 8th
+|}
+
+==Staff==
+
+
+==Final roster==
+
+
+
+
+
+
+
+Minnesota
+Category:Minnesota Vikings seasons
+Minnesota

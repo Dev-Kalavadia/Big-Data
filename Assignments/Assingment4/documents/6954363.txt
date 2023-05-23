@@ -1,0 +1,147 @@
+Title: No. 63 Squadron RAF
+
+
+
+
+
+Number 63 Squadron was a bomber aircraft and training squadron of the Royal Air Force that was active during various periods from 1916 to 1992. Originally using De Havilland DH4 aircraft in World War I, it was last equipped with BAe Hawk jet trainers.
+
+==History==
+===First World War===
+No. 63 Squadron was formed on 31 August 1916 at Stirling, Scotland as a squadron of the Royal Flying Corps. The squadron was intended to operate as a day-bomber unit over the Western Front in France, and was therefore equipped with de Havilland DH4 aircraft; however at the last minute the squadron was re-tasked to operate against the Turkish army in Mesopotamia (Iraq) and was re-equipped with R.E.8's for its new mission, when the squadron arrived in the Middle East in August 1917. No. 63 Squadron remained in Mesopotamia for the rest of the war, and it was disbanded on 29 February 1920.
+
+===Inter-war===
+In February 1937, now as a Royal Air Force unit, the squadron was refounded at Andover, Hampshire as a bomber unit, and three months later became the first unit to receive the Fairey Battle aircraft. Early in 1939 the unit was assigned an aircrew training role, and received a number of Avro Ansons, but the unit lost its separate identity in April 1940 when it became a part of No. 12 OTU.
+
+===Second World War===
+On 15 June 1942 No. 63 Squadron was reformed from part of No. 239 Squadron at RAF Gatwick, West Sussex with Alison engined North American Mustang I's. In January 1944 the squadron moved to RAF Turnhouse in Scotland and was re-equipped with Hawker Hurricane IV's in April 1944, converting to Supermarine Spitfire VB's in early May 1944. By the end of May the squadron was based at RNAS Lee-on-Solent, preparing for D-Day. During the allied landings 63 Squadron flew spotter flights above the Royal Navy, providing a form of Forward Air Control (FAC) for the naval gunners supporting the troops on land. The pilots of the squadron at this stage were drawn from former Army co-operation units, The Royal Marines and  as well as the RAF. On 20 September 1944 the squadron relocated to RAF North Weald. The squadron was disbanded on 1 February 1945.
+
+===Post-war: enter the jets===
+thumb|A Hawker Hunter fighter jet in the markings of No. 63 Sqn
+No. 164 Squadron was renumbered as No. 63 Squadron on 1 September 1946, using Spitfires. In April 1948, the squadron was re-equipped with Gloster Meteor jet fighters. The squadron moved to Waterbeach, Cambridgeshire, in  May 1950, where it remained until it was disbanded on 31 October 1958, having operated Hawker Hunter fighters for the last two years.
+thumb|left|Operational Hawker Hunter F.6 of No. 63 (Shadow) Squadron at its RAF Chivenor base in 1969.
+63 Squadron reformed as a 'Shadow' unit for the Day Fighter Combat Squadron of the Central Fighter Establishment from 30 November 1958 until 1 June 1963. On the same day the number was transferred to No. 229 Operational Conversion Unit. based at RAF Chivenor, North Devon, as the 'Shadow' designation for one of its constituent squadrons. On 2 September 1970 No. 229 OCU was re-designated as the Tactical Weapons Unit and 63 squadron remained one of its 'Shadow' units. 63 squadron was transferred to No 2 TWU at RAF Chivenor, initially operating Hawker Hunter aircraft, and later, the BAE Hawk and when that unit was redesignated No 7 FTS on 1 April 1992, 63 Squadron remained a component part until 23 September 1992; when 63 Squadron last disbanded and its role was transferred to No. 19 (Reserve) Squadron.
+
+==Aircraft operated==
+{| class="wikitable"
+! style="text-align: left;"|From
+! style="text-align: left;"|To
+! style="text-align: left;"|AircraftHalley 1988, p. 129.Jefford 2001, p. 48.
+! style="text-align: left;"|Version
+|-
+| Jul 1916
+| June 1917
+| various
+|
+|-
+| Aug 1917
+| Dec 1919
+| Royal Aircraft Factory B.E.2
+| B.E.2e
+|-
+| Aug 1917
+| Apr 1919
+| de Havilland DH4
+|
+|-
+| Aug 1917
+| Feb 1918
+| Bristol Scout
+|
+|-
+| Aug 1917
+| Apr 1918
+| Spad S.7
+|
+|-
+| Sep 1917
+| Feb 1920
+| Royal Aircraft Factory R.E.8
+|
+|-
+| Sep 1917
+| Aug 1919
+| Martinsyde G.102
+|
+|-
+| Jan 1919
+| Dec 1919
+| Bristol M.1
+| M.1c
+|-
+| Feb 1919
+| Apr 1919
+| Royal Aircraft Factory S.E.5
+| S.E.5a
+|-
+| May 1919
+| Aug 1919
+| Sopwith Camel
+|
+|-
+| Feb 1937
+| Mar 1937
+| Hawker Hind
+|
+|-
+| Mar 1937
+| Jun 1937
+| Hawker Audax
+|
+|-
+| May 1937
+| Apr 1940
+| Fairey Battle
+|
+|-
+| Mar 1939
+| Apr 1940
+| Avro Anson
+| Mk.I
+|-
+| Jun 1942
+| May 1944
+| North American Mustang
+| Mk.I, Ia
+|-
+| Mar 1944
+| May 1944
+| Hawker Hurricane
+| Mk.IIc, Mk.IV
+|-
+| Mar 1944
+| Jan 1945
+| Supermarine Spitfire
+| Mk.Vb
+|-
+| Sep 1946
+| Mar 1948
+| Supermarine Spitfire
+| LF.16e
+|-
+| Apr 1948
+| Jun 1948
+| Gloster Meteor
+| F.3
+|-
+| Jun 1948
+| Jan 1951
+| Gloster Meteor
+| F.4
+|-
+| Dec 1950
+| Jan 1957
+| Gloster Meteor
+| F.8
+|-
+| Nov 1956
+| Sep 1992
+| Hawker Hunter
+| F.6
+|-
+| Aug 1980
+| Sep 1992
+| BAE Hawk
+| T.1、T.1A
+|}
+

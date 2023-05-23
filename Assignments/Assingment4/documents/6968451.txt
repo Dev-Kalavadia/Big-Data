@@ -1,0 +1,152 @@
+Title: Concept learning
+
+Concept learning, also known as category learning, concept attainment, and concept formation, is defined by Bruner, Goodnow, & Austin (1967) as "the search for and listing of attributes that can be used to distinguish exemplars from non exemplars of various categories". More simply put, concepts are the mental categories that help us classify objects, events, or ideas, building on the understanding that each object, event, or idea has a set of common relevant features. Thus, concept learning is a strategy which requires a learner to compare and contrast groups or categories that contain concept-relevant features with groups or categories that do not contain concept-relevant features.
+
+The concept of concept attainment requires the following 5 categories:
+#the definition of task;
+#the nature of the examples encountered;
+#the nature of validation procedures;
+#the consequences of specific categorizations; and
+#the nature of imposed restrictions.
+In a concept learning task, a human classifies objects by being shown a set of example objects along with their class labels. The learner simplifies what has been observed by condensing it in the form of an example. This simplified version of what has been learned is then applied to future examples. Concept learning may be simple or complex because learning takes place over many areas. When a concept is difficult, it is less likely that the learner will be able to simplify, and therefore will be less likely to learn. Colloquially, the task is known as learning from examples. Most theories of concept learning are based on the storage of exemplars and avoid summarization or overt abstraction of any kind.
+
+In Machine Learning, this theory can be applied in training computer programs. 
+*Concept Learning: Inferring a Boolean-valued function from training examples of its input and output.
+*A concept is an idea of something formed by combining all its features or attributes which construct the given concept. Every concept has two components:
+**Attributes: features that one must look for to decide whether a data instance is a positive one of the concept.
+**A rule: denotes what conjunction of constraints on the attributes will qualify as a positive instance of the concept.
+
+== Types of concepts ==
+Concept learning must be distinguished from learning by reciting something from memory (recall) or discriminating between two things that differ (discrimination). However, these issues are closely related, since memory recall of facts could be considered a "trivial" conceptual process where prior exemplars representing the concept are invariant. Similarly, while discrimination is not the same as initial concept learning, discrimination processes are involved in refining concepts by means of the repeated presentation of exemplars. Concept attainment is rooted in inductive learning. So, when designing a curriculum or learning through this method, comparing like and unlike examples are key in defining the characteristics of a topic.
+
+=== Concrete or Perceptual Concepts vs Abstract Concepts ===
+
+Concrete concepts are objects that can be perceived by personal sensations and perceptions. These are objects like chairs and dogs where personal interactions occur with them and create a concept. Concepts become more concrete as the word we use to associate with it has a perceivable entity. According to Paivio’s dual -coding theory, concrete concepts are the one that is remembered easier from their perceptual memory codes. Evidence has shown that when words are heard they are associated with a concrete concept and are re-enact any previous interaction with the word within the sensorimotor system. Examples of concrete concepts in learning are early educational math concepts like adding and subtracting.
+
+Abstract concepts are words and ideas that deal with emotions, personality traits and events. Terms like "fantasy" or "cold" have a more abstract concept within them. Every person has their personal definition, which is ever changing and comparing, of abstract concepts. For example, cold could mean the physical temperature of the surrounding area or it could define the action and personality of another person. While within concrete concepts there is still a level of abstractness, concrete and abstract concepts can be seen on a scale. Some ideas like chair and dog are more cut and dry in their perceptions but concepts like cold and fantasy can be seen in a more obscure way. Examples of abstract concept learning are topics like religion and ethics. Abstract-concept learning is seeing the comparison of the stimuli based on a rule (e.g., identity, difference, oddity, greater than, addition, subtraction) and when it is a novel stimulus. With abstract-concept learning  have three criteria’s to rule out any alternative explanations to define the novelty of the stimuli. One transfer stimuli has to be novel to the individual. This means it needs to be a new stimulus to the individual. Two, there is no replication of the transfer stimuli. Third and lastly, to have a full abstract learning experience there has to be an equal amount of baseline performance and transfer performance.
+
+Binder, Westbury, McKiernan, Possing, and Medler (2005) used fMRI to scan individuals' brains as they made lexical decisions on abstract and concrete concepts. Abstract concepts elicited greater activation in the left precentral gyrus, left inferior frontal gyrus and sulcus, and left superior temporal gyrus, whereas concrete concepts elicited greater activation in bilateral angular gyri, the right middle temporal gyrus, the left middle frontal gyrus, bilateral posterior cingulate gyri, and bilateral precunei.
+
+In 1986 Allan PaivioPaivio, A. (1986). Mental representations: A dual coding approach. New York: Oxford University Press. hypothesized the Dual Coding Theory, which states that both verbal and visual information is used to represent information. When thinking of the concept “dog”  thoughts of both the word dog and an image of a dog occur. Dual Coding Theory assumes that abstract concepts involve the verbal semantic system and concrete concepts are additionally involved with the visual imaginary system.
+
+=== Defined (or Relational) and Associated Concepts ===
+
+Relational and associated concepts are words, ideas and thoughts that are connected in some form. For relational concepts they are connected in a universal definition. Common relational terms are up-down, left-right, and food-dinner. These ideas are learned in our early childhood and are important for children to understand.Boehm, Ann (2004). The Psychoeducational Assessment of Preschool Children. London: Lawrence Erlbaum associates. pp. 186–203. These concepts are integral within our understanding and reasoning in conservation tasks. Relational terms that are verbs and prepositions have a large influence on how objects are understood. These terms are more likely to create a larger understanding of the object and they are able to cross over to other languages.
+
+Associated concepts are connected by the individual’s past and own perception. Associative concept learning (also called functional concept learning) involves categorizing stimuli based on a common response or outcome regardless of perceptual similarity into appropriate categories. This is associating these thoughts and ideas with other thoughts and ideas that are understood by a few or the individual. An example of this is in elementary school when learning the direction of the compass North, East, South and West. Teacher have used “Never Eat Soggy Waffles”, “Never Eat Sour Worms” and students were able to create their own version to help them learn the directions.
+
+=== Complex Concepts ===
+Constructs such as a schema and a script are examples of complex concepts. A schema is an organization of smaller concepts (or features) and is revised by situational information to assist in comprehension. A script on the other hand is a list of actions that a person follows in order to complete a desired goal. An example of a script would be the process of buying a CD. There are several actions that must occur before the actual act of purchasing the CD and a script provides a sequence of the necessary actions and proper order of these actions in order to be successful in purchasing the CD.
+
+===Concept Attainment Learning Plan Development===
+Concept attainment for in education and learning is an active learning method. Therefore, learning plans, methods, and goals can be chosen to implement concept attainment.
+David Perkin's Work on Knowledge as Design, Perkin's 4 Questions outline learning plan questions:Concept attainment - California state university, Northridge. (n.d.). Retrieved August 9, 2022, from https://www.csun.edu/sites/default/files/Holle-Concept-Attainment.pdf
+
+1) What are the critical attributes of the concept?
+
+2) What are the purposes of the concept?
+
+3) What model cases of the concept?
+
+4) What are the arguments for learning the concept? 
+
+
+== Bias in Concept Attainment ==
+
+Concept learning has been historically studied with deep influences from goals and functions that concepts are assumed to have. Research has investigated how function of concepts influences the learning process, which focuses on the external function. Focusing on different models for concept attainment research would expand studies in this field. When reading articles and studies, noticing potential bias and qualifying the resource is required in this topic.
+
+== Inductive Learning and ML Conflict with Concept Learning ==
+In general, the theoretical issues underlying concept learning for machine learning are those underlying induction. These issues are addressed in many diverse publications, including literature on subjects like Version Spaces, Statistical Learning Theory, PAC Learning, Information Theory, and Algorithmic Information Theory. Some of the broad theoretical ideas are also discussed by Watanabe (1969,1985), Solomonoff (1964a,1964b), and Rendell (1986); see the reference list below.
+
+== Modern psychological theories ==
+
+It is difficult to make any general statements about human (or animal) concept learning without already assuming a particular psychological theory of concept learning. Although the classical views of concepts and concept learning in philosophy speak of a process of abstraction, data compression, simplification, and summarization, currently popular psychological theories of concept learning diverge on all these basic points. The history of psychology has seen the rise and fall of many theories about concept learning.  Classical conditioning (as defined by Pavlov) created the earliest experimental technique.  Reinforcement learning as described by Watson and elaborated by Clark Hull created a lasting paradigm in behavioral psychology.  Cognitive psychology emphasized a computer and information flow metaphor for concept formation.  Neural network models of concept formation and the structure of knowledge have opened powerful hierarchical models of knowledge organization such as George Miller's Wordnet.  Neural networks are based on computational models of learning using factor analysis or convolution.  Neural networks also are open to neuroscience and psychophysiological models of learning following Karl Lashley and Donald Hebb.
+
+=== Rule-based===
+Rule-based theories of concept learning began with cognitive psychology and early computer models of learning that might be implemented in a high level computer language with computational statements such as if:then production rules.  They take classification data and a rule-based theory as input which are the result of a rule-based learner with the hopes of producing a more accurate model of the data (Hekenaho 1997). The majority of rule-based models that have been developed are heuristic, meaning that rational analyses have not been provided and the models are not related to statistical approaches to induction. A rational analysis for rule-based models could presume that concepts are represented as rules, and would then ask to what degree of belief a rational agent should be in agreement with each rule, with some observed examples provided (Goodman, Griffiths, Feldman, and Tenenbaum). Rule-based theories of concept learning are focused more so on perceptual learning and less on definition learning. Rules can be used in learning when the stimuli are confusable, as opposed to simple. When rules are used in learning, decisions are made based on properties alone and rely on simple criteria that do not require a lot of memory ( Rouder and Ratcliff, 2006).
+
+Example of rule-based theory:
+
+"A radiologist using rule-based categorization would observe
+whether specific properties of an X-ray image meet certain
+criteria; for example, is there an extreme difference in brightness
+in a suspicious region relative to other regions? A decision is
+then based on this property alone." (see Rouder and Ratcliff 2006)
+
+=== Prototype ===
+
+The prototype view of concept learning holds that people abstract out the central tendency (or prototype) of the examples experienced and use this as a basis for their categorization decisions.
+
+The prototype view of concept learning holds that people categorize based on one or more central examples of a given category followed by a penumbra of decreasingly typical examples. This implies that people do not categorize based on a list of things that all correspond to a definition, but rather on a hierarchical inventory based on semantic similarity to the central example(s).
+
+=== Exemplar ===
+
+Exemplar theory is the storage of specific instances (exemplars), with new objects evaluated only with respect to how closely they resemble specific known members (and nonmembers) of the category. This theory hypothesizes that learners store examples verbatim. This theory views concept learning as highly simplistic. Only individual properties are represented. These individual properties are not abstract and they do not create rules. An example of what exemplar theory might look like is, "water is wet". It is simply known that some (or one, or all) stored examples of water have the property wet. Exemplar based theories have become more empirically popular over the years with some evidence suggesting that human learners use exemplar based strategies only in early learning, forming prototypes and generalizations later in life. An important result of exemplar models in psychology literature has been a de-emphasis of complexity in concept learning. One of the best known exemplar theories of concept learning is the Generalized Context Model (GCM).
+
+A problem with exemplar theory is that exemplar models critically depend on two measures: similarity between exemplars, and having a rule to determine group membership. Sometimes it is difficult to attain or distinguish these measures.
+
+=== Multiple-prototype===
+
+More recently, cognitive psychologists have begun to explore the idea that the prototype and exemplar models form two extremes. It has been suggested that people are able to form a multiple prototype representation, besides the two extreme representations. For example, consider the category 'spoon'. There are two distinct subgroups or conceptual clusters: spoons tend to be either large and wooden, or small and made of metal. The prototypical spoon would then be a medium-size object made of a mixture of metal and wood, which is clearly an unrealistic proposal. A more natural representation of the category 'spoon' would instead consist of multiple (at least two) prototypes, one for each cluster. A number of different proposals have been made in this regard (Anderson, 1991; Griffiths, Canini, Sanborn & Navarro, 2007; Love, Medin & Gureckis, 2004; Vanpaemel & Storms, 2008). These models can be regarded as providing a compromise between exemplar and prototype models.
+
+=== Explanation-based ===
+
+The basic idea of explanation-based learning suggests that a new concept is acquired by experiencing examples of it and forming a basic outline. Put simply, by observing or receiving the qualities of a thing the mind forms a concept which possesses and is identified by those qualities.
+
+The original theory, proposed by Mitchell, Keller, and Kedar-Cabelli in 1986 and called explanation-based generalization, is that learning occurs through progressive generalizing. This theory was first developed to program machines to learn. When applied to human cognition, it translates as follows: the mind actively separates information that applies to more than one thing and enters it into a broader description of a category of things.  This is done by identifying sufficient conditions for something to fit in a category, similar to schematizing.
+
+The revised model revolves around the integration of four mental processes – generalization, chunking, operationalization, and analogy.
+
+* Generalization is the process by which the characteristics of a concept which are fundamental to it are recognized and labeled. For example, birds have feathers and wings. Anything with feathers and wings will be identified as ‘bird’.
+* When information is grouped mentally, whether by similarity or relatedness, the group is called a chunk. Chunks can vary in size from a single item with parts or many items with many parts.
+* A concept is operationalized when the mind is able to actively recognize examples of it by characteristics and label it appropriately.
+* Analogy is the recognition of similarities among potential examples.
+
+This particular theory of concept learning is relatively new and more research is being conducted to test it.
+
+=== Bayesian ===
+
+Taking a mathematical approach to concept learning, Bayesian theories propose that the human mind produces probabilities for a certain concept definition, based on examples it has seen of that concept. The Bayesian concept of Prior Probability stops learners' hypotheses being overly specific, while the likelihood of a hypothesis ensures the definition is not too broad.
+
+For example- say a child is shown three horses by a parent and told these are called "horses"- she needs to work out exactly what the adult means by this word. She is much more likely to define the word "horses" as referring to either this type of animal or all animals, rather than an oddly specific example like "all horses except Clydedales", which would be an unnatural concept. Meanwhile, the likelihood of 'horses' meaning 'all animals' when the three animals shown are all very similar is low. The hypothesis that the word "horse" refers to all animals of this species is most likely of the three possible definitions, as it has both a reasonable prior probability and likelihood given examples.
+
+Bayes' theorem is important because it provides a powerful tool for understanding, manipulating and controlling data5 that takes a larger view that is not limited to data analysis alone6.  The approach is subjective, and this requires the assessment of prior probabilities6, making it also very complex.  However, if Bayesians show that the accumulated evidence and the application of Bayes' law are sufficient, the work will overcome the subjectivity of the inputs involved7.  Bayesian inference can be used for any honestly collected data and has a major advantage because of its scientific focus6.
+
+One model that incorporates the Bayesian theory of concept learning is the ACT-R model, developed by John R. Anderson. The ACT-R model is a programming language that defines the basic cognitive and perceptual operations that enable the human mind by producing a step-by-step simulation of human behavior.  This theory exploits the idea that each task humans perform consists of a series of discrete operations.  The model has been applied to learning and memory, higher level cognition, natural language, perception and attention, human-computer interaction, education, and computer generated forces.
+
+In addition to John R. Anderson, Joshua Tenenbaum has been a contributor to the field of concept learning; he studied the computational basis of human learning and inference using behavioral testing of adults, children, and machines from Bayesian statistics and probability theory, but also from geometry, graph theory, and linear algebra.  Tenenbaum is working to achieve a better understanding of human learning in computational terms and trying to build computational systems that come closer to the capacities of human learners.
+
+=== Component display theory ===
+
+M. D. Merrill's component display theory (CDT) is a cognitive matrix that focuses on the interaction between two dimensions: the level of performance expected from the learner and the types of content of the material to be learned.  Merrill classifies a learner's level of performance as: find, use, remember, and material content as: facts, concepts, procedures, and principles.  The theory also calls upon four primary presentation forms and several other secondary presentation forms.  The primary presentation forms include: rules, examples, recall, and practice.  Secondary presentation forms include: prerequisites, objectives, helps, mnemonics, and feedback.  A complete lesson includes a combination of primary and secondary presentation forms, but the most effective combination varies from learner to learner and also from concept to concept. Another significant aspect of the CDT model is that it allows for the learner to control the instructional strategies used and adapt them to meet his or her own learning style and preference. A major goal of this model was to reduce three common errors in concept formation: over-generalization, under-generalization and misconception.
+
+== See also ==
+* Sample exclusion dimension
+
+== References ==
+
+
+==Further reading==
+* 
+* 
+* 
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* 
+* 
+* 
+
+Category:Learning theory (education)

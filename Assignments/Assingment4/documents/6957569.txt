@@ -1,0 +1,109 @@
+Title: List of Type 97 Chi-Ha variantsThis is a list of vehicles developed from the Japanese Type 97 Chi-Ha medium tank.
+thumb|300px|Type 97 Chi-Ha
+
+==Amphibious tanks and armoured carriers==
+
+
+
+*Type 3 Ka-Chi
+:Amphibious tank derived from a modified Type 1 Chi-He chassis, armed with a Type 1 47 mm main gun and two 7.7 mm machine guns.
+
+*Type 4 Ka-Tsu
+:Amphibious, armoured, cargo/troop tracked carrier that was developed by the Imperial Japanese Navy (IJN). The engine component and electric devices were watertight and it could be carried underwater attached to a submarine. The twin drive propeller shafts were designed to retract "into their ducts" once the vehicle reached shore.
+
+*Type 5 To-Ku
+:Amphibious tank armed with one 47 mm gun, one 25 mm Type 1 gun and two 7.7 mm Type 97 machine guns. The turret was a modified version of the one used on the Type 97 Shinhoto Chi-Ha with a Type 5 Chi-Ri hull. Only one prototype was built.
+
+*Type 4 Ka-Sha
+:Amphibious vehicle design based on the Type 4 Chi-To or Type 5 Chi-Ri chassis. Not produced, even as a prototype.
+
+==Engineering vehicles==
+*Experimental Trench Excavator
+:Derived from the Type 97 Chi-Ha, it had a trench digging plow in the stern. This vehicle was made around 1941-42 for service in Manchuria. Some examples were sent to Wewak on the north coast of Papua-New Guinea for use by the Japanese 6th Div AIF.
+
+==Medium tanks==
+thumb|Type 97 Shinhoto Chi-Ha medium tank
+thumb|upright|Type 3 Chi-Nu medium tank
+
+*Experimental Type 98 Chi-Ho medium tank
+:Prototype medium tank produced in 1939. It had a similar chassis to the Type 97.
+
+*Type 97 ShinHoTo Chi-Ha medium tank (a/k/a Type 97 Chi-Ha Kai)
+:Type 97 with a new larger gun turret armed with the Type 1 47 mm gun.
+
+*Type 1 Chi-He medium tank
+:A successor to the Chi-Ha. The speed and the armor were better than the Chi-Ha, but it still had only a 47 mm main gun.
+
+*Type 3 Chi-Nu medium tank
+:Developed in order to cope with M4 Sherman. Its hull is the same of Chi-He and its Type 3 75 mm gun was converted from the 75 mm Type 90 field gun. It had a large new hexagonal gun turret and a commander's cupola. The Chi-Nu was deployed in Japan proper to counter the expected Allied invasion. It was the last design based directly on Type 97 lineage.
+
+==Gun tanks==
+thumb|upright|Type 2 Ho-I gun tank
+thumb|upright|IJN Short Barrel 120 mm gun tanks
+
+*Type 2 Ho-I medium gun tank
+:The Imperial Japanese Army called close fire support tanks, "gun tanks". The experimental model was based on the Chi-Ha and the production model was based on the Chi-He. The Ho-I mounted a short barrel Type 99 75 mm tank gun. They were intended to be deployed in a fire support company in each of the tank regiments. There is no record a Ho-I was used in action as they were deployed in Japan to defend against the expected Allied invasion.Taki’s Imperial Japanese Army: Type 2 "Ho-I"
+
+*Type 97 Shinhoto Chi-Ha Short Barrel 120 mm gun tank
+:Late in World War II, this Type 97 Shinhoto Chi-Ha variant was produced for the Imperial Japanese Navy. The standard 47 mm main gun was replaced with a short barrel naval 12 cm (120 mm) "anti-submarine" gun with a muzzle brake added. A limited number of "about a dozen" were produced for deployment by the Japanese Special Naval Landing Forces.
+
+==Self propelled guns==
+thumb|upright|Type 1 Ho-Ni II self-propelled gun
+*Type 1 Ho-Ni I 75 mm SP AT gun
+:Turret removed and 75 mm gun installed in an open casemate to create a self-propelled gun. They were organized along similar lines as artillery units. They saw combat action, being first deployed at the Battle of Luzon in the Philippines in 1945.
+
+*Type 1 Ho-Ni II 105 mm SPG
+:Type 91 105 mm gun installed on the same modified Type 97 chassis as the Ho-Ni I with a slightly changed superstructure as far as the side armor with re-positioned observation visors.
+
+*Type 3 Ho-Ni III 75 mm SP AT gun
+:The Ho-Ni III had a Type 3 75 mm tank gun mount in a fully enclosed casemate and was deployed in tank regiments as a tank destroyer. Most were stationed within the Japanese home islands to defend against the projected Allied Invasion.
+
+thumb|Type 4 Ho-Ro self-propelled gun
+
+*Type 4 Ho-Ro 15 cm SP howitzer
+:SPG with Type 38 15 cm (149.1 mm) howitzer on a modified Type 97 chassis, similar to Ho-Ni I SPG with a front gun shield, which only extended a very short distance on the sides. They were deployed in a piecemeal fashion, seeing combat during the Philippines Campaign and the Battle of Okinawa.
+
+*Naval 12 cm SPG or Long Barrel 120 mm SPG
+:SPG developed by the Imperial Japanese Navy with a naval Type 10 120 mm gun on a modified Type 97 tank chassis.Taki's Imperial Japanese Army: Long Barrel 12cm SP Gun
+
+*Experimental Type 5 15 cm SPG Ho-Chi or Ho-Chi Sha
+:SPG with a Type 96 15 cm (149.1 mm) Howitzer on a modified Type 97 chassis. Similar to Ho-Ni and Ho-Ro SPGs with an open casemate. Stage of development unknown.
+
+* Chinese 75 MM SPG 
+:SPG using a Type 94 75 mm mountain gun developed by the Republic of China in 1948 using captured Type 97 Chi-Ha chassis and Japanese mountain guns in order to provide firepower lacking after US deliveries of equipment were stopped. Additionally, armed with two Chinese made ZB vz. 26 machine guns they were used in the Chinese Civil War.Sino Records: Chi-Ha SPG — Chinese Mystery Tank
+
+==Other variants==
+
+*Se-Ri
+:Armoured recovery vehicle on a modified Type 97 chassis with a collapsible crane powered by a Type 100 240 hp diesel engine. The winch was located over the rear deck of the engine compartment. The Se-Ri also had "external stowage ranks" on each side of the hull. A machine gun turret replaced the main gun turret used on the Type 97 Chi-Ha tank. Introduced in 1939, three were produced.Taki's Imperial Japanese Army: Armored Recovery Vehicle "Se-Ri"
+
+
+
+*Type 97 Chi-Yu "Mine flail tank"
+:Type 97 Chi-Ha fitted with 2 revolving drums with rows of chains mounted on glacis plates and linked to the drive wheels for clearing a mine-field. The prototype copied the design of the British mine flail tanks.
+
+thumb|Type 97 Mine clearing tank GS fitted with rocket launchers
+
+*Type 97 "Mine clearing tank GS"
+:Type 97 Chi-Ha fitted with rocket launchers. First produced in 1943. A rocket would be launched with detonating cords affixed from its engine deck. The tank also had a rocket launcher at the rear MG position on the turret. It launched a Bangalore torpedo affixed to a rocket.Taki's Imperial Japanese Army: Mine-clearing Vehicle "GS"
+
+thumb|Ho-K armoured lumberjack vehicle
+
+*Ho-K
+:An armoured lumberjack vehicle on a modified Type 97 Shinhoto Chi-Ha chassis and a steel prow mounted for creating paths through forests. Used in Manchuria to aid the fight against the Soviet Union. One group was sent to New Guinea for use in the construction of an airfield there.Taki's Imperial Japanese Army: Armored Lumberjack "Ho-K"
+
+*"Lumber Sweeper" Basso-Ki
+:A lumberjack vehicle on a modified Type 97 chassis. It was used to remove severed trees and stumps generated by the work of the Ho-K.Taki's Imperial Japanese Army: Lumber Sweeper "Basso-Ki"
+
+*Type 97 Shi-Ki
+:Command tank on a Type 97 chassis. It had a machine gun in the turret and a 37 mm gun on the hull. Recognized by its different sized turret with the rail-antenna, it had long-range communications and superior optics. "Mainly" used at the tank training schools.Taki's Imperial Japanese Army: Command Tank "Shi-Ki"
+
+*Type 97 Ka-So
+:Command tank built to replace the older Type 97 Shi-Ki. It was based on the Type 1 Chi-He and had additional radios inside its turret. A wood dummy main gun was placed in the turret.
+
+*Type T-G "bridge layer"
+:Type 97 with the turret removed with rollers which support the "bridging span carrier" over the top of the chassis.
+
+==Notes==
+
+

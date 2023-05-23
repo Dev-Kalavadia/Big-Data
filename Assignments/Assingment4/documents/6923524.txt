@@ -1,0 +1,295 @@
+Title: Suzuki GSX-R600
+
+The Suzuki GSX-R600 is a 600 cc  supersport, sport bike in Suzuki's GSX-R series of motorcycles.
+thumb|
+
+== History ==
+
+;1992–1993
+Launched with a water-cooled  inline-4 engine. The first model had the same body specifications as the 1992 GSX-R750, with the smaller engine and carried over through to the 1993 model year with no changes. It was not imported to UK.
+
+;1994–1996
+Not produced.
+
+;1997–2000
+Redesigned with the introduction of Suzuki Ram Air Direct (SRAD) and carried over through to the 2000 model year.
+thumb|1997–2000 Suzuki GSX-R600
+
+;2001–2003
+Redesigned with the introduction of fuel injection and carried over through to the 2003 model year with very few changes.
+
+;2004–2005
+Redesigned which carried over through to the 2005 model year.
+Total redesign of the fairings and fuel tank. Inverted forks with radial-mounted brakes. Titanium valves, 32-bit ECU were some of the changes on the engine side.
+
+;2006–2007
+Suzuki introduced an all-new GSX-R600. Underslung exhaust and slipper clutch introduced.
+Engine is completely new, but with the same bore and stroke as before.
+
+;2008–2010
+New subframe, bodywork, and fuel tank. Introduction of new Suzuki Drive Mode Selector (S-DMS).
+
+;2011–2020
+9 kg Lighter overall, Showa Big Piston Forks (BPF), Brembo monobloc radial front brake calipers, re-designed lighter frame and swingarm, 15 mm shorter wheelbase. New gauge cluster similar to that used on the GSX-R1000. New cams, lighter pistons, higher compression and pentagonal ventilation holes on the block increases mid-range torque.
+
+== Specifications ==
+
+{| class="wikitable" text-align:center; 
+|-
+! 
+! width = 10% | 1992–1993
+! width = 10% | 1997–2000
+! width = 10% | 2001–2003
+! width= 10% | 2004–2005
+! width= 10% | 2006
+! width= 10% | 2007
+! width= 10% | 2008
+! width= 10% | 2009–2010
+! width= 10% | 2011–2013
+! width= 10% | 2014
+! width= 10% | 2015–2017
+
+|-
+! Engine
+|
+| 
+| colspan="3" |
+| colspan="6" | , 4-stroke, inline four, liquid-cooled, DOHC, 16-valve
+|-
+! Bore × stroke
+| 
+|  
+|
+| colspan="8" |  
+|-
+! Compression ratio
+|
+| 12.0:1
+|
+| colspan="3" | 12.5:1 || colspan="2" | 12.8:1
+| colspan="2" | 12.9:1 || 12.8:1
+|- 
+! Power(rear wheel)
+|  @ 12,000 rpm
+| 
+| 
+| 
+| 125BHP (93kW) @ 13,330 rpm
+|125BHP (93kW)
+| colspan="2" | 125BHP (93kW) @ 13,100 rpm.
+| colspan="2" | 125BHP (93kW)  @ 13,550 rpm
+|  @ 13,500 rpm
+|-
+! Torque(rear wheel)
+|  @ 9,250 rpm
+|
+|
+|
+|  @ 11,140 rpm
+|
+| colspan="2" |  @ 11,300 rpm
+| colspan="2" |  @ 11,700 rpm
+|  @ 11,500 rpm
+|-
+
+|-
+! Fuel system
+|
+|Carburetor
+| colspan="9" |Fuel injection
+|-
+! Lubrication
+| || colspan="10" |Wet sump
+|-
+! Ignition
+| ||CDI|| || colspan="8" |Digital/transistorized
+|-
+! Transmission
+| || colspan="10" |6-speed constant mesh
+|-
+! Clutch
+| || Wet multi-plate type || colspan="2" | || colspan="7" |Slipper
+|-
+! Final drive
+| || 2.812 || 
+| colspan="8" | #525 chain, 2.685 (Ratio)
+|-
+!  Length
+| ||  || 
+| 
+| colspan="6" |  || 
+|-
+!  Width
+| ||  || 
+| colspan="5" |  || colspan="2" | 
+| 
+|-
+! Height
+| ||  || 
+| 
+| 
+| colspan="5" | 
+| 
+|-
+! Seat height
+| ||  || 
+| 
+| colspan="7" | 
+|-
+! Ground clearance
+| ||  || 
+| 
+| colspan="7" | 
+|-
+! Wheelbase
+| 
+| 
+|
+| colspan="5" |  || colspan="3" | 
+|-
+! Dry weight
+| |||| 
+| 
+| colspan="2" | 
+| colspan="2" | 
+| 
+| colspan="2" | 
+|-
+! Wet weight
+|| 
+|| 
+|| 
+| colspan="3" |
+| colspan="2" | 
+| colspan="3" | 
+|-
+! Front suspension
+|
+|Telescopic
+|
+| colspan="5" | Cartridge-type, coil spring, fully adjustable spring preload, rebound and compression damping || colspan="3" | Showa 41 mm Big Piston Forks
+|-
+! Rear suspension
+|
+|Cartridge-type
+|
+| colspan="8" | Link-type, gas/oil damped, fully adjustable spring preload, compression and rebound damping. Hi & low speed adjustment
+|-
+! Front brakes 
+| colspan="1" |
+| colspan="5" | Dual hydraulic disc
+| colspan="2" | 2 radial  disc, 4-piston calipers
+| colspan="3" | Double  disc. Brembo 4-piston
+|-
+! Rear brakes
+| colspan="1" |
+| colspan="5" | Single hydraulic disc
+| colspan="2" | 1-piston caliper,  disc
+| colspan="3" | Single Nissin,  2-piston caliper disc
+|-
+! Front tires
+| colspan="1" |
+| colspan="10" | 120/70-ZR-17
+|-
+! Rear tires
+| colspan="1" |
+| colspan="10" | 180/55-ZR-17
+|-
+! Fuel tank capacity
+|| 
+| colspan="2" | 
+| colspan="2" | 
+| 
+| colspan="5" | 
+|-
+! MSRP (U.S.)
+| colspan="6" |
+| $9,399
+| colspan="1" | $10,399
+| $11,599
+| $11,699
+| $11,199
+|-
+! colspan="12" | Performance
+|-
+! 
+|
+| 3.5 sec.
+|
+|
+| 3.1 sec.
+|
+|
+|
+|
+|
+|
+|-
+! 
+|
+|
+|
+|
+| 10.75 sec. @  
+|
+|
+|
+|
+|
+| 11.1 sec.
+|-
+! Top speed
+|
+|
+|
+|
+| 
+|
+|
+|
+|
+|
+| 
+|-
+! Fuel economy
+|
+|
+|
+|
+| 
+|
+| colspan="2" | 35.8 MPG
+|
+|
+| 
+|-
+! Common Reference Name
+|
+|SRAD
+| K1,K2,K3
+| K4,K5
+| K6
+| K7
+| K8
+| K9,L0
+| L1,L2,L3,
+| L4
+| L5,L6,L7
+|-
+|}
+
+== References ==
+
+
+== External links ==
+* 
+
+
+
+
+
+GSX-R600
+Suzuki GSX-R600
+Category:Motorcycles introduced in 1992
+
+it:Suzuki GSX-R#GSX-R 600

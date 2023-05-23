@@ -1,0 +1,71 @@
+Title: Jalan Bukit Bintang
+
+
+
+Jalan Bukit Bintang is a major road in Kuala Lumpur, Malaysia. It is a popular shopping strip providing access to the Bukit Bintang neighbourhood.
+
+
+
+==List of junctions along the road==
+{|class="wikitable" 
+|-
+!km||Exit||Junctions||To||Remarks
+|-
+| || || ||EastRoyal Selangor Golf Club (RSGC)||
+|-
+|style="width:600px" colspan="6" style="text-align:center" bgcolor="white"|Royal Selangor Golf Club (RSGC)
+|-
+|style="width:600px" colspan="6" style="text-align:center" bgcolor="blue"|Kuala Lumpur Middle Ring Road 1(Jalan Tun Razak)
+|-
+| || ||Royal Selangor Golf Club (RSGC) interchange||Kuala Lumpur Middle Ring Road 1<BR>Jalan Tun RazakNorthJalan AmpangAmpangUlu KlangSetapakSentulSouthSungai Besi Cheras Petaling Jaya Putrajaya  Kuala Lumpur International Airport (KLIA)   Seremban  Malacca  Johor Bahru||Tunnel diamond interchange
+|-
+|style="width:600px" colspan="6" style="text-align:center" bgcolor="blue"|Kuala Lumpur Middle Ring Road 1(Jalan Tun Razak)
+|-
+|style="width:600px" colspan="6" style="text-align:center" bgcolor="blue"|Jalan Bukit Bintang
+|-
+| || || Embassy of the State of Kuwait|| ||
+|-
+| || ||Medical Centre|| ||
+|-
+| || ||Jalan Imbi||SouthwestJalan ImbiImbiPudu||T-junctions
+|-
+|style="width:600px" colspan="6" style="text-align:center" bgcolor="white"|Bintang WalkStart of Bintang Walk
+|-
+| || ||Wisma Keck Seng|| Embassy of Grand Duchy of Luxembourg ||
+|-
+| || ||JW Marriott Kuala Lumpur|| ||
+|-
+| || ||Starhill Gallery || ||
+|-
+| || ||Pavilion Kuala Lumpur || ||
+|-
+| || ||Fahrenheit 88 (KL Plaza)|| ||
+|-
+| || ||Jalan Gading||Jalan GadingJalan Walter Grenier||One-way street
+|-
+| || ||Lot 10, Kuala Lumpur || ||
+|-
+| || ||Bukit Bintang||North OnlyKuala Lumpur Inner Ring RoadJalan Sultan Ismail (Treacher Road)Jalan Raja Chulan (Weld Road)Jalan P. Ramlee (Parry Road)Jalan Ampang (Ampang Road)Jalan Tuanku Abdul Rahman (Batu Road)||Junctions
+|-
+| || || Bukit Bintang MRT Station|| Bukit Bintang MRT Station||
+|-
+|style="width:600px" colspan="6" style="text-align:center" bgcolor="white"|Bintang WalkEnd of Bintang Walk
+|-
+| || ||Jalan Bulan||SoutheastJalan BulanLow Yat Plaza ||One-way street
+|-
+| || ||Federal Hotel|| ||
+|-
+| || ||Jalan Tong Shin||Jalan Tong Shin||One-way street
+|-
+| || ||Lorong Pudu 14||Lorong Pudu 14||One-way street
+|-
+|style="width:600px" colspan="6" style="text-align:center" bgcolor="blue"|Jalan Bukit Bintang
+|-
+|style="width:600px" colspan="6" style="text-align:center" bgcolor="blue"|Jalan Pudu
+|-
+| || ||Jalan Pudu||Jalan PuduNorthwestJalan Tun PerakJalan Cheng LockPudu Sentral 20pxSoutheastCherasPetaling JayaSerembanMalaccaJohor Bahru||T-junctions
+|}
+
+== References ==
+
+Category:Roads in Kuala Lumpur

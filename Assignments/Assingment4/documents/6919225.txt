@@ -1,0 +1,531 @@
+Title: List of places in Alaska (P)
+
+This list of cities, towns, unincorporated communities, counties, and other recognized places in the U.S. state of Alaska also includes information on the number and names of counties in which the place lies, and its lower and upper zip code bounds, if applicable.
+
+
+{| class="wikitable"
+!Name of place
+!Number of counties
+!Principal county
+!Lower zip code
+!Upper zip code
+|----
+|Paimiut
+|1
+|Kusilvak Census Area
+
+| 
+|----
+|Palmer
+|1
+|Matanuska-Susitna Borough
+|99645
+| 
+|----
+|Paradise
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Parks
+|1
+|Kodiak Island Borough
+| 
+| 
+|----
+|Pasagshak
+|1
+|Kodiak Island Borough
+| 
+| 
+|----
+|Pauloff Harbor
+|1
+|Aleutians East Borough
+| 
+| 
+|----
+|Paxson
+|1
+|Valdez-Cordova Census Area
+|99737
+| 
+|----
+|Paylof Harbor
+|1
+|Aleutians East Borough
+| 
+| 
+|----
+|Pedro Bay
+|1
+|Lake and Peninsula Borough
+|99647
+| 
+|----
+|Pedro Dome
+|1
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Pelican
+|1
+|Skagway-Hoonah-Angoon Census Area
+|99832
+| 
+|----
+|Pelican City School District
+|1
+|Skagway-Hoonah-Angoon Census Area
+| 
+| 
+|----
+|Peninsula Point
+|1
+|Ketchikan Gateway Borough
+|99901
+| 
+|----
+|Pennock Island
+|1
+|Ketchikan Gateway Borough
+|99901
+| 
+|----
+|Perkinsville
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Perryville
+|1
+|Lake and Peninsula Borough
+|99648
+| 
+|----
+|Petersburg
+|1
+|Wrangell-Petersburg Census Area
+|99833
+| 
+|----
+|Petersburg
+|1
+|Wrangell-Petersburg Census Area
+| 
+| 
+|----
+|Petersburg Airport
+|1
+|Wrangell-Petersburg Census Area
+|99929
+| 
+|----
+|Petersburg City School District
+|1
+|Wrangell-Petersburg Census Area
+| 
+| 
+|----
+|Peters Creek
+|1
+|Municipality of Anchorage
+|99567
+| 
+|----
+|Peters Creek North
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Petersville
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Phonograph
+|1
+|Skagway-Hoonah-Angoon Census Area
+| 
+| 
+|----
+|Pikmiktalik
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Pilgrim Springs
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Pilot
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Pilot Point
+|1
+|Lake and Peninsula Borough
+|99649
+| 
+|----
+|Pilot Station
+|1
+|Kusilvak Census Area
+|99650
+| 
+|----
+|Pilot Station Traditional Council
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Pitkas Point
+|1
+|Kusilvak Census Area
+|99658
+| 
+|----
+|Pitka's Point
+|1
+|Kusilvak Census Area
+|99658
+| 
+|----
+|Pittman
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Platinum
+|1
+|Bethel Census Area
+|99651
+| 
+|----
+|Pleasant Valley
+|1
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Point Baker
+|1
+|Prince of Wales-Outer Census Area
+|99927
+| 
+|----
+|Point Barrow Station
+|1
+|North Slope Borough
+|99723
+| 
+|----
+|Point Higgins
+|1
+|Ketchikan Gateway Borough
+| 
+| 
+|----
+|Point Hope
+|1
+|North Slope Borough
+|99766
+| 
+|----
+|Point Lay
+|1
+|North Slope Borough
+|99759
+| 
+|----
+|Point McIntyre
+|1
+|North Slope Borough
+| 
+| 
+|----
+|Point MacKenzie
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Point Retreat
+|1
+|Skagway-Hoonah-Angoon Census Area
+| 
+| 
+|----
+|Point Storkersen
+|1
+|North Slope Borough
+| 
+| 
+|----
+|Point Whitshed
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Polk Inlet
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Poorman
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Pope-Vannoy Landing
+|1
+|Lake and Peninsula Borough
+| 
+| 
+|----
+|Portage
+|1
+|Municipality of Anchorage
+| 
+| 
+|----
+|Portage Creek
+|1
+|Dillingham Census Area
+| 
+| 
+|----
+|Portage Creek
+|1
+|Dillingham Census Area
+|99576
+| 
+|----
+|Portage Junction
+|1
+|Municipality of Anchorage
+| 
+| 
+|----
+|Port Alexander
+|2
+|City and Borough of Sitka
+|99836
+| 
+|----
+|Port Alexander
+|2
+|Wrangell-Petersburg Census Area
+|99836
+| 
+|----
+|Port Alice
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Port Alsworth
+|1
+|Lake and Peninsula Borough
+|99653
+| 
+|----
+|Port Armstrong
+|1
+|City and Borough of Sitka
+| 
+| 
+|----
+|Port Ashton
+|1
+|Valdez-Cordova Census Area
+|99574
+| 
+|----
+|Port Bailey
+|1
+|Kodiak Island Borough
+|99697
+| 
+|----
+|Port Chilkoot
+|1
+|Haines Borough
+| 
+| 
+|----
+|Port Clarence
+|1
+|Nome Census Area
+|99762
+| 
+|----
+|Port Frederick
+|1
+|Skagway-Hoonah-Angoon Census Area
+| 
+| 
+|----
+|Port Graham
+|1
+|Kenai Peninsula Borough
+|99603
+| 
+|----
+|Port Heiden
+|1
+|Lake and Peninsula Borough
+|99549
+| 
+|----
+|Port Heiden Airport
+|1
+|Lake and Peninsula Borough
+|99549
+| 
+|----
+|Port Higgins
+|1
+|Ketchikan Gateway Borough
+|99901
+| 
+|----
+|Port Hobron
+|1
+|Kodiak Island Borough
+| 
+| 
+|----
+|Port Lions
+|1
+|Kodiak Island Borough
+|99550
+| 
+|----
+|Portlock
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Port Moller
+|1
+|Aleutians East Borough
+|99695
+| 
+|----
+|Port Nellie Juan
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Port Nikiski
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Port O'Brien
+|1
+|Kodiak Island Borough
+| 
+| 
+|----
+|Port Protection
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Port Safety
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Port Wakefield
+|1
+|Kodiak Island Borough
+| 
+| 
+|----
+|Port William
+|1
+|Kodiak Island Borough
+|99697
+| 
+|----
+|Potter
+|1
+|Municipality of Anchorage
+| 
+| 
+|----
+|Pounrevik
+|1
+|Kusilvak Census Area
+|99666
+| 
+|----
+|Pribilof Island Regional Educational Attendance Area
+|1
+|Aleutians West Census Area
+| 
+| 
+|----
+|Primrose
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Prince of Wales
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Prince William Sound
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Prudhoe Bay
+|1
+|North Slope Borough
+|99734
+| 
+|----
+|Prudhoe Bay-Kaktovik
+|1
+|North Slope Borough
+| 
+| 
+|----
+|Ptarmigan
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|}
+
+ P

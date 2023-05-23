@@ -1,0 +1,54 @@
+Title: Ełk County
+__NOTOC__
+Ełk County () is a unit of territorial administration and local government (powiat) in Warmian-Masurian Voivodeship, northern Poland. It came into being on 1 January 1999 as a result of the Polish local government reforms passed in 1998. Its administrative seat and only town is Ełk, which lies  east of the regional capital Olsztyn.
+
+The county covers an area of . As of 2019, Ełk County's total population was 91,446, with the town of Ełk having a population of 62,006.
+
+==Neighbouring counties==
+Ełk County is bordered by Olecko County to the north, Suwałki County to the north-east, Augustów County to the east, Grajewo County to the south, and Pisz County and Giżycko County to the west.
+
+==Administrative division==
+The county is subdivided into five gminas (one urban and four rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area
+| style="text-align:center;"|Population(2019)
+| style="text-align:center;"|Seat
+|-
+|Ełk
+|urban
+| style="text-align:right;"|
+| style="text-align:right;"|62,006
+| 
+|-
+|Gmina Ełk
+|rural
+| style="text-align:right;"|
+| style="text-align:right;"|11,684
+|Ełk *
+|-
+|Gmina Prostki
+|rural
+| style="text-align:right;"|
+| style="text-align:right;"|7,263
+|Prostki
+|-
+|Gmina Kalinowo
+|rural
+| style="text-align:right;"|
+| style="text-align:right;"|6,751
+|Kalinowo
+|-
+|Gmina Stare Juchy
+|rural
+| style="text-align:right;"|
+| style="text-align:right;"|3,742
+|Stare Juchy
+|-
+|colspan=5 style="text-align:right;font-size:90%"|* seat not part of the gmina
+|-
+|}
+

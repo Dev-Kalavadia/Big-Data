@@ -1,0 +1,91 @@
+Title: Plasma gasification
+
+Plasma gasification is an extreme thermal process using plasma which converts organic matter into a syngas (synthesis gas) which is primarily made up of hydrogen and carbon monoxide.  A plasma torch powered by an electric arc is used to ionize gas and catalyze organic matter into syngas, with slag
+
+
+
+
+
+  remaining as a byproduct. It is used commercially as a form of waste treatment, and has been tested for the gasification of refuse-derived fuel, biomass, industrial waste, hazardous waste, and solid hydrocarbons, such as coal, oil sands, petcoke and oil shale.
+
+== Process ==
+Small plasma torches typically use an inert gas such as argon where larger torches require nitrogen. The electrodes vary from copper or tungsten to hafnium or zirconium, along with various other alloys.  A strong electric current under high voltage passes between the two electrodes as an electric arc. Pressurized inert gas is ionized passing through the plasma created by the arc. The torch's temperature ranges from . The temperature of the plasma reaction determines the structure of the plasma and forming gas.
+
+
+
+The waste is heated, melted and finally vaporized. Only at these extreme conditions can molecular dissociation occur by breaking apart molecular bonds. Complex molecules are separated into individual atoms. The resulting elemental components are in a gaseous phase (syngas). Molecular dissociation using plasma is referred to as "plasma pyrolysis."
+
+=== Feedstocks ===
+The feedstock for plasma waste treatment is most often refuse-derived fuel, biomass waste, or both. Feedstocks may also include biomedical waste and hazardous materials. Content and consistency of the waste directly impacts performance of a plasma facility. Pre-sorting to extract treatable material for the gasification provides consistency. Too much inorganic material such as metal and construction waste increases slag production, which in turn decreases syngas production. However, a benefit is that the slag itself is chemically inert and safe to handle (certain materials may affect the content of the gas produced, however). Shredding waste to small uniform particles before entering the main chamber is generally required. This creates an efficient transfer of energy which enable sufficient breakdown of the materials.
+
+Steam is sometimes added into gasification processes to increase the generation of hydrogen (steam reforming).
+
+=== Yields ===
+
+Pure highly calorific synthesis gas consists predominantly of carbon monoxide (CO) and hydrogen (H2).
+
+ Inorganic compounds in the waste stream are not broken down but melted, which includes glass, ceramics, and various metals.
+
+The high temperature and lack of oxygen prevents the formation of many toxic compounds such as furans, dioxins, nitrogen oxides, or sulfur dioxide in the flame itself. However, dioxins are formed during cooling of the syngas.
+
+Metals resulting from plasma pyrolysis can be recovered from the slag and eventually sold as a commodity. Inert slag produced from some processes is granulated and can be used in construction.  A portion of the syngas produced feeds on-site turbines, which power the plasma torches and thus support the feed system.
+
+=== Equipment ===
+Some plasma gasification reactors operate at negative pressure, but most attempt to recover  gaseous and/or solid resources.
+
+== Advantages ==
+The main advantages of plasma torch technologies for waste treatment are:
+
+* Preventing hazardous waste from reaching landfills
+
+
+* Some processes are designed to recover fly ash, bottom ash, and most other particulates, for 95% or better diversion from landfills, and no harmful emissions of toxic waste
+
+
+* Potential production of vitrified slag which could be used as construction material
+
+
+* Processing of biomass waste into combustible syngas for electric power and heat
+
+ or for synthesis into fuels or chemicals.
+* Production of value-added products (metals) from slag
+
+
+*   Safe means to destroy both medical
+ and many other hazardous wastes.
+*   Gasification with starved combustion and rapid quenching of syngas from elevated temperatures can avoid the production of dioxins and furans that are common to incinerators
+*   Air emissions can be cleaner than landfills and similar to that of incinerators.
+
+== Disadvantages ==
+
+Main disadvantages of plasma torch technologies for waste treatment are:
+
+* Large initial investment costs relative to that of alternatives, including landfill
+
+ and incineration.
+* Operational costs are high relative to that of incineration.
+* Wet feed stock results in less syngas production and higher energy consumption.
+* Little or even negative net energy production when taking into account all energy inputs.
+* Frequent maintenance and limited plant availability.
+
+==Commercialization==
+
+
+Plasma torch gasification is used commercially for waste disposal at a total of five sites worldwide with a combined design capacity of 200 tonnes of waste per day, half of which is biomass waste.
+
+Energy recovery from waste streams using plasma gasification is currently implemented in a total of one (possibly two) installation representing a treatment capacity of 25-30 tonnes per day of waste.
+
+==Military use==
+
+The US Navy is employing Plasma Arc Waste Destruction System (PAWDS) on its latest generation Gerald R. Ford-class aircraft carrier. The compact system being used will treat all combustible solid waste generated on board the ship.  After having completed factory acceptance testing in Montreal, the system is scheduled to be shipped to the Huntington Ingalls shipyard for installation on the carrier.
+
+
+==See also==
+* Gasification
+* List of plasma (physics) applications articles
+* Plasma (physics)
+* Staged reforming
+* Waste management
+* Waste to energy
+* Northeast of England Process Industry Cluster NEPIC
+

@@ -1,0 +1,27 @@
+Title: Layer Jump Recording
+
+
+Layer Jump Recording (LJR) is a writing method used for DVD-R DL (Dual Layer).
+
+==Overview==
+LJR permits recording the disc per increments called session (see Optical disc authoring), a.k.a. multi-session. It also permits a faster closing of the disc by saving extraneous padding when the amount of recorded data does not fill-up the disc. It overcomes these limitations of Sequential Recording (SR), the writing method usually applied to write-once optical media.
+
+The layer jump is a switch (jump) between the layer closer to the laser head (referred as L0) to the farther layer (referred as L1), or vice versa. Jumping layers is already necessary for reading multiple layer optical media (so far market released products are limited to two layers despite some research prototypes having up to eight layers), as well as for recording them with Sequential Recording. However the layer jump during the recording occurs only once, at the position called Middle Area, during a Sequential Recording, while it may occur multiple times with Layer Jump Recording.
+
+Two different Layer Jump methods are defined: Manual Layer Jump and Regular Layer Jump. The first require the software to specify to the hardware each jump point from layer zero to layer one (the jump from layer one to layer zero occurring always at the symmetric jump point). The latter requires the software to specify to the hardware only once the jumping interval size.
+
+This technology was championed by Pioneer Corporation, optical device manufacturer among other things, and introduced to the market in 2005. The physical part of the technology was first specified within DVD Forum, and then a matching device command set was introduced to the Mt Fuji specification (which eventually was replicated within the MMC specification). Later the Layer Jump Recording impacted the UDF file system specification.
+
+Unlike most recording methods, Layer Jump Recording was not unanimously adopted by optical driver manufacturers. The limited backward compatibility with legacy optical devices, complexity of device firmware implementation, need of significant software update for support and the slightly awkward writing sequencing, slowed down the adoption. In 2006, drives supporting the Layer Jump Recording methods were released by Pioneer itself, Plextor, BenQ, Lite-On, and Sony. The technology was also supported by optical drive chipsets from key manufacturer MediaTek.
+
+The technology is supported by multiple recording software, but also not unanimously supported. Nero, Sonic/Roxio, CyberLink and Ulead Systems claim support for Layer Jump Recording in their software.
+
+==External links==
+* Mt Fuji Commands for Multimedia Devices Version 8, 5.18.1.1 Three Recording Modes for DVD-R DL disc by the SFF Committee
+* Nero - First To Support Layer-Jump Recording (LJR) of dual-layer DVD-R media
+* CyberLink Partners with MediaTek to Deliver DVD-R Dual Layer Recording
+* Ulead Taking Advantage of the Increased Capacity of Dual and Double Layer Media
+
+
+Category:SCSI
+Category:DVD

@@ -1,0 +1,113 @@
+Title: Kenichi Uemura
+
+ is a former Japanese football player and manager. He played for the Japan national team.
+
+==Club career==
+Uemura was born in Yatsushiro on April 22, 1974. After graduating from Matsunaga High School, he joined J1 League side Sanfrecce Hiroshima in 1993. He broke into the first team in the first season. His first league appearance came on July 4, 1993 against Verdy Kawasaki at Kawasaki Todoroki Stadium. He scored his first professional goal on July 24, 1993 against Urawa Reds at Hiroshima Stadium. He played in many matches as defender from his first season, except at times when he was injured.
+
+After 11 year's long service at Sanfrecce Hiroshima, he moved to Cerezo Osaka in 2004, then Tokyo Verdy (2005–2006). After a brief spell at YSCC Yokohama, he joined Rosso Kumamoto (later Roasso Kumamoto) in 2007. He damaged his knee ligaments three times and experienced seven operations. These injuries have affected his form. Uemura retired from professional football after the 2008 season.
+
+==National team career==
+He represented the Japan U-23 national team at the 1996 Summer Olympics. He played in 2 matches. He scored a goal in a group stage match against Hungary. Although Japan won 2 matches, Japan exited in the first round. Japan beat Brazil in their first game. It was known as the "Miracle of Miami" (マイアミの奇跡) in Japan.
+
+In April 2001, Uemura was selected by the Japan national team. National team manager Philippe Troussier gave him his first full international cap on April 25 in a friendly against Spain in Córdoba. He was a member of the Japan team for the 2001 Confederations Cup. He played three games and Japan won second place. He played 4 games for Japan in 2001.Japan National Football Team Database
+
+==Coaching career==
+After the retirement, Uemura started coaching career at J2 League club Roasso Kumamoto in 2009. In 2013, he moved to J2 club Kamatamare Sanuki and served as coach under manager Makoto Kitano. However the club was relegated to J3 League end of 2018 season. In 2019, Uemura became a manager as Kitano successor.Kamatamare Sanuki
+
+== Club statistics ==
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan=3 | Club performance
+! colspan=2 | League
+! colspan=2 | Cup
+! colspan=2 | League Cup
+! colspan=2 | Total
+|-
+! Season
+! Club
+! League
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+|-
+! colspan=3 |Japan
+! colspan=2 | League
+! colspan=2 | Emperor's Cup
+! colspan=2 | J.League Cup
+! colspan=2 | Total
+|-
+|1993||rowspan="11"|Sanfrecce Hiroshima||rowspan="10"|J1 League||17||1||2||0||6||0||25||1
+|-
+|1994||26||0||2||0||1||0||29||0
+|-
+|1995||46||4||4||0||colspan="2"|-||50||4
+|-
+|1996||12||2||0||0||7||0||19||2
+|-
+|1997||3||0||0||0||0||0||3||0
+|-
+|1998||17||0||3||0||0||0||20||0
+|-
+|1999||29||7||5||1||4||1||38||9
+|-
+|2000||28||6||2||0||3||0||33||6
+|-
+|2001||25||2||2||0||5||0||32||2
+|-
+|2002||10||1||4||0||0||0||14||1
+|-
+|2003||J2 League||38||0||4||0||colspan="2"|-||42||0
+|-
+|2004||Cerezo Osaka||J1 League||15||0||0||0||6||0||21||0
+|-
+|2005||rowspan="2"|Tokyo Verdy||J1 League||18||0||1||0||4||0||23||0
+|-
+|2006||J2 League||1||0||0||0||colspan="2"|-||1||0
+|-
+|2006||YSCC Yokohama||Regional Leagues||0||0||colspan="2"|-||colspan="2"|-||0||0
+|-
+|2007||Rosso Kumamoto||Football League||30||3||1||0||colspan="2"|-||31||3
+|-
+|2008||Roasso Kumamoto||J2 League||28||0||0||0||colspan="2"|-||28||0
+|-
+!colspan=3|Total
+!343||26||30||1||36||1||409||28
+|}
+
+== National team statistics ==
+
+{| class="wikitable" style="text-align:center"
+! colspan=3 | Japan national team
+|-
+!Year!!Apps!!Goals
+|-
+|2001||4||0
+|-
+!Total||4||0
+|}
+
+==Managerial statistics==
+Update; December 31, 2018
+{| class="wikitable" style="text-align: center"
+!rowspan="2"|Team
+!rowspan="2"|From
+!rowspan="2"|To
+!colspan="5"|Record
+|-
+!G!!W!!D!!L!!Win %
+|-
+|align="left"|Kamatamare Sanuki
+|align="left"|2019
+|align="left"|present
+
+|-
+!colspan="3"|Total
+
+|}
+
+==Honors and awards==
+===Team Honors===
+* FIFA Confederations Cup Runners-Up: 2001
+

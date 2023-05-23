@@ -1,0 +1,633 @@
+Title: List of places in Alaska (K)
+
+This list of cities, towns, unincorporated communities, counties, and other recognized places in the U.S. state of Alaska also includes information on the number and names of counties in which the place lies, and its lower and upper zip code bounds, if applicable.
+
+{| class="wikitable"
+!Name of place
+!Number of counties
+!Principal county
+!Lower zip code
+!Upper zip code
+
+|----
+|Kachemak City
+|1
+|Kenai Peninsula Borough
+|99603
+| 
+|----
+|Kachemak Silo
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Kaguyak
+|1
+|Kodiak Island Borough
+| 
+| 
+|----
+|Kake
+|1
+|Wrangell-Petersburg Census Area
+|99830
+| 
+|----
+|Kake City School District
+|1
+|Wrangell-Petersburg Census Area
+| 
+| 
+|----
+|Kakhonak
+|1
+|Lake and Peninsula Borough
+| 
+| 
+|----
+|Kakhonak
+|1
+|Dillingham Census Area
+| 
+| 
+|----
+|Kako Landing
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Kaktovik
+|1
+|North Slope Borough
+|99747
+| 
+|----
+|Kalakaket Creek Radio Relay Site
+|1
+|Yukon-Koyukuk Census Area
+|99741
+| 
+|----
+|Kalifornsky (census-designated place)
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Kalifornsky village
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Kalla
+|1
+|Northwest Arctic Borough
+| 
+| 
+|----
+|Kallands
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Kalskag
+|1
+|Bethel Census Area
+|99607
+| 
+|----
+|Kaltag
+|1
+|Yukon-Koyukuk Census Area
+|99748
+| 
+|----
+|Kanapak
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Kanatak
+|1
+|Kodiak Island Borough
+| 
+| 
+|----
+|Kanatak
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Kantishna
+|1
+|Denali Borough
+| 
+| 
+|----
+|Karluk
+|1
+|Kodiak Island Borough
+|99608
+| 
+|----
+|Kasaan
+|1
+|Prince of Wales-Outer Census Area
+|99901
+| 
+|----
+|Kashegelok
+|1
+|Bethel Census Area
+|99668
+| 
+|----
+|Kashiagamiut
+|1
+|Dillingham Census Area
+| 
+| 
+|----
+|Kashunamiut Regional Educational Attendance Area
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Kashwitna
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Kasigluk
+|1
+|Bethel Census Area
+|99609
+| 
+|----
+|Kasilof
+|1
+|Kenai Peninsula Borough
+|99610
+| 
+|----
+|Katalla
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Katmai National Park
+|1
+|Dillingham Census Area
+|99501
+| 
+|----
+|Keene Channel
+|1
+|Wrangell-Petersburg Census Area
+| 
+| 
+|----
+|Kenai
+|1
+|Kenai Peninsula Borough
+|99611
+| 
+|----
+|Kenai-Cook Inlet
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Kenai Fjords National Park
+|1
+|Kenai Peninsula Borough
+|99501
+| 
+|----
+|Kenai Lake
+|1
+|Kenai Peninsula Borough
+|99572
+| 
+|----
+|Kenai Peninsula Borough School District
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Kenaitze
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Kennicott
+|1
+|Valdez-Cordova Census Area
+|99566
+| 
+|----
+|Kenny Lake
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Ketchikan
+|1
+|Ketchikan Gateway Borough
+|99901
+| 
+|----
+|Ketchikan
+|1
+|Ketchikan Gateway Borough
+| 
+| 
+|----
+|Ketchikan Coast Guard Base
+|1
+|Ketchikan Gateway Borough
+|99901
+| 
+|----
+|Ketchikan East
+|1
+|Ketchikan Gateway Borough
+| 
+| 
+|----
+|Ketchikan Gateway Borough School District
+|1
+|Ketchikan Gateway Borough
+| 
+| 
+|----
+|Ketchikan International Airport
+|1
+|Ketchikan Gateway Borough
+|99901
+| 
+|----
+|Keyaluvik
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|Kiana
+|1
+|Northwest Arctic Borough
+|99749
+| 
+|----
+|Kinegnak
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|King Cove
+|1
+|Aleutians East Borough
+|99612
+| 
+|----
+|Kingegan
+|1
+|Nome Census Area
+| 
+| 
+|----
+|King Island
+|1
+|Nome Census Area
+| 
+| 
+|----
+|King Salmon
+|1
+|Bristol Bay Borough
+|99613
+| 
+|----
+|King Salmon Airport
+|1
+|Bristol Bay Borough
+|99613
+| 
+|----
+|Kipnuk
+|1
+|Bethel Census Area
+|99614
+| 
+|----
+|Kiska Island
+|1
+|Aleutians West Census Area
+| 
+| 
+|----
+|Kivalina
+|1
+|Northwest Arctic Borough
+|99750
+| 
+|----
+|Kiwalik
+|1
+|Northwest Arctic Borough
+| 
+| 
+|----
+|Klatt Road
+|1
+|Municipality of Anchorage
+| 
+| 
+|----
+|Klawak
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Klawock
+|1
+|Prince of Wales-Outer Census Area
+|99925
+| 
+|----
+|Klawock City School District
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Klery Creek
+|1
+|Northwest Arctic Borough
+| 
+| 
+|----
+|Klikitarik
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Klondike Gold Rush National Historic Park
+|1
+|Skagway-Hoonah-Angoon Census Area
+| 
+| 
+|----
+|Klukwan
+|1
+|Skagway-Hoonah-Angoon Census Area
+|99827
+| 
+|----
+|Klukwan
+|1
+|Skagway-Hoonah-Angoon Census Area
+| 
+| 
+|----
+|Knik
+|1
+|Matanuska-Susitna Borough
+|99687
+| 
+|----
+|Knik-Fairview
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Knik River
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Knudson Cove
+|1
+|Ketchikan Gateway Borough
+| 
+| 
+|----
+|Kobuk
+|1
+|Northwest Arctic Borough
+|99751
+| 
+|----
+|Kobuk
+|1
+|Northwest Arctic Borough
+| 
+| 
+|----
+|Kobuk Valley National Park
+|1
+|Northwest Arctic Borough
+|99501
+| 
+|----
+|Kodiak
+|1
+|Kodiak Island Borough
+|99615
+| 
+|----
+|Kodiak Airport
+|1
+|Kodiak Island Borough
+|99615
+| 
+|----
+|Kodiak Coast Guard Station
+|1
+|Kodiak Island Borough
+|99615
+| 
+|----
+|Kodiak Island
+|1
+|Kodiak Island Borough
+| 
+| 
+|----
+|Kodiak Island Borough School District
+|1
+|Kodiak Island Borough
+| 
+| 
+|----
+|Kodiak Station
+|1
+|Kodiak Island Borough
+| 
+| 
+|----
+|Koggiung
+|1
+|Bristol Bay Borough
+| 
+| 
+|----
+|Kokhanok
+|1
+|Lake and Peninsula Borough
+|99606
+| 
+|----
+|Kokrines
+|1
+|Yukon-Koyukuk Census Area
+|99768
+| 
+|----
+|Kokruagarok
+|1
+|North Slope Borough
+| 
+| 
+|----
+|Koliganek
+|1
+|Dillingham Census Area
+|99576
+| 
+|----
+|Kongiganak
+|1
+|Bethel Census Area
+|99559
+| 
+|----
+|Koniag
+|1
+|Kodiak Island Borough
+| 
+| 
+|----
+|Kotlik
+|1
+|Kusilvak Census Area
+|99620
+| 
+|----
+|Kotzebue
+|1
+|Northwest Arctic Borough
+|99752
+| 
+|----
+|Koyuk
+|1
+|Nome Census Area
+|99753
+| 
+|----
+|Koyukuk
+|1
+|Yukon-Koyukuk Census Area
+|99754
+| 
+|----
+|Koyukuk-Middle Yukon
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Kravaksarak
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Kupreanof
+|1
+|Wrangell-Petersburg Census Area
+|99833
+| 
+|----
+|Kuskovak
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|Kuspuk Regional Educational Attendance Area
+|2
+|Bethel Census Area
+| 
+| 
+|----
+|Kuspuk Regional Educational Attendance Area
+|2
+|Kusilvak Census Area
+| 
+| 
+|----
+|Kustatan
+|1
+|Kenai Peninsula Borough
+|99682
+| 
+|----
+|Kvichak
+|1
+|Lake and Peninsula Borough
+| 
+| 
+|----
+|Kwethluk
+|1
+|Bethel Census Area
+|99621
+| 
+|----
+|Kwigillingok
+|1
+|Bethel Census Area
+|99622
+| 
+|----
+|Kwigorlak
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Kwikpak
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Kwinhagak (Quinhagak)
+|1
+|Bethel Census Area
+|99655
+| 
+|----
+|}
+
+ K

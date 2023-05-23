@@ -1,0 +1,60 @@
+Title: Bartoszyce County
+__NOTOC__
+Bartoszyce County () is a unit of territorial administration and local government (powiat) in Warmian-Masurian Voivodeship, northern Poland, on the border with Russia. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and largest town is Bartoszyce, which lies  north of the regional capital Olsztyn. The county contains three other towns: Górowo Iławeckie,  west of Bartoszyce, Bisztynek,  south of Bartoszyce, and Sępopol,  east of Bartoszyce.
+
+The county covers an area of . As of 2019 its total population is 57,642, out of which the population of Bartoszyce is 23,482, that of Górowo Iławeckie is 3,951, that of Bisztynek is 2,370, that of Sępopol is 1,958, and the rural population is 25,881.
+
+==Neighbouring counties==
+Bartoszyce County is bordered by Kętrzyn County to the east, Olsztyn County to the south, Lidzbark County to the south-west and Braniewo County to the west. It also borders Russia (Kaliningrad Oblast) to the north.
+
+==Administrative division==
+The county is subdivided into six gminas (two urban, two urban-rural and two rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km²)
+| style="text-align:center;"|Population(2019)
+| style="text-align:center;"|Seat
+|-
+|Bartoszyce
+|urban
+| style="text-align:right;"|11.0
+| style="text-align:right;"|23,482
+| 
+|-
+|Gmina Bartoszyce
+|rural
+| style="text-align:right;"|427.8
+| style="text-align:right;"|10,767
+|Bartoszyce *
+|-
+|Gmina Górowo Iławeckie
+|rural
+| style="text-align:right;"|416.3
+| style="text-align:right;"|6,878
+|Górowo Iławeckie *
+|-
+|Gmina Bisztynek
+|urban-rural
+| style="text-align:right;"|203.6
+| style="text-align:right;"|6,339
+|Bisztynek
+|-
+|Gmina Sępopol
+|urban-rural
+| style="text-align:right;"|246.6
+| style="text-align:right;"|6,225
+|Sępopol
+|-
+|Górowo Iławeckie
+|urban
+| style="text-align:right;"|3.3
+| style="text-align:right;"|3,951
+| 
+|-
+|colspan=5 style="text-align:right;font-size:90%"|* seat not part of the gmina
+|-
+|}
+

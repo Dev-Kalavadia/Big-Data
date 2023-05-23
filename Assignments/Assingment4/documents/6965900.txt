@@ -1,0 +1,46 @@
+Title: Neutral Party
+
+The Neutral Party (in Dutch: Neutrale Partij, NP) was a Dutch political party representing artists' interests. It played only a marginal role in Dutch politics.
+
+==History==
+The NP was founded by Henri ter Hall a well-known variety artist. The 1918 elections were the first in the Netherlands to use a system of proportional representation. With about 7,000 votes (0,5% of the votes) the NP won one seat, as did several other ones or two-person parties. After the elections, the election law became more restrictive. After the elections the NP initiated the formation of a neutral parliamentary party, which united several ones and two-person parties, namely the Neutral Party, Peasants' League, the Economic League, the Middle Class Party and the Alliance for Democratization of the Army. The parliamentary party was led by the former minister Willem Treub. In 1921  several of these parties, including the Neutral Party merged into the Liberal State Party, together with two larger liberal parties. Until 1929 the party was an independent part in the Liberal State Party, campaigning with its own list.
+
+==Ideology and issues==
+The NP was a typical special-interest party. Its main goal was to represent the interests of artists and people employed in the entertainment sector. In all other questions it sought to supersede partisan interest and act from the general interest.
+
+==Leadership and support==
+This table show the NP's results in elections to the House of Representatives and Senate, as well as the party's political leadership: the fractievoorzitter, is the chair of the parliamentary party and the lijsttrekker is the party's top candidate in the general election, these posts are normally taken by the party's leader.
+
+{| border="1" cellspacing="0" cellpadding="5"
+|- bgcolor="#cccccc"
+! Year
+! HoR
+! S
+! Lijsttrekker
+! Fractievoorzitter
+|-
+|1918
+|1
+|0
+|Henri ter Hall
+|Henri ter Hall
+|-
+|1919
+|1
+|0
+|no elections
+|Henri ter Hall
+|-
+|1920
+|1
+|0
+|no elections
+|Henri ter Hall
+|}
+
+==Electorate==
+The party drew most of its support from voters who were not aligned with any of the major pillars.
+
+
+
+Category:Defunct political parties in the Netherlands

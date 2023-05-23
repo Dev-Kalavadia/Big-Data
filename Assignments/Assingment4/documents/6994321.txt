@@ -1,0 +1,39 @@
+Title: Mushihimesama Futari
+
+
+, a bullet hell shooter by Cave, was released in arcades on October 27, 2006 and as a sequel to Mushihimesama. Mushihimesama Futari was released on the Xbox 360 in Japan on November 26, 2009. In April 2012, Cave released a port of the game on the iOS platforms, titled Bug Princess 2 (Mushihimesama was also released on the platforms titled Bug Princess).
+
+==Gameplay==
+thumb|left|Arcade version screenshot
+Selectable game modes include Original and Maniac, with unlockable Ultra mode, with each mode increasing in difficulty. The game features five stages, each with a boss and mid-boss. The players can select two characters - Reco and Palm, and choose normal or abnormal shot type for each. The main scoring system in this game involves collecting gems. In Original and Ultra mode, the gem counter switches colour from green to blue every 500 gems. the players collect more gems by killing enemies with the player's laser when the counter is blue, and with the player's shot when the counter is green. There is an overall gem counter and a stage counter, which resets to zero every level. In Maniac mode, when the chain bar is full and flashing red, killing enemies with A increases the number of gems acquired.
+
+Version 1.5 replaced Version 1.0 as the standard version of the game. Item and game system was changed as well as modified bullet patterns, particularly on the bosses. Considered easier than Version 1.0(1). Ultra mode unlocked from the start. Gem counter switches colour every 2000 (instead of 500) in Version 1.5 Ultra mode.
+
+==Plot==
+
+The basic plot revolves around the death of the antagonist from the first game, Aki, and his mother, Larsa, going insane and seeking revenge on Reco for allegedly killing him. Her younger son Palm goes in search of Reco to learn the truth about his brother on his own. Eventually Reco finds Palm lost far from home and the two become friends, with Palm learning what happened to Aki was not her fault. Together, they aim to travel back to Palm's home and stop the madness of Larsa. Larsa is the main antagonist of the story; she pilots Stage 5's boss, Dragon Emperion.
+
+==Development==
+
+
+Mushihimesama Futari does not allow changing of player's shot during mid-game and each character has a specific shot-type associated with them.
+
+Even though Mushihimesama Futari was only released in Japan, it was released without a region lock; allowing the game to be played on non-Japanese consoles — This decision was due to heavy support from overseas fans. CAVE ultimately released a few subsequent Xbox 360 shooters in region-free format, including Espgaluda II Black Label, Muchi Muchi Pork!, and Pink Sweets.
+
+The Mushihimesama Futari original soundtrack was released on CD on May 30, 2007 in Japan and was published by Cave. 
+
+==Releases==
+
+===Xbox 360===
+The Xbox 360 release includes Version 1.5, Novice and Arrange game modes. The player can select between original arcade graphics, and new high resolution graphics. The players can play the game in tate (vertical monitor), with numerous graphical options, including scanlines. The Xbox 360 exclusive arrange mode allows 1 player only to play through the game with special rules. If a player is a hit they do not die and instead a bomb is launched on contact (unless the player does not have any bombs), the player is allowed to switch between controlling Reco or Palm, with the non-active character ghosting alongside the active one while shooting, changing also generates a temporary shield. Selecting shot type is not available in this mode however.
+
+Black Label could be downloaded for 1200 Microsoft Points from the Xbox Live Marketplace under the misspelled title "Mushihime-sama Hutari Black Lavel" as an add-on only, not the full game. First print editions included Version 1.01 via a download code. The limited edition release for Xbox 360 came with an arrange soundtrack CD, an Xbox 360 faceplate and either a version A (Reco) or version B (Palm and Aki) telephone card.Xbox 360版「虫姫さまふたり Ver1.5」初回限定版　予約販売について A Platinum Edition was later released. All versions of the game are region-free.
+
+===iOS===
+The game includes a "wait control" option where the player can make the bullets slow down when numerous. This is technically the first time the game was released internationally. On June of the same year, the Black Label version of the game was released globally under the name Bug Princess 2 BLACK LABEL.
+
+==Reception==
+
+
+Famitsu magazine awarded Mushihimesama Futari ver. 1.5 a score of 29/40 based on four reviews (8/7/7/7).
+

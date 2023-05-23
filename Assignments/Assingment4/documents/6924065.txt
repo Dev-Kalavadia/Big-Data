@@ -1,0 +1,307 @@
+Title: Palm Tran
+
+Palm Tran is the public transit bus system run by the Palm Beach County Government, serving Palm Beach County, Florida. In , the system had a ridership of , or about  per weekday as of . Palm Tran also serves a portion of Broward County, Florida where it overlaps with Broward County Transit. Palm Tran has four main facilities (North Campus in West Palm Beach, South Campus in Delray Beach, Palm Tran Connection/Military Trail and the Belle Glade Facility) with its main headquarters in West Palm Beach on Electronics Way. The current executive director is Clinton B. Forbes.
+
+== History ==
+In 1971, Florida Transit Management, Inc. began service with 20 buses on seven routes. In 1980, this service was expanded to over 60 buses in 22 routes, then renamed CoTran, short for "County Transportation". Finally, in 1996, CoTran was completely restructured to over 150 buses in over 30 routes, then renamed Palm Tran, its fleet repainted to the present white and teal design scheme, and has been that way since. At that time the basic design of the livery of the buses was changed from white and orange to white and teal, some of which are screen-wrapped to the logos and design of the company that sponsors those particular buses, but preserve their Palm Tran logos and bus numbers, the latter of which are assigned a four-digit number according to the year and order in which they were acquired. Also at that time, Florida Transit Management was replaced with Palm Tran Inc., a nonprofit. Palm Tran will introduce USB charging stations on its newest fleet in early 2017.
+
+On September 30, 2018, Palm Tran implemented the first overhaul to the entire network since 1996. In addition, free Wi-Fi was added on all busses.
+
+== Future ==
+On April 23, 2019, The Palm Tran broke ground on an expansion project on its South County Facility in Delray Beach, Florida. The current 3,800 Square foot space will be converted into a three-story 34,000 square foot facility. The project is set to cost 25 million, 90 percent of which is federally funded. The facility will feature charging stations for their fleet of fully electric buses; along with service stations for 20 additional buses. The building will feature art by Palm Beach County's Art in Public Places Program.
+
+== Rates ==
+Plexiglass shields on the driver's side are in place, to reduce interaction.
+
+The standard adult one-way fare is $2. People eligible for the reduced fare, such as students, disabled, and senior citizens, pay $1. $5 buys an unlimited 24-hour pass ($3.50 for reduced fare). Daily and 31-day unlimited ride passes are also available for purchase at Palm Tran Connection. There are 31-day unlimited passes that are available reduced or regular costing $55 and $70 respectively. Kids below 9 ride free with fare-paying rider, limit is 3.
+
+== Bus technology ==
+All Palm Tran buses have bicycle racks on the front, capable of holding two bikes. They are also equipped GPS and video surveillance cameras which record activity on the bus and the outer side facing the bus stops. Recently Palm Tran has equipped all fixed-route buses with Automatic Vehicle Location technology that enables passengers to track buses and bus arrivals in real time. Palm Tran also offers real-time bus arrival information on its website or through its MyStop Mobile app, as well as on-demand through SMS. In October 2018, all 159 fixed route buses started to offer free Wi-Fi to its riders.
+
+The Palm Tran announced plans to incorporate new payment methods in addition to cash. The new upgrades will allow the service to accept credit cards and smartphone payments. The upgrade is set to cost between 5 million and 6 million dollars.
+
+== Palm Tran Connection ==
+Palm Tran Connection is a shared ride, door to door, paratransit service that provides transportation for residents and visitors in Palm Beach County under six programs:
+* Americans with Disabilities Act (ADA) Program
+* Transportation Disadvantaged (TD) Program
+* Division of Senior Services (DOSS) Program
+* Board of County Commissioner (BCC) Program
+* County Senior Transportation (CSTS) Program
+* Medicaid
+Palm Tran Connection is operated by private transport companies and oversight is provided through Palm Tran. They travel to every destination in Palm Beach County – from Jupiter to Boca Raton and from Palm Beach to South Bay. Palm Tran Connection schedules all trips, prepares vehicle manifests, handles customer concerns & commendations, determines eligibility, and monitors the performance of the Transportation Providers.
+
+== Route list ==
+
+
+Routes are divided into four regions within the county.
+
+=== Main Corridor ===
+Main Corridor routes traverse the primary north–south surface roads of the county from Boca Raton in the south to Riviera Beach in the north.
+{| class=wikitable
+! Route
+!colspan=3|Terminals
+! Primary streets traveled
+! Service notes
+|-
+!1
+|Palm Beach GardensThe Gardens Mall
+! ↔
+|Boca RatonCamino Real
+|US 1
+|
+|-
+!2
+|West Palm BeachIntermodal Transit Center
+! ↔
+|rowspan=2|Boca RatonTown Center Mall
+|Congress Avenue
+|
+|-
+!3
+|Palm Beach GardensThe Gardens Mall
+! ↔
+|Military Trail
+|
+|-
+!4
+|West Palm BeachMilitary Crossing
+! ↔
+|Riviera BeachVA Medical Center
+|Haverhill Road
+|
+|}
+
+=== North County ===
+North County routes mainly serve Palm Beach Gardens, Riviera Beach, and Jupiter.
+{| class=wikitable
+! Route
+!colspan=3|Terminals
+! Primary streets traveled
+! Service notes
+|-
+!10
+|rowspan=3|Palm Beach GardensThe Gardens Mall
+! ↔
+|JupiterJupiter Town Hall
+|Indiantown Road, Military Trail
+|No Sunday service
+|-
+!20
+! ↔
+|West Palm BeachIntermodal Transit Center
+|Northlake Boulevard, Congress Avenue
+|
+|-
+!21
+! ↔
+|Mangonia ParkTri-Rail Station
+|US 1, Old Dixie Highway
+|No Sunday service
+|-
+!30
+|rowspan=2|Riviera BeachVA Medical Center
+! ↔
+|Singer IslandLake Drive
+|Blue Heron Boulevard
+|
+|-
+!31
+! ↔
+|West Palm BeachIntermodal Transit Center
+|45th Street, Tamarind Avenue
+|
+|-
+!33
+|Palm Beach GardensThe Gardens Mall
+! ↔
+|West Palm BeachCross County Plaza
+|Australian Avenue, Palm Beach Lakes Boulevard
+|
+|}
+
+=== Central County ===
+Central County routes serve West Palm Beach, Wellington, Lake Worth, and Belle Glade.
+{| class=wikitable
+! Route
+!colspan=3|Terminals
+! Primary streets traveled
+! Service notes
+|-
+!rowspan=2|40
+|rowspan=2|Belle GladeWest Tech Education Center
+! ↔
+|WellingtonMall at Wellington Green
+|Southern Boulevard
+|
+|-
+! ↔
+|rowspan=4|West Palm BeachIntermodal Transit Center
+|Southern Boulevard, Australian Avenue
+|Rush hour service only
+|-
+!41
+|Palm BeachPalm Beach Inlet
+! ↔
+|North County Road
+|No Sunday service
+|-
+!43
+|WellingtonMall at Wellington Green
+! ↔
+|Okeechobee Boulevard
+|
+|-
+!44
+|West Palm BeachVista Center
+! ↔
+|Belvedere Road, Cherry Road
+|
+|-
+!46
+|WellingtonMall at Wellington Green
+! ↔
+|West Palm BeachPalm Coast Plaza
+|Forest Hill Boulevard
+|
+|-
+!47
+|Canal PointCommunity Center
+! ↔
+|South BaySecond Street
+|SR 15, SR 715
+|
+|-
+!49
+|West Palm BeachExecutive Center Drive
+! ↔
+|West Palm BeachIntermodal Transit Center
+|Palm Beach Lakes Boulevard
+|
+|-
+!52
+|WellingtonMall at Wellington Green
+! ↔
+|Loxahatchee GrovesPalm Beach State College
+|SR 7, Royal Palm Beach Boulevard
+|No Sunday service
+|-
+!60
+|rowspan=2|GreenacresRiver Bridge Centre
+! ↔
+|West Palm BeachIntermodal Transit Center
+|Purdy Lane, Summit Boulevard, Parker Avenue
+|No Sunday service
+|-
+!61
+! ↔
+|Lake WorthPalm Beach State College
+|Cresthaven Boulevard, 10th Avenue North
+|
+|-
+!62
+|WellingtonMall at Wellington Green
+! ↔
+|Lake WorthLake Worth Beach
+|Lake Worth Road
+|
+|-
+!63
+|West Palm BeachVista Center
+! ↔
+|LantanaHypoluxo Road & US 1
+|Jog Road, Lantana Road
+|
+|-
+!64
+|GreenacresWIC Center
+! ↔
+|LantanaCounty Public Health
+|Melaleuca Lane, 6th Avenue South
+|No Sunday service
+|}
+
+=== South County ===
+South County routes mainly serve the cities of Boynton Beach, Delray Beach, and Boca Raton.
+{| class=wikitable
+! Route
+!colspan=3|Terminals
+! Primary streets traveled
+! Service notes
+|-
+!70
+|LantanaCounty Public Health
+! ↔
+|Delray BeachTri-Rail Station
+|Seacrest Boulevard
+|
+|-
+!71
+|Boynton BeachLantana Road & Military Trail
+! ↔
+|Boynton BeachBoynton Beach Mall
+|Lawrence Road
+|No Sunday service
+|-
+!73 
+|Boynton BeachBethesda Hospital West
+! ↔
+|Boynton BeachTri-Rail Station
+|Boynton Beach Boulevard
+|
+|-
+!80
+|Delray BeachDelray Square
+! ↔
+|Delray BeachPlaza at Delary
+|Lake Ida Road, SW 4th Avenue
+|
+|-
+!81
+|Delray BeachHagen Ranch Library
+! ↔
+|Delray BeachAtlantic Avenue & SE 6th Street
+|Atlantic Avenue
+|No Sunday service
+|-
+!88
+|Delray BeachLakes of Delray
+! ↔
+|Delray BeachPlaza at Delray
+|Linton Boulevard, Lowson Boulevard
+|
+|-
+!91
+|rowspan=2|Boca RatonSandalfoot Square
+! ↔
+|Boca RatonFlorida Atlantic University
+|Glades Road
+|
+|-
+!92
+! ↔
+|Deerfield BeachHillsboro Boulevard & Federal Highway
+|Palmetto Park Road
+|No Sunday service
+|-
+!94
+|Boca RatonTri-Rail Station
+! ↔
+|Boca RatonCamino Real & Federal Highway
+|NW 8th Avenue, NE 20th Street
+|Serves Florida Atlantic University
+|}
+
+== See also ==
+* Transportation in South Florida
+
+== References ==
+
+
+== External links ==
+*The official Palm Tran site
+
+
+
+Category:Bus transportation in Florida
+Category:Transportation in Palm Beach County, Florida
+Category:West Palm Beach, Florida

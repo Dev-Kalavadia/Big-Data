@@ -1,0 +1,183 @@
+Title: 1995 Little League World Series
+
+The 1995 Little League World Series took place between August 21 and August 26 in Williamsport, Pennsylvania. The Shan-Hua Little League of Tainan, Taiwan, defeated the Northwest 45 Little League of Spring, Texas, in the championship game of the 49th Little League World Series.
+
+==Teams==
+{| class="wikitable"
+|-
+! United States
+! International
+|-
+|  Arden Hills, MinnesotaCentral RegionLittle Lakes West Little League
+|  Toronto, Ontario Canada RegionHigh Park Little League
+|-
+|  Toms River, New JerseyEast RegionAmerican Little League
+|  Dhahran, Saudi ArabiaEurope RegionArabian American Little League
+|-
+|  Spring, TexasSouth RegionNorthwest 45 Little League
+|  Tainan, TaiwanFar East RegionShan-Hua Little League
+|-
+|  Yorba Linda, CaliforniaWest RegionYorba Hills Little League
+|  Hatillo-San Cristóbal, Dominican RepublicLatin America RegionEduardo Sosa Little League
+|}
+
+==Pool play==
+{| class="wikitable"
+|+United States
+|-
+! Rank
+! State
+! Record
+|- bgcolor="bbffbb"
+|align=center| 1
+|align="left" width="120" |   Texas
+|align=center| 2–1
+|- bgcolor="bbffbb"
+|align=center| 2
+|align="left" width="120" |   California
+|align=center| 2–1
+|-
+|align=center| 3
+|align="left" width="120" |   New Jersey
+|align=center| 1–2
+|-
+|align=center| 4
+|align="left" width="120" |   Minnesota
+|align=center| 1–2
+|}
+
+{| class="wikitable"
+|+International
+|-
+! Rank
+! Country
+! Record
+|- bgcolor="bbffbb"
+|align=center| 1
+|align="left" width="120" |   Taiwan
+|align=center| 3–0
+|- bgcolor="bbffbb"
+|align=center| 2
+|align="left" width="150" |   Dominican Republic
+|align=center| 2–1
+|-
+|align=center| 3
+|align="left" width="120" |   Saudi Arabia
+|align=center| 1–2
+|-
+|align=center| 4
+|align="left" width="120" |   Canada
+|align=center| 0–3
+|}
+
+{| class="wikitable"
+|-
+!Pool
+!width="160" |Team 1
+!Score
+!width="160" |Team 2
+!Score
+|-
+! colspan="6" | August 21
+|-
+|align=center|INT
+|align=center| Saudi Arabia
+|align=center|5
+|align=center| Canada
+|align=center|4
+|-
+|align=center|US
+|align=center| Texas
+|align=center|11
+|align=center| New Jersey
+|align=center|10
+|-
+|align=center|INT
+|align=center| Taiwan
+|align=center|5
+|align=center| Dominican Republic
+|align=center|1
+
+|-
+|align=center|US
+|align=center| California
+|align=center|17
+|align=center| Minnesota
+|align=center|5
+|-
+! colspan="6" | August 22
+|-
+|align=center|INT
+|align=center| Dominican Republic
+|align=center|7
+|align=center| Canada
+|align=center|2
+|-
+|align=center|US
+|align=center| New Jersey
+|align=center|11
+|align=center| Minnesota
+|align=center|4
+|-
+|align=center|INT
+|align=center| Saudi Arabia
+|align=center|0
+|align=center| Taiwan
+|align=center|12 
+|-
+|align=center|US
+|align=center| Texas
+|align=center|8
+|align=center| California
+|align=center|2
+|-
+! colspan="6" | August 23
+|-
+|align=center|INT
+|align=center| Dominican Republic
+|align=center|11 
+|align=center| Saudi Arabia
+|align=center|1
+|-
+|align=center|US
+|align=center| California
+|align=center|8
+|align=center| New Jersey
+|align=center|3
+|-
+|align=center|INT
+|align=center| Canada
+|align=center|2
+|align=center| Taiwan
+|align=center|12 
+|-
+|align=center|US
+|align=center| Minnesota
+|align=center|12 
+|align=center| Texas
+|align=center|1
+|}
+
+==Elimination round==
+
+
+{| class="wikitable" style="text-align: center; margin: 0 auto;"
+|-
+!1995 Little League World Series Champions
+|-
+|-
+|100pxShan-Hua Little LeagueTainan, Taiwan
+|}
+
+==Notable players==
+*Jeff Frazier (Toms River, New Jersey) - Former MLB player
+
+==External links==
+*1995 Tournament Bracket via Wayback Machine
+
+
+
+Category:Little League World Series
+Little League World Series
+Little League World Series
+Little League World Series

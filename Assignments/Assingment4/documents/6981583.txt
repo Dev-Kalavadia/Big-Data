@@ -1,0 +1,68 @@
+Title: Kołobrzeg County
+__NOTOC__
+Kołobrzeg County () is a unit of territorial administration and local government (powiat) in West Pomeranian Voivodeship, north-western Poland, on the Baltic coast. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat is Kołobrzeg, which lies on the coast  north-east of the regional capital Szczecin. Its only other town is Gościno.
+
+The county covers an area of . As of 2006 its total population was 76,089, out of which the population of Kołobrzeg was 44,794 and the rural population was 31,295.
+
+==Neighbouring counties==
+Kołobrzeg County is bordered by Koszalin County to the east, Białogard County to the south-east, Świdwin County and Łobez County to the south, and Gryfice County to the south-west. It also borders the Baltic Sea to the north.
+
+==Administrative division==
+The county is subdivided into seven gminas (one urban, one urban-rural and five rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km²)
+| style="text-align:center;"|Population(2006)
+| style="text-align:center;"|Seat
+|-
+|Kołobrzeg
+|urban
+| style="text-align:right;"|25.7
+| style="text-align:right;"|44,794
+| 
+|-
+|Gmina Kołobrzeg
+|rural
+| style="text-align:right;"|144.8
+| style="text-align:right;"|9,176
+|Kołobrzeg *
+|-
+|Gmina Dygowo
+|rural
+| style="text-align:right;"|128.6
+| style="text-align:right;"|5,605
+|Dygowo
+|-
+|Gmina Gościno
+|urban-rural
+| style="text-align:right;"|116.0
+| style="text-align:right;"|5,136
+|Gościno
+|-
+|Gmina Rymań
+|rural
+| style="text-align:right;"|146.1
+| style="text-align:right;"|4,183
+|Rymań
+|-
+|Gmina Ustronie Morskie
+|rural
+| style="text-align:right;"|57.3
+| style="text-align:right;"|3,613
+|Ustronie Morskie
+|-
+|Gmina Siemyśl
+|rural
+| style="text-align:right;"|107.4
+| style="text-align:right;"|3,582
+|Siemyśl
+|-
+|colspan=5 style="text-align:right;font-size:90%"|* seat not part of the gmina
+|-
+|}
+
+thumb|200px|left|County seat (starostwo powiatowe)
+

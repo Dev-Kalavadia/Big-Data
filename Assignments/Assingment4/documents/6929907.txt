@@ -1,0 +1,31 @@
+Title: Anvil of Dawn
+
+Anvil of Dawn is a 1995 fantasy role-playing video game developed by DreamForge Intertainment and published by New World Computing.  Anvil of Dawn was named the best role-playing game of 1995 by Computer Gaming World and Computer Game Review.
+
+==Gameplay==
+The game was released 1995 for MS-DOS and was one of the last dungeon crawl RPGs with blockstep movements and semi-3D environment. The game presents a real-time, three-dimensional view from the character's perspective. It was released on CD and features fully spoken dialogue and several pre-rendered cutscenes. The player controls only one character throughout the game, which is chosen at the beginning from 5 different heroes. The other characters can then be met in the game also trying to fulfill the quest. The game is mostly action oriented but also contains some puzzles. There are no experience points as the character gets better through using his abilities and spells. It also features several different endings.
+
+==Plot==
+The game plays in the world of Tempest. The civilization had been overrun by an evil warlord and the last castle of the good is under siege. The player's character is then teleported in the already occupied and devastated land, where he strives to fulfill his quest to defeat the warlord and his minions.
+
+==Development==
+Anvil of Dawn was developed by DreamForge Intertainment. In the concept stage, the team chose to focus the game on atmosphere and player immersion, which led to the decision to pre-render the game's environments via three-dimensional (3D) graphical models. While real-time 3D graphics were used by certain other dungeon crawl games at the time, DreamForge believed that their environments looked "flat and pixellated", and sought greater realism through pre-rendering. For the outdoor scenes, the team lined 3D models of each environment with "movement nodes", and pre-recorded "mini-cinematics" to animate transitions from one node to another. Their objective was to make the game feel seamless, whether the player was stepping through an area or moving between dungeons.
+
+The goal of uninterrupted immersion led them to simplify the game's interface, to reduce the number of heads-up display icons and to include automatically updated quest logs, spellbooks and maps. According to the company's Chris Straka, the team "made every effort to bridge the gap between the novice and the expert player", without automating too much of the gameplay. So that players could immediately understand and play Anvil of Dawn, DreamForge chose to make the game completable with only the left mouse button. This decision in turn inspired the team to limit the game to a single player character, instead of a party-based system. Straka explained, "In this way, we didn't have to worry about multiple characters, multiple faces, multiple inventories, etc., and how all the possible combinations can be made functional with a simple left click."
+
+Several months were dedicated to the conception and implementation of magic, and a pseudo-turn-based system was devised to handle fighting. Enemies attack at set intervals, which DreamForge tried to make long enough that players did not "feel overly rushed" during combat. However, enemies are also programmed to counterattack each of the player's strikes, after which they return to the waiting interval. This allows the player to set the pace of combat: attacking rapidly increases enemies' attack speed in turn, while attacking slowly decreases it.
+
+==Reception==
+
+
+According to PC Accelerator, Anvil of Dawn was "critically acclaimed". It was named the best role-playing game of 1995 by Computer Gaming World and Computer Game Review, and received a nomination for Computer Games Strategy Pluss "Role-Playing Game of the Year" award, which went to Stonekeep. The editors of Computer Gaming World singled out Anvil of Dawns "playability and balance" as the reasons for their decision, while those of Computer Game Review summarized the title as "an excellent job all the way around."
+
+Writing for PC Gamer US, Trent C. Ward called Anvil of Dawn an "attractive and enjoyable RPG that doesn't stretch the boundaries very far." In Computer Gaming World, Scorpia summarized the game as "a dungeon romp with several points of interest, and a couple of pleasant surprises." Andy Butcher reviewed Anvil of Dawn for Arcane magazine, rating it an 8 out of 10 overall. Butcher comments that "As with nearly all computer RPGs, this is still limited to hack-and-slash; but it's hack-and-slash raised to an art form. Anvil Of Dawn is ultimately limited, but it's so easy to get into that it hardly matters." Computer Games Strategy Plus was less positive: the magazine's Steve Wartofsky argued that "there are both faster and deeper games already on the market or shortly on the way."
+
+In his book Dungeons and Desktops: The History of Computer Role-Playing Games (2008), the video game historian Matt Barton declared Anvil of Dawn "one of the best of the Dungeon Master-inspired games". He cited the game's "careful pacing, splendid music, and ... superior interface" as high points.
+
+==Legacy==
+In 1999, a writer for PC Accelerator reported that New World Computing initially planned to use Anvil of Dawn as the start of "an ongoing franchise" after its release. However, these plans were dropped in favor of focusing on Might & Magic titles.
+
+In 2013, the game was re-released via GOG.com with Microsoft Windows support.
+

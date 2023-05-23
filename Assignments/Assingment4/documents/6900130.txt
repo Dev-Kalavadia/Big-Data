@@ -1,0 +1,33 @@
+Title: Klocwork
+
+
+Klocwork is a static code analysis tool owned by Minneapolis, Minnesota-based software developer Perforce. Klocwork software analyzes source code in real time, simplifies peer code reviews, and extends the life of complex software.
+
+==Overview==
+Klocwork is used to identify security, safety and reliability issues in C, C++, C#, Java, JavaScript and Python code. The product includes numerous desktop plug-ins for developers, metrics and reporting.
+
+==History==
+Originally Klocwork’s technology was developed to address requirements for large-scale source code analysis to optimize software architecture for C code inside Nortel Networks and spun out in 2001. 
+
+In January 2012, Klocwork Insight 9.5 was released.Dr Dobb's - Source Code Analysis: Spell-checker style. It provided on-the-fly static analysis in Visual Studio, like a word processor does with spelling mistakes.
+
+In May 2013, Klocwork Cahoots peer code review tool was launched.
+
+===Awards and recognition===
+In 2007, Klocwork was awarded the 2007 InfoWorld Technology of Year award for best source code analyzer.
+
+In May 2014, Klocwork won the Red Herring Top 100 North America Award, in the software sector.2014 Red Herring North America: Winners
+
+==Original developer==
+
+
+
+Klocwork was an Ottawa, Canada-based software company that developed the Klocwork brand of programming tools for software developers. The company was acquired by Minneapolis-based application software developer Perforce in 2019, as part of their acquisition of Klocwork's parent software company Rogue Wave. Klocwork no longer exists as a standalone company, but Perforce continues to develop Klocwork branded static code analysis software. 
+
+===Company history===
+The company was founded in 2001 as a spin-out of Nortel Networks. Its initial investors were Firstmark Capital, USVP, and Mobius Ventures.
+
+In January 2014, the company was acquired by Rogue Wave Software.
+
+In January 2019, Rogue Wave was acquired by Minneapolis-based application software developer Perforce.
+

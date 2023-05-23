@@ -1,0 +1,152 @@
+Title: Mukims of Brunei
+A mukim is the second-level administrative division of Brunei, and the primary subdivision of a district. There are 39 mukims in the country. A mukim is led by a , since 2015 elected by popular vote. A mukim encompasses a number of villages ( or ). Mukims are administered by the district office of the district where they are located.
+
+== List of mukims ==
+thumb|Mukims of Brunei
+{| class="wikitable sortable"
+!Mukim
+!District
+!Population(2016)
+!Map
+|-
+|Berakas 'A'
+| rowspan="18" |Brunei-Muara
+| align="right" |27,223
+| rowspan="18" |frameless|200x200px
+(note that Gadong 'A' and 'B' are
+
+shown as one entity)
+|-
+|Berakas 'B'
+| align="right" |40,710
+|-
+|Burong Pingai Ayer
+| align="right" |1,770
+|-
+|Gadong 'A'
+| align="right" |34,049
+|-
+|Gadong 'B'
+| align="right" |33,637
+|-
+|Kianggeh
+| align="right" |8,228
+|-
+|Kilanas
+| align="right" |22,492
+|-
+|Kota Batu
+| align="right" |12,935
+|-
+|Lumapas
+| align="right" |7,756
+|-
+|Mentiri
+| align="right" |30,192
+|-
+|Pangkalan Batu
+| align="right" |14,492
+|-
+|Peramu
+| align="right" |1,111
+|-
+|Saba
+| align="right" |1,000
+|-
+|Sengkurong
+| align="right" |31,493
+|-
+|Serasa
+| align="right" |16,173
+|-
+|Sungai Kebun
+| align="right" |4,750
+|-
+|Sungai Kedayan
+| align="right" |230
+|-
+|Tamoi
+| align="right" |1,389
+|-
+|Bukit Sawat
+| rowspan="8" |Belait
+| align="right" |794
+| rowspan="8" |frameless|200x200px
+|-
+|Kuala Balai
+| align="right" |31
+|-
+|Kuala Belait
+| align="right" |31,308
+|-
+|Labi
+| align="right" |1,216
+|-
+|Liang
+| align="right" |14,301
+|-
+|Melilas
+| align="right" |29
+|-
+|Seria
+| align="right" |21,214
+|-
+|Sukang
+| align="right" |169
+|-
+|Keriam
+| rowspan="8" |Tutong
+| align="right" |9,707
+| rowspan="8" |frameless|200x200px
+|-
+|Kiudang
+| align="right" |5,924
+|-
+|Lamunin
+| align="right" |4,298
+|-
+|Pekan Tutong
+| align="right" |10,551
+|-
+|Rambai
+| align="right" |1,404
+|-
+|Tanjong Maya
+| align="right" |4,062
+|-
+|Telisai
+| align="right" |10,095
+|-
+|Ukong
+| align="right" |2,272
+|-
+|Amo
+| rowspan="5" |Temburong
+| align="right" |2,144
+| rowspan="5" |frameless|200x200px
+|-
+|Bangar
+| align="right" |2,449
+|-
+|Batu Apoi
+| align="right" |1,635
+|-
+|Bokok
+| align="right" |3,433
+|-
+|Labu
+| align="right" |590
+|}
+
+== References ==
+
+
+
+
+Category:Subdivisions of Brunei
+Brunei, Mukims
+Brunei 2
+Mukims, Brunei
+Category:Brunei geography-related lists
+
+

@@ -1,0 +1,31 @@
+Title: Transporter associated with antigen processing
+
+
+Transporter associated with antigen processing (TAP) protein complex belongs to the ATP-binding-cassette transporter family. It delivers cytosolic peptides into the endoplasmic reticulum (ER), where they bind to nascent MHC class I molecules.
+
+The TAP structure is formed of two proteins: TAP-1 and TAP-2, which have one hydrophobic region and one ATP-binding region each. They assemble into a heterodimer, which results in a four-domain transporter.
+
+==Function==
+
+The TAP transporter is found in the ER lumen associated with the peptide-loading complex (PLC). This complex of β2 microglobulin, calreticulin, ERp57, TAP, tapasin, and MHC class I acts to keep hold of MHC molecules until they have been fully loaded with peptides.
+
+===Peptide transport===
+
+TAP-mediated peptide transport is a multistep process. The peptide-binding pocket is formed by TAP-1 and TAP-2. Association with TAP is an ATP-independent event, ‘in a fast bimolecular association step, peptide binds to TAP, followed by a slow isomerisation of the TAP complex’. It is suggested that the conformational change in structure triggers ATP hydrolysis and so initiates peptide transport.
+
+Both nucleotide-binding domains (NBDs) are required for peptide translocation, as each NBD cannot hydrolyse ATP alone. The exact mechanism of transport is not known; however, findings indicate that ATP binding to TAP-1 is the initial step in the transport process, and that ATP bound to TAP-1 induces ATP binding in TAP-2. It has also been shown that undocking of the loaded MHC class I is linked to the transport cycle of TAP caused by signals from the TAP-1 subunit.
+
+===Transport of mRNA out of the nucleus===
+
+Yeast protein Mex67p and human NXF1, also-called TAP, are the two best-characterized NXFs (nuclear transport factors). TAPs mediate the interaction of the  messenger ribonucleoprotein particle (mRNP) and the nuclear pore complex (NPC).NXFs bear no resemblance to prototypical nuclear transport receptors of the importin – exportin (karyopherin) family and lack the characteristic Ran-binding domain found in all karyopherins. 
+
+===Specificity===
+The ATPase activity of TAP is highly dependent on the presence of the correct substrate, and peptide binding is prerequisite for ATP hydrolysis. This prevents waste of ATP via peptide-independent hydrolysis.
+
+The specificity of TAP proteins was first investigated by trapping peptides in the ER using glycosylation. TAP binds to 8- to 16-residue peptides with equal affinity, while translocation is most efficient for peptides that are 8 to 12 residues long. Efficiency reduces for peptides longer than 12 residues. However, peptides with more than 40 residues were translocated, albeit with low efficiency.  Peptides with low affinity for the MHC class I molecule are transported out of the ER by an efficient ATP-dependent export protein. These outlined mechanisms may represent a mechanism for ensuring that only high-affinity peptides are bound to MHC class I.
+
+==See also==
+*Endoplasmic Reticulum
+*MHC Class I
+*Immune System
+

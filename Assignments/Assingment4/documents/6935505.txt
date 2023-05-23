@@ -1,0 +1,275 @@
+Title: List of municipalities of the Province of Caltanissetta
+
+The following is a list of the 22 municipalities (comuni) of the Province of Caltanissetta, Sicily, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2009)
+!Area(km²)
+!Elevation(m)
+!Location
+!Fiscal code
+!Area code
+!Demonym (pl.)
+!Official website
+|-
+|085001
+|Acquaviva Platani
+| align="right" |1,045
+| align="right" |14.7
+| align="right" |558
+|
+| align="right" |A049
+| align="right" |0934
+| Acquavivesi
+| comune.acquavivaplatani.cl.it
+|-
+|085002
+|Bompensiere
+| align="right" |632
+| align="right" |19.7
+| align="right" |283
+|
+| align="right" |A957
+| align="right" |0934
+| Bompensierini, Nadurisi
+| comunebompensiere.it
+|-
+|085003
+|Butera
+| align="right" |5,004
+| align="right" |297.1
+| align="right" |402
+|
+| align="right" |B302
+| align="right" |0934
+| Buteresi
+| comunedibutera.it
+|-
+|085004
+|Caltanissetta
+| align="right" |60,267
+| align="right" |417.2
+| align="right" |568
+|
+| align="right" |B429
+| align="right" |0934
+| Nisseni
+| comune.caltanissetta.it
+|-
+|085005
+|Campofranco
+| align="right" |3,308
+| align="right" |36.1
+| align="right" |350
+|
+| align="right" |B537
+| align="right" |0934
+| Campofranchesi
+| comune.campofranco.cl.it
+|-
+|085006
+|Delia
+| align="right" |4,551
+| align="right" |12.3
+| align="right" |420
+|
+| align="right" |D267
+| align="right" |0922
+| Deliani
+|
+|-
+|085007
+|Gela
+| align="right" |77,209
+| align="right" |277.3
+| align="right" |46
+|
+| align="right" |D960
+| align="right" |0933
+| Galati, Gelidi, Gelesi
+| comune.gela.cl.it
+|-
+|085008
+|Marianopoli
+| align="right" |2,075
+| align="right" |13.0
+| align="right" |720
+|
+| align="right" |E953
+| align="right" |0934
+| Marianopolitani, Manchesi
+| comune.marianopoli.cl.it
+|-
+|085009
+|Mazzarino
+| align="right" |12,007
+| align="right" |294.0
+| align="right" |553
+|
+| align="right" |F065
+| align="right" |0934
+| Mazzarinesi
+| comune.mazzarino.cl.it
+|-
+|085010
+|Milena
+| align="right" |3,223
+| align="right" |24.6
+| align="right" |436
+|
+| align="right" |E618
+| align="right" |0934
+| Milenesi
+| comune.milena.cl.it
+|-
+|085011
+|Montedoro
+| align="right" |1,683
+| align="right" |14.1
+| align="right" |450
+|
+| align="right" |F489
+| align="right" |0934
+| Montedoresi
+| comune.montedoro.cl.it
+|-
+|085012
+|Mussomeli
+| align="right" |11,219
+| align="right" |163.9
+| align="right" |726
+|
+| align="right" |F830
+| align="right" |0934
+| Mussomelesi
+| comune.mussomeli.cl.it
+|-
+|085013
+|Niscemi
+| align="right" |26,402
+| align="right" |96.5
+| align="right" |332
+|
+| align="right" |F899
+| align="right" |0933
+| Niscemesi
+| comune.niscemi.cl.it
+|-
+|085014
+|Resuttano
+| align="right" |2,206
+| align="right" |38.2
+| align="right" |600
+|
+| align="right" |H245
+| align="right" |0934
+| Resuttanesi
+| comune.resuttano.cl.it
+|-
+|085015
+|Riesi
+| align="right" |11,294
+| align="right" |66.7
+| align="right" |330
+|
+| align="right" |H281
+| align="right" |0934
+| Riesini
+| comune.riesi.cl.it
+|-
+|085016
+|San Cataldo
+| align="right" |23,359
+| align="right" |75.1
+| align="right" |625
+|
+| align="right" |H792
+| align="right" |0934
+| Sancataldesi
+| comune.san-cataldo.cl.it
+|-
+|085017
+|Santa Caterina Villarmosa
+| align="right" |5,738
+| align="right" |75.6
+| align="right" |606
+|
+| align="right" |I169
+| align="right" |0934
+| Caterinesi
+| comune.santacaterinavillarmosa.cl.it
+|-
+|085018
+|Serradifalco
+| align="right" |6,428
+| align="right" |41.6
+| align="right" |504
+|
+| align="right" |I644
+| align="right" |0934
+| Serradifalchesi
+| comune.serradifalco.cl.it
+|-
+|085019
+|Sommatino
+| align="right" |7,420
+| align="right" |34.7
+| align="right" |359
+|
+| align="right" |I824
+| align="right" |0922
+| Sommatinesi
+| comune.sommatino.cl.it
+|-
+|085020
+|Sutera
+| align="right" |1,502
+| align="right" |35.5
+| align="right" |590
+|
+| align="right" |L016
+| align="right" |0934
+| Suteresi
+| comune.sutera.cl.it
+|-
+|085021
+|Vallelunga Pratameno
+| align="right" |3,725
+| align="right" |39.2
+| align="right" |472
+|
+| align="right" |L609
+| align="right" |0934
+| Vallelunghesi
+| comune.vallelunga.cl.it
+|-
+|085022
+|Villalba
+| align="right" |1,755
+| align="right" |41.5
+| align="right" |620
+|
+| align="right" |L959
+| align="right" |0934
+| Villalbesi
+| comune.villalba.cl.it
+|-
+|
+|Total
+| align="right" |272,052
+| align="right" |2,128.5
+|
+|
+|
+|
+|
+|
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

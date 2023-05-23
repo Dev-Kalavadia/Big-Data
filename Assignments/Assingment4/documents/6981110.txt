@@ -1,0 +1,107 @@
+Title: Maroggia
+
+Maroggia is a former municipality in the district of Lugano in the canton of Ticino in Switzerland. On 10 April 2022, the former municipalities of Maroggia, Melano and Rovio merged to form the new municipality of Val Mara.
+
+==History==
+Maroggia is first mentioned around 962-966 as Marogia.
+
+The Maroggia area has been inhabited since the Iron Age.  In 1906, a northern Etruscan inscription was discovered, followed by a Roman era stele in 1926.  The Lombards King Liutprand gave the village to church of S. Carpoforo in Como in 724.  Later it went to the Benedictine abbey of S. Ambrogio in Milan.  In 1798, it joined the short-lived Republic of Riva San Vitale.
+
+The village belonged to the parish church of Riva San Vitale until 1644 when it became an independent parish.  The parish church of St. Peter is first mentioned in 1579, but was built in the Early Middle Ages.  The new building was built in 1640 and restored in 1982-83.  On the foundation of a building from the 16th Century the pilgrimage chapel of Madonna della Cintura was built in 1731-66.
+
+Historically, the villager earned their living from fishing and making charcoal.  The current mill, which was fully automated in 2000, dates from the 19th Century.  At the same time, there was a paper factory and a food processing plant.  In 1878 Romeo Manzoni opened a girls' boarding school, which was named after him.  The school was sold in 1905, to the Oblates of St. Francis de Sales who established the Don Bosco College in the building.  In 2000 about two-thirds of the workers, worked outside the municipality.  In 2005, over half of the jobs in the municipality were in the industrial sector of the economy.
+
+==Geography==
+thumb|left|Train station of Maroggia-Melano
+
+Maroggia has an area, , of .  Of this area,  or 20.0% is used for agricultural purposes, while  or 58.0% is forested.   Of the rest of the land,  or 33.0% is settled (buildings or roads),  or 1.0% is either rivers or lakes.
+
+Of the built up area, industrial buildings made up 2.0% of the total area while housing and buildings made up 16.0% and transportation infrastructure made up 11.0%. while parks, green belts and sports fields made up 3.0%.  Out of the forested land, 53.0% of the total land area is heavily forested and 5.0% is covered with orchards or small clusters of trees.  Of the agricultural land, 4.0% is used for growing crops and 16.0% is used for alpine pastures.  All the water in the municipality is flowing water.Altitudine, superficie, secondo il genere di utilizzazione, rilevazione 1992/1997, e densità della popolazione, nel 2000   accessed 25 October 2010
+
+The municipality is located in the Lugano district, on the eastern bank of Lake Lugano.
+
+==Coat of arms==
+The blazon of the municipal coat of arms is Azure a donkey argent passant over a bridge of the same massoned sable above three lines wavy also argent and in chief three mullets or one and two.Flags of the World.com accessed 11-January-2011
+
+==Demographics==
+Maroggia has a population () of .  , 27.4% of the population are resident foreign nationals.Swiss Federal Statistical Office - Superweb database - Gemeinde Statistics 1981-2008   accessed 19 June 2010  Over the last 10 years (1997–2007) the population has changed at a rate of 4.9%.
+
+Most of the population () speaks Italian (85.4%), with German being second most common (6.0%) and Spanish being third (2.3%).Swiss Federal Statistical Office  accessed 11-January-2011  Of the Swiss national languages (), 34 speak German, 11 people speak French, 480 people speak Italian, and 1 person speaks Romansh.  The remainder (36 people) speak another language.Popolazione residente, secondo la lingua principale e la religione, nel 2000   accessed 23 November 2010
+
+, the gender distribution of the population was 48.1% male and 51.9% female.  The population was made up of 206 Swiss men (34.8% of the population), and 79 (13.3%) non-Swiss men.  There were 228 Swiss women (38.5%), and 79 (13.3%) non-Swiss women.
+
+In  there were 6 live births to Swiss citizens and were 7 deaths of Swiss citizens and 1 non-Swiss citizen death.  Ignoring immigration and emigration, the population of Swiss citizens decreased by 1 while the foreign population decreased by 1.  There were 2 Swiss men who immigrated back to Switzerland.  At the same time, there were 6 non-Swiss women who immigrated from another country to Switzerland.  The total Swiss population change in 2008 (from all sources, including moves across municipal borders) was a decrease of 10 and the non-Swiss population change was an increase of 12 people.  This represents a population growth rate of 0.3%.
+
+The age distribution, , in Maroggia is; 48 children or 8.1% of the population are between 0 and 9 years old and 41 teenagers or 6.9% are between 10 and 19.  Of the adult population, 60 people or 10.1% of the population are between 20 and 29 years old.  98 people or 16.6% are between 30 and 39, 101 people or 17.1% are between 40 and 49, and 67 people or 11.3% are between 50 and 59.  The senior population distribution is 81 people or 13.7% of the population are between 60 and 69 years old, 56 people or 9.5% are between 70 and 79, there are 40 people or 6.8% who are over 80.01.02.03 Popolazione residente permanente   accessed 23 November 2010
+
+, there were 268 private households in the municipality, and an average of 2.1 persons per household.   there were 84 single family homes (or 54.5% of the total) out of a total of 154 inhabited buildings.  There were 30 two family buildings (19.5%) and 21 multi-family buildings (13.6%).  There were also 19 buildings in the municipality that were multipurpose buildings (used for both housing and commercial or another purpose). 09.02.01 Edifici   accessed 23 November 2010
+
+The vacancy rate for the municipality, , was 0%.   there were 419 apartments in the municipality.  The most common apartment size was the 3 room apartment of which there were 137.  There were 32 single room apartments and 76 apartments with five or more rooms.  09.02.02 Abitazioni   accessed 23 November 2010  Of these apartments, a total of 267 apartments (63.7% of the total) were permanently occupied, while 149 apartments (35.6%) were seasonally occupied and 3 apartments (0.7%) were empty.  , the construction rate of new housing units was 0 new units per 1000 residents.
+
+The historical population is given in the following chart:Popolazione residente, dal 1850   accessed 23 November 2010
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.8)
+ImageSize  = width:1080 height:210
+PlotArea   = height:150 left:100 bottom:50 right:100
+AlignBars  = justify
+DateFormat = x.y
+Period     = from:0 till:690
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:100 start:0
+ScaleMinor = gridcolor:lightgrey increment:25 start:0
+PlotData=
+  color:yellowgreen width:40   mark:(line,white) align:center
+  bar:1636 from:start till:114 text:"114"
+  bar:1791 from:start till:151 text:"151"
+  bar:1850 from:start till:211 text:"211"
+  bar:1860 from:start till:191 text:"191"
+  bar:1870 from:start till:202 text:"202"
+  bar:1880 from:start till:298 text:"298"
+  bar:1890 from:start till:342 text:"342"
+  bar:1900 from:start till:414 text:"414"
+  bar:1910 from:start till:496 text:"496"
+  bar:1920 from:start till:493 text:"493"
+  bar:1930 from:start till:481 text:"481"
+  bar:1941 from:start till:458 text:"458"
+  bar:1950 from:start till:577 text:"577"
+  bar:1960 from:start till:644 text:"644"
+  bar:1970 from:start till:689 text:"689"
+  bar:1980 from:start till:554 text:"554"
+  bar:1990 from:start till:575 text:"575"
+  bar:2000 from:start till:562 text:"562"
+
+
+==Politics==
+In the 2007 federal election the most popular party was the CVP which received 22.54% of the vote.  The next three most popular parties were the SP (21.9%), the Ticino League (18.52%) and the FDP (18.38%).  In the federal election, a total of 181 votes were cast, and the voter turnout was 47.3%.Swiss Federal Statistical Office, Nationalratswahlen 2007: Stärke der Parteien und Wahlbeteiligung, nach Gemeinden/Bezirk/Canton   accessed 28 May 2010
+
+In the  Gran Consiglio election, there were a total of 386 registered voters in Maroggia, of which 243 or 63.0% voted.  5 blank ballots and 1 null ballot were cast, leaving 237 valid ballots in the election.  The most popular party was the PLRT which received 47 or 19.8% of the vote.  The next three most popular parties were; the PPD+GenGiova (with 46 or 19.4%), the PS (with 45 or 19.0%) and the SSI (with 39 or 16.5%). Elezioni cantonali: Gran Consiglio, Consiglio di Stato   accessed 23 November 2010
+
+In the  Consiglio di Stato election, 2 blank ballots were cast, leaving 241 valid ballots in the election.  The most popular party was the PS which received 55 or 22.8% of the vote.  The next three most popular parties were; the PLRT (with 44 or 18.3%), the LEGA (with 43 or 17.8%) and the PPD (with 42 or 17.4%).
+
+==Economy==
+, Maroggia had an unemployment rate of 4.15%.  , there were 2 people employed in the primary economic sector and about 1 business involved in this sector.  91 people were employed in the secondary sector and there were 10 businesses in this sector.  64 people were employed in the tertiary sector, with 24 businesses in this sector.  There were 279 residents of the municipality who were employed in some capacity, of which females made up 37.6% of the workforce.
+
+, there were 206 workers who commuted into the municipality and 206 workers who commuted away.  The municipality is a net exporter of workers, with about 1.0 workers leaving the municipality for every one entering.  About 25.7% of the workforce coming into Maroggia are coming from outside Switzerland, while 1.9% of the locals commute out of Switzerland for work.Swiss Federal Statistical Office - Statweb   accessed 24 June 2010  Of the working population, 13.3% used public transportation to get to work, and 59.1% used a private car.
+
+, there were 2 hotels in Maroggia. Settori alberghiero e paralberghiero   accessed 23 November 2010
+
+==Religion==
+From the , 456 or 81.1% were Roman Catholic, while 24 or 4.3% belonged to the Swiss Reformed Church.  There are 71 individuals (or about 12.63% of the population) who belong to another church (not listed on the census), and 11 individuals (or about 1.96% of the population) did not answer the question.
+
+==Education==
+The entire Swiss population is generally well educated.  In Maroggia about 67.1% of the population (between age 25-64) have completed either non-mandatory upper secondary education or additional higher education (either university or a Fachhochschule).
+
+In Maroggia there were a total of 67 students ().  The Ticino education system provides up to three years of non-mandatory kindergarten and in Maroggia there were 14 children in kindergarten.  The primary school program lasts for five years.  In the municipality, 17 students attended the standard primary schools.  In the lower secondary school system, students either attend a two-year middle school followed by a two-year pre-apprenticeship or they attend a four-year program to prepare for higher education.  There were 14 students in the two-year middle school, while 11 students were in the four-year advanced program.
+
+The upper secondary school includes several options, but at the end of the upper secondary program, a student will be prepared to enter a trade or to continue on to a university or college.  In Ticino, vocational students may either attend school while working on their internship or apprenticeship (which takes three or four years) or may attend school followed by an internship or apprenticeship (which takes one year as a full-time student or one and a half to two years as a part-time student).  There were 5 vocational students who were attending school full-time and 6 who attend part-time. Allievi e studenti, secondo il genere di scuola, anno scolastico 2009/2010   accessed 23 November 2010
+
+, there were 44 students in Maroggia who came from another municipality, while 62 residents attended schools outside the municipality.
+
+==Transport==
+Maroggia is served by the Maroggia-Melano station, situated on the border with the adjoining municipality of Melano, which is on the Gotthard railway just to the south of the Maroggia Tunnel.
+
+The A2 motorway, which links Lugano and the north of Switzerland with Chiasso and Italy, passes through Maroggia, with the motorway's San Nicolao Tunnel on the municipality's northern border. However, there is no motorway junction within the municipality, with traffic having to use local roads to access junctions at Melide/Bissone to the north, or Mendrisio to the south.
+

@@ -1,0 +1,25 @@
+Title: FedEx Express Flight 647
+
+
+
+FedEx Express Flight 647 was a flight between Metropolitan Oakland International Airport (OAK), Oakland, California and Memphis International Airport (MEM), Memphis, Tennessee that crashed during landing on December 18, 2003.
+
+==Aircraft and flight crew==
+thumb|250x250px|An MD-10 (N363FE), similar to the one involved
+The aircraft involved in the incident was a McDonnell Douglas MD-10-10F (registration N364FE).  The MD-10 is an upgraded variant of the McDonnell Douglas DC-10 three-engine wide-body aircraft.  At the time of the accident, the aircraft had a total of approximately 65,375 flight hours.
+
+The flight had an experienced flight crew; the captain, age 59, who had been working for Flying Tiger Line since 1978 and become a FedEX pilot when the two companies merged in 1989. He had about 21,000 total flight hours, including 2,602 flight hours in the MD-10 and MD-11 series of aircraft. The first officer, age 44, was hired by FedEx on February 21, 1996, from Mesaba Airlines, where she had been employed since 1991. She had about 15,000 total flight hours, including 1,918 hours in the MD-10/MD-11.
+
+The flight also had aboard 5 off-duty FedEx crew members bound for Memphis.
+
+==Flight and incident==
+On December 18, 2003, Flight 647 was scheduled to depart Oakland for Memphis at 08:10 central standard time, and after a brief delay due to a package sorting issue, departed for Memphis at 08:32.  The departure from Oakland and cruise between Oakland and Memphis were uneventful.
+
+The flight touched down at about 12:26 on runway 36R, and almost immediately the right landing gear collapsed. The plane veered off the right side of the runway, catching fire as it did so. The co-pilot received minor injuries as she evacuated the aircraft, as did one of the five non-revenue FedEx pilots who were on board as passengers. It was later discovered that the non-revenue pilot who activated the emergency exit slide had not been adequately trained in its operation. The handle that was pulled released the slide so it could be used as a raft in the event of a water landing, and the slide subsequently detached from the airplane.
+
+==Investigation==
+
+The NTSB conducted a full investigation of the accident. It found that although the aircraft had encountered a crosswind during landing, the conditions were well within the safe capabilities of the aircraft. The first officer did not properly line up the plane before touchdown, nor did she slow the plane adequately before touchdown, so that the plane landed excessively hard. As the plane landed, the crosswind caused the right wing to drop approximately six degrees. This was beyond the design capabilities for the right main landing gear, and it snapped as a result. The NTSB also cited the captain for failing to check the work of the first officer.
+
+The NTSB further found that FAA Order 8400.10 (Air Transportation Aviation Inspector's Handbook) was deficient in the section addressing assurance of evacuation training for the flight crew.
+

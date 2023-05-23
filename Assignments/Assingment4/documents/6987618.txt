@@ -1,0 +1,141 @@
+Title: Masakiyo Maezono
+
+
+ is a former Japanese football player. He played for the Japan national team.
+
+==Club career==
+Maezono was born in Satsumasendai on 29 October 1973. After graduating from high school, he joined Yokohama Flügels in 1992. He debuted in June 1993 and he became a regular player after his debut. The club won the 1993 Emperor's Cup, their first major title. In Asia, the club also won the 1994–95 Asian Cup Winners' Cup, their first Asian title. In 1997, he moved to Verdy Kawasaki (later Tokyo Verdy). In October 1998, he moved to Brazil and played for Santos (1998) and Goiás (1999). In 2000, he returned to Japan and joined J2 League club Shonan Bellmare. In 2001, he returned to Tokyo Verdy. In 2003, he moved to South Korea and played for Anyang LG Cheetahs (2003) and Incheon United (2004). He announced his retirement in May 2005.
+
+==International career==
+On 22 May 1994, Maezono debuted for the Japan national team against Australia. He also played at the 1994 Asian Games.
+
+From 1995, Maezono prioritized the Japan U-23 national team. He played as captain for U-23 Japan. In the 1996 Summer Olympics Qualifiers Japan qualified for the 1996 Summer Olympics for the first time in 28 years since the 1968 Summer Olympics where Japan won the Bronze Medal. At the 1996 Olympics, although Japan won 2 matches, they exited in the first round. At the Olympics Japan beat Brazil in the first game. It was known as the "Miracle of Miami" (マイアミの奇跡) in Japan. He played 3 games at the Olympics and scored 2 goals against Hungary.
+
+After the 1996 Summer Olympics, in August 1996, Maezono was selected by the Japan senior team for the first time in years. On 25 August, he played and scored a goal against Uruguay. This goal was his first goal for Japan. In December, he played at the 1996 Asian Cup. He played 19 games and scored 4 goals for Japan until 1997.Japan National Football Team Database
+
+==Beach Soccer career==
+After retirement, Maezono was selected by the Japan national beach soccer team by manager Ruy Ramos who was his team mate at Verdy Kawasaki. Japan won the championship at the 2009 AFC Beach Soccer Championship and participated in the 2009 Beach Soccer World Cup.
+
+==Club statistics==
+
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan=3 | Club performance
+! colspan=2 | League
+! colspan=2 | Cup
+! colspan=2 | League Cup
+! colspan=2 | Total
+|-
+! Season
+! Club
+! League
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+|-
+! colspan=3 |Japan
+! colspan=2 | League
+! colspan=2 | Emperor's Cup
+! colspan=2 | J.League Cup
+! colspan=2 | Total
+|-
+|1992||rowspan="5"|Yokohama Flügels||rowspan="5"|J1 League||colspan="2"|-||||||0||0||0||0
+|-
+|1993||24||2||5||1||5||0||34||3
+|-
+|1994||38||8||2||0||2||0||42||8
+|-
+|1995||40||7||2||0||colspan="2"|-||42||7
+|-
+|1996||26||8||2||0||11||7||39||15
+|-
+|1997||rowspan="2"|Verdy Kawasaki||rowspan="2"|J1 League||28||5||2||0||0||0||30||5
+|-
+|1998||22||3||0||0||2||1||24||4
+|-
+! colspan=3 |Brazil
+! colspan=2 | League
+! colspan=2 | Copa do Brasil
+! colspan=2 | League Cup
+! colspan=2 | Total
+|-
+|1998||Santos||Série A||5||1||||||||||5||1
+|-
+|1999||Goiás||Série B||0||0||||||||||0||0
+|-
+! colspan=3 |Japan
+! colspan=2 | League
+! colspan=2 | Emperor's Cup
+! colspan=2 | J.League Cup
+! colspan=2 | Total
+|-
+|2000||Shonan Bellmare||J2 League||38||11||3||2||2||0||43||13
+|-
+|2001||rowspan="2"|Tokyo Verdy||rowspan="2"|J1 League||13||1||0||0||2||0||15||1
+|-
+|2002||0||0||0||0||0||0||0||0
+|-
+! colspan=3 |Korea Republic
+! colspan=2 | League
+! colspan=2 | FA Cup
+! colspan=2 | League Cup
+! colspan=2 | Total
+|-
+|2003||Anyang LG Cheetahs||K League||16||0||0||0||0||0||16||0
+|-
+|2004||Incheon United||K League||4||0||0||0||9||1||13||1
+|-
+!rowspan=3| Country !!colspan=2| Japan
+!229||45||16||3||24||8||269||56
+|-
+!colspan=2|Brazil
+!5||1||||||||||5||1
+|-
+!colspan=2|Korea Republic
+!20||0||0||0||9||1||29||1
+|-
+!colspan=3|Total
+!254||46||16||3||33||9||303||58
+|}
+
+==National team statistics==
+
+{| class="wikitable" style="text-align:center"
+! colspan=3 | Japan national team
+|-
+!Year!!Apps!!Goals
+|-
+|1994||6||0
+|-
+|1995||4||0
+|-
+|1996||7||4
+|-
+|1997||2||0
+|-
+!Total||19||4
+|}
+
+===National team goals===
+:Results list Japan's goal tally first.
+{| class="wikitable"
+! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 25 August 1996 || Osaka, Japan ||  || 1 goal || 5–3 || Friendly match
+|-
+| 13 October 1996 || Kobe, Japan ||  || 1 goal || 1–0 || Friendly match
+|-
+| 9 December 1996 || Al Ain, UAE ||  || 2 goals || 4–0 || 1996 AFC Asian Cup
+|}
+
+==Honors and awards==
+; Individual
+* J.League Best XI : 1996
+; Japan beach soccer national team
+* AFC Beach Soccer Championship : 2009
+
+==National team==
+* 1996 Summer Olympics
+* 1996 Asian Cup
+

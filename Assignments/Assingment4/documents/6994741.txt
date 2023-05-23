@@ -1,0 +1,42 @@
+Title: 1035 Amata
+
+
+1035 Amata  is a carbonaceous asteroid from the outer region of the asteroid belt, approximately 57 kilometers in diameter. It was discovered by German astronomer Karl Reinmuth at Heidelberg Observatory in southern Germany on 29 September 1924 and assigned the  provisional designation . It was probably named after Amata from Roman mythology.
+
+== Classification and orbit ==
+
+The C-type asteroid orbits the Sun at a distance of 2.6–3.8 AU once every 5 years and 7 months (2,049 days). Its orbit has an eccentricity of 0.19 and an inclination of 18° with respect to the ecliptic. The first used observation was taken at the discovering observatory in 1913, extending the body's observation arc by 11 years prior to its discovery.
+
+== Naming ==
+
+Amatas name is of uncertain origin. It is thought to have been named after Amata, wife of King Latinus in Roman mythology and a character in Virgil's Aeneid. She is also the mother of Lavinia, the wife of Aeneas, after whom 1172 Äneas, one of the largest Jupiter trojans, is named.
+
+=== Unknown meaning ===
+
+Among the many thousands of named minor planets, Amata is one of 120 asteroids, for which no official naming citation has been published. All of these low-numbered asteroids have numbers between  and  and were discovered between 1876 and the 1930s, predominantly by astronomers Auguste Charlois, Johann Palisa, Max Wolf and Karl Reinmuth.
+
+== Physical characteristics ==
+
+In October 2002, a rotational light-curve of Amata was obtained from photometric observations by American amateur astronomer Robert Stevens at the Santana Observatory () in California. It gave a rotation period of  hours with a brightness variation of 0.44 in magnitude (). In the same month, another observation was made at the Oakley Observatory in the U.S. state of Indiana and gave a very similar period of  hours and a variation in brightness of 0.32 in magnitude ().
+
+According to the space-based surveys carried out by the Infrared Astronomical Satellite IRAS, the Japanese Akari satellite, and NASA's Wide-field Infrared Survey Explorer with its subsequent NEOWISE mission, Amata measures between 50.7 and 62.2 kilometers in diameter, and its surface has a low albedo between 0.038 and 0.052. The Collaborative Asteroid Lightcurve Link derived a diameter of 50.7 kilometers and an albedo of 0.057.
+
+== References ==
+ 
+
+== External links ==
+* Lightcurve Database Query (LCDB), at www.minorplanet.info
+* Dictionary of Minor Planet Names, Google books
+* Asteroids and comets rotation curves, CdR – Geneva Observatory, Raoul Behrend
+* Discovery Circumstances: Numbered Minor Planets (1)-(5000) – Minor Planet Center
+* 
+* 
+
+
+
+
+
+001035
+Category:Discoveries by Karl Wilhelm Reinmuth
+Category:Named minor planets
+19240929

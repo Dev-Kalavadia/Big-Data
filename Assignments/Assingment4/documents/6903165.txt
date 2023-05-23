@@ -1,0 +1,227 @@
+Title: List of municipalities of the Province of Isernia
+
+The following is a list of the 52 municipalities (comuni) of the Province of Isernia, Molise, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|094001
+|Acquaviva d'Isernia
+| align="right" |474
+|-
+|094002
+|Agnone
+| align="right" |5,685
+|-
+|094003
+|Bagnoli del Trigno
+| align="right" |841
+|-
+|094004
+|Belmonte del Sannio
+| align="right" |887
+|-
+|094005
+|Cantalupo nel Sannio
+| align="right" |754
+|-
+|094006
+|Capracotta
+| align="right" |1,089
+|-
+|094007
+|Carovilli
+| align="right" |1,508
+|-
+|094008
+|Carpinone
+| align="right" |1,273
+|-
+|094009
+|Castel San Vincenzo
+| align="right" |355
+|-
+|094010
+|Castel del Giudice
+| align="right" |1,708
+|-
+|094011
+|Castelpetroso
+| align="right" |156
+|-
+|094012
+|Castelpizzuto
+| align="right" |567
+|-
+|094013
+|Castelverrino
+| align="right" |124
+|-
+|094014
+|Cerro al Volturno
+| align="right" |1,497
+|-
+|094015
+|Chiauci
+| align="right" |273
+|-
+|094016
+|Civitanova del Sannio
+| align="right" |931
+|-
+|094017
+|Colli a Volturno
+| align="right" |1,377
+|-
+|094018
+|Conca Casale
+| align="right" |244
+|-
+|094019
+|Filignano
+| align="right" |750
+|-
+|094020
+|Forlì del Sannio
+| align="right" |816
+|-
+|094021
+|Fornelli
+| align="right" |2,003
+|-
+|094022
+|Frosolone
+| align="right" |3,330
+|-
+|094023
+|Isernia
+| align="right" |21,500
+|-
+|094024
+|Longano
+| align="right" |720
+|-
+|094025
+|Macchia d'Isernia
+| align="right" |930
+|-
+|094026
+|Macchiagodena
+| align="right" |1,933
+|-
+|094027
+|Miranda
+| align="right" |1,065
+|-
+|094028
+|Montaquila
+| align="right" |2,467
+|-
+|094029
+|Montenero Val Cocchiara
+| align="right" |585
+|-
+|094030
+|Monteroduni
+| align="right" |2,412
+|-
+|094031
+|Pesche
+| align="right" |1,459
+|-
+|094032
+|Pescolanciano
+| align="right" |961
+|-
+|094033
+|Pescopennataro
+| align="right" |349
+|-
+|094034
+|Pettoranello del Molise
+| align="right" |470
+|-
+|094035
+|Pietrabbondante
+| align="right" |940
+|-
+|094036
+|Pizzone
+| align="right" |335
+|-
+|094037
+|Poggio Sannita
+| align="right" |889
+|-
+|094038
+|Pozzilli
+| align="right" |2,259
+|-
+|094039
+|Rionero Sannitico
+| align="right" |1,179
+|-
+|094040
+|Roccamandolfi
+| align="right" |1,058
+|-
+|094041
+|Roccasicura
+| align="right" |610
+|-
+|094042
+|Rocchetta a Volturno
+| align="right" |1,080
+|-
+|094043
+|San Pietro Avellana
+| align="right" |630
+|-
+|094044
+|Sant'Agapito
+| align="right" |1,375
+|-
+|094045
+|Santa Maria del Molise
+| align="right" |659
+|-
+|094046
+|Sant'Angelo del Pesco
+| align="right" |394
+|-
+|094047
+|Sant'Elena Sannita
+| align="right" |282
+|-
+|094048
+|Scapoli
+| align="right" |923
+|-
+|094049
+|Sessano del Molise
+| align="right" |871
+|-
+|094050
+|Sesto Campano
+| align="right" |2,863
+|-
+|094051
+|Vastogirardi
+| align="right" |789
+|-
+|094052
+|Venafro
+| align="right" |11,457
+|-
+|
+|Total
+| align="right" |90,086
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

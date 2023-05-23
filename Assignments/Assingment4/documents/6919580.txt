@@ -1,0 +1,58 @@
+Title: List of places in Alaska (V)
+
+This list of cities, towns, unincorporated communities, counties, and other recognized places in the U.S. state of Alaska also includes information on the number and names of counties in which the place lies, and its lower and upper zip code bounds, if applicable.
+
+
+{| class="wikitable"
+!Name of place
+!Number of counties
+!Principal county
+!Lower zip code
+!Upper zip code
+
+|----
+|Valdez
+|1
+|Valdez-Cordova Census Area
+|99686
+| 
+|----
+|Valdez City School District
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Vanderbilt Hill
+|1
+|City and Borough of Juneau
+| 
+| 
+|----
+|Vank Island
+|1
+|Wrangell-Petersburg Census Area
+|99929
+| 
+|----
+|Venetie
+|1
+|Yukon-Koyukuk Census Area
+|99781
+| 
+|----
+|Venetie Landing
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Village Island
+|1
+|Kodiak Island Borough
+| 
+| 
+|----
+|}
+
+ V

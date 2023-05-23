@@ -1,0 +1,108 @@
+Title: Bovine viral diarrhea
+
+thumb|Tongue lesions on confirmed BVD/MD case (mucosal disease form)
+Bovine viral diarrhea (BVD), bovine viral diarrhoea (UK English) or mucosal disease, and previously referred to as bovine virus diarrhea (BVD), is an economically significant disease of cattle that is found in the majority of countries throughout the world. Worldwide reviews of the economically assessed production losses and intervention programs (e.g. eradication programs, vaccination strategies and biosecurity measures) incurred by BVD infection have been published. The causative  agent, bovine viral diarrhea virus (BVDV), is a member of the genus Pestivirus of the family Flaviviridae.
+
+BVD infection results in a wide variety of clinical signs, due to its immunosuppressive effects, as well as having a direct effect on respiratory disease and fertility. In addition, BVD infection of a susceptible dam during a certain period of gestation can result in the production of a persistently infected (PI) fetus.
+
+PI animals recognise intra-cellular BVD viral particles as ‘self’ and shed virus in large quantities throughout life; they represent the cornerstone of the success of BVD as a disease.
+
+Currently, it was shown in a worldwide review study that the PI prevalence at animal level ranged from low (≤0.8% Europe, North America, Australia), medium (>0.8% to 1.6% East Asia) to high (>1.6% West Asia). Countries that had failed to implement any BVDV control and/or eradication programmes (including vaccination) had the highest PI prevalence.
+
+==Virus classification and structure==
+BVDVs are members of the genus Pestivirus, belonging to the family Flaviviridae.  Other members of this genus cause Border disease (sheep) and classical swine fever (pigs) which cause significant financial loss to the livestock industry.
+
+Pestiviruses are small, spherical, single-stranded, enveloped RNA viruses of 40 to 60 nm in diameter.
+
+The genome consists of a single, linear, positive-sense, single-stranded RNA molecule of approximately 12.3 kb.  RNA synthesis is catalyzed by the BVDV RNA-dependent RNA polymerase (RdRp). This RdRp can undergo template strand switching allowing RNA-RNA copy choice recombination during elongative RNA synthesis.
+
+Two BVDV genotypes are recognised, based on the nucleotide sequence of the 5’untranslated (UTR) region; BVDV-1 and BVDV-2. BVDV-1 isolates have been grouped into 16 subtypes (a –p) and BVDV-2 has currently been grouped into 3 subtypes (a – c).
+
+BVDV strains can be further divided into distinct biotypes (cytopathic or non-cytopathic) according to their effects on tissue cell culture; cytopathic (cp) biotypes, formed via mutation of non-cytopathic (ncp) biotypes, induce apoptosis in cultured cells. Ncp viruses can induce persistent infection in cells and have an intact NS2/3 protein. In cp viruses the NS2/3 protein is either cleaved to NS2 and NS3 or there is a duplication of viral RNA containing an additional NS3 region. The majority of BVDV infections in the field are caused by the ncp biotype.
+
+== Epidemiology ==
+BVD is considered one of the most significant infectious diseases in the livestock industry worldwide due to its high prevalence, persistence and clinical consequences.
+
+In Europe the prevalence of antibody positive animals in countries without systematic BVD control is between 60 and 80%. Prevalence has been determined in individual countries and tends to be positively associated with stocking density of cattle.
+
+BVDV-1 strains are predominant in most parts of the world, whereas BVDV-2 represents 50% of cases in North America. In Europe, BVDV-2 was first isolated in the UK in 2000 and currently represents up to 11% of BVD cases in Europe.
+
+Transmission of BVDV occurs both horizontally and vertically with both persistently and transiently infected animals excreting infectious virus. Virus is transmitted via direct contact, bodily secretions and contaminated fomites, with the virus being able to persist in the environment for more than two weeks.  Persistently infected animals are the most important source of the virus, continuously excreting a viral load one thousand times that shed by acutely infected animals.
+
+== Pathogenesis ==
+thumb|Turbinate cells infected with BVDV
+
+=== Acute, transient infection ===
+Following viral entry and contact with the mucosal lining of the mouth or nose, replication occurs in epithelial cells. BVDV replication has a predilection for the palatine tonsils, lymphoid tissues and epithelium of the oropharynx.
+
+Phagocytes take up BVDV or virus-infected cells and transport them to peripheral lymphoid tissues; the virus can also spread systemically through the bloodstream. Viraemia occurs 2–4 days after exposure and virus isolation from serum or leukocytes is generally possible between 3–10 days post infection.
+
+During systemic spread the virus is able to gain entry into most tissues with a preference for lymphoid tissues. Neutralising antibodies can be detected from 10 to 14 days post infection with titres continuing to increase slowly for 8–10 weeks. After 2–3 weeks, antibodies effectively neutralise viral particles, promote clearance of virus and prevent seeding of target organs.
+
+=== Intrauterine infections ===
+Fetal infection is of most consequence as this can result in the birth of a persistently infected neonate. The effects of fetal infection with BVDV are dependent upon the stage of gestation at which the dam suffers acute infection.
+
+BVDV infection of the dam prior to conception, and during the first 18 days of gestation, results in delayed conception and an increased calving to conception interval. Once the embryo is attached, infection from days 29–41 can result in embryonic infection and resultant embryonic death.
+
+Infection of the dam from approximately day 30 of gestation until day 120 can result in immunotolerance and the birth of calves persistently infected with the virus.
+
+BVDV infection between 80 and 150 days of gestation may be teratogenic, with the type of birth defect dependent upon the stage of fetal development at infection. Abortion may occur at any time during gestation. Infection after approximately day 120 can result in the birth of a normal fetus which is BVD antigen-negative and BVD antibody-positive. This occurs because the fetal immune system has developed, by this stage of gestation, and has the ability to recognise and fight off the invading virus, producing anti-BVD antibodies.
+
+=== Chronic infections ===
+BVD virus can be maintained as a chronic infection within some immunoprivileged sites following transient infection. These sites include ovarian follicles, testicular tissues, central nervous system and white blood cells. Cattle with chronic infections elicit a significant immune response, exhibited by extremely high antibody titres.
+
+== Clinical signs ==
+BVDV infection has a wide manifestation of clinical signs including fertility issues, milk drop, pyrexia, diarrhea, and fetal infection. Occasionally, a severe acute form of BVD may occur. These outbreaks are characterized by thrombocytopenia with high morbidity and mortality. However, clinical signs are frequently mild and infection insidious, recognized only by BVDV's immunosuppressive effects perpetuating other circulating infectious diseases (particularly scours and pneumonias).
+
+=== PI animals ===
+Persistently infected animals did not have a competent immune system at the time of BVDV transplacental infection. The virus, therefore, entered the fetal cells and, during immune system development, was accepted as self. In PIs the virus remains present in a large number of the animal's body cells throughout its life and is continuously shed. PIs are often ill-thrifty and smaller than their peers, however, they can appear normal. PIs are more susceptible to disease, with only 20% of PIs surviving to two years of age. If a PI dam is able to reproduce they always give birth to PI calves.
+
+=== Mucosal disease ===
+The PI cattle that do survive ill-thrift are susceptible to mucosal disease. Mucosal disease only develops in PI animals and is invariably fatal. Disease results when a PI animal is superinfected with a cytopathic biotype arising from mutation of the non-cytopathic strain of BVDV already circulating in that animal. The cp BVDV spreads to the gastro-intestinal epithelium, and necrosis of keratinocytes results in erosion and ulceration. Fluid leaks from the epithelial surface of the gastro-intestinal tract causing diarrhoea and dehydration. In addition, bacterial infection of the damaged epithelium results in secondary septicaemia. Death occurs in the ensuing days or weeks.
+
+== Diagnosis ==
+Various diagnostic tests are available for the detection of either active infection or evidence of historical infection. The method of diagnosis used also depends upon whether the vet is investigating at an individual or a herd level.
+
+=== Virus or antigen detection ===
+Antigen ELISA and rtPCR are currently the most frequently performed tests to detect virus or viral antigen. Individual testing of ear tissue tag samples or serum samples is performed. It is vital that repeat testing is performed on positive samples to distinguish between acute, transiently infected cattle and PIs. A second positive result, acquired at least three weeks after the primary result, indicates a PI animal. rtPCR can also be used on bulk tank milk (BTM) samples to detect any PI cows contributing to the tank. It is reported that the maximum number of contributing cows from which a PI can be detected is 300.
+
+=== BVD antibody detection ===
+Antibody (Ig) ELISAs are used to detect historical BVDV infection; these tests have been validated in serum, milk and bulk milk samples. Ig ELISAs do not diagnose active infection but detect the presence of antibodies produced by the animal in response to viral infection. Vaccination also induces an antibody response, which can result in false positive results, therefore it is important to know the vaccination status of the herd or individual when interpreting results. A standard test to assess whether virus has been circulating recently is to perform an Ig ELISA on blood from 5–10 young stock that have not been vaccinated, aged between 9 and 18 months. A positive result indicates exposure to BVDV, but also that any positive animals are very unlikely to be PI animals themselves. A positive result in a pregnant female indicates that she has previously been either vaccinated or infected with BVDV and could possibly be carrying a PI fetus, so antigen testing of the newborn is vital to rule this out. A negative antibody result, at the discretion of the responsible veterinarian, may require further confirmation that the animal is not in fact a PI.
+
+At a herd level, a positive Ig result suggests that BVD virus has been circulating or the herd is vaccinated. Negative results suggest that a PI is unlikely however this naïve herd is in danger of severe consequences should an infected animal be introduced. Antibodies from wild infection or vaccination persist for several years therefore Ig ELISA testing is more valuable when used as a surveillance tool in seronegative herds.
+
+== Eradication and control ==
+The mainstay of eradication is the identification and removal of persistently infected animals. Re-infection is then prevented by vaccination and high levels of biosecurity, supported by continuing surveillance. PIs act as viral reservoirs and are the principal source of viral infection but transiently infected animals and contaminated fomites also play a significant role in transmission.
+
+Leading the way in BVD eradication, almost 20 years ago, were the Scandinavian countries. Despite different conditions at the start of the projects in terms of legal support, and regardless of initial prevalence of herds with PI animals, it took all countries approximately 10 years to reach their final stages.Hult and Lindberg (2005) Prev Vet Med 72: 143–148Rikula et al. (2005) Prev Vet Med 72: 139–142
+
+Once proven that BVD eradication could be achieved in a cost efficient way, a number of regional programmes followed in Europe, some of which have developed into national schemes.Rossmanith et al. (2005) Prev Vet Med 72: 133–137
+
+Vaccination is an essential part of both control and eradication. While BVD virus is still circulating within the national herd, breeding cattle are at risk of producing PI neonates and the economic consequences of BVD are still relevant. Once eradication has been achieved, unvaccinated animals will represent a naïve and susceptible herd. Infection from imported animals or contaminated fomites brought into the farm, or via transiently infected in-contacts will have devastating consequences.
+
+== Vaccination ==
+Modern vaccination programmes aim not only to provide a high level of protection from clinical disease for the dam, but, crucially, to protect against viraemia and prevent the production of PIs.Stahl and Alenius (2012) Japanese Journal of Veterinary Research 60 (Supplement) S31–39. While the immune mechanisms involved are the same, the level of immune protection required for foetal protection is much higher than for prevention of clinical disease.Ridpath (2013) Biologicals 41: 14–19.
+
+While challenge studies indicate that killed, as well as live, vaccines prevent foetal infection under experimental conditions, the efficacy of vaccines under field conditions has been questioned.O’Rourke (2002) Journal of the American Veterinary Medical Association 220(12): 1770–1772 The birth of PI calves into vaccinated herds suggests that killed vaccines do not stand up to the challenge presented by the viral load excreted by a PI in the field.Graham et al. (2004) Revista Portuguesa de ciencias veterinarias 127: 38.
+
+==See also==
+* Animal viruses
+
+== References ==
+
+* Bovine Viral Diarrhoea Virus, expert reviewed and published by Wikivet at http://en.wikivet.net/Bovine_Viral_Diarrhoea_Virus, accessed 21/07/2011
+
+==External links==
+* New York State Cattle Health Assurance Program BVD Module
+* Description of the entity on the Merck Veterinary Manual
+* Animal viruses
+* Bovine Viral Diarrhea Resource Page
+* Specialist BVD site, Royal Veterinary College, London
+
+
+
+
+Category:Diarrhea
+Category:Bovine diseases
+Category:Animal viral diseases
+Category:Unaccepted virus taxa

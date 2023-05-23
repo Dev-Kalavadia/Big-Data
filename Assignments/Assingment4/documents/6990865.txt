@@ -1,0 +1,35 @@
+Title: No-observed-adverse-effect levelThe no-observed-adverse-effect level (NOAEL) denotes the level of exposure of an organism, found by experiment or observation, at which there is no biologically or statistically significant increase in the frequency or severity of any adverse effects of the tested protocol. In drug development, the NOAEL of a new drug is assessed in laboratory animals, such as mice, prior to initiation of human trials in order to establish a safe clinical starting dose in humans. The OECD publishes guidelines for Preclinical Safety Assessments, in order to help scientists discover the NOAEL.
+
+==Synopsis==
+
+Some adverse effects in the exposed population when compared to its appropriate control might include alteration of morphology, functional capacity, growth, development or life span. The NOAEL is determined or proposed by qualified personnel, often a pharmacologist or a toxicologist.
+
+The NOAEL could be defined as "the highest experimental point that is without adverse effect," meaning that under laboratory conditions, it is the level where there are no side-effects. It either does not provide the effects of drug with respect to duration and dose, or it does not address the interpretation of risk based on toxicologically relevant effects.
+
+In toxicology it is specifically the highest tested dose or concentration of a substance (i.e. a drug or chemical) or agent (e.g. radiation), at which no such adverse effect is found in exposed test organisms where higher doses or concentrations resulted in an adverse effect.Faustman, E.M., Omenn, G.S. Risk assessment. (2001) In: C. D. Klaassen (ed.): Casarett & Doull's Toxicology, 6. ed., McGraw-Hill, New York, pp. 92–94. .
+
+The NOAEL level may be used in the process of establishing a dose-response relationship, a fundamental step in most risk assessment methodologies.
+
+==Synonyms==
+
+The NOAEL is also known as NOEL (no-observed-effect level) as well as NEC (no-effect concentration) and NOEC (no-observed-effect concentration).
+
+==US EPA definition==
+
+The United States Environmental Protection Agency defines NOAEL as 'an exposure level at which there are no statistically or biologically significant increases in the frequency or severity of adverse effects between the exposed population and its appropriate control; some effects may be produced at this level, but they are not considered as adverse, or as precursors to adverse effects. In an experiment with several NOAELs, the regulatory focus is primarily on the highest one, leading to the common usage of the term NOAEL as the highest exposure without adverse effects.'
+
+==See also==
+* Lowest-observed-adverse-effect level
+* Measures of pollutant concentration
+
+== References ==
+
+
+Category:Concentration indicators
+Category:Environmental policy in the United States
+Category:Food law
+Category:Food safety
+Category:Food and Drug Administration
+Category:Toxicology
+Category:United States Environmental Protection Agency
+

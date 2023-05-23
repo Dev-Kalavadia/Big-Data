@@ -1,0 +1,239 @@
+Title: List of municipalities of the Metropolitan City of Bologna
+
+The following is a list of the 55 municipalities (comuni) of the Metropolitan City of Bologna, Emilia-Romagna, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population  
+|-
+|037001
+|Alto Reno Terme
+| align="right" |6,940
+|-
+|037001
+|Anzola dell'Emilia
+| align="right" |11,128
+|-
+|037002
+|Argelato
+| align="right" |9,317
+|-
+|037003
+|Baricella
+| align="right" |5,990
+|-
+|037005
+|Bentivoglio
+| align="right" |4,593
+|-
+|037006
+|Bologna
+| align="right" |374,425
+|-
+|037007
+|Borgo Tossignano
+| align="right" |3,259
+|-
+|037008
+|Budrio
+| align="right" |16,167
+|-
+|037009
+|Calderara di Reno
+| align="right" |12,351
+|-
+|037010
+|Camugnano
+| align="right" |2,092
+|-
+|037011
+|Casalecchio di Reno
+| align="right" |34,451
+|-
+|037012
+|Casalfiumanese
+| align="right" |3,129
+|-
+|037013
+|Castel d'Aiano
+| align="right" |1,973
+|-
+|037014
+|Castel del Rio
+| align="right" |1,256
+|-
+|037015
+|Castel di Casio
+| align="right" |3,266
+|-
+|037016
+|Castel Guelfo di Bologna
+| align="right" |3,731
+|-
+|037017
+|Castello d'Argile
+| align="right" |5,520
+|-
+|037019
+|Castel Maggiore
+| align="right" |16,478
+|-
+|037020
+|Castel San Pietro Terme
+| align="right" |19,654
+|-
+|037021
+|Castenaso
+| align="right" |13,704
+|-
+|037022
+|Castiglione dei Pepoli
+| align="right" |6,057
+|-
+|037024
+|Crevalcore
+| align="right" |12,527
+|-
+|037025
+|Dozza
+| align="right" |5,886
+|-
+|037026
+|Fontanelice
+| align="right" |1,884
+|-
+|037027
+|Gaggio Montano
+| align="right" |4,928
+|-
+|037028
+|Galliera
+| align="right" |5,450 
+|-
+|037030
+|Granarolo dell'Emilia
+| align="right" |9,008
+|-
+|037031
+|Grizzana Morandi
+| align="right" |3,966
+|-
+|037032
+|Imola
+| align="right" |66,170
+|-
+|037033
+|Lizzano in Belvedere
+| align="right" |2,275
+|-
+|037034
+|Loiano
+| align="right" |4,442
+|-
+|037035
+|Malalbergo
+| align="right" |7,911
+|-
+|037036
+|Marzabotto
+| align="right" |6,491
+|-
+|037037
+|Medicina
+| align="right" |14,715
+|-
+|037038
+|Minerbio
+| align="right" |8,249
+|-
+|037039
+|Molinella
+| align="right" |14,700
+|-
+|037040
+|Monghidoro
+| align="right" |3,905
+|-
+|037041
+|Monterenzio
+| align="right" |5,478
+|-
+|037042
+|Monte San Pietro
+| align="right" |10,758
+|-
+|037044
+|Monzuno
+| align="right" |6,003
+|-
+|037045
+|Mordano
+| align="right" |4,379
+|-
+|037046
+|Ozzano dell'Emilia
+| align="right" |11,194
+|-
+|037047
+|Pianoro
+| align="right" |16,591
+|-
+|037048
+|Pieve di Cento
+| align="right" |6,804 
+|-
+|037050
+|Sala Bolognese
+| align="right" |7,082
+|-
+|037051
+|San Benedetto Val di Sambro
+| align="right" |4,493
+|-
+|037052
+|San Giorgio di Piano
+| align="right" |6,681
+|-
+|037053
+|San Giovanni in Persiceto
+| align="right" |24,790
+|-
+|037054
+|San Lazzaro di Savena
+| align="right" |30,045
+|-
+|037055
+|San Pietro in Casale
+| align="right" |10,616
+|-
+|037056
+|Sant'Agata Bolognese
+| align="right" |6,409
+|-
+|037057
+|Sasso Marconi
+| align="right" |14,273
+|-
+|037061
+|Valsamoggia
+| align="right" |30,886
+|-
+|037059
+|Vergato
+| align="right" |7,352
+|-
+|037060
+|Zola Predosa
+| align="right" |16,446
+|-
+|
+|Total
+| align="right" |944,297
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

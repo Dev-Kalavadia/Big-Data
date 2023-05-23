@@ -1,0 +1,263 @@
+Title: List of municipalities of the Province of Foggia
+
+The following is a list of the 61 municipalities (comuni) of the Province of Foggia, Apulia, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|071001
+|Accadia
+| align="right" |2,608
+|-
+|071002
+|Alberona
+| align="right" |1,075
+|-
+|071003
+|Anzano di Puglia
+| align="right" |2,090
+|-
+|071004
+|Apricena
+| align="right" |13,664
+|-
+|071005
+|Ascoli Satriano
+| align="right" |6,318
+|-
+|071006
+|Biccari
+| align="right" |3,017
+|-
+|071007
+|Bovino
+| align="right" |3,820
+|-
+|071008
+|Cagnano Varano
+| align="right" |8,518
+|-
+|071009
+|Candela
+| align="right" |2,762
+|-
+|071010
+|Carapelle
+| align="right" |5,907
+|-
+|071011
+|Carlantino
+| align="right" |1,180
+|-
+|071012
+|Carpino
+| align="right" |4,580
+|-
+|071013
+|Casalnuovo Monterotaro
+| align="right" |1,875
+|-
+|071014
+|Casalvecchio di Puglia
+| align="right" |2,064
+|-
+|071015
+|Castelluccio dei Sauri
+| align="right" |1,956
+|-
+|071016
+|Castelluccio Valmaggiore
+| align="right" |1,443
+|-
+|071017
+|Castelnuovo della Daunia
+| align="right" |1,676
+|-
+|071018
+|Celenza Valfortore
+| align="right" |1,919
+|-
+|071019
+|Celle di San Vito
+| align="right" |187
+|-
+|071020
+|Cerignola
+| align="right" |57,813
+|-
+|071021
+|Chieuti
+| align="right" |1,768
+|-
+|071022
+|Deliceto
+| align="right" |4,057
+|-
+|071023
+|Faeto
+| align="right" |704
+|-
+|071024
+|Foggia
+| align="right" |154,780
+|-
+|071025
+|Ischitella
+| align="right" |4,478
+|-
+|071026
+|Isole Tremiti
+| align="right" |413
+|-
+|071027
+|Lesina
+| align="right" |6,263
+|-
+|071028
+|Lucera
+| align="right" |35,036
+|-
+|071029
+|Manfredonia
+| align="right" |57,424
+|-
+|071031
+|Mattinata
+| align="right" |6,445
+|-
+|071032
+|Monteleone di Puglia
+| align="right" |1,272
+|-
+|071033
+|Monte Sant'Angelo
+| align="right" |13,759
+|-
+|071034
+|Motta Montecorvino
+| align="right" |911
+|-
+|071035
+|Orsara di Puglia
+| align="right" |3,190
+|-
+|071036
+|Orta Nova
+| align="right" |17,926
+|-
+|071037
+|Panni
+| align="right" |921
+|-
+|071038
+|Peschici
+| align="right" |4,317
+|-
+|071039
+|Pietramontecorvino
+| align="right" |2,890
+|-
+|071040
+|Poggio Imperiale
+| align="right" |2,842
+|-
+|071041
+|Rignano Garganico
+| align="right" |2,236
+|-
+|071042
+|Rocchetta Sant'Antonio
+| align="right" |2,027
+|-
+|071043
+|Rodi Garganico
+| align="right" |3,690
+|-
+|071044
+|Roseto Valfortore
+| align="right" |1,264
+|-
+|071046
+|San Giovanni Rotondo
+| align="right" |26,469
+|-
+|071047
+|San Marco in Lamis
+| align="right" |15,286
+|-
+|071048
+|San Marco la Catola
+| align="right" |1,390
+|-
+|071049
+|San Nicandro Garganico
+| align="right" |16,936
+|-
+|071050
+|San Paolo di Civitate
+| align="right" |6,015
+|-
+|071051
+|San Severo
+| align="right" |55,717
+|-
+|071052
+|Sant'Agata di Puglia
+| align="right" |2,292
+|-
+|071053
+|Serracapriola
+| align="right" |4,140
+|-
+|071054
+|Stornara
+| align="right" |4,763
+|-
+|071055
+|Stornarella
+| align="right" |5,006
+|-
+|071056
+|Torremaggiore
+| align="right" |16,979
+|-
+|071058
+|Troia
+| align="right" |7,367
+|-
+|071059
+|Vico del Gargano
+| align="right" |8,017
+|-
+|071060
+|Vieste
+| align="right" |13,600
+|-
+|071061
+|Volturara Appula
+| align="right" |542
+|-
+|071062
+|Volturino
+| align="right" |1,916
+|-
+|071063
+|Ordona
+| align="right" |2,612
+|-
+|071064
+|Zapponeta
+| align="right" |3,104
+|-
+|
+|Total
+| align="right" |640,891
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

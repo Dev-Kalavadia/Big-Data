@@ -1,0 +1,77 @@
+Title: X (Xbox show)
+
+
+X (sometimes called the "X0 events") is an annually held trade show hosted by Microsoft, showcasing its Xbox portfolio of hardware, software, and services.
+
+==List of events==
+{| class="wikitable plainrowheaders" style="text-align:left;"
+|-
+! Event !! Dates !! Venue !! Country
+|-
+! scope="row"| X01
+|  || Cannes || France
+|-
+! scope="row"| X02
+|  || Seville || Spain
+|-
+! scope="row"| X03
+|  || Nice || France
+|-
+! scope="row"| X04
+! colspan="3"| No event held
+|-
+! scope="row"| X05
+|  || Amsterdam || Netherlands
+|-
+! scope="row"| X06
+|  || Barcelona || Spain
+|-
+! scope="row"| X07
+! colspan="3"| No event held
+|-
+! scope="row"| X08
+! colspan="3"| No event held
+|-
+! scope="row"| X09
+! colspan="3"| No event held
+|-
+! scope="row"| X010
+! colspan="3"| No event held
+|-
+! scope="row"| X011
+! colspan="3"| No event held
+|-
+! scope="row"| X012
+! colspan="3"| No event held
+|-
+! scope="row"| X013
+! colspan="3"| No event held
+|-
+! scope="row"| X014
+! colspan="3"| No event held
+|-
+! scope="row"| X015
+! colspan="3"| No event held
+|-
+! scope="row"| X016
+! colspan="3"| No event held
+|-
+! scope="row"| X017
+! colspan="3"| No event held
+|-
+! scope="row"| X018
+|  || Mexico City || Mexico
+|-
+! scope="row"| X019
+|  || Copper Box Arena, London || United Kingdom
+|-
+! scope="row"| X020
+! colspan="3"| No event held
+|-
+! scope="row"| X021
+! colspan="3"| No event held
+|-
+! scope="row"| X022
+! colspan="3"| No event held
+|}
+

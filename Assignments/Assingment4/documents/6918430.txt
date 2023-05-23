@@ -1,0 +1,4 @@
+Title: MatricityMatricity is the interaction of a matrix with its environment. This word is used particularly of protein interactions, where a polymerised protein (a matrix) interacts with a membrane or another polymer. 
+
+Protein interactions can normally be described by their affinities for each other. The interactions of clustered proteins for multivalent ligands are described by avidities (avidity), while matricity describes a semisolid state interaction of a matrix with its environment. As an example matricity has been used to describe the interaction of polymerised clathrin with adaptor complexes bound to the membrane.
+

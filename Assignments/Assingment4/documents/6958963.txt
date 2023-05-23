@@ -1,0 +1,5015 @@
+Title: 1973 United Kingdom local elections
+
+
+
+The first elections to the new local authorities established by the Local Government Act 1972 in England and Wales and the new Northern Ireland district councils created by the Local Government Act (Northern Ireland) 1972 took place in 1973. Elections to the existing Greater London Council also took place.
+
+== England and Wales ==
+The elections took place on three dates:
+*12 April 1973: Metropolitan county councils (601 councillors), Non-metropolitan county councils (3,128 councillors), Welsh county councils (578 councillors) and the Greater London Council (107 councillors & aldermen).
+*10 May 1973: Metropolitan district councils (2,517 councillors) and Welsh district councils (1,522 councillors).
+*7 June 1973: Non-metropolitan district councils (13,540 councillors).
+
+Elections took place for all the seats on the councils. In the case of the new councils, they became shadow authorities, taking over from the existing local authorities on 1 April 1974. The elections for the new councils had been brought forward from an originally planned date in November 1973, to allow the councils more time to act as shadow authorities - the final dates were set in May 1972.
+
+=== The April elections ===
+The elections held on 12 April saw a very impressive performance by the Labour Party, which regained control of the Greater London Council and took control of all six of the new metropolitan county councils. In the rest of England, they won seven county councils, including two of the new "estuary" counties: Cleveland and Humberside. The party also won Gwent and the three Glamorgan county councils (West Glamorgan, Mid Glamorgan, South Glamorgan) in Wales.
+
+The poor Conservative vote in London and the metropolitan counties was somewhat compensated by winning thirteen of the non-metropolitan counties. Failure to gain Essex or Hertfordshire were disappointments to the party, but taking control of Gloucestershire was a success. The party also failed to gain its only realistic Welsh prospect, South Glamorgan.
+
+There were no great successes for the Liberal party, which found itself in third place in all the metropolitan counties. They did however gain representation on the GLC for the first time, winning two seats at Sutton and Cheam and Richmond upon Thames. This followed the previous year's by-election success in winning the Sutton and Cheam parliamentary seat from the Conservatives.
+
+Independents won two English counties outright: Cornwall and the Isle of Wight. They also formed the largest grouping on a number of other councils, and entered agreements with the Conservatives in the running of some of these. In Wales, Independents controlled three mainly rural counties.
+
+===The May elections===
+The results of the elections in May saw an improvement in the performance by the Conservatives since the county council elections, and a slight fall back in the Labour vote. The Liberals had a notable success, becoming the largest group on Liverpool council.
+
+The Conservatives took control of five metropolitan districts, gaining seats in areas where they had been beaten in the elections to the county councils. They also gained one Welsh district, Monmouth.
+
+The Labour party declared it was pleased with the results, especially as opinion polls had shown them losing support. They took control of most of the metropolitan districts, making a clean sweep of councils in Tyne and Wear and South Yorkshire and important councils such as Birmingham, Coventry and Manchester. Labour also took control of most districts in South Wales including Cardiff. The party's organiser for Wales also pointed to the fact that official Labour candidates won rural seats in north and west Wales for the first time.
+
+Apart from forming a minority administration in Liverpool, the Liberals were able to hold the balance of power at Leeds, Stockport and Wirral. They were however disappointed with their performance at Calderdale which was won by Labour.
+
+===The June elections===
+In the June elections for 296 non-metropolitan districts, Labour won control of 71, the Conservatives 59, the Liberals 1, Democratic Labour 1, and Independents 67. 97 councils were under no overall control: in many of these councils Conservative and Independent groups formed an administration.
+
+The Labour party won 4,327 seats, the Conservatives 4,286, Independents 3,534, and the Liberals 919; with the remaining 449 seats going to various other groupings.
+
+It was a good result for the Liberal party who took control of Eastbourne and became the largest group on Adur, Newbury, Pendle and Waverley councils. The other two main parties also had notable successes: Labour considered control of  Cambridge, Dacorum, Ipswich and Oxford to be good results; while the Conservatives celebrated taking Gloucester, Great Yarmouth, Lewes and Warrington councils.
+
+The break-away Lincoln Democratic Labour Association won twenty of the thirty seats on Lincoln District council. The group were supporters of Dick Taverne, member of parliament for Lincoln who had been expelled from the Labour Party. Taverne had earlier in the year resigned his seat to force a by-election in protest against his expulsion, which he won against the official Labour candidate.
+
+===The Results===
+
+====Metropolitan county councils====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!Council!!Conservative!!Labour!!Liberal!!Independent!!Other!!Control
+|- bgcolor=FF6868
+|Greater Manchester
+|23
+|69
+|13
+|1
+|0
+|Labour
+|- bgcolor=FF6868
+|Merseyside
+|26
+|53
+|19
+|0
+|Ratepayers 1
+|Labour
+|- 
+|- bgcolor=FF6868
+|South Yorkshire
+|13
+|82
+|1
+|4
+|0
+|Labour
+|- bgcolor=FF6868
+|Tyne and Wear
+|26
+|74
+|1
+|3
+|0
+|Labour
+|- bgcolor=FF6868
+|West Midlands
+|26
+|74
+|4
+|0
+|0
+|Labour
+|- bgcolor=FF6868
+|West Yorkshire
+|25
+|51
+|11
+|1
+|0
+|Labour
+|}
+
+====Non-metropolitan county councils====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!Council!!Conservative!!Labour!!Liberal!!Independent!!Other!!Control!!Details
+|- bgcolor=CCCCCC
+|Avon County Council
+|36
+|32
+|2
+|3
+|0
+|NOC
+|Details
+|- bgcolor=CCCCCC
+|Bedfordshire County Council
+|32
+|39
+|8
+|3
+|1 Vacancy
+|NOC
+|Details
+|- 
+|- bgcolor=CCCCCC
+|Berkshire County Council
+|42
+|26
+|13
+|5
+|0
+|NOC (Conservative-Independent)
+|Details
+|- bgcolor=5B76FF
+|Buckinghamshire
+|36
+|18
+|4
+|12
+|0
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Cambridgeshire County Council
+|28
+|22
+|5
+|13
+|0
+|NOC
+|Details
+|- bgcolor=CCCCCC
+|Cheshire County Council
+|31
+|29
+|1
+|6
+|0
+|NOC
+|Details
+|- bgcolor=FF6868
+|Cleveland
+|35
+|52
+|0
+|2
+|0
+|Labour
+|Details
+|-
+|Cornwall County Council
+|3
+|1
+|0
+|75
+|0
+|Independent
+|Details
+|- bgcolor=CCCCCC
+|Cumbria County Council
+|31
+|38
+|1
+|6
+|0
+|NOC
+|Details
+|- bgcolor=FF6868
+|Derbyshire County Council
+|26
+|60
+|5
+|7
+|0
+|Labour
+|Details
+|- bgcolor=5B76FF
+|Devon County Council
+|54
+|20
+|11
+|12
+|0
+|Conservative
+|Details
+|- bgcolor=5B76FF
+|Dorset County Council
+|47
+|13
+|11
+|20
+|0
+|Conservative
+|Details
+|- bgcolor=FF6868
+|Durham
+|2
+|56
+|6
+|7
+|0
+|Labour
+|Details
+|- bgcolor=5B76FF
+|East Sussex County Council
+|48
+|19
+|9
+|8
+|0
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Essex
+|47
+|40
+|5
+|5
+|0
+|NOC (Conservative minority)
+|Details
+|- bgcolor=5B76FF
+|Gloucestershire County Council
+|31
+|18
+|5
+|7
+|0
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Hampshire County Council
+|44
+|27
+|6
+|20
+|0
+|NOC (Conservative-Independent)
+|Details
+|- bgcolor=CCCCCC
+|Hereford and Worcester County Council
+|37
+|30
+|8
+|17
+|0
+|NOC (Conservative-Independent)
+|Details
+|- bgcolor=CCCCCC
+|Hertfordshire County Council
+|33
+|33
+|3
+|2
+|Ratepayers  1
+|NOC
+|Details
+|- bgcolor=FF6868
+|Humberside County Council
+|36
+|51
+|3
+|7
+|2 Vacancies
+|Labour
+|Details
+|- 
+|Isle of Wight County Council
+|6
+|6
+|7
+|23
+|0
+|Independent
+|Details
+|- bgcolor=5B76FF
+|Kent County Council
+|63
+|31
+|7
+|2
+|0
+|Conservative
+|Details
+|- bgcolor=5B76FF
+|Lancashire County Council
+|52
+|33
+|7
+|3
+|Ratepayers 1
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Leicestershire County Council
+|41
+|37
+|7
+|8
+|0
+|NOC (Conservative-Independent)
+|Details
+|- bgcolor=CCCCCC
+|Lincolnshire County Council
+|34
+|10
+|3
+|22
+|0
+|NOC
+|Details
+|- bgcolor=5B76FF
+|Norfolk County Council
+|52
+|27
+|0
+|4
+|0
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|North Yorkshire County Council
+|39
+|12
+|12
+|29
+|0
+|NOC (Conservative-Independent)
+|Details
+|- bgcolor=FF6868
+|Northamptonshire County Council
+|38
+|46
+|3
+|4
+|2 Vacancies
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Northumberland
+|10
+|28
+|0
+|21
+|0
+|NOC
+|Details
+|- bgcolor=FF6868
+|Nottinghamshire County Council
+|35
+|54
+|0
+|0
+|0
+|Labour
+|Details
+|- bgcolor=5B76FF
+|Oxfordshire County Council
+|36
+|21
+|0
+|10
+|0
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Salop
+|14
+|16
+|3
+|30
+|0
+|NOC
+|Details
+|- bgcolor=5B76FF
+|Somerset County Council
+|35
+|7
+|2
+|12
+|0
+|Conservative
+|Details
+|- bgcolor=FF6868
+|Staffordshire County Council
+|28
+|47
+|1
+|9
+|0
+|Labour
+|Details
+|- bgcolor=5B76FF
+|Suffolk County Council
+|47
+|29
+|3
+|0
+|3
+|Conservative
+|Details
+|- bgcolor=5B76FF
+|Surrey County Council
+|46
+|12
+|9
+|5
+|0
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Warwickshire County Council
+|27
+|21
+|5
+|2
+|0
+|NOC
+|Details
+|- bgcolor=5B76FF
+|West Sussex County Council
+|52
+|10
+|7
+|13
+|Ratepayers 1
+|Conservative
+|Details
+|- bgcolor=5B76FF
+|Wiltshire County Council
+|40
+|22
+|6
+|11
+|0
+|Conservative
+|Details
+|}
+
+====Welsh county councils====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!Council!!Conservative!!Labour!!Liberal!!Independent!!Other!!Control
+|- bgcolor=CCCCCC
+|Clwyd County Council
+|11
+|20
+|4
+|30
+|1 Vacancy
+|NOC
+|-
+|Dyfed
+|0
+|29
+|8
+|40
+|Plaid Cymru 1Ratepayers 1
+|Independent
+|- bgcolor=FF6868
+|Gwent
+|12
+|59
+|3
+|1
+|Ratepayers 2
+Plaid Cymru 1
+|Labour
+|-
+|Gwynedd County Council
+|0
+|4
+|0
+|56
+|Plaid Cymru 6
+|Independent
+|- bgcolor=FF6868
+|Mid Glamorgan County Council
+|3
+|63
+|2
+|6
+|Plaid Cymru 6Communist 2
+|Labour
+|-
+|Powys County Council
+| 
+| 
+| 
+| 
+| 
+|Independent
+|- bgcolor=FF6868
+|South Glamorgan County Council
+|35
+|42
+|0
+|3
+|0
+|Labour
+|- bgcolor=FF6868
+|West Glamorgan County Council
+|9
+|52
+|2
+|4
+|Plaid Cymru 1
+Progressive Labour 1
+Ratepayers 1
+|Labour
+|}
+
+====Greater London Council====
+
+
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!Conservative!!Labour!!Liberal!!Independent!!Other!!Control!!Details
+|- bgcolor=FF6868
+|32
+|58
+|2
+|0
+|0
+|Labour
+|Details
+|}
+
+====Metropolitan districts====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!District
+!County
+!Conservative
+!Labour
+!Liberal
+!Independent
+!Other
+!Control
+!Details
+|- bgcolor=FF6868
+|Barnsley
+|South Yorkshire
+|0
+|57
+|0
+|1
+|Independent Labour 1
+Democratic Labour 1
+|Labour
+|Details
+|- bgcolor=FF6868
+|Birmingham
+|West Midlands
+|44
+|73
+|9
+|0
+|0
+|Labour
+|Details
+|- bgcolor=5B76FF
+|Bolton
+|Greater Manchester
+|35
+|31
+|2
+|1
+|0
+|Conservative
+|Details
+|- bgcolor=5B76FF
+|Bradford
+|West Yorkshire
+|53
+|31
+|9
+|0
+|0
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Bury
+|Greater Manchester
+|21
+|20
+|7
+|0
+|0
+|NOC
+|Details
+|- bgcolor=FF6868
+|Calderdale
+|West Yorkshire
+|18
+|28
+|5
+|0
+|0
+|Labour
+|Details
+|- bgcolor=FF6868
+|Coventry
+|West Midlands
+|12
+|42
+|0
+|0
+|0
+|Labour
+|Details
+|- bgcolor=FF6868
+|Doncaster
+|South Yorkshire
+|12
+|43
+|0
+|4
+|Democratic Labour 1
+|Labour
+|Details
+|- bgcolor=FF6868
+|Dudley
+|West Midlands
+|24
+|40
+|1
+|1
+|Independent Labour 1
+|Labour
+|Details
+|- bgcolor=FF6868
+|Gateshead
+|Tyne and Wear
+|6
+|71
+|0
+|0
+|Rent and Ratepayers 1
+|Labour
+|Details
+|- bgcolor=FF6868
+|Kirklees
+|West Yorkshire
+|18
+|45
+|8
+|1
+|0
+|Labour
+|Details
+|- bgcolor=FF6868
+|Knowsley
+|Merseyside
+|6
+|52
+|4
+|0
+|Kirkby Householders Federation 1
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Leeds
+|West Yorkshire
+|38
+|44
+|14
+|0
+|0
+|NOC
+|Details
+|- bgcolor=CCCCCC
+|Liverpool
+|Merseyside
+|9
+|42
+|48
+|0
+|0
+|NOC(1)
+|Details
+|- bgcolor=FF6868
+|Manchester
+|Greater Manchester
+|40
+|59
+|0
+|0
+|0
+|Labour
+|Details
+|- bgcolor=FF6868
+|Newcastle upon Tyne
+|Tyne and Wear
+|23
+|51
+|1
+|3
+|0
+|Labour
+|Details
+|- bgcolor=FF6868
+|North Tyneside
+|Tyne and Wear
+|19
+|48
+|7
+|4
+|0
+|Labour
+|Details
+|- bgcolor=FF6868
+|Oldham
+|Greater Manchester
+|6
+|42
+|5
+|1
+|3 Vacancies
+|Labour
+|Details
+|- bgcolor=FF6868
+|Rochdale
+|Greater Manchester
+|14
+|37
+|9
+|0
+|0
+|Labour
+|Details
+|- bgcolor=FF6868
+|Rotherham
+|South Yorkshire
+|3
+|50
+|0
+|1
+|0
+|Labour
+|Details
+|- bgcolor=FF6868
+|St Helens
+|Merseyside
+|9
+|36
+|0
+|0
+|0
+|Labour
+|Details
+|- bgcolor=FF6868
+|Salford
+|Greater Manchester
+|15
+|50
+|1
+|0
+|0
+|Labour
+|Details
+|- bgcolor=FF6868
+|Sandwell
+|West Midlands
+|24
+|66
+|0
+|0
+|0
+|Labour
+|Details
+|- bgcolor=5B76FF
+|Sefton
+|Merseyside
+|37
+|24
+|3
+|2
+|Ratepayers 3
+|Conservative
+|Details
+|- bgcolor=FF6868
+|Sheffield
+|South Yorkshire
+|18
+|69
+|3
+|0
+|0
+|Labour
+|Details
+|- bgcolor=5B76FF
+|Solihull
+|West Midlands
+|28
+|12
+|2
+|9
+|0
+|Conservative
+|Details
+|- bgcolor=FF6868
+|South Tyneside
+|Tyne and Wear
+|3
+|45
+|0
+|0
+|Progressive 18
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Stockport
+|Greater Manchester
+|27
+|16
+|13
+|4
+|0
+|NOC (Conservative-Independent)
+|Details
+|- bgcolor=FF6868
+|Sunderland
+|Tyne and Wear
+|21
+|56
+|0
+|1
+|0
+|Labour
+|Details
+|- bgcolor=FF6868
+|Tameside
+|Greater Manchester
+|14
+|38
+|2
+|0
+|0
+|Labour
+|Details
+|- bgcolor=5B76FF
+|Trafford
+|Greater Manchester
+|32
+|16
+|12
+|0
+|0
+|Conservative
+|Details
+|- bgcolor=FF6868
+|Wakefield
+|West Yorkshire
+|6
+|58
+|0
+|1
+|1
+|Labour
+|Details
+|- bgcolor=FF6868
+|Walsall
+|West Midlands
+|11
+|44
+|0
+|2
+|Ratepayers 3
+|Labour
+|Details
+|- bgcolor=FF6868
+|Wigan
+|Greater Manchester
+|5
+|66
+|0
+|1
+|0
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Wirral
+|Merseyside
+|29
+|24
+|13
+|0
+|0
+|NOC
+|Details
+|- bgcolor=FF6868
+|Wolverhampton
+|West Midlands
+|20
+|40
+|0
+|0
+|0
+|Labour
+|Details
+|}
+
+(1) A minority Liberal administration was formed
+
+====Welsh Districts====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!District
+!County
+!Conservative
+!Labour
+!Liberal
+!Plaid Cymru
+!Independent
+!Other
+!Control
+|-
+|Aberconwy
+|Gwynedd
+|4
+|3
+|0
+|0
+|34
+|0
+|Independent
+|- bgcolor=FF6868
+|Alyn-Dee
+|Clwyd
+|9
+|25
+|4
+|0
+|7
+|0
+|Labour
+|- bgcolor=FF6868
+|Afan
+|West Glamorgan
+|0
+|21
+|0
+|0
+|0
+|Tenants Association 3
+Ratepayers 5
+Unofficial Labour 1
+|Labour
+|-
+|Arfon
+|Gwynedd
+|0
+|8
+|0
+|5
+|27
+|0
+|Independent
+|- bgcolor=FF6868
+|Blaenau Gwent
+|Gwent
+|0
+|31
+|3
+|1
+|1
+|Independent Labour 7
+Ratepayers 7
+Tenants and Residents 1
+|Labour
+|-
+|Brecknock
+|Powys
+|4
+|17
+|1
+|0
+|29
+|0
+|Independent
+|- bgcolor=FF6868
+|Cardiff
+|South Glamorgan
+|33
+|42
+|0
+|0
+|0
+|0
+|Labour
+|-
+|Carmarthen
+|Dyfed
+|0
+|7
+|0
+|0
+|28
+|Ratepayers 1
+|Independent
+|-
+|Ceredigion
+|Dyfed
+|0
+|4
+|9
+|0
+|30
+|0
+|Independent
+|-
+|Colwyn
+|Clwyd
+|1
+|0
+|10
+|0
+|22
+|0
+|Independent
+|- bgcolor=FF6868
+|Cynon Valley
+|Mid Glamorgan
+|0
+|23
+|0
+|12
+|0
+|3
+|Labour
+|-
+|Delyn
+|Clwyd
+|1
+|11
+|0
+|2
+|26
+|0
+|Independent
+|- bgcolor=FF6868
+|Dinefwr
+|Dyfed
+|0
+|17
+|1
+|0
+|13
+|Independent Socialist 1
+|Labour
+|-
+|Dwyfor
+|Gwynedd
+|0
+|0
+|0
+|1
+|28
+|0
+|Independent
+|-
+|Glyndŵr
+|Clwyd
+|0
+|3
+|0
+|0
+|30
+|0
+|Independent
+|- bgcolor=FF6868
+|Islwyn
+|Gwent
+|0
+|30
+|0
+|2
+|3
+|Communist 1
+|Labour
+|- bgcolor=FF6868
+|Llanelli
+|Dyfed
+|0
+|29
+|0
+|0
+|4
+|0
+|Labour
+|- bgcolor=FF6868
+|Lliw Valley
+|West Glamorgan
+|0
+|27
+|0
+|2
+|3
+|0
+|Labour
+|-
+|Meirionydd
+|Gwynedd
+|0
+|0
+|0
+|0
+|39
+|0
+|Independent
+|- bgcolor=FF6868
+|Merthyr Tydfil
+|Mid Glamorgan
+|0
+|25
+|0
+|4
+|1
+|3
+|Labour
+|- bgcolor=5B76FF
+|Monmouth
+|Gwent
+|29
+|9
+|0
+|0
+|1
+|0
+|Conservative
+|-
+|Montgomery
+|Powys
+|0
+|2
+|3
+|0
+|44
+|0
+|Independent
+|- bgcolor=FF6868
+|Neath
+|West Glamorgan
+|0
+|24
+|0
+|2
+|2
+|Ratepayers 1
+4 Vacancies
+|Labour
+|- bgcolor=FF6868
+|Newport
+|Gwent
+|8
+|36
+|2
+|0
+|5
+|0
+|Labour
+|- bgcolor=FF6868
+|Ogwr
+|Mid Glamorgan
+|6
+|42
+|1
+|1
+|3
+|Ratepayers 3
+Independent Labour 1
+|Labour
+|-
+|Preseli
+|Dyfed
+|0
+|0
+|0
+|0
+|43
+|0
+|Independent
+|-
+|Radnor
+|Powys
+|0
+|0
+|0
+|0
+|31
+|0
+|Independent
+|- bgcolor=FF6868
+|Rhondda
+|Mid Glamorgan
+|0
+|30
+|0
+|1
+|0
+|Ratepayers 1
+Communist 1
+|Labour
+|-
+|Rhuddlan
+|Clwyd
+|9
+|4
+|1
+|0
+|22
+|0
+|Independent
+|- bgcolor=FF6868
+|Rhymney Valley
+|Mid Glamorgan
+|0
+|38
+|0
+|4
+|2
+|Ratepayers 4
+|Labour
+|-
+|South Pembrokeshire
+|Dyfed
+|0
+|0
+|0
+|1
+|30
+|0
+|Independent
+|- bgcolor=FF6868
+|Swansea
+|West Glamorgan
+|12
+|30
+|1
+|0
+|3
+|Independent Ratepayers 3
+Ratepayers 2
+|Labour
+|- bgcolor=FF6868
+|Taff-Ely
+|Mid Glamorgan
+|0
+|30
+|4
+|2
+|7
+|Ratepayers 4
+|Labour
+|- bgcolor=FF6868
+|Torfaen
+|Gwent
+|0
+|36
+|0
+|0
+|2
+|Communist 2
+Rent and Ratepayers 3
+|Labour
+|- bgcolor=CCCCCC
+|Vale of Glamorgan
+|South Glamorgan
+|15
+|23
+|0
+|0
+|11
+|0
+|NOC (Conservative-Independent)
+|- bgcolor=FF6868
+|Wrexham Maelor
+|Clwyd
+|4
+|24
+|2
+|1
+|14
+|0
+|Labour
+|-
+|Ynys Môn (Anglesey)
+|Gwynedd
+|0
+|4
+|0
+|0
+|41
+|0
+|Independent
+|}
+
+====Non-metropolitan Districts====
+
+=====A=====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!District
+!County
+!Conservative
+!Labour
+!Liberal
+!Independent
+!Other
+!Control
+!Details
+|- bgcolor=CCCCCC
+|Adur
+|West Sussex
+|13
+|6
+|16
+|0
+|Shoreham Beach Residents Association 4
+|NOC
+|Details
+|- bgcolor=CCCCCC
+|Allerdale
+|Cumbria
+|4
+|25
+|0
+|27
+|0
+|NOC (Independent-Conservative)
+|Details
+|- 
+|Alnwick
+|Northumberland
+|0
+|4
+|0
+|24
+|0
+|Independent
+|Details
+|- bgcolor=FF6868
+|Amber Valley
+|Derbyshire
+|4
+|32
+|3
+|0
+|21
+|Labour
+|Details
+|- bgcolor=5B76FF
+|Arun
+|West Sussex
+|33
+|4
+|4
+|5
+|1
+|Conservative
+|Details
+|- bgcolor=FF6868
+|Ashfield
+|Nottinghamshire
+|1
+|52
+|0
+|2
+|0
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Ashford
+|Kent
+|22
+|8
+|10
+|4
+|0
+|NOC (Conservative-Independent)
+|Details
+|-
+|Aylesbury Vale
+|Buckinghamshire
+|10
+|12
+|1
+|31
+|0
+|Independent
+|Details
+|}
+
+=====B=====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!District
+!County
+!Conservative
+!Labour
+!Liberal
+!Independent
+!Other
+!Control
+!Details
+|-
+|Babergh
+|Suffolk
+|7
+|11
+|0
+|20
+|0
+|Independent
+|Details
+|- bgcolor=FF6868
+|Barrow-in-Furness
+|Cumbria
+|6
+|25
+|0
+|2
+|0
+|Labour
+|Details
+|- bgcolor=FF6868
+|Basildon
+|Essex
+|9
+|31
+|0
+|0
+|6
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Basingstoke
+|Hampshire
+|18
+|14
+|3
+|20
+|0
+|NOC (Independent-Conservative)
+|Details
+|- bgcolor=FF6868
+|Bassetlaw
+|Nottinghamshire
+|11
+|29
+|0
+|10
+|1
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Bath
+|Avon
+|19
+|17
+|9
+|0
+|0
+|NOC
+|Details
+|- bgcolor=5B76FF
+|Beaconsfield
+|Buckinghamshire
+|27
+|1
+|3
+|9
+|2
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Bedford
+|Bedfordshire
+|20
+|22
+|2
+|12
+|0
+|NOC (Conservative-Independent)
+|Details
+|-
+|Berwick-upon-Tweed
+|Northumberland
+|0
+|2
+|0
+|26
+|0
+|Independent
+|Details
+|-
+|Beverley
+|Humberside
+|16
+|1
+|7
+|36
+|0
+|Independent
+|Details
+|-
+|Blaby
+|Leicestershire
+|8
+|0
+|7
+|20
+|0
+|Independent
+|Details
+|- bgcolor=CCCCCC
+|Blackburn
+|Lancashire
+|19
+|27
+|11
+|3
+|0
+|NOC
+|Details
+|- bgcolor=5B76FF
+|Blackpool
+|Lancashire
+|40
+|10
+|3
+|3
+|0
+|Conservative
+|Details
+|- bgcolor=FF6868
+|Blyth Valley
+|Northumberland
+|5
+|29
+|12
+|12
+|2
+|Labour
+|Details
+|- bgcolor=FF6868
+|Bolsover
+|Derbyshire
+|1
+|28
+|0
+|4
+|3
+|Labour
+|Details
+|-
+|Boothferry
+|Humberside
+|4
+|5
+|0
+|26
+|0
+|Independent
+|Details
+|- bgcolor=CCCCCC
+|Boston
+|Lincolnshire
+|9
+|5
+|5
+|15
+|0
+|NOC (Independent-Conservative)
+|Details
+|- bgcolor=CCCCCC
+|Bosworth
+|Leicestershire
+|4
+|14
+|8
+|13
+|0
+|NOC
+|Details
+|- bgcolor=5B76FF
+|Bournemouth
+|Dorset
+|38
+|14
+|3
+|2
+|0
+|Conservative
+|Details
+|- bgcolor=FF6868
+|Bracknell
+|Berkshire
+|9
+|17
+|1
+|1
+|Ratepayers 3
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Braintree
+|Essex
+|14
+|19
+|1
+|21
+|Ratepayers 1
+|NOC (Independent-Conservative)
+|Details
+|- bgcolor=CCCCCC
+|Breckland
+|Norfolk
+|19
+|10
+|0
+|21
+|Independent Conservative 1
+|NOC (Independent-Conservative)
+|Details
+|- bgcolor=5B76FF
+|Brentwood
+|Essex
+|24
+|11
+|1
+|2
+|0
+|Conservative
+|Details
+|- 
+|Bridgnorth
+|Salop
+|0
+|0
+|1
+|31
+|0
+|Independent
+|Details
+|- bgcolor=5B76FF
+|Brighton
+|East Sussex
+|31
+|28
+|0
+|0
+|0
+|Conservative
+|Details
+|- bgcolor=FF6868
+|Bristol
+|Avon
+|25
+|56
+|3
+|0
+|0
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Broadland
+|Norfolk
+|19
+|6
+|0
+|24
+|0
+|NOC (Independent-Conservative)
+|Details
+|- bgcolor=5B76FF
+|Bromsgrove
+|Hereford and Worcester
+|25
+|13
+|0
+|0
+|Ratepayers 4
+|Conservative
+|Details
+|- bgcolor=5B76FF
+|Broxbourne
+|Hertfordshire
+|28
+|12
+|0
+|0
+|0
+|Conservative
+|Details
+|- bgcolor=5B76FF
+|Broxtowe
+|Nottinghamshire
+|24
+|20
+|0
+|1
+|Socialist Independent 1
+|Conservative
+|Details
+|- bgcolor=FF6868
+|Burnley
+|Lancashire
+|12
+|39
+|1
+|2
+|0
+|Labour
+|Details
+|}
+
+=====C=====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!District
+!County
+!Conservative
+!Labour
+!Liberal
+!Independent
+!Other
+!Control
+!Details
+|- bgcolor=FF6868
+|Cambridge
+|Cambridgeshire
+|11
+|26
+|5
+|0
+|0
+|Labour
+|Details
+|- bgcolor=FF6868
+|Cannock Chase
+|Staffordshire
+|1
+|36
+|0
+|0
+|0
+|Labour
+|Details
+|- bgcolor=5B76FF
+|Canterbury
+|Kent
+|34
+|5
+|2
+|5
+|Ratepayers 3
+|0
+|Details
+|-
+|Caradon
+|Cornwall
+|0
+|0
+|0
+|41
+|0
+|Independent
+|Details
+|- bgcolor=FF6868
+|Carlisle
+|Cumbria
+|12
+|25
+|1
+|10
+|0
+|Labour
+|Details
+|-
+|Carrick
+|Cornwall
+|4
+|5
+|4
+|32
+|0
+|Independent
+|Details
+|- bgcolor=CCCCCC
+|Castle Morpeth
+|Northumberland
+|11
+|7
+|2
+|13
+|Ratepayers 1
+|NOC (Independent-Conservative)
+|Details
+|- bgcolor=FF6868
+|Castle Point
+|Essex
+|19
+|20
+|0
+|0
+|0
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Charnwood
+|Leicestershire
+|28
+|14
+|5
+|13
+|0
+|NOC (Conservative-Independent)
+|Details
+|- bgcolor=5B76FF
+|Chelmsford
+|Essex
+|31
+|16
+|8
+|5
+|0
+|Conservative
+|Details
+|- bgcolor=5B76FF
+|Cheltenham
+|Gloucestershire
+|21
+|7
+|4
+|2
+|Ratepayers 2
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Cherwell
+|Oxfordshire
+|15
+|16
+|0
+|14
+|0
+|NOC (Conservative-Independent)
+|Details
+|- bgcolor=5B76FF
+|Chester
+|Cheshire
+|43
+|15
+|0
+|4
+|0
+|Conservative
+|Details
+|- bgcolor=FF6868
+|Chesterfield
+|Derbyshire
+|7
+|45
+|2
+|0
+|0
+|Labour
+|Details
+|- bgcolor=FF6868
+|Chester-le-Street
+|Durham
+|0
+|23
+|6
+|4
+|0
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Chichester
+|West Sussex
+|18
+|1
+|6
+|22
+|Residents 3
+|NOC
+|Details
+|- bgcolor=5B76FF
+|Chiltern
+|Buckinghamshire
+|26
+|11
+|0
+|7
+|Ratepayers 3
+Residents 4
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Chorley
+|Lancashire
+|17
+|21
+|0
+|7
+|Independent Labour 2
+|NOC
+|Details
+|- bgcolor=CCCCCC
+|Christchurch
+|Dorset
+|10
+|4
+|5
+|1
+|0
+|NOC (Conservative-Independent)
+|Details
+|- bgcolor=CCCCCC
+|Cleethorpes
+|Humberside
+|9
+|14
+|6
+|19
+|0
+|NOC (Independent-Conservative)
+|Details
+|- bgcolor=CCCCCC
+|Colchester
+|Essex
+|28
+|27
+|1
+|4
+|0
+|NOC (Conservative-Independent)
+|Details
+|- bgcolor=CCCCCC
+|Congleton
+|Cheshire
+|20
+|12
+|1
+|11
+|Ratepayers 1
+|NOC
+|Details
+|- bgcolor=FF6868
+|Copeland
+|Cumbria
+|6
+|30
+|0
+|12
+|0
+|Labour
+|Details
+|- bgcolor=FF6868
+|Corby
+|Northamptonshire
+|1
+|29
+|0
+|2
+|Independent Socialist 1
+|Labour
+|Details
+|-
+|Cotswold
+|Gloucestershire
+|1
+|2
+|0
+|42
+|0
+|Independent
+|Details
+|- bgcolor=CCCCCC
+|Craven
+|North Yorkshire
+|14
+|6
+|9
+|6
+|0
+|NOC (Conservative-Independent)
+|Details
+|- bgcolor=FF6868
+|Crawley
+|West Sussex
+|5
+|25
+|0
+|1
+|Ratepayers 1
+|Labour
+|Details
+|- bgcolor=FF6868
+|Crewe
+|Cheshire
+|2
+|35
+|2
+|21
+|0
+|Labour
+|Details
+|}
+
+=====D=====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!District
+!County
+!Conservative
+!Labour
+!Liberal
+!Independent
+!Other
+!Control
+!Details
+|- bgcolor=FF6868
+|Dacorum
+|Hertfordshire
+|26
+|33
+|0
+|3
+|0
+|Labour
+|Details
+|- bgcolor=FF6868
+|Darlington
+|Durham
+|8
+|28
+|8
+|5
+|0
+|Labour
+|Details
+|- bgcolor=FF6868
+|Dartford
+|Kent
+|14
+|30
+|0
+|0
+|0
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Daventry
+|Northamptonshire
+|16
+|9
+|0
+|10
+|0
+|NOC (Conservative-Independent)
+|Details
+|- bgcolor=FF6868
+|Derby
+|Derbyshire
+|14
+|34
+|6
+|0
+|0
+|Labour
+|Details
+|- bgcolor=FF6868
+|Derwentside
+|Durham
+|1
+|45
+|5
+|3
+|3
+|Labour
+|Details
+|- bgcolor=5B76FF
+|Dover
+|Kent
+|29
+|21
+|0
+|5
+|0
+|Conservative
+|Details
+|- bgcolor=FF6868
+|Durham
+|Durham
+|0
+|40
+|7
+|14
+|0
+|Labour
+|Details
+|}
+
+=====E=====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!District
+!County
+!Conservative
+!Labour
+!Liberal
+!Independent
+!Other
+!Control
+!Details
+|- bgcolor=FF6868
+|Easington
+|County Durham|Durham
+|0
+|56
+|0
+|3
+|Independent Labour 1
+|Labour
+|Details
+|- bgcolor=Orange
+|Eastbourne
+|East Sussex
+|10
+|4
+|19
+|0
+|0
+|Liberal
+|Details
+|- 
+|East Cambridgeshire
+|Cambridgeshire
+|0
+|1
+|0
+|33
+|1 Vacancy
+|Independent
+|Details
+|-
+|East Devon
+|Devon
+|14
+|1
+|3
+|42
+|0
+|Independent
+|Details
+|- bgcolor=CCCCCC
+|East Hertfordshire
+|Hertfordshire
+|16
+|10
+|0
+|16
+|6
+|NOC (Conservative-Independent)
+|Details
+|- bgcolor=CCCCCC
+|Eastleigh
+|Hampshire
+|13
+|20
+|5
+|4
+|0
+|NOC
+|Details
+|-
+|East Lindsey
+|Lincolnshire
+|5
+|1
+|3
+|5
+|Independent Conservative 2
+Others 42
+|Non Party
+|Details
+|- bgcolor=CCCCCC
+|East Northamptonshire
+|Northamptonshire
+|5
+|14
+|0
+|0
+|17
+|NOC
+|Details
+|- bgcolor=CCCCCC
+|East Staffordshire
+|Staffordshire
+|22
+|24
+|0
+|14
+|0
+|NOC (Conservative-Independent)
+|Details
+|-
+|Eden
+|Cumbria
+|0
+|0
+|0
+|37
+|0
+|Independent
+|Details
+|- bgcolor=FF6868
+|Ellesmere Port
+|Cheshire
+|14
+|27
+|0
+|1
+|0
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Elmbridge
+|Surrey
+|39
+|7
+|5
+|0
+|Ratepayers 14
+|Conservative
+|Details
+|- bgcolor=5B76FF
+|Epping Forest
+|Essex
+|44
+|10
+|0
+|5
+|0
+|Conservative
+|Details
+|-
+|Epsom and Ewell
+|Surrey
+|0
+|3
+|0
+|0
+|Ratepayers 37
+|Ratepayers
+|Details
+|- bgcolor=FF6868
+|Erewash
+|Derbyshire
+|9
+|36
+|5
+|4
+|0
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Exeter
+|Devon
+|14
+|13
+|6
+|1
+|0
+|NOC
+|
+|}
+
+=====F=====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!District
+!County
+!Conservative
+!Labour
+!Liberal
+!Independent
+!Other
+!Control
+!Details
+|- bgcolor=CCCCCC
+|Fareham
+|Hampshire
+|16
+|2
+|5
+|2
+|Ratepayers 11
+|NOC (Conservative-Ratepayers)
+|Details
+|- bgcolor=CCCCCC
+|Fenland
+|Cambridgeshire
+|18
+|8
+|0
+|14
+|0
+|NOC (Conservative-Independent)
+|Details
+|- bgcolor=CCCCCC
+|Forest Heath
+|Suffolk
+|12
+|0
+|0
+|3
+|Others 9
+1 Vacancy
+|NOC (Conservative-Independent)
+|Details
+|- bgcolor=CCCCCC
+|Forest of Dean
+|Gloucestershire
+|0
+|21
+|1
+|25
+|0
+|NOC
+|Details
+|- bgcolor=5B76FF
+|Fylde
+|Lancashire
+|28
+|2
+|2
+|4
+|Others 9
+|Conservative
+|Details
+|}
+
+=====G=====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!District
+!County
+!Conservative
+!Labour
+!Liberal
+!Independent
+!Other
+!Control
+!Details
+|- bgcolor=5B76FF
+|Gedling
+|Nottinghamshire
+|32
+|19
+|0
+|0
+|Independent Ratepayers 4
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Gillingham
+|Kent
+|13
+|14
+|8
+|0
+|0
+|NOC
+|Details
+|-
+|Glanford
+|Humberside
+|0
+|1
+|0
+|33
+|0
+|Independent
+|Details
+|- bgcolor=5B76FF
+|Gloucester
+|Gloucestershire
+|21
+|12
+|0
+|0
+|0
+|Conservative
+|Details
+|- bgcolor=FF6868
+|Gosport
+|Hampshire
+|9
+|19
+|0
+|2
+|Ratepayers 1
+|Labour
+|Details
+|- bgcolor=FF6868
+|Gravesham
+|Kent
+|15
+|28
+|0
+|0
+|Ratepayers 1
+|Labour
+|Details
+|- bgcolor=5B76FF
+|Great Yarmouth
+|Norfolk
+|26
+|17
+|2
+|3
+|0
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Grimsby
+|Humberside
+|14
+|20
+|7
+|1
+|0
+|NOC
+|Details
+|- bgcolor=5B76FF
+|Guildford
+|Surrey
+|29
+|6
+|5
+|2
+|0
+|Conservative
+|Details
+|}
+
+=====H=====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!District
+!County
+!Conservative
+!Labour
+!Liberal
+!Independent
+!Other
+!Control
+!Details
+|- bgcolor=FF6868
+|Halton
+|Cheshire
+|8
+|30
+|1
+|3
+|Moderate Party 1
+|Labour
+|Details
+|-
+|Hambleton
+|North Yorkshire
+|4
+|1
+|1
+|42
+|0
+|Independent
+|Details
+|- bgcolor=5B76FF
+|Harborough
+|Leicestershire
+|37
+|28
+|2
+|0
+|0
+|Conservative
+|Details
+|- bgcolor=FF6868
+|Harlow
+|Essex
+|0
+|38
+|4
+|0
+|0
+|Labour
+|Details
+|- bgcolor=5B76FF
+|Harrogate
+|North Yorkshire
+|35
+|2
+|15
+|7
+|1 Vacancy
+|Conservative
+|Details
+|- bgcolor=FF6868
+|Hartlepool
+|Cleveland
+|15
+|30
+|0
+|1
+|0
+|Labour
+|Details
+|-
+|Hartley Wintney
+|Hampshire
+|7
+|0
+|0
+|23
+|3
+|Independent
+|Details
+|- bgcolor=CCCCCC
+|Hastings
+|East Sussex
+|12
+|11
+|9
+|1
+|0
+|NOC
+|Details
+|- bgcolor=CCCCCC
+|Havant
+|Hampshire
+|8
+|8
+|10
+|4
+|Ratepayers 12
+|NOC
+|Details
+|- bgcolor=CCCCCC
+|Hereford
+|Hereford and Worcester
+|0
+|10
+|8
+|3
+|Independent Conservative 3
+|NOC
+|Details
+|- bgcolor=CCCCCC
+|Hertsmere
+|Hertfordshire
+|25
+|17
+|13
+|0
+|0
+|NOC
+|Details
+|- bgcolor=CCCCCC
+|High Peak
+|Derbyshire
+|23
+|11
+|2
+|10
+|0
+|NOC (Conservative-Independent)
+|Details
+|- 
+|Holderness
+|Humberside
+|0
+|0
+|0
+|29
+|0
+|Independent
+|Details
+|-
+|Horsham
+|West Sussex
+|18
+|0
+|2
+|23
+|0
+|Independent
+|Details
+|- bgcolor=5B76FF
+|Hove
+|East Sussex
+|24
+|6
+|0
+|3
+|3 Vacancies
+|Conservative
+|Details
+|- 
+|Huntingdon
+|Cambridgeshire
+|15
+|9
+|0
+|26
+|0
+|Independent
+|Details
+|- bgcolor=CCCCCC
+|Hyndburn
+|Lancashire
+|21
+|24
+|3
+|0
+|0
+|NOC
+|Details
+|}
+
+=====I=====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!District
+!County
+!Conservative
+!Labour
+!Liberal
+!Independent
+!Other
+!Control
+!Details
+|- bgcolor=FF6868
+|Ipswich
+|Suffolk
+|11
+|36
+|0
+|0
+|0
+|Labour
+|Details
+|}
+
+=====K=====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!District
+!County
+!Conservative
+!Labour
+!Liberal
+!Independent
+!Other
+!Control
+!Details
+|-
+|Kennet
+|Wiltshire
+|7
+|0
+|2
+|28
+|0
+|Independent
+|Details
+|-
+|Kerrier
+|Cornwall
+|5
+|3
+|0
+|34
+|0
+|Independent
+|Details
+|- bgcolor=CCCCCC
+|Kettering
+|Northamptonshire
+|14
+|16
+|7
+|8
+|0
+|NOC
+|Details
+|- bgcolor=FF6868
+|Kingston-upon-Hull
+|Humberside
+|8
+|55
+|0
+|0
+|0
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Kingswood
+|Avon
+|4
+|19
+|6
+|6
+|10
+|NOC
+|Details
+|}
+
+=====L=====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!District
+!County
+!Conservative
+!Labour
+!Liberal
+!Independent
+!Other
+!Control
+!Details
+|- bgcolor=5B76FF
+|Lancaster
+|Lancashire
+|32
+|18
+|1
+|6
+|Ratepayers 3
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Langbaurgh
+|Cleveland
+|27
+|32
+|0
+|5
+|0
+|NOC
+|Details
+|- bgcolor=FF6868
+|Leicester
+|Leicestershire
+|11
+|37
+|0
+|0
+|0
+|Labour
+|Details
+|-
+|Leominster
+|Hereford and Worcester
+|1
+|2
+|0
+|33
+|0
+|Independent
+|Details
+|- bgcolor=5B76FF
+|Lewes
+|East Sussex
+|26
+|10
+|0
+|6
+|Ratepayers 5
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Lichfield
+|Staffordshire
+|17
+|25
+|0
+|11
+|Ratepayers 1
+|NOC
+|Details
+|- bgcolor=
+|Lincoln
+|Lincolnshire
+|6
+|1
+|0
+|3
+|Democratic Labour 20
+|Democratic Labour
+|Details
+|- bgcolor=FF6868
+|Luton
+|Bedfordshire
+|12
+|30
+|6
+|0
+|0
+|Labour
+|Details
+|}
+
+=====M=====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!District
+!County
+!Conservative
+!Labour
+!Liberal
+!Independent
+!Other
+!Control
+!Details
+|- bgcolor=CCCCCC
+|Macclesfield
+|Cheshire
+|25
+|10
+|10
+|12
+|Ratepayers 5
+|NOC
+|Details
+|- bgcolor=CCCCCC
+|Maidstone
+|Kent
+|13
+|12
+|19
+|9
+|7
+|NOC
+|Details
+|- bgcolor=CCCCCC
+|Maldon
+|Essex
+|9
+|4
+|3
+|14
+|0
+|NOC
+|Details
+|- bgcolor=CCCCCC
+|Malvern Hills
+|Hereford and Worcester
+|1
+|2
+|11
+|8
+|23
+|NOC
+|Details
+|- bgcolor=FF6868
+|Mansfield
+|Nottinghamshire
+|7
+|38
+|0
+|0
+|0
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Medina
+|Isle of Wight
+|3
+|10
+|4
+|13
+|Ratepayers 3
+|NOC
+|Details
+|- bgcolor=FF6868
+|Medway
+|Kent
+|22
+|32
+|5
+|0
+|0
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Melton
+|Leicestershire
+|12
+|2
+|0
+|6
+|4
+|NOC
+|Details
+|-
+|Mendip
+|Somerset
+|11
+|7
+|2
+|23
+|1 Vacancy
+|Independent
+|Details
+|-
+|Mid Bedfordshire
+|Bedfordshire
+|5
+|8
+|1
+|35
+|0
+|Independent
+|Details
+|-
+|Mid Suffolk
+|Suffolk
+|6
+|9
+|1
+|24
+|0
+|Independent
+|Details
+|- bgcolor=CCCCCC
+|Mid Sussex
+|West Sussex
+|25
+|3
+|5
+|21
+|0
+|NOC (Conservative-Independent)
+|Details
+|- bgcolor=FF6868
+|Middlesbrough
+|Cleveland
+|17
+|39
+|0
+|0
+|0
+|Labour
+|Details
+|- bgcolor=FF6868
+|Milton Keynes
+|Buckinghamshire
+|8
+|27
+|0
+|5
+|0
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Mole Valley
+|Surrey
+|16
+|3
+|5
+|9
+|Residents 9
+|NOC
+|Details
+|}
+
+=====N=====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!District
+!County
+!Conservative
+!Labour
+!Liberal
+!Independent
+!Other
+!Control
+!Details
+|- bgcolor=FF6868
+|Newark
+|Nottinghamshire
+|20
+|29
+|0
+|3
+|0
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Newbury
+|Berkshire
+|10
+|1
+|24
+|22
+|0
+|NOC
+|Details
+|- bgcolor=CCCCCC
+|Newcastle-under-Lyme
+|Staffordshire
+|15
+|31
+|2
+|14
+|0
+|NOC
+|Details
+|-
+|New Forest
+|Hampshire
+|12
+|1
+|5
+|37
+|3
+|Independent
+|Details
+|- bgcolor=FF6868
+|Northampton
+|Northamptonshire
+|23
+|25
+|0
+|0
+|0
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Northavon
+|Avon
+|26
+|19
+|1
+|1
+|Residents Association 1
+2 Vacancies
+|NOC
+|Details
+|-
+|North Cornwall
+|Cornwall
+|0
+|0
+|3
+|23
+|0
+|Independent
+|Details
+|-
+|North Devon
+|Devon
+|0
+|1
+|15
+|28
+|0
+|Independent
+|Details
+|-
+|North Dorset
+|Dorset
+|0
+|0
+|4
+|27
+|0
+|Independent
+|Details
+|- bgcolor=FF6868
+|North East Derbyshire
+|Derbyshire
+|10
+|32
+|0
+|9
+|0
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|North Hertfordshire
+|Hertfordshire
+|23
+|17
+|0
+|7
+|Ratepayers 1
+|NOC
+|Details
+|- 
+|North Kesteven
+|Lincolnshire
+|8
+|2
+|0
+|27
+|0
+|Independent
+|Details
+|- 
+|North Shropshire
+|Shropshire
+|0
+|1
+|2
+|36
+|0
+|Independent
+|Details
+|- bgcolor=FF6868
+|North Warwickshire
+|Warwickshire
+|8
+|19
+|0
+|4
+|Ratepayers 2
+|Labour
+|Details
+|- bgcolor=FF6868
+|North West Leicestershire
+|Leicestershire
+|8
+|25
+|0
+|10
+|0
+|Labour
+|Details
+|- bgcolor=5B76FF
+|North Wiltshire
+|Wiltshire
+|24
+|4
+|7
+|11
+|0
+|Conservative
+|Details
+|- 
+|North Wolds
+|Humberside
+|3
+|2
+|1
+|37
+|0
+|Independent
+|Details
+|- bgcolor=FF6868
+|Norwich
+|Norfolk
+|11
+|37
+|0
+|0
+|0
+|Labour
+|Details
+|- bgcolor=FF6868
+|Nottingham
+|Nottinghamshire
+|10
+|44
+|0
+|0
+|0
+|Labour
+|Details
+|- bgcolor=FF6868
+|Nuneaton
+|Warwickshire
+|7
+|26
+|2
+|0
+|0
+|Labour
+|Details
+|}
+
+=====O=====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!District
+!County
+!Conservative
+!Labour
+!Liberal
+!Independent
+!Other
+!Control
+!Details
+|- bgcolor=5B76FF
+|Oadby and Wigston
+|Leicestershire
+|18
+|7
+|5
+|3
+|0
+|Conservative
+|Details
+|-
+|Oswestry
+|Shropshire
+|0
+|1
+|3
+|18
+|0
+|Independent
+|Details
+|- bgcolor=FF6868
+|Oxford
+|Oxfordshire
+|12
+|30
+|3
+|0
+|0
+|Labour
+|Details
+|}
+
+=====P=====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!District
+!County
+!Conservative
+!Labour
+!Liberal
+!Independent
+!Other
+!Control
+!Details
+|-
+|Pastonacres
+|Norfolk
+|6
+|4
+|0
+|37
+|0
+|Independent
+|Details
+|- bgcolor=CCCCCC
+|Pendle
+|Lancashire
+|6
+|19
+|23
+|2
+|7
+|NOC
+|Details
+|-
+|Penwith
+|Cornwall
+|0
+|1
+|1
+|38
+|0
+|Independent
+|Details
+|- bgcolor=FF6868
+|Peterborough
+|Cambridgeshire
+|19
+|28
+|1
+|0
+|0
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Petersfield
+|Hampshire
+|16
+|6
+|0
+|20
+|0
+|NOC
+|Details
+|- bgcolor=5B76FF
+|Plymouth
+|Devon
+|37
+|29
+|0
+|0
+|0
+|Conservative
+|Details
+|- bgcolor=5B76FF
+|Poole
+|Dorset
+|22
+|3
+|9
+|2
+|0
+|Conservative
+|Details
+|- bgcolor=5B76FF
+|Portsmouth
+|Hampshire
+|28
+|17
+|0
+|3
+|0
+|Conservative
+|Details
+|- bgcolor=FF6868
+|Preston
+|Lancashire
+|19
+|38
+|0
+|0
+|0
+|Labour
+|Details
+|-
+|Purbeck
+|Dorset
+|5
+|3
+|0
+|13
+|0
+|Independent
+|Details
+|}
+
+=====R=====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!District
+!County
+!Conservative
+!Labour
+!Liberal
+!Independent
+!Other
+!Control
+!Details
+|- bgcolor=CCCCCC
+|Reading
+|Berkshire
+|16
+|16
+|14
+|
+|0
+|NOC
+|Details
+|- bgcolor=FF6868
+|Redditch
+|Hereford and Worcester
+|6
+|19
+|0
+|0
+|0
+|NOC
+|Details
+|- bgcolor=5B76FF
+|Reigate and Banstead
+|Surrey
+|29
+|15
+|4
+|2
+|0
+|Conservative
+|Details
+|-
+|Restormel
+|Cornwall
+|0
+|0
+|2
+|36
+|0
+|Independent
+|Details
+|- bgcolor=5B76FF
+|Ribble Valley
+|Lancashire
+|30
+|1
+|0
+|7
+|0
+|Conservative
+|Details
+|-
+|Richmondshire
+|North Yorkshire
+|0
+|0
+|0
+|35
+|0
+|Independent
+|Details
+|- bgcolor=CCCCCC
+|Rochford
+|Essex
+|19
+|12
+|1
+|8
+|0
+|NOC
+|Details
+|- bgcolor=CCCCCC
+|Rossendale
+|Lancashire
+|17
+|15
+|4
+|0
+|0
+|NOC
+|Details
+|- 
+|Rother
+|East Sussex
+|9
+|5
+|1
+|30
+|0
+|Independent
+|Details
+|- bgcolor=CCCCCC
+|Rugby
+|Warwickshire
+|22
+|18
+|3
+|2
+|Ratepayers 3
+|NOC
+|Details
+|- bgcolor=5B76FF
+|Runnymede
+|Surrey
+|23
+|15
+|0
+|2
+|0
+|Conservative
+|Details
+|- bgcolor=5B76FF
+|Rushcliffe
+|Nottinghamshire
+|42
+|3
+|0
+|3
+|1
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Rushmoor
+|Hampshire
+|20
+|9
+|7
+|0
+|Ratepayers 7
+|NOC
+|Details
+|-
+|Rutland
+|Leicestershire
+|0
+|0
+|0
+|20
+|0
+|Independent
+|Details
+|- 
+|Ryedale
+|North Yorkshire
+|0
+|5
+|0
+|40
+|0
+|Independent
+|Details
+|}
+
+=====S=====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!District
+!County
+!Conservative
+!Labour
+!Liberal
+!Independent
+!Other
+!Control
+!Details
+|- bgcolor=5B76FF
+|St Albans
+|Hertfordshire
+|32
+|14
+|7
+|1
+|0
+|Conservative
+|Details
+|- bgcolor=5B76FF
+|St Edmundsbury
+|Suffolk
+|26
+|11
+|0
+|6
+|Independent Conservative 1
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Salisbury
+|Wiltshire
+|16
+|13
+|8
+|17
+|Ratepayers 2
+2 Vacancies
+|NOC
+|Details
+|- bgcolor=CCCCCC
+|Scarborough
+|North Yorkshire
+|15
+|5
+|11
+|16
+|1 Vacancy
+|NOC
+|Details
+|- bgcolor=FF6868
+|Scunthorpe
+|Humberside
+|4
+|35
+|0
+|0
+|Independent Labour 1
+|Labour
+|Details
+|- bgcolor=FF6868
+|Sedgefield
+|Durham
+|1
+|40
+|4
+|8
+|0
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Sedgemoor
+|Somerset
+|19
+|14
+|3
+|12
+|0
+|NOC
+|Details
+|-
+|Selby
+|North Yorkshire
+|16
+|7
+|0
+|20
+|1 Vacancy
+|Independent
+|Details
+|- bgcolor=5B76FF
+|Sevenoaks
+|Kent
+|28
+|6
+|6
+|14
+|0
+|Conservative
+|Details
+|- bgcolor=5B76FF
+|Shepway
+|Kent
+|33
+|12
+|1
+|8
+|0
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Shrewsbury
+|Shropshire
+|12
+|15
+|7
+|11
+|0
+|NOC
+|Details
+|- bgcolor=FF6868
+|Slough
+|Berkshire
+|2
+|34
+|4
+|0
+|0
+|Labour
+|Details
+|- bgcolor=CCCCCC 
+|South Bedfordshire
+|Bedfordshire
+|17
+|13
+|8
+|7
+|0
+|NOC
+|Details
+|-
+|South Cambridgeshire
+|Cambridgeshire
+|0
+|7
+|3
+|43
+|0
+|Independent
+|Details
+|- bgcolor=FF6868
+|South Derbyshire
+|Derbyshire
+|4
+|18
+|0
+|13
+|0
+|Labour
+|Details
+|-
+|South Hams
+|Devon
+|2
+|0
+|0
+|40
+|0
+|Independent
+|Details
+|-
+|South Herefordshire
+|Hereford and Worcester
+|1
+|0
+|0
+|35
+|0
+|Independent
+|Details
+|-
+|South Holland
+|Lincolnshire
+|6
+|2
+|0
+|27
+|0
+|Independent
+|Details
+|- bgcolor=CCCCCC
+|South Kesteven
+|Lincolnshire
+|13
+|12
+|0
+|9
+|21
+|NOC
+|Details
+|-
+|South Lakeland
+|Cumbria
+|7
+|2
+|7
+|37
+|Independent Conservative 1
+|Independent
+|Details
+|-
+|South Norfolk
+|Norfolk
+|6
+|7
+|1
+|33
+|0
+|Independent
+|Details
+|- bgcolor=CCCCCC 
+|South Northamptonshire
+|Northamptonshire
+|15
+|2
+|2
+|17
+|0
+|NOC (Independent-Conservative)
+|Details
+|- bgcolor=5B76FF
+|South Ribble
+|Lancashire
+|30
+|16
+|2
+|1
+|0
+|Conservative
+|Details
+|-
+|South Shropshire
+|Shropshire
+|0
+|0
+|1
+|35
+|0
+|Independent
+|Details
+|- bgcolor=CCCCCC 
+|South Staffordshire
+|Staffordshire
+|22
+|8
+|1
+|15
+|2
+|NOC (Conservative-Independent)
+|Details
+|- 
+|South Wight
+|Isle of Wight
+|1
+|0
+|1
+|22
+|0
+|Independent
+|Details
+|- bgcolor=FF6868
+|Southampton
+|Hampshire
+|20
+|31
+|0
+|0
+|0
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Southend-on-Sea
+|Essex
+|24
+|13
+|11
+|0
+|0
+|NOC
+|Details
+|- bgcolor=5B76FF
+|Spelthorne
+|Surrey
+|39
+|13
+|0
+|0
+|0
+|Conservative
+|Details
+|- bgcolor=CCCCCC 
+|Stafford
+|Staffordshire
+|18
+|15
+|0
+|23
+|Independent Labour 1
+|NOC 
+|Details
+|- bgcolor=CCCCCC 
+|Staffordshire Moorlands
+|Staffordshire
+|12
+|14
+|2
+|26
+|0
+|NOC (Independent minority)
+|Details
+|- bgcolor=FF6868
+|Stevenage
+|Hertfordshire
+|3
+|31
+|0
+|0
+|0
+|Labour
+|Details
+|- bgcolor=FF6868
+|Stockton-on-Tees
+|Cleveland
+|25
+|33
+|0
+|2
+|0
+|Labour
+|Details
+|- bgcolor=FF6868
+|Stoke-on-Trent
+|Staffordshire
+|8
+|60
+|3
+|1
+|0
+|Labour
+|Details
+|-
+|Stratford-on-Avon
+|Warwickshire
+|15
+|2
+|5
+|32
+|0
+|Independent
+|Details
+|- bgcolor=CCCCCC
+|Stroud
+|Gloucestershire
+|14
+|14 (Including 2 Labour & Co-Operative)
+|8
+|17
+|3 Vacancies
+|NOC
+|Details
+|- bgcolor=CCCCCC
+|Suffolk Coastal
+|Suffolk
+|27
+|9
+|0
+|18
+|Independent Conservative 1
+|NOC
+|Details
+|- bgcolor=5B76FF
+|Surrey Heath
+|Surrey
+|35
+|0
+|0
+|1
+|0
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Swale
+|Kent
+|17
+|25
+|3
+|5
+|0
+|NOC
+|Details
+|}
+
+=====T=====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!District
+!County
+!Conservative
+!Labour
+!Liberal
+!Independent
+!Other
+!Control
+!Details
+|- bgcolor=FF6868
+|Tamworth
+|Staffordshire
+|0
+|18
+|0
+|6
+|0
+|Labour
+|Details
+|- bgcolor=5B76FF
+|Tandridge
+|Surrey
+|26
+|3
+|10
+|3
+|0
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Taunton Deane
+|Somerset
+|21
+|14
+|0
+|13
+|0
+|NOC
+|Details
+|-
+|Teesdale
+|Durham
+|0
+|0
+|0
+|29
+|0
+|Independent
+|Details
+|-
+|Teignbridge
+|Devon
+|0
+|7
+|0
+|48
+|Independent Trade Unionist 1
+|Independent
+|Details
+|- bgcolor=5B76FF
+|Tendring
+|Essex
+|31
+|4
+|11
+|11
+|Ratepayers 3
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Test Valley
+|Hampshire
+|10
+|5
+|7
+|21
+|0
+|NOC
+|Details
+|-
+|Tewkesbury
+|Gloucestershire
+|22
+|0
+|3
+|26
+|0
+|Independent
+|Details
+|- bgcolor=FF6868
+|Thamesdown
+|Wiltshire
+|18
+|26
+|0
+|2
+|0
+|Labour
+|Details
+|- bgcolor=5B76FF
+|Thanet
+|Kent
+|33
+|14
+|5
+|11
+|0
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Three Rivers
+|Hertfordshire
+|19
+|12
+|13
+|0
+|0
+|NOC
+|Details
+|- bgcolor=FF6868
+|Thurrock
+|Essex
+|13
+|33
+|0
+|3
+|0
+|Labour
+|Details
+|-
+|Tiverton
+|Devon
+|0
+|3
+|5
+|32
+|0
+|Independent
+|Details
+|- bgcolor=5B76FF
+|Tonbridge and Malling
+|Kent
+|30
+|11
+|8
+|4
+|0
+|Conservative
+|Details
+|- bgcolor=5B76FF
+|Torbay
+|Devon
+|30
+|6
+|0
+|0
+|0
+|Conservative
+|Details
+|-
+|Torridge
+|Devon
+|0
+|1
+|6
+|29
+|0
+|Independent
+|Details
+|- bgcolor=5B76FF
+|Tunbridge Wells
+|Kent
+|29
+|7
+|2
+|9
+|0
+|Conservative
+|Details
+|-
+|Tynedale
+|Northumberland
+|4
+|10
+|3
+|25
+|3
+|Independent
+|Details
+|}
+
+=====U=====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!District
+!County
+!Conservative
+!Labour
+!Liberal
+!Independent
+!Other
+!Control
+!Details
+|- bgcolor=CCCCCC
+|Uttlesford
+|Essex
+|21
+|7
+|2
+|12
+|0
+|NOC (Conservative-Independent)
+|Details
+|}
+
+=====V=====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!District
+!County
+!Conservative
+!Labour
+!Liberal
+!Independent
+!Other
+!Control
+!Details
+|- bgcolor=5B76FF
+|Vale of White Horse
+|Oxfordshire
+|27
+|8
+|3
+|10
+|0
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Vale Royal
+|Cheshire
+|10
+|16
+|6
+|25
+|0
+|NOC (Independent-Conservative)
+|Details
+|}
+
+=====W=====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!District
+!County
+!Conservative
+!Labour
+!Liberal
+!Independent
+!Other
+!Control
+!Details
+|- bgcolor=CCCCCC
+|Wallingford
+|Oxfordshire
+|25
+|9
+|7
+|20
+|Progressive Independent 1
+|NOC (Conservative-Independent)
+|Details
+|- bgcolor=FF6868
+|Wansbeck
+|Northumberland
+|0
+|44
+|0
+|1
+|0
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Wansdyke
+|Avon
+|12
+|22
+|0
+|11
+|0
+|NOC (Conservative-Independent)
+|Details
+|- bgcolor=5B76FF
+|Warrington
+|Cheshire
+|32
+|22
+|3
+|3
+|0
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Warwick
+|Warwickshire
+|26
+|25
+|7
+|0
+|0
+|NOC
+|Details
+|- bgcolor=FF6868
+|Watford
+|Hertfordshire
+|9
+|21
+|6
+|0
+|0
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Waveney
+|Suffolk
+|22
+|27
+|5
+|2
+|0
+|NOC
+|Details
+|-
+|Waverley
+|Surrey
+|28
+|2
+|25
+|6
+|0
+|NOC
+|Details
+|- bgcolor=CCCCCC
+|Wealden
+|East Sussex
+|25
+|1
+|2
+|23
+|5
+|NOC (Conservative-Independent)
+|Details
+|- bgcolor=FF6868
+|Wear Valley
+|Durham
+|0
+|21
+|9
+|10
+|People's Representative 1
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|Wellingborough
+|Northamptonshire
+|14
+|13
+|0
+|5
+|Ratepayers 1
+|NOC
+|Details
+|- bgcolor=FF6868
+|Welwyn Hatfield
+|Hertfordshire
+|19
+|24
+|0
+|0
+|0
+|Labour
+|Details
+|- bgcolor=CCCCCC
+|West Derbyshire
+|Derbyshire
+|18
+|5
+|4
+|13
+|0
+|NOC (Conservative-Independent)
+|Details
+|-
+|West Devon
+|Devon
+|0
+|0
+|0
+|30
+|0
+|Independent
+|Details
+|-
+|West Dorset
+|Dorset
+|0
+|2
+|9
+|44
+|0
+|Independent
+|Details
+|- bgcolor=CCCCCC
+|West Lancashire
+|Lancashire
+|10
+|23
+|3
+|14
+|0
+|NOC
+|Details
+|-
+|West Lindsey
+|Lincolnshire
+|1
+|5
+|6
+|25
+|0
+|Independent
+|Details
+|- bgcolor=CCCCCC
+|West Norfolk
+|Norfolk
+|14
+|22
+|0
+|24
+|0
+|NOC (Independent-Conservative)
+|Details
+|-
+|West Oxfordshire
+|Oxfordshire
+|1
+|7
+|1
+|35
+|Independent Liberal 1
+|Independent
+|Details
+|-
+|West Somerset
+|Somerset
+|3
+|1
+|1
+|27
+|0
+|Independent
+|Details
+|- bgcolor=CCCCCC
+|West Wiltshire
+|Wiltshire
+|13
+|10
+|2
+|17
+|0
+|NOC (Independent-Conservative)
+|Details
+|- bgcolor=FF6868
+|Weymouth and Portland
+|Dorset
+|18
+|21
+|0
+|0
+|0
+|Labour
+|Details
+|-
+|Wimborne
+|Dorset
+|2
+|0
+|9
+|21
+|1 Vacancy
+|Independent
+|Details
+|- bgcolor=CCCCCC
+|Winchester
+|Hampshire
+|14
+|5
+|5
+|25
+|Ratepayers 1
+Tenants 1
+|NOC (Conservative-Independent)
+|Details
+|- bgcolor=5B76FF
+|Windsor and Maidenhead
+|Berkshire
+|53
+|3
+|0
+|3
+|0
+|Conservative
+|Details
+|- bgcolor=5B76FF
+|Woking
+|Surrey
+|19
+|12
+|1
+|0
+|0
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Wokingham
+|Berkshire
+|23
+|0
+|13
+|15
+|Ratepayers 1
+|NOC (Conservative-Independent)
+|Details
+|- bgcolor=5B76FF
+|Woodspring
+|Avon
+|40
+|10
+|3
+|8
+|0
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Worcester
+|Hereford and Worcester
+|18
+|18
+|0
+|0
+|0
+|NOC
+|Details
+|- bgcolor=5B76FF
+|Worthing
+|West Sussex
+|17
+|1
+|0
+|12
+|0
+|Conservative
+|Details
+|- bgcolor=FF6868
+|Wrekin
+|Shropshire
+|8
+|32
+|0
+|14
+|Independent Labour 1
+|Labour
+|Details
+|-
+|Wychavon
+|Hereford and Worcester
+|10
+|4
+|2
+|29
+|0
+|Independent
+|Details
+|- bgcolor=5B76FF
+|Wycombe
+|Buckinghamshire
+|30
+|12
+|3
+|10
+|4
+|Conservative
+|Details
+|- bgcolor=5B76FF
+|Wyre
+|Lancashire
+|45
+|2
+|0
+|8
+|0
+|Conservative
+|Details
+|- bgcolor=CCCCCC
+|Wyre Forest
+|Hereford and Worcester
+|30
+|20
+|9
+|1
+|Ratepayers 2
+|NOC
+|Details
+|}
+
+=====Y=====
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!District
+!County
+!Conservative
+!Labour
+!Liberal
+!Independent
+!Other
+!Control
+!Details
+|- bgcolor=CCCCCC
+|Yeovil
+|Somerset
+|20
+|8
+|2
+|30
+|0
+|NOC (Independent-Conservative)
+|Details
+|- bgcolor=CCCCCC
+|York
+|North Yorkshire
+|17
+|17
+|5
+|0
+|0
+|NOC
+|Details
+|}
+
+===Future elections===
+The next county council elections took place in 1977.
+
+Future elections to Metropolitan District councils were to be by thirds, with the one third of seats being elected in 1975.
+
+The next election of non-metropolitan district councils and Welsh district councils was to in 1976.Local Government Act 1972, sections 7 and 26
+
+==Northern Ireland==
+
+Local government in Northern Ireland was reorganised in 1973 by the Local Government (Boundaries) Act (Northern Ireland) 1971 and the Local Government Act (Northern Ireland) 1972. The county councils, county borough and municipal borough corporations and urban and rural district councils were replaced by twenty-six Local Government districts. Elections took place for all the seats on the district councils on 30 May, and the councils came into their power in 1 October.
+{| class="wikitable"
+|- border=1 cellspacing=0 cellpadding=5
+!District
+!Official Unionist
+!Democratic Unionist
+!Vanguard Unionist
+!Loyalist Coalition
+!Independent Unionist
+!SDLP
+!Republican Clubs
+!Nationalist and Unity Parties
+!Alliance
+!Northern Ireland Labour Party
+!Others
+!Control
+|- 
+|- bgcolor=CCCCCC
+|Antrim
+|8
+|1
+|1
+|0
+|1
+|1
+|0
+|0
+|2
+|0
+|Independent 2
+|NOC (Unionist)
+|-
+|- bgcolor=#9999FF
+|Ards
+|11
+|0
+|0
+|1
+|1
+|0
+|0
+|0
+|2
+|1
+|Independent 1
+|Official Unionist
+|-
+|- bgcolor=CCCCCC
+|Armagh
+|10
+|2
+|0
+|0
+|1
+|4
+|1
+|0
+|1
+|0
+|Independent 1
+|NOC (Unionist)
+|-
+|- bgcolor=CCCCCC
+|Ballymena
+|9
+|5
+|1
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|Independent 2
+Non-Party 3
+|NOC (Unionist)
+|-
+|- bgcolor=CCCCCC
+|Ballymoney
+|4
+|1
+|0
+|2
+|2
+|0
+|0
+|0
+|0
+|1
+|Independent 1 Non-Party 5
+|NOC
+|-
+|- bgcolor=CCCCCC
+|Banbridge
+|8
+|0
+|0
+|0
+|3
+|1
+|0
+|0
+|0
+|0
+|Independent 3
+|NOC (Unionist)
+|-
+|- bgcolor=CCCCCC
+|Belfast
+|25
+|2
+|1
+|0
+|2
+|7
+|2
+|0
+|8
+|2
+|Unionist Loyalist 2
+|NOC (Unionist)
+|-
+|- bgcolor=CCCCCC
+|Carrickfergus
+|5
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|Unionist Loyalist 5
+Loyalist 1
+Non-Party 1
+|NOC (Unionist)
+|-
+|- bgcolor=CCCCCC
+|Castlereagh
+|8
+|0
+|0
+|1
+|2
+|0
+|0
+|0
+|5
+|0
+|Unionist Loyalist 2 Independent 1
+|NOC (Unionist)
+|-
+|- bgcolor=#9999FF
+|Coleraine
+|12
+|0
+|0
+|0
+|2
+|1
+|0
+|0
+|3
+|0
+|Independent 1 Non-party 1
+|Official Unionist
+|-
+|- bgcolor=CCCCCC
+|Cookstown
+|7
+|0
+|0
+|1
+|1
+|3
+|1
+|0
+|0
+|0
+|Independent 1 Non-Party 1
+|NOC (Unionist)
+|-
+|- bgcolor=CCCCCC
+|Craigavon
+|7
+|3
+|2
+|3
+|3
+|2
+|0
+|0
+|4
+|0
+|Independent 1
+|NOC (Unionist)
+|-
+|- bgcolor=CCCCCC
+|Down
+|8
+|0
+|1
+|0
+|0
+|8
+|0
+|0
+|2
+|0
+|Independent 1
+|NOC
+|-
+|- bgcolor=#9999FF
+|Dungannon
+|11
+|0
+|0
+|0
+|0
+|5
+|0
+|Unity 2 Republican 2
+|0
+|0
+|0
+|Official Unionist
+|-
+|- bgcolor=CCCCCC
+|Fermanagh
+|5
+|0
+|0
+|0
+|3
+|4
+|0
+|Unity 4
+|0
+|0
+|Independent 1 Unionist Unity 2 Non-Party 1
+|NOC
+|- bgcolor=#aadfff
+|Larne
+|1
+|0
+|0
+|8
+|0
+|0
+|0
+|0
+|3
+|0
+|Independent 2 Non-Party 1
+|Loyalist
+|- bgcolor=#aadfff
+|Limavady
+|0
+|0
+|0
+|0
+|0
+|4
+|0
+|0
+|2
+|0
+|United Unionists 8 Independent 1
+|United Unionists
+|-
+|-
+|- bgcolor=#9999FF
+|Lisburn
+|14
+|4
+|1
+|0
+|0
+|1
+|0
+|0
+|3
+|0
+|0
+|Official Unionist
+|-
+|- bgcolor=CCCCCC
+|Londonderry
+|0
+|0
+|0
+|United Loyalists 9
+|0
+|10
+|1
+|Nationalist 3
+|0
+|0
+|0
+|NOC (Nationalist)
+|-
+|- bgcolor=CCCCCC
+|Magherafelt
+|4
+|0
+|1
+|United Loyalist 1
+|0
+|6
+|1
+|0
+|0
+|0
+|Independent 1
+|NOC
+|-
+|- bgcolor=CCCCCC
+|Moyle
+|4
+|0
+|0
+|0
+|1
+|2
+|0
+|0
+|0
+|0
+|Independent 5 Non-Party 4
+|NOC
+|-
+|- bgcolor=CCCCCC
+|Newry and Mourne
+|3
+|0
+|0
+|0
+|0
+|13
+|2
+|0
+|0
+|0
+|Non-Party 6 Independent 2
+|NOC
+|-
+|- bgcolor=CCCCCC
+|Newtownabbey
+|9
+|3
+|0
+|0
+|Unionist 3 United Loyalist 1 Loyalist 1
+|0
+|0
+|0
+|3
+|1
+|0
+|NOC (Unionist)
+|-
+|- bgcolor=CCCCCC
+|North Down
+|9
+|0
+|0
+|Loyalist 3
+|0
+|0
+|0
+|7
+|0
+|0
+|0
+|NOC
+|-
+|- bgcolor=CCCCCC
+|Omagh
+|6
+|0
+|0
+|0
+|Unionist Unity 2
+|4
+|0
+|Nationalist 1 Official Republican 1
+|0
+|0
+|3 Non-Party Community
+|NOC
+|-
+|- bgcolor=CCCCCC
+|Strabane
+|6
+|0
+|0
+|Unionist Coalition 1
+|0
+|4
+|0
+|0
+|0
+|0
+|Independent 2
+|NOC
+|}
+
+==Scotland==
+
+
+Local elections were also held in Scotland in 1973. At the time of the election, Scotland was the only part of the UK in which local government had yet to be reformed, with the Local Government (Scotland) Act 1973 only receiving Royal Assent in October 1973. The election saw Labour maintaining their control of Aberdeen, Glasgow, and Dundee, although failing to make gains in Edinburgh.
+

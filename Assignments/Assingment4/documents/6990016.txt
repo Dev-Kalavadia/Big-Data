@@ -1,0 +1,41 @@
+Title: Sweet itch
+thumb|Sweet itch sores on a Tunisian pony
+
+Also known as Queensland itch,  seasonal recurrent dermatitis (SSRD), summer itch or more technically, Culicoides hypersensitivity.
+
+Sweet itch is a medical condition in equines caused by an allergic response to the bites of Culicoides midges. It may be found in horses and ponies, especially in the warmer regions. It may also occur, too, in other equines.Queensland Itch by Dr Carl Eden BVM&S MRCVS Retrieved 2011-2-6 It is also found in Canada, Australia, the US and many other parts of the world.GS Anderson, P Belton, & N Kleider (1988) "The Hypersensitivity of Horses to Culicoides Bites in British Columbia", Canadian Veterinary Journal 29(9): 718–723
+
+==Causes==
+A hypersensitivity reaction to specific allergens (protein molecules causing an extreme immune response in sensitised individuals) in the saliva of Culicoides midges. There are multiple allergens involved,W. Hellberga, A.D. Wilsonb, P. Mellorc, M.G. Doherra, S. Torsteinsdottird, A. Zurbriggena, T. Jungie and E. Marti (2007) "Equine insect bite hypersensitivity: Immunoblot analysis of IgE and IgG subclass responses to Culicoides nubeculosus salivary gland extract", Veterinary Immunology and Immunopathology Volume 113, Issues 1-2, Pages 99-112 although some works claim that the larger proteins (of molecular weight 65kDa) are the most important.E. Ferroglio, P. Pregel, A. Accossato, I. Taricco, E. Bollo, L. Rossi, A. Trisciuoglio (2006) "Equine Culicoides Hypersensitivity: Evaluation of a Skin Test and of Humoral Response", Journal of Veterinary Medicine, Series A 53 (1), 30–33 These allergens appear to be cross-reactive across many species of Culicoides - i.e. many different varieties of midges produce similar allergens, giving the same effects upon horses.Langner, KFA, Darpel, KE, Denison, E, Drolet, BS, Leibold, W, Mellor, PS, Mertens, PPC, Nimtz, M, Greiser-Wilke, I, (2007) "Collection and Analysis of Salivary Proteins from the Biting Midge Culicoides nubeculosus (Diptera: Ceratopogonidae)", Journal of Medical Entomology, Volume 44, Number 2, March 2007, pp. 238-248(11)
+
+The hypersensitivity response is mediated by IgE, an antibody produced by the horse's immune system which binds the allergens, causing a cascade production of histamine and cytokines which make the horse's skin inflamed and itchy. Of these, histamine appears the most important in the initial phase of reaction.A. P. Foster, J. McKelvie, and F. M. Cunningham (1998) "Inhibition of antigen-induced cutaneous responses of ponies with insect hypersensitivity by the histamine-1 receptor antagonist chlorpheniramine", Veterinary Record, Vol 143, Issue 7, 189-193
+
+==Symptoms==
+* The allergic reaction develops at the site where the insects feed
+* The majority of affected horses show skin lesions affecting the mane and tail and dorsal midline.
+* Ventral midline symptoms may also occur.
+* Lesions around the ears and head are also common.
+* These lesions are characterised by intense pruritus (itching), which results in rubbing and considerable self-trauma. This damage is caused by the horse violently rubbing itself against objects, and causes:
+** broken hairs
+** broken and sometimes bleeding skin
+** bald patches.
+* Secondary infections may resultAnimal Health TrustEquine ClinicsPT Colahan, IG Mayhew, AM Merrit & JN Moore, Manual of Equine Medicine and Surgery, Copyright Mosby Inc (1999) (pp. 474-475)
+
+==Treatment and prevention==
+Few treatments are fully efficacious once lesions have appeared. The only effective form of treatment is preventative - i.e. prevent further insect bites - so these techniques will also be discussed here. Treatments generally fall into one of the following categories:
+
+*Insecticides and repellents: These may be applied to the horse or its environment. The most commonly used and effective are permethrins.PT Colahan, IG Mayhew, AM Merrit & JN Moore, Manual of Equine Medicine and Surgery, Copyright Mosby Inc (1999) (pp. 474) and benzyl benzoateJ Littlewood (1999) "Control of ectoparasites in horses", In Practice (BVA Publications Ltd) 21: 418-424 Citronella has been used, with variable effect. Some sources advocate draining of any stagnant water or pools, to reduce the local breeding potential of the insects.PT Colahan, IG Mayhew, AM Merrit & JN Moore, Manual of Equine Medicine and Surgery, Copyright Mosby Inc (1999) (p. 475) Midge numbers are often larger near water sources, for example ponds, bogs, and slow moving water. Moving the horse away from these areas may help to prevent further problems.thumb|right|120px|Fly mask 
+*Barrier techniques: Rugs etc., that prevent flies and midges settling on the animal's skin to bite. These include "Boett Rugs" and fly masks. In addition, thin screens may be placed over stable doors and windows to exclude biting insects.RR Pascoe, DC Knottenbelt, Manual of Equine Dermatology Published 1999, Elsevier Health Sciences (p. 131) Stabling the horse at times of day when the midges are most prevalent is also quite effective.
+*Immunotherapy: A wide variety immunotherapy and desensitisation protocols have been trialled in attempts to reduce or modify the immune response, with considerable success rates. More research is ongoing, and first products are already marketed.
+*Nutritional supplements: Various supplements may be effective in individuals, including fatty acid supplementation and linseed oil. However, although owners perceived an improvement, this was not bourne out by objective statistical analysis.Friberg, Logas (1999) "Treatment of Culicoides hypersensitive horses with high-dose n-3 fatty acids: a double-blinded crossover study" Veterinary Dermatology 10 (2), 117–122
+*Symptomatic control: Control of symptoms to some degree can be achieved with antihistamines (especially hydroxyzine,PT Colahan, IG Mayhew, AM Merrit & JN Moore, Manual of Equine Medicine and Surgery, Copyright Mosby Inc (1999) (p. 475) and with corticosteroids, although the potential side effects (e.g. laminitis, immune suppression) make this a less preferred option.RJ Rose & DR Hodgson, Manual of Equine Practice, Copyright WB Saunders (2000) (p. 482) In addition, antibiotics may be required to manage any secondary infection.
+*Alternative medicines: A wide variety of herbal, homeopathic and other alternative remedies have been suggested. Among the natural remedies suggested are sulfur, wild geranium (as the base for a shampoo), lavender oil, aloe vera (to reduce the itching).The Holistic Horse
+
+Overall, the wide variety of treatments proposed leads to the conclusion that no one method is universally effective.
+
+==See also==
+*Ceratopogonidae (The family of which Culicoides is a member)
+*Culicoides imicola (species of midge)
+*Culicoides impunctatus (species of midge)
+*Veterinary parasitology
+

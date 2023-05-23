@@ -1,0 +1,129 @@
+Title: Quick Assist
+Quick Assist is a Microsoft Windows feature that allows a user to view or control a remote Windows computer over a network or the Internet to resolve issues without directly touching the unit.Get help remotely with Quick Assist in Windows 10Overview of Remote Assistance in Windows XPWindows XP Technical Overview It is based on the Remote Desktop Protocol (RDP). It is complemented by Get Help, a feature introduced in Windows 10 that enables the user to contact Microsoft directly but does not allow for remote desktoping or screen sharing.
+
+Before Quick Assist was introduced in Windows 10, Windows XP and later Windows versions offered a similar feature called Windows Remote Assistance.
+
+==Overview==
+Helpers offering remote assistance can open multiple simultaneous sessions—one for each remote computer. However, users seeking assistance from helpers can have only one remote assistance session waiting for a connection. Connect invitations can be sent to multiple recipients—any of which may connect. All subsequent connect attempts will be blocked until the first helper disconnects, after which another helper may connect. If the user disconnects the session, the remote assistance application terminates and no further connections are allowed.
+
+Quick Assist is installed by default on Windows clients, but is not available on Windows Server 2008 R2 servers. The name of the tool differs depending on Windows language; a search for "Quick Assist" in the Start menu will locate the tool regardless of the language settings.
+
+Quick Assist requests a code in order to match users to a session. This will allow the giver to access the computer of the receiver in Administrator mode while allowing the receiver to see the choices the giver made.
+
+==Connection==
+Quick Assist uses TCP port 443 and communicates with the following hosts:
+
+
+{| class="mw-datatable"
+|-
+! Domain / Name !! Description
+|-
+| *.support.services.microsoft.com || Primary endpoint used for Quick Assist application
+|-
+| *.resources.lync.com || Required for the Skype framework used by Quick Assist
+|-
+| *.infra.lync.com || Required for the Skype framework used by Quick Assist
+|-
+| *.latest-swx.cdn.skype.com || Required for the Skype framework used by Quick Assist
+|-
+| *.login.microsoftonline.com || Required for logging in to the application (MSA)
+|-
+| *.channelwebsdks.azureedge.net || Used for chat services within Quick Assist
+|-
+| *.aria.microsoft.com || Used for accessibility features within the app
+|-
+| *.api.support.microsoft.com || API access for Quick Assist
+|-
+| *.vortex.data.microsoft.com || Used for diagnostic data
+|-
+| *.channelservices.microsoft.com || Required for chat services within Quick Assist
+|}
+
+The Quick Assist binary is located at "C:\Windows\System32\quickassist.exe"
+
+==History==
+The feature was first introduced in Windows XP as Remote Assistance and based on Remote Desktop technologies.How to use remote assistance in Windows XP Remote Assistance in Windows XP is integrated into the Help and Support Centre UI and allows sending invitations to the support person by email, Windows Messenger or saving the invitation as a file and transferring the file across through other methods. The computer can be controlled by both, the support person connecting remotely as well as the one sending the invitation. Chat, audio-video conversations and file transfer are available.
+
+thumb|Remote Assistance in Windows Vista
+In Windows Vista, Remote Assistance is upgraded with a standalone user interface and based on RDP 6 and Windows Desktop Sharing API. Two systems administrators can simultaneously connect to a single computer. Remote sessions automatically reconnect after restarting the computer. It also supports session pausing, built-in diagnostics, chat, file transfer and XML-based logging. It reduces bandwidth requirements for low-speed connections. NAT traversal allows a session to be established even if the user is behind a Network Address Translation (NAT) device, for example, a router in a home network. Remote Assistance is configurable using Group Policy and supports command-line switches so that custom shortcuts can be deployed.
+
+In Windows 7, Remote Assistance is based on RDP 7. An extra option to connect using Peer Name Resolution Protocol is added, called Easy Connect if IPv6 connectivity is present. With Easy Connect, only a password needs to be shared instead of an invitation file, and two computers can establish a peer-to-peer connection over the Local Area Network (LAN) or the Internet without a relay server. However, Windows Remote Assistance does not support file transfer and clipboard sharing in Windows 7.Improvements to Remote Assistance in Windows 7
+
+Remote Assistance is installed by default on Windows clients, but must be added manually on Windows Server 2008 R2 servers.Remote Assistance and Resulting Internet Communication in Windows 7 and Windows Server 2008 R2 Remote assistance sessions may be initiated using the Windows Remote Assistance application available on the Start menu under All Apps → MaintenanceGet help with your computer using Windows Remote Assistance or by invoking msra.exe from command-line interface.Initiate Remote Assistance from a Command Line or a Script
+
+The original Remote Assistance is included on all releases of Windows 10 as well, but since the Windows 10 Anniversary Update, its Start menu shortcut is removed, effectively hiding it from the user. Instead, a new app called Quick Assist is added. It has mostly the same functionality and a similar user interface with buttons called Get assistance and Give assistance. The design is like UWP apps. Unlike Remote Assistant, Quick Assist requires the support person to sign in using a Microsoft account before dispensing help.
+
+In November 2021, Microsoft announced a more business-friendly version of Quick Assist, called Remote Help. While later versions of Windows 10 allowed users and technicians to authenticate against Azure Active Directory, this version includes new integrations such as:
+
+* UAC Elevation
+* Remote Assistance Sessions Reports
+* Roles Based Authentication (RBAC)
+* Management from Intune / the ability to launch from Intune
+* Limiting sessions within the organization (Azure AD Tenant)
+* Branding
+* Conditional Access
+* ADFS support
+
+While Remote Assistance establishes a Remote Desktop Protocol (RDP) connection to the end user's computer (requires TCP port 3389 to be opened on the client machine and the firewall/NAT/router behind which the machine is), Quick Assist is cloud-based and requires one outbound connection from the helper's PC to the cloud service/Microsoft server, and a separate connection from the cloud service to the machine of the person getting assistance. There are no ports opened on the client device's firewall.
+
+== Features comparison ==
+
+{| class="wikitable sortable mw-collapsible"
+|+
+!Feature
+!Windows Remote Assistance
+!Windows Quick Assist
+|-
+|Remote assistance for Windows devices
+|Yes
+|Windows 10/11
+|-
+|Remote assistance for MacOS devices
+|No
+|No
+|-
+|Remote assistance for smartphones
+|No
+|No
+|-
+|Viewing through device camera
+|No
+|No
+|-
+|Support of multiple screens on the target machine
+|Yes (all the monitors or clicking Fit to the size and scroll to selected monitor)
+|Yes (viewing selected monitor or all of them at once)
+|-
+|Keyboard layout used when remotely controlling a machine (the helper needs the keyboard layout to match his/her own computer for efficient assistance)
+|Using target computer keyboard layout
+|Using helper's keyboard layout
+|-
+|Working with elevated privileges
+|No (the screen blacks-out and the user has to finish the action instead of the helper)
+|NoRemotely assist mobile devices managed by Microsoft Endpoint Manager
+|-
+|Requirement for client software installation
+|No (installed in Windows by default)
+|No (installed in Windows by default)
+|-
+|Clipboard sharing (copy / paste text between helper's and end user's machine)
+|No (workaround: pasting via embedded chat window; limited number of characters)
+|No (workaround: pasting via embedded chat window; limited number of characters)
+|-
+|File transfer (between helper's and end user's machine)
+|No (workaround: via file share or file sharing cloud service)
+|No (workaround: via file share or file sharing cloud service)
+|-
+|Running scripts remotely (e.g. ipconfig)
+|No (workaround: scripts have to be copied to the remote machine first and executed from there)
+|No (workaround: scripts have to be copied to the remote machine first and executed from there)
+|-
+|Pausing remote control session by the end user (temporarily stopping screen sharing)
+|No (only cancelling the whole session)
+|Yes
+|}
+
+==See also==
+*Application sharing
+*Help desk
+

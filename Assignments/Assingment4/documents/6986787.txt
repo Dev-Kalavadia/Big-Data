@@ -1,0 +1,50 @@
+Title: Overspeed
+
+Overspeed is a condition in which an engine is allowed or forced to turn beyond its design limit.  The consequences of running an engine too fast vary by engine type and model and depend upon several factors, the most important of which are the duration of the overspeed and the speed attained.  With some engines, a momentary overspeed can result in greatly reduced engine life or catastrophic failure.|| Google Patents: Engine overspeed shutdown systems and methods The speed of an engine is typically measured in revolutions per minute (rpm).[https://www.iso.org/obp/ui#iso:grs:7000:1389 || OBP: 
+ISO 7000 — Graphical symbols for use on equipment]  
+
+==Examples of overspeed==
+* In propeller aircraft, an overspeed will occur if the propeller, usually connected directly to the engine, is forced to turn too fast by high-speed airflow while the aircraft is in a dive, moves to a flat blade pitch in cruising flight due to a governor failure or feathering failure, or becomes decoupled from the engine.
+* In jet aircraft, an overspeed results when the axial compressor exceeds its maximal operating rotational speed. This often leads to the mechanical failure of turbine blades, flameout and total destruction of the engine.
+* In ground vehicles, an engine can be forced to turn too quickly by changing to an inappropriately low gear.
+* Most unregulated engines will overspeed if power is applied with no or little load.
+* In the event of diesel engine runaway (caused by excessive intake of combustibles), a diesel engine will overspeed if the condition is not quickly rectified. An example is a diesel engine powering equipment at an oil well head.  If the operators hit a pocket of natural gas, it will come to the surface and the engine will take in the flammable gas and rapidly increase speed until the engine is destroyed, unless the air intake is shut off, starving the engine of fuel and oxygen.
+
+==Overspeed protection==
+Sometimes a regulator or governor is fitted to make engine overspeed impossible or less likely. For example:
+* Many steam engines use a centrifugal governor, which closes a throttle at high rpm to restrict steam flow as engine speed increases.  
+* In motor vehicles, automatic transmissions will change gear to prevent the engine from turning too quickly. Additionally, almost all modern vehicles are fitted with an electronic rev limiter device that will cut fuel supply or sparks to the engine to prevent overspeed.
+* Some aircraft have constant-speed units that automatically change propeller pitch to keep the engine running at the optimal speed.
+
+* Large diesel engines are sometimes fitted with a secondary protection device that actuates if the governor fails.AMOT Products. This consists of a flap valve in the air intake. If the engine overspeeds, the airflow through the intake will rise to an abnormal level. This causes the flap valve to snap shut, starving the engine of air and shutting it down.
+
+== Different overspeed occurrences and prevention ==
+
+=== Internal combustion engines ===
+An excerpt presented by the San Francisco Maritime National Park Association illustrates the types of overspeed systems with governor and engine control. Overspeed governors are either centrifugal or hydraulic. Centrifugal governors depend on the revolving force created by its own weight. Hydraulic governors use the centrifugal force but drive a medium to accomplish the same task. The overspeed governor is implemented on most marine diesel engines. The governor is a safety measure that acts when the engine is approaching overspeed and will trip the engine off if the regulator governor fails. It trips off the engine by cutting off fuel injection by having the centrifugal force act on levers linked to the governor collar.
+
+=== Turbines ===
+Overspeeds for power plant turbines can be catastrophic, resulting in failure due to the turbines' shafts and blades being off balance and potentially throwing their blades and other metal parts at very high speeds. Different safeguards exist, which include a mechanical and electrical protection system.
+
+Mechanical overspeed protection is in the form of sensors. The system relies on the centripetal force of the shaft, a spring, and a weight. At the designed point of overspeed, the balance point of the weight is shifted, causing the lever to release a valve that makes the trip oil header to lose pressure due to draining. This loss of oil affects the pressure, and moves a trip mechanism to then trip the system off.
+
+An electrical overspeed detection system involves a gear with teeth and probes. These probes detect how fast the teeth are moving, and if they are moving beyond the designated rpm, it relays that to the logic solver (overspeed detection). The logic solver trips the system by sending the overspeed to the trip relay, which is connected to a solenoid-operated valve.
+
+== Mechanical vs. electrical governors on turbines  ==
+In turbines and many other mechanical devices used for power generation, it is critical that the response times for overspeed prevention systems be as precise as possible. If the response is off by even a fraction of a second, it can lead to turbines and its driven load (i.e. compressor, generator, pump, etc..) suffering catastrophic damage and put people at risk.
+
+=== Mechanical ===
+Mechanical overspeed systems on turbines rely on an equilibrium between the centripetal force of the rotating shaft imparted on a weight attached to the end of a turbine blade. At the specified trip point, this weight makes physical contact with a lever that releases the trip oil header, which directly moves a trip bolt and/or a hydraulic circuit to activate stop valves to close. Because the contact with the lever occurs over a relatively limited angle, there is a maximum trip response time of 15 ms (i.e. 0.015 sec). The issue with these devices has less to do with response time as it does with response latency and variability in the trip point due to systems sticking. Some systems add two trip bolts for redundancy, which enables response latency to be reduced by half.
+
+=== Electrical ===
+Electrical overspeed systems on turbines rely on a multitude of probes that sense speed through measuring the passages of the teeth of a spur gear. Using a digital logic solver, the overspeed system determines the propeller shaft rpm given the ratio of the gear to the shaft. If the shaft rpm is too high, it outputs a trip command which de-energizes a trip relay. Overspeed response varies from system to system, so it is key to check the original equipment manufacturer's specification to set the Overspeed trip time accordingly. Typically, unless specified otherwise, the response time to change the output relay will be 40 ms. This time includes the time required for the probes to detect speed, compare it to an overspeed set-point, calculate results, and finally output the trip command.
+
+== Overview of overspeed detection system ==
+When configuring, testing, and running any overspeed systems on turbines or diesel engines, one factor considered is timing. This is because the response to overspeed is usually too fast for people to notice.
+
+The responsibility of calibrating the correct overspeed response for a specific system falls on the manufacturer. However, variability is always present, and it is important for the owner/operator to understand the system in the event of maintenance, replacement, or retrofitting of outdated or worn out parts. After overspeed has occurred, it is essential to check all machinery parts for stress. The first place to start for impulse turbines is the rotor. At the rotor, there are balance holes that equalise the pressure difference between turbines, and if warped, would require the replacement of the entire rotor.
+
+==See also==
+*Airlines PNG Flight 1600
+*Overclocking
+

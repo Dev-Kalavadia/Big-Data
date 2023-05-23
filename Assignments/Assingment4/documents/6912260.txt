@@ -1,0 +1,67 @@
+Title: Telex (input method)
+Telex or TELEX (), is a convention for encoding Vietnamese text in plain ASCII characters. Originally used for transmitting Vietnamese text over telex systems, it is one of the most used input method on phones and touchscreens and also computers. Vietnamese Morse code uses the TELEX system. Other systems include VNI and VIQR.  
+
+==History==
+The Telex input method is based on a set of rules for transmitting accented Vietnamese text over telex () first used in Vietnam during the 1920s and 1930s. Telex services at the time ran over infrastructure that was designed overseas to handle only a basic Latin alphabet, so a message reading "" ("the dam broke") could easily be misinterpreted as "" ("the wife is giving birth"). , a prominent journalist and translator, is credited with devising the original set of rules for telex systems.
+
+In later decades, common computer systems came with largely the same limitations as the telex infrastructure, namely inadequate support for the large number of characters in Vietnamese. Mnemonics like Telex and Vietnamese Quoted-Readable (VIQR) were adapted for these systems. As a variable-width character encoding, Telex represents a single Vietnamese character as one, two, or three ASCII characters. By contrast, a byte-oriented code page like VISCII takes up only one byte per Vietnamese character but requires specialized software or hardware for input.
+
+In the 1980s and 1990s, Telex was adopted as a way to type Vietnamese on standard English keyboards. Specialized software converted Telex keystrokes to either precomposed or decomposed Unicode text as the user typed. VietStar was the first such software package to support this entry mode. The Bked editor by  extended Telex with commands such as z, [ for "ư", and ] for "ơ". It was further popularized with the input method editors VietKey, Vietres, and VPSKeys. In 1993, the use of Telex as an input method was standardized in Vietnam as part of TCVN 5712.
+
+In the 2000s, Unicode largely supplanted language-specific encodings on modern computer systems and the Internet, limiting Telex's use in text storage and transmission. However, it remains the default input method for many input method editors, with VIQR and VNI offered as alternatives. It also continues to supplement international Morse Code in Vietnamese telegraph transmissions.
+
+Starting with Windows 10 version 1903, TELEX, along with the VNI input method, are now natively supported.
+
+==Rules==
+Because the Vietnamese alphabet uses a complex system of diacritical marks, Telex requires the user to type in a base letter, followed by one or two characters that represent the diacritical marks:
+
+{| class="wikitable"
+|+ Non-tonal diacritics
+! Character !! Keys pressed !! Sample input !! Sample output
+|-
+| ă || aw || trang-w || 
+|-
+| â || aa || can-a   || 
+|-
+| đ || dd || d-dau-a|| 
+|-
+| ê || ee || d-dem-e  || 
+|-
+| ô || oo || nho-o   || 
+|-
+| ơ || ow or [ || mo-w or m[|| 
+|-
+| ư || uw or w or ] || tu-w or tw or t]    || 
+|}
+
+To write the pair of keys as two distinct characters, the second character has to be repeated. For example, the Vietnamese word  must be entered as cari xooong rather than cari xoong (*).
+
+{| class="wikitable"
+|+ Tone markings
+! Tone !! Keys added to syllable !! Sample input !! Sample output
+|-
+| Ngang (level) || z or nothing || ngang || 
+|-
+| Huyền (falling) || f || huyeenf || 
+|-
+| Sắc (rising) || s || sawcs || 
+|-
+| Hỏi (dipping-rising) || r || hoir || 
+|-
+| Ngã (rising glottalized) || x || ngax || 
+|-
+| Nặng (falling glottalized) || j || nawngj || 
+|}
+
+If more than one tone marking key is pressed, the last one will be used. For example, typing asz will return "a". (Thus z can also be used to delete diacritics when using an input method editor.) To write a tone marking key as a normal character, one has to press it twice: her becomes , while herr becomes . 
+
+
+==See also==
+*VNI
+*VIQR
+*VISCII
+
+==External links==
+*Guide to inputting Vietnamese text at the Vietnamese Wikipedia
+*Learn To Type Vietnamese at YourVietnamese
+

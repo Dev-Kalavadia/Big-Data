@@ -1,0 +1,65 @@
+Title: Strzelce County
+
+__NOTOC__
+Strzelce County () is a unit of territorial administration and local government (powiat) in Opole Voivodeship, south-western Poland. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and largest town is Strzelce Opolskie, which lies  south-east of the regional capital Opole. The county contains four other towns: Zawadzkie,  north-east of Strzelce Opolskie, Kolonowskie,  north-east of Strzelce Opolskie, Leśnica,  south-west of Strzelce Opolskie, and Ujazd,  south-east of Strzelce Opolskie.
+
+The county covers an area of . As of 2019 its total population is 74,460. The most populated towns are Strzelce Opolskie with 17,900 inhabitants, and Zawadzkie with 7,135 inhabitants.
+
+==Neighbouring counties==
+Strzelce County is bordered by Olesno County to the north, Lubliniec County to the north-east, Tarnowskie Góry County to the east, Gliwice County to the south-east, Kędzierzyn-Koźle County to the south, Krapkowice County to the west and Opole County to the north-west.
+
+==Administrative division==
+The county is subdivided into seven gminas (five urban-rural and two rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km2)
+| style="text-align:center;"|Population(2019)
+| style="text-align:center;"|Seat
+|-
+|Gmina Strzelce Opolskie
+|urban-rural
+| style="text-align:right;"|202.4
+| style="text-align:right;"|30,603
+|Strzelce Opolskie
+|-
+|Gmina Zawadzkie
+|urban-rural
+| style="text-align:right;"|82.2
+| style="text-align:right;"|11,341
+|Zawadzkie
+|-
+|Gmina Leśnica
+|urban-rural
+| style="text-align:right;"|94.6
+| style="text-align:right;"|7,569
+|Leśnica
+|-
+|Gmina Jemielnica
+|rural
+| style="text-align:right;"|113.2
+| style="text-align:right;"|7,219
+|Jemielnica
+|-
+|Gmina Ujazd
+|urban-rural
+| style="text-align:right;"|83.3
+| style="text-align:right;"|6,418
+|Ujazd
+|-
+|Gmina Kolonowskie
+|urban-rural
+| style="text-align:right;"|83.6
+| style="text-align:right;"|5,895
+|Kolonowskie
+|-
+|Gmina Izbicko
+|rural
+| style="text-align:right;"|84.9
+| style="text-align:right;"|5,415
+|Izbicko
+|-
+|}
+

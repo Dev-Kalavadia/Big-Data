@@ -1,0 +1,701 @@
+Title: Singlish vocabularySinglish is the English-based creole or patois spoken colloquially in Singapore. English is one of Singapore's official languages, along with Malay (which is also the National Language), Mandarin, and Tamil. Although English is the lexifier language, Singlish has its unique slang and syntax, which are more pronounced in informal speech. It is usually a mixture of English, Mandarin, Tamil, Malay, and other local dialects like Hokkien, Cantonese or Teochew. There are a few loan words from these languages i.e.  is often taken as being annoyed or frustrated and originate from the Hokkien dialect. It is used in casual contexts between Singaporeans, but is avoided in formal events when certain Singlish phrases may be considered unedifying. Singapore English can be broken into two subcategories. Standard Singapore English (SSE) and Colloquial Singapore English (CSE) or Singlish as many locals call it. The relationship between SSE and Singlish is viewed as a diglossia, in which SSE is restricted to be used in situations of formality where Singlish/CSE is used in most other circumstances. 
+
+Some of the most popular Singlish terms have been added to the Oxford English Dictionary (OED) since 2000, including wah, sabo, lepak, shiok and hawker centre.New Singapore English words - OED , March 2016 On 11 February 2015, kiasu was chosen as OED's Word of the Day.Singapore terms join Oxford English Dictionary - BBC, 12 May 2016
+
+==Word origins==
+Singlish vocabulary formally takes after British English (in terms of spelling and abbreviations), although naming conventions are in a mix of American and British ones (with American ones on the rise). For instance, local media have "" ( in British English) and "" (soccer—originally slang for association football—while used in Britain, is more usually called just ). Singlish also uses many words borrowed from Hokkien, the non-Mandarin Chinese language native to more than 75% of the Chinese in Singapore, and from Malay. In many cases, English words take on the meaning of their Chinese counterparts, resulting in a shift in meaning. Vocabulary is also taken from Indian words such as  meaning 'hey',  meaning 'fat', etc. This is most obvious in such cases as /, which are functionally equivalent in Singlish and mapped to the same Mandarin word,  (), which can mean to lend or to borrow. For example: "" / "Hey, can you lend me your calculator?"
+
+==Singlish dictionaries and word lists==
+
+There have been several efforts to compile lexicons of Singlish, some for scholarly purposes, but most for entertainment. Two early humorous works were Sylvia Toh Paik Choo's Eh, Goondu! (1982) and Lagi Goondu! (1986). In 1997 the second edition of the Times-Chambers Essential English Dictionary was published. To date, this is the only formal dictionary containing a substantial number of Singaporean English terms. Such entries and sub-entries are arranged alphabetically amongst the standard English entries. A list of common words borrowed from local languages such as Hokkien and Malay appears in an appendix. It appears that no subsequent editions have been published.
+
+2002 saw the publication of the Coxford Singlish Dictionary, a light-hearted lexicon which was developed from material posted on the website Talkingcock.com. In 2004 a website, A Dictionary of Singlish and Singapore English, was launched to document the actual usage of Singlish and Singapore English in published material, in the way that the Oxford English Dictionary does for standard English. Compiled by an amateur lexicographer, the Dictionary appears to be one of the more comprehensive and professionally written dictionaries dealing exclusively with Singlish and Singapore English available so far.
+
+The Singapore Tourism Board and tourism-related businesses have also produced short lists of commonly used Singlish terms, ostensibly to allow foreigners visiting Singapore to comprehend the local language better. Such lists have been printed in brochures or booklets, and also published on websites.
+
+The lack of an officially printed version of a Singlish dictionary is due to the fact that the Singapore government frowns upon the use of Singlish, their official stance being that the speaking of Singlish will make Singaporeans difficult to understand when communicating with foreigners who are not familiar with Singlish. Thus, the government has made an effort to quash the use of Singlish and to promote the use of standard English through the Speak Good English Movement over the past few years. Though failing to discourage the use of Singlish, it has resulted in Singlish having a bad reputation in recent years, further stalling efforts to document actual Singlish usage.
+
+Letters contributed to the forum of The Straits Times, the main local newspaper, by readers have called for Singlish to be kept alive in Singapore. Community efforts to do so include the aptly named "Speak Good Singlish Movement". The idea of promoting Singlish was raised as part of a larger debate on creating a uniquely Singaporean identity. However, the government has yet to officially change its stand regarding Singlish.
+
+A list of Singlish terms and expressions widely used in Singapore is set out below. It is not exhaustive and is meant to provide some representative examples of Singlish usage in Singapore. The origins of the Singlish terms are indicated where possible, and literal translations are provided where necessary.
+
+== Phonological sounds used in Singlish ==
+Below are the phonological sounds used from the International Phonetic Alphabet used in Singlish.
+
+{| class="wikitable" style="margin: 10px auto;"
+|+ Consonants Used in Singlish Vocabulary
+!
+!Bilabial
+!Labio-dental
+!Dental
+!Alveolar
+!Post-Alveolar
+!Palatal
+!Velar
+!Glottal
+|-
+| Nasal
+|m
+|
+|
+|n
+|
+|
+|ŋ
+|
+|-
+| Plosive
+|p b
+|
+|
+|t d
+|
+|
+|k g
+|
+|-
+| Fricative
+|
+|f v
+|θ ð
+|s z
+|ʃ ʒ
+|
+|
+|h
+|-
+| Approximant
+|
+|
+|
+|ɹ
+|
+|
+|
+|
+|-
+| Lateral
+|
+|
+|
+|l
+|
+|
+|w
+|
+|}
+
+{| class="wikitable" style="margin: 10px auto;"
+|+ Vowels used in Singlish Vocabulary
+!
+!Front
+!Central
+!Back
+|-
+| Close
+|i
+|
+|u
+|-
+| Close-Mid
+|e
+|ə
+|o
+|-
+| Open-Mid
+|ɛ
+|ə
+|ɔ
+|-
+| Open
+|
+|a
+|
+|}
+
+== List of Singlish words ==
+===0–9===
+
+*  – Local 4 digit lottery game run by Singapore Pools.
+*  – Refers to the 5 Cs of Singapore (cash, car, credit card, condominium, country club membership). Commonly associated with materialistic success in modern Singapore.
+*  – Official Singapore Army vernacular meaning '11 basic information'. Refers to the Singapore Armed Forces Identity Card held by servicemen during their National Service.
+
+===A===
+
+* abit –  A little bit. Usually used sarcastically. As in "" when the person in question is deemed to be slow (sarcasm).
+* abuden –  Obviously; what else could it have been? Equivalent to "duh".
+* ACBC –  Acronym for "act cute, buay cute." Refers to a person that is behaving in an exaggeratedly cutesy manner, but instead comes across as annoying. (buay – see entry below – is a negative prefix, conveying 'not' or 'un-'.).
+* act blur –  To feign ignorance.
+* act cute –  A phrase which describes behaving in a cutesy manner. Can be used as both a verb and an adjective. See also ACBC above.
+* action –  Refers to a person that is perceived as arrogant or haughty.
+*  / agak-agak –  An estimate.Brown, Adam (1999) Singapore English in a Nutshell, Singapore: Federal, p. 3. Not to be mistaken as "" which means jelly/jello.
+* agak-ration –  An estimate or estimation. Also pronounced as "agar-ration".
+* Ah Beng –  A hillbilly, or someone with poor dress sense. Also used to refer to a gangster.Brown, Adam (1999) Singapore English in a Nutshell, Singapore: Federal, p. 5. Originates from the common Chinese male name 'Ah Beng'.
+* Ah Seng –  Ah Beng's sidekick. Also used to refer to a gangster.Brown, Adam (1999) Singapore English in a Nutshell, Singapore: Federal, p. 5. Originates from the common Chinese male name 'Ah Seng'.
+* ah –  1. Exclamation. E.g. "Heng ah!" (How lucky!) 2. (... ah?) An alternative spelling of "ar". Used at the end of a sentence to express doubt.
+* ah gua / ah kwa / ah qua –  A transvestite, often assumed to be a Thai transsexual. Used to refer to males that appear to be feminine.
+* Ah Lian –  A hillbilly, someone with little dress sense; female form of Ah Beng. Also used to refer to a gangster. The expressions came about because Ah Lian is a common Chinese female name.
+* Ah Huay –  Ah Lian's sidekick; female form of Ah Seng. Also used to refer to a gangster. The expressions came about because Ah Huay is a common Chinese female name.
+* Ah Long – 1.  Slang term for a loan shark. 2. Sometimes used to mistranslate Lee Hsien Loong.
+*  –  means older brother; a shortened version of a racial slur (see below).
+* ah pu neh neh –  A racial slur for Indians.
+* ah tiong –  Sometimes used simply as Tiong. An endearing term for Chinese nationals.
+* ai see –  Used to describe someone on thin ice.
+* ai see buay see –  Used to describe someone on thin ice.
+* aiseh - An exclamation made in awe of something. E.g. "Aiseh, he driving a Ferrari sia."
+* ai swee mai m'niah –  Used on a person who is so vain their life or wellbeing is compromised 
+* ai sui –  Refers to a person who is beauty conscious. (Usually used of females.).
+* ai tzai –  Used in a reassuring manner to calm people down.
+* Aiya(h) / Aiyo(h) –  "Oh no!" "Oh dear!"
+* Aiyoyo / Ai-yoh-yoh  –  Extreme of Aiyoh.  popularized by the Mediacorp drama series Good Morning, Sir!.
+* akan datang –  Means 'coming soon', as seen in movie trailers. Used to reassure an impatient person.
+* alamak –  Phonetically close to the Chinese term "Oh, my mother!" It expresses shock or surprise, and also dismay.
+* amacam –  A contraction of the Malay word 'Apa macam', which is used as a greeting, similar to "What's up?"
+* ang mo(h) –  A term for people of European descent.
+* ang mo(h) pai –  A term used for Chinese Singaporeans who speak good English but is terribly poor in Chinese. The term suggests they are more "Red Hair"/Westernised than Chinese.
+* ang pau /  –  Red packet with money to be given on Chinese New Year or during some occasion like wedding, birthday party and so on as a wish to the receiver. Also hong bao.
+* an zhua? –  Hokkien equivalent of "What's up?"
+* ar – 1.  (... ar?) Used at the end of a sentence where opinions and affirmations are being sought. 2.  Used as either a noun or a verb to denote a very cozy, non-sexual relationship with someone that might result in special considerations or leeway not available to anyone else without such a relationship. As in "I ar with the boss because I'm his golf buddy so I can occasionally come to work later without getting into trouble with him." Or "You got ar with him or not?" to inquire as to the status of the relationship between two people. Similar to the American slang expression "having juice with someone."
+* ar bo –  Means "What else?" or "How else?" Usually used as an answer to a question with an obvious answer.
+* atas –  1. Used to describe a snobbish and arrogant person. 2. Used to describe a "high class", well-to-do or sophisticated person.
+* ayam –  Used to describe someone who is easily intimidated.
+* ay / aye / ayy –  To express a bit of ‘yeah’ feeling.
+
+===B===
+
+* balik kampong / balek kampung –  Pack up one's things and go home. The term also refers to returning to one's hometown.
+* bakkwa / bak kwa –  Rougan or roupu (), a Chinese salty-sweet dried meat product similar to jerky.
+* bao toh –  The act of backstabbing someone, usually in an office or political context.
+* barang barang –  Personal belongings.
+* basket - Replacement for the word "Bastard". Used to appear being less vulgar.
+* berak –  To defecate.
+* belanja –  To treat or pay for someone.
+* bird bird - Penis. See kuku jiao / kuku bird.
+* bodoh –  Idiot, ignorant.
+* bo(h) be(h) zao –  From horse racing jargon. Used to describe something that is of unrivalled excellence See also "no horse run".
+* bo(h) bian / bo(h) pien –  No choice.
+* bo(h) chup –  Hokkien for to not give a damn.
+* bo(h) eng –  To have little or no time on one's hands.
+* bo(h) gay / bo(h) ge(h) –  Usually used to describe someone with a missing tooth.
+* bo(h) jio / bojio –  You didn't invite me.
+* bo(h) liao –  A slang expression to describe being in a situation of idleness. Also used to describe an act of doing something silly.
+* bo(h) ta bo lan pa –  Usually used in drinking for "bottoms up".
+* bo(h) tao bo(h) be(h) –  A story that has no linkage.
+* bo(h) zheng hu –  Used to describe a lack of governance or authority.
+* boleh –  Can; possible. Sometimes used sarcastically to refer to one's inability to do something.
+* botak –  Used to describe someone bald. This term inspired the famous Botak Jones in Singapore.Brown, Adam (1999) Singapore English in a Nutshell, Singapore: Federal, p. 35.
+* buay –  Means 'cannot'.
+*  –   'crocodile'. Refers to a womanizer or flirt.Brown, Adam (1999). Singapore English in a Nutshell, Singapore: Federal, pp. 37-38.
+* buay pai –  This is commonly used for food, saying that it isn't very bad or not bad. It can also be applied to other things.
+*  –  To be unhappy or angry about something.
+* buay gan/kan –  Useless.
+* buay steady –  Usually used to reply to someone whose conduct spoils the pleasure of others. A spoilsport. See steady.
+* buay tahan –  Means 'unable to withstand' or colloquially "cannot stand it" i.e. intolerable. See tahan.
+
+===C===
+
+*  – unable to understand something that someone says. Directly translated from Hokkien term liek boh kiew / liak bo kiu.
+* cert –  Abbreviation of 'certificate'. E.g. "Can copy your cert or not?"
+* chao / chow –  1. Used to refer to foul smells. 2. Used to describe cheating or playing foul (jiak chao) in a game. Darned.
+* chao keng –  Feigning sickness or injury. Commonly used during National Service to describe recruits who pretend to be unwell to avoid participating in certain activities. Sometimes shortened to Keng.
+* chao mugger –  Someone who frequently crams for tests for fear of failure.
+* chap lau chu –  A colloquial term to describe 10-storey flats.
+* char bor /  –  Girl/Woman.
+* chee bai –  CB for short. Means vagina but used mainly as a swear word. See jibai.
+* chee ko pek –  Hokkien or Teochew slang for 'pervert' or 'dirty old man'. Sometimes used by children on riding an object.
+* cheena –  Originated from Malay spelling "Cina". A slur used to denote Chinese people exhibiting very unpolished behaviour or mannerisms, deriding their Chineseness. Basically to denote the uncultured (from an Anglophone standpoint), any occasionally be used to denote Chinese people.
+*  'cher / Tcher – Corruption & abbreviation of "teacher".
+* chey / cheyyy – Used when you are disappointed or unimpressed. 
+* chicken business –  Direct translation of the Cantonese slang  ( 'do chicken'), which means to prostitute oneself ("chicken" is the slang term for a prostitute).
+* chi fan – (From Mandarin 吃饭 chī-fàn) To eat.
+thumb|100px|Linguist Ghil'ad Zuckermann defines chiminology as "something intellectually bombastic, profound and difficult to understand"
+*  /  –  Used to describe something or a situation that is extremely hard to understand or comprehend. "Wah you hear how he talk, so chim hor!"
+** Variants include nouns such as chim-ness and chimology ("Wah this homework damn chimology man!") and chiminology (also cheeminology) ("Ooi! Wat you say I dun understand lah, stop using chiminology can or not!").Ghil'ad Zuckermann (2003). Language Contact and Lexical Enrichment in Israeli Hebrew, Houndmills: Palgrave Macmillan, (Palgrave Studies in Language History and Language Change, Series editor: Charles Jones). . 2003, pp. 52-53. Ghil'ad Zuckermann defines chiminology as "something intellectually bombastic, profound and difficult to understand" and explains the suffix -inology (rather than -ology) as being based on the English pattern X↔Xinology deriving from Latin-based pairs such as crime↔criminology and term↔terminology.
+* chin chai –  When applied colloquially, it means 'anything' or 'whatever'. Used in situations when someone does not feel like making a decision and wants another to help them make a decision. Can also be applied to situations to do something in a half-hearted manner.
+* chio bu – . The word 𪁎 tshio in Hokkien describes how females (esp. animals) are being sexually receptive (such as during an estrous cycle) when mating and has some form of sexual connotation.  When 𪁎 tshio is combined with 母 bú (female), it means the girl is horny or excited when having sex. The word 𪁎母 chhio-bú generally means "a fuckable girl" or "buxom woman". It's used to describe a woman in a derogatory manner. However, today, many teenagers do not know the original vulgar meaning and often use it to genuinely describe/compliment a pretty girl/woman.
+*  –  To rush or to charge.
+* chiong sua –  Otherwise used as a more exaggerated form of "chiong". In National Service or the Singaporean military context, the literal meaning may be implied.
+* chop –  Refers to stamp or seal.Tongue, R. K. (1979) The English of Singapore and Malaysia, Singapore: Eastern Universities Press, p. 69.
+* chop chop –  Used to tell someone to do something fast.
+*  – Slang for reserving a seat. Derived from chop; to leave a mark. Singaporeans have a habit of leaving objects on seats or tables to reserve places (usually tissue packets). Sometimes also pronounced as simply "chop".
+* chui - Something that is broken / or something that has gone wrong / Lousy. No real equivalent in English that carries what is implied; meaning varies by context. (This hotel damn chui. "This hotel is very lousy / poor") (My handphone chui liao. "My handphone is not working properly / spoilt") (This guy sibei chui sia. "This guy cmi")
+* chiu kana kah, kah kana lum pah –  Used to describe a clumsy person. See also kah kenna chiu, chiu kenna kah.
+* cmi –  An acronym for "can't make it", pronounced letter by letter (c m i).
+* cockanaathan –  Similar meaning to 'cock fella'. Extreme term for useless or stupid.
+*  –  Shortened corruption/amalgamation of the words "correct" and "right". To confirm that something is correct and right. Rarely used.
+
+===D===
+
+* da pau / da pao / da bao –  Take away (used only when cooked food is concerned). E.g. "da bao food"
+* damn –  Very.
+* dao – (From Chinese) aloof 
+* dey – 1.  To call someone in a friendly informal way. Same as "Hey!". Only to be used towards friends or someone of the same age. E.g. "Dey! what are you doing?" 2. They.
+* diam – See "t(h)iam / diam".
+* doneded - Past tense of the word done.
+* don't play play – Telling others to be serious or even saying ”don't fool around”. This is a catchphrase from Gurmit Singh's titular character Phua Chu Kang in the TV sitcom drama programme of the same name.
+* du lan –  1. A swear term that means 'very pissed.' 2. Used to describe someone who is very picky and who insists on following the rules literally and blindly with no accommodation for circumstances.
+* dunnid – A corruption of 'don't need'.
+* double confirm – Confirm and reconfirm. Used to emphasize the confirmation. Also to emphasize the seriousness of the topic, 'Triple Confirm' is also used.
+
+===E===
+
+* echerly – Corruption of 'actually'.
+* eeyer –  To express disgust.
+*  –   'Mister' in Malay. When used in a military context, it is used to address warrant officers in the Singapore Armed Forces. Also spelled as "encek".
+* eye power –  Sarcastic remark to describe someone who does not contribute in group work and merely watches on; this term is often associated with military officers. The term probably originated from the X-Men character Cyclops from Marvel Comics.
+
+===F===
+
+* falali / ferlali - Bastardisation of the car marque "Ferrari".
+* fatty bom bom –  1. To refer to someone who is fat. 2. A fast food restaurant in Singapore.
+* foto – Misspelling of photo.
+* fone – Misspelling of phone.
+
+===G===
+
+* gabra –  Used to describe confusion or disorganisation.Brown, Adam (1999) Singapore English in a Nutshell, Singapore: Federal, p. 92.
+* gahmen – Mispronunciation of the word "government"; the omitted "v" is especially common among people from Chinese-speaking backgrounds. In the modern context, it is used as a substitute for the actual word when criticizing the government in written form to prevent possible legal action taken against the writer.
+* garang –  Used to describe someone as courageous or enthusiastic.
+* geh geh –  Means faking. Usually used to describe those who are hypocritical.
+* geh kiang –  May be used to describe someone who makes rash decisions without thinking or someone who pretends to know what they are doing.
+* ger – Corruption of 'girl'.
+* get –  Pronounced in the same way one would pronounce "let". It means to be very cheeky. E.g. "Eh you know my son very 'get' one hor. When he young that time he broke a lot of my things one, you leh?"
+* gila –  Crazy or mad.
+* gone-case –  Means that one is doomed.
+* goondu –  Local meaning "idiot".Brown, Adam (1999) Singapore English in a Nutshell, Singapore: Federal, p. 95.
+* gor chiam tua guay gu chia leng –  To think that one's money can go further than it can actually afford.
+* goreng –  To fry, or fried as in Mee Goreng.
+* gostan –  To reverse or go in the backward direction.
+*  / kwai lan –  Arrogant.
+
+===H===
+
+*  – Mobile phone. Also used in other SE Asian countries.
+* hao lian –  Slang term for "boast" or to describe someone that is narcissistic.
+* heng –  To be lucky or fortunate. Commonly used in conjunction with "ah", i.e. "heng ah".
+* helication – Corruption of "education".
+* horlan –  Deliberate mispronunciation of "Holland". Of uncertain origin, the term is used to denote finding oneself in a far-off place, or unexpected consequence, usually unpleasant.
+* ho liao –  It means done.
+*  /  –  See ang pau / ang pow.
+* hong gan (liao) / hong kan (liao) – .Used when very angry or disappointed. "We are screwed."
+* hosei / ho seh / ho say –  Good; well.
+** Ho seh bo? –  How Are You? See How Are You? (TV series).
+** hosei liao –  The phrase means 'very good' or 'excellent' and carries the positive connotation of respite. E.g. "Eh wah the cher never come today ah? Hosei liao, I never do her homework sia!" Can also be used sarcastically. E.g. "Walao you never study for your final papers then still don't want pon? Hosei liao!"
+* huat  To prosper. Commonly used in conjunction with "ah", i.e. "huat ah".
+* hum ji / humji / hum chi / humchi –  A phrase that denominates cowardly behaviour. Usually used on males. E.g. "Walao don't humji la go ask her out!" "James damn humji sia he see cockroach only he piss his pants sia really cmi."
+
+===I===
+
+* ini macam –  "Like this", also "That's how"
+
+===J===
+
+* jelak –  To be overly satiated by food to the point you are repulsed by it, particularly food that is too rich.
+* jiak –  To eat.
+* jiak cao –  1. Being in a situation of having no money for daily expenses (i.e., broke). 
+* jiak chao –  1. To play foul in a game.
+* jiak zua –  Used of a person who slacks while on duty.
+* jiak kantang –   A pejorative term referring to pompous condescending intellectuals who are slightly more educated about Western cultures. "Eating more potato" means more westernized than being Asian (eating rice). 
+* jiak liao bee –  Means this younger generation (son or daughter) is raised to nothing. 
+* jia lat / jialat –  Used to describe being in trouble or a terrible situation.
+* jibaboom / jibabom - The sound of an explosion, indicating something has spoilt.
+* jibai / chee bye / ci bai / chee bai –  Vulgar term for the female sexual organ; or the English equivalent of 'cunt'. Also a general negative expletive/interjection in colloquial speech. Abbreviates to "CB" in digital communication.
+* jibra – Corruption of "zebra".
+* jio – Invite. Could also mean asking someone out.
+* jilo / jiro / zilo – Corruption of "zero".
+* jom –  Let's go.
+
+===K===
+
+* kae ang moh –  Used of someone who tries to act like a Westerner.
+* kah kenna chiu, chiu kenna kah –  Used to describe a clumsy person. See also chiu kana kah, kah kana lum pah.
+* Kana sai ,  'bearing resemblance or comparable to shit' meaning bullshit.
+* kenz –  Short form of Kena.
+* kampong / kampung –  Means 'village'.Wee, Lionel (1998) 'The lexicon of Singapore English'. In J. A. Foley et al. (eds.) English in New Cultural Contexts: Reflections from Singapore, Singapore: Singapore Institute of Management/Oxford University Press, pp. 175-200.Deterding, David (2007) Singapore English, Edinburgh: Edinburgh University Press, p. 75. Figuratively used to refer to one's hometown or place of origin.
+* kanina - Abbreviated as 'KNN".
+* kar chng –  Buttocks.
+* kar pak – Parking lot; Car park.
+*  –  A busybody.Brown, Adam (1999) Singapore English in a Nutshell, Singapore: Federal, p. 121. Sometimes abbreviated to kpo.
+* kayu –  Traditionally used to accuse that soccer matches have been fixed with shouts of "referee kayu" or soccer fans (i.e., that the referee was so blind to foul play from the opposing team by refusing to penalize them that he might as well have been a block of wood). Also used to describe lack of spontaneity or wooden behaviour ( 'wood').
+* kee siao –  To go mad. Usually, this phrase is used in the context of scolding people.
+* keling kia –  Used as a slur. An old name for Tamil Indians. Keling or kling may have origins to the Kalinga empire which had contact with ancient Singapore, and kia means people or person.
+*  –  Means to be afflicted with or to suffer from something.Brown, Adam (1999) Singapore English in a Nutshell, Singapore: Federal, p. 123. Also pronounced as "kana" or spelled as "gena/genna/kenna".
+* kena sai –  Means to "get into deep shit" or get into deep trouble. 
+* kerlik – Corruption of colleague.
+* khi chia –  Die. Refers to the loading of a coffin or casket into a hearse. The English equivalent is “up (the) lorry”.
+* kiam –  1. Salty. 2. Used to describe a stingy or frugal person.
+* khiam pa(h) –  Used to say that (the appearance or actions of) an individual evokes a desire to physically hit them.
+*  –  Used in the same manner as "kiasu".
+*  –   'to be afraid of losing'.
+* kilat –  Means 'excellent'. Commonly used in the military.
+* kong ka kiao –  Die.
+* kopi –  Coffee. E.g. lim kopi (drink coffee). See #Types of coffee.
+* kopi tiam / kopi-tiam / kopitiam –   'coffee shop'. 'Coffee shop' in Singapore refers to "food centre".
+* koyah – means that an object is torn or spoiled.
+* ku ku jiao – Crude term. Refers to the male genitalia. Also "ku ku bird".
+
+===L===
+
+* la(h) –  Interjection. Tagged at the end of a sentence as an exclamation but pronounced differently in questions.Richards, Jack C. and Tay, Mary W. J. (1977) 'The la particle in Singapore English', in William Crewe (ed.), The English Language in Singapore, Singapore: Eastern Universities Press, pp. 141–56.Deterding, David and Low Ee Ling (2003) 'A corpus-based description of particles in spoken Singapore English', in David Deterding, Low Ee Ling and Adam Brown (eds.), English in Singapore: Research on Grammar, Singapore: McGraw-Hill Education (Asia), pp. 58–66.Wee, Lionel (2004) 'Reduplication and discourse particles'. In Lisa Lim (ed.) Singapore English: A Grammatical Description, Amsterdam: John Benjamins, pp. 105-126. Used mainly at the end of both phrases and sentences. Most speakers prefer "ah" at the end of questions.
+* lan jiao –  Refers to male genitalia (crude). See also Si mi lan jiao.
+* lao lan – Arrogant; egoistic; pretentious, the same meaning as xia lan.
+* lao pei huet –  To have a nosebleed. Typically used as a reaction upon seeing a pretty girl.
+* lao sai –  To get diarrohea.
+* la sai –  Create trouble.
+*  –  Means to want more of something.
+* leh –  Tagged at the end of a sentence in a similar manner as "lah". Used to emphasize the sentence.
+* leh chey –  A gnarly, troublesome problem or situation
+*  –  Has the same meaning as relaxing. E.g.: "Let's go lepak one corner."
+*  –  Means 'already' or 'over', or generally indicates the past tense. Sometimes used as a substitute for the "already" used in Singlish, especially by Chinese-speaking people. Sometimes also pronounced as the Mandarin le (light tone) by Chinese speakers.
+* liek boh kiew / liak bo kiu – . Used when one is unable to comprehend what others are saying. See catch no ball.
+* liddat –  Like (akin to) that. E.g. "Liddat oso can!?"
+* limbu / lim bu –  An arrogant way to say "I" (female).
+*  / lim peh / limpei –  An arrogant way to say "I" (male).
+* lin lao hia / lin nao hia  –  A vulgarity meaning of "damn it" 
+*  –  Malay word which means 'hole', 'gap' or "opening'; also used to describe an opportunity or chance.
+* lombang –  Pronounced with a round "o" ("lomh-bang") is from Malay  which means 'to hitch a ride'. May also be pronounced and written as "lobang".
+* long zhong / long zong –  Altogether.
+*  –  Tagged at the end of a sentence in a similar manner as lah. Used to emphasize and indicate that what was said should be obvious to the listener, self-evident or to express inevitability.
+* luan –  Hokkien word which means very messy. E.g. "Eh you very luan ah. You everytime lose your things, siao meh?"
+*lun zun –  Means careless or clumsy.
+
+===M===
+
+* macam –  Like; Means to resemble something.
+* mader – Corruption of "mother".
+* mafan –  Troublesome.
+* mah –  Usually tagged at the end of a sentence to seek agreement or argue a point. For example, "Cannot like that, mah."
+* makan –  To eat.Brown, Adam (1999) Singapore English in a Nutshell, Singapore: Federal, p. 135.
+* makcik –  An auntie persona.
+* malu –  Embarrassing. Usually used when someone makes a fool of themself.
+* mampat –  Tight/firm. Usually referring to a woman's posterior or clothing.
+* mang zang –  Means irritable or easily annoyed.
+*masak-masak –  Child's play. Masak by itself refers to cooking.
+*Mat – a Malay man. "Mat" is a short form of the name Muhammad, which is a very common name among Muslim Malay men.
+*Mat Salleh – a white person (usually a man). Possibly a corruption of "mad sailor" which came to be conflated with the name of the leader of an historic rebellion against the British in North Borneo.
+* mati –   'to die'. "Die" in the Singaporean slang context means to be doomed.
+* mata –   'eye'. Used as a reference to the police.
+*  –  Usually tagged at the end of a negative question to indicate someone is exploiting a possible loophole as in "Mata said cannot park here but I'm parking over there. Cannot, meh?" Or to (somewhat derisively) indicate capabilities heretofore unknown as in "Just because you never see me running, you think I cannot, meh?"
+* mong cha cha –  To behave in a "blur" manner and be unaware of what is going on around.
+* mug –  To cram (for academic tests). Used interchangeably with/instead of the word "study".
+
+===N===
+
+* neh neh –  A woman's chest or breasts.
+* neh neh pok –  Nipples.
+* ngeow –  1. Used to describe someone who is overly meticulous or tries to find fault in everything. 2. Used to refer to someone stingy.Brown, Adam (1999) Singapore English in a Nutshell, Singapore: Federal, p. 147.
+* nia –  Common used to depict the meaning of "only". It is of a belittling tone. May also be used to downplay intensity.
+* nia gong –  Direct Translation of 'your grandfather'.
+* nia gong de ji dan –  Direct translation of "your grandfather's egg".
+* no eye see – A literal translation of the Cantonese expression  or Mandarin expression . Means cannot bear to look at/ do not want to know.
+*  – Original Hokkien expression  (bô bé cháu) used in horse racing jargon to describe a champion horse which is way ahead of the field. Used to describe things (food usually) which are ahead of their peers. See also "boh beh zao".
+* nua(h) –   - Lazing around, or resting.
+
+===O===
+
+* O$P$ – "Owe Money Pay Money". An English translation of the Chinese expression . Used in threats from loan sharks who would usually scrawl this in markers or spray paint outside debtors' units.
+* Obasan –  Used to describe someone sloppily dressed and out of fashion. Usually women in an old faded T-shirt and cheap shorts carrying a plastic bag.
+* obiang –  Used to describe someone or something that is desperately out of fashion. Other variations include "orbit".
+* orbi –  May be used as a single term or combined to form "orbi quek" or "orbi good", which means 'serves you right'.
+* ORD –  Short-form of "Operationally Ready Date", which refers to the date on which a National Serviceman completes his full-time stint of National Service. And what older National Servicemen called their "ROD" or "Run Out Date."
+* ORD loh – Army slang. An exclaim made by servicemen close to completing his two-year mandatory service term in the army to provoke jokingly his counterparts who have yet to see the end of their service terms.
+* orh –  Shortened from okay, meaning yes, understood.
+* orh hor – Used when someone has done something wrong, and will now be in trouble.
+* oso –  Also.
+* owadio – Corruption of "ORD loh". Also pronounced "wadio".
+* ownself – (by) himself, herself, myself, yourself, oneself, etc.
+
+===P===
+
+* pai kia –  Teochew slang for 'hooligan' or 'gangster'. Commonly used to scold kids who don't appreciate their parents.
+* pai seh /  –  Means to be embarrassed. Usually used as an apology after making an embarrassing mistake.
+* pak chiu cheng (pcc) –  To masturbate.
+* pak zam –   'needle injection'. Used to describe something faulty or not usable.
+* pak tor /  –  To go on a date. Colloquially refers to general physical intimacy.
+* pang chance –  To give chance. May also be spelt and written as Pang Chan or Pun Chan.
+* pang sai –  To defecate.
+*  –  Hokkien slang for "to be stood up" (at an appointment), or cancelled upon at the last minute. Not to be confused with 'pang sai'.
+* pang jio –  To urinate.
+*  –  1. Used to describe something unsightly or disgusting. 2. Used to describe the lowest and most unsightly caste (paraiyar, gravediggers and sewerage in ancient India). 3. In modern times, it is also used to describe something or someone of low quality.
+* pasar malam –  Refers to the night markets.Brown, Adam (1999) Singapore English in a Nutshell, Singapore: Federal, p. 158.Deterding, David (2007) Singapore English, Edinburgh: Edinburgh University Press, p. 76.
+* photostat –  Photocopy.
+* pia –  To work hard at something, or to rush something (such as homework).
+* piak piak –  To have sexual intercourse.
+* pian yi dao lao sai -  A very low price.
+* pok kai –  1. To go broke. 2. Used to curse people.
+* pon –  Short form of 'ponteng'. To play truant. E.g. "Want pon school today?"
+*  – Corruption of "powerful".
+* pai tao – To make plans with your friends and decide to not show up.
+* puki –  - Vulgar term for female genitalia.
+* pundek–  - Vulgar term for female genitalia.
+
+===R===
+
+* rabak –  A situation out of hand.
+* rabz –  Short form of rabak.
+* rabz-kebabz –  An out-of-control situation, usually with negative connotations. "Everyone was so drunk, damn rabz-kebabz."
+
+===S===
+
+*  –  To play a trick on someone, with a related meaning of "getting someone else in trouble".Brown, Adam (1999) Singapore English in a Nutshell, Singapore: Federal, pp. 187 - "Because he sabo me, now boss mad at me!"
+* sakar –  To flatter, to lick one's boots. Derived from a Malay term meaning 'sugar' (although the Malay word for sugar is actually gula), which may have been derived from Hindi 'sakar' or 'Sakkar' meaning 'sugar' and 'sweet words', and ultimately from Persian 'shakar' meaning 'sugar', 'sweet'.
+* saman –  Used for traffic summons. Derived from the English word summons. ( 'to fine'/'summon').
+* sampat –  Mainly used to describe a female who is a combination of silly, crazy, wacky, sassy, ditzy, etc. Different from 38.
+* sam seng –  Gangster. Also sam seng kia (, saⁿ-seng-kiáⁿ).
+* sargen – Corruption of 'sergeant'.
+* scorching eagle - A high flyer at work.
+* sei –  Steady.
+* see first – A short form of "wait and see what happens; we’ll see." Most often used when procrastinating and putting off plans to be considered later. A variant of this phrase is "see how first".
+* see me no up –  Means to be looked down upon by someone.
+* see you very up –  Means worthy of you.
+* sekali –  Lest, what if. Pronounced SCAR-ly.
+* selamat  –  ‘Hello’ or ‘Good’.
+* shame shame – Childish slang meaning of "very disgraceful" or "embarrassing".
+*  –  To express sheer delight with an experience, especially when eating great food. Popularly exclaimed in a single word "Shiok!", or combined with another. E.g. "Shiok man!" "So shiok!"
+* showflat –  An event held by an estate agency that spans several weeks to promote a housing project, usually condominiums.
+* sia(h) –  An exclamation.
+* siam –  "Get out of the way!" Considered rude but effective.
+* sian / sien –  Bored, tired, or sick of something.Brown, Adam (1999) Singapore English in a Nutshell, Singapore: Federal, p. 195
+* siao –  1. Crazy. Used in response to a silly suggestion. 2. An offensive term used to address a friend. 3. Used to refer to somebody who is a fanatic. "He siao bicycles" is saying that someone is crazy about bicycles.
+* sia suay – See xia suay.
+* sibe(h) / si be(h) –  Similar to 'very'. Interchangeably used in Singaporean Hokkien and Singlish.
+*  / si mi –  "What?"
+** X (verb) simi X – A literal translation of  in Chinese. "What/why are you..." in a derogatory sense. E.g. "Kwa simi kwa!? / Look simi look!?" (What are you looking at!?)
+* Si mi lan jiao –  A much more derogatory term of "What's up?". Abbreviated as "SMLJ".
+* Si mi tai dzi –  "What's up?" When accommodated with a lah at the end, it could also mean "what again?" in an irritated manner. 
+* slow-po(ke) A person who is extremely slow.
+* sod –  Used to express a machine, person, or object that has gone mental or haywire. Localization of the word "short" from English term "short circuit".
+* solid - Very good. "This chicken rice solid leh" (This chicken rice is very good). 
+* solid bird bird - So good that you get an erection. "This bag got so many pockets. Solid bird bird leh" (This bag is extremely good because it has many pockets).
+* song –  Used to express pleasure or excitement. Same meaning as shiok.
+* sozai / sor zai –  used to express 'silliness'. Example: "These people are so sor zai one."
+*  –  1. Forgetful or not knowing what is going on. E.g. "blur like sotong" (extremely clueless) 2. Spineless or without principles, like the cuttlefish.
+* stay on topic – (Western English) meaning to tell the person not to change the subject. E.g. "oi, stay on topic lah you!" (meaning "this is not relevant")
+*steady pom pi pi — (From Unknown) Used to describe someone who keeps their cool under pressure or in the face of a massive crisis.
+*  –  Unlucky.Brown, Adam (1999) Singapore English in a Nutshell, Singapore: Federal, p. 215.
+*  –  Like.
+* suku –  From the Malay for a quarter. Meaning of "silly" or "foolish", or "only a quarter there".
+* sui / swee –  1. nicely/just right/perfect. 2. Clean, neat & tidy. 3. Pretty; beautiful (often used to describe a pretty woman). Written as  in Standard Chinese.
+* swaku –  Not well informed or backward; a country bumpkin.
+
+===T===
+
+* tahan –  Handle; tolerate, commonly used as 'I cannot tahan' meaning "I can't bear it" or "I cannot tolerate".
+* tai ko / tyco –  Lucky (only used sarcastically).  'leper'.
+* tak boleh –  Cannot.
+* tak boleh tahan –   'cannot endure'. Used when someone is suffering from pain, or when you couldn't wait upon something.
+*  / tok kok – Vulgarity meaning of talking nonsense/senselessly and gibberish or engage in idle banter. Probably originated from the English expression "cock and bull story" or its equivalent, talking "gibberish" — English slang for talking nonsense.
+* tan ku ku –  Hokkien phrase meaning "Forget it, it won't happen".
+* ta pau / ta pao – See da bao.
+* tau pok –   'fried tofu'. By students who throw themselves on one another in a pile, usually for fun or to bully. Special cases with vertical tau pok where a person gets squashed against a vertical object, found in MRTs on a crowded day.
+* teh –  Tea. Refer to "Kopi/Coffee" for more information about the different types of orders for tea and coffee common in Singapore.
+* tekan –  Bully/Torture/Put under pressure. Military slang for punishments.
+* terbalik / tembalik –  Opposite/Upside-Down/Inside-Out. Also pronounced "dom-ba-lek".
+* terok - (From Malay) Bad
+* thambi / tambi –  Meaning ‘little brother’.
+* t(h)iam / diam –  If used as an imperative, a very rude way of saying "shut up!" or "please be quiet";  'quiet'. Can be used as in "Doing guard duty on holidays is very sian but also very diam since nobody is here."
+* tio –  1. To get. (Synonym: kena, though it is used in different but overlapping contexts). Usually used as a verb. E.g. "He tio scolded by teacher." "The car owner tio saman." 2. To accurately choose something. E.g. "He always play 4D (lottery) and this time he tio so he won big jackpot."
+* tir ko pek –  A lecherous man.
+* toot – Stupid/silly [person].
+*  / tow kay –  Boss.
+* tsai / zai –  To be very good at something.
+* tuang – means to hang out and not do anything, commonly used in reference to not going for classes.
+* twa kee –  Used to describe big or famous people.
+
+===U===
+
+* ulu –  Used to describe a rural or remote area or country bumpkin.Brown, Adam (1999) Singapore English in a Nutshell, Singapore: Federal, p. 229. Commonly found in road names around Singapore as well (e.g. Ulu Pandan).
+* un –  Abbreviation for 'understand', was once used widely in Hong Kong.
+* understooded –  Corruption of understood.
+* up lorry -  - Used to describe a person who is already deceased or an item is spoilt and no longer can be used. See also ki chia.
+* use your brain / use your blain - Think it through properly. Made popular by Phua Chu Kang.
+
+===V===
+
+* very the –  Singlish phrase emphasising 'very', directly transliterated from the Chinese  (fēi cháng de), which means the same. Usually employed with a clearly sarcastic tone.
+* vomit blood – A literal translation of the Chinese expression , which usually means to experience an extreme or unendurable difficulty or irritation. "Vomit" is often pronounced "womit".
+
+===W===
+
+* wa(h) lan (eh) –  Crude derivative of Wah Lau.
+* wa(h) lao (eh) /  (eh) /  (eh) / walau (eh)  – Exclamation of shock. "What the h*ll”.
+* wa(h) kao / wakao –  Exclamation of shock. "What the h*ll just happened?”
+* wa(h) se(h) –  Exclamation of shock. "What the h*ll".
+* wayang –   "puppetry", "theatrical". Means 'acting' or 'for show'.
+* where got – ‘This won’t happen’, ‘When did it happen?’
+* white horse –  The son of a government official and/or some other influential person. The term is derived from the drawing of a white horse that used to appear at the bottom left-hand corner of the computer screen displaying patient information when said scion visits his camp's Medical Officer.
+* womit – Mispronunciation of 'vomit'.
+
+===X===
+
+* xia lan –  Arrogant; egoistic; pretentious.
+* xia suay /  –  Disgrace; embarrassment. Unlucky.
+
+===Y===
+
+* yandao –  A handsome male.
+* yaya papaya – Used to describe someone who's proud, arrogant, or showing off; often with disappointing outcomes, i.e., "Our football team's striker is damn yaya papaya, always try to solo dribble until lose the ball".
+* your grandfather's road ah? - "Does your grandfather own this road?". Used as a rhetorical question on a person who is road hogging or doing something inappropriate on the road. ("Kanina! This one your grandfather's road ah? Cannot see got people driving ah!?")
+* your head – Mild curse used to disabuse someone of an erroneous assumption. Directly transliterated from Chinese  or . Often used in conjunction with the word ah, i.e. "your head ah".
+
+===Z===
+
+* zai – See tsai / zai.
+* zao hor –  Impressive.
+* zao kng –  To accidentally expose oneself.
+* zha bo – See char bor.
+* zhun –  Accurate.
+** zhun bo –  Means "Are you sure or not?"
+* zilo – Zero. See jilo / jiro / zilo.
+* zi siao –  To disturb, ridicule or tease.
+
+===Food and beverages===
+
+
+Singlish is prominently used in local coffee shops, or kopitiams (the word is obtained by combining the Malay word for coffee and the Hokkien word for 'shop'), and other eateries. Local names of many food and drink items have become Singlish and consist of words from different languages and are indicative of the multi-racial society in Singapore. For example, teh is the Malay word for 'tea' which itself originated from Hokkien, peng is the Hokkien word for 'ice', kosong is the Malay word for 'zero' to indicate no sugar, and C refers to 'Carnation', a brand of evaporated milk.
+
+====Food====
+Names of common local dishes in Singapore hawker centres are usually referred to in local dialect or language. However, as there are no English words for certain food items, the dialect terms used for them have slowly evolved into part of the Singlish vocabulary. Ordering in Singlish is widely understood by the hawkers. Some examples of food items which have become part of Singlish:
+
+* char kway teow –  Fried flat rice noodles with bean sprouts, Chinese sausages, eggs and cockles, in black sweet sauce, with or without chilli.
+* chwee kueh –  Cup-shaped steamed rice flour cakes topped with preserved vegetables (usually radish) and served with or without chilli.
+* Hokkien char mee –  Refers to the Kuala Lumpur Hokkien noodle. It is a dish of thick yellow noodles braised in thick dark soy sauce with pork, squid, fish cake and cabbage as the main ingredients and cubes of pork fat fried until crispy.
+* Hokkien hae mee –  Refers to either the Penang prawn noodle or Singapore prawn noodle. Soup-based (Penang) and stir-fried (Singapore). Egg noodles and rice noodles with no dark soya sauce used. Prawn is the main ingredient with slices of chicken or pork, squid and fish cake. Kang Kong (water spinach) is common in the Penang version.
+* ice kacang –  Crushed ice with flavoured syrup poured into them. Beans and jelly are usually added as well.
+* kangkong / kangkung –  Water spinach (Ipomoea aquatica).
+* kaya –  Local jam mixture made of coconut, sugar and egg of Straits Chinese origins.
+* roti-kaya –  Toasted bread with Kaya.
+* mee goreng –  Malay fried noodles.
+* otah –  Fish paste wrapped in banana leaf or coconut leaves and cooked over a charcoal fire. Southeast Asian influence - you can find similar versions in Thailand, Indonesia and Malaysia.
+* popiah –  Chinese spring rolls (non-fried). Various condiments and vegetables wrapped in a flour skin with sweet flour sauce. Condiments can be varied, but the common ones include turnip, bamboo shoots, lettuce, Chinese sausage, prawns, bean sprouts, garlic and peanut. Originates from China. Hokkien and Straits Chinese (Nonya) popiah are the main versions.
+* rojak –  local salad of Malay origins. A mixture of sliced cucumber, pineapple, turnip, dried beancurd, Chinese doughsticks (Youtiao), bean sprouts with prawn paste, sugar, lotus buds and assam (tamarind).
+* roti john –  Indian version of western hamburger consisting of two halves of French loaves fried with egg and minced beef/mutton. Colonial origins.
+* tauge / taoge / taugeh / taugey –  Bean sprout.
+* tau gee –  Dried bean stick; dried beancurd strips in sticks or rolls.
+* tze char –   meaning cook and fry. A general term for food served by mini restaurants in local hawker stalls serving restaurant-style Chinese dishes, like fried noodles, sweet and sour pork, claypot tofu, etc.
+
+====Beverages====
+
+=====Types of tea=====
+* teh –  Tea.
+* teh-O –  Tea without milk but instead with sugar.
+* teh-O-ice-limau –  Home brewed iced lemon tea.
+* teh-C –  Tea with evaporated milk. The C refers to the evaporated milk, derived from Hainanese See/Xi which sounds like alphabet 'C', in Hainanese See Gu-Nin refers to Evaporated or Fresh (See/C) Milk (Gu-Nin) e.g. King of Kings or Carnation as many Coffeeshops and related businesses are operated by Hainanese people in earlier days and even today.
+* teh-cino –  Milk layered with tea on top (similar to latte macchiato), though its name hints towards a tea version of cappuccino.
+* teh-peng –  Iced milk tea sweetened with condensed milk.
+* teh-poh –  Weak or thin tea.
+* teh-kosong –  Plain Tea.
+* teh-kah-dai –  Milk tea sweetened with condensed milk, with more sugar.
+* teh-siu-dai –  Milk tea sweetened with condensed milk, with less sugar.
+* teh-pua seo –  Lukewarm tea.
+* teh-O-kah-dai –  Tea with more sugar.
+* teh-O-siu-dai –  Tea with less sugar.
+* teh-C-kah-dai –  Milk tea with more sugar.
+* teh-C-siu-dai –  Milk tea with less sugar.
+* teh-packet or Teh-pao –  Tea to go.
+* teh-tarik –  'Pulled' tea with milk, a Malay specialty.
+* teh-halia –  Tea with ginger extract.
+* teh-halia tarik –  Pulled tea with milk (teh tarik) and ginger.
+* tiao he / tiau hir –  Teabag in hot water. Refers to dipping the teabag.
+
+=====Types of coffee=====
+* kopi –  Coffee.
+* kopi-O –  Coffee with sugar but no milk.
+* kopi-C –  Coffee with evaporated milk. The C refers to the evaporated milk, derived from Hainanese See"/"Xi which sounds like alphabet "C", in Hainanese See Gu-Nin refers to Evaporated or Fresh (See/C) Milk (Gu-Nin) e.g. King of Kings or Carnation as many Coffeeshops and related businesses are operated by Hainanese people in earlier days and even today.
+* kopi  –  Substitutes condensed for evaporated milk. Plain coffee.
+* kopi-peng –  Coffee with ice.
+* kopi-packet / kopi-pao –  Coffee to go.
+* kopi-pua seo –  Lukewarm coffee.
+* kopi-gao –  Thick coffee.
+* kopi-poh –  Weak or thin coffee.
+* kopi-kah-dai –  Coffee with more sugar.
+* kopi-siu-dai –  Coffee with less sugar.
+
+These terms can be combined together. For example, strong iced coffee with evaporated milk and sugar would be called “kopi-c gau peng.”
+
+=====Other beverages=====
+
+* bandung (drink) –  Rose syrup-milk drink, of Indian origins. (Goat's milk was traditionally used.)
+* ice kosong –  Iced water.
+* horlick-dinosaur –  Iced Horlicks with extra scoop of Horlicks powder on top.
+* horlick-sio –  Hot Horlicks.
+* horlick-peng –  Iced Horlicks.
+* milo-sio –  Hot Milo.
+* milo dinosaur –  Iced Milo with extra scoop of undissolved Milo powder on top.
+* milo-peng –  Iced Milo.
+* tak kiu –  Milo; Nestlé Milo often uses soccer and other sports as the theme of its advertisement.
+* tak kiu-peng –  Iced Milo.
+
+The above list is not complete; for example, one can add the "-peng" suffix (meaning "iced") to form other variations such as Teh-C-peng (tea with evaporated milk and ice) which is a popular drink considering Singapore's warm weather.
+
+===English words with different meanings in Singlish===
+* arrow – to delegate an unpleasant or boring task to someone. The term derives from the military and government's practice of stamping a tiny arrow next to the name of the person in official documents.
+* auntie – a middle-aged or elderly women;Wong, Jock (2006) 'Contextualizing aunty in Singaporean English', World Englishes, 25 (3/4), 451-466. a young woman who dresses very unfashionably. From Chinese equivalent .
+* banana – westernised Chinese Singaporean who lives distinctively like a Westerner (lifestyle, religion, dress code, food, activities, English proficiency etc.) and usually cast aside or reject Chinese folk religions and traditions. The point of comparison is that both are "yellow on the outside and white on the inside".
+* blur – clueless; in a daze; unaware of what is going on.Brown, Adam (1999) Singapore English in a Nutshell, Singapore: Federal, p. 33. Also commonly used in the phrase "act blur", which refers to the act of intentionally playing innocent.
+** blur like sotong –  'blur like a squid'. To be extremely clueless. Squids squirt ink as a self-defence mechanism to get away. The ink makes it hard to see, thus "blur": "Wah! You damn blur leh! Liddat also dunno!"
+* can – Used extensively as both a question particle and an answer particle. The negative is "cannot". E.g. "Can or not?" (Can you do that?) —"Can!" (Sure!)
+* confirm – For sure.
+** confirm plus guarantee got chop / confirm plus chop – Extremely sure of something (derives from National Service/Military situations where one needs to be absolutely sure about something; "guarantee got chop" denotes that the action and whatever subsequent paperwork, if any, will be approved). Basically "officially sanctioned."
+* earpiece – earphones, headphones. "Ah boy, don't wear your earpiece while crossing the road!"
+* follow – to come along/accompany or to understand.Brown, Adam (1999) Singapore English in a Nutshell, Singapore: Federal, pp. 85-6 E.g. "Can follow anot?"
+* got – (The past tense is always used.) 1. there is/are... 2. have. E.g. "Now got pandemic, got nothing to do at home one."
+* help (lah) – please, do lend me a hand by desisting from whatever it is you are doing; help me out here. E.g. "Help lah, stop hitting on my sister." (Please, stop flirting with my sister.)
+* ice cream – not up to par or expectation. E.g. "Wah a simple task you also fail, you damn ice-cream sia."
+* jam – can also mean traffic congestion. A shortcut of the word "traffic jam".
+* last time – previously, in the past.Brown, Adam (1999) Singapore English in a Nutshell, Singapore: Federal, p. 128. E.g. "I last time want to go Africa, but now don't know 'ready."Deterding, David (2007) Singapore English, Edinburgh: Edinburgh University Press, p. 80.
+* lightbulb – an unwelcome companion in a couple; a third wheel. Originates from colloquial Cantonese term  ( electric light bulb). E.g., "You two go ahead lah, I don't want to be lightbulb."
+* mug – to study. Derived from British 'mug up'. Common expression amongst all students. Instead of "He's mugging up...", locally used as "He's mugging for..." Confused with the Americanism, meaning assault with intent to rob.
+** smug – to study (SMU students). The term smugging or smugger refers to mugging by SMU students. Derived from SMU and mugger.
+* marketing – going to the market or shops to buy food. E.g. "My dad may help in the marketing side, by going to the market to get some things."Deterding, David (2007) Singapore English, Edinburgh: Edinburgh University Press, p. 81.
+* never – did not yet. "you never tell me".
+* next time – in the future. E.g. "Next time when you get married, you'll know how to cook."
+* one – used as a way to aggressively exaggerate/place emphasis on one's opinion E.g. "You confirm can one lah!" or "I never say one hor." 
+* on, off – to switch on/off. E.g. "I on the TV".
+* on ah – It's settled then?
+* open – to turn on electric appliances. E.g. "I open the light."Brown, Adam (1999) Singapore English in a Nutshell, Singapore: Federal, p. 154. (Derived from Chinese /, which can mean both "to open" and "to turn on".)
+* pass up – to hand in.  E.g. "Pass up your homework." (Although once common, usage is now discouraged in schools.)
+* power – Usually means to praise someone or something.
+* PRC – a Chinese national (abbreviation of "People's Republic of China"). Often used disparagingly. See also cheena.
+* return – to give back. Direct translation from the Chinese phrase. Commonly used in business emails.
+* revert – to reply. Often used in emails and text messages. "Please revert your decision to us" doesn't mean "Please change your decision", but rather "Please get back to us with your decision."
+* send – to take (i.e. drive) somebody somewhere. E.g.: "I send you to the airport lah." "She gets her maid to send the boy in a cab."Deterding, David (2000) 'Potential influences of English on the written English of Singapore'. In Adam Brown (ed.) English in Southeast Asia 99: Proceedings of the 'English in Southeast Asia' conference held at NIE Singapore, Singapore: National Institute of Education, pp. 201-209.
+* solid/steady – capable; excellent. E.g. "Solid sia, that movie." See also kilat.
+* spoil – Broken down.
+* stay – To live (in a place).Brown, Adam (1999) Singapore English in a Nutshell, Singapore: Federal, p. 211. From Malay tinggal. E.g. "My grandmother, my aunt and uncle also stay next door."
+* step – Act like (person). E.g. "Eh, don't step Ah Beng."
+* steady – 1. attached (in relationships). 2. agreeing over something, usually over an appointment. E.g. "Eh u two steady liao ah?", "Today, come 3 o'clock? Steady." 3. cool, capable (to praise integrity or strength) E.g. "Wa you sick also turn up for work ah? Steady!"
+* stone – to space out; to do nothing. - BAKED.
+* stun – To steal. See: Cope. Can be used as part of "Gostan". See gostan.
+* take – to eat; to have a meal.Brown, Adam (1999) Singapore English in a Nutshell, Singapore: Federal, p. 217 E.g. "Have you taken your lunch?" "I don't take pork."
+* uncle – a male who is middle-aged or older, especially not well acquainted; a younger person who behaves/dresses in an uncool/unfashionable manner. Comes from the Chinese languages, which refer the same group of males as .Tongue, R. K. (1979) The English of Singapore and Malaysia, Singapore: Eastern Universities Press, p. 68.
+* until – To such an extent that. A direct translation of the Chinese expression 到. Usually used after an adjective or a verb to express an extraordinary extent. E.g. "bad until like that" (so bad), "Hot until ah." (It's so hot.)
+* world – nonsense; bullshit.
+
+== Expressions ==
+* Don't fly my kite/aeroplane – Originated from the Cantonese slang / (Mandarin equivalent: ,  "release the pigeon"). In the past, letters were sometimes sent by pigeon. When one arranges to meet (via pigeon mail) and fails to turn up, it is said that the person has failed to keep the appointment. Rare expression. 'Do not go back on your word' or 'Do not stand me up'
+* Don't play play! – Uncommon expression, popularised by the local comedy series Phua Chu Kang Pte Ltd. Used only to evoke humour. Means 'Don't fool around' or 'Better take things seriously'.
+* Got problem ah? – an aggressive, instigating challenge. Or an expression of annoyance when someone is disturbed. 'Do you have a problem?'
+* Having here – To eat in at a restaurant. The antonym is "take away" or "tah-bao". Used by eatery or restaurant staff as in, "Having here or take away?" (Are you eating in here or do you want to have it for take-away?)
+* He still small boy one – a remark (Often offensive) made against someone who is not of a legally median age allowed by the law. Or expression used to excuse someone because he is either immature or still too young to know the difference.
+* Issit/Izzit? – Abbreviated form of "is it?" used as a standard tag question. E.g.: You going home now issit? E.g.: You not going home issit? E.g.: Someone comments: "You look good today." Answer: "Issit??"
+* Last time policemen wear shorts! – A retort made against a person who refers to how policies were made in the past, or in response to something which is passe. Direct reference to the three-quarter khaki pants standard in Singapore police uniforms until 1969.
+* Liddat oso can!? – (English - Like that also can?) In response to feats of achievement or actions which are almost impossible, or unexpected. Usually with tinge of awe, sarcasm or scepticism.
+* My England not powderful! – (English - My English is not powerful (good)) Uncommon expression, used only to evoke humour. Means 'My English is not good'.
+* no fish prawn oso can – (From the Hokkien idiom / bo hir hay mah hoh.  "no fish, prawns also ok") accepting a lesser alternative.
+* Not happy, talk outside! – Used as a challenge to a fight to settle an argument, by taking it outside. (Hokkien: Ow buay gong (settle it at the back/alley way))
+* On lah!/On!/Set! – "It's on!" An expression used to voice enthusiastic agreement or confirmation (of an arranged meeting, event etc.)
+* Relak lah! – (Malay-English for Relax) Expression used to ask someone to chill, cool it. 'Relak one corner' means to skive, or to literally go chill out in one corner.
+* ..then you know! – Expression used at the back of a sentence to emphasise consequence of not heeding the advice. 'Tell you not to park double yellow line, kena summon then you know!'
+* Why you so liddat ar? – (English - Why are you so "like that"?) 'an appeal made to someone who is being unreasonable.'
+* You think, he think, who confirm? / You think, I thought, who confirm? – Military expression used during organisational foul-ups. Generally used as a response to "I thought..." or "I think..." when something goes wrong.
+* You want 10 cent? – Means to "buzz off!" Refers to public phones that require 10 cents per call.
+* Your grandfather's place/road ah?, Your father own this place/road? – Used to cut someone down to size in terms of their obnoxious boorish behaviour, behaving as if they owned the place.
+* You play where one? – Used to challenge someone to state their gang affiliations (if any).
+
+==See also==
+*List of Singapore abbreviations
+
+==Notes==
+
+

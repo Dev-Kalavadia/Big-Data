@@ -1,0 +1,51 @@
+Title: Gibson L6-S
+
+
+
+
+The Gibson L6-S is a solid body electric guitar. It was the descendant of the L5S jazz solid-body electric guitar. It was the same shape, very much like a wide Gibson Les Paul, but with a 24-fret two-octave neck, the first Gibson guitar to have this.
+
+==Model history==
+The L6-S was the first cooperation between Bill Lawrence and Gibson. It was designed in 1972 and first released in 1973. The idea was to make a "multi-sound system" under a very tight budget.
+
+The popularity of the L6-S gradually dropped after 1974, despite high-profile endorsements from the likes of Al Di Meola and Carlos Santana. Pat Martino, John McLaughlin, Keith Richards, Tom Johnston, Paul Stanley, Mike Oldfield, Dave Davies, Brad Delp, Rich Williams, Bob Mothersbaugh, Bob Casale, Martha Davis of The Motels, Allison Robertson, Angus Young and Prince also used the model during this period. All models were dropped from price lists in 1979. The L6-S Custom remained in the catalog in 1980 and was still being made in the Nashville plant.
+
+The original L6-S came in three variants; all were maple-bodied with twin super-humbucking pickups.
+
+Late in 2011 The Gibson company re-issued this guitar, with slight alterations:
+
+The bridge is a standard Gibson Tune-o-matic, less heavy than the Schaller-made rectangular bridges from the mid-1970s, often called "harmonica" bridges. The pick-ups are not the original's ceramic sealed Bill Lawrence-designed "super humbuckers", but two humbucking pickups with four-conductor split-coil wiring—a 490R in the neck and a hotter 498T in the bridge. This is similar to what is on offer in some current Les Pauls. Colours on sale in 2012 are "Antique natural" - like the original 1970s all-maple maple neck L6-S - and "Silverburst" with a baked maple fretboard. No ebony fretboard model is on sale. The current L6S neck does not feature the unique "narrow at the nut and wider near the body" taper of the 1970s guitar, but a conventional Gibson shape. The chambered body shape and 24 frets are of similar design to the 1970s classic, except that the newer version is a two-piece maple body, as opposed to a one-piece bodywork on the original.
+
+Josh "Josh 2" Hager of Devo uses a L6-S. It is unknown what type of L6-S it is.
+
+==L6-S Models==
+
+===L6-S Custom 1973–80===
+right|thumb|Rear view of a L6-S Custom
+
+Over 12,000 L6-S Custom instruments were made. Each guitar is made out of a one-piece maple body and a three-piece set neck, with a choice of rosewood, maple or ebony fingerboard. Finishes; Natural Maple, Ebony, Silver Burst, Tobacco Sunburst & Cherry Sunburst. A Double Cutaway Model was also available in Ebony and Maple (used by Malcolm Young in 1975).  Controls include a six position pickup selector, master volume, mid-range and treble roll-off controls.  At the time of its introduction, the L6-S Custom was simply called the L6-S, not gaining the "Custom" badge until later, when the simpler L6-S Deluxe was introduced. The L6-S and L6-S Custom are identical.
+
+right|thumb|Pickup selector of a L6-S Custom.
+
+The L6-S Custom has a six way rotary selector switch, complete with "chicken head" pointer knob. Starting with switch position #1, in the most counter-clockwise position, the available pickup switching options are as follows:
+# Both pickups, in series
+# Neck pickup, alone
+# Both pickups, in parallel
+# Both pickups, parallel out of phase, with the neck pickup's bass response restricted through a series capacitor.
+# Bridge pickup, alone
+# Both pickups, series out of phase.
+The capacitor in the #4 position gives a fuller tone than the otherwise very nasal out of phase tone.  The capacitor serves to limit the low end response of the neck pickup, and also phase delays the signal from that pickup, resulting in a fuller tone, not too unlike the #2 and #4 switch positions on a Fender Stratocaster guitar.
+
+Note that these switching options are for the original 1970s L6-S with sealed ceramic Bill Lawrence Humbuckers and are somewhat different for the 2011- reissue L6S, which use 490R/498T split coil pickup switching and different wiring.
+
+===L6-S Midnight Special 1974–79===
+Some 2,000 L6-S Midnight Special instruments were produced, with maple body, and bolt-on 3 piece maple neck with a maple fingerboard and a maple face on the head-stock, these Colors were available; Natural Maple, Wine Red & Ebony. Controls include a pickup selector, master volume, and tone control, with a Schaller "Harmonica Bridge", it is strung through the body, with the back string furrels burrowed into the middle of the body. The guitar was actually designated as an "L6 Midnight Special" by Gibson note; the absence of the "S". It was never advertised, or listed in the Gibson catalogs or the Gibson price listings. This first model the finish was Cream with Sparkles (on this model only; legend has it only 160 were made in this color). This was the model Paul Stanley of Kiss used from December 1974 to June 1975.
+
+===L6-S Deluxe 1974–79===
+Around 3,500 L6-S Deluxe guitars were produced. The Deluxe had a set maple neck (some were actually Stamped "Deluxe" on the back of the Head-stock), with a rosewood fingerboard. Two "Tar Back" pickups (rating 6.4k Bridge and 5.8k in the neck) with non-standard 3 adjustment screws (one on each side and 1 in front or back) and completely unique pentagon (5 sided) Mounting Rings. Controls include a pickup selector, master volume, and tone control. Strung through the body, with a "String Plate" mounted on back instead of string furrel holes. Finishes; Natural Maple, Ebony, Wine Red & Purple Sparkle. With a re-designed angled cut-away pick-guard.
+Mike Oldfield used this model around 1979 for the recording of Incantations and for the tour. Later, the guitar was modified by English luthier Tony Zemaitis and the black pickguard was changed with a handmade metal pickguard. The headstock was sanded and a metal pickguard was made to cover the logo. He used the guitar to record Platinum and it can be seen at the 1980 Knebworth concert. Prince used a natural maple model in 1978-79. Punkrocker 'Claus Danger' from the Scandinavian garage-rock scene,  has been using an all black 1978 version since 1996 for both concerts and recording sessions around the world. It can be heard from many live recordings around the Danish punkrock scene, especially around the late 90s.
+
+===L6S reissue 2011–2012===
+Now called the L6S rather than L6-S, this is basically a re-issue of the classic L6-S Custom model, not the Deluxe version. The new guitar consists of a three-piece set maple neck and two-piece "butterfly" maple body, unlike the original L6-S, which had a one-piece maple body
+. Additionally, 490T/498R Alnico split-coil humbuckers are now used, a six- position switch, a standard Tune-o-matic bridge and stop tailpiece.  The neck uses Gibson construction: a maple fingerboard over the trussrod and maple neck, rather than an insert in the back of the neck like Fender maple fingerboard/necks.  The 6-position switch in the original L6-S previously provided all possible connections of two pickups. Now, instead, according to the Gibson literature, the series in-phase, series out of phase, and parallel out of phase positions have been deleted in favor of 3 new split-coil positions utilizing "four-conductor split-coil wiring" resulting in these selections:  bridge humbucker, bridge single coil, both single, both humbucking, neck single and neck humbucking.  This provides more pleasant selections, but eliminates the previous more radical special-purpose settings of the original Bill Lawrence design.  Each L6S is now setup on the Plek machine, resulting in consistently good action direct from the factory.
+

@@ -1,0 +1,43 @@
+Title: Minegumo-class destroyer
+
+{|
+
+
+
+|}
+The Minegumo-class destroyer is a destroyer class of the Japanese Maritime Self-Defense Force, the successor of the .
+
+This class derived from its predecessor  to be fitted with the QH-50D DASH, the new anti-submarine drone helicopter in return for the removal of the ASROC system. And similarly, it mainly tasked with Anti-submarine warfare. In 1969, after the production of the QH-50D ceased, this class was no longer built and construction of the Yamagumo-class resumed.
+
+The JMSDF considered refitting Light Airborne Multi-Purpose System Mk.1 with the Kaman SH-2 Seasprite helicopter in return for the facility of DASH, but this plan was abandoned because of the problem of cost. Finally, the facility of DASH was removed in 1979-82, and Mk.16 GMLS for the ASROC system was fitted.
+
+Murakumo was refitted in 1978 for use as a gun trials ship. Rear Mk.33 gun was removed and a new OTO Melara 76 mm gun was added.
+
+==Names==
+{|class=wikitable
+! Pennant no. || Name || Shipbuilder || Laid down || Launched || Commissioned || Training Ship Conversion || Decommissioned 
+|-
+| DD-116TV-3509
+|  
+| Mitsui Shipbuilding, Tamano shipyard || March 14, 1967 || December 16, 1967 || August 31, 1968 || August 1, 1995 || March 18, 1999
+|-
+| DD-117TV-3510
+|  
+| Uraga Heavy Industries || June 26, 1967 || July 25, 1968 || April 25, 1969 || August 1, 1995 || March 18, 1999
+|-
+| DD-118TV-3511 
+| 
+| Maizuru Heavy Industries || October 19, 1968 || November 15, 1969 || August 21, 1970 || March 16, 1998 || June 18, 2000
+|}
+
+== References ==
+*
+*The Maru Special, Ships of the JMSDF No.58 "Escort ship Yamagumo-class and Minegumo-class", Ushio Shobō (Japan), December 1981
+
+ 
+
+
+
+
+Category:Destroyer classes
+ 

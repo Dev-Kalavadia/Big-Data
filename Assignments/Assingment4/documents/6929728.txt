@@ -1,0 +1,252 @@
+Title: List of ships of the Queensland Maritime Defence Force
+
+
+
+
+
+In 1884, following the recommendations of the  Jervois-Scratchley reports, the Queensland Marine Defence Force was established. To equip the new force, the Queensland colonial government purchased two gunboats and a torpedo boat.  Queensland bought eight more vessels to create the second largest fleet in the Australian colonies behind Victoria. With the federation of the Australian colonies, those vessels still in service joined the Commonwealth Naval Forces in 1901 and the Royal Australian Navy when it was formed in 1911. No ship ever met the enemy in battle or fell victim to enemy action despite the fact that most went on too long, albeit in some cases humble, careers in both naval and private hands past World War II.
+
+==Vessels in alphabetical order==
+
+
+==B==
+{| border="1" cellpadding="1" cellspacing="0" style="text-align: center"
+|-
+!Name
+!Type
+!Class
+!Dates
+!Displacement
+!Armament
+!Notes
+!References
+|-
+|Bonito
+|Auxiliary gunboat
+|–
+|1884–unknown
+|450 tons
+|1 x 64 pdr gun
+|–
+|
+|-
+|Bream
+|Auxiliary gunboat
+|–
+|1884–unknown
+|450 tons
+|1 x 5-inch gun
+|Dive wreck Tangalooma
+|
+|-
+|}
+
+==D==
+{| border="1" cellpadding="1" cellspacing="0" style="text-align: center"
+|-
+!Name
+!Type
+!Class
+!Dates
+!Displacement
+!Armament
+!Notes
+!References
+|-
+|Dolphin
+|Auxiliary gunboat
+|–
+|1884–unknown
+|450 tons
+|1 x 5-inch gun
+|Dive wreck Tangalooma
+|
+|-
+|}
+
+==G==
+{| border="1" cellpadding="1" cellspacing="0" style="text-align: center"
+|-
+!Name
+!Type
+!Class
+!Dates
+!Displacement
+!Armament
+!Speed
+!Notes
+!References
+|-
+|Gayundah
+|Gunboat
+|Gayundah class
+|1884–1918
+|360 tons
+|1 x 8-inch gun; 1 x 6-inch gun; 2 x 1.5-inch gun; 2 machine-guns
+|10.5 knots
+|Breakwater Woody Point
+|
+|-
+|}
+
+==M==
+{| border="1" cellpadding="1" cellspacing="0" style="text-align: center"
+|-
+!Name
+!Type
+!Class
+!Dates
+!Displacement
+!Armament
+!Speed
+!Notes
+!References
+|-
+|Midge
+|Torpedo launch
+|–
+|1887–1912
+|–
+|1 x 3-pdr gun; 2 x machine-guns; two x 14-inch torpedo dropping gear
+|–
+|–
+|
+|-
+|Miner
+|Mining tender
+|–
+|1887–1901
+|65 tons
+|–
+|8 knots
+|Breakwater Bishop Island
+|
+|-
+|Mosquito
+|Torpedo boat
+|–
+|1884–1910
+|–
+|–
+|–
+|First warship in Queensland service; served in the RAN between 1901 and 1910.
+|
+|-
+|}
+
+==O==
+{| border="1" cellpadding="1" cellspacing="0" style="text-align: center"
+|-
+!Name
+!Type
+!Class
+!Dates
+!Displacement
+!Armament
+!Speed
+!Notes
+!References
+|-
+|Otter
+|Patrol vessel
+|–
+|1887–1906
+|220 tons
+|1 x 5-inch gun (replaced later with 1 x 64-pdr gun)
+|–
+|Requisitioned by RAN in World War I and World War II.
+|
+|-
+|}
+
+==P==
+{| border="1" cellpadding="1" cellspacing="0" style="text-align: center"
+|-
+!Name
+!Type
+!Class
+!Dates
+!Displacement
+!Armament
+!Speed
+!Notes
+!References
+|-
+|Paluma
+|Gunboat
+|Gayundah class
+|1884–1916
+|360 tons
+|1 x 8-inch gun; 1 x 6-inch gun; 2 x 1.5-inch gun; 2 x machine-guns
+|10.5 knots
+|–
+|
+|-
+|Pumba
+|Auxiliary gunboat
+|–
+|1884–1901
+|450 tons
+|1 x 5-inch guns
+|–
+|Rebuilt in 1958 and renamed Enterprise, served as a civilian cargo vessel into the 1970s.
+|
+|-
+|}
+
+==S==
+{| border="1" cellpadding="1" cellspacing="0" style="text-align: center"
+|-
+!Name
+!Type
+!Class
+!Dates
+!Displacement
+!Armament
+!Speed
+!Notes
+!References
+|-
+|Stingaree
+|Auxiliary gunboat
+|–
+|1984–1895
+|450 tons
+|1 x 5-inch gun
+|–
+|Dive wreck Tangalooma
+|
+|-
+|}
+
+==Vessels in chronological order by class==
+
+===Torpedo boat===
+* Mosquito
+
+===Gayundah-class gunboats===
+* Gayundah
+* Paluma
+
+===Patrol vessel===
+* Otter
+
+===Auxiliary gunboats===
+* Bonito
+* Bream
+* Dolphin
+* Pumba
+* Stingaree
+
+===Torpedo launch===
+* Midge
+
+===Mining tender===
+*Miner
+
+==See also==
+* List of Royal Australian Navy ships
+
+==Notes==
+
+

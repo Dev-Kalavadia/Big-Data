@@ -1,0 +1,12 @@
+Title: HaploviewHaploview is a commonly used bioinformatics software which is designed to analyze and visualize patterns of linkage disequilibrium (LD) in genetic data. Haploview can also perform association studies, choosing tagSNPs and estimating haplotype frequencies. Haploview is developed and maintained by Dr. Mark Daly's lab at the MIT/Harvard Broad Institute.
+
+Haploview currently supports the following functionalities:
+
+* LD & haplotype block analysis 
+* Haplotype population frequency estimation 
+* Single SNP and haplotype association tests 
+* Permutation testing for association significance
+* Implementation of Paul de Bakker's Tagger tag SNP selection algorithm
+* Automatic download of phased genotype data from HapMap
+* Visualization and plotting of PLINK whole genome association results including advanced filtering options
+

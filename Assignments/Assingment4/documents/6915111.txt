@@ -1,0 +1,179 @@
+Title: Mikko Haapakoski
+
+
+Mikko Haapakoski (born January 19, 1967 in Oulu, Finland) is a retired professional ice hockey defender. Haapakoski won bronze in 1986 and silver in 1987 in the Finnish national league, and was signed by the Detroit Red Wings in 1987.  However, they never played him in North America.
+
+==Career statistics==
+{| border="0" cellpadding="1" cellspacing="0" style="text-align:center; width:60em"
+|- bgcolor="#e0e0e0" 
+! colspan="3" bgcolor="#ffffff" | 
+! rowspan="99" bgcolor="#ffffff" | 
+! colspan="5" | Regular season 
+! rowspan="99" bgcolor="#ffffff" | 
+! colspan="5" | Playoffs 
+|- bgcolor="#e0e0e0" 
+! Season 
+! Team 
+! League 
+! GP 
+! G 
+! A 
+! Pts 
+! PIM 
+! GP
+! G 
+! A 
+! Pts 
+! PIM 
+|- 
+| 1983–84
+| Kärpät U20
+| Jr. A SM-sarja
+| 1 || 0 || 0 || 0 || 0
+| — || — || — || — || —
+|-  bgcolor="#f0f0f0"
+| 1984–85
+| Kärpät U20
+| Jr. A SM-sarja
+| 26 || 9 || 12 || 21 || 10
+| — || — || — || — || —
+|-
+| 1985–86
+| Kärpät U20
+| Jr. A SM-sarja
+| 2 || 0 || 0 || 0 || 0
+| — || — || — || — || —
+|- bgcolor="#f0f0f0"
+| 1985–86
+| Kärpät
+| Liiga
+| 17 || 0 || 4 || 4 || 0
+| 5 || 1 || 0 || 1 || 6
+|-
+| 1986–87
+| Kärpät
+| Liiga
+| 41 || 13 || 15 || 28 || 18
+| 9 || 1 || 1 || 2 || 4
+|- bgcolor="#f0f0f0"
+| 1987–88
+| Kärpät
+| Liiga
+| 43 || 7 || 7 || 14 || 40
+| — || — || — || — || —
+|- 
+| 1988–89
+| Kärpät
+| Liiga
+| 40 || 7 || 18 || 25 || 20
+| — || — || — || — || —
+|- bgcolor="#f0f0f0"
+| 1989–90
+| HC TPS
+| Liiga
+| 44 || 4 || 10 || 14 || 14
+| 9 || 0 || 1 || 1 || 16
+|- 
+| 1990–91
+| HC TPS
+| Liiga
+| 40 || 9 || 12 || 21 || 10
+| 9 || 1 || 4 || 5 || 4
+|- bgcolor="#f0f0f0"
+| 1991–92
+| HC TPS
+| Liiga
+| 43 || 11 || 13 || 24 || 18
+| 1 || 0 || 0 || 0 || 0
+|- 
+| 1992–93
+| HC TPS
+| Liiga
+| 38 || 3 || 10 || 13 || 20
+| 12 || 2 || 5 || 7 || 12
+|-  bgcolor="#f0f0f0"
+| 1993–94
+| SC Bern
+| NLA
+| 35 || 14 || 19 || 33 || 30
+| 5 || 0 || 9 || 9 || 10
+|- 
+| 1994–95
+| SC Bern
+| NLA
+| 17 || 2 || 12 || 14 || 28
+| — || — || — || — || —
+|-  bgcolor="#f0f0f0"
+| 1994–95
+| Wiener EV
+| Austria
+| 4 || 1 || 1 || 2 || 4
+| — || — || — || — || —
+|- 
+| 1995–96
+| SC Bern
+| NLA
+| 31 || 6 || 15 || 21 || 14
+| — || — || — || — || —
+|-   bgcolor="#f0f0f0"
+| 1996–97
+| Ilves
+| Liiga
+| 33 || 7 || 14 || 21 || 18
+| 8 || 3 || 4 || 7 || 4
+|- 
+| 1997–98
+| Ilves
+| Liiga
+| 39 || 10 || 21 || 31 || 44
+| 9 || 0 || 4 || 4 || 8
+|-   bgcolor="#f0f0f0"
+| 1998–99
+| Ilves
+| Liiga
+| 26 || 6 || 8 || 14 || 38
+| 4 || 1 || 2 || 3 || 4
+|- 
+| 1999–00
+| Kärpät
+| I-Divisioona
+| 37 || 8 || 21 || 29 || 83
+| — || — || — || — || —
+|-   bgcolor="#f0f0f0"
+| 2000–01
+| Kärpät
+| Liiga
+| 40 || 2 || 14 || 16 || 34
+| 6 || 0 || 1 || 1 || 2
+|- 
+|- ALIGN="center" bgcolor="#e0e0e0"
+! colspan="3" | Liiga totals
+! ALIGN="center" | 444
+! ALIGN="center" | 79
+! ALIGN="center" | 146
+! ALIGN="center" | 225
+! ALIGN="center" | 274
+! ALIGN="center" | 77
+! ALIGN="center" | 10
+! ALIGN="center" | 23
+! ALIGN="center" | 33
+! ALIGN="center" | 62
+|}
+
+==External links==
+*
+
+
+Category:1967 births
+Category:Living people
+Category:Detroit Red Wings draft picks
+Category:Finnish ice hockey defencemen
+Category:HC TPS players
+Category:Ilves players
+Category:Oulun Kärpät players
+Category:SC Bern players
+Category:Wiener EV players
+Category:Sportspeople from Oulu
+Category:20th-century Finnish people
+
+

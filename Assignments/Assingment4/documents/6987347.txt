@@ -1,0 +1,54 @@
+Title: Breed (video game)
+
+
+Breed is a squad based, science-fiction video game developed by Brat Designs and published by cdv Software Entertainment. The game was released in the U.S. and Europe in March and April 2004.
+
+== Plot ==
+
+In the year 2600 much of the Earth's population have left their home world and formed colonies on the worlds of the Besalius binary star system. All seemed peaceful in these fledgling colonies but as the last shuttle arrived in 2602 they were attacked by a terrifying alien race that would be nicknamed "The Breed". These attacks seemed to be random with little or no thought or logic, but they were devastating nevertheless. Under such an assault the colonies had no choice but to send out a distress call to Earth.
+
+In 2603 Earth's collective military, known as the United Space Corps, mobilized a formidable fleet of attack cruisers in answer to the growing Breed threat, putting their very best and brightest at the helm. These ships now made a year-long trip to the Besalius System – hoping that they would not arrive too late.
+
+Every cruiser was equipped with the latest technology and weapons, as well as being fully stocked with a complement of ground assault vehicles and fighter craft. Within their vast hulls, each cruiser also housed an array of genetic gestation pods, capable of growing a constant supply of ground forces – known as grunts (Genetically Revived Universal Tactical Sentient). Fiercely loyal, bred for combat and totally expendable, the Grunts were the hardened backbone of the USC military.
+
+After their year-long journey the fleet arrived at Besalius in 2604 and swiftly engaged the Breed presence across the system. The battle was long and hard, as the Breed did not give up the system without a fight; their lack of intelligence was more than compensated by their ferocious nature in battle. This conflict with the Breed would come to be known as the Colony War.
+
+The humans resources were drastically drained during this rigorous fight and the USC forces are stretched to breaking point. In 2624 the USC forces claimed victory in Besalius, but it was not without cost – the colonies had been devastated and the fleet badly damaged to a point that only the USC Darwin was capable of making the journey back to Earth. Captained by Saul Richter (A legend now with over two hundred victories against the Breed under his belt) war weary and battle scarred, the ship and remaining crew began their return journey.
+
+In 2625 that the victorious veterans of Besalius finally returned home expecting a heroes' welcome. Instead, the crew of the Darwin found their world on fire, that in their 20-year absence, the Breed had conquered Earth. The Colony War on Besalius was nothing more than a diversionary tactic – a plan to pull the bulk of Earth's defense forces away, leaving it ripe for invasion. The human population had been enslaved or devastated, the survivors had been enslaved by the Breed in forced labor camps.
+
+But humankind was not quite ready to go into the darkness just yet. The USC Darwin quickly moved into orbit around the Earth and remained there under the cover of a cloaking device. Captain Richter began to order "surgical strikes" upon key enemy targets. The Breed were still recovering from their war on Earth and had not yet regrouped their infrastructure. As such, they could not organize a solid defense against such subterfuge. Eventually the crew of the Darwin managed to link up with the human resistance under the command of one Carla Alvarez, their charismatic leader. Between the hidden USC Darwin and Carla's fighters the desperate soldiers only hoped that they could turn the tide, and one day win back Earth for the human race.
+
+== Gameplay ==
+
+Breed is a squad-based first-person shooter. The gameplay could be compared to Halo but is closer to the Rainbow Six game series, or Star Wars Republic Commando.
+
+Squads can be commanded into various formations or ordered to regroup, ceasefire and various other commands. Squad members can share ammunition and heal one another. They can also fix vehicles or be left on top of a mountain (for example) to provide cover for other members. Breed's squad-based gameplay is along the lines of Battlefield 2: Modern Combat, allowing players to choose which squad member to play as and switch between squad members in the middle of combat. In this respect, players can choose to tackle many of the missions in several different ways.
+
+The player shoots his way through numerous enemies and completes mission objectives given to them by the commander. Levels consist of wide-open areas, obstacles such as roads, bridges and cliffs as well as extended flight sequences using the vehicles. Although mission waypoints are marked it's often up to the player to realize strategies that don't include an obvious line of sight approach.
+
+The player's view is usually from that of a first-person perspective, but can also be switched to a third person view. There is a heads-up display which shows the player's ammunition count, armor, and equipped weapon, as well as a compass and squad commands. The player can carry two weapons at a time and there is a wide selection of weapons at one's disposal, everything from energy weapons like plasma cannons to your standard assault rifle and a few exotic alien weapons. There are also a range of vehicles such as an APC, jeep, and a space fighter which can be used at certain points in the game. Players can freely move around in some vehicles when they are in motion or load other vehicles into them. Friendly gun emplacements can be used, such as the guns on the drop ship. Enemy gun emplacements can also be captured and used to your advantage. The single player AI can be left to control emplacements to give you covering fire. In a few instances players can pilot an aircraft from outer space, head through the Earth's atmosphere, then continue their journey down to the planet's surface. Breed's 'gameplay kernel' allows various aspects of a mission to be played out simultaneously in space or on the planet itself.
+
+Online play includes several maps to choose from. There are Team, Melee and standard Deathmatch modes. Many maps include vehicles. In all, 16 players can play on any given map, but there is no bot AI included.
+
+==Characters==
+
+Breed's characters are mostly anonymous but are introduced at the beginning of the first mission as "Sniper", "Grunt", and "Heavy Gunner".
+
+Sergeant Westwood gives you orders, but it's never revealed from who they come exactly (may be assumed to be Captain Richter). At one point, in the cycling demo at the beginning of the game, Sergeant Gunny Westwood is heard to remark "War...what is it good for..?" and his dialogue includes other humorous references revealing the satirical slant to elements of the game. Although these elements are not included in the gameplay itself, which is more serious. Other characters who appear are a soldier in a wheel chair (Captain Soul Richter) who the Sergeant gives a satirical speech to in the title sequence, and characters like resistance fighters.
+
+The player can control three different squad members, the grunt, sniper, and a heavy gunner, although this changes in later missions to include a missile specialist. Each squad member is equipped with different weapons and can be controlled at any given time throughout a mission. The grunt, the character with whom the player begins the game, is usually armed with a standard assault rifle and shotgun but can also pick up other weapons. The sniper carries a sniper rifle and assault rifle, though this is sometimes replaced by a silenced sub-machinegun. The heavy gunner is armed with a large four-barreled minigun for suppressive fire. One can also be an engineer or a medic.
+
+==Controversy==
+
+There is more than one version of the game. The re-release by XPlosiv does not seem to suffer from the same problems that the original version suffered from.
+
+Although information seems to be scant, a dispute seems to have erupted between the developers, Brat Designs, and the original distributors, CDV. The developers claimed that an inferior version of the game was released by CDV. CDV claim they were supplied with a faulty release and had to bring in extra coders.
+
+==Reception==
+
+
+Breed received mixed reviews according to the review aggregation website Metacritic.
+
+
+

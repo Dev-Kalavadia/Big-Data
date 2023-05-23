@@ -1,0 +1,54 @@
+Title: KTLD-CD
+
+KTLD-CD, virtual channel 8 (UHF digital channel 15), is a low-powered, Class A 3ABN-affiliated television station licensed to Bakersfield, California, United States. Founded November 18, 1994 by Three Angels Broadcasting Network, it was sold to HC2 Holdings in 2017.
+
+==History==
+A construction permit was granted on September 28, 1998. The station has used the call signs of K08MM and K09WI, and then moved to K08MM-D in 2015. On January 24, 2020, it changed its call sign to KTLD-CD.
+
+==Digital channels==
+The station's digital signal is multiplexed:
+{| class="wikitable"
+|-
+! Channel
+! Video
+! Aspect
+! Short name
+! Programming
+|-
+| 8.1
+| 480i
+| 4:3
+| K08MM-D
+| 3ABN
+|-
+| 8.2
+| rowspan=3 colspan=2|Audio only
+| 3ABN-RM
+| 3ABN Radio Music
+|-
+| 8.3
+| 3ABN-RD
+| 3ABN Radio
+|-
+| 8.4
+| 3ABN-RL
+| 3ABN Radio Latino
+|-
+| 8.5
+| 480i
+| 4:3
+|
+| Novelisima
+|-
+| 8.5
+| 480i
+| 4:3
+|
+|Informercials
+|-
+|8.6
+| colspan=2|Audio only
+|Radio74
+|Radio74
+|}
+

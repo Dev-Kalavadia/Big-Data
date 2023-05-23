@@ -1,0 +1,21 @@
+Title: Biostratinomy
+thumb|300px |Conceptual relationships of biostratinomic processes (yellow) with paleoecology and necrology (green) and fossildiagenesis (orange).Fernández López, S.R. (2000). [http://www.ucm.es/centros/cont/descargas/documento11157.pdf Temas de Tafonomía]. Department of Paleontology, Complutense University of Madrid. 167 pages. (in Spanish)
+Biostratinomy is the study of the processes that take place after an organism dies but before its final burial. It is considered to be a subsection of the science of taphonomy, along with necrology (the study of the death of an organism) and diagenesis (the changes that take place after final burial). These processes are largely destructive, and include physical, chemical and biological effects:
+* Physical effects non-exhaustively include transport, breakage and exhumation.
+* Chemical effects include early changes in mineralogy and oxidation.
+* Biological effects include decay, scavenging, bioturbation, encrustation and boring.
+
+For the vast majority of organisms, biostratinomic destruction is total. However, if at least a few remnants of an organism make it to final burial, a fossil may eventually be formed unless destruction is completed by diagenesis. As the processes of biostratinomy are often dominated by sedimentological factors, analysis of the biostratinomy of a fossil can reveal important features about the physical environment it once lived in. The boundaries between the three disciplines within taphonomy are partly arbitrary. In particular, the role of microbes in sealing and preserving organisms, for example in a process called autolithification, is now recognised to be a very important and early event in the preservation of many exceptional fossils, often taking place before burial.  Such mineralogical changes might equally be considered to be biostratinomic as diagenetic.
+
+A school of investigation called aktuopaläontologie, subsisting largely in Germany, attempts to investigate biostratinomic effects by experimentation and observation on extant organisms. William Schäfer's book "Ecology and palaeoecology of marine environments" is a classic product of this sort of investigation.  More recently, D.E.G. Briggs and colleagues have made detailed studies of decay with the prime aim of understanding the profound halt to these processes that is required by exceptional preservation in lagerstätten.
+
+== References ==
+
+
+==Further reading==
+* Schäfer, W.; C.Y. Craig, Ed. (1972). Ecology and palaeoecology of marine environments. The University of Chicago Press, 568 pp. , 
+
+
+
+ 
+Category:Medical aspects of death

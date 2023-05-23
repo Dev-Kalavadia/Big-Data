@@ -1,0 +1,59 @@
+Title: Gryfice County
+__NOTOC__
+thumb|The building of the municipality and district
+Gryfice County () is a unit of territorial administration and local government (powiat) in West Pomeranian Voivodeship, north-western Poland, on the Baltic coast. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and largest town is Gryfice, which lies  north-east of the regional capital Szczecin. The county also contains the towns of Trzebiatów, lying  north of Gryfice, and Płoty,  south of Gryfice.
+
+The county covers an area of . As of 2006 its total population is 60,773, out of which the population of Gryfice is 16,702, that of Trzebiatów is 10,113, that of Płoty is 4,142, and the rural population is 29,816.
+
+==Neighbouring counties==
+Gryfice County is bordered by Kołobrzeg County to the east, Łobez County to the south-east, Goleniów County to the south-west and Kamień County to the west. It also borders the Baltic Sea to the north.
+
+==Administrative division==
+The county is subdivided into six gminas (three urban-rural and three rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km²)
+| style="text-align:center;"|Population(2006)
+| style="text-align:center;"|Seat
+|-
+|Gmina Gryfice
+|urban-rural
+| style="text-align:right;"|261.6
+| style="text-align:right;"|23,487
+|Gryfice
+|-
+|Gmina Trzebiatów
+|urban-rural
+| style="text-align:right;"|225.4
+| style="text-align:right;"|16,803
+|Trzebiatów
+|-
+|Gmina Płoty
+|urban-rural
+| style="text-align:right;"|238.8
+| style="text-align:right;"|9,212
+|Płoty
+|-
+|Gmina Karnice
+|rural
+| style="text-align:right;"|133.1
+| style="text-align:right;"|4,172
+|Karnice
+|-
+|Gmina Brojce
+|rural
+| style="text-align:right;"|118.1
+| style="text-align:right;"|3,658
+|Brojce
+|-
+|Gmina Rewal
+|rural
+| style="text-align:right;"|41.1
+| style="text-align:right;"|3,441
+|Rewal
+|-
+|}
+

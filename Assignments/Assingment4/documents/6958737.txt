@@ -1,0 +1,80 @@
+Title: List of dams and reservoirs in the Czech Republic
+
+thumb|Map of the biggest reservoirs of the Czech Republic
+This is a list of reservoirs in the Czech Republic, larger than 2 square kilometres.
+
+{| border="1" cellpadding="2" cellspacing="0" style="border-collapse:collapse;" class="sortable"
+|- valign=top align=right
+! bgcolor="#99CCFF" width="22%" align=left | Dam
+! bgcolor="#99CCFF" width="44%" align=left | District
+! bgcolor="#99CCFF" width="11%" | Area(km²)
+! bgcolor="#99CCFF" width="11%" | Depth(m)
+! bgcolor="#99CCFF" width="11%" | River
+|- 
+| Lipno || Český Krumlov, Prachatice || 48.7 || 22 || Vltava
+|- 
+| Orlík || Písek, Příbram || 27.32 || 74 || Vltava
+|- 
+| Švihov || Kutná Hora, Benešov, Havlíčkův Brod, Pelhřimov || 16.7 || 55.7 || Želivka
+|- 
+| Nové Mlýny III || Břeclav || 16.68 || 7.8 || Thaya
+|- 
+| Slapy || Prague-West, Benešov, Příbram || 13.92 || 58 || Vltava
+|- 
+| Nechranice || Chomutov || 13.38 || 46 || Ohře
+|- 
+| Nové Mlýny II || Břeclav || 10.31 || 5.3 || Thaya
+|- 
+| Rozkoš || Náchod || 10.01 || 17 || Rozkoš
+|- 
+| Slezská Harta || Bruntál || 8.72 || 61 || Moravice
+|- 
+| Vranov || Znojmo || 7.65 || 58 || Thaya
+|- 
+| Jesenice || Cheb || 7.46 || 18 || Odrava
+|- 
+| Nové Mlýny I || Břeclav || 5.28 || 4.3 || Thaya
+|- 
+| Dalešice || Třebíč || 4.8 || 85.5 || Jihlava
+|- 
+| Hracholusky|| Tachov, Plzeň-North || 4.7 || 31 || Mže
+|- 
+| Skalka|| Cheb || 3.85 || 14 || Ohře
+|- 
+| Přísečnice || Chomutov || 3.64 || 47 || Přísečnice
+|- 
+| Šance || Frýdek-Místek || 3.36 || 62.5 || Ostravice
+|- 
+| Hněvkovice || České Budějovice || 3.21 || 17 || Vltava
+|- 
+| Střekov || Ústí nad Labem || 3.1 || 13 || Elbe
+|- 
+| Kružberk || Opava || 2.87 || 32 || Moravice
+|- 
+| Těrlicko || Karviná || 2.68 || 23 || Stonávka
+|- 
+| Brno || Brno-City || 2.59 || 19 || Svratka
+|- 
+| Vrané || Prague-West || 2.51 || 10 || Vltava
+|- 
+| Žermanice || Frýdek-Místek || 2.48 || 28 || Lučina
+|- 
+| Vír I || Žďár nad Sázavou || 2.24 || 65.6 || Svratka
+|- 
+| Seč I || Havlíčkův Brod, Chrudim || 2.2 || 34 || Chrudimka
+|- 
+| Římov || České Budějovice, Český Krumov || 2.11 || 43 || Malše
+|}
+
+==See also==
+
+*List of lakes in the Czech Republic
+*List of ponds in the Czech Republic
+
+
+
+
+Czech Republic
+*
+Dams
+*

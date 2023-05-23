@@ -1,0 +1,22 @@
+Title: Nickelodeon Party Blast
+
+Nickelodeon Party Blast is a party game developed by English developer Data Design Interactive and published by Infogrames Interactive. Party Blast was released for Xbox in North America on October 30, 2002, and later in PAL regions on December 6, 2002. The Windows version was released in one day later after the release of the Xbox version in North America. The GameCube version was released worldwide on December 6, 2002. A PlayStation 2 version of the game was planned to be released, but it was cancelled for unknown reasons, though leftovers, such as a model of a DualShock 2 controller, can still be found in all versions of the game’s files. The game features characters from Nicktoons, including SpongeBob SquarePants, Rugrats, The Adventures of Jimmy Neutron: Boy Genius, Invader Zim, Rocket Power, and The Wild Thornberrys, with CatDog as the hosts.
+
+==Gameplay==
+thumb|left|The "Food Fight" mini-game in Nickelodeon Party Blast.
+Players play as 8 different characters and play more than 20 stages and six different party modes. Player 1 can choose Blast, Replay, and Cup challenge (Players 2, 3, and 4 have a mode called "Party Play"). Each stage has different events although the last stage is almost opposite from the original stage when the player first starts. Every party game has each different Boss depending on 5 different events (or party modes) on which level. In Food Fight, players throw food at each other to lose lives or points and neither person can be taken away. Squirt and Splash has players squirting each other and have the person with the highest score to survival wins. In Basketball, players have to make the most baskets in the game and perform tricks to earn more points.
+Food Fight is a mode where players attempt to deplete their rival's health bars by throwing various food items.
+The Pipe Challenge is the 2nd party mode where players put pipes together to create a pipeline to blast rockets, Rugrats dinosaurs, and more. The Racing mode is the 5th party event where players race each other and see who has the most coins and mess up with items and more. Clam bonus stages are bonus stages where each different stage lets players play 4 different games to win or lose. At the end, there is also a Gooze Squirter stage where you squirt goo to Nicktoon characters and the person who goozes the most is the winner of the game and then goes back to the main menu.
+
+==Development==
+Nickelodeon Party Blast was first shown at the Electronic Entertainment Expo in 2002. During the showing, Data Design promised unlockable bonus levels, power-ups, and boss battles.
+
+==Reception==
+{| class="wikitable" align="right" style="margin: 5px 5px 5px 5px; text-align: center; font-size: 95%;"
+! System || Metacritic || IGN
+|-
+! Xbox
+|19/100||1.1/10
+|}
+The game received largely negative reviews, with most criticizing the game's controls and sound effects. Metacritic gave the Xbox version a 19 out of 100, indicating "overwhelming dislike," while IGN gave the Xbox version a 1.1 out of 10, writing, "With so many great franchises, this could've been a decent party game. Instead, what we're left with is a poor-looking, poor-sounding, and poor-playing game."
+

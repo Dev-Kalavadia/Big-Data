@@ -1,0 +1,16 @@
+Title: Document modelling
+
+Document modelling looks at the inherent structure in documents. Rather than the structure in formatting which is the classic realm of word-processing tools, it is concerned with the structure in content. Because document content is typically viewed as the ad hoc result of a creative process, the art of document modelling is still in its infancy. Most document modelling comes in the form of document templates evidenced most often as word-processing documents, fillable PDF forms, and XML templates. The particular strength of XML in this context is its ability to model document components in a tree-like structure, and its separation of content and style.
+
+Document modelling goes beyond mere form-filling and mail-merge to look at the structure of information in, for example, a legal document, a contract, an inspection report, or some form of analysis.
+
+Document modelling therefore looks at the structures and patterns of the written work, and breaks it down into different options or branches. It then labels the branches and the results.  Without effective document modelling, it is difficult to get full value from a document automation initiative, for example, using document assembly software. But by using a model that contains hundreds and thousands of branches, a user can create close to infinite structured variations almost to the point that such systems can rival the unstructured drafting of a specialist. In fact, the results of a sophisticated document model can surpass those of the specialist in terms of lack of error and consistency of prose.
+
+==See also==
+* DTD
+* Document processing
+* Template processor
+* XML schema
+
+
+Category:Technical communication

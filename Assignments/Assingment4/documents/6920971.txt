@@ -1,0 +1,359 @@
+Title: Qatar motorcycle Grand Prix
+
+thumb|right|300px|Riders of the 2010 Grand Prix at Losail.
+The Qatar motorcycle Grand Prix () is a motorcycling event that is part of the FIM Grand Prix motorcycle racing season.
+
+The Losail race track in Qatar represents the debut race of each MotoGP season. In 2008, the track held the first night event in MotoGP history. The 2008 night event, aside from drawing boosted viewing which also coincided with the race being moved to the opening spot on the calendar, was initiated with the intent of increasing equipment performance: the day-time heat in Qatar has been hazardous to the conditions of tires and expensive, customized parts on the multimillion-dollar motorcycles. Rider safety notwithstanding, the extreme heat could be a critical variable contributing to defeat. Qatar's Grand Prix is the only event in the entire MotoGP calendar to be held at night.
+
+The 2020 MotoGP race was scheduled to open the season before being cancelled due to the outbreak of Coronavirus. The Moto2 and Moto3 classes proceeded as planned.
+
+The event is due to take place at the Losail International Circuit until at least 2031.
+
+==Official names and sponsors==
+*2004–2005: Marlboro Grand Prix of Qatar
+*2006–2016: Commercial Bank Grand Prix of Qatar
+*2017–2018, 2022: Grand Prix of Qatar (no official sponsor)
+*2019: VisitQatar Grand Prix
+*2020: QNB Grand Prix of Qatar
+*2021: Barwa Grand Prix of Qatar
+*2023–present: Qatar Airways Grand Prix of Qatar
+
+== Criticism ==
+The race has been argued to be an example of sportswashing.
+
+==Winners==
+
+===Multiple winners (riders)===
+
+{| class="wikitable" style="font-size: 95%;"
+|-
+!rowspan=2| # Wins
+!rowspan=2| Rider
+!colspan=2| Wins
+|-
+! Category
+! Years won
+|-
+!rowspan=3| 6
+|rowspan=3|  Jorge Lorenzo
+| MotoGP
+| 2012, 2013, 2016
+|-
+| 250 cc
+| 2006, 2007
+|-
+| 125 cc
+| 2004
+|-
+!rowspan=2| 5
+|rowspan=2|  Casey Stoner
+| MotoGP
+| 2007, 2008, 2009, 2011
+|-
+| 250 cc
+| 2005
+|-
+! 4
+|  Valentino Rossi
+| MotoGP
+| 2005, 2006, 2010, 2015
+|-
+!rowspan=2| 3
+|rowspan=2|  Maverick Viñales
+| MotoGP
+| 2017, 2021
+|-
+| Moto3
+| 2012
+|-
+!rowspan=6| 2
+|  Nicolás Terol
+| 125 cc
+| 2010, 2011
+|-
+|rowspan=2|  Marc Márquez
+| MotoGP
+| 2014
+|-
+| Moto2
+| 2012
+|-
+|  Andrea Dovizioso
+| MotoGP
+| 2018, 2019
+|}
+
+===Multiple winners (manufacturers)===
+
+{| class="wikitable" style="font-size: 95%;"
+|-
+!rowspan=2| # Wins
+!rowspan=2| Manufacturer
+!colspan=2| Wins
+|-
+! Category
+! Years won
+|-
+!rowspan=2| 12
+|rowspan=2|  Aprilia
+| 250 cc
+| 2004, 2005, 2006, 2007, 2008, 2009
+|-
+| 125 cc
+| 2006, 2007, 2008, 2009, 2010, 2011
+|-
+! 11
+|  Kalex
+| Moto2
+| 2011, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022
+|-
+! rowspan=3|9
+|  Yamaha
+| MotoGP
+| 2005, 2006, 2010, 2012, 2013, 2015, 2016, 2017, 2021
+|-
+|rowspan=2|  Honda
+| MotoGP
+| 2004, 2011, 2014
+|-
+| Moto3
+| 2015, 2016, 2017, 2018, 2019, 2022
+|-
+!6
+| Ducati
+| MotoGP
+| 2007, 2008, 2009, 2018, 2019, 2022
+|-
+!rowspan=2|5
+|rowspan=2|  KTM
+| Moto3
+| 2013, 2014, 2020, 2021
+|-
+| 125cc
+| 2005
+|-
+! 2
+|  Suter
+| Moto2
+| 2010, 2012
+|}
+
+===By year===
+{|class="wikitable" style="font-size: 95%;"
+|-
+!rowspan=2| Year
+!rowspan=2| Track 
+!colspan=2| Moto3
+!colspan=2| Moto2
+!colspan=2| MotoGP
+!rowspan=2| Report
+|-
+!Rider
+!Manufacturer
+!Rider
+!Manufacturer
+!Rider
+!Manufacturer
+|-
+! 
+| rowspan="11" | Losail
+|  Andrea Migno
+| Honda
+|  Celestino Vietti
+| Kalex
+|  Enea Bastianini
+| Ducati
+| Report
+|-
+! 
+|  Jaume Masià
+| KTM
+|  Sam Lowes
+| Kalex
+|  Maverick Viñales
+| Yamaha
+| Report
+|-
+! 
+|  Albert Arenas
+| KTM
+|  Tetsuta Nagashima
+| Kalex
+|align=center colspan=2| Cancelled due to COVID-19 concerns
+| Report
+|-
+! 
+|  Kaito Toba
+| Honda
+|  Lorenzo Baldassarri
+| Kalex
+|  Andrea Dovizioso
+| Ducati
+| Report
+|-
+! 
+|  Jorge Martín
+| Honda
+|  Francesco Bagnaia
+| Kalex
+|  Andrea Dovizioso
+| Ducati
+| Report
+|-
+! 
+|  Joan Mir
+| Honda
+|  Franco Morbidelli
+| Kalex
+|  Maverick Viñales 
+| Yamaha
+| Report
+|-
+! 
+|  Niccolò Antonelli
+| Honda
+|  Thomas Lüthi
+| Kalex
+|  Jorge Lorenzo 
+| Yamaha
+| Report
+|-
+! 
+|  Alexis Masbou
+| Honda
+|  Jonas Folger
+| Kalex
+|  Valentino Rossi 
+| Yamaha
+| Report
+|-
+! 
+|  Jack Miller
+| KTM
+|  Tito Rabat
+| Kalex
+|  Marc Márquez 
+| Honda
+| Report
+|-
+! 2013
+|  Luis Salom
+| KTM
+|  Pol Espargaró
+| Kalex
+|  Jorge Lorenzo 
+| Yamaha
+| Report
+|-
+! 2012
+|  Maverick Viñales
+| FTR Honda
+|  Marc Márquez
+| Suter
+|  Jorge Lorenzo 
+| Yamaha
+| Report
+|-
+!rowspan=2| Year
+!rowspan=2| Track 
+!colspan=2| 125cc
+!colspan=2| Moto2
+!colspan=2| MotoGP
+!rowspan=2| Report
+|-
+!Rider
+!Manufacturer
+!Rider
+!Manufacturer
+!Rider
+!Manufacturer
+|-
+! 2011
+| rowspan="2" | Losail
+|  Nicolás Terol
+| Aprilia
+|  Stefan Bradl
+| Kalex
+|  Casey Stoner 
+| Honda
+| Report
+|-
+! 2010
+|  Nicolás Terol
+| Aprilia
+|  Shoya Tomizawa
+| Suter
+|  Valentino Rossi
+| Yamaha
+| Report
+|-
+!rowspan=2| Year
+!rowspan=2| Track 
+!colspan=2| 125 cc
+!colspan=2| 250 cc
+!colspan=2| MotoGP
+!rowspan=2| Report
+|-
+!Rider
+!Manufacturer
+!Rider
+!Manufacturer
+!Rider
+!Manufacturer
+|-
+! 2009
+| rowspan="6" | Losail
+|  Andrea Iannone
+| Aprilia
+|  Héctor Barberá
+| Aprilia
+|  Casey Stoner
+| Ducati
+| Report
+|-
+! 2008
+|  Sergio Gadea
+| Aprilia
+|  Mattia Pasini 
+| Aprilia
+|  Casey Stoner
+| Ducati
+| Report
+|-
+! 2007
+|  Héctor Faubel
+| Aprilia
+|  Jorge Lorenzo 
+| Aprilia
+|  Casey Stoner
+| Ducati
+| Report
+|-
+! 2006
+|  Álvaro Bautista 
+| Aprilia
+|  Jorge Lorenzo 
+| Aprilia
+|  Valentino Rossi 
+| Yamaha
+| Report
+|-
+! 2005
+|  Gábor Talmácsi 
+| KTM
+|  Casey Stoner 
+| Aprilia
+|  Valentino Rossi 
+| Yamaha
+| Report
+|-
+! 2004
+|  Jorge Lorenzo 
+| Derbi
+|  Sebastián Porto
+| Aprilia
+|  Sete Gibernau 
+| Honda
+| Report
+|}
+

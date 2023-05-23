@@ -1,0 +1,96 @@
+Title: Champion Aircraft
+
+
+Champion Aircraft Corporation was formed in 1954 by Robert Brown.  Headquartered in Osceola, Wisconsin airport, it began production in 1954 of the 7EC design which it had purchased from Aeronca Aircraft Corporation. Through the 1950s and the 1960s Champion introduced variations on the 7-series design.  Champion also developed and began production of the significantly upgraded follow-on to the 7-series, the 8KCAB Decathlon, as well as the twin-engined Lancer.  Champion was acquired in 1970 by Bellanca Aircraft Corporation, which continued to produce most of the Champion designs in production at the time of acquisition.
+
+
+
+==Aircraft==
+Champion, as the name suggests, was formed to produce the design which Aeronca had introduced in 1946 as the 7AC Champion.  By the time Aeronca ceased production in 1951, they had advanced the design through the 7BCM, 7CCM, and 7DC, reaching the 7EC.  It was this model with which Champion commenced production in 1954, giving it the name "Traveler" to go along with the alphanumeric model designation.  (Champion assigned both alphanumeric designations and names to most of its designs.)  Though there was a great variety, all of the aircraft which Champion introduced were in one way or another related to the original Aeronca design.
+Champion's aircraft, by date of FAA approval or Champion introduction are:
+
+{| class="wikitable sortable"
+|-
+! Model name
+! First flight
+! Number built
+! Type
+
+|-
+|align=left| Champion 7EC Traveler
+|align=center| 
+|align=center| 
+|align=left| Single engine cabin monoplane
+|-
+|align=left| Champion 7FC Tri-Traveler
+|align=center| 
+|align=center| 472
+|align=left| Single engine cabin monoplane
+|-
+|align=left| Champion 7GC Sky-Trac
+|align=center| 
+|align=center| 171
+|align=left| Single engine cabin monoplane
+|-
+|align=left| Champion 7HC DX'er
+|align=center| 
+|align=center| 39
+|align=left| Single engine cabin monoplane
+|-
+|align=left| Champion 7GCA Sky Trac
+|align=center| 
+|align=center| 396
+|align=left| Single engine cabin monoplane
+|-
+|align=left| Champion 7JC Tri-Con
+|align=center| 
+|align=center| 25
+|align=left| Single engine cabin monoplane
+|-
+|align=left| Champion 7GCB Challenger
+|align=center| 
+|align=center| 
+|align=left| Single engine cabin monoplane
+|-
+|align=left| Champion 7KC Olympia
+|align=center| 
+|align=center| 4
+|align=left| Single engine cabin monoplane
+|-
+|align=left| Champion 7GCBA Challenger
+|align=center| 
+|align=center| 
+|align=left| Single engine cabin monoplane
+|-
+|align=left| Champion 402 Lancer
+|align=center| 
+|align=center| 25-36
+|align=left| Twin engine cabin monoplane
+|-
+|align=left| Champion 7ECA Citabria
+|align=center| 
+|align=center| 
+|align=left| Single engine cabin monoplane
+|-
+|align=left| Champion 7GCAA Citabria
+|align=center| 
+|align=center| 
+|align=left| Single engine cabin monoplane
+|-
+|align=left| Champion 7GCBC Citabria
+|align=center| 
+|align=center| 
+|align=left| Single engine cabin monoplane
+|-
+|align=left| Champion 7KCAB Citabria
+|align=center| 
+|align=center| 
+|align=left| Single engine cabin monoplane
+|-
+|align=left| Champion 8KCAB Decathlon
+|align=center| 
+|align=center| 
+|align=left| Single engine cabin monoplane
+|-
+|}
+

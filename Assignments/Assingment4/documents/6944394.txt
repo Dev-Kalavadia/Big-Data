@@ -1,0 +1,24 @@
+Title: Venturi mask
+The venturi mask, also known as an air-entrainment mask, is a medical device to deliver a known oxygen concentration to patients on controlled oxygen therapy.Use of a reservoir nasal cannula in hospitalized patients with refractory hypoxemia; Sheehan, JC, O'Donohue, WJ; Chest. 1996; 110:s1. The mask was invented by Moran Campbell at McMaster University Medical School as a replacement for intermittent oxygen treatment.  Dr. Campbell was fond of quoting John Scott Haldane's description of intermittent oxygen treatment;  "bringing a drowning man to the surface – occasionally".  By contrast the venturi mask offered a constant supply of oxygen at a much more precise range of concentrations.
+
+== Use ==
+
+Venturi masks are used to deliver a specified fraction of inspired oxygen (FIO2). Many masks are color-coded and have a recommended oxygen flow specified on them. When used with this oxygen flow, the mask should provide the specified FIO2. Other brands of mask have a rotating attachment that controls the air entrainment window, affecting the concentration of oxygen. This system is often used with air-entrainment nebulizers to provide humidification and oxygen therapy. The total flow of gas (oxygen plus the entrained air) will be greater than the patient's peak inspiratory flow so the delivered FIO2 is independent of their respiratory pattern.
+
+A controlled FIO2 is particularly important for patients whose ventilation is dependent on hypoxic drive, as may be seen in patients with chronic obstructive pulmonary disease. Administration of too much oxygen may lead to a reduction in their respiratory rate and retention of carbon dioxide, and ultimately to reduced consciousness or even death.
+
+== Mechanism ==
+
+The mechanism of action is variously described with reference to the venturi effect or Bernoulli's principle. However, a fixed performance oxygen delivery system works on the principle of jet mixing. Where the flow of moving oxygen meets the static air, viscous shearing causes a predictable amount of the air to be dragged into the flow.
+
+== See also ==
+
+* Oxygen mask for masks used in various settings
+
+== References ==
+
+
+
+Category:Respiratory therapy
+Category:Pulmonology
+Category:Medical masks

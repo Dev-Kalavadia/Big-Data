@@ -1,0 +1,2065 @@
+Title: List of minor planets: 135001–136000
+
+
+
+
+== 135001–135100 ==
+
+
+|-bgcolor=#fefefe
+| 135001 ||  || — || April 23, 2001 || Socorro || LINEAR || — || align=right | 1.0 km || 
+|-id=002 bgcolor=#E9E9E9
+| 135002 ||  || — || April 27, 2001 || Socorro || LINEAR || — || align=right | 2.6 km || 
+|-id=003 bgcolor=#E9E9E9
+| 135003 ||  || — || April 17, 2001 || Anderson Mesa || LONEOS || — || align=right | 7.0 km || 
+|-id=004 bgcolor=#E9E9E9
+| 135004 ||  || — || April 17, 2001 || Anderson Mesa || LONEOS || RAF || align=right | 2.0 km || 
+|-id=005 bgcolor=#fefefe
+| 135005 ||  || — || April 24, 2001 || Anderson Mesa || LONEOS || H || align=right | 1.2 km || 
+|-id=006 bgcolor=#E9E9E9
+| 135006 ||  || — || April 25, 2001 || Anderson Mesa || LONEOS || — || align=right | 3.1 km || 
+|-id=007 bgcolor=#E9E9E9
+| 135007 ||  || — || April 25, 2001 || Anderson Mesa || LONEOS || EUN || align=right | 2.0 km || 
+|-id=008 bgcolor=#E9E9E9
+| 135008 || 2001 JB || — || May 2, 2001 || Reedy Creek || J. Broughton || — || align=right | 3.3 km || 
+|-id=009 bgcolor=#E9E9E9
+| 135009 ||  || — || May 15, 2001 || Kitt Peak || Spacewatch || RAF || align=right | 1.4 km || 
+|-id=010 bgcolor=#E9E9E9
+| 135010 ||  || — || May 15, 2001 || Palomar || NEAT || — || align=right | 2.7 km || 
+|-id=011 bgcolor=#E9E9E9
+| 135011 ||  || — || May 18, 2001 || Socorro || LINEAR || — || align=right | 3.9 km || 
+|-id=012 bgcolor=#E9E9E9
+| 135012 ||  || — || May 18, 2001 || Socorro || LINEAR || PAE || align=right | 4.0 km || 
+|-id=013 bgcolor=#E9E9E9
+| 135013 ||  || — || May 18, 2001 || Socorro || LINEAR || — || align=right | 3.6 km || 
+|-id=014 bgcolor=#fefefe
+| 135014 ||  || — || May 17, 2001 || Socorro || LINEAR || MAS || align=right | 1.9 km || 
+|-id=015 bgcolor=#fefefe
+| 135015 ||  || — || May 21, 2001 || Socorro || LINEAR || NYS || align=right | 2.6 km || 
+|-id=016 bgcolor=#E9E9E9
+| 135016 ||  || — || May 23, 2001 || Socorro || LINEAR || ADE || align=right | 3.8 km || 
+|-id=017 bgcolor=#E9E9E9
+| 135017 ||  || — || May 22, 2001 || Socorro || LINEAR || — || align=right | 2.7 km || 
+|-id=018 bgcolor=#E9E9E9
+| 135018 ||  || — || May 22, 2001 || Socorro || LINEAR || GEF || align=right | 2.6 km || 
+|-id=019 bgcolor=#E9E9E9
+| 135019 ||  || — || May 22, 2001 || Socorro || LINEAR || — || align=right | 2.0 km || 
+|-id=020 bgcolor=#E9E9E9
+| 135020 ||  || — || May 24, 2001 || Socorro || LINEAR || — || align=right | 5.2 km || 
+|-id=021 bgcolor=#E9E9E9
+| 135021 ||  || — || May 26, 2001 || Kitt Peak || Spacewatch || — || align=right | 1.4 km || 
+|-id=022 bgcolor=#E9E9E9
+| 135022 ||  || — || May 22, 2001 || Anderson Mesa || LONEOS || — || align=right | 4.1 km || 
+|-id=023 bgcolor=#E9E9E9
+| 135023 ||  || — || May 31, 2001 || Palomar || NEAT || — || align=right | 2.9 km || 
+|-id=024 bgcolor=#C2E0FF
+| 135024 ||  || — || May 23, 2001 || Cerro Tololo || M. W. Buie || res4:7critical || align=right | 185 km || 
+|-id=025 bgcolor=#E9E9E9
+| 135025 ||  || — || June 12, 2001 || Kitt Peak || Spacewatch || — || align=right | 1.8 km || 
+|-id=026 bgcolor=#E9E9E9
+| 135026 ||  || — || June 15, 2001 || Socorro || LINEAR || TIN || align=right | 2.5 km || 
+|-id=027 bgcolor=#E9E9E9
+| 135027 ||  || — || June 15, 2001 || Socorro || LINEAR || — || align=right | 5.8 km || 
+|-id=028 bgcolor=#E9E9E9
+| 135028 ||  || — || June 21, 2001 || Socorro || LINEAR || — || align=right | 4.4 km || 
+|-id=029 bgcolor=#d6d6d6
+| 135029 ||  || — || June 20, 2001 || Haleakala || NEAT || — || align=right | 5.0 km || 
+|-id=030 bgcolor=#fefefe
+| 135030 ||  || — || June 24, 2001 || Desert Beaver || W. K. Y. Yeung || — || align=right | 1.3 km || 
+|-id=031 bgcolor=#E9E9E9
+| 135031 ||  || — || June 25, 2001 || Palomar || NEAT || WAT || align=right | 4.8 km || 
+|-id=032 bgcolor=#d6d6d6
+| 135032 ||  || — || June 20, 2001 || Anderson Mesa || LONEOS || — || align=right | 7.4 km || 
+|-id=033 bgcolor=#fefefe
+| 135033 ||  || — || June 27, 2001 || Anderson Mesa || LONEOS || NYS || align=right | 1.4 km || 
+|-id=034 bgcolor=#d6d6d6
+| 135034 ||  || — || June 21, 2001 || Palomar || NEAT || — || align=right | 7.1 km || 
+|-id=035 bgcolor=#d6d6d6
+| 135035 ||  || — || July 13, 2001 || Palomar || NEAT || — || align=right | 2.5 km || 
+|-id=036 bgcolor=#E9E9E9
+| 135036 ||  || — || July 14, 2001 || Haleakala || NEAT || HNA || align=right | 3.4 km || 
+|-id=037 bgcolor=#E9E9E9
+| 135037 ||  || — || July 14, 2001 || Haleakala || NEAT || — || align=right | 4.5 km || 
+|-id=038 bgcolor=#d6d6d6
+| 135038 ||  || — || July 14, 2001 || Palomar || NEAT || — || align=right | 6.3 km || 
+|-id=039 bgcolor=#E9E9E9
+| 135039 ||  || — || July 18, 2001 || Palomar || NEAT || — || align=right | 5.8 km || 
+|-id=040 bgcolor=#E9E9E9
+| 135040 ||  || — || July 19, 2001 || Palomar || NEAT || — || align=right | 4.2 km || 
+|-id=041 bgcolor=#fefefe
+| 135041 ||  || — || July 21, 2001 || San Marcello || L. Tesi, M. Tombelli || — || align=right | 1.5 km || 
+|-id=042 bgcolor=#E9E9E9
+| 135042 ||  || — || July 17, 2001 || Haleakala || NEAT || — || align=right | 2.7 km || 
+|-id=043 bgcolor=#d6d6d6
+| 135043 ||  || — || July 22, 2001 || Palomar || NEAT || — || align=right | 6.6 km || 
+|-id=044 bgcolor=#d6d6d6
+| 135044 ||  || — || July 19, 2001 || Palomar || NEAT || — || align=right | 5.9 km || 
+|-id=045 bgcolor=#E9E9E9
+| 135045 ||  || — || July 24, 2001 || Lake Tekapo || I. P. Griffin, N. Brady || — || align=right | 5.6 km || 
+|-id=046 bgcolor=#d6d6d6
+| 135046 ||  || — || July 22, 2001 || Palomar || NEAT || — || align=right | 6.3 km || 
+|-id=047 bgcolor=#d6d6d6
+| 135047 ||  || — || July 23, 2001 || Palomar || NEAT || — || align=right | 6.2 km || 
+|-id=048 bgcolor=#E9E9E9
+| 135048 ||  || — || July 16, 2001 || Anderson Mesa || LONEOS || MRX || align=right | 1.9 km || 
+|-id=049 bgcolor=#fefefe
+| 135049 ||  || — || July 21, 2001 || Palomar || NEAT || — || align=right | 1.9 km || 
+|-id=050 bgcolor=#E9E9E9
+| 135050 ||  || — || July 22, 2001 || Palomar || NEAT || GEF || align=right | 2.4 km || 
+|-id=051 bgcolor=#d6d6d6
+| 135051 ||  || — || July 22, 2001 || Palomar || NEAT || EOS || align=right | 9.5 km || 
+|-id=052 bgcolor=#d6d6d6
+| 135052 ||  || — || July 23, 2001 || Palomar || NEAT || — || align=right | 5.3 km || 
+|-id=053 bgcolor=#E9E9E9
+| 135053 ||  || — || July 21, 2001 || Haleakala || NEAT || — || align=right | 5.3 km || 
+|-id=054 bgcolor=#E9E9E9
+| 135054 ||  || — || July 16, 2001 || Haleakala || NEAT || GEF || align=right | 3.0 km || 
+|-id=055 bgcolor=#d6d6d6
+| 135055 ||  || — || July 29, 2001 || Palomar || NEAT || BRA || align=right | 3.0 km || 
+|-id=056 bgcolor=#d6d6d6
+| 135056 ||  || — || July 25, 2001 || Haleakala || NEAT || — || align=right | 5.2 km || 
+|-id=057 bgcolor=#fefefe
+| 135057 ||  || — || July 26, 2001 || Haleakala || NEAT || — || align=right | 1.9 km || 
+|-id=058 bgcolor=#d6d6d6
+| 135058 ||  || — || July 30, 2001 || Palomar || NEAT || TIR || align=right | 5.1 km || 
+|-id=059 bgcolor=#E9E9E9
+| 135059 ||  || — || July 23, 2001 || Haleakala || NEAT || DOR || align=right | 6.4 km || 
+|-id=060 bgcolor=#E9E9E9
+| 135060 ||  || — || July 28, 2001 || Anderson Mesa || LONEOS || HEN || align=right | 2.1 km || 
+|-id=061 bgcolor=#FA8072
+| 135061 ||  || — || August 3, 2001 || Haleakala || NEAT || H || align=right data-sort-value="0.89" | 890 m || 
+|-id=062 bgcolor=#d6d6d6
+| 135062 ||  || — || August 10, 2001 || Palomar || NEAT || — || align=right | 6.2 km || 
+|-id=063 bgcolor=#E9E9E9
+| 135063 ||  || — || August 10, 2001 || Palomar || NEAT || — || align=right | 3.3 km || 
+|-id=064 bgcolor=#d6d6d6
+| 135064 ||  || — || August 11, 2001 || Palomar || NEAT || — || align=right | 6.1 km || 
+|-id=065 bgcolor=#d6d6d6
+| 135065 ||  || — || August 9, 2001 || Palomar || NEAT || — || align=right | 8.0 km || 
+|-id=066 bgcolor=#d6d6d6
+| 135066 ||  || — || August 11, 2001 || Haleakala || NEAT || — || align=right | 5.6 km || 
+|-id=067 bgcolor=#d6d6d6
+| 135067 ||  || — || August 11, 2001 || Haleakala || NEAT || — || align=right | 4.0 km || 
+|-id=068 bgcolor=#E9E9E9
+| 135068 ||  || — || August 11, 2001 || Haleakala || NEAT || — || align=right | 4.7 km || 
+|-id=069 bgcolor=#E9E9E9
+| 135069 Gagnereau ||  ||  || August 15, 2001 || Pises || Pises Obs. || GEF || align=right | 2.6 km || 
+|-id=070 bgcolor=#d6d6d6
+| 135070 ||  || — || August 10, 2001 || Palomar || NEAT || EOS || align=right | 4.2 km || 
+|-id=071 bgcolor=#d6d6d6
+| 135071 ||  || — || August 10, 2001 || Palomar || NEAT || EOS || align=right | 2.9 km || 
+|-id=072 bgcolor=#d6d6d6
+| 135072 ||  || — || August 10, 2001 || Palomar || NEAT || — || align=right | 5.2 km || 
+|-id=073 bgcolor=#d6d6d6
+| 135073 ||  || — || August 11, 2001 || Palomar || NEAT || — || align=right | 3.3 km || 
+|-id=074 bgcolor=#d6d6d6
+| 135074 ||  || — || August 11, 2001 || Palomar || NEAT || — || align=right | 4.7 km || 
+|-id=075 bgcolor=#E9E9E9
+| 135075 ||  || — || August 12, 2001 || Palomar || NEAT || INO || align=right | 2.9 km || 
+|-id=076 bgcolor=#E9E9E9
+| 135076 ||  || — || August 14, 2001 || Haleakala || NEAT || HOF || align=right | 4.7 km || 
+|-id=077 bgcolor=#d6d6d6
+| 135077 ||  || — || August 14, 2001 || Haleakala || NEAT || — || align=right | 4.1 km || 
+|-id=078 bgcolor=#d6d6d6
+| 135078 ||  || — || August 14, 2001 || Haleakala || NEAT || — || align=right | 7.3 km || 
+|-id=079 bgcolor=#d6d6d6
+| 135079 ||  || — || August 11, 2001 || Haleakala || NEAT || — || align=right | 4.4 km || 
+|-id=080 bgcolor=#d6d6d6
+| 135080 ||  || — || August 13, 2001 || Haleakala || NEAT || — || align=right | 6.3 km || 
+|-id=081 bgcolor=#d6d6d6
+| 135081 ||  || — || August 16, 2001 || Socorro || LINEAR || — || align=right | 4.0 km || 
+|-id=082 bgcolor=#E9E9E9
+| 135082 ||  || — || August 16, 2001 || Socorro || LINEAR || — || align=right | 5.1 km || 
+|-id=083 bgcolor=#d6d6d6
+| 135083 ||  || — || August 16, 2001 || Socorro || LINEAR || — || align=right | 5.5 km || 
+|-id=084 bgcolor=#E9E9E9
+| 135084 ||  || — || August 16, 2001 || Socorro || LINEAR || — || align=right | 1.9 km || 
+|-id=085 bgcolor=#E9E9E9
+| 135085 ||  || — || August 16, 2001 || Socorro || LINEAR || AGN || align=right | 2.7 km || 
+|-id=086 bgcolor=#E9E9E9
+| 135086 ||  || — || August 16, 2001 || Socorro || LINEAR || AGN || align=right | 2.3 km || 
+|-id=087 bgcolor=#d6d6d6
+| 135087 ||  || — || August 16, 2001 || Socorro || LINEAR || — || align=right | 5.4 km || 
+|-id=088 bgcolor=#d6d6d6
+| 135088 ||  || — || August 16, 2001 || Socorro || LINEAR || EOS || align=right | 3.6 km || 
+|-id=089 bgcolor=#d6d6d6
+| 135089 ||  || — || August 18, 2001 || Socorro || LINEAR || — || align=right | 5.5 km || 
+|-id=090 bgcolor=#d6d6d6
+| 135090 ||  || — || August 16, 2001 || Socorro || LINEAR || — || align=right | 7.1 km || 
+|-id=091 bgcolor=#d6d6d6
+| 135091 ||  || — || August 16, 2001 || Socorro || LINEAR || — || align=right | 4.5 km || 
+|-id=092 bgcolor=#d6d6d6
+| 135092 ||  || — || August 17, 2001 || Socorro || LINEAR || — || align=right | 5.0 km || 
+|-id=093 bgcolor=#d6d6d6
+| 135093 ||  || — || August 17, 2001 || Socorro || LINEAR || — || align=right | 7.7 km || 
+|-id=094 bgcolor=#d6d6d6
+| 135094 ||  || — || August 17, 2001 || Socorro || LINEAR || — || align=right | 5.3 km || 
+|-id=095 bgcolor=#E9E9E9
+| 135095 ||  || — || August 16, 2001 || Palomar || NEAT || — || align=right | 2.3 km || 
+|-id=096 bgcolor=#fefefe
+| 135096 ||  || — || August 19, 2001 || Socorro || LINEAR || PHO || align=right | 1.7 km || 
+|-id=097 bgcolor=#E9E9E9
+| 135097 ||  || — || August 16, 2001 || Socorro || LINEAR || — || align=right | 2.8 km || 
+|-id=098 bgcolor=#d6d6d6
+| 135098 ||  || — || August 16, 2001 || Socorro || LINEAR || — || align=right | 6.2 km || 
+|-id=099 bgcolor=#d6d6d6
+| 135099 ||  || — || August 17, 2001 || Socorro || LINEAR || — || align=right | 8.4 km || 
+|-id=100 bgcolor=#d6d6d6
+| 135100 ||  || — || August 17, 2001 || Socorro || LINEAR || EMA || align=right | 7.5 km || 
+|}
+
+== 135101–135200 ==
+
+
+|-bgcolor=#E9E9E9
+| 135101 ||  || — || August 17, 2001 || Socorro || LINEAR || GER || align=right | 3.5 km || 
+|-id=102 bgcolor=#d6d6d6
+| 135102 ||  || — || August 17, 2001 || Socorro || LINEAR || — || align=right | 7.7 km || 
+|-id=103 bgcolor=#d6d6d6
+| 135103 ||  || — || August 19, 2001 || Socorro || LINEAR || — || align=right | 5.4 km || 
+|-id=104 bgcolor=#d6d6d6
+| 135104 ||  || — || August 21, 2001 || Haleakala || NEAT || — || align=right | 7.0 km || 
+|-id=105 bgcolor=#d6d6d6
+| 135105 ||  || — || August 16, 2001 || Socorro || LINEAR || — || align=right | 7.1 km || 
+|-id=106 bgcolor=#d6d6d6
+| 135106 ||  || — || August 22, 2001 || Haleakala || NEAT || — || align=right | 7.8 km || 
+|-id=107 bgcolor=#d6d6d6
+| 135107 ||  || — || August 19, 2001 || Haleakala || NEAT || — || align=right | 6.2 km || 
+|-id=108 bgcolor=#d6d6d6
+| 135108 ||  || — || August 18, 2001 || Socorro || LINEAR || — || align=right | 7.7 km || 
+|-id=109 bgcolor=#d6d6d6
+| 135109 ||  || — || August 21, 2001 || Socorro || LINEAR || — || align=right | 3.8 km || 
+|-id=110 bgcolor=#fefefe
+| 135110 ||  || — || August 24, 2001 || Anderson Mesa || LONEOS || — || align=right | 3.2 km || 
+|-id=111 bgcolor=#d6d6d6
+| 135111 ||  || — || August 25, 2001 || Socorro || LINEAR || — || align=right | 4.5 km || 
+|-id=112 bgcolor=#d6d6d6
+| 135112 ||  || — || August 25, 2001 || Socorro || LINEAR || — || align=right | 6.8 km || 
+|-id=113 bgcolor=#d6d6d6
+| 135113 ||  || — || August 25, 2001 || Socorro || LINEAR || — || align=right | 4.7 km || 
+|-id=114 bgcolor=#d6d6d6
+| 135114 ||  || — || August 25, 2001 || Socorro || LINEAR || EOS || align=right | 6.1 km || 
+|-id=115 bgcolor=#d6d6d6
+| 135115 ||  || — || August 17, 2001 || Socorro || LINEAR || — || align=right | 5.4 km || 
+|-id=116 bgcolor=#d6d6d6
+| 135116 ||  || — || August 17, 2001 || Socorro || LINEAR || — || align=right | 5.8 km || 
+|-id=117 bgcolor=#fefefe
+| 135117 ||  || — || August 17, 2001 || Socorro || LINEAR || — || align=right | 3.2 km || 
+|-id=118 bgcolor=#d6d6d6
+| 135118 ||  || — || August 17, 2001 || Socorro || LINEAR || TIR || align=right | 5.7 km || 
+|-id=119 bgcolor=#d6d6d6
+| 135119 ||  || — || August 20, 2001 || Socorro || LINEAR || — || align=right | 5.6 km || 
+|-id=120 bgcolor=#d6d6d6
+| 135120 ||  || — || August 20, 2001 || Socorro || LINEAR || — || align=right | 6.2 km || 
+|-id=121 bgcolor=#d6d6d6
+| 135121 ||  || — || August 22, 2001 || Socorro || LINEAR || — || align=right | 6.4 km || 
+|-id=122 bgcolor=#d6d6d6
+| 135122 ||  || — || August 22, 2001 || Socorro || LINEAR || EOS || align=right | 5.5 km || 
+|-id=123 bgcolor=#d6d6d6
+| 135123 ||  || — || August 22, 2001 || Socorro || LINEAR || Tj (2.98) || align=right | 6.0 km || 
+|-id=124 bgcolor=#d6d6d6
+| 135124 ||  || — || August 20, 2001 || Palomar || NEAT || — || align=right | 5.7 km || 
+|-id=125 bgcolor=#d6d6d6
+| 135125 ||  || — || August 23, 2001 || Anderson Mesa || LONEOS || — || align=right | 8.2 km || 
+|-id=126 bgcolor=#d6d6d6
+| 135126 ||  || — || August 23, 2001 || Anderson Mesa || LONEOS || KOR || align=right | 3.1 km || 
+|-id=127 bgcolor=#d6d6d6
+| 135127 ||  || — || August 23, 2001 || Anderson Mesa || LONEOS || — || align=right | 5.9 km || 
+|-id=128 bgcolor=#d6d6d6
+| 135128 ||  || — || August 23, 2001 || Anderson Mesa || LONEOS || — || align=right | 6.1 km || 
+|-id=129 bgcolor=#fefefe
+| 135129 ||  || — || August 22, 2001 || Socorro || LINEAR || — || align=right | 1.9 km || 
+|-id=130 bgcolor=#d6d6d6
+| 135130 ||  || — || August 24, 2001 || Socorro || LINEAR || — || align=right | 6.7 km || 
+|-id=131 bgcolor=#d6d6d6
+| 135131 ||  || — || August 26, 2001 || Socorro || LINEAR || — || align=right | 4.2 km || 
+|-id=132 bgcolor=#d6d6d6
+| 135132 ||  || — || August 21, 2001 || Haleakala || NEAT || 615 || align=right | 2.5 km || 
+|-id=133 bgcolor=#d6d6d6
+| 135133 ||  || — || August 28, 2001 || Palomar || NEAT || — || align=right | 9.2 km || 
+|-id=134 bgcolor=#d6d6d6
+| 135134 ||  || — || August 28, 2001 || Palomar || NEAT || EOS || align=right | 5.4 km || 
+|-id=135 bgcolor=#d6d6d6
+| 135135 ||  || — || August 25, 2001 || Palomar || NEAT || — || align=right | 7.2 km || 
+|-id=136 bgcolor=#d6d6d6
+| 135136 ||  || — || August 17, 2001 || Palomar || NEAT || — || align=right | 5.3 km || 
+|-id=137 bgcolor=#d6d6d6
+| 135137 ||  || — || August 22, 2001 || Palomar || NEAT || ALA || align=right | 11 km || 
+|-id=138 bgcolor=#d6d6d6
+| 135138 ||  || — || August 21, 2001 || Haleakala || NEAT || TIR || align=right | 4.0 km || 
+|-id=139 bgcolor=#d6d6d6
+| 135139 ||  || — || August 22, 2001 || Socorro || LINEAR || — || align=right | 4.5 km || 
+|-id=140 bgcolor=#fefefe
+| 135140 ||  || — || August 22, 2001 || Palomar || NEAT || H || align=right | 1.2 km || 
+|-id=141 bgcolor=#d6d6d6
+| 135141 ||  || — || August 22, 2001 || Kitt Peak || Spacewatch || EOS || align=right | 4.7 km || 
+|-id=142 bgcolor=#d6d6d6
+| 135142 ||  || — || August 22, 2001 || Palomar || NEAT || — || align=right | 6.9 km || 
+|-id=143 bgcolor=#d6d6d6
+| 135143 ||  || — || August 23, 2001 || Anderson Mesa || LONEOS || — || align=right | 4.5 km || 
+|-id=144 bgcolor=#d6d6d6
+| 135144 ||  || — || August 23, 2001 || Anderson Mesa || LONEOS || — || align=right | 4.4 km || 
+|-id=145 bgcolor=#d6d6d6
+| 135145 ||  || — || August 23, 2001 || Anderson Mesa || LONEOS || EOS || align=right | 4.2 km || 
+|-id=146 bgcolor=#d6d6d6
+| 135146 ||  || — || August 23, 2001 || Anderson Mesa || LONEOS || — || align=right | 4.6 km || 
+|-id=147 bgcolor=#E9E9E9
+| 135147 ||  || — || August 23, 2001 || Anderson Mesa || LONEOS || — || align=right | 1.9 km || 
+|-id=148 bgcolor=#d6d6d6
+| 135148 ||  || — || August 23, 2001 || Anderson Mesa || LONEOS || — || align=right | 4.9 km || 
+|-id=149 bgcolor=#d6d6d6
+| 135149 ||  || — || August 23, 2001 || Anderson Mesa || LONEOS || EOS || align=right | 4.5 km || 
+|-id=150 bgcolor=#d6d6d6
+| 135150 ||  || — || August 23, 2001 || Anderson Mesa || LONEOS || — || align=right | 5.7 km || 
+|-id=151 bgcolor=#d6d6d6
+| 135151 ||  || — || August 23, 2001 || Socorro || LINEAR || ALA || align=right | 8.5 km || 
+|-id=152 bgcolor=#fefefe
+| 135152 ||  || — || August 23, 2001 || Socorro || LINEAR || H || align=right data-sort-value="0.88" | 880 m || 
+|-id=153 bgcolor=#d6d6d6
+| 135153 ||  || — || August 24, 2001 || Anderson Mesa || LONEOS || EOS || align=right | 3.4 km || 
+|-id=154 bgcolor=#E9E9E9
+| 135154 ||  || — || August 24, 2001 || Socorro || LINEAR || GEF || align=right | 2.9 km || 
+|-id=155 bgcolor=#d6d6d6
+| 135155 ||  || — || August 24, 2001 || Anderson Mesa || LONEOS || EOS || align=right | 3.7 km || 
+|-id=156 bgcolor=#d6d6d6
+| 135156 ||  || — || August 24, 2001 || Anderson Mesa || LONEOS || — || align=right | 4.6 km || 
+|-id=157 bgcolor=#E9E9E9
+| 135157 ||  || — || August 24, 2001 || Anderson Mesa || LONEOS || RAF || align=right | 1.4 km || 
+|-id=158 bgcolor=#d6d6d6
+| 135158 ||  || — || August 24, 2001 || Socorro || LINEAR || — || align=right | 4.5 km || 
+|-id=159 bgcolor=#fefefe
+| 135159 ||  || — || August 24, 2001 || Socorro || LINEAR || — || align=right | 1.8 km || 
+|-id=160 bgcolor=#d6d6d6
+| 135160 ||  || — || August 24, 2001 || Socorro || LINEAR || — || align=right | 4.7 km || 
+|-id=161 bgcolor=#d6d6d6
+| 135161 ||  || — || August 24, 2001 || Socorro || LINEAR || EOS || align=right | 5.4 km || 
+|-id=162 bgcolor=#d6d6d6
+| 135162 ||  || — || August 24, 2001 || Kitt Peak || Spacewatch || — || align=right | 4.9 km || 
+|-id=163 bgcolor=#d6d6d6
+| 135163 ||  || — || August 24, 2001 || Socorro || LINEAR || — || align=right | 5.4 km || 
+|-id=164 bgcolor=#d6d6d6
+| 135164 ||  || — || August 24, 2001 || Socorro || LINEAR || — || align=right | 8.5 km || 
+|-id=165 bgcolor=#d6d6d6
+| 135165 ||  || — || August 24, 2001 || Haleakala || NEAT || EOS || align=right | 3.6 km || 
+|-id=166 bgcolor=#E9E9E9
+| 135166 ||  || — || August 25, 2001 || Socorro || LINEAR || — || align=right | 6.4 km || 
+|-id=167 bgcolor=#d6d6d6
+| 135167 ||  || — || August 25, 2001 || Socorro || LINEAR || — || align=right | 6.1 km || 
+|-id=168 bgcolor=#d6d6d6
+| 135168 ||  || — || August 25, 2001 || Socorro || LINEAR || TEL || align=right | 2.7 km || 
+|-id=169 bgcolor=#d6d6d6
+| 135169 ||  || — || August 25, 2001 || Socorro || LINEAR || — || align=right | 6.1 km || 
+|-id=170 bgcolor=#d6d6d6
+| 135170 ||  || — || August 25, 2001 || Socorro || LINEAR || — || align=right | 4.6 km || 
+|-id=171 bgcolor=#d6d6d6
+| 135171 ||  || — || August 25, 2001 || Kitt Peak || Spacewatch || EOS || align=right | 3.3 km || 
+|-id=172 bgcolor=#d6d6d6
+| 135172 ||  || — || August 26, 2001 || Anderson Mesa || LONEOS || — || align=right | 5.9 km || 
+|-id=173 bgcolor=#FA8072
+| 135173 ||  || — || August 20, 2001 || Palomar || NEAT || H || align=right | 1.8 km || 
+|-id=174 bgcolor=#fefefe
+| 135174 ||  || — || August 19, 2001 || Socorro || LINEAR || — || align=right | 3.4 km || 
+|-id=175 bgcolor=#E9E9E9
+| 135175 ||  || — || August 19, 2001 || Socorro || LINEAR || PAD || align=right | 3.3 km || 
+|-id=176 bgcolor=#d6d6d6
+| 135176 ||  || — || August 19, 2001 || Socorro || LINEAR || — || align=right | 4.8 km || 
+|-id=177 bgcolor=#d6d6d6
+| 135177 ||  || — || August 19, 2001 || Socorro || LINEAR || — || align=right | 5.4 km || 
+|-id=178 bgcolor=#d6d6d6
+| 135178 ||  || — || August 19, 2001 || Socorro || LINEAR || EUP || align=right | 6.4 km || 
+|-id=179 bgcolor=#d6d6d6
+| 135179 ||  || — || August 19, 2001 || Haleakala || NEAT || EOS || align=right | 4.4 km || 
+|-id=180 bgcolor=#E9E9E9
+| 135180 ||  || — || August 16, 2001 || Socorro || LINEAR || — || align=right | 3.4 km || 
+|-id=181 bgcolor=#fefefe
+| 135181 ||  || — || August 24, 2001 || Socorro || LINEAR || FLO || align=right | 1.6 km || 
+|-id=182 bgcolor=#C2E0FF
+| 135182 ||  || — || August 21, 2001 || Cerro Tololo || M. W. Buie || other TNOcritical || align=right | 255 km || 
+|-id=183 bgcolor=#d6d6d6
+| 135183 ||  || — || August 23, 2001 || Anderson Mesa || LONEOS || — || align=right | 5.5 km || 
+|-id=184 bgcolor=#d6d6d6
+| 135184 ||  || — || August 23, 2001 || Anderson Mesa || LONEOS || — || align=right | 5.9 km || 
+|-id=185 bgcolor=#d6d6d6
+| 135185 || 2001 RR || — || September 8, 2001 || Socorro || LINEAR || — || align=right | 6.3 km || 
+|-id=186 bgcolor=#fefefe
+| 135186 ||  || — || September 8, 2001 || Socorro || LINEAR || H || align=right | 1.4 km || 
+|-id=187 bgcolor=#d6d6d6
+| 135187 ||  || — || September 10, 2001 || Socorro || LINEAR || ALA || align=right | 8.4 km || 
+|-id=188 bgcolor=#d6d6d6
+| 135188 ||  || — || September 10, 2001 || Socorro || LINEAR || — || align=right | 4.2 km || 
+|-id=189 bgcolor=#d6d6d6
+| 135189 ||  || — || September 7, 2001 || Socorro || LINEAR || — || align=right | 6.2 km || 
+|-id=190 bgcolor=#d6d6d6
+| 135190 ||  || — || September 7, 2001 || Socorro || LINEAR || URS || align=right | 9.0 km || 
+|-id=191 bgcolor=#d6d6d6
+| 135191 ||  || — || September 7, 2001 || Socorro || LINEAR || KOR || align=right | 3.2 km || 
+|-id=192 bgcolor=#d6d6d6
+| 135192 ||  || — || September 7, 2001 || Socorro || LINEAR || — || align=right | 5.9 km || 
+|-id=193 bgcolor=#d6d6d6
+| 135193 ||  || — || September 7, 2001 || Socorro || LINEAR || — || align=right | 3.6 km || 
+|-id=194 bgcolor=#fefefe
+| 135194 ||  || — || September 7, 2001 || Socorro || LINEAR || NYS || align=right | 1.3 km || 
+|-id=195 bgcolor=#fefefe
+| 135195 ||  || — || September 7, 2001 || Socorro || LINEAR || MAS || align=right | 1.1 km || 
+|-id=196 bgcolor=#d6d6d6
+| 135196 ||  || — || September 8, 2001 || Socorro || LINEAR || 628 || align=right | 3.4 km || 
+|-id=197 bgcolor=#d6d6d6
+| 135197 ||  || — || September 11, 2001 || Socorro || LINEAR || — || align=right | 3.4 km || 
+|-id=198 bgcolor=#d6d6d6
+| 135198 ||  || — || September 6, 2001 || Palomar || NEAT || — || align=right | 5.4 km || 
+|-id=199 bgcolor=#d6d6d6
+| 135199 ||  || — || September 13, 2001 || Palomar || NEAT || TIR14px|link=Interloper (asteroid)#612 || align=right | 7.4 km || 
+|-id=200 bgcolor=#fefefe
+| 135200 ||  || — || September 10, 2001 || Socorro || LINEAR || — || align=right | 3.2 km || 
+|}
+
+== 135201–135300 ==
+
+
+|-bgcolor=#d6d6d6
+| 135201 ||  || — || September 12, 2001 || Socorro || LINEAR || — || align=right | 4.7 km || 
+|-id=202 bgcolor=#d6d6d6
+| 135202 ||  || — || September 12, 2001 || Socorro || LINEAR || EOS || align=right | 3.4 km || 
+|-id=203 bgcolor=#E9E9E9
+| 135203 ||  || — || September 12, 2001 || Socorro || LINEAR || — || align=right | 1.8 km || 
+|-id=204 bgcolor=#d6d6d6
+| 135204 ||  || — || September 12, 2001 || Socorro || LINEAR || — || align=right | 5.5 km || 
+|-id=205 bgcolor=#d6d6d6
+| 135205 ||  || — || September 12, 2001 || Socorro || LINEAR || EOS || align=right | 4.0 km || 
+|-id=206 bgcolor=#d6d6d6
+| 135206 ||  || — || September 12, 2001 || Socorro || LINEAR || — || align=right | 5.2 km || 
+|-id=207 bgcolor=#d6d6d6
+| 135207 ||  || — || September 10, 2001 || Socorro || LINEAR || — || align=right | 4.6 km || 
+|-id=208 bgcolor=#d6d6d6
+| 135208 ||  || — || September 10, 2001 || Socorro || LINEAR || — || align=right | 9.0 km || 
+|-id=209 bgcolor=#fefefe
+| 135209 ||  || — || September 10, 2001 || Socorro || LINEAR || FLO || align=right data-sort-value="0.98" | 980 m || 
+|-id=210 bgcolor=#d6d6d6
+| 135210 ||  || — || September 10, 2001 || Socorro || LINEAR || — || align=right | 6.9 km || 
+|-id=211 bgcolor=#d6d6d6
+| 135211 ||  || — || September 10, 2001 || Socorro || LINEAR || — || align=right | 4.7 km || 
+|-id=212 bgcolor=#d6d6d6
+| 135212 ||  || — || September 10, 2001 || Socorro || LINEAR || — || align=right | 4.1 km || 
+|-id=213 bgcolor=#d6d6d6
+| 135213 ||  || — || September 11, 2001 || Anderson Mesa || LONEOS || EOS || align=right | 6.5 km || 
+|-id=214 bgcolor=#d6d6d6
+| 135214 ||  || — || September 11, 2001 || Anderson Mesa || LONEOS || — || align=right | 5.5 km || 
+|-id=215 bgcolor=#fefefe
+| 135215 ||  || — || September 11, 2001 || Anderson Mesa || LONEOS || NYS || align=right | 3.1 km || 
+|-id=216 bgcolor=#d6d6d6
+| 135216 ||  || — || September 11, 2001 || Anderson Mesa || LONEOS || — || align=right | 4.5 km || 
+|-id=217 bgcolor=#d6d6d6
+| 135217 ||  || — || September 11, 2001 || Anderson Mesa || LONEOS || EOS || align=right | 4.5 km || 
+|-id=218 bgcolor=#d6d6d6
+| 135218 ||  || — || September 11, 2001 || Anderson Mesa || LONEOS || — || align=right | 5.4 km || 
+|-id=219 bgcolor=#E9E9E9
+| 135219 ||  || — || September 11, 2001 || Anderson Mesa || LONEOS || — || align=right | 3.5 km || 
+|-id=220 bgcolor=#d6d6d6
+| 135220 ||  || — || September 12, 2001 || Socorro || LINEAR || — || align=right | 4.8 km || 
+|-id=221 bgcolor=#d6d6d6
+| 135221 ||  || — || September 12, 2001 || Socorro || LINEAR || — || align=right | 6.3 km || 
+|-id=222 bgcolor=#d6d6d6
+| 135222 ||  || — || September 12, 2001 || Socorro || LINEAR || — || align=right | 6.2 km || 
+|-id=223 bgcolor=#d6d6d6
+| 135223 ||  || — || September 12, 2001 || Socorro || LINEAR || KOR || align=right | 3.5 km || 
+|-id=224 bgcolor=#fefefe
+| 135224 ||  || — || September 12, 2001 || Socorro || LINEAR || — || align=right | 1.6 km || 
+|-id=225 bgcolor=#d6d6d6
+| 135225 ||  || — || September 12, 2001 || Socorro || LINEAR || — || align=right | 5.1 km || 
+|-id=226 bgcolor=#d6d6d6
+| 135226 ||  || — || September 12, 2001 || Socorro || LINEAR || — || align=right | 4.3 km || 
+|-id=227 bgcolor=#d6d6d6
+| 135227 ||  || — || September 12, 2001 || Socorro || LINEAR || — || align=right | 5.1 km || 
+|-id=228 bgcolor=#fefefe
+| 135228 ||  || — || September 12, 2001 || Socorro || LINEAR || — || align=right | 1.7 km || 
+|-id=229 bgcolor=#d6d6d6
+| 135229 ||  || — || September 12, 2001 || Socorro || LINEAR || — || align=right | 3.7 km || 
+|-id=230 bgcolor=#d6d6d6
+| 135230 ||  || — || September 12, 2001 || Socorro || LINEAR || URS || align=right | 7.0 km || 
+|-id=231 bgcolor=#d6d6d6
+| 135231 ||  || — || September 12, 2001 || Socorro || LINEAR || EOS || align=right | 4.4 km || 
+|-id=232 bgcolor=#fefefe
+| 135232 ||  || — || September 12, 2001 || Socorro || LINEAR || NYS || align=right | 1.4 km || 
+|-id=233 bgcolor=#fefefe
+| 135233 ||  || — || September 8, 2001 || Socorro || LINEAR || H || align=right data-sort-value="0.98" | 980 m || 
+|-id=234 bgcolor=#d6d6d6
+| 135234 ||  || — || September 11, 2001 || Palomar || NEAT || MEL || align=right | 5.8 km || 
+|-id=235 bgcolor=#d6d6d6
+| 135235 ||  || — || September 11, 2001 || Anderson Mesa || LONEOS || HYG || align=right | 5.3 km || 
+|-id=236 bgcolor=#d6d6d6
+| 135236 ||  || — || September 11, 2001 || Anderson Mesa || LONEOS || — || align=right | 6.0 km || 
+|-id=237 bgcolor=#d6d6d6
+| 135237 ||  || — || September 18, 2001 || Goodricke-Pigott || R. A. Tucker || CRO || align=right | 6.6 km || 
+|-id=238 bgcolor=#fefefe
+| 135238 ||  || — || September 16, 2001 || Socorro || LINEAR || H14px|link=Interloper (asteroid)#003 || align=right | 1.1 km || 
+|-id=239 bgcolor=#d6d6d6
+| 135239 ||  || — || September 19, 2001 || Fountain Hills || C. W. Juels, P. R. Holvorcem || — || align=right | 9.1 km || 
+|-id=240 bgcolor=#d6d6d6
+| 135240 ||  || — || September 19, 2001 || Prescott || P. G. Comba || THM || align=right | 4.1 km || 
+|-id=241 bgcolor=#d6d6d6
+| 135241 ||  || — || September 16, 2001 || Socorro || LINEAR || — || align=right | 5.8 km || 
+|-id=242 bgcolor=#d6d6d6
+| 135242 ||  || — || September 16, 2001 || Socorro || LINEAR || EOS || align=right | 4.3 km || 
+|-id=243 bgcolor=#d6d6d6
+| 135243 ||  || — || September 16, 2001 || Socorro || LINEAR || THM || align=right | 4.3 km || 
+|-id=244 bgcolor=#d6d6d6
+| 135244 ||  || — || September 16, 2001 || Socorro || LINEAR || — || align=right | 5.8 km || 
+|-id=245 bgcolor=#d6d6d6
+| 135245 ||  || — || September 16, 2001 || Socorro || LINEAR || — || align=right | 3.7 km || 
+|-id=246 bgcolor=#d6d6d6
+| 135246 ||  || — || September 16, 2001 || Socorro || LINEAR || — || align=right | 5.6 km || 
+|-id=247 bgcolor=#fefefe
+| 135247 ||  || — || September 16, 2001 || Socorro || LINEAR || — || align=right | 1.8 km || 
+|-id=248 bgcolor=#d6d6d6
+| 135248 ||  || — || September 16, 2001 || Socorro || LINEAR || — || align=right | 5.8 km || 
+|-id=249 bgcolor=#d6d6d6
+| 135249 ||  || — || September 16, 2001 || Socorro || LINEAR || — || align=right | 5.9 km || 
+|-id=250 bgcolor=#d6d6d6
+| 135250 ||  || — || September 16, 2001 || Socorro || LINEAR || THM || align=right | 5.6 km || 
+|-id=251 bgcolor=#d6d6d6
+| 135251 ||  || — || September 16, 2001 || Socorro || LINEAR || — || align=right | 6.7 km || 
+|-id=252 bgcolor=#d6d6d6
+| 135252 ||  || — || September 16, 2001 || Socorro || LINEAR || EUP || align=right | 4.6 km || 
+|-id=253 bgcolor=#d6d6d6
+| 135253 ||  || — || September 16, 2001 || Socorro || LINEAR || HYG || align=right | 6.9 km || 
+|-id=254 bgcolor=#fefefe
+| 135254 ||  || — || September 16, 2001 || Socorro || LINEAR || — || align=right | 1.6 km || 
+|-id=255 bgcolor=#d6d6d6
+| 135255 ||  || — || September 16, 2001 || Socorro || LINEAR || EOS || align=right | 4.5 km || 
+|-id=256 bgcolor=#d6d6d6
+| 135256 ||  || — || September 16, 2001 || Socorro || LINEAR || — || align=right | 5.8 km || 
+|-id=257 bgcolor=#d6d6d6
+| 135257 ||  || — || September 16, 2001 || Socorro || LINEAR || — || align=right | 4.8 km || 
+|-id=258 bgcolor=#d6d6d6
+| 135258 ||  || — || September 16, 2001 || Socorro || LINEAR || — || align=right | 5.1 km || 
+|-id=259 bgcolor=#d6d6d6
+| 135259 ||  || — || September 16, 2001 || Socorro || LINEAR || URS || align=right | 6.2 km || 
+|-id=260 bgcolor=#d6d6d6
+| 135260 ||  || — || September 17, 2001 || Socorro || LINEAR || — || align=right | 5.6 km || 
+|-id=261 bgcolor=#d6d6d6
+| 135261 ||  || — || September 17, 2001 || Socorro || LINEAR || EOS || align=right | 6.4 km || 
+|-id=262 bgcolor=#d6d6d6
+| 135262 ||  || — || September 17, 2001 || Socorro || LINEAR || EOS || align=right | 4.0 km || 
+|-id=263 bgcolor=#d6d6d6
+| 135263 ||  || — || September 18, 2001 || Jonathan B. Postel || V. Pozzoli || EOS || align=right | 3.8 km || 
+|-id=264 bgcolor=#d6d6d6
+| 135264 ||  || — || September 21, 2001 || Palomar || NEAT || — || align=right | 5.3 km || 
+|-id=265 bgcolor=#d6d6d6
+| 135265 ||  || — || September 19, 2001 || Anderson Mesa || LONEOS || EOS || align=right | 4.0 km || 
+|-id=266 bgcolor=#d6d6d6
+| 135266 ||  || — || September 17, 2001 || Socorro || LINEAR || HYG || align=right | 7.6 km || 
+|-id=267 bgcolor=#d6d6d6
+| 135267 ||  || — || September 20, 2001 || Socorro || LINEAR || — || align=right | 4.8 km || 
+|-id=268 bgcolor=#d6d6d6
+| 135268 Haigneré ||  ||  || September 20, 2001 || Le Creusot || J.-C. Merlin || — || align=right | 6.2 km || 
+|-id=269 bgcolor=#d6d6d6
+| 135269 ||  || — || September 16, 2001 || Socorro || LINEAR || — || align=right | 5.7 km || 
+|-id=270 bgcolor=#d6d6d6
+| 135270 ||  || — || September 16, 2001 || Socorro || LINEAR || — || align=right | 4.7 km || 
+|-id=271 bgcolor=#fefefe
+| 135271 ||  || — || September 16, 2001 || Socorro || LINEAR || FLO || align=right | 1.1 km || 
+|-id=272 bgcolor=#d6d6d6
+| 135272 ||  || — || September 16, 2001 || Socorro || LINEAR || — || align=right | 6.2 km || 
+|-id=273 bgcolor=#d6d6d6
+| 135273 ||  || — || September 16, 2001 || Socorro || LINEAR || EOS || align=right | 4.5 km || 
+|-id=274 bgcolor=#d6d6d6
+| 135274 ||  || — || September 16, 2001 || Socorro || LINEAR || — || align=right | 5.6 km || 
+|-id=275 bgcolor=#d6d6d6
+| 135275 ||  || — || September 16, 2001 || Socorro || LINEAR || — || align=right | 4.3 km || 
+|-id=276 bgcolor=#fefefe
+| 135276 ||  || — || September 16, 2001 || Socorro || LINEAR || — || align=right | 1.4 km || 
+|-id=277 bgcolor=#d6d6d6
+| 135277 ||  || — || September 16, 2001 || Socorro || LINEAR || — || align=right | 4.7 km || 
+|-id=278 bgcolor=#fefefe
+| 135278 ||  || — || September 16, 2001 || Socorro || LINEAR || NYS14px|link=Interloper (asteroid)#405 || align=right | 3.0 km || 
+|-id=279 bgcolor=#d6d6d6
+| 135279 ||  || — || September 16, 2001 || Socorro || LINEAR || — || align=right | 5.9 km || 
+|-id=280 bgcolor=#d6d6d6
+| 135280 ||  || — || September 16, 2001 || Socorro || LINEAR || — || align=right | 6.2 km || 
+|-id=281 bgcolor=#d6d6d6
+| 135281 ||  || — || September 16, 2001 || Socorro || LINEAR || — || align=right | 3.7 km || 
+|-id=282 bgcolor=#d6d6d6
+| 135282 ||  || — || September 16, 2001 || Socorro || LINEAR || — || align=right | 4.9 km || 
+|-id=283 bgcolor=#d6d6d6
+| 135283 ||  || — || September 16, 2001 || Socorro || LINEAR || — || align=right | 5.5 km || 
+|-id=284 bgcolor=#d6d6d6
+| 135284 ||  || — || September 16, 2001 || Socorro || LINEAR || — || align=right | 4.7 km || 
+|-id=285 bgcolor=#fefefe
+| 135285 ||  || — || September 17, 2001 || Socorro || LINEAR || — || align=right | 1.6 km || 
+|-id=286 bgcolor=#d6d6d6
+| 135286 ||  || — || September 17, 2001 || Socorro || LINEAR || — || align=right | 5.4 km || 
+|-id=287 bgcolor=#fefefe
+| 135287 ||  || — || September 17, 2001 || Socorro || LINEAR || NYS || align=right | 2.2 km || 
+|-id=288 bgcolor=#d6d6d6
+| 135288 ||  || — || September 17, 2001 || Socorro || LINEAR || THM || align=right | 3.5 km || 
+|-id=289 bgcolor=#d6d6d6
+| 135289 ||  || — || September 17, 2001 || Socorro || LINEAR || — || align=right | 4.6 km || 
+|-id=290 bgcolor=#d6d6d6
+| 135290 ||  || — || September 17, 2001 || Socorro || LINEAR || — || align=right | 5.1 km || 
+|-id=291 bgcolor=#d6d6d6
+| 135291 ||  || — || September 17, 2001 || Socorro || LINEAR || — || align=right | 5.6 km || 
+|-id=292 bgcolor=#E9E9E9
+| 135292 ||  || — || September 17, 2001 || Socorro || LINEAR || — || align=right | 3.8 km || 
+|-id=293 bgcolor=#d6d6d6
+| 135293 ||  || — || September 17, 2001 || Socorro || LINEAR || — || align=right | 5.8 km || 
+|-id=294 bgcolor=#d6d6d6
+| 135294 ||  || — || September 19, 2001 || Socorro || LINEAR || — || align=right | 4.3 km || 
+|-id=295 bgcolor=#d6d6d6
+| 135295 ||  || — || September 19, 2001 || Socorro || LINEAR || — || align=right | 4.3 km || 
+|-id=296 bgcolor=#d6d6d6
+| 135296 ||  || — || September 19, 2001 || Socorro || LINEAR || — || align=right | 5.1 km || 
+|-id=297 bgcolor=#d6d6d6
+| 135297 ||  || — || September 19, 2001 || Socorro || LINEAR || HYG || align=right | 4.2 km || 
+|-id=298 bgcolor=#fefefe
+| 135298 ||  || — || September 19, 2001 || Socorro || LINEAR || — || align=right | 1.8 km || 
+|-id=299 bgcolor=#d6d6d6
+| 135299 ||  || — || September 19, 2001 || Socorro || LINEAR || EOS || align=right | 3.4 km || 
+|-id=300 bgcolor=#d6d6d6
+| 135300 ||  || — || September 19, 2001 || Socorro || LINEAR || EOS || align=right | 3.0 km || 
+|}
+
+== 135301–135400 ==
+
+
+|-bgcolor=#d6d6d6
+| 135301 ||  || — || September 19, 2001 || Socorro || LINEAR || THM || align=right | 4.8 km || 
+|-id=302 bgcolor=#d6d6d6
+| 135302 ||  || — || September 19, 2001 || Socorro || LINEAR || THM || align=right | 4.3 km || 
+|-id=303 bgcolor=#fefefe
+| 135303 ||  || — || September 19, 2001 || Socorro || LINEAR || V || align=right | 1.3 km || 
+|-id=304 bgcolor=#fefefe
+| 135304 ||  || — || September 19, 2001 || Socorro || LINEAR || NYS || align=right | 1.3 km || 
+|-id=305 bgcolor=#d6d6d6
+| 135305 ||  || — || September 19, 2001 || Socorro || LINEAR || THM || align=right | 4.6 km || 
+|-id=306 bgcolor=#d6d6d6
+| 135306 ||  || — || September 19, 2001 || Socorro || LINEAR || — || align=right | 4.9 km || 
+|-id=307 bgcolor=#d6d6d6
+| 135307 ||  || — || September 19, 2001 || Socorro || LINEAR || — || align=right | 4.2 km || 
+|-id=308 bgcolor=#E9E9E9
+| 135308 ||  || — || September 19, 2001 || Socorro || LINEAR || — || align=right | 2.5 km || 
+|-id=309 bgcolor=#d6d6d6
+| 135309 ||  || — || September 21, 2001 || Socorro || LINEAR || — || align=right | 7.1 km || 
+|-id=310 bgcolor=#d6d6d6
+| 135310 ||  || — || September 17, 2001 || Desert Eagle || W. K. Y. Yeung || — || align=right | 5.1 km || 
+|-id=311 bgcolor=#d6d6d6
+| 135311 ||  || — || September 25, 2001 || Desert Eagle || W. K. Y. Yeung || — || align=right | 6.1 km || 
+|-id=312 bgcolor=#d6d6d6
+| 135312 ||  || — || September 25, 2001 || Desert Eagle || W. K. Y. Yeung || — || align=right | 5.3 km || 
+|-id=313 bgcolor=#d6d6d6
+| 135313 ||  || — || September 19, 2001 || Kitt Peak || Spacewatch || KOR || align=right | 2.5 km || 
+|-id=314 bgcolor=#d6d6d6
+| 135314 ||  || — || September 20, 2001 || Socorro || LINEAR || EOS || align=right | 3.6 km || 
+|-id=315 bgcolor=#d6d6d6
+| 135315 ||  || — || September 21, 2001 || Anderson Mesa || LONEOS || 7:4 || align=right | 7.2 km || 
+|-id=316 bgcolor=#d6d6d6
+| 135316 ||  || — || September 21, 2001 || Anderson Mesa || LONEOS || — || align=right | 6.8 km || 
+|-id=317 bgcolor=#d6d6d6
+| 135317 ||  || — || September 21, 2001 || Anderson Mesa || LONEOS || THM || align=right | 6.1 km || 
+|-id=318 bgcolor=#d6d6d6
+| 135318 ||  || — || September 22, 2001 || Palomar || NEAT || — || align=right | 4.5 km || 
+|-id=319 bgcolor=#E9E9E9
+| 135319 ||  || — || September 29, 2001 || Palomar || NEAT || RAF || align=right | 2.0 km || 
+|-id=320 bgcolor=#d6d6d6
+| 135320 ||  || — || September 20, 2001 || Socorro || LINEAR || — || align=right | 4.1 km || 
+|-id=321 bgcolor=#d6d6d6
+| 135321 ||  || — || September 20, 2001 || Socorro || LINEAR || — || align=right | 3.8 km || 
+|-id=322 bgcolor=#fefefe
+| 135322 ||  || — || September 20, 2001 || Socorro || LINEAR || — || align=right | 1.6 km || 
+|-id=323 bgcolor=#d6d6d6
+| 135323 ||  || — || September 22, 2001 || Socorro || LINEAR || — || align=right | 7.0 km || 
+|-id=324 bgcolor=#d6d6d6
+| 135324 ||  || — || September 21, 2001 || Socorro || LINEAR || — || align=right | 5.2 km || 
+|-id=325 bgcolor=#d6d6d6
+| 135325 ||  || — || September 23, 2001 || Socorro || LINEAR || — || align=right | 4.4 km || 
+|-id=326 bgcolor=#d6d6d6
+| 135326 ||  || — || September 21, 2001 || Socorro || LINEAR || — || align=right | 2.8 km || 
+|-id=327 bgcolor=#d6d6d6
+| 135327 ||  || — || September 25, 2001 || Socorro || LINEAR || — || align=right | 5.6 km || 
+|-id=328 bgcolor=#fefefe
+| 135328 ||  || — || September 25, 2001 || Socorro || LINEAR || — || align=right | 1.6 km || 
+|-id=329 bgcolor=#fefefe
+| 135329 ||  || — || September 18, 2001 || Anderson Mesa || LONEOS || NYS14px|link=Interloper (asteroid)#405 || align=right | 2.9 km || 
+|-id=330 bgcolor=#d6d6d6
+| 135330 ||  || — || September 22, 2001 || Anderson Mesa || LONEOS || — || align=right | 9.0 km || 
+|-id=331 bgcolor=#d6d6d6
+| 135331 ||  || — || September 25, 2001 || Socorro || LINEAR || — || align=right | 5.6 km || 
+|-id=332 bgcolor=#d6d6d6
+| 135332 ||  || — || September 25, 2001 || Socorro || LINEAR || — || align=right | 5.7 km || 
+|-id=333 bgcolor=#fefefe
+| 135333 ||  || — || October 8, 2001 || Palomar || NEAT || — || align=right | 2.7 km || 
+|-id=334 bgcolor=#d6d6d6
+| 135334 ||  || — || October 15, 2001 || Socorro || LINEAR || — || align=right | 5.2 km || 
+|-id=335 bgcolor=#d6d6d6
+| 135335 ||  || — || October 7, 2001 || Palomar || NEAT || — || align=right | 3.9 km || 
+|-id=336 bgcolor=#d6d6d6
+| 135336 ||  || — || October 11, 2001 || Socorro || LINEAR || EUP || align=right | 8.6 km || 
+|-id=337 bgcolor=#E9E9E9
+| 135337 ||  || — || October 13, 2001 || Ondřejov || P. Pravec, P. Kušnirák || HEN || align=right | 2.1 km || 
+|-id=338 bgcolor=#d6d6d6
+| 135338 ||  || — || October 9, 2001 || Socorro || LINEAR || — || align=right | 3.8 km || 
+|-id=339 bgcolor=#d6d6d6
+| 135339 ||  || — || October 11, 2001 || Socorro || LINEAR || URS || align=right | 3.8 km || 
+|-id=340 bgcolor=#d6d6d6
+| 135340 ||  || — || October 13, 2001 || Socorro || LINEAR || AEG || align=right | 6.5 km || 
+|-id=341 bgcolor=#E9E9E9
+| 135341 ||  || — || October 13, 2001 || Socorro || LINEAR || — || align=right | 3.8 km || 
+|-id=342 bgcolor=#E9E9E9
+| 135342 ||  || — || October 14, 2001 || Socorro || LINEAR || — || align=right | 2.7 km || 
+|-id=343 bgcolor=#d6d6d6
+| 135343 ||  || — || October 14, 2001 || Socorro || LINEAR || — || align=right | 4.8 km || 
+|-id=344 bgcolor=#E9E9E9
+| 135344 ||  || — || October 14, 2001 || Socorro || LINEAR || — || align=right | 4.1 km || 
+|-id=345 bgcolor=#d6d6d6
+| 135345 ||  || — || October 14, 2001 || Socorro || LINEAR || — || align=right | 8.4 km || 
+|-id=346 bgcolor=#d6d6d6
+| 135346 ||  || — || October 15, 2001 || Socorro || LINEAR || EUP || align=right | 7.6 km || 
+|-id=347 bgcolor=#E9E9E9
+| 135347 ||  || — || October 9, 2001 || Kitt Peak || Spacewatch || — || align=right | 2.1 km || 
+|-id=348 bgcolor=#d6d6d6
+| 135348 ||  || — || October 14, 2001 || Socorro || LINEAR || EOS || align=right | 4.3 km || 
+|-id=349 bgcolor=#d6d6d6
+| 135349 ||  || — || October 13, 2001 || Socorro || LINEAR || HYG || align=right | 5.2 km || 
+|-id=350 bgcolor=#E9E9E9
+| 135350 ||  || — || October 13, 2001 || Socorro || LINEAR || PAD || align=right | 3.2 km || 
+|-id=351 bgcolor=#d6d6d6
+| 135351 ||  || — || October 13, 2001 || Socorro || LINEAR || — || align=right | 3.2 km || 
+|-id=352 bgcolor=#d6d6d6
+| 135352 ||  || — || October 13, 2001 || Socorro || LINEAR || — || align=right | 4.6 km || 
+|-id=353 bgcolor=#d6d6d6
+| 135353 ||  || — || October 13, 2001 || Socorro || LINEAR || THM || align=right | 4.0 km || 
+|-id=354 bgcolor=#d6d6d6
+| 135354 ||  || — || October 13, 2001 || Socorro || LINEAR || THM || align=right | 5.8 km || 
+|-id=355 bgcolor=#d6d6d6
+| 135355 ||  || — || October 13, 2001 || Socorro || LINEAR || — || align=right | 6.4 km || 
+|-id=356 bgcolor=#d6d6d6
+| 135356 ||  || — || October 14, 2001 || Socorro || LINEAR || EOS || align=right | 3.8 km || 
+|-id=357 bgcolor=#d6d6d6
+| 135357 ||  || — || October 14, 2001 || Socorro || LINEAR || THM || align=right | 5.5 km || 
+|-id=358 bgcolor=#d6d6d6
+| 135358 ||  || — || October 13, 2001 || Socorro || LINEAR || — || align=right | 4.7 km || 
+|-id=359 bgcolor=#d6d6d6
+| 135359 ||  || — || October 14, 2001 || Socorro || LINEAR || HYG || align=right | 5.0 km || 
+|-id=360 bgcolor=#d6d6d6
+| 135360 ||  || — || October 14, 2001 || Socorro || LINEAR || — || align=right | 5.3 km || 
+|-id=361 bgcolor=#d6d6d6
+| 135361 ||  || — || October 15, 2001 || Socorro || LINEAR || — || align=right | 9.8 km || 
+|-id=362 bgcolor=#d6d6d6
+| 135362 ||  || — || October 15, 2001 || Socorro || LINEAR || — || align=right | 4.9 km || 
+|-id=363 bgcolor=#d6d6d6
+| 135363 ||  || — || October 6, 2001 || Palomar || NEAT || — || align=right | 6.4 km || 
+|-id=364 bgcolor=#d6d6d6
+| 135364 ||  || — || October 12, 2001 || Haleakala || NEAT || EOS || align=right | 4.2 km || 
+|-id=365 bgcolor=#d6d6d6
+| 135365 ||  || — || October 12, 2001 || Haleakala || NEAT || EOS || align=right | 4.2 km || 
+|-id=366 bgcolor=#d6d6d6
+| 135366 ||  || — || October 12, 2001 || Haleakala || NEAT || — || align=right | 6.4 km || 
+|-id=367 bgcolor=#d6d6d6
+| 135367 ||  || — || October 10, 2001 || Kitt Peak || Spacewatch || — || align=right | 4.9 km || 
+|-id=368 bgcolor=#fefefe
+| 135368 ||  || — || October 13, 2001 || Kitt Peak || Spacewatch || NYS || align=right | 1.4 km || 
+|-id=369 bgcolor=#E9E9E9
+| 135369 ||  || — || October 10, 2001 || Palomar || NEAT || WIT || align=right | 2.1 km || 
+|-id=370 bgcolor=#d6d6d6
+| 135370 ||  || — || October 12, 2001 || Haleakala || NEAT || LUT || align=right | 8.6 km || 
+|-id=371 bgcolor=#E9E9E9
+| 135371 ||  || — || October 13, 2001 || Palomar || NEAT || INO || align=right | 2.6 km || 
+|-id=372 bgcolor=#d6d6d6
+| 135372 ||  || — || October 14, 2001 || Palomar || NEAT || — || align=right | 6.1 km || 
+|-id=373 bgcolor=#d6d6d6
+| 135373 ||  || — || October 14, 2001 || Palomar || NEAT || LIX || align=right | 6.8 km || 
+|-id=374 bgcolor=#E9E9E9
+| 135374 ||  || — || October 10, 2001 || Palomar || NEAT || POS14px|link=Interloper (asteroid)#541 || align=right | 7.0 km || 
+|-id=375 bgcolor=#d6d6d6
+| 135375 ||  || — || October 10, 2001 || Palomar || NEAT || — || align=right | 8.0 km || 
+|-id=376 bgcolor=#d6d6d6
+| 135376 ||  || — || October 10, 2001 || Palomar || NEAT || TIR || align=right | 4.4 km || 
+|-id=377 bgcolor=#d6d6d6
+| 135377 ||  || — || October 10, 2001 || Palomar || NEAT || HYG || align=right | 6.8 km || 
+|-id=378 bgcolor=#fefefe
+| 135378 ||  || — || October 10, 2001 || Palomar || NEAT || V || align=right | 1.3 km || 
+|-id=379 bgcolor=#d6d6d6
+| 135379 ||  || — || October 15, 2001 || Palomar || NEAT || — || align=right | 6.2 km || 
+|-id=380 bgcolor=#d6d6d6
+| 135380 ||  || — || October 11, 2001 || Palomar || NEAT || — || align=right | 5.8 km || 
+|-id=381 bgcolor=#d6d6d6
+| 135381 ||  || — || October 11, 2001 || Palomar || NEAT || — || align=right | 5.3 km || 
+|-id=382 bgcolor=#fefefe
+| 135382 ||  || — || October 11, 2001 || Palomar || NEAT || — || align=right | 1.4 km || 
+|-id=383 bgcolor=#d6d6d6
+| 135383 ||  || — || October 14, 2001 || Socorro || LINEAR || — || align=right | 5.5 km || 
+|-id=384 bgcolor=#d6d6d6
+| 135384 ||  || — || October 15, 2001 || Socorro || LINEAR || LIX || align=right | 7.4 km || 
+|-id=385 bgcolor=#d6d6d6
+| 135385 ||  || — || October 14, 2001 || Socorro || LINEAR || FIR || align=right | 5.1 km || 
+|-id=386 bgcolor=#d6d6d6
+| 135386 ||  || — || October 14, 2001 || Socorro || LINEAR || HYG || align=right | 4.1 km || 
+|-id=387 bgcolor=#fefefe
+| 135387 ||  || — || October 14, 2001 || Socorro || LINEAR || — || align=right | 1.2 km || 
+|-id=388 bgcolor=#E9E9E9
+| 135388 ||  || — || October 14, 2001 || Socorro || LINEAR || — || align=right | 2.7 km || 
+|-id=389 bgcolor=#d6d6d6
+| 135389 ||  || — || October 14, 2001 || Socorro || LINEAR || — || align=right | 6.2 km || 
+|-id=390 bgcolor=#d6d6d6
+| 135390 ||  || — || October 12, 2001 || Haleakala || NEAT || ALA || align=right | 5.0 km || 
+|-id=391 bgcolor=#d6d6d6
+| 135391 ||  || — || October 14, 2001 || Palomar || NEAT || — || align=right | 7.4 km || 
+|-id=392 bgcolor=#d6d6d6
+| 135392 ||  || — || October 11, 2001 || Socorro || LINEAR || — || align=right | 5.2 km || 
+|-id=393 bgcolor=#d6d6d6
+| 135393 ||  || — || October 11, 2001 || Socorro || LINEAR || — || align=right | 4.1 km || 
+|-id=394 bgcolor=#d6d6d6
+| 135394 ||  || — || October 11, 2001 || Socorro || LINEAR || — || align=right | 3.7 km || 
+|-id=395 bgcolor=#d6d6d6
+| 135395 ||  || — || October 11, 2001 || Socorro || LINEAR || — || align=right | 5.6 km || 
+|-id=396 bgcolor=#d6d6d6
+| 135396 ||  || — || October 11, 2001 || Socorro || LINEAR || — || align=right | 5.4 km || 
+|-id=397 bgcolor=#d6d6d6
+| 135397 ||  || — || October 12, 2001 || Kitt Peak || Spacewatch || — || align=right | 4.0 km || 
+|-id=398 bgcolor=#d6d6d6
+| 135398 ||  || — || October 13, 2001 || Anderson Mesa || LONEOS || — || align=right | 7.3 km || 
+|-id=399 bgcolor=#d6d6d6
+| 135399 ||  || — || October 13, 2001 || Palomar || NEAT || — || align=right | 4.5 km || 
+|-id=400 bgcolor=#d6d6d6
+| 135400 ||  || — || October 13, 2001 || Palomar || NEAT || — || align=right | 5.4 km || 
+|}
+
+== 135401–135500 ==
+
+
+|-bgcolor=#d6d6d6
+| 135401 ||  || — || October 13, 2001 || Palomar || NEAT || ELF || align=right | 6.3 km || 
+|-id=402 bgcolor=#d6d6d6
+| 135402 ||  || — || October 13, 2001 || Palomar || NEAT || ALA || align=right | 8.5 km || 
+|-id=403 bgcolor=#d6d6d6
+| 135403 ||  || — || October 13, 2001 || Palomar || NEAT || — || align=right | 7.2 km || 
+|-id=404 bgcolor=#d6d6d6
+| 135404 ||  || — || October 14, 2001 || Anderson Mesa || LONEOS || VER || align=right | 7.2 km || 
+|-id=405 bgcolor=#d6d6d6
+| 135405 ||  || — || October 14, 2001 || Palomar || NEAT || TIR14px|link=Interloper (asteroid)#612 || align=right | 6.5 km || 
+|-id=406 bgcolor=#d6d6d6
+| 135406 ||  || — || October 15, 2001 || Socorro || LINEAR || 637 || align=right | 5.2 km || 
+|-id=407 bgcolor=#d6d6d6
+| 135407 ||  || — || October 15, 2001 || Socorro || LINEAR || — || align=right | 5.7 km || 
+|-id=408 bgcolor=#d6d6d6
+| 135408 ||  || — || October 15, 2001 || Kitt Peak || Spacewatch || — || align=right | 6.1 km || 
+|-id=409 bgcolor=#d6d6d6
+| 135409 ||  || — || October 15, 2001 || Palomar || NEAT || EOS || align=right | 3.2 km || 
+|-id=410 bgcolor=#d6d6d6
+| 135410 ||  || — || October 21, 2001 || Desert Eagle || W. K. Y. Yeung || HYG || align=right | 6.1 km || 
+|-id=411 bgcolor=#d6d6d6
+| 135411 ||  || — || October 25, 2001 || Desert Eagle || W. K. Y. Yeung || HYG || align=right | 6.5 km || 
+|-id=412 bgcolor=#d6d6d6
+| 135412 ||  || — || October 17, 2001 || Socorro || LINEAR || — || align=right | 4.9 km || 
+|-id=413 bgcolor=#E9E9E9
+| 135413 ||  || — || October 17, 2001 || Socorro || LINEAR || — || align=right | 3.3 km || 
+|-id=414 bgcolor=#d6d6d6
+| 135414 ||  || — || October 18, 2001 || Socorro || LINEAR || ALA || align=right | 9.9 km || 
+|-id=415 bgcolor=#d6d6d6
+| 135415 ||  || — || October 18, 2001 || Socorro || LINEAR || — || align=right | 6.9 km || 
+|-id=416 bgcolor=#d6d6d6
+| 135416 ||  || — || October 18, 2001 || Socorro || LINEAR || VER || align=right | 6.8 km || 
+|-id=417 bgcolor=#d6d6d6
+| 135417 ||  || — || October 16, 2001 || Socorro || LINEAR || ALA || align=right | 5.8 km || 
+|-id=418 bgcolor=#d6d6d6
+| 135418 ||  || — || October 16, 2001 || Socorro || LINEAR || — || align=right | 8.1 km || 
+|-id=419 bgcolor=#d6d6d6
+| 135419 ||  || — || October 16, 2001 || Socorro || LINEAR || — || align=right | 4.7 km || 
+|-id=420 bgcolor=#d6d6d6
+| 135420 ||  || — || October 17, 2001 || Socorro || LINEAR || THM || align=right | 4.3 km || 
+|-id=421 bgcolor=#d6d6d6
+| 135421 ||  || — || October 17, 2001 || Socorro || LINEAR || slow || align=right | 6.1 km || 
+|-id=422 bgcolor=#d6d6d6
+| 135422 ||  || — || October 20, 2001 || Socorro || LINEAR || — || align=right | 4.1 km || 
+|-id=423 bgcolor=#d6d6d6
+| 135423 ||  || — || October 20, 2001 || Socorro || LINEAR || — || align=right | 6.1 km || 
+|-id=424 bgcolor=#d6d6d6
+| 135424 ||  || — || October 21, 2001 || Socorro || LINEAR || — || align=right | 5.0 km || 
+|-id=425 bgcolor=#E9E9E9
+| 135425 ||  || — || October 17, 2001 || Socorro || LINEAR || MRX || align=right | 1.9 km || 
+|-id=426 bgcolor=#E9E9E9
+| 135426 ||  || — || October 20, 2001 || Socorro || LINEAR || HOF || align=right | 4.1 km || 
+|-id=427 bgcolor=#E9E9E9
+| 135427 ||  || — || October 21, 2001 || Socorro || LINEAR || — || align=right | 2.7 km || 
+|-id=428 bgcolor=#d6d6d6
+| 135428 ||  || — || October 22, 2001 || Socorro || LINEAR || — || align=right | 6.5 km || 
+|-id=429 bgcolor=#d6d6d6
+| 135429 ||  || — || October 22, 2001 || Socorro || LINEAR || TIR || align=right | 5.2 km || 
+|-id=430 bgcolor=#d6d6d6
+| 135430 ||  || — || October 22, 2001 || Socorro || LINEAR || HYG || align=right | 6.5 km || 
+|-id=431 bgcolor=#d6d6d6
+| 135431 ||  || — || October 20, 2001 || Socorro || LINEAR || — || align=right | 4.6 km || 
+|-id=432 bgcolor=#d6d6d6
+| 135432 ||  || — || October 23, 2001 || Socorro || LINEAR || — || align=right | 5.2 km || 
+|-id=433 bgcolor=#E9E9E9
+| 135433 ||  || — || October 23, 2001 || Socorro || LINEAR || — || align=right | 2.5 km || 
+|-id=434 bgcolor=#fefefe
+| 135434 ||  || — || October 23, 2001 || Socorro || LINEAR || — || align=right | 1.3 km || 
+|-id=435 bgcolor=#E9E9E9
+| 135435 ||  || — || October 23, 2001 || Socorro || LINEAR || — || align=right | 3.4 km || 
+|-id=436 bgcolor=#d6d6d6
+| 135436 ||  || — || October 23, 2001 || Socorro || LINEAR || THM || align=right | 5.7 km || 
+|-id=437 bgcolor=#E9E9E9
+| 135437 ||  || — || October 23, 2001 || Socorro || LINEAR || HEN || align=right | 1.9 km || 
+|-id=438 bgcolor=#fefefe
+| 135438 ||  || — || October 23, 2001 || Socorro || LINEAR || — || align=right | 1.8 km || 
+|-id=439 bgcolor=#d6d6d6
+| 135439 ||  || — || October 26, 2001 || Palomar || NEAT || — || align=right | 8.0 km || 
+|-id=440 bgcolor=#d6d6d6
+| 135440 ||  || — || October 26, 2001 || Haleakala || NEAT || — || align=right | 6.7 km || 
+|-id=441 bgcolor=#fefefe
+| 135441 ||  || — || October 19, 2001 || Palomar || NEAT || FLO || align=right data-sort-value="0.96" | 960 m || 
+|-id=442 bgcolor=#d6d6d6
+| 135442 ||  || — || October 20, 2001 || Socorro || LINEAR || — || align=right | 4.7 km || 
+|-id=443 bgcolor=#fefefe
+| 135443 ||  || — || October 20, 2001 || Kitt Peak || Spacewatch || FLO || align=right data-sort-value="0.97" | 970 m || 
+|-id=444 bgcolor=#d6d6d6
+| 135444 ||  || — || November 9, 2001 || Socorro || LINEAR || THM || align=right | 4.0 km || 
+|-id=445 bgcolor=#E9E9E9
+| 135445 ||  || — || November 10, 2001 || Socorro || LINEAR || — || align=right | 4.8 km || 
+|-id=446 bgcolor=#d6d6d6
+| 135446 ||  || — || November 10, 2001 || Socorro || LINEAR || — || align=right | 7.9 km || 
+|-id=447 bgcolor=#d6d6d6
+| 135447 ||  || — || November 6, 2001 || Palomar || NEAT || — || align=right | 7.0 km || 
+|-id=448 bgcolor=#d6d6d6
+| 135448 ||  || — || November 10, 2001 || Palomar || NEAT || — || align=right | 8.6 km || 
+|-id=449 bgcolor=#d6d6d6
+| 135449 ||  || — || November 10, 2001 || Socorro || LINEAR || — || align=right | 7.1 km || 
+|-id=450 bgcolor=#d6d6d6
+| 135450 ||  || — || November 9, 2001 || Socorro || LINEAR || — || align=right | 6.5 km || 
+|-id=451 bgcolor=#E9E9E9
+| 135451 ||  || — || November 9, 2001 || Socorro || LINEAR || AGN || align=right | 1.9 km || 
+|-id=452 bgcolor=#d6d6d6
+| 135452 ||  || — || November 9, 2001 || Socorro || LINEAR || THM || align=right | 7.0 km || 
+|-id=453 bgcolor=#d6d6d6
+| 135453 ||  || — || November 9, 2001 || Socorro || LINEAR || — || align=right | 6.6 km || 
+|-id=454 bgcolor=#d6d6d6
+| 135454 ||  || — || November 9, 2001 || Socorro || LINEAR || — || align=right | 5.6 km || 
+|-id=455 bgcolor=#d6d6d6
+| 135455 ||  || — || November 10, 2001 || Socorro || LINEAR || — || align=right | 6.5 km || 
+|-id=456 bgcolor=#d6d6d6
+| 135456 ||  || — || November 10, 2001 || Socorro || LINEAR || EOS || align=right | 5.3 km || 
+|-id=457 bgcolor=#d6d6d6
+| 135457 ||  || — || November 10, 2001 || Socorro || LINEAR || — || align=right | 6.7 km || 
+|-id=458 bgcolor=#d6d6d6
+| 135458 ||  || — || November 10, 2001 || Socorro || LINEAR || — || align=right | 8.1 km || 
+|-id=459 bgcolor=#E9E9E9
+| 135459 ||  || — || November 10, 2001 || Socorro || LINEAR || — || align=right | 3.2 km || 
+|-id=460 bgcolor=#d6d6d6
+| 135460 ||  || — || November 10, 2001 || Socorro || LINEAR || — || align=right | 5.8 km || 
+|-id=461 bgcolor=#E9E9E9
+| 135461 ||  || — || November 12, 2001 || Socorro || LINEAR || — || align=right | 2.5 km || 
+|-id=462 bgcolor=#fefefe
+| 135462 ||  || — || November 15, 2001 || Palomar || NEAT || H || align=right data-sort-value="0.92" | 920 m || 
+|-id=463 bgcolor=#E9E9E9
+| 135463 ||  || — || November 10, 2001 || Socorro || LINEAR || — || align=right | 2.3 km || 
+|-id=464 bgcolor=#d6d6d6
+| 135464 ||  || — || November 12, 2001 || Socorro || LINEAR || — || align=right | 4.2 km || 
+|-id=465 bgcolor=#d6d6d6
+| 135465 ||  || — || November 15, 2001 || Socorro || LINEAR || — || align=right | 4.5 km || 
+|-id=466 bgcolor=#d6d6d6
+| 135466 ||  || — || November 15, 2001 || Socorro || LINEAR || — || align=right | 5.6 km || 
+|-id=467 bgcolor=#d6d6d6
+| 135467 ||  || — || November 15, 2001 || Socorro || LINEAR || — || align=right | 7.0 km || 
+|-id=468 bgcolor=#d6d6d6
+| 135468 ||  || — || November 15, 2001 || Socorro || LINEAR || — || align=right | 6.1 km || 
+|-id=469 bgcolor=#E9E9E9
+| 135469 ||  || — || November 12, 2001 || Socorro || LINEAR || — || align=right | 2.4 km || 
+|-id=470 bgcolor=#d6d6d6
+| 135470 ||  || — || November 17, 2001 || Socorro || LINEAR || — || align=right | 7.7 km || 
+|-id=471 bgcolor=#E9E9E9
+| 135471 ||  || — || November 17, 2001 || Socorro || LINEAR || — || align=right | 2.9 km || 
+|-id=472 bgcolor=#E9E9E9
+| 135472 ||  || — || November 17, 2001 || Socorro || LINEAR || — || align=right | 3.0 km || 
+|-id=473 bgcolor=#E9E9E9
+| 135473 ||  || — || November 18, 2001 || Socorro || LINEAR || — || align=right | 2.8 km || 
+|-id=474 bgcolor=#d6d6d6
+| 135474 ||  || — || November 17, 2001 || Socorro || LINEAR || THM || align=right | 3.8 km || 
+|-id=475 bgcolor=#E9E9E9
+| 135475 ||  || — || November 17, 2001 || Socorro || LINEAR || — || align=right | 2.7 km || 
+|-id=476 bgcolor=#E9E9E9
+| 135476 ||  || — || November 17, 2001 || Socorro || LINEAR || — || align=right | 2.5 km || 
+|-id=477 bgcolor=#fefefe
+| 135477 ||  || — || November 17, 2001 || Socorro || LINEAR || H || align=right | 1.2 km || 
+|-id=478 bgcolor=#d6d6d6
+| 135478 ||  || — || November 19, 2001 || Anderson Mesa || LONEOS || — || align=right | 5.8 km || 
+|-id=479 bgcolor=#d6d6d6
+| 135479 ||  || — || November 19, 2001 || Anderson Mesa || LONEOS || — || align=right | 7.8 km || 
+|-id=480 bgcolor=#d6d6d6
+| 135480 ||  || — || November 19, 2001 || Anderson Mesa || LONEOS || ALA || align=right | 6.4 km || 
+|-id=481 bgcolor=#d6d6d6
+| 135481 ||  || — || November 19, 2001 || Anderson Mesa || LONEOS || — || align=right | 6.1 km || 
+|-id=482 bgcolor=#E9E9E9
+| 135482 ||  || — || November 20, 2001 || Socorro || LINEAR || — || align=right | 3.6 km || 
+|-id=483 bgcolor=#d6d6d6
+| 135483 ||  || — || November 17, 2001 || Haleakala || NEAT || SYL7:4 || align=right | 7.0 km || 
+|-id=484 bgcolor=#fefefe
+| 135484 ||  || — || November 16, 2001 || Kitt Peak || Spacewatch || FLO || align=right | 1.3 km || 
+|-id=485 bgcolor=#fefefe
+| 135485 ||  || — || December 8, 2001 || Oizumi || T. Kobayashi || FLO || align=right | 1.3 km || 
+|-id=486 bgcolor=#fefefe
+| 135486 ||  || — || December 8, 2001 || Socorro || LINEAR || H || align=right | 1.1 km || 
+|-id=487 bgcolor=#fefefe
+| 135487 ||  || — || December 8, 2001 || Socorro || LINEAR || H || align=right | 1.8 km || 
+|-id=488 bgcolor=#d6d6d6
+| 135488 ||  || — || December 7, 2001 || Socorro || LINEAR || — || align=right | 7.0 km || 
+|-id=489 bgcolor=#d6d6d6
+| 135489 ||  || — || December 8, 2001 || Socorro || LINEAR || TIR14px|link=Interloper (asteroid)#612 || align=right | 7.3 km || 
+|-id=490 bgcolor=#d6d6d6
+| 135490 ||  || — || December 9, 2001 || Socorro || LINEAR || TRP || align=right | 6.6 km || 
+|-id=491 bgcolor=#E9E9E9
+| 135491 ||  || — || December 9, 2001 || Socorro || LINEAR || MRX || align=right | 2.3 km || 
+|-id=492 bgcolor=#d6d6d6
+| 135492 ||  || — || December 9, 2001 || Socorro || LINEAR || EOS || align=right | 4.0 km || 
+|-id=493 bgcolor=#d6d6d6
+| 135493 ||  || — || December 10, 2001 || Socorro || LINEAR || — || align=right | 10 km || 
+|-id=494 bgcolor=#E9E9E9
+| 135494 ||  || — || December 10, 2001 || Socorro || LINEAR || — || align=right | 2.7 km || 
+|-id=495 bgcolor=#d6d6d6
+| 135495 ||  || — || December 10, 2001 || Socorro || LINEAR || THM || align=right | 4.9 km || 
+|-id=496 bgcolor=#d6d6d6
+| 135496 ||  || — || December 10, 2001 || Socorro || LINEAR || — || align=right | 6.4 km || 
+|-id=497 bgcolor=#d6d6d6
+| 135497 ||  || — || December 11, 2001 || Socorro || LINEAR || HYG || align=right | 5.9 km || 
+|-id=498 bgcolor=#d6d6d6
+| 135498 ||  || — || December 11, 2001 || Socorro || LINEAR || EUP || align=right | 8.1 km || 
+|-id=499 bgcolor=#E9E9E9
+| 135499 ||  || — || December 11, 2001 || Socorro || LINEAR || AGN || align=right | 2.4 km || 
+|-id=500 bgcolor=#E9E9E9
+| 135500 ||  || — || December 10, 2001 || Socorro || LINEAR || — || align=right | 2.9 km || 
+|}
+
+== 135501–135600 ==
+
+
+|-bgcolor=#fefefe
+| 135501 ||  || — || December 10, 2001 || Socorro || LINEAR || — || align=right | 1.3 km || 
+|-id=502 bgcolor=#d6d6d6
+| 135502 ||  || — || December 10, 2001 || Socorro || LINEAR || — || align=right | 7.7 km || 
+|-id=503 bgcolor=#E9E9E9
+| 135503 ||  || — || December 10, 2001 || Socorro || LINEAR || — || align=right | 1.8 km || 
+|-id=504 bgcolor=#d6d6d6
+| 135504 ||  || — || December 11, 2001 || Socorro || LINEAR || URS || align=right | 6.4 km || 
+|-id=505 bgcolor=#E9E9E9
+| 135505 ||  || — || December 14, 2001 || Socorro || LINEAR || — || align=right | 2.5 km || 
+|-id=506 bgcolor=#d6d6d6
+| 135506 ||  || — || December 14, 2001 || Socorro || LINEAR || THM || align=right | 4.2 km || 
+|-id=507 bgcolor=#d6d6d6
+| 135507 ||  || — || December 14, 2001 || Socorro || LINEAR || HYG || align=right | 5.6 km || 
+|-id=508 bgcolor=#E9E9E9
+| 135508 ||  || — || December 15, 2001 || Socorro || LINEAR || AGN || align=right | 2.2 km || 
+|-id=509 bgcolor=#d6d6d6
+| 135509 ||  || — || December 15, 2001 || Socorro || LINEAR || — || align=right | 5.1 km || 
+|-id=510 bgcolor=#fefefe
+| 135510 ||  || — || December 15, 2001 || Socorro || LINEAR || — || align=right | 1.5 km || 
+|-id=511 bgcolor=#fefefe
+| 135511 ||  || — || December 15, 2001 || Socorro || LINEAR || — || align=right | 1.9 km || 
+|-id=512 bgcolor=#d6d6d6
+| 135512 ||  || — || December 7, 2001 || Palomar || NEAT || — || align=right | 8.4 km || 
+|-id=513 bgcolor=#E9E9E9
+| 135513 ||  || — || December 11, 2001 || Socorro || LINEAR || — || align=right | 4.5 km || 
+|-id=514 bgcolor=#d6d6d6
+| 135514 ||  || — || December 14, 2001 || Anderson Mesa || LONEOS || — || align=right | 7.1 km || 
+|-id=515 bgcolor=#d6d6d6
+| 135515 || 2001 YT || — || December 18, 2001 || Kingsnake || J. V. McClusky || EUP || align=right | 6.5 km || 
+|-id=516 bgcolor=#fefefe
+| 135516 ||  || — || December 17, 2001 || Socorro || LINEAR || — || align=right | 1.4 km || 
+|-id=517 bgcolor=#E9E9E9
+| 135517 ||  || — || December 18, 2001 || Socorro || LINEAR || — || align=right | 2.1 km || 
+|-id=518 bgcolor=#fefefe
+| 135518 ||  || — || December 18, 2001 || Socorro || LINEAR || — || align=right data-sort-value="0.98" | 980 m || 
+|-id=519 bgcolor=#d6d6d6
+| 135519 ||  || — || December 18, 2001 || Socorro || LINEAR || — || align=right | 5.1 km || 
+|-id=520 bgcolor=#fefefe
+| 135520 ||  || — || December 18, 2001 || Socorro || LINEAR || NYS || align=right | 2.9 km || 
+|-id=521 bgcolor=#fefefe
+| 135521 ||  || — || December 18, 2001 || Socorro || LINEAR || — || align=right | 1.3 km || 
+|-id=522 bgcolor=#d6d6d6
+| 135522 ||  || — || December 17, 2001 || Socorro || LINEAR || — || align=right | 4.3 km || 
+|-id=523 bgcolor=#d6d6d6
+| 135523 ||  || — || December 18, 2001 || Socorro || LINEAR || HYG || align=right | 5.4 km || 
+|-id=524 bgcolor=#fefefe
+| 135524 ||  || — || December 19, 2001 || Palomar || NEAT || — || align=right | 1.3 km || 
+|-id=525 bgcolor=#E9E9E9
+| 135525 ||  || — || January 11, 2002 || Desert Eagle || W. K. Y. Yeung || — || align=right | 3.8 km || 
+|-id=526 bgcolor=#E9E9E9
+| 135526 ||  || — || January 13, 2002 || Socorro || LINEAR || AGN || align=right | 1.9 km || 
+|-id=527 bgcolor=#fefefe
+| 135527 ||  || — || January 13, 2002 || Socorro || LINEAR || — || align=right | 1.3 km || 
+|-id=528 bgcolor=#fefefe
+| 135528 ||  || — || January 5, 2002 || Palomar || NEAT || H || align=right data-sort-value="0.99" | 990 m || 
+|-id=529 bgcolor=#d6d6d6
+| 135529 ||  || — || January 13, 2002 || Socorro || LINEAR || — || align=right | 4.7 km || 
+|-id=530 bgcolor=#fefefe
+| 135530 ||  || — || January 13, 2002 || Socorro || LINEAR || FLO || align=right | 1.1 km || 
+|-id=531 bgcolor=#fefefe
+| 135531 ||  || — || January 19, 2002 || Socorro || LINEAR || — || align=right | 2.3 km || 
+|-id=532 bgcolor=#d6d6d6
+| 135532 ||  || — || February 7, 2002 || Fountain Hills || C. W. Juels, P. R. Holvorcem || — || align=right | 6.7 km || 
+|-id=533 bgcolor=#fefefe
+| 135533 ||  || — || February 12, 2002 || Desert Eagle || W. K. Y. Yeung || — || align=right | 1.5 km || 
+|-id=534 bgcolor=#fefefe
+| 135534 ||  || — || February 7, 2002 || Socorro || LINEAR || — || align=right | 1.2 km || 
+|-id=535 bgcolor=#fefefe
+| 135535 ||  || — || February 7, 2002 || Socorro || LINEAR || — || align=right | 1.2 km || 
+|-id=536 bgcolor=#fefefe
+| 135536 ||  || — || February 7, 2002 || Socorro || LINEAR || — || align=right data-sort-value="0.88" | 880 m || 
+|-id=537 bgcolor=#fefefe
+| 135537 ||  || — || February 8, 2002 || Socorro || LINEAR || — || align=right | 2.9 km || 
+|-id=538 bgcolor=#fefefe
+| 135538 ||  || — || February 10, 2002 || Socorro || LINEAR || — || align=right | 1.1 km || 
+|-id=539 bgcolor=#fefefe
+| 135539 ||  || — || February 11, 2002 || Socorro || LINEAR || V || align=right data-sort-value="0.96" | 960 m || 
+|-id=540 bgcolor=#C2FFFF
+| 135540 ||  || — || February 13, 2002 || Socorro || LINEAR || L4 || align=right | 12 km || 
+|-id=541 bgcolor=#fefefe
+| 135541 ||  || — || February 3, 2002 || Palomar || NEAT || FLO || align=right data-sort-value="0.97" | 970 m || 
+|-id=542 bgcolor=#E9E9E9
+| 135542 ||  || — || February 10, 2002 || Kitt Peak || Spacewatch || — || align=right | 1.2 km || 
+|-id=543 bgcolor=#d6d6d6
+| 135543 ||  || — || February 10, 2002 || Socorro || LINEAR || EOS || align=right | 3.6 km || 
+|-id=544 bgcolor=#E9E9E9
+| 135544 ||  || — || February 10, 2002 || Socorro || LINEAR || — || align=right | 2.4 km || 
+|-id=545 bgcolor=#fefefe
+| 135545 ||  || — || February 11, 2002 || Socorro || LINEAR || — || align=right | 1.3 km || 
+|-id=546 bgcolor=#fefefe
+| 135546 ||  || — || March 13, 2002 || Socorro || LINEAR || FLO || align=right | 1.1 km || 
+|-id=547 bgcolor=#C2FFFF
+| 135547 ||  || — || March 6, 2002 || Palomar || NEAT || L4 || align=right | 18 km || 
+|-id=548 bgcolor=#fefefe
+| 135548 ||  || — || March 9, 2002 || Socorro || LINEAR || — || align=right | 1.2 km || 
+|-id=549 bgcolor=#fefefe
+| 135549 ||  || — || March 9, 2002 || Socorro || LINEAR || — || align=right data-sort-value="0.99" | 990 m || 
+|-id=550 bgcolor=#fefefe
+| 135550 ||  || — || March 9, 2002 || Kitt Peak || Spacewatch || — || align=right data-sort-value="0.99" | 990 m || 
+|-id=551 bgcolor=#fefefe
+| 135551 ||  || — || March 12, 2002 || Socorro || LINEAR || — || align=right | 1.4 km || 
+|-id=552 bgcolor=#fefefe
+| 135552 ||  || — || March 12, 2002 || Palomar || NEAT || — || align=right | 1.3 km || 
+|-id=553 bgcolor=#fefefe
+| 135553 ||  || — || March 13, 2002 || Socorro || LINEAR || — || align=right | 1.4 km || 
+|-id=554 bgcolor=#fefefe
+| 135554 ||  || — || March 13, 2002 || Socorro || LINEAR || FLO || align=right | 1.4 km || 
+|-id=555 bgcolor=#fefefe
+| 135555 ||  || — || March 13, 2002 || Socorro || LINEAR || V || align=right | 1.3 km || 
+|-id=556 bgcolor=#fefefe
+| 135556 ||  || — || March 13, 2002 || Socorro || LINEAR || KLI || align=right | 2.7 km || 
+|-id=557 bgcolor=#fefefe
+| 135557 ||  || — || March 13, 2002 || Socorro || LINEAR || — || align=right | 1.6 km || 
+|-id=558 bgcolor=#fefefe
+| 135558 ||  || — || March 13, 2002 || Socorro || LINEAR || NYS || align=right data-sort-value="0.94" | 940 m || 
+|-id=559 bgcolor=#fefefe
+| 135559 ||  || — || March 16, 2002 || Socorro || LINEAR || — || align=right | 1.1 km || 
+|-id=560 bgcolor=#fefefe
+| 135560 ||  || — || March 20, 2002 || Socorro || LINEAR || PHO || align=right | 1.8 km || 
+|-id=561 bgcolor=#fefefe
+| 135561 Tautvaisiene ||  ||  || March 16, 2002 || Moletai || K. Černis, J. Zdanavičius || FLO || align=right | 1.00 km || 
+|-id=562 bgcolor=#fefefe
+| 135562 ||  || — || March 16, 2002 || Socorro || LINEAR || — || align=right | 1.3 km || 
+|-id=563 bgcolor=#fefefe
+| 135563 ||  || — || March 16, 2002 || Socorro || LINEAR || FLO || align=right | 1.1 km || 
+|-id=564 bgcolor=#fefefe
+| 135564 ||  || — || April 14, 2002 || Socorro || LINEAR || FLO || align=right | 1.2 km || 
+|-id=565 bgcolor=#fefefe
+| 135565 ||  || — || April 10, 2002 || Socorro || LINEAR || — || align=right | 1.5 km || 
+|-id=566 bgcolor=#fefefe
+| 135566 ||  || — || April 14, 2002 || Socorro || LINEAR || V || align=right data-sort-value="0.95" | 950 m || 
+|-id=567 bgcolor=#fefefe
+| 135567 ||  || — || April 15, 2002 || Socorro || LINEAR || FLO || align=right | 1.2 km || 
+|-id=568 bgcolor=#fefefe
+| 135568 ||  || — || April 15, 2002 || Socorro || LINEAR || NYS || align=right | 1.3 km || 
+|-id=569 bgcolor=#fefefe
+| 135569 ||  || — || April 15, 2002 || Palomar || NEAT || NYS || align=right | 1.4 km || 
+|-id=570 bgcolor=#fefefe
+| 135570 ||  || — || April 14, 2002 || Socorro || LINEAR || V || align=right | 1.4 km || 
+|-id=571 bgcolor=#C2E0FF
+| 135571 ||  || — || April 8, 2002 || Cerro Tololo || M. W. Buie || res2:5critical || align=right | 161 km || 
+|-id=572 bgcolor=#fefefe
+| 135572 ||  || — || April 1, 2002 || Palomar || NEAT || FLO || align=right | 1.2 km || 
+|-id=573 bgcolor=#fefefe
+| 135573 ||  || — || April 4, 2002 || Palomar || NEAT || — || align=right | 1.3 km || 
+|-id=574 bgcolor=#fefefe
+| 135574 ||  || — || April 5, 2002 || Palomar || NEAT || — || align=right | 1.5 km || 
+|-id=575 bgcolor=#fefefe
+| 135575 ||  || — || April 5, 2002 || Palomar || NEAT || — || align=right | 1.6 km || 
+|-id=576 bgcolor=#fefefe
+| 135576 ||  || — || April 5, 2002 || Palomar || NEAT || — || align=right | 1.5 km || 
+|-id=577 bgcolor=#fefefe
+| 135577 ||  || — || April 8, 2002 || Kitt Peak || Spacewatch || FLO || align=right | 1.1 km || 
+|-id=578 bgcolor=#fefefe
+| 135578 ||  || — || April 9, 2002 || Anderson Mesa || LONEOS || — || align=right | 1.3 km || 
+|-id=579 bgcolor=#fefefe
+| 135579 ||  || — || April 9, 2002 || Anderson Mesa || LONEOS || — || align=right | 1.8 km || 
+|-id=580 bgcolor=#fefefe
+| 135580 ||  || — || April 9, 2002 || Kitt Peak || Spacewatch || — || align=right | 1.2 km || 
+|-id=581 bgcolor=#fefefe
+| 135581 ||  || — || April 10, 2002 || Socorro || LINEAR || — || align=right | 2.1 km || 
+|-id=582 bgcolor=#fefefe
+| 135582 ||  || — || April 10, 2002 || Socorro || LINEAR || ERI || align=right | 2.6 km || 
+|-id=583 bgcolor=#fefefe
+| 135583 ||  || — || April 9, 2002 || Socorro || LINEAR || FLO || align=right | 1.2 km || 
+|-id=584 bgcolor=#fefefe
+| 135584 ||  || — || April 10, 2002 || Socorro || LINEAR || FLO || align=right | 1.2 km || 
+|-id=585 bgcolor=#E9E9E9
+| 135585 ||  || — || April 10, 2002 || Socorro || LINEAR || GEF || align=right | 2.7 km || 
+|-id=586 bgcolor=#fefefe
+| 135586 ||  || — || April 10, 2002 || Socorro || LINEAR || V || align=right | 1.0 km || 
+|-id=587 bgcolor=#E9E9E9
+| 135587 ||  || — || April 11, 2002 || Anderson Mesa || LONEOS || GEF || align=right | 2.6 km || 
+|-id=588 bgcolor=#fefefe
+| 135588 ||  || — || April 10, 2002 || Socorro || LINEAR || — || align=right | 1.3 km || 
+|-id=589 bgcolor=#fefefe
+| 135589 ||  || — || April 10, 2002 || Socorro || LINEAR || FLO || align=right | 1.4 km || 
+|-id=590 bgcolor=#fefefe
+| 135590 ||  || — || April 11, 2002 || Socorro || LINEAR || — || align=right | 1.2 km || 
+|-id=591 bgcolor=#fefefe
+| 135591 ||  || — || April 11, 2002 || Socorro || LINEAR || V || align=right | 1.1 km || 
+|-id=592 bgcolor=#fefefe
+| 135592 ||  || — || April 12, 2002 || Socorro || LINEAR || — || align=right | 1.2 km || 
+|-id=593 bgcolor=#C2FFFF
+| 135593 ||  || — || April 12, 2002 || Socorro || LINEAR || L4 || align=right | 12 km || 
+|-id=594 bgcolor=#C2FFFF
+| 135594 ||  || — || April 13, 2002 || Palomar || NEAT || L4 || align=right | 17 km || 
+|-id=595 bgcolor=#fefefe
+| 135595 ||  || — || April 14, 2002 || Socorro || LINEAR || — || align=right | 1.2 km || 
+|-id=596 bgcolor=#E9E9E9
+| 135596 ||  || — || April 9, 2002 || Socorro || LINEAR || — || align=right | 2.6 km || 
+|-id=597 bgcolor=#fefefe
+| 135597 ||  || — || April 9, 2002 || Socorro || LINEAR || — || align=right | 1.0 km || 
+|-id=598 bgcolor=#fefefe
+| 135598 ||  || — || April 10, 2002 || Socorro || LINEAR || NYS || align=right | 1.2 km || 
+|-id=599 bgcolor=#fefefe
+| 135599 || 2002 HU || — || April 16, 2002 || Desert Eagle || W. K. Y. Yeung || — || align=right | 1.7 km || 
+|-id=600 bgcolor=#fefefe
+| 135600 ||  || — || April 16, 2002 || Socorro || LINEAR || — || align=right | 1.6 km || 
+|}
+
+== 135601–135700 ==
+
+
+|-bgcolor=#fefefe
+| 135601 ||  || — || April 16, 2002 || Socorro || LINEAR || — || align=right | 1.4 km || 
+|-id=602 bgcolor=#fefefe
+| 135602 ||  || — || April 17, 2002 || Socorro || LINEAR || V || align=right | 1.2 km || 
+|-id=603 bgcolor=#fefefe
+| 135603 ||  || — || April 29, 2002 || Palomar || NEAT || — || align=right | 1.2 km || 
+|-id=604 bgcolor=#fefefe
+| 135604 ||  || — || May 8, 2002 || Socorro || LINEAR || FLO || align=right | 1.3 km || 
+|-id=605 bgcolor=#E9E9E9
+| 135605 ||  || — || May 7, 2002 || Palomar || NEAT || — || align=right | 3.6 km || 
+|-id=606 bgcolor=#fefefe
+| 135606 ||  || — || May 7, 2002 || Palomar || NEAT || — || align=right | 1.2 km || 
+|-id=607 bgcolor=#fefefe
+| 135607 ||  || — || May 9, 2002 || Desert Eagle || W. K. Y. Yeung || V || align=right | 1.2 km || 
+|-id=608 bgcolor=#fefefe
+| 135608 ||  || — || May 8, 2002 || Socorro || LINEAR || FLO || align=right | 1.7 km || 
+|-id=609 bgcolor=#fefefe
+| 135609 ||  || — || May 8, 2002 || Socorro || LINEAR || — || align=right | 1.2 km || 
+|-id=610 bgcolor=#fefefe
+| 135610 ||  || — || May 8, 2002 || Socorro || LINEAR || — || align=right | 1.8 km || 
+|-id=611 bgcolor=#fefefe
+| 135611 ||  || — || May 8, 2002 || Socorro || LINEAR || FLO || align=right | 1.3 km || 
+|-id=612 bgcolor=#fefefe
+| 135612 ||  || — || May 8, 2002 || Socorro || LINEAR || NYS || align=right | 1.2 km || 
+|-id=613 bgcolor=#fefefe
+| 135613 ||  || — || May 9, 2002 || Socorro || LINEAR || FLO || align=right | 1.2 km || 
+|-id=614 bgcolor=#fefefe
+| 135614 ||  || — || May 9, 2002 || Socorro || LINEAR || FLO || align=right | 1.3 km || 
+|-id=615 bgcolor=#fefefe
+| 135615 ||  || — || May 9, 2002 || Socorro || LINEAR || NYS || align=right | 1.1 km || 
+|-id=616 bgcolor=#fefefe
+| 135616 ||  || — || May 9, 2002 || Desert Eagle || W. K. Y. Yeung || NYS || align=right data-sort-value="0.95" | 950 m || 
+|-id=617 bgcolor=#fefefe
+| 135617 ||  || — || May 9, 2002 || Socorro || LINEAR || — || align=right | 1.4 km || 
+|-id=618 bgcolor=#fefefe
+| 135618 ||  || — || May 9, 2002 || Socorro || LINEAR || — || align=right | 1.4 km || 
+|-id=619 bgcolor=#fefefe
+| 135619 ||  || — || May 9, 2002 || Socorro || LINEAR || NYS || align=right | 1.2 km || 
+|-id=620 bgcolor=#fefefe
+| 135620 ||  || — || May 9, 2002 || Socorro || LINEAR || V || align=right | 1.2 km || 
+|-id=621 bgcolor=#fefefe
+| 135621 ||  || — || May 8, 2002 || Socorro || LINEAR || — || align=right | 1.6 km || 
+|-id=622 bgcolor=#fefefe
+| 135622 ||  || — || May 8, 2002 || Socorro || LINEAR || — || align=right | 3.2 km || 
+|-id=623 bgcolor=#fefefe
+| 135623 ||  || — || May 9, 2002 || Socorro || LINEAR || H || align=right | 1.1 km || 
+|-id=624 bgcolor=#fefefe
+| 135624 ||  || — || May 7, 2002 || Socorro || LINEAR || V || align=right | 1.1 km || 
+|-id=625 bgcolor=#fefefe
+| 135625 ||  || — || May 8, 2002 || Socorro || LINEAR || — || align=right | 1.4 km || 
+|-id=626 bgcolor=#fefefe
+| 135626 ||  || — || May 8, 2002 || Socorro || LINEAR || V || align=right | 1.2 km || 
+|-id=627 bgcolor=#fefefe
+| 135627 ||  || — || May 11, 2002 || Socorro || LINEAR || — || align=right | 1.4 km || 
+|-id=628 bgcolor=#fefefe
+| 135628 ||  || — || May 11, 2002 || Socorro || LINEAR || FLO || align=right | 1.00 km || 
+|-id=629 bgcolor=#fefefe
+| 135629 ||  || — || May 11, 2002 || Socorro || LINEAR || V || align=right | 1.4 km || 
+|-id=630 bgcolor=#fefefe
+| 135630 ||  || — || May 11, 2002 || Socorro || LINEAR || V || align=right | 1.1 km || 
+|-id=631 bgcolor=#fefefe
+| 135631 ||  || — || May 11, 2002 || Socorro || LINEAR || V || align=right | 1.2 km || 
+|-id=632 bgcolor=#fefefe
+| 135632 ||  || — || May 11, 2002 || Socorro || LINEAR || — || align=right | 1.9 km || 
+|-id=633 bgcolor=#fefefe
+| 135633 ||  || — || May 11, 2002 || Socorro || LINEAR || — || align=right | 1.0 km || 
+|-id=634 bgcolor=#fefefe
+| 135634 ||  || — || May 11, 2002 || Socorro || LINEAR || V || align=right | 1.1 km || 
+|-id=635 bgcolor=#fefefe
+| 135635 ||  || — || May 11, 2002 || Socorro || LINEAR || V || align=right data-sort-value="0.93" | 930 m || 
+|-id=636 bgcolor=#fefefe
+| 135636 ||  || — || May 11, 2002 || Socorro || LINEAR || — || align=right | 1.2 km || 
+|-id=637 bgcolor=#fefefe
+| 135637 ||  || — || May 11, 2002 || Socorro || LINEAR || NYS || align=right data-sort-value="0.97" | 970 m || 
+|-id=638 bgcolor=#fefefe
+| 135638 ||  || — || May 11, 2002 || Socorro || LINEAR || FLO || align=right | 1.1 km || 
+|-id=639 bgcolor=#fefefe
+| 135639 ||  || — || May 11, 2002 || Socorro || LINEAR || NYS || align=right | 1.2 km || 
+|-id=640 bgcolor=#fefefe
+| 135640 ||  || — || May 8, 2002 || Anderson Mesa || LONEOS || — || align=right | 1.1 km || 
+|-id=641 bgcolor=#fefefe
+| 135641 ||  || — || May 6, 2002 || Socorro || LINEAR || PHO || align=right | 1.8 km || 
+|-id=642 bgcolor=#fefefe
+| 135642 ||  || — || May 9, 2002 || Socorro || LINEAR || MAS || align=right | 1.3 km || 
+|-id=643 bgcolor=#fefefe
+| 135643 ||  || — || May 11, 2002 || Socorro || LINEAR || NYS || align=right data-sort-value="0.90" | 900 m || 
+|-id=644 bgcolor=#fefefe
+| 135644 ||  || — || May 11, 2002 || Socorro || LINEAR || — || align=right | 1.7 km || 
+|-id=645 bgcolor=#fefefe
+| 135645 ||  || — || May 9, 2002 || Socorro || LINEAR || FLO || align=right | 1.2 km || 
+|-id=646 bgcolor=#fefefe
+| 135646 ||  || — || May 9, 2002 || Socorro || LINEAR || FLO || align=right | 1.2 km || 
+|-id=647 bgcolor=#E9E9E9
+| 135647 ||  || — || May 16, 2002 || Palomar || NEAT || — || align=right | 2.6 km || 
+|-id=648 bgcolor=#fefefe
+| 135648 ||  || — || May 16, 2002 || Socorro || LINEAR || NYS || align=right | 2.3 km || 
+|-id=649 bgcolor=#fefefe
+| 135649 ||  || — || May 17, 2002 || Socorro || LINEAR || NYS || align=right data-sort-value="0.96" | 960 m || 
+|-id=650 bgcolor=#fefefe
+| 135650 ||  || — || June 5, 2002 || Socorro || LINEAR || — || align=right | 3.0 km || 
+|-id=651 bgcolor=#fefefe
+| 135651 ||  || — || June 1, 2002 || Socorro || LINEAR || — || align=right | 1.3 km || 
+|-id=652 bgcolor=#fefefe
+| 135652 ||  || — || June 5, 2002 || Socorro || LINEAR || — || align=right | 1.6 km || 
+|-id=653 bgcolor=#fefefe
+| 135653 ||  || — || June 5, 2002 || Socorro || LINEAR || NYS || align=right | 1.5 km || 
+|-id=654 bgcolor=#fefefe
+| 135654 ||  || — || June 6, 2002 || Socorro || LINEAR || — || align=right | 1.8 km || 
+|-id=655 bgcolor=#fefefe
+| 135655 ||  || — || June 6, 2002 || Socorro || LINEAR || — || align=right | 2.3 km || 
+|-id=656 bgcolor=#fefefe
+| 135656 ||  || — || June 7, 2002 || Socorro || LINEAR || V || align=right | 1.1 km || 
+|-id=657 bgcolor=#fefefe
+| 135657 ||  || — || June 9, 2002 || Socorro || LINEAR || V || align=right | 1.1 km || 
+|-id=658 bgcolor=#E9E9E9
+| 135658 ||  || — || June 12, 2002 || Socorro || LINEAR || — || align=right | 3.5 km || 
+|-id=659 bgcolor=#fefefe
+| 135659 ||  || — || June 9, 2002 || Socorro || LINEAR || — || align=right | 1.4 km || 
+|-id=660 bgcolor=#fefefe
+| 135660 ||  || — || June 12, 2002 || Socorro || LINEAR || — || align=right | 4.7 km || 
+|-id=661 bgcolor=#E9E9E9
+| 135661 ||  || — || June 10, 2002 || Socorro || LINEAR || — || align=right | 6.2 km || 
+|-id=662 bgcolor=#E9E9E9
+| 135662 ||  || — || June 19, 2002 || Campo Imperatore || CINEOS || — || align=right | 5.1 km || 
+|-id=663 bgcolor=#fefefe
+| 135663 ||  || — || July 5, 2002 || Reedy Creek || J. Broughton || — || align=right | 1.7 km || 
+|-id=664 bgcolor=#fefefe
+| 135664 ||  || — || July 3, 2002 || Palomar || NEAT || — || align=right | 1.4 km || 
+|-id=665 bgcolor=#fefefe
+| 135665 ||  || — || July 4, 2002 || Palomar || NEAT || NYS || align=right | 1.6 km || 
+|-id=666 bgcolor=#fefefe
+| 135666 ||  || — || July 4, 2002 || Palomar || NEAT || V || align=right | 1.7 km || 
+|-id=667 bgcolor=#E9E9E9
+| 135667 ||  || — || July 9, 2002 || Socorro || LINEAR || — || align=right | 3.5 km || 
+|-id=668 bgcolor=#E9E9E9
+| 135668 ||  || — || July 9, 2002 || Socorro || LINEAR || — || align=right | 2.2 km || 
+|-id=669 bgcolor=#d6d6d6
+| 135669 ||  || — || July 9, 2002 || Socorro || LINEAR || HYG || align=right | 5.5 km || 
+|-id=670 bgcolor=#E9E9E9
+| 135670 ||  || — || July 9, 2002 || Socorro || LINEAR || MAR || align=right | 2.3 km || 
+|-id=671 bgcolor=#E9E9E9
+| 135671 ||  || — || July 9, 2002 || Socorro || LINEAR || — || align=right | 4.9 km || 
+|-id=672 bgcolor=#fefefe
+| 135672 ||  || — || July 9, 2002 || Socorro || LINEAR || — || align=right | 1.6 km || 
+|-id=673 bgcolor=#E9E9E9
+| 135673 ||  || — || July 9, 2002 || Socorro || LINEAR || — || align=right | 1.4 km || 
+|-id=674 bgcolor=#fefefe
+| 135674 ||  || — || July 15, 2002 || Reedy Creek || J. Broughton || NYS || align=right | 3.6 km || 
+|-id=675 bgcolor=#E9E9E9
+| 135675 ||  || — || July 9, 2002 || Palomar || NEAT || EUN || align=right | 2.5 km || 
+|-id=676 bgcolor=#fefefe
+| 135676 ||  || — || July 14, 2002 || Palomar || NEAT || NYS || align=right | 1.1 km || 
+|-id=677 bgcolor=#fefefe
+| 135677 ||  || — || July 14, 2002 || Palomar || NEAT || — || align=right | 1.4 km || 
+|-id=678 bgcolor=#fefefe
+| 135678 ||  || — || July 15, 2002 || Palomar || NEAT || — || align=right | 1.6 km || 
+|-id=679 bgcolor=#fefefe
+| 135679 ||  || — || July 14, 2002 || Socorro || LINEAR || MAS || align=right | 1.5 km || 
+|-id=680 bgcolor=#fefefe
+| 135680 ||  || — || July 5, 2002 || Socorro || LINEAR || — || align=right | 1.6 km || 
+|-id=681 bgcolor=#fefefe
+| 135681 ||  || — || July 9, 2002 || Socorro || LINEAR || CHL || align=right | 3.4 km || 
+|-id=682 bgcolor=#E9E9E9
+| 135682 ||  || — || July 17, 2002 || Socorro || LINEAR || — || align=right | 4.1 km || 
+|-id=683 bgcolor=#E9E9E9
+| 135683 ||  || — || July 17, 2002 || Socorro || LINEAR || — || align=right | 5.1 km || 
+|-id=684 bgcolor=#fefefe
+| 135684 ||  || — || July 18, 2002 || Needville || Needville Obs. || V || align=right | 1.2 km || 
+|-id=685 bgcolor=#E9E9E9
+| 135685 ||  || — || July 20, 2002 || Palomar || NEAT || — || align=right | 1.7 km || 
+|-id=686 bgcolor=#fefefe
+| 135686 ||  || — || July 18, 2002 || Palomar || NEAT || MAS || align=right | 1.4 km || 
+|-id=687 bgcolor=#d6d6d6
+| 135687 ||  || — || July 17, 2002 || Socorro || LINEAR || ALA || align=right | 7.8 km || 
+|-id=688 bgcolor=#E9E9E9
+| 135688 ||  || — || July 18, 2002 || Socorro || LINEAR || — || align=right | 1.9 km || 
+|-id=689 bgcolor=#E9E9E9
+| 135689 ||  || — || July 18, 2002 || Socorro || LINEAR || MAR || align=right | 2.6 km || 
+|-id=690 bgcolor=#fefefe
+| 135690 ||  || — || July 18, 2002 || Socorro || LINEAR || — || align=right | 2.0 km || 
+|-id=691 bgcolor=#fefefe
+| 135691 ||  || — || July 22, 2002 || Palomar || NEAT || — || align=right | 3.4 km || 
+|-id=692 bgcolor=#E9E9E9
+| 135692 ||  || — || July 30, 2002 || Haleakala || A. Lowe || — || align=right | 2.0 km || 
+|-id=693 bgcolor=#E9E9E9
+| 135693 ||  || — || July 23, 2002 || Palomar || NEAT || — || align=right | 1.6 km || 
+|-id=694 bgcolor=#E9E9E9
+| 135694 ||  || — || July 21, 2002 || Palomar || NEAT || — || align=right | 1.8 km || 
+|-id=695 bgcolor=#fefefe
+| 135695 || 2002 PK || — || August 1, 2002 || Campo Imperatore || CINEOS || — || align=right | 1.9 km || 
+|-id=696 bgcolor=#fefefe
+| 135696 ||  || — || August 4, 2002 || Palomar || NEAT || — || align=right | 2.9 km || 
+|-id=697 bgcolor=#fefefe
+| 135697 ||  || — || August 6, 2002 || Palomar || NEAT || — || align=right | 1.4 km || 
+|-id=698 bgcolor=#d6d6d6
+| 135698 ||  || — || August 6, 2002 || Palomar || NEAT || — || align=right | 4.1 km || 
+|-id=699 bgcolor=#fefefe
+| 135699 ||  || — || August 6, 2002 || Palomar || NEAT || MAS || align=right | 1.1 km || 
+|-id=700 bgcolor=#E9E9E9
+| 135700 ||  || — || August 6, 2002 || Palomar || NEAT || — || align=right | 4.2 km || 
+|}
+
+== 135701–135800 ==
+
+
+|-bgcolor=#E9E9E9
+| 135701 ||  || — || August 6, 2002 || Palomar || NEAT || — || align=right | 1.8 km || 
+|-id=702 bgcolor=#fefefe
+| 135702 ||  || — || August 6, 2002 || Palomar || NEAT || — || align=right | 1.8 km || 
+|-id=703 bgcolor=#E9E9E9
+| 135703 ||  || — || August 5, 2002 || Socorro || LINEAR || — || align=right | 2.4 km || 
+|-id=704 bgcolor=#fefefe
+| 135704 ||  || — || August 7, 2002 || Palomar || NEAT || MAS || align=right | 1.2 km || 
+|-id=705 bgcolor=#E9E9E9
+| 135705 ||  || — || August 8, 2002 || Palomar || NEAT || — || align=right | 3.3 km || 
+|-id=706 bgcolor=#E9E9E9
+| 135706 ||  || — || August 5, 2002 || Socorro || LINEAR || MAR14px|link=Interloper (asteroid)#506 || align=right | 3.8 km || 
+|-id=707 bgcolor=#E9E9E9
+| 135707 ||  || — || August 5, 2002 || Socorro || LINEAR || — || align=right | 2.8 km || 
+|-id=708 bgcolor=#E9E9E9
+| 135708 ||  || — || August 5, 2002 || Socorro || LINEAR || — || align=right | 4.7 km || 
+|-id=709 bgcolor=#E9E9E9
+| 135709 ||  || — || August 9, 2002 || Socorro || LINEAR || — || align=right | 2.6 km || 
+|-id=710 bgcolor=#E9E9E9
+| 135710 ||  || — || August 9, 2002 || Socorro || LINEAR || — || align=right | 3.0 km || 
+|-id=711 bgcolor=#E9E9E9
+| 135711 ||  || — || August 10, 2002 || Socorro || LINEAR || EUN || align=right | 2.3 km || 
+|-id=712 bgcolor=#E9E9E9
+| 135712 ||  || — || August 10, 2002 || Socorro || LINEAR || — || align=right | 8.9 km || 
+|-id=713 bgcolor=#E9E9E9
+| 135713 ||  || — || August 10, 2002 || Socorro || LINEAR || MIT || align=right | 3.6 km || 
+|-id=714 bgcolor=#E9E9E9
+| 135714 ||  || — || August 10, 2002 || Socorro || LINEAR || — || align=right | 1.9 km || 
+|-id=715 bgcolor=#E9E9E9
+| 135715 ||  || — || August 9, 2002 || Socorro || LINEAR || EUN || align=right | 2.4 km || 
+|-id=716 bgcolor=#fefefe
+| 135716 ||  || — || August 9, 2002 || Socorro || LINEAR || — || align=right | 1.8 km || 
+|-id=717 bgcolor=#E9E9E9
+| 135717 ||  || — || August 10, 2002 || Socorro || LINEAR || — || align=right | 2.0 km || 
+|-id=718 bgcolor=#E9E9E9
+| 135718 ||  || — || August 11, 2002 || Socorro || LINEAR || MIT || align=right | 6.6 km || 
+|-id=719 bgcolor=#fefefe
+| 135719 ||  || — || August 6, 2002 || Palomar || NEAT || — || align=right | 1.9 km || 
+|-id=720 bgcolor=#E9E9E9
+| 135720 ||  || — || August 12, 2002 || Socorro || LINEAR || — || align=right | 2.6 km || 
+|-id=721 bgcolor=#E9E9E9
+| 135721 ||  || — || August 11, 2002 || Haleakala || NEAT || — || align=right | 2.1 km || 
+|-id=722 bgcolor=#E9E9E9
+| 135722 ||  || — || August 11, 2002 || Palomar || NEAT || — || align=right | 4.0 km || 
+|-id=723 bgcolor=#E9E9E9
+| 135723 ||  || — || August 13, 2002 || Socorro || LINEAR || — || align=right | 2.5 km || 
+|-id=724 bgcolor=#E9E9E9
+| 135724 ||  || — || August 12, 2002 || Haleakala || NEAT || — || align=right | 1.8 km || 
+|-id=725 bgcolor=#E9E9E9
+| 135725 ||  || — || August 14, 2002 || Socorro || LINEAR || — || align=right | 3.4 km || 
+|-id=726 bgcolor=#E9E9E9
+| 135726 ||  || — || August 12, 2002 || Socorro || LINEAR || — || align=right | 1.9 km || 
+|-id=727 bgcolor=#fefefe
+| 135727 ||  || — || August 12, 2002 || Haleakala || NEAT || MAS || align=right | 1.7 km || 
+|-id=728 bgcolor=#E9E9E9
+| 135728 ||  || — || August 15, 2002 || Socorro || LINEAR || — || align=right | 2.5 km || 
+|-id=729 bgcolor=#E9E9E9
+| 135729 ||  || — || August 15, 2002 || Socorro || LINEAR || — || align=right | 3.0 km || 
+|-id=730 bgcolor=#d6d6d6
+| 135730 ||  || — || August 13, 2002 || Anderson Mesa || LONEOS || ALA || align=right | 7.7 km || 
+|-id=731 bgcolor=#E9E9E9
+| 135731 ||  || — || August 13, 2002 || Kitt Peak || Spacewatch || — || align=right | 1.9 km || 
+|-id=732 bgcolor=#fefefe
+| 135732 ||  || — || August 14, 2002 || Socorro || LINEAR || NYS || align=right | 1.7 km || 
+|-id=733 bgcolor=#E9E9E9
+| 135733 ||  || — || August 14, 2002 || Socorro || LINEAR || ADE || align=right | 4.6 km || 
+|-id=734 bgcolor=#E9E9E9
+| 135734 ||  || — || August 15, 2002 || Anderson Mesa || LONEOS || — || align=right | 4.7 km || 
+|-id=735 bgcolor=#E9E9E9
+| 135735 ||  || — || August 15, 2002 || Socorro || LINEAR || — || align=right | 2.7 km || 
+|-id=736 bgcolor=#E9E9E9
+| 135736 ||  || — || August 13, 2002 || Socorro || LINEAR || — || align=right | 2.5 km || 
+|-id=737 bgcolor=#E9E9E9
+| 135737 ||  || — || August 14, 2002 || Siding Spring || R. H. McNaught || — || align=right | 1.9 km || 
+|-id=738 bgcolor=#E9E9E9
+| 135738 ||  || — || August 14, 2002 || Siding Spring || R. H. McNaught || — || align=right | 2.4 km || 
+|-id=739 bgcolor=#fefefe
+| 135739 ||  || — || August 9, 2002 || Cerro Tololo || Cerro Tololo Obs. || — || align=right | 1.4 km || 
+|-id=740 bgcolor=#fefefe
+| 135740 ||  || — || August 8, 2002 || Palomar || S. F. Hönig || — || align=right | 2.4 km || 
+|-id=741 bgcolor=#E9E9E9
+| 135741 ||  || — || August 8, 2002 || Palomar || A. Lowe || — || align=right | 2.5 km || 
+|-id=742 bgcolor=#C2E0FF
+| 135742 ||  || — || August 5, 2002 || Mauna Kea || Mauna Kea Obs. || cubewano (hot) || align=right | 185 km || 
+|-id=743 bgcolor=#fefefe
+| 135743 ||  || — || August 11, 2002 || Palomar || NEAT || — || align=right | 1.7 km || 
+|-id=744 bgcolor=#E9E9E9
+| 135744 ||  || — || August 16, 2002 || Haleakala || NEAT || — || align=right | 1.8 km || 
+|-id=745 bgcolor=#E9E9E9
+| 135745 ||  || — || August 17, 2002 || Tenagra || Tenagra Obs. || — || align=right | 7.7 km || 
+|-id=746 bgcolor=#fefefe
+| 135746 ||  || — || August 16, 2002 || Palomar || NEAT || — || align=right | 1.7 km || 
+|-id=747 bgcolor=#E9E9E9
+| 135747 ||  || — || August 19, 2002 || Haleakala || NEAT || — || align=right | 2.4 km || 
+|-id=748 bgcolor=#E9E9E9
+| 135748 ||  || — || August 24, 2002 || Palomar || NEAT || — || align=right | 2.7 km || 
+|-id=749 bgcolor=#E9E9E9
+| 135749 ||  || — || August 27, 2002 || Palomar || NEAT || MAR || align=right | 2.2 km || 
+|-id=750 bgcolor=#E9E9E9
+| 135750 ||  || — || August 26, 2002 || Palomar || NEAT || — || align=right | 2.0 km || 
+|-id=751 bgcolor=#E9E9E9
+| 135751 ||  || — || August 28, 2002 || Palomar || NEAT || — || align=right | 4.4 km || 
+|-id=752 bgcolor=#fefefe
+| 135752 ||  || — || August 27, 2002 || Palomar || NEAT || MAS || align=right | 1.1 km || 
+|-id=753 bgcolor=#E9E9E9
+| 135753 ||  || — || August 30, 2002 || Kitt Peak || Spacewatch || — || align=right | 3.2 km || 
+|-id=754 bgcolor=#E9E9E9
+| 135754 ||  || — || August 17, 2002 || Palomar || NEAT || MAR || align=right | 1.9 km || 
+|-id=755 bgcolor=#fefefe
+| 135755 ||  || — || August 16, 2002 || Palomar || NEAT || — || align=right | 1.4 km || 
+|-id=756 bgcolor=#E9E9E9
+| 135756 || 2002 RN || — || September 2, 2002 || Ondřejov || P. Pravec, P. Kušnirák || — || align=right | 4.5 km || 
+|-id=757 bgcolor=#E9E9E9
+| 135757 ||  || — || September 4, 2002 || Anderson Mesa || LONEOS || — || align=right | 1.4 km || 
+|-id=758 bgcolor=#E9E9E9
+| 135758 ||  || — || September 4, 2002 || Anderson Mesa || LONEOS || — || align=right | 1.8 km || 
+|-id=759 bgcolor=#E9E9E9
+| 135759 ||  || — || September 4, 2002 || Anderson Mesa || LONEOS || — || align=right | 2.1 km || 
+|-id=760 bgcolor=#E9E9E9
+| 135760 ||  || — || September 4, 2002 || Anderson Mesa || LONEOS || BRU || align=right | 6.9 km || 
+|-id=761 bgcolor=#E9E9E9
+| 135761 ||  || — || September 4, 2002 || Anderson Mesa || LONEOS || — || align=right | 3.6 km || 
+|-id=762 bgcolor=#E9E9E9
+| 135762 ||  || — || September 4, 2002 || Anderson Mesa || LONEOS || — || align=right | 2.2 km || 
+|-id=763 bgcolor=#E9E9E9
+| 135763 ||  || — || September 4, 2002 || Anderson Mesa || LONEOS || — || align=right | 2.9 km || 
+|-id=764 bgcolor=#E9E9E9
+| 135764 ||  || — || September 5, 2002 || Socorro || LINEAR || — || align=right | 2.9 km || 
+|-id=765 bgcolor=#E9E9E9
+| 135765 ||  || — || September 3, 2002 || Haleakala || NEAT || RAF || align=right | 1.6 km || 
+|-id=766 bgcolor=#E9E9E9
+| 135766 ||  || — || September 4, 2002 || Anderson Mesa || LONEOS || — || align=right | 2.2 km || 
+|-id=767 bgcolor=#E9E9E9
+| 135767 ||  || — || September 4, 2002 || Anderson Mesa || LONEOS || — || align=right | 1.9 km || 
+|-id=768 bgcolor=#E9E9E9
+| 135768 ||  || — || September 4, 2002 || Anderson Mesa || LONEOS || CLO || align=right | 3.9 km || 
+|-id=769 bgcolor=#E9E9E9
+| 135769 ||  || — || September 4, 2002 || Anderson Mesa || LONEOS || — || align=right | 5.0 km || 
+|-id=770 bgcolor=#E9E9E9
+| 135770 ||  || — || September 5, 2002 || Anderson Mesa || LONEOS || RAF || align=right | 1.9 km || 
+|-id=771 bgcolor=#E9E9E9
+| 135771 ||  || — || September 5, 2002 || Socorro || LINEAR || — || align=right | 2.2 km || 
+|-id=772 bgcolor=#E9E9E9
+| 135772 ||  || — || September 5, 2002 || Socorro || LINEAR || — || align=right | 1.2 km || 
+|-id=773 bgcolor=#E9E9E9
+| 135773 ||  || — || September 5, 2002 || Socorro || LINEAR || — || align=right | 3.4 km || 
+|-id=774 bgcolor=#E9E9E9
+| 135774 ||  || — || September 5, 2002 || Socorro || LINEAR || — || align=right | 3.4 km || 
+|-id=775 bgcolor=#E9E9E9
+| 135775 ||  || — || September 5, 2002 || Socorro || LINEAR || — || align=right | 3.6 km || 
+|-id=776 bgcolor=#E9E9E9
+| 135776 ||  || — || September 5, 2002 || Anderson Mesa || LONEOS || — || align=right | 2.7 km || 
+|-id=777 bgcolor=#E9E9E9
+| 135777 ||  || — || September 5, 2002 || Socorro || LINEAR || — || align=right | 2.0 km || 
+|-id=778 bgcolor=#E9E9E9
+| 135778 ||  || — || September 5, 2002 || Socorro || LINEAR || MIS || align=right | 5.5 km || 
+|-id=779 bgcolor=#E9E9E9
+| 135779 ||  || — || September 5, 2002 || Socorro || LINEAR || — || align=right | 2.4 km || 
+|-id=780 bgcolor=#E9E9E9
+| 135780 ||  || — || September 3, 2002 || Palomar || NEAT || — || align=right | 5.9 km || 
+|-id=781 bgcolor=#E9E9E9
+| 135781 ||  || — || September 5, 2002 || Socorro || LINEAR || HEN || align=right | 1.8 km || 
+|-id=782 bgcolor=#E9E9E9
+| 135782 ||  || — || September 5, 2002 || Socorro || LINEAR || — || align=right | 4.2 km || 
+|-id=783 bgcolor=#E9E9E9
+| 135783 ||  || — || September 5, 2002 || Socorro || LINEAR || — || align=right | 1.6 km || 
+|-id=784 bgcolor=#d6d6d6
+| 135784 ||  || — || September 5, 2002 || Socorro || LINEAR || THM || align=right | 4.2 km || 
+|-id=785 bgcolor=#E9E9E9
+| 135785 ||  || — || September 5, 2002 || Socorro || LINEAR || — || align=right | 2.9 km || 
+|-id=786 bgcolor=#E9E9E9
+| 135786 ||  || — || September 5, 2002 || Socorro || LINEAR || — || align=right | 2.4 km || 
+|-id=787 bgcolor=#d6d6d6
+| 135787 ||  || — || September 5, 2002 || Socorro || LINEAR || — || align=right | 5.5 km || 
+|-id=788 bgcolor=#E9E9E9
+| 135788 ||  || — || September 5, 2002 || Socorro || LINEAR || MAR || align=right | 2.7 km || 
+|-id=789 bgcolor=#E9E9E9
+| 135789 ||  || — || September 5, 2002 || Socorro || LINEAR || — || align=right | 1.6 km || 
+|-id=790 bgcolor=#E9E9E9
+| 135790 ||  || — || September 5, 2002 || Anderson Mesa || LONEOS || — || align=right | 2.4 km || 
+|-id=791 bgcolor=#E9E9E9
+| 135791 ||  || — || September 5, 2002 || Socorro || LINEAR || — || align=right | 3.2 km || 
+|-id=792 bgcolor=#E9E9E9
+| 135792 ||  || — || September 5, 2002 || Socorro || LINEAR || PAD || align=right | 3.3 km || 
+|-id=793 bgcolor=#E9E9E9
+| 135793 ||  || — || September 5, 2002 || Socorro || LINEAR || — || align=right | 4.4 km || 
+|-id=794 bgcolor=#E9E9E9
+| 135794 ||  || — || September 5, 2002 || Socorro || LINEAR || — || align=right | 2.5 km || 
+|-id=795 bgcolor=#E9E9E9
+| 135795 ||  || — || September 5, 2002 || Socorro || LINEAR || — || align=right | 2.7 km || 
+|-id=796 bgcolor=#E9E9E9
+| 135796 ||  || — || September 5, 2002 || Socorro || LINEAR || EUN || align=right | 2.4 km || 
+|-id=797 bgcolor=#E9E9E9
+| 135797 ||  || — || September 5, 2002 || Socorro || LINEAR || — || align=right | 2.0 km || 
+|-id=798 bgcolor=#E9E9E9
+| 135798 ||  || — || September 5, 2002 || Socorro || LINEAR || — || align=right | 2.0 km || 
+|-id=799 bgcolor=#E9E9E9
+| 135799 Ráczmiklós ||  ||  || September 7, 2002 || Piszkéstető || K. Sárneczky || — || align=right | 1.6 km || 
+|-id=800 bgcolor=#E9E9E9
+| 135800 ||  || — || September 6, 2002 || Socorro || LINEAR || — || align=right | 3.5 km || 
+|}
+
+== 135801–135900 ==
+
+
+|-bgcolor=#E9E9E9
+| 135801 ||  || — || September 6, 2002 || Socorro || LINEAR || ADE || align=right | 3.1 km || 
+|-id=802 bgcolor=#E9E9E9
+| 135802 ||  || — || September 3, 2002 || Palomar || NEAT || HNS || align=right | 2.2 km || 
+|-id=803 bgcolor=#E9E9E9
+| 135803 ||  || — || September 6, 2002 || Socorro || LINEAR || MAR || align=right | 1.7 km || 
+|-id=804 bgcolor=#E9E9E9
+| 135804 ||  || — || September 6, 2002 || Socorro || LINEAR || — || align=right | 3.0 km || 
+|-id=805 bgcolor=#E9E9E9
+| 135805 ||  || — || September 7, 2002 || Socorro || LINEAR || INO || align=right | 3.4 km || 
+|-id=806 bgcolor=#E9E9E9
+| 135806 ||  || — || September 8, 2002 || Haleakala || NEAT || — || align=right | 3.1 km || 
+|-id=807 bgcolor=#E9E9E9
+| 135807 ||  || — || September 11, 2002 || Palomar || NEAT || — || align=right | 1.9 km || 
+|-id=808 bgcolor=#E9E9E9
+| 135808 ||  || — || September 10, 2002 || Haleakala || NEAT || MAR || align=right | 2.7 km || 
+|-id=809 bgcolor=#E9E9E9
+| 135809 ||  || — || September 11, 2002 || Haleakala || NEAT || ADE || align=right | 3.0 km || 
+|-id=810 bgcolor=#E9E9E9
+| 135810 ||  || — || September 11, 2002 || Palomar || NEAT || MRX || align=right | 2.1 km || 
+|-id=811 bgcolor=#E9E9E9
+| 135811 ||  || — || September 11, 2002 || Palomar || NEAT || — || align=right | 4.1 km || 
+|-id=812 bgcolor=#E9E9E9
+| 135812 ||  || — || September 13, 2002 || Palomar || NEAT || MIS || align=right | 2.6 km || 
+|-id=813 bgcolor=#E9E9E9
+| 135813 ||  || — || September 13, 2002 || Palomar || NEAT || — || align=right | 2.0 km || 
+|-id=814 bgcolor=#E9E9E9
+| 135814 ||  || — || September 13, 2002 || Kitt Peak || Spacewatch || — || align=right | 2.0 km || 
+|-id=815 bgcolor=#E9E9E9
+| 135815 ||  || — || September 12, 2002 || Palomar || NEAT || — || align=right | 3.0 km || 
+|-id=816 bgcolor=#E9E9E9
+| 135816 ||  || — || September 12, 2002 || Palomar || NEAT || — || align=right | 3.5 km || 
+|-id=817 bgcolor=#E9E9E9
+| 135817 ||  || — || September 13, 2002 || Palomar || NEAT || — || align=right | 4.3 km || 
+|-id=818 bgcolor=#E9E9E9
+| 135818 ||  || — || September 13, 2002 || Palomar || NEAT || WIT || align=right | 1.8 km || 
+|-id=819 bgcolor=#E9E9E9
+| 135819 ||  || — || September 13, 2002 || Socorro || LINEAR || — || align=right | 1.5 km || 
+|-id=820 bgcolor=#E9E9E9
+| 135820 ||  || — || September 13, 2002 || Palomar || NEAT || ADE || align=right | 3.4 km || 
+|-id=821 bgcolor=#E9E9E9
+| 135821 ||  || — || September 14, 2002 || Palomar || NEAT || — || align=right | 1.5 km || 
+|-id=822 bgcolor=#E9E9E9
+| 135822 ||  || — || September 12, 2002 || Palomar || NEAT || — || align=right | 2.0 km || 
+|-id=823 bgcolor=#E9E9E9
+| 135823 ||  || — || September 13, 2002 || Haleakala || NEAT || — || align=right | 1.4 km || 
+|-id=824 bgcolor=#E9E9E9
+| 135824 ||  || — || September 14, 2002 || Palomar || NEAT || — || align=right | 1.3 km || 
+|-id=825 bgcolor=#E9E9E9
+| 135825 ||  || — || September 13, 2002 || Palomar || NEAT || HEN || align=right | 2.0 km || 
+|-id=826 bgcolor=#E9E9E9
+| 135826 ||  || — || September 14, 2002 || Palomar || NEAT || — || align=right | 1.4 km || 
+|-id=827 bgcolor=#E9E9E9
+| 135827 ||  || — || September 14, 2002 || Haleakala || NEAT || MAR || align=right | 1.6 km || 
+|-id=828 bgcolor=#E9E9E9
+| 135828 ||  || — || September 14, 2002 || Haleakala || NEAT || — || align=right | 2.7 km || 
+|-id=829 bgcolor=#E9E9E9
+| 135829 ||  || — || September 14, 2002 || Palomar || R. Matson || — || align=right | 1.3 km || 
+|-id=830 bgcolor=#E9E9E9
+| 135830 ||  || — || September 13, 2002 || Palomar || R. Matson || — || align=right | 1.8 km || 
+|-id=831 bgcolor=#E9E9E9
+| 135831 ||  || — || September 1, 2002 || Haleakala || NEAT || — || align=right | 1.9 km || 
+|-id=832 bgcolor=#E9E9E9
+| 135832 ||  || — || September 5, 2002 || Haleakala || NEAT || — || align=right | 1.7 km || 
+|-id=833 bgcolor=#E9E9E9
+| 135833 ||  || — || September 14, 2002 || Palomar || NEAT || — || align=right | 1.4 km || 
+|-id=834 bgcolor=#E9E9E9
+| 135834 || 2002 SO || — || September 21, 2002 || Pla D'Arguines || R. Ferrando || MAR || align=right | 3.0 km || 
+|-id=835 bgcolor=#E9E9E9
+| 135835 ||  || — || September 26, 2002 || Palomar || NEAT || — || align=right | 2.8 km || 
+|-id=836 bgcolor=#E9E9E9
+| 135836 ||  || — || September 27, 2002 || Palomar || NEAT || HEN || align=right | 2.4 km || 
+|-id=837 bgcolor=#d6d6d6
+| 135837 ||  || — || September 27, 2002 || Palomar || NEAT || — || align=right | 5.1 km || 
+|-id=838 bgcolor=#E9E9E9
+| 135838 ||  || — || September 27, 2002 || Anderson Mesa || LONEOS || PAD || align=right | 4.5 km || 
+|-id=839 bgcolor=#E9E9E9
+| 135839 ||  || — || September 26, 2002 || Palomar || NEAT || WIT || align=right | 1.8 km || 
+|-id=840 bgcolor=#E9E9E9
+| 135840 ||  || — || September 28, 2002 || Haleakala || NEAT || — || align=right | 2.8 km || 
+|-id=841 bgcolor=#E9E9E9
+| 135841 ||  || — || September 28, 2002 || Haleakala || NEAT || — || align=right | 5.1 km || 
+|-id=842 bgcolor=#E9E9E9
+| 135842 ||  || — || September 28, 2002 || Haleakala || NEAT || — || align=right | 2.7 km || 
+|-id=843 bgcolor=#E9E9E9
+| 135843 ||  || — || September 28, 2002 || Haleakala || NEAT || — || align=right | 1.7 km || 
+|-id=844 bgcolor=#E9E9E9
+| 135844 ||  || — || September 28, 2002 || Haleakala || NEAT || — || align=right | 2.6 km || 
+|-id=845 bgcolor=#E9E9E9
+| 135845 ||  || — || September 28, 2002 || Haleakala || NEAT || MAR || align=right | 2.0 km || 
+|-id=846 bgcolor=#E9E9E9
+| 135846 ||  || — || September 29, 2002 || Haleakala || NEAT || — || align=right | 2.1 km || 
+|-id=847 bgcolor=#fefefe
+| 135847 ||  || — || September 30, 2002 || Socorro || LINEAR || — || align=right | 1.5 km || 
+|-id=848 bgcolor=#E9E9E9
+| 135848 ||  || — || September 28, 2002 || Haleakala || NEAT || — || align=right | 2.2 km || 
+|-id=849 bgcolor=#E9E9E9
+| 135849 ||  || — || September 28, 2002 || Haleakala || NEAT || — || align=right | 3.4 km || 
+|-id=850 bgcolor=#E9E9E9
+| 135850 ||  || — || September 28, 2002 || Haleakala || NEAT || — || align=right | 4.5 km || 
+|-id=851 bgcolor=#E9E9E9
+| 135851 ||  || — || September 29, 2002 || Haleakala || NEAT || MIT || align=right | 4.5 km || 
+|-id=852 bgcolor=#E9E9E9
+| 135852 ||  || — || September 30, 2002 || Haleakala || NEAT || — || align=right | 2.2 km || 
+|-id=853 bgcolor=#E9E9E9
+| 135853 ||  || — || September 17, 2002 || Palomar || NEAT || — || align=right | 3.1 km || 
+|-id=854 bgcolor=#E9E9E9
+| 135854 ||  || — || September 18, 2002 || Palomar || NEAT || — || align=right | 2.9 km || 
+|-id=855 bgcolor=#E9E9E9
+| 135855 ||  || — || September 20, 2002 || Palomar || NEAT || EUN || align=right | 2.9 km || 
+|-id=856 bgcolor=#d6d6d6
+| 135856 ||  || — || September 30, 2002 || Socorro || LINEAR || CHA || align=right | 4.2 km || 
+|-id=857 bgcolor=#E9E9E9
+| 135857 ||  || — || September 30, 2002 || Haleakala || NEAT || — || align=right | 4.2 km || 
+|-id=858 bgcolor=#E9E9E9
+| 135858 ||  || — || September 30, 2002 || Haleakala || NEAT || — || align=right | 4.7 km || 
+|-id=859 bgcolor=#E9E9E9
+| 135859 || 2002 TS || — || October 1, 2002 || Anderson Mesa || LONEOS || — || align=right | 3.3 km || 
+|-id=860 bgcolor=#E9E9E9
+| 135860 ||  || — || October 1, 2002 || Anderson Mesa || LONEOS || — || align=right | 2.6 km || 
+|-id=861 bgcolor=#d6d6d6
+| 135861 ||  || — || October 1, 2002 || Anderson Mesa || LONEOS || KOR || align=right | 3.0 km || 
+|-id=862 bgcolor=#E9E9E9
+| 135862 ||  || — || October 1, 2002 || Anderson Mesa || LONEOS || MIS || align=right | 3.9 km || 
+|-id=863 bgcolor=#E9E9E9
+| 135863 ||  || — || October 1, 2002 || Socorro || LINEAR || — || align=right | 4.1 km || 
+|-id=864 bgcolor=#E9E9E9
+| 135864 ||  || — || October 1, 2002 || Socorro || LINEAR || — || align=right | 3.2 km || 
+|-id=865 bgcolor=#E9E9E9
+| 135865 ||  || — || October 2, 2002 || Socorro || LINEAR || — || align=right | 4.6 km || 
+|-id=866 bgcolor=#E9E9E9
+| 135866 ||  || — || October 2, 2002 || Socorro || LINEAR || — || align=right | 2.9 km || 
+|-id=867 bgcolor=#E9E9E9
+| 135867 ||  || — || October 2, 2002 || Socorro || LINEAR || NEM || align=right | 3.2 km || 
+|-id=868 bgcolor=#E9E9E9
+| 135868 ||  || — || October 2, 2002 || Socorro || LINEAR || — || align=right | 3.3 km || 
+|-id=869 bgcolor=#E9E9E9
+| 135869 ||  || — || October 2, 2002 || Socorro || LINEAR || HOF || align=right | 4.9 km || 
+|-id=870 bgcolor=#E9E9E9
+| 135870 ||  || — || October 2, 2002 || Socorro || LINEAR || HEN || align=right | 1.9 km || 
+|-id=871 bgcolor=#E9E9E9
+| 135871 ||  || — || October 2, 2002 || Socorro || LINEAR || HEN || align=right | 2.3 km || 
+|-id=872 bgcolor=#d6d6d6
+| 135872 ||  || — || October 2, 2002 || Socorro || LINEAR || — || align=right | 5.1 km || 
+|-id=873 bgcolor=#E9E9E9
+| 135873 ||  || — || October 2, 2002 || Socorro || LINEAR || RAF || align=right | 1.6 km || 
+|-id=874 bgcolor=#E9E9E9
+| 135874 ||  || — || October 2, 2002 || Socorro || LINEAR || — || align=right | 4.5 km || 
+|-id=875 bgcolor=#E9E9E9
+| 135875 ||  || — || October 2, 2002 || Socorro || LINEAR || — || align=right | 4.0 km || 
+|-id=876 bgcolor=#E9E9E9
+| 135876 ||  || — || October 2, 2002 || Socorro || LINEAR || AGN || align=right | 1.9 km || 
+|-id=877 bgcolor=#fefefe
+| 135877 ||  || — || October 2, 2002 || Socorro || LINEAR || — || align=right | 1.6 km || 
+|-id=878 bgcolor=#E9E9E9
+| 135878 ||  || — || October 2, 2002 || Socorro || LINEAR || — || align=right | 1.8 km || 
+|-id=879 bgcolor=#E9E9E9
+| 135879 ||  || — || October 2, 2002 || Socorro || LINEAR || GEF || align=right | 2.4 km || 
+|-id=880 bgcolor=#E9E9E9
+| 135880 ||  || — || October 2, 2002 || Socorro || LINEAR || — || align=right | 3.5 km || 
+|-id=881 bgcolor=#E9E9E9
+| 135881 ||  || — || October 2, 2002 || Socorro || LINEAR || — || align=right | 5.1 km || 
+|-id=882 bgcolor=#E9E9E9
+| 135882 ||  || — || October 2, 2002 || Socorro || LINEAR || PAD || align=right | 3.9 km || 
+|-id=883 bgcolor=#E9E9E9
+| 135883 ||  || — || October 2, 2002 || Socorro || LINEAR || — || align=right | 4.4 km || 
+|-id=884 bgcolor=#E9E9E9
+| 135884 ||  || — || October 2, 2002 || Socorro || LINEAR || — || align=right | 5.1 km || 
+|-id=885 bgcolor=#E9E9E9
+| 135885 ||  || — || October 2, 2002 || Socorro || LINEAR || — || align=right | 2.7 km || 
+|-id=886 bgcolor=#E9E9E9
+| 135886 ||  || — || October 2, 2002 || Socorro || LINEAR || — || align=right | 2.5 km || 
+|-id=887 bgcolor=#E9E9E9
+| 135887 ||  || — || October 2, 2002 || Socorro || LINEAR || DOR || align=right | 6.1 km || 
+|-id=888 bgcolor=#E9E9E9
+| 135888 ||  || — || October 2, 2002 || Socorro || LINEAR || MRX || align=right | 2.3 km || 
+|-id=889 bgcolor=#E9E9E9
+| 135889 ||  || — || October 3, 2002 || Campo Imperatore || CINEOS || CLO || align=right | 3.9 km || 
+|-id=890 bgcolor=#E9E9E9
+| 135890 ||  || — || October 3, 2002 || Campo Imperatore || CINEOS || — || align=right | 5.1 km || 
+|-id=891 bgcolor=#E9E9E9
+| 135891 ||  || — || October 4, 2002 || Fountain Hills || C. W. Juels, P. R. Holvorcem || — || align=right | 2.2 km || 
+|-id=892 bgcolor=#E9E9E9
+| 135892 ||  || — || October 4, 2002 || Campo Imperatore || CINEOS || HEN || align=right | 2.0 km || 
+|-id=893 bgcolor=#E9E9E9
+| 135893 ||  || — || October 3, 2002 || Palomar || NEAT || — || align=right | 2.1 km || 
+|-id=894 bgcolor=#E9E9E9
+| 135894 ||  || — || October 3, 2002 || Palomar || NEAT || — || align=right | 1.7 km || 
+|-id=895 bgcolor=#E9E9E9
+| 135895 ||  || — || October 3, 2002 || Palomar || NEAT || — || align=right | 5.5 km || 
+|-id=896 bgcolor=#E9E9E9
+| 135896 ||  || — || October 1, 2002 || Anderson Mesa || LONEOS || NEM || align=right | 4.8 km || 
+|-id=897 bgcolor=#E9E9E9
+| 135897 ||  || — || October 1, 2002 || Anderson Mesa || LONEOS || — || align=right | 3.5 km || 
+|-id=898 bgcolor=#E9E9E9
+| 135898 ||  || — || October 1, 2002 || Anderson Mesa || LONEOS || — || align=right | 4.5 km || 
+|-id=899 bgcolor=#E9E9E9
+| 135899 ||  || — || October 1, 2002 || Anderson Mesa || LONEOS || — || align=right | 3.1 km || 
+|-id=900 bgcolor=#E9E9E9
+| 135900 ||  || — || October 1, 2002 || Anderson Mesa || LONEOS || — || align=right | 2.2 km || 
+|}
+
+== 135901–136000 ==
+
+
+|-bgcolor=#E9E9E9
+| 135901 ||  || — || October 1, 2002 || Anderson Mesa || LONEOS || — || align=right | 3.0 km || 
+|-id=902 bgcolor=#E9E9E9
+| 135902 ||  || — || October 2, 2002 || Haleakala || NEAT || — || align=right | 2.8 km || 
+|-id=903 bgcolor=#E9E9E9
+| 135903 ||  || — || October 3, 2002 || Palomar || NEAT || WIT || align=right | 1.7 km || 
+|-id=904 bgcolor=#d6d6d6
+| 135904 ||  || — || October 3, 2002 || Palomar || NEAT || — || align=right | 5.8 km || 
+|-id=905 bgcolor=#E9E9E9
+| 135905 ||  || — || October 3, 2002 || Palomar || NEAT || — || align=right | 4.4 km || 
+|-id=906 bgcolor=#E9E9E9
+| 135906 ||  || — || October 3, 2002 || Palomar || NEAT || — || align=right | 1.6 km || 
+|-id=907 bgcolor=#E9E9E9
+| 135907 ||  || — || October 4, 2002 || Socorro || LINEAR || — || align=right | 2.8 km || 
+|-id=908 bgcolor=#E9E9E9
+| 135908 ||  || — || October 4, 2002 || Socorro || LINEAR || AGN || align=right | 2.1 km || 
+|-id=909 bgcolor=#E9E9E9
+| 135909 ||  || — || October 4, 2002 || Anderson Mesa || LONEOS || ADE || align=right | 4.2 km || 
+|-id=910 bgcolor=#E9E9E9
+| 135910 ||  || — || October 2, 2002 || Campo Imperatore || CINEOS || — || align=right | 2.8 km || 
+|-id=911 bgcolor=#E9E9E9
+| 135911 ||  || — || October 3, 2002 || Palomar || NEAT || — || align=right | 4.7 km || 
+|-id=912 bgcolor=#E9E9E9
+| 135912 ||  || — || October 3, 2002 || Palomar || NEAT || DOR || align=right | 6.7 km || 
+|-id=913 bgcolor=#E9E9E9
+| 135913 ||  || — || October 4, 2002 || Anderson Mesa || LONEOS || — || align=right | 4.6 km || 
+|-id=914 bgcolor=#d6d6d6
+| 135914 ||  || — || October 4, 2002 || Anderson Mesa || LONEOS || — || align=right | 7.3 km || 
+|-id=915 bgcolor=#d6d6d6
+| 135915 ||  || — || October 4, 2002 || Anderson Mesa || LONEOS || — || align=right | 5.2 km || 
+|-id=916 bgcolor=#fefefe
+| 135916 ||  || — || October 4, 2002 || Anderson Mesa || LONEOS || — || align=right | 2.4 km || 
+|-id=917 bgcolor=#E9E9E9
+| 135917 ||  || — || October 4, 2002 || Palomar || NEAT || PAD || align=right | 2.6 km || 
+|-id=918 bgcolor=#E9E9E9
+| 135918 ||  || — || October 5, 2002 || Palomar || NEAT || ADE || align=right | 5.1 km || 
+|-id=919 bgcolor=#d6d6d6
+| 135919 ||  || — || October 5, 2002 || Palomar || NEAT || — || align=right | 5.0 km || 
+|-id=920 bgcolor=#E9E9E9
+| 135920 ||  || — || October 5, 2002 || Palomar || NEAT || — || align=right | 3.3 km || 
+|-id=921 bgcolor=#E9E9E9
+| 135921 ||  || — || October 3, 2002 || Palomar || NEAT || — || align=right | 3.2 km || 
+|-id=922 bgcolor=#E9E9E9
+| 135922 ||  || — || October 3, 2002 || Palomar || NEAT || — || align=right | 4.2 km || 
+|-id=923 bgcolor=#E9E9E9
+| 135923 ||  || — || October 3, 2002 || Palomar || NEAT || — || align=right | 5.1 km || 
+|-id=924 bgcolor=#E9E9E9
+| 135924 ||  || — || October 4, 2002 || Socorro || LINEAR || — || align=right | 4.8 km || 
+|-id=925 bgcolor=#E9E9E9
+| 135925 ||  || — || October 4, 2002 || Anderson Mesa || LONEOS || — || align=right | 2.9 km || 
+|-id=926 bgcolor=#E9E9E9
+| 135926 ||  || — || October 14, 2002 || Socorro || LINEAR || AGN || align=right | 2.4 km || 
+|-id=927 bgcolor=#E9E9E9
+| 135927 ||  || — || October 14, 2002 || Socorro || LINEAR || JUN || align=right | 3.1 km || 
+|-id=928 bgcolor=#E9E9E9
+| 135928 ||  || — || October 14, 2002 || Socorro || LINEAR || ADE || align=right | 5.9 km || 
+|-id=929 bgcolor=#E9E9E9
+| 135929 ||  || — || October 14, 2002 || Socorro || LINEAR || — || align=right | 3.8 km || 
+|-id=930 bgcolor=#E9E9E9
+| 135930 ||  || — || October 4, 2002 || Palomar || NEAT || — || align=right | 5.1 km || 
+|-id=931 bgcolor=#E9E9E9
+| 135931 ||  || — || October 4, 2002 || Socorro || LINEAR || — || align=right | 4.1 km || 
+|-id=932 bgcolor=#E9E9E9
+| 135932 ||  || — || October 4, 2002 || Socorro || LINEAR || — || align=right | 2.9 km || 
+|-id=933 bgcolor=#E9E9E9
+| 135933 ||  || — || October 4, 2002 || Socorro || LINEAR || — || align=right | 5.2 km || 
+|-id=934 bgcolor=#E9E9E9
+| 135934 ||  || — || October 4, 2002 || Socorro || LINEAR || — || align=right | 3.4 km || 
+|-id=935 bgcolor=#E9E9E9
+| 135935 ||  || — || October 4, 2002 || Socorro || LINEAR || — || align=right | 1.7 km || 
+|-id=936 bgcolor=#E9E9E9
+| 135936 ||  || — || October 11, 2002 || Essen || Walter Hohmann Obs. || EUN || align=right | 3.1 km || 
+|-id=937 bgcolor=#E9E9E9
+| 135937 ||  || — || October 1, 2002 || Socorro || LINEAR || — || align=right | 4.7 km || 
+|-id=938 bgcolor=#E9E9E9
+| 135938 ||  || — || October 5, 2002 || Anderson Mesa || LONEOS || — || align=right | 1.6 km || 
+|-id=939 bgcolor=#E9E9E9
+| 135939 ||  || — || October 5, 2002 || Anderson Mesa || LONEOS || — || align=right | 3.6 km || 
+|-id=940 bgcolor=#E9E9E9
+| 135940 ||  || — || October 3, 2002 || Socorro || LINEAR || — || align=right | 2.0 km || 
+|-id=941 bgcolor=#E9E9E9
+| 135941 ||  || — || October 3, 2002 || Socorro || LINEAR || — || align=right | 3.4 km || 
+|-id=942 bgcolor=#E9E9E9
+| 135942 ||  || — || October 4, 2002 || Socorro || LINEAR || — || align=right | 3.1 km || 
+|-id=943 bgcolor=#E9E9E9
+| 135943 ||  || — || October 4, 2002 || Socorro || LINEAR || — || align=right | 2.4 km || 
+|-id=944 bgcolor=#E9E9E9
+| 135944 ||  || — || October 4, 2002 || Socorro || LINEAR || — || align=right | 2.9 km || 
+|-id=945 bgcolor=#E9E9E9
+| 135945 ||  || — || October 4, 2002 || Socorro || LINEAR || — || align=right | 1.7 km || 
+|-id=946 bgcolor=#E9E9E9
+| 135946 ||  || — || October 6, 2002 || Haleakala || NEAT || EUN || align=right | 2.1 km || 
+|-id=947 bgcolor=#E9E9E9
+| 135947 ||  || — || October 6, 2002 || Haleakala || NEAT || — || align=right | 3.1 km || 
+|-id=948 bgcolor=#E9E9E9
+| 135948 ||  || — || October 4, 2002 || Socorro || LINEAR || — || align=right | 4.6 km || 
+|-id=949 bgcolor=#E9E9E9
+| 135949 ||  || — || October 5, 2002 || Socorro || LINEAR || — || align=right | 2.3 km || 
+|-id=950 bgcolor=#E9E9E9
+| 135950 ||  || — || October 8, 2002 || Anderson Mesa || LONEOS || — || align=right | 2.0 km || 
+|-id=951 bgcolor=#E9E9E9
+| 135951 ||  || — || October 8, 2002 || Anderson Mesa || LONEOS || — || align=right | 2.9 km || 
+|-id=952 bgcolor=#E9E9E9
+| 135952 ||  || — || October 8, 2002 || Anderson Mesa || LONEOS || JUN || align=right | 1.9 km || 
+|-id=953 bgcolor=#E9E9E9
+| 135953 ||  || — || October 8, 2002 || Anderson Mesa || LONEOS || — || align=right | 3.1 km || 
+|-id=954 bgcolor=#E9E9E9
+| 135954 ||  || — || October 6, 2002 || Socorro || LINEAR || — || align=right | 2.4 km || 
+|-id=955 bgcolor=#E9E9E9
+| 135955 ||  || — || October 6, 2002 || Socorro || LINEAR || ADE || align=right | 6.2 km || 
+|-id=956 bgcolor=#E9E9E9
+| 135956 ||  || — || October 7, 2002 || Socorro || LINEAR || MIT || align=right | 4.6 km || 
+|-id=957 bgcolor=#E9E9E9
+| 135957 ||  || — || October 9, 2002 || Socorro || LINEAR || — || align=right | 2.8 km || 
+|-id=958 bgcolor=#E9E9E9
+| 135958 ||  || — || October 7, 2002 || Haleakala || NEAT || HOF || align=right | 4.8 km || 
+|-id=959 bgcolor=#E9E9E9
+| 135959 ||  || — || October 9, 2002 || Socorro || LINEAR || — || align=right | 4.4 km || 
+|-id=960 bgcolor=#E9E9E9
+| 135960 ||  || — || October 9, 2002 || Socorro || LINEAR || HEN || align=right | 2.1 km || 
+|-id=961 bgcolor=#E9E9E9
+| 135961 ||  || — || October 9, 2002 || Socorro || LINEAR || WIT || align=right | 1.9 km || 
+|-id=962 bgcolor=#E9E9E9
+| 135962 ||  || — || October 9, 2002 || Socorro || LINEAR || — || align=right | 4.8 km || 
+|-id=963 bgcolor=#d6d6d6
+| 135963 ||  || — || October 10, 2002 || Socorro || LINEAR || — || align=right | 4.9 km || 
+|-id=964 bgcolor=#d6d6d6
+| 135964 ||  || — || October 10, 2002 || Socorro || LINEAR || — || align=right | 6.9 km || 
+|-id=965 bgcolor=#fefefe
+| 135965 ||  || — || October 9, 2002 || Socorro || LINEAR || V || align=right | 1.2 km || 
+|-id=966 bgcolor=#E9E9E9
+| 135966 ||  || — || October 10, 2002 || Socorro || LINEAR || WIT || align=right | 2.7 km || 
+|-id=967 bgcolor=#E9E9E9
+| 135967 ||  || — || October 10, 2002 || Socorro || LINEAR || — || align=right | 4.8 km || 
+|-id=968 bgcolor=#E9E9E9
+| 135968 ||  || — || October 10, 2002 || Socorro || LINEAR || — || align=right | 3.4 km || 
+|-id=969 bgcolor=#fefefe
+| 135969 ||  || — || October 10, 2002 || Socorro || LINEAR || — || align=right | 1.7 km || 
+|-id=970 bgcolor=#E9E9E9
+| 135970 ||  || — || October 10, 2002 || Socorro || LINEAR || — || align=right | 4.3 km || 
+|-id=971 bgcolor=#E9E9E9
+| 135971 ||  || — || October 10, 2002 || Socorro || LINEAR || — || align=right | 1.5 km || 
+|-id=972 bgcolor=#E9E9E9
+| 135972 ||  || — || October 10, 2002 || Socorro || LINEAR || WIT || align=right | 2.4 km || 
+|-id=973 bgcolor=#d6d6d6
+| 135973 ||  || — || October 10, 2002 || Socorro || LINEAR || TEL || align=right | 3.2 km || 
+|-id=974 bgcolor=#E9E9E9
+| 135974 ||  || — || October 10, 2002 || Socorro || LINEAR || — || align=right | 3.2 km || 
+|-id=975 bgcolor=#E9E9E9
+| 135975 ||  || — || October 11, 2002 || Socorro || LINEAR || AEO || align=right | 2.3 km || 
+|-id=976 bgcolor=#E9E9E9
+| 135976 ||  || — || October 13, 2002 || Palomar || NEAT || — || align=right | 5.0 km || 
+|-id=977 bgcolor=#E9E9E9
+| 135977 ||  || — || October 12, 2002 || Socorro || LINEAR || WIT || align=right | 1.8 km || 
+|-id=978 bgcolor=#E9E9E9
+| 135978 Agüeros ||  ||  || October 4, 2002 || Apache Point || SDSS || — || align=right | 3.9 km || 
+|-id=979 bgcolor=#E9E9E9
+| 135979 Allam ||  ||  || October 10, 2002 || Apache Point || SDSS || MAR || align=right | 1.9 km || 
+|-id=980 bgcolor=#E9E9E9
+| 135980 Scottanderson ||  ||  || October 10, 2002 || Apache Point || SDSS || GEF || align=right | 2.2 km || 
+|-id=981 bgcolor=#E9E9E9
+| 135981 ||  || — || October 29, 2002 || Socorro || LINEAR || — || align=right | 6.3 km || 
+|-id=982 bgcolor=#E9E9E9
+| 135982 ||  || — || October 28, 2002 || Palomar || NEAT || ADE || align=right | 4.7 km || 
+|-id=983 bgcolor=#E9E9E9
+| 135983 ||  || — || October 28, 2002 || Palomar || NEAT || — || align=right | 5.0 km || 
+|-id=984 bgcolor=#d6d6d6
+| 135984 ||  || — || October 30, 2002 || Socorro || LINEAR || — || align=right | 9.6 km || 
+|-id=985 bgcolor=#E9E9E9
+| 135985 ||  || — || October 30, 2002 || Haleakala || NEAT || — || align=right | 3.9 km || 
+|-id=986 bgcolor=#E9E9E9
+| 135986 ||  || — || October 30, 2002 || Palomar || NEAT || — || align=right | 2.4 km || 
+|-id=987 bgcolor=#d6d6d6
+| 135987 ||  || — || October 30, 2002 || Haleakala || NEAT || NAE || align=right | 4.7 km || 
+|-id=988 bgcolor=#E9E9E9
+| 135988 ||  || — || October 30, 2002 || Haleakala || NEAT || — || align=right | 4.2 km || 
+|-id=989 bgcolor=#E9E9E9
+| 135989 ||  || — || October 30, 2002 || Haleakala || NEAT || AGN || align=right | 2.8 km || 
+|-id=990 bgcolor=#E9E9E9
+| 135990 ||  || — || October 30, 2002 || Haleakala || NEAT || GEF || align=right | 2.5 km || 
+|-id=991 bgcolor=#E9E9E9
+| 135991 Danarmstrong ||  ||  || October 31, 2002 || Jornada || D. S. Dixon || EUN || align=right | 2.6 km || 
+|-id=992 bgcolor=#E9E9E9
+| 135992 ||  || — || October 31, 2002 || Socorro || LINEAR || — || align=right | 3.1 km || 
+|-id=993 bgcolor=#E9E9E9
+| 135993 ||  || — || November 1, 2002 || Palomar || NEAT || — || align=right | 3.9 km || 
+|-id=994 bgcolor=#d6d6d6
+| 135994 ||  || — || November 5, 2002 || Socorro || LINEAR || EOS || align=right | 5.4 km || 
+|-id=995 bgcolor=#E9E9E9
+| 135995 ||  || — || November 5, 2002 || Socorro || LINEAR || — || align=right | 4.7 km || 
+|-id=996 bgcolor=#E9E9E9
+| 135996 ||  || — || November 5, 2002 || Socorro || LINEAR || — || align=right | 4.5 km || 
+|-id=997 bgcolor=#E9E9E9
+| 135997 ||  || — || November 5, 2002 || Socorro || LINEAR || — || align=right | 4.7 km || 
+|-id=998 bgcolor=#d6d6d6
+| 135998 ||  || — || November 5, 2002 || Socorro || LINEAR || EOS || align=right | 3.7 km || 
+|-id=999 bgcolor=#E9E9E9
+| 135999 ||  || — || November 5, 2002 || Socorro || LINEAR || — || align=right | 4.5 km || 
+|-id=000 bgcolor=#E9E9E9
+| 136000 ||  || — || November 5, 2002 || Socorro || LINEAR || — || align=right | 1.5 km || 
+|}
+
+
+
+== References ==
+
+
+== External links ==
+* Discovery Circumstances: Numbered Minor Planets (135001)–(140000) (IAU Minor Planet Center)
+
+
+0135

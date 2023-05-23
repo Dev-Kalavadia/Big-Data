@@ -1,0 +1,66 @@
+Title: Handley Page Type W
+
+
+{|
+|}
+
+The Handley Page W.8, W.9 and W.10 were British two- and three-engine medium-range biplane airliners designed and built by Handley Page.
+
+The W.8 (also known as the H.P.18) was the company's first purpose-built civil airliner although it was a development of the wartime Handley Page Type O/400 bomber via the O/7, O/10 and O/11 transports. It had an enclosed cabin for (in most versions) 12 passengers, along with two crew in an open cockpit, and has the distinction of being the world's first airliner to be designed with an on-board lavatory. The prototype first flew on 4 December 1919, shortly after it was displayed at the 1919 Paris Air Show at Le Bourget. The W.8 was subsequently revised to give the W.8b, W.8e (H.P.26), W.9 (H.P.27) and W.10 (H.P.30). It was also the basis for the W.8d (H.P.24), the Handley Page Hyderabad bomber.
+
+==Developments==
+===W.8===
+Prototype, holding 15 passengers, powered by two 450 hp (336 kW) Napier Lion engines. The original company designation was to have been Handley Page W/400.
+
+===W.8b===
+To meet an Air Ministry ruling, the capacity was reduced to 12 passengers and the fuel tanks were moved from the engine nacelles to above the top wing. The engines were changed from the Napier Lion to the less powerful but more economical Rolls-Royce Eagle IX. In 1921 the Air Ministry ordered three aircraft, built as the W.8b, for use by Handley Page Transport, and later by Imperial Airways, on services to Paris and Brussels."The Handley Page W.8 B." Flight, 19 January 1922, "The Handley Page W.8B.", Flight, 27 April 1922,  Another aircraft was delivered to SABENA in 1924 and three more were license built by SABCA in Belgium.
+
+===W.8c===
+Planned but unbuilt 1923 alteration of W.8b for 1923 with the same engines but seating 16 passengers in a cabin lengthened by removal of the radio compartment and  a reduction of freight capacity. The fuel tanks would have been moved to the underside of the top wing and slotted ailerons fitted."The Handley Page W 8 C". Flight, 16 November 1922, 
+
+===W.8d===
+The W.8d was the initial designation for the Handley Page Hyderabad heavy bomber.
+
+===W.8e===
+To reduce the risks involved with engine failure, the W.8e was developed with one 360 hp (270 kW) Rolls-Royce Eagle IX in the nose and two 240 hp (180 kW) Siddeley Pumas in the normal position. The first W.8e was sold to Sabena, which had ten more built in Belgium by SABCA."Handley Page Three-Engined Commercial Aeroplane for Belgium". Flight, 1 May 1924  
+
+thumb|right|
+
+===W.8f and W.8g Hamilton===
+One three-engine W.8f was built with cabin heating (derived from air circulated around the hot engine exhausts).
+The W.8f was modified in 1929 as the W.8g with an improved tail and rudder design from the W.10 and the third engine was removed and the other two replaced with  Rolls-Royce type F.XIIA engines. 
+
+===W.9a Hampstead===
+Was a three-engined version with more powerful 385 hp (290 kW) Armstrong Siddeley Jaguar IV radial engines. It was operated by Imperial Airways and created a record on the London-Paris route of 86 minutes. In 1926, the engines were replaced by three 420 hp (310 kW) Bristol Jupiters. The aircraft was moved to Australia but was destroyed by an accident after nine months.
+
+===W.10===
+A twin-engined variant with the 450 hp (340 kW) Napier Lion for Imperial Airways (four built).
+
+==Use==
+When Imperial Airways introduced the Handley Page HP.42 in 1931, the W series aircraft were retired. Aircraft were used by private operators for display and joy riding, but the most important development concerned the two surviving W.10s which were converted to tanker aircraft by Sir Alan Cobham.
+
+==Accidents and incidents==
+*On 10 July 1923, W.8 G-EAPJ Duchess of York of Handley Page Transport crashed at Poix, Marne, France.Jackson 1973, pp. 524-525 Flying from Croydon to Paris it made a forced landing due to engine problems, after landing it ran into a sunken road and was destroyed, the pilot and mechanic were thrown clear and none of the seven passengers were injured.
+*On 21 October 1926, W.10 G-EBMS of Imperial Airways ditched in the English Channel  off the English coast. All 12 people on board were rescued by FV Invicta.
+*On 15 February 1928, W.8b G-EBBG Princess Mary of Imperial Airways crashed at Abbeville, France.
+*On 17 June 1929, W.10 G-EBMT City of Ottawa of Imperial Airways ditched in the English Channel while on a flight from Croydon to Paris with the loss of seven lives.
+*On 31 May 1930, W.9a VH-ULK of the Ellyou Goldfields Development Corporation crashed into a mountain near Salamaua, Papua New Guinea. 
+*On 30 October 1930, W.8g G-EBIX City of Washington of Imperial Airways developed engine trouble and crashed at Neufchâtel-Hardelot, Pas-de-Calais, France, when en route from Boulogne to Croydon. Three people died, and three were injured."Imperial Airways Plane down near Boulogne", Western Times, Fri 31 October 1930, p16
+*On 14 May 1932, W.10 G-EBMR  City of Pretoria was flying a party of 16 passengers, including Mayor, Mayoress, and a 102-year-old woman as part of Alan Cobham's Air Circus. As the machine was landing in Mansfield, "its wheels sunk into the ground and were torn off"."Flies at 102 – and crashes", Daily Herald, 14 May 1932, p9 There were no serious injuries, and the elderly passenger thought it was all part of the show and said she would happily go up again. Evidently the damage was quickly repaired as on 29 May carrying 15 passengers it made a forced landing at the Row Heath recreation ground in the Bournville District of Birmingham apparently due to a lack of fuel."Birmingham Air Thrill", Birmingham Gazette, 30 May 1932, p1
+*On 22 September 1934, W.10 G-EBMM Youth of New Zealand (renamed from City of Pretoria according to the newspaper,"Air Disaster at Aston Clinton", Bucks Herald, 29 Sept 1934, p11 but registration indicates it was City of Melbourne) of Sir Alan Cobham's National Aviation Displays crashed at Aston Clinton, Buckinghamshire, United Kingdom. The airliner had recently been used for a mid-air refuelling of an Airspeed Courier aircraft being used by Cobham for an attempted non-stop flight to India. After this it returned to Ford Airfield (near Arundel) to have the extra fuel tank and piping removed, it was then flying back via Portsmouth to Coventry and had stopped to refuel at Heston Aerodrome. About 30 minutes after take-off it crashed into a field, killing all four crew.  The Inspector of Accidents concluded that the probable cause was a fracture of a main bolt that secured the bracing wires of the front spar to the tailplane. The failure of the bolt was probably metal fatigue, and would cause a loss of flight control. The aircraft had been involved in an early accident when the tailplane had been swapped with one from another aircraft, but after 50 hours of flying since the repair it was not thought that the bolt had been disturbed.
+
+
+==Operators==
+;
+*Ellyou Goldfields Development Corporation
+; 
+* Sabena
+; 
+* Handley Page Transport
+* Imperial Airways
+* National Aviation Displays
+
+==Specifications (W.8f Hamilton)==
+thumb|Three-view of a twin-engine Handley Page W.8B
+
+

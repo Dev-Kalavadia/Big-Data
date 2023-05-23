@@ -1,0 +1,17 @@
+Title: Blocking (construction)
+
+thumb|Blocking placed as attachment points for cabinets, while doubling as bracing against compression of the studs.
+
+Blocking (dwang, nog, noggin, and nogging) is the use of short pieces of dimensional lumber in wood framed construction to brace longer members or to provide grounds for fixings.
+
+==Uses==
+The primary purpose of blocking is to brace longer frame members such as wall studs against Euler's bending moment, which is a tendency to buckle under vertical compression.  The intervals for the blocks are specified in the building code or as calculated by a structural engineer.
+
+Blocking also resists the rotational movement, or twisting, of floor joists as they deflect under load.  This may take the form of diagonal cross bracing, or herringbone, bracing between floor joists. When solid blocks are used instead of diagonals it is called bridging, block bridging, solid bridging or solid strutting.  The illustration, right, shows solid blocking.  Note how they are displaced alternately to allow nailing through their ends."Block bridging", RSMeans Illustrated Construction Dictionary. Student ed. Hoboken, N.J.: Wiley, 2013. Print.
+
+Blocking may also provide spacers or attachment points between adjoining stud walls, for example, where an interior and exterior wall meets, or at a corner where techniques such as the "three-stud corner with blocking" are used.Peters, Rick. Basic Framing. Stirling Publishers: New York. 2008. 68. Print.
+
+When correctly placed, blocking also provides grounds (also backing or back blocking) for supporting the cut ends of wall claddings and linings or for attaching items such as cabinets, shelving, handrails, vanity tops and backsplashes, towel bars, decorative mouldings, etc. Properly placed grounds make the second fixings easier once the walls are lined and they distribute the weight of heavy items across structural members.Savage, Craig. Trim Carpentry Techniques: Installing Doors, Windows, Base, and Crown. Newtown, Conn.: Taunton, 1989. 68. Print.  However, the locations required for use as grounds are dictated by the needs of the fittings and these often do not coincide with the locations required by the engineering specifications for use as bracing, consequently, the two forms may be present in the wall acting independently.  When used only as grounds rather than as bracing, they are typically shallower. Parker, Harry, and Harold Dana Hauf. Simplified Engineering for Architects and Builders. 5th ed. New York: Wiley, 1975. 231. Print.Simmons, H. Leslie. Olin's Construction: Principles, Materials, and Methods. 9th ed. Hoboken: J. Wiley & Sons, 2011. Print.
+
+Blocking is typically made from short off-cuts or to make use of defective, warped, pieces unsuited for use in longer lengths.
+

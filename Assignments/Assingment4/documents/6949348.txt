@@ -1,0 +1,95 @@
+Title: List of NHS regional hospital boards (1947–1974)
+
+Regional hospital boards were established in 1947 by the National Health Service Act 1946 to administer hospital and specialist services of the National Health Service in England and Wales. Each board was responsible for a number of hospital management committees.
+
+The National Health Service Reorganisation Act 1973 replaced the hospital boards with regional health authorities in 1974.
+
+Each board administered a regional hospital area, which was defined in terms of local government units: administrative counties, county boroughs, metropolitan boroughs, urban districts and rural districts.
+
+{| class="wikitable"
+!Regional hospital area
+!Administrative counties
+!County boroughs
+|-
+|Newcastle
+|Cumberland, County Durham, Northumberland, part of Westmorland (the Borough of Appleby and the North Westmorland Rural District), part of North Riding of York (the boroughs of Redcar, Richmond and Thornaby-on-Tees; the urban districts of Eston, Guisborough, Loftus, Northallerton, Saltburn and Marske-by-the-Sea, and Skelton and Brotton; and the rural districts of Croft, Northallerton, Reeth, Richmond, Startforth and Stokesley)
+|Carlisle, Darlington, Gateshead, Middlesbrough, Newcastle upon Tyne, South Shields
+|-
+|Leeds 
+|East Riding of York, the North Riding of York (except the part in the Newcastle Regional Hospital Area) and West Riding of York (except the part in the Sheffield Regional Hospital Area)
+|Bradford, Dewsbury, Halifax, Huddersfield, Kingston upon Hull, Leeds, Wakefield, York
+|-
+|Sheffield
+|Derby (except the part  in the Manchester Regional Hospital Area), Leicester, Lincoln, Parts of Holland, Lincoln, Parts of Kesteven (except the part in the East Anglian Regional Hospital Area), Lincoln, Parts of Lindsey, Nottingham and Rutland (except the rural district of Ketton), part of West Riding of York (urban districts of Adwick-le-Street, Bentley with Arksey, Conisbrough, Cudworth, Darfield, Darton, Dearne, Dodworth, Hoyland Nether, Maltby, Mexborough Penistone, Rawmarsh, Royston, Stocksbridge, Swinton, Tickhill, Wath-upon-Dearne, Wombwell and Worsborough and the rural districts of Doncaster, Kiveton Park, Penistone, Rotherham, Thorne and Wortley)
+|Barnsley, Derby, Doncaster, Grimsby, Leicester, Lincoln, Nottingham, Rotherham and Sheffield
+|-
+|East Anglian    
+|Cambridge, Huntingdon, Isle of Ely, Norfolk, Soke of Peterborough, East Suffolk, West Suffolk, part of Essex (the borough of Saffron Walden and the rural district of Saffron Walden), part of Hertford the urban district of Royston), part of Lincoln, Parts of Kesteven (the borough of Stamford; the urban district of Bourne; and the rural district of South Kesteven), part of Rutland (rural district of Ketton)
+|Great Yarmouth, Ipswich, Norwich
+|-
+|North-West Metropolitan
+|Bedford, Hertford (except the parts included in the East Anglian and North-East Metropolitan Regional Hospital Areas) and Middlesex (except the part in the North-East Metropolitan Regional Hospital Area), part of Berks (boroughs of Maidenhead and New Windsor; and the rural districts of Cookham, Easthampstead and Windsor, part of Buckingham (the borough of Slough; the urban districts of Beaconsfield and Eton; and the rural district of Eton, part of London (metropolitan boroughs of Hampstead, Holborn, Islington, St Marylebone and St Pancras, and the northern part of the Hammersmith, the northern part of Kensington, the northern part of Paddington, the northern part of Westminster
+|
+|-
+|North-East Metropolitan
+|Essex (except the part in the East Anglian Regional Hospital Area), Part of Hertford (the borough of Hertford; the urban districts of Bishop's Stortford, Cheshunt, Hoddesdon, Sawbridgeworth and Ware; and the rural districts of Braughing, Hertford and Ware), part of Middlesex (the boroughs of Edmonton and Tottenham; and the urban district of Enfield), part of London (City of London, Inner Temple, Middle Temple, and Bethnal Green, Finsbury, Hackney, Poplar, Shoreditch, Stepney and Stoke Newington)
+|East Ham, Southend-on-Sea and West Ham
+|-
+|South-East Metropolitan
+|Kent, Sussex, East, part of London (Bermondsey,  Camberwell, Deptford, Greenwich, Lewisham, Southwark, Woolwich, the eastern part of the Metropolitan Borough of Lambeth, 
+|Brighton, Canterbury, Eastbourne, Hastings
+|-
+|South-West Metropolitan
+|Dorset (except the part included in the South-Western Regional Hospital Area), Isle of Wight, Southampton, Surrey, Sussex, West, part of Wilts (the boroughs of New Sarum and Wilton; and the rural districts of Amesbury, Mere and Tisbury and Salisbury and Wilton), part of the London (Battersea, Chelsea, Fulham, Wandsworth, the southern part of the Hammersmith the southern the part of the Kensington the western part of the Lambeth, the southern part of the Paddington, the southern part of the Westminster 
+|Bournemouth, Croydon, Portsmouth, and Southampton
+|-
+|Oxford 
+|Berks (except the part in the North-West Metropolitan Regional Hospital Area), Buckingham (except the part in the North-West Metropolitan Regional Hospital Area), Northampton, Oxford, part of Gloucester (urban district of Cirencester; and the rural districts of Cirencester, North Cotswold and Northleach), part of Wilts (boroughs of Marlborough and Swindon; and the rural districts of Cricklade and Wootton Bassett, Highworth, Marlborough and Ramsbury and Pewsey)
+|Northampton, Oxford and Reading
+|-
+|South-Western
+|Cornwall, Devon, Gloucester, Somerset and Wilts (except the parts in the South-West Metropolitan Regional Hospital Area and the Oxford Regional Hospital Area), part of Dorset (borough of Lyme Regis), Isles of Scilly
+|Bath, Bristol, Exeter, Gloucester and Plymouth
+|-
+|Welsh           
+|The whole of Wales and the administrative county of Monmouth
+|Newport
+|-
+|Birmingham
+|Hereford, Salop, Stafford, Warwick and Worcester
+|Birmingham, Burton upon Trent, Coventry, Dudley, Smethwick, Stoke-on-Trent, Walsall, West Bromwich, Wolverhampton, and Worcester
+|-
+|Manchester          
+|Chester (except the part in the Liverpool Regional Hospital Area), Lancaster (except the part in the Liverpool Regional Hospital Area), Westmorland (except the part in the Newcastle Regional Hospital Area), part of Derby (boroughs of Buxton and Glossop; the urban districts of New Mills and Whaley Bridge; and the rural district of Chapel-en-le-Frith)
+|Barrow-in-Furness, Blackburn, Blackpool, Bolton, Burnley, Bury, Manchester, Oldham, Preston, Rochdale, Salford, Stockport and Wigan
+|-
+|Liverpool
+|Part of Chester (borough of Bebington; the urban districts of Ellesmere Port, Hoylake, Hoole, Lymm, Neston, Runcorn, and Wirral; and the rural districts of Chester, Runcorn and Tarvin, part of Lancaster (boroughs of Crosby and Widnes; the urban districts of Formby, Golborne, Haydock, Huyton with Roby, Litherland, Newton-le-Willows, Ormskirk, Prescot, Rainford and Skelmersdale; and the rural districts of Warrington, West Lancashire and Whiston
+|Birkenhead, Bootle, Chester, Liverpool, St Helens, Southport, Wallasey and Warrington
+|}
+
+
+
+In 1965 a new Wessex Regional Hospital Area was formed from the western part of the South-West Metropolitan Hospital Area:
+
+{| class="wikitable"
+!Regional Hospital Area
+!Administrative counties
+!County boroughs
+|-
+|Wessex
+|Dorset (except the part included in the South-Western Regional Hospital Area), Isle of Wight, Hampshire (except the borough of Aldershot; the urban districts  of Farnborough and Fleet; part of the rural district of Hartley Wintney), part of Wiltshire (the boroughs of New Sarum and Wilton; the rural districts of Amesbury, Mere and Tisbury and Salisbury and Wilton)
+|Bournemouth, Portsmouth and Southampton
+|}
+
+At the same time the Welsh Regional Hospital Area was redesignated as the Welsh Hospital Area, and the Regional Hospital Board became the Welsh Hospital Board.
+
+==Sources==
+*National Health Service (Determination of Regional Hospital Areas) Order, 1946 (S.I.1946/2158)
+*National Health Service (Determination of Regional Hospital Areas) Amendment Order, 1958 (S.I. 1958/2093)
+*National Health Service (Determination of Regional Hospital Areas) Amendment Order, 1958 (S.I. 1958/2093)
+*National Health Service (Regional Hospital Areas) Order 1965 (S.I. 1965/527)
+
+
+Category:Defunct National Health Service organisations
+Regional Health Authorities (pre-1996)

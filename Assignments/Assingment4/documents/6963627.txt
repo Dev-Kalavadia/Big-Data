@@ -1,0 +1,42 @@
+Title: Gołdap County
+__NOTOC__
+Gołdap County () is a unit of territorial administration and local government (powiat) in Warmian-Masurian Voivodeship, northern Poland, on the border with Russia. Its administrative seat and only town is Gołdap, which lies  north-east of the regional capital Olsztyn.
+
+When powiats were re-introduced in the Polish local government reforms of 1999, the present Gołdap and Olecko Counties made up a single entity (called powiat olecko-gołdapski or Olecko-Gołdap County). This was divided into two in 2002.
+
+The county covers an area of . As of 2019 its total population is 26,825, out of which the population of Gołdap is 13,716 and the rural population is 13,109.
+
+==Neighbouring counties==
+Gołdap County is bordered by Suwałki County to the east, Olecko County to the south, Giżycko County to the south-west and Węgorzewo County to the west. It also borders Russia (Kaliningrad Oblast) to the north.
+
+==Administrative division==
+The county is subdivided into three gminas (one urban-rural and two rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km²)
+| style="text-align:center;"|Population(2019)
+| style="text-align:center;"|Seat
+|-
+|Gmina Gołdap
+|urban-rural
+| style="text-align:right;"|361.7
+| style="text-align:right;"|20,186
+|Gołdap
+|-
+|Gmina Banie Mazurskie
+|rural
+| style="text-align:right;"|205.0
+| style="text-align:right;"|3,707
+|Banie Mazurskie
+|-
+|Gmina Dubeninki
+|rural
+| style="text-align:right;"|205.2
+| style="text-align:right;"|2,932
+|Dubeninki
+|-
+|}
+

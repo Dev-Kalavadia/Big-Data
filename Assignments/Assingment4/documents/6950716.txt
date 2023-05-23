@@ -1,0 +1,184 @@
+Title: List of municipalities of the Province of Reggio Emilia
+
+
+The following is a list of the 44 municipalities (comuni) of the Province of Reggio Emilia, Emilia-Romagna, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|035001
+|Albinea
+| align="right" |8,121
+|-
+|035002
+|Bagnolo in Piano
+| align="right" |8,758
+|-
+|035003
+|Baiso
+| align="right" |3,340
+|-
+|035004
+|Bibbiano
+| align="right" |8,422
+|-
+|035005
+|Boretto
+| align="right" |4,920
+|-
+|035006
+|Brescello
+| align="right" |4,982 
+|-
+|035008
+|Cadelbosco di Sopra
+| align="right" |9,287
+|-
+|035009
+|Campagnola Emilia
+| align="right" |5,120
+|-
+|035010
+|Campegine
+| align="right" |4,694
+|-
+|035011
+|Carpineti
+| align="right" |4,257
+|-
+|035012
+|Casalgrande
+| align="right" |15,933
+|-
+|035013
+|Casina
+| align="right" |4,423
+|-
+|035014
+|Castellarano
+| align="right" |13,407
+|-
+|035015
+|Castelnovo di Sotto
+| align="right" |8,294
+|-
+|035016
+|Castelnovo ne' Monti
+| align="right" |10,466
+|-
+|035017
+|Cavriago
+| align="right" |9,229
+|-
+|035018
+|Canossa
+| align="right" |3,525 
+|-
+|035020
+|Correggio
+| align="right" |21,953
+|-
+|035021
+|Fabbrico
+| align="right" |6,049
+|-
+|035022
+|Gattatico
+| align="right" |5,462
+|-
+|035023
+|Gualtieri
+| align="right" |6,438
+|-
+|035024
+|Guastalla
+| align="right" |14,400 
+|-
+|035026
+|Luzzara
+| align="right" |8,890
+|-
+|035027
+|Montecchio Emilia
+| align="right" |9,592
+|-
+|035028
+|Novellara
+| align="right" |12,793
+|-
+|035029
+|Poviglio
+| align="right" |6,803
+|-
+|035030
+|Quattro Castella
+| align="right" |12,098 
+|-
+|035032
+|Reggiolo
+| align="right" |8,900
+|-
+|035033
+|Reggio nell'Emilia
+| align="right" |155,191
+|-
+|035034
+|Rio Saliceto
+| align="right" |5,632
+|-
+|035035
+|Rolo
+| align="right" |3,848
+|-
+|035036
+|Rubiera
+| align="right" |13,041
+|-
+|035037
+|San Martino in Rio
+| align="right" |6,990
+|-
+|035038
+|San Polo d'Enza
+| align="right" |5,529
+|-
+|035039
+|Sant'Ilario d'Enza
+| align="right" |10,223
+|-
+|035041
+|Toano
+| align="right" |4,443
+|-
+|035042
+|Vetto
+| align="right" |2,063
+|-
+|035043
+|Vezzano sul Crostolo
+| align="right" |4,045
+|-
+|035044
+|Viano
+| align="right" |3,247
+|-
+|035045
+|Villa Minozzo
+| align="right" |4,101
+|-
+|035046
+|Ventasso
+| align="right" |4,218
+|-
+||Total
+| align="right" |
+|487,003
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

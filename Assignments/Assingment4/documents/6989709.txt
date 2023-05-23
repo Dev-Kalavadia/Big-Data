@@ -1,0 +1,29 @@
+Title: Grass sicknessGrass sickness, alternatively termed equine dysautonomia, is a rare but predominantly fatal illness in horses. Grass sickness may affect all types of horse, pony and donkey, and has affected some well known horses including the thoroughbred stallions Dubai Millennium, Moorestyle and Mister Baileys.
+
+==Clinical signs==
+Grass sickness is a polyneuropathy affecting the central, peripheral and enteric nervous systems. The majority of visible clinical signs are related to paralysis within the digestive tract although nerve damage occurs throughout the body. There are three forms of grass sickness:
+* acute grass sickness (AGS) - horses display signs of colic and require euthanasia or die within 48 hours
+* subacute grass sickness (SAGS) - horses display clinical signs similar to AGS but with less severity and may survive up to 7 days
+* chronic grass sickness (CGS) - horses present with severe and rapid weight loss and a selected portion of these cases may survive.
+
+Clinical signs common to all subsets include: depression, anorexia, colic (moderate with AGS/SAGS and mild with CGS), excess salivation, constipation, nasogastric fluid secretion, patchy sweating, muscle tremors and eyelid drooping.
+
+==Cause==
+The cause remains unknown, but the toxin produced from the bacterium Clostridium botulinum type C may be involved.
+
+Clostridium botulinum is a soil-borne bacterium, which may be better known for producing clinical signs of botulism. It may cause grass sickness when the spores of C. botulinum type C are ingested and produce their toxin locally within the intestine.
+
+It is also linked to pasture mycotoxicosis, which comprises a very large and diverse population of fungi.
+
+===Risk factors===
+The main risk factor for grass sickness, as the name may suggest, is grass. The disease is almost always seen in grazing animals, although there are isolated reports of the condition occurring in stabled horses. Grass sickness is most frequently seen in young horses aged between two and seven, and is particularly prevalent during April, May and June, and later in the autumn, after a spurt of grass growth.
+
+==Diagnosis==
+Diagnosis of grass sickness in the live animal requires a thorough clinical examination including a rectal examination. Definitive diagnosis can only be made at surgery (where biopsies of the gut are taken) or at post-mortem (where samples from the nerves are taken). Differential diagnoses for grass sickness are varied and include any other cause of colic and weight loss, tying-up, laminitis, botulism, choke and dental problems.
+
+==Treatment==
+There is no treatment for grass sickness. A proportion of CGS cases survive following periods of intensive nursing. Overall, the mortality rate of equine grass sickness is over 95%.
+
+==History==
+The first cases of grass sickness were recorded in eastern Scotland in 1909.
+

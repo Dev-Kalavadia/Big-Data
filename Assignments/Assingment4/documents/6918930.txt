@@ -1,0 +1,723 @@
+Title: List of places in Alaska (C)
+
+This list of cities, towns, unincorporated communities, counties, and other recognized places in the U.S. state of Alaska also includes information on the number and names of counties in which the place lies, and its lower and upper zip code bounds, if applicable.
+
+
+{| class="wikitable"
+!Name of place
+!Number of counties
+!Principal county
+!Lower zip code
+!Upper zip code
+|----
+|Calista
+|2
+|Bethel Census Area
+| 
+| 
+|----
+|Calista
+|2
+|Kusilvak Census Area
+| 
+| 
+|----
+|Campbell
+|1
+|Municipality of Anchorage
+|99503
+| 
+|----
+|Campbell
+|1
+|Prince of Wales-Outer Census Area
+|99901
+| 
+|----
+|Campion Station
+|1
+|Yukon-Koyukuk Census Area
+|99741
+| 
+|----
+|Candle
+|1
+|Northwest Arctic Borough
+|99752
+| 
+|----
+|Cannery
+|1
+|Skagway-Hoonah-Angoon Census Area
+| 
+| 
+|----
+|Cantwell
+|1
+|Denali Borough
+|99729
+| 
+|----
+|Canyon
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Canyon Village
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Cape Krusenstern National Monument
+|1
+|Northwest Arctic Borough
+| 
+| 
+|----
+|Cape Lisburne
+|1
+|North Slope Borough
+|99766
+| 
+|----
+|Cape Newenham
+|1
+|Bethel Census Area
+|99651
+| 
+|----
+|Cape Nome
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Cape Pole
+|1
+|Prince of Wales-Outer Census Area
+|99901
+| 
+|----
+|Cape Romanzof
+|1
+|Kusilvak Census Area
+|99604
+| 
+|----
+|Cape Sarichef Radio Relay Site
+|1
+|Aleutians East Borough
+|99685
+| 
+|----
+|Cape Yakataga
+|1
+|Valdez-Cordova Census Area
+|99574
+| 
+|----
+|Cape York
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Carlanna
+|1
+|Ketchikan Gateway Borough
+|99901
+| 
+|----
+|Carlo
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Caro
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Casco Cove Coast Guard Station
+|1
+|Aleutians West Census Area
+| 
+| 
+|----
+|Caswell
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Central
+|1
+|Yukon-Koyukuk Census Area
+|99730
+| 
+|----
+|Chakaktolik
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Chalkyitsik
+|1
+|Yukon-Koyukuk Census Area
+|99788
+| 
+|----
+|Chandalar
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Chaniliut
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Charcoal Point
+|1
+|Ketchikan Gateway Borough
+|99901
+| 
+|----
+|Chariot
+|1
+|North Slope Borough
+| 
+| 
+|----
+|Charlieskin Village
+|1
+|Southeast Fairbanks Census Area
+| 
+| 
+|----
+|Chase
+|1
+|Matanuska-Susitna Borough
+|99676
+| 
+|----
+|Chatanika
+|1
+|Fairbanks North Star Borough
+|99701
+| 
+|----
+|Chatham
+|1
+|City and Borough of Sitka
+|99801
+| 
+|----
+|Chatham Regional Educational Attendance Area
+|2
+|Skagway-Hoonah-Angoon Census Area
+| 
+| 
+|----
+|Chatham Regional Educational Attendance Area
+|2
+|Wrangell-Petersburg Census Area
+| 
+| 
+|----
+|Chefornak
+|1
+|Bethel Census Area
+|99561
+| 
+|----
+|Chelatna Lodge
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Chena
+|1
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Chena Hot Springs
+|1
+|Fairbanks North Star Borough
+|99701
+| 
+|----
+|Chena Ridge
+|1
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Chenega
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Chenega Bay
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Chenik
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Chernofski
+|1
+|Aleutians West Census Area
+|99685
+| 
+|----
+|Chevak
+|1
+|Kusilvak Census Area
+|99563
+| 
+|----
+|Chicagof Creek
+|1
+|Northwest Arctic Borough
+| 
+| 
+|----
+|Chichagof
+|1
+|City and Borough of Sitka
+| 
+| 
+|----
+|Chickaloon
+|1
+|Matanuska-Susitna Borough
+|99674
+| 
+|----
+|Chickaloon
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Chicken
+|1
+|Southeast Fairbanks Census Area
+|99732
+| 
+|----
+|Chignik
+|1
+|Lake and Peninsula Borough
+|99564
+| 
+|----
+|Chignik Lagoon
+|1
+|Lake and Peninsula Borough
+|99565
+| 
+|----
+|Chignik Lake
+|1
+|Lake and Peninsula Borough
+|99548
+| 
+|----
+|Chignik Lake
+|1
+|Lake and Peninsula Borough
+|99564
+| 
+|----
+|Chilkat
+|1
+|Skagway-Hoonah-Angoon Census Area
+|99827
+| 
+|----
+|Chilkoot
+|1
+|Haines Borough
+| 
+| 
+|----
+|Chiniak
+|1
+|Kodiak Island Borough
+|99615
+| 
+|----
+|Chisana
+|1
+|Valdez-Cordova Census Area
+|99566
+| 
+|----
+|Chistochina
+|1
+|Valdez-Cordova Census Area
+|99586
+| 
+|----
+|Chitina
+|1
+|Valdez-Cordova Census Area
+|99566
+| 
+|----
+|Christian
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Chuathbaluk
+|1
+|Bethel Census Area
+|99557
+| 
+|----
+|Chugach
+|2
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Chugach
+|2
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Chugach
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Chugach Regional Educational Attendance Area
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Chugiak
+|1
+|Municipality of Anchorage
+|99567
+| 
+|----
+|Chulitna
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Chuloonawick
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Circle
+|1
+|Yukon-Koyukuk Census Area
+|99733
+| 
+|----
+|Circle Hot Springs
+|1
+|Yukon-Koyukuk Census Area
+|99730
+| 
+|----
+|Circle Hot Springs Station
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Clam Gulch
+|1
+|Kenai Peninsula Borough
+|99568
+| 
+|----
+|Clarks Point
+|1
+|Dillingham Census Area
+|99569
+| 
+|----
+|Clark's Point
+|1
+|Dillingham Census Area
+|99569
+| 
+|----
+|Clear
+|1
+|Yukon-Koyukuk Census Area
+|99704
+| 
+|----
+|Clear Creek Park
+|1
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Clear Missile Early Warning Station
+|1
+|Yukon-Koyukuk Census Area
+|99704
+| 
+|----
+|Clear Site
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Cleary Summit
+|1
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Clifton
+|1
+|Municipality of Skagway Borough
+| 
+| 
+|----
+|Clover Pass
+|1
+|Ketchikan Gateway Borough
+|99901
+| 
+|----
+|Coal Creek
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Coffman Cove
+|1
+|Prince of Wales-Outer Census Area
+|99918
+| 
+|----
+|Cohoe
+|1
+|Kenai Peninsula Borough
+|99669
+| 
+|----
+|Cold Bay
+|1
+|Aleutians East Borough
+|99571
+| 
+|----
+|Cold Bay Airport
+|1
+|Aleutians East Borough
+|99571
+| 
+|----
+|Coldfoot
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|College
+|1
+|Fairbanks North Star Borough
+|99708
+| 
+|----
+|Colorado
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Colville River
+|1
+|North Slope Borough
+|99723
+| 
+|----
+|Cook Inlet
+|4
+|Municipality of Anchorage
+| 
+| 
+|----
+|Cook Inlet
+|4
+|Dillingham Census Area
+| 
+| 
+|----
+|Cook Inlet
+|4
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Cook Inlet
+|4
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Cooper Landing
+|1
+|Kenai Peninsula Borough
+|99572
+| 
+|----
+|Copper Center
+|1
+|Valdez-Cordova Census Area
+|99573
+| 
+|----
+|Copper River
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Copper River Regional Educational Attendance Area
+|2
+|Southeast Fairbanks Census Area
+| 
+| 
+|----
+|Copper River Regional Educational Attendance Area
+|2
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Copperville
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Cordova
+|1
+|Valdez-Cordova Census Area
+|99574
+| 
+|----
+|Cordova
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Cordova City School District
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Cordova-Mile 13 Airport
+|1
+|Valdez-Cordova Census Area
+|99574
+| 
+|----
+|Cottonwood
+|1
+|Matanuska-Susitna Borough
+|99687
+| 
+|----
+|Council
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Covenant Life
+|1
+|Haines Borough
+| 
+| 
+|----
+|Crab Bay
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Craig
+|1
+|Prince of Wales-Outer Census Area
+|99921
+| 
+|----
+|Craig City School District
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Crooked Creek
+|1
+|Bethel Census Area
+|99575
+| 
+|----
+|Crown Point
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Crystal Falls
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Cube Cove
+|1
+|Skagway-Hoonah-Angoon Census Area
+| 
+| 
+|----
+|Curry
+|1
+|Matanuska-Susitna Borough
+|99675
+| 
+|----
+|}
+
+ C

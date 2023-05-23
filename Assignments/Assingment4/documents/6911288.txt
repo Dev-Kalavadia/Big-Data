@@ -1,0 +1,118 @@
+Title: List of common astronomy symbols
+This is a compilation of symbols commonly used in astronomy, particularly professional astronomy.
+
+==Age (stellar)==
+* τ - age
+
+==Astrometry parameters==
+Astrometry parameters
+* Rv - radial velocity
+* cz - apparent radial velocity
+* z - Redshift
+* μ - proper motion
+* π - parallax
+* J - epoch
+* α - Right Ascension
+* δ - Declination
+* λ - Ecliptic longitude
+* β - Ecliptic latitude
+* l - Galactic longitude
+* b - Galactic latitude
+
+==Cosmological parameters==
+Cosmological parameters
+* h - dimensionless Hubble parameter
+* H0 - Hubble constant
+* Λ - cosmological constant
+* Ω - density parameter
+* ρ - density
+* ρc - critical density
+* z - redshift
+
+==Distance description==
+Distance description for orbital and non-orbital parameters:
+* d - distance
+** d - in km = kilometer
+** d - inhttps://academia.stackexchange.com/a/29113 mi = mile
+** d - in AU = astronomical unit
+** d - in ly = light-year
+** d - in pc = parsec
+** d - in kpc = kiloparsec (1000 pc)
+* DL - luminosity distance, obtaining an objects distance using only visual aspects
+
+==Galaxy comparison==
+Galaxy type and spectral comparison:
+* see galaxy morphological classification
+
+==Luminosity comparison==
+Luminosity comparison:
+* LS,  - luminosity of the Sun (Sol)
+
+Luminosity of certain object:
+* Lacc - accretion luminosity
+* Lbol - bolometric luminosity
+
+==Mass comparison==
+Mass comparison:
+* ME,  - mass of Earth
+* ,  - mass of Jupiter
+* MS,  - mass of the Sun (Sol)
+
+Mass of certain object:
+* M●Ultra-luminous X-ray sources: X-ray binaries in a high/hard state?,  Z. Kuncic, R. Soria, C. K. Hung, M. C. Freeland, G. V. Bicknell, 2006 - mass of black hole
+* Macc - mass of accretion disc
+
+==Metallicity comparison==
+Metallicity comparison:
+* [Fe/H] - Ratio of Iron to Hydrogen. This is not an exact ratio, but rather a logarithmic representation of the ratio of a star's iron abundance compared to that of the Sun.
+** for a given star (*) : [\text{Fe}/\text{H}] = log[\text{Fe}/\text{H}]_* - log[\text{Fe}/\text{H}]_\odot, where the values represent the number densities of the given element. 
+* [M/H] - Metallicity ratio.
+* Z - Metallicity
+* Z☉, ZS - Metallicity of the Sun (Sol)
+
+==Orbital parameters==
+Orbital Parameters of a Cosmic Object:
+* α - RA, right ascension, if the Greek letter does not appear, á letter will appear.
+* δ - Dec, declination, if the Greek letter does not appear, ä letter will appear.
+* P or Porb or T - orbital period
+* a - semi-major axis
+* b - semi-minor axis
+* q - periapsis, the minimum distance
+* Q - apoapsis, the maximum distance
+* e - eccentricity
+* i - inclination
+* Ω - longitude of ascending node
+* ω - argument of periapsis
+* RL - Roche lobe
+* M - Mean anomaly
+* Mo - Mean anomaly at epoch
+
+==Radius comparison==
+Radius comparison:
+* RE,  - Radius compared to Earth
+* ,  - Radius compared to Jupiter
+* RS,  - Radius compared to The Sun (Sol)
+
+==Spectral comparison==
+Spectral comparison:
+* see Stellar classification
+* m(object) - Apparent magnitude
+* M(object) - Absolute magnitude, for galaxies and stars
+* H(object) - Absolute magnitude, for planets and nonstellar objects
+
+==Temperature description==
+Temperature description:
+* Teff - Temperature Effect, usually associated with luminous object
+* Tmax - Temperature Maximum, usually associated with non-luminous object
+* Tavg - Temperature Average, usually associated with non-luminous object
+* Tmin - Temperature Minimum, usually associated with non-luminous object
+* K - Kelvin
+
+==See also==
+* List of astronomy acronyms
+* Astronomical symbols
+* Stellar classification
+* Galaxy morphological classification
+* List of astronomical catalogues
+* Glossary of astronomy
+

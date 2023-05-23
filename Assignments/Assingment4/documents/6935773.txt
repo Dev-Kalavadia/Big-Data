@@ -1,0 +1,5 @@
+Title: Weight spaceIn mathematics, weight space may refer to:
+
+* Weight space (representation theory)
+* Parameter space in artificial neural networks, where the parameters are weights on graph edges.
+

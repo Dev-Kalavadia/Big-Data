@@ -1,0 +1,56 @@
+Title: Mali national cricket team
+
+
+
+The Mali national cricket team is the team that represents Mali in international cricket. The Malian Cricket Federation (FCM) became an affiliate member of the International Cricket Council (ICC) in 2005 and an associate member in 2017.
+
+==History==
+
+In April 2018, the ICC decided to grant full Twenty20 International (T20I) status to all its members. Therefore, all Twenty20 matches played between Mali and other ICC members after 1 January 2019 will be a full T20I.
+
+Mali made its international T20 debut at the 2022–23 ICC Men's T20 World Cup Africa Qualifier, playing in the Qualifier A group, losing 5 of its 7 matches, with the other 2 being no-results.
+
+==Records and Statistics==
+
+International Match Summary — Mali
+ 
+Last updated 24 November 2022
+{| class="wikitable" style="text-align: center; width: 500px;"
+|-
+| colspan=7 align="center" | Playing Record
+|-
+! Format !! M !! W !! L !! T !! NR !! Inaugural Match
+|-
+| align="left"| Twenty20 Internationals || 7 || 0 || 5 || 0 || 2 || 17 November 2022
+|}
+
+=== Twenty20 International ===
+T20I record versus other nations
+
+Records complete to T20I #1919. Last updated 24 November 2022.
+{| class="wikitable" style="text-align: center; width: 600px;"
+|-
+! Opponent !! M !! W !! L !! T !! NR !! First match !! First win
+|-
+| colspan="8" style="text-align:center;"| vs Associate Members
+|-
+|align=left|  || 1 || 0 || 1 || 0 || 0 || 22 November 2022 || 
+|-
+|align=left|  || 1 || 0 || 1 || 0 || 0 || 20 November 2022 || 
+|-
+|align=left|  || 1 || 0 || 1 || 0 || 0 || 17 November 2022 || 
+|-
+|align=left|  || 1 || 0 || 1 || 0 || 0 || 21 November 2022 || 
+|-
+|align=left|  || 1 || 0 || 1 || 0 || 0 || 24 November 2022 || 
+|-
+|align=left|  || 1 || 0 || 0 || 0 || 1 || 22 November 2022 || 
+|-
+|align=left|  || 1 || 0 || 0 || 0 || 1 || 18 November 2022 || 
+|}
+
+==See also==
+* List of Mali Twenty20 International cricketers
+* Mali women's national cricket team
+* Malian Cricket Federation
+

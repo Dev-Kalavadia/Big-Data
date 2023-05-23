@@ -1,0 +1,210 @@
+Title: List of municipalities of the Province of Modena
+
+The following is a list of the 48 municipalities (comuni) of the Province of Modena, Emilia-Romagna, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|036001
+|Bastiglia
+| align="right" |3,555
+|-
+|036002
+|Bomporto
+| align="right" |8,274
+|-
+|036003
+|Campogalliano
+| align="right" |8,044
+|-
+|036004
+|Camposanto
+| align="right" |3,061
+|-
+|036005
+|Carpi
+| align="right" |63,766
+|-
+|036006
+|Castelfranco Emilia
+| align="right" |27,324
+|-
+|036007
+|Castelnuovo Rangone
+| align="right" |12,724
+|-
+|036008
+|Castelvetro di Modena
+| align="right" |10,278
+|-
+|036009
+|Cavezzo
+| align="right" |7,072
+|-
+|036010
+|Concordia sulla Secchia
+| align="right" |8,813
+|-
+|036011
+|Fanano
+| align="right" |2,999
+|-
+|036012
+|Finale Emilia
+| align="right" |15,354
+|-
+|036013
+|Fiorano Modenese
+| align="right" |16,433
+|-
+|036014
+|Fiumalbo
+| align="right" |1,335
+|-
+|036015
+|Formigine
+| align="right" |30,893
+|-
+|036016
+|Frassinoro
+| align="right" |2,137
+|-
+|036017
+|Guiglia
+| align="right" |4,017
+|-
+|036018
+|Lama Mocogno
+| align="right" |3,004
+|-
+|036019
+|Maranello
+| align="right" |16,216
+|-
+|036020
+|Marano sul Panaro
+| align="right" |3,870
+|-
+|036021
+|Medolla
+| align="right" |5,901
+|-
+|036022
+|Mirandola
+| align="right" |22,817
+|-
+|036023
+|Modena
+| align="right" |180,110
+|-
+|036024
+|Montecreto
+| align="right" |927
+|-
+|036025
+|Montefiorino
+| align="right" |2,336
+|-
+|036026
+|Montese
+| align="right" |3,280
+|-
+|036027
+|Nonantola
+| align="right" |13,572
+|-
+|036028
+|Novi di Modena
+| align="right" |10,845
+|-
+|036029
+|Palagano
+| align="right" |2,455
+|-
+|036030
+|Pavullo nel Frignano
+| align="right" |16,083
+|-
+|036031
+|Pievepelago
+| align="right" |2,194
+|-
+|036032
+|Polinago
+| align="right" |1,862
+|-
+|036033
+|Prignano sulla Secchia
+| align="right" |3,571
+|-
+|036034
+|Ravarino
+| align="right" |5,900
+|-
+|036035
+|Riolunato
+| align="right" |738
+|-
+|036036
+|San Cesario sul Panaro
+| align="right" |5,608
+|-
+|036037
+|San Felice sul Panaro
+| align="right" |10,453
+|-
+|036038
+|San Possidonio
+| align="right" |3,761
+|-
+|036039
+|San Prospero
+| align="right" |5,087
+|-
+|036040
+|Sassuolo
+| align="right" |41,746
+|-
+|036041
+|Savignano sul Panaro
+| align="right" |8,746
+|-
+|036042
+|Serramazzoni
+| align="right" |7,618
+|-
+|036043
+|Sestola
+| align="right" |2,647
+|-
+|036044
+|Soliera
+| align="right" |14,056
+|-
+|036045
+|Spilamberto
+| align="right" |11,376
+|-
+|036046
+|Vignola
+| align="right" |22,351
+|-
+|036047
+|Zocca
+| align="right" |4,716
+|-
+|036048
+|Scandiano
+|  align="right" |24,707
+|-
+|Total
+| align="right" |659,925
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

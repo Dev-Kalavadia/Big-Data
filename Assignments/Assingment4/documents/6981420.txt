@@ -1,0 +1,106 @@
+Title: Rovio, Ticino
+Rovio is a former municipality in the district of Lugano in the canton of Ticino in Switzerland. Traditionally Rovio has been an agricultural community, raising livestock and growing vines, but today many of its houses are occupied by commuters, largely travelling into the city of Lugano.
+
+The entire village of Rovio is part of the Inventory of Swiss Heritage Sites, whilst the oratory of S. Vigilio is listed as a Swiss heritage site of national significance.
+
+On 10 April 2022, the former municipalities of Maroggia, Melano and Rovio merged to form the new municipality of Val Mara.
+
+The blazon of the municipal coat of arms is Or a cat rampant guardant sable langued gules. The cat () refers to the nickname given to the villagers.Flags of the World.com accessed 25-January-2011
+
+==History==
+Rovio is first mentioned in 852 as Rovi.
+
+Five fire pits from about 1000 BC were discovered within the municipal area, as well as remains from the Iron Age and the Roman era.  In 1213 the Vicinanza which included Rovio village came under the Pieve of Riva San Vitale.  In 1517, the entire Pieve became part of the bailiwick of Lugano.  In 1798, it joined the short-lived Republic of Riva San Vitale.
+
+It was part of the parish of Riva San Vitale until 1213 when it became an independent parish.  The parish church of SS Vitale e Agata was first mentioned in that same year.  Between the end of the 16th Century and 1613, it was rebuilt.  The romanesque Oratory of San Vigilio was built in the first half of the 11th Century.
+
+Agriculture, livestock and vineyards were the main sources of income.  Due to lack of farming land, many residents also emigrated as construction workers and craftsmen.  Since the 1960s many new houses have been built.  In 2000, more than three-quarters of workers in Rivio were commuters, with the majority going to Lugano.
+
+==Geography==
+thumb|Rovio village
+thumb|right|Rovio village viewed through a telephoto lens from near the summit of Monte Generoso
+The municipality of Rovio is located in the district of Lugano, on the left side of the Valmara valley. It includes the Swiss side of the peak of Monte Generoso, at an elevation of  on the border with Italy.
+
+Rovio has an area, , of .  Of this area,  or 9.4% is used for agricultural purposes, while  or 78.7% is forested.   Of the rest of the land,  or 6.3% is settled (buildings or roads),  or 0.2% is either rivers or lakes and  or 7.6% is unproductive land.
+
+Of the built up area, housing and buildings made up 5.1% and transportation infrastructure made up 0.9%.  Out of the forested land, 75.2% of the total land area is heavily forested and 3.4% is covered with orchards or small clusters of trees.  Of the agricultural land, 3.8% is used for growing crops and 5.1% is used for alpine pastures.  All the water in the municipality is flowing water.  Of the unproductive areas, 6.1% is unproductive vegetation and 1.4% is too rocky for vegetation.Altitudine, superficie, secondo il genere di utilizzazione, rilevazione 1992/1997, e densità della popolazione, nel 2000   accessed 25 October 2010
+
+==Demographics==
+Rovio has a population () of .  , 16.0% of the population are resident foreign nationals.Swiss Federal Statistical Office - Superweb database - Gemeinde Statistics 1981-2008  accessed 19 June 2010  Over the last 10 years (1997–2007) the population has changed at a rate of 18.5%.
+
+Most of the population () speaks Italian (83.1%), with German being second most common (11.9%) and Portuguese being third (1.6%).Swiss Federal Statistical Office accessed 25-January-2011  Of the Swiss national languages (), 80 speak German, 7 people speak French, 559 people speak Italian, and 1 person speaks Romansh.  The remainder (26 people) speak another language.Popolazione residente, secondo la lingua principale e la religione, nel 2000   accessed 23 November 2010
+
+, the gender distribution of the population was 49.3% male and 50.7% female.  The population was made up of 307 Swiss men (40.8% of the population), and 64 (8.5%) non-Swiss men.  There were 332 Swiss women (44.1%), and 50 (6.6%) non-Swiss women.
+
+In  there were 9 live births to Swiss citizens and were 7 deaths of Swiss citizens.  Ignoring immigration and emigration, the population of Swiss citizens increased by 2 while the foreign population remained the same.  There were 5 Swiss men and 2 Swiss women who immigrated back to Switzerland.  At the same time, there were 6 non-Swiss men and 5 non-Swiss women who immigrated from another country to Switzerland.  The total Swiss population change in 2008 (from all sources, including moves across municipal borders) was an increase of 3 and the non-Swiss population change was an increase of 10 people.  This represents a population growth rate of 1.7%.
+
+The age distribution, , in Rovio is; 68 children or 9.0% of the population are between 0 and 9 years old and 75 teenagers or 10.0% are between 10 and 19.  Of the adult population, 68 people or 9.0% of the population are between 20 and 29 years old.  96 people or 12.7% are between 30 and 39, 158 people or 21.0% are between 40 and 49, and 112 people or 14.9% are between 50 and 59.  The senior population distribution is 85 people or 11.3% of the population are between 60 and 69 years old, 57 people or 7.6% are between 70 and 79, there are 34 people or 4.5% who are over 80.01.02.03 Popolazione residente permanente   accessed 23 November 2010
+
+, there were 281 private households in the municipality, and an average of 2.3 persons per household.   there were 209 single family homes (or 72.6% of the total) out of a total of 288 inhabited buildings.  There were 39 two family buildings (13.5%) and 36 multi-family buildings (12.5%).  There were also 4 buildings in the municipality that were multipurpose buildings (used for both housing and commercial or another purpose). 09.02.01 Edifici   accessed 23 November 2010
+
+The vacancy rate for the municipality, , was 0%.   there were 449 apartments in the municipality.  The most common apartment size was the 5 room apartment of which there were 136.  There were 21 single room apartments and 136 apartments with five or more rooms.  09.02.02 Abitazioni   accessed 23 November 2010  Of these apartments, a total of 281 apartments (62.6% of the total) were permanently occupied, while 163 apartments (36.3%) were seasonally occupied and 5 apartments (1.1%) were empty.  , the construction rate of new housing units was 2.7 new units per 1000 residents.
+
+The historical population is given in the following chart:Popolazione residente, dal 1850   accessed 23 November 2010
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.8)
+ImageSize  = width:1080 height:210
+PlotArea   = height:150 left:100 bottom:50 right:100
+AlignBars  = justify
+DateFormat = x.y
+Period     = from:0 till:680
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:100 start:0
+ScaleMinor = gridcolor:lightgrey increment:20 start:0
+PlotData=
+  color:yellowgreen width:40   mark:(line,white) align:center
+  bar:1591 from:start till:62 text:"62"
+  bar:1801 from:start till:396 text:"396"
+  bar:1850 from:start till:384 text:"384"
+  bar:1860 from:start till:359 text:"359"
+  bar:1870 from:start till:340 text:"340"
+  bar:1880 from:start till:360 text:"360"
+  bar:1890 from:start till:314 text:"314"
+  bar:1900 from:start till:375 text:"375"
+  bar:1910 from:start till:401 text:"401"
+  bar:1920 from:start till:405 text:"405"
+  bar:1930 from:start till:441 text:"441"
+  bar:1941 from:start till:382 text:"382"
+  bar:1950 from:start till:376 text:"376"
+  bar:1960 from:start till:347 text:"347"
+  bar:1970 from:start till:450 text:"450"
+  bar:1980 from:start till:535 text:"535"
+  bar:1990 from:start till:579 text:"579"
+  bar:2000 from:start till:673 text:"673"
+
+
+==Politics==
+In the 2007 federal election the most popular party was the SP which received 33.24% of the vote.  The next three most popular parties were the FDP (18%), the Ticino League (17.01%) and the CVP (11.8%).  In the federal election, a total of 289 votes were cast, and the voter turnout was 54.7%.Swiss Federal Statistical Office, Nationalratswahlen 2007: Stärke der Parteien und Wahlbeteiligung, nach Gemeinden/Bezirk/Canton  accessed 28 May 2010
+
+In the  Gran Consiglio election, there were a total of 521 registered voters in Rovio, of which 359 or 68.9% voted.  3 blank ballots were cast, leaving 356 valid ballots in the election.  The most popular party was the PS which received 111 or 31.2% of the vote.  The next three most popular parties were; the PLRT (with 58 or 16.3%), the LEGA (with 53 or 14.9%) and the SSI (with 51 or 14.3%). Elezioni cantonali: Gran Consiglio, Consiglio di Stato   accessed 23 November 2010
+
+In the  Consiglio di Stato election, 1 blank ballot and 2 null ballots were cast, leaving 356 valid ballots in the election.  The most popular party was the PS which received 128 or 36.0% of the vote.  The next three most popular parties were; the LEGA (with 76 or 21.3%), the PLRT (with 59 or 16.6%) and the SSI (with 45 or 12.6%).
+
+==Economy==
+, Rovio had an unemployment rate of 3.31%.  , there were 9 people employed in the primary economic sector and about 3 businesses involved in this sector.  13 people were employed in the secondary sector and there were 5 businesses in this sector.  61 people were employed in the tertiary sector, with 16 businesses in this sector.  There were 342 residents of the municipality who were employed in some capacity, of which females made up 40.6% of the workforce.
+
+, there were 42 workers who commuted into the municipality and 260 workers who commuted away.  The municipality is a net exporter of workers, with about 6.2 workers leaving the municipality for every one entering.  About 23.8% of the workforce coming into Rovio are coming from outside Switzerland.Swiss Federal Statistical Office - Statweb   accessed 24 June 2010  Of the working population, 6.7% used public transportation to get to work, and 71.1% used a private car.
+
+, there was one hotel in Rovio. Settori alberghiero e paralberghiero   accessed 23 November 2010
+
+==Religion==
+From the , 498 or 74.0% were Roman Catholic, while 55 or 8.2% belonged to the Swiss Reformed Church.  There are 92 individuals (or about 13.67% of the population) who belong to another church (not listed on the census), and 28 individuals (or about 4.16% of the population) did not answer the question.
+
+==Education==
+In Rovio about 78.5% of the population (between ages 25 and 64) have completed either non-mandatory upper secondary education or additional higher education (either university or a Fachhochschule).
+
+In Rovio there were a total of 126 students ().  The Ticino education system provides up to three years of non-mandatory kindergarten and in Rovio there were 22 children in kindergarten.  The primary school program lasts for five years and includes both a standard school and a special school.  In the municipality, 42 students attended the standard primary schools and 1 student attended the special school.  In the lower secondary school system, students either attend a two-year middle school followed by a two-year pre-apprenticeship or they attend a four-year program to prepare for higher education.  There were 32 students in the two-year middle school and 1 in their pre-apprenticeship, while 9 students were in the four-year advanced program.
+
+The upper secondary school includes several options, but at the end of the upper secondary program, a student will be prepared to enter a trade or to continue on to a university or college.  In Ticino, vocational students may either attend school while working on their internship or apprenticeship (which takes three or four years) or may attend school followed by an internship or apprenticeship (which takes one year as a full-time student or one and a half to two years as a part-time student).  There were 3 vocational students who were attending school full-time and 14 who attend part-time.
+
+The professional program lasts three years and prepares a student for a job in engineering, nursing, computer science, business, tourism and similar fields.  There were 2 students in the professional program. Allievi e studenti, secondo il genere di scuola, anno scolastico 2009/2010   accessed 23 November 2010
+
+, there were 52 students from Rovio who attended schools outside the municipality.
+

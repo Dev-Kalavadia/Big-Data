@@ -1,0 +1,25 @@
+Title: S1 Core
+S1 Core (codename Sirocco) is an open source hardware microprocessor design developed by Simply RISC. Based on Sun Microsystems' UltraSPARC T1, the S1 Core is licensed under the GNU General Public License, which is the license Sun chose for the OpenSPARC project.
+
+The main goal of the project is to keep the S1 Core as simple as possible to encourage developers. The major differences between T1 and S1 include:
+
+* S1 Core only has one 64-bit SPARC Core (supporting one to four independent threads of execution) instead of eight cores;
+* S1 Core adds a Wishbone bridge, a reset controller and a basic interrupt controller;
+* the S1 Core environment can be run using only free tools on a common x86 Linux machine.
+
+==See also==
+
+*LEON
+*OpenRISC
+
+==External links==
+* Simply RISC - S1 Core (archive.org link - as of 2018/11/5 original url redirects to OpenPiton)
+* OpenPiton Simply RISC site redirects to here, as of 2018/11/5, it is unclear if it is related. 
+* S1 Core page on OpenCores
+* S1 Core page on SunSource
+* 
+
+Category:Open microprocessors
+Category:SPARC microprocessors
+
+

@@ -1,0 +1,54 @@
+Title: Priroda
+
+
+
+The Priroda (; ) (TsM-I, 77KSI, 11F77I) module was the seventh and final module of the Mir Space Station. Its primary purpose was to conduct Earth resource experiments through remote sensing and to develop and verify remote sensing methods. The control system of Priroda was developed by the KhartronKrivonosov, Khartron: Computers for rocket guidance systems (Kharkov, Ukraine).
+
+== Description ==
+Priroda was originally designed to carry a deployable solar array. However, due to delays, and the fact that solar arrays were planned for other parts of Mir, a solar array was not included in the launch configuration. Instead, during free flight, Priroda was powered by two redundant sets of batteries totaling 168. Priroda had an unpressurized instrument compartment and a habitable instrument/payload compartment. The unpressurized compartment contained propulsion system components, EVA handrails, and scientific equipment. The instrument/payload compartment was divided into two sections: an outer instrument section and an inner habitation and work compartment. Experiments on Priroda were provided by twelve different nations. These experiments covered microwave, visible, near infrared, and infrared spectral regions using both passive and active sounding methods.
+
+thumb|left|Diagram of Priroda pointing out external features
+
+Remote sensing instruments:
+
+* Alissa lidar - measured cloud height, structure, optical properties. 150 m vertical resolution, 1 km horizontal resolution
+* Centaur 400 MHz receiver - used to gather ocean buoy data
+* DOPI interferometer - studies gases and aerosols. 2.4-20 micrometer
+* Greben ocean altimeter - 10 cm resolution, 13.76 GHz, 2.5 km swath, nadir viewing
+* Ikar N nadir microwave radiometers - 0.3, 0.8, 1.35, 2.25, 6.0 cm wavelengths, 60 km swath, resolution 60 km and 0.15 K
+* Ikar Delta scanning microwave radiometer system - scanned 40° off track with a 400 km swath. 4.0, 0.3, 0.8, 1.35 cm wavelengths, resolution 8 – 50 km and 0.15 - 0.5 K
+* Ikar P panoramic microwave radiometers - 2.25, 6.0 cm wavelengths, 750 km swath, resolution 75 km and 0.15 K
+* Istok 1 IR spectroradiometer - wavelengths between 4.0-16.0 micrometer, 7 km swath, 0.7 x 2.8 km resolution
+* MOS-Obzor spectrometer - measured aerosol profile and ocean reflectance. 17 channels between 0.750-1.01 micrometer, 80 km swath, 700 m resolution
+* MOMS 02P Earth imager - 4 channels between 0.440-0.810 micrometer. Multi spectral, stereo or high resolution data, 6 km resolution. German instrument, initially flown aboard Spacelab D2 on Shuttle.
+* MSU-E2 high resolution optical scanner - 10 m resolution, 3 channels between 0.5 and 0.9 micrometer, nadir viewing, 2 x 24.5 km swaths
+* Ozon M spectrometer - used for ozone/aerosol profiles. 160 channels between 0.257-1.155 micrometer, 1 km altitude resolution
+
+* Travers Synthetic Aperture Radar - 1.28/3.28 GHz, 50 km swath, 38° look angle, 50 m resolution.
+
+
+== Launch and docking ==
+Priroda was launched on April 23, 1996, on a Proton rocket. After reaching orbit, an electrical connector failure caused the amount of power available on Priroda to be cut in half. Due to the electrical problem, Priroda would only have one attempt at docking before power would be lost. This caused some concern for ground controllers because most other modules failed to dock on their first attempt. However, Priroda docked with no problems on April 26. After being moved to its permanent location at the +Z docking port on the base block, Priroda was connected to the rest of the station's electrical system, which allowed it to run off power from solar arrays on other modules. The crew on board then removed the batteries from Priroda and stored them in Progress M-31 for a destructive re-entry.
+
+During the last expedition to Mir in 2000, power loads were reportedly so high that the crew was not able to activate any of Priroda's payloads.
+
+Priroda, along with the other Mir components, were destroyed when the Mir station was de-orbited in March 2001, entering the Earth's atmosphere.
+
+== References ==
+
+
+== External links ==
+
+
+* Russian Space Web
+* Encyclopedia Astronautica
+* Gunter's Space Page - information on Priroda
+* Priroda web page
+* Priroda project description
+
+
+
+
+
+Category:Mir
+Category:Spacecraft launched in 1996

@@ -1,0 +1,114 @@
+Title: Digital Reality
+
+
+
+
+Digital Reality Software Kft. (formerly Amnesty Design) was a Hungarian video game developer based in Budapest, Hungary. It was founded in 1991 as Amnesty Design, and started to work on their upcoming title, Reunion, which would be released in 1994 by Grandslam Video, for Amiga and MS-DOS. In 1997, leading up to the release of Imperium Galactica, the company changed its name to Digital Reality. In the following decade, games like Haegemonia: Legions of Iron, Platoon, SkyDrift and Desert Rats vs. Afrika Korps were produced, all to positive reception.
+
+In 2006, Digital Reality opened a subsidiary studio, Whiz Software, in cooperation with CDV Software, and in 2011, they spun off a digital distribution subsidiary, Digital Reality Publishing. Digital Reality silently shut down in 2013. In February 2016, Austrian publisher Nordic Games acquired a range of intellectual properties formerly under the Digital Reality banner, withunder also Black Knight Sword, Imperium Galactica and Sine Mora.
+
+== Games developed ==
+{|class="wikitable sortable" border="1"
+!Year
+!Title
+!Publisher
+!Platform
+|-
+|1994
+|Reunion 
+|Grandslam Video
+|Amiga, MS-DOS
+|-
+|1997
+|Imperium Galactica
+|GT Interactive
+|Microsoft Windows
+|-
+|1999
+|Imperium Galactica II: Alliances 
+|GT Interactive
+|Microsoft Windows
+|-
+|2002
+|Haegemonia: Legions of Iron 
+|Dreamcatcher Interactive 
+|Microsoft Windows
+|-
+|2002
+|Platoon 
+|Monte Cristo
+|Microsoft Windows
+|-
+|2003
+|Haegemonia: The Solon Heritage
+|Wanadoo Edition
+|Microsoft Windows
+|-
+|2004
+|Desert Rats vs. Afrika Korps
+|Monte Cristo
+|Microsoft Windows
+|-
+|2004
+|D-Day
+|Monte Cristo
+|Microsoft Windows
+|-
+|2006
+|War on Terror
+|Deep Silver 
+|Microsoft Windows
+|-
+|2007
+|War Front: Turning Point
+|CDV Software
+|Microsoft Windows
+|-
+|2010
+|Scarabeus: Pearls of Nile
+|DR Publishing
+|iOS
+|-
+|2010
+|Liberty Wings
+|DR Publishing
+|iOS
+|-
+|2011
+|Dead Block
+|Candygun Games, DR Publishing
+|Xbox 360, PlayStation 3, Microsoft Windows
+|-
+|2011
+|SkyDrift
+|DR Publishing
+|Xbox 360, PlayStation 3, Microsoft Windows
+|-
+|2012
+|Sine Mora
+|co-developed by Grasshopper Manufacture 
+|Xbox 360, PlayStation 3, PlayStation Vita, Ouya, Microsoft Windows
+|-
+|2012
+|Black Knight Sword
+|co-developed by Grasshopper Manufacture 
+|PlayStation 3, Xbox 360
+|-
+|2012
+|Bang Bang Racing
+|co-developed by Playbox
+|PlayStation 3, Xbox 360, Microsoft Windows
+|}
+
+== References ==
+
+
+
+
+Category:Defunct video game companies of Hungary
+Category:Video game companies established in 1991
+Category:Video game companies disestablished in 2013
+Category:Video game development companies
+Category:1991 establishments in Hungary
+
+

@@ -1,0 +1,143 @@
+Title: FIBA Men's World Ranking
+
+
+The FIBA Men's World Ranking are FIBA's rankings of national basketball teams. FIBA ranks both men's and women's national teams for both senior and junior competitions. It also publishes combined rankings for all mixed-sex competitions.
+
+Not included are the rankings for three-on-three competitions, which are tabulated for individual players.
+
+==Calculation==
+Only FIBA tournaments consisting of full five-a-side teams are used in calculations for the rankings. Other tournaments, such as regional championships, invitationals, three-on-three half-court basketball, and friendlies are not included.FIBA.com: How it works
+
+On October 11, 2017, FIBA radically changed its ranking system for men's national teams, switching from the previous competition-based system to a game-based system. Every game played by a national team within the last eight years in the World Cup, Olympics, continental championships, and qualifiers for these events is included in the calculations. In addition to the qualifying rounds, results of the FIBA European Championship for Small Countries are also included.
+
+Until the 2016 Olympic Games, the Olympics and the men's world championship gave 5 points each toward the ranking. Since the new FIBA ranking system was launched, these two tournaments had their score devalued to 2.5 points for playing in a World championship, and 2 points for playing in an Olympic game since 2017.
+
+According to the new system, both tournaments will not grant a differential score with respect to other tournaments of national teams, as opposed to the past where there was no difference in points in the ranking for being world champion or Olympic champion, but if there was much difference until 2016 in FIBA ranking points between these two tournaments and the rest of the competitions in FIBA, such as the continental tournaments. For women, FIBA will maintain the score of 5 points for playing an Olympic or world championship game.
+
+===Rating points per game===
+Each game in a ranking tournament is initially valued at 1,000 "basis points", divided between the two teams as follows:
+
+{|class="wikitable"
+|-
+! Victory margin !! Points to winner !! Points to loser
+|-
+| Less than 10 points || 600 || 400
+|-
+| 10–19 points || 700 || 300
+|-
+| 20 or more points || 800 || 200
+|-
+| Forfeit || 800 || 0
+|}
+
+The basis points are adjusted based on the site of the game, with FIBA calling this adjustment "home" and "away" points. During the finals of ranking tournaments, only games played by a host team in its own country count as "home" games; all others are treated as neutral-site games. Adjustments are:
+
+* Home game: −70 points
+* Neutral site: no adjustment
+* Away game: +70 points
+
+The basis points are also adjusted to reflect the strength of the opponent. FIBA determines what it calls "opposition ranking points" by the following formula:
+
+* Opposition ranking points = 1.5 × (average pre-game ranking for all national teams − opponent's pre-game ranking)
+
+A team's final rating points for a particular game is the sum of basis, home/away, and opposition ranking points.
+
+===Weighting===
+The new calculations continue to account for the specific tournament and region, as in the former procedure, but no longer explicitly consider a team's final tournament placement.
+
+The basis points (above) are weighted by the product of the time decay, regional, competition stage, and round weights, as follows.
+
+====Time decay====
+In a new feature, a "time decay" factor has been introduced into the calculations. More-recent games carry the greatest weight, steadily declining until falling out of the calculations after 8 years:
+
+{|class="wikitable"
+|-
+! Time of game !! Weighting 
+|-
+| Current year (Y) and immediately previous year (Y−1) || 1.0
+|-
+| Y−2 and Y−3 || 0.75
+|-
+| Y−4 and Y−5 || 0.5
+|-
+| Y−6 and Y−7 || 0.25
+|}
+
+====Events' weights====
+FIBA uses a weighted arithmetic mean (with a minimum divisor which is not published) to determine the statistical weight of each tournament. Each event is assigned a point weight that is based partly on how competitive the tournament is and partly on which national teams are participating.
+
+FIBA world ranking weights for men's events:
+{| class="wikitable"
+|-
+! width="550px" |  !! Weight
+|-
+|FIBA Basketball World Cup|| 2.5
+|-
+|Olympic basketball tournament|| 2.0
+|-
+|EuroBasket|| 1.0
+|-
+|FIBA AmeriCup|| 0.8
+|-
+|FIBA Oceania Championship (defunct)
+|0.7
+|-
+|FIBA Asia Cup|| 0.4
+|- 
+|AfroBasket|| 0.3
+|}
+
+From 2017 forward, FIBA Asia and FIBA Oceania members compete for a single regional championship under the FIBA Asia banner. Results from the 2010–2016 period, during which FIBA Asia and FIBA Oceania held separate championships, will continue to figure into the rankings (until 2025 via "time decay").
+
+In a new feature, FIBA also weights game results by the "competition stage".
+
+{|class="wikitable"
+|-
+! Stage !! Weight
+|-
+| Pre-qualifier || 0.25
+|-
+| Qualifier || 0.5
+|-
+| Final tournament || 1.0
+|}
+
+Additionally, FIBA has added a "round weighting" to the system, giving each game in a final tournament (World Cup, Olympics, or continental championship) a weighting based on the round in which it takes place. Qualifying matches for these tournaments implicitly carry a round weighting of 1.0.
+
+{|class="wikitable"
+|-
+! Round !! Weight
+|-
+| Group stage || 1.0
+|-
+| Round of 16 || 1.25
+|-
+| Quarterfinals || 1.5
+|-
+| Semifinals || 1.75
+|-
+| Final || 2.0
+|}
+
+If a competition does not have a round of 16 and/or a quarterfinal round, the results from the rounds that are held are scaled according to the number of rounds, with the group stage remaining at a 1.0 weighting and the competition final remaining at 2.0.
+
+===Cycle and updates===
+Rankings are now updated after every individual game in a ranking tournament (including qualifiers for such tournaments).
+
+==Women's rankings==
+
+FIBA still uses the competition-based system to determine its women's rankings. As noted above, this system was also used to determine men's rankings prior to 2017. FIBA introduced a game-based ranking procedure similar to that currently used for men's rankings in the indeterminate future in November 2019.
+
+==Notes and references==
+
+
+==External links==
+*Examples of ranking calculations at FIBA's official site.
+
+
+
+
+
+Category:Basketball rankings
+World Rankings
+Category:Sports world rankings

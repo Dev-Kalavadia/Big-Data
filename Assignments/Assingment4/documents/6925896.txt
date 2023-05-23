@@ -1,0 +1,155 @@
+Title: BSA Gold Star
+
+
+
+
+)ZB32 6.5, 8:1, 9:1, 13:1B32 6.8:1, 7.5:1, 8:1, 9:1, 11:1
+| top_speed        =   (varies by model and options)
+| power            = Approx.  (M24 and B32)  (M34) (varies by model and options)
+| torque           = 
+| ignition         = Magneto
+| transmission     = Wet multiplate clutch, 4-speed, chain
+| frame            = Steel full duplex
+| suspension       = Front: telescopic fork, Rear: rigid from 1939, plunger from 1954; swinging arm
+| brakes           = Front: single 8" or full-width 190 mm drum , Rear: 7" Drum, rod actuated.
+| tires            = Front: 3.0×19" Rear: 3.5×19"
+| rake_trail       = 
+| wheelbase        = 
+| length           = 
+| width            = 
+| height           = 
+| seat_height      = 
+| dry_weight       = 
+| wet_weight       = 
+| fuel_capacity    = 
+| oil_capacity     = 
+| fuel_consumption = 
+| turning_radius   = 
+| range          = 
+| related          = BSA B33BSA Rocket Gold Star
+| sp               = uk
+| footnotes        =  
+}}
+The BSA Gold Star is a motorcycle made by BSA from 1938 to 1963. They were 350 cc and 500 cc single-cylinder four-stroke production motorcycles known for being among the fastest bikes of the 1950s. Being hand built and with many optional performance modifications available, each motorcycle came from the factory with documented dynamometer test results, allowing the new owner to see the horsepower (bhp) produced.
+
+The Gold Star was almost continuously developed over its lifetime by BSA's engineers and riders, who improved its capabilities and increased output from its essentially simple push-rod petrol engine than had been thought possible. It was highly successful across almost all areas of motorcycle sport for well over a decade and is still regarded as a design icon of its era.
+
+==Origin==
+In 1937, Wal Handley lapped the Brooklands circuit at over  on a BSA Empire Star, and was awarded one of the traditional Gold Star badges. That inspired BSA to produce the BSA Gold Star.
+The first Gold Star was an M24 model. It had an all alloy  bore and stroke,  displacement, with a separate rocker box bolted to the aluminium head, pushrod valve actuation, an Elektron (magnesium alloy) gearbox with close ratio option, and a rigid frame made of light tubes devoid of sidecar attachment lugs. This model continued up to the start of World War II.
+
+There were two variants of the M24; 1938, JM24 and 1939, KM24. Several modifications were made to the design during its lifespan. The 1939 KM model used a redesigned crank and crankcase with timing gears on fixed shafts, supported by a strong steel "outrigger" plate (a feature carried on throughout the Gold Star's entire production period.) The earlier JM model had cams that ran directly in the timing cover, with the potential for premature wear, hence the re-design. Power outputs were around 30bhp. The cast Elektron gearbox was dropped in 1939 to use the side-valve M20's cast aluminium shell but with close gear ratios as an option. Some KM's were used by the military at the start of WW2. Very few of either model were produced, with numbers in the low hundreds for each.
+
+==1948 ZB32GS introduced==
+After the war, in 1945-46, BSA had introduced the iron engine  B31 and subsequent  B33. In preparation for the 1949 model season, and to attract sporting buyers,  the  bore and stroke, all alloy 348 cc ZB32 type Gold Star was first shown at the Earls Court motorcycle show at the end of 1948, with a very large list of optional components. Unlike the pre-war M24 engine the cylinder head was a strong one-piece casting, with the rockers incorporated into the unit. The all new spring frame had so-called plunger suspension, half-way between the earlier rigid and later swingarm types. These used undamped springs mounted on shafts and forgings either side of the rear wheel spindle and although they were an improvement over a rigid frame for the average road rider, they came in time to be regarded by competition riders and racers as too heavy and poor handling. Once ordered the bike was assembled by hand, and the engine bench tested and not released unless an acceptable power output was achieved, which was around , depending on specification. They were  lighter than the comparable  cast-iron barrel and head B series single. They were almost immediately successful, winning the Manx Grand Prix Clubman's 350 class from 1949 and remained so until 1956 when the class was discontinued. They could be specified in tourer, trials, ISDT, scrambles, racing or "Clubman's" trim. Racing models used the well established Amal TT carburettor. 
+
+The rest of the 1948 BSA OHV B range "YB" models in the standard and competition forms had heavy but reliable cast iron heads and barrels. BSA were known to experiment with new prototype components that were used as test mules by BSA's own riders at the time. It has been suggested that a very small number of YB32 competition engines may have had aluminium ZB32 type barrels and heads. These would have been "works" prototype bikes rather than true production Gold Stars.
+
+In BSA's model numbering system Y denotes the year and B the range, followed by the engine number; YB is 1948, ZB is 1949, and so on, except that some models were available for more than one year so the number remained the same over that time.  All genuine bench-tested Gold Stars had the addition of "GS" after the year and range letters; thus ZB32GS, followed by the actual engine number. A standard YB32 or subsequent years competition machine was not a Gold Star as it did not have a bench-tested engine or the full "GS" engine number. In subsequent years BSA produced competition machines delineated with a stamped "A"  to signify an aluminium engine. They were not bench-tested Gold Star engines, despite the physical similarities and use of some of the same parts.
+
+==1949 ZB32GS and ZB34GS==
+thumb|1949 ZB34 Gold Star
+In 1949 the B32 Gold Star was in full production. The 499 cc B34 Gold Star was introduced, with a modified heavier crankshaft, stronger drive side crankcase, larger diameter drive-side main-shaft and a different design main bearing. The 350 cc continued as before. Spring plunger frames were most commonly used, along with a standard B type rigid option for trials competition use. In 1950 both received larger 8" front brakes. In late 1951 the 500 gained a new barrel and Bert Hopwood design head with separate rocker box, and the 350 had a new barrel and head of that design the following year  The earlier  connecting rod was shortened by , which with other improvements gave a useful increase in power. This engine redesign initially used sand-cast heads and barrels, still designated as ZB. After engine number ZB32GS-6001 production moved to die castings which allowed a more accurate and cleaner finish.
+
+==1953 BB34GS and BB32GS==
+In 1953, a swingarm duplex (twin front downtube) frame was introduced, although rigid and plunger frames were still available, along with a much improved gearbox for the new frames, with a choice of gear ratios  These frames and all later GS and pre-unit B series swingarm frames had a distinctive kink in the lower offside rail, to accommodate and protect the oil-pump casting on the lower timing-side crankcase. A small number of the early swingarm frames had a separate cast steel kink welded or brazed in place. Some modifications were also made to the general design so later frames are somewhat different from the BB type. In all later frames the frame rail was pressed out to form the kink. Some machines specified for lighter-weight competition use had no rear loops that normally held the pillion footrests. Due to the new frame a new larger and distinctive chrome plated fuel tank was introduced. The engines maintained the same die-cast barrel and head with separate rocker box design as with the late ZB models. The BB models remained in production for touring and trials competition use into 1954.
+
+==1954 CB34GS and CB32GS==
+thumb|1954 CB32 Gold Star
+The new CB engine was introduced, (subsequently known as the Big Fin engine), given deeper and squarer finning, a 5 bolt head, quite soon changed to 8 bolts, a stronger crankshaft, an even shorter connecting rod at , oval flywheels (500), improved valve gear with eccentric adjustment, and an Amal GP carburettor. Power outputs were once again increased to around  respectively.
+
+==1955 DB32GS and DB34GS==
+The DB Gold Star had an improved oil feed to the crankshaft, and finned front brakes. DB32 models had smaller exhaust valve than the CB32 and power increased slightly to over . Power outputs of the 499 cc engines were developed to about  over the next few years. The Clubman cam and timing option included a special silencer. At the end of this year the BB and CB models were discontinued. The last batch of 350 cc DB32 machines left the factory in 1963.
+
+==1956 DBD34==
+thumb|Motocross version from early 1960s
+The 500 cc DBD34 was introduced in 1956, with clip-on handlebars, the same big finned alloy engine with a newly designed head,  38 mm ( 1 1/2" ) bell-mouth Amal carburettor and swept-back exhaust.  The DBD34 had a  top speed.Wilson, Hugo. (1993) The Ultimate Motor-Cycle Book p.69 1960 BSA Gold Star DBD34. Dorling Kindersley  Accessed and added  2014-08-24 The Gold Star dominated the Isle of Man Clubmans TT that year. Later models had an ultra close-ratio gearbox (RRT2) with a very high first gear, enabling  plus before changing up to second. Amongst the options available were a tachometer and a 190mm full width front brake that gave a larger lining area than the standard 8" single sided unit. A scrambles version was also offered. Many of the machines were exported to the USA where there was high demand for them. A series of special models were made for this lucrative market.
+
+Production ended in 1963.
+
+==Gold Star Daytona==
+thumb|1956 DBD34 Gold Star Daytona
+In 1954, BSA wanted to win the prestigious United States Daytona 200 race. During the 1950s, the race was run partly on asphalt and partly on the beach at Daytona. A team of works prepared Gold Stars and A7 Shooting Stars were entered. The race was won by a Shooting Star with a Gold Star in 3rd place. A replica of the works Gold Star was offered to the public. The specification included a rigid frame, which saved  over the swinging-arm frame. Engine modifications included using a 350cc head, which had a better downdraught angle, machined to 500cc dimensions and fitted with a large inlet valve. The engine produced 44bhp. The model was also offered in subsequent years.
+
+Rigid framed machines became successful on the USA "Flat Track" scene in the hands of riders such as Dick Mann and tuners like CR Axtell. Special lightweight rigid frames such as the "Trackmaster" were also produced by American makers specifically for this purpose.
+
+A swinging arm version, known by the factory as "USA Short Circuit" was also produced in 1956 and 1957.
+
+==Gold Star Catalina==
+In 1956, Chuck Minert won the Catalina Grand Prix on a modified Gold Star. (The Catalina Grand Prix was a popular 100-mile race on the island of Santa Catalina off the coast of Los Angeles. In 1956 more than 1,000 bikes started the race.) Modifications included a larger fuel tank, an air scoop on the front brake and a 19" front wheel.
+
+US west coast BSA distributor, Hap Alzina, persuaded the factory to produce a replica named after the race. The Gold Star Catalina was manufactured from 1959 to 1963.
+
+==End of production==
+Towards the end the Gold Star was only offered in scrambles, or Clubmans trim. In 1963 Lucas ceased to produce the magneto used in the B series, and that line of singles was ended. The demise of the Lucas magneto was a prime reason that BSA and Triumph reconfigured their pre-unit-construction parallel twins into engines with integral gearboxes, simultaneously converting the ignition system from magneto to battery and coil. The Gold Star was not considered for progression to unit-construction, and instead the 250 cc BSA C15 was developed (via the B40) into the 500 cc B50. Although the B50 never attained the kudos of the DBD34, a B50 fielded by Mead & Tomkinson once held the class lap record in the Production TT, as well as gaining a class 2nd at the 24-hour endurance races the Le Mans Bol d'Or and a class win at the Montjuïc circuit in Barcelona. CCM used BSA B50 bottom ends in their early specials.
+
+==New ownership==
+ 
+
+In 2021, the Mahindra Group, the new owners of the BSA marque, announced the return of the Gold Star into production.
+
+The first units were shipped to the UK from their manufacturing base in India in October 2022 and expected to go on sale shortly thereafter through UK dealers. 
+
+==Isle of Man TT wins==
+BSA Gold Stars won the following Isle of Man TT races.
+
+{| class="wikitable"
+|-
+! Year !! Race !! Winner !! Laps!!data-sort-type="time"| Time !! Speed (mph)
+|-
+| 1949 || Clubmans Junior TT  || Harold Clark ||  || 1.30.21.6 || 75.18
+|-
+| 1950 || Clubmans Junior TT  || B A Jackson ||  || 2.01.58.2 ||74.25
+|-
+| 1951 || Clubmans Junior TT  || Brian Purslow ||  || 2.00.10.0 || 75.36
+|-
+| 1952 || Clubmans Junior TT  || Eric Houseley || 4 || 1:54:45.2 || 78.92
+|-
+| 1953 || Clubmans Junior TT  || Derek T Powell || 4 || 1.52.57.8 || 80.17
+|-
+| 1954 || Clubmans Senior TT || Alistair King || 4 || 1:45.36.0|| 85.76
+|-
+| 1954 || Clubmans Junior TT ||  Phillip Palmer|| 4 || 1:50.39.4 || 81.83
+|-
+| 1955 || Clubmans Senior TT || Eddie Dow || 9 || 1:22:23 || 70.73 
+|-
+| 1955 || Clubmans Junior TT || Jimmy Buchan || 9 || 1:25:24.0 || 68.23 
+|-
+| 1956 || Clubmans Senior TT || Bernard Codd  || 3 || 1:18:40.6 || 86.33 
+|-
+| 1956 || Clubmans Junior TT || Bernard Codd || 3 || 1:22:48.4 || 82.02 
+|}
+
+==See  also==
+*List of motorcycles of the 1930s
+*List of motorcycles of the 1940s
+*List of motorcycles of the 1950s
+*List of motorcycles in the National Motor Museum, Beaulieu
+
+==Notes==
+
+
+==Sources==
+* 
+* 
+* 
+* 
+* 
+* 
+
+==Further reading==
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+
+Gold Star
+Category:Motorcycles introduced in the 1930s
+Category:Single-cylinder motorcycles

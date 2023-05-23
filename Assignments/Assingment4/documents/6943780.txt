@@ -1,0 +1,60 @@
+Title: Mwingi DistrictMwingi District was a former district of Kenya, located in the now defunct Eastern Province.  The district had a population of 303.828 (1999 census).  Its capital was Mwingi town.
+
+Local people are mostly of the Akamba tribe. North of Mwingi town, is the Mwingi National Reserve (formerly Kitui North National Reserve), which borders Meru National Park and Kora National Park.
+
+The district had two electoral constituencies, Mwingi North and Mwingi South. Kalonzo Musyoka, a prominent politician is from Mwingi.
+
+In 2010, due to the promulgation of new constitution  the district was merged into Kitui County.
+
+{| class="wikitable"
+|-
+|colspan="4"| Local authorities (councils) 
+|-
+|colspan="4"| 
+|-
+!Authority  
+!Type 
+!Population*
+!Urban pop.*
+|-
+| Mwingi || Town || 67,678 || 10,138
+|-
+| Mwingi County || County || 236,150 || 462
+|-
+| Total  || - || 303,828 || 10,600
+|-
+|colspan="4"| 
+|}
+
+{| class="wikitable"
+|-
+|colspan="4"| Administrative divisions 
+|-
+|colspan="4"| 
+|-
+!Division  
+!Population*
+!Urban pop.*
+!Headquarters
+|-
+| Central || 83,687 || 9,281 || Mwingi
+|-
+| Kyuso || 34,272 || 0 || 
+|-
+| Migwani || 56,907 || 433 || Migwani
+|-
+| Muumoni || 37,607 || 0 || 
+|-
+| Ngomeni || 10,712 || 0 || Ngomeni
+|-
+| Nguni || 20,415 || 0 || Nguni
+|-
+| Nuu || 36,561 || 0 || 
+|-
+| Tseikuru || 23,667 || 0 || Tseikuru
+|-
+| Total || 303,828 || 9,714 || - 
+|-
+|colspan="4"| 
+|}
+

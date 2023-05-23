@@ -1,0 +1,110 @@
+Title: BMPT Terminator
+
+
+
+
+The BMPT "Terminator" ( - Tank Support Fighting Vehicle) is an armored fighting vehicle (AFV), designed and manufactured by the Russian company Uralvagonzavod. This vehicle was designed for supporting tanks and other AFVs in urban areas. The BMPT is unofficially named the "Terminator" by the manufacturers. It is heavily armed and armored to survive in urban combat. The AFV is armed with four 9M120 Ataka missile launchers, two 30 mm 2A42 autocannons, two AG-17D grenade launchers, and one coaxial 7.62 mm PKTM machine gun.
+
+The BMPT is built on the chassis of the widely used T-72 main battle tank. The BMPT was designed based on combat experience gained during the Soviet–Afghan War and the First Chechen War. Multiple prototypes of a tank support combat vehicle were created prior to the design of the current BMPT. The Object 199 "Ramka" was the prototype later to be designated the modern BMPT with the official producer being Uralvagonzavod. By late 2013, the only operator of the BMPT was Kazakhstan.
+
+A small number were delivered to the Russian Ground Forces for evaluation beginning in 2005. The Russian Defence Ministry finally ordered the BMPT in August 2017. Deliveries of more than 10 vehicles were begun in early 2018. On 1 December 2021, the first BMPT company of nine combat vehicles was introduced into one of the tank regiments of the tank division of the Central Military District. The version, unofficially dubbed the "Terminator-3", incorporates the chassis, hulls, and components of the T-14 Armata tank.First BMPT tank support vehicle delivered in 2018 to Russian army  - Armyrecognition.com, 17 January 2018
+
+Examples of an "upgraded" version of the BMPT-72 are participating in the Russian-Ukrainian conflict, first observed during the battle of Sieverodonetsk in Ukraine.
+
+==Design history==
+
+The history of the BMPT's development can be traced back to the Soviet–Afghan War. Combat experience during the lengthy war revealed that infantry fighting vehicles (IFVs) like the BMP-1 and BMP-2 cannot fully deal with infantry, despite the BMP-2's high gun elevation. Although main battle tanks (MBTs) possessed a high amount of firepower, the limited elevation and depression angles of the main gun made them easy targets in mountainous and urban terrain. In the 1980s, the Chelyabinsk Tractor Plant began designing prototypes for the new concept, early prototypes being Object 781, Object 782, and Object 787. It was evident that a new vehicle concept was needed. The main requirements for this new machine were to possess large firepower, high angles of elevation and depression, and protection equivalent to that of an MBT. An additional requirement that was meant to supplement the latter was enhanced protection from close-range hand-held RPGs.
+
+The need for such a vehicle became even more evident during the First Chechen War. When using conventional armor during urban engagements, Russian forces suffered heavy losses in manpower and equipment, including the destruction of an entire mechanized brigade during the First Battle of Grozny. While these losses cannot be entirely blamed on technology, it became clear that a dedicated anti-personnel fighting vehicle would provide valuable assistance in an urban environment. Self-propelled anti-aircraft guns were used as a temporary solution in Chechnya. However, these vehicles were not well-armored and did not possess the obstacle-clearing capabilities of an MBT.
+
+There have been several different prototype designs of a tank support fighting vehicle, like the Object 193A and the Object 745. A mock-up of the Object 199 was shown for the first time in public during the summer of 2000. This vehicle was slightly different from the current design, being armed with only a single 2A42 30 mm gun and with four 9M133 Kornet missiles located on one side of the turret. The production model of the BMPT was introduced in 2002 and featured twin 30 mm autocannons, two independent 30 mm automatic grenade launchers, and four Ataka missile launchers.
+
+==Mission==
+When used in urban terrain, each main battle tank is to be deployed with two BMPTs. Outside of urban warfare that ratio is reversed with one BMPT protecting two main battle tanks. This results from the complexity of fighting in urban terrain and the need for a versatile anti-personnel platform that can engage multiple targets at once and on different height levels. The introduction of such a vehicle makes urban fighting less stressful on MBTs and can relieve them of some of the workload so that they can concentrate on their main objective of engaging other tanks and hardened targets. The BMPT's armor protection is equal to that of an MBT and its powerful armaments allow it to engage virtually any enemy formation while operating in a common battle formation. Thanks to the multiple weapons systems found on the BMPT, this vehicle is able to fire at multiple targets simultaneously. These features significantly help increase the combat effectiveness of tank units and decrease their losses from enemy close-combat assets.
+
+==Description==
+===Armament===
+The armament includes an unmanned turret armed with: 
+
+
+====Anti-tank guided weapons====
+
+The BMPT uses the Ataka missile to defeat heavily armored vehicles like tanks (shaped charge), infantry (thermobaric warhead) or aircraft (continuous rod). These missiles are carried only within their launchers, without any additional ones stowed away. A pair of ATGM launchers is located on each side of the turret. These launchers have an elevation of up to +25° and depression down to −5°. Laser beam riding SACLOS is the method of guidance used by the Terminator's ATGMs. The original 9M120 Ataka missile is 130 mm in diameter and features a tandem warhead capable of defeating explosive reactive armor (ERA). The tandem warhead penetrates 800 mm of Rolled homogeneous armor (RHA) behind ERA with later variants capable of penetrating 950 mm of RHA after ERA. The anti-personnel variant (9M120F) contains a thermobaric warhead and yields a blast effect of 9.5 kg in TNT equivalence. This missile's average speed for all variants is 400 m/s when reaching a target located 5.8 km from the launcher for a flight time of 14.5 seconds. The 9M120 has an operational range of up to 6 km and travels at a supersonic speed of 550 m/s.
+
+====Autocannons====
+
+The main weapons of BMPT are the two 30 mm 2A42 autocannons. A total of 850 rounds of ready-to-use ammunition can be carried. These twin autocannons have a combined fire rate of 600 rounds per minute, which gives a continuous fire time of 85 seconds (1 min 25 sec) before running out of ammo (not considering the constraints that limit the practical rate of fire, such as barrel overheating). Traverse of the autocannons is synchronised with the turret and they can elevate between −5° and +45°. The twin 2A42s are stabilized in the vertical and horizontal planes. One of the guns fires armor-piercing rounds while the other fires anti-personnel rounds. A wide range of ammunition is used by the 2A42 autocannon and they include: High Explosive-Tracer (HE-T), Armor-piercing discarding sabot (APDS), High Explosive Fragmentation (HE-FRAG) and Armor-Piercing-Tracer (AP-T). These rounds have effective ranges between 2,500 m and 4,000 m depending on the variant. The muzzle velocity of the projectiles is 960 m/s. A 7.62 mm PKTM machine gun is mounted coaxially with the main armament and holds 2,000 rounds.
+
+====Grenade launchers====
+
+A pair of either AGS-17D or AGS-30 grenade launchers are carried, one located on each side of the BMPT, and operated by a single crew member. A total of 600 rounds of 30 mm grenades are carried for both grenade launchers. There is no reloading for the grenade launchers because each one holds 300 rounds in a single belt. Only vertical stabilization is provided for the grenade launchers. The horizontal angles that the AG-17Ds can cover are from 5° (to the left) to 27° (to the right) for the right grenade launcher and from 27° (to the left) and 5° (to the right) for the left grenade launcher. The maximum vertical elevation is +20° and the minimum is −5.5°. The muzzle velocity is 185 m/s and the fire rate is 420–480 rds/min, which gives a continuous fire time (both barrels combined) of 37-43 seconds before running out of ammo (not considering the constraints that limit the practical rate of fire, such as barrel overheating). An effective range of 1,700 m is provided while the kill radius of the 30 mm grenades is seven meters. Automatic grenade launcher operators are equipped with the "Agat-MR" day/night independent stabilized sights.
+
+====Fire control system====
+thumbnail|The commander's panoramic sight (located on the roof) gives the BMPT hunter-killer capabilities by continuously scanning targets for the gunner.
+To enable the BMPT to engage targets in both day and night conditions and when the BMPT is stationary or moving, a computerized fire-control system is fitted. The sight of the gunner includes a thermal channel, an optical channel, a guided ATGM channel, and a laser rangefinder. The field of view sight has an independent stabilization in two planes. The sights provide detection of targets at ranges up to 7,000 m in poor weather conditions. The commander's B07-K1 panoramic sight is located at the top of the BMPT and has a 360° field of view. This panoramic sight has optical, low-level laser rangefinder and television channels. The B07-K2 standard gunner's sight consists of optical and thermal channels and a laser rangefinder. The vehicle also has hunter-killer capabilities with its separate commander's panoramic sight and gunner's sight which can detect both ground and aerial targets. The gunner is able to use the commander's sight to engage targets if his own sight is disabled or destroyed. The commander of the vehicle also has the ability to override the command to take control of the turret and guns from the gunner. The navigation system used by the BMPT is a combined GPS/GLONASS module.
+
+===Protection===
+
+The Terminator possesses a System 902A automatic smoke grenade launcher on both sides of the turret which serves as camouflage and provides protection against guided weapons. When the screening system warns the crew of laser tracking, a smoke screen is created by the launch of grenades. Special attention was paid to the survivability of the BMPT and its crew. Certain measures were taken to ensure this like placing the fuel tanks in a sealed housing compartment and fastening the seats towards the roof in case of a mine penetration. There are additional fuel tanks located in the rear of the hull in an armored compartment on the left fender. The vehicle is equipped with an automatic fire fighting system to fight any fires that will ignite within the vehicle.
+
+Armor is reinforced with 3rd generation "Relikt" ERA on the frontal armor and both sides of hull and turret, slat (cage) armor in the rear. Missile launchers are reinforced by armored shields, protecting them from splinters and small arms fire.
+
+===Mobility===
+The maximum speed of the vehicle is 60 km/h over highways and a cruising range of 550 km with external fuel tanks. The BMPT can cross a trench that's as long as 2.7 ± 0.1 m and over come vertical obstacles as high as 0.85 m. Like the T-72, the transmission of the engine is manual with seven gears for forward and one gear for reverse. The maximum gradient for the BMPT is 30° and 25° when climbing forwards and travelling along a side respectively. Fording capabilities are provided by the BMPT. It can cross water obstacles with a depth of 1.2 m without preparation and 1.8 m with five minutes of preparation. When installed with a snorkel kit, this vehicle is able to cross rivers up to five meters in depth.
+
+===Crew and life support===
+The rear of the driver's compartment, at the front of the vehicle, has been raised, providing greater internal volume. It uses proven elements from those fitted to the T-90 MBT. The Terminator has a crew of five which consists of: a vehicle commander, a driver, a gunner, and two grenade launcher operators. NBC protection is provided to the crew to ensure survival against radiation, chemical and biological weapons. As an option, the BMPT can be fitted with mine-clearing devices such as the KMT-7 or KMT-8 mine sweepers. T-72 tanks can be also converted into BMPT.
+
+==BMPT-72 Terminator 2==
+ BMPT-72 "Terminator 2" is basically the same vehicle as its predecessor. It is made out of old T-72 tanks from storages by replacing the old gun and turret with a new "Terminator" turret and armament. The Terminator 2 can be effectively used to destroy enemy tanks, armored personnel carriers and other armored assets, and to suppress enemy firing emplacements and infantry using grenade launchers and antitank weapons systems. Unlike the Terminator 1 however, the Terminator 2 is a retrofit only package, with old T-72B or T-72M tanks being upgraded to BMPT-72 standard (no new build vehicles). The Terminator 2 is aimed at the export market (in particular as part of offset deals).
+
+The conversion process of the obsolete vehicles can be undertaken at the customer facilities.
+
+===Armament and FCS===
+The two automatic grenade launchers are removed along with its operators, reducing the crew to three; the number of munitions for the Ataka missiles, 2A42 autocannons, and PKTM machine gun remains unchanged. A new and improved FCS is installed in the BMPT-72. The ballistic computer is electronic and fully digital with a set of weather and topographical sending units.
+
+Air burst munitions are under development for BMPT and other Russian military vehicles.
+
+===Protection===
+Although the weight of the new BMPT is reduced by four metric tonnes, its level of protection isn't lower than that of its predecessor. The Terminator 2 is shorter and thinner than the original Terminator. The BMPT-72 has a height of 3.33 m and a width of 3.6 m while the Object 199 Ramka had a height of 3.44 m and a width of 3.8 m. Additional slat armor is fitted on the rear and sides of the chassis to increase protection against rocket propelled grenades. Missile launchers for the Ataka missiles are fitted with extra armor to provide protection against splinters and small arms fire. CBRN protection is provided for the crew members and is collective. A type R-168-25UE-2 radio is installed on board the Terminator 2.
+
+===Mobility===
+The mobility of the BMPT-72 does not differ significantly from the original BMPT.
+
+An auxiliary diesel APU is also fitted that allows to keep most of the functions activated while the main engine is off. Two options are available, a small 5 kW DGU-5-P27 5-VM1 and a 8 kW DGU-8-P27 5-VM1.
+
+=="Terminator 3"==
+
+BMPT ("Terminator 3") - is a new design model of Tank Support Fighting Vehicle based on the Armata Universal Combat Platform with a crew of 3 or 4. Possible armament would be one or two 57 mm autocannons (ammo storage problem), 4x ATGM Sprinter, 2x AGS-40 Balkan automatic grenade launchers, one or two 7.62 mm PKTM machine guns. It will have an automatic gun turret RCWS and in the future may have integrated air defense systems and be fully unmanned.
+
+Armata is powered by a new generation 1,500 hp multifuel diesel engine coupled with a hydro-mechanical automatic transmission (unlike the two predecessors), with a maximum road speed of 65–70 km/h (40–43 mph), an operational range of 550 km (340 mi), and a power-to-weight ratio of over 30 hp/tonne.
+
+==Operational history==
+===Russo-Ukrainian War===
+The Terminator was first deployed to Ukraine on 18 May 2022, according to RIA Novosti.The Terminators deployed to Ukraine appear to have been fitted with grenade launchers. With only 10 Terminators assigned, it is uncertain whether their survival was due to careful management or due to their extra protection.
+
+On 9 February 2023, a BMPT was lost in combat near Kreminna, Luhansk Oblast, Ukraine.
+
+==Operators==
+thumb|400px|Map with BMPT Terminator operators in blue
+
+===Current operators===
+;
+*People's National Army (Algeria) – In April 2016, Russia and Algeria concluded an agreement for the delivery of 300 Russian "Terminators". Deliveries were scheduled to begin in the first quarter of 2018 and completed as of the end of August 2021.
+;
+*Armed Forces of the Republic of Kazakhstan – 10 BMPT units were ordered in 2010 and delivered by Russia from 2011 to 2013. In 2012, an additional 30 BMPTs were selected but may have not yet been ordered by late 2013. As of early 2014, in addition to the purchase of the vehicles, licensed assembly will be implemented with a number of techniques from kits supplied by Russia. This dual production between UralVagonZavod and Kazakhstan was scheduled to open by 2015.
+;
+*Russian Ground Forces – The first contract was signed in 2017. Deliveries started in March 2018. Entered service in April 2018.
+
+===Potential operators===
+;
+*Azerbaijani Land Forces – At the DEX 2014 defence exhibition in Baku, Rosoboronexport proposed an in-depth modernization of the current T-72 tanks to the Tank Support Combat Vehicle configuration. Azeri President Ilham Aliyev expressed interest in the "Terminator-2" along with the Ka-52 "Alligator" helicopter.
+;
+*Peruvian Army – Uralvagonzavod proposed a solution for modernization of old Russian made T-55s by installing the turret of the BMPT. The land forces of the Peruvian army wanted to purchase a new main battle tank in late 2013. According to Uralvagonzavod, the engine, transmission, and suspension of T-55 tank should not be changed if the upgrade takes place. It is also possible to upgrade the powerpack and suspension to increase the level of mobility.
+
+==See also==
+
+
+==Notes==
+
+

@@ -1,0 +1,151 @@
+Title: List of municipalities of the Province of Ascoli Piceno
+
+The following is a list of the 33 municipalities (comuni) of the Province of Ascoli Piceno, Marche, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|044001
+||Acquasanta Terme
+| align="right" |3,302
+|-
+|044002
+|Acquaviva Picena
+| align="right" |3,567
+|-
+|044005
+|Appignano del Tronto
+| align="right" |2,017
+|-
+|044006
+|Arquata del Tronto
+| align="right" |1,426
+|-
+|044007
+|Ascoli Piceno
+| align="right" |51,829
+|-
+|044010
+|Carassai
+| align="right" |1,263
+|-
+|044011
+|Castel di Lama
+| align="right" |7,568
+|-
+|044012
+|Castignano
+| align="right" |3,039
+|-
+|044013
+|Castorano
+| align="right" |2,157
+|-
+|044014
+|Colli del Tronto
+| align="right" |3,290
+|-
+|044015
+|Comunanza
+| align="right" |3,176
+|-
+|044016
+|Cossignano
+| align="right" |1,029
+|-
+|044017
+|Cupra Marittima
+| align="right" |5,134
+|-
+|044020
+|Folignano
+| align="right" |9,214
+|-
+|044021
+|Force
+| align="right" |1,565
+|-
+|044023
+|Grottammare
+| align="right" |14,732
+|-
+|044027
+|Maltignano
+| align="right" |2,470
+|-
+|044029
+|Massignano
+| align="right" |1,621
+|-
+|044031
+|Monsampolo del Tronto
+| align="right" |4,200
+|-
+|044032
+|Montalto delle Marche
+| align="right" |2,326
+|-
+|044034
+|Montedinove
+| align="right" |566
+|-
+|044036
+|Montefiore dell'Aso
+| align="right" |2,229
+|-
+|044038
+|Montegallo
+| align="right" |603
+|-
+|044044
+|Montemonaco
+| align="right" |660
+|-
+|044045
+|Monteprandone
+| align="right" |10,733
+|-
+|044054
+|Offida
+| align="right" |5,361
+|-
+|044056
+|Palmiano
+| align="right" |220
+|-
+|044063
+|Ripatransone
+| align="right" |4,335
+|-
+|044064
+|Roccafluvione
+| align="right" |2,184
+|-
+|044065
+|Rotella
+| align="right" |994
+|-
+|044066
+|San Benedetto del Tronto
+| align="right" |46,423
+|-
+|044071
+|Spinetoli
+| align="right" |6,351
+|-
+|044073
+|Venarotta
+| align="right" |2,249
+|-
+|
+|Total
+| align="right" |207,833
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

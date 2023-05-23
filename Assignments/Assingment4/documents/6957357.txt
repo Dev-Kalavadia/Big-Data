@@ -1,0 +1,34 @@
+Title: C3A1 mineThe C3A1 and C3A2 (collectively known as the Elsie) are Canadian minimum metal anti-personnel mines. The difference between them is very minor and hard to distinguish visually. Elsie mines were first deployed by Canada in 1962, by the United States in 1965 and by Japan in 1967.
+
+==Appearance==
+The mine resembles a short, stubby carrot in appearance. Generally, Elsie mines are either coloured black or khaki for use in desert environments. Elsie mines can easily be spray painted to blend in with an arctic or jungle scenario. The training version of the Elsie mine is coloured blue.
+
+==Operation==
+An Elsie mine has a small raised pressure plate on the top surface of the mine which is covered with a small pad of flock material. The flocking material is designed to act as camouflage. Sustained downward pressure on the small pressure plate (by the victim's foot) cocks a spring-loaded striker. When the pressure plate has been pressed down approximately 2.5 cm, a single retaining ball bearing flips side-ways into a recess. When the ball bearing flips side-ways, it frees the striker (held under tension by a coiled spring beneath it) which snaps upwards into the stab detonator, thereby detonating the explosive charge.
+
+==Construction==
+An Elsie mine is constructed mainly from plastic, which makes it difficult to detect. The mine comprises two separate items; the body and charge. The body is fitted with a protective dust cap, which is removed in order to insert the charge. Around the shaft of the charge there is a restraining safety clip to prevent it moving downwards whilst in transit, which could accidentally trigger detonation. The safety clip is removed when the mine is emplaced, at which point the mine becomes armed and will detonate if someone steps on it. Elsie mines are supplied with an aluminium detector ring fitted. However, the ring is designed to be easily removed, and without it the mine becomes a minimal metal mine.
+
+The Elsie mine is one of very few anti-personnel mines which use a shaped charge. As can be seen from the specification below, the explosive filling is unusually small (i.e. weighs 9.45 grams) compared to most other anti-personnel mine designs, which generally contain a minimum of 30 grams of high explosives. However, the shaped charge in the Elsie mine ensures that most of the force of detonation is directed upwards. As a result, it can penetrate a 12 ply vehicle tyre or 3/8 inch (approx 9 mm) mild steel plate. A person who has been injured by an Elsie mine generally has a small, deep, circular penetration wound which extends all the way through the bones of their foot and out the other side. The wound is generally severe and debilitating, though rarely fatal - assuming that prompt emergency medical care is provided. In contrast to other anti-personnel mines (e.g. the PMN series), the Elsie is designed primarily to disable its victims, rather than kill them.
+
+Due to the simplicity of the firing mechanism, the Elsie mine is not resistant to blast-clearing methods, unlike other designs such as the VS-MK2 mine.
+
+The Elsie mine was formerly in service with the Canadian and British armed services, and was manufactured by both nations. However, all stocks of anti-personnel mines (together with any component parts and equipment related to their manufacture etc.) have been destroyed by Canada and the UK, in order to comply with the Ottawa Treaty.
+
+==Specifications==
+* Diameter: 51 mm
+* Height: 76 mm
+* Weight: 80 grams
+* Explosive content: 9.45 g of Composition A5 - (98.5% RDX mixed with 1.5% stearic acid)
+* Operating pressure: 7.25 to 13.6 kg
+
+==Variants==
+* C3A1 - has an explosive filling of tetryl
+* C3A2 - has an explosive filling of Comp A5
+* C4A1 - non-lethal practice version, coloured blue with a spotting charge inside it
+* M25 - A United States copy of the mine
+* Type 67 - A Japanese copy of the mine
+
+==See also==
+* M14 anti-personnel mine
+

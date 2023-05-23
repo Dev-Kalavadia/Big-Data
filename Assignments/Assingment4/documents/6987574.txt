@@ -1,0 +1,72 @@
+Title: Shigeru Morioka
+
+
+ is a former Japanese football player.
+
+==Club career==
+Morioka was born in Ozu on 12 August 1973. After graduating from high school, he joined Gamba Osaka in 1992. He debuted in 1993 and played many matches as offensive midfielder from 1994. His opportunity to play decreased in 1998. He moved to Kyoto Purple Sanga in 1999 and Vissel Kobe in 2000. He returned to Gamba in 2002. Although he played many matches in 2002, his opportunity to play decreased from 2003. In 2006, he moved to Regional Leagues club Banditonce Kobe (later Banditonce Kakogawa). He retired end of 2008 season.
+
+==National team career==
+In July 1996, Morioka was selected Japan U-23 national team for 1996 Summer Olympics. At this tournament, he played 1 match as right side midfielder against Hungary in third match. Although Japan won 2 matches, Japan lost at First round. At this time, Japan won Brazil in first game. It was known as "Miracle of Miami" (マイアミの奇跡) in Japan.
+
+==Club statistics==
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan=3 | Club performance
+! colspan=2 | League
+! colspan=2 | Cup
+! colspan=2 | League Cup
+! colspan=2 | Total
+|-
+! Season
+! Club
+! League
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+|-
+! colspan=3 |Japan
+! colspan=2 | League
+! colspan=2 | Emperor's Cup
+! colspan=2 | J.League Cup
+! colspan=2 | Total
+|-
+|1992||rowspan="7"|Gamba Osaka||rowspan="7"|J1 League||colspan="2"|-||0||0||0||0||0||0
+|-
+|1993||1||0||0||0||0||0||1||0
+|-
+|1994||26||4||4||2||3||1||33||7
+|-
+|1995||45||5||0||0||colspan="2"|-||45||5
+|-
+|1996||16||1||0||0||9||1||25||2
+|-
+|1997||28||5||1||0||0||0||29||5
+|-
+|1998||13||0||1||0||0||0||14||0
+|-
+|1999||Kyoto Purple Sanga||J1 League||15||2||0||0||3||1||18||3
+|-
+|2000||rowspan="2"|Vissel Kobe||rowspan="2"|J1 League||13||2||0||0||2||0||15||2
+|-
+|2001||5||0||0||0||0||0||5||0
+|-
+|2002||rowspan="4"|Gamba Osaka||rowspan="4"|J1 League||21||1||2||0||8||0||31||1
+|-
+|2003||10||0||0||0||2||0||12||0
+|-
+|2004||14||2||2||0||5||1||21||3
+|-
+|2005||3||0||1||0||0||0||4||0
+|-
+|2006||rowspan="2"|Banditonce Kobe||rowspan="2"|Regional Leagues||12||2||4||0||colspan="2"|-||16||2
+|-
+|2007||13||5||3||0||colspan="2"|-||16||5
+|-
+|2008||Banditonce Kakogawa||Regional Leagues||11||2||colspan="2"|-||colspan="2"|-||11||2
+|-
+!colspan=3|Total
+!246||31||18||2||32||4||296||37
+|}
+

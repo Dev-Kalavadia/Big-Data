@@ -1,0 +1,191 @@
+Title: List of municipalities of the Province of Agrigento
+
+The following is a list of the 43 municipalities (comuni) of the Province of Agrigento, Sicily, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|084001
+|Agrigento
+| align="right"|59,031
+|-
+|084002
+|Alessandria della Rocca
+| align="right"|3,412
+|-
+|084003
+|Aragona
+| align="right"|9,902
+|-
+|084004
+|Bivona
+| align="right"|4,116
+|-
+|084005
+|Burgio
+| align="right"|3,031
+|-
+|084006
+|Calamonaci
+| align="right"|1,468
+|-
+|084007
+|Caltabellotta
+| align="right"|4,311
+|-
+|084008
+|Camastra
+| align="right"|2,133
+|-
+|084009
+|Cammarata
+| align="right"|6,416
+|-
+|084010
+|Campobello di Licata
+| align="right"|10,647
+|-
+|084011
+|Canicattì
+| align="right"|31,801
+|-
+|084012
+|Casteltermini
+| align="right"|8,726
+|-
+|084013
+|Castrofilippo
+| align="right"|3,170
+|-
+|084014
+|Cattolica Eraclea
+| align="right"|4,736
+|-
+|084015
+|Cianciana
+| align="right"|3,866
+|-
+|084016
+|Comitini
+| align="right"|956
+|-
+|084017
+|Favara
+| align="right"|33,666
+|-
+|084018
+|Grotte
+| align="right"|6,119
+|-
+|084019
+|Joppolo Giancaxio
+| align="right"|1,240
+|-
+|084020
+|Lampedusa e Linosa
+| align="right"|6,066
+|-
+|084021
+|Licata
+| align="right"|38,812
+|-
+|084022
+|Lucca Sicula
+| align="right"|2,045
+|-
+|084023
+|Menfi
+| align="right"|12,934
+|-
+|084024
+|Montallegro
+| align="right"|2,639
+|-
+|084025
+|Montevago
+| align="right"|3,032
+|-
+|084026
+|Naro
+| align="right"|8,710
+|-
+|084027
+|Palma di Montechiaro
+| align="right"|23,808
+|-
+|084028
+|Porto Empedocle
+| align="right"|17,077
+|-
+|084029
+|Racalmuto
+| align="right"|9,642
+|-
+|084030
+|Raffadali
+| align="right"|13,457
+|-
+|084031
+|Ravanusa
+| align="right"|13,695
+|-
+|084032
+|Realmonte
+| align="right"|4,528
+|-
+|084033
+|Ribera
+| align="right"|19,723
+|-
+|084034
+|Sambuca di Sicilia
+| align="right"|6,367
+|-
+|084035
+|San Biagio Platani
+| align="right"|3,689
+|-
+|084036
+|San Giovanni Gemini
+| align="right"|8,102
+|-
+|084037
+|Santa Elisabetta
+| align="right"|2,906
+|-
+|084038
+|Santa Margherita di Belice
+| align="right"|6,647
+|-
+|084039
+|Sant'Angelo Muxaro
+| align="right"|1,619
+|-
+|084040
+|Santo Stefano Quisquina
+| align="right"|5,310
+|-
+|084041
+|Sciacca
+| align="right"|40,854
+|-
+|084042
+|Siculiana
+| align="right"|4,707
+|-
+|084043
+|Villafranca Sicula
+| align="right"|1,496
+|-
+|
+| align="right"|Total
+| align="right"|456,612
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

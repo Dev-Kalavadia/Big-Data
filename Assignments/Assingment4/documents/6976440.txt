@@ -1,0 +1,33 @@
+Title: SU-100Y
+
+
+The SU-100Y was a Soviet prototype self-propelled gun, developed from the prototype T-100 tank. It was developed during the Winter War with Finland to include a 130 mm gun to destroy concrete defensive structures like bunkers and anti-tank obstacles along with the use as a tank destroyer. It did not see production, but the prototype was brought into use in the Second World War in defence of Moscow and possibly in other operations as it stayed in service until the end of the war.
+
+==Development==
+In December 1939, the Northwest Command of the Red Army requested that the N°185 factory develop a vehicle based on the T-100. The vehicle had not only to operate as a self-propelled gun, but also to be used to lay bridges, transport explosives, and recover tanks destroyed or damaged on the battlefield.
+During the development of this vehicle, the ABTU proposed mounting the large, high velocity 152 mm cannon on the T-100 in order to give it the capacity to destroy bunkers and other strong fixed fortifications. The plant manager at N°185 proposed stopping development of the prototype to use T-100 as a self-propelled gun/tank destroyer armed with the 100 and 130 mm naval guns. This idea was accepted and on January 8, 1940, the plans for the T-100-X were finalised and sent to the Izhorskyi factory. The T-100-X had a box-shaped fighting compartment and was equipped with the 130 mm B-13 naval gun. For mobility, it kept the torsion bar suspension system, as was the trend in modern tanks of the time. During the development of the prototype, the shape of the fighting compartment was modified to reduce ammunition loading times. The new design was the SU-100Y (sometimes called the T-100). The designs of the SU-100Y were sent to the Izhorskyi factory on February 24, 1940, and assembly began on the first of the month. The self-propelled gun was tested for the first time on March 14. As the Winter War with Finland had ended, the SU-100Y was never deployed against Finland but was successfully tested against fortifications. The obvious shortcoming was its significant size and mass, making it considerably difficult to transport by rail although it could be done. It would be used in the battle of Moscow and possibly in other operations.Milsom, p. 237.
+
+During the Winter War it was proposed to modernise the T-100 with a more powerful armament, the 152 mm M-10 gun, able to destroy concrete structures, in particular dragon's teeth, a common anti-tank measure amongst Europe's fixed fortifications during World War II. A new turret to accommodate the 152 mm howitzer was implemented around March 1940. This new model was designated the T-100-Z. However this project was abandoned because the KV-1 and the 152 mm equipped KV-2 tanks were superior. In April 1940, the N°185 factory proposed a self-propelled gun (prototype 103) for coastal defence, based on the T-100 and armed with the B-13 130 mm naval gun installed in a rotating turret with three 7.62 mm machine-guns. This project never went beyond the drawing boards.
+
+==Design==
+;Armor layout
+A spacious, fully enclosed casemate with a height of 3.29 meters was welded from armor plates 60–65 mm thick, which provided effective protection even against enemy field artillery fire along with 35-85mm guns. Its armour effectiveness was similar to the SU-152. Tanks such as the Panzer IV and T-34-85 could not penetrate the SU-100Y at ranges beyond 2 km.
+
+;Armament
+The main armament of the vehicle was a 130 mm B-13 naval cannon, which, thanks to its excellent ballistics, was used to equip cruisers and coastal batteries. A feature of the gun was a 55-caliber barrel, which provided the projectile with an initial velocity of over 800 m/s, so even with an elevation angle of about 30 °, it was possible to reach a firing range of about 20 km. The gun also had a high rate of fire - 10-12 rounds per minute. The penetration was good, being able to penetrate a max of 202mm of armour and even 158mm of armour at 2000m with SAPCBC shells, designated PB-46A. To fire the gun, a lever located at the left-hand side of the gun was used. The Fire Control System was removed, which meant that targeting had to be done manually through the gunner's optics. Also, the B-13 projectile had 2.5 kg of explosives. For comparison, the 122 mm D-25T projectile had only 1.6 kg of explosives in its shell. The ammunition included 30 separate loading rounds, which affected the size of the crew, of which included two loaders, with 15 SAPCBC shells and another 15 HE shells. As a defensive armament, 3x 7.62mm DT-29 machine guns were provided.
+
+;Engine and running gear
+Its engine was the GAM-34 engine with a power input of 890 hp, previously installed on torpedo speed boats. The powerful engine allowed the heavy tank to move along the highway at a speed of 35 km/h, but on rough terrain, only 16 km/h. The chassis and running gear of the SU-100Y was completely borrowed from the T-100 tank.
+
+==Service==
+When work was stopped on the T-100 project, the SU-100Y was transported to Kubinka in the summer of 1940. In November 1941, at the most critical moment of battle in the suburbs of Moscow, the SU-100Y, together with the 152 mm-gun-armed experimental SU-14 and 203 mm SU-14-1, was pressed into service in an Independent Artillery Division for Special Duties. Further information concerning the combat record of the unit has not been made known. However, it has been reported that the SU-100Y had been used to combat German troops and armour at the Kubinka area station. Even if the SU-100Y's combat record had not been made known, it is possible the SU-100Y was used in several more combat operations such as Kursk as it stayed in service until the end of the war as both self-propelled artillery and a tank destroyer in the same division, similar to the ISU-152. Unlike its base model (T-100), the SU-100Y prototype survived the war and is a part of the collection at the Kubinka Tank Museum.
+
+==See also==
+*SU-100
+*SU-152
+*SU-85
+===Tanks of comparable role, performance and era===
+*American T28 Super Heavy/T95 GMC
+*British Tortoise heavy assault tank
+*German Jagdtiger
+

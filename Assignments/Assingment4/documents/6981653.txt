@@ -1,0 +1,80 @@
+Title: Endangered species recovery plan
+
+
+
+An endangered species recovery plan, also known as a species recovery plan, species action plan, species conservation action, or simply recovery plan, is a document describing the current status, threats and intended methods for increasing rare and endangered species population sizes.  Recovery plans act as a foundation from which to build a conservation effort to preserve animals which are under threat of extinction. More than 320 species have died out and the world is continuing a rate of 1 species becoming extinct every two years. Climate change is also linked to several issues relating to extinct species and animals' quality of life.
+==History==
+The United States Congress said in 1973 that endangered species "are of aesthetic, ecological, educational, historical, recreational, and scientific value to the Nation and its people." They therefore set laws to protect endangered species. Section 4(f) of the United States Endangered Species Act from 1973 directs the Secretary of the Interior and the Secretary of Commerce to develop and implement recovery plans to promote the conservation of endangered and threatened species. 
+
+The Species Survival Commission's Specialist Groups of the International Union for Conservation of Nature (IUCN) has created Species Action Plans since at least the mid-1980s, which are used to outline the conservation strategies of species, normally between set dates.
+
+In June 2021, the IUCN produced their Global Species Action Plan (GSAP) Briefing Paper, to prepare for the introduction of the GSAP at the IUCN World Conservation Congress in September 2021. This plan "brings together an outline of the species conservation actions required to implement the Post-2020 Global Biodiversity Framework, with supporting tools and guidelines", and aims to reach targets set for 2030. Briefing Paper, June 2021.
+
+==Aims and functions==
+Recovery plans set out the research and management actions necessary to stop the decline of, and support the recovery of, listed threatened species or threatened ecosystems. The aim of the plan is to maximise the long-term survival in the wild of a threatened species or ecosystem.
+
+==Methods==
+Either a single species or an area, habitat or ecosystem can be targeted by the recovery plan.
+
+One method of conserving a species is to conserve the habitat that the species is found in. In this process, there is no target species for conservation, but rather the habitat as a whole is protected and managed, often with a view to returning the habitat to a more natural state. In theory, this method of conservation can be beneficial because it allows for the entire ecosystem and the many species within to benefit from conservation, rather than just the single target species.
+
+The IUCN stated in 2016 that there is evidence that area-based approaches do not have enough focus on individual species to protect them sufficiently.
+
+==By country or region==
+===Australia===
+In Australia, the Minister for the Environment may make or adopt and implement recovery plans for threatened fauna, flora and ecosystems listed under the Commonwealth Environment Protection and Biodiversity Conservation Act 1999 (EPBC Act), after consultation with  the relevant minister in each state, the Threatened Species Scientific Committee, and members of the public. 50px Text may have been copied from this source, which is available under a Attribution 3.0 Australia (CC BY 3.0 AU) licence.
+
+"Recovery plans should state what must be done to protect and restore important populations of threatened species and habitat, as well as how to manage and reduce threatening processes. Recovery plans achieve this aim by providing a planned and logical framework for key interest groups and responsible government agencies to coordinate their work to improve the plight of threatened species and/or ecological communities."
+
+===Europe===
+Since 2008, the European Commission has supported the development of Species Action Plans for selected species. The documents "are intended to be used as a tool for identifying and prioritising measures to restore the populations of these species across their range within the EU. They provide information about the status, ecology, threats and current conservation measures for each species and list the key actions that are required to improve their conservation status in Europe. Each Plan is the result of an extensive process of consultation with individual experts in Europe". 50px Text may have been copied from this source, which is available under a Attribution 4.0 International  (CC BY 4.0) licence. (Legal notice)
+
+===United States===
+
+In the US, the Endangered Species Act of 1973 requires that all species considered endangered must have a plan implemented for their recovery. The Fish and Wildlife Service and the National Oceanic and Atmospheric Administration (NOAA) National Marine Fisheries Service are responsible for administering the act. The recovery plan is a document which specifies what research and management actions are necessary to support recovery, but does not itself commit manpower or funds. Recovery plans are used in setting funding priorities and provide direction to local, regional, and state planning efforts. Recovery is when the threats to species survival are neutralized and the species will be able to survive in the wild.
+
+In the US, a recovery plan must contain at least:
+*A description of what is needed to return the species to a healthy state;
+*Criteria for what this healthy state would be, so that the species can be removed from the endangered list when it is achieved; and
+*Estimates of how long the recovery will take and how much it will cost.
+Optionally, it may contain the following sections: 
+*Description of the species, its taxonomy, population structure and life history, including the distribution, food sources, reproduction and abundance;
+*Threats - the main reasons why the species is now at risk of extinction; and
+*Recovery strategy - details of how the species can be returned to a healthy state, including the goals, timeline, methods and criteria for delisting.
+
+==Implementation==
+===Adaptive management===
+When recovery plans are carried out well, they do not simply act as stop gaps to prevent extinction, but can restore species to a state of health so they are self-sustaining. There is evidence to suggest that the best plans are adaptive and dynamic, responding to changing conditions. However, adaptive management requires the system to be constantly monitored so that changes are identified.  Surprisingly this is frequently not done, even for species that have already been red listed.
+ The species must be monitored throughout the recovery period (and beyond) to ensure that the plan is working as intended. The framework for this monitoring should be planned before the start of the implementation, and the details included in the recovery plan. Information on how and when the data will be collected should be supplied.
+
+==Endangered species definitions==
+===IUCN===
+thumb|right|220px|IUCN red list categories
+The IUCN has categories that it uses to classify species, which are widely used in conservation. These are:
+*Extinct (EX) – there are no individuals remaining of that species at all
+*Extinct in the wild (EW) – there are no individuals remaining of that species in the wild at all
+*Critically Endangered (CR) – there is a very high risk that the species will soon go extinct in the wild, for example because there is only a very small population remaining
+*Endangered (EN) – there is a high risk of the species soon becoming extinct in the wild 
+*Vulnerable (VU) – there is a high risk that the species will soon become endangered 
+*Near threatened (NT) – there is a risk that the species will become threatened in the near future
+*Least concern (LC) – there is a low risk that the species will become threatened. This category is used for “widespread and abundant taxa”
+*Data Deficient (DD) – there is not enough data on the species to be able to make a reliable assessment on the status of the species
+*Not evaluated (NE) – the species has not yet been evaluated
+
+===US===
+thumb|220px|U.S. Endangered Species Act Categories
+The U.S. Fish and Wildlife Service has 17 categories of species status. These categories are used in the documents produced for the U.S. Endangered species act. The categories include:
+*Endangered (E) for species “in danger of extinction throughout all or a significant portion of its range”
+*Threatened (T) for species “likely to become endangered within the foreseeable future throughout all or a significant portion of its range”
+*Candidate (C) for species currently under consideration
+*Species endangered due to “similarity of appearance” (SAE)
+*Species of concern (SC) for species that are considered “important to monitor” but have not been categorized as E,T or C
+*Delisted species removed from the list due to species recovery or extinction
+
+==See also==
+* Biodiversity
+* Holocene extinction
+* In situ conservation
+* IUCN Red List
+* National Oceanic and Atmospheric Administration
+

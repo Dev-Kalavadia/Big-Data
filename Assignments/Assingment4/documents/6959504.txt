@@ -1,0 +1,60 @@
+Title: Two-pore-domain potassium channel
+
+The two-pore-domain or tandem pore domain potassium channels are a family of 15 members that form what is known as leak channels which possess Goldman-Hodgkin-Katz (open) rectification. These channels are regulated by several mechanisms including signaling lipids, oxygen tension, pH, mechanical stretch, and G-proteins .  Their name is derived from the fact that the α subunits consist of four transmembrane segments, and each pair of transmembrane segments contains a pore loop between the two transmembrane segments. Thus, each subunit has two pore loops. As such, they structurally correspond to two inward-rectifier α subunits and thus form dimers in the membrane (whereas inward-rectifier α subunits form tetramers).
+
+Each single channel does not have two pores; the name of the channel comes from the fact that each subunit has two P (pore) domains in its primary sequence. To quote Rang and Dale (2015), "The nomenclature is
+misleading, especially when they are incorrectly referred to as two-pore channels".
+
+Below is a list of the 15 known two-pore-domain human potassium channels:
+
+{| class="sortable wikitable" 
+| Gene || Channel || Family || Aliases
+ |- 
+ |  || K2p1.1 || TWIK || TWIK-1
+ |- 
+ |  || K2p2.1 || TREK || TREK-1
+ |- 
+ |  || K2p3.1 || TASK || TASK-1
+ |- 
+ |  || K2p4.1 ||  TREK || TRAAK
+ |- 
+ |  || K2p5.1 || TASK || TASK-2
+ |- 
+ |  || K2p6.1 || TWIK || TWIK-2
+ |- 
+ |  || K2p7.1 || TWIK || 
+ |- 
+ |  || K2p9.1 || TASK || TASK-3
+ |- 
+ |  || K2p10.1 || TREK || TREK-2
+ |- 
+ |  || K2p12.1 || THIK || THIK-2
+ |- 
+ |  || K2p13.1 || THIK || THIK-1
+ |- 
+ |  || K2p15.1 || TASK || TASK-5
+ |- 
+ |  || K2p16.1 || TALK || TALK-1
+ |- 
+ |  || K2p17.1 || TALK || TALK-2, TASK-4
+ |- 
+ |  || K2p18.1 ||  || TRIK, TRESK
+ |}
+
+== See also ==
+* Ion channel
+* Potassium channel
+
+== References ==
+
+
+== External links ==
+* 
+* 
+
+
+
+
+
+
+Category:Ion channels

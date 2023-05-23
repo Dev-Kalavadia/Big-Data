@@ -1,0 +1,48 @@
+Title: Olecko County
+__NOTOC__
+Olecko County () is a unit of territorial administration and local government (powiat) in Warmian-Masurian Voivodeship, northern Poland. Its administrative seat and only town is Olecko, which lies  east of the regional capital Olsztyn.
+
+When powiats were re-introduced in the Polish local government reforms of 1999, the present Gołdap and Olecko Counties made up a single entity (called powiat olecko-gołdapski or Olecko-Gołdap County). This was divided into two in 2002.
+
+The county covers an area of . As of 2006 its total population is 34,215, out of which the population of Olecko is 16,169 and the rural population is 18,046.
+
+==Neighbouring counties==
+Olecko County is bordered by Gołdap County to the north, Suwałki County to the east, Ełk County to the south and Giżycko County to the west.
+
+==Administrative division==
+The county is subdivided into four gminas (one urban-rural and three rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km²)
+| style="text-align:center;"|Population(2006)
+| style="text-align:center;"|Seat
+|-
+|Gmina Olecko
+|urban-rural
+| style="text-align:right;"|266.6
+| style="text-align:right;"|21,413
+|Olecko
+|-
+|Gmina Kowale Oleckie
+|rural
+| style="text-align:right;"|251.6
+| style="text-align:right;"|5,371
+|Kowale Oleckie
+|-
+|Gmina Świętajno
+|rural
+| style="text-align:right;"|214.9
+| style="text-align:right;"|4,011
+|Świętajno
+|-
+|Gmina Wieliczki
+|rural
+| style="text-align:right;"|141.0
+| style="text-align:right;"|3,420
+|Wieliczki
+|-
+|}
+

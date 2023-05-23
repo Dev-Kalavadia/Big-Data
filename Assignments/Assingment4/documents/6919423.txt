@@ -1,0 +1,387 @@
+Title: List of places in Alaska (T)
+
+This list of cities, towns, unincorporated communities, counties, and other recognized places in the U.S. state of Alaska also includes information on the number and names of counties in which the place lies, and its lower and upper zip code bounds, if applicable.
+
+
+{| class="wikitable"
+!Name of place
+!Number of counties
+!Principal county
+!Lower zip code
+!Upper zip code
+|----
+|Takotna
+|1
+|Yukon-Koyukuk Census Area
+|99675
+| 
+|----
+|Takshak
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Taku Lodge
+|1
+|City and Borough of Juneau
+|99801
+| 
+|----
+|Talkeetna
+|1
+|Matanuska-Susitna Borough
+|99676
+| 
+|----
+|Tanacross
+|1
+|Southeast Fairbanks Census Area
+|99776
+| 
+|----
+|Tanaina
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Tanalian Point
+|1
+|Lake and Peninsula Borough
+| 
+| 
+|----
+|Tanana
+|1
+|Yukon-Koyukuk Census Area
+|99777
+| 
+|----
+|Tanana City School District
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Tanani
+|1
+|Haines Borough
+| 
+| 
+|----
+|Tanunak
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|Taslina
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Tatalina Station
+|1
+|Yukon-Koyukuk Census Area
+|99627
+| 
+|----
+|Tatitlek
+|1
+|Valdez-Cordova Census Area
+|99677
+| 
+|----
+|Taylor
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Taylor Creek
+|1
+|Dillingham Census Area
+| 
+| 
+|----
+|Tazlina
+|1
+|Valdez-Cordova Census Area
+|99588
+| 
+|----
+|Tazlina
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Tee Harbor
+|1
+|City and Borough of Juneau
+|99801
+| 
+|----
+|Telida
+|1
+|Yukon-Koyukuk Census Area
+|99627
+| 
+|----
+|Telida
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Teller
+|1
+|Nome Census Area
+|99778
+| 
+|----
+|Teller Mission
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Tenakee Springs
+|1
+|Skagway-Hoonah-Angoon Census Area
+|99841
+| 
+|----
+|Terminal
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Tetlin
+|1
+|Southeast Fairbanks Census Area
+|99779
+| 
+|----
+|Tetlin
+|1
+|Southeast Fairbanks Census Area
+| 
+| 
+|----
+|Tetlin Junction
+|1
+|Southeast Fairbanks Census Area
+| 
+| 
+|----
+|Thane
+|1
+|City and Borough of Juneau
+|99801
+| 
+|----
+|The Harbor
+|1
+|City and Borough of Juneau
+| 
+| 
+|----
+|Thoms Place
+|1
+|Wrangell-Petersburg Census Area
+| 
+| 
+|----
+|Thorne Bay
+|1
+|Prince of Wales-Outer Census Area
+|99919
+| 
+|----
+|Tigara
+|1
+|North Slope Borough
+| 
+| 
+|----
+|Tin City
+|1
+|Nome Census Area
+|99783
+| 
+|----
+|Todd
+|1
+|City and Borough of Sitka
+| 
+| 
+|----
+|Tofty
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Togiak
+|1
+|Dillingham Census Area
+|99678
+| 
+|----
+|Tok
+|1
+|Southeast Fairbanks Census Area
+|99780
+| 
+|----
+|Tok
+|1
+|Southeast Fairbanks Census Area
+| 
+| 
+|----
+|Tokeen
+|1
+|Prince of Wales-Outer Census Area
+|99901
+| 
+|----
+|Tok Junction
+|1
+|Southeast Fairbanks Census Area
+| 
+| 
+|----
+|Toklat
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Toksook
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|Toksook Bay
+|1
+|Bethel Census Area
+|99637
+| 
+|----
+|Tolsona
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Tonsina
+|1
+|Valdez-Cordova Census Area
+|99573
+| 
+|----
+|Totem Park
+|1
+|Fairbanks North Star Borough
+|99701
+| 
+|----
+|Trapper Creek
+|1
+|Matanuska-Susitna Borough
+|99683
+| 
+|----
+|Tuluksak
+|1
+|Bethel Census Area
+|99679
+| 
+|----
+|Tunnel
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Tuntatuliak
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|Tuntutuliak
+|1
+|Bethel Census Area
+|99680
+| 
+|----
+|Tununak
+|1
+|Bethel Census Area
+|99681
+| 
+|----
+|Tuomi
+|1
+|Municipality of Anchorage
+| 
+| 
+|----
+|Turnagain
+|1
+|Municipality of Anchorage
+| 
+| 
+|----
+|Turnagain-By-The-Sea
+|1
+|Municipality of Anchorage
+| 
+| 
+|----
+|Turnagain Heights
+|1
+|Municipality of Anchorage
+|99503
+| 
+|----
+|Twin Hills
+|1
+|Dillingham Census Area
+|99576
+| 
+|----
+|Twin Peaks
+|1
+|Ketchikan Gateway Borough
+| 
+| 
+|----
+|Two Rivers
+|1
+|Fairbanks North Star Borough
+|99716
+| 
+|----
+|Tyee
+|1
+|Skagway-Hoonah-Angoon Census Area
+| 
+| 
+|----
+|Tyonek
+|1
+|Kenai Peninsula Borough
+|99682
+| 
+|----
+|}
+
+ T

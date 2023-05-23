@@ -1,0 +1,347 @@
+Title: List of municipalities of the Metropolitan City of Palermo
+
+The following is a list of the 82 municipalities (comuni) of the Metropolitan City of Palermo, Sicily, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|082001
+|Alia
+| align="right" |4,081
+|-
+|082002
+|Alimena
+| align="right" |2,363
+|-
+|082003
+|Aliminusa
+| align="right" |1,342
+|-
+|082004
+|Altavilla Milicia
+| align="right" |5,790
+|-
+|082005
+|Altofonte
+| align="right" |9,649
+|-
+|082006
+|Bagheria
+| align="right" |53,381
+|-
+|082007
+|Balestrate
+| align="right" |5,853
+|-
+|082008
+|Baucina
+| align="right" |2,003
+|-
+|082009
+|Belmonte Mezzagno
+| align="right" |10,424
+|-
+|082010
+|Bisacquino
+| align="right" |5,119
+|-
+|082011
+|Bolognetta
+| align="right" |3,632
+|-
+|082012
+|Bompietro
+| align="right" |1,640
+|-
+|082013
+|Borgetto
+| align="right" |6,576
+|-
+|082014
+|Caccamo
+| align="right" |8,528
+|-
+|082015
+|Caltavuturo
+| align="right" |4,440
+|-
+|082016
+|Campofelice Di Fitalia
+| align="right" |595
+|-
+|082017
+|Campofelice Di Roccella
+| align="right" |5,896
+|-
+|082018
+|Campofiorito
+| align="right" |1,379
+|-
+|082019
+|Camporeale
+| align="right" |3,652
+|-
+|082020
+|Capaci
+| align="right" |10,255
+|-
+|082021
+|Carini
+| align="right" |28,733
+|-
+|082022
+|Castelbuono
+| align="right" |9,430
+|-
+|082023
+|Casteldaccia
+| align="right" |9,772
+|-
+|082024
+|Castellana Sicula
+| align="right" |3,738
+|-
+|082025
+|Castronovo di Sicilia
+| align="right" |3,323
+|-
+|082026
+|Cefalà Diana
+| align="right" |991
+|-
+|082027
+|Cefalù
+| align="right" |13,747
+|-
+|082028
+|Cerda
+| align="right" |5,326
+|-
+|082029
+|Chiusa Sclafani
+| align="right" |3,224
+|-
+|082030
+|Ciminna
+| align="right" |3,980
+|-
+|082031
+|Cinisi
+| align="right" |10,817
+|-
+|082032
+|Collesano
+| align="right" |4,190
+|-
+|082033
+|Contessa Entellina
+| align="right" |1,963
+|-
+|082034
+|Corleone
+| align="right" |11,355
+|-
+|082035
+|Ficarazzi
+| align="right" |9,674
+|-
+|082036
+|Gangi
+| align="right" |7,449
+|-
+|082037
+|Geraci Siculo
+| align="right" |2,077
+|-
+|082038
+|Giardinello
+| align="right" |2,001
+|-
+|082039
+|Giuliana
+| align="right" |2,234
+|-
+|082040
+|Godrano
+| align="right" |1,164
+|-
+|082041
+|Gratteri
+| align="right" |1,050
+|-
+|082042
+|Isnello
+| align="right" |1,822
+|-
+|082043
+|Isola delle Femmine
+| align="right" |6,817
+|-
+|082044
+|Lascari
+| align="right" |3,305
+|-
+|082045
+|Lercara Friddi
+| align="right" |7,232
+|-
+|082046
+|Marineo
+| align="right" |6,885
+|-
+|082047
+|Mezzojuso
+| align="right" |3,003
+|-
+|082048
+|Misilmeri
+| align="right" |24,979
+|-
+|082049
+|Monreale
+| align="right" |34,662
+|-
+|082050
+|Montelepre
+| align="right" |6,202
+|-
+|082051
+|Montemaggiore Belsito
+| align="right" |3,806
+|-
+|082052
+|Palazzo Adriano
+| align="right" |2,453
+|-
+|082053
+|Palermo
+| align="right" |675,277
+|-
+|082054
+|Partinico
+| align="right" |31,515
+|-
+|082055
+|Petralia Soprana
+| align="right" |3,630
+|-
+|082056
+|Petralia Sottana
+| align="right" |3,238
+|-
+|082057
+|Piana degli Albanesi
+| align="right" |6,051
+|-
+|082058
+|Polizzi Generosa
+| align="right" |3,918
+|-
+|082059
+|Pollina
+| align="right" |3,102
+|-
+|082060
+|Prizzi
+| align="right" |5,518
+|-
+|082061
+|Roccamena
+| align="right" |1,669
+|-
+|082062
+|Roccapalumba
+| align="right" |2,762
+|-
+|082063
+|San Cipirello
+| align="right" |5,201
+|-
+|082064
+|San Giuseppe Jato
+| align="right" |8,662
+|-
+|082065
+|San Mauro Castelverde
+| align="right" |2,053
+|-
+|082066
+|Santa Cristina Gela
+| align="right" |893
+|-
+|082067
+|Santa Flavia
+| align="right" |10,139
+|-
+|082068
+|Sciara
+| align="right" |2,788
+|-
+|082069
+|Sclafani Bagni
+| align="right" |490
+|-
+|082070
+|Termini Imerese
+| align="right" |26,827
+|-
+|082071
+|Terrasini
+| align="right" |10,817
+|-
+|082072
+|Torretta
+| align="right" |3,791
+|-
+|082073
+|Trabia
+| align="right" |8,865
+|-
+|082074
+|Trappeto
+| align="right" |2,936
+|-
+|082075
+|Ustica
+| align="right" |1,310
+|-
+|082076
+|Valledolmo
+| align="right" |4,017
+|-
+|082077
+|Ventimiglia di Sicilia
+| align="right" |2,173
+|-
+|082078
+|Vicari
+| align="right" |2,997
+|-
+|082079
+|Villabate
+| align="right" |19,441
+|-
+|082080
+|Villafrati
+| align="right" |3,350
+|-
+|082081
+|Scillato
+| align="right" |671
+|-
+|082082
+|Blufi
+| align="right" |1,169
+|-
+|
+|Total
+| align="right" |1,239,272
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

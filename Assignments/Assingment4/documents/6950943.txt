@@ -1,0 +1,144 @@
+Title: Maldives national cricket team
+
+
+
+
+The Maldives national cricket team represents the country of the Maldives in international cricket. Although they did not become an affiliate member of the International Cricket Council (ICC) until 2001,
+ they have taken part in the ACC Trophy on every occasion since its inception in 1996. They have never progressed beyond the first round of the tournament. They became an associate member in 2017.
+
+With the separation of the ACC Trophy into Elite and Challenge divisions, following their performance at the 2006 ACC Trophy the Maldives have since competed in the Challenge divisions in both 2009 (when they came 3rd) and in the 2010 competition.  The 2010 competition marked their first victory in an international tournament, defeating Saudi Arabia by 1 wicket in the final of the competition.
+Maldives v Saudi Arabia, ACC Trophy Challenge 2010/11 (Final)
+
+Starting from 2018, Asif Khan coaches the men's national team. From February 2013, Nilantha Cooray is the national development cricket coach.
+
+==History==
+===2018-Present===
+In April 2018, the ICC decided to grant full Twenty20 International (T20I) status to all its members. Therefore, all Twenty20 matches played between the Maldives and other ICC members after 1 January 2019 will be a full T20I.
+
+Maldives made its Twenty20 International debut on 20 January 2019, losing to Kuwait by eight wickets in the 2019 ACC Western Region T20 at Al Emarat Cricket Stadium, Muscat, Oman.
+
+
+
+==Tournament history==
+=== Asia Cup Qualifier ===
+*2018: Did not participate
+*2020: Did not qualify
+
+===ACC Western Region T20===
+*2019: 5th place
+*2020: Group stage
+
+===ACC Trophy===
+
+*1996: Group stages
+*1998: Group stages
+*2000: Group stages
+*2002: Group stages
+*2004: Group stages
+*2006: Group stages
+*2009 Challenge: 3rd place
+*2010 Challenge: Winners
+
+===Asian Games===
+
+*2010: Group stage
+*2014: Group stage
+
+== Records and Statistics ==
+
+International Match Summary — Maldives
+ 
+Last updated 9 July 2022
+{| class="wikitable" style="text-align: center; width: 500px;"
+|-
+| colspan=7 align="center" | Playing Record
+|-
+! Format !! M !! W !! L !! T !! NR !! Inaugural Match
+|-
+| align="left"| Twenty20 Internationals || 24 || 4 || 19 || 0 || 1 || 20 January 2019
+|}
+
+=== Twenty20 International ===
+
+* Highest team total: 153/6 v Thailand, 29 June 2019 at Kinrara Academy Oval, Kuala Lumpur
+* Highest individual score: 67, Mohamed Rishwan v Saudi Arabia, 22 January 2019 at Al Amerat Cricket Stadium, Muscat
+* Best individual bowling figures: 5/24, Ibrahim Hassan v Bahrain, 21 January 2019 at Al Amerat Cricket Stadium, Muscat
+
+
+
+
+Most T20I runs for Maldives
+{| class="wikitable"
+|- bgcolor=#bdb76b
+! Player!!Runs!!Average!!Career span
+|-
+|Mohamed Rishwan || 363 || 21.35 || 2019–2021
+|-
+|Ahmed Hassan || 266 || 19.00 || 2019–2021
+|-
+|Umar Adam || 242 || 15.12 || 2019–2021
+|-
+|Nilantha Cooray || 170 || 34.00 || 2019–2020
+|-
+|Hassan Rasheed || 142 || 12.90 || 2019–2021
+|}
+
+
+Most T20I wickets for Maldives
+{| class="wikitable"
+|- bgcolor=#bdb76b
+! Player!!Wickets!!Average!!Career span
+|-
+|Umar Adam || 20 || 17.95 || 2019–2021
+|-
+|Ibrahim Hassan || 17 || 26.70 || 2019–2021
+|-
+|Mohamed Mahfooz || 13 || 26.15 || 2019–2021
+|-
+|Nilantha Cooray || 8 || 21.75 || 2019–2020
+|-
+|Ameel Mauroof || 7 || 41.28 || 2019–2021
+|}
+
+
+T20I record versus other nations
+
+Records complete to T20I #1622. Last updated 9 July 2022.
+{| class="wikitable" style="text-align: center; width: 600px;"
+|-
+! Opponent !! M !! W !! L !! T !! NR !! First match !! First win
+|-
+| colspan="8" style="text-align:center;"| vs Associate Members
+|-
+|align=left| 
+| 3 || 0 || 3 || 0 || 0 || 21 January 2019 || 
+|-
+|align=left| 
+| 3 || 1 || 2 || 0 || 0 || 7 December 2019 || 7 December 2019
+|-
+|align=left| 
+| 2 || 0 || 2 || 0 || 0 || 20 January 2019 || 
+|-
+|align=left| 
+| 4 || 0 || 3 || 0 || 1 || 25 June 2019 ||
+|-
+|align=left| 
+| 2 || 0 || 2 || 0 || 0 || 6 December 2019 || 
+|-
+|align=left| 
+| 1 || 0 || 1 || 0 || 0 || 25 February 2020 ||
+|-
+|align=left| 
+| 3 || 0 || 3 || 0 || 0 || 23 January 2019 || 
+|-
+|align=left| 
+| 2 || 0 || 2 || 0 || 0 || 22 January 2019 || 
+|-
+|align=left| 
+| 4 || 3 || 1 || 0 || 0 || 26 June 2019 || 26 June 2019
+|}
+
+==See also==
+* List of Maldives Twenty20 International cricketers
+* Maldives women's national cricket team
+

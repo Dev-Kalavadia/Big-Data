@@ -1,0 +1,1820 @@
+Title: List of San Francisco Giants seasons
+
+
+The San Francisco Giants are a professional baseball team based in San Francisco, California. They have been a member of the National League (NL), as a part of Major League Baseball, since the team's inception in 1883. They joined the NL West following the establishment of divisions within the league in 1969. The Giants played 75 seasons in New York City, New York, as the New York Gothams and New York Giants, spending the majority of their seasons at the Polo Grounds in Upper Manhattan. The Giants relocated to San Francisco in 1958, briefly playing at Seals Stadium. After sharing Candlestick Park for 29 years with the San Francisco 49ers National Football League team, the Giants moved to their current home, Oracle Park, in 2000.  From October 1, 2010 through June 16, 2017, the Giants recorded a National League-record 530 consecutive sellouts.
+
+The Giants are one of the most successful teams in Major League Baseball history, having won more games than any other team and having the second highest winning percentage. In New York, the Giants enjoyed 55 winning seasons, with only 3 losing seasons between 1903 and 1939, a stretch which included two runs of 10 or more straight winning seasons (1903-14 and 1916-1925). In San Francisco the Giants have had 39 winning seasons, including their first fourteen in the city. Their eight World Series titles are tied for fourth-most in baseball, while their 23 pennants are the second most in the National League, and second-most overall. Their first title came in 1905 against the Philadelphia Athletics, where they won the series 4–1. They claimed four consecutive National League pennants between 1921 and 1924, going on to beat cross-town team the New York Yankees in the World Series on two of those occasions. Their fourth title came in 1933 as they beat the Washington Senators in five games. The 1951 season saw the Giants beat their rivals the Brooklyn Dodgers in a three-game playoff for the National League pennant. The Giants won the series 2–1 on a walk-off home run by Bobby Thomson in game 3, a moment remembered as the Shot Heard 'Round the World. They went on to lose in the World Series to the Yankees. A 4–0 series sweep of the Cleveland Indians in the 1954 World Series earned the Giants their fifth title.
+
+Until 2010, the Giants were without a title since relocation to San Francisco — at the time this was the third-longest World Series winning drought in the league. They have made it to the World Series on six occasions following the move, but were on the losing side each of the first three times. Among those was the 1989 World Series, when the "Bay Bridge Series", being contested against neighboring team the Oakland Athletics, was interrupted by the 1989 Loma Prieta earthquake; the series was postponed for ten days, and the Giants were eventually swept by the A's. The club ended its title-winning drought in 2010, as they beat the Texas Rangers 4–1 to bring the Commissioner's Trophy to San Francisco for the first time in the city's history. The Giants won their second title in San Francisco in 2012, sweeping the Detroit Tigers, and won again for the third time in five years in 2014, defeating the Kansas City Royals in seven games.
+
+In their entire history (138 years), the Giants have never had more than four straight losing seasons, and until 2022 had never finished at .500, either finishing above or below that mark every year.
+
+==Year by year results==
+{| class="wikitable" style="text-align:center"
+|style="background:#CCFFFF"|Pre–World Series champions(Pre–) ‖
+|style="background:#FFCCCC"|World Series champions(–present) †
+|style="background:#DDFFDD"|National League champions(–present) ‡
+|style="background:#D0E7FF"|Division champions(–present) *
+|style="background:#96CDCD"|Wild Card berth(–present) §
+|}
+{| class="wikitable sortable plainrowheaders" style="text-align:center; font-size:95%"
+!scope="col"|MLBseason
+!scope="col"|Teamseason
+!scope="col"|League
+!scope="col"|Division
+!scope="col"|Finish
+!scope="col"|Wins
+!scope="col"|Losses
+!scope="col"|Win%
+!scope="col"|GB
+!scope="col"|Postseason
+!scope="col"|Awards
+|-
+|colspan="11" style="background:#FFFFFF; color:#693F22"|New York Gothams
+|-
+|
+!scope="row" style="text-align:center;"|1883
+|NL
+|
+|6th
+|46
+|50
+|.479
+|16
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1884
+|NL
+|
+|4th
+|62
+|50
+|.554
+|22
+|
+|
+|-
+| colspan="11" style=";"|New York Giants
+|-
+|
+!scope="row" style="text-align:center;"|1885
+|NL
+|
+|2nd
+|85
+|27
+|.759
+|2
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1886
+|NL
+|
+|3rd
+|75
+|44
+|.630
+|12.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1887
+|NL
+|
+|4th
+|68
+|55
+|.553
+|10.5
+|
+|
+|-
+| style="background: #CCFFFF"| ‖
+!scope="row" style="text-align:center;"|1888
+| style="background: #DDFFDD"|NL ‡
+|
+|1st
+|84
+|47
+|.641
+|–
+|style="background: #CCFFFF"|Won World Series (Browns) 6–4 ‖
+|Tim Keefe (TC)
+|-
+| style="background: #CCFFFF"| ‖
+!scope="row" style="text-align:center;"|1889
+| style="background: #DDFFDD"|NL ‡
+|
+|1st
+|83
+|43
+|.659
+|–
+|style="background: #CCFFFF"|Won World Series (Bridegrooms) 6–3 ‖
+|
+|-
+|
+!scope="row" style="text-align:center;"|1890
+|NL
+|
+|6th
+|63
+|68
+|.481
+|24
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1891
+|NL
+|
+|3rd
+|71
+|61
+|.538
+|13
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1892
+|NL
+|
+|8th
+|71
+|80
+|.470
+|31.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1893
+|NL
+|
+|5th
+|68
+|64
+|.515
+|19.5
+|
+|
+|-
+|style="background: #CCFFFF; text-align: center"| ‖
+!scope="row" style="text-align:center;"|1894
+|NL
+|
+|2nd
+|88
+|44
+|.667
+|3
+|style="background: #CCFFFF"|Won Temple Cup (Orioles) 4–0 ‖
+|Amos Rusie (TC)
+|-
+|
+!scope="row" style="text-align:center;"|1895
+|NL
+|
+|9th
+|66
+|65
+|.504
+|21.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1896
+|NL
+|
+|7th
+|64
+|67
+|.489
+|27
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1897
+|NL
+|
+|3rd
+|83
+|48
+|.634
+|9.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1898
+|NL
+|
+|7th
+|77
+|73
+|.513
+|25.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1899
+|NL
+|
+|10th
+|60
+|90
+|.400
+|42
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1900
+|NL
+|
+|8th
+|60
+|78
+|.435
+|23
+|
+|
+|-
+|-
+|
+!scope="row" style="text-align:center;"|1901
+|NL
+|
+|7th
+|52
+|85
+|.380
+|37
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1902
+|NL
+|
+|7th
+|48
+|88
+|.353
+|53.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1903
+|NL
+|
+|2nd
+|84
+|55
+|.604
+|6.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1904
+| style="background: #Ddffdd"|NL ‡
+|
+|1st
+|106
+|47
+|.693
+|–
+|bgcolor="#ddffdd"|World Series cancelled ‡
+|
+|-
+|style="background: #ffcccc"| †
+!scope="row" style="text-align:center;"|1905
+| style="background: #ddffdd"|NL ‡
+|
+|1st
+|105
+|48
+|.686
+|–
+|style="background: #ffcccc"|Won World Series (Athletics) 4–1 †
+|Christy Mathewson (TC)
+|-
+|
+!scope="row" style="text-align:center;"|1906
+|NL
+|
+|2nd
+|96
+|56
+|.632
+|20
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1907
+|NL
+|
+|4th
+|82
+|71
+|.536
+|25.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1908
+|NL
+|
+|2nd
+|98
+|56
+|.636
+|1
+|
+|Christy Mathewson (TC)
+|-
+|
+!scope="row" style="text-align:center;"|1909
+|NL
+|
+|3rd
+|92
+|61
+|.601
+|18.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1910
+|NL
+|
+|2nd
+|91
+|63
+|.591
+|13
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1911
+| style="background: #ddffdd"|NL ‡
+|
+|1st
+|99
+|54
+|.647
+|–
+|bgcolor="DDFFDD"|Lost World Series (Athletics) 4–2 ‡
+|
+|-
+|
+!scope="row" style="text-align:center;"|1912
+| style="background: #ddffdd"|NL ‡
+|
+|1st
+|103
+|48
+|.682
+|–
+|bgcolor="DDFFDD"|Lost World Series (Red Sox) 4–3 ‡
+|Larry Doyle (MVP)
+|-
+|
+!scope="row" style="text-align:center;"|1913
+| style="background: #ddffdd"|NL ‡
+|
+|1st
+|101
+|51
+|.664
+|–
+|bgcolor="DDFFDD"|Lost World Series (Athletics) 4–1 ‡
+|
+|-
+|
+!scope="row" style="text-align:center;"|1914
+|NL
+|
+|2nd
+|84
+|70
+|.545
+|10.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1915
+|NL
+|
+|8th
+|69
+|83
+|.454
+|21
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1916
+|NL
+|
+|4th
+|86
+|66
+|.566
+|7
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1917
+| style="background: #ddffdd"|NL ‡
+|
+|1st
+|98
+|56
+|.636
+|–
+|bgcolor="DDFFDD"|Lost World Series (White Sox) 4–2 ‡
+|
+|-
+|
+!scope="row" style="text-align:center;"|1918
+|NL
+|
+|2nd
+|71
+|53
+|.573
+|10.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1919
+|NL
+|
+|2nd
+|87
+|53
+|.621
+|9
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1920
+|NL
+|
+|2nd
+|86
+|68
+|.558
+|7
+|
+|
+|-
+| style="background: #FFCCCC"| †
+!scope="row" style="text-align:center;"|1921
+| style="background: #ddffdd"|NL ‡
+|
+|1st
+|94
+|59
+|.614
+|–
+|style="background: #FFCCCC"|Won World Series (Yankees) 5–3 †
+|
+|-
+| style="background: #FFCCCC"| †
+!scope="row" style="text-align:center;"|1922
+| style="background: #DDFFDD"|NL ‡
+|
+|1st
+|93
+|61
+|.604
+|–
+|style="background: #FFCCCC"|Won World Series (Yankees) 4–0 †
+|
+|-
+|
+!scope="row" style="text-align:center;"|1923
+| style="background: #DDFFDD"|NL ‡
+|
+|1st
+|95
+|58
+|.621
+|–
+|bgcolor="DDFFDD"|Lost World Series (Yankees) 4–2 ‡
+|
+|-
+|
+!scope="row" style="text-align:center;"|1924
+| style="background: #ddffdd"|NL ‡
+|
+|1st
+|93
+|60
+|.608
+|–
+|bgcolor="DDFFDD"|Lost World Series (Senators) 4–3 ‡
+|
+|-
+|
+!scope="row" style="text-align:center;"|1925
+|NL
+|
+|2nd
+|86
+|66
+|.566
+|8.5
+|
+|
+|-
+|-
+|
+!scope="row" style="text-align:center;"|1926
+|NL
+|
+|5th
+|74
+|77
+|.490
+|13.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1927
+|NL
+|
+|3rd
+|92
+|62
+|.597
+|2
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1928
+|NL
+|
+|2nd
+|93
+|61
+|.604
+|2
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1929
+|NL
+|
+|3rd
+|84
+|67
+|.556
+|13.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1930
+|NL
+|
+|3rd
+|87
+|67
+|.565
+|5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1931
+|NL
+|
+|2nd
+|87
+|65
+|.572
+|13
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1932
+|NL
+|
+|6th
+|72
+|82
+|.468
+|18
+|
+|
+|-
+| style="background: #FFCCCC"| †
+!scope="row" style="text-align:center;"|1933
+| style="background: #ddffdd"|NL ‡
+|
+|1st
+|91
+|61
+|.599
+|–
+|style="background: #FFCCCC"|Won World Series (Senators) 4–1 †
+|Carl Hubbell (MVP)
+|-
+|
+!scope="row" style="text-align:center;"|1934
+|NL
+|
+|2nd
+|93
+|60
+|.608
+|2
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1935
+|NL
+|
+|3rd
+|91
+|62
+|.595
+|8.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1936
+| style="background: #ddffdd"|NL ‡
+|
+|1st
+|92
+|62
+|.597
+|–
+|bgcolor="DDFFDD"|Lost World Series (Yankees) 4–2 ‡
+|Carl Hubbell (MVP)
+|-
+|
+!scope="row" style="text-align:center;"|1937
+| style="background: #ddffdd"|NL ‡
+|
+|1st
+|95
+|57
+|.625
+|–
+|bgcolor="DDFFDD"|Lost World Series (Yankees) 4–1 ‡
+|
+|-
+|
+!scope="row" style="text-align:center;"|1938
+|NL
+|
+|3rd
+|83
+|67
+|.553
+|5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1939
+|NL
+|
+|5th
+|77
+|74
+|.510
+|18.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1940
+|NL
+|
+|6th
+|72
+|80
+|.474
+|27.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1941
+|NL
+|
+|5th
+|74
+|79
+|.484
+|25.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1942
+|NL
+|
+|3rd
+|85
+|67
+|.559
+|25.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1943
+|NL
+|
+|8th
+|55
+|98
+|.359
+|49.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1944
+|NL
+|
+|5th
+|67
+|87
+|.435
+|38
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1945
+|NL
+|
+|5th
+|78
+|74
+|.513
+|19
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1946
+|NL
+|
+|8th
+|61
+|93
+|.396
+|36
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1947
+|NL
+|
+|4th
+|81
+|73
+|.526
+|13
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1948
+|NL
+|
+|5th
+|78
+|76
+|.506
+|13.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1949
+|NL
+|
+|5th
+|73
+|81
+|.474
+|24
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1950
+|NL
+|
+|3rd
+|86
+|68
+|.558
+|5
+|
+|
+|-
+|-
+|
+!scope="row" style="text-align:center;"|1951
+| style="background: #ddffdd"|NL ‡
+|
+|1st
+|98
+|59
+|.624
+|–
+|bgcolor="DDFFDD"|Lost World Series (Yankees) 4–2 ‡
+|Willie Mays (ROY)Leo Durocher (MOY)
+|-
+|
+!scope="row" style="text-align:center;"|1952
+|NL
+|
+|2nd
+|92
+|62
+|.597
+|4.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1953
+|NL
+|
+|5th
+|70
+|84
+|.455
+|35
+|
+|Leo Durocher (MOY)
+|-
+| style="background: #ffcccc"| †
+!scope="row" style="text-align:center;"|1954
+| style="background: #ddffdd"|NL ‡
+|
+|1st
+|97
+|57
+|.630
+|–
+|style="background: #FFCCCC"|Won World Series (Indians) 4–0 †
+|Willie Mays (MVP)Leo Durocher (MOY)
+|-
+|
+!scope="row" style="text-align:center;"|1955
+|NL
+|
+|3rd
+|80
+|74
+|.519
+|18.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1956
+|NL
+|
+|6th
+|67
+|87
+|.435
+|26
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1957
+|NL
+|
+|6th
+|69
+|85
+|.448
+|26
+|
+|
+|-
+| colspan="11" style=";"|San Francisco Giants
+|-
+|
+!scope="row" style="text-align:center;"|1958
+|NL
+|
+|3rd
+|80
+|74
+|.519
+|12
+|
+|Orlando Cepeda (ROY)
+|-
+|
+!scope="row" style="text-align:center;"|1959
+|NL
+|
+|3rd
+|83
+|71
+|.539
+|4
+|
+|Willie McCovey (ROY)
+|-
+|
+!scope="row" style="text-align:center;"|1960
+|NL
+|
+|5th
+|79
+|75
+|.513
+|16
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1961
+|NL
+|
+|3rd
+|85
+|69
+|.552
+|8
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1962
+| style="background: #Ddffdd"|NL ‡
+|
+|1st
+|103
+|62
+|.624
+|–
+|bgcolor="ddffdd"|Lost World Series (Yankees) 4–3 ‡
+|
+|-
+|
+!scope="row" style="text-align:center;"|1963
+|NL
+|
+|3rd
+|88
+|74
+|.543
+|11
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1964
+|NL
+|
+|4th
+|90
+|72
+|.556
+|3
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1965
+|NL
+|
+|2nd
+|95
+|67
+|.586
+|2
+|
+|Willie Mays (MVP)
+|-
+|
+!scope="row" style="text-align:center;"|1966
+|NL
+|
+|2nd
+|93
+|68
+|.578
+|1.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1967
+|NL
+|
+|2nd
+|91
+|71
+|.562
+|10.5
+|
+|Mike McCormick (CYA)
+|-
+|
+!scope="row" style="text-align:center;"|1968
+|NL
+|
+|2nd
+|88
+|74
+|.543
+|9
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1969
+|NL
+|West
+|2nd
+|90
+|72
+|.556
+|3
+|
+|Willie McCovey (MVP)
+|-
+|
+!scope="row" style="text-align:center;"|1970
+|NL
+|West
+|3rd
+|86
+|76
+|.531
+|16
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1971
+|NL
+| style="background: #D0E7FF"|West *
+|1st
+|90
+|72
+|.556
+|–
+|Lost NLCS (Pirates) 3–1
+|Charlie Fox (MOY)
+|-
+|
+!scope="row" style="text-align:center;"|1972
+|NL
+|West
+|5th
+|69
+|86
+|.445
+|26.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1973
+|NL
+|West
+|3rd
+|88
+|74
+|.543
+|11
+|
+|Gary Matthews (ROY)
+|-
+|
+!scope="row" style="text-align:center;"|1974
+|NL
+|West
+|5th
+|72
+|90
+|.444
+|30
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1975
+|NL
+|West
+|3rd
+|80
+|81
+|.497
+|27.5
+|
+|John Montefusco (ROY)
+|-
+|-
+|
+!scope="row" style="text-align:center;"|1976
+|NL
+|West
+|4th
+|74
+|88
+|.457
+|28
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1977
+|NL
+|West
+|4th
+|75
+|87
+|.463
+|23
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1978
+|NL
+|West
+|3rd
+|89
+|73
+|.549
+|6
+|
+|Joe Altobelli (MOY)
+|-
+|
+!scope="row" style="text-align:center;"|1979
+|NL
+|West
+|4th
+|71
+|91
+|.438
+|19.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1980
+|NL
+|West
+|5th
+|75
+|86
+|.466
+|17
+|
+|
+|-
+|rowspan="2"|
+!scope="row" style="text-align:center;" rowspan="2"|1981
+|rowspan="2"|NL
+|rowspan="2"|West
+|5th
+|27
+|32
+|.458
+|9
+|rowspan="2"|
+|rowspan="2"|
+|-
+|3rd
+|29
+|23
+|.558
+|3.5
+|-
+|
+!scope="row" style="text-align:center;"|1982
+|NL
+|West
+|3rd
+|87
+|75
+|.537
+|2
+|
+|Frank Robinson (MOY)
+|-
+|
+!scope="row" style="text-align:center;"|1983
+|NL
+|West
+|5th
+|79
+|83
+|.488
+|12
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1984
+|NL
+|West
+|6th
+|66
+|96
+|.407
+|26
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1985
+|NL
+|West
+|6th
+|62
+|100
+|.383
+|33
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1986
+|NL
+|West
+|3rd
+|83
+|79
+|.512
+|13
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1987
+|NL
+| style="background: #D0E7FF"|West *
+|1st
+|90
+|72
+|.556
+|–
+|Lost NLCS (Cardinals) 4–3
+|Roger Craig (MOY)
+|-
+|
+!scope="row" style="text-align:center;"|1988
+|NL
+|West
+|4th
+|83
+|79
+|.512
+|11.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1989
+| style="background: #ddffdd"|NL ‡
+| style="background: #D0E7FF"|West *
+|1st
+|92
+|70
+|.568
+|–
+|bgcolor="DDFFDD"|Won NLCS (Cubs) 4–1Lost World Series (Athletics) 4–0 ‡
+|Kevin Mitchell (MVP)
+|-
+|
+!scope="row" style="text-align:center;"|1990
+|NL
+|West
+|3rd
+|85
+|77
+|.525
+|6
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1991
+|NL
+|West
+|4th
+|75
+|87
+|.463
+|19
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1992
+|NL
+|West
+|5th
+|72
+|90
+|.444
+|26
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1993
+|NL
+|West
+|2nd
+|103
+|59
+|.636
+|1
+|
+|Barry Bonds (MVP)Dusty Baker (MOY)
+|-
+|
+!scope="row" style="text-align:center;"|1994
+|NL
+|West
+|2nd
+|55
+|60
+|.478
+|3.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1995
+|NL
+|West
+|4th
+|67
+|77
+|.465
+|11
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1996
+|NL
+|West
+|4th
+|68
+|94
+|.420
+|23
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1997
+|NL
+| style="background: #D0E7FF"|West *
+|1st
+|90
+|72
+|.556
+|–
+|Lost NLDS (Marlins) 3–0
+|Dusty Baker (MOY)
+|-
+|
+!scope="row" style="text-align:center;"|1998
+|NL
+|West
+|2nd
+|89
+|74
+|.546
+|9.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|1999
+|NL
+|West
+|2nd
+|86
+|76
+|.531
+|14
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|2000
+|NL
+| style="background: #D0E7FF"|West *
+|1st
+|97
+|65
+|.599
+|–
+|Lost NLDS (Mets) 3–1
+|Jeff Kent (MVP)Dusty Baker (MOY)
+|-
+|-
+|
+!scope="row" style="text-align:center;"|2001
+|NL
+|West
+|2nd
+|90
+|72
+|.556
+|2
+|
+|Barry Bonds (MVP)
+|-
+|
+!scope="row" style="text-align:center;"|2002
+| style="background: #ddffdd"|NL ‡
+|West
+| bgcolor="#96CDCD"|2nd §
+|95
+|66
+|.590
+|2.5
+|bgcolor="DDFFDD"|Won NLDS (Braves) 3–2Won NLCS (Cardinals) 4–1Lost World Series (Angels) 4–3 ‡
+|Barry Bonds (MVP)
+|-
+|
+!scope="row" style="text-align:center;"|2003
+|NL
+| style="background: #D0E7FF"|West *
+|1st
+|100
+|61
+|.621
+|–
+|Lost NLDS (Marlins) 3–1
+|Barry Bonds (MVP)
+|-
+|
+!scope="row" style="text-align:center;"|2004
+|NL
+|West
+|2nd
+|91
+|71
+|.562
+|2
+|
+|Barry Bonds (MVP)
+|-
+|
+!scope="row" style="text-align:center;"|2005
+|NL
+|West
+|3rd
+|75
+|87
+|.463
+|7
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|2006
+|NL
+|West
+|3rd
+|76
+|85
+|.472
+|11.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|2007
+|NL
+|West
+|5th
+|71
+|91
+|.438
+|19
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|2008
+|NL
+|West
+|4th
+|72
+|90
+|.444
+|12
+|
+|Tim Lincecum (CYA)
+|-
+|
+!scope="row" style="text-align:center;"|2009
+|NL
+|West
+|3rd
+|88
+|74
+|.543
+|7
+|
+|Tim Lincecum (CYA)
+|-
+| style="background: #ffcccc"| †
+!scope="row" style="text-align:center;"|2010
+| style="background: #ddffdd"|NL ‡
+| style="background: #D0E7FF"|West *
+|1st
+|92
+|70
+|.568
+|–
+|style="background: #ffcccc"|Won NLDS (Braves) 3–1Won NLCS (Phillies) 4–2Won World Series (Rangers) 4–1 †
+|Buster Posey (ROY)
+|-
+|
+!scope="row" style="text-align:center;"|2011
+|NL
+|West
+|2nd
+|86
+|76
+|.531
+|8
+|
+|
+|-
+|style="background: #ffcccc"| †
+!scope="row" style="text-align:center;"|2012
+| style="background: #ddffdd"|NL ‡
+| style="background: #D0E7FF"|West *
+|1st
+|94
+|68
+|.580
+|–
+|style="background: #ffcccc"|Won NLDS (Reds) 3–2Won NLCS (Cardinals) 4–3 Won World Series (Tigers) 4–0 †
+|Buster Posey (MVP)
+|-
+|
+!scope="row" style="text-align:center;"|2013
+|NL
+|West
+|T-3rd
+|76
+|86
+|.469
+|16
+|
+|
+|-
+|style="background: #FFCCCC"| †
+!scope="row" style="text-align:center;"|2014
+| style="background: #ddffdd"|NL ‡
+|West
+| bgcolor="#96CDCD"|2nd §
+|88
+|74
+|.543
+|6
+|style="background: #ffcccc"|Won NLWC (Pirates)Won NLDS (Nationals) 3–1Won NLCS (Cardinals) 4–1Won World Series (Royals) 4–3 †
+|
+|-
+|
+!scope="row" style="text-align:center;"|2015
+|NL
+|West
+|2nd
+|84
+|78
+|.519
+|8
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|2016
+|NL
+|West
+| bgcolor="#96CDCD"|2nd §
+|87
+|75
+|.537
+|4
+|Won NLWC (Mets)Lost NLDS (Cubs) 3–1
+|
+|-
+|
+!scope="row" style="text-align:center;"|2017
+|NL
+|West
+|5th
+|64
+|98
+|.395
+|40
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|2018
+|NL
+|West
+|4th
+|73
+|89
+|.451
+|18.5
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|2019
+|NL
+|West
+|3rd
+|77
+|85
+|.475
+|29
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|2020
+|NL
+|West
+|3rd
+|29
+|31
+|.483
+|14
+|
+|
+|-
+|
+!scope="row" style="text-align:center;"|2021
+|NL
+| style="background: #D0E7FF"|West *
+|1st
+|107
+|55
+|.660
+|–
+| Lost NLDS (Dodgers) 3–2
+| Gabe Kapler (MOY)
+|-
+
+|
+!scope="row" style="text-align:center;"|2022
+|NL
+|West
+|3rd
+|81
+|81
+|.500
+|30
+|
+|
+|-
+|}
+
+== Record by decade ==
+The following table describes the Giants' MLB win–loss record by decade.
+
+{| class="wikitable" style="text-align:center"
+|-
+!style="text-align:center; ;"|Decade || style="text-align:center; ;"|Wins || style="text-align:center; ;"|Losses || style="text-align:center; ;"|Pct
+|-
+| 1880s || 503 || 316 || .614
+|-
+| 1890s || 711 || 660 || .519 
+|-
+| 1900s || 823 || 645 || .561
+|-
+| 1910s || 889 || 597 || .598
+|-
+| 1920s || 890 || 639 || .582
+|-
+| 1930s || 868 || 657 || .569
+|-
+| 1940s || 724 || 808 || .473
+|-
+| 1950s || 822 || 721 || .533
+|-
+| 1960s || 902 || 704 || .562
+|-
+| 1970s || 794 || 818 || .493
+|-
+| 1980s || 773 || 795 || .493
+|-
+| 1990s || 790 || 766 || .508
+|-
+| 2000s || 855 || 762 || .529
+|-
+| 2010s || 821 || 799 || .507
+|-
+| 2020s || 217 || 167 || .565
+|- style="background:#f0f0f0; font-weight:bold"
+! style="text-align:center; ;"|All-time || style="text-align:center; ;"|11382|| style="text-align:center; ;"|9854|| style="text-align:center; ;"|
+|}
+These statistics are from Baseball-Reference.com's San Francisco Giants History & Encyclopedia, and are current as of October, 5th 2022.
+
+==All-time records==
+
+{| class="wikitable" style="text-align:center"
+
+!
+!Total Games
+!Wins
+!Losses
+!Win %
+|-
+|New York Gothams/Giants regular season record (1883–1957)
+|10,965
+|6,067
+|4,898
+|.553
+|-
+|San Francisco Giants regular season record (1958–present)
+|10,109
+|5,234
+|4,875
+|.518
+|-
+!All-time regular season record
+|21,074
+|11,301
+|9,773
+|.536
+|-
+!All-time post-season record
+|193
+|100
+|93
+|.518
+|-
+!All-time regular and post-season record
+|21,267
+|11,401
+|9,866
+|.535
+|}
+
+Note: These statistics are current as of October 14, 2021.
+
+==Notes==
+*  The Giants were due to play against the Boston Americans, champions of the American League, but boycotted the series. John McGraw, then Giants manager, claimed the AL was inferior and any series would be unnecessary.
+*  Does not include postseason games prior to 1903 — the beginning of the modern World Series era — as these were considered exhibition games.
+

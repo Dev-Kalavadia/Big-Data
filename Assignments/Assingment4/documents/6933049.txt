@@ -1,0 +1,77 @@
+Title: General frame
+In logic, general frames (or simply frames) are Kripke frames with an additional structure, which are used to model modal and intermediate logics. The general frame semantics combines the main virtues of Kripke semantics and algebraic semantics: it shares the transparent geometrical insight of the former, and robust completeness of the latter.
+
+==Definition==
+A modal general frame is a triple \mathbf F=\langle F,R,V\rangle, where \langle F,R\rangle is a Kripke frame (i.e., R is a binary relation on the set F), and V is a set of subsets of F that is closed under the following:
+*the Boolean operations of (binary) intersection, union, and complement,
+*the operation \Box, defined by \Box A=\{x\in F \mid \forall y\in F\,(x\,R\,y\to y\in A)\}.
+They are thus a special case of fields of sets with additional structure. The purpose of V is to restrict the allowed valuations in the frame: a model \langle F,R,\Vdash\rangle based on the Kripke frame \langle F,R\rangle is admissible in the general frame \mathbf{F}, if
+:\{x\in F \mid x\Vdash p\}\in V for every propositional variable p.
+The closure conditions on V then ensure that \{x\in F \mid x\Vdash A\} belongs to V for every formula A (not only a variable).
+
+A formula A is valid in \mathbf{F}, if x\Vdash A for all admissible valuations \Vdash, and all points x\in F. A normal modal logic L is valid in the frame \mathbf{F}, if all axioms (or equivalently, all theorems) of L are valid in \mathbf{F}. In this case we call \mathbf{F} an L-frame.
+
+A Kripke frame \langle F,R\rangle may be identified with a general frame in which all valuations are admissible: i.e., \langle F,R,\mathcal{P}(F)\rangle, where \mathcal P(F) denotes the power set of F.
+
+==Types of frames==
+In full generality, general frames are hardly more than a fancy name for Kripke models; in particular, the correspondence of modal axioms to properties on the accessibility relation is lost. This can be remedied by imposing additional conditions on the set of admissible valuations.
+
+A frame \mathbf F=\langle F,R,V\rangle is called
+*differentiated, if \forall A\in V\,(x\in A\Leftrightarrow y\in A) implies x=y,
+*tight, if \forall A\in V\,(x\in\Box A\Rightarrow y\in A) implies x\,R\,y,
+*compact, if every subset of V with the finite intersection property has a non-empty intersection,
+*atomic, if V contains all singletons,
+*refined, if it is differentiated and tight,
+*descriptive, if it is refined and compact.
+Kripke frames are refined and atomic. However, infinite Kripke frames are never compact. Every finite differentiated or atomic frame is a Kripke frame.
+
+Descriptive frames are the most important class of frames because of the duality theory (see below). Refined frames are useful as a common generalization of descriptive and Kripke frames.
+
+==Operations and morphisms on frames==
+Every Kripke model \langle F,R,{\Vdash}\rangle induces the general frame \langle F,R,V\rangle, where V is defined as
+:V=\big\{\{x\in F \mid x\Vdash A\} \mid A\hbox{ is a formula}\big\}.
+
+The fundamental truth-preserving operations of generated subframes, p-morphic images, and disjoint unions of Kripke frames have analogues on general frames. A frame \mathbf G=\langle G,S,W\rangle is a generated subframe of a frame \mathbf F=\langle F,R,V\rangle, if the Kripke frame \langle G,S\rangle is a generated subframe of the Kripke frame \langle F,R\rangle (i.e., G is a subset of F closed upwards under R, and S=R\cap G\times G), and
+:W=\{A\cap G \mid A\in V\}.
+A p-morphism (or bounded morphism) f\colon\mathbf F\to\mathbf G is a function from F to G that is a p-morphism of the Kripke frames \langle F,R\rangle and \langle G,S\rangle, and satisfies the additional constraint
+:f^{-1}[A]\in V for every A\in W.
+The disjoint union of an indexed set of frames \mathbf F_i=\langle F_i,R_i,V_i\rangle, i\in I, is the frame \mathbf F=\langle F,R,V\rangle, where F is the disjoint union of \{F_i \mid i\in I\}, R is the union of \{R_i \mid i\in I\}, and
+:V=\{A\subseteq F \mid \forall i\in I\,(A\cap F_i\in V_i)\}.
+
+The refinement of a frame \mathbf F=\langle F,R,V\rangle is a refined frame \mathbf G=\langle G,S,W\rangle defined as follows. We consider the equivalence relation
+:x\sim y\iff\forall A\in V\,(x\in A\Leftrightarrow y\in A),
+and let G=F/{\sim} be the set of equivalence classes of \sim. Then we put
+:\langle x/{\sim},y/{\sim}\rangle\in S\iff\forall A\in V\,(x\in\Box A\Rightarrow y\in A),
+:A/{\sim}\in W\iff A\in V.
+
+==Completeness==
+Unlike Kripke frames, every normal modal logic L is complete with respect to a class of general frames. This is a consequence of the fact that L is complete with respect to a class of Kripke models \langle F,R,{\Vdash}\rangle: as L is closed under substitution, the general frame induced by \langle F,R,{\Vdash}\rangle is an L-frame. Moreover, every logic L is complete with respect to a single descriptive frame. Indeed, L is complete with respect to its canonical model, and the general frame induced by the canonical model (called the canonical frame of L) is descriptive.
+
+==Jónsson–Tarski duality==
+thumb|right|100px|The Rieger–Nishimura ladder: a 1-universal intuitionistic Kripke frame.
+thumb|right|300px|Its dual Heyting algebra, the Rieger–Nishimura lattice. It is the free Heyting algebra over 1 generator.
+General frames bear close connection to modal algebras. Let \mathbf F=\langle F,R,V\rangle be a general frame. The set V is closed under Boolean operations, therefore it is a subalgebra of the power set Boolean algebra \langle\mathcal P(F),\cap,\cup,-\rangle. It also carries an additional unary operation, \Box. The combined structure \langle V,\cap,\cup,-,\Box\rangle is a modal algebra, which is called the dual algebra of \mathbf F, and denoted by \mathbf F^+.
+
+In the opposite direction, it is possible to construct the dual frame \mathbf A_+=\langle F,R,V\rangle to any modal algebra \mathbf A=\langle A,\wedge,\vee,-,\Box\rangle. The Boolean algebra \langle A,\wedge,\vee,-\rangle has a Stone space, whose underlying set F is the set of all ultrafilters of \mathbf A. The set V of admissible valuations in \mathbf A_+ consists of the clopen subsets of F, and the accessibility relation R is defined by
+:x\,R\,y\iff\forall a\in A\,(\Box a\in x\Rightarrow a\in y)
+for all ultrafilters x and y.
+
+A frame and its dual validate the same formulas, hence the general frame semantics and algebraic semantics are in a sense equivalent. The double dual (\mathbf A_+)^+ of any modal algebra is isomorphic to \mathbf A itself. This is not true in general for double duals of frames, as the dual of every algebra is descriptive. In fact, a frame \mathbf F is descriptive if and only if it is isomorphic to its double dual (\mathbf F^+)_+.
+
+It is also possible to define duals of p-morphisms on one hand, and modal algebra homomorphisms on the other hand. In this way the operators (\cdot)^+ and (\cdot)_+ become a pair of contravariant functors between the category of general frames, and the category of modal algebras. These functors provide a duality (called Jónsson–Tarski duality after Bjarni Jónsson and Alfred Tarski) between the categories of descriptive frames, and modal algebras. This is a special case of a more general duality between complex algebras and fields of sets on relational structures.
+
+==Intuitionistic frames==
+The frame semantics for intuitionistic and intermediate logics can be developed in parallel to the semantics for modal logics. An intuitionistic general frame is a triple \langle F,\le,V\rangle, where \le is a partial order on F, and V is a set of upper subsets (cones) of F that contains the empty set, and is closed under
+*intersection and union,
+*the operation A\to B=\Box(-A\cup B).
+Validity and other concepts are then introduced similarly to modal frames, with a few changes necessary to accommodate for the weaker closure properties of the set of admissible valuations. In particular, an intuitionistic frame \mathbf F=\langle F,\le,V\rangle is called
+*tight, if \forall A\in V\,(x\in A\Leftrightarrow y\in A) implies x\le y,
+*compact, if every subset of V\cup\{F-A \mid A\in V\} with the finite intersection property has a non-empty intersection.
+Tight intuitionistic frames are automatically differentiated, hence refined.
+
+The dual of an intuitionistic frame \mathbf F=\langle F,\le,V\rangle is the Heyting algebra \mathbf F^+=\langle V,\cap,\cup,\to,\emptyset\rangle. The dual of a Heyting algebra \mathbf A=\langle A,\wedge,\vee,\to,0\rangle is the intuitionistic frame \mathbf A_+=\langle F,\le,V\rangle, where F is the set of all prime filters of \mathbf A, the ordering \le is inclusion, and V consists of all subsets of F of the form
+:\{x\in F \mid a\in x\},
+where a\in A. As in the modal case, (\cdot)^+ and (\cdot)_+ are a pair of contravariant functors, which make the category of Heyting algebras dually equivalent to the category of descriptive intuitionistic frames.
+
+It is possible to construct intuitionistic general frames from transitive reflexive modal frames and vice versa, see modal companion.
+

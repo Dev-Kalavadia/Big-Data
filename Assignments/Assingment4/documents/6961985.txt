@@ -1,0 +1,212 @@
+Title: 1991 CONCACAF Women's Championship
+The 1991 CONCACAF Women's Championship was the first staging of the CONCACAF Women's Championship, the international women's association football tournament for North American, Central American and Caribbean nations organized by CONCACAF. The tournament took place in Port-au-Prince, Haiti, between 18 and 27 April 1991 and consisted of eight national teams. The matches were 80 minutes long.
+
+The United States won the tournament after defeating Canada 5–0 in the final match. They became CONCACAF's single qualifier for the 1991 FIFA Women's World Cup, which was hosted by China in November and ended with a U.S. victory.
+
+==Participating teams==
+*From the North American Zone:
+;:
+;:
+;:
+*From the Central American Zone:
+;:
+*From the Caribbean Zone:
+;: (hosts)
+;:
+;:
+;:
+
+==Venues==
+{| class="wikitable" style="text-align:center"
+! rowspan="8" | 
+|-
+! Port-au-Prince
+|-
+| Stade Sylvio Cator
+|-
+| Capacity: 15,000
+|-
+| 170px
+|}
+
+==Results==
+===Group stage===
+====Group A====
+{| class="wikitable" style="text-align: center;"
+|-
+!width="165"|Team
+!width="25"|
+!width="25"|
+!width="25"|
+!width="25"|
+!width="25"|
+!width="25"|
+!width="25"|
+!width="25"|
+|- style="background:#ccffcc;"
+|style="text-align:left;"|
+|3||3||0||0||34||0||+34||6
+|- bgcolor=#ccffcc align=center
+|style="text-align:left;"|
+|3||1||1||1||4||12||−8||3
+|- align=center
+|style="text-align:left;"|
+|3||1||0||2||9||16||−7||2
+|- align=center
+|style="text-align:left;"|
+|3||0||1||2||2||21||−19||1 
+|}
+
+
+
+
+----
+
+
+
+----
+
+
+
+
+====Group B====
+{| class="wikitable" style="text-align: center;"
+|-
+!width="165"|Team
+!width="25"|
+!width="25"|
+!width="25"|
+!width="25"|
+!width="25"|
+!width="25"|
+!width="25"|
+!width="25"|
+|- style="background:#ccffcc;"
+|style="text-align:left;"|
+|3||3||0||0||17||0||+17||6
+|- bgcolor=#ccffcc align=center
+|style="text-align:left;"|
+|3||2||0||1||5||2||+3||4
+|- align=center
+|style="text-align:left;"|
+|3||1||0||2||2||11||−9||2
+|- align=center
+|style="text-align:left;"|
+|3||0||0||3||1||12||−11||0 
+|}
+
+
+
+
+----
+
+
+
+----
+
+
+
+
+===Knockout stage===
+====Bracket====
+
+
+====Semi-finals====
+
+----
+
+
+====Third place playoff====
+
+
+====Final====
+United States won the tournament and qualified for 1991 FIFA Women's World Cup.
+
+==Awards==
+
+
+==Statistics==
+===Goalscorers===
+
+;11 goals
+* Michelle Akers
+;8 goals
+* April Heinrichs
+;7 goals
+
+* Charmaine Hooper
+* Brandi Chastain
+
+;5 goals
+
+* Mia Hamm
+* Carin Jennings
+
+;4 goals
+
+* Annie Caron
+* Fabienne Gareau
+* Lydia Vamos
+
+;3 goals
+
+* Tracey Bates
+* Joy Biefeld-Fawcett
+* Wendy Gebauer
+
+;2 goals
+
+* Julie Foudy
+* Kristine Lilly
+
+;1 goal
+
+* Connie Cant
+* Joan McEachern
+* Karla Alemán
+* Maritza Álvarez
+
+;Own goals
+* Bernadette Mairs (playing against )
+
+===Final ranking===
+{| class="wikitable" style="text-align: center;"
+|-
+! width=25 | 
+! width=165 | Team
+! width=25 | 
+! width=25 | 
+! width=25 | 
+! width=25 | 
+! width=25 | 
+! width=25 | 
+! width=25 | 
+! width=25 | 
+|- style="background:gold;"
+|1||style="text-align:left;"|
+|5||5||0||0||49||0||+49||10
+|- style="background:silver;"
+|2||style="text-align:left;"|
+|5||4||0||1||23||5||+18||8
+|- style="background:#cc9966;"
+|3||style="text-align:left;"|
+|5||2||1||2||8||20||−12||5
+|- style="background:#9acdff;"
+|4||style="text-align:left;"|
+|5||2||0||3||7||16||−9||4
+|-
+| colspan=10 | Eliminated in the group stage
+|- align=center
+|5||style="text-align:left;"|
+||3|||1|||0|||2|||9|||16|||−7|||2
+|- align=center
+|6||style="text-align:left;"|
+||3|||1|||0|||2|||2|||11|||−9|||2
+|- align=center
+|7||style="text-align:left;"|
+||3|||0|||1|||2|||2|||21|||−19||1
+|- align=center
+|8||style="text-align:left;"|
+||3|||0|||0|||3|||1|||12|||−11|||0
+|}
+

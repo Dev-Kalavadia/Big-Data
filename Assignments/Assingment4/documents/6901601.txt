@@ -1,0 +1,28 @@
+Title: Laguna Beach Fire Department
+
+
+The Laguna Beach Fire Department is the agency that provides fire protection and emergency medical services for Laguna Beach, California.
+
+== Stations & Apparatus ==
+{| class=wikitable style="text-align:center;"
+|-
+!
+! Address
+! Engine
+! Wildland
+! Other
+!
+|-
+! 1
+| 501 Forest Ave|| Engine 1 Engine 201 || || ||
+|-
+! 2
+| 285 Agate St|| Engine 2OES 313 ||Engine 302 ||Squad 2 ||
+|-
+! 3
+| 2900 Alta Laguna Blvd|| Engine 3|| || ||
+|-
+! 4
+| 31646 2nd Ave|| Engine 4 Engine 204|| || ||
+|}
+

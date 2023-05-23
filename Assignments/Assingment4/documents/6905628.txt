@@ -1,0 +1,407 @@
+Title: List of municipalities of the Metropolitan City of Reggio Calabria
+
+The following is a list of the 97 municipalities (comuni) of the Metropolitan City of Reggio Calabria, Calabria, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|080001
+|Africo
+| align="right" |3,376
+|-
+|080002
+|Agnana Calabra
+| align="right" |709
+|-
+|080003
+|Anoia
+| align="right" |2,313
+|-
+|080004
+|Antonimina
+| align="right" |1,430
+|-
+|080005
+|Ardore
+| align="right" |4,822
+|-
+|080006
+|Bagaladi
+| align="right" |1,241
+|-
+|080007
+|Bagnara Calabra
+| align="right" |11,078
+|-
+|080008
+|Benestare
+| align="right" |2,442
+|-
+|080009
+|Bianco
+| align="right" |4,233
+|-
+|080010
+|Bivongi
+| align="right" |1,540
+|-
+|080011
+|Bova
+| align="right" |471
+|-
+|080012
+|Bovalino
+| align="right" |8,406
+|-
+|080013
+|Bova Marina
+| align="right" |3,870
+|-
+|080014
+|Brancaleone
+| align="right" |3,923
+|-
+|080015
+|Bruzzano Zeffirio
+| align="right" |1,331
+|-
+|080016
+|Calanna
+| align="right" |1,095
+|-
+|080017
+|Camini
+| align="right" |762
+|-
+|080018
+|Campo Calabro
+| align="right" |4,193
+|-
+|080019
+|Candidoni
+| align="right" |399
+|-
+|080020
+|Canolo
+| align="right" |901
+|-
+|080021
+|Caraffa del Bianco
+| align="right" |605
+|-
+|080022
+|Cardeto
+| align="right" |2,195
+|-
+|080023
+|Careri
+| align="right" |2,427
+|-
+|080024
+|Casignana
+| align="right" |801
+|-
+|080025
+|Caulonia
+| align="right" |7,542
+|-
+|080026
+|Ciminà
+| align="right" |652
+|-
+|080027
+|Cinquefrondi
+| align="right" |6,511
+|-
+|080028
+|Cittanova
+| align="right" |10,640
+|-
+|080029
+|Condofuri
+| align="right" |5,076
+|-
+|080030
+|Cosoleto
+| align="right" |1,006
+|-
+|080031
+|Delianuova
+| align="right" |3,542
+|-
+|080032
+|Feroleto della Chiesa
+| align="right" |1,849
+|-
+|080033
+|Ferruzzano
+| align="right" |863
+|-
+|080034
+|Fiumara
+| align="right" |1,158
+|-
+|080035
+|Galatro
+| align="right" |2,077
+|-
+|080036
+|Gerace
+| align="right" |2,938
+|-
+|080037
+|Giffone
+| align="right" |2,154
+|-
+|080038
+|Gioia Tauro
+| align="right" |18,028
+|-
+|080039
+|Gioiosa Ionica
+| align="right" |7,027
+|-
+|080040
+|Grotteria
+| align="right" |3,476
+|-
+|080041
+|Laganadi
+| align="right" |458
+|-
+|080042
+|Laureana di Borrello
+| align="right" |5,520
+|-
+|080043
+|Locri
+| align="right" |13,038
+|-
+|080044
+|Mammola
+| align="right" |3,334
+|-
+|080045
+|Marina di Gioiosa Ionica
+| align="right" |6,436
+|-
+|080046
+|Maropati
+| align="right" |1,655
+|-
+|080047
+|Martone
+| align="right" |601
+|-
+|080048
+|Melicuccà
+| align="right" |1,041
+|-
+|080049
+|Melicucco
+| align="right" |5,024
+|-
+|080050
+|Melito di Porto Salvo
+| align="right" |10,724
+|-
+|080051
+|Molochio
+| align="right" |2,700
+|-
+|080052
+|Monasterace
+| align="right" |3,511
+|-
+|080053
+|Montebello Ionico
+| align="right" |6,685
+|-
+|080054
+|Motta San Giovanni
+| align="right" |6,430
+|-
+|080055
+|Oppido Mamertina
+| align="right" |5,487
+|-
+|080056
+|Palizzi
+| align="right" |2,559
+|-
+|080057
+|Palmi
+| align="right" |19,523
+|-
+|080058
+|Pazzano
+| align="right" |752
+|-
+|080059
+|Placanica
+| align="right" |1,383
+|-
+|080060
+|Platì
+| align="right" |3,786
+|-
+|080061
+|Polistena
+| align="right" |11,488
+|-
+|080062
+|Portigliola
+| align="right" |1,297
+|-
+|080063
+|Reggio Calabria
+| align="right" |183,041
+|-
+|080064
+|Riace
+| align="right" |1,703
+|-
+|080065
+|Rizziconi
+| align="right" |7,926
+|-
+|080066
+|Roccaforte del Greco
+| align="right" |743
+|-
+|080067
+|Roccella Ionica
+| align="right" |6,769
+|-
+|080068
+|Roghudi
+| align="right" |1,323
+|-
+|080069
+|Rosarno
+| align="right" |15,155
+|-
+|080070
+|Samo
+| align="right" |1,041
+|-
+|080071
+|San Giorgio Morgeto
+| align="right" |3,356
+|-
+|080072
+|San Giovanni di Gerace
+| align="right" |577
+|-
+|080073
+|San Lorenzo
+| align="right" |3,141
+|-
+|080074
+|San Luca
+| align="right" |4,186
+|-
+|080075
+|San Pietro di Caridà
+| align="right" |1,552
+|-
+|080076
+|San Procopio
+| align="right" |592
+|-
+|080077
+|San Roberto
+| align="right" |2,034
+|-
+|080078
+|Santa Cristina d'Aspromonte
+| align="right" |1,086
+|-
+|080079
+|Sant'Agata del Bianco
+| align="right" |708
+|-
+|080080
+|Sant'Alessio in Aspromonte
+| align="right" |396
+|-
+|080081
+|Sant'Eufemia d'Aspromonte
+| align="right" |4,061
+|-
+|080082
+|Sant'Ilario dello Ionio
+| align="right" |1,346
+|-
+|080083
+|Santo Stefano in Aspromonte
+| align="right" |1,382
+|-
+|080084
+|Scido
+| align="right" |1,029
+|-
+|080085
+|Scilla
+| align="right" |5,163
+|-
+|080086
+|Seminara
+| align="right" |3,300
+|-
+|080087
+|Serrata
+| align="right" |922
+|-
+|080088
+|Siderno
+| align="right" |17,371
+|-
+|080089
+|Sinopoli
+| align="right" |2,303
+|-
+|080090
+|Staiti
+| align="right" |335
+|-
+|080091
+|Stignano
+| align="right" |1,367
+|-
+|080092
+|Stilo
+| align="right" |2,777
+|-
+|080093
+|Taurianova
+| align="right" |15,933
+|-
+|080094
+|Terranova Sappo Minulio
+| align="right" |556
+|-
+|080095
+|Varapodio
+| align="right" |2,279
+|-
+|080096
+|Villa San Giovanni
+| align="right" |13,392
+|-
+|080097
+|San Ferdinando
+| align="right" |4,487
+|-
+|
+|Total
+| align="right" |565,866
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

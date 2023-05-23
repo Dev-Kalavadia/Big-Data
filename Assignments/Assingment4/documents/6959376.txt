@@ -1,0 +1,86 @@
+Title: Calcium-activated potassium channel
+
+Calcium-activated potassium channels are potassium channels gated by calcium, or that are structurally or phylogenetically related to calcium gated channels. They were first discovered in 1958 by Gardos who saw that calcium levels inside of a cell could affect the permeability of potassium through that cell membrane. Then in 1970, Meech was the first to observe that intracellular calcium could trigger potassium currents. In humans they are divided into three subtypes: large conductance or BK channels, which have very high conductance which range from 100 to 300 pS, intermediate conductance or IK channels, with intermediate conductance ranging from 25 to 100 pS, and small conductance or SK channels with small conductances from 2-25 pS.
+
+This family of ion channels is, for the most part, activated by intracellular Ca2+ and contains 8 members in the human genome. However, some of these channels (the KCa4 and KCa5 channels) are responsive instead to other intracellular ligands, such as Na+, Cl−, and pH. Furthermore, multiple members of family are both ligand and voltage activated, further complicating the description of this family.  The KCa channel α subunits have six or seven transmembrane segments, similar to the KV channels but occasionally with an additional N-terminal transmembrane helix.  The α subunits make homo- and hetero-tetrameric complexes. The calcium binding domain may be contained in the α subunit sequence, as in KCa1, or may be through an additional calcium binding protein such as calmodulin.
+
+== Structure ==
+border|right|472x472px|Simple diagram of a Large Conductance calcium-activated potassium channel (BK). A similar structure can be hypothesized for the other subtypes in this family of channels.
+
+Knowing the structure of these channels can provide insight into their function and mechanism of gating. They are made up of two different subunits, alpha and beta. The alpha subunit is a tetramer which forms the pore, the voltage sensor, and the calcium sensing region. This subunit of the channel is made up of seven trans-membrane units, and a large intracellular region. The voltage sensor is made by the S4 transmembrane region, which has several Arginine residues which act to ‘sense’ the changes in charge and move in a very similar way to other voltage gated potassium channels. As they move in response to the voltage changes they open and close the gate. The linker between the S5 and S6 region serves to form the pore of the channel. Inside of the cell, the main portion to note is the calcium bowl. This bowl is thought to be the site of calcium binding.
+
+The beta subunit of the channel is thought to be a regulatory subunit of the channel. There are four different kinds of the beta subunit, 1, 2, 3, and, 4. Beta 2 and 3 are inhibitory, while beta 1 and 4 are excitatory, or they cause the channel to be more open than not open. The excitatory beta subunits affect the alpha subunits in such a way that the channel seldom inactivates.
+
+==Homology Classification and Descriptions==
+
+===Human KCa Channels===
+Below is a list of the 8 known human calcium-activated potassium channel grouped according to sequence homology of transmembrane hydrophobic cores:
+
+====BK channel====
+Though not implied in the name, but implied by the structure these channels can also be activated by voltage. The different modes of activation in these channels are thought to be independent of one another. This feature of the channel allows them to participate in many different physiologic functions. The physiological effects of BK channels have been studied extensively using knockout mice. In doing so it was observed that there were changes in the blood vessels of the mice. The animals without the BK channels showed increased mean arterial pressure and vascular tone. These findings indicate that BK channels are involved in the relaxation of smooth muscle cells. In any muscle cell, increased intracellular calcium causes contraction. In smooth muscle cells the elevated levels of intracellular calcium cause the opening of BK channels which in turn allow potassium ions to flow out of the cell. This causes further hyperpolarization and closing of voltage gated calcium channels, relaxation can then occur. The knockout mice also experienced intention tremors, shorter stride length, and slower swim speed. All of these are symptoms of ataxia, indicating that BK channels are highly important in the cerebellum.
+
+Subtypes of BK Channels
+* KCa1.1 (BK, Slo1, Maxi-K, )
+** Beta subunits: β1, β2, β3, β4
+
+====IK channel====
+Intermediate conductance channels seem to be the least studied of all of the channels. Structurally they are thought to be very similar to BK channels with the main differences being conductance, and the methods of modulation. It is known that IK channels are modulated by calmodulin, whereas BK channels are not.
+
+IK channels have shown a strong connection to calcification in vasculature, as inhibition of the channel causes a decrease in vascular calcification. Over-expression of these channels has quite a different effect on the body. Studies have shown that this treatment causes proliferation of vascular smooth muscle cells. This finding has sparked further exploration surrounding these channels and researchers have found that IK channels regulate the cell cycle in cancer cells, B and T lymphocytes, and stem cells. These discoveries show promise for future treatments surrounding IK Channels.
+
+Subtypes of IK Channels
+*KCa3.1 (IKCa1, SK4, )
+
+==== SK channel ====
+Small conductance calcium activate potassium channels are quite different from their relatives with larger conductance. The main and most intriguing difference in SK Channels is that they are voltage insensitive. These channels can only be opened by increased levels of  intracellular calcium. This trait of SK channels suggests that they have a slightly different structure than the BK and IK channels.
+
+Like other potassium channels they are involved in hyperpolarization of cells after an action potential. The calcium activated property of these channels allows them to  participate in vaso-regulation, auditory tuning of hair cells, and also the circadian rhythm. Researchers were trying to figure out which channels were responsible for the re-polarization and after-hyperpolarization of action potentials. They did this by voltage clamping cells, treating them with different BK, and SK channel blockers and then stimulating the cell to create a current. The researchers found that the re-polarization of cells happens because of BK channels and that a part of the after-hyperpolarization occurs because of current through SK channels. They also found that with blocking SK channels, current during after-hyperpolarization still occurred. It was concluded that there was a different unknown type of potassium channel allowing these currents.
+
+It is clear that SK channels are involved in AHP. It is not clear exactly how this happens. There are three different ideas on how this is done. 1) Simple diffusion of Calcium accounts for the slow kinetics of these currents, 2) The slow kinetics is due to other channels with slow activations, or 3) The Calcium simply activates a second messenger system to activate the SK channels. Simple diffusion has been shown to be an unlikely mechanism because the current is temperature sensitive, and a diffusive mechanism would not be temperature sensitive. This is also unlikely because only the amplitude of the current is changed with concentration of Calcium, not the kinetics of the channel activation.
+
+Subtypes of SK Channels
+* KCa2.1 (SK1, )
+* KCa2.2 (SK2, )
+* KCa2.3 (SK3, )
+
+==== Other subfamilies ====
+* KCa4.1 (Slack, Slo2.2, )
+* KCa4.2 (Slick, Slo2.1, )
+* KCa5.1 (Slo3, )
+
+===Prokaryotic KCa Channels===
+A number of prokaryotic KCa channels have been described, both structurally and functionally. All are either gated by calcium or other ligands and are homologus to the human KCa channels, in particular the KCa1.1 gating ring. These structures have served as templates for ligand gating.
+
+{| class="wikitable sortable"
+|-
+!Protein!!Species!!Ligand!!Function!!Reference
+|-
+|Kch||Escherichia coli||Unknown||Channel||
+|-
+|MthK||Methanothermobacter thermautotrophicus||Calcium, Cadmium, Barium, pH||Channel||
+|-
+|TrkA/TrkH||Vibrio parahaemolyticus||ATP, ADP||Channel||
+|-
+|KtrAB||Bacillus subtilis||ATP, ADP||Transporter||
+|-
+|GsuK||Geobacter sulfurreducens||Calcium, ADP, NAD||Channel||
+|-
+|TM1088||Thermotoga maritima||Unknown||Unknown||
+|}
+
+== See also ==
+* BK channel
+* SK channel
+* Slow after-hyperpolarisation
+
+== References ==
+
+
+== External links ==
+* 
+* 
+
+
+
+
+Category:Potassium channels

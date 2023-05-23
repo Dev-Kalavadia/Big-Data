@@ -1,0 +1,29 @@
+Title: Brittle–ductile transition zone
+__NOTOC__
+
+The brittle-ductile transition zone (hereafter the "transition zone") is the zone of the Earth's crust that marks the transition from the upper, more brittle crust to the lower, more ductile crust. For quartz and feldspar-rich rocks in continental crust, the transition zone occurs at an approximate depth of 20 km, at temperatures of 250–400 °C. At this depth, rock becomes less likely to fracture, and more likely to deform ductilely by creep because the brittle strength of a material increases with confining pressure, while its ductile strength decreases with increasing temperature.
+
+== Depth of the Transition Zone ==
+The transition zone occurs at the depth in the Earth's lithosphere where the downward-increasing brittle strength equals the upward-increasing ductile strength, giving a characteristic "saw-tooth" crustal strength profile. The transition zone is, therefore, the strongest part of the crust and the depth at which most shallow earthquakes occur. Its depth depends on both strain rate and temperature gradient; it is shallower for slow deformation and/or high heat flow and deeper for fast deformation and/or low heat flow. Crustal composition and age also affect the depth: it is shallower (~10–20 km) in warm, young crust and deeper (~20–30 km) in cool, old crust.
+
+== Changes in Physical Properties ==
+The transition zone also marks a shift in the electrical conductivity of the crust. The upper region of the Earth's crust, which is about 10–15 km thick, is highly conductive due to electronic-conducting structures which are commonly distributed throughout this region. In contrast, the lower region of the crust is highly resistive and its electrical conductivity is determined by physical factors such as depth and temperature. Although the transition zone generally marks a shift from brittle rock to ductile rock, exceptions exist in certain conditions. If stress is applied rapidly, rock below the transition zone may fracture. Above the transition zone, the rock may deform ductilely if pore fluids are present and stress is applied gradually.
+
+== Examples exposed on land ==
+Sections of fault zones once active in the transition zone, and now exposed at the surface, typically have a complex overprinting of brittle and ductile rock types. Cataclasites or pseudotachylite breccias with mylonite clasts are common, as are ductilely deformed cataclasites and pseudotachylites. These sections become exposed in geologically active regions where the transition zone is located the seismic zone, where most shallow earthquakes occur. A major example of this phenomenon is the Salzach‐Ennstal‐Mariazell‐Puchberg (SEMP) fault system in the Austrian Alps. Along this fault line, researchers have directly observed changes in structure and strength profiles in transition zone.
+
+==See also==
+* 
+* 
+
+== References ==
+
+
+== Further reading ==
+*
+*
+
+
+Category:Structure of the Earth
+Category:Seismology
+Category:Earth's crust

@@ -1,0 +1,135 @@
+Title: Headway
+
+Headway is the distance or duration between vehicles in a transit system measured in space or time. The minimum headway is the shortest such distance or time achievable by a system without a reduction in the speed of vehicles. The precise definition varies depending on the application, but it is most commonly measured as the distance from the tip (front end) of one vehicle to the tip of the next one behind it. It can be expressed as the distance between vehicles, or as time it will take for the trailing vehicle to cover that distance. A "shorter" headway signifies closer spacing between the vehicles. Airplanes operate with headways measured in hours or days, freight trains and commuter rail systems might have headways measured in parts of an hour, metro and light rail systems operate with headways on the order of 90 seconds to 20 minutes, and vehicles on a freeway can have as little as 2 seconds headway between them.
+
+Headway is a key input in calculating the overall route capacity of any transit system. A system that requires large headways has more empty space than passenger capacity, which lowers the total number of passengers or cargo quantity being transported for a given length of line (railroad or highway, for instance). In this case, the capacity has to be improved through the use of larger vehicles. On the other end of the scale, a system with short headways, like cars on a freeway, can offer relatively large capacities even though the vehicles carry few passengers.
+
+The term is most often applied to rail transport and bus transport, where low headways are often needed to move large numbers of people in mass transit railways and bus rapid transit systems. A lower headway requires more infrastructure, making lower headways expensive to achieve. Modern large cities require passenger rail systems with tremendous capacity, and low headways allow passenger demand to be met in all but the busiest cities. Newer signalling systems and moving block controls have significantly reduced headways in modern systems compared to the same lines only a few years ago. In principle, automated personal rapid transit systems and automobile platoons could reduce headways to as little as fractions of a second.
+
+==Description==
+
+===Different measures===
+There are a number of different ways to measure and express the same concept, the distance between vehicles. The differences are largely due to historical development in different countries or fields.
+
+The term developed from railway use, where the distance between the trains was very great compared to the length of the train itself. Measuring headway from the front of one train to the front of the next was simple and consistent with timetable scheduling of trains, but constraining tip-to-tip headway does not always ensure safety. In the case of a metro system, train lengths are uniformly short and the headway allowed for stopping is much longer, so tip-to-tip headway may be used with a minor safety factor. Where vehicle size varies and may be longer than their stopping distances or spacing, as with freight trains and highway applications, tip-to-tail measurements are more common.
+
+The units of measure also vary. The most common terminology is to use the time of passing from one vehicle to the next, which closely mirrors the way the headways were measured in the past. A timer is started when one train passes a point, and then measures time until the next one passes, giving the tip-to-tip time. This same measure can also be expressed in terms of vehicles-per-hour, which is used on the Moscow Metro for instance.The Metro normally states their best headway as 142 trains per hour, but their english page  uses the more familiar units. Distance measurements are somewhat common in non-train applications, like vehicles on a road, but time measurements are common here as well.
+
+===Railway examples===
+550px|thumb|An example of headway on a railway system with multiple block section. Train B can only enter a section with a green or yellow "aspect" (light), and must reduce speed when passing a yellow signal to the point where they can stop within the sighting distance.
+
+Train movements in most rail systems are tightly controlled by railway signalling systems. In many railways drivers are given instructions on speeds, and routes through the rail network. Trains can only accelerate and decelerate relatively slowly, so stopping from anything but low speeds requires several hundred metres or even more. The track distance required to stop is often much longer than the range of the driver's vision. If the track ahead is obstructed, for example a train is at stop there, then the train behind it will probably see it far too late to avoid a collision.
+
+Signalling systems serve to provide drivers with information on the state of the track ahead, so that a collision may be avoided. A side effect of this important safety function is that the headway of any rail system is effectively determined by the structure of the signalling system, and particularly the spacing between signals and the amount of information that can be provided in the signal. Rail system headways can be calculated from the signalling system. In practice there are a variety of different methods of keeping trains apart, some which are manual such as train order working or systems involving telegraphs, and others which rely entirely on signalling infrastructure to regulate train movements. Manual systems of working trains are common in area with low numbers of train movements, and headways are more often discussed in the context of non-manual systems.
+
+For automatic block signalling (ABS), the headway is measured in minutes, and calculated from the time from the passage of a train to when the signalling system returns to full clear (proceed). It is not normally measured tip to tip. An ABS system divides the track into block sections, into which only one train can enter at a time. Commonly trains are kept two to three block sections apart, depending on how the signalling system is designed, and so the length of the block section will often determine the headway.
+
+To have visual contact as a method to avoid collision (such as during shunting) is done only at low speeds, like 40 km/h. A key safety factor of train operations is to space the trains out by at least this distance, the "brick-wall stop" criterion.Parkinson and Fisher, pg 17For a links to a variety of sources on the brick-wall stop in public transit planning, see Richard Gronning, "Brick-Wall Stops and PRT", June 2009 In order to signal the trains in time to allow them to stop, the railways placed workmen on the lines who timed the passing of a train, and then signalled any following trains if a certain elapsed time had not passed. This is why train headways are normally measured as tip-to-tip times, because the clock was reset as the engine passed the workman.
+
+As remote signalling systems were invented, the workmen were replaced with signal towers at set locations along the track. This broke the track into a series of block sections between the towers. Trains were not allowed to enter a section until the signal said it was clear. This had the side-effect of limiting the maximum speed of the trains to the speed where they could stop in the distance of one block section. This was an important consideration for the Advanced Passenger Train in the United Kingdom, where the lengths of block sections limited speeds and demanded a new braking system be developed.Leonard Hugh Williams, "Advanced Passenger Train: A Promise Unfulfilled", Ian Allan, 1985, 
+
+There is no perfect block-section size for the block-control approach. Longer sections, using as few signals as possible, are advantageous because signals are expensive and are points of failure, and they allow higher speeds because the trains have more room to stop. On the other hand, they also increase the headway, and thus reduce the overall capacity of the line. These needs have to be balanced on a case-by-case basis.Parkinson and Fisher, pg 18–19
+
+===Other examples===
+In the case of automobile traffic, the key consideration in braking performance is the user's reaction time. Unlike the train case, the stopping distance is generally much shorter than the spotting distance. That means that the driver will be matching their speed to the vehicle in front before they reach it, eliminating the "brick-wall" effect.
+
+Widely used numbers are that a car traveling at 60 mph will require about 225 feet to stop, a distance it will cover just under 6 seconds. Nevertheless, highway travel often occurs with considerable safety with tip-to-tail headways on the order of 2 seconds. That's because the user's reaction time is about 1.5 seconds so 2 seconds allows for a slight overlap that makes up for any difference in braking performance between the two cars.
+
+Various personal rapid transit systems in the 1970s considerably reduced the headways compared to earlier rail systems. Under computer control, reaction times can be reduced to fractions of a second. Whether traditional headway regulations should apply to PRT and car train technology is debatable. In the case of the Cabinentaxi system developed in Germany, headways were set to 1.9 seconds because the developers were forced to adhere to the brick-wall criterion. In experiments, they demonstrated headways on the order of half of a second.Carnegie, Appendix 1
+
+In 2017, in the UK, 66% of cars and Light Commercial Vehicles, and 60% of motorcycles left the recommended two-second gap between themselves and other vehicles.https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/743878/vehicle-speed-compliance-statistics-2017.pdf 
+
+
+
+===Low-headway systems===
+Headway spacing is selected by various safety criteria, but the basic concept remains the same – leave enough time for the vehicle to safely stop behind the vehicle in front of it. The "safely stop" criterion has a non-obvious solution, however; if a vehicle follows immediately behind the one in front, the vehicle in front simply cannot stop quickly enough to damage the vehicle behind it. An example would be a conventional train, where the vehicles are held together and have only a few millimetres of "play" in the couplings. Even when the locomotive applies emergency braking, the cars following do not suffer any damage because they quickly close the gap in the couplings before the speed difference can build up.
+
+There have been many experiments with automated driving systems that follow this logic and greatly decrease headways to tenths or hundredths of a second in order to improve safety. Today, modern CBTC railway signalling systems are able to significantly reduce headway between trains in the operation. Using automated "car follower" cruise control systems, vehicles can be formed into platoons (or flocks) that approximate the capacity of conventional trains. These systems were first employed as part of personal rapid transit research, but later using conventional cars with autopilot-like systems.
+
+Paris Métro Line 14 runs with headways as low as 85 seconds, while several lines of the Moscow Metro have peak hour headways of 90 seconds.
+
+==Headway and route capacity==
+Route capacity is defined by three figures; the number of passengers (or weight of cargo) per vehicle, the maximum safe speed of the vehicles, and the number of vehicles per unit time.
+Since the headway factors into two of the three inputs, it is a primary consideration in capacity calculations."Traffic Analysis Toolbox", US Department of Transit, FHWA-HRT-04-040 The headway, in turn, is defined by the braking performance, or some external factor based on it, like block sizes. Following the methods in Anderson:Anderson, pg. 47–48
+
+===Minimum safe headway===
+The minimum safe headway measured tip-to-tail is defined by the braking performance:
+
+T_{min} =  t_r + \frac{kV}{2} \left(\frac{1}{a_f} - \frac{1}{a_l} \right)
+
+where:
+* T_{min} is the minimum safe headway, in seconds
+* V is the speed of the vehicles
+* t_r is the reaction time, the maximum time it takes for a following vehicle to detect a malfunction in the leader, and to fully apply the emergency brakes.
+* a_f is the minimum braking deceleration of the follower.
+* a_l is the maximum braking deceleration of the leader. For brick-wall considerations, a_l is infinite and this consideration is eliminated.
+* k is an arbitrary safety factor, greater than or equal to 1.
+
+The tip-to-tip headway is simply the tip-to-tail headway plus the length of the vehicle, expressed in time:
+
+T_{tot} = \frac{L}{V} + t_r + \frac{kV}{2} \left(\frac{1}{a_f} - \frac{1}{a_l} \right)
+
+where:
+* T_{tot} time for vehicle and headway to pass a point
+* L is the vehicle length
+
+===Capacity===
+The vehicular capacity of a single lane of vehicles is simply the inverse of the tip-to-tip headway. This is most often expressed in vehicles-per-hour:
+
+n_{veh} = \frac{3600}{T_{min}}
+
+where:
+* n_{veh} is the number of vehicles per hour
+* T_{min} is the minimum safe headway, in seconds
+
+The passenger capacity of the lane is simply the product of vehicle capacity and the passenger capacity of the vehicles:
+
+n_{pas} = P \frac{3600}{T_{min}}
+
+where:
+* n_{pas} is the number of passengers per hour
+* P is the maximum passenger capacity per vehicle
+* T_{min} is the minimum safe headway, in seconds
+
+===Examples===
+Consider these examples:
+
+1) freeway traffic, per lane: 100 km/h (~28 m/s) speeds, 4 passengers per vehicle, 4 meter vehicle length, 2.5 m/s^2 braking (1/4 g), 2 second reaction time, brick-wall stop, k of 1.5;
+
+: T_{tot} = \frac{4}{28} + 2 + \frac{1.5 \times 28}{2} \left(\frac{1}{2.5} \right)
+: n_{pas} = {P}\times \frac{3600}{T_{tot}}
+: T_{tot} = 10.5 seconds ; n_{pas} = 7,200 passengers per hour if 4 people per car and 2 seconds headway is assumed, or 342 passengers per hour if 1 person per car and 10,5 seconds headway is assumed.
+
+The headway used in reality is much less than 10.5 seconds, since the brick-wall principle is not used on freeways. In reality, 1.5 persons per car and 2 seconds headway can be assumed, giving 1800 cars or 2700 passengers per lane and hour.
+
+For comparison, the Marin County, California (near San Francisco) states that peak flow on the three-lane Highway 101 is about 7,200 vehicles per hour."How a Freeway Breaks Down", Marin County Public Works This is about the same number of passengers per lane.
+
+Notwithstanding these formulas it is widely known that reducing headway increases risk of collision in standard private automobile settings and is often referred to as tailgating.
+
+2) metro system, per line: 40 km/h (~11 m/s) speeds, 1000 passengers, 100 meter vehicle length, 0.5 m/s^2 braking, 2 second reaction time, brick-wall stop, k of 1.5;
+
+: T_{tot} = \frac{100}{11} + 2 + \frac{1.5 \times 11}{2} \left(\frac{1}{0.5} \right)
+: n_{pas} = {1000}\times \frac{3600}{T_{tot}}
+: T_{tot} = 28 seconds ; n_{pas} = 130,000 passengers per hour
+
+Note that most signalling systems used on metros place an artificial limit on headway that is not dependent on braking performance. Also the time needed for station stops limits the headway. Using a typical figure of 2 minutes (120 seconds):
+
+: n_{pas} = {1000}\times \frac{3600}{120}
+: n_{pas} = 30,000 passengers per hour
+
+Since the headway of a metro is constrained by signalling considerations, not vehicle performance, reductions in headway through improved signalling have a direct impact on passenger capacity. For this reason, the London Underground system has spent a considerable amount of money on upgrading the SSR Network,Bombardier to Deliver Major London Underground Signalling. Press release, Bombardier Transportation Media Center, 2011. Accessed June 2011 Jubilee and Central lines with new CBTC signalling to reduce the headway from about 3 minutes to 1, while preparing for the 2012 Olympics.railway-technology.com, "London Olympics Transport Upgrade"
+
+3) automated personal rapid transit system, 30 km/h (~8 m/s) speeds, 3 passengers, 3 meter vehicle length, 2.5 m/s^2 braking (1/4 g), 0.01 second reaction time, brake-failure on lead vehicle for 1 m/s slowing, bot 2.5, m/s if lead vehicle breaks. k of 1.1;
+
+: T_{tot} = \frac{3}{8} + 0.01 + \frac{1.1 \times 8}{2} \left(\frac{1}{2.5} - \frac{1}{2.5} \right)
+: n_{pas} = {3}\times \frac{3600}{0.385}
+: T_{tot} = 3 seconds ;  n_{pas} = 28,000 passengers per hour
+
+This number is similar to the ones proposed by the Cabinentaxi system, although they predicted that actual use would be much lower."Communications on research ained at improving transport conditions in cities, towns and other built-up areas", Forschung Stadtverkehr, Issue 25 (1979) Although PRTs have less passenger seating and speeds, their shorter headways dramatically improve passenger capacity. However, these systems are often constrained by brick-wall considerations for legal reasons, which limits their performance to a car-like 2 seconds. In this case:
+
+: n_{pas} = {3}\times \frac{3600}{2}
+: n_{pas} = 5,400 passengers per hour
+
+==Headways and ridership==
+Headways have an enormous impact on ridership levels above a certain critical waiting time. Following Boyle, the effect of changes in headway are directly proportional to changes in ridership by a simple conversion factor of 1.5. That is, if a headway is reduced from 12 to 10 minutes, the average rider wait time will decrease by 1 minute, the overall trip time by the same one minute, so the ridership increase will be on the order of 1 x 1.5 + 1 or about 2.5%.Boyle, pg. 13 Also see Ceder for an extensive discussion.Ceder, pg. 537–542
+

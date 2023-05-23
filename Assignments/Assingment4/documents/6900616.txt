@@ -1,0 +1,93 @@
+Title: Anaheim Fire & Rescue
+
+The Anaheim Fire & Rescue is the agency that provides fire protection and emergency medical services for Anaheim, California.
+
+==History ==
+In 1857 the City of Anaheim was incorporated and the City's volunteer fire system was established. Initially the volunteer department consisted of twenty men. It wasn't until 1915 that the department purchased their first motorized ladder truck. At this time the Anaheim City Council authorized the employment of two full-time firemen. These two men worked 24 hours a day, seven days a week, and lived at the Anaheim Fire Station.
+
+Volunteers continued to provide fire services until 1960, when the number of annual calls reached nearly a thousand and it was felt that the Department should be made up of professionally trained fire personnel.
+
+== Metro Cities Fire Authority ==
+Anaheim Fire & Rescue is part of the Metro Cities Fire Authority which provides emergency communications for multiple departments in and around Orange County. The call center, known as Metro Net Fire Dispatch, is located in Anaheim and provides 9-1-1 fire and EMS dispatch to over 1.2 million residents, covering an area of . Other departments included in Metro Net include Brea Fire Department, Fountain Valley, Fullerton Fire Department, Huntington Beach Fire Department, Newport Beach Fire Department, and Orange Fire Department.
+
+== Stations & Apparatus ==
+Anaheim Fire & Rescue is divided into two battalions; Battalion 1 consisting of six fire stations, and Battalion 2 with five stations. 
+{| class=wikitable style="text-align:center;"
+|-
+!Fire Station Number 
+! Address
+! Engine Company
+! Truck Company
+! EMS Units 
+! Wildland Units
+! Other units 
+! Battalion 
+|-
+! 1
+|500 E. Broadway || Engine 1 || Truck 1 ||Ambulance 1
+
+CCRU 1
+| Engine 301|| Rehab 1
+
+| 1
+|-
+! 2
+|2141 W. Crescent Ave ||Engine 2|| Truck 2 ||Ambulance 2
+|  || USAR 2, RAC 2 || 2
+|-
+! 3
+|1717 S. Clementine St || Engine 3|| Truck 3 ||
+Medic 3
+
+Ambulance 3
+|Engine 309
+|Light Air 3|| 2
+|-
+! 4
+|2736 W. Orange Ave || Engine 4|| || || || || 2
+|-
+! 5
+|2450 E. La Palma Ave ||Engine 5 || ||Ambulance 5
+|Engine 305
+|  ||1
+|-
+! 6
+|1313 S. Euclid Ave ||Engine 6 || Truck 6|| Ambulance 6|| || Battalion 2HazMat 6|| 2
+|-
+! 7
+| 2222 E. Ball Rd||Engine 7 || || || || || 1
+|-
+! 8
+|4555 East Riverdale Ave || Engine 8|| Truck 8||Medic-26
+|Engine 308
+Patrol 601
+| Battalion 1 || 1
+|-
+! 9
+|6300 E. Nohl Ranch Rd || Engine 9|| ||Ambulance 9
+|Patrol 602, Water Tender 1
+|  || 1
+|-
+! 10
+|8270 E. Monte Vista Rd || Engine 12|| Truck 10 || ||Engine 310|| || 1
+|-
+! 11
+|3100 West Orange Ave || Engine 11|| ||Ambulance 11
+|  ||OES 414, OES 1311
+| 2
+|}
+
+==References ==
+
+
+
+
+
+
+
+Category:Fire departments in California
+Category:Emergency services in Orange County, California
+Category:Ambulance services in the United States
+Fire Department
+Category:Government of Anaheim, California
+Category:Medical and health organizations based in California

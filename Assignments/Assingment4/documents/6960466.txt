@@ -1,0 +1,87 @@
+Title: Waterless printing
+
+thumb|right|Waterless vs. Conventional Printing Plates
+
+Waterless printing is an offset lithographic printing process that eliminates the water or dampening system used in conventional printing. Unlike conventional presses, waterless offset presses do not use a dampening solution to clear the press of ink. Proponents of the technology claim efficiency and ecological benefits.
+
+==Method==
+
+Waterless printing employs silicone rubber-coated printing plates and specially formulated inks. Typically, a temperature-control system is integrated.
+
+Waterless offset presses do not use a dampening solution to keep the plate's non-image areas free of ink. These presses function because the plate's non-image areas consist of a layer of silicon that repels ink. A waterless press resembles a conventional offset press, with the absence of a dampening system. A more common design includes a dampening system to allow the press to function conventionally when required. Direct imaging (digital) offset presses are waterless, with no dampening system.
+
+Waterless offset inks have a higher tack and viscosity (thickness) and are generally stiffer than conventional offset inks. The temperature of the inks must be strictly controlled to maintain the correct viscosity, as the plate surface is designed to repel inks of a specific viscosity. This temperature distinction is achieved by running chilled water through tubing in hollow cores of two or more vibrating rollers which are found inside ink trains on printing presses.
+
+The image surface of a waterless plate is intaglio (recessed), allowing the plate to carry a greater volume of ink than a conventional plate does and allowing extremely high screen rulings, ranging from 300 to well over 800 lpi (lines per inch). Waterless printing yields higher ink densities and a broader color spectrum than conventional offset printing does. Waterless plates used on sheet-fed presses are commonly rated for runs of 100,000 to 200,000 impressions. The plates designed for use on web-offset presses can yield 300,000 to 500,000 impressions.
+
+When a job is to be run again, the plate can be rehung on the press, and although the register must be achieved manually, a portion of the make-ready is simplified, since the ink-key profiles could have been saved and reloaded. A more likely option is that the original prepress files or the plate-format that the original prepress files or the plate-format bitmaps are saved or RIPped again. The bitmap data can be reloaded via the direct imaging server, re-imaged on the press, and run normally on press. Direct imaging plates are non-photographic, contain no hazardous waste, and can be recycled through normal aluminum-recycling channels.
+
+==Advantages==
+The advantages of waterless printing include the following:
+* Higher screen rulings, resulting in better image definition, increased print contrast, and the elimination of rosette patterns.
+* Wider color range than conventional offset plates.
+* Higher ink densities with better ink holdout on any paper.
+* More consistency of color during the run.
+* Sharper dots and more highlight and shadow detail.
+* Makeready time is halved.
+* Elimination of ink-and-water balance variables yields reduced running time and waste.
+* Better registration control (elimination of paper stretch caused by fountain solution).
+* Elimination of dampening solution results in no emission of hazardous VOCs if using alcohol.
+* No waste water or fountain concentrates.
+
+==History==
+Waterless printing was originally developed and brought to market by the 3M company under the trade name Driography in the late 1960s. Results with the product, however, were mixed. Several problems were encountered both in the development of suitable inks for this process and more importantly, in the durability of the driography plate. After several years of research and development and many millions of dollars invested, 3M chose not to pursue further development of the product.
+
+In 1972, Toray Industries, a large Japanese company specializing in synthetic materials development and manufacturing, purchased the patents for the driography product from 3M. Related patents were also purchased from the Scott Paper Co., who were working on a similar project.
+
+Toray's experience in working with synthetic materials and advanced polymer compounds allowed them to improve on the original product design. After some five years of research and development, the Toray Waterless Plate was introduced at DRUPA in 1977.
+
+Marketing of the product began in 1978 with the TAP-type positive plate. Because the first plate was based on a positive working format, the product was first marketed in Japan. (The Japanese commercial printing market is about 95% positive working vs. the U. S., which is approximately 5% positive). Cooperative efforts from press, ink and paper manufacturers helped to support the product, and the overall market acceptance was very good.
+
+The first North American demonstration of the waterless process was at Print '80, but it wasn't until the introduction of the negative (TAN) type plate in 1982 that this market could be seriously pursued. Initial acceptance of the waterless printing system in the U.S. was quite slow. There are several reasons for this:
+# Memories of the problems encountered with the original 3M system just ten years earlier had left many U. S. printers unreceptive to a new waterless system;
+# A suitable source for waterless inks did not exist in the U.S.;
+# Toray's marketing effort was fairly conservative.
+
+Until 2021, the U.S. printing industry had taken a cautious stance towards the waterless process, but in the last two years that situation has changed dramatically. Market conditions, greater cooperative efforts from related manufacturers (press, paper, and ink), and a more aggressive approach by Toray and its distributors have helped to establish waterless printing as a viable production process. Currently, there are over 1000 waterless printers worldwide.
+
+==Process overview==
+The Toray waterless printing system has three main components: the waterless plate, specially formulated waterless inks, and press equipment outfitted with a temperature control system, like Codimag machines.
+
+The Toray Waterless Plate is based on a laminate design. Aluminum is used as the base material. Light-sensitive photopolymer material is bonded to the aluminum and a two-micron coating of silicone rubber is applied to the photo-polymer.
+
+Depending upon the type of Toray plate used, run lengths for the plates range from 150,000 to more than 600,000 impressions. These run lengths are based on use with a #1 or #2 coated paper. The use of more abrasive stocks will significantly reduce maximum run lengths. Toray waterless plates are recyclable and are not differentiated from conventional aluminum plate material in recycling. Toray plates will fit all popular sheet-fed and web presses.
+
+Exposure of the plate is done using conventional vacuum frames and light sources. Exposure times for the plate material is comparable to most conventional plates. Under exposure, IR light, controlled by the film carrier, passes through the silicone layer of the plate and strikes the photo-polymer layer beneath. IR exposure activates the photo-polymer, causing a break in the bond between the photo-polymer and the silicone layers. The photo reaction is very precise, and the plate easily achieves resolutions as fine as six micro lines, supporting a dot range from .5% to 99.5% at 175 lines per inch.
+
+After exposure, the plate is ready for processing. Processing equipment for the water-less plate is unique to this system, using specialized chemical and mechanical treatment of the plate. The finished plate now has a non-image area composed of ink-repellent silicone. In the image area, the silicone has been removed to expose the ink-receptive photo-polymer material. This design allows the plate to selectively attract and resist ink without the use of any water, etches, or alcohol.
+
+Simple additions can be made to the water-less plate by scratching or scribing the silicone surface to expose the ink-receptive layers beneath. Deletions are made with the application of a liquid silicone solution which is used to replace silicone in any area where it has been removed (either by photo-imaging or by scribing).
+
+The main difference between waterless and conventional inks is in the resins or vehicles that are used. Vehicles for waterless inks are selected for their rheological properties and tend to have higher viscosities than resins used in conventional ink systems.
+
+The theory behind waterless printing is that the silicone material which makes up the non-image area of the plate has a very low surface energy. This material will resist ink provided the ink's viscosity is such that it has a greater affinity for itself than it does for silicone.
+
+One factor that will affect viscosity is temperature. By removing the water from the offset process, there is a loss of cooling effect on the surface of the plate. This will tend to cause a primary temperature increase at the plate cylinder due to friction. Because of the higher initial viscosities of the waterless inks, there is also a secondary heat generation in the roller train caused by the friction of milling the ink through the rollers.
+
+This heat is why press temperature control systems are required to allow for the precise control of temperature within the printing unit. The most popular systems use vibrator cooling, in which coolant is pumped through hollow core vibrator rollers in the inker. This type of system has been in use in high-speed web presses for many years. The technology has been refined and is now being applied to sheet-fed equipment as well. Almost all sheet-fed press manufacturers offer hollow core ink vibrators which can then accept the after-market temperature control systems.
+
+The function of the temperature control system is to circulate enough coolant through the roller train to carry away the heat that is generated by the mechanical actions in the printing unit. The Aniflo technology help to stabilize the temperature and have a consistent inking, important parameters for the process stability. 
+
+It is important to note that this type of system is not designed to chill or refrigerate the inker, but merely to maintain its temperature at a constant throughout the press run. By maintaining a constant temperature, the viscosity of the inks can be maintained at their optimum levels.
+
+Proofing for waterless printing is handled directly from the film. It is important to note that not all analog proofing systems are capable of rending the low dot gain associated with the process. Experienced waterless printers offer highly accurate proofs. Some waterless printers are using carefully calibrated digital proofing systems successfully.
+
+==Notes==
+
+
+==Further reading==
+*"WATERLESS PROS AND CONS" by William C. Lamparter, reprinted with permission from the October 1994 issue of American Printer, on the website of the National Association of Litho Clubs (NALC)
+*John O. Rourke, Complete Guide to Waterless Printing, Graphic Arts Technical Foundation (June 1997), trade paperback, 
+
+==External links==
+*Waterless Printing Association
+* Offset Lithographic Technology; 4th Edition by Kenneth F. Hird and Charles E. Finley. Library of Congress 
+
+
+Category:Planographic printing

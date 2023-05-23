@@ -1,0 +1,57 @@
+Title: Imae station
+
+
+
+Imae Station is an infill station on the Bundang Line of the Seoul Subway. There were originally no plans for this station when the Bundang Line opened in 1994. However, due to local resident demand and the significant distance between Yatap and Seohyeon Stations, construction began in March 2000 and the station was opened on January 16, 2004.
+
+The station became a transfer station for the Gyeonggang Line when operations commenced on September 24, 2016.
+
+==Station Layout==
+===Suin-Bundang Line===
+{|style="text-align:center;"
+|-
+| ↑  
+|-
+|| N/B   S/B
+|-
+|  ↓ 
+|}
+
+{| border="1" cellspacing="0" cellpadding="3" frame="hsides" rules="rows"
+|-
+! Southbound
+|   toward  →
+|-
+! Northbound
+| ←  toward  / 
+|}
+
+===Gyeonggang Line===
+{|style="text-align:center;"
+|-
+|↑   
+|-
+|| N/B   S/B
+|-
+|  ↓
+|}
+
+{| border="1" cellspacing="0" cellpadding="3" frame="hsides" rules="rows"
+|-
+! Southbound
+|   toward  →
+|-
+! Northbound
+| ←  toward 
+|}
+
+==Vicinity==
+*Exit 1: Seongnam Arts Center
+*Exit 2: Seongnam Agricultural Technology Center
+
+==Gallery==
+
+File:Q46188 Imae A01.JPG|Station sign (Bundang line)
+File:Imae stn Gyeonggang line.jpg|Station sign (Gyeonggang line)
+
+

@@ -1,0 +1,69 @@
+Title: Castles (video game)
+
+
+Castles is a video game developed by Quicksilver and published by Interplay Entertainment in 1991 and 1992. The game involves the construction of a series of castles in Wales and the Welsh Marches during the 13th century. Castles was quickly followed by an expansion, Castles: The Northern Campaign, and a sequel, Castles II: Siege and Conquest.
+
+== Gameplay ==
+The game combines several genres of gameplay including resource management, a text-based multiple-choice storyline and a simple combat mode.
+
+In Castles, the player constructs up to eight castles, one after the other, in various regions in western England and Wales. Each scenario starts in the castle building mode with a flat, empty map of the region. The map has such features as trees and water, but is largely devoid of manageable terrain.
+
+On this map the player designs the outline of a castle, including a gatehouse, walls, and round or square towers. Each piece of the castle can be customized for either height, thickness, or both, and most can be further outfitted with defensive features.  Wall defenses feature cauldrons of boiling oil and towers include arrow slits. The player has to consider the amount of available resources in the region when designing the castle, as larger or numerous pieces can easily deplete resources and result in the inability to complete the castle.
+
+=== Construction ===
+After the design has been completed, the player has to employ workers to construct the castle. There are several types of workers, including masons, carpenters and so forth, each involved in a different stage of construction. The player can set the wages for each class of workers. Raising the wage means more workers of that type are willing to be employed.
+
+Once workers arrive at the construction site, the player assigns them to different segments of the castle, and if the appropriate workers are available, construction starts. Each segment has several "steps", beginning with laying the foundations, and then building a layer of stone, followed by a scaffold that allows workers to place another level of stone, and so forth until the battlements are finished. Thereafter, the segment is complete.
+
+In order to finish the stage, one complete circuit of stone walls and towers, including a gate, must be fully constructed.
+
+Digger-type workers can be instructed to dig a moat around the castle walls. This is only possible if the player has constructed at least one closed circuit of castle segments. When a moat is fully excavated, it is filled with water. Gatehouses immediately convert to a doorway like that of a draw bridge should the moat pass directly in front of the gatehouse.
+
+During construction, several things occur that the player has to be ready for. The first and most basic is winter. During the winter months (December through February) construction stops, and workers simply consume the food supplies. To prepare for winter, the player must buy food using their supply of gold. If food runs out, workers are reluctant to join the workforce.
+
+=== Random events ===
+Random events are also possible, allowing for changes in gold reserves, food reserves, or standing with the various factions that surround the king's court.
+
+A text-based, multiple-choice storyline also interrupts construction every once in a while. During this playing phase, the player is presented with the view of the king's throne room, as he is visited by a messenger or a leader from one of the factions. This can be the Pope, abbots, nuns (representing the church), various knights and other local rulers (representing the lords of England), various peasants and rebels, magicians, astrologers, and even representatives of "fantasy" style factions, such as the seelie court (elves). A short story is presented, describing a situation upon which the king must make a decision. There are often only two to four decisions, and not always a "best" choice. The decision made can influence any part of the game, including the royal treasury, diplomatic relations with the various factions, or even incite immediate combat. Most (but not all) storylines could recur, meaning that the storyline will continue over several such encounters, with results being based on previous decisions as well. Results could also vary depending on the support the king has from the factions concerned.
+
+=== Combat ===
+Occasionally combat ensues in the castle area, sometimes triggered by the text-story mode. In such an event, the player may or may not be notified which direction the enemy is coming from. They then position their infantry and archers in defensive positions around the castle or on top of castle segments. Much like with the workforce, the player can adjust wages and recruit soldiers as needed for such tasks. The player can also decide into how many groups they want to split their soldiers. More groups means better ability to cover more area, but each group is weaker (as it has fewer men).
+
+Archers are often placed on higher ground (i.e. on constructed or partially constructed castle segments) while infantry are  placed on the ground, either inside the castle (to attack enemies as they breach the walls), outside the castle (to intercept enemies heading towards the walls) or a combination of both. As the enemy approaches (sometimes from more than one direction), archers attempt to shoot them down, while infantry attempt to intercept and attack them in melee combat. Combat is fast-flowing, and the only user intervention during this time is to instruct individual units to attack specific enemy targets.
+
+If any single enemy troop manages to reach a wall segment, they will begin to tear it down. Stronger (that is, thicker or larger) segments last longer under the assault, but eventually they crumble down and have to be constructed again. Special defences on walls (i.e. cauldrons of boiling oil) automatically activate, killing an enemy troop that reaches such a wall segment, but only if they have been placed into the wall in the design phase. Also, if an enemy soldier reaches a moat section, they have to ford it first in order to pass through.
+
+Enemies come in many different types, ranging from simple enemy troops to siege weaponry, or even fantasy creatures (ogres, if the fantasy option was selected when the game was started). The later scenarios in the game offer tougher enemies that arrive in much larger groups.
+
+Combat is resolved when either all enemy troops are destroyed, or the castle no longer has any constructed or partially constructed segments.
+
+=== Finances ===
+Keeping the treasury lively is very important, as money is necessary to employ both troops and workers. Events can alter the treasury (either for better or worse), but most money is collected through taxation. The player can dictate the level of taxation, thus influencing the monthly intake of funds, but high taxes result in negative attitude with the peasantry, which results in poor turn-up of workers and troops. Also, during the winter months a large tax is collected from the people, which is then available when work resumes in March.
+
+=== Completing a scenario ===
+At the start of the game, the player is asked how many castles they wish to construct (3, 5 or 8), thus dictating the length of the entire campaign. Castles are constructed one after another, and each scenario is more difficult than the last, in terms of available resources and money, the size and variety of enemy troops, as well as the difficulty in maintaining good relations with all the different factions (friendly or otherwise).
+
+To win a scenario, the player needs to have at least one complete circuit of segments fully constructed, exceeding a specific quota of castle "pieces" as dictated by the scenario requirements (which increases with each scenario). Larger segments are considered as more than one "piece" towards this total. Once the castle is completed, and the player acknowledges that they wish to end the scenario, a large battle ensues in which enemies make a final attempt to destroy the castle. Should the player defeat the enemy, they win the scenario.
+
+==Platforms==
+Originally developed for DOS, Castles used CGA/EGA/VGA graphics and supporting AdLib MIDI sound, as well as a mouse interface.
+
+It was ported to the Atari ST in 1991 and to the Amiga in 1992, and a PC-98 localization was sold in Japan. In 1991 an expansion pack, The Northern Campaign, was released for DOS and in 1992 for Amiga. GOG.com released an emulated version for Microsoft Windows in 2008.
+
+==Reception==
+Computer Gaming Worlds reviewer liked the game in 1991, stating that he was "genuinely sorry" when the game ended as he wished to see the castle in operation, and concluded that "Castles fairly begs for a sequel". In a 1993 survey of pre 20th-century strategy games the magazine gave the game two stars out of five, stating that while "graphically well-done and initially fascinating to watch [it] can quickly become somewhat tedious. Is there a game in here, or is it a software toy?" The game was reviewed in 1991 in Dragon #175 by Hartley, Patricia, and Kirk Lesser in "The Role of Computers" column. The reviewers gave the game 4 out of 5 stars.
+
+Castles: The Northern Campaign was reviewed in 1992 in Dragon #180 by the Lessers. The reviewers gave the game 5 out of 5 stars. The 1993 Computer Gaming World survey gave it two stars out of five.
+
+==Reviews==
+*CU Amiga (Apr, 1992)
+*ACE (Advanced Computer Entertainment) (Sep, 1991)
+*Zero (Jun, 1992)
+*Australian Commodore and Amiga Review (Jun, 1992)
+*Amiga Format (Jun, 1992)https://archive.org/stream/Amiga_Format_Issue_035_1992-06_Future_Publishing_GB#page/n74/mode/2up
+*Amiga Action (May, 1992)
+*ASM (Aktueller Software Markt) (Sep, 1991)http://www.kultboy.com/index.php?site=t&id=7757 
+*ST Format (Dec, 1992)
+*Amiga Computing (Jul, 1992)
+*Amiga Power (May, 1992)https://archive.org/stream/Amiga_Power_Issue_13_1992-05_Future_Publishing_GB#page/n57/mode/2up
+

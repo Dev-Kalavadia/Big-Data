@@ -1,0 +1,37 @@
+## Getting Started with MongoDB
+
+> use mydb // create a database
+> db.createCollection("airbnb") // create a collection named airbnb
+> show collections
+
+# Here I load a sample dataset from AirBnB
+./mongoimport --jsonArray --db mydb --collection airbnb --file listingsAndReviews.json 
+
+# Sample selection Queries
+> show collections // show available collections (ie., tables)
+> db.airbnb.findOne() // return 1 doc (the first)
+> db.airbnb.find().limit(5) // return 5 docs
+> db.airbnb.countDocuments() // count documents
+> db.airbnb.findOne({_id:'10030955'}, {bedrooms:1, availability:1}) // project (sub document)
+> db.airbnb.distinct("bedrooms")
+> db.airbnb.distinct("address.street") // how we access embedded fields
+> db.airbnb.find({ "address.street": "Brooklyn, NY, United States", "bedrooms": 1, "number_of_reviews": {$gt: 14}}, {name:1})
+> db.airbnb.find({},{name:1}).sort({name:1})
+
+# Insertion
+> db.airbnb.insertOne({name:'Sue'})
+> db.airbnb.deleteOne({name : "Sue"})
+
+# Boosting Reads
+db.collection.find({ }).readPref("secondary") # skip the primary node in the ReplicaSet
+
+# Read and write concerns
+db.airbnb.insertOne({name:'Sue'}, {writeConcern:{w:"majority"}})
+db.airbnb.insert(
+    { name:"Chez Moi" },
+    { writeConcern: { w: 2, j: true, wtimeout: 5000 } }
+)
+db.airbnb.find({},{name:1},{"readConcern":"majority"}) 
+
+# Sample Admin Commands
+> sh.status() // Error! .. if sharding was configured you get relevant information

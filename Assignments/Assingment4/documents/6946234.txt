@@ -1,0 +1,503 @@
+Title: List of municipalities of the Metropolitan City of Capital Rome
+
+The following is a list of the 121 municipalities (comuni) of the Metropolitan City of Rome Capital, formerly the Province of Rome, Lazio, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|058001
+|Affile
+| align="right" |1,631
+|-
+|058002
+|Agosta
+| align="right" |1,649
+|-
+|058003
+|Albano Laziale
+| align="right" |36,022
+|-
+|058004
+|Allumiere
+| align="right" |4,186
+|-
+|058005
+|Anguillara Sabazia
+| align="right" |16,273
+|-
+|058006
+|Anticoli Corrado
+| align="right" |932
+|-
+|058007
+|Anzio
+| align="right" |46,074
+|-
+|058008
+|Arcinazzo Romano
+| align="right" |1,416
+|-
+|058009
+|Ariccia
+| align="right" |17,995
+|-
+|058010
+|Arsoli
+| align="right" |1,558
+|-
+|058011
+|Artena
+| align="right" |12,419
+|-
+|058012
+|Bellegra
+| align="right" |3,025
+|-
+|058013
+|Bracciano
+| align="right" |15,509
+|-
+|058014
+|Camerata Nuova
+| align="right" |483
+|-
+|058015
+|Campagnano di Roma
+| align="right" |9,639
+|-
+|058016
+|Canale Monterano
+| align="right" |3,470
+|-
+|058017
+|Canterano
+| align="right" |363
+|-
+|058018
+|Capena
+| align="right" |6,706
+|-
+|058019
+|Capranica Prenestina
+| align="right" |328
+|-
+|058020
+|Carpineto Romano
+| align="right" |4,809
+|-
+|058021
+|Casape
+| align="right" |781
+|-
+|058022
+|Castel Gandolfo
+| align="right" |8,592
+|-
+|058023
+|Castel Madama
+| align="right" |7,033
+|-
+|058024
+|Castelnuovo di Porto
+| align="right" |7,851
+|-
+|058025
+|Castel San Pietro Romano
+| align="right" |776
+|-
+|058026
+|Cave
+| align="right" |9,966
+|-
+|058027
+|Cerreto Laziale
+| align="right" |1,077
+|-
+|058028
+|Cervara di Roma
+| align="right" |465
+|-
+|058029
+|Cerveteri
+| align="right" |32,066
+|-
+|058030
+|Ciciliano
+| align="right" |1,257
+|-
+|058031
+|Cineto Romano
+| align="right" |670
+|-
+|058032
+|Civitavecchia
+| align="right" |50,891
+|-
+|058033
+|Civitella San Paolo
+| align="right" |1,557
+|-
+|058034
+|Colleferro
+| align="right" |21,536
+|-
+|058035
+|Colonna
+| align="right" |3,553
+|-
+|058036
+|Fiano Romano
+| align="right" |9,656
+|-
+|058037
+|Filacciano
+| align="right" |515
+|-
+|058038
+|Formello
+| align="right" |10,871
+|-
+|058039
+|Frascati
+| align="right" |20,149
+|-
+|058040
+|Gallicano nel Lazio
+| align="right" |5,179
+|-
+|058041
+|Gavignano
+| align="right" |1,870
+|-
+|058042
+|Genazzano
+| align="right" |5,537
+|-
+|058043
+|Genzano di Roma
+| align="right" |22,564
+|-
+|058044
+|Gerano
+| align="right" |1,197
+|-
+|058045
+|Gorga
+| align="right" |779
+|-
+|058046
+|Grottaferrata
+| align="right" |19,606
+|-
+|058047
+|Guidonia Montecelio
+| align="right" |73,073
+|-
+|058048
+|Jenne
+| align="right" |460
+|-
+|058049
+|Labico
+| align="right" |4,523
+|-
+|058050
+|Lanuvio
+| align="right" |10,933
+|-
+|058051
+|Licenza
+| align="right" |925
+|-
+|058052
+|Magliano Romano
+| align="right" |1,321
+|-
+|058053
+|Mandela
+| align="right" |826
+|-
+|058054
+|Manziana
+| align="right" |6,148
+|-
+|058055
+|Marano Equo
+| align="right" |795
+|-
+|058056
+|Marcellina
+| align="right" |5,913
+|-
+|058057
+|Marino
+| align="right" |37,023
+|-
+|058058
+|Mazzano Romano
+| align="right" |2,621
+|-
+|058059
+|Mentana
+| align="right" |18,364
+|-
+|058060
+|Monte Compatri
+| align="right" |8,971
+|-
+|058061
+|Monteflavio
+| align="right" |1,400
+|-
+|058062
+|Montelanico
+| align="right" |1,957
+|-
+|058063
+|Montelibretti
+| align="right" |4,906
+|-
+|058064
+|Monte Porzio Catone
+| align="right" |8,546
+|-
+|058065
+|Monterotondo
+| align="right" |36,094
+|-
+|058066
+|Montorio Romano
+| align="right" |1,903
+|-
+|058067
+|Moricone
+| align="right" |2,498
+|-
+|058068
+|Morlupo
+| align="right" |7,230
+|-
+|058069
+|Nazzano
+| align="right" |1,279
+|-
+|058070
+|Nemi
+| align="right" |1,923
+|-
+|058071
+|Nerola
+| align="right" |1,503
+|-
+|058072
+|Nettuno
+| align="right" |40,651
+|-
+|058073
+|Olevano Romano
+| align="right" |6,518
+|-
+|058074
+|Palestrina
+| align="right" |18,012
+|-
+|058075
+|Palombara Sabina
+| align="right" |11,186
+|-
+|058076
+|Percile
+| align="right" |218
+|-
+|058077
+|Pisoniano
+| align="right" |741
+|-
+|058078
+|Poli
+| align="right" |2,291
+|-
+|058079
+|Pomezia
+| align="right" |46,802
+|-
+|058080
+|Ponzano Romano
+| align="right" |1,061
+|-
+|058081
+|Riano
+| align="right" |7,185
+|-
+|058082
+|Rignano Flaminio
+| align="right" |7,714
+|-
+|058083
+|Riofreddo
+| align="right" |757
+|-
+|058084
+|Rocca Canterano
+| align="right" |230
+|-
+|058085
+|Rocca di Cave
+| align="right" |386
+|-
+|058086
+|Rocca di Papa
+| align="right" |13,914
+|-
+|058087
+|Roccagiovine
+| align="right" |301
+|-
+|058088
+|Rocca Priora
+| align="right" |10,751
+|-
+|058089
+|Rocca Santo Stefano
+| align="right" |983
+|-
+|058090
+|Roiate
+| align="right" |781
+|-
+|058091
+|Rome
+| align="right" |2,553,873
+|-
+|058092
+|Roviano
+| align="right" |1,379
+|-
+|058093
+|Sacrofano
+| align="right" |6,446
+|-
+|058094
+|Sambuci
+| align="right" |882
+|-
+|058095
+|San Gregorio da Sassola
+| align="right" |1,466
+|-
+|058096
+|San Polo dei Cavalieri
+| align="right" |2,443
+|-
+|058097
+|Santa Marinella
+| align="right" |16,311
+|-
+|058098
+|Sant'Angelo Romano
+| align="right" |3,490
+|-
+|058099
+|Sant'Oreste
+| align="right" |3,606
+|-
+|058100
+|San Vito Romano
+| align="right" |3,312
+|-
+|058101
+|Saracinesco
+| align="right" |169
+|-
+|058102
+|Segni
+| align="right" |9,129
+|-
+|058103
+|Subiaco
+| align="right" |9,255
+|-
+|058104
+|Tivoli
+| align="right" |50,854
+|-
+|058105
+|Tolfa
+| align="right" |5,061
+|-
+|058106
+|Torrita Tiberina
+| align="right" |1,010
+|-
+|058107
+|Trevignano Romano
+| align="right" |5,078
+|-
+|058108
+|Vallepietra
+| align="right" |367
+|-
+|058109
+|Vallinfreda
+| align="right" |285
+|-
+|058110
+|Valmontone
+| align="right" |13,453
+|-
+|058111
+|Velletri
+| align="right" |50,324
+|-
+|058112
+|Vicovaro
+| align="right" |4,047
+|-
+|058113
+|Vivaro Romano
+| align="right" |204
+|-
+|058114
+|Zagarolo
+| align="right" |14,620
+|-
+|058115
+|Lariano
+| align="right" |11,060
+|-
+|058116
+|Ladispoli
+| align="right" |34,482
+|-
+|058117
+|Ardea
+| align="right" |33,195
+|-
+|058118
+|Ciampino
+| align="right" |37,529
+|-
+|058119
+|San Cesareo
+| align="right" |11,303
+|-
+|058120
+|Fiumicino
+| align="right" |56,602
+|-
+|058122
+|Fonte Nuova
+| align="right" |24,659
+|-
+|
+|Total
+| align="right" |3,807,992
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

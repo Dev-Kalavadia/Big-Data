@@ -1,0 +1,56 @@
+Title: Nidzica County
+
+__NOTOC__
+Nidzica County () is a unit of territorial administration and local government (powiat) in Warmian-Masurian Voivodeship, northern Poland. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and only town is Nidzica, which lies  south of the regional capital Olsztyn.
+
+The county covers an area of . As of 2006 its total population is 33,955, out of which the population of Nidzica is 14,761 and the rural population is 19,194.
+
+==Population==
+The county's population has stagnated and remained the same for the past four decades, never surpassing the 35300 mark.
+
+== Historical population ==
+In 1825 Nidzica County (Kreis Neidenburg) had 29617 inhabitants, including by mother tongue: 27467 (~93%) Polish and 2149 (~7%) German.
+
+==Neighbouring counties==
+Nidzica County is bordered by Olsztyn County to the north, Szczytno County to the east, Przasnysz County to the south-east, Mława County to the south, Działdowo County to the south-west and Ostróda County to the north-west.
+
+==Administrative division==
+The county is subdivided into four gminas (one urban-rural and three rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km²)
+| style="text-align:center;"|Population(2006)
+| style="text-align:center;"|Seat
+|-
+|Gmina Nidzica
+|urban-rural
+| style="text-align:right;"|378.9
+| style="text-align:right;"|21,485
+|Nidzica
+|-
+|Gmina Kozłowo
+|rural
+| style="text-align:right;"|254.0
+| style="text-align:right;"|6,141
+|Kozłowo
+|-
+|Gmina Janowiec Kościelny
+|rural
+| style="text-align:right;"|136.3
+| style="text-align:right;"|3,443
+|Janowiec Kościelny
+|-
+|Gmina Janowo
+|rural
+| style="text-align:right;"|191.6
+| style="text-align:right;"|2,886
+|Janowo
+|-
+|}
+
+==See also==
+*List of counties in Poland
+

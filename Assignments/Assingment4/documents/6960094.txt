@@ -1,0 +1,10 @@
+Title: Hydraulic exercise equipmentHydraulic exercise equipment is a form of exercise machine used in a number of strength training programs.  They are most often found in circuit training gyms.
+
+Hydraulic circuit training machines were first developed for The Henley Corporation in the 1970s, and are now becoming an increasingly popular form of exercise. 
+
+The fundamental principles behind these designs are based on fluid dynamics: Force that is applied at one point is transmitted to another point using an incompressible fluid known as hydraulic oil.
+
+For circuit training applications, each piece of equipment is specifically designed for a given exercise. The effort is applied through the range of motion of the exercise acts on a lever against a piston which moves linearly within a  hydraulic cylinder. The cylinder is filled with hydraulic oil which is displaced by the motion of the piston, and is allowed to flow to the opposite side of the piston through an adjustable orifice.
+
+Resistance to the motion is determined by the amount of effort applied and the adjustment size of the orifice.  This is a key feature of this design and allows the resistance to be adjusted to an individual's strength level.
+

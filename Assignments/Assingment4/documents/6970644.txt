@@ -1,0 +1,11 @@
+Title: Phono input
+
+
+Phono input is a set of input jacks, usually mini jacks or RCA connectors, located on the rear panel of a preamp, mixer or amplifier, especially on early radio sets, to which a phonograph or turntable is attached.
+
+Modern phono cartridges give a very low level output signal of the order of a few millivolts which the circuitry amplifies and equalizes. Phonograph recordings are made with high frequencies boosted and the low frequencies attenuated: during playback the frequency response changes are reversed. This reduces background noise, including clicks or pops, and also conserves the amount of physical space needed for each groove, by reducing the size of the larger low-frequency undulations. This is accomplished in the amplifier with a phono input that incorporates standardized RIAA equalization circuitry.
+
+Through at least the 1980s, the phono input was widely available on consumer stereo equipment—even some larger boomboxes had them. By the 2000s only very sophisticated and expensive stereo receivers retained the phono input, since most users were expected to use digital music formats such as CD or satellite radio.  Some newer low-cost turntables include built-in amplifiers to produce line-level (one volt) outputs; devices are available that perform this conversion for use with computers; or older amplifiers or radio receivers can be used. Nearly all DJ mixers have two or more phono inputs, together with two or more one-volt line inputs that also use RCA connectors.
+
+This "phono input" designed for the millivolt signal from an unamplified turntable should not be confused with the modern standard one-volt line input and output that also uses RCA connectors and is found on video cameras, recorders and similar modern equipment.
+

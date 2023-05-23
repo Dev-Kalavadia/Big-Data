@@ -1,0 +1,37 @@
+Title: Piranga
+
+
+
+Piranga is a genus of birds long placed in the tanager family, but now considered members of the  cardinal family, Cardinalidae. The genus name Piranga is from Tupi word tijepiranga, the name for an unknown small bird.
+
+Similar in shape and habits to the true tanagers, their coloration betrays their actual relationships. They are essentially red, orange, or yellow all over, except the tail and wings, and in some species also the back. Such extensive lipochrome coloration (except on the belly) is very rare in true tanagers, but is widespread among the Cardinalidae.
+
+These songbirds are found high in tree canopies, and are not very gregarious in their breeding areas. Piranga species pick insects from leaves, or sometimes in flight. They also take some fruit. Several species are migratory, breeding in North America and wintering in the tropics.
+
+==Taxonomy and species list==
+The genus Piranga was introduced by the French ornithologist Louis Jean Pierre Vieillot in 1808 with the summer tanager (Piranga rubra) as the type species. For a discussion of the publication date see:  The genus name Piranga is from the Tupi Tijepiranga, the name for an unknown small bird.
+
+{| class="wikitable"
+|-
+! Image !! Scientific name !! Common name !! Distribution
+|-
+|120px || P. bidentata || Flame-colored tanager|| Mexico, and throughout Central America to northern Panama
+|-
+|120px ||  P. erythrocephala || Red-headed tanager||Mexico
+|-
+|120px || P. flava || Hepatic tanager|| Southwestern United States (Arizona, New Mexico, and locally in southern California and Colorado) to northern Argentina and Uruguay
+|-
+|120px || P. leucoptera || White-winged tanager|| Belize, Bolivia, Brazil, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Guyana, Honduras, Mexico, Nicaragua, Panama, Peru, and Venezuela
+|-
+|120px || P. ludoviciana || Western tanager|| Southeastern Alaska south to northern Baja California, Mexico. Western tanagers extend east to western Texas and north through central New Mexico, central Colorado, extreme northwest Nebraska, and areas of western South Dakota to southern Northwest Territories, Canada
+|-
+|120px || P. olivacea || Scarlet tanager||Eastern United States. Migrate to Central and northern South America
+|-
+|120px || P. roseogularis || Rose-throated tanager||Belize, Guatemala, and Mexico
+|-
+|120px || P. rubra || Summer tanager||Southern United States, extending as far north as Iowa. These birds migrate to Mexico, Central America and northern South America
+|-
+|120px || P. rubriceps || Red-hooded tanager|| Colombia, Ecuador, and Peru
+|-
+|}
+

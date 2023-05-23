@@ -1,0 +1,33 @@
+Title: Queuine
+
+
+Queuine () (Q) is a hypermodified nucleobase found in the first (or wobble) position of the anticodon of tRNAs specific for Asn, Asp, His, and Tyr, in most eukaryotes and prokaryotes. Because it is utilized by all eukaryotes but produced exclusively by bacteria, it is a putative vitamin.
+
+The nucleoside of queuine is queuosine.  Queuine is not found in the tRNA of archaea; however, a related 7-deazaguanine derivative, the nucleoside of which is archaeosine, occurs in different tRNA position, the dihydrouridine loop, and in tRNAs with more specificities.
+
+==History and naming==
+In 1967, it was discovered that the four above-mentioned tRNAs contained an as-yet unknown nucleoside, which was designated "Nucleoside Q". This name remained in use throughout much of the work to characterize the compound, after which it was proposed that its common name should be based on the sound of the letter Q—thus producing "queuine" by analogy to guanine and other nucleobases, and "queuosine" by analogy to guanosine and other nucleosides.
+
+==Biosynthesis and function==
+The presence of queuine in certain tRNA is a nearly ubiquitous feature of eukaryotic life, meaning it is found in every healthy cell of the human body. It is also found in all other animals, plants, and fungi. The only known exception is brewer's yeast, Saccharomyces cerevisiae. However, queuosine can only be produced by bacteria; higher organisms must obtain queuine from the diet or salvage it from symbiotic microbes—a process for which dedicated enzymatic machinery exists. Because queuine is necessary for healthy cellular function in animals, but is produced exclusively by microbes, it can be considered a vitamin, akin to the B vitamins—many which are also produced primarily or exclusively by bacteria.
+
+The biosynthesis pathway for queuine shares a common enzymatic starting step with folate. Because queuosine in dietary or gut-bacterial RNA can be salvaged and converted to queuine by the human body, queuosine could be considered a vitamer of queuine. As of 2019, human queuine requirements are not well understood, and the prevalence of queuine deficiency in humans is unknown. Plants obtain queuine from the tRNA of symbiotic bacteria in and around their roots.
+
+Once salvaged, queuine replaces a guanine base in the anticodon of certain tRNAs, where it appears to play a role in ensuring rapid and accurate recognition of the corresponding mRNAs' codons. In the absence of queuosine modification, translation at Q-decoded codons slows down to the point that many proteins cannot fold properly.
+
+In animal experiments using "germ-free" mice, even the total absence of queuine in the diet is not lethal in the presence of an adequate supply of the dietary amino acid tyrosine. Withdrawal of tyrosine from the diet, however, causes rapid physical deterioration and death over a period of two weeks. Tyrosine is not typically an essential nutrient for animals provided dietary phenylalanine, suggesting that queuine depletion impairs the activity of phenylalanine hydroxylase.
+
+==Enzyme research==
+BH4 is a cofactor for the biopterin-dependent aromatic amino acid hydroxylase enzymes, which catalyze the conversion of phenylalanine to tyrosine, tyrosine to L-DOPA, and tryptophan to 5-HTP, oxidizing BH4 to dihydrobiopterin (BH2) in the process. BH2 must then be converted back to BH4 by the enzyme dihydropteridine reductase before it can be used again. Queuine depletion appears to impair this "recycling" process, resulting in a deficit of BH4 and an excess of BH2, which in turn impairs the activity of the aromatic amino acid hydroxylase enzymes.
+
+Because the aromatic amino acid hydroxylase enzymes are the rate-limiting steps in the body's biosynthesis of serotonin and dopamine (and subsequent metabolites including melatonin, norepinephrine, and adrenaline), queuine deficiency is under investigation as a potential cause of human diseases linked to a deficit of these neurotransmitters.
+
+== References ==
+
+
+==External links==
+* Human Metabolome Database: Queuine (HMDB01495)
+
+Category:Nucleobases
+Category:Purines
+Category:Cyclopentenes

@@ -1,0 +1,754 @@
+Title: EuroBasket 2003
+
+
+
+The 2003 FIBA European Championship, commonly called FIBA EuroBasket 2003, was the 33rd FIBA EuroBasket regional basketball championship held by FIBA Europe, which also served as the Europe qualifier for the 2004 Summer Olympics, giving a berth to the top three teams in the final standings. It was held in Sweden between 5 September and 14 September 2003. Sixteen national teams entered the event under the auspices of FIBA Europe, the sport's regional governing body. The cities of Borås, Luleå, Norrköping, Södertälje and Stockholm hosted the tournament. Lithuania won its third FIBA European title by defeating Spain with a 93–84 score in the final. Lithuania's Šarūnas Jasikevičius was voted the tournament's MVP.
+
+==Venues==
+{| class="wikitable sortable"
+|-
+! Location
+! Picture
+! City
+! Arena
+! style="text-align:right;"| Capacity
+! Status
+! Round
+|-
+|rowspan=5|
+| 200px
+| Borås
+| Boråshallen
+| style="text-align:right;"| 3,000
+| Opened in 1957
+| Group D
+|-
+| 200px
+| Luleå
+| Coop Norrbotten Arena
+| style="text-align:right;"| 6,500
+| Opened in 1970
+| Group A
+|-
+| 200px
+| Norrköping
+| Himmelstalundshallen
+| style="text-align:right;"| 4,280
+| Opened in 1977
+| Group B
+|-
+| 200px
+| Södertälje
+| Scaniarinken
+| style="text-align:right;"| 7,250
+| Opened in 1970
+| Group C
+|-
+| 200px
+| Stockholm
+| Stockholm Globe Arena
+| style="text-align:right;"| 7,250
+| Opened in 1989
+| Knockout stages
+|}
+
+==Qualification==
+
+
+{| class="wikitable" style="width:850px"
+|-
+! Competition !! Date !! Vacancies !! Qualified
+|-
+| Host nation || – || style="text-align:center;"|1 || 
+|-
+| Champions of 2002 FIBA World Championship || style="text-align:center;"|29 August – 8 September 2002 || style="text-align:center;"|1 || 
+|-
+| Qualified through Qualifying Round  || style="text-align:center;"|21 November 2001 – 25 January 2003 || style="text-align:center;"|14 ||                             
+|}
+
+{| class="wikitable"
+!width=25%|Group A
+!width=25%|Group B
+!width=25%|Group C
+!width=25%|Group D
+|-
+
+|valign="top"|
+<BR />
+<BR />
+<BR />
+
+
+|valign="top"|
+<BR />
+<BR />
+<BR />
+
+
+|valign="top"|
+<BR />
+<BR />
+<BR />
+
+
+| valign="top"|
+<BR />
+<BR />
+<BR />
+
+|}
+
+==Format==
+*The teams were split in four groups of four teams each where they played a round robin. The first team from each group qualified directly to the knockout stage. To define the other four teams that advanced to the knockout stage, second and third-placed teams from each group where cross-paired (2A vs. 3B, 3A vs. 2B, 2C vs. 3D, 3C vs. 2D) and the winner from each match advanced to the knockout stage.
+*In the knockout quarterfinals, the winners advanced to the semifinals. The winners from the semifinals competed for the championship in the final, while the losing teams play a consolation game for the third place.
+*The losing teams from the quarterfinals play in a separate bracket to define 5th through 8th place in the final standings.
+
+==Squads==
+
+At the start of tournament, all 16 participating countries had 12 players on their roster.
+
+==Preliminary round==
+{| class="wikitable"
+|-
+|width=10px bgcolor="#ccffcc"| ||Qualified for the quarterfinals
+|-
+|width=10px bgcolor="#ffffd0"| ||Qualified for the second round
+|}
+
+:Times given below are in Central European Summer Time (UTC+2).
+
+===Group A===
+
+
+
+
+
+|}
+
+
+
+
+
+
+
+
+===Group B===
+
+
+
+
+
+|}
+
+
+
+
+
+
+
+
+===Group C===
+
+
+
+
+
+|}
+
+
+
+
+
+
+
+
+===Group D===
+
+
+
+
+
+|}
+
+
+
+
+
+
+
+
+==Knockout stage==
+===Championship bracket===
+
+
+====Play-off====
+
+
+
+
+
+====Quarterfinals====
+
+
+
+
+
+====Semifinals====
+
+
+
+====Third place====
+
+
+====Final====
+
+
+===5th to 8th place===
+
+
+
+
+
+
+
+==Statistical Leaders==
+===Individual Tournament Highs===
+
+
+PointsPPG Leaders at FIBA.com
+{|class=wikitable width="80%" 
+|-
+!width="10%"|Pos. !!width="70%"|Name !! width="20%"|PPG
+|-
+|align=center| 1
+| Pau Gasol
+|align=center| 25.8
+|-
+|align=center| 2
+| Andrei Kirilenko
+|align=center| 23.2
+|-
+|align=center| 3 
+| Dirk Nowitzki
+|align=center| 22.5
+|-
+|align=center| 4
+| Damir Mulaomerović
+|align=center| 16.5
+|-
+|align=center| 5
+| Juan Carlos Navarro
+|align=center| 16.2
+|-
+|align=center| 6
+| Arvydas Macijauskas
+|align=center| 15.8
+|-
+|align=center| 7
+| Ramūnas Šiškauskas
+|align=center| 14.8
+|-
+|align=center| 8 
+| Massimo Bulleri
+|align=center| 14.2
+|-
+|align=center| 9
+| Šarūnas Jasikevičius
+|align=center| 14.0
+|-
+|align=center| 10
+| Saulius Štombergas
+|align=center| 13.7
+|}
+
+ReboundsRPG Leaders at FIBA.com
+{|class=wikitable width="80%" 
+|-
+!width="10%"|Pos. !!width="70%"|Name !! width="20%"|RPG
+|-
+|align=center| 1
+| Ademola Okulaja
+|align=center| 8.2
+|-
+|align=center| 2 
+| Predrag Drobnjak
+|align=center| 7.5
+|-
+|align=center| 2
+| Pau Gasol
+|align=center| 7.5
+|-
+|align=center| 4
+| Andrei Kirilenko
+|align=center| 6.8
+|-
+|align=center| 4
+| Nikola Prkačin
+|align=center| 6.8
+|-
+|align=center| 6 
+| Matej Mamić
+|align=center| 6.5
+|-
+|align=center| 7
+| Dirk Nowitzki
+|align=center| 6.2
+|-
+|align=center| 7
+| Giacomo Galanda
+|align=center| 6.2
+|-
+|align=center| 9
+| Victor Khryapa
+|align=center| 6.0
+|-
+|align=center| 9
+| Dalibor Bagarić
+|align=center| 6.0
+|}
+
+AssistsAPG Leaders at FIBA.com
+{|class=wikitable width="80%" 
+|-
+!width="10%"|Pos. !!width="70%"|Name !! width="20%"|APG
+|-
+|align=center| 1
+| Šarūnas Jasikevičius
+|align=center| 8.2
+|-
+|align=center| 2
+| Marko Jarić
+|align=center| 4.0
+|-
+|align=center| 2
+| Damir Mulaomerović
+|align=center| 4.0
+|-
+|align=center| 4
+| Meir Tapiro
+|align=center| 3.4
+|-
+|align=center| 5 
+| Massimo Bulleri
+|align=center| 3.2
+|-
+|align=center| 6
+| Mithat Demirel
+|align=center| 3.0
+|-
+|align=center| 7
+| Carles Marco
+|align=center| 2.5
+|-
+|align=center| 7 
+| Marko Popović
+|align=center| 2.5
+|-
+|align=center| 9
+| Tal Burstein
+|align=center| 2.4
+|-
+|align=center| 10
+| Dimitris Diamantidis
+|align=center| 2.3
+|-
+|align=center| 10
+| Patrick Femerling
+|align=center| 2.3
+|}
+
+
+
+StealsSPG Leaders at FIBA.com
+{|class=wikitable width="80%" 
+|-
+!width="10%"|Pos. !!width="70%"|Name !! width="20%"|SPG
+|-
+|align=center| 1
+| Andrei Kirilenko
+|align=center| 3.5
+|-
+|align=center| 2 
+| Arvydas Macijauskas
+|align=center| 2.3
+|-
+|align=center| 3
+| Meir Tapiro
+|align=center| 1.9
+|-
+|align=center| 4
+| Marko Jarić
+|align=center| 1.5
+|-
+|align=center| 4
+| Ademola Okulaja
+|align=center| 1.5
+|-
+|align=center| 6
+| Zakhar Pashutin
+|align=center| 1.4
+|-
+|align=center| 7
+| Tal Burstein
+|align=center| 1.3
+|-
+|align=center| 7 
+| Victor Khryapa
+|align=center| 1.3
+|-
+|align=center| 7
+| Giorgos Sigalas
+|align=center| 1.3
+|-
+|align=center| 7
+| Dirk Nowitzki
+|align=center| 1.3
+|}
+
+BlocksBPG Leaders at FIBA.com
+{|class=wikitable width="80%" 
+|-
+!width="10%"|Pos. !!width="70%"|Name !! width="20%"|BPG
+|-
+|align=center| 1
+| Andrei Kirilenko
+|align=center| 2.2
+|-
+|align=center| 1 
+| Eurelijus Žukauskas
+|align=center| 2.2
+|-
+|align=center| 3
+| Dirk Nowitzki
+|align=center| 1.8
+|-
+|align=center| 4
+| Pau Gasol
+|align=center| 1.7
+|-
+|align=center| 5
+| Kšyštof Lavrinovič
+|align=center| 1.5
+|-
+|align=center| 6
+| Patrick Femerling
+|align=center| 1.2
+|-
+|align=center| 7
+| Jake Tsakalidis
+|align=center| 1.0
+|-
+|align=center| 7 
+| Dalibor Bagarić
+|align=center| 1.0
+|-
+|align=center| 7
+| Matej Mamić
+|align=center| 1.0
+|-
+|align=center| 9
+| Victor Khryapa
+|align=center| 0.9
+|-
+|align=center| 9
+| Fedor Likholitov
+|align=center| 0.9
+|}
+
+MinutesMPG Leaders at FIBA.com
+{|class=wikitable width="80%" 
+|-
+!width="10%"|Pos. !!width="70%"|Name !! width="20%"|MPG
+|-
+|align=center| 1
+| Andrei Kirilenko
+|align=center| 35.3
+|-
+|align=center| 2
+| Dirk Nowitzki
+|align=center| 34.8
+|-
+|align=center| 3
+| Matej Mamić
+|align=center| 32.5
+|-
+|align=center| 4 
+| Milan Gurović
+|align=center| 32.3
+|-
+|align=center| 5
+| Tal Burstein
+|align=center| 31.6
+|-
+|align=center| 6
+| Pau Gasol
+|align=center| 31.3
+|-
+|align=center| 7
+| Marko Jarić
+|align=center| 30.8
+|-
+|align=center| 8
+| Gordan Giriček
+|align=center| 30.0
+|-
+|align=center| 9
+| Šarūnas Jasikevičius
+|align=center| 29.8
+|-
+|align=center| 10
+| Jorge Garbajosa
+|align=center| 29.7
+|}
+
+
+===Individual Game Highs===
+{|class=wikitable
+|-
+!Department !! Name !! Total !! Opponent
+|-
+|Points ||  Pau Gasol ||align=center| 36 || 
+|-
+|Rebounds ||  Nikola Prkačin ||align=center| 14 || 
+|-
+|Assists ||  Šarūnas Jasikevičius ||align=center| 11 || 
+|-
+|Steals ||  Ainars Bagatskis Andrei Kirilenko (twice) Meir Tapiro ||align=center| 5 || 
+|-
+|Blocks ||  Andrei Kirilenko ||align=center| 6 || 
+|-
+|Turnovers ||  Marko Jarić ||align=center| 9 || 
+|}
+
+===Team Tournament Highs===
+
+
+Offensive PPGTeam Leaders – PPG
+{|class=wikitable width="80%" 
+|-
+!width="10%"|Pos. !!width="70%"|Name !! width="20%"|PPG
+|-
+|align=center| 1||  ||align=center| 90.7
+|-
+|align=center| 2||  ||align=center| 84.3
+|-
+|align=center| 3||  ||align=center| 84.0
+|-
+|align=center| 4||  ||align=center| 83.8
+|-
+|align=center| 5||   ||align=center| 81.9
+|}
+
+ReboundsTeam Leaders – RPG
+{|class=wikitable width="80%" 
+|-
+!width="10%"|Pos. !!width="70%"|Name !! width="20%"|RPG
+|-
+|align=center| 1||   ||align=center| 39.0
+|-
+|align=center| 2||   ||align=center| 36.0
+|-
+|align=center| 3||   ||align=center| 33.7
+|-
+|align=center| 4||  ||align=center| 33.0
+|-
+|align=center| 5||    ||align=center| 32.7
+|-
+|align=center| 5||    ||align=center| 32.7
+|}
+
+AssistsTeam Leaders – APG
+{|class=wikitable width="80%" 
+|-
+!width="10%"|Pos. !!width="70%"|Name !! width="20%"|APG
+|-
+|align=center| 1||   ||align=center| 17.3
+|-
+|align=center| 2||  ||align=center| 16.3
+|-
+|align=center| 3||  ||align=center| 14.0
+|-
+|align=center| 4||  ||align=center| 12.0
+|-
+|align=center| 4||  ||align=center| 12.0
+|-
+|align=center| 4||  ||align=center| 12.0
+|}
+
+
+
+StealsTeam Leaders – SPG
+{|class=wikitable width="80%" 
+|-
+!width="10%"|Pos. !!width="70%"|Name !! width="20%"|SPG
+|-
+|align=center| 1||   ||align=center| 9.7
+|-
+|align=center| 2||     ||align=center| 8.6
+|-
+|align=center| 3||    ||align=center| 7.7
+|-
+|align=center| 4||    ||align=center| 7.3
+|-
+|align=center| 5||    ||align=center| 7.0
+|-
+|align=center| 5||    ||align=center| 7.0
+|}
+
+BlocksTeam Leaders – SPG
+{|class=wikitable width="80%" 
+|-
+!width="10%"|Pos. !!width="70%"|Name !! width="20%"|BPG
+|-
+|align=center| 1||   ||align=center| 4.5
+|-
+|align=center| 2 ||  ||align=center| 4.4
+|-
+|align=center| 3 ||  ||align=center| 3.7
+|-
+|align=center| 3 ||  ||align=center| 3.7
+|-
+|align=center| 5 ||  ||align=center| 3.2
+|}
+
+
+===Team Game highs===
+{|class=wikitable
+|-
+!Department !! Name !! Total !! Opponent
+|-
+|Points ||   ||align=center| 99 || 
+|-
+|Rebounds ||  ||align=center| 47 || 
+|-
+|Assists ||  ||align=center| 23 || 
+|-
+|Steals ||  ||align=center| 15 || 
+|-
+|Blocks ||  ||align=center| 8 || 
+|-
+|Field goal percentage ||  ||align=center| 60.8% (31/51) || 
+|-
+|3-point field goal percentage ||   ||align=center| 55.6% (10/18) || 
+|-
+|Free throw percentage ||  ||align=center| 100% (6/6) || 
+|-
+|Turnovers ||   ||align=center| 25 || 
+|}
+
+==Awards==
+
+{| width=95%
+|- align=center
+|2003 FIBA EuroBasket MVP: Šarūnas Jasikevičius ( Lithuania)
+|}
+
+{|  class="wikitable sortable" style="text-align:center; width: 100%"
+|-
+! All-Tournament TeamLinguasport.com Tournament Team.
+|-
+| Tony Parker 
+|-
+| Šarūnas Jasikevičius (MVP)
+|-
+| Saulius Štombergas 
+|-
+| Andrei Kirilenko 
+|-
+| Pau Gasol 
+|}
+
+==Final standings==
+thumb|400px|right|Results
+
+{| class="wikitable"
+|-
+|width=10px bgcolor="#aaffaa"| ||Qualified for the 2004 Summer Olympics
+|-
+|width=10px bgcolor="#ffffd0"| ||Qualified for the 2004 Summer Olympics as host
+|-
+|width=10px bgcolor="skyblue"| ||Qualified for the 2004 Summer Olympics as current World Champion
+|}
+{| class="wikitable"
+|-
+! Rank
+! Team
+! Record
+|-bgcolor="#aaffaa"
+|align=center| 
+|
+|align=center| 6–0
+|-bgcolor="#aaffaa"
+|align=center| 
+|
+|align=center| 5–1
+|-bgcolor="#aaffaa"
+|align=center| 
+|
+|align=center| 4–3
+|- 
+|align=center| 4
+|
+|align=center| 4–2
+|-bgcolor="#ffffd0"
+|align=center| 5
+|
+|align=center| 5–1
+|-bgcolor="skyblue"
+|align=center| 6
+|
+|align=center| 3–4
+|-
+|align=center| 7
+|
+|align=center| 3–4
+|-
+|align=center| 8
+|
+|align=center| 3–4
+|-
+|align=center| 9
+|
+|align=center| 2–2
+|-
+|align=center| 10
+|
+|align=center| 2–2
+|-
+|align=center| 11
+|
+|align=center| 1–3
+|-
+|align=center| 12
+|
+|align=center| 2–2
+|-
+|align=center| 13
+|
+|align=center| 0–3
+|-
+|align=center| 14
+|
+|align=center| 0–3
+|-
+|align=center| 15
+|
+|align=center| 0–3
+|-
+|align=center| 16
+|
+|align=center| 0–3
+|}
+
+{| border="1" cellpadding="2" width="800" class="wikitable" 
+|!align="center" width="200" bgcolor="#F7F6A8"|
+|!align="center" width="200" bgcolor="#DCE5E5"|
+|!align="center" width="200" bgcolor="#FFDAB9"|
+|!align="center" width="200" bgcolor="#EBDDE2"|
+|- valign=top
+|  Giedrius Gustas  Mindaugas Žukauskas  Arvydas Macijauskas  Saulius Štombergas  Ramūnas Šiškauskas  Darius Songaila  Donatas Slanina  Eurelijus Žukauskas  Kšyštof Lavrinovič  Šarūnas Jasikevičius  Dainius Šalenga  Virginijus Praškevičius
+|  Pau Gasol  Roger Grimau  Carles Marco  Juan Carlos Navarro  José Calderon  Felipe Reyes  Carlos Jiménez  Alberto Herreros  Rodrigo de la Fuente  Antonio Bueno  Alfonso Reyes  Jorge Garbajosa
+|  Nikola Radulović  Gianluca Basile  Giacomo Galanda  Matteo Soragna  Denis Marconato  Alessandro De Pol  Alex Righetti  Davide Lamma  Massimo Bulleri  Michele Mian  Roberto Chiacig  Alessandro Cittadini
+|  Moustapha Sonko  Tariq Abdul-Wahad  Jérôme Moïso  Laurent Foirest  Alain Digbeu  Tony Parker  Makan Dioumassi  Florent Piétrus  Cyril Julian  Boris Diaw  Thierry Rupert  Ronny Turiaf
+|}
+

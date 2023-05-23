@@ -1,0 +1,1299 @@
+Title: 2000 American Le Mans Series
+
+The 2000 American Le Mans Series was the second running of the IMSA American Le Mans Series, and overall the 30th season of an IMSA GT Championship, dating back to the 1971 edition.  It was a series for Le Mans Prototypes (LMP) and Grand Touring (GT) race cars divided into 3 classes: LMP, GTS, and GT.  It began March 18, 2000 and ended December 31, 2000 after 12 races.
+
+This season was the first time that the ALMS held races outside of North America, with two events held in Europe and one in Australia.  These events helped with the creation of the 2001 European Le Mans Series season, although it was short-lived.  An Asian Le Mans Series was also discussed but not developed.
+
+==Schedule==
+
+The 2000 schedule greatly expanded from the previous season, adding not only three races outside North America, but an additional North American round as well.  Silverstone Circuit and the Nürburgring were scheduled before and after the 24 Hours of Le Mans, while the Race of a Thousand Years in Australia was held long after the North American season ended.  Road courses at Charlotte Motor Speedway and Texas Motor Speedway replaced the previous year's Grand Prix of Atlanta at Road Atlanta.
+
+{| class="wikitable" style="font-size: 90%;"
+|-
+! Rnd
+! Race
+! Length
+! Circuit
+! Date
+|-
+! 1
+|  Exxon Superflo 12 Hours of Sebring
+| align="center" | 12 Hours
+| Sebring International Raceway
+| March 18
+|-
+! 2
+|  Grand Prix of Charlotte
+| align="center" | 2 Hours 45 Minutes
+| Charlotte Motor Speedway
+| April 1
+|-
+! 3
+|  Silverstone 500 USA Challenge
+| align="center" | 500 Kilometers
+| Silverstone Circuit
+| May 13
+|-
+! 4
+|  Bitburger/AvD 1000 km of Nürburgring
+| align="center" | 1000 Kilometers
+| Nürburgring
+| July 9
+|-
+! 5
+|  Grand Prix of Sonoma
+| align="center" | 2 Hours 45 Minutes
+| Sears Point Raceway
+| July 23
+|-
+! 6
+|  globemegawheels.com Grand Prix of Mosport
+| align="center" | 2 Hours 45 Minutes
+| Mosport Park
+| August 6
+|-
+! 7
+|  Grand Prix of Texas
+| align="center" | 2 Hours 45 Minutes
+| Texas Motor Speedway
+| September 2
+|-
+! 8
+|  Decision Point Applications Rose City Grand Prix
+| align="center" | 2 Hours 45 Minutes
+| Portland International Raceway
+| September 10
+|-
+! 9
+|  Petit Le Mans presented by Audi
+| align="center" | 1000 Miles or 10 Hours
+| Road Atlanta
+| September 30
+|-
+! 10
+|  Globalcenter Monterey Sports Car Championships
+| align="center" | 2 Hours 45 Minutes
+| Laguna Seca Raceway
+| October 15
+|-
+! 11
+|  Grand Prix of Las Vegas
+| align="center" | 2 Hours 45 Minutes
+| Las Vegas Motor Speedway
+| October 29
+|-
+! 12
+|  Race of a Thousand Years
+| align="center" | 1000 Kilometers or 6 Hours
+| Adelaide Street Circuit
+| December 31
+|}
+
+==Season results==
+
+Overall winner in bold.
+
+{| class="wikitable" style="font-size: 90%;"
+|-
+! rowspan=2 | Rnd
+! rowspan=2 | Circuit
+! LMP Winning Team
+! GTS Winning Team
+! GT Winning Team
+! rowspan=2 | Results
+|-
+! LMP Winning Drivers
+! GTS Winning Drivers
+! GT Winning Drivers
+|-
+! rowspan=2 | 1
+| rowspan=2 | Sebring
+|  #78 Audi Sport North America
+|  #91 Viper Team Oreca
+|  #5 Dick Barbour Racing
+| rowspan=2 | Results
+|-
+|  Frank Biela Tom Kristensen Emanuele Pirro
+|  Olivier Beretta Karl Wendlinger Dominique Dupuy
+|  Dirk Müller Lucas Luhr
+|-
+! rowspan=2 | 2
+| rowspan=2 | Charlotte
+|  #42 BMW Motorsport
+|  #91 Viper Team Oreca
+|  #51 Dick Barbour Racing
+| rowspan=2 | Results
+|-
+|  JJ Lehto Jörg Müller
+|  Olivier Beretta Karl Wendlinger
+|  Bob Wollek Sascha Maassen
+|-
+! rowspan=2 | 3
+| rowspan=2 | Silverstone
+|  #42 BMW Motorsport
+|  #91 Viper Team Oreca
+|  #51 Dick Barbour Racing
+| rowspan=2 | Results
+|-
+|  JJ Lehto Jörg Müller
+|  Olivier Beretta Karl Wendlinger
+|  Bob Wollek Sascha Maassen
+|-
+! rowspan=2 | 4
+| rowspan=2 | Nürburgring
+|  #1 Panoz Motor Sports
+|  #91 Viper Team Oreca
+|  #5 Dick Barbour Racing
+| rowspan=2 | Results
+|-
+|  Jan Magnussen David Brabham
+|  Olivier Beretta Karl Wendlinger Marc Duez
+|  Dirk Müller Lucas Luhr
+|-
+! rowspan=2 | 5
+| rowspan=2 | Sears Point
+|  #77 Audi Sport North America
+|  #92 Viper Team Oreca
+|  #5 Dick Barbour Racing
+| rowspan=2 | Results
+|-
+|  Allan McNish Rinaldo Capello
+|  David Donohue Tommy Archer
+|  Dirk Müller Lucas Luhr
+|-
+! rowspan=2 | 6
+| rowspan=2 | Mosport
+|  #77 Audi Sport North America
+|  #91 Viper Team Oreca
+|  #23 Alex Job Racing
+| rowspan=2 | Results
+|-
+|  Allan McNish Rinaldo Capello
+|  Olivier Beretta Karl Wendlinger
+|  Randy Pobst Bruno Lambert
+|-
+! rowspan=2 | 7
+| rowspan=2 | Texas
+|  #78 Audi Sport North America
+|  #3 Corvette Racing
+|  #23 Alex Job Racing
+| rowspan=2 | Results
+|-
+|  Frank Biela Emanuele Pirro
+|  Ron Fellows Andy Pilgrim
+|  Randy Pobst Bruno Lambert
+|-
+! rowspan=2 | 8
+| rowspan=2 | Portland
+|  #77 Audi Sport North America
+|  #91 Viper Team Oreca
+|  #51 Dick Barbour Racing
+| rowspan=2 | Results
+|-
+|  Allan McNish Rinaldo Capello
+|  Olivier Beretta Karl Wendlinger
+|  Bob Wollek Sascha Maassen
+|-
+! rowspan=2 | 9
+| rowspan=2 | Road Atlanta
+|  #77 Audi Sport North America
+|  #4 Corvette Racing
+|  #51 Dick Barbour Racing
+| rowspan=2 | Results
+|-
+|  Allan McNish Rinaldo Capello Michele Alboreto
+|  Kelly Collins Andy Pilgrim Franck Fréon
+|  Bob Wollek Sascha Maassen
+|-
+! rowspan=2 | 10
+| rowspan=2 | Laguna Seca
+|  #77 Audi Sport North America
+|  #91 Viper Team Oreca
+|  #7 PTG
+| rowspan=2 | Results
+|-
+|  Allan McNish Rinaldo Capello
+|  Olivier Beretta Karl Wendlinger
+|  Hans-Joachim Stuck Boris Said
+|-
+! rowspan=2 | 11
+| rowspan=2 | Las Vegas
+|  #78 Audi Sport North America
+|  #91 Viper Team Oreca
+|  #51 Dick Barbour Racing
+| rowspan=2 | Results
+|-
+|  Frank Biela Emanuele Pirro
+|  Olivier Beretta Karl Wendlinger
+|  Bob Wollek Sascha Maassen
+|-
+! rowspan=2 | 12
+| rowspan=2 | Adelaide
+|  #77 Audi Sport North America
+|  #91 Viper Team Oreca
+|  #5 Dick Barbour Racing
+| rowspan=2 | Results
+|-
+|  Allan McNish Rinaldo Capello
+|  Olivier Beretta Karl Wendlinger Dominique Dupuy
+|  Dirk Müller Lucas Luhr
+|}
+
+==Drivers Championship==
+The Drivers Championship was won by Allan McNish and Rinaldo Capello.ALMS 2000: Audi arrived in America and beats BMW and Panoz, www.motorsport.com Retrieved 2 March 2016
+
+==Manufacturers Championship==
+The Manufacturers Championship was won by Audi.
+
+==Teams Championship==
+
+Points are awarded to the finishers in the following order:
+* 25-21-19-17-15-14-13-12-11-10-...
+Exceptions being for the 12 Hours of Sebring, 1000 km of Nurburgring, Petit Le Mans, and Race of a Thousand Years which awarded in the following order:
+* 30-26-24-22-20-19-18-17-16-15-...
+
+Points were only awarded for the best 10 finishes in the 12 race season.  Points won but not counted towards the season championship are listed in italics.
+
+Cars failing to complete 70% of the winner's distance are not awarded points.  Teams only score the points of their highest finishing entry in each race.
+
+===LMP Standings===
+
+{| class="wikitable" style="font-size: 90%;"
+|-
+! Pos
+! Team
+! Chassis
+! Engine
+! R1
+! R2
+! R3
+! R4
+! R5
+! R6
+! R7
+! R8
+! R9
+! R10
+! R11
+! R12
+! Total
+|-
+! 1
+|  Audi Sport North America
+| Audi R8RAudi R8
+| Audi 3.6 L Turbo V8
+| align="center" | 30
+| align="center" | 14
+| align="center" | 19
+| align="center" | 24
+| align="center" | 25
+| align="center" | 25
+| align="center" | 25
+| align="center" | 25
+| align="center" | 30
+| align="center" | 25
+| align="center" | 25
+| align="center" | 30
+| align="center" | 264
+|-
+! 2
+|  BMW Motorsport
+| BMW V12 LMR
+| BMW S70 6.0 L V12
+| align="center" | 24
+| align="center" | 25
+| align="center" | 25
+| align="center" | 26
+| align="center" | 19
+| align="center" | 21
+| align="center" | 17
+| align="center" | 19
+| align="center" | 20
+| align="center" | 19
+| align="center" | 21
+| 
+| align="center" | 219
+|-
+! 3
+|  Panoz Motor Sports
+| Panoz LMP-1 Roadster-S
+| Élan 6L8 6.0 L V8
+| align="center" | 18
+| align="center" | 21
+| align="center" | 21
+| align="center" | 30
+| align="center" | 15
+| align="center" | 15
+| align="center" | 19
+| align="center" | 21
+| align="center" | 24
+| align="center" | 11
+| align="center" | 11
+| align="center" | 24
+| align="center" | 208
+|-
+! 4
+|  Team Rafanelli SRL
+| Lola B2K/10
+| Judd (Rafanelli) GV4 4.0 L V10
+| align="center" | 10
+| align="center" | 19
+| align="center" | 11
+| 
+| align="center" | 9
+| 
+| align="center" | 11
+| align="center" | 13
+| align="center" | 15
+| align="center" | 9
+| align="center" | 17
+| align="center" | 22
+| align="center" | 136
+|-
+! 5
+|  Johansson-Matthews Racing
+| Reynard 2KQReynard 2KQ-LM
+| Judd GV4 4.0 L V10
+| align="center" | 11
+| 
+| align="center" | 7
+| align="center" | 13
+| align="center" | 13
+| align="center" | 17
+| align="center" | 13
+| align="center" | 15
+| align="center" | 11
+| align="center" | 15
+| align="center" | 15
+| 
+| align="center" | 130
+|-
+! 6
+|  Intersport Racing
+| Lola B98/10Lola B2K/10
+| Ford 5.1 L V8Judd GV4 4.0 L V8
+| align="center" | 17
+| 
+| 
+| 
+| align="center" | 14
+| 
+| align="center" | 12
+| align="center" | 11
+| align="center" | 14
+| align="center" | 14
+| align="center" | 12
+| 
+| align="center" | 94
+|-
+! 7
+|  Motorola-DAMS
+| Cadillac Northstar LMP
+| Cadillac Northstar 4.0 L Turbo V8
+| align="center" | 15
+| 
+| align="center" | 14
+| align="center" | 20
+| 
+| 
+| 
+| 
+| align="center" | 19
+| 
+| 
+| align="center" | 19
+| align="center" | 87
+|-
+! 8
+|  Team Cadillac
+| Cadillac Northstar LMP
+| Cadillac Northstar 4.0 L Turbo V8
+| align="center" | 19
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 12
+| align="center" | 18
+| align="center" | 13
+| 
+| 
+| align="center" | 62
+|-
+! 9
+|  Konrad Motorsport
+| Lola B2K/10
+| Ford (Roush) 6.0 L V8
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 12
+| align="center" | 11
+| align="center" | 9
+| align="center" | 26
+| align="center" | 58
+|-
+! 10
+|  Pole Team
+| Riley & Scott Mk III
+| Judd GV4 4.0 L V10
+| 
+| align="center" | 13
+| align="center" | 6
+| align="center" | 12
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 31
+|-
+! 11
+|  Champion Racing
+| Lola B2K/10
+| Porsche 3.6 L Turbo Flat-6
+| align="center" | 16
+| 
+| 
+| 
+| align="center" | 11
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 27
+|-
+! 12
+|  Martin Snow Racing
+| Lola B2K/40
+| Nissan (AER) VQL 3.0 L V6
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 12
+| align="center" | 13
+| 
+| align="center" | 25
+|-
+! 13
+|  Doran/Lista Racing
+| Ferrari 333 SP
+| Judd GV4 4.0 L V10
+| align="center" | 20
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 20
+|-
+! 14
+|  Racing Organisation Course
+| Reynard 2KQ-LM
+| Volkswagen 2.0 L Turbo I4
+| 
+| 
+| 
+| align="center" | 19
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 19
+|-
+! 15
+|  GLV Racing
+| Ferrari 333 SP
+| Ferrari F310E 4.0 L V12
+| 
+| 
+| 
+| align="center" | 18
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 18
+|-
+! 16
+|  PiR Competition
+| Debora LMP299
+| BMW 3.0 L I6
+| 
+| 
+| 
+| align="center" | 15
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 15
+|-
+! 17
+|  Multimatic Competition
+| Lola B98/10
+| Ford Cosworth XD 2.6 L Turbo V8
+| align="center" | 14
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 14
+|-
+! 18
+|  Pescarolo Sport
+| Courage C52
+| Peugeot A32 3.2 L Turbo V6
+| 
+| 
+| align="center" | 13
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 13
+|-
+! 19
+|  SMG Competition
+| Courage C60
+| Judd GV4 4.0 L V10
+| 
+| 
+| align="center" | 12
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 12
+|-
+! 20=
+|  Kremer Racing
+| Lola B98/K2000
+| Ford (Roush) 6.0 L V8
+| 
+| 
+| align="center" | 10
+| 
+| 
+| 
+|  
+| 
+| 
+| 
+| 
+| 
+| align="center" | 10
+|-
+! 20=
+|  Conrero
+| Riley & Scott Mk III
+| Ford Cosworth 4.0 L V8
+| 
+| 
+| 
+| align="center" | 10
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 10
+|-
+! 22
+|  KnightHawk Racing
+| Lola B2K/40
+| Nissan (AER) VQL 3.0 L V6
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 8
+| 
+| align="center" | 8
+|-
+! 23
+|  Phillips Motorsports
+| Lola B2K/40
+| Nissan (AER) VQL 3.0 L V6
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 7
+| 
+| 
+| align="center" | 7
+|}
+
+===GTS Standings===
+
+{| class="wikitable" style="font-size: 90%;"
+|-
+! Pos
+! Team
+! Chassis
+! Engine
+! R1
+! R2
+! R3
+! R4
+! R5
+! R6
+! R7
+! R8
+! R9
+! R10
+! R11
+! R12
+! Total
+|-
+! 1
+|  Viper Team Oreca
+| Dodge Viper GTS-R
+| Dodge 8.0 L V10
+| align="center" | 30
+| align="center" | 25
+| align="center" | 25
+| align="center" | 30
+| align="center" | 25
+| align="center" | 25
+| align="center" | 21
+| align="center" | 25
+| align="center" | 26
+| align="center" | 25
+| align="center" | 25
+| align="center" | 30
+| align="center" | 266
+|-
+! 2
+|  Roock Motorsport North America
+| Porsche 911 GT2
+| Porsche 3.8 L Turbo Flat-6
+| align="center" | 18
+| align="center" | 21
+| align="center" | 13
+| align="center" | 24
+| align="center" | 19
+| align="center" | 17
+| align="center" | 17
+| align="center" | 19
+| align="center" | 19
+| 
+| align="center" | 17
+| 
+| align="center" | 184
+|-
+! 3
+|  Corvette Racing
+| Chevrolet Corvette C5-R
+| Chevrolet 7.0 L V8
+| align="center" | 20
+| 
+| 
+| 
+| 
+| align="center" | 21
+| align="center" | 25
+| 
+| align="center" | 30
+| align="center" | 21
+| align="center" | 19
+| 
+| align="center" | 136
+|-
+! 4
+|  Chamberlain Motorsport
+| Chrysler Viper GTS-R
+| Chrysler 8.0 L V10
+| 
+| 
+| align="center" | 14
+| align="center" | 26
+| 
+| 
+| 
+| 
+| align="center" | 18
+| align="center" | 15
+| align="center" | 15
+| align="center" | 24
+| align="center" | 112
+|-
+! 5
+|  Konrad Motorsport
+| Porsche 911 GT2
+| Porsche 3.8 L Turbo Flat-6
+| align="center" | 22
+| 
+| align="center" | 17
+| align="center" | 19
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 58
+|-
+! 6=
+|  Proton Competition
+| Porsche 911 GT2
+| Porsche 3.6 L Turbo Flat-6
+| 
+| 
+| 
+| align="center" | 22
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 22
+|-
+! 6=
+|  Intersport Racing
+| Porsche 911 GT2
+| Porsche 3.8 L Turbo Flat-6
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 22
+| align="center" | 22
+|-
+! 8
+|  Freisinger Motorsport
+| Porsche 911 GT2
+| Porsche 3.8 L Turbo Flat-6
+| 
+| 
+| align="center" | 19
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 19
+|-
+! 9
+|  DonMcGill.com Porsche Racing
+| Porsche 911 GT2
+| Porsche 3.8 L Turbo Flat-6
+| 
+| align="center" | 17
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 17
+|-
+! 10
+|  Patriot Motorsports
+| Dodge Viper GTS-R
+| Dodge 8.0 L V10
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 16
+| 
+| 
+| 
+| align="center" | 16
+|-
+! 11
+|  BVB
+| Porsche 911 GT2
+| Porsche 3.8 L Turbo Flat-6
+| 
+| 
+| align="center" | 15
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 15
+|-
+! 12
+|  Saleen/Allen Speedlab
+| Saleen S7-R
+| Ford 7.0 L V8
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 14
+| 
+| 
+| align="center" | 14
+|-
+! 13=
+|  Multimatic Motorsports
+| Porsche 911 GT2
+| Porsche 3.8 L Turbo Flat-6
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 13
+| 
+| 
+| align="center" | 13
+|-
+! 13=
+|  Carsport Holland
+| Chrysler Viper GTS-R
+| Chrysler 8.0 L V10
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 13
+| 
+| align="center" | 13
+|}
+
+===GT Standings===
+
+{| class="wikitable" style="font-size: 90%;"
+|-
+! Pos
+! Team
+! Chassis
+! Engine
+! R1
+! R2
+! R3
+! R4
+! R5
+! R6
+! R7
+! R8
+! R9
+! R10
+! R11
+! R12
+! Total
+|-
+! 1
+|  Dick Barbour Racing
+| Porsche 911 GT3-R
+| Porsche 3.6 L Flat-6
+| align="center" | 30
+| align="center" | 25
+| align="center" | 25
+| align="center" | 30
+| align="center" | 25
+| align="center" | 19
+| align="center" | 21
+| align="center" | 25
+| align="center" | 30
+| align="center" | 10
+| align="center" | 25
+| align="center" | 30
+| align="center" | 266
+|-
+! 2
+|  Alex Job Racing
+| Porsche 911 GT3-R
+| Porsche 3.6 L Flat-6
+| 
+| align="center" | 19
+| align="center" | 21
+| align="center" | 20
+| align="center" | 17
+| align="center" | 25
+| align="center" | 25
+| align="center" | 19
+| align="center" | 26
+| align="center" | 21
+| align="center" | 12
+| 
+| align="center" | 205
+|-
+! 3
+|  Prototype Technology Group
+| BMW M3 GTR
+| BMW 3.2 L I6
+| 
+| align="center" | 21
+| align="center" | 14
+| align="center" | 22
+| align="center" | 19
+| align="center" | 21
+| align="center" | 14
+| align="center" | 21
+| align="center" | 16
+| align="center" | 25
+| align="center" | 19
+| align="center" | 24
+| align="center" | 202
+|-
+! 4
+|  Skea Racing International
+| Porsche 911 GT3-R
+| Porsche 3.6 L Flat-6
+| align="center" | 26
+| align="center" | 15
+| align="center" | 13
+| align="center" | 26
+| align="center" | 10
+| align="center" | 13
+| align="center" | 15
+| align="center" | 15
+| align="center" | 11
+| align="center" | 11
+| align="center" | 15
+| align="center" | 17
+| align="center" | 166
+|-
+! 5
+|  Michael Colucci Racing (MCR)
+| Porsche 911 GT3-R
+| Porsche 3.6 L Flat-6
+| align="center" | 18
+| align="center" | 13
+| align="center" | 19
+| align="center" | 24
+| align="center" | 15
+| align="center" | 17
+| align="center" | 9
+| align="center" | 10
+| align="center" | 17
+| align="center" | 14
+| align="center" | 5
+| 
+| align="center" | 151
+|-
+! 6
+|  White Lightning Racing
+| Porsche 911 GT3-R
+| Porsche 3.6 L Flat-6
+| align="center" | 12
+| align="center" | 14
+| 
+| 
+| align="center" | 13
+| 
+| align="center" | 11
+| align="center" | 14
+| align="center" | 15
+| align="center" | 17
+| align="center" | 11
+| align="center" | 18
+| align="center" | 125
+|-
+! 7
+|  The Racer's Group
+| Porsche 911 GT3-R
+| Porsche 3.6 L Flat-6
+| align="center" | 17
+| 
+| 
+| 
+| align="center" | 12
+| align="center" | 12
+| 
+| align="center" | 13
+| align="center" | 13
+| align="center" | 12
+| align="center" | 13
+| align="center" | 20
+| align="center" | 112
+|-
+! 8
+|  Kyser Racing
+| Porsche 911 GT3-R
+| Porsche 3.6 L Flat-6
+| 
+| 
+| align="center" | 8
+| align="center" | 16
+| align="center" | 6
+| align="center" | 10
+| 
+| 
+| align="center" | 14
+| align="center" | 13
+| align="center" | 9
+| align="center" | 15
+| align="center" | 91
+|-
+! 9
+|  Seikel Motorsport
+| Porsche 911 GT3-R
+| Porsche 3.6 L Flat-6
+| 
+| 
+| align="center" | 9
+| align="center" | 18
+| align="center" | 11
+| align="center" | 9
+| 
+| 
+| align="center" | 20
+| align="center" | 15
+| align="center" | 6
+| 
+| align="center" | 88
+|-
+! 10
+|  RWS Motorsport
+| Porsche 911 GT3-R
+| Porsche 3.6 L Flat-6
+| align="center" | 22
+| 
+| align="center" | 11
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 33
+|-
+! 11
+|  Team LR Organization
+| Porsche 911 GT3-R
+| Porsche 3.6 L Flat-6
+| align="center" | 20
+| 
+| align="center" | 12
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 32
+|-
+! 12
+|  Orbit Racing
+| Porsche 911 GT3-R
+| Porsche 3.6 L Flat-6
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 18
+| align="center" | 9
+| 
+| 
+| align="center" | 27
+|-
+! 13
+|  Reiser Callas Rennsport
+| Porsche 911 GT3-R
+| Porsche 3.6 L Flat-6
+| align="center" | 24
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 24
+|-
+! 14
+|  G & W Motorsport
+| Porsche 911 GT3-R
+| Porsche 3.6 L Flat-6
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 22
+| 
+| 
+| 
+| align="center" | 22
+|-
+! 15
+|  Haberthur Racing
+| Porsche 911 GT3-R
+| Porsche 3.6 L Flat-6
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 19
+| align="center" | 19
+|-
+! 16
+|  Roock Motorsport North America
+| Porsche 911 GT3-R
+| Porsche 3.6 L Flat-6
+| 
+| 
+| 
+| align="center" | 15
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 15
+|-
+! 17
+|  Noël del Bello Racing
+| Porsche 911 GT3-R
+| Porsche 3.6 L Flat-6
+| 
+| 
+| 
+| align="center" | 13
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| align="center" | 13
+|}
+

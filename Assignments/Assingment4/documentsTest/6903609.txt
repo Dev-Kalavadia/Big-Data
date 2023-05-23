@@ -1,0 +1,55 @@
+Title: Siege of Jerusalem (poem)
+Siege of Jerusalem is the title commonly given to an anonymous Middle English epic poem created in the second half of the 14th century (possibly ca. 1370-1390). The poem is composed in the alliterative manner popular in medieval English poetry, especially during the period known as the "alliterative revival", and is known from nine surviving manuscripts, an uncommonly high number for works of this time.
+
+The siege described in the poem is that of 70 AD. The poem relies on a number of secondary sources—including Vindicta salvatoris, Roger Argenteuil's Bible en François, Ranulf Higdon's Polychronicon, and the Destruction of Troy—and on Josephus’  The Jewish War, which was itself a source for the Polychronicon. The destruction of Jerusalem is ahistorically portrayed as divinely ordained vengeance by the Romans Vespasian and Titus for the death of Jesus Christ. The poem also describes the tumultuous succession of emperors in Rome in the late 60s, when rulers Nero, Galba, Otho and Vitellius met violent deaths.
+
+Although technically excellent and linguistically interesting, the poem has rarely been presented to students of Middle English verse because of its sadistic indulgence in gory details and extreme anti-Semitic sentiment. This latter aspect of the poem raises important questions regarding the cultural milieu in which it was repeatedly copied and presumably read. Many modern critics have treated the poem with near-contempt due to its excessive descriptions of violence, such as the horrible execution of the Jewish high priests or the cannibalism of her own child by a Jewish woman in the besieged city. Other critics have pointed out that the anonymous poet does not flinch from the horrors of war and does not preach violence against contemporary Jews. 
+
+However, some have argued that the violence against the Jews was not intended to be against the Jews specifically or taken to be commentary on Judaism; any other religious group might as well have been used to the same ends. Identifying the Jews, by such logic, would have been a way of indicating otherness, their role serving as a placeholder for a group different than the initial aggressor. If so, then the violence enacted upon or attributed to them, being at times so unnecessarily graphic and cruel, would have come across, even to an audience at the time so taken with reading about violence, as so unjustified (regardless as to whom it was for or against) as to create pause and encourage reflection on the atrocities committed by the invading Romans.
+
+== Synopsis ==
+The poem begins with the story of Jesus's crucifixion (lines 1-24), as a foreground to the rest of the poem. Then, a fictionalized version of Caesar Nero, who is afflicted with cancer, is introduced (lines 29-36). He summons a fictional merchant, named Nathan, to help cure this disease. Nathan warns Nero that there are no physical cures for his disease, and begins to tell the story of Jesus, about his life, about the Trinity, about the death of Jesus, and about the Veil of Veronica. Following this, the Senators decree that the Jews are responsible for the death of Jesus (lines 269-272), and the Roman army is dispatched to avenge the death of Christ (line 300). When the Romans arrive at Jerusalem, the two armies clash violently, but the Romans prevail, leaving the Jews to retreat into the city and begin the siege (lines 389-636). The Emperor Nero commits suicide in Rome, eventually leaving Vespasian in control (lines 897-964). Vespasian returns to Rome to rule, and a council gives his son Titus control of the Roman armies. It is Titus that leads the Romans for the rest of the siege, capturing the city of Jerusalem, destroying the temple, and slaughtering or selling the rest of the Jews.
+
+== Major characters ==
+
+* Pontius Pilate: The Roman procurator who ruled Jerusalem; Jesus Christ’s crucifixion happened under his rule; later is imprisoned and dead in Vienne
+* Vespasian: Commander of the Roman army; suffers from an illness and is healed by Veronica’s veil; has vowed to avenge Christ’s death; later becomes the Roman emperor
+* Titus: Son of Vespasian; suffers from an illness as well and is healed by his conversion to Christianity; takes charge of the Roman army after his father becomes the emperor
+* Nathan: a messenger sent to Nero to report Jews’ refusal to pay tribute to Rome; introduces Christ’s stories to Titus
+* Josephus: a Jewish leader who is the only physician who can heal Titus; refuses any rewards after heals Titus
+* Nero: the Roman emperor who orders Vespasian and Titus to attack Jerusalem and ask for tributes; later commits suicide
+* Caiaphas: a high priest of Jews; later is captured and executed by the Roman army
+
+== Critical issues and interpretations ==
+
+=== Genre ===
+Critics struggling to assign this poem to a single category tend to treat it as a cross-genre work. Siege of Jerusalem contains elements of a historical narrative (since it is at least in part factually rooted in the siege that felled the Second Temple around 70 A.D.); it is interspersed with hagiography (for its depiction of conversion and adherence to the "Vengeance of Our Lord Tradition"); and has undertones of romance (due to its detailed, exaggerated illustrations of violence and warfare).Livingston, Michael (2004). Siege of Jerusalem. Kalamazoo, Michigan: Medieval Institute Publications. . Such a generic mixture may have augmented the poem's readership at the height of its circulation, since the multitude of contexts, complications, and conventions through which it can be interpreted alerted a broad scope of audiences to its relevance.
+
+Critical reception
+
+Some critical receptions of the poem argue that the extreme depictions of violence against the Jews is meant to show the hypocrisy of the Roman army. Part of the evidence for this reading is the fact that the Romans, except for Vespasian and Titus, are not described as converting to Christianity in the poem. The poem additionally has a flagrant focus on the effects of war. When also considering the absence of the question of conversion in connection with the described deterioration of the Jews, critics have argued that the author of ‘’Siege of Jerusalem’’ was not actually writing with antisemitic intentions, but rather using cultural anxieties about the Jewish other when shaping their narrative into a critique of Roman expansionism.
+
+== Dating the composition of the poem ==
+Currently, there are nine known surviving manuscripts of Siege of Jerusalem, which are called Manuscript A, Manuscript C, Manuscript D, Manuscript E, Manuscript Ex, Manuscript L, Manuscript P, Manuscript U, and Manuscript V. Manuscripts A, C, Ex, P, and V only contain fragments of the poem, whereas Manuscripts D, E, L, and U contain copies of the entire poem. None of these manuscripts are considered to be created directly by the original poet, but have helped establish an approximate timeline for when the poem might have been composed. Michael Livingston writes, in his introduction to the poem, about dating the poem's composition. He writes that through analysis of the age of the oldest manuscript, scholars were able to locate a terminus ad quem, meaning the latest point at which the poem could have been authored, of the late 1390s.
+
+== References ==
+
+==Bibliography==
+* 
+
+==External links==
+* Text of Siege of Jerusalem with modern English translation edited by Michael Livingston, University of Rochester, TEAMS Middle English Text Series
+* Introduction to Siege of Jerusalem by Michael Livingston, TEAMS Middle English Text Series
+* Bibliography of works related to Siege of Jerusalem
+
+Category:Middle English literature
+Category:14th-century books
+Category:14th-century poems
+Category:Epic poems in English
+Category:Antisemitism in England
+Category:Antisemitic works
+Category:Christian anti-Judaism in the Middle Ages
+Category:First Jewish–Roman War
+Category:Jerusalem in fiction
+Category:Anonymous works
+Category:Siege of Jerusalem (70 CE)

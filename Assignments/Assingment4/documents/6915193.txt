@@ -1,0 +1,37 @@
+Title: Stereospondyli
+
+
+The Stereospondyli are a group of extinct temnospondyl amphibians that existed primarily during the Mesozoic period. They are known from all seven continents and were common components of many Triassic ecosystems, likely filling a similar ecological niche to modern crocodilians prior to the diversification of pseudosuchian archosaurs.
+
+== Classification and anatomy ==
+The group was first defined by Zittel (1888) on the recognition of the distinctive vertebral anatomy of the best known stereospondyls of the time, such as Mastodonsaurus and Metoposaurus. The term 'stereospondylous' as a descriptor of vertebral anatomy was coined the following year by Fraas, referring to a vertebral position consisting largely or entirely of the intercentrum in addition to the neural arch. While the name 'Stereospondyli' is derived from the stereospondylous vertebral condition, there is a diversity of vertebral morphologies among stereospondyls, including the diplospondylous ('tupilakosaurid') condition, where the arch sits between the corresponding intercentrum and pleurocentrum, and the plagiosaurid condition, where a single large centrum ossification (identity unknown) is present, and the arch sits between subsequent vertebral positions. The concept of Stereospondyli has thus undergone repeated and frequent revisions by different workers. Defining features include a tight articulation between the parasphenoid and the pterygoid and a stapedial groove.
+
+== Evolutionary history ==
+Stereospondyls first definitively appeared during the early Permian, as represented by fragmentary remains of a rhinesuchid from the Pedra de Fogo Formation of Brazil. Rhinesuchids are one of the earliest groups of stereospondyls to appear in the fossil record and are predominantly a late Permian clade, with only one species, Broomistega putterilli, from the Early Triassic of South Africa. However, almost all other groups of stereospondyls are not known from any Paleozoic deposits, which remained dominated by non-stereospondyl stereospondylomorphs. The taxonomically unresolved Peltobatrachus pustulatus, which has historically been regarded as a stereospondyl, is also known from the late Permian of Tanzania. Several more fragmentary records are known from horizons spanning the Permo-Triassic boundary in South America, such as the rhinesuchid-like Arachana nigra from Uruguay and an indeterminate mastodonsaurid from Uruguay.
+
+Following the Permo-Triassic mass extinction, stereospondyls are abundantly represented in the fossil record, particularly from Russia, South Africa, and Australia. This led Yates & Warren (2000) to propose that stereospondyls had sheltered in a high-latitude refugium that would have been somewhat shielded from the global effects of the extinction, and that they subsequently radiated from present-day Australia or Antarctica. Recent discoveries of a diverse rhinesuchid community in South America alongside non-stereospondyl stereospondylomorphs have led to an alternative hypothesis for a radiation from western Gondwana in South America. By the end of the Early Triassic, virtually all major clades of stereospondyls had appeared in the fossil record, although some were more geographically localized (e.g., lapillopsids, rhytidosteids) than those with cosmopolitan distributions (e.g., capitosauroids, trematosauroids).
+
+Stereospondyls were the latest-surviving temnospondyl group. With the diversification of crocodile-like archosaurs and an extinction event at the end of the Triassic, most other temnospondyls disappeared. Chigutisaurid brachyopoids persisted into the Jurassic in Asia and Australia, including Koolasuchus, the youngest known stereospondyl (late Early Cretaceous) from what is now Australia. There is also sparse evidence for the persistence of some trematosauroids into the Jurassic of Asia. If the recent hypothesis that Chinlestegophis, a Late Triassic stereospondyl from North America, is indeed a stem caecilian is correct, then stereospondyls would survive to the present day.
+
+== Lifestyle and ecology ==
+Stereospondyls were particularly diverse during the Early Triassic, with small-bodied taxa such as lapillopsids and lydekkerinids that were likely more terrestrially capable present alongside larger taxa that would continue into the Middle Triassic, such as brachyopoids and trematosauroids. The vast majority of stereospondyls, particularly the large-bodied taxa, have been inferred to have been obligately aquatic based on features of the external anatomy such as a well-developed lateral line system, poorly ossified postcranial skeleton, and occasional preservation of proxies of external gills. Many taxa also reflect adaptations for an aquatic lifestyle as evidence in bone histology, which is pachyostotic in many taxa, although some studies suggest a greater terrestrial ability than historically inferred. Most of the aquatic taxa resided in freshwater environments, but some trematosauroids in particular are thought to have been euryhaline based on their preservation in marine sediments with marine organisms. While stereospondyls are often compared to modern crocodilians, the presence of multiple temnospondyls in some environments and the range of morphologies across Stereospondyli indicates that at least some clades occupied drastically different ecological niches, such as benthic ambush predators. Some groups, such as metoposaurids, are often recovered from large monotaxic bone beds interpreted as evidence of aggregation prior to mass death.Brusatte, S. L., Butler R. J., Mateus O., & Steyer S. J. (2015).  A new species of Metoposaurus from the Late Triassic of Portugal and comments on the systematics and biogeography of metoposaurid temnospondyls. Journal of Vertebrate Paleontology. e912988., 2015:
+
+==Relationships==
+
+===Phylogeny===
+
+
+==Gallery==
+
+
+File:Uranocentr10 copy.jpg|Uranocentrodon, a rhinesuchid
+File:Lyddekerina1db.jpg|Lydekkerina, a lydekkerinid
+File:Mastodonsaurus DB.jpg|Mastodonsaurus, a capitosaur
+File:Aphaneramma12DB.jpg|Aphaneramma, a trematosaurid
+File:Pelorocephalus1DB.jpg|Pelorocephalus, a chigutisaurid
+File:Indobrachyops panchetensis.jpg|Indobrachyops, a rhytidosteid
+File:Plagiosternum reconstruction.jpg|Plagiosternum, a plagiosaurid
+
+File:Metoposaurus diagnosticus kraselovi 1DB.jpg|Metoposaurus, a metoposaurid
+
+

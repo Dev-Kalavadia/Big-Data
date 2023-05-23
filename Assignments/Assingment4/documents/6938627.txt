@@ -1,0 +1,265 @@
+Title: List of sequenced eukaryotic genomes
+
+
+This list of "sequenced" eukaryotic genomes contains all the eukaryotes known to have publicly available complete nuclear and organelle genome sequences that have been sequenced, assembled, annotated and published; draft genomes are not included, nor are organelle-only sequences.
+
+DNA was first sequenced in 1977. The first free-living organism to have its genome completely sequenced was the bacterium Haemophilus influenzae, in 1995. In 1996 Saccharomyces cerevisiae (baker's yeast) was the first eukaryote genome sequence to be released and in 1998 the first genome sequence for a multicellular eukaryote, Caenorhabditis elegans, was released.
+
+==Protists==
+Following are the nine earliest sequenced genomes of protists. For a more complete list, see the List of sequenced protist genomes.
+{| class="wikitable sortable" style="border:1px solid #aaa;"
+|-
+! Organism !! Type !! Relevance !!Genome size !! Number of genes predicted !! Organization !! Year of completion
+|-
+|Guillardia theta
+|Cryptomonad
+|Model organism
+|0.551 Mb(nucleomorph genome only)
+|465, 513, 598 (UniProt)
+|Canadian Institute of Advanced Research, Philipps-University Marburg and the University of British Columbia
+|2001
+|-
+|Plasmodium falciparumClone:3D7
+|Apicomplexan
+|Human pathogen (malaria)
+|22.9 Mb
+|5,268
+|Malaria Genome Project Consortium
+|2002
+|-
+|Plasmodium yoelii yoeliiStrain:17XNL
+|Apicomplexan
+|Rodent pathogen (malaria)
+|23.1 Mb
+|5,878
+|TIGR and NMRC
+|2002
+|-
+|Cryptosporidium hominisStrain:TU502
+|Apicomplexan
+|Human pathogen
+|10.4 Mb
+|3,994
+|Virginia Commonwealth University
+|2004
+|-
+|Cryptosporidium parvumC- or genotype 2 isolate
+|Apicomplexan
+|Human pathogen
+|16.5 Mb
+|3,807
+|UCSF and University of Minnesota
+|2004
+|-
+|Thalassiosira pseudonanaStrain:CCMP 1335
+|Diatom
+|Model organism
+|34.5 Mb
+|11,242
+|Joint Genome Institute and the University of Washington
+|2004
+|-
+|Trypanosoma cruziStrain:CL-Brener
+|Kinetoplastid
+|Human Pathogen
+|67 Mb
+|22,570
+|The Institute for Genome Research (TIGR) and Karolinska Institutet (KI) and Seattle Biomedical Research Institute (SBRI)
+|2005
+|-
+|Trypanosoma bruceiClone:TREU 927/4
+|Kinetoplastid
+|Human Pathogen
+|26 Mb
+|9,068
+|Wellcome Trust Sanger Institute and The Institute for Genome Research (TIGR) 
+|2005
+|-
+|Leishmania majorStrain: Friedlin
+|Kinetoplastid
+|Human Pathogen
+|32.8 Mb
+|8,272
+|Wellcome Trust Sanger Institute and Seattle Biomedical Research Institute (SBRI)
+|2005
+|}
+
+==Plants==
+Following are the five earliest sequenced genomes of plants. For a more complete list, see the List of sequenced plant genomes.
+
+
+{| class="wikitable sortable" style="border:1px solid #aaa;"
+|-
+! Organism !! Type !! Relevance !!Genome size !! Number of chromosomes !! Number of genes predicted !! Organization !! Year of completion
+|-
+|Arabidopsis thalianaEcotype:Columbia
+|Wild mustard Thale Cress
+|Model plant
+|135 Mb
+|5
+|25,498, 27,400,Ensembl entry 31,670 (UniProt)
+|Arabidopsis Genome InitiativeArabidopsis Genome Initiative 
+|2000
+|-
+|Cyanidioschyzon merolaeStrain:10D
+|Red algae
+|Simple eukaryote
+|16.5 Mb
+|20
+|5,331
+|University of Tokyo, Rikkyo University, Saitama University and Kumamoto University
+|2004
+|-
+|Oryza sativassp indica
+|Rice
+|Crop and model organism
+|420 Mb
+|12
+|32-50,000
+|Beijing Genomics Institute, Zhejiang University and the Chinese Academy of Sciences
+|2002
+|-
+|Ostreococcus tauri
+|Green algae
+|Simple eukaryote, small genome
+|12.6 Mb
+|
+|7,969 (UniProt)
+|Laboratoire Arago
+|2006
+|-
+|Populus trichocarpa
+|Balsam poplar or Black Cottonwood
+|Carbon sequestration, model tree, commercial use (timber), and comparison to A. thaliana
+|550 Mb
+|19
+|45,555
+|The International Poplar Genome Consortium
+|2006
+|}
+
+==Fungi==
+Following are the five earliest sequenced genomes of fungi. For a more complete list, see the List of sequenced fungi genomes.
+
+
+{| class="wikitable sortable" style="border:1px solid #aaa;"
+|-
+! Organism !! Type !! Relevance !!Genome size !! Number of genes predicted !! Organization !! Year of completion
+|-
+|Saccharomyces cerevisiaeStrain:S288C
+|Saccharomycetes
+|Baker's Yeast; Model eukaryote
+|12.1 Mb
+|6,294
+|International Collaboration for the Yeast Genome SequencingInternational Collaboration for the Yeast Genome Sequencing 
+|1996
+|-
+|Encephalitozoon cuniculi
+|Microsporidium
+|Human pathogen
+|2.9 Mb
+|1,997
+|Genoscope and Université Blaise Pascal
+|2001
+|-
+|Schizosaccharomyces pombeStrain:972h-
+|Schizosaccharomycetes
+|Model eukaryote
+|14 Mb
+|4,824
+|Sanger Institute and Cold Spring Harbor Laboratory
+|2002
+|-
+|Neurospora crassa
+|Sordariomycetes
+|Model eukaryote
+|40 Mb
+|10,082
+|Broad Institute, Oregon Health and Science University, University of Kentucky, and the University of Kansas
+|2003
+|-
+|Phanerochaete chrysosporiumStrain:RP78  Imagine!
+|Agaricomycetes
+|Wood rotting fungus, use in mycoremediation
+| 30 Mb
+| 11,777
+| Joint Genome Institute
+| 2004
+|-
+|}
+
+==Animals==
+Following are the five earliest sequenced genomes of animals. For a more complete list, see the List of sequenced animal genomes.
+
+{| class="wikitable sortable" style="border:1px solid #aaa;"
+|-
+! Organism !! Type !! Relevance !!Genome size !! Number of genes predicted !! Organization !! Year of completion
+|-
+|Caenorhabditis elegansStrain:Bristol N2
+|Nematode
+|Model animal
+|100 Mb
+|19,000
+|Washington University and the Sanger Institute
+|1998
+|-
+|Drosophila melanogaster
+|Fruit fly
+|Model animal
+|165 Mb
+|13,600
+|Celera, UC Berkeley, Baylor College of Medicine, European DGP
+|2000
+|-
+|Anopheles gambiaeStrain: PEST
+|Mosquito
+|Vector of malaria
+|278 Mb
+|13,683H
+|Celera Genomics and Genoscope
+|2002
+|-
+|Takifugu rubripes
+|Puffer fish
+|Vertebrate with small genome
+|390 Mb
+|22–29,000International Fugu Genome Consortium. Forth Genome Assembly 
+|International Fugu Genome ConsortiumInternational Fugu Genome Consortium 
+|2002
+|-
+|Homo sapiens
+| Human
+|
+|3.2 Gb
+| 18,826 (CCDS consortium)
+|Human Genome Project Consortium and Celera Genomics
+|Draft 2001  Complete 2006
+|}
+
+==See also==
+*Genome project, Human genome
+*Genomic organization
+*History of genetics
+*List of sequenced animal genomes
+*List of sequenced archaeal genomes
+*List of sequenced bacterial genomes
+*List of sequenced fungi genomes
+* List of sequenced plant genomes
+* List of sequenced plastomes
+* List of sequenced protist genomes
+
+== References ==
+
+
+== External links ==
+* Diark - a resource for eukaryotic genome research
+* EMBL-EBL Eukaryotic Genomes
+* UCSC Genome Browser
+* International Sequencing Consortium - Large-scale Sequencing Project Database
+* Ensembl The Ensembl Genome Browser (includes draft and low coverage genomes)
+* GOLD:Genomes OnLine Database v 3.0
+* SUPERFAMILY comparative genomics database Includes genomes of all completely sequenced eukaryotes, and sophisticated datamining plus visualisation tools for analysis
+* Rat Genome Database
+
+Eukaryotic genomes
+Eukaryotic genomes

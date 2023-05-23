@@ -1,0 +1,187 @@
+Title: Udaipur Lok Sabha constituency
+
+
+
+Udaipur Lok Sabha constituency one of the 25 Lok Sabha (parliamentary) constituencies in Rajasthan state in India.
+
+==Assembly segments==
+Presently, Udaipur Lok Sabha constituency comprises eight Vidhan Sabha (legislative assembly) segments. These are:
+{| class="wikitable" width="500px"
+! width="50px" style="font-size:75%" |Constituency number
+! width="200px" |Name
+! width="100px" style="font-size:75%" |Reserved for (SC/ST/None)
+! width="150px" |District
+|-
+|149
+|Gogunda
+|ST
+|Udaipur
+|-
+|150
+|Jhadol
+|ST
+|Udaipur
+|-
+|151
+|Kherwara
+|ST
+|Udaipur
+|-
+|152
+|Udaipur Rural
+|ST
+|Udaipur
+|-
+|153
+|Udaipur
+|None
+|Udaipur
+|-
+|156
+|Salumber
+|ST
+|Udaipur
+|-
+|157
+|Dhariawad
+|ST
+|Pratapgarh
+|-
+|159
+|Aspur
+|ST
+|Dungarpur
+|-
+|}
+
+==Members of Parliament==
+
+{|class ="wikitable" 
+|-
+! Year 
+! Name 
+! colspan="2" |Party
+|-
+|1952
+|Balwant Singh Mehta
+| 
+|-
+|1957
+|Parmar Shri Deenbandhu
+|-
+|1962
+| rowspan="2" |Dhuleshwar Meena
+|-
+|1967
+|-
+|1971
+|Laljibhai Meena
+| width="4px" style="background-color: " |
+|Bharatiya Jana Sangh
+|-
+|1977
+|Bhanu Kumar Shastri
+| width="4px" style="background-color: " |
+|Janata Party
+|-
+|1980
+|Mohan Lal Sukhadia
+| rowspan="2" width="4px" style="background-color: " |
+| rowspan="2" |Indian National Congress
+|-
+|1984
+|Indubala Sukhadia
+|-
+|1989
+|Gulab Chand Kataria
+| width="4px" style="background-color: " |
+|Bharatiya Janata Party
+|-
+|1991
+| rowspan="2" |Girija Vyas
+| rowspan="2" width="4px" style="background-color: " |
+| rowspan="2" |Indian National Congress
+|-
+|1996
+|-
+|1998
+|Shanti Lal Chaplot
+| width="4px" style="background-color: " |
+|Bharatiya Janata Party
+|-
+|1999
+|Girija Vyas
+| width="4px" style="background-color: " |
+|Indian National Congress
+|-
+|2004
+|Kiran Maheshwari
+| width="4px" style="background-color: " |
+|Bharatiya Janata Party
+|-
+|2009
+|Raghuveer Meena
+| width="4px" style="background-color: " |
+|Indian National Congress
+|-
+|2014
+| rowspan="2" |Arjunlal Meena
+| rowspan="2" width="4px" style="background-color: " |
+| rowspan="2" |Bharatiya Janata Party
+|-
+|2019
+|-
+|}
+
+==Election results==
+===General election 2019===
+
+
+
+
+
+
+
+ 
+ 
+
+
+===General election 2014 ===
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+===General election 2009===
+
+
+
+
+
+
+ 
+ 
+
+
+==See also==
+* Udaipur district
+* List of Constituencies of the Lok Sabha
+
+==Notes==
+
+
+
+
+
+
+
+Category:Lok Sabha constituencies in Rajasthan
+Category:Udaipur district

@@ -1,0 +1,381 @@
+Title: List of places in Alaska (B)
+
+This list of cities, towns, unincorporated communities, counties, and other recognized places in the U.S. state of Alaska also includes information on the number and names of counties in which the place lies, and its lower and upper zip code bounds, if applicable.
+
+
+{| class="wikitable"
+!Name of place
+!Number of counties
+!Principal county
+!Lower zip code
+!Upper zip code
+|----
+|Badger
+|1
+|Fairbanks North Star Borough
+|99711
+| 
+|----
+|Baker
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Baranof
+|1
+|City and Borough of Sitka
+|99833
+| 
+|----
+|Barrow
+|1
+|North Slope Borough
+|99723
+| 
+|----
+|Barrow-Point Hope
+|1
+|North Slope Borough
+| 
+| 
+|----
+|Barter Island
+|1
+|North Slope Borough
+| 
+| 
+|----
+|Barter Island DEW Station
+|1
+|North Slope Borough
+|99701
+| 
+|----
+|Bartlett Cove
+|1
+|Skagway-Hoonah-Angoon Census Area
+|99826
+| 
+|----
+|Bear Creek
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Beaver
+|1
+|Yukon-Koyukuk Census Area
+|99724
+| 
+|----
+|Beaverhouse Hill
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|Beechey Point
+|1
+|North Slope Borough
+| 
+| 
+|----
+|Belkofski
+|1
+|Aleutians East Borough
+|99612
+| 
+|----
+|Bell Island
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Bell Island Hot Springs
+|1
+|Prince of Wales-Outer Census Area
+|99901
+| 
+|----
+|Beluga
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Berg
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Bering Land Bridge National Monument
+|2
+|Nome Census Area
+|99501
+| 
+|----
+|Bering Land Bridge National Monument
+|2
+|Northwest Arctic Borough
+|99501
+| 
+|----
+|Bering Strait Regional Educational Attendance Area
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Bering Straits
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Berry
+|1
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Bethel
+|1
+|Bethel Census Area
+|99559
+| 
+|----
+|Bethel Airport
+|1
+|Bethel Census Area
+|99559
+| 
+|----
+|Bettles
+|1
+|Yukon-Koyukuk Census Area
+|99726
+| 
+|----
+|Bettles Field
+|1
+|Yukon-Koyukuk Census Area
+|99726
+| 
+|----
+|Big Delta
+|1
+|Southeast Fairbanks Census Area
+|99737
+| 
+|----
+|Big Horn
+|1
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Big Lake
+|1
+|Matanuska-Susitna Borough
+|99652
+| 
+|----
+|Big Mountain Radio Relay Site
+|1
+|Dillingham Census Area
+|99501
+| 
+|----
+|Bill Moores
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Bill Moore's
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Biorka
+|1
+|Aleutians West Census Area
+| 
+| 
+|----
+|Birch Creek
+|1
+|Yukon-Koyukuk Census Area
+|99740
+| 
+|----
+|Birches
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Birch Lake
+|1
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Birchwood
+|1
+|Municipality of Anchorage
+| 
+| 
+|----
+|Bird
+|1
+|Municipality of Anchorage
+| 
+| 
+|----
+|Bjerremark
+|1
+|Fairbanks North Star Borough
+|99701
+| 
+|----
+|Black
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Black Dome
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Bluff
+|1
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Bluff
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Bodenburg Butte
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Bonibrook
+|1
+|Municipality of Anchorage
+| 
+| 
+|----
+|Border
+|1
+|Southeast Fairbanks Census Area
+|99780
+| 
+|----
+|Bornite
+|1
+|Northwest Arctic Borough
+| 
+| 
+|----
+|Boswell Bay
+|1
+|Valdez-Cordova Census Area
+|99574
+| 
+|----
+|Boundary
+|1
+|Southeast Fairbanks Census Area
+|99701
+| 
+|----
+|Brevig Mission
+|1
+|Nome Census Area
+|99785
+| 
+|----
+|Bristol Bay
+|2
+|Bristol Bay Borough
+| 
+| 
+|----
+|Bristol Bay
+|2
+|Dillingham Census Area
+| 
+| 
+|----
+|Bristol Bay
+|1
+|Bristol Bay Borough
+| 
+| 
+|----
+|Bristol Bay Borough School District
+|1
+|Bristol Bay Borough
+| 
+| 
+|----
+|Broadmoor
+|1
+|Fairbanks North Star Borough
+|99701
+| 
+|----
+|Broad Pass
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Browerville
+|1
+|North Slope Borough
+|99723
+| 
+|----
+|Browne
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Buckland
+|1
+|Northwest Arctic Borough
+|99727
+| 
+|----
+|Buffalo Soapstone
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Butte
+|1
+|Matanuska-Susitna Borough
+|99645
+| 
+|----
+|}
+
+ B

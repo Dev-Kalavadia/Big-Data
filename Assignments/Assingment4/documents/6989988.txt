@@ -1,0 +1,30 @@
+Title: R5 expressway (Slovakia)
+
+
+R5 is a very short expressway () in northwestern Slovakia.
+
+It will connect Žilina Region with Ostrava agglomeration. It starts on highway interchange with D3 just north of Čadca and ends at border with Czech Republic.Česká cesta I/11 is built in the parameters of an expressway, in the border section then in the parameters of an expressway in a half profile. It is connected to the Czech highway D48. With a length of less than two kilometers, R5 will be the shortest expressway in Slovakia after its completion. The European Route E75 will follow its route.
+
+In the technical studies, several variants were assessed, including zero (rejection of construction) and the extension of the existing road I/11 to the parameters of a half-profile expressway. The null variant and the road widening variant were rejected and two similar variants were shortlisted. In the red variant, a level connection of the built-up part of the village Svrčinovec to R5 is considered. The green variant with level crossings does not count.
+
+In June and 2010, the Ministry of the Environment issued an opinion in which the Ministry, from the point of view of environmental studies, recommends the construction of the red variant in a width arrangement of 11.5 meters (half profile) in the first stage. After the intersections are full, he proposes to rebuild the red variant into a green one in the second stage, i.e. level crossings into mímóvrňové. After the year 2040, or after the capacity of the semi-profile road is filled, the Ministry recommends the completion of the second lane in a width arrangement of 22.5 meters.
+
+According to reports from September 2020, there is a threat of cancellation of road construction. The National Highway Company does not consider the road in the construction of the ecoduct, the bridge for animals, which was originally part of the R5 construction plan. According to another statement, R5 remains in the construction plan, but further progress will follow only after the completion of the D3 highway. The planned cost is €58 million, with a length of 1.7 kilometers, it is €34 million per kilometer, which is comparable to the tunnel bypass of Žilina and Strečno on the D1. According to the current plans of the Ministry of Transport, the R5 road will not be constructed or open until 2028. She was not included in the plans, regardless of the high level of preparation. With regard to the highway nature of the Czech road I/11, after the completion of its connection to the D48 highway in December 2022, a significant increase in traffic intensity on the R5 route can be expected. Nevertheless, taking into account the current intentions of the Ministry of Transport, the opening of the expressway cannot be expected before 2050.
+
+== Overview of sections of the R5 expressway ==
+{| class="wikitable sortable"
+!Section order
+!Section designation
+!Section length in km
+!Starting construction
+section
+!opening of section
+!Exits and intersections
+|- style="background-color: #e56262"
+|1.
+|Svrčinovec, intersection R5xD3 - state border SR/CR
+|1.7
+|Not included in the plan before 2028
+|?
+|1. Intersection R5xD3, Svrčinovec
+|}

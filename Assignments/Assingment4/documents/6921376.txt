@@ -1,0 +1,91 @@
+Title: Tomaszów County, Łódź Voivodeship
+
+__NOTOC__
+Tomaszów County () is a county in Łódź Voivodeship, central Poland. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and only town is Tomaszów Mazowiecki, which lies  south-east of the regional capital Łódź.
+
+The county covers an area of . As of 2006 its total population is 120,973, out of which the population of Tomaszów Mazowiecki is 66,705 and the rural population is 54,268.
+
+==Neighbouring counties==
+Tomaszów County is bordered by Brzeziny County, Skierniewice County and Rawa County to the north, Grójec County and Przysucha County to the east, Opoczno County to the south-east, Piotrków County to the west, and Łódź East County to the north-west.
+
+==Administrative division==
+The county is subdivided into 11 gminas (one urban and 10 rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km²)
+| style="text-align:center;"|Population(2006)
+| style="text-align:center;"|Seat
+|-
+|Tomaszów Mazowiecki
+|urban
+| style="text-align:right;"|41.3
+| style="text-align:right;"|66,705
+| 
+|-
+|Gmina Tomaszów Mazowiecki
+|rural
+| style="text-align:right;"|151.3
+| style="text-align:right;"|9,826
+|Tomaszów Mazowiecki *
+|-
+|Gmina Ujazd
+|rural
+| style="text-align:right;"|97.0
+| style="text-align:right;"|7,747
+|Ujazd
+|-
+|Gmina Lubochnia
+|rural
+| style="text-align:right;"|131.6
+| style="text-align:right;"|7,600
+|Lubochnia
+|-
+|Gmina Rokiciny
+|rural
+| style="text-align:right;"|90.5
+| style="text-align:right;"|5,925
+|Rokiciny
+|-
+|Gmina Czerniewice
+|rural
+| style="text-align:right;"|127.7
+| style="text-align:right;"|5,113
+|Czerniewice
+|-
+|Gmina Rzeczyca
+|rural
+| style="text-align:right;"|108.3
+| style="text-align:right;"|4,971
+|Rzeczyca
+|-
+|Gmina Inowłódz
+|rural
+| style="text-align:right;"|98.0
+| style="text-align:right;"|3,879
+|Inowłódz
+|-
+|Gmina Będków
+|rural
+| style="text-align:right;"|57.9
+| style="text-align:right;"|3,520
+|Będków
+|-
+|Gmina Żelechlinek
+|rural
+| style="text-align:right;"|92.0
+| style="text-align:right;"|3,470
+|Żelechlinek
+|-
+|Gmina Budziszewice
+|rural
+| style="text-align:right;"|30.1
+| style="text-align:right;"|2,217
+|Budziszewice
+|-
+|colspan=5 style="text-align:right;font-size:90%"|* seat not part of the gmina
+|-
+|}
+

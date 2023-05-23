@@ -1,0 +1,54 @@
+Title: Sigma-ring
+In mathematics, a nonempty collection of sets is called a -ring (pronounced sigma-ring) if it is closed under countable union and relative complementation.
+
+== Formal definition ==
+
+Let \mathcal{R} be a nonempty collection of sets. Then \mathcal{R} is a -ring if:
+# Closed under countable unions: \bigcup_{n=1}^{\infty} A_{n} \in \mathcal{R} if A_{n} \in \mathcal{R} for all n \in \N
+# Closed under relative complementation: A \setminus B \in \mathcal{R} if A, B \in \mathcal{R}
+
+== Properties ==
+
+These two properties imply:
+\bigcap_{n=1}^{\infty} A_n \in \mathcal{R}
+whenever A_1, A_2, \ldots are elements of \mathcal{R}. 
+
+This is because
+\bigcap_{n=1}^\infty A_n = A_1 \setminus \bigcup_{n=2}^{\infty}\left(A_1 \setminus A_n\right).
+
+Every -ring is a δ-ring but there exist δ-rings that are not -rings.
+
+== Similar concepts ==
+
+If the first property is weakened to closure under finite union (that is, A \cup B \in \mathcal{R} whenever A, B \in \mathcal{R}) but not countable union, then \mathcal{R} is a ring but not a -ring.
+
+== Uses ==
+
+-rings can be used instead of -fields (-algebras) in the development of measure and integration theory, if one does not wish to require that the universal set be measurable. Every -field is also a -ring, but a -ring need not be a -field.
+
+A -ring \mathcal{R} that is a collection of subsets of X induces a -field for X. Define \mathcal{A} = \{ E \subseteq X : E \in \mathcal{R} \ \text{or} \ E^c \in \mathcal{R} \}. Then \mathcal{A} is a -field over the set X - to check closure under countable union, recall a \sigma-ring is closed under countable intersections. In fact \mathcal{A} is the minimal -field containing \mathcal{R} since it must be contained in every -field containing \mathcal{R}.
+
+== See also ==
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+== References ==
+
+
+* Walter Rudin, 1976. Principles of Mathematical Analysis, 3rd. ed. McGraw-Hill. Final chapter uses -rings in development of Lebesgue theory.
+
+
+
+Category:Measure theory
+Category:Families of sets

@@ -1,0 +1,20 @@
+Title: Glucose cycle
+
+The glucose cycle (also known as the hepatic futile cycle) occurs primarily in the liver and is the dynamic balance between glucose and glucose 6-phosphate. This is important for maintaining a constant concentration of glucose in the blood stream.
+
+==Function==
+The glucose cycle is required for one of the liver functions; the homeostasis of glucose in the blood stream.  When the blood glucose level is too high, glucose can be stored in the liver as glycogen. When the level is too low, the glycogen can be catabolised and glucose may re-enter the blood stream.
+
+The catabolic process occurs at the nonreducing end of glycogen. A phosphate group breaks the bond between C 1 of a glucose ring and the O that connects it to the next(phosphorolysis). One glucose unit is thus split off. Glycogen (with n glucose units) is converted into G-1-P(a PO4 group now attaches to C1 where O used to ) and glycogen (with n-1 glucose units) by enzyme glycogen phosphorylase. G-1-P is then converted into G-6-P by enzyme phosphoglucomutase. A water molecule hydrolyses G-6-P to glucose, the enzyme is glucose-6-phosphatase.
+
+==Cell specificity==
+When glucose enters a cell it is rapidly changed to glucose 6-phosphate, by hexokinase or glucokinase. The glucose cycle can occur in liver cells due to a liver specific enzyme glucose-6-phosphatase, which catalyse the dephosphorylation of glucose 6-phosphate back to glucose.
+
+Glucose-6-phosphate is the product of glycogenolysis or gluconeogenesis, where the goal is to increase free glucose in the blood due body being in catabolic state. Other cells such as muscle and brain cells do not contain glucose 6-phosphatase. As a result, any glucose 6-phosphate produced in those cells is committed to cellular metabolic pathways, primarily pentose phosphate pathway or glycolysis.
+
+==Regulation of glucose cycle==
+Flux through the glucose cycle is regulated by several hormones including insulin and glucagon as well as allosteric regulation of both hexokinase and glucose 6-phosphatase.
+
+==Diseases associated with glucose cycle==
+A deficiency in glucose 6-phosphatase that disrupts the liver glucose cycle, can lead to von Gierke's disease.
+

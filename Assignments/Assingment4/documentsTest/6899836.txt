@@ -1,0 +1,45 @@
+Title: Uzushio-class submarine
+
+{|
+
+
+
+|}
+
+The Uzushio-class submarine (Whirlpools) was a series of submarines in service with Japanese Maritime Self Defense Force which was the first generation of the teardrop type submarine that valued the underwater performance against that of the conventional-hull type . Seven from 1967 fiscal year were built with the third defense plan. The eighth 49 fiscal year warship was discontinued and construction was discontinued because of the construction expense and sudden rise oil crisis though eight were planned at first. Many were converted to training submarines (ATSS) towards the end of their lives.
+
+==General characteristics==
+The Uzushio-class submarine adopted the teardrop hull type for the first time in the Maritime Self-Defense Force. When the  was built, the adoption of the teardrop type had been examined. However, the Maritime Self-Defense Force at that time selected the conventional model that valued safety from the operation results. It was moving to the warship type that valued the underwater performance, and the examination that used the model in 1960 fiscal year was advanced, and necessary data was obtained also with TRDI in the age.
+
+When designing, the location etc. are original though it refers to the  of United States Navy of not a complete copy but the inner shell structure and sail plane and torpedo tube.
+
+==Boats==
+
+{|class=wikitable
+! Project no. || Building no. || Pennant no. || Name || Laid down || Launched || Commissioned ||width="25%"| Note 
+|-
+| rowspan="2"| S118 || 8081 || SS-566 || || 25 September 1968 || 11 March 1970 || 21 January 1971 || Decommissioned 24 March 1987, scrapped
+|-
+| 8082 || SS-567 || || 21 June 1969 || 27 January 1971 || 2 February 1972 || Decommissioned 11 March 1988, scrapped
+|-
+| rowspan="3"| S119 || 8083 || SS-568/ATSS-8001 || || 9 July 1970 || 18 March 1972 || 25 November 1972 || Converted to auxiliary training submarine (ATSS-8001) on 24 March 1989, decommissioned 25 March 1992, sunk as target off Izu Ōshima August 1994
+|-
+| 8084 || SS-569/ATSS-8002 || || 8 May 1971 || 22 November 1972 || 28 September 1973 || Converted to auxiliary training submarine (ATSS-8002) on 8 June 1990, decommissioned 15 March 1993, scrapped
+|-
+| 8085 || SS-570/ATSS-8003 || || 5 July 1972 || 22 February 1974 || 27 November 1974 || Converted to auxiliary training submarine (ATSS-8003) on 20 March 1991, decommissioned 1 March 1994, scrapped
+|-
+| rowspan="3"| S119A || 8086 || SS-571/ATSS-8004 || || 6 July 1973 || 30 June 1975 || 30 January 1976 || Converted to auxiliary training submarine (ATSS-8004) on 6 June 1992, decommissioned 26 July 1995, scrapped
+|-
+| 8087 || SS-572/ATSS-8005 || || 14 April 1975 || 19 May 1977 || 7 March 1978 || Converted to auxiliary training submarine (ATSS-8005) on 14 August 1994, decommissioned 1 August 1996, scrapped
+|-
+| colspan="3"| 1 submarine || || || || Canceled because of the 1973 oil crisis, naval budget was used for the DE Chikugo-class and others.
+|-
+|}
+
+
+
+
+
+
+Category:Submarine classes
+ 

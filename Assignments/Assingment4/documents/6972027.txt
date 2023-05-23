@@ -1,0 +1,77 @@
+Title: Rallus
+
+
+
+Rallus is a genus of  wetland birds of the rail family. Sometimes, the genera Lewinia and Gallirallus are included in it. Six of the species are found in the Americas, and the three species found in Eurasia, Africa and Madagascar are very closely related to each other, suggesting they are descended from a single invasion of a New World ancestor.Taylor & van Perlo (1998)
+
+These are slim, long-billed rails with slender legs. Their laterally flattened bodies are an adaptation to life in wet reedbeds and marshes, enabling them to slip easily through the dense semi-aquatic vegetation. Typically these birds have streaked brown upperparts, blue-grey on the face or breast, and barred flanks. Only the African rail has a plain back,  and  the plain-flanked rail lacks any blue-grey in its plumage and has no flank bars.
+
+Three endemic South American species are endangered by habitat loss, and the Madagascar rail is becoming rare.
+
+==Taxonomy==
+The genus Rallus was erected in 1758 by the Swedish naturalist Carl Linnaeus in the tenth edition of his Systema Naturae. The type species was subsequently designated as the water rail (Rallus aquaticus). The genus name Rallus comes from the pre-binomial Latin name Rallus aquaticus for the water rail used by English ornithologist Francis Willughby in 1676, and by the English naturalist Eleazar Albin in 1731. The precise etymology of the word Rallus is uncertain.
+
+===Species===
+The genus contains 14 extant species:
+{| class="wikitable"
+|-
+! Image !!  Common Name!! Scientific name !! Distribution
+|-
+|120px ||Ecuadorian rail  || Rallus aequatorialis||southwestern Colombia to southwestern Peru.
+|-
+|120px ||Austral rail  || Rallus antarcticus|| Argentina and Chile.
+|-
+|120px ||Water rail  || Rallus aquaticus|| Europe, Asia and North Africa.
+|-
+|120px ||African rail  || Rallus caerulescens||from Ethiopia to South Africa.
+|-
+|120px ||Clapper rail  || Rallus crepitans||eastern U.S., the Gulf of Mexico, eastern Mexico, some Caribbean islands, and south through eastern Central America.
+|-
+|120px ||King rail  || Rallus elegans||southern United States and Mexico; in Canada, they are found in southern Ontario.
+|-
+|120px ||Brown-cheeked rail  || Rallus indicus||northern Mongolia, eastern Siberia, northeast China, Korea and northern Japan.
+|-
+|120px ||Virginia rail  || Rallus limicola|| southern United States and Central America. 
+|-
+|120px ||Mangrove rail  || Rallus longirostris||northeast Colombia, northwest Venezuela ,Brazil, Trinidad
+|-
+|120px ||Madagascar rail  || Rallus madagascariensis||Madagascar. 
+|-
+|120px ||Ridgway's rail  || Rallus obsoletus||southeastern California and southern Arizona, to northwestern Mexico.
+|-
+|120px ||Bogotá rail  || Rallus semiplumbeus||Colombia. 
+|-
+|120px ||Aztec rail  || Rallus tenuirostris||Mexico.
+|-
+| ||Plain-flanked rail  || Rallus wetmorei||Venezuela. 
+|-
+|}
+
+===Fossil record===
+* Rallus sp. (Sajóvölgyi Middle Miocene of Mátraszõlõs, Hungary)Gál et al. (1998–1999)
+* Rallus sp. (Rexroad Late Pliocene of Saw Rock Canyon, USA)
+* Rallus adolfocaesaris Porto Santo rail (prehistoric of Madeira)
+* Rallus auffenbergi (Middle Pleistocene of SE North America) – formerly Porzana
+* Rallus carvaoensis São Miguel rail (prehistoric of São Miguel Island in the Azores)
+* Rallus cyanocavi (Late Pleistocene of the Bahamas) 
+* Rallus eivissensis, Ibiza rail (prehistoric)
+* Rallus ibycus (Shore Hills Late Pleistocene of Bermuda, W Atlantic)
+* Rallus lacustris (Late Pliocene of C North America)
+* Rallus lowei Madeira rail (prehistoric of Madeira)
+* Rallus montivagorum Pico rail (prehistoric of Pico Island in the Azores)
+* Rallus nanus São Jorge rail (prehistoric of São Jorge Island in the Azores) - erroneously previously described as Rallus minutus, which is a junior homonym
+* Rallus natator (Pleistocene of San Josecito Cavern, Mexico) – formerly Epirallus
+* Rallus phillipsi (Late Pliocene of Wickieup, USA)
+* Rallus prenticei (Late Pliocene of C North America)
+* Rallus recessus (St Georges Soil Late Pleistocene of Bermuda, W Atlantic)
+* Rallus richmondi – includes R. dubius
+
+===Formerly in Rallus===
+* "R." arenarius – now Quercyrallus
+* "R." beaumontii, "R." dispar – now Pararallus or Palaeoaramides
+* "R." christyi, "R." eximius, "R." minor – now Palaeoaramides
+* "R." major – now Miorallus
+* "R." porzanoides – now Paraortygometra
+
+"R." sumiderensis apparently refers to prehistoric remains of the Zapata rail (Cyanolimnas cerverai).
+

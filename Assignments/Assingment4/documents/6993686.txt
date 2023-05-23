@@ -1,0 +1,265 @@
+Title: Tofa language
+
+
+Tofa, also known as Tofalar or Karagas, is a moribund Turkic language spoken in Russia's Irkutsk Oblast by the Tofalars. Recent estimates for speakers run from 93 people to fewer than 40.
+
+==Classification==
+Tofa is most closely related to the Tuvan languageLars Johanson (1998) "The History of Turkic". In Lars Johanson & Éva Ágnes Csató (eds) The Turkic Languages. London, New York: Routledge, 81-125. Classification of Turkic languages at Turkiclanguages.com and forms a dialect continuum with it. Tuha and Tsengel Tuvan may be dialects of either Tuvan or Tofa. Tofa shares a number of features with these languages, including the preservation of *d as /d/ (as in hodan "hare" - compare Uzbek quyon) and the development of low tones on historically short vowels (as in *et > èt "meat, flesh").
+
+Alexander Vovin (2017) notes that Tofa and other Siberian Turkic languages, especially Sayan Turkic, have Yeniseian loanwords.Vovin, Alexander. 2017. "Some Tofalar Etymologies." In Essays in the history of languages and linguistics: dedicated to Marek Stachowski on the occasion of his 60th birthday. Krakow: Księgarnia Akademicka.
+
+==Geographical and demographical distribution==
+left|thumb|Historical Range of Tofalaria
+The Tofa, who are also known as the Tofalar or Karagas, are an indigenous people living in southwestern Irkutsk Oblast, in Russia.  The region they inhabit is informally known as Tofalaria.  They are traditionally a nomadic reindeer-herding people, living on or near the Eastern Sayan mountain range. However, reindeer herding has greatly declined since the 20th century, with only one Tofa family continuing the practice .Donahoe, Brian Robert (2004) A line in the Sayans: History and divergent perceptions of property among the Tozhu and Tofa of South Siberia. Doctoral Thesis. Indiana University.  Recognized by the former USSR in 1926 as one of the "Small Numbered Minorities of the North," (Russian: коренные малочисленные народы Севера, Сибири и Дальнего Востока) the Tofa have special legal status and receive economic support from Russia.  The Tofa population is around 750 people; around 5% of the population spoke Tofa as a first language in 2002, (although that number has likely declined since then, due to the age of the speakers).  Although the population of Tofalaria appears to be growing, the number of ethnic Tofalar seems to be in decline.
+
+=== Effects of language contact ===
+Language contact—mainly with Russian speakers—has been extensive since 1926, when the Tofa officially received their "Small Numbered Minorities of the North" status from the USSR (Russian: коренные малочисленные народы Севера, Сибири и Дальнего Востока) and underwent significant cultural, social, and economic changes.  Most notably, this traditionally nomadic, reindeer-herding people have since become sedentary and reindeer herding has all but vanished among the Tofa.  In addition to visiting tax collectors and tourists, many other Russians have come to the Sayan mountain range to live.  Russian migration and intermarriage also has had an effect, according to a citation by Donahoe: "In 1931, of a total population in Tofalaria of 551, approximately 420 (76%) were Tofa, and the remaining 131 (24%) were non-Tofa, predominantly Russian (Mel'nikova 1994:36 and 231). By 1970, the population in Tofalaria had increased to 1368, of whom 498 (36%) were Tofa, and 809 (59%) were Russian (Sherkhunaev 1975:23)."(p. 159)  There were approximately 40 speakers of various fluency levels by 2002, and this number has likely continued to decrease in the intervening time.
+
+==Phonology==
+
+===Vowels===
+The following table lists the vowels of Tofa. The data was taken from Ilgın and Rassadin.
+
+{| class="wikitable" style="text-align: center;"
+! rowspan="2" |
+! colspan="2" |Front
+! colspan="2" |Back
+|-
+! Short || Long
+! Short || Long
+|-
+! Close
+|, 
+|, 
+|, 
+|, 
+|-
+! Open-mid
+|, 
+|, 
+|
+|
+|-
+! Open
+|
+|
+|
+|
+|}
+
+All vowels except [] can be pharyngealized []. According to Rassadin pharyngealization is realized as creaky voice []. There is also a short [].
+
+===Consonants===
+The following table lists the consonants of Tofa. The data was taken from Ilgın and Rassadin.
+
+{| class="wikitable" style="text-align:center"
+!
+!Labial
+!Alveolar
+!Palatal
+!Velar
+!Uvular
+!Glottal
+|-
+!Nasal
+|
+|
+|
+|
+|
+|
+|-
+!Plosive
+|, 
+|, 
+|, 
+|, 
+|, 
+|
+|-
+!Fricative
+|(), 
+|, 
+|, 
+|
+|
+|, 
+|-
+!Affricate
+|
+|
+|, 
+|
+|
+|
+|-
+!Liquid
+|
+|, 
+|
+|
+|
+|
+|-
+!Glide
+|
+|
+|
+|
+|
+|
+|}
+
+===Vowel harmony===
+Many dialects of Tofa exhibit vowel harmony, although this harmony seems to be linked to fluency: as one decreases, so does the other.  Tofa vowel harmony is progressive and based on two features: backness and rounding, and this occurs both root-internal and in affixes.  Enclitics do not appear to trigger backness harmony, and rounding harmony in Tofa has been undergoing changes, and may apply inconsistently.  In some cases this may be due to opaque rules resulting in an apparent "disharmony", especially among speakers of the younger generation.  The complications surrounding Tofa vowel harmony may also be due to fluctuations from language endangerment.  In general, Russian loanwords do not appear to conform to vowel harmony.  Given the increasing quantity of these loanwords, leveling may also be a factor in the inconsistent application of vowel harmony.
+
+==Morphology and syntax==
+Tofa is an agglutinative language with a few auxiliary verbs.  The bare stem of a verb is only used in the singular imperative; other categories are marked by suffixation, including the singular imperative negative.  The Tofa suffix /--sig/ is an especially unusual derivational suffix in that it attaches to any noun to add the meaning 'smelling of + [NOUN]' or 'smelling like + [NOUN]'.  Grammatical number in Tofa includes singular, plural, dual inclusive ('you and me'), and plural inclusive, tense includes the present and past, and aspect includes the perfective and imperfective. Historically suffixes conformed to Tofa vowel harmony rules, but that appears to be changing. Some example sentences are included below to illustrate suffixation:
+{| class="wikitable"
+! Rounding Harmony in Roots
+!Gloss
+! Rounding Harmony in Suffixes
+!Gloss
+|-
+|[oruk]
+|'road'
+|gøk-tyɣ
+|
+|-
+|[tyŋgyr]
+|'drum'
+|tyŋgyr-lyɣ
+|
+|-
+|[kuduruk]
+|'wolf'
+|kuduruk-tuɣ
+| (literally )
+|}
+
+Plural Perfective
+
+
+
+Singular Imperative
+
+
+
+Singular Imperative Negative
+
+
+
+=== Pronouns ===
+Tofa has six personal pronouns:
+
+{|class="wikitable"
+|+Personal pronouns
+!
+!Singular
+!Plural
+|-
+!1st person
+|
+|
+|-
+!2nd person
+|
+|
+|-
+!3rd person
+|
+|
+|}
+
+Tofa also has the pronouns бо "this", тээ "that", кум "who", and чү "what".
+
+==Vocabulary==
+Tofa words are very similar to many other Turkic Languages, but none more than Tuvan. English and Russian are provided for reference.
+{| class="wikitable"
+|+
+!Tofalar
+!Tuvan
+!Russian
+!English
+|-
+|Aът (At)
+|Aът (Àt)
+|Конь (Kon)
+|Horse
+|-
+|Cөөк (Söök)
+|Cөөк (Söök)
+|Кость (Kost)
+|Bone
+|-
+|Боос (Boos)
+|Боостаа (Boostaa)
+|Горло (Gorlo)
+|Throat
+|-
+|Даң Аътары (Daŋ Atary)
+|Даң Хаяазы (Daŋ Khayaazy)
+|Рассвет (Rassvet)
+|Dawn
+|-
+|Һартыға (Hartyğa)
+|Xартыга (Khartyga)
+|Сокол (Sokol)
+|Falcon
+|}
+
+==Writing system==
+Tofa, although not often written, employs a Cyrillic alphabet:
+
+{| style="font-family:Arial Unicode MS; font-size:1.4em; border-color:#000000; border-width:1px; border-style:solid; border-collapse:collapse; background-color:#FFFFFF"
+| style="width:3em; text-align:center; padding: 3px;" | А а
+| style="width:3em; text-align:center; padding: 3px;" | Б б
+| style="width:3em; text-align:center; padding: 3px;" | В в
+| style="width:3em; text-align:center; padding: 3px;" | Г г
+| style="width:3em; text-align:center; padding: 3px;" | Ғ ғ
+| style="width:3em; text-align:center; padding: 3px;" | Д д
+| style="width:3em; text-align:center; padding: 3px;" | Е е
+|-
+| style="width:3em; text-align:center; padding: 3px;" | Ә ә
+| style="width:3em; text-align:center; padding: 3px;" | Ё ё
+| style="width:3em; text-align:center; padding: 3px;" | Ж ж
+| style="width:3em; text-align:center; padding: 3px;" | З з
+| style="width:3em; text-align:center; padding: 3px;" | И и
+| style="width:3em; text-align:center; padding: 3px;" | I i
+| style="width:3em; text-align:center; padding: 3px;" | Й й
+|-
+| style="width:3em; text-align:center; padding: 3px;" | К к
+| style="width:3em; text-align:center; padding: 3px;" | Қ қ
+| style="width:3em; text-align:center; padding: 3px;" | Л л
+| style="width:3em; text-align:center; padding: 3px;" | М м
+| style="width:3em; text-align:center; padding: 3px;" | Н н
+| style="width:3em; text-align:center; padding: 3px;" | Ң ң
+| style="width:3em; text-align:center; padding: 3px;" | О о
+|-
+| style="width:3em; text-align:center; padding: 3px;" | Ө ө
+| style="width:3em; text-align:center; padding: 3px;" | П п
+| style="width:3em; text-align:center; padding: 3px;" | Р р
+| style="width:3em; text-align:center; padding: 3px;" | С с
+| style="width:3em; text-align:center; padding: 3px;" | Т т
+| style="width:3em; text-align:center; padding: 3px;" | У у
+| style="width:3em; text-align:center; padding: 3px;" | Ү ү
+|-
+| style="width:3em; text-align:center; padding: 3px;" | Ф ф
+| style="width:3em; text-align:center; padding: 3px;" | Х х
+| style="width:3em; text-align:center; padding: 3px;" | Һ һ
+| style="width:3em; text-align:center; padding: 3px;" | Ц ц
+| style="width:3em; text-align:center; padding: 3px;" | Ч ч
+| style="width:3em; text-align:center; padding: 3px;" | Ҷ ҷ/
+| style="width:3em; text-align:center; padding: 3px;" | Ш ш
+|-
+| style="width:3em; text-align:center; padding: 3px;" | Щ щ
+| style="width:3em; text-align:center; padding: 3px;" | ъ
+| style="width:3em; text-align:center; padding: 3px;" | Ы ы
+| style="width:3em; text-align:center; padding: 3px;" | ь
+| style="width:3em; text-align:center; padding: 3px;" | Э э
+| style="width:3em; text-align:center; padding: 3px;" | Ю ю
+| style="width:3em; text-align:center; padding: 3px;" | Я я
+|}
+
+Tofa has letters that are not present in the Russian alphabet: Ғғ , Әә , Ii , Ққ , Ңң , Өө , Үү , Һһ , and Ҷҷ . Additionally, the letter ъ is sometimes used after a vowel to mark pharyngealization [ˤ], as in эът [ʔɛˤt̪] "meat".
+

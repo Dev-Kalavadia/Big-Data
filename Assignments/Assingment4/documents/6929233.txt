@@ -1,0 +1,63 @@
+Title: Regional mobility authorityA regional mobility authority (RMA) is an independent local government transportation agency in the U.S. state of Texas.
+
+==Authorization and powers==
+
+Under Chapter 370 of the Texas Statutes, a regional mobility authority can be formed by one or more counties.  The Texas Legislature first authorized the creation of RMAs in 2001 with passage of Senate Bill 342.  A subsequent constitutional amendment was approved by Texas voters on November 6, 2001.
+
+An RMA is authorized to finance, design, construct, operate, maintain and expand a wide range of transportation facilities and services.  Potential projects include highways (tolled or untolled), ferries, airports, bikeways, and intermodal hubs. Projects can be financed using a wide range of methods, including the sale of tax-exempt revenue bonds, private equity, public grants, government loans, and revenue generated from existing transportation facilities.  A Regional Mobility Authority can acquire or condemn  property for projects, enter into public private partnerships, and set rates for the use of transportation facilities.
+
+==Administration==
+
+The administration of an RMA is overseen by a board of directors.  The Governor of Texas appoints the chairman of the board. The commissioner's court of each county appoints a minimum of two board members.  Board members serve two-year terms.  Board members cannot be elected officials and must reside within the county they represent. Board members cannot work for the Texas Department of Transportation (TxDOT) or any government entity within the geographic boundaries of the Mobility Authority.  The board of directors is authorized to perform the functions provided under statute by hiring employees or contracting with government agencies or private sector companies.
+
+==Controversy==
+
+In July 2005, Texas district court Judge Darlene Byrne ruled that the legislation allowing six-year terms for RMA board members was unconstitutional. Article XVI, Section 30(a) of the Texas state constitution states, "The duration of all offices not fixed by this Constitution shall never exceed two years." In reaction to this decision, Representative Mike Krusee and Senator Todd Staples sponsored HJR 79,Proposed Constitutional Amendments November 8, 2005 which placed Proposition 9 on the November 2005 ballot. Proposition 9 would have amended the Texas constitution to allow six-year staggered terms for RMA board members. Anti-toll groups, such as the Austin Toll Party, opposed Proposition 9, arguing that such terms should not exceed the terms of the elected officials who appoint the board members.
+
+On November 8, 2005, Texas voters rejected Proposition 9 by a 53.4% margin. In the election's aftermath, a toll road industry website described the defeat of Proposition 9 this way: "in Texas the tollers are behaving arrogantly and with extraordinary political ineptitude."Texas Prop 9 defeated - toll authorities 2 yr limit
+
+==List==
+
+{| class= "wikitable plainrowheaders sortable"
+|-
+! scope="col" | Name
+! scope="col" | Creation date
+! scope="col" class=unsortable | Counties of operation 
+|-
+! scope="row" | Alamo Regional Mobility Authority (ARMA)
+| 2003
+| Bexar
+|-
+! scope="row" |  Cameron County Regional Mobility Authority (CCRMA)
+| 2004
+| Cameron
+|-
+! scope="row" |  Camino Real Regional Mobility Authority (CRRMA)
+| 2006
+| El Paso
+|-
+! scope="row" | Central Texas Regional Mobility Authority (CTRMA)
+| 2003
+| Travis and Williamson
+|-
+! scope="row" | Grayson County Regional Mobility Authority (GCRMA)
+| 2004
+| Grayson
+|-
+! scope="row" | Hidalgo County Regional Mobility Authority (HCRMA)
+| 2005
+| Hidalgo
+|-
+! scope="row" | North East Texas Regional Mobility Authority (NETRMA)
+| 2004
+| Bowie, Cass, Cherokee, Gregg, Harrison, Panola, Rusk, Smith, Titus, Upshur, Van Zandt and Wood
+|-
+! scope="row" | Sulphur River Regional Mobility Authority (SURRMA)
+| 2012
+| Delta, Hunt and Lamar
+|-
+! scope="row" | Webb County–City of Laredo Regional Mobility Authority (WCCL-RMA)
+| 2014
+| Webb
+|}
+

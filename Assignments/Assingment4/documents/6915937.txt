@@ -1,0 +1,908 @@
+Title: List of programs broadcast by Boomerang
+
+This is a list of television programs broadcast by Boomerang in the United States.
+
+== Current programming ==
+This is a list of programs currently airing on Boomerang's schedule as of February 2023.TV Schedule for Boomerang A few of the programs are being run concurrently with Cartoon Network. An asterisk (*) indicates that the program is also airing on MeTV.
+
+=== Reruns of ended original programming ===
+{| class="wikitable plainrowheaders sortable" style="width:75%;text-align:center;"
+|-
+! scope="col" style="width:25%;" | Title !! scope="col" style="width:10%;" | Premiere date !! scope="col" style="width:10%;" | Finale date !! scope="col" style="width:15%;" | Date(s) reran !! class="unsortable" style="width:5%;" | References
+|-
+| scope="row" style="text-align:left;" | The Tom and Jerry Show (2014) ||  ||  || 2021–present ||The Tom and Jerry Show (2014) originally aired new episodes on Cartoon Network from April 9, 2014 to March 12, 2016.
+|-
+| scope="row" style="text-align:left;" | New Looney Tunes ||  ||  || 2020–present ||New Looney Tunes, formerly known as Wabbit, originally aired new episodes on Cartoon Network from September 21, 2015 to March 12, 2016.
+|-
+| scope="row" style="text-align:left;" | Scooby-Doo and Guess Who? ||  ||  || 2022–present || Scooby-Doo and Guess Who? was first released on Boomerang's SVOD subscription service on June 28, 2019 and premiered on Cartoon Network on July 8, 2019.
+|-
+|}
+
+=== Programming from Cartoon Network ===
+{| class="wikitable plainrowheaders sortable" style="width:89%;text-align:center;"
+|-
+! scope="col" style="width:30%;" | Title !! scope="col" style="width:25%;" |  Premiere date !! scope="col" style="width:14%;" | References
+|-
+| scope="row" style="text-align:left;" | Ben 10 (2005) || September 3, 2010August 7, 2022 (current run) ||
+|-
+| scope="row" style="text-align:left;" | Chowder || June 2, 2014June 8, 2021 (current run) ||
+|-
+| scope="row" style="text-align:left;" | Codename: Kids Next Door|| July 1, 2016June 8, 2021 (current run) ||
+|-
+| scope="row" style="text-align:left;" | Foster's Home for Imaginary Friends || August 11, 2012June 8, 2021 (current run) ||
+|-
+| scope="row" style="text-align:left;"| The Powerpuff Girls (2016) || November 1, 2016 February 5, 2023 (current run) || 
+|}
+
+=== Programming from Hanna-Barbera, Turner and Warner Bros. ===
+{| class="wikitable plainrowheaders sortable" style="width:89%;text-align:center;"
+|-
+! scope="col" style="width:30%;" | Title !! scope="col" style="width:25%;" |  Premiere date !! scope="col" style="width:14%;" | References
+|-
+| scope="row" style="text-align:left;" | The Flintstones* ||April 1, 2000January 30, 2023 (current run) || 
+|-
+| style="text-align:left;" scope="row" | Looney Tunes and Merrie Melodies* ||April 1, 2000October 5, 2013 (current run) ||
+
+|-
+| scope="row" style="text-align:left;" | Popeye* ||April 1, 2000January 30, 2023 (current run) || 
+|-
+| style="text-align:left;" scope="row" | Scooby-Doo, Where Are You! || April 1, 2000May 16, 2022 (current run) ||
+|-
+| scope="row" style="text-align:left;" | The Smurfs || April 1, 2000January 30, 2023 (current run) ||
+|-
+| scope="row" style="text-align:left;" | Tom and Jerry* || April 1, 2000 || 
+|}
+
+=== Programming from Warner Bros. Animation ===
+{| class="wikitable plainrowheaders sortable" style="width:89%;text-align:center;"
+|-
+! scope="col" style="width:30%;" | Title !! scope="col" style="width:25%;" |  Premiere date !! scope="col" style="width:14%;" | References
+|-
+| scope="row" style="text-align:left;" |The Looney Tunes Show || April 7, 2014August 30, 2021 (current run) ||
+|-
+| scope="row" style="text-align:left;" | Tom and Jerry Tales || May 23, 2015March 6, 2017 (current run)
+|
+|}
+
+=== Current programming blocks ===
+{| class="wikitable plainrowheaders sortable" style="width:75%;text-align:center;"
+|-
+! scope="col" style="width:30%;" | Title !! scope="col" style="width:14%;" | Premiere date !! scope="col" style="width:14%;" | References
+|-
+| scope="row" style="text-align:left;" | Boomerang Theater || April 1, 2000||
+|}
+
+== Digital content ==
+A list of shows that, so far, have only been made available on Boomerang's SVOD subscription service.
+
+=== Programming from Cartoon Network ===
+{| class="wikitable plainrowheaders sortable" style="width:89%;text-align:center;"
+|-
+! scope="col" style="width:30%;" | Title !! scope="col" style="width:28%;" | 1st day on the SVOD !! scope="col" style="width:14%;" | References
+|-
+| scope="row" style="text-align:left;" | The Life and Times of Juniper Lee || rowspan=2 | April 11, 2017 || 
+|-
+| scope="row" style="text-align:left;" | My Gym Partner's a Monkey || 
+|}
+
+=== Programming from Hanna-Barbera, Turner and Warner Bros. ===
+{| class="wikitable plainrowheaders sortable" style="width:89%;text-align:center;"
+|-
+! scope="col" style="width:30%;" |Title !! scope="col" style="width:28%;" | 1st day on the SVOD !! scope="col" style="width:14%;" |
+References
+|-
+| scope="row" style="text-align:left;" | Droopy, Master Detective  || rowspan=2 | April 11, 2017 ||
+|-
+| scope="row" style="text-align:left;" | The Tom and Jerry Show (1975) || 
+|-
+| scope="row" style="text-align:left;" | The New Yogi Bear Show || April 12, 2018 ||
+|-
+| scope="row" style="text-align:left;" | The New Adventures of Jonny Quest || November 1, 2018 ||
+|-
+| scope="row" style="text-align:left;" | Monchhichis || January 3, 2019 ||
+|-
+| scope="row" style="text-align:left;" | Flintstone Frolics || rowspan=2 | March 28, 2019 ||
+|-
+| scope="row" style="text-align:left;" | The New Fred and Barney Show || 
+|-
+| scope="row" style="text-align:left;" | Yo Yogi! || May 2, 2019 ||
+|}
+
+=== Programming from Warner Bros. Animation ===
+{| class="wikitable plainrowheaders sortable" style="width:89%;text-align:center;"
+|-
+! scope="col" style="width:30%;" |title !! scope="col" style="width:28%;" | 1st day on the SVOD !! scope="col" style="width:14%;" |
+References
+|-
+| scope="row" style="text-align:left;" | Taz-Mania || June 28, 2018 ||
+|-
+| scope="row" style="text-align:left;" | Shaggy & Scooby-Doo Get a Clue! || September 27, 2018 ||
+|}
+
+== Former programming ==
+A list of shows that have formerly ran on Boomerang. It does not include specials that are often part of a programming block. An asterisk (*) indicates that the program is now on Boomerang's SVOD subscription service. Two asterisks (**) indicates that the program is now airing on MeTV.
+
+=== Original programming ===
+{| class="wikitable plainrowheaders sortable" style="width:75%;text-align:center;"
+|-
+! scope="col" style="width:25%;" | Title !! scope="col" style="width:10%;" | Premiere date !! scope="col" style="width:10%;" | Finale date !! scope="col" style="width:15%;" | Date(s) reran !! class="unsortable" style="width:5%;" | References
+|-
+| scope="row" style="text-align:left;" | Be Cool, Scooby-Doo! ||  ||  || 2018–22 ||http://tvlistings.zap2it.com/tvlistings/ZCSGrid.do?fromTim Be Cool, Scooby-Doo! originally aired new episodes on Cartoon Network from October 5, 2015 to March 12, 2016.
+|-
+| scope="row" style="text-align:left;" | Bunnicula ||  ||  || 2018–21 ||Bunnicula originally aired new episodes simultaneously on Cartoon Network and Boomerang from February 6 to March 12, 2016.
+|-
+| scope="row" style="text-align:left;" | Wacky Races (2017) ||  ||  || 2019–20 || Wacky Races (2017) was first released on Boomerang's SVOD subscription service on August 14, 2017.
+|-
+| scope="row" style="text-align:left;" | Dorothy and the Wizard of Oz ||  ||  || 2020–22 || Dorothy and the Wizard of Oz was first released on Boomerang's SVOD subscription service on June 29, 2017.
+|-
+|}
+
+=== Programming from Cartoon Network ===
+{| class="wikitable plainrowheaders sortable" style="width:75%;text-align:center;"
+|-
+! scope="col" style="width:30%;" | Title !! scope="col" style="width:14%;" | First aired !! scope="col" style="width:14%;" | Last aired !! scope="col" style="width:14%;" | References
+|-
+| scope="row" style="text-align:left; | Adventure Time || June 2, 2018 || February 3, 2019||
+|-
+| scope="row" style="text-align:left;" | The Amazing World of Gumball || December 1, 2014May 2, 2022 || April 2, 2017October 31, 2022 || 
+|-
+| scope="row" style="text-align:left;" | Ben 10 (2017) || November 6, 2017 || April 26, 2020 ||
+|-
+| scope="row" style="text-align:left;" | Ben 10: Alien Force || August 7, 2022 || January 30, 2023 ||
+|-
+| scope="row" style="text-align:left;" | Ben 10: Omniverse || November 3, 2012 || June 1, 2014 ||   Select episodes of Ben 10: Omniverse aired on Boomerang before they aired on Cartoon Network. However, in the case of the episode "Catfight", Boomerang aired it on Saturday, April 19, 2014  and Cartoon Network aired it on Friday, April 18, 2014. 
+|-
+| scope="row" style="text-align:left;" | The Bob Clampett Show || colspan="2" | Anthology program broadcast on Cartoon Network ||
+|-
+| scope="row" style="text-align:left;" | Camp Lazlo || January 6, 2014 || August 1, 2022 ||
+|-
+| scope="row" style="text-align:left;" | Clarence || September 7, 2020 || September 30, 2020 ||
+|-
+| scope="row" style="text-align:left;" | Cow and Chicken || May 1, 2007 || June 1, 2014 || 
+|-
+| scope="row" style="text-align:left;" | Courage the Cowardly Dog || October 19, 2009 || June 7, 2021 ||
+|-
+| scope="row" style="text-align:left;" | Craig of the Creek|| May 2, 2022 || October 31, 2022 || 
+|-
+| scope="row" style="text-align:left;" | DC Super Hero Girls (TV series) || July 1, 2019 || July 31, 2022 ||
+|-
+| scope="row" style="text-align:left;" | Dexter's Laboratory || January 16, 2006June 27, 2016January 2, 2018September 9, 2020 || January 4, 2015April 3, 2017May 27, 2019June 7, 2021 ||
+|-
+| scope="row" style="text-align:left;" | Ed, Edd n Eddy || March 3, 2014May 28, 2018September 7, 2020 || June 1, 2014June 11, 2018October 1, 2020 || 
+|-
+| scope="row" style="text-align:left;" | Evil Con Carne || colspan=2 | July 29, 2016 ||
+|-
+| scope="row" style="text-align:left;" | The Grim Adventures of Billy and Mandy || October 7, 2013October 1, 2020 || June 7, 2021 ||
+|-
+| scope="row" style="text-align:left;" | Hero: 108 || February 4, 2013 || May 30, 2014 || 
+|-
+| scope="row" style="text-align:left;" | Hole in the Wall || October 6, 2010 || October 3, 2011 ||
+|-
+| scope="row" style="text-align:left;" | I Am Weasel || colspan=2 | Shown on Cow and Chicken and as a standalone program ||
+|-
+| scope="row" style="text-align:left;" | Johnny Bravo || January 22, 2008May 29, 2018 || January 4, 2015June 9, 2018 ||
+|-
+| scope="row" style="text-align:left;" | Lamput || August 15, 2022 || August 26, 2022 || 
+|-
+| scope="row" style="text-align:left;" | The Marvelous Misadventures of Flapjack || December 21, 2014June 11, 2018October 1, 2020 || December 21, 2014July 30, 2018November 3, 2020 ||
+|-
+| scope="row" style="text-align:left;" | Mighty Magiswords || May 29, 2018April 29, 2019|| June 8, 2018May 24, 2019 ||
+|-
+| scope="row" style="text-align:left;" | Mike, Lu & Og || June 5, 2006March 2010February 2011 || March 2009March 2010March 2011 || 
+|-
+| scope="row" style="text-align:left;" | OK K.O.! Let's Be Heroes || August 7, 2017 || September 1, 2017 || OK K.O.! Let's Be Heroes aired on Boomerang exclusively for a month to promote the show's airings on Cartoon Network.
+|-
+| scope="row" style="text-align:left;" | Out of Jimmy's Head (Friends episode only) || October 1, 2007 || October 5, 2007 || 
+|-
+| scope="row" style="text-align:left;" | The Powerpuff Girls (1998) || December 1, 2008 || June 7, 2021 ||
+|-
+| scope="row" style="text-align:left;" | Regular Show || May 28, 2018 ||April 28, 2019||
+|-
+| scope="row" style="text-align:left;" | Samurai Jack (seasons 1–2) || August 3, 2009 || June 1, 2014 || 
+|-
+| scope="row" style="text-align:left;" | Scooby-Doo! Mystery Incorporated || June 2, 2014 || July 31, 2022 ||
+|-
+| scope="row" style="text-align:left;" | The Secret Saturdays || December 5, 2011 || June 1, 2014 || 
+|-
+| scope="row" style="text-align:left;" | Steven Universe || June 2, 2018 || July 29, 2018 ||
+|-
+| scope="row" style="text-align:left;" | Summer Camp Island || July 7, 2018 || July 9, 2018 ||Summer Camp Island aired on Boomerang exclusively for a weekend marathon to promote the show's airings on Cartoon Network, with new episodes of the series being simulcast on both networks that weekend.
+|-
+| scope="row" style="text-align:left;" | Uncle Grandpa || June 5, 2017September 7, 2020 || April 1, 2018September 30, 2020 ||
+|-
+| scope="row" style="text-align:left;" | What a Cartoon! || colspan="2" | Anthology program broadcast on Cartoon Network || 
+|}
+
+=== Programming from Hanna-Barbera, Turner and Warner Bros. ===
+
+
+{| class="wikitable plainrowheaders sortable" style="width:75%;text-align:center;"
+|-
+! scope="col" style="width:30%;" | Title !! scope="col" style="width:14%;" | First aired !! scope="col" style="width:14%;" | Last aired !! scope="col" style="width:14%;" | Original network !! scope="col" style="width:14%;" | References
+|-
+| scope="row" style="text-align:left;" | 2 Stupid Dogs || April 2005 July 23, 2012|| TBAJune 1, 2014 || TBS || 
+|-
+|  scope="row" style="text-align:left;" |  The 13 Ghosts of Scooby-Doo || January 3, 2004March 15, 2020 || January 1, 2014March 30, 2020 || rowspan="4" | ABC||
+|-
+| style="text-align:left;" scope="row" | A Pup Named Scooby-Doo || April 1, 2000October 1, 2020 || January 2, 2015April 29, 2022 ||
+|-
+| scope="row" style="text-align:left;" | The Addams Family || April 19, 2006 || October 31, 2013 || 
+|-
+| scope="row" style="text-align:left;" | The Adventures of Gulliver || December 1, 2002 || November 30, 2010 || 
+|-
+| scope="row" style="text-align:left;" | The Amazing Chan and the Chan Clan || June 6, 2002 || January 1, 2011 || CBS || 
+|-
+| scope="row" style="text-align:left;" | Arabian Knights || colspan="2" | Shown on The Banana Splits || NBC ||
+|-
+| scope="row" style="text-align:left;" | Around the World in 79 Days || colspan="2" | Shown on Cattanooga Cats || ABC ||
+|-
+| scope="row" style="text-align:left;" | Astro and the Space Mutts || rowspan="4" | April 1, 2000 || 2009 || rowspan="2" | NBC ||
+|-
+| scope="row" style="text-align:left;" | Atom Ant* || July 22, 2012 || 
+|-
+| scope="row" style="text-align:left;" | Augie Doggie and Doggie Daddy || December 25, 2013 || Syndication|| 
+|-
+| scope="row" style="text-align:left;" | The Banana Splits || June 1, 2014|| NBC || 
+|-
+| scope="row" style="text-align:left;" | Barney Bear* ** || colspan="2" | Shown during MGM Cartoons || Theatrical shorts||
+|-
+| scope="row" style="text-align:left;" | The Bedrock Rockers || colspan="2" | Shown on The Flintstone Comedy Show || CBS || 
+|-
+| scope="row" style="text-align:left;" | Birdman and the Galaxy Trio || February 1, 2003 || TBA || rowspan="2" | NBC || 
+|-
+| scope="row" style="text-align:left;" | Blast-Off Buzzard || colspan="2" | Shown on CB Bears ||
+|-
+| scope="row" style="text-align:left;" | Breezly and Sneezly || colspan="2" | Shown on The Peter Potamus Show || SyndicationABC || 
+|-
+| scope="row" style="text-align:left;" | The Buford Files || colspan="2" | Shown during Yogi's Space Race || rowspan="2" | NBC || 
+|-
+| scope="row" style="text-align:left;" | Butch Cassidy and the Sundance Kids || June 12, 2004 || TBA || 
+|-
+| scope="row" style="text-align:left;" | Captain Caveman and the Teen Angels* || July 17, 2004 || TBA || ABC || 
+|-
+| scope="row" style="text-align:left;" | Captain Planet and the Planeteers || April 22, 2005January 2, 2017April 22, 2021 || June 1, 2014February 6, 2017April 22, 2021 || TBS || 
+|-
+| scope="row" style="text-align:left;" | Casper and the Angels || July 5, 2002 || October 31, 2013 || NBC || 
+|-
+| scope="row" style="text-align:left;" | Cattanooga Cats || April 1, 2000July 23, 2012 || TBATBA || ABC || 
+|-
+| scope="row" style="text-align:left;" | Cave Kids* || June 2006 || TBA || Cartoon Network || Cave Kids aired as a standalone program, but aired in the timeslot that was then normally used for The Flintstones during the month of June 2006; it is currently unknown whether or not it returned to Boomerang's schedule after that month.
+|-
+| scope="row" style="text-align:left;" | CB Bears || June 17, 2004 || TBA || NBC || 
+|-
+| scope="row" style="text-align:left;" | The Centurions || April 15, 2003 || January 1, 2011 || rowspan="2" | Syndication || 
+|-
+| scope="row" style="text-align:left;" | Chuck Norris: Karate Kommandos || July 5, 2002 || TBA || 
+|-
+| scope="row" style="text-align:left;" | Clue Club || April 1, 2000 || May 29, 2010 || CBS || 
+|-
+| scope="row" style="text-align:left;" | The Completely Mental Misadventures of Ed Grimley || July 5, 2002 || TBA || ABC || 
+|-
+| scope="row" style="text-align:left;" | Danger Island || colspan="2" | Shown on The Banana Splits || NBC ||
+|-
+| scope="row" style="text-align:left;" | Dastardly and Muttley in Their Flying Machines* || April 1, 2000 || July 22, 2012 || CBS || 
+|-
+| scope="row" style="text-align:left;" | Devlin || June 19, 2004 || March 30, 2008 || ABC || 
+|-
+| scope="row" style="text-align:left;" | Dink, the Little Dinosaur || March 10, 2008 || February 2009 || CBS || 
+|-
+| scope="row" style="text-align:left;" | Dragon's Lair || July 5, 2002 || TBA || ABC || 
+|-
+| scope="row" style="text-align:left;" | Droopy and Dripple*||colspan="2" | Shown on Tom and Jerry Kids ||FOX||
+|-
+| scope="row" style="text-align:left;" | Droopy**  || Shown on Tom and Jerry||
+| rowspan="3" |Theatrical shorts
+|
+|-
+| scope="row" style="text-align:left;" | Droopy and Friends || colspan="2" rowspan="2" | Compilation program of theatrical shorts || 
+|-
+| scope="row" style="text-align:left;" | The Droopy Show || 
+|-
+| scope="row" style="text-align:left;" | Dynomutt, Dog Wonder || April 1, 2000 || February 24, 2011 || rowspan="3" | ABC || 
+|-
+| scope="row" style="text-align:left;" | Fangface || March 13, 2004October 13, 2008 || March 13, 2004January 1, 2011 || 
+|-
+| scope="row" style="text-align:left;" | Fantastic Four || April 1, 2000 || October 10, 2009 || 
+|-
+| scope="row" style="text-align:left;" | Fantastic Max || June 18, 2009 || November 3, 2013 || Syndication || 
+|-
+| scope="row" style="text-align:left;" | The Flintstone Comedy Show || June 12, 2004 || TBA || CBS || 
+|-
+| scope="row" style="text-align:left;" | The Flintstone Kids* || August 29, 2005July 23, 2012 || May 6, 2007June 1, 2014 || ABC || 
+|-
+| scope="row" style="text-align:left;" | Frankenstein Jr. and The Impossibles|| rowspan="2" |April 1, 2000 || December 31, 2006 || CBS || 
+|-
+| scope="row" style="text-align:left;" | The Funky Phantom || October 28, 2011 || ABC || 
+|-
+| scope="row" style="text-align:left;" | Galaxy Goof-Ups* || colspan="2" | Shown during Yogi's Space Race and as a standalone program || rowspan="2" | NBC || 
+|-
+| scope="row" style="text-align:left;" | The Galloping Ghost || colspan="2" | Shown during Yogi's Space Race || 
+|-
+| scope="row" style="text-align:left;" | Galtar and the Golden Lance || July 5, 2002 || TBA || Syndication || 
+|-
+| scope="row" style="text-align:left;" | The Gary Coleman Show || April 1, 2000 || TBA || NBC ||
+|-
+| scope="row" style="text-align:left;" | George and Junior || colspan="2" | Shown during MGM Cartoons || Theatrical shorts ||
+|-
+| scope="row" style="text-align:left;" | Godzilla || April 1, 2000 || TBA || NBC || 
+|-
+| scope="row" style="text-align:left;" | Goldie Gold and Action Jack || July 5, 2002 || 2004 || rowspan="4" | ABC || 
+|-
+| scope="row" style="text-align:left;" | Goober and the Ghost Chasers || June 12, 2004 || October 31, 2013 || 
+|-
+| scope="row" style="text-align:left;" | The Great Grape Ape Show || July 17, 2004 || November 22, 2012 || 
+|-
+| scope="row" style="text-align:left;" | Heathcliff || January 20, 2005 || December 29, 2007 || 
+|-
+| scope="row" style="text-align:left;" | Help!... It's the Hair Bear Bunch! || August 6, 2002 || July 22, 2012 || rowspan="2" | CBS || 
+|-
+| scope="row" style="text-align:left;" | The Herculoids (1967 series) || rowspan="2" | February 1, 2003 || rowspan="2" | May 31, 2010 || 
+|-
+| scope="row" style="text-align:left;" | The Herculoids (1981 series) || rowspan="3" | NBC ||
+|-
+| scope="row" style="text-align:left;" | Heyyy, It's the King! || colspan="2" | Shown on CB Bears ||
+|-
+| scope="row" style="text-align:left;" | The Hillbilly Bears || colspan="2" | Shown on Atom Ant || 
+|-
+| scope="row" style="text-align:left;" | Hokey Wolf || rowspan="2" | April 1, 2000 || June 1, 2014 || Syndication ||
+|-
+| scope="row" style="text-align:left;" | Hong Kong Phooey  || July 22, 2012 || ABC || 
+|-
+| scope="row" style="text-align:left;" | The Huckleberry Hound Show ||April 1, 2000November 26, 2020 || June 1, 2014November 29, 2020 || Syndication || Boomerang Schedule November 29, 2020 name="https://www.ontvtonight.com/guide/listings/channel/69049289/boomerang.html"
+|-
+| scope="row" style="text-align:left;" | Inch High, Private Eye || June 12, 2004 || February 28, 2011 || NBC || 
+|-
+| scope="row" style="text-align:left;" | It's the Wolf! || colspan="2" | Shown on Cattanooga Cats || rowspan="4" | ABC ||
+|-
+| scope="row" style="text-align:left;" | Jabberjaw || April 1, 2000 || February 28, 2011 || 
+|-
+| scope="row" style="text-align:left;" | The Jetsons** ||April 1, 2000July 2, 2016February 7, 2017July 30, 2018November 26, 2020 || December 25, 2014July 31, 2016March 6, 2017November 16, 2018November 29, 2020 || 
+|-
+| scope="row" style="text-align:left;" | Jonny Quest ||April 1, 2000November 26, 2020 || June 1, 2014November 29, 2020 || 
+|-
+| scope="row" style="text-align:left;" | Josie and the Pussycats ||April 1, 2000March 3, 2014November 26, 2020 || July 22, 2012June 1, 2014November 29, 2020 || rowspan="3" | CBS || 
+|-
+| scope="row" style="text-align:left;" | Josie and the Pussycats in Outer Space* || April 1, 2000March 3, 2014 || July 22, 2012June 1, 2014 || 
+|-
+| scope="row" style="text-align:left;" | The Kwicky Koala Show || February 26, 2007 || TBA || 
+|-
+| scope="row" style="text-align:left;" | Laff-A-Lympics || October 4, 2001 || February 17, 2014 || rowspan="2" | ABC || 
+|-
+| scope="row" style="text-align:left;" | Lippy the Lion & Hardy Har Har || rowspan="2" | April 1, 2000 || February 28, 2007 || 
+|-
+| scope="row" style="text-align:left;" | Loopy De Loop || 2009 || Theatrical shorts || 
+|-
+| scope="row" style="text-align:left;" | Magilla Gorilla ||April 1, 2000November 26, 2020 || April 1, 2012November 29, 2020 || Syndication || 
+|-
+| scope="row" style="text-align:left;" | Magnificent Muttley* || colspan="2" | Shown on Dastardly and Muttley in Their Flying Machines || CBS || 
+|-
+| scope="row" style="text-align:left;" | Micro Ventures || colspan="2" | Shown on The Banana Splits || rowspan="2" | NBC ||
+|-
+| scope="row" style="text-align:left;" | Mister T || July 5, 2002 || April 1, 2006 || 
+|-
+| scope="row" style="text-align:left;" | Moby Dick and Mighty Mightor || August 19, 2007 || October 31, 2007 || CBS || 
+|-
+| scope="row" style="text-align:left;" | Motormouse and Autocat || colspan="2" | Shown on Cattanooga Cats || ABC ||
+|-
+| scope="row" style="text-align:left;" | Mystery Island || colspan="2" | Shown on The Skatebirds || CBS || 
+|-
+| scope="row" style="text-align:left;" | The New Adventures of Huckleberry Finn || 2002 || 2004 || NBC || 
+|-
+| scope="row" style="text-align:left;" | The New Scooby and Scrappy-Doo Show || October 10, 2003 || December 2011 || ABC || 
+|-
+| scope="row" style="text-align:left;" | The New Scooby-Doo Movies* || April 1, 2000April 27, 2015January 1, 2018June 10, 2018 || June 1, 2014January 29, 2016April 1, 2018July 30, 2018 || CBS ||
+|-
+| scope="row" style="text-align:left;" | The New Scooby-Doo Mysteries || October 10, 2003 || December 31, 2015 || ABC || 
+|-
+| scope="row" style="text-align:left;" | The New Shmoo || July 5, 2002 || TBA || NBC || 
+|-
+| scope="row" style="text-align:left;" | Pac-Man || April 1, 2000December 2015December 2016December 14, 2020 || December 24, 2014December 24, 2015December 24, 2016December 14, 2020 || ABC || 
+|-
+| scope="row" style="text-align:left;" | Paddington Bear || August 30, 2018 || December 3, 2019 || rowspan="2" | Syndication ||
+|-
+| scope="row" style="text-align:left;" | Paw Paws || January 28, 2008 || TBA || 
+|-
+| scope="row" style="text-align:left;" | The Pebbles and Bamm-Bamm Show* || July 5, 2002March 3, 2014 || July 22, 2012May 30, 2014 || rowspan="2" | CBS || 
+|-
+| scope="row" style="text-align:left;" | The Perils of Penelope Pitstop* || rowspan="2" | April 1, 2000 || July 22, 2012 || 
+|-
+| scope="row" style="text-align:left;" | Peter Potamus || November 29, 2010 || SyndicationABC || 
+|-
+| scope="row" style="text-align:left;" | The Pirates of Dark Water || July 5, 2002 || November 30, 2010 || ABCSyndication || 
+|-
+| scope="row" style="text-align:left;" | Pixie and Dixie and Mr. Jinks || April 1, 2000March 3, 2014 || July 22, 2012June 1, 2014 || Syndication || 
+|-
+| scope="row" style="text-align:left;" | The Popeye Show || colspan="2" | Compilation program of theatrical shorts || Cartoon Network || 
+|-
+| scope="row" style="text-align:left;" | Posse Impossible || colspan="2" | Shown on CB Bears || NBC ||
+|-
+| scope="row" style="text-align:left;" | Pound Puppies || January 8, 2008 || January 31, 2013 || ABC || 
+|-
+| scope="row" style="text-align:left;" | Precious Pupp || colspan="2" | Shown on Atom Ant || NBC ||
+|-
+| scope="row" style="text-align:left;" | Punkin' Puss & Mushmouse ||  colspan="2" | Shown on Magilla Gorilla || rowspan="2"| Syndication || 
+|-
+
+| scope="row" style="text-align:left;" | The Quick Draw McGraw Show || April 1, 2000 || 2013 || 
+|-
+| scope="row" style="text-align:left;" | Richie Rich* || August 6, 2002 || November 3, 2013 || ABC || 
+|-
+| scope="row" style="text-align:left;" | Ricochet Rabbit & Droop-a-Long || colspan="2" | Shown on Magilla Gorilla || Syndication || 
+|-
+| scope="row" style="text-align:left;" | The Robonic Stooges || colspan="2" | Shown on The Skatebirds || CBS || 
+|-
+| scope="row" style="text-align:left;" | The Roman Holidays || October 1, 2002 || TBA || rowspan="2" | NBC || 
+|-
+| scope="row" style="text-align:left;" | The Ruff and Reddy Show || April 1, 2002 || January 1, 2004 || 
+|-
+| scope="row" style="text-align:left;" | Samson & Goliath || April 15, 2003 || TBA || Syndication || 
+|-
+| scope="row" style="text-align:left;" | Scooby-Doo and Scrappy-Doo* || December 1, 2002 || January 1, 2014 || rowspan="4" | ABC || 
+|-
+| scope="row" style="text-align:left;" | Scooby-Doo and Scrappy-Doo || April 1, 2000March 8, 2020 || January 1, 2014March 30, 2020 ||
+|-
+| scope="row" style="text-align:left;" | Scooby and Scrappy and Yabba-Doo* || October 10, 2003 || January 1, 2014 || 
+|-
+| scope="row" style="text-align:left;" | The Scooby-Doo Show*|| colspan="2" | Shown as Scooby-Doo, Where Are You! and Laff-A-Lympics || The Scooby-Doo Show was a standalone program that was originally part of Laff-A-Lympics. It was later shown on Boomerang as part of that show, as well as the third season of Scooby-Doo, Where Are You!
+|-
+| scope="row" style="text-align:left;" | Screwy Squirrel || colspan="2" | Shown on MGM Cartoons || Theatrical shorts ||
+|-
+| scope="row" style="text-align:left;" | Sealab 2020 || February 1, 2004 || 2011 || rowspan="3" | NBC || 
+|-
+| scope="row" style="text-align:left;" | Secret Squirrel || April 1, 2000 || March 2, 2014 || 
+|-
+| scope="row" style="text-align:left;" | Shake, Rattle, & Roll || colspan="2" | Shown on CB Bears ||
+|-
+| scope="row" style="text-align:left;" | Shazzan || February 1, 2003 || TBA || CBS || 
+|-
+| scope="row" style="text-align:left;" | Shirt Tales || January 20, 2005 || July 22, 2012 || NBC || 
+|-
+| scope="row" style="text-align:left;" | The Skatebirds || July 17, 2004 || TBA || CBS || 
+|-
+| scope="row" style="text-align:left;" | Sky Commanders || August 11, 2003 || 2005 || Syndication || 
+|-
+| scope="row" style="text-align:left;" | Snagglepuss || colspan="2" | Shown on The Yogi Bear Show || rowspan="2" | Syndication || 
+|-
+| scope="row" style="text-align:left;" | Snooper and Blabber || April 1, 2000 || September 2006 ||
+|-
+| scope="row" style="text-align:left;" | Snorks || April 1, 2000November 4, 2013 || July 22, 2012March 2, 2014 || NBC || 
+|-
+| scope="row" style="text-align:left;" | Space Ghost and Dino Boy || April 1, 2000 || August 2007 || rowspan="2" | CBS || 
+|-
+| scope="row" style="text-align:left;" | Space Ghost and Frankenstein Jr.|| April 1, 2002 || July 11, 2004 || 
+|-
+| scope="row" style="text-align:left;" | Space Ghost (1981 series) || April 1, 2000 || TBA || NBC ||
+|-
+| scope="row" style="text-align:left;" | The Space Kidettes || April 15, 2003 || TBA || Syndication || 
+|-
+| scope="row" style="text-align:left;" | Speed Buggy || July 5, 2002March 8, 2014 || July 22, 2012June 1, 2014 || CBS || 
+|-
+| scope="row" style="text-align:left;" | Spike || colspan="2" rowspan="2" | Shown during MGM Cartoons and Tom and Jerry || rowspan="2" | Theatrical shorts ||
+|-
+| scope="row" style="text-align:left;" | Spike and Tyke (1957 series) || 
+|-
+| scope="row" style="text-align:left;" | Spike and Tyke (1990 series)*||colspan="2" | Shown on Tom and Jerry Kids||FOX||
+|-
+| scope="row" style="text-align:left;" | Squiddly Diddly || colspan="2" | Shown on Secret Squirrel || rowspan="2" | NBC || 
+|-
+| scope="row" style="text-align:left;" | The Super Globetrotters || October 2, 2004 || February 25, 2011 || 
+|-
+| scope="row" style="text-align:left;" | Super Secret Secret Squirrel || colspan="2" | Shown on 2 Stupid Dogs || rowspan="2" | TBS || 
+|-
+| scope="row" style="text-align:left;" | SWAT Kats: The Radical Squadron || May 31, 2005 || November 3, 2013 || 
+|-
+| scope="row" style="text-align:left;" | The Tex Avery Show || colspan="2" | Compilation program of theatrical shorts || Cartoon Network ||
+|-
+| scope="row" style="text-align:left;" | These Are the Days || June 19, 2004 || TBA || ABC || 
+|-
+| scope="row" style="text-align:left;" | The Three Musketeers || colspan="2" | Shown on The Banana Splits || NBC ||
+|-
+| scope="row" style="text-align:left;" | Thundarr the Barbarian || October 1, 2002 || February 28, 2011 || ABCNBC || 
+|-
+| scope="row" style="text-align:left;" | Toonheads
+| colspan="2" |Anthology program broadcast on Cartoon Network
+|Cartoon Network
+|
+|-
+| scope="row" style="text-align:left;" | Tom and Jerry Kids || August 29, 2005June 30, 2018May 23, 2020 || June 1, 2014August 2, 2018May 25, 2020 || Fox ||
+|-
+| scope="row" style="text-align:left;" | Top Cat* || April 1, 2000November 26, 2020 || August 4, 2013November 29, 2020 || ABC ||
+|-
+| scope="row" style="text-align:left;" | Touché Turtle and Dum Dum || rowspan="2" | April 1, 2000 || February 28, 2007 || ABC  || 
+|-
+| scope="row" style="text-align:left;" | Trollkins || 2010 || CBS ||
+|-
+| scope="row" style="text-align:left;" | Undercover Elephant || colspan="2" | Shown on CB Bears || NBC ||
+|-
+| scope="row" style="text-align:left;" | Valley of the Dinosaurs || December 12, 2001 || 2011 || CBS || 
+|-
+| scope="row" style="text-align:left;" | Wacky Races (1968) ||April 1, 2000November 27, 2020 || August 5, 2012November 30, 2020 || rowspan="2" | Syndication || Boomerang Schedule November 30, 2020 name="https://www.ontvtonight.com/guide/listings/channel/69049289/boomerang.html"
+|-
+| scope="row" style="text-align:left;" | Wait Till Your Father Gets Home || December 8, 2006 || TBA || 
+|-
+| scope="row" style="text-align:left;" | Wally Gator || April 1, 2000 || February 28, 2007 || ABC || 
+|-
+| scope="row" style="text-align:left;" | Wheelie and the Chopper Bunch || June 19, 2004 || TBA || NBC || 
+|-
+| scope="row" style="text-align:left;" | Where's Huddles? || October 4, 2001 || TBA || CBS || 
+|-
+| scope="row" style="text-align:left;" | Wing Dings* || colspan="2" | Shown on Dastardly and Muttley in Their Flying Machines || CBS || 
+|-
+| scope="row" style="text-align:left;" | Winsome Witch || colspan="2" | Shown on Secret Squirrel || NBC ||
+|-
+| scope="row" style="text-align:left;" | Wonder Wheels || colspan="2" rowspan="2" | Shown on The Skatebirds || rowspan="2" | CBS || 
+|-
+| scope="row" style="text-align:left;" | Woofer & Wimper, Dog Detectives || 
+|-
+| scope="row" style="text-align:left;" | Yakky Doodle || rowspan="2" | April 1, 2000 || June 1, 2014 || Syndication ||
+|-
+| scope="row" style="text-align:left;" | Yippee, Yappee and Yahooey || TBA || SyndicationABC ||
+|-
+| scope="row" style="text-align:left;" | Yogi's Gang* || April 15, 2003 || December 12, 2010 || ABC || 
+|-
+| scope="row" style="text-align:left;" | The Yogi Bear Show* || April 1, 2000November 26, 2020 || June 1, 2014November 29, 2020 || Syndication ||
+|-
+| scope="row" style="text-align:left;" | Yogi's Space Race* || December 2001May 3, 2010 || December 2001December 12, 2010 || NBC ||
+|-
+| scope="row" style="text-align:left;" | Yogi's Treasure Hunt* || April 1, 2000 || May 31, 2008 || rowspan="3" | Syndication ||
+|-
+| scope="row" style="text-align:left;" | Young Robin Hood || July 5, 2002 || October 2, 2003 || 
+|-
+| scope="row" style="text-align:left;" | Young Samson || April 15, 2003 || TBA || 
+|}
+
+=== Programming from Warner Bros. Animation ===
+
+{| class="wikitable plainrowheaders sortable" style="width:75%;text-align:center;"
+|-
+! scope="col" style="width:30%;" | Title !! scope="col" style="width:14%;" | First aired !! scope="col" style="width:14%;" | Last aired !! scope="col" style="width:14%;" | Original network !! scope="col" style="width:14%;" | References
+|-
+| scope="row" style="text-align:left;" | Baby Looney Tunes || July 4, 2005 || August 1, 2022 || Kids' WBCartoon Network || 
+|-
+| scope="row" style="text-align:left;" | The Batman || December 12, 2007 || February 28, 2011 || Kids' WB || 
+|-
+| scope="row" style="text-align:left;" | Batman: The Animated Series || August 29, 2005 || January 5, 2007 || FOX|| 
+|-
+| scope="row" style="text-align:left;" | Beetlejuice || October 24, 2011 || October 31, 2013 || ABCFOX ||
+|-
+| scope="row" style="text-align:left;" | The Bugs and Daffy Show || August 29, 2005 || May 6, 2007 || rowspan="3" | ABCCBS|| 
+|-
+| scope="row" style="text-align:left;" | Bugs Bunny/Road Runner Hour || July 11, 2004 || May 6, 2007  || 
+|-
+| scope="row" style="text-align:left;" | The Bugs Bunny Show || April 1, 2002  || May 6, 2007  || 
+|-
+| scope="row" style="text-align:left;" | Challenge of the Super Friends || October 1, 2002 ||  February 2, 2009 || ABC || 
+|-
+| scope="row" style="text-align:left;" | Johnny Test (Seasons 1-2 only) || April 2, 2013September 7, 2015 || December 25, 2014June 26, 2016 || Kids' WB || During its 2013 run on the network, select episodes of Johnny Test aired on Boomerang before they aired on Cartoon Network.
+|-
+| scope="row" style="text-align:left;" | Porky Pig and Friends || June 11, 2002 || May 6, 2007  || Syndication|| 
+|-
+| scope="row" style="text-align:left;" | The Porky Pig Show || August 29, 2005 || May 6, 2007  || rowspan="3" | ABC || 
+|-
+| scope="row" style="text-align:left;" | Super Friends || rowspan="2" | October 1, 2002 ||  February 2, 2009 || 
+|-
+| scope="row" style="text-align:left;" | The Superman/Batman Adventures || TBA || 
+|-
+| scope="row" style="text-align:left;" | Superman: The Animated Series || August 29, 2005 || 2007 || rowspan="2" | Kids' WB || 
+|-
+| scope="row" style="text-align:left;" | The Sylvester & Tweety Mysteries* || August 17, 2015 || November 5, 2017|| 
+|-
+| scope="row" style="text-align:left;" | The Sylvester & Tweety Show || July 11, 2004 || May 6, 2007  || CBS || 
+|-
+| scope="row" style="text-align:left;" | Teen Titans Go! || December 1, 2014May 2, 2022 || April 2, 2017October 31, 2022 || Cartoon Network || 
+|-
+| scope="row" style="text-align:left;" | ThunderCats || June 28, 2011 || October 3, 2011 || Syndication || 
+|}
+
+=== Programming from The Program Exchange ===
+{| class="wikitable plainrowheaders sortable" style="width:75%;text-align:center;"
+|-
+! scope="col" style="width:30%;" | Title !! scope="col" style="width:14%;" | First aired !! scope="col" style="width:14%;" | Last aired !! scope="col" style="width:14%;" | Original network !! scope="col" style="width:14%;" | References
+|-
+| scope="row" style="text-align:left;" | The Addams Family (live-action series) || October 24, 2011 || October 31, 2013 || ABC || 
+|-
+| scope="row" style="text-align:left;" | Aesop & Son || colspan="2" | Shown on The Rocky and Bullwinkle Show || ABC & NBC || 
+|-
+| scope="row" style="text-align:left;" | Baby Huey || colspan="2" | Shown on Casper and Friends || Syndication || 
+|-
+| scope="row" style="text-align:left;" | Bullwinkle's Corner || colspan="2" | Shown on The Rocky and Bullwinkle Show || ABC & NBC || 
+|-
+| scope="row" style="text-align:left;" | Casper and Friends || August 8, 2003 || October 31, 2013 || Syndication || 
+|-
+| scope="row" style="text-align:left;" | Dennis the Menace || January 15, 2007June 5, 2010 || May 6, 2008July 19, 2013 || SyndicationCBS || 
+|-
+| scope="row" style="text-align:left;" | Dudley Do-Right || July 5, 2002 || August 8, 2006 || NBC || 
+|-
+| scope="row" style="text-align:left;" | Fractured Fairy Tales || colspan="2" | Shown on The Rocky and Bullwinkle Show || ABC & NBC || 
+|-
+| scope="row" style="text-align:left;" | Herman and Katnip || colspan="2" | Shown on Casper and Friends || Syndication || 
+|-
+| scope="row" style="text-align:left;" | Little Audrey || colspan="2" | Shown on Casper and Friends || rowspan="2" | Syndication || 
+|-
+| scope="row" style="text-align:left;" | Modern Madcaps || colspan="2" | Shown on Casper and Friends || 
+|-
+| scope="row" style="text-align:left;" | Mr. Know-It-All || colspan="2" | Shown on The Rocky and Bullwinkle Show || ABC & NBC || 
+|-
+| scope="row" style="text-align:left;" | The Mr. Magoo Show || July 13, 2004 || August 8, 2006 || Syndication || 
+|-
+| scope="row" style="text-align:left;" | Mr. Peabody and Sherman || colspan="2" | Shown on The Rocky and Bullwinkle Show || ABC & NBC ||
+|-
+| scope="row" style="text-align:left;" | The Munsters || October 24, 2011 || October 31, 2013 || CBS || 
+|-
+| scope="row" style="text-align:left;" | The Rocky and Bullwinkle Show || July 5, 2002 || September 29, 2013 || ABC & NBC || 
+|-
+| scope="row" style="text-align:left;" | Tennessee Tuxedo and His Tales || July 5, 2002February 6, 2007 || August 8, 2006May 27, 2007 || CBS || 
+|-
+| scope="row" style="text-align:left;" | Underdog || July 5, 2002February 6, 2007 || August 8, 2006May 27, 2007 || CBS & NBC || 
+|-
+| scope="row" style="text-align:left;" | The World of Commander McBragg || colspan="2" | Shown on The Rocky and Bullwinkle Show || ABC & NBC || 
+|}
+
+===Other acquired programming===
+{| class="wikitable plainrowheaders sortable" style="width:75%;text-align:center;"
+|-
+! scope="col" style="width:30%;" | Title !! scope="col" style="width:14%;" | First aired !! scope="col" style="width:14%;" | Last aired !! scope="col" style="width:14%;" | Original network !! scope="col" style="width:14%;" | References
+|-
+| scope="row" style="text-align:left;" | Almost Naked Animals || March 5, 2012October 6, 2012 || March 30, 2012November 3, 2013 || YTV
+Cartoon Network
+| 
+|-
+| scope="row" style="text-align:left;" | The Ant and the Aardvark || colspan="2" | Shown on The Pink Panther Show || NBCABC || 
+|-
+| scope="row" style="text-align:left;" | Batfink || 2005 || 2008 || KTLA || 
+|-
+| scope="row" style="text-align:left;" | Battle of the Planets || April 17, 2004 || June 27, 2004 || Syndication || 
+|-
+| scope="row" style="text-align:left;" | The Blue Racer || colspan="2" | Shown on The Pink Panther Show || NBCABC ||
+|-
+| scope="row" style="text-align:left;" | Care Bears: Unlock the Magic || February 1, 2019 || September 18, 2021 || Boomerang ||Care Bears: Unlock the Magic was first released on Boomerang's SVOD subscription service on February 1, 2019.
+|-
+| scope="row" style="text-align:left;" | Casper's Scare School || February 4, 2013 || December 27, 2013 || Cartoon Network || 
+|-
+| scope="row" style="text-align:left;" | Cloudy with a Chance of Meatballs: The Series || January 11, 2018 || January 24, 2020 || YTV & Teletoon 
+Cartoon Network
+|
+|-
+| scope="row" style="text-align:left;" | Crazylegs Crane || colspan="2" | Shown on The Pink Panther Show || NBCABC || 
+|-
+| scope="row" style="text-align:left;" | DreamWorks Dragons || October 9, 2015 || January 30, 2016 || Cartoon Network/Netflix||
+|-
+| scope="row" style="text-align:left;" | Fantastic Four: World's Greatest Heroes || September 2, 2006 || 2009 
+|Cartoon Network||
+|-
+
+| scope="row" style="text-align:left;" | Garfield and Friends* || November 6, 2006September 2, 2019 || December 22, 2007August 30, 2021 || CBS || The program's original run on the network was syndicated through The Program Exchange. Garfield and Friends was first released on Boomerang's SVOD subscription service on November 1, 2018, in remastered form.
+|-
+| scope="row" style="text-align:left;" | The Garfield Show || February 4, 2013 || December 30, 2016 || France 3
+Cartoon Network
+|
+|-
+| scope="row" style="text-align:left;" | Gerald McBoing-Boing || February 10, 2007 || 2008 
+|Teletoon
+Cartoon Network
+| Gerald McBoing-Boing aired during Tickle U, a programming block geared towards a younger audience, that was broadcast simultaneously on Cartoon Network for cross-promotional purposes
+|-
+| scope="row" style="text-align:left;" | G.I. Joe: A Real American Hero || February 1, 2004 || February 2, 2004 || Syndication || 
+|-
+| scope="row" style="text-align:left;" | Grizzy and the Lemmings || April 3, 2017 || May 27, 2019 || France 3Boomerang||
+|-
+| scope="row" style="text-align:left;" | Grojband  || January 5, 2015 || July 12, 2015 || Teletoon
+Cartoon Network
+|Grojband was originally shown on Cartoon Network in 2013, and select episodes were shown on Boomerang on June 25, 2013 as part of a special airing (before said episodes aired on Cartoon Network) for cross-promotional purposes.<https://web.archive.org/web/20120503101756/http://www.locatetv.com/listings/boomerang> After it was removed from Cartoon Network in 2014, the series moved to Boomerang for the last 13 episodes of the series, which were previously released exclusively online.
+|-
+| scope="row" style="text-align:left;" | Harry and His Bucket Full of Dinosaurs || August 22, 2005 || 2005 
+|Teletoon/Treehouse
+Cartoon Network
+| Harry and His Bucket Full of Dinosaurs aired during Tickle U, a programming block geared towards a younger audience, that was broadcast simultaneously on Cartoon Network for cross-promotional purposes
+|-
+| scope="row" style="text-align:left;" | He-Man and the Masters of the Universe || April 9, 2004 || June 8, 2005 
+|Cartoon Network|| 
+|-
+| scope="row" style="text-align:left;" | The Inspector** || colspan="2" | Shown on The Pink Panther Show || NBCABC || 
+|-
+| scope="row" style="text-align:left;" | Johnny Test || April 2, 2013  September 7, 2015 || December 25, 2014  June 26, 2016 || Teletoon
+Kid's WB/Cartoon Network
+| During its 2013 run on the network, select episodes of Johnny Test aired on Boomerang before they aired on Cartoon Network.
+|-
+| scope="row" style="text-align:left;" | Mega Man: Fully Charged || August 8, 2018 || May 26, 2019 
+|Family Chrgd 
+Cartoon Network
+|
+|-
+| scope="row" style="text-align:left;" | Monchhichi Tribe || January 3, 2019 || January 24, 2020 || First-run syndication ||
+|- 
+| scope="row" style="text-align:left;" | Misterjaw || colspan="2" | Shown on The Pink Panther Show || NBCABC ||
+|-
+| scope="row" style="text-align:left;" | The Mr. Men Show || April 6, 2009 || January 31, 2013 || Five
+Cartoon Network 
+| 
+|-
+| scope="row" style="text-align:left;" | My Knight and Me || April 3, 2017 || June 11, 2018 || Cartoon Network ||
+|-
+| scope="row" style="text-align:left;" | Numb Chucks || January 5, 2015 || July 12, 2015 || rowspan="2" | First-run syndication ||
+|-
+| scope="row" style="text-align:left;" | Peanuts || May 9, 2016 || June 11, 2018 ||
+|-
+| scope="row" style="text-align:left;" | Peppa Pig || August 22, 2005 || 2005 || Channel 5
+Cartoon Network
+| Peppa Pig aired during Tickle U, a programming block geared towards a younger audience, that was broadcast simultaneously on Cartoon Network for cross-promotional purposes
+|-
+| scope="row" style="text-align:left;" | Pink Panther and Pals || July 19, 2010January 2, 2012June 7, 2014 || August 31, 2010July 22, 2012January 30, 2015 
+|Cartoon Network|| 
+|-
+| scope="row" style="text-align:left;" | The Pink Panther Show** || April 1, 2000 || July 22, 2012 || NBCABC || 
+|-
+| scope="row" style="text-align:left;" | Pokémon || July 31, 2006 || February 6, 2017 || TV Tokyo || 
+|-
+| scope="row" style="text-align:left;" | Power Players || February 18, 2020 || July 3, 2020 || Cartoon Network ||
+|-
+| scope="row" style="text-align:left;" | Puppy in My Pocket: Adventures in Pocketville || January 1, 2012 || January 3, 2013 || First-run syndication ||
+|-
+| scope="row" style="text-align:left;" | Tijuana Toads || colspan="2" | Shown on The Pink Panther Show || NBCABC ||
+|-
+| scope="row" style="text-align:left;" |Total DramaRama || May 2, 2022 || October 31, 2022 || TeletoonCartoon Network ||
+|-
+| scope="row" style="text-align:left;" | Transformers: Robots in Disguise || December 6, 2015 || April 3, 2016 || Cartoon Network ||  
+|-
+| scope="row" style="text-align:left;" | Voltron: Defender of the Universe || February 27, 2008 || February 1, 2009 || Syndication || 
+|}
+
+=== Former programming blocks ===
+{| class="wikitable plainrowheaders sortable" style="width:75%;text-align:center;"
+|-
+! scope="col" style="width:14%;" | Title !! scope="col" style="width:8%;" | First aired !! scope="col" style="width:8%;" | Last aired !! scope="col" style="width:30%;" | Notes !! scope="col" style="width:8%;" | References
+|-
+| scope="row" style="text-align:left;" | Acme Hour || colspan="2" | 2005  || Featured Looney Tunes shorts that involve the fictitious corporation, Acme || 
+|-
+| scope="row" style="text-align:left;" | Ape-Reel Fools Day || April 1, 2008 || April 1, 2012 || Ape-themed programming on April Fools' Day, including The Great Grape Ape Show, Magilla Gorilla, and Dial M for Monkey || 
+|-
+| scope="row" style="text-align:left;" | Awesome Mouse Moments || October 10, 2014 || September 6, 2015 || An hour-long block of Tom and Jerry that was sponsored by Chuck E. Cheese's || 
+|-
+| scope="row" style="text-align:left;" | Boomeracers ||August 29, 2005 || July 22, 2012 || Featured car-themed programming, such as The Perils of Penelope Pitstop and Wacky Races || 
+|-
+| scope="row" style="text-align:left;" | Boomeraction || April 1, 2000 || June 1, 2014 || Featured action-themed programming, including Jonny Quest, Teen Titans, and Justice League ||
+|-
+| scope="row" style="text-align:left;" | Boomerandom || 2008 || 2009 || Showcased 1 hour of a singular program, randomly picking by the "Boomerang Drawing Machine" ||
+|-
+| scope="row" style="text-align:left;" | Boomerang 10-Day Marathon || | July 21, 2006 || July 30, 2006  ||  Personalities to be celebrated during the event include: Daffy Duck as Duck Dodgers, The Pink Panther, Tom of the Tom & Jerry cartoons, Dexter of Dexter's Laboratory, Lu of Mike, Lu & Og, Wednesday of The Addams Family, Richie Rich, Baby Bugs Bunny of Baby Looney Tunes, Scooby-Doo of What's New, Scooby-Doo?, and Batman of Justice League. || 
+|-
+| scope="row" style="text-align:left;" | The Boomerang Christmas Party || December 18, 2000 || December 25, 2014 ||Boomerang's original Christmas block, featuring Christmas episodes of its regular programming mixed in with specials such as How the Grinch Stole Christmas!. || 
+|-
+| scope="row" style="text-align:left;" | Boomerang Family Feast || November 26, 2020 || November 29, 2020 || Four-day marathon showcasing classic cartoons, many of which haven't been seen on Boomerang in several years (e.g. The Yogi Bear Show, The Magilla Gorilla Show, The Huckleberry Hound Show, Popeye the Sailor, Top Cat, The Jetsons, The Flintstones, Jonny Quest, and Josie and the Pussycats) || 
+|-
+| scope="row" style="text-align:left;" | Boomerang Zoo || April 4, 2005 || April 3, 2011 || Programming block that showcases series where the title character is an animal || 
+|-
+| scope="row" style="text-align:left;" | Boomerock || 2003 || 2010 || Broadcasts every The Flintstones episode ever made ||
+|-
+|cope="row" style="text-align:left;" |Bug-ster Weekend
+|April 3, 2015
+|April 6, 2015
+|Weekend marathon of different Looney Tunes series
+|
+|-
+| scope="row" style="text-align:left;" | Cartoons Without a Clue || 2006 || 2009 || Broadcasts series where the title characters solve mysteries ||
+|-
+| scope="row" style="text-align:left;" | Character of the Month and Boomeroyalty || August 9, 2003 (as Character of the Month)May 12, 2007 (as Boomeroyalty) ||May 6, 2007 (as Character of the Month)July 22, 2012 (as Boomeroyalty) || A weekend mini-marathon, airing from 2 to 4 pm, of shows focusing on a particular character who changed every month, similar to the former Super Chunk block that was on Boomerang's sister network, Cartoon Network. ||
+|-
+| scope="row" style="text-align:left;" | Christmas || December 18, 2015  || December 25, 2016 ||Boomerang's second Christmas block, featuring a more contemporary line-up than The Boomerang Christmas Party. || 
+|-
+| scope="row" style="text-align:left;" | Dexter's Laboratory-MLK Day Marathon || colspan="2" | January 16, 2006 || Special 12-hour marathon featuring various episodes of Dexter's Laboratory, which marked its debut on Boomerang with this marathon.  || 
+|-
+| scope="row" style="text-align:left;" | Earth Day || April 22, 2005 || April 22, 2014 || In observance of Earth Day, various episodes of Captain Planet and the Planeteers aired ||
+|-
+| scope="row" style="text-align:left;" | Elements || April 1, 2000 || June 1, 2014 || Samples from different characters including Bugs Bunny, Huckleberry Hound, Pink Panther, and Yogi Bear ||
+|-
+| scope="row" style="text-align:left;" | Flagstones to Flintstones || July 4, 2007 || July 7, 2007 || Special Fourth of July-themed marathon of every episode from The Flintstones || 
+|-
+| scope="row" style="text-align:left;" | Fool-a-Thon || colspan="2" | April 1, 2005 || ||
+|-
+| scope="row" style="text-align:left;" | Halloween || October 24, 2011 || October 31, 2013 || Aired various mystery-themed shows, along with live-action series, such as The Munsters and The Addams Family ||
+|-
+| scope="row" style="text-align:left;" | Hanna-Barbera's Cartoon Corral || 2003 || 2005 ||  || 
+|-
+| scope="row" style="text-align:left;" | Happy Birthday Snoopy || August 6, 2016 || August 28, 2016 || A weekend marathon of Peanuts airing from 1 pm to 5 pm ||
+|-
+| scope="row" style="text-align:left;" | Johnny Bravo Marathon || colspan="2" | January 22, 2008 || Special marathon featuring 12 episodes (including the first 6 in chronological order) of Johnny Bravo, which marked its debut on Boomerang with this marathon.  || 
+|-
+| scope="row" style="text-align:left;" | June Bugs || June 2003 || June 2004 || 72-hour marathon of Bugs Bunny-related cartoons. All 160 Bugs Bunny shorts in alphabetical order. || 
+|-
+| scope="row" style="text-align:left;" | Late Night Black & White || 2007 || 2008 ||  || 
+|-
+|cope="row" style="text-align:left;" |Looney Tunes - New Year's Eve Marathon
+|December 31, 2015
+|January 1, 2016
+|24-hour marathon of Looney Tunes installments
+|
+|-
+| scope="row" style="text-align:left;" | MGM Cartoons || 2003 || June 1, 2014 || A compilation of MGM shorts, including Barney Bear, Droopy, and one-shots || 
+|-
+| scope="row" style="text-align:left;" | MLB All-Star Grand Slam || July 18, 2015 || July 19, 2015 || Featured various installments of Looney Tunes, Scooby-Doo, and Tom and Jerry ||
+|-
+| scope="row" style="text-align:left;" | MLK Day || colspan="2" | January 19, 2015 || Featured a marathon of The Garfield Show and marked the beginning of Boomerang's 2015 rebrand ||
+|-
+| scope="row" style="text-align:left;" | Mother's Day || May 14, 2006 || May 12, 2013 || Featured mother-centric episodes of The Flintstones and The Jetsons ||
+|-
+| scope="row" style="text-align:left;" | New Episode Weekends || January 10, 2015 || July 12, 2015 || Boomerang's first weekly premiere block, airing weekend afternoons from 1:00 to 3:00 p.m., which featured new episodes of Grojband, Numb Chucks, and The Garfield Show || 
+|-
+| scope="row" style="text-align:left;" | New Scooby Movies || October 4, 2020 || October 25, 2020 || Part of Scoobtober, in which a different Scooby-Doo movie aired every Sunday night at 8:00 p.m. || 
+|-
+| scope="row" style="text-align:left;" | No Undies Mondays || 2006 || 2008 || Featuring characters that wear no pants || 
+|-
+| scope="row" style="text-align:left;" | Pet of the Week || June 8, 2015 || September 4, 2015 || Showcases 2 hours of an animated series, where the title character is an animal, such as Courage the Cowardly Dog, The Garfield Show, and What's New, Scooby-Doo?. The block was later reduced to 1 hour of programming ||
+|-
+| scope="row" style="text-align:left;" | Scooberang || October 3, 2003October 1, 2004 || October 31, 2003October 31, 2004 || Showed every Scooby-Doo cartoon and movie produced to date || 
+|-
+|cope="row" style="text-align:left;" |Scoobtober
+|October 1, 2020
+|October 31, 2020
+|Nine-hour marathon of various Scooby-Doo installments from 1:00 to 9:00 p.m. every day. Included the network premiere of Scooby-Doo and Guess Who?.
+|
+|-
+|cope="row" style="text-align:left;" |Scooby-Doo! - New Years Day Marathon
+|January 1, 2016
+|January 2, 2016
+|24-hour marathon of various Scooby-Doo installments
+|
+|-
+| scope="row" style="text-align:left;" | Super Friends Marathon || colspan="2" | September 27, 2008 || Featured several episodes of Challenge of the Super Friends and Super Friends || 
+|-
+| scope="row" style="text-align:left;" | Taking on Mister T || colspan="2" | April 1, 2006 || April Fool's marathon with Mister T episodes pitted against other cartoons || 
+|-
+| scope="row" style="text-align:left;" | Those Meddling Kids! || 2008 || 2011 || Showcases series where the plots involve mystery solving, like Clue Club, Josie and the Pussycats, and Scooby-Doo ||
+|-
+| scope="row" style="text-align:left;" | Tickle U || colspan="2" | 2005 || Promotional airings for Cartoon Network's block in 2005; succeeded by the Cartoonito brand. || 
+|-
+|cope="row" style="text-align:left;" |Tom and Jerry - Memorial Weekend
+|May 23, 2015
+|May 24, 2020
+|72-hour marathon of various Tom and Jerry installments
+|
+|-
+| scope="row" style="text-align:left;" | Toons in Tights || 2006 || 2008 || Showcased series where the title character doesn't wear pants ||
+|-
+| scope="row" style="text-align:left;" | Warner Bros. Cartoons || September 18, 2006 || May 6, 2007 || Featured cartoons produced by Warner Bros. Animation || 
+|-
+| scope="row" style="text-align:left;" | Weeknights at 8:30 || October 5, 2015 || January 29, 2016 || Boomerang's second weekly premiere block, which aired weekday nights at 8:30 pm, and featured new episodes of Be Cool, Scooby-Doo!, DreamWorks Dragons, The Garfield Show, Shaun the Sheep, and Sonic Boom ||
+|}
+
+=== Former interstitial series ===
+{| class="wikitable plainrowheaders sortable" style="width:75%;text-align:center;"
+|-
+! scope="col" style="width:30%;" | Title !! scope="col" style="width:14%;" | First aired !! scope="col" style="width:14%;" | Last aired !! scope="col" style="width:14%;" | References
+|-
+|cope="row" style="text-align:left;" |Boomerang-A-Long|| April 1, 2000|| January 19, 2015 ||
+|-
+|cope="row" style="text-align:left;" |Cartoon Network Groovies|| April 1, 2000 || January 19, 2015 ||
+|-
+|cope="row" style="text-align:left;" |Cartoon Network Shorties|| April 1, 2000 || June 1, 2014 ||
+|-
+|cope="row" style="text-align:left;" |Powfactor|| November 1, 2016 || January 2, 2017 ||
+|-
+|cope="row" style="text-align:left;" |Retromercials|| April 1, 2000|| June 1, 2014 ||
+|-
+|cope="row" style="text-align:left;" | Wedgies|| October 5, 2013 || January 19, 2015||
+|}
+
+== See also ==
+* List of programs broadcast by Cartoon Network
+* List of programs broadcast by Cartoonito
+* List of programs broadcast by Adult Swim
+* List of programs broadcast by Toonami
+* Boomerang
+
+== Notes ==
+
+
+
+== References ==
+
+
+
+
+
+
+
+
+*
+Boomerang
+Category:Cartoon Network-related lists

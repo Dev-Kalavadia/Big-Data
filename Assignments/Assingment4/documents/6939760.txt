@@ -1,0 +1,255 @@
+Title: List of municipalities of the Province of Perugia
+
+The following is a list of the 59 municipalities (comuni) of the Province of Perugia, Umbria, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|054001
+|Assisi
+| align="right" |26,196
+|-
+|054002
+|Bastia Umbra
+| align="right" |19,471
+|-
+|054003
+|Bettona
+| align="right" |3,952
+|-
+|054004
+|Bevagna
+| align="right" |5,013
+|-
+|054005
+|Campello sul Clitunno
+| align="right" |2,415
+|-
+|054006
+|Cannara
+| align="right" |4,083
+|-
+|054007
+|Cascia
+| align="right" |3,277
+|-
+|054008
+|Castel Ritaldi
+| align="right" |3,134
+|-
+|054009
+|Castiglione del Lago
+| align="right" |14,807
+|-
+|054010
+|Cerreto di Spoleto
+| align="right" |1,153
+|-
+|054011
+|Citerna
+| align="right" |3,273
+|-
+|054012
+|Città della Pieve
+| align="right" |7,366
+|-
+|054013
+|Città di Castello
+| align="right" |39,301
+|-
+|054014
+|Collazzone
+| align="right" |3,108
+|-
+|054015
+|Corciano
+| align="right" |17,008
+|-
+|054016
+|Costacciaro
+| align="right" |1,355
+|-
+|054017
+|Deruta
+| align="right" |8,498
+|-
+|054018
+|Foligno
+| align="right" |53,818
+|-
+|054019
+|Fossato di Vico
+| align="right" |2,576
+|-
+|054020
+|Fratta Todina
+| align="right" |1,820
+|-
+|054021
+|Giano dell'Umbria
+| align="right" |3,515
+|-
+|054022
+|Gualdo Cattaneo
+| align="right" |6,251
+|-
+|054023
+|Gualdo Tadino
+| align="right" |15,472
+|-
+|054024
+|Gubbio
+| align="right" |32,563
+|-
+|054025
+|Lisciano Niccone
+| align="right" |667
+|-
+|054026
+|Magione
+| align="right" |13,207
+|-
+|054027
+|Marsciano
+| align="right" |17,148
+|-
+|054028
+|Massa Martana
+| align="right" |3,745
+|-
+|054029
+|Monte Castello di Vibio
+| align="right" |1,663
+|-
+|054030
+|Montefalco
+| align="right" |5,686
+|-
+|054031
+|Monteleone di Spoleto
+| align="right" |651
+|-
+|054032
+|Monte Santa Maria Tiberina
+| align="right" |1,228
+|-
+|054033
+|Montone
+| align="right" |1,642
+|-
+|054034
+|Nocera Umbra
+| align="right" |6,130
+|-
+|054035
+|Norcia
+| align="right" |4,948
+|-
+|054036
+|Paciano
+| align="right" |974
+|-
+|054037
+|Panicale
+| align="right" |5,623
+|-
+|054038
+|Passignano sul Trasimeno
+| align="right" |5,314
+|-
+|054039
+|Perugia
+| align="right" |157,842
+|-
+|054040
+|Piegaro
+| align="right" |3,679
+|-
+|054041
+|Pietralunga
+| align="right" |2,343
+|-
+|054042
+|Poggiodomo
+| align="right" |165
+|-
+|054043
+|Preci
+| align="right" |789
+|-
+|054044
+|San Giustino
+| align="right" |10,696
+|-
+|054045
+|Sant'Anatolia di Narco
+| align="right" |585
+|-
+|054046
+|Scheggia e Pascelupo
+| align="right" |1,480
+|-
+|054047
+|Scheggino
+| align="right" |460
+|-
+|054048
+|Sellano
+| align="right" |1,194
+|-
+|054049
+|Sigillo
+| align="right" |2,483
+|-
+|054050
+|Spello
+| align="right" |8,593
+|-
+|054051
+|Spoleto
+| align="right" |38,563
+|-
+|054052
+|Todi
+| align="right" |17,075
+|-
+|054053
+|Torgiano
+| align="right" |5,700
+|-
+|054054
+|Trevi
+| align="right" |8,007
+|-
+|054055
+|Tuoro sul Trasimeno
+| align="right" |3,725
+|-
+|054056
+|Umbertide
+| align="right" |16,890
+|-
+|054057
+|Valfabbrica
+| align="right" |3,542
+|-
+|054058
+|Vallo di Nera
+| align="right" |446
+|-
+|054059
+|Valtopina
+| align="right" |1,399
+|-
+|
+|Total
+| align="right" |632,420
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

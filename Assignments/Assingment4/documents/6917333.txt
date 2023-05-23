@@ -1,0 +1,40 @@
+Title: Salter–Harris fracture
+
+A Salter–Harris fracture is a fracture that involves the epiphyseal plate (growth plate) of a bone, specifically the zone of provisional calcification. It is thus a form of child bone fracture. It is a common injury found in children, occurring in 15% of childhood long bone fractures. This type of fracture and its classification system is named for Robert B. Salter and William H. Harris who created and published this classification system in the Journal of Bone and Joint Surgery in 1963.Daniel J. Cepela, Jason P. Tartaglione, Timothy P. Dooley and Prerana N. Patel. Classifications In Brief: Salter-Harris Classification of Pediatric Physeal Fractures. Clin Orthop Relat Res. 2016 Nov; 474(11): 2531–2537.
+
+==Types==
+thumb|300px|Salter–Harris Fracture Types
+
+There are nine types of Salter–Harris fractures; types I to V as described by Robert B Salter and W Robert Harris in 1963, and the rarer types VI to IX which have been added subsequently:
+* Type I –  transverse fracture through the growth plate (also referred to as the "physis"): 6% incidence
+* Type II – A fracture through the growth plate and the metaphysis, sparing the epiphysis: 75% incidence, takes approximately 12-90 weeks or more in the spine to heal.
+* Type III – A fracture through growth plate and epiphysis, sparing the metaphysis: 8% incidence
+* Type IV – A fracture through all three elements of the bone, the growth plate, metaphysis, and epiphysis: 10% incidence
+* Type V – A compression fracture of the growth plate (resulting in a decrease in the perceived space between the epiphysis and metaphysis on x-ray): 1% incidence
+* Type VI – Injury to the peripheral portion of the physis and a resultant bony bridge formation which may produce an angular deformity (added in 1969 by Mercer Rang)
+* Type VII – Isolated injury of the epiphyseal plate (VII–IX added in 1982 by JA Ogden)
+* Type VIII – Isolated injury of the metaphysis with possible impairment of endochondral ossification
+* Type IX – Injury of the periosteum which may impair intramembranous ossification
+
+===SALTER mnemonic for classification===
+The mnemonic "SALTER" can be used to help remember the first five types.>
+
+N.B.: This mnemonic requires the reader to imagine the bones as long bones, with the epiphyses at the base.
+* I   – S = Slip (separated or straight across). Fracture of the cartilage of the physis (growth plate)
+* II  – A = Above. The fracture lies above the physis, or Away from the joint.
+* III – L = Lower. The fracture is below the physis in the epiphysis.
+* IV  – TE = Through Everything. The fracture is through the metaphysis, physis, and epiphysis.
+* V   – R = Rammed (crushed). The physis has been crushed.
+
+Alternatively, SALTER can be used for the first 6 types, as above but adding Type V — 'E' for 'Everything' or 'Epiphysis' and Type VI — 'R' for 'Ring'.
+
+==Prognosis==
+Fractures in children generally heal relatively fast but may take several weeks to heal. Last Reviewed: October 2014 Most growth plate fractures heal without any lasting effects. Rarely, bridging bone may form across the fracture, causing stunted growth and/or curving. In such cases, the bridging bone may need to be surgically removed. A growth plate fracture may also stimulate growth, causing a longer bone than the corresponding bone on the other side. Therefore, the American Academy of Orthopaedic Surgeons recommends regular follow-up for at least a year after a growth plate fracture.
+
+==Additional images==
+
+
+==See also==
+* Paul Jules Tillaux
+* Thurstan Holland sign
+

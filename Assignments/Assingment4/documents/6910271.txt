@@ -1,0 +1,84 @@
+Title: West Elk Mountains
+The West Elk Mountains are a high mountain range in the west-central part of the U.S. state of Colorado. They lie primarily within the Gunnison National Forest, and part of the range is protected as the West Elk Wilderness. The range is primarily located in Gunnison County, with small parts in eastern Delta and Montrose counties.
+
+The West Elks are surrounded by tributaries of the Gunnison River. The range is bounded on the north by the North Fork of the Gunnison and on the east by the East River, another tributary of the Gunnison. On the south and west it is contiguous with Black Mesa and Fruitland Mesa, both part of the uplift in which sits the Black Canyon of the Gunnison. On the northeast it is contiguous with the Elk Mountains, being separated from them by Anthracite Creek and Coal Creek. Nearby towns include Gunnison, Paonia, and the ski resort of Crested Butte.
+
+==Geology==
+The northern and southern West Elk Mountains have contrasting geologic histories and surface features. In the north, the prominent peaks are laccoliths, formed when magma intruded into Mancos Shale about 30 million years go. Since then, the overlying Mesozoic sedimentary rock, including the relatively soft Mancos Shale, has eroded away, exposing the laccoliths. Laccoliths in the West Elk Mountains include Marcellina Mountain, Mount Gunnison, East Beckwith Mountain, the Anthracite Range, Mount Axtell, Carbon Peak, and Whetstone Mountain.
+
+In contrast, volcanic rocks dominate the southern portion of the range. Shortly after the laccolith intrusions in the north, volcanic activity began to the south. A large stratovolcano and other vents ejected material that accumulated over what is now the southern West Elk Mountains. Most of these volcanic rocks are included in the West Elk Breccia Formation, a heterogeneous collection of volcanic materials including extensive mudflow deposits. West Elk Breccia is in places over  thick.
+
+On top of the West Elk Breccia, volcanic ash was deposited through repeated eruptions in the San Juan volcanic field to the south. Most of the ash was deposited 26 to 27 million years ago. The resulting rock, tuff, is relatively soft, but the ash landing toward the southern edge of the West Elk volcanic field was hot enough to fuse into harder welded tuff. These welded tuffs are more resistant to weathering than the underlying breccia and today they cap multiple south-sloping mesas in the southern West Elk Mountains.
+
+Erosion has cut valleys and defined the mesas and peaks we see today. The highest point in the West Elk Mountains is West Elk Peak, which is located near the center of the large volcano that once dominated this landscape. Stratigraphic profiles of these rock layers can be seen at the southern edge of the West Elk Mountains where the Gunnison River has eroded through the volcanic strata. A good example can be seen at the Dillion Pinnacles in Curecanti National Recreation Area. The resistant welded tuff that caps Dillon Mesa is on top, overlying the West Elk Breccia, which has eroded into the pinnacles. Exposed under the breccia are the older, underlying Mesozoic sedimentary rocks including the Mancos, Dakota, and Morrison Formations.
+
+==Prominent peaks==
+
+thumb|2013 aerial photo
+{| class="wikitable sortable"
+|+The 9 Peaks of the West Elk Mountains With At Least 500 Meters of Topographic Prominence
+!Rank
+!Mountain Peak
+!Elevation
+!Prominence
+!Isolation
+|-
+|align=center|1
+|West Elk Peak NGS PB
+|align=center|3975.200 = 13,042 feet3975 m
+|align=center|0943.356 = 3,095 feet943 m
+|align=center|00022.18 = 13.8 miles22.2 km
+|-
+|align=center|2
+|Mount Gunnison NGS PB
+|align=center|3878.700 = 12,725 feet3879 m
+|align=center|1081.735 = 3,549 feet1082 m
+|align=center|00019.05 = 11.8 miles19.1 km
+|-
+|align=center|3
+|Whetstone Mountain NGS PB
+|align=center|3818.100 = 12,527 feet3818 m
+|align=center|0748.589 = 2,456 feet749 m
+|align=center|00015.11 = 9.4 miles15.1 km
+|-
+|align=center|4
+|East Beckwith Mountain NGS PB
+|align=center|3792.100 = 12,441 feet3792 m
+|align=center|0759.562 = 2,492 feet760 m
+|align=center|00011.01 = 6.8 miles11.0 km
+|-
+|align=center|5
+|Anthracite Range High Point NGS PB
+|align=center|3777.800 = 12,394 feet3778 m
+|align=center|0647.700 = 2,125 feet648 m
+|align=center|00007.68 = 4.8 miles7.7 km
+|-
+|align=center|6
+|Carbon Peak NGS PB
+|align=center|3684.300 = 12,088 feet3684 m
+|align=center|0664.159 = 2,179 feet664 m
+|align=center|00006.31 = 3.9 miles6.3 km
+|-
+|align=center|7
+|Mount Guero NGS PB
+|align=center|3675.400 = 12,058 feet3675 m
+|align=center|0741.274 = 2,432 feet741 m
+|align=center|00010.27 = 6.4 miles10.3 km
+|-
+|align=center|8
+|Coal MountainThe elevation of this summit has been converted from the National Geodetic Vertical Datum of 1929 (NGVD 29) to the North American Vertical Datum of 1988 (NAVD 88). National Geodetic Survey PB
+|align=center|3460.528 = 11,710 feet3570 m
+|align=center|0831.494 = 1,715 feet523 m
+|align=center|00008.18 = 4.8 miles7.8 km
+|-
+|align=center|9
+|Marcellina Mountain PB
+|align=center|3460.528 = 11,353 feet3461 m
+|align=center|0831.494 = 2,728 feet831 m
+|align=center|00008.18 = 5.1 miles8.2 km
+|-
+|}
+
+==See also==
+
+

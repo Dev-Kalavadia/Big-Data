@@ -1,0 +1,307 @@
+Title: List of tallest structures in Denmark
+
+This is a list of the tallest structures in Denmark. The list contains all types of structures.
+Please expand the list and correct it, where necessary.
+
+right|thumb|150px|Vordingborg Transmitter
+
+{| class="wikitable"
+|-
+!Construction || Pinnacle height (ft) || Pinnacle height (m) || Year of construction || Construction type || Location || Coordinates || Remarks
+|-
+|Angissoq LORAN-C transmitter (old mast) || 1,350 ft || 411.48 m || 1963 || Guyed Mast || Angissoq, Greenland  ||  || Collapsed on 27 July 1964, insulated against ground.
+|-
+|Globecom Tower || 1,241 ft || 378.25 m || 1954 || Guyed Mast || Thule Air Base, Greenland ||  || Insulated against ground. Demolished 1992.
+|-
+|Tommerup Transmitter||1,054 ft || 321.3 m||1987/1988 || Guyed Mast || Tommerup || 
+|-
+|Hadsten Transmitter||1,051 ft || 320.3 m || 1987/1988 || Guyed Mast || Hadsten || 
+|-
+|Høve Transmitter||1,051 ft || 320.3 m || 1987/1988 || Guyed Mast || Høve || 
+|-
+|Jyderup Transmitter||1,051 ft || 320.3 m || 1987/1988 || Guyed Mast || Jyderup || 
+|-
+|Nibe Transmitter||1,051 ft || 320.3 m || 1987/1988 || Guyed Mast || Nibe || 
+|-
+|Røde Kro Transmitter||1,051 ft || 320.3 m || 1987/1988 || Guyed Mast || Røde Kro || 
+|-
+|Videbæk Transmitter||1,051 ft || 320.3 m || 1987/1988 || Guyed Mast || Videbæk || 
+|-
+|Vordingborg Transmitter||1,051 ft || 320.3 m || 1987/1988 || Guyed Mast || Vordingborg || 
+|-
+|Hedensted Transmitter||1,037 ft || 316.1 m || 1987/1988 || Guyed Mast || Hedensted || 
+|-
+|Viborg-Sparkær Transmitter||1,036 ft || 315.8 m || 1987/1988 || Guyed Mast || Sparkær || 
+|-
+|Rø Transmitter||1,036 ft || 315.8 m || 1987/1988 || Guyed Mast || Rø ||  || Top of mast is 431.29 metres above sea level and highest point in Denmark (excluding Greenland and the Faroe Islands).
+|-
+|Varde-Nordenskov Transmitter||1,036 ft || 315.8 m || 1987/1988 || Guyed Mast || Varde-Nordenskov || 
+|-
+|Siemens Gamesa SG 14-222 DD ||889 ft || 271.4 m || 2021 || Wind turbine || Østerild ||
+|-
+|Storebælt Bridge ||883 ft || 269.17 m || 1998 ||Bridge towers || Storebælt ||  ; 
+|
+|-
+|Chimney of Esbjerg Power Station ||821 ft || 250.24 m || ? ||Chimney || Esbjerg || 
+|-
+| Østerild Wind Turbine Test Center Light Masts || 820 ft || 250 m || 2011 || Guyed masts || Thisted-Østerild ||  ; 
+|-
+|Chimney of Fynsværket 2 ||771 ft || 235 m || ? ||Chimney || Odense || 
+|-
+|Østerild Vestas V-164 Wind Turbine  ||728 ft || 222 m || 2013/2014 || Tower || Thisted-Østerild || 
+|-
+|Rangstrup transmitter ||726 ft || 221.3 m || ? ||Guyed mast || Tønder || 
+|-
+|Sønder Højrup transmitter ||726 ft || 221.3 m || ? ||Guyed mast || Sonder Hojrup || 
+|-
+|Chimney of Asnæsværket 1 ||722 ft || 220.1 m || ? ||Chimney || Kalundborg || 
+|-
+|Næstved Transmitter ||722 ft || 220.1 m || ? ||Guyed masts || Næstved || 
+|-
+|Frejlev Transmitter ||722 ft || 220.1 m || ? ||Guyed masts || Frejlev || 
+|-
+|Mejrup Transmitter ||722 ft || 220.1 m || ? ||Guyed masts || Holstebro || 
+|-
+|Søsterhøj ||709 ft || 216.1 m || ? ||Tower || Aarhus ||  || Partially guyed
+|-
+|Angissoq LORAN-C transmitter (new mast) || 704 ft || 214 m || 1964 || Guyed Mast || Angissoq, Greenland ||  || State unknown
+|-
+|Gladsaxe Transmitter ||676 ft || 206.5 m || 1955 ||Guyed mast || Gladsaxe || 
+|-
+|Øresund Bridge ||669 ft || 204 m || 2000 || Tower || Øresund ||  
+|-
+|Måde Vestas V-164 Wind Turbines  || 656 ft || 200 m || 2016 || Tower || Esbjerg ||  ||  Two units, nacelle height: 118 metres, rotor diameter: 164 metres.
+|-
+|Østerild SWT-6.0-154 Wind Turbine  || 646 ft || 197 m || 2012 || Tower || Thisted-Østerild || 
+|-
+|LORAN-C transmitter Ejde ||625 ft || 190.5 m || 1963 ||Guyed mast || Eiði, Faroe Islands ||  || Insulated against ground.
+|-
+|Chimney of Studstrupværket|| 623 ft || 189.89 m || ? ||Chimney || Studstrup || 
+|-
+|Chimney of Enstedværket||593 ft || 180.7 m || ? ||Chimney || Aabenraa || 
+|-
+|Odinstårnet || 581 ft || 177 m || 1935 ||Tower || Odense ||  || Destroyed.
+|-
+|Arsballe Transmitter || 575 ft || 175.3 m || ? ||Guyed masts || Arsballe || 
+|-
+|Chimney of Nordjyllandsværket|| 558 ft || 170.1 m || ? ||Chimney || Aalborg || 
+|-
+|Høvsøre Wind Measurement Tower || 541 ft || 165 m || ? || Lattice tower || Høvsøre || 
+|-
+|Transmitter Karleby || 539 ft || 164.29 m || ? ||Guyed mast || Karleby || 
+|-
+|Felsted transmitter || 530 ft || 161.54 m || ? ||Guyed mast || Felsted || 
+|-
+|Tholne transmitter || 527 ft || 160.6 m || ? || Guyed mast || Tholne  || 
+|-
+|Læsø Mast || 525 ft || 160.02 m || ? ||Guyed mast || Læsø || 
+|-
+|Simiutaq Radio Mast || 516 ft || 157.2 m || ? ||Guyed mast || Qaqortoq, Greenland || 
+|-
+|Chimney of Asnæsværket 2||499 ft || 152.1 m || ? ||Chimney || Kalundborg || 
+|-
+|Tinghøj Tower ||499 ft || 152.1 m || ? ||Tower || Hobro || 
+|-
+|Thisted transmitter ||498 ft || 151.8 m || ? || Guyed mast || Thisted  || 
+|-
+|Ølgod transmitter ||496 ft || 151.2 m || ? || Guyed mast || Ølgod || 
+|-
+|Chimneys of Amagerværket ||493 ft || 150.27 m || ? ||Chimney || Copenhagen ||  ;  ; 
+|-
+|Chimney of Amagerforbrænding ||492 ft || 149.96 m || ? ||Chimney || Copenhagen || 
+|-
+|Chimneys of Avedøreværket ||492 ft || 149.96 m || ? ||Chimney || Copenhagen ||  ; 
+|-
+|Chimney of Vestforbrænding ||489 ft || 149.04 m || ? ||Chimney || Ejby || 
+|-
+|Kalundborg Transmitter|| 482 ft || 147 m || 1951 ||Guyed mast || Kalundborg ||  || Insulated against ground
+|-
+|Varde Flare Stick || 476 ft || 145.1 m || ? ||Chimney || Varde || 
+|-
+|Light*house || 466 ft || 142 m || 2008|- 2012||| Skyscraper || Aarhus || 56.165621129432566, 10.231235808906964 || Under construction
+|-
+|Limfjorden Powerline Crossing 2 || 465 ft || 141.73 m || ? ||Electricity pylon || ||  ;  || 
+|-
+|Chimney of Fynsværket 1 ||463 ft || 141.12 m || ? ||Chimney || Odense || 
+|-
+|Akraberg transmitter ||463 ft || 141 m || 1990 || Guyed mast || Akraberg, Faroe Islands ||  || used for broadcasting on 531 kHz
+|-
+|Herning transmitter ||460 ft || 140.2 m || ? ||Guyed mast || Herning || 
+|-
+|Vejle Telecommunication Tower ||448 ft || 136.55 m || ? || Tower || Vejle || 
+|-
+|Chimney of Randers ||436 ft || 132.9 m || ? ||Chimney || Randers || 
+|-
+|Chimney of Kyndby ||427 ft || 130.15 m || ? ||Chimney || Kyndby || 
+|-
+|Chimney of Stigsnæs ||427 ft || 130.15 m || ? ||Chimney || Stigsnæs || 
+|-
+|Wind turbines of Frederikshavn|| 420 ft || 128 m || ? ||Wind turbine || Frederikshavn ||  || 4 units
+|-
+|Chimney of Enstedværket||419 ft || 127.7 m || ? ||Chimney || Aabenraa || 
+|-
+|Chimney of Frederiksberg Varmecentral||414 ft || 126.19 m || ? ||Chimney || Copenhagen || 
+|-
+|Lillebælt Powerline Crossing 2 || 411 ft || 125.3 m || ? ||Electricity pylon || Middelfart || 
+|-
+|Húsareyn TV Mast ||410 ft || 125 m ||  ||Guyed mast || Tórshavn, Faroe Islands ||  ||
+|-
+|Risø Transmitter || 404 ft || 123.14 m || ? ||Guyed mast || Risø || 
+|-
+|New Lillebælt Bridge || 401 ft || 122.22 m || 1970 ||Bridge || Lillebælt ||  ; 
+|-
+|Wind turbines of Østhavn|| 400 ft || 121.92 m || ? ||Wind turbine || Aalborg ||  || 6 units
+|-
+|Chimney of Kalundborg Statoil || 398 ft || 121.31 m || ? ||Chimney || Kalundborg || 
+|-
+|Wind turbine of Blåhøj|| 394 ft || 120.09 m || ? ||Wind turbine || Blåhøj || 
+|-
+|Chimney of Dansk-Norsk Kvælstoffabrik || 394 ft || 120.09 m || 1960 ||Chimney || Grenå || 
+|-
+|Chimneys of Rørdal|| 394 ft || 120.09 m || ? ||Chimney || Aalborg || 
+|-
+|Rønland Wind Turbines || 394 ft || 120.09 m || ? ||Wind turbines || Rønland ||  || 8 units
+|-
+|Chimney of Fredericia Superfos || 394 ft || 120.09 m || ? ||Chimney || Fredericia || 
+|-
+|Chimney of Lygten || 394 ft || 120.09 m || ? ||Chimney || Copenhagen || 
+|-
+|Roskilde Forbrænding || 394 ft || 120.09 m || ? ||Chimney || Roskilde || 
+|-
+|Nakskov Wind Turbines || 394 ft || 120.09 m || ? ||Wind turbines || Nakskov || 
+|-
+|Chimneys of Skærbækværket || 394 ft || 120.09 m || ? ||Chimney || Skærbæk ||  ; 
+|-
+|Lillebælt Powerline Crossing 1 || 392 ft || 119.5 m || ? ||Electricity pylon || Middelfart || 
+|-
+|Lillebælt Powerline Crossing 2 || 391 ft || 119.2 m || ? ||Electricity pylon || Middelfart || 
+|-
+|Kalundborg Transmitter|| 387 ft || 118 m || 1927 ||Tower || Kalundborg ||  ;  || 2 towers
+|-
+|Herlev Hospital|| 383 ft || 116.73 m || 1965–1975 ||Skyscraper || Herlev || 
+|-
+|Chimney of DLG|| 381 ft || 116.13 m || ? ||Chimney || Aarhus || 
+|-
+|Chimney of Måbjergværket|| 381 ft || 116.13 m || ? ||Chimney || Holstebro || 
+|-
+|Chimney of Ørstedsværket|| 380 ft || 115.82 m || ? ||Chimney || Copenhagen || 
+|-
+|Høvsøre Wind Measurement Tower || 374 ft || 114 m || ? || Lattice tower || Høvsøre || 
+|-
+|Lillebælt Powerline Crossing 1 || 371 ft || 113.1 m || ? ||Electricity pylon || Middelfart || 
+|-
+|Chimney of Nordjyllandsværket|| 368 ft || 112.17 m || ? ||Chimney || Aalborg ||  ; 
+|-
+|Chimney of KFK|| 368 ft || 112.17 m || ? ||Chimney || Aarhus || 
+|-
+|Chimney of Midtkraft|| 368 ft || 112.2 m || ? ||Chimney || Aarhus || 
+|-
+|Wind turbines of Nordjyllandsværket|| 365 ft || 111.25 m || ? ||Wind turbine || Aalborg ||  || 6 units
+|-
+|Wind turbines of Middlegrunden || 365 ft || 111.25 m || ? ||Wind turbine || Copenhagen ||  || 20 units
+|-
+|Wind turbines of Nysted Havmøllepark|| 361 ft || 110.03 m || ? ||Wind turbine || Nysted ||  || 72 units
+|-
+|Lindø Shipyard Crane|| 361 ft || 110.03 m || ? ||Crane || Odense || 
+|-
+|Varde Chimney || 361 ft || 110.03 m || ? ||Chimney || Varde || 
+|-
+|Wind turbines of Horns Rev|| 360 ft || 109.7 m || ? ||Wind turbine || Horns Rev ||  || 80 units
+|-
+|Chimney of Fredericia Shell refinery || 358 ft || 109.11 m || ? ||Chimney || Fredericia || 
+|-
+|Aarhus Havn Cranes|| 356 ft || 108.5 m || ? ||Crane || Aarhus || 
+|-
+|Margreteholm Mast || 355 ft || 108.2 m || ? ||Guyed mast || Copenhagen || 
+|-	
+|Chimney Vamdrup || 355 ft || 108.2 m || ? ||Chimney || Vamdrup || 
+|-
+| Domus Vista  || 351 ft || 107 m || 1969 || Building  || Copenhagen ||  || Tallest residential structure in Denmark
+|-
+|Transmitter Dronninglund  || 350 ft || 106.7 m || ? ||Guyed mast || Dronninglund || 
+|-
+|Transmitter Brønderslev || 350 ft || 106.7 m || ? ||Guyed mast || Brønderslev || 
+|-
+|Transmitter Faaborg || 350 ft || 106.7 m || ? ||Guyed mast || Faaborg || 
+|-
+|Transmitter Køge || 350 ft || 106.7 m || ? ||Guyed mast || Køge || 
+|-
+|Transmitter Maribo || 350 ft || 106.7 m || ? ||Guyed mast || Maribo || 
+|-
+|Transmitter Ringkøbing || 350 ft || 106.7 m || ? ||Guyed mast || Ringkøbing || 
+|-
+|Transmitter Tranebjerg || 350 ft || 106.7 m || ? ||Guyed mast || Tranebjerg || 
+|-
+|Transmitter Blykobbe || 348 ft || 106.07 m || ? ||Lattice Tower || Blykobbe || 
+|-
+|Transmitter Brande || 348 ft || 106.07 m || ? ||Guyed mast || Brande || 
+|-
+|Valby Gasværk || 348 ft || 106.07 m || ? ||Gasometer || Copenhagen || 
+|-
+|Chimney of Brande Biomar || 345 ft || 105.16 m || ? ||Chimney || Brande || 
+|-
+|Chimney of Fredercia Superfos || 345 ft || 105.16 m || ? ||Chimney || Fredericia || 
+|-
+|Wind turbine Ejstrupholm || 345 ft || 105.16 m || ? ||Wind turbine || Brejl || 
+|-
+|Transmitter Hørret || 345 ft || 105.16 m || ? || Lattice Tower || Hørret || 
+|-
+|Transmitter Kalvslund || 345 ft || 105.16 m || ? ||Guyed mast || Kalvslund || 
+|-
+|Transmitter Ringsted || 345 ft || 105.16 m || ? ||Guyed mast || Ringsted || 
+|-
+|Transmitter Skanderberg || 345 ft || 105.16 m || ? || Lattice tower || Skanderberg || 
+|-
+|Transmitter Snoghøj || 345 ft || 105.16 m || ? ||Guyed mast || Snoghøj || 
+|-
+|Chimney of Vejen || 345 ft || 105.16 m || ? || Chimney || Vejen || 
+|-
+|Copenhagen Town Hall || 344 ft || 104.9 m || ? ||Building || Copenhagen || 
+|-
+| Transmitter Egebjerg || 342 ft || 103.9 m || ? ||Guyed mast || Egebjerg || 
+|-
+| Transmitter Skive || 342 ft || 103.9 m || ? ||Guyed mast || Skive || 
+|-
+| Carlsberg Building || 341 ft || 104.25 m || ? ||Building with chimney || Copenhagen ||  ; 
+|-
+|Transmitter Blåvand || 338 ft || 103 m || ? ||Guyed mast || Blåvand || 
+|-
+|Transmitter Herstedvester || 338 ft || 103 m || ? ||Guyed mast || Herstedvester || 
+|-
+|Transmitter Holbæk || 338 ft || 103 m || ? ||Guyed mast || Holbæk || 
+|-
+|Transmitter Ragebøl || 338 ft || 103 m || ? ||Guyed mast || Ragebøl || 
+|-
+|Wind turbines Hagesholm || 338 ft || 103 m || ? ||Wind turbines || Hagesholm ||  || 6 units
+|-
+|Towers of Farø-Falster-Bridge || 338 ft || 103 m || ? ||Bridge towers || Farø ||  ; 
+|-
+|Wind turbines of Paludans Flak || 336 ft || 102.41 m || ? ||Wind turbines || Paludans Flak || 
+|-
+|Aarhus Cathedral|| 335 ft || 102.1 m || ? ||Church tower || Aarhus || 
+|-
+|Transmitter Bovbjerg || 335 ft || 102.1 m || ? ||Guyed mast || Bovbjerg || 
+|-
+|Transmitter Fornæs || 335 ft || 102.1 m || ? ||Guyed mast || Fornæs || 
+|-
+|NMT Nyborg || 334 ft || 101.8 m || ? ||Guyed mast || Nyborg || 
+|-
+|Limfjorden Powerline Crossing 1 || 332 ft || 101.19 m || ? ||electricity pylon || ||  ;  || 
+|-
+|Chimney of Svanemølleværket || 331 ft || 100.9 m || ? ||Chimney || Copenhagen || 
+|-
+|Hjørring DECCA-Transmitter || 330 ft || 100.6 m || ? ||Guyed mast || Hjørring ||  || insulated against ground, demolished
+|-
+|Højer DECCA-Transmitter, large mast || 330 ft || 100.6 m || ? ||Guyed mast || Højer ||  || insulated against ground
+|-
+|Klintholm DECCA-Transmitter || 330 ft || 100.6 m || ? ||Guyed mast || Klintholm ||  || insulated against ground, demolished
+|-
+|Samsø DECCA-Transmitter || 330 ft || 100.6 m || ? ||Guyed mast || Samsø ||  || insulated against ground, demolished
+|-
+|Radioøen Radio Mast|| 328 ft || 100 m || ? ||Guyed mast || Nuuk, Greenland || 
+|-
+|Chimney Lisbjerg || 328 ft || 100 m || ? ||Chimney || Lisbjerg || 
+|-
+|Chimney Usserød || 328 ft || 100 m || ? ||Chimney || Usserød || 
+|}
+

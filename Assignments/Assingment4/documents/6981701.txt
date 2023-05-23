@@ -1,0 +1,104 @@
+Title: Sigirino
+
+Sigirino is a former municipality in the district of Lugano in the canton of Ticino in Switzerland.  The municipalities of Medeglia, Bironico, Camignolo, Rivera and Sigirino merged on 21 November 2010 into the new municipality of Monteceneri.Amtliches Gemeindeverzeichnis der Schweiz published by the Swiss Federal Statistical Office  accessed 14 January 2010
+
+==History==
+Sigirino is first mentioned in 1335 as Sezelino.  In the Middle Ages, Sigirino belonged to the territory of the Carvina valley community.  Carvina included all the villages in the upper Vedeggio valley and its secular and religious capital was Bironico.  In a land register of 1296, Como Cathedral possessed lands, pastures, forests, farmland and land with houses in Sigirino.  It is likely that at that time Sigirino possessed some type of fortifications.
+
+The Church of St. Andrew was first mentioned in 1296.  It was totally rebuilt in the 16th century and restored in the 18th.  After its separation from Bironico in 1625, Sigirino had its own parish.
+
+Economically, the village was dominated by agriculture and emigration.  In the 21st century, it belongs to commercial and industrial zone in the valley floor between Sigirino and the neighboring villages.
+
+==Geography==
+thumb|Aerial view (1946)
+Sigirino has an area, , of .  Of this area,  or 3.6% is used for agricultural purposes, while  or 79.1% is forested.   Of the rest of the land,  or 6.5% is settled (buildings or roads),  or 1.1% is either rivers or lakes and  or 8.7% is unproductive land.
+
+Of the built up area, housing and buildings made up 1.1% and transportation infrastructure made up 3.4%.  Power and water infrastructure as well as other special developed areas made up 1.4% of the area  Out of the forested land, 64.4% of the total land area is heavily forested, while 13.1% is covered in small trees and shrubbery and 1.6% is covered with orchards or small clusters of trees.  Of the agricultural land, 1.8% is used for growing crops and 1.1% is used for alpine pastures.  All the water in the municipality is flowing water.  Of the unproductive areas, 7.3% is unproductive vegetation and 1.4% is too rocky for vegetation.Altitudine, superficie, secondo il genere di utilizzazione, rilevazione 1992/1997, e densità della popolazione, nel 2000   accessed 25 October 2010
+
+The village is located in the Lugano district, on the right side of the mid-Vedeggio valley near the entrance to the Cusella side valley.
+
+==Coat of arms==
+The blazon of the municipal coat of arms is Gules a saltire argent and in chief tower of the same.  The St. Andrews cross refers to the patron saint of the village church.Flags of the World.com accessed 14-January-2011
+
+==Demographics==
+Sigirino has a population () of 596.  , 30.4% of the population are resident foreign nationals.Swiss Federal Statistical Office - Superweb database - Gemeinde Statistics 1981-2008  accessed 19 June 2010  Over the last 10 years (1997-2007) the population has changed at a rate of 45.7%.
+
+Most of the population () speaks Italian (89.2%), with German being second most common (4.9%) and French being third (1.8%).Swiss Federal Statistical Office  accessed 14-January-2011  Of the Swiss national languages (), 19 speak German, 7 people speak French, 348 people speak Italian.  The remainder (16 people) speak another language.Popolazione residente, secondo la lingua principale e la religione, nel 2000   accessed 23 November 2010
+
+, the gender distribution of the population was 56.4% male and 43.6% female.  The population was made up of 208 Swiss men (34.9% of the population), and 128 (21.5%) non-Swiss men.  There were 214 Swiss women (35.9%), and 46 (7.7%) non-Swiss women.
+
+In  there were 4 live births to Swiss citizens and 2 births to non-Swiss citizens.  Ignoring immigration and emigration, the population of Swiss citizens increased by 4 while the foreign population increased by 2.  There were 2 Swiss men who emigrated from Switzerland.  At the same time, there were 27 non-Swiss men and 10 non-Swiss women who immigrated from another country to Switzerland.  The total Swiss population change in 2008 (from all sources, including moves across municipal borders) was an increase of 19 and the non-Swiss population change was an increase of 51 people.  This represents a population growth rate of 13.3%.
+
+The age distribution, , in Sigirino is; 50 children or 8.4% of the population are between 0 and 9 years old and 61 teenagers or 10.2% are between 10 and 19.  Of the adult population, 76 people or 12.8% of the population are between 20 and 29 years old.  114 people or 19.1% are between 30 and 39, 126 people or 21.1% are between 40 and 49, and 92 people or 15.4% are between 50 and 59.  The senior population distribution is 40 people or 6.7% of the population are between 60 and 69 years old, 19 people or 3.2% are between 70 and 79, there are 18 people or 3.0% who are over 80.01.02.03 Popolazione residente permanente   accessed 23 November 2010
+
+ the average number of residents per living room was 0.57 which is about equal to the cantonal average of 0.6 per room.  In this case, a room is defined as space of a housing unit of at least  as normal bedrooms, dining rooms, living rooms, kitchens and habitable cellars and attics.  About 54.8% of the total households were owner occupied, or in other words did not pay rent (though they may have a mortgage or a rent-to-own agreement).Urban Audit Glossary pg 17
+
+, there were 166 private households in the village, and an average of 2.3 persons per household.   there were 122 single family homes (or 73.5% of the total) out of a total of 166 inhabited buildings.  There were 28 two family buildings (16.9%) and 9 multi-family buildings (5.4%).  There were also 7 buildings in the village that were multipurpose buildings (used for both housing and commercial or another purpose). 09.02.01 Edifici   accessed 23 November 2010
+
+The vacancy rate for the village, , was 0%.   there were 220 apartments in the village.  The most common apartment size was the 5 room apartment of which there were 68.  There were 22 single room apartments and 68 apartments with five or more rooms.  09.02.02 Abitazioni   accessed 23 November 2010  Of these apartments, a total of 166 apartments (75.5% of the total) were permanently occupied, while 47 apartments (21.4%) were seasonally occupied and 7 apartments (3.2%) were empty.  , the construction rate of new housing units was 3.8 new units per 1000 residents.
+
+The historical population is given in the following chart:Popolazione residente, dal 1850   accessed 23 November 2010
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.8)
+ImageSize  = width:1080 height:210
+PlotArea   = height:150 left:100 bottom:50 right:100
+AlignBars  = justify
+DateFormat = x.y
+Period     = from:0 till:390
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:100 start:0
+ScaleMinor = gridcolor:lightgrey increment:20 start:0
+PlotData=
+  color:yellowgreen width:40   mark:(line,white) align:center
+  bar:1591 from:start till:347 text:"347"
+  bar:1801 from:start till:234 text:"234"
+  bar:1850 from:start till:229 text:"229"
+  bar:1860 from:start till:215 text:"215"
+  bar:1870 from:start till:224 text:"224"
+  bar:1880 from:start till:362 text:"362"
+  bar:1890 from:start till:242 text:"242"
+  bar:1900 from:start till:236 text:"236"
+  bar:1910 from:start till:280 text:"280"
+  bar:1920 from:start till:230 text:"230"
+  bar:1930 from:start till:221 text:"221"
+  bar:1941 from:start till:210 text:"210"
+  bar:1950 from:start till:212 text:"212"
+  bar:1960 from:start till:209 text:"209"
+  bar:1970 from:start till:291 text:"291"
+  bar:1980 from:start till:237 text:"237"
+  bar:1990 from:start till:268 text:"268"
+  bar:2000 from:start till:390 text:"390"
+
+
+==Sights==
+The entire villaggio of Osignano is designated as part of the Inventory of Swiss Heritage Sites.
+
+==Politics==
+In the 2007 federal election the most popular party was the CVP which received 25.65% of the vote.  The next three most popular parties were the FDP (20.48%), the Ticino League (20.02%) and the SVP (14.3%).  In the federal election, a total of 144 votes were cast, and the voter turnout was 46.5%.Swiss Federal Statistical Office, Nationalratswahlen 2007: Stärke der Parteien und Wahlbeteiligung, nach Gemeinden/Bezirk/Canton  accessed 28 May 2010
+
+In the  Gran Consiglio election, there were a total of 297 registered voters in Sigirino, of which 189 or 63.6% voted.  1 blank ballot was cast, leaving 188 valid ballots in the election.  The most popular party was the LEGA which received 52 or 27.7% of the vote.  The next three most popular parties were; the PLRT (with 45 or 23.9%), the PPD+GenGiova (with 33 or 17.6%) and the SSI (with 28 or 14.9%). Elezioni cantonali: Gran Consiglio, Consiglio di Stato   accessed 23 November 2010
+
+In the  Consiglio di Stato election,   The most popular party was the LEGA which received 63 or 33.3% of the vote.  The next three most popular parties were; the PLRT (with 42 or 22.2%), the PPD (with 33 or 17.5%) and the SSI (with 22 or 11.6%).
+
+==Economy==
+, Sigirino had an unemployment rate of 3.31%.  , there were  people employed in the primary economic sector and about  businesses involved in this sector.  57 people were employed in the secondary sector and there were 5 businesses in this sector.  42 people were employed in the tertiary sector, with 6 businesses in this sector.  There were 197 residents of the village who were employed in some capacity, of which females made up 35.5% of the workforce.
+
+, there were 106 workers who commuted into the village and 159 workers who commuted away.  The village is a net exporter of workers, with about 1.5 workers leaving the village for every one entering.  About 17.9% of the workforce coming into Sigirino are coming from outside Switzerland.Swiss Federal Statistical Office - Statweb   accessed 24 June 2010  Of the working population, 7.1% used public transportation to get to work, and 62.9% used a private car.
+
+==Religion==
+From the , 266 or 68.2% were Roman Catholic, while 33 or 8.5% belonged to the Swiss Reformed Church.  There are 32 individuals (or about 8.21% of the population) who belong to another church (not listed on the census), and 59 individuals (or about 15.13% of the population) did not answer the question.
+
+==Education==
+In Sigirino about 62.4% of the population (between age 25 and 64) have completed either non-mandatory upper secondary education or additional higher education (either University or a Fachhochschule).
+
+In Sigirino there were a total of 96 students ().  The Ticino education system provides up to three years of non-mandatory kindergarten and in Sigirino there were 6 children in kindergarten.  The primary school program lasts for five years and includes both a standard school and a special school.  In the village, 31 students attended the standard primary schools and 3 students attended the special school.  In the lower secondary school system, students either attend a two-year middle school followed by a two-year pre-apprenticeship or they attend a four-year program to prepare for higher education.  There were 24 students in the two-year middle school, while 6 students were in the four-year advanced program.
+
+The upper secondary school includes several options, but at the end of the upper secondary program, a student will be prepared to enter a trade or to continue on to a university or college.  In Ticino, vocational students may either attend school while working on their internship or apprenticeship (which takes three or four years) or may attend school followed by an internship or apprenticeship (which takes one year as a full-time student or one and a half to two years as a part-time student).  There were 8 vocational students who were attending school full-time and 15 who attend part-time.
+
+The professional program lasts three years and prepares a student for a job in engineering, nursing, computer science, business, tourism and similar fields.  There were 3 students in the professional program. Allievi e studenti, secondo il genere di scuola, anno scolastico 2009/2010   accessed 23 November 2010
+
+, there were 36 students from Sigirino who attended schools outside the village.
+

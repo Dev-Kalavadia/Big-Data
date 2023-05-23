@@ -1,0 +1,1427 @@
+Title: 2010 renumbering of National Highways in India
+
+
+
+
+On 28 April 2010, the Ministry of Road Transport and Highways officially notified the rationalized number system of the national highway network in the Gazette of the Government of India. It is a systematic numbering scheme based on the orientation and the geographic location of the highway. This was adopted to ensure more flexibility and consistency in the numbering of existing and new national highways. According to the system all north–south oriented highway will have even numbers increasing from the east to the west. Similarly all east–west oriented highways will be odd numbered increasing from the north to the south of the country.
+
+The longest National Highway in new numbering scheme is National Highway 44.
+
+The longest National Highway under the old numbering scheme was the NH 7 which was from Varanasi to Kanyakumari passing through Uttar Pradesh, Madhya Pradesh, Maharashtra, Telangana, Andhra Pradesh, Karnataka and Tamil Nadu covering a distance of , as of Sep 2011 as per National Highways Authority of India.  
+The shortest National Highway was the NH 47A (), which connected Kundanoor Junction of Maradu in Kochi city to the Kochi port at Willingdon Island. India has the distinction of having the world's highest drivable highway connecting Manali to Leh in Ladakh, Kashmir.
+
+The table below shows the list of National Highways, prior to their renumbering in 2010–11 and their newly assigned numbers. For the list of current highway numbers see List of National Highways in India.
+
+==List of highways==
+{| class="wikitable sortable"
+|-
+! data-sort-type="number" | Old NH No.
+!Route
+!Length in State (km)
+! data-sort-type="number" | Total Length
+! data-sort-type="number" | New NH No.
+|-
+|1
+|Delhi - Ambala - Jalandhar - Amritsar - Indo-Pak Border
+|Delhi (22), Haryana (180), Punjab (254)
+|
+|NH 3 / NH 44
+|-
+|1A
+|Jalandhar - Madhopur - Jammu - Udhampur - Banihal - Srinagar - Baramulla - Uri
+|Punjab (108), Himachal Pradesh (14), Jammu & Kashmir (541)
+|
+|NH 1
+|-
+|1B
+|Batote - Doda - Kistwar - Symthan pass - Khanbal
+|Jammu & Kashmir (274)
+|
+|NH 244
+|-
+|1C
+|Domel - Katra
+|Jammu & Kashmir (8)
+|
+|NH 144
+|-
+|1D
+|Srinagar - Kargil - Leh
+|Jammu & Kashmir (), Ladakh ()
+|
+|NH 1
+|-
+|2
+|Delhi - Mathura - Agra - Etawah - Auraiya - Akbarpur - Sachendi - Panki - Kanpur - Chakeri - Allahabad - Varanasi - Mohania - Barhi - Dhanbad - Asansol - Palsit - Dankuni
+|Delhi (12), Haryana (74), Uttar Pradesh (752), Bihar (202), Jharkhand (190), West Bengal (235)
+|
+|NH 19 / NH 27 / NH 44
+|-
+|2A
+|Sikandra - Bhognipur
+|Uttar Pradesh (25)
+|
+|NH 519
+|-
+|2B
+|Bardhaman - Bolpur
+|West Bengal (52)
+|
+|NH 114
+|-
+|2B Ext
+|The highways starting from Bolpur connecting Prantik,
+Mayureswar and terminating at Mollarpur at the junction of
+NH-60
+|West Bengal (54)
+|
+|-
+|2C
+|Dehri - Akbarpur - Jadunathpur - Bihar/UP Border
+|Bihar (105)
+|
+|NH 119
+|-
+|3
+|Agra - Dholpur - Morena - Gwalior - Shivpuri - Guna, India - Indore - Dhule - Nashik - Thane - Mumbai
+|Uttar Pradesh (26), Rajasthan (32), Madhya Pradesh (712), Maharashtra (391)
+|
+|NH 27 / NH 44 / NH 46 / NH 48 / NH 52 / NH 60
+|-
+|3A
+|Dholpur - Bharatpur
+|
+|
+|NH 123
+|-
+|4
+|Junction with NH 3 near - New.Delhi -Gurugram -Manesar-Bhiwadi -Kotputli -Jaipur -Ajmer -Bhilwar -Chittorgarh -Udaipur -Himatnagar -Ahmedabad -Nadiad -Anand -Vododara -Bhuruch -Surat -Vapi -Vasai Virar -Thane -Panvel -Lonavala -Pune -Satara-  Kolhapur - Belgaum - Hubli - Davangere - Chitradurga - Tumkur - Bangalore - Kolar - Chittoor - Ranipet - Walajapet - Chennai
+|Delhi - Haryana - Rajasthan - Gujarat - Maharashtra Karnataka  Andhra Pradesh Tamil Nadu 
+|(1,235|km|1.744 mi)
+|NH 40 / NH 48 / NH 69 / NH 75
+
+|-
+|4A
+|Belgaum - Anmod - Ponda - Panaji
+|Karnataka (82), Goa (71)
+|
+|NH 748
+|-
+|4B
+|Jawahar Lal Nehru Port Trust near KM 109 - Palspe
+|Maharashtra (20)
+|
+|NH 348
+|-
+|4C
+|NH-4 near Kalamboli at KM 116 junction with NH-4B near KM 16.687
+|Maharashtra (7)
+|
+|NH 548
+|-
+|5
+|Junction with NH 6 near Baharagora -Baripada- Cuttack - Bhubaneswar - Visakhapatnam - Eluru - Vijayawada - Guntur - Ongole - Nellore - Gummidipoondi - Chennai
+|Odisha (488), Andhra Pradesh (1000), Tamil Nadu (45)
+|
+|NH 18 / NH 16
+|-
+|5A
+|Junction with NH 5 near Haridaspur - Paradip Port
+|Odisha(77)
+|
+|NH 53
+|-
+|6
+|Hazira - Surat - Dhule - Jalgaon - Akola - Amravati - Nagpur - Durg - Raipur - Sambalpur - Baharagora - Kharagpur - Howrah - Kolkata
+|Gujarat (177), Maharashtra (813), Chhattisgarh (314), Odisha (462), Jharkhand (22), West Bengal (161)
+|
+|NH 18 / NH 16 / NH 49
+
+|-
+|7
+|Varanasi - Mangawan - Rewa - Jabalpur - Lakhnadon - Nagpur - Hyderabad - Kurnool - Chikkaballapur - Bangalore - Hosur - Krishnagiri - Dharmapuri - Salem - Namakkal - Karur - Dindigul - Madurai - Virudunagar - Tirunelveli - Kanyakumari
+|Uttar Pradesh (128), Madhya Pradesh (504), Maharashtra (232), Andhra Pradesh (753), Karnataka (125), Tamil Nadu (627)
+|
+|NH 30 / NH 34 / NH 35 / NH 44 / NH 48 / NH 135
+|-
+|7A
+|Palayamkottai - Tuticorin Port
+|Tamil Nadu (51)
+|
+|NH 138
+|-
+|8
+|Delhi - Jaipur - Ajmer - Udaipur - Ahmedabad - Vadodara - Surat - Mumbai
+|Delhi (13), Haryana (101), Rajasthan (635), Gujarat (498), Maharashtra (128)
+|
+|NH 48 / NH 58 / NH 64 / NH 448
+|-
+|8A
+|Ahmedabad - Limbdi - Morvi - Kandla - Mandvi - Vikhadi - Kothra - Naliya - Narayan Sarover
+|Gujarat (618)
+|
+|NH 41 / NH 141 / NH 47 / NH 27
+|-
+|8B
+|Bamanbore - Rajkot - Porbunder
+|Gujarat (206)
+|
+|NH 27
+|-
+|8C
+|Chiloda - Gandhinagar - Sarkhej
+|Gujarat (46)
+|
+|NH 147
+|-
+|8D
+|Jetpur - Somnath
+|Gujarat (127)
+|
+|NH 151
+|-
+|8E
+| Bhavnagar - Somnath - Porbunder- Dwarka
+|Gujarat (445)
+|
+|NH 51
+|-
+|NE1
+|Ahmedabad - Vadodara Expressway
+|Gujarat (93)
+|
+|-
+|9
+|Pune - Solapur - Hyderabad-Suryapet-Vijayawada - Machillipatnam
+|Maharashtra (336), Karnataka (75), Andhra Pradesh (430)
+|
+|NH 65
+|-
+|10
+|Delhi - Rohtak - Hissar - Fatehabad - Sirsa - Fazilka - Indo-Pak Border
+|Delhi (18), Haryana (313), Punjab (72)
+|
+|NH 7 / NH 9
+|-
+|11
+|Agra - Jaipur - Bikaner
+|Uttar Pradesh (51), Rajasthan (531)
+|
+|NH 11 / NH 21 / NH 52
+|-
+|11A
+|Manoharpur - Dausa - Lalsot - Kothum
+|Rajasthan (145)
+|
+|NH 23 / NH 148
+|-
+|11B
+|Lalsot - Karauli - Dholpur
+|Rajasthan (180)
+|
+|NH 23
+|-
+|11C
+|Old alignment of NH no. 8 passing through Jaipur from km 220 to 273.50
+|Rajasthan (53)
+|
+|NH 248
+|-
+|12
+|Jabalpur - Bhopal - Khilchipur - Aklera - Jhalawar - Kota - Bundi - Devli - Tonk - Jaipur
+|Madhya Pradesh (490), Rajasthan (400)
+|
+|NH 45 / NH 46 / NH 52
+|-
+|12A
+|Jhansi - Jabalpur - Mandla- Chilpi - Simga near Raipur
+|Madhya Pradesh (482), Chhattisgarh (128), Uttar Pradesh (7)
+|
+|NH 30 / NH 34 / NH 539 / NH 934
+|-
+|13
+|Solapur - Bijapur - Hospet - Chitradurga - Shimoga - Mangalore
+|Maharashtra (43), Karnataka (648)
+|
+|NH 48 / NH 50 / NH 52 / NH 67 / NH 69 / NH 369
+|-
+|14
+|Beawar - Sirohi - Radhanpur
+|Rajasthan (310), Gujarat (149)
+|
+|NH 25 / NH 27 / NH 62 / NH 162
+|-
+|15
+|Pathankot - Amritsar - Tarn Taran Sahib - Bhatinda - Ganganagar - Bikaner - Jaisalmer - Barmer - Samakhiali
+|Punjab (350), Rajasthan (906), Gujarat (270)
+|
+|NH 11 / NH 7 / NH 54 / NH 27 / NH 62
+|-
+|16
+|Nizamabad - Jagtial - Mancherial - Chinnur - Jagdalpur
+|Andhra Pradesh (220), Maharashtra (30), Chhattisgarh (210)
+|
+|NH 30 / NH 63
+|-
+|17
+|Panvel - Pen - Nagothana - Indapur - Mangaon - Mahad - Poladpur - Khed - Chiplun - Sangameshwar - Ratnagiri - Lanja - Rajapur - Kharepatan - Vaibhavwadi - Kankavli - Kudal - Sawantwadi - Pernem - Mapusa - Panaji - Karwar - Udupi - Suratkal - Mangalore - Kasaragod - Kannur - Kozhikode - Ferokh  - Kottakkal -Kuttippuram- Ponnani - Chavakkad - North Paravur Junction with NH 47 near Edapally at Kochi
+|Maharashtra (482), Goa (139), Karnataka (280), Kerala (368)
+|
+|NH 66
+|-
+|17A
+|Junction with NH 17 near Cortalim - Murmugao
+|Goa (19)
+|
+|NH 366
+|-
+|17B
+|Ponda - Verna - Vasco
+|Goa (40)
+|
+|NH 566
+|-
+|18
+|Junction with NH 7 near Kurnool - Nandyal - Cuddapah - Junction with NH 4 near Chittoor
+|Andhra Pradesh (369)
+|
+|NH 40
+|-
+|18A
+| Puthalapattu - Tirupati
+|Andhra Pradesh (50)
+|
+|NH 140
+|-
+|19
+|Ghazipur - Balia - Patna
+|Bihar (120), Uttar Pradesh (120)
+|
+|NH 31 / NH 22
+|-
+|20
+|Pathankot - Nurpur-Kangra-Nagrota Bagwan-Palampur-Baijnath-Joginder Nagar-Mandi
+|Punjab (10), Himachal Pradesh (210)
+|
+|NH 154
+|-
+|20A
+|Junction with NH 20 in Nagrota  - Ranital - Dehra - Junction with NH 70 in Mubarikpur
+|Himachal Pradesh (91)
+|
+|NH 1 / NH 503
+|-
+|21
+|Junction with NH 22 near Chandigarh - Ropar - Bilaspur - Mandi - Kullu - Manali
+|Chandigarh (24), Punjab (67), Himachal Pradesh (232)
+|
+|NH 3 / NH 154 / NH 205 / NH 5 / NH 7 / NH 303 / NH 503								
+|-
+|21A
+|Pinjore - Nalagarh - Swarghat
+|Haryana (16), Himachal Pradesh (49)
+|
+|NH 105
+|-
+|22
+|Ambala - Kalka - Solan - Shimla - Theog - Narkanda - Kumarsain - Rampur - Indo China Border near Shipkila
+|Haryana (30), Punjab (31), Himachal Pradesh (398)
+|
+|NH 152 / NH 5								
+|-
+|23
+|Chas - Bokaro - Ranchi - Rourkela - Talcher - Junction with NH 42
+|Jharkhand (250), Odisha (209)
+|
+|NH 20 / NH 320 / NH 143 / NH 149 / NH 49
+|-
+|24
+|Delhi - Moradabad - Bareilly - Lucknow
+|Delhi (7), Uttar Pradesh (431)
+|
+|NH 30 / NH 530 / NH 9
+|-
+|24A
+|Bakshi Ka Talab - CHINHAT (NH 28)
+|Uttar Pradesh (17)
+|
+|NH 230
+|-
+|24B
+|Lucknow - Raebareli - Unchahar - Allahabad
+|Uttar Pradesh
+|
+|NH 40
+
+|-
+|25
+|Lucknow - Unnao - Kanpur Barah - Jhansi - Shivpuri
+|Uttar Pradesh (270), Madhya Pradesh (82)
+|
+|NH 27								
+|-
+|25A
+|Km 19 (NH 25) - Bakshi Ka Talab
+|Uttar Pradesh (31)
+|
+|NH 230
+|-
+|26
+|Jhansi - Lakhnadon
+|Uttar Pradesh (128), Madhya Pradesh (268)
+|
+|NH 44								
+|-
+|26A
+|Junction NH 26 in Sagar - Jeruwakhera - Khurai - Bina
+|Madhya Pradesh (75)
+|
+|NH 30	
+|-
+|26B
+|Junction NH 26 in Narsinghpur - Amarwara - Chhindwara - Savner via NH-69
+|Madhya Pradesh (195), Maharashtra (26)
+|
+|NH 547
+|-
+|27
+|Allahabad - Mangawan
+|Uttar Pradesh (43), Madhya Pradesh (50)
+|
+|NH 30 / NH 35								
+|-
+|28
+|Junction with NH 31 Near Barauni - Muzaffarpur - Pipra - Kothi - Gorakhpur - Lucknow
+|Bihar (259), Uttar Pradesh (311)
+|
+|NH 122 / NH 28 / NH 27
+|-
+|28A
+|Junction with NH 28 near Pipra - Kothi - Sagauli - Raxaul - Indo-Nepal Border
+|Bihar (68)
+|
+|NH 257D
+|-
+| 28B	
+| Junction with NH 28A at Chhapra - Bettiah - Lauriya - Bagaha - Junction with NH 28 near Kushinagar
+| Bihar (121) Uttar Pradesh (29)
+|
+|NH 727
+|-
+| 28C	
+| Junction with NH 28 nearBarabanki - Bahraich - Nepalganj
+| Uttar Pradesh (140)
+|
+|NH 927
+|-
+|29
+|Varanasi - Ghazipur - Gorakhpur - Pharenda - Sunali
+|Uttar Pradesh (306)
+|`
+|NH 27 / NH 24 / NH 31								
+|-
+|30
+|Junction with NH 2 near Mohania - Arrah - Patna - Bakhtiarpur
+|Bihar (230)
+|
+|NH 20 / NH 431 / NH 22 / NH 922 / NH 319 / NH 231 / NH 31 / NH 27 / NH 33
+|-
+|30A
+|Fatuha - Chandi - Harnaut - Barh
+|Bihar (65)
+|
+|NH 431
+|-
+|31
+|Junction with NH 2 near Barhi - Bakhtiarpur - Mokameh - Purnea -  Dalkhola - Siliguri - Sevok - Cooch Behar- North Salmara - Nalbari - Charali - Amingaon Junction with NH 37
+|Bihar (393), West Bengal (366), Assam (322), Jharkhand (44)
+|
+|NH 10 / NH 117 / NH 517 / NH 717
+|-
+|31A
+|Sevok - Gangtok
+|West Bengal (30), Sikkim (62)
+|
+|NH 10
+|-
+|31B
+|North Salmara - Junction with NH 37 near Jogighopa
+|Assam (19)
+|
+|NH 17
+|-
+|31C
+|Near Galgalia - Bagdogra - Chalsa - Nagrakata - Goyerkata - Dalgaon - Hasimara - Rajabhat Khawa - Kochgaon - Sidili - Junction with NH 31 near Bijni
+|West Bengal (142), Assam (93)
+|
+|NH 317
+|-
+|31D
+|Junction with NH 31 near Siliguri - Fulbari - Mainaguri - Dhupguri Falakata - Sonapur - Junction with NH 31C near Salsalabari 
+|West Bengal (147)
+|
+|NH 27
+|-
+|32
+|Junction with NH 2 near Gobindpur - Dhanbad - Chas - Jamshedpur
+|Jharkhand (107), West Bengal (72)
+|
+|NH 118 / NH 18
+|-
+|33
+|Junction with NH 2 near Barhi - Ranchi - Jamshedpur  Junction with NH 6 near Baharagora
+|Jharkhand (352)
+|
+|NH 18 / NH 20
+|-
+|34
+|Junction with NH 31 near Dalkhola - Baharampur - Barasat - Dum Dum
+|West Bengal (443)
+|
+|NH 12
+|-
+|35
+|Barasat - Bangaon - Petrapole on India–Bangladesh border
+|West Bengal (61)
+|
+|NH 112
+|-
+|36
+|Nowgong - Dimapur (Manipur Road)
+|Assam (167), Nagaland (3)
+|
+|NH 29 / NH 27
+|-
+|37
+|Junction with NH 31B near Goalpara - Guwahati - Jorabat - Kamargaon - Makum - Saikhoaghat - Roing
+|Assam (680) Arunachal Pradesh (60)
+|
+|NH 2 / NH 115 / NH 17 / NH 127 / NH 27 / NH 715 / NH 15
+|-
+|37A
+|Kuarital - Junction with NH 52 near Tezpur
+|Assam (23)
+|
+|NH 2
+|-
+|38
+|Makum - Ledo - Lekhapani
+|Assam (54)
+|
+|NH 315
+|-
+|39
+|Numaligarh - Imphal - Pallel - Indo-Burma border
+|Assam (115), Nagaland (110), Manipur (211)
+|
+|NH 2 / NH 102 / NH 129 / NH 29
+|-
+|40
+|Jorabat - Shillong - Bangladesh–India border near Dawki - Jowai
+|Meghalaya (216)
+|
+|NH 6 / NH 106 / NH 206
+|-
+|41
+|Junction with NH 6 near Kolaghat - Tamluk - Haldia Port
+|West Bengal (51)
+|
+|NH 116
+|-
+|42
+|Junction with NH 6 Sambalpur Angul Junction with NH 5 near Cuttack
+|Odisha (261)
+|
+|NH 55
+|-
+|43
+|Raipur - Jagdalpur - Vizianagaram Junction with NH 5 near Natavalasa
+|Chhattisgarh (316), Odisha (152), Andhra Pradesh (83)
+|
+|NH 63 / NH 26 / NH 30
+|-
+|44
+|Nongstoin - Shillong - Passi - Badarpur - Agartala - Sabroom
+|Meghalaya (277), Assam (111), Tripura (335)
+|
+|NH 37 / NH 106 / NH 6 / NH 8
+|-
+|44A
+|Aizawl - Manu
+|Mizoram (165), Tripura (65)
+|
+|-
+|45
+|Chennai - Tambaram - Tindivanam - Villupuram - Trichy - Manapparai - Dindigul- Periyakulam - Junction with NH 49 near Theni
+|Tamil Nadu (472)
+|
+|NH 183 / NH 32 / NH 83 / NH 132
+|-
+|45A
+|Villupuram - Pondicherry - Chidambaram - Nagapattinam
+|Tamil Nadu (147), Puducherry (43)
+|
+|NH 32 / NH 332
+|-
+|45B
+|Trichy - Viralimalai - Melur - Madurai - Tuticorin
+|Tamil Nadu (257)
+|
+|NH 38
+|-
+|45C
+|Junction with NH 67 near Thanjavur - Kumbakonam - Vriddhachalam - NH-45 near Ulundurpettai
+|Tamil Nadu (159)
+|
+|NH 36
+|-
+|46
+|Krishnagiri - Ranipet - Walajapet
+|Tamil Nadu (132)
+|
+|NH 48
+|-
+|47
+|Salem - Sankagiri - Chithode - Perundurai(Erode bypass) - Perumanallur - Avinashi - Coimbatore - Palghat - Trichur - Kochi - Alappuzha - Quilon - Trivandrum - Nagercoil - Kanyakumari
+|Tamil Nadu (224), Kerala (416)
+|
+|NH 544 / NH 66
+|-
+|47A
+|Junction with NH 47 at Kundanoor - Willington Island in Kochi
+|Kerala (6)
+|
+|NH 966B
+|-
+|47B
+|Junction with NH 47 at Nagercoil - Junction with NH 7 near Kavalkinaru
+|Tamil Nadu (45)
+|
+|NH 944
+|-
+|47C
+|Junction with NH 47 at Kalamassery - Vallarpadom ICTT in Kochi
+|Kerala (17)
+|
+|NH 966A
+|-
+|48
+|Bangalore - Hassan - Mangalore
+|Karnataka (328)
+|
+|NH 73 / NH 75
+|-
+|49
+|Kochi - Madurai - Dhanushkodi
+|Tamil Nadu (290), Kerala (150)
+|
+|NH 87 / NH 85
+|-
+|50
+|Chitradurga-Hosapete-Kushtagi-Hungud-mangoli-Vijayapura-Sindagi-Jevargi-Kalaburagi-Humnabad-Bidar
+|751.4Km
+|(751.4|Km|466.9|Mi)
+|NH 60
+|-
+|51
+|Paikan - Tura - Dalu
+|Assam (22), Meghalaya (127)
+|
+|NH 217
+|-
+|52
+|Baleguli-Yellapur-kalaghatgi-Hubli-Navalgund-Nargund-Gaddanakeri-Bilgi-Kolhar-Vijayapura-Zalki-Solapur-Tuljapur-Osmanabad-Beed-Aurangabad-Dhule-Sendhwa-Pithampur-Indore-Dewas-Shajapur-Biaor-Khilchipur-Aklura-Jhalwar-Kota-Tonk-Jaipur-Sikar-Fatehpur-Churu-Sadulpur-Hisar-Barwala-Narwana-Sangrur
+|Karnataka-Maharashtra-Madhyapradesh-Rajasthan-Hariyana
+|(2.317|Km|1.440|Mi)
+|NH 515 / NH 13 / NH 15
+|-
+|52A
+|Banderdewa - Itanagar - Gohpur
+|Assam (15), Arunachal Pradesh (42)
+|
+|NH 415
+|-
+|52B
+|Kulajan - Dibrugarh
+|Assam (31)
+|
+|NH 15 / NH 215
+|-
+|53
+|Junction with NH 44 near Badarpur - Jirighat - Silchar - Imphal
+|Assam (100), Manipur (220)
+|
+|NH 37
+|-
+|54
+|Dabaka - Lumding - Silchar - Aizawl - Tuipang
+|Assam (335), Mizoram (515)
+|
+|NH 2 / NH 306 / NH 27
+|-
+|54A
+|Theriat - Lunglei
+|Mizoram (9)
+|
+|NH 302
+|-
+|54B
+|Venus Saddle - Saiha
+|Mizoram (27)
+|
+|NH 502
+|-
+|55
+|Siliguri - Darjeeling
+|West Bengal (77)
+|
+|NH 110
+|-
+|56
+|Lucknow - Varanasi
+|Uttar Pradesh (285)
+|
+|NH 31 / NH 731
+|-
+|56A
+|Chenhat(NH 28) - Km16(NH 56)
+|Uttar Pradesh (13)
+|
+|NH 230
+|-
+|56B
+|Km15(NH 56) - km 6(NH 25
+|Uttar Pradesh ((19)
+|
+|NH 230
+|-
+|57
+|Muzaffarpur - Darbhanga - Forbesganj - Purnea
+|Bihar (310)
+|
+|NH 27
+|-
+| 57A		
+| Junction of NH 57 near Forbesganj - Jogbani	
+| Bihar (15)
+| 
+|NH 527
+|-
+|58
+|Delhi - Ghaziabad - Meerut - Haridwar - Badrinath - Mana Pass
+|Uttar Pradesh (165), Uttarakhand (373)
+|
+|NH 7 / NH 334 / NH 34
+|-
+|59
+|Ahmedabad - Godhra - Dhar - Indore - Raipur - Nuapada - Kharial - Baliguda - Surada - Asika - Hinjilicut - Brahmapur - Gopalpur-on-Sea
+|Gujarat (211), Madhya Pradesh (139), Chhattisgarh, Odisha (438)
+|
+|NH 47
+|-
+|59A
+|Indore - Betul
+|Madhya Pradesh (264)
+|
+|NH 47
+|-
+|60
+|Balasore - Kharagpur — Raniganj -  Siuri - Moregram (junction at NH 34 )
+|Odisha (57), West Bengal (389)
+|
+|NH 14 / NH 16
+|-
+|61
+|Kohima - Wokha - Mokokchung - Jhanji
+|Nagaland (220), Assam (20)
+|
+|NH 2
+|-
+|62
+|Damra - Baghmara - Dalu
+|Assam (5), Meghalaya (190)
+|
+|NH 217
+|-
+|63
+|Ankola - Hubli - Hospet - Gooty
+|Karnataka (370), Andhra Pradesh (62)
+|
+|NH 50 / NH 52 / NH 67
+|-
+|64
+|Chandigarh - Rajpura - Patiala - Sangrur - Bhatinda - Dabwali
+|Punjab (256)
+|
+|NH 7 / NH 54
+|-
+|65
+|Ambala - Kaithal - Hissar - Fatehpur - Jodhpur - Pali
+|Haryana (240), Rajasthan (450)
+|
+|NH 62 / NH 152 / NH 58 / NH 52
+
+|-
+|66
+|Pondicherry - Tindivanam - Gingee - Thiruvannamalai - Krishnagiri
+|Puducherry (6), Tamil Nadu (208)
+|
+|NH 32 / NH 77
+|-
+|67
+|Nagapattinam - Tiruchirapalli - Karur - Palladam - Coimbatore - Mettupalayam - Coonoor - Ooty - Gundlupet
+|Tamil Nadu (520), Karnataka (35)
+|
+|NH 36 / NH 81 / NH 83 / NH 181
+|-
+|68
+|Ulundrupet - Chinnasalem - Kallakkurichchi - Attur - vazhapadi - Salem
+|Tamil Nadu (134)
+|
+|NH 79
+|-
+|69
+|Nagpur - Obedullaganj
+|Maharashtra (55), Madhya Pradesh (295)
+|
+|NH 46
+|-
+|69A
+|Multai - Seoni
+|Madhya Pradesh (158)
+|
+|NH 47
+|-
+|70
+|Jalandhar - Hoshiarpur - Hamirpur - Dharmapur - Mandi
+|Himachal Pradesh (120), Punjab (50)
+|
+|NH 3
+|-
+|71
+|Jalandhar - Moga - Sangrur -Jind- Rohtak - Rewari - Bawal
+|Punjab (130), Haryana (177)
+|
+|NH 7 / NH 703 / NH 52 / NH 352
+|-
+|71A
+|Rohtak - Gohana - Panipat
+|Haryana (72)
+|
+|NH 709
+|-
+|71B
+|Rewari - Dharuhera - Taoru - Sohna - Palwal
+|Haryana (74)
+|
+|NH 919
+|-
+|72
+|Ambala - Nahan - Paonta Sahib - Dehradun - Haridwar
+|Haryana (50), Himachal Pradesh (50), Uttarakhand (100)
+|
+|NH 7 / NH 344
+|-
+|72A
+|Chhutmalpur - Biharigarh - Dehradun
+|Uttarakhand (15), Uttar Pradesh (30)
+|
+|NH 307
+|-
+|73
+|Roorkee - Saharanpur - Yamuna Nagar - Saha - Panchkula
+|Haryana (108), Uttar Pradesh (59), Uttarakhand (21)
+|
+|NH 7 / NH 344
+|-
+|74
+|Haridwar -- Najibabad - Nagina - Dhampur- Kashipur - Kichha - Pilibhit - Bareilly
+|Uttar Pradesh (147), Uttarakhand (153)
+|
+|NH 734
+|-
+|75
+|Bantwal-Uppinangadi-Sakleshpur-Alur-Hassan-Channarayapattana-Kunigal-Nelamangala-Bengaluru-Hoskote-Kolar-Mulbagal-Venkatagirikota-Pernambut-Gudiyatham-Katpadi-Vellore
+|Karnataka-Andhra Pradesh-Tamilnadu
+|-
+|76
+|Pindwara - Udaipur - Mangalwar - Kota - Shivpuri - Jhansi - Banda - Allahabad
+|Madhya Pradesh (60), Uttar Pradesh (467), Rajasthan (480)
+|
+|NH 3 / NH 339
+|-
+|77
+|Hajipur - Sitamarhi - Sonbarsa
+|Bihar (142)
+|
+|-
+|78
+|Katni - Shahdol - Surajpur - Jashpurnagar - Gumla
+|Madhya Pradesh (178), Chhattisgarh (356), Jharkhand (25)
+|
+|-
+|79
+|Ajmer - Nasirabad - Neemuch - Mandsaur - Indore
+|Madhya Pradesh (280), Rajasthan (220)
+|
+|NH 156
+|-
+|79A
+|Kishangarh(NH 8) - Nasirabad(NH 79)
+|Rajasthan (35)
+|
+|NH 48
+|-
+|80
+|Mokameh - Rajmahal - Farrakka
+|Bihar (200), Jharkhand (100), West Bengal (10)
+|
+|NH 33
+|-
+|81
+|Kora - Katihar - Malda
+|Bihar (45), West Bengal (55)
+|
+|NH 31
+|-
+|82
+|Gaya - Bihar Sharif - Mokameh
+|Bihar (130)
+|
+|NH 120
+|-
+|83
+|Patna - Jahanabad - Gaya - Bodhgaya - Dhobi
+|Bihar (130)
+|
+|NH 22
+|-
+|84
+|Arrah - Buxar
+|Bihar (60)
+|
+|NH 922
+|-
+|85
+|Chappra - Gopalganj
+|Bihar (95)
+|
+|NH 531
+|-
+|86
+|Kanpur - Ramaipur - Ghatampur - Chhatarpur - Sagar - Bhopal - Dewas
+|Uttar Pradesh (180), Madhya Pradesh (494)
+|
+|NH 146
+|-
+|87
+|Rampur - Pantnagar - Haldwani - Nainital
+|Uttar Pradesh (32), Uttarakhand (51)
+|
+|NH 109
+|-
+|88
+|Shimla - Bilaspur - Hamirpur - Nadaun - Kangra, Himachal Pradesh - Mataur, Himachal Pradash - NH 20
+|Himachal Pradesh (245)
+|
+|NH 3 / NH 303 / NH 503
+|-
+|90
+|Baran - Aklera
+|Rajasthan (100)
+|
+|NH 752
+|-
+|91
+|Ghaziabad - Aligarh - Eta - Kannauj - Bilhaur - Shivrajpur - Chobepur - Mandhana - Kalianpur - Rawatpur - Kanpur
+|Uttar Pradesh (405)
+|
+|NH 34
+|-
+|92
+|Bhongaon - Etawah - Gwalior
+|Uttar Pradesh (75), Madhya Pradesh (96)
+|
+|NH 719
+|-
+|93
+|Agra - Aligarh - Babrala - Chandausi - Moradabad
+|Uttar Pradesh (220)
+|
+|NH 509
+|-
+|94
+|Rishikesh - Ampata - Tehri - Dharasu - Kuthanur - Yamunotri
+|Uttarakhand (160)
+|
+|NH 134
+|-
+|95
+|Kharar(Chandigarh) - Ludhiana - Jagraon - Ferozepur
+|Punjab (225)
+|
+|NH 5
+|-
+|96
+|Faizabad - Sultanpur - Pratapgarh - Allahabad
+|Uttar Pradesh (160)
+|
+|NH 330
+|-
+|97
+|Ghazipur - Zamania - Saiyedraja
+|Uttar Pradesh (45)
+|
+|NH 24
+|-
+|98
+|Patna - Aurangabad - Rajhara
+|Bihar (156), Jharkhand (51)
+|
+|NH 139
+|-
+|99
+|Dobhi - Chatra - Chandwa
+|Jharkhand (110)
+|
+|NH 22
+|-
+|100
+|Chatra - Hazaribagh - Bagodar
+|Jharkhand (118)
+|
+|NH 522
+|-
+|101
+|Chhapra - Baniapur - Mohammadpur
+|Bihar (60)
+|
+|NH 331
+|-
+|102
+|Chhapra - Rewaghat - Muzaffarpur
+|Bihar (80)
+|
+|NH 722
+|-
+|103
+|Hajipur - Mushrigharari
+|Bihar (55)
+|
+|NH 322
+|-
+|104
+|Chakia - Sitamarhi - Jainagar - Narahia
+|Bihar (160)
+|
+|NH 227
+|-
+|105
+|Darbhanga - Aunsi - Jainagar
+|Bihar (66)
+|
+|NH 527B
+|-
+|106
+|Birpur - pipra - Madhepura - Bihpur
+|Bihar (130)
+|
+|NH 131 / NH 131A
+|-
+|107
+|Maheshkhunt - Sonbarsa Raj - Simri-Bakhtiarpur - Bariahi - Saharsa - Madhepura - Purnea
+|Bihar (145)
+|
+|NH 527B
+|-
+|108
+|Dharasu - Uttarkashi - Yamunotri - Gangotri Dham
+|Uttarakhand
+|
+|NH 34
+|-
+|109
+|Rudraprayag - Guptkashi - Kedarnath Dham
+|Uttarakhand
+|
+|NH 107
+|-
+| 110	
+| Junction with NH 98 - Arwal - Jehanabad - Bandhuganj - Kako - Ekangarsarai  Bihar Sharif	- Junction with	NH 31
+| Bihar (89)
+| 
+|NH 33
+|-
+| 111	
+| Bilaspur - Katghora - Ambikapur-Surajpur on NH 78
+| Chhattisgarh (200)
+| 
+|NH 130
+|-
+| 112	
+| Bar Jaitaran - Bilara - Kaparda - Jodhpur - Kalyanpur- Pachpadra - Balotra - Tilwara - Bagundi - Dhudhwa - Madhasar - Barmer
+| Rajasthan (343)
+| 
+|NH 25
+|-
+| 113	
+| Nimbahera - Bari - Pratapgarh - Zalod - Dahod
+| Rajasthan (200), Gujarat (40)
+| 
+|NH 56
+|-
+| 114	
+| Jodhpur - Balesar - Dachhu - Pokaran
+| Rajasthan (180)
+| 
+|NH 125
+|-
+| 116	
+| Tonk - Uniara - Sawai Madhopur
+| Rajasthan (80)
+| 
+|NH 552
+|-
+| 117	
+| Haora - Bakkhali
+| West Bengal (119)
+| 
+|NH 12
+|-
+|119
+|Pauri - kotdwara-Najibabad-Bijnor- Meerut
+|Uttarakhand (135), Uttar Pradesh (125)
+|0
+|NH 534
+|-
+|121
+|Kashipur - Bubakhal
+|Uttarakhand (252)
+|
+|NH 309
+|-
+|123
+|Barkot - Vikasnagar
+|Uttarakhand (85), Himachal Pradesh (10)
+|
+|NH 507
+|-
+|125
+|Sitarganj - Pithorgarh
+|Uttarakhand (201)
+|
+|NH 9
+|-
+|150
+|Aizawl - Churachandpur - Imphal - Ukhrul - Jessami - Kohima
+|Manipur (523), Mizoram (141), Nagaland (36)
+|
+|NH 2 / NH 202
+|-
+|*150A
+|Jevargi Shahapur Shorapur Lingasugur Maski Sindhanur Siruguppa Ballari Challakere Hiriyur Huliyar Kibbinahalli Bellur Nagamangala Pandavapura Srirangapattana Mysuru Nanjangud Chamarajanagara
+|Karnataka|618|Km
+|(618|Km|384|Mi)
+|-
+|*150E
+|Kalaburagi-Afzalpur-Akkalkot-Solapur-Vairag-Burshi
+|Karnataka-Maharashtra
+|(105|KM|65|MI)
+|-
+|151
+|Karimganj - Indo-Bangladesh border
+|Assam (14)
+|
+|NH 37
+|-
+|152
+|Patacharkuchi - Bhutan-India Border
+|Assam (40)
+|
+|NH 127A
+|-
+|153
+|Ledo - Lekhapani - Indo-Myanmar border
+|Assam (20), Arunachal Pradesh (40)
+|
+|NH 315
+|-
+|154
+|Dhaleswar - Bairabi - Kanpui
+|Assam (110), Mizoram (70)
+|
+|-
+|155
+|Tuensang - Shamator - Meluri - Kiphire - Pfütsero
+|Nagaland (342)
+|
+|NH 202
+|-
+|157
+|Kanpur - Raebareli - Sultanpur - Azamgarh - Siwan - Muzaffarpur
+|Uttar Pradesh (430), Bihar (151)
+|
+|-
+|160
+|Thane-Shahapura-Nashik-sinnar-Shirdi-Ahmednagar-Daund-Phaltan-Miraj-Kagwad-Chikkodi-Sankeshwar-
+|Karnataka Maharashtra
+|
+|-
+|167
+|Paramadevanahalli-Alur-Adoni-Madhavaram-Raichur-Shaktinagar-Marikal-Mahabubnagar-Kalwakurthy-Mallepalli-Peddavoora-Haliya-Tripuraram-Venkatadripelam-Maryalaguda-Hujurnagar-Kadad
+|Karnataka-Aandhrapradesh-Telangana
+|(183Km-300 mi)
+|-
+|169
+|Mangalore-mudbidri-Bajagoly-Sanklapura-Hariharapura-Koppa-Thirthahalli-Gajanur-Shivamogga
+|Karnataka|215Km
+||(215.134Km|134Mi)
+|-
+|169A
+|Udupi-Manipal-Hebri-Agumbe-Megaravalli-Thirthwhalli
+|Karnataka|87Km
+|(87Km|57Mi)|
+|-
+|173
+|Mudigere-Chikkamagaluru-Kadur
+|(72.10Km)
+|(|72.10Km|44.80Mi)
+|-
+|200
+|Chhapra - Siwan - Gopalganj
+|Bihar (95)
+|
+|-
+|201
+|Borigumma - Bolangir - Bargarh
+|Odisha (310)
+|
+|-
+|202
+|Hyderabad – Warangal - Venkatapuram - Bhopalpatnam
+|Andhra Pradesh (244), Chhattisgarh (36)
+|
+|NH 163
+|-
+|203
+|Bhubaneswar - Puri
+|Odisha (59)
+|
+|-
+|204
+|Ratnagiri - Pali - Sakharpa - Malakapur - Shahuwadi - Kolhapur - Sangli - Pandharpur - Solapur - Tuljapur - Latur - Nanded - Yavatmal - Wardha - Nagpur
+|Maharashtra (126)
+|
+|NH 166
+|-
+|205
+|Anantpur - Renigunta - Chennai
+|Andhra Pradesh (360), Tamil Nadu (82)
+|
+|NH 716 / NH 71
+|-
+|206
+|Tumkur - Shimoga - Honnavar
+|Karnataka (363)
+|
+|-
+|207
+|Hosur - Bagalur - Sarjapur - Hoskote - Devanhalli - Doddaballapura -Dobbaspet
+|Karnataka (135), Tamil Nadu (20)
+|
+|NH 648
+|-
+|208
+|Kollam - kundara - kottarakkara - Punalur - Thenmala -Aryankavu - Sengottai - Tenkasi - Rajapalayam - Thirumangalam(Madurai)
+|Kerala (81), Tamil Nadu (125)
+|
+|NH 744
+|-
+|209
+|Dindigul - Palani - Pollachi  - Coimbatore - Punjai Puliampatti - Sathyamangalam - Chamrajnagar - Kollegal - Malavalli - Kanakapura - Bangalore
+|Tamil Nadu (286), Karnataka (170)
+|
+|NH 948
+|-
+|210
+|Trichy - Pudukottai - Karaikudi - Devakottai - Ramanathapuram
+|Tamil Nadu (160)
+|
+|NH 336 / NH 536
+|-
+|211
+|Solapur - Osmanabad - Aurangabad - Dhule
+|Maharashtra (400)
+|
+|-
+|212
+|Kozhikode - Mysore - Kollegal
+|Karnataka (160), Kerala (90)
+|
+|NH 766
+|-
+|213
+|Palghat - Kozhikode
+|Kerala (130)
+|
+|NH 966
+|-
+|214
+|Kathipudi - Kakinada - Pamarru
+|Andhra Pradesh (270)
+|
+|NH 165
+|-
+|214A
+|Digamarru - Narsapur - Machilipatnam - Challapalle - Avanigadda - Repalle - Bapatla - Chirala - Ongole
+|Andhra Pradesh (255)
+|
+|-
+|215
+|Panikoili - Keonjhar - Rajamunda
+|Odisha (348)
+|
+|NH 20 / NH 520
+|-
+|216
+|Raigarh - Sarangarh - Saraipali
+|Chhattisgarh (80)
+|
+|NH 153
+|-
+|217
+|Raipur - Asika
+|Chhattisgarh (70), Odisha (438)
+|
+|NH 16 / NH 516 / NH 53 / NH 353 / NH 59
+|-
+|218
+|Bijapur - Hubli
+|Karnataka (176)
+|
+|-
+|219
+|Madanapalle - Kuppam - Krishnagiri
+|Andhra Pradesh (128), Tamil Nadu (22)
+|
+|-
+|220
+|Kollam - Kottarakkara - Adoor - Kottayam - Pampady - Ponkunnam - Kanjirappalli - Mundakayam - Peermade - Vandiperiyar - Kumily - Theni
+|Kerala (210), Tamil Nadu (55)
+|
+|-
+|221
+|Vijayawada - Bhadrachalam - Jagdalpur
+|Andhra Pradesh (155), Chhattisgarh (174)
+|
+|NH 30
+|-
+|222
+|Kalyan - Murbad - Aalephata - Ahmednagar - Tisgaon - Pathardi -Yeli - Kharwandi - Padalsingi- Majalgaon - Pathri -  Manwat - Parbhani - Nanded -Bhokar - Bhisa - Nirmal
+|Maharashtra (550), Andhra Pradesh (60)
+|
+|NH 61
+|-
+|223
+|Port Blair - Baratang - Mayabunder
+|Andaman & Nicobar (300)
+|
+|NH 4
+|-
+|224
+|Khordha - Nayagarh - Sonapur - Balangir
+|Odisha (298)
+|
+|NH 57
+|-
+|226
+|Perambalur - Pudukkottai - Sivagangai - Manamadurai
+|Tamil Nadu (204)
+|
+|-
+|227
+|Trichy - Chidambaram
+|Tamil Nadu (136)
+|
+|NH 36
+|-
+|228
+|Sabarmati Ashram - Nadiad - Anand - Surat - Navsari -Dandi
+|Gujarat (374)
+|
+|-
+|229
+|Tawang - Pasighat
+|Arunachal Pradesh (1090)
+|
+|-
+|230
+|Madurai - Sivagangai - Thondi
+| Tamil Nadu (82)
+|
+|-
+|231
+|Raibareli - Jaunpur
+| Uttar Pradesh
+|
+|-
+|232
+|Ambedkarnagar (Tanda) - Banda
+|
+|
+|NH 335
+|-
+|232A
+|Unnao - Lalganj (Junction of NH-232)
+|
+|
+|-
+|233
+|India-Nepal border - Varanasi Azamgarh
+|
+|
+|-
+|234
+|Mangalore - Belthangady - Belur - Huliyar - Sira - Chintamani - Venkatagirikota - Gudiyatham - Katpadi- Vellore - Thiruvannaamalai - Villuppuram
+|Karnataka (509), Andhra Pradesh (23), Tamil Nadu (234)
+|
+|NH 69
+|-
+|235
+|Meerut - Hapur - Gulaothi - Bulandshahr
+|Uttar Pradesh (66)
+|
+|-
+|275
+|Bengaluru-Kengeri-Bidadi-Ramanagara-Channapatna-Maddur-Mandya-Srirangapattana-Mysuru-Hunsur-Periyapatna-Bylakuppe-Kushalnagar-Madikeri-Sullia-Puttur-Bantwal-
+|Karnataka (367)
+|
+|-
+|367
+|Gadankere-Bagalkote-Guledagudda-Badami-Bellur-Jaalihaal-Gajendragadh-Yalburga-Kukanur-Bhanapura
+|Karnataka (157)
+|
+|-
+|}
+
+== See also ==
+* List of National Highways in India by state (old numbering)
+* National Highways Authority of India
+* National Highways Development Project
+
+== References ==
+
+
+== External links ==
+* Official website of the National Highways Authority of India (NHAI)
+* Map of all the National Highways
+* 
+* 
+* 
+
+
+
+
+*
+Category:Lists of roads in India
+Category:India transport-related lists

@@ -1,0 +1,27 @@
+Title: TK85
+
+
+The TK85 was a ZX81 clone made by Microdigital Eletrônica, a computer company located in Brazil. It came with 16 or 48 KB RAM, and had a ZX Spectrum–style case, similar to a Timex Sinclair 1500.
+
+Unlike the ZX81, the TK85 used discrete logic circuits instead of a ULA, and during manufacture several chips were scraped so that competitors couldn't copy the circuit. The circuit board had space for a AY-3-8912 sound generator chip (compatible with the ZonX-81 sound board), and although none came factory installed, it is possible to add the necessary circuits.
+
+The TK85 came with a copy of the 8K ZX81 floating point BASIC, and an additional 2K EPROM, mapped to addresses 8192-10240, containing machine code routines for use with tape files. These routines could save (HISAVE), load (HILOAD) and verify (HIVERIFY) in "Hi-Speed" (4200 bps); save and load, BASIC variables in 300 bps (standard ZX81 speed) using DSAVE and DLOAD functions and 4200 bps (Hi-Speed) using DHSAVE and DHLOAD. These routines were all accessible using RAND USR commands. The save to variable function could be used to make copies of programs on tape.
+
+The expansion port on the back of the computer is compatible with the ZX81, although some peripherals may not work due to conflicts with the 2K of extra ROM.
+
+The rear of the computer featured a TV output (without video back porch), "EAR" and "MIC" sockets for connecting to an external tape recorder, a joystick port using a DIN socket (that simulated the ,,, and  keys), a ZX81 compatible expansion port, space for a sound output socket, and a socket for the 9V external power supply.
+
+Since the joystick used the cursor keys, and due to the circuitry for the keyboard, it wasn't possible to detect diagonal directions correctly.
+
+== Bibliography ==
+
+=== Books ===
+
+
+
+=== Other sources ===
+
+* 
+
+
+

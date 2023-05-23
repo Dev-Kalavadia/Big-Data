@@ -1,0 +1,11 @@
+Title: Shift register lookup tablethumb|right|Shift register lookup table.
+
+A shift register lookup table, also shift register LUT or SRL, refers to a component in digital circuitry. It is essentially a shift register of variable length. The length of SRL is set by driving address pins high or low and can be changed dynamically, if necessary.16-Bit Shift Register Look-Up-Table (LUT) 
+
+The SRL component is used in FPGA devices.
+The SRL can be used as a programmable delay element.
+
+==See also==
+*Lookup table
+*Shift register
+

@@ -1,0 +1,34 @@
+Title: Ernst G. Straus
+
+Ernst Gabor Straus (February 25, 1922 – July 12, 1983) was a German-American mathematician of Jewish origin who helped found the theories of Euclidean Ramsey theory and of the arithmetic properties of analytic functions. His extensive list of co-authors includes Albert Einstein, Paul Erdős, Richard Bellman, Béla Bollobás, Sarvadaman Chowla, Ronald Graham, Lee Albert Rubel, Mathukumalli V Subbarao, László Lovász, Carl Pomerance, Moshe Goldberg, and George Szekeres.
+
+==Biography==
+Straus was born in Munich, February 25, 1922, the youngest of five children (Isa, Hana, Peter, Gabriella) of a prominent Zionist attorney, Elias (Eli) Straus, and his wife Rahel Straus, a medical doctor and feminist. Ernst Gabor Straus came to be known as a mathematical prodigy from a very young age. Following the death of his father, the family fled the Nazi regime for Palestine in 1933, and Straus was educated at the Hebrew University in Jerusalem. Although he never received an undergraduate degree, Straus began graduate studies at Columbia University in New York, earning a PhD in 1948 under F. J. Murray. Two years later, he became the assistant of Albert Einstein. After a three-year stint at the Institute for Advanced Study, Straus took a position at the University of California, Los Angeles, which he kept for the rest of his life. Straus died July 12, 1983 of heart failure.
+
+Straus's interests ranged widely over his career, beginning with his early work on relativity with Einstein and continuing with deep work in analytic number theory, extremal graph theory, and combinatorics. One of his best known contributions in popular mathematics is the Erdős–Straus conjecture that every number of the form 4/n has a three-term Egyptian fraction.
+
+==See also==
+*Illumination problem
+
+== Notes ==
+
+
+== References ==
+* 
+*  Goldberg, Moshe. "Ernst G. Straus (1922–1983)". Linear Algebra and Its Applications. 64 (1985), 1–19.
+* 
+* Obituary with List of works
+
+
+
+
+Category:1922 births
+Category:1983 deaths
+Category:Combinatorialists
+Category:Institute for Advanced Study visiting scholars
+Category:Scientists from Munich
+Category:Israeli emigrants to the United States
+Category:German people of Hungarian-Jewish descent
+Category:Jewish emigrants from Nazi Germany to Mandatory Palestine
+Category:20th-century American mathematicians
+Category:20th-century German mathematicians

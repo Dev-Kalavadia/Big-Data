@@ -1,0 +1,21 @@
+Title: Heinrich Stölzel
+
+Heinrich David Stölzel (7 September 1777 – 16 February 1844) was a German horn player who developed some of the first valves for brass instruments.  He developed the first valve for a brass musical instrument, the Stölzel valve, in 1818, and went on to develop various other designs, some jointly with other inventor musicians.
+
+==Biography==
+Stölzel was born in Schneeberg, Saxony.  His father was also a musician, and as a young man he learnt to play numerous instruments, including harp, violin, trumpet and horn. From 1800 he was employed as a military musician for the Duke of Pless, Silesia, mainly playing the horn.
+
+During this time, the horn used was essentially a natural horn, which restricted the range of notes that were able to be easily used to only those in the instrument's natural harmonic series, and variations thereof created by using the hand in the bell to alter the pitch.  German musicians also used an Inventionshorn, which allowed some further range of notes by manually inserting extra crooks.Britannica Online - Wind Instrument, the production of sound
+
+Stölzel dedicated himself to the further development of the instrument, and experimented with adding valves that redirected the air stream into different lengths of tubing, to lengthen the sections of tubing available and thereby created more (and lower) usable harmonic series. His system featured two valves; the first lowered the instrument's fundamental pitch by a tone, the second by a semitone. Depressing both at once lowered the fundamental by a tone and a half.  By 1814 he had developed a playable valve horn, able to play a chromatic series in the instrument's upper register.Britannica Online - Wind Instrument, the production of sound
+
+Stölzel reportedly wrote directly to King Friedrich Wilhelm III of Prussia to publicise his invention, and musical director Gottlob Benedikt Bierey of the Beslau City Theatre wrote in the Allgemeine musikalische Zeitung on 3 May 1815: "Heinrich Stölzel, the chamber musician from Pless in Upper Silesia, in order to perfect the Waldhorn, has succeeded in attaching a simple mechanism to the instrument, thanks to which he has obtained all the notes of the chromatic scale in a range of almost three octaves, with a good, strong and pure tone.  All the artificial notes – which, as is well known, were previously produced by stopping the bell with the right hand, and can now be produced merely with two levers, controlled by two fingers of the right hand – are identical in sound to the natural notes and thus preserve the character of the Waldhorn. Any Waldhorn player will, with practice, be able to play on it."WIRED magazine - Blown Away by Horn With ValvesWhy Valves Were Invented
+
+Fellow inventor and musician Friedrich Blühmel also designed a similar valve system independently of Stölzel around the same time.  On 12 April 1818, Stölzel and Blühmel registered a joint patent for ten years.
+
+The same year, on 16 October 1818, the first work for valved horn was performed - the Concertino für drei Waldhörner und ein chromatisches Ventilhorn, written by composer and horn player Georg Abraham Schneider.
+
+Stölzel's early two-valve horn design was soon expanded to three by instrument builder Christian Friedrich Sattler of Leipzig, and the first valve trumpets were built in 1820.  As the system was further developed by other inventors, similar valves were eventually built into almost all members of the brass instrument family.
+
+Stölzel died in Berlin in 1844.
+

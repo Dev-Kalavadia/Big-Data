@@ -1,0 +1,83 @@
+Title: Avegno, Switzerland
+
+
+Avegno was a municipality in the district of Vallemaggia in the canton of Ticino in Switzerland.  On 20 April 2008, Avegno and Gordevio merged to form Avegno Gordevio.Amtliches Gemeindeverzeichnis der Schweiz published by the Swiss Federal Statistical Office  accessed 14 January 2010
+
+In 1982, the Swiss Heritage Society awarded the Wakker Prize to Avegno for the preservation of its architectural heritage.
+
+==History==
+Avegno is first mentioned in 1189 as Vegno.
+
+In the 14th Century, Avegno shared a chaplain with Gordevio.  In 1645, they separated from the mother church in Maggia, and became separate parishes.  The parish church of SS Luca e Abbondio was built in 1313.  In the 17th Century it was expanded and the rich stucco work was added.
+
+Agriculture, formerly the main occupation of the inhabitants, is today almost non-existent.  Handicrafts (making baskets and pottery) and stone cutting were able to slow the exodus somewhat.  The strong population growth in recent decades is due to the proximity to Locarno.  Some companies have settled in the valley and various sports facilities and campsites have been created.  In 1982, the Wakker Prize was awarded to Avegno in recognition of the efforts to preserve the village's historic appearance.
+
+==Geography==
+The village is located in the Vallemaggia district.  It is located at the bottom of the valley, on the left side of the Maggia river.  The former municipality consists of three separate village sections, that have grown into a single village.
+
+==Coat of arms==
+The blazon of the municipal coat of arms is Per fess azure and gules overall a tower with a banner argent surrounded with three doves volant two and one.Flags of the World.com accessed 9 February 2011
+
+==Demographics==
+Avegno has a population () of 540.  Most of the population () speaks Italian language (429 or 87.0%), with German being second most common (47 or 9.5%) and French being third (4 or 0.8%).
+
+Of the population in the village 175 or about 35.5% were born in Avegno and lived there in 2000.  There were 170 or 34.5% who were born in the same canton, while 64 or 13.0% were born somewhere else in Switzerland, and 73 or 14.8% were born outside of Switzerland.  , there were 200 people who were single and never married in the village.  There were 240 married individuals, 32 widows or widowers and 21 individuals who are divorced.STAT-TAB Datenwürfel für Thema 40.3 - 2000    accessed 2 February 2011
+
+There were 47 households that consist of only one person and 14 households with five or more people.  Out of a total of 193 households that answered this question, 24.4% were households made up of just one person and 4 were adults who lived with their parents.  Of the rest of the households,  there are 42 married couples without children, 78 married couples with children  There were 16 single parents with a child or children.  There were 4 households that were made up unrelated people and 2 households that were made some sort of institution or another collective housing.
+
+ there were 244 single-family homes (or 89.7% of the total) out of a total of 272 inhabited buildings.  There were 23 multi-family buildings (8.5%), along with 1 multi-purpose buildings that were mostly used for housing (0.4%) and 4 other use buildings (commercial or industrial) that also had some housing (1.5%).  Of the single-family homes 11 were built before 1919, while 19 were built between 1990 and 2000.  The greatest number of single-family homes (102) were built between 1919 and 1945.Federal Statistical Office STAT-TAB - Datenwürfel für Thema 09.2 - Gebäude und Wohnungen   accessed 28 January 2011
+
+ there were 305 apartments in the village.  The most common apartment size was 4 rooms of which there were 104.  There were 13 single room apartments and 84 apartments with five or more rooms.  Of these apartments, a total of 190 apartments (62.3% of the total) were permanently occupied, while 114 apartments (37.4%) were seasonally occupied and 1 apartments (0.3%) were empty.
+
+The historical population is given in the following chart:Swiss Federal Statistical Office STAT-TAB Bevölkerungsentwicklung nach Region, 1850-2000   accessed 29 January 2011
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.8)
+ImageSize  = width:960 height:210
+PlotArea   = height:150 left:100 bottom:50 right:100
+AlignBars  = justify
+DateFormat = x.y
+Period     = from:0 till:950
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:200 start:0
+ScaleMinor = gridcolor:lightgrey increment:40 start:0
+PlotData=
+  color:yellowgreen width:40   mark:(line,white) align:center
+  bar:1850 from:start till:399 text:"399"
+  bar:1860 from:start till:353 text:"353"
+  bar:1870 from:start till:392 text:"392"
+  bar:1880 from:start till:392 text:"392"
+  bar:1888 from:start till:428 text:"428"
+  bar:1900 from:start till:322 text:"322"
+  bar:1910 from:start till:253 text:"253"
+  bar:1920 from:start till:219 text:"219"
+  bar:1930 from:start till:208 text:"208"
+  bar:1941 from:start till:167 text:"167"
+  bar:1950 from:start till:215 text:"215"
+  bar:1960 from:start till:235 text:"235"
+  bar:1970 from:start till:293 text:"293"
+  bar:1980 from:start till:393 text:"393"
+  bar:1990 from:start till:472 text:"472"
+  bar:2000 from:start till:493 text:"493"
+
+
+==Politics==
+In the 2007 federal election the most popular party was the FDP which received 31.59% of the vote.  The next three most popular parties were the CVP (29.53%), the SP (16.85%) and the SVP (6.99%).  In the federal election, a total of 209 votes were cast, and the voter turnout was 52.5%.Swiss Federal Statistical Office, Nationalratswahlen 2007: Stärke der Parteien und Wahlbeteiligung, nach Gemeinden/Bezirk/Canton   accessed 28 May 2010
+
+In the  Gran Consiglio election, there were a total of 402 registered voters in Avegno, of which 296 or 73.6% voted.  7 blank ballots were cast, leaving 289 valid ballots in the election.  The most popular party was the PPD+GenGiova which received 63 or 21.8% of the vote.  The next three most popular parties were; the PLRT (with 58 or 20.1%), the PS (with 54 or 18.7%) and the PS (with 54 or 18.7%). Elezioni cantonali: Gran Consiglio, Consiglio di Stato   accessed 23 November 2010
+
+In the  Consiglio di Stato election, 4 blank ballots and 1 null ballot were cast, leaving 291 valid ballots in the election.  The most popular party was the PS which received 67 or 23.0% of the vote.  The next three most popular parties were; the PPD (with 65 or 22.3%), the PLRT (with 54 or 18.6%) and the SSI (with 52 or 17.9%).
+
+==Economy==
+There were 211 residents of the village who were employed in some capacity, of which females made up 33.2% of the workforce.  , there were 176 workers who commuted into the village and 164 workers who commuted away.  The village is a net importer of workers, with about 1.1 workers entering the village for every one leaving.  About 22.2% of the workforce coming into Avegno are coming from outside Switzerland.Swiss Federal Statistical Office - Statweb  accessed 24 June 2010
+
+==Religion==
+From the , 386 or 78.3% were Roman Catholic, while 32 or 6.5% belonged to the Swiss Reformed Church.  Of the rest of the population, there was 1 who belonged to an Orthodox church, and there were 7 individuals (or about 1.42% of the population) who belonged to another Christian church.  There were 2 (or about 0.41% of the population) who were Islamic.  There was 1 individual who was Buddhist.  43 (or about 8.72% of the population) belonged to no church, are agnostic or atheist, and 21 individuals (or about 4.26% of the population) did not answer the question.
+
+==Education==
+In Avegno about 202 or (41.0%) of the population have completed non-mandatory upper secondary education, and 64 or (13.0%) have completed additional higher education (either University or a Fachhochschule).  Of the 64 who completed tertiary schooling, 60.9% were Swiss men, 32.8% were Swiss women.
+
+, there were 1 students in Avegno who came from another village, while 75 residents attended schools outside the village.
+

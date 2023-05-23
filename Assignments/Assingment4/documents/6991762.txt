@@ -1,0 +1,400 @@
+Title: Administrative divisions of Arkhangelsk Oblast{| border=1 align="right" cellpadding=2 cellspacing=0 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|-
+! bgcolor="#ccccff" style="padding:0 0 0 50px;" | Arkhangelsk Oblast, Russia
+| width="50px" | 50px|Flag of Arkhangelsk Oblast
+|-
+| colspan=2 align="center"|Administrative center: Arkhangelsk
+|-
+| colspan=2 align="center"|As of 2013:
+|-
+| # of districts(районы)|| 21
+|-
+| # of cities and towns(города)|| 13
+|-
+| # of urban-type settlements(посёлки городского типа)|| 14
+|-
+| # of selsovets(сельсоветы)|| 239
+|-
+| colspan=2 align="center"|As of 2002:Results of the 2002 Russian Population Census—Territory, number of districts, inhabited localities, and rural administrations of the Russian Federation by federal subject 
+|-
+| # of rural localities(сельские населённые пункты)|| 3,914
+|-
+| # of uninhabited rural localities(сельские населённые пункты без населения)|| 547
+|-
+|}
+Within the framework of administrative divisions, Arkhangelsk Oblast is divided into six cities and towns of oblast significance, twenty-one districts, and two island territories (Franz Joseph Land and Victoria Island). Besides, Mirny is a town under the federal government management.
+
+In terms of the area, the biggest administrative districts are Novaya Zemlya () and Mezensky District (). The smallest one is Solovetsky District.
+
+In terms of the population, the biggest administrative district is Velsky District (61,819 in 2002), the smallest ones are Solovetsky District (968), Novaya Zemlya (2716), and Leshukonsky District (10,708).
+
+==Administrative and municipal divisions==
+right|thumb|350px|Administrative districts of Arkhangelsk Oblast. The numbers denote the following districts: 1- Onezhsky, 2 - Primorsky, 3 - Mezensky, 4 - Leshukonsky, 5 - Pinezhsky, 6 - Kholmogorsky, 7 - Plesetsky, 8 - Vinogradovsky, 9 - Verkhnetoyemsky, 10 - Kargopolsky, 11 - Nyandomsky, 12 - Shenkursky, 13 - Konoshsky, 14 - Velsky, 15 - Ustyansky, 16 - Krasnoborsky, 17 - Lensky, 18 - Kotlassky, 19 - Vilegodsky. Solovetsky District is shown as an unnumbered island. Novaya Zemlya District is not shown.
+{| class="wikitable" style="padding: 24em 0; border: 1px #aaa solid; border-collapse: collapse; font-size: 90%;"
+! colspan="2" rowspan="2" | Division
+! colspan="2" | Structure
+! rowspan="2" | OKATO
+! rowspan="2" | OKTMO
+! rowspan="2" | Urban-type settlement/island territory/district-level town*
+! rowspan="2" | Rural(selsovet)
+|-
+!Administrative
+!Municipal
+|-
+| colspan="2" | Mirny (Мирный)
+| city 
+| urban okrug
+| align="center" | 11 525
+| align="center" | 11 725
+| 
+| 
+|-
+| colspan="2" | Arkhangelsk (Архангельск)
+| city
+| urban okrug
+| align="center" | 11 401
+| align="center" | 11 701
+| 
+| 
+|-
+| bgcolor="lightgreen" | ↳
+| Isakogorsky (Исакогорский)
+| bgcolor="lightpink" | 
+| 
+| bgcolor="lightpink" align="center" | 11 401
+| 
+| 
+| 
+|-
+| bgcolor="lightgreen" | ↳
+| Lomonosovsky (Ломоносовский)
+| bgcolor="lightpink" | 
+| 
+| bgcolor="lightpink" align="center" | 11 401
+| 
+| 
+| 
+|-
+| bgcolor="lightgreen" | ↳
+| Maymaksansky (Маймаксанский)
+| bgcolor="lightpink" | 
+| 
+| bgcolor="lightpink" align="center" | 11 401
+| 
+| 
+| 
+|-
+| bgcolor="lightgreen" | ↳
+| Mayskaya Gorka (Майская Горка)
+| bgcolor="lightpink" | 
+| 
+| bgcolor="lightpink" align="center" | 11 401
+| 
+| 
+| 
+|-
+| bgcolor="lightgreen" | ↳
+| Oktyabrsky (Октябрьский)
+| bgcolor="lightpink" | 
+| 
+| bgcolor="lightpink" align="center" | 11 401
+| 
+| 
+| 
+|-
+| bgcolor="lightgreen" | ↳
+| Severny (Северный)
+| bgcolor="lightpink" | 
+| 
+| bgcolor="lightpink" align="center" | 11 401
+| 
+| 
+| 
+|-
+| bgcolor="lightgreen" | ↳
+| Solombalsky (Соломбальский)
+| bgcolor="lightpink" | 
+| 
+| bgcolor="lightpink" align="center" | 11 401
+| 
+| 
+| 
+|-
+| bgcolor="lightgreen" | ↳
+| Tsiglomensky (Цигломенский)
+| bgcolor="lightpink" | 
+| 
+| bgcolor="lightpink" align="center" | 11 401
+| 
+| 
+| 
+|-
+| bgcolor="lightgreen" | ↳
+| Varavino-Faktoriya (Варавино-Фактория)
+| bgcolor="lightpink" | 
+| 
+| bgcolor="lightpink" align="center" | 11 401
+| 
+| 
+| 
+|-
+| colspan="2" | Koryazhma (Коряжма)
+| city
+| urban okrug
+| align="center" | 11 408
+| align="center" | 11 708
+| 
+| 
+|-
+| colspan="2" | Kotlas (Котлас)
+| city
+| urban okrug
+| align="center" | 11 410
+| align="center" | 11 710
+| 
+*Vychegodsky (Вычегодский)
+| 
+|-
+| colspan="2" | Novodvinsk (Новодвинск)
+| city
+| urban okrug
+| align="center" | 11 415
+| align="center" | 11 715
+| 
+| 
+|-
+| colspan="2" | Onega (Онега)
+| city
+| bgcolor="lightpink" | 
+| align="center" | 11 420
+| bgcolor="lightpink" align="center" | 11 646
+| 
+| 
+|-
+| colspan="2" | Severodvinsk (Северодвинск)
+| city
+| urban okrug
+| align="center" | 11 430
+| align="center" | 11 730
+| 
+| 
+|-
+| colspan="2" | Kargopolsky (Каргопольский)
+| colspan="2" | district
+| align="center" | 11 218
+| align="center" | 11 618
+| 
+*Kargopol (Каргополь) town*
+| 12
+|-
+| colspan="2" | Kholmogorsky (Холмогорский)
+| colspan="2" | district
+| align="center" | 11 256
+| align="center" | 11 656
+| 
+| 18
+|-
+| colspan="2" | Konoshsky (Коношский)
+| colspan="2" | district
+| align="center" | 11 222
+| align="center" | 11 622
+| 
+*Konosha (Коноша)
+| 10
+|-
+| colspan="2" | Kotlassky (Котласский)
+| colspan="2" | district
+| align="center" | 11 227
+| align="center" | 11 627
+| 
+*Solvychegodsk (Сольвычегодск) town*
+*Privodino (Приводино)
+*Shipitsyno (Шипицыно)
+| 12
+|-
+| colspan="2" | Krasnoborsky (Красноборский)
+| colspan="2" | district
+| align="center" | 11 230
+| align="center" | 11 630
+| 
+| 10
+|-
+| colspan="2" | Lensky (Ленский)
+| colspan="2" | district
+| align="center" | 11 235
+| align="center" | 11 635
+| 
+*Urdoma (Урдома)
+| 9
+|-
+| colspan="2" | Leshukonsky (Лешуконский)
+| colspan="2" | district
+| align="center" | 11 238
+| align="center" | 11 638
+| 
+| 7
+|-
+| colspan="2" | Mezensky (Мезенский)
+| colspan="2" | district
+| align="center" | 11 242
+| align="center" | 11 642
+| 
+*Mezen (Мезень) town*
+| 12
+|-
+| colspan="2" | Novaya Zemlya (Новая Земля)
+| district
+| urban okrug
+| align="center" | 11 243
+| align="center" | 11 712
+| 
+*Belushya Guba (Белушья Губа)
+| 
+|-
+| colspan="2" | Nyandomsky (Няндомский)
+| colspan="2" | district
+| align="center" | 11 244
+| align="center" | 11 644
+| 
+*Nyandoma (Няндома) town*
+| 8
+|-
+| colspan="2" | Onezhsky (Онежский)
+| colspan="2" | district
+| align="center" | 11 246
+| align="center" | 11 646
+| 
+*Maloshuyka (Малошуйка)
+| 13
+|-
+| colspan="2" | Pinezhsky (Пинежский)
+| colspan="2" | district
+| align="center" | 11 248
+| align="center" | 11 648
+| 
+| 17
+|-
+| colspan="2" | Plesetsky (Плесецкий)
+| colspan="2" | district
+| align="center" | 11 250
+| align="center" | 11 650
+| 
+*Obozersky (Обозерский)
+*Plesetsk (Плесецк)
+*Savinsky (Савинский)
+*Severoonezhsk (Североонежск)
+| align="center" | 11
+|-
+| colspan="2" | Primorsky (Приморский)
+| colspan="2" | district
+| align="center" | 11 252
+| align="center" | 11 652
+| 
+* Franz Josef Land (Земля Франца-Иосифа) island territory
+* Victoria Island (остров Виктория) island territory
+| 17
+|-
+| colspan="2" | Shenkursky (Шенкурский)
+| colspan="2" | district
+| align="center" | 11 258
+| align="center" | 11 658
+| 
+*Shenkursk (Шенкурск) town*
+| 12
+|-
+| colspan="2" | Solovetsky (Соловецкий)
+| district
+| bgcolor="lightpink" | 
+| align="center" | 11 253
+| bgcolor="lightpink" align="center" | 11 652
+| 
+| 
+|-
+| colspan="2" | Ustyansky (Устьянский)
+| colspan="2" | district
+| align="center" | 11 254
+| align="center" | 11 654
+| 
+*Oktyabrsky (Октябрьский)
+| 17
+|-
+| colspan="2" | Velsky (Вельский)
+| colspan="2" | district
+| align="center" | 11 205
+| align="center" | 11 605
+| 
+*Velsk (Вельск) town*
+*Kuloy (Кулой)
+| 20
+|-
+| colspan="2" | Verkhnetoyemsky (Верхнетоемский)
+| colspan="2" | district
+| align="center" | 11 208
+| align="center" | 11 608
+| 
+| 14
+|-
+| colspan="2" | Vilegodsky (Вилегодский)
+| colspan="2" | district
+| align="center" | 11 211
+| align="center" | 11 611
+| 
+| 6
+|-
+| colspan="2" | Vinogradovsky (Виноградовский)
+| colspan="2" | district
+| align="center" | 11 214
+| align="center" | 11 614
+| 
+| 13
+|- bgcolor="lightblue"
+| colspan="2" | Nenets (Не́нецкий)
+| colspan="2" | autonomous okrug
+| colspan="4" align="center" | see list of divisions
+|}
+
+==Differences with municipal divisions==
+Most of the administrative districts of Arkhangelsk Oblast are municipally incorporated as municipal districts, and most of the cities and towns of oblast significance are municipally incorporated as urban okrugs. There are, however, several exceptions,
+*The town of Onega is municipally incorporated as Onezhsky Urban Settlement of Onezhsky Municipal District;
+*The town of Mirny is municipally incorporated as Mirny Urban Okrug;
+*Solovetsky District is municipally incorporated as Solovetskoye Rural Settlement of Primorsky Municipal District;
+*Novaya Zemlya District is municipally incorporated as Novaya Zemlya Urban Okrug;
+*The island territories of Franz Joseph Land and Victoria Island are municipally incorporated into Primorsky Municipal District.
+
+==History==
+, 1708 Tsar Peter the Great issued an edict which established seven governorates.Указ об учреждении губерний и о росписании к ним городов  The description of the borders of the governorates was not given; instead, their area was defined as a set of towns and the lands adjacent to those towns. In the present area of Arkhangelsk oblast, two of the governorates—Archangelgorod Governorate and Ingermanland Governorate—were located. The governorates were subdivided into uyezds, and uyezds into volosts.
+
+The centers of the following uyezds of Archangelgorod Governorate were located in the present-day area of Arkhangelsk Oblast,
+*Arkhangelskoy Uyezd (the administrative center was Arkhangelskoy);
+*Kevrolsky Uyezd (Kevrol);
+*Mezensky Uyezd (Mezen);
+*Solvychegodsky Uyezd (Sol Vychegodskaya);
+*Ustya volosts;
+*Vazhsky Uyezd (Shenkursk);
+
+Pustozyorsky Uyezd (with the center in Pustozerskoy) was located in what is now Nenets Autonomous Okrug.
+
+On , 1719, the governorate was divided into provinces: Archangelgorod, Vologda, Galich, and Ustyug. Simultaneously, Yarensky Uyezd with the administrative center of Yarensk was moved from Siberia Governorate to Archangelgorod Governorate. The uyezds were transformed into districts, however, in 1727 the districts were transformed back into uyezds. On , 1780, Archangelgorod Governorate was transformed into Vologda Viceroyalty. In 1796, the viceroyalty was split into Arkhangelsk and Vologda Governorates, the latter one including the areas currently in the south-east of the Oblast. In 1918, these areas were split off from the Vologda Governorate and moved to the newly established Northern Dvina Governorate. The administrative center of the governorate was Veliky Ustyug.
+
+The southwestern part of Arkhangelsk Oblast in 1708 became Kargopolsky Uyezd of Ingermanland Governorate (from 1710, Saint Petersburg Governorate), with the seat in the town of Kargopol. In 1727, it moved to the newly established Novgorod Governorate. After a number of administrative reforms, in 1801 it ended up as one of the four uyezds of the newly established Olonets Governorate.
+
+In 1924, the uyezds of Northern Dvina Governorate were abolished in favor of the new divisions, the districts (raions). Arkhangelsk and Olonets Governorates retained the uyezd division till 1929. On July 15, 1929 the uyezds in these two governorates were abolished, and all areas which currently belong to Arkhangelsk Oblast, together with other areas, merged into the Northern Krai. The krai consisted of the Komi-Zyryan Autonomous Oblast, a number of islands in the Arctic Ocean, as well as five administrative districts (okrugs),
+*Arkhangelsk Okrug (with the administrative center located in Arkhangelsk;
+*Nenets Okrug (with the borders and the seat to be defined);
+*Northern Dvina Okrug (Veliky Ustyug);
+*Nyandoma Okrug (Nyandoma);
+*Vologda Okrug (Vologda).
+All these okrugs (except for the Nenets Okrug) were divided into districts. In 1930, the okrugs were abolished, and the districts became directly subordinate to the Northern Krai. In 1936, according to the new Soviet Constitution, the Northern Krai was transformed into Northern Oblast. In 1937, Northern Oblast was split into Arkhangelsk Oblast and Vologda Oblast. In 1941, three districts of Arkhangelsk Oblast—Oparinsky, Lalsky, and Podosinovsky—were transferred to Kirov Oblast. During the attempted administrative reform in 1963, districts were subdivided into urban and rural districts. The reform was abandoned in 1965, and the division into districts was restored. On March 23, 1987, Solovetsky District was established, and in 2001, Novaya Zemlya obtained the district status.
+
+===Abolished districts===
+After 1929 (with the exception of the aborted reform of 1963–1965) borders between the districts sometimes were modified, and as a result some of the districts in the area currently belonging to Arkhangelsk Oblast were abolished,
+*Arkhangelsky District (the administrative center in the city of Arkhangelsk), Arkhangelsk Oblast, established in 1952, abolished in 1955, merged into Primorsky District;
+*Belomorsky District (selo of Pertominsk), Arkhangelsk Oblast, established in 1940, abolished in 1958, the area was divided between Primorsky and Onezhsky Districts;
+*Chekuyevsky District (selo of Chekuyevo), Northern Krai, established in 1929, abolished in 1931, the area was divided between Plesetsky and Onezhsky Districts;
+*Cherevkovsky District (selo of Cherevkovo), Northern Krai, later Arkhangelsk Oblast, established in 1924, abolished in 1959, the area was divided between Krasnoborsky, Verkhnetoyemsky, and Ustyansky districts;
+*Karpogorsky District (selo of Karpogory), Northern Krai, later Arkhangelsk Oblast, established in 1929, abolished in 1959, merged into Pinezhsky District, with the simultaneous transfer of the district center to Karpogory;
+*Priozyorny District (selo of Konyovo), Northern Krai, later Arkhangelsk Oblast, established in 1929, abolished in 1963, merged into Plesetsky District;
+*Rovdinsky District (selo of Rovdino), Northern Krai, later Arkhangelsk Oblast, established in 1929, abolished in 1931, reestablished in 1935, abolished in 1959, the area was split between Shenkursky and Velsky Districts;
+*Solvychegodsky District (town of Solvychegodsk), Arkhangelsk Oblast, established in 1938, abolished in 1958, merged into Kotlassky District;
+*Yemetsky District (selo of Yemetsk), Northern Krai, later Arkhangelsk Oblast, established in 1929, abolished in 1959, merged into Kholmogorsky District.
+

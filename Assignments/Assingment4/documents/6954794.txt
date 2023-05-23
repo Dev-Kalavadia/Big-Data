@@ -1,0 +1,6443 @@
+Title: 1986 NASCAR Winston Cup Series
+
+
+The 1986 NASCAR Winston Cup Series was the 38th season of professional stock car racing in the United States and the 15th modern-era Cup series season. The season began on February 16 and ended November 16. Dale Earnhardt of RCR Enterprises won his second championship this year.
+
+This was the last season without Ernie Irvan until 2000. This would also be the last full season for Tim Richmond, whose health began to decline as a result of AIDS shortly after the season ended, ultimately claiming Richmond's life in 1989.
+
+== 1986 NASCAR Winston Cup Series drivers==
+{| class="wikitable" style="font-size: 95%;"
+!Make
+!Team
+!
+!Driver
+!Crew Chief
+|-
+! rowspan=3|Buick
+| King Racing
+| 26
+| Joe Ruttman
+| Larry McReynolds
+|-
+| rowspan=2 | Stavola Brothers Racing
+| 8
+| Bobby Hillin Jr.
+| Ron Puryear
+|-
+| 22
+| Bobby Allison
+| Bobby Hudson
+|-
+! rowspan=12 |Chevrolet
+| Ellington Racing
+| 1
+| Sterling Marlin
+| 
+|-
+| Freelander Motorsports
+| 18
+| Tommy Ellis
+| 
+|-
+| rowspan=2 | Hendrick Motorsports
+| 5
+| Geoff Bodine
+| Gary Nelson
+|-
+| 25
+| Tim Richmond
+| Harry Hyde
+|-
+| rowspan=2 | Jackson Brothers Motorsports
+| 55
+| Benny Parsons
+| Cliff Champion
+|-
+| 66
+| Phil Parsons
+| Marv Acton
+|-
+| rowspan=3 | Junior Johnson & Associates
+| 11
+| Darrell Waltrip
+| Jeff Hammond
+|-
+| rowspan=2|12
+| Neil Bonnett 
+| rowspan=2 | Tim Brewer
+|-
+|Davey Allison
+|-
+| Mach 1 Racing
+| 33
+| Harry Gant
+| Travis Carter
+|-
+| Marcis Auto Racing
+| 71
+| Dave Marcis
+| 
+|-
+| Richard Childress Racing
+| 3
+| Dale Earnhardt
+| Kirk Shelmerdine
+|-
+! rowspan=8|Ford
+| Bill Terry AK Racing 
+| 35
+| Alan Kulwicki (R) 
+| Mike Beat
+|-
+| Arrington Racing
+| 67
+| Buddy Arrington
+| Joey Arrington
+|-
+| Bud Moore Engineering
+| 15
+| Ricky Rudd
+| Bud Moore
+|-
+| Circle Bar Racing 
+| 81
+| Chet Fillip (R)
+| 
+|-
+| Donlavey Racing
+| 90
+| Ken Schrader
+| Junie Donlavey
+|-
+|Melling Racing
+| 9
+| Bill Elliott
+| Ernie Elliott
+|-
+| Ranier-Lundy Racing
+| 28
+| Cale Yarborough
+| Joey Knuckles
+|-
+|Wood Brothers Racing
+| 7
+| Kyle Petty
+| Eddie Wood
+|-
+! rowspan=5|Oldsmobile
+| rowspan=2| Baker-Schiff Racing
+| rowspan=2|88
+| Buddy Baker
+| rowspan=2 | Doug Richert
+|-
+|Al Unser
+|-
+| Hagan Racing
+| 44
+| Terry Labonte
+| Steve Hmiel
+|-
+| Hamby Motorsports
+| 17
+| Eddie Bierschwale
+|
+|-
+| Morgan-McClure Motorsports
+| 4
+| Rick Wilson
+| Tony Glover
+|-
+! rowspan=11|Pontiac
+| Bahari Racing
+| 23
+| Michael Waltrip (R)
+|
+|-
+| Blue Max Racing
+| 27
+| Rusty Wallace
+| Barry Dodson
+|-
+| Curb Racing
+| 98
+| Ron Bouchard
+| Mike Beam
+|-
+| McDuffie Racing
+| 70
+| J. D. McDuffie
+| Jeff McDuffie
+|-
+| Means Racing
+| 52
+| Jimmy Means
+| 
+|- 
+| Petty Enterprises
+| 43
+| Richard Petty
+| Dale Inman
+|-
+| rowspan=4| RahMoc Enterprises
+| rowspan=4 | 75
+| Morgan Shepherd 
+| rowspan=4 | Robin Pemberton
+|-
+| Lake Speed 
+|-
+| Jody Ridley 
+|-
+| Jim Sauter 
+|}
+
+==Schedule==
+{| class="wikitable" style="font-size:85%;"
+|-
+! No.
+! Race Title
+! Track
+! Date
+|-
+! 
+|Busch Clash
+|rowspan=3 |Daytona International Speedway, Daytona Beach
+|February 9
+|-
+!
+|7-Eleven Twin 125's
+|February 13
+|-
+!1
+|Daytona 500
+|February 16
+|-
+!2
+|Miller High Life 400
+|Richmond Fairgrounds Raceway, Richmond
+|February 23
+|-
+!3
+|Goodwrench 500
+|North Carolina Motor Speedway, Rockingham
+|March 2
+|-
+!4
+|Motorcraft 500
+|Atlanta International Raceway, Hampton
+|March 16
+|-
+!5
+|Valleydale 500
+|Bristol International Raceway, Bristol
+|April 6
+|-
+!6
+|TranSouth 500
+|Darlington Raceway, Darlington
+|April 13
+|-
+!7
+|First Union 400
+|North Wilkesboro Speedway, North Wilkesboro
+|April 20
+|-
+!8
+|Sovran Bank 500
+|Martinsville Speedway, Ridgeway
+|April 27
+|-
+!9
+|Winston 500
+|Alabama International Motor Speedway, Talladega
+|May 4
+|-
+!
+|Atlanta Invitational
+|rowspan=2 |Atlanta International Raceway, Hampton
+|rowspan=2 |May 11
+|-
+!
+|The Winston
+|-
+!10
+|Budweiser 500
+|Dover Downs International Speedway, Dover
+|May 18
+|-
+!11
+|Coca-Cola 600
+|Charlotte Motor Speedway, Concord
+|May 25
+|-
+!12
+|Budweiser 400
+|Riverside International Raceway, Riverside
+|June 1
+|-
+!13
+|Miller High Life 500
+|Pocono International Raceway, Long Pond
+|June 8
+|-
+!14
+|Miller American 400
+|Michigan International Speedway, Brooklyn
+|June 15
+|-
+!15
+|Firecracker 400
+|Daytona International Speedway, Daytona Beach
+|July 4
+|-
+!16
+|Summer 500
+|Pocono International Raceway, Long Pond
+|July 20
+|-
+!17
+|Talladega 500
+|Alabama International Motor Speedway, Talladega
+|July 27
+|-
+!18
+|Budweiser at The Glen
+|Watkins Glen International, Watkins Glen
+|August 10
+|-
+!19
+|Champion Spark Plug 400
+|Michigan International Speedway, Brooklyn
+|August 17
+|-
+!20
+|Busch 500
+|Bristol International Raceway, Bristol
+|August 23
+|-
+!21
+|Southern 500
+|Darlington Raceway, Darlington
+|August 31
+|-
+!22
+|Wrangler Jeans Indigo 400
+|Richmond Fairgrounds Raceway, Richmond
+|September 7
+|-
+!23
+|Delaware 500
+|Dover Downs International Speedway, Dover
+|September 14
+|-
+!24
+|Goody's 500
+|Martinsville Speedway, Ridgeway
+|September 21
+|-
+!25
+|Holly Farms 400
+|North Wilkesboro Speedway, North Wilkesboro
+|September 28
+|-
+!26
+|Oakwood Homes 500
+|Charlotte Motor Speedway, Concord
+|October 5
+|-
+!27
+|Nationwise 500
+|North Carolina Motor Speedway, Rockingham
+|October 19
+|-
+!28
+|Atlanta Journal 500
+|Atlanta International Raceway, Hampton
+|November 2
+|-
+!29
+|Winston Western 500
+|Riverside International Raceway, Riverside
+|November 16
+|}
+
+== Races ==
+{| class="wikitable"
+!No.
+!Race
+!Pole position
+!Most laps led
+!Winning driver
+!
+|-
+!
+|Busch Clash
+|Harry Gant
+|Dale Earnhardt
+|Dale Earnhardt
+|Chevrolet
+|-
+!
+|7-Eleven 125 #1
+|Bill Elliott
+|Unknown
+|Bill Elliott
+|Ford
+|-
+!
+|7-Eleven 125 #2
+|Geoff Bodine
+|Dale Earnhardt
+|Dale Earnhardt
+|Chevrolet
+|-
+!1
+|Daytona 500
+|Bill Elliott
+|Geoff Bodine
+|Geoff Bodine
+|Chevrolet
+|-
+!2
+|Miller High Life 400
+|Geoff Bodine
+|Dale Earnhardt
+|Kyle Petty
+|Ford
+|-
+!3
+|Goodwrench 500
+|Terry Labonte
+|Terry Labonte
+|Terry Labonte
+|Oldsmobile
+|-
+!4
+|Motorcraft 500
+|Dale Earnhardt
+|Dale Earnhardt
+|Morgan Shepherd
+|Buick
+|-
+!5
+|Valleydale 500
+|Geoff Bodine
+|Rusty Wallace
+|Rusty Wallace
+|Pontiac
+|-
+!6
+|TranSouth 500
+|Geoff Bodine
+|Dale Earnhardt
+|Dale Earnhardt
+|Chevrolet
+|-
+!7
+|First Union 400
+|Geoff Bodine
+|Dale Earnhardt
+|Dale Earnhardt
+|Chevrolet
+|-
+!8
+|Sovran Bank 500
+|Tim Richmond
+|Ricky Rudd
+|Ricky Rudd
+|Ford
+|-
+!9
+|Winston 500
+|Bill Elliott
+|Bill Elliott
+|Bobby Allison
+|Buick
+|-
+!
+|Atlanta Invitational
+|Kyle Petty
+|Tim Richmond
+|Benny Parsons
+|Oldsmobile
+|-
+!
+|The Winston
+|Darrell Waltrip
+|Bill Elliott
+|Bill Elliott
+|Ford
+|-
+!10
+|Budweiser 500
+|Ricky Rudd
+|Harry Gant
+|Geoff Bodine
+|Chevrolet
+|-
+!11
+|Coca-Cola 600
+|Geoff Bodine
+|Cale Yarborough  Bill Elliott
+|Dale Earnhardt
+|Chevrolet
+|-
+!12
+|Budweiser 400
+|Darrell Waltrip
+|Tim Richmond
+|Darrell Waltrip
+|Chevrolet
+|-
+!13
+|Miller High Life 500
+|Geoff Bodine
+|Tim Richmond
+|Tim Richmond
+|Chevrolet
+|-
+!14
+|Miller American 400
+|Tim Richmond
+|Harry Gant
+|Bill Elliott
+|Ford
+|-
+!15
+|Firecracker 400
+|Cale Yarborough
+|Dale Earnhardt
+|Tim Richmond
+|Chevrolet
+|-
+!16
+|Summer 500
+|Harry Gant
+|Geoff Bodine
+|Tim Richmond
+|Chevrolet
+|-
+!17
+|Talladega 500
+|Bill Elliott
+|Dale Earnhardt
+|Bobby Hillin Jr.
+|Buick
+|-
+!18
+|Budweiser at The Glen
+|Tim Richmond
+|Geoff Bodine
+|Tim RIchmond
+|Chevrolet
+|-
+!19
+|Champion Spark Plug 400
+|Benny Parsons
+|Bill Elliott
+|Bill Elliott
+|Ford
+|-
+!20
+|Busch 500
+|Geoff Bodine
+|Darrell Waltrip
+|Darrell Waltrip
+|Chevrolet
+|-
+!21
+|Southern 500
+|Tim Richmond
+|Tim Richmond
+|Tim Richmond
+|Chevrolet
+|-
+!22
+|Wrangler Jeans Indigo 400
+|Harry Gant
+|Ricky Rudd
+|Tim Richmond
+|Chevrolet
+|-
+!23
+|Delaware 500
+|Geoff Bodine
+|Ricky Rudd
+|Ricky Rudd
+|Ford
+|-
+!24
+|Goody's 500
+|Geoff Bodine
+|Geoff Bodine
+|Rusty Wallace
+|Pontiac
+|-
+!25
+|Holly Farms 400
+|Tim Richmond
+|Geoff Bodine
+|Darrell Waltrip
+|Chevrolet
+|-
+!26
+|Oakwood Homes 500
+|Tim Richmond
+|Tim Richmond
+|Dale Earnhardt
+|Chevrolet
+|-
+!27
+|Nationwise 500
+|Tim Richmond
+|Morgan Shepherd
+|Neil Bonnett
+|Chevrolet
+|-
+!28
+|Atlanta Journal 500
+|Bill Elliott
+|Dale Earnhardt
+|Dale Earnhardt
+|Chevrolet
+|-
+!29
+|Winston Western 500
+|Tim Richmond
+|Geoff Bodine
+|Tim Richmond
+|Chevrolet
+|}
+
+=== Busch Clash ===
+
+The 8th annual Busch Clash was held on February 9 at Daytona International Speedway. Harry Gant drew for the pole. Only eight drivers ran.
+
+Full Results
+{| class="wikitable" style="font-size: 85%;"
+!Finish
+!Grid
+!Carno.
+!Driver
+!Car Make
+!Laps
+!Status
+!LapsLed
+|-
+| 1 || 4 || 3 || Dale Earnhardt || Chevrolet Monte Carlo || 20 || 0:15:19 || 15
+|-
+| 2 || 6 || 9 || Bill Elliott || Ford Thunderbird || 20 || -2 car lengths || 
+|-
+| 3 || 2 || 12 || Neil Bonnett || Chevrolet Monte Carlo || 20 || Flagged || 5
+|-
+| 4 || 7 || 5 || Geoff Bodine || Chevrolet Monte Carlo || 20 || Flagged || 
+|-
+| 5 || 8 || 44 || Terry Labonte || Oldsmobile Delta 88 || 20 || Flagged || 
+|-
+| 6 || 3 || 27 || Rusty Wallace || Pontiac Grand Prix 2+2 || 20 || Flagged || 
+|-
+| 7 || 1 || 33 || Harry Gant || Chevrolet Monte Carlo || 20 || Flagged || 
+|-
+| 8 || 5 || 11 || Darrell Waltrip || Chevrolet Monte Carlo || 20 || Flagged || 
+|}
+
+Average speed: 195.865 mph
+
+{| class="wikitable" style="font-size: 85%;"
+!colspan="3"|Caution flags(caution flag laps do not count in this race)
+|-
+!FromLap
+!ToLap
+!Reason
+|-
+| 6 || 6 || #5 Bodine spin, turn 4
+|}
+
+{| class="wikitable" style="font-size: 85%;"
+!colspan="4"|Lap Leader Breakdown
+|-
+!FromLap
+!ToLap
+!TotalLaps
+!Driver
+|-
+| 1 || 5 || 5 || Neil Bonnett
+|-
+| 6 || 20 || 15 || Dale Earnhardt
+|}
+
+=== 7-Eleven Twin 125's ===
+
+The 7-Eleven Twin 125's, a pair of qualifying races for the Daytona 500, were held February 13 at Daytona International Speedway. Bill Elliott and Geoff Bodine won the poles for both races, respectively.
+
+Race One Top Ten Results
+
+# 9-Bill Elliott
+# 22-Bobby Allison
+# 44-Terry Labonte
+# 7-Kyle Petty
+# 1-Sterling Marlin
+# 43-Richard Petty
+# 12-Neil Bonnett
+# 98-Ron Bouchard
+# 4-Rick Wilson
+# 66-Phil Parsons
+
+Race Two Top Ten Results
+
+# 3-Dale Earnhardt
+# 5-Geoff Bodine
+# 11-Darrell Waltrip
+# 47-Morgan Shepherd
+# 27-Rusty Wallace
+# 71-Dave Marcis
+# 28-Cale Yarborough
+# 33-Harry Gant
+# 88-Buddy Baker
+# 6-Trevor Boys
+
+=== Daytona 500 ===
+
+
+Top Ten Results
+#5-Geoff Bodine
+#44-Terry Labonte
+#11-Darrell Waltrip
+#8-Bobby Hillin Jr.
+#55-Benny Parsons -1 lap
+#98-Ron Bouchard -1 lap
+#4-Rick Wilson -1 lap
+#27-Rusty Wallace -1 lap
+#1-Sterling Marlin -2 laps
+#75-Lake Speed -2 laps
+
+*In what would be the first of a string of Daytona 500 heartbreakers for Dale Earnhardt; Earnhardt ran out of fuel with three laps to go and coasted into pit road for gas, only to blow his engine when restarting it; resulting in a 14th place finish.
+
+=== Miller High Life 400 ===
+
+
+The Miller High Life 400 was held February 23 at Richmond Fairgrounds Raceway. Geoff Bodine won the pole.
+
+Top Ten Results
+
+# 7-Kyle Petty*
+# 26-Joe Ruttman
+# 3-Dale Earnhardt
+# 22-Bobby Allison -1 lap
+# 11-Darrell Waltrip -2 laps
+# 8-Bobby Hillin Jr. -2 laps
+# 12-Neil Bonnett -2 laps
+# 5-Geoff Bodine -3 laps
+# 71-Dave Marcis -3 laps
+# 27-Rusty Wallace -5 laps
+
+*This was Petty's first career Winston Cup win.
+*Petty won this race as the direct result of Dale Earnhardt and Darrell Waltrip wrecking while racing for the lead with 2 laps to go.  Going into Turn 3, Earnhardt hooked the right rear corner of Waltrip's car and turned him head on into the wall.  Geoff Bodine and Joe Ruttman, running 3rd and 4th at the time then proceeded to pile in behind Earnhardt and Waltrip.  Petty, who was running 5th at the time of the caution, was the first lead lap car through the mess, and thus was gifted his first career victory.
+*With his victory, Petty became NASCAR's first third generation winner.
+*In the 1990 film Days of Thunder, a clip of the incident between Earnhardt and Waltrip appears on the TV set that Cole Trickle and Harry Hogge are watching in the scene where they are riding in a transporter.
+*Terry Labonte, thinking his engine had failed, pulled his #44 Piedmont Airlines Oldsmobile behind the wall. However, a crew member noticed some metal interfering with the ignition, and once the obstruction was cleared, the engine refired, allowing Labonte to return to the race and finish in 15th place.
+*Early in the race, Earnhardt could be seen steering his car while simultaneously wiping dirt off his windshield.
+
+=== Goodwrench 500 ===
+
+
+The Goodwrench 500 was held March 2 at North Carolina Motor Speedway.  Terry Labonte won the pole.
+
+Top Ten Results
+
+#44-Terry Labonte
+#33-Harry Gant
+#43-Richard Petty
+#47-Morgan Shepherd -1 lap
+#11-Darrell Waltrip -1 lap
+#28-Cale Yarborough -2 laps
+#9-Bill Elliott -2 laps
+#3-Dale Earnhardt -2 laps
+#12-Neil Bonnett -2 laps
+#75-Lake Speed -3 laps
+
+*The win proved to be Labonte's last with Billy Hagan.
+*This was the only points paying win for the Oldsmobile Delta 88 in the Winston Cup Series.
+
+=== Motorcraft 500 ===
+
+The Motorcraft 500 was held March 16 at Atlanta International Raceway.  Dale Earnhardt won the pole.
+
+Top Ten Results
+
+# 47-Morgan Shepherd
+# 3-Dale Earnhardt
+# 44-Terry Labonte
+# 11-Darrell Waltrip
+# 9-Bill Elliott
+# 55-Benny Parsons
+# 25-Tim Richmond
+# 27-Rusty Wallace -1 lap
+# 22-Bobby Allison -1 lap
+# 5-Geoff Bodine -1 lap
+
+* This was Morgan Shepherd's 1st victory since 1981.
+
+=== Valleydale 500 ===
+
+The Valleydale 500 was held April 6 at Bristol International Raceway.  The No. 5 of Geoff Bodine won the pole.
+
+Top Ten Results
+
+# 27-Rusty Wallace*
+# 15-Ricky Rudd
+# 11-Darrell Waltrip
+# 33-Harry Gant -1 lap
+# 9-Bill Elliott -1 lap
+# 22-Bobby Allison -1 lap
+# 44-Terry Labonte -2 laps
+# 25-Tim Richmond -2 laps
+# 7-Kyle Petty -3 laps
+# 3-Dale Earnhardt -3 laps
+
+* This was Rusty Wallace's 1st career Winston Cup victory.
+* This was also the 1st victory for the Pontiac Grand Prix 2+2.
+
+=== TranSouth 500 ===
+
+The TranSouth 500 was held April 13 at Darlington Raceway.  The No. 5 of Geoff Bodine won the pole.
+
+Top Ten Results
+
+# 3-Dale Earnhardt
+# 11-Darrell Waltrip
+# 22-Bobby Allison -1 lap
+# 12-Neil Bonnett -1 lap
+# 25-Tim Richmond -3 laps
+# 27-Rusty Wallace -3 laps
+# 43-Richard Petty -3 laps
+# 9-Bill Elliott -5 laps
+# 7-Kyle Petty -6 laps
+# 90-Ken Schrader -11 laps
+
+=== First Union 400 ===
+
+The First Union 400 was held April 20 at North Wilkesboro Speedway.  Geoff Bodine won the pole.
+
+Top Ten Results
+
+# 3-Dale Earnhardt
+# 15-Ricky Rudd
+# 5-Geoff Bodine
+# 11-Darrell Waltrip
+# 26-Joe Ruttman
+# 22-Bobby Allison
+# 33-Harry Gant
+# 7-Kyle Petty
+# 9-Bill Elliott
+# 27-Rusty Wallace -1 lap
+
+*This race marked the 1st career Winston Cup start for Willy T. Ribbs, best known for being the 1st African-American to start the Indianapolis 500 in 1991. Ribbs struggled during the race, spinning out twice on his way to a 22nd-place finish, 13 laps down.
+*The No. 6 of Trevor Boys smacked the wall in Turn 3 on lap 89 and came to a stop at the entrance of pit road, blocking it. Instead of throwing a caution, the tow truck was sent out to tow the D. K. Ulrich-owned car to his pit stall/hauler (until the September 1988 event at the track, race team haulers were literally parked right behind their chosen pit stall) while the rest of the cars continued around the track at full speed.
+*This race included two caution periods around halfway due to rain. However, the race was not red-flagged either time the caution was thrown for the rain showers.
+
+=== Sovran Bank 500 ===
+
+The Sovran Bank 500 was held April 27 at Martinsville Speedway.  No. 25 of Tim Richmond won the pole.
+
+Top Ten Results
+
+# 15-Ricky Rudd*
+# 26-Joe Ruttman -1 lap
+# 44-Terry Labonte -4 laps
+# 35-Alan Kulwicki (R) -4 laps
+# 7-Kyle Petty -4 laps
+# 8-Bobby Hillin Jr. -5 laps
+# 90-Ken Schrader -7 laps
+# 22-Bobby Allison -8 laps
+# 79-Derrike Cope (R) -11 laps
+# 75-Jody Ridley -13 laps
+
+* Ricky Rudd's official margin of victory in the race was 1 lap, and an additional 6 seconds.
+* According to Bill Elliott's book, Awesome Bill From Dawsonville, Elliott suffered his first engine failure in 3 years in this race.
+* This race marked the first career Winston Cup start for Mike Skinner.  Skinner finished 22nd, 156 laps behind.
+* First career top 5 for Alan Kulwicki.
+
+=== Winston 500 ===
+
+
+The Winston 500 was held May 4 at Alabama International Motor Speedway.  The No. 9 of Bill Elliott won the pole.
+
+Top Ten Results
+
+# 22-Bobby Allison
+# 3-Dale Earnhardt
+# 88-Buddy Baker
+# 8-Bobby Hillin Jr.
+# 55-Phil Parsons
+# 47-Morgan Shepherd
+# 43-Richard Petty
+# 4-Rick Wilson
+# 98-Ron Bouchard
+# 10-Greg Sacks
+
+Failed to qualify: 35-Alan Kulwicki (R), 60-Dick Skillen, 70-J. D. McDuffie, 77-Ken Ragan, 95-Davey Allison, 02-Mark Martin, Steve Moore
+
+*This race is most notable for the fact that a drunken fan stole the pace car before the race started and drove a lap around the track.  Local Sheriff's Deputies and track workers quickly set up a road block at the exit of Turn 4.  When the fan stopped the Pontiac Firebird, the sheriffs opened the door, pulled the driver out and detained him.
+*The whole field qualified over 200 miles per hour with several upcoming stars failing to qualify.
+
+=== The Winston ===
+
+The second edition of The Winston, an all-star event for the previous season's race winners, was held at Atlanta International Raceway on Sunday May 11 (Mother's Day). The pole position was awarded to Darrell Waltrip as the defending Winston Cup champion. 
+
+This was the only time the all-star race was held at Atlanta, and featured a 200-kilometer (83 lap) format, with a mandatory green flag pit stop. Because there were only nine race winners in 1985, the highest placed non-winner from the 1985 point standings (Geoff Bodine) was added to the field to make it an even ten cars. Bill Elliott led 82 of the 83 en route to a dominating victory. Elliott collected the $200,000 first place prize, plus $40,000 in additional cash bonuses for leading laps 20, 30, 50, and 60.
+
+Top Ten Results
+#9-Bill Elliott
+#3-Dale Earnhardt
+#33-Harry Gant
+#11-Darrell Waltrip
+#28-Cale Yarborough
+#12-Neil Bonnett
+#5-Geoff Bodine
+#15-Ricky Rudd
+#44-Terry Labonte
+#10-Greg Sacks
+
+*A consolation race for non-winners from 1985, the Atlanta Invitational, was added to the weekend's events. Benny Parsons won the 100-lap/152.2 mile race, his last NASCAR-sanctioned victory. The win gave Parsons a free spot in the 1987 The Winston (in later years the Winston Open winner would advance to The Winston the same day).
+*A lackluster crowd of only 18,500 attended the event, and only 23 cars entered (10 in The Winston, 13 in the Atlanta Invitational). However, the all-star format of having a non-winners' "last chance" race followed by a main event would become a permanent fixture of all-star weekend.
+*Originally The Winston was planned to rotate to different tracks each year. This was the second and last year of that format. Rather that rotate each year, for 1987 it was moved back to Charlotte where it remained through 2019.
+
+=== Budweiser 500 ===
+
+The Budweiser 500 was held May 18 at Dover International Speedway. Ricky Rudd won the pole.
+
+Top Ten Results
+
+# 5-Geoff Bodine
+# 22-Bobby Allison
+# 3-Dale Earnhardt -1 lap
+# 15-Ricky Rudd -2 laps
+# 11-Darrell Waltrip -2 laps
+# 43-Richard Petty -6 laps
+# 9-Bill Elliott -7 laps
+# 8-Bobby Hillin Jr. -7 laps
+# 18-Tommy Ellis -7 laps
+# 90-Ken Schrader -7 laps
+
+=== Coca-Cola 600 ===
+
+The Coca-Cola 600 was held May 25 at Charlotte Motor Speedway.  The No. 5 of Geoff Bodine won the pole.
+
+Top Ten Results
+
+# 3-Dale Earnhardt
+# 25-Tim Richmond
+# 28-Cale Yarborough
+# 33-Harry Gant
+# 11-Darrell Waltrip
+# 9-Bill Elliott
+# 1-Sterling Marlin -1 lap
+# 15-Ricky Rudd -1 lap
+# 47-Morgan Shepherd -1 lap
+# 27-Rusty Wallace -2 laps
+
+* Richard Petty was not allowed to bring out a backup car after crashing his #43 Pontiac in practice. As a result, Petty Enterprises bought the lime green-and-white #6 Chevrolet, and raced that car. Petty finished 38th as a result of a blown engine after completing 123 laps.
+* This was the 1st career Winston Cup start for Brett Bodine, who drove a Hendrick Motorsports #2 Chevrolet to an 18th-place finish, 6 laps down.
+* This race insured there would be no Winston Million winner in 1986. The bonus for winning 2 out of 4 races was still alive for the Southern 500 later in the season.
+* After this race, Dale Earnhardt would not take the checkered flag first again until returning to Charlotte Motor Speedway for the Oakwood Homes 500 on October 5.
+
+=== Budweiser 400 ===
+
+The Budweiser 400 was held on June 1 at Riverside International Raceway. Darrell Waltrip won the pole.
+
+Top Ten Results
+
+# 11-Darrell Waltrip
+# 25-Tim Richmond
+# 15-Ricky Rudd
+# 27-Rusty Wallace
+# 3-Dale Earnhardt
+# 43-Richard Petty
+# 22-Bobby Allison
+# 12-Neil Bonnett
+# 33-Harry Gant
+# 18-Glen Steurer -1 lap
+
+* This was the 1st career Winston Cup start for Chad Little, who was then a regular in the Winston West series. Little finished 13th, 3 laps down in the race after starting 25th.
+* This was the final time that Darrell Waltrip wins from the pole.
+
+=== Miller High Life 500 ===
+
+The Miller High Life 500 was held June 8 at Pocono International Raceway.  Geoff Bodine won the pole.
+
+Top Ten Results
+
+# 25-Tim Richmond
+# 3-Dale Earnhardt
+# 28-Cale Yarborough
+# 15-Ricky Rudd
+# 9-Bill Elliott
+# 27-Rusty Wallace
+# 26-Joe Ruttman
+# 7-Kyle Petty
+# 5-Geoff Bodine
+# 8-Bobby Hillin Jr. -1 lap
+
+* The race ended under caution when Morgan Shepherd, Harry Gant, and Buddy Arrington were involved in a violent crash with four laps to go in turn one.
+* The win was Richmond's first since April 1984, coming after two second-place finishes in the two preceding races, and the first for Harry Hyde since November 1984.
+
+=== Miller American 400 ===
+
+The Miller American 400 was held June 15 at Michigan International Speedway. Tim Richmond won the pole.
+
+Top Ten Results
+
+# 9-Bill Elliott
+# 33-Harry Gant
+# 5-Geoff Bodine
+# 88-Buddy Baker
+# 11-Darrell Waltrip
+# 3-Dale Earnhardt
+# 8-Bobby Hillin Jr.
+# 4-Rick Wilson
+# 26-Joe Ruttman
+# 15-Ricky Rudd
+
+*During qualifying, 31-year-old ARCA driver Rick Baldwin, in the Buddy Arrington No. 67 Ford Thunderbird, suffered a severe crash in qualifying that resulted in the car hitting the wall flush with the driver's side, knocking him unconscious into a coma from the massive head injuries, from which he would succumb eleven years later.
+
+=== Firecracker 400 ===
+
+
+The Firecracker 400 was held on July 4 at Daytona International Speedway. Cale Yarborough won the pole.
+
+Top Ten Results
+
+# 25-Tim Richmond
+# 1-Sterling Marlin
+# 8-Bobby Hillin Jr.
+# 11-Darrell Waltrip
+# 7-Kyle Petty
+# 15-Ricky Rudd
+# 26-Joe Ruttman
+# 27-Rusty Wallace
+# 66-Phil Parsons
+# 35-Alan Kulwicki (R)
+
+*This race marked Richard Petty's 1000th career start in the Winston Cup Series, dating all the way back to 1958. As of 2022, he is the only driver to compete in 1,000+ races.
+*Dale Earnhardt blew his engine with 7 laps remaining and spun head-on into the wall after the blown engine dumped oil on his back tires. Attempting to avoid the crash, leader Buddy Baker clipped Connie Saylor's car; damaging Baker's car and providing an opening for Richmond.
+
+=== Summer 500 ===
+
+The Summer 500 was held July 20 at Pocono International Raceway. Harry Gant won the pole.
+
+Top Ten Results
+
+# 25-Tim Richmond
+# 15-Ricky Rudd
+# 5-Geoff Bodine
+# 11-Darrell Waltrip
+# 22-Bobby Allison
+# 44-Terry Labonte
+# 3-Dale Earnhardt
+# 7-Kyle Petty -1 lap
+# 18-Tommy Ellis -2 laps
+# 4-Rick Wilson -2 laps
+
+* This race was shortened to 150 laps (375 miles) due to a combination of rain, fog and darkness.
+* On lap 121, Tim Richmond, racing with Geoff Bodine and Neil Bonnett, spun out and was hit by Richard Petty coming out of the Tunnel Turn (Turn 2). His car had both front tires flattened and was in a position so that he could not drive it forwards. Richmond backed the car out, then drove it in reverse nearly 1 mile to his pit. At that point, his crew fixed the car so that he could go forward, but only in high gear (4th). He lost a lap but raced with the leaders until Dale Earnhardt crashed around Lap 140; he beat the leaders to the flag and thus got his lap back. It was at this point that NASCAR announced the impending end of the race due to darkness. Richmond got tires and then charged through the field after the restart; he passed Bodine on the final lap, but Bodine dove back alongside and the two raced through Turn Three; Bodine got loose and Ricky Rudd stormed three abreast; Richmond won in a photo finish. A modified version of this incident was featured in the 1990 movie Days of Thunder.
+
+=== Talladega 500 ===
+
+The Talladega 500 was held July 27 at Alabama International Motor Speedway.  The No. 9 of Bill Elliott won the pole.
+
+Top Ten Results
+
+# 8-Bobby Hillin Jr.*
+# 25-Tim Richmond
+# 15-Ricky Rudd*
+# 1-Sterling Marlin
+# 55-Benny Parsons
+# 47-Morgan Shepherd
+# 12-Davey Allison*
+# 26-Joe Ruttman
+# 7-Kyle Petty
+# 22-Bobby Allison -1 lap
+
+* This was Bobby Hillin Jr.'s only career Winston Cup victory.
+* The lead changed a season-high 49 times. The race set a motorsports record with 26 leaders, a record broken in 2008.
+* Among the race's 26 leaders were Richard Petty, Bill Elliott, Darrell Waltrip, Rodney Combs, Buddy Baker, and Rick Wilson. Cale Yarborough took the lead on the backstretch on lap 107 but Dale Earnhardt beat him to the stripe.
+* Ricky Rudd was relieved during the race by Rusty Wallace, who had blown an engine earlier.
+* Davey Allison drove the race in place of Neil Bonnett, who was injured in a multi-car wreck at Pocono the previous week; Bonnett worked with CBS Sports as a second color analyst on the telecast of the race.
+* Hillin was involved in a five car crash down the backstretch with 25 laps to go when he was drafting race leader Harry Gant; Gant was spun into Phil Parsons and the wreck swept up Darrell Waltrip, Geoff Bodine, and Cale Yarborough.
+* Bobby Allison was eliminated while racing Richmond for third; he was hooked by Sterling Marlin and spun into traffic in Turn One; Richmond passed Wallace subbing for Rudd for second while Marlin finished fourth.
+
+=== Budweiser at The Glen ===
+
+The Budweiser at The Glen was held August 10 at Watkins Glen International. Tim Richmond won the pole. It was the first time a NASCAR race had been run at the track since 1965 but this was an entirely new configuration.
+
+Top Ten Results
+
+# 25-Tim Richmond
+# 11-Darrell Waltrip
+# 3-Dale Earnhardt
+# 9-Bill Elliott
+# 12-Neil Bonnett
+# 27-Rusty Wallace
+# 15-Ricky Rudd
+# 55-Benny Parsons
+# 7-Kyle Petty
+# 43-Richard Petty
+
+Withdrew: 30-Willy T. Ribbs
+
+* Ribbs withdrew as he blew up 4 engines during practice and qualifying and the team did not have any spares.
+* This was Richmond's 4th victory of the season.
+* Neil Bonnett returns after sitting out the previous race due to broken ribs. Junior Johnson had Doug Heveron on standby to take over if Bonnett could not run the full race. He would run the full race, running as high as 2nd but eventually settling for 5th.
+* Rusty Wallace had to earn his finishing spot the hard way. After taking the lead for 3 laps  from laps 17 to 19, Wallace was black-flagged by NASCAR for leaking oil onto the track. Rejoining the field at the tail-end, Wallace would cut a tire after making contact with the wall, then spun out in turn 5 to bring out a full course caution flag. Despite the setbacks, Wallace would rally to finish 6th.
+
+=== Champion Spark Plug 400 ===
+
+
+The Champion Spark Plug 400 was held August 17 at Michigan International Speedway. The No. 55 of Benny Parsons won the final pole of his hall of fame career.
+
+Top Ten Results
+
+# 9-Bill Elliott 	
+# 25-Tim Richmond 	
+# 11-Darrell Waltrip
+# 5-Geoff Bodine 	
+# 3-Dale Earnhardt -1 lap
+# 27-Rusty Wallace -1 lap
+# 28-Cale Yarborough -1 lap
+# 33-Harry Gant -1 lap
+# 66-Phil Parsons -1 lap
+# 21-David Pearson* -1 lap
+
+* With this win, Bill Elliott became the 1st driver in NASCAR history to win 4 straight races at one Superspeedway.
+* This was David Pearson's last Winston Cup start. He ran as high as 3rd place at one point in the race.
+* Buddy Arrington returned to the track where rookie Rick Baldwin, driving Arrington's #67, had suffered injuries that would eventually prove to be fatal in a crash during qualifying for the June event. Arrington would finish 6 laps down in 19th.
+
+=== Busch 500 ===
+
+The Busch 500 was held August 23 at Bristol International Raceway.  Geoff Bodine won the pole.
+
+Top Ten Results
+
+# 11-Darrell Waltrip
+# 44-Terry Labonte
+# 5-Geoff Bodine -1 lap
+# 3-Dale Earnhardt -1 lap
+# 33-Harry Gant -1 lap
+# 25-Tim Richmond -2 laps
+# 43-Richard Petty -3 laps
+# 22-Bobby Allison -4 laps
+# 8-Bobby Hillin Jr. -5 laps
+# 35-Alan Kulwicki (R) -6 laps
+
+* This was the final race for owner of the #35 car Bill Terry. His driver Alan Kulwicki would buy out the team before the next race and be the sports newest owner/driver
+* Darrell Waltrip scores his record 10th victory at Bristol.
+
+=== Southern 500 ===
+
+The Southern 500 was held August 31 at Darlington Raceway.  Tim Richmond won the pole.
+
+Top Ten Results
+
+# 25-Tim Richmond 	
+# 22-Bobby Allison 	
+# 9-Bill Elliott 	
+# 47-Morgan Shepherd 	
+# 11-Darrell Waltrip 	
+# 15-Ricky Rudd 	
+# 8-Bobby Hillin Jr. 	
+# 5-Geoff Bodine 	
+# 3-Dale Earnhardt -1 lap
+# 28-Cale Yarborough -1 lap
+
+* This race was plagued by rain, to the point of the race running on a damp surface and the drivers having to race as if Darlington Raceway was a dirt track.
+* Before this race, rookie Alan Kulwicki bought out his owner Bill Terry and became the owner/driver of the #35 car. He would finish in 12th place, 7 laps down in his first owner/driver outing.
+* This race insured no one would win the Winston bonus for winning 2 out of 4 crown jewel races.
+
+=== Wrangler Jeans Indigo 400 ===
+
+The Wrangler Jeans Indigo 400 was held September 7 at Richmond Fairgrounds Raceway.  Harry Gant won the pole.
+
+Top Ten Results
+
+# 25-Tim Richmond
+# 3-Dale Earnhardt
+# 75-Morgan Shepherd*
+# 43-Richard Petty
+# 12-Neil Bonnett
+# 26-Joe Ruttman
+# 33-Harry Gant
+# 22-Bobby Allison
+# 9-Bill Elliott -1 lap
+# 8-Bobby Hillin Jr. -3 laps
+
+* Morgan Shepherd was hired by RahMoc Enterprises as the driver of the No. 75 Pontiac.
+* Tim Richmond had to survive a late race restart because on lap 395 the caution flag flew when Michael Waltrip's entire driveshaft fell out of the car. The race went back under the green flag with 2 laps remaining. Richmond held on by 3 car lengths.
+* This was the last Cup Series race to feature less than a 30 car field.
+
+=== Delaware 500 ===
+
+
+The Delaware 500 was held September 14 at Dover Downs International Speedway.  The No. 5 of Geoff Bodine won the pole.
+
+Top Ten Results
+
+# 15-Ricky Rudd
+# 12-Neil Bonnett
+# 7-Kyle Petty
+# 88-Buddy Baker -1 lap
+# 71-Dave Marcis -2 laps
+# 26-Joe Ruttman -2 laps
+# 35-Alan Kulwicki (R) -3 laps
+# 18-Tommy Ellis -4 laps
+# 8-Bobby Hillin Jr. -5 laps
+# 75-Morgan Shepherd -7 laps
+
+* This was Rudd's 1st win on an oval that was 1 mile in length or longer.
+
+=== Goody's 500 ===
+
+The Goody's 500 was held September 21 at Martinsville Speedway.  Geoff Bodine won the pole.
+
+Top Ten Results
+
+# 27-Rusty Wallace
+# 5-Geoff Bodine
+# 33-Harry Gant
+# 11-Darrell Waltrip -1 lap
+# 26-Joe Ruttman -1 lap
+# 7-Kyle Petty -1 lap
+# 90-Ken Schrader -2 laps
+# 12-Neil Bonnett -3 laps
+# 71-Dave Marcis -3 laps
+# 25-Tim Richmond -4 laps
+
+*This was Pontiac's 2nd & final victory for 1986.
+
+=== Holly Farms 400 ===
+
+The Holly Farms 400 was held September 28 at North Wilkesboro Speedway.  The No. 25 of Tim Richmond won the pole.
+
+Top Ten Results
+
+# 11-Darrell Waltrip
+# 5-Geoff Bodine
+# 43-Richard Petty
+# 27-Rusty Wallace
+# 33-Harry Gant
+# 26-Joe Ruttman -1 lap
+# 15-Ricky Rudd -1 lap
+# 71-Dave Marcis -1 lap
+# 3-Dale Earnhardt -2 laps
+# 44-Terry Labonte -2 laps
+
+* Geoff Bodine had the dominant car leading the most laps (218) but faded late, losing the lead at lap 390 to Darrell Waltrip, he would pull away to a 1.21 second lead for his final victory of 1986.
+* The win was also Waltrip's final race victory with Junior Johnson, Waltrip would be tabbed to drive for Rick Hendrick in 1987.
+
+=== Oakwood Homes 500 ===
+
+The Oakwood Homes 500 was held on October 5 at Charlotte Motor Speedway.  The No. 25 of Tim Richmond won the pole.
+
+Top Ten Results
+
+# 3-Dale Earnhardt
+# 33-Harry Gant
+# 12-Neil Bonnett -1 lap
+# 15-Ricky Rudd -1 lap
+# 88-Buddy Baker -1 lap
+# 5-Geoff Bodine -1 lap
+# 9-Bill Elliott -1 lap
+# 27-Rusty Wallace -2 laps
+# 11-Darrell Waltrip -2 laps
+# 66-Phil Parsons -3 laps
+
+*Earnhardt had to work hard for this victory as he at one point in the race lost 2 laps due to separate tire issues.
+*The pre-race ceremonies saw several members of marching bands pass out from heat exhaustion due to the warmer than normal for late October temperatures, which soared to around the upper 80s.
+
+=== Nationwise 500 ===
+
+The Nationwise 500 was held on October 19 at North Carolina Motor Speedway.  The No. 25 of Tim Richmond won the pole.
+
+Top Ten Results
+
+# 12-Neil Bonnett
+# 15-Ricky Rudd
+# 11-Darrell Waltrip
+# 33-Harry Gant
+# 88-Buddy Baker
+# 3-Dale Earnhardt -1 lap
+# 9-Bill Elliott -1 lap
+# 43-Richard Petty -1 lap
+# 26-Joe Ruttman -2 laps
+# 7-Kyle Petty -3 laps
+
+*The win was Bonnett's last with Junior Johnson, as he was tabbed to drive for RahMoc Enterprises in 1987.
+
+=== Atlanta Journal 500 ===
+
+The Atlanta Journal 500 was held November 2 at Atlanta International Raceway.  Bill Elliott won the pole.
+
+Top Ten Results
+
+# 3-Dale Earnhardt*
+# 43-Richard Petty -1 lap
+# 9-Bill Elliott -1 lap
+# 25-Tim Richmond -1 lap
+# 88-Buddy Baker -1 lap
+# 12-Neil Bonnett -1 lap
+# 7-Kyle Petty -2 laps
+# 44-Terry Labonte -2 laps
+# 26-Joe Ruttman -2 laps
+# 66-Phil Parsons -2 laps
+
+* Dale Earnhardt's official margin of victory was 1 lap and an additional 3 seconds.
+* By virtue of Darrell Waltrip blowing an engine to finish 39th and Dale Earnhardt winning the race while leading the most laps, Earnhardt clinched his 2nd Winston Cup Championship.
+
+=== Winston Western 500 ===
+
+The Winston Western 500 was held on November 16 at Riverside International Raceway. Tim Richmond won the pole.
+
+Top Ten Results
+
+# 25-Tim Richmond
+#  3-Dale Earnhardt
+#  5-Geoff Bodine
+# 11-Darrell Waltrip
+# 26-Joe Ruttman
+#  8-Bobby Hillin Jr.
+# 22-Bobby Allison
+# 27-Rusty Wallace
+# 12-Neil Bonnett -1 lap
+# 44-Terry Labonte -1 lap
+
+*Going into the race, Dale Earnhardt had already clinched the Winston Cup championship. The attention shifted to the battle for second in the championship. Polesitter Tim Richmond needed to finish five positions higher than Darrell Waltrip to move into second. Richmond went on to win the race. However, Waltrip managed 4th place, which secured himself second in the championship, by 6 points over Richmond.
+*This was the last race that both Darrell Waltrip and Neil Bonnett drove for Junior Johnson. Waltrip would drive the #17 Tide sponsored Chevrolet for Hendrick Motorsports in 1987, while Bonnett returned to RahMoc Enterprises to pilot the #75 Valvoline Pontiac after having previously driven for them during the 1983 season. Terry Labonte replaced Waltrip in the #11 car while the #12 team was dissolved and would reappear in 1991 as the #22 Maxwell House Ford Thunderbird with then journeyman driver Sterling Marlin behind the wheel.
+*This marked the final time where Riverside would close the Cup season. Beginning in 1987 and lasting until 2000, the season finale would be at Atlanta Motor Speedway.
+
+== Winston Cup Final Standings ==
+
+
+(key) Bold – Pole position awarded by time. Italics – Pole position set by final practice results or 1985 Owner's points. * – Most laps led.
+{| class="wikitable" style="font-size:77%; text-align:center"
+|-
+!valign="middle"| 
+!valign="middle"| Driver
+!DAY
+!RCH
+!CAR
+!ATL
+!BRI
+!DAR
+!NWS
+!MAR
+!TAL
+!DOV
+!CLT
+!RSD
+!POC
+!MCH
+!DAY
+!POC
+!TAL
+!GLN
+!MCH
+!BRI
+!DAR
+!RCH
+!DOV
+!MAR
+!NWS
+!CLT
+!CAR
+!ATL
+!RSD
+!valign="middle"| 
+|-
+! 1
+|align="left"| Dale Earnhardt
+|style="background:#EFCFFF;"| 14
+|style="background:#DFDFDF;"| 3*
+|style="background:#FFDF9F;"| 8
+|style="background:#DFDFDF;"| 2*
+|style="background:#FFDF9F;"| 10
+|style="background:#FFFFBF;"| 1*
+|style="background:#FFFFBF;"| 1*
+|style="background:#EFCFFF;"| 21
+|style="background:#DFDFDF;"| 2
+|style="background:#DFDFDF;"| 3
+|style="background:#FFFFBF;"| 1
+|style="background:#DFDFDF;"| 5
+|style="background:#DFDFDF;"| 2
+|style="background:#FFDF9F;"| 6
+|style="background:#EFCFFF;"| 27
+|style="background:#FFDF9F;"| 7
+|style="background:#EFCFFF;"| 26*
+|style="background:#DFDFDF;"| 3
+|style="background:#DFDFDF;"| 5
+|style="background:#DFDFDF;"| 4
+|style="background:#FFDF9F;"| 9
+|style="background:#DFDFDF;"| 2
+|style="background:#EFCFFF;"| 21
+|style="background:#DFFFDF;"| 12
+|style="background:#FFDF9F;"| 9
+|style="background:#FFFFBF;"| 1
+|style="background:#FFDF9F;"| 6
+|style="background:#FFFFBF;"| 1*
+|style="background:#DFDFDF;"| 2
+! 4468
+|-
+! 2
+|align="left"| Darrell Waltrip
+|style="background:#DFDFDF;"| 3
+|style="background:#EFCFFF;"| 5
+|style="background:#DFDFDF;"| 5
+|style="background:#DFDFDF;"| 4
+|style="background:#DFDFDF;"| 3
+|style="background:#DFDFDF;"| 2
+|style="background:#DFDFDF;"| 4
+|style="background:#EFCFFF;"| 27
+|style="background:#EFCFFF;"| 34
+|style="background:#DFDFDF;"| 5
+|style="background:#DFDFDF;"| 5
+|style="background:#FFFFBF;"| 1
+|style="background:#EFCFFF;"| 40
+|style="background:#DFDFDF;"| 5
+|style="background:#DFDFDF;"| 4
+|style="background:#DFDFDF;"| 4
+|style="background:#EFCFFF;"| 25
+|style="background:#DFDFDF;"| 2
+|style="background:#DFDFDF;"| 3
+|style="background:#FFFFBF;"| 1*
+|style="background:#DFDFDF;"| 5
+|style="background:#EFCFFF;"| 29
+|style="background:#DFFFDF;"| 14
+|style="background:#DFDFDF;"| 4
+|style="background:#FFFFBF;"| 1
+|style="background:#FFDF9F;"| 9
+|style="background:#DFDFDF;"| 3
+|style="background:#EFCFFF;"| 39
+|style="background:#DFDFDF;"| 4
+! 4180
+|-
+! 3
+|align="left"| Tim Richmond
+|style="background:#DFFFDF;"| 20
+|style="background:#CFCFFF;"| 22
+|style="background:#DFFFDF;"| 16
+|style="background:#FFDF9F;"| 7
+|style="background:#FFDF9F;"| 8
+|style="background:#DFDFDF;"| 5
+|style="background:#DFFFDF;"| 12
+|style="background:#DFFFDF;"| 20
+|style="background:#DFFFDF;"| 12
+|style="background:#EFCFFF;"| 32
+|style="background:#DFDFDF;"| 2
+|style="background:#DFDFDF;"| 2
+|style="background:#FFFFBF;"| 1*
+|style="background:#DFFFDF;"| 15
+|style="background:#FFFFBF;"| 1
+|style="background:#FFFFBF;"| 1
+|style="background:#DFDFDF;"| 2
+|style="background:#FFFFBF;"| 1
+|style="background:#DFDFDF;"| 2
+|style="background:#FFDF9F;"| 6
+|style="background:#FFFFBF;"| 1*
+|style="background:#FFFFBF;"| 1
+|style="background:#CFCFFF;"| 26
+|style="background:#FFDF9F;"| 10
+|style="background:#DFFFDF;"| 11
+|style="background:#EFCFFF;"| 27*
+|style="background:#DFFFDF;"| 20
+|style="background:#DFDFDF;"| 4
+|style="background:#FFFFBF;"| 1
+! 4174
+|-
+! 4
+|align="left"| Bill Elliott
+|style="background:#DFFFDF;"| 13
+|style="background:#CFCFFF;"| 21
+|style="background:#FFDF9F;"| 7
+|style="background:#DFDFDF;"| 5
+|style="background:#DFDFDF;"| 5
+|style="background:#FFDF9F;"| 8
+|style="background:#FFDF9F;"| 9
+|style="background:#EFCFFF;"| 31
+|style="background:#EFCFFF;"| 24
+|style="background:#FFDF9F;"| 7
+|style="background:#FFDF9F;"| 6
+|style="background:#DFFFDF;"| 11
+|style="background:#DFDFDF;"| 5
+|style="background:#FFFFBF;"| 1
+|style="background:#DFFFDF;"| 16
+|style="background:#EFCFFF;"| 35
+|style="background:#EFCFFF;"| 27
+|style="background:#DFDFDF;"| 4
+|style="background:#FFFFBF;"| 1
+|style="background:#DFFFDF;"| 19
+|style="background:#DFDFDF;"| 3
+|style="background:#FFDF9F;"| 9
+|style="background:#EFCFFF;"| 27
+|style="background:#DFFFDF;"| 11
+|style="background:#DFFFDF;"| 16
+|style="background:#FFDF9F;"| 7
+|style="background:#FFDF9F;"| 7
+|style="background:#DFDFDF;"| 3
+|style="background:#EFCFFF;"| 23
+! 3844
+|-
+! 5
+|align="left"| Ricky Rudd
+|style="background:#DFFFDF;"| 11
+|style="background:#EFCFFF;"| 30
+|style="background:#EFCFFF;"| 28
+|style="background:#CFCFFF;"| 26
+|style="background:#DFDFDF;"| 2
+|style="background:#EFCFFF;"| 26
+|style="background:#DFDFDF;"| 2
+|style="background:#FFFFBF;"| 1
+|style="background:#EFCFFF;"| 36
+|style="background:#DFDFDF;"| 4
+|style="background:#FFDF9F;"| 8
+|style="background:#DFDFDF;"| 3
+|style="background:#DFDFDF;"| 4
+|style="background:#FFDF9F;"| 10
+|style="background:#FFDF9F;"| 6
+|style="background:#DFDFDF;"| 2
+|style="background:#DFDFDF;"| 3
+|style="background:#FFDF9F;"| 7
+|style="background:#CFCFFF;"| 21
+|style="background:#EFCFFF;"| 23
+|style="background:#FFDF9F;"| 6
+|style="background:#EFCFFF;"| 24
+|style="background:#FFFFBF;"| 1
+|style="background:#EFCFFF;"| 28
+|style="background:#FFDF9F;"| 7
+|style="background:#DFDFDF;"| 4
+|style="background:#DFDFDF;"| 2
+|style="background:#CFCFFF;"| 25
+|style="background:#DFFFDF;"| 19
+! 3823
+|-
+! 6
+|align="left"| Rusty Wallace
+|style="background:#FFDF9F;"| 8
+|style="background:#FFDF9F;"| 10
+|style="background:#DFFFDF;"| 12
+|style="background:#FFDF9F;"| 8
+|style="background:#FFFFBF;"| 1
+|style="background:#FFDF9F;"| 6
+|style="background:#FFDF9F;"| 10
+|style="background:#EFCFFF;"| 30
+|style="background:#DFFFDF;"| 13
+|style="background:#EFCFFF;"| 26
+|style="background:#FFDF9F;"| 10
+|style="background:#DFDFDF;"| 4
+|style="background:#FFDF9F;"| 6
+|style="background:#DFFFDF;"| 19
+|style="background:#FFDF9F;"| 8
+|style="background:#EFCFFF;"| 27
+|style="background:#EFCFFF;"| 35
+|style="background:#FFDF9F;"| 6
+|style="background:#FFDF9F;"| 6
+|style="background:#DFFFDF;"| 14
+|style="background:#CFCFFF;"| 23
+|style="background:#DFFFDF;"| 19
+|style="background:#DFFFDF;"| 13
+|style="background:#FFFFBF;"| 1
+|style="background:#DFDFDF;"| 4
+|style="background:#FFDF9F;"| 8
+|style="background:#DFFFDF;"| 19
+|style="background:#DFFFDF;"| 13
+|style="background:#FFDF9F;"| 8
+! 3762
+|-
+! 7
+|align="left"| Bobby Allison
+|style="background:#EFCFFF;"| 42
+|style="background:#DFDFDF;"| 4
+|style="background:#EFCFFF;"| 34
+|style="background:#FFDF9F;"| 9
+|style="background:#FFDF9F;"| 6
+|style="background:#DFDFDF;"| 3
+|style="background:#FFDF9F;"| 6
+|style="background:#FFDF9F;"| 8
+|style="background:#FFFFBF;"| 1
+|style="background:#DFDFDF;"| 2
+|style="background:#DFFFDF;"| 12
+|style="background:#FFDF9F;"| 7
+|style="background:#DFFFDF;"| 13
+|style="background:#DFFFDF;"| 11
+|style="background:#DFFFDF;"| 15
+|style="background:#DFDFDF;"| 5
+|style="background:#EFCFFF;"| 10
+|style="background:#DFFFDF;"| 12
+|style="background:#CFCFFF;"| 24
+|style="background:#FFDF9F;"| 8
+|style="background:#DFDFDF;"| 2
+|style="background:#FFDF9F;"| 8
+|style="background:#DFFFDF;"| 20
+|style="background:#CFCFFF;"| 21
+|style="background:#EFCFFF;"| 22
+|style="background:#EFCFFF;"| 41
+|style="background:#EFCFFF;"| 25
+|style="background:#DFFFDF;"| 16
+|style="background:#FFDF9F;"| 7
+! 3698
+|-
+! 8
+|align="left"| Geoff Bodine
+|style="background:#FFFFBF;"| 1*
+|style="background:#EFCFFF;"| 8
+|style="background:#EFCFFF;"| 20
+|style="background:#FFDF9F;"| 10
+|style="background:#EFCFFF;"| 24
+|style="background:#EFCFFF;"| 40
+|style="background:#EFCFFF;"| 3
+|style="background:#EFCFFF;"| 17
+|style="background:#CFCFFF;"| 27
+|style="background:#FFFFBF;"| 1
+|style="background:#EFCFFF;"| 31
+|style="background:#EFCFFF;"| 39
+|style="background:#FFDF9F;"| 9
+|style="background:#DFDFDF;"| 3
+|style="background:#EFCFFF;"| 29
+|style="background:#DFDFDF;"| 3*
+|style="background:#EFCFFF;"| 23
+|style="background:#DFFFDF;"| 19*
+|style="background:#DFDFDF;"| 4
+|style="background:#DFDFDF;"| 3
+|style="background:#FFDF9F;"| 8
+|style="background:#DFFFDF;"| 13
+|style="background:#EFCFFF;"| 28
+|style="background:#DFDFDF;"| 2*
+|style="background:#DFDFDF;"| 2*
+|style="background:#ffdf9f;"| 6
+|style="background:#EFCFFF;"| 32
+|style="background:#EFCFFF;"| 38
+|style="background:#DFDFDF;"| 3*
+! 3678
+|-
+! 9
+|align="left"| Bobby Hillin Jr.
+|style="background:#DFDFDF;"| 4
+|style="background:#FFDF9F;"| 6
+|style="background:#EFCFFF;"| 39
+|style="background:#DFFFDF;"| 16
+|style="background:#EFCFFF;"| 28
+|style="background:#EFCFFF;"| 38
+|style="background:#DFFFDF;"| 13
+|style="background:#FFDF9F;"| 6
+|style="background:#DFDFDF;"| 4
+|style="background:#FFDF9F;"| 8
+|style="background:#DFFFDF;"| 15
+|style="background:#CFCFFF;"| 32
+|style="background:#FFDF9F;"| 10
+|style="background:#FFDF9F;"| 7
+|style="background:#DFDFDF;"| 3
+|style="background:#EFCFFF;"| 33
+|style="background:#FFFFBF;"| 1
+|style="background:#EFCFFF;"| 28
+|style="background:#DFFFDF;"| 13
+|style="background:#FFDF9F;"| 9
+|style="background:#FFDF9F;"| 7
+|style="background:#FFDF9F;"| 10
+|style="background:#FFDF9F;"| 9
+|style="background:#DFFFDF;"| 17
+|style="background:#DFFFDF;"| 15
+|style="background:#CFCFFF;"| 26
+|style="background:#DFFFDF;"| 11
+|style="background:#DFFFDF;"| 15
+|style="background:#FFDF9F;"| 6
+! 3546
+|-
+! 10
+|align="left"| Kyle Petty
+|style="background:#DFFFDF;"| 16
+|style="background:#FFFFBF;"| 1
+|style="background:#DFFFDF;"| 11
+|style="background:#CFCFFF;"| 28
+|style="background:#FFDF9F;"| 9
+|style="background:#ffdf9f;"| 9
+|style="background:#ffdf9f;"| 8
+|style="background:#DFDFDF;"| 5
+|style="background:#EFCFFF;"| 31
+|style="background:#DFFFDF;"| 19
+|style="background:#DFFFDF;"| 20
+|style="background:#EFCFFF;"| 41
+|style="background:#FFDF9F;"| 8
+|style="background:#EFCFFF;"| 32
+|style="background:#DFDFDF;"| 5
+|style="background:#FFDF9F;"| 8
+|style="background:#FFDF9F;"| 9
+|style="background:#FFDF9F;"| 9
+|style="background:#EFCFFF;"| 28
+|style="background:#EFCFFF;"| 30
+|style="background:#DFFFDF;"| 14
+|style="background:#EFCFFF;"| 20
+|style="background:#DFDFDF;"| 3
+|style="background:#FFDF9F;"| 6
+|style="background:#DFFFDF;"| 14
+|style="background:#DFFFDF;"| 13
+|style="background:#FFDF9F;"| 10
+|style="background:#FFDF9F;"| 7
+|style="background:#DFFFDF;"| 15
+! 3537
+|-
+! 11
+|align="left"| Harry Gant
+|style="background:#EFCFFF;"| 30
+|style="background:#EFCFFF;"| 28
+|style="background:#DFDFDF;"| 2
+|style="background:#DFFFDF;"| 12
+|style="background:#DFDFDF;"| 4
+|style="background:#DFFFDF;"| 14
+|style="background:#FFDF9F;"| 7
+|style="background:#EFCFFF;"| 25
+|style="background:#EFCFFF;"| 21
+|style="background:#EFCFFF;"| 14
+|style="background:#DFDFDF;"| 4
+|style="background:#FFDF9F;"| 9
+|style="background:#EFCFFF;"| 26
+|style="background:#DFDFDF;"| 2
+|style="background:#EFCFFF;"| 31
+|style="background:#EFCFFF;"| 30
+|style="background:#EFCFFF;"| 22
+|style="background:#EFCFFF;"| 34
+|style="background:#FFDF9F;"| 8
+|style="background:#DFDFDF;"| 5
+|style="background:#EFCFFF;"| 27
+|style="background:#FFDF9F;"| 7
+|style="background:#EFCFFF;"| 35
+|style="background:#DFDFDF;"| 3
+|style="background:#DFDFDF;"| 5
+|style="background:#DFDFDF;"| 2
+|style="background:#DFDFDF;"| 4
+|style="background:#EFCFFF;"| 28
+|style="background:#EFCFFF;"| 37
+! 3498
+|-
+! 12
+|align="left"| Terry Labonte
+|style="background:#DFDFDF;"| 2
+|style="background:#DFFFDF;"| 15
+|style="background:#FFFFBF;"| 1
+|style="background:#DFDFDF;"| 3
+|style="background:#FFDF9F;"| 7
+|style="background:#EFCFFF;"| 32
+|style="background:#EFCFFF;"| 27
+|style="background:#DFDFDF;"| 3
+|style="background:#EFCFFF;"| 29
+|style="background:#EFCFFF;"| 17
+|style="background:#DFFFDF;"| 11
+|style="background:#EFCFFF;"| 12
+|style="background:#EFCFFF;"| 35
+|style="background:#DFFFDF;"| 12
+|style="background:#DFFFDF;"| 19
+|style="background:#FFDF9F;"| 6
+|style="background:#EFCFFF;"| 38
+|style="background:#EFCFFF;"| 32
+|style="background:#EFCFFF;"| 12
+|style="background:#DFDFDF;"| 2
+|style="background:#CFCFFF;"| 21
+|style="background:#EFCFFF;"| 18
+|style="background:#EFCFFF;"| 19
+|style="background:#DFFFDF;"| 15
+|style="background:#FFDF9F;"| 10
+|style="background:#DFFFDF;"| 15
+|style="background:#EFCFFF;"| 31
+|style="background:#FFDF9F;"| 8
+|style="background:#FFDF9F;"| 10
+! 3473
+|-
+! 13
+|align="left"| Neil Bonnett
+|style="background:#EFCFFF;"| 32
+|style="background:#FFDF9F;"| 7
+|style="background:#FFDF9F;"| 9
+|style="background:#EFCFFF;"| 34
+|style="background:#EFCFFF;"| 30
+|style="background:#DFDFDF;"| 4
+|style="background:#DFFFDF;"| 11
+|style="background:#EFCFFF;"| 26
+|style="background:#EFCFFF;"| 40
+|style="background:#EFCFFF;"| 28
+|style="background:#DFFFDF;"| 13
+|style="background:#FFDF9F;"| 8
+|style="background:#CFCFFF;"| 23
+|style="background:#EFCFFF;"| 25
+|style="background:#DFFFDF;"| 11
+|style="background:#EFCFFF;"| 31
+|
+|style="background:#DFDFDF;"| 5
+|style="background:#EFCFFF;"| 34
+|style="background:#DFFFDF;"| 11
+|style="background:#EFCFFF;"| 24
+|style="background:#DFDFDF;"| 5
+|style="background:#DFDFDF;"| 2
+|style="background:#FFDF9F;"| 8
+|style="background:#DFFFDF;"| 12
+|style="background:#DFDFDF;"| 3
+|style="background:#FFFFBF;"| 1
+|style="background:#FFDF9F;"| 6
+|style="background:#FFDF9F;"| 9
+! 3369
+|-
+! 14
+|align="left"| Richard Petty
+|style="background:#EFCFFF;"| 36
+|style="background:#DFFFDF;"| 20
+|style="background:#DFDFDF;"| 3
+|style="background:#DFFFDF;"| 11
+|style="background:#DFFFDF;"| 14
+|style="background:#FFDF9F;"| 7
+|style="background:#EFCFFF;"| 29
+|style="background:#EFCFFF;"| 28
+|style="background:#FFDF9F;"| 7
+|style="background:#FFDF9F;"| 6
+|style="background:#EFCFFF;"| 38
+|style="background:#FFDF9F;"| 6
+|style="background:#DFFFDF;"| 19
+|style="background:#DFFFDF;"| 13
+|style="background:#CFCFFF;"| 22
+|style="background:#EFCFFF;"| 34
+|style="background:#EFCFFF;"| 37
+|style="background:#FFDF9F;"| 10
+|style="background:#EFCFFF;"| 18
+|style="background:#FFDF9F;"| 7
+|style="background:#EFCFFF;"| 40
+|style="background:#DFDFDF;"| 4
+|style="background:#DFFFDF;"| 12
+|style="background:#DFFFDF;"| 16
+|style="background:#DFDFDF;"| 3
+|style="background:#EFCFFF;"| 35
+|style="background:#FFDF9F;"| 8
+|style="background:#DFDFDF;"| 2
+|style="background:#EFCFFF;"| 21
+! 3314
+|-
+! 15
+|align="left"| Joe Ruttman
+|style="background:#EFCFFF;"| 28
+|style="background:#DFDFDF;"| 2
+|style="background:#EFCFFF;"| 33
+|style="background:#EFCFFF;"| 42
+|style="background:#DFFFDF;"| 19
+|style="background:#EFCFFF;"| 21
+|style="background:#DFDFDF;"| 5
+|style="background:#DFDFDF;"| 2
+|style="background:#DFFFDF;"| 17
+|style="background:#DFFFDF;"| 11
+|style="background:#CFCFFF;"| 32
+|style="background:#EFCFFF;"| 42
+|style="background:#FFDF9F;"| 7
+|style="background:#FFDF9F;"| 9
+|style="background:#FFDF9F;"| 7
+|style="background:#EFCFFF;"| 38
+|style="background:#FFDF9F;"| 8
+|style="background:#EFCFFF;"| 33
+|style="background:#EFCFFF;"| 30
+|style="background:#DFFFDF;"| 17
+|style="background:#EFCFFF;"| 38
+|style="background:#FFDF9F;"| 6
+|style="background:#FFDF9F;"| 6
+|style="background:#DFDFDF;"| 5
+|style="background:#FFDF9F;"| 6
+|style="background:#CFCFFF;"| 25
+|style="background:#FFDF9F;"| 9
+|style="background:#FFDF9F;"| 9
+|style="background:#DFDFDF;"| 5
+! 3295
+|-
+! 16
+|align="left"| Ken Schrader
+|style="background:#EFCFFF;"| 33
+|style="background:#CFCFFF;"| 23
+|style="background:#CFCFFF;"| 22
+|style="background:#EFCFFF;"| 21
+|style="background:#DFFFDF;"| 13
+|style="background:#FFDF9F;"| 10
+|style="background:#DFFFDF;"| 14
+|style="background:#FFDF9F;"| 7
+|style="background:#CFCFFF;"| 26
+|style="background:#FFDF9F;"| 10
+|style="background:#CFCFFF;"| 23
+|style="background:#DFFFDF;"| 17
+|style="background:#EFCFFF;"| 27
+|style="background:#DFFFDF;"| 20
+|style="background:#DFFFDF;"| 12
+|style="background:#CFCFFF;"| 23
+|style="background:#EFCFFF;"| 31
+|style="background:#DFFFDF;"| 16
+|style="background:#DFFFDF;"| 11
+|style="background:#EFCFFF;"| 28
+|style="background:#EFCFFF;"| 36
+|style="background:#EFCFFF;"| 25
+|style="background:#EFCFFF;"| 22
+|style="background:#FFDF9F;"| 7
+|style="background:#DFFFDF;"| 18
+|style="background:#EFCFFF;"| 28
+|style="background:#DFFFDF;"| 14
+|style="background:#DFFFDF;"| 17
+|style="background:#DFFFDF;"| 11
+! 3052
+|-
+! 17
+|align="left"| Dave Marcis
+|style="background:#EFCFFF;"| 38
+|style="background:#FFDF9F;"| 9
+|style="background:#EFCFFF;"| 27
+|style="background:#EFCFFF;"| 33
+|style="background:#EFCFFF;"| 27
+|style="background:#EFCFFF;"| 27
+|style="background:#EFCFFF;"| 25
+|style="background:#DFFFDF;"| 16
+|style="background:#DFFFDF;"| 11
+|style="background:#EFCFFF;"| 21
+|style="background:#DFFFDF;"| 16
+|style="background:#EFCFFF;"| 38
+|style="background:#DFFFDF;"| 14
+|style="background:#EFCFFF;"| 37
+|style="background:#DFFFDF;"| 20
+|style="background:#CFCFFF;"| 24
+|style="background:#EFCFFF;"| 36
+|style="background:#DFFFDF;"| 13
+|style="background:#EFCFFF;"| 35
+|style="background:#DFFFDF;"| 15
+|style="background:#DFFFDF;"| 11
+|style="background:#EFCFFF;"| 23
+|style="background:#DFDFDF;"| 5
+|style="background:#FFDF9F;"| 9
+|style="background:#FFDF9F;"| 8
+|style="background:#DFFFDF;"| 11
+|style="background:#EFCFFF;"| 34
+|style="background:#EFCFFF;"| 33
+|style="background:#DFFFDF;"| 12
+! 2912
+|-
+! 18
+|align="left"| Morgan Shepherd
+|style="background:#CFCFFF;"| 22
+|
+|style="background:#DFDFDF;"| 4
+|style="background:#FFFFBF;"| 1
+|style="background:#EFCFFF;"| 31
+|style="background:#EFCFFF;"| 23
+|style="background:#DFFFDF;"| 19
+|style="background:#DFFFDF;"| 19
+|style="background:#FFDF9F;"| 6
+|
+|style="background:#FFDF9F;"| 9
+|style="background:#EFCFFF;"| 27
+|style="background:#EFCFFF;"| 18
+|style="background:#EFCFFF;"| 29
+|style="background:#EFCFFF;"| 37
+|style="background:#EFCFFF;"| 32
+|style="background:#FFDF9F;"| 6
+|style="background:#DFFFDF;"| 11
+|style="background:#EFCFFF;"| 36
+|style="background:#EFCFFF;"| 22
+|style="background:#DFDFDF;"| 4
+|style="background:#DFDFDF;"| 3
+|style="background:#FFDF9F;"| 10
+|style="background:#EFCFFF;"| 29
+|style="background:#EFCFFF;"| 25
+|style="background:#EFCFFF;"| 32
+|style="background:#EFCFFF;"| 24*
+|style="background:#EFCFFF;"| 27
+|style="background:#EFCFFF;"| 38
+! 2896
+|-
+! 19
+|align="left"| Michael Waltrip (R)
+|style="background:#FFCFCF;"| DNQ
+|style="background:#EFCFFF;"| 25
+|style="background:#CFCFFF;"| 21
+|style="background:#DFFFDF;"| 19
+|style="background:#EFCFFF;"| 32
+|style="background:#EFCFFF;"| 13
+|style="background:#EFCFFF;"| 26
+|style="background:#DFFFDF;"| 11
+|style="background:#EFCFFF;"| 35
+|style="background:#DFFFDF;"| 12
+|style="background:#CFCFFF;"| 26
+|style="background:#CFCFFF;"| 25
+|style="background:#EFCFFF;"| 39
+|style="background:#CFCFFF;"| 22
+|style="background:#DFFFDF;"| 18
+|style="background:#DFFFDF;"| 11
+|style="background:#DFFFDF;"| 14
+|style="background:#DFFFDF;"| 17
+|style="background:#CFCFFF;"| 32
+|style="background:#DFFFDF;"| 13
+|style="background:#DFFFDF;"| 16
+|style="background:#EFCFFF;"| 14
+|style="background:#DFFFDF;"| 16
+|style="background:#DFFFDF;"| 14
+|style="background:#CFCFFF;"| 23
+|style="background:#DFFFDF;"| 19
+|style="background:#DFFFDF;"| 13
+|style="background:#DFFFDF;"| 20
+|style="background:#EFCFFF;"| 31
+! 2853
+|-
+! 20
+|align="left"| Buddy Arrington
+|style="background:#EFCFFF;"| 23
+|style="background:#DFFFDF;"| 14
+|style="background:#DFFFDF;"| 17
+|style="background:#DFFFDF;"| 20
+|style="background:#DFFFDF;"| 17
+|style="background:#FFCFCF;"| DNQ
+|style="background:#CFCFFF;"| 21
+|style="background:#EFCFFF;"| 15
+|style="background:#CFCFFF;"| 22
+|style="background:#DFFFDF;"| 15
+|style="background:#FFCFCF;"| DNQ
+|style="background:#DFFFDF;"| 19
+|style="background:#EFCFFF;"| 21
+|
+|style="background:#CFCFFF;"| 25
+|style="background:#DFFFDF;"| 17
+|style="background:#CFCFFF;"| 21
+|style="background:#CFCFFF;"| 24
+|style="background:#DFFFDF;"| 19
+|style="background:#DFFFDF;"| 16
+|style="background:#DFFFDF;"| 20
+|style="background:#DFFFDF;"| 12
+|style="background:#DFFFDF;"| 15
+|style="background:#DFFFDF;"| 19
+|style="background:#DFFFDF;"| 19
+|style="background:#CFCFFF;"| 22
+|style="background:#DFFFDF;"| 17
+|style="background:#CFCFFF;"| 21
+|style="background:#DFFFDF;"| 18
+! 2776
+|-
+! 21
+|align="left"| Alan Kulwicki (R)
+|style="background:#FFCFCF;"| DNQ
+|style="background:#FFCFCF;"| DNQ
+|style="background:#DFFFDF;"| 15
+|style="background:#DFFFDF;"| 14
+|style="background:#DFFFDF;"| 15
+|style="background:#DFFFDF;"| 11
+|style="background:#DFFFDF;"| 18
+|style="background:#DFDFDF;"| 4
+|style="background:#FFCFCF;"| DNQ
+|style="background:#EFCFFF;"| 23
+|style="background:#CFCFFF;"| 27
+|
+|
+|style="background:#DFFFDF;"| 16
+|style="background:#FFDF9F;"| 10
+|style="background:#EFCFFF;"| 22
+|style="background:#EFCFFF;"| 32
+|
+|style="background:#DFFFDF;"| 14
+|style="background:#FFDF9F;"| 10
+|style="background:#DFFFDF;"| 12
+|style="background:#DFFFDF;"| 15
+|style="background:#FFDF9F;"| 7
+|style="background:#DFFFDF;"| 13
+|style="background:#DFFFDF;"| 17
+|style="background:#DFFFDF;"| 14
+|style="background:#DFFFDF;"| 12
+|style="background:#DFFFDF;"| 18
+|style="background:#DFFFDF;"| 24
+! 109
+|-
+! 22
+|align="left"| Jimmy Means
+|style="background:#EFCFFF;"| 39
+|style="background:#DFFFDF;"| 11
+|style="background:#DFFFDF;"| 19
+|style="background:#EFCFFF;"| 41
+|style="background:#FFCFCF;"| DNQ
+|style="background:#EFCFFF;"| 25
+|style="background:#DFFFDF;"| 20
+|style="background:#DFFFDF;"| 12
+|style="background:#DFFFDF;"| 16
+|style="background:#EFCFFF;"| 24
+|style="background:#FFCFCF;"| DNQ
+|style="background:#CFCFFF;"| 22
+|style="background:#CFCFFF;"| 22
+|style="background:#FFCFCF;"| DNQ
+|style="background:#CFCFFF;"| 24
+|style="background:#DFFFDF;"| 13
+|style="background:#DFFFDF;"| 15
+|style="background:#CFCFFF;"| 21
+|style="background:#CFCFFF;"| 25
+|style="background:#EFCFFF;"| 27
+|style="background:#DFFFDF;"| 15
+|style="background:#EFCFFF;"| 26
+|style="background:#EFCFFF;"| 24
+|style="background:#CFCFFF;"| 22
+|style="background:#EFCFFF;"| 27
+|style="background:#DFFFDF;"| 18
+|style="background:#CFCFFF;"| 22
+|style="background:#EFCFFF;"| 29
+|style="background:#DFFFDF;"| 17
+! 2495
+|-
+! 23
+|align="left"| Tommy Ellis
+|style="background:#DFFFDF;"| 19
+|style="background:#CFCFFF;"| 24
+|style="background:#DFFFDF;"| 14
+|style="background:#DFFFDF;"| 13
+|style="background:#DFFFDF;"| 11
+|style="background:#EFCFFF;"| 29
+|
+|style="background:#EFCFFF;"| 24
+|style="background:#EFCFFF;"| 32
+|style="background:#FFDF9F;"| 9
+|style="background:#EFCFFF;"| 35
+|
+|style="background:#DFFFDF;"| 15
+|style="background:#DFFFDF;"| 14
+|style="background:#EFCFFF;"| 38
+|style="background:#FFDF9F;"| 9
+|style="background:#EFCFFF;"| 34
+|
+|style="background:#EFCFFF;"| 39
+|style="background:#DFFFDF;"| 12
+|
+|style="background:#EFCFFF;"| 21
+|style="background:#FFDF9F;"| 8
+|style="background:#EFCFFF;"| 26
+|style="background:#DFFFDF;"| 13
+|style="background:#EFCFFF;"| 31
+|style="background:#EFCFFF;"| 35
+|style="background:#DFFFDF;"| 12
+|
+! 2393
+|-
+! 24
+|align="left"| Buddy Baker
+|style="background:#EFCFFF;"| 26
+|
+|
+|style="background:#DFFFDF;"| 15
+|
+|style="background:#EFCFFF;"| 30
+|
+|
+|style="background:#DFDFDF;"| 3
+|
+|style="background:#DFFFDF;"| 17
+|
+|style="background:#EFCFFF;"| 36
+|style="background:#DFDFDF;"| 4
+|style="background:#DFFFDF;"| 14
+|style="background:#EFCFFF;"| 36
+|style="background:#EFCFFF;"| 20
+|
+|style="background:#EFCFFF;"| 41
+|
+|style="background:#EFCFFF;"| 19
+|
+|style="background:#DFDFDF;"| 4
+|
+|
+|style="background:#DFDFDF;"| 5
+|style="background:#DFDFDF;"| 5
+|style="background:#DFDFDF;"| 5
+|style="background:#EFCFFF;"| 29
+! 1924
+|-
+! 25
+|align="left"| Eddie Bierschwale
+|style="background:#EFCFFF;"| 31
+|style="background:#EFCFFF;"| 31
+|style="background:#EFCFFF;"| 29
+|style="background:#EFCFFF;"| 30
+|style="background:#EFCFFF;"| 29
+|style="background:#EFCFFF;"| 34
+|style="background:#FFCFCF;"| DNQ
+|
+|style="background:#EFCFFF;"| 30
+|
+|style="background:#CFCFFF;"| 29
+|
+|style="background:#EFCFFF;"| 32
+|style="background:#EFCFFF;"| 27
+|style="background:#EFCFFF;"| 35
+|style="background:#DFFFDF;"| 15
+|style="background:#EFCFFF;"| 39
+|style="background:#EFCFFF;"| 30
+|style="background:#DFFFDF;"| 16
+|style="background:#DFFFDF;"| 18
+|style="background:#CFCFFF;"| 25
+|style="background:#DFFFDF;"| 11
+|style="background:#EFCFFF;"| 25
+|style="background:#CFCFFF;"| 24
+|style="background:#DFFFDF;"| 20
+|style="background:#CFCFFF;"| 24
+|style="background:#DFFFDF;"| 16
+|style="background:#CFCFFF;"| 23
+|style="background:#FFCFCF;"| DNQ
+! 1860
+|-
+! 26
+|align="left"| J. D. McDuffie
+|style="background:#FFCFCF;"| DNQ
+|style="background:#DFFFDF;"| 16
+|style="background:#EFCFFF;"| 31
+|
+|style="background:#FFCFCF;"| DNQ
+|style="background:#DFFFDF;"| 17
+|style="background:#EFCFFF;"| 28
+|style="background:#DFFFDF;"| 18
+|style="background:#FFCFCF;"| DNQ
+|style="background:#EFCFFF;"| 20
+|style="background:#FFCFCF;"| DNQ
+|style="background:#DFFFDF;"| 14
+|style="background:#DFFFDF;"| 16
+|style="background:#EFCFFF;"| 35
+|style="background:#FFCFCF;"| DNQ
+|style="background:#DFFFDF;"| 19
+|style="background:#FFCFCF;"| DNQ
+|style="background:#CFCFFF;"| 25
+|style="background:#EFCFFF;"| 31
+|style="background:#EFCFFF;"| 24
+|style="background:#EFCFFF;"| 34
+|style="background:#EFCFFF;"| 28
+|style="background:#EFCFFF;"| 37
+|style="background:#DFFFDF;"| 20
+|style="background:#EFCFFF;"| 26
+|style="background:#DFFFDF;"| 20
+|style="background:#CFCFFF;"| 21
+|style="background:#FFCFCF;"| DNQ
+|
+! 1825
+|-
+! 27
+|align="left"| Phil Parsons
+|style="background:#CFCFFF;"| 24
+|style="background:#EFCFFF;"| 29
+|style="background:#EFCFFF;"| 30
+|style="background:#DFFFDF;"| 18
+|
+|style="background:#EFCFFF;"| 31
+|
+|
+|style="background:#DFDFDF;"| 5
+|
+|style="background:#CFCFFF;"| 24
+|
+|style="background:#EFCFFF;"| 31
+|style="background:#EFCFFF;"| 33
+|style="background:#FFDF9F;"| 9
+|style="background:#EFCFFF;"| 37
+|style="background:#DFFFDF;"| 13
+|style="background:#DFFFDF;"| 14
+|style="background:#FFDF9F;"| 9
+|
+|style="background:#EFCFFF;"| 22
+|
+|
+|
+|
+|style="background:#FFDF9F;"| 10
+|
+|style="background:#FFDF9F;"| 10
+|
+! 1742
+|-
+! 28
+|align="left"| Rick Wilson
+|style="background:#FFDF9F;"| 7
+|
+|
+|style="background:#EFCFFF;"| 39
+|style="background:#DFFFDF;"| 12
+|style="background:#DFFFDF;"| 15
+|
+|
+|style="background:#FFDF9F;"| 8
+|
+|
+|
+|
+|
+|style="background:#CFCFFF;"| 21
+|style="background:#CFCFFF;"| 21
+|style="background:#FFDF9F;"| 10
+|style="background:#EFCFFF;"| 11
+|style="background:#CFCFFF;"| 23
+|style="background:#EFCFFF;"| 40
+|style="background:#EFCFFF;"| 26
+|style="background:#EFCFFF;"| 28
+|
+|style="background:#EFCFFF;"| 32
+|
+|style="background:#EFCFFF;"| 29
+|
+|style="background:#DFFFDF;"| 14
+|style="background:#EFCFFF;"| 40
+! 1698
+|-
+! 29
+|align="left"| Cale Yarborough
+|style="background:#EFCFFF;"| 27
+|
+|style="background:#FFDF9F;"| 6
+|style="background:#EFCFFF;"| 27
+|
+|style="background:#EFCFFF;"| 22
+|
+|
+|style="background:#EFCFFF;"| 37
+|
+|style="background:#DFDFDF;"| 3
+|
+|style="background:#DFDFDF;"| 3
+|style="background:#EFCFFF;"| 30
+|style="background:#DFFFDF;"| 17
+|style="background:#EFCFFF;"| 25
+|style="background:#EFCFFF;"| 24
+|
+|style="background:#FFDF9F;"| 7
+|
+|style="background:#FFDF9F;"| 10
+|
+|
+|
+|
+|style="background:#EFCFFF;"| 36
+|style="background:#EFCFFF;"| 33
+|style="background:#EFCFFF;"| 34
+|
+! 1642
+|-
+! 30
+|align="left"| Benny Parsons
+|style="background:#DFDFDF;"| 5
+|
+|
+|style="background:#FFDF9F;"| 6
+|
+|style="background:#EFCFFF;"| 28
+|
+|
+|style="background:#EFCFFF;"| 20
+|
+|style="background:#EFCFFF;"| 34
+|
+|style="background:#EFCFFF;"| 33
+|style="background:#EFCFFF;"| 41
+|style="background:#EFCFFF;"| 36
+|style="background:#EFCFFF;"| 29
+|style="background:#DFDFDF;"| 5
+|style="background:#FFDF9F;"| 8
+|style="background:#EFCFFF;"| 26
+|
+|style="background:#EFCFFF;"| 31
+|
+|
+|
+|
+|style="background:#EFCFFF;"| 30
+|
+|style="background:#DFFFDF;"| 11
+|style="background:#EFCFFF;"| 27
+! 1555
+|-
+! 31
+|align="left"| Ron Bouchard
+|style="background:#FFDF9F;"| 6
+|style="background:#DFFFDF;"| 18
+|style="background:#DFFFDF;"| 13
+|style="background:#EFCFFF;"| 40
+|style="background:#EFCFFF;"| 25
+|style="background:#EFCFFF;"| 37
+|style="background:#DFFFDF;"| 17
+|
+|style="background:#FFDF9F;"| 9
+|style="background:#EFCFFF;"| 27
+|style="background:#DFFFDF;"| 19
+|
+|style="background:#DFFFDF;"| 12
+|style="background:#EFCFFF;"| 36
+|style="background:#EFCFFF;"| 41
+|
+|style="background:#EFCFFF;"| 17
+|
+|
+|
+|style="background:#EFCFFF;"| 30
+|
+|
+|
+|
+|style="background:#CFCFFF;"| 21
+|
+|style="background:#EFCFFF;"| 42
+|
+! 1553
+|-
+! 32
+|align="left"| Chet Fillip (R)
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| style="background:#EFCFFF;"| 36
+| style="background:#EFCFFF;"| 22
+| 
+| style="background:#CFCFFF;"| 23
+| 
+| style="background:#CFCFFF;"| 23
+| 
+| style="background:#EFCFFF;"| 37
+| 
+| style="background:#DFFFDF;"| 20
+| style="background:#EFCFFF;"| 26
+| style="background:#EFCFFF;"| 40
+| style="background:#DFFFDF;"| 12
+| style="background:#EFCFFF;"| 28
+| style="background:#CFCFFF;"| 22
+| style="background:#DFFFDF;"| 15
+| style="background:#EFCFFF;"| 25
+| style="background:#EFCFFF;"| 35
+| 
+| style="background:#EFCFFF;"| 23
+| 
+| style="background:#CFCFFF;"| 21
+| style="background:#EFCFFF;"| 38
+| 
+| 
+| 
+! 1433
+|-
+! 33
+|align="left"| Jody Ridley
+| style="background:#DFFFDF;"| 12
+| 
+| 
+| style="background:#EFCFFF;"| 29
+| style="background:#EFCFFF;"| 23
+| style="background:#DFFFDF;"| 20
+| style="background:#DFFFDF;"| 15
+| style="background:#FFDF9F;"| 10
+| style="background:#EFCFFF;"| 42
+| style="background:#EFCFFF;"| 18
+| style="background:#CFCFFF;"| 21
+| 
+| style="background:#DFFFDF;"| 11
+| style="background:#EFCFFF;"| 34
+| style="background:#DFFFDF;"| 13
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 1213
+|-
+! 34
+|align="left"| Trevor Boys
+| style="background:#DFFFDF;"| 18
+| style="background:#EFCFFF;"| 26
+| style="background:#EFCFFF;"| 35
+| style="background:#CFCFFF;"| 24
+| style="background:#DFFFDF;"| 18
+| style="background:#EFCFFF;"| 24
+| style="background:#EFCFFF;"| 30
+| style="background:#DFFFDF;"| 14
+| style="background:#EFCFFF;"| 38
+| style="background:#DFFFDF;"| 13
+| style="background:#CFCFFF;"| 25
+| style="background:#EFCFFF;"| 34
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 29
+| 
+| style="background:#EFCFFF;"| 37
+| 
+| 
+! 1064
+|-
+! 35
+|align="left"| Doug Heveron
+| style="background:#DFFFDF;"| 15
+| style="background:#DFFFDF;"| 13
+| 
+| style="background:#CFCFFF;"| 35
+| style="background:#EFCFFF;"| 21
+| style="background:#EFCFFF;"| 35
+| style="background:#DFFFDF;"| 16
+| style="background:#EFCFFF;"| 29
+| style="background:#DFFFDF;"| 15
+| style="background:#EFCFFF;"| 35
+| style="background:#EFCFFF;"| 33
+| style="background:#DFFFDF;"| 20
+| 
+| 
+| style="background:#EFCFFF;"| 33
+| style="background:#DFFFDF;"| 16
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 1052
+|-
+! 36
+|align="left"| Sterling Marlin
+| style="background:#EFCFFF;"| 9
+| 
+| 
+| style="background:#EFCFFF;"| 32
+| 
+| style="background:#EFCFFF;"| 33
+| 
+| 
+| style="background:#EFCFFF;"| 39
+| 
+| style="background:#FFDF9F;"| 7
+| 
+| 
+| 
+| style="background:#DFDFDF;"| 2
+| 
+| style="background:#DFDFDF;"| 4
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 37
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 33
+| 
+| style="background:#EFCFFF;"| 32
+| 
+! 989
+|-
+! 37
+|align="left"| D. K. Ulrich
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFFFFF;"| QL
+| style="background:#CFCFFF;"| 33
+| style="background:#DFFFDF;"| 17
+| style="background:#EFCFFF;"| 40
+| 
+| style="background:#DFFFDF;"| 18
+| 
+| 
+| style="background:#DFFFDF;"| 20
+| style="background:#DFFFDF;"| 20
+| style="background:#DFFFDF;"| 18
+| style="background:#DFFFDF;"| 17
+| 
+| style="background:#CFCFFF;"| 27
+| style="background:#EFCFFF;"| 28
+| 
+| 
+| 
+| 
+! 804
+|-
+! 38
+|align="left"| Pancho Carter
+| style="background:#EFCFFF;"| 34
+| 
+| style="background:#CFCFFF;"| 23
+| style="background:#EFCFFF;"| 38
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 18
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 28
+| style="background:#DFFFDF;"| 17
+| style="background:#CFCFFF;"| 28
+| 
+| style="background:#EFCFFF;"| 40
+| style="background:#EFCFFF;"| 31
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 706
+|-
+! 39
+|align="left"| Ken Ragan
+| style="background:#CFCFFF;"| 21
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| style="background:#EFCFFF;"| 41
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 34
+| 
+| style="background:#EFCFFF;"| 18
+| 
+| style="background:#DFFFDF;"| 17
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#CFCFFF;"| 23
+| 
+| style="background:#DFFFDF;"| 19
+| 
+! 627
+|-
+! 40
+|align="left"| Lake Speed
+| style="background:#FFDF9F;"| 10
+| style="background:#DFFFDF;"| 17
+| style="background:#FFDF9F;"| 10
+| style="background:#CFCFFF;"| 22
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 14
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 608
+|-
+! 41
+|align="left"| Greg Sacks
+| style="background:#EFCFFF;"| 35
+| style="background:#DFFFDF;"| 19
+| style="background:#EFCFFF;"| 37
+| style="background:#CFCFFF;"| 25
+| 
+| 
+| 
+| 
+| style="background:#FFDF9F;"| 10
+| 
+| style="background:#EFCFFF;"| 39
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 39
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 38
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 579
+|-
+! 42
+|align="left"| Ronnie Thomas
+| 
+| style="background:#FFCFCF;"| DNQ
+| style="background:#EFCFFF;"| 26
+| 
+| style="background:#EFCFFF;"| 26
+| style="background:#EFCFFF;"| 36
+| 
+| style="background:#FFCFCF;"| DNQ
+| style="background:#DFFFDF;"| 14
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| style="background:#DFFFDF;"| 16
+| 
+| style="background:#FFCFCF;"| DNQ
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 40
+| 
+| 
+! 504
+|-
+! 43
+|align="left"| Bobby Wawak
+| style="background:#FFCFCF;"| DNQ
+| 
+| style="background:#EFCFFF;"| 38
+| style="background:#CFCFFF;"| 23
+| 
+| style="background:#DFFFDF;"| 19
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| style="background:#CFCFFF;"| 24
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 33
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| style="background:#EFCFFF;"| 29
+| 
+| 
+! 480
+|-
+! 44
+|align="left"| Rodney Combs
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 32
+| 
+| style="background:#EFCFFF;"| 19
+| 
+| style="background:#EFCFFF;"| 29
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 16
+| 
+| style="background:#EFCFFF;"| 37
+| 
+! 421
+|-
+! 45
+|align="left"| Derrike Cope
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFDF9F;"| 9
+| 
+| 
+| style="background:#CFCFFF;"| 30
+| style="background:#EFCFFF;"| 31
+| 
+| style="background:#CFCFFF;"| 28
+| 
+| 
+| style="background:#DFC484;"| Wth
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 41
+! 400
+|-
+! 46
+|align="left"| James Hylton
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| style="background:#EFCFFF;"| 38
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| style="background:#CFCFFF;"| 27
+| 
+| 
+| style="background:#EFCFFF;"| 39
+| style="background:#CFCFFF;"| 22
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 386
+|-
+! 47
+|align="left"| Davey Allison (R)
+| style="background:#FFCFCF;"| DNQ
+| style="background:#DFFFDF;"| 12
+| style="background:#EFCFFF;"| 25
+| 
+| style="background:#DFFFDF;"| 20
+| style="background:#EFCFFF;"| 39
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFDF9F;"| 7
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 364
+|-
+! 48
+|align="left"| Mark Martin
+| style="background:#EFCFFF;"| 37
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| style="background:#CFCFFF;"| 22
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 11
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 26
+| style="background:#DFFFDF;"| 13
+! 364
+|-
+! 49
+|align="left"| Jim Sauter
+| style="background:#EFCFFF;"| 25
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 41
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 18
+| style="background:#CFCFFF;"| 23
+| style="background:#DFFFDF;"| 14
+| style="background:#EFCFFF;"| 12
+| 
+| style="background:#EFCFFF;"| 37
+| 
+| style="background:#DFFFDF;"| 13
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 361
+|-
+! 50
+|align="left"| A. J. Foyt
+| style="background:#EFCFFF;"| 29
+| 
+| 
+| style="background:#DFFFDF;"| 17
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 42
+| 
+| style="background:#EFCFFF;"| 30
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 37
+| 
+| 
+| 
+! 355
+|-
+! 51
+|align="left"| Gary Fedewa
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 22
+| 
+| 
+| 
+| style="background:#CFCFFF;"| 23
+| 
+| style="background:#CFCFFF;"| 21
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 34
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+! 352
+|-
+! 52
+|align="left"| H. B. Bailey
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 37
+| 
+| style="background:#DFFFDF;"| 12
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 17
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| style="background:#EFCFFF;"| 41
+| 
+! 336
+|-
+! 53
+|align="left"| Jonathan Lee Edwards (R)
+| 
+| style="background:#FFCFCF;"| DNQ
+| style="background:#EFCFFF;"| 24
+| 
+| style="background:#FFCFCF;"| DNQ
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| style="background:#EFCFFF;"| 30
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| style="background:#EFCFFF;"| 29
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| style="background:#EFCFFF;"| 27
+| 
+| 
+! 322
+|-
+! 54
+|align="left"| Jimmy Hensley
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 23
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 16
+| 
+| style="background:#DFFFDF;"| 18
+| 
+| 
+| 
+| 
+| 
+! 318
+|-
+! 55
+|align="left"| Dick Trickle
+| style="background:#DFFFDF;"| 17
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 15
+| 
+| 
+! 230
+|-
+! 56
+|align="left"| Jerry Cranmer (R)
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 13
+| 
+| style="background:#DFFFDF;"| 16
+| 
+| 
+| style="background:#CFCFFF;"| 24
+| 
+| 
+| style="background:#EFCFFF;"| 26
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#CFCFFF;"| 23
+| 
+| 
+| 
+| 
+| 
+! 303
+|-
+! 57
+|align="left"| Bobby Gerhart
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 34
+| 
+| 
+| style="background:#CFCFFF;"| 28
+| 
+| 
+| style="background:#CFCFFF;"| 22
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| style="background:#EFCFFF;"| 35
+| 
+! 295
+|-
+! 58
+|align="left"| Kirk Bryant
+| style="background:#EFCFFF;"| 41
+| style="background:#EFCFFF;"| 27
+| style="background:#DFFFDF;"| 18
+| style="background:#EFCFFF;"| 31
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+! 301
+|-
+! 59
+|align="left"| Connie Saylor
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 18
+| 
+| 
+| style="background:#EFCFFF;"| 33
+| 
+| style="background:#CFCFFF;"| 28
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 30
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| style="background:#EFCFFF;"| 26
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 17
+| 
+| style="background:#EFCFFF;"| 30
+| 
+! 334
+|-
+! 60
+|align="left"| Delma Cowart
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 19
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 29
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 39
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+! 
+|-
+! 61
+|align="left"| Mike Skinner
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#CFCFFF;"| 22
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 30
+| 
+| 
+| style="background:#CFCFFF;"| 23
+| 
+| 
+! 264
+|-
+! 62
+|align="left"| Mark Stahl
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| style="background:#DFFFDF;"| 16
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 32
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| style="background:#EFCFFF;"| 30
+| style="background:#FFCFCF;"| DNQ
+| 
+! 255
+|-
+! 63
+|align="left"| Glen Steurer
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFDF9F;"| 10
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 16
+! 249
+|-
+! 64
+|align="left"| Bill Schmitt
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 18
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 14
+! 230
+|-
+! 65
+|align="left"| Willy T. Ribbs
+| 
+| 
+| 
+| style="background:#DFC484;"| Wth
+| style="background:#FFCFCF;"| DNQ
+| 
+| style="background:#CFCFFF;"| 22
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| style="background:#EFCFFF;"| 29
+| 
+| style="background:#EFCFFF;"| 39
+| 
+| 
+| 
+| style="background:#DFC484;"| Wth
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 219
+|-
+! 66
+|align="left"| Jim Robinson
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 15
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 25
+! 206
+|-
+! 67
+|align="left"| Mike Potter
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 33
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 40
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 26
+| 
+| 
+! 192
+|-
+! 68
+|align="left"| Brad Teague
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 40
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 21
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 40
+| 
+| 
+| 
+! 186
+|-
+! 69
+|align="left"| Rick Newson
+| 
+| 
+| style="background:#EFCFFF;"| 40
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 25
+| 
+| 
+| style="background:#EFCFFF;"| 37
+| 
+| style="background:#FFCFCF;"| DNQ
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 183
+|-
+! 70
+|align="left"| Chad Little
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 13
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 35
+! 182
+|-
+! 71
+|align="left"| Joe Booher
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 31
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 18
+| 
+| 
+| 
+| 
+| 
+| 
+! 179
+|-
+! 72
+|align="left"| Ruben Garcia
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 30
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#CFCFFF;"| 22
+! 170
+|-
+! 73
+|align="left"| Johnny Coy Jr.
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 17
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 36
+| 
+| 
+! 167
+|-
+! 74
+|align="left"| Ted Kennedy
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#CFCFFF;"| 23
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 30
+! 167
+|-
+! 75
+|align="left"| Butch Miller
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 16
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#CFCFFF;"| 21
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 33
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 164
+|-
+! 76
+|align="left"| George Follmer
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 18
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 36
+! 164
+|-
+! 77
+|align="left"| Hershel McGriff
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#CFCFFF;"| 28
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 26
+! 164
+|-
+! 78
+|align="left"| Mike Laws
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 31
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#CFCFFF;"| 24
+| 
+! 161
+|-
+! 79
+|align="left"| Larry Pearson
+| style="background:#EFCFFF;"| 40
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 12
+| 
+| 
+| 
+! 160
+|-
+! 80
+|align="left"| Terry Petris
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 24
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 34
+! 152
+|-
+! 81
+|align="left"| Phil Good
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 35
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 25
+| 
+| 
+| 
+| 
+| 
+! 146
+|-
+! 82
+|align="left"| David Pearson
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 36
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFDF9F;"| 10
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 134
+|-
+! 83
+|align="left"| Randy Baker
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 42
+| 
+| style="background:#CFCFFF;"| 22
+| 
+! 134
+|-
+! 84
+|align="left"| Rick McCray
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 37
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 28
+! 131
+|-
+! 85
+|align="left"| Jerry Bowman
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| style="background:#EFCFFF;"| 29
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 36
+| 
+| 
+| 
+| 
+| 
+| 
+! 131
+|-
+! 86
+|align="left"| Tommie Crozier
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| style="background:#EFCFFF;"| 39
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 28
+| 
+| 
+! 125
+|-
+! 87
+|align="left"| John Krebs
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#CFCFFF;"| 26
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 42
+! 122
+|-
+! 88
+|align="left"| Joe Millikan
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 30
+| 
+| style="background:#EFCFFF;"| 38
+| 
+| 
+! 122
+|-
+! 89
+|align="left"| Tommy Riggins
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 15
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 118
+|-
+! 90
+|align="left"| David Sosebee
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 34
+| 
+| style="background:#EFCFFF;"| 36
+| 
+! 116
+|-
+! 91
+|align="left"| Cliff Hucul
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 40
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 31
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+! 113
+|-
+! 92
+|align="left"| Charlie Baker
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 18
+| 
+| 
+! 109
+|-
+! 93
+|align="left"| Brett Bodine
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 18
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 109
+|-
+! 94
+|align="left"| Jack Ely
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#CFCFFF;"| 25
+| 
+| 
+| style="background:#DFFFDF;"| 20
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 103
+|-
+! 95
+|align="left"| Rick Knoop
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 20
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 103
+|-
+! 96
+|align="left"| Jocko Maggiacomo
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 39
+| 
+| style="background:#EFCFFF;"| 36
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+! 101
+|-
+! 97
+|align="left"| Clay Young
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#CFCFFF;"| 21
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 100
+|-
+! 98
+|align="left"| Buddie Boys
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 38
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 39
+| 
+| 
+! 95
+|-
+! 99
+|align="left"| Jim Hull
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#CFCFFF;"| 23
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 94
+|-
+! 100
+|align="left"| Brent Elliott
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#CFCFFF;"| 24
+| 
+| 
+| 
+| 
+! 91
+|-
+! 101
+|align="left"| Grant Adcox
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#CFCFFF;"| 26
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+! 85
+|-
+! 102
+|align="left"| Tom Rotsell
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#CFCFFF;"| 26
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 85
+|-
+! 103
+|align="left"| Phil Barkdoll
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 28
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| style="background:#EFCFFF;"| 33
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 84
+|-
+! 104
+|align="left"| Ron Shepahrd
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 27
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+! 82
+|-
+! 105
+|align="left"| David Simko
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#CFCFFF;"| 27
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 82
+|-
+! 106
+|align="left"| Al Unser
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 29
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 20
+! 76
+|-
+! 107
+|align="left"| Bryan Baker
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 29
+| 
+| 
+| 
+| 
+| 
+| 
+! 76
+|-
+! 108
+|align="left"| Dale Jarrett
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 29
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 76
+|-
+! 109
+|align="left"| Randy LaJoie
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 29
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 76
+|-
+! 110
+|align="left"| Howard Rose
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 30
+| 
+| 
+| 
+| 
+| 
+| 
+! 73
+|-
+! 111
+|align="left"| Jeff Swindell
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| style="background:#EFCFFF;"| 31
+| 
+! 70
+|-
+! 112
+|align="left"| Jim Bown
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 32
+! 67
+|-
+! 113
+|align="left"| Ron Esau
+| style="background:#FFCFCF;"| DNQ
+| style="background:#FFFFFF;"| QL
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#DFFFDF;"| 16
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 33
+! 64
+|-
+! 114
+|align="left"| Earle Canavan
+| 
+| 
+| style="background:#EFCFFF;"| 32
+| 
+| style="background:#FFCFCF;"| DNQ
+| style="background:#FFCFCF;"| DNQ
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 64
+|-
+! 115
+|align="left"| Donnie Allison
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 33
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 64
+|-
+! 116
+|align="left"| Ray Kelly
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#CFCFFF;"| 36
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+! 55
+|-
+! 117
+|align="left"| Howard Mark
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 36
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+! 55
+|-
+! 118
+|align="left"| Wayne Slark
+| 
+| 
+| style="background:#EFCFFF;"| 36
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 55
+|-
+! 119
+|align="left"| Roy Lee Hendrick
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 38
+| 
+| 
+| 
+| 
+| 
+| 
+! 49
+|-
+! 120
+|align="left"| Jim Fitzgerald
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 39
+! 46
+|-
+! 121
+|align="left"| Tom Bigelow
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 40
+| 
+! 43
+|-
+! 122
+|align="left"| Richard Lach
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 40
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 43
+|-
+! 123
+|align="left"| Rick Baldwin (R)
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#CFCFFF;"| 24
+| 
+| 
+| style="background:#EFCFFF;"| 34
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 
+|-
+! 124
+|align="left"| Tommy Gale
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#CFCFFF;"| 25
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 
+|-
+! 125
+|align="left"| Jerry Holden
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 30
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 
+|-
+! 126
+|align="left"| Bill Osborne
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 35
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 
+|-
+! 127
+|align="left"| Joe Fields
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#EFCFFF;"| 37
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 
+|-
+! 128
+|align="left"| Dick Skillen
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 
+|-
+! 129
+|align="left"| Clark Dwyer
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 
+|-
+! 130
+|align="left"| Donny Paul
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 
+|-
+! 131
+|align="left"| Bob Park
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 
+|-
+! 132
+|align="left"| Blackie Wangerin
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 
+|-
+! 133
+|align="left"| Ferdin Wallace
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 
+|-
+! 134
+|align="left"| Brad Heath
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 
+|-
+! 135
+|align="left"| Steve Moore
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 
+|-
+! 136
+|align="left"| Marta Leonard
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 
+|-
+! 137
+|align="left"| St. James Davis
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+! 
+|-
+! 138
+|align="left"| Jerry Ward
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 
+|-
+! 139
+|align="left"| Don Hume
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 
+|-
+! 140
+|align="left"| Harold Marks
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 
+|-
+! 141
+|align="left"| George Wiltshire
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+| 
+| 
+! 
+|-
+! 142
+|align="left"| Ed Baugess
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+| 
+| 
+| 
+| 
+! 
+|-
+! 143
+|align="left"| Harry Goularte
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+! 
+|-
+! 144
+|align="left"| Jimmy Insolo
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+! 
+|-
+! 145
+|align="left"| Jack Sellers
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+! 
+|-
+! 146
+|align="left"| Kevin Terris
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+! 
+|-
+! 147
+|align="left"| Bob Kennedy
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+! 
+|-
+! 148
+|align="left"| Brad Tidrick
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+! 
+|-
+! 149
+|align="left"| Randy Becker
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+! 
+|-
+! 150
+|align="left"| Ron Rainwater
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+! 
+|-
+! 151
+|align="left"| John Soares Jr.
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#FFCFCF;"| DNQ
+! 
+|-
+! 152
+|align="left"| Bob Penrod
+| style="background:#DFC484;"| Wth
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 
+|-
+! 153
+|align="left"| Slick Johnson
+| style="background:#FFFFFF;"| QL
+| 
+| 
+| style="background:#FFFFFF;'| QL
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+! 
+|-
+!valign="middle"| 
+!valign="middle"| Driver
+!DAY
+!RCH
+!CAR
+!ATL
+!BRI
+!DAR
+!NWS
+!MAR
+!TAL
+!DOV
+!CLT
+!RSD
+!POC
+!MCH
+!DAY
+!POC
+!TAL
+!GLN
+!MCH
+!BRI
+!DAR
+!RCH
+!DOV
+!MAR
+!NWS
+!CLT
+!CAR
+!ATL
+!RSD
+!valign="middle"| 
+|}
+
+== Rookie of the Year ==
+Alan Kulwicki, a future hall of famer (see Class of 2019 hall of fame) driving for a team that had only one car (which he would buy out before the Southern 500 and become an owner/driver), won the Rookie of the Year award in 1986 despite skipping 6 races (3 of those he failed to qualify for, rounds 1, 2, and 9), finishing in the top-ten four times. Of the rest of the candidates, only runner-up Michael Waltrip ran a complete schedule.
+
+==See also==
+*1986 NASCAR Busch Series
+

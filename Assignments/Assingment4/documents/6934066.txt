@@ -1,0 +1,702 @@
+Title: Kelley Racing
+
+Kelley Racing is a former Indy Racing League team founded by Fort Wayne, Indiana-based car dealer Tom Kelley that fielded a Delphi sponsored car for Scott Sharp during its entire existence from 1998 to 2004. The team was based in Indianapolis and captured 9 wins (7 with Sharp, 1 with Mark Dismore, and 1 with Al Unser Jr.) before shutting down when Sharp decided to leave the team with his sponsorship after a poor 2004 season. The assets of the team were bought by Tony George, who transformed it into Vision Racing.
+
+==Former drivers==
+All drivers were  American.
+
+*Mark Dismore (1997-2001)
+*Sarah Fisher (2004)
+*Tony Renna (2002-2003)
+*Scott Sharp (1998-2004)
+*Al Unser Jr. (2002-2003)
+
+==Complete IRL IndyCar Series results==
+(key) (Results in bold indicate pole position; results in italics indicate fastest lap)
+{| class="wikitable" style="text-align:center; font-size:85%"
+! Year
+! Chassis
+! Engine
+! Tyres
+! Drivers
+! No.
+! 1
+! 2
+! 3
+! 4
+! 5
+! 6
+! 7
+! 8
+! 9
+! 10
+! 11
+! 12
+! 13
+! 14
+! 15
+! 16
+! 
+! 
+|-
+!rowspan=2| 1996–97
+!colspan=5|
+| NHA
+| LSV
+| WDW
+| PHX
+| INDY
+| TXS
+| PPIR
+| CLT
+| NHA
+| LSV
+!colspan=8|
+|-
+|Dallara IR7
+|Oldsmobile Aurora V8
+|
+|align="left"|  Mark Dismore
+|28
+|
+|
+|
+|
+|style="background:#EFCFFF;" align=center| 28
+|style="background:#CFCFFF;" align=center| 11
+|style="background:#CFCFFF;" align=center| 11
+|style="background:#EFCFFF;" align=center| 19
+|style="background:#CFCFFF;" align=center| 11
+|style="background:#DFFFDF;" align=center| 5
+|
+|
+|
+|
+|
+|
+|
+|158
+|-
+!rowspan=3| 1998
+!colspan=5|
+| WDW
+| PHX
+| INDY
+| TXS
+| NHA
+| DOV
+| CLT
+| PPIR
+| ATL
+| TXS
+| LSV
+!colspan=7|
+|-
+|rowspan=2| Dallara IR8
+|rowspan=2| Oldsmobile Aurora V8
+|rowspan=2| 
+|align="left"|  Scott Sharp
+|8
+|style="background:#CFEAFF;" align=center| 6
+|style="background:#FFFFBF;" align=center| 1
+|style="background:#EFCFFF;" align=center| 16
+|style="background:#DFFFDF;" align=center| 5
+|style="background:#FFDF9F;" align=center| 3
+|style="background:#FFFFBF;" align=center| 1*
+|style="background:#EFCFFF;" align=center| 18
+|style="background:#CFCFFF;" align=center| 11
+|style="background:#EFCFFF;" align=center| 18
+|style="background:#EFCFFF;" align=center| 23
+|style="background:#CFCFFF;" align=center| 12
+|
+|
+|
+|
+|
+|4th
+|272
+|-
+|align="left"|  Mark Dismore
+|28
+|style="background:#DFFFDF;" align=center| 5
+|style="background:#CFCFFF;" align=center| 16
+|style="background:#EFCFFF;" align=center| 27
+|style="background:#EFCFFF;" align=center| 21
+|style="background:#CFEAFF;" align=center| 8
+|style="background:#EFCFFF;" align=center| 18
+|style="background:#EFCFFF;" align=center| 15
+|style="background:#CFCFFF;" align=center| 19
+|style="background:#CFEAFF;" align=center| 7
+|style="background:#CFEAFF;" align=center| 10
+|style="background:#EFCFFF;" align=center| 15
+|
+|
+|
+|
+|
+|15th
+|180
+|-
+!rowspan=3| 1999
+!colspan=5|
+| 
+| 
+| 
+| INDY
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+!colspan=8|
+|-
+|rowspan=2| Dallara IR9
+|rowspan=2| Oldsmobile Aurora V8
+|rowspan=2| 
+|align="left"|  Scott Sharp
+|8
+|style="background:#DFFFDF;" align=center| 4*
+|style="background:#CFEAFF;" align=center| 8
+|style="background:#FFFFFF;" align=center|C
+|style="background:#EFCFFF;" align=center| 28
+|style="background:#CFEAFF;" align=center| 10
+|style="background:#CFEAFF;" align=center| 8
+|style="background:#FFFFBF;" align=center| 1
+|style="background:#EFCFFF;" align=center| 22
+|style="background:#EFCFFF;" align=center| 22
+|style="background:#DFFFDF;" align=center| 4
+|style="background:#EFCFFF;" align=center| 19
+|
+|
+|
+|
+|
+|8th
+|220
+|-
+|align="left"|  Mark Dismore
+|28
+|style="background:#CFEAFF;" align=center| 6
+|style="background:#CFEAFF;" align=center| 7
+|style="background:#FFFFFF;" align=center|C
+|style="background:#EFCFFF;" align=center| 16
+|style="background:#CFEAFF;" align=center| 8
+|style="background:#CFCFFF;" align=center| 21
+|style="background:#CFCFFF;" align=center| 17
+|style="background:#EFCFFF;" align=center| 15*
+|style="background:#FFDF9F;" align=center| 3
+|style="background:#EFCFFF;" align=center| 20
+|style="background:#FFFFBF;" align=center| 1
+|
+|
+|
+|
+|
+|style="background:#FFDF9F;"|3rd
+|240
+|-
+!rowspan=3| 2000
+!colspan=5|
+| 
+| 
+| 
+| INDY
+| 
+| 
+| 
+| 
+| 
+!colspan=9|
+|-
+|rowspan=2| Dallara IR-00
+|rowspan=2| Oldsmobile Aurora V8
+|rowspan=2| 
+|align="left"|  Scott Sharp
+|8
+|style="background:#CFCFFF;" align=center| 15
+|style="background:#DFFFDF;" align=center| 5*
+|style="background:#EFCFFF;" align=center| 27
+|style="background:#CFEAFF;" align=center| 10
+|style="background:#FFFFBF;" align=center| 1
+|style="background:#FFDF9F;" align=center| 3*
+|style="background:#EFCFFF;" align=center| 16
+|style="background:#EFCFFF;" align=center| 24
+|style="background:#CFCFFF;" align=center| 24
+|
+|
+|
+|
+|
+|
+|
+|7th
+|196
+|-
+|align="left"|  Mark Dismore
+|28
+|style="background:#EFCFFF;" align=center| 16
+|style="background:#CFCFFF;" align=center| 16
+|style="background:#DFDFDF;" align=center| 2*
+|style="background:#CFCFFF;" align=center| 11
+|style="background:#CFEAFF;" align=center| 6
+|style="background:#DFFFDF;" align=center| 4
+|style="background:#EFCFFF;" align=center| 18
+|style="background:#CFCFFF;" align=center| 11
+|style="background:#CFCFFF;" align=center| 14
+|
+|
+|
+|
+|
+|
+|
+|5th
+|202
+|-
+!rowspan=3| 2001
+!colspan=5|
+| 
+| 
+| 
+| INDY
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+!colspan=5|
+|-
+|rowspan=2| Dallara IR-01
+|rowspan=2| Oldsmobile Aurora V8
+|rowspan=2| 
+|align="left"|  Scott Sharp
+|8
+|style="background:#DFFFDF;" align=center| 4
+|style="background:#CFEAFF;" align=center| 8
+|style="background:#DFDFDF;" align=center| 2
+|style="background:#EFCFFF;" align=center| 33
+|style="background:#FFFFBF;" align=center| 1
+|style="background:#CFEAFF;" align=center| 8
+|style="background:#DFFFDF;" align=center| 5
+|style="background:#EFCFFF;" align=center| 17
+|style="background:#DFFFDF;" align=center| 5
+|style="background:#DFDFDF;" align=center| 2*
+|style="background:#CFEAFF;" align=center| 8
+|style="background:#EFCFFF;" align=center| 25
+|style="background:#DFDFDF;" align=center| 2
+|
+|
+|
+|style="background:#FFDF9F;"|3rd
+|355
+|-
+|align="left"|  Mark Dismore
+|28
+|style="background:#EFCFFF;" align=center| 25
+|style="background:#CFEAFF;" align=center| 7
+|style="background:#EFCFFF;" align=center| 26
+|style="background:#CFCFFF;" align=center| 16
+|style="background:#EFCFFF;" align=center| 20
+|style="background:#CFCFFF;" align=center| 13
+|style="background:#CFEAFF;" align=center| 6
+|style="background:#CFCFFF;" align=center| 11
+|style="background:#EFCFFF;" align=center| 16
+|style="background:#EFCFFF;" align=center| 22
+|style="background:#DFDFDF;" align=center| 2
+|style="background:#EFCFFF;" align=center| 17
+|style="background:#EFCFFF;" align=center| 23
+|
+|
+|
+|14th
+|205
+|-
+!rowspan=5| 2002
+!colspan=5|
+| 
+| 
+| 
+| 
+| INDY
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+!colspan=3|
+|-
+|rowspan=4| Dallara IR-02
+|rowspan=4| Chevrolet Indy V8
+|rowspan=4| 
+|align="left"|  Scott Sharp
+|8
+|style="background:#EFCFFF;" align=center| 20
+|style="background:#EFCFFF;" align=center| 16
+|style="background:#CFEAFF;" align=center| 8
+|style="background:#FFFFBF;" align=center| 1
+|style="background:#EFCFFF;" align=center| 27
+|style="background:#CFCFFF;" align=center| 14
+|style="background:#DFFFDF;" align=center| 5
+|style="background:#EFCFFF;" align=center| 21
+|style="background:#CFEAFF;" align=center| 6
+|style="background:#CFEAFF;" align=center| 8
+|style="background:#CFEAFF;" align=center| 9
+|style="background:#DFFFDF;" align=center| 4
+|style="background:#CFCFFF;" align=center| 18
+|style="background:#CFEAFF;" align=center| 7
+|style="background:#DFFFDF;" align=center| 4
+|
+|6th
+|332
+|-
+|align="left"|  Al Unser Jr.
+|rowspan=2|7
+|style="background:#CFCFFF;" align=center| 19
+|style="background:#DFFFDF;" align=center| 5
+|style="background:#CFCFFF;" align=center| 11
+|style="background:#CFCFFF;" align=center| 12
+|style="background:#CFCFFF;" align=center| 12
+|style="background:#DFDFDF;" align=center| 2
+|style="background:#CFEAFF;" align=center| 6
+|style="background:#DFFFDF;" align=center| 5
+|style="background:#EFCFFF;" align=center| 17
+|
+|
+|style="background:#CFEAFF;" align=center| 6
+|style="background:#CFEAFF;" align=center| 7
+|style="background:#DFDFDF;" align=center| 2
+|style="background:#EFCFFF;" align=center| 20
+|
+|7th
+|311
+|-
+|align="left" rowspan=2|  Tony Renna
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#CFEAFF;" align=center| 10
+|style="background:#DFFFDF;" align=center| 4
+|
+|
+|
+|
+|
+|rowspan=2|24th
+|rowspan=2|121
+|-
+|78
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#CFEAFF;" align=center| 7
+|style="background:#EFCFFF;" align=center| 24
+|style="background:#EFCFFF;" align=center| 15
+|style="background:#CFEAFF;" align=center| 9
+|
+|-
+!rowspan=4| 2003
+!colspan=5|
+| 
+| 
+| 
+| INDY
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+!colspan=2|
+|-
+|rowspan=3| Dallara IR-03
+|rowspan=3| Toyota Indy V8
+|rowspan=3| 
+|align="left"|  Scott Sharp
+|8
+|style="background:#DFFFDF;" align=center| 5
+|style="background:#CFEAFF;" align=center| 7
+|style="background:#FFFFBF;" align=center| 1
+|style="background:#EFCFFF;" align=center| 20
+|style="background:#EFCFFF;" align=center| 16
+|style="background:#CFCFFF;" align=center| 11
+|style="background:#CFCFFF;" align=center| 17
+|style="background:#EFCFFF;" align=center| 16
+|style="background:#CFCFFF;" align=center| 13
+|style="background:#DFFFDF;" align=center| 4
+|style="background:#CFEAFF;" align=center| 10
+|style="background:#CFCFFF;" align=center| 13
+|style="background:#CFCFFF;" align=center| 12
+|style="background:#CFCFFF;" align=center| 11
+|style="background:#CFEAFF;" align=center| 8
+|style="background:#CFEAFF;" align=center| 6
+|8th
+|351
+|-
+|align="left"|  Al Unser Jr.
+|31
+|style="background:#CFCFFF;" align=center| 13
+|style="background:#DFFFDF;" align=center| 4
+|style="background:#DFFFDF;" align=center| 5
+|style="background:#CFEAFF;" align=center| 9
+|style="background:#FFFFBF;" align=center| 1
+|style="background:#CFCFFF;" align=center| 14
+|style="background:#CFEAFF;" align=center| 10
+|style="background:#CFCFFF;" align=center| 14
+|style="background:#CFEAFF;" align=center| 8
+|style="background:#CFEAFF;" align=center| 9
+|style="background:#EFCFFF;" align=center| 20
+|style="background:#DFFFDF;" align=center| 4
+|style="background:#CFEAFF;" align=center| 6
+|style="background:#CFCFFF;" align=center| 19
+|style="background:#CFEAFF;" align=center| 9
+|style="background:#CFEAFF;" align=center| 9
+|6th
+|374
+|-
+|align="left"|  Tony Renna
+|32
+|
+|
+|
+|style="background:#CFEAFF;" align=center| 7
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|30th
+|26
+|-
+!rowspan=3| 2004
+!colspan=5|
+| 
+| 
+| 
+| INDY
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+!colspan=2|
+|-
+|rowspan=2| Dallara IR-04
+|rowspan=2| Toyota Indy V8
+|rowspan=2| 
+|align="left"|  Scott Sharp
+|8
+|style="background:#CFEAFF;" align=center| 9
+|style="background:#CFCFFF;" align=center| 13
+|style="background:#CFEAFF;" align=center| 9
+|style="background:#CFCFFF;" align=center| 13
+|style="background:#EFCFFF;" align=center| 18
+|style="background:#CFEAFF;" align=center| 9
+|style="background:#EFCFFF;" align=center| 20
+|style="background:#CFCFFF;" align=center| 14
+|style="background:#CFCFFF;" align=center| 15
+|style="background:#CFEAFF;" align=center| 9
+|style="background:#CFCFFF;" align=center| 17
+|style="background:#CFCFFF;" align=center| 15
+|style="background:#EFCFFF;" align=center| 19
+|style="background:#CFEAFF;" align=center| 9
+|style="background:#CFCFFF;" align=center| 11
+|style="background:#CFEAFF;" align=center| 8
+|13th
+|282
+|-
+|align="left"|  Sarah Fisher
+|39
+|
+|
+|
+|style="background:#CFCFFF;" align=center| 21
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|31st
+|12
+|}
+
+# The 1999 VisionAire 500K at Charlotte was cancelled after 79 laps due to spectator fatalities.
+
+
+==IndyCar wins==
+
+{| class="wikitable" style="font-size:95%;"
+|- 
+! # !! Season !! Date !! Sanction !! Track / Race !! No. !! Winning Driver !! Chassis !! Engine !! Tire !! Grid !! Laps Led
+|-
+|align=center|1
+!rowspan=2|1998
+|March 22
+|IRL
+|Phoenix International Raceway (O)
+|align=center|8
+|align="left"| Scott Sharp
+|Dallara IR8
+|Oldsmobile Aurora V8
+|Goodyear
+|align=center| 8
+|align=center| 30
+|-
+|align=center|2
+|July 19
+|IRL
+|Dover Downs International Speedway (O)
+|align=center|8
+|align="left"| Scott Sharp (2)
+|Dallara IR8
+|Oldsmobile Aurora V8
+|Goodyear
+|align=center| 4
+|align=center| 145
+|-
+|align=center|3
+!rowspan=2|1999
+|July 17
+|IRL
+|Atlanta Motor Speedway (O)
+|align=center|8
+|align="left"| Scott Sharp (3)
+|Dallara IR9
+|Oldsmobile Aurora V8
+|Goodyear
+|align=center| 6
+|align=center| 42
+|-
+|align=center|4
+|October 17
+|IRL
+|Texas Motor Speedway (O)
+|align=center|28
+|align="left"| Mark Dismore
+|Dallara IR9
+|Oldsmobile Aurora V8
+|Goodyear
+|align=center| 2
+|align=center| 31
+|-
+|align=center|5
+!2000
+|June 11
+|IRL
+|Texas Motor Speedway (O)
+|align=center|8
+|align="left"| Scott Sharp (4)
+|Dallara IR-00
+|Oldsmobile Aurora V8
+|Firestone
+|align=center| 12
+|align=center| 38
+|-
+|align=center|6
+!2001
+|June 9
+|IRL
+|Texas Motor Speedway (O)
+|align=center|8
+|align="left"| Scott Sharp (5)
+|Dallara IR-01
+|Oldsmobile Aurora V8
+|Firestone
+|align=center| 2
+|align=center| 33
+|-
+|align=center|7
+!2002
+|April 21
+|IRL
+|Nazareth Speedway (O)
+|align=center|8
+|align="left"| Scott Sharp (6)
+|Dallara IR-02
+|Chevrolet Indy V8
+|Firestone
+|align=center| 11
+|align=center| 33
+|-
+|align=center|8
+!rowspan=2|2003
+|April 13
+|IRL
+|Twin Ring Motegi (O)
+|align=center|8
+|align="left"| Scott Sharp (7)
+|Dallara IR-03
+|Toyota Indy V8
+|Firestone
+|align=center| 7
+|align=center| 26
+|-
+|align=center|9
+|June 7
+|IRL
+|Texas Motor Speedway (O)
+|align=center|31
+|align="left"| Al Unser Jr.
+|Dallara IR-03
+|Toyota Indy V8
+|Firestone
+|align=center| 7
+|align=center| 54
+|}
+
+
+
+Category:IndyCar Series teams
+Category:American auto racing teams
+Category:Indy Lights teams

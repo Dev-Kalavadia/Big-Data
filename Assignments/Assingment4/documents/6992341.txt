@@ -1,0 +1,59 @@
+Title: Jeongja station
+
+Jeongja (formerly Baekgung station) is a station on the Bundang Line and the Shinbundang Line, an express subway in South Korea.
+
+It was the southern terminus of the Shinbundang Line, between October 2011 and January 2016, when the Shinbundang Line extended to Gwanggyo station. However, it still exists as a divide in terms of fare since riders need to pay an extra charge of 300 won (on top of the 900 won charge of using the Shinbundang Line) when crossing this station, due to the owners of Phase 1 and 2 being different. This rule only applies to the Shinbundang Line - Riders of the Bundang Line pay the normal minimum fare of 1,250 won.
+
+==Station layout==
+
+===Korail===
+{|style="text-align:center;"
+|-
+|↑ Sunae
+|-
+|| 2   1
+|-
+| Migeum↓ 
+|}
+
+{| border="1" cellspacing="0" cellpadding="3" frame="hsides" rules="rows"
+|-
+!1
+| 
+| for Incheon
+|-
+!2
+| 
+| for  / Cheongnyangni
+|-
+|}
+
+===Shinbundang Railroad Corporation===
+{|style="text-align:center;"
+|-
+|↑ Pangyo
+|-
+|| N/B   S/B
+|-
+| Migeum ↓ 
+|}
+
+{| border="1" cellspacing="0" cellpadding="3" frame="hsides" rules="rows"
+|-
+!Southbound
+| ●Shinbundang Line
+| for Gwanggyo
+|-
+!Northbound
+| ●Shinbundang Line
+| for 
+|-
+|}
+
+==History==
+
+* 1 September 1994: Railway line from Suseo station to Ori station started to operate.  This station was named Baekgung station.
+* 25 September 2002: After Baekgung-dong merged with Jeongja-dong, this station was renamed to Jeongja station.
+* 28 October 2011: The Shinbundang Line opens making Jeongja a transfer station and a terminal station of this line.
+* 30 January 2016: The Shinbundang Line opens its southern extension to Gwanggyo station, thus ending its terminus status.
+

@@ -1,0 +1,39 @@
+Title: Terry Simpson
+
+
+Terry Simpson (born August 30, 1943) is a Canadian former professional ice hockey player and a former NHL head coach.
+
+Born in Brantford, Ontario, Simpson only played one season of professional ice hockey in 1964–65 for the Jacksonville Rockets of the EHL. He was the head coach of the New York Islanders, Philadelphia Flyers, and Winnipeg Jets.
+
+Simpson had a notable coaching career in junior hockey for 10 years with the Prince Albert Raiders. He led the team to seven consecutive Anavet Cups and four Manitoba Centennial Cup titles. After the Raiders joined the Western Hockey League, he led them to the 1985 Memorial Cup championship.
+
+Due to his success with the Raiders, the city of Prince Albert named the road leading to the Art Hauser Centre "Terry Simpson Lane" in his honour.
+
+==Coaching record==
+{| class="wikitable" style="font-size: 95%; text-align:center;"
+|-
+! rowspan="2"|Team !! rowspan="2"|Year !! colspan="6"|Regular season !! colspan="1"|Post season
+|-
+! G !! W !! L !! T !! Pts !! Division rank !! Result
+|-
+!NYI||1986–87
+|80||35||33||12||82||3rd in Patrick||Lost in Second round
+|-
+!NYI||1987–88
+|80||39||31||10||88||1st in Patrick||Lost in First round
+|-
+!NYI||1988–89
+|27||7||18||2||(61)||6th in Patrick||(Fired)
+|-
+!PHI||1993–94
+|84||35||39||10||80||6th in Atlantic||Missed Playoffs
+|-
+!WPG||1994–95
+|15||7||7||1||(39)||6th in Central||Missed Playoffs
+|-
+!WPG||1995–96
+|82||36||40||6||78||5th in Central||Lost in First round
+|-
+! colspan="2"|Total ||368||159||168||41||359
+|}
+

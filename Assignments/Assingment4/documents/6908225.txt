@@ -1,0 +1,95 @@
+Title: Media in LethbridgeThis is a list of media outlets in the city of Lethbridge, Alberta, Canada.
+
+==Radio==
+
+{| class="wikitable" width="100%"
+|-
+! Frequency !! Call letters !! Branding !! Format !! Owner!! Notes
+|-
+| 88.3 FM || CKXU-FM || CKXU 88.3 FM || campus radio || CKXU Radio Society ||
+|-
+| 91.7 FM || CBBC-FM || CBC Music || public music || Canadian Broadcasting Corporation || Repeater of CBR-FM Calgary
+|-
+| 93.3 FM || CJBZ-FM || B93 || contemporary hit radio || Jim Pattison Group ||
+|-
+| 94.1 FM || CJOC-FM || 94.1 CJOC ||classic hits ||Vista Radio||
+|-
+| 95.5 FM || CHLB-FM || Wild 95.5 || country music || Jim Pattison Group ||
+|-
+| 98.1 FM || CKBD-FM || 2Day FM ||modern adult contemporary||Vista Radio|| 
+|-
+| 99.3 FM || CKUA-FM-2 || CKUA || public radio || CKUA Radio Foundation || Repeater of CKUA Edmonton
+|-
+| 100.1 FM || CBRL-FM || CBC Radio One || news/talk || Canadian Broadcasting Corporation || Repeater of CBR Calgary
+|-
+| 104.3 FM || CHFA-1-FM || Ici Radio-Canada Première || news/talk || Canadian Broadcasting Corporation || French, repeater of CHFA Edmonton
+|-
+| 106.7 FM || CJRX-FM || 106.7 Rock || active rock || Rogers Media ||
+|-
+| 107.7 FM || CFRV-FM || KiSS 107.7 || adult contemporary || Rogers Media ||
+|}
+
+==Television==
+{|class="wikitable sortable" width="100%"
+!OTA virtual channel (PSIP)
+!OTA actual channel
+!Shaw Cable
+!Call sign
+!Network
+!Notes
+|-
+|2.1
+|46 (UHF)
+|8
+|CKAL-DT-1
+|Citytv
+|Rebroadcaster of CKAL-DT (Calgary)
+|-
+|7.1
+|7 (VHF)
+|5
+|CISA-DT 
+|Global
+|
+|-
+|13.1
+|13 (VHF)
+|3
+|CFCN-DT-5
+|CTV
+|Rebroadcaster of CFCN-DT (Calgary)
+|-
+|17.1
+|17 (UHF)
+|4
+|CJIL-DT
+|Independent
+|Bridge City News/Miracle Channel
+|-
+|–
+|–
+|9
+|–
+|Shaw TV
+|Community channel for Shaw Cable subscribers.
+|}
+
+Lethbridge previously received CBC Television from a rebroadcaster of CBRT-DT in Calgary, and Ici Radio-Canada Télé from a rebroadcaster of CBXFT-DT in Edmonton. However, these repeaters went off the air on August 31, 2012 due to budget cuts. Most Lethbridge residents didn't lose access to CBC or Radio-Canada programming, however, as they are still carried on cable.
+
+The incumbent cable television provider in Lethbridge is Shaw Cable. Network programming from the United States is received on cable via affiliates from Spokane, Washington, which is in the Pacific Time Zone. This means American prime time shows on weekdays run from 9PM–12 midnight. Also, except for PBS, HDTV network programming is from Seattle. On digital cable, U.S. network programming (in standard resolution) is available from Detroit in the Eastern Time Zone. Prime time shows on weekdays run from 6PM-9PM.
+
+==Newspapers==
+* The Endeavour - weekly, produced by the advertising/public relations and print journalism students at Lethbridge College
+* Lethbridge Herald - daily paper, owned by Glacier Ventures International Corp. and Alta Newspaper Group Limited Partnership
+* Lethbridge Journal -  Former weekly paper, published by Lethbridge Herald
+* Lethbridge Sun Times - weekly paper, published by Lethbridge Herald
+* The Meliorist - weekly, independent student newspaper at the University of Lethbridge
+
+==See also==
+* List of Calgary media outlets
+
+
+
+*
+Lethbridge
+Media, Lethbridge

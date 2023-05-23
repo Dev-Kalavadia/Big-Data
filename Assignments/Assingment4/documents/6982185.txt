@@ -1,0 +1,52 @@
+Title: Krapkowice County
+__NOTOC__
+Krapkowice County () is a unit of territorial administration and local government (powiat) in Opole Voivodeship, south-western Poland. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and largest town is Krapkowice, which lies  south of the regional capital Opole. The county also contains the towns of Zdzieszowice, lying  south-east of Krapkowice, and Gogolin,  north-east of Krapkowice.
+
+The county covers an area of . As of 2006 its total population is 67,926, out of which the population of Krapkowice is 16,301, that of Zdzieszowice is 11,445, that of Gogolin is 6,682, and the rural population is 29,429.
+
+==Neighbouring counties==
+Krapkowice County is bordered by Opole County to the north, Strzelce County to the east, Kędzierzyn-Koźle County to the south-east and Prudnik County to the west.
+
+==Administrative division==
+The county is subdivided into five gminas (three urban-rural and two rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km2)
+| style="text-align:center;"|Population(2019)
+| style="text-align:center;"|Seat
+|-
+|Gmina Krapkowice
+|urban-rural
+| style="text-align:right;"|97.4
+| style="text-align:right;"|22,656
+|Krapkowice
+|-
+|Gmina Zdzieszowice
+|urban-rural
+| style="text-align:right;"|57.9
+| style="text-align:right;"|15,740
+|Zdzieszowice
+|-
+|Gmina Gogolin
+|urban-rural
+| style="text-align:right;"|100.5
+| style="text-align:right;"|12,632
+|Gogolin
+|-
+|Gmina Strzeleczki
+|rural
+| style="text-align:right;"|117.3
+| style="text-align:right;"|7,391
+|Strzeleczki
+|-
+|Gmina Walce
+|rural
+| style="text-align:right;"|69.3
+| style="text-align:right;"|5,438
+|Walce
+|-
+|}
+

@@ -1,0 +1,9 @@
+Title: Septimal chromatic semitonethumb|right|Septimal chromatic semitone on C .
+thumb|right|Septimal chromatic semitone + octave .
+
+In music, a septimal chromatic semitone or minor semitoneHaluska, Jan (2003). The Mathematical Theory of Tone Systems, p.xxiv. . is the interval 21:20 ().  It is about 84.47 cents. The septimal chromatic semitone may be derived from the harmonic series as the interval between the twentieth and twenty-first harmonics.
+
+The septimal chromatic semitone equals a just chromatic semitone (25:24) plus a septimal semicomma (126:125).
+
+When added to the 15:14 semitone, the 21:20 semitone and 28:27 semitone produce the 9:8 tone (major tone) and 10:9 tone (minor tone), respectively.
+

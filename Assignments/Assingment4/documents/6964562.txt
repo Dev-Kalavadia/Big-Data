@@ -1,0 +1,20 @@
+Title: Worldwide Protein Data Bank
+
+
+The Worldwide Protein Data Bank, wwPDB, is an organization that maintains the archive of macromolecular structure. Its mission is to maintain a single Protein Data Bank Archive of macromolecular structural data that is freely and publicly available to the global community.Worldwide Protein Data Bank. URL: http://www.wwpdb.org. Accessed on: April 22, 2009.
+
+The organization has five members:  
+*Research Collaboratory for Structural Bioinformatics Protein Database (RCSB PDB)
+*Protein Data Bank in Europe (PDBe)
+*Protein Data Bank Japan (PDBj)
+*Biological Magnetic Resonance Data Bank (BMRB)
+*Electron Microscopy Data Bank (EMDB).
+The wwPDB was founded in 2003 by  RCSB PDB (USA), PDBe (Europe) and PDBj (Japan).  In 2006 BMRB (USA) joined the wwPDB. EMDB (UK) joined in 2021.
+
+Each member's site can accept structural data and process the data.  The processed data is sent to the "archive keeper". The RCSB PDB presently acts as the "archive keeper". This ensures that there is only one version of the data which is identical for all users.  The modified database is then made available to the other wwPDB members, each of whom makes the resulting structure files available through their websites to the public.  (Data is accessed from the wwPDB website itself only through links to the member websites.)  The member sites are more than just mirrors of the archive keeper, because the members offer different tools on their websites for analysing the structures in the database.
+
+AccomplishmentswwPDB annual reports
+*2008  The wwPDB now requires that, in addition to atomic coordinates, structure factor amplitudes and intensities (for crystal structure depositions) and NMR restraints (for NMR structure depositions) must be deposited as a prerequisite for receiving a PDB ID.
+*2007  Rolled out a remediated PDB.  Remediation included changing the nomenclature to conform to IUPAC standards.
+
+

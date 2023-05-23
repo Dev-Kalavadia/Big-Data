@@ -1,0 +1,462 @@
+Title: Administrative divisions of Orenburg Oblast{| border=1 align="right" cellpadding=2 cellspacing=0 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|-
+! bgcolor="#ccccff" style="padding:0 0 0 50px;" | Orenburg Oblast, Russia
+| width="50px" | 50px|Flag of Orenburg Oblast
+|-
+| colspan=2 align="center"|Administrative center: Orenburg
+|-
+| colspan=2 align="center"|As of 2012:
+|-
+| # of districts(районы)|| 35
+|-
+| # of cities and towns(города)|| 12
+|-
+| # of urban-type settlements(посёлки городского типа)|| 0
+|-
+| # of selsovets and settlement councils(сельсоветы и поселковые советы)|| 575
+|-
+| colspan=2 align="center"|As of 2002:Results of the 2002 Russian Population Census—Territory, number of districts, inhabited localities, and rural administrations of the Russian Federation by federal subject 
+|-
+| # of rural localities(сельские населённые пункты)|| 1,742
+|-
+| # of uninhabited rural localities(сельские населённые пункты без населения)|| 27
+|-
+|}
+
+
+==Administrative and municipal divisions==
+
+{| class="wikitable" style="padding: 24em 0; border: 1px #aaa solid; border-collapse: collapse; font-size: 90%;"
+! colspan="2" rowspan="2" | Division
+! colspan="2" | Structure
+! rowspan="2" | OKATO
+! rowspan="2" | OKTMO
+! rowspan="2" | Rural
+|-
+!Administrative
+!Municipal
+|-
+| colspan="2" | Komarovsky (Комаровский)
+| urban-type settlement 
+| urban okrug
+| align="center" | 53 555
+| align="center" | 53 755
+| 
+|-
+| colspan="2" | Orenburg (Оренбург)
+| city
+| urban okrug
+| align="center" | 53 401
+| align="center" | 53 701
+| 
+|-
+| bgcolor="lightgreen" | ↳
+| Dzerzhinsky (Дзержинский)
+| bgcolor="lightpink" | 
+| 
+| bgcolor="lightpink" align="center" | 53 401
+| 
+| 
+*1 selsovet
+|-
+| bgcolor="lightgreen" | ↳
+| Leninsky (Ленинский)
+| bgcolor="lightpink" | 
+| 
+| bgcolor="lightpink" align="center" | 53 401
+| 
+| 
+*2 selsovets
+|-
+| bgcolor="lightgreen" | ↳
+| Promyshlenny (Промышленный)
+| bgcolor="lightpink" | 
+| 
+| bgcolor="lightpink" align="center" | 53 401
+| 
+| 
+*2 selsovets
+|-
+| bgcolor="lightgreen" | ↳
+| Tsentralny (Центральный)
+| bgcolor="lightpink" | 
+| 
+| bgcolor="lightpink" align="center" | 53 401
+| 
+| 
+*1 selsovet
+|-
+| colspan="2" | Abdulino (Абдулино)
+| city
+| bgcolor="lightpink" | 
+| align="center" | 53 404
+| bgcolor="lightpink" align="center" | 53 603
+| 
+|-
+| colspan="2" | Buguruslan (Бугуруслан)
+| city
+| urban okrug
+| align="center" | 53 408
+| align="center" | 53 708
+| 
+*1 selsovet
+|-
+| colspan="2" | Buzuluk (Бузулук)
+| city
+| urban okrug
+| align="center" | 53 412
+| align="center" | 53 712
+| 
+|-
+| colspan="2" | Gay (Гай)
+| city
+| urban okrug
+| align="center" | 53 413
+| align="center" | 53 713
+| 
+*1 settlement council
+|-
+| colspan="2" | Kuvandyk (Кувандык)
+| city
+| bgcolor="lightpink" | 
+| align="center" | 53 414
+| bgcolor="lightpink" align="center" | 53 624
+| 
+|-
+| colspan="2" | Mednogorsk (Медногорск)
+| city
+| urban okrug
+| align="center" | 53 415
+| align="center" | 53 715
+| 
+*1 selsovet
+|-
+| colspan="2" | Novotroitsk (Новотроицк)
+| city
+| urban okrug
+| align="center" | 53 420
+| align="center" | 53 720
+| 
+*3 selsovets
+|-
+| colspan="2" | Orsk (Орск)
+| city
+| urban okrug
+| align="center" | 53 423
+| align="center" | 53 723
+| 
+|-
+| bgcolor="lightgreen" | ↳
+| Leninsky (Ленинский)
+| bgcolor="lightpink" | 
+| 
+| bgcolor="lightpink" align="center" | 53 423
+| 
+| 
+|-
+| bgcolor="lightgreen" | ↳
+| Oktyabrsky (Октябрьский)
+| bgcolor="lightpink" | 
+| 
+| bgcolor="lightpink" align="center" | 53 423
+| 
+| 
+*1 selsovet
+|-
+| bgcolor="lightgreen" | ↳
+| Sovetsky (Советский)
+| bgcolor="lightpink" | 
+| 
+| bgcolor="lightpink" align="center" | 53 423
+| 
+| 
+*3 selsovets
+|-
+| colspan="2" | Sol-Iletsk (Соль-Илецк)
+| city
+| urban okrug
+| align="center" | 53 425
+| align="center" | 53 725
+| 
+|-
+| colspan="2" | Sorochinsk (Сорочинск)
+| city
+| urban okrug
+| align="center" | 53 427
+| align="center" | 53 727
+| 
+|-
+| colspan="2" | Yasny (Ясный)
+| city
+| bgcolor="lightpink" | 
+| align="center" | 53 432
+| bgcolor="lightpink" align="center" | 53 659
+| 
+|-
+| colspan="2" | Abdulinsky (Абдулинский)
+| district
+| urban okrug
+| align="center" | 53 203
+| align="center" | 53 603
+| 
+*14 selsovets
+|-
+| colspan="2" | Adamovsky (Адамовский)1
+| colspan="2" | district
+| align="center" | 53 204
+| align="center" | 53 604
+| 
+*10 selsovets 
+*2 settlement councils
+|-
+| colspan="2" | Akbulaksky (Акбулакский)
+| colspan="2" | district
+| align="center" | 53 205
+| align="center" | 53 605
+| 
+*16 selsovets 
+*1 settlement council
+|-
+| colspan="2" | Alexandrovsky (Александровский)
+| colspan="2" | district
+| align="center" | 53 206
+| align="center" | 53 606
+| 
+*14 selsovets
+|-
+| colspan="2" | Asekeyevsky (Асекеевский)
+| colspan="2" | district
+| align="center" | 53 207
+| align="center" | 53 607
+| 
+*21 selsovets
+|-
+| colspan="2" | Belyayevsky (Беляевский)
+| colspan="2" | district
+| align="center" | 53 210
+| align="center" | 53 610
+| 
+*10 selsovets 
+*1 settlement council
+|-
+| colspan="2" | Buguruslansky (Бугурусланский)
+| colspan="2" | district
+| align="center" | 53 211
+| align="center" | 53 611
+| 
+*15 selsovets
+|-
+| colspan="2" | Buzuluksky (Бузулукский)
+| colspan="2" | district
+| align="center" | 53 212
+| align="center" | 53 612
+| 
+*28 selsovets 
+*1 settlement council
+|-
+| colspan="2" | Gaysky (Гайский)
+| district
+| bgcolor="lightpink" | 
+| align="center" | 53 214
+| bgcolor="lightpink" align="center" | 53 713
+| 
+*6 selsovets 
+*2 settlement councils
+|-
+| colspan="2" | Grachyovsky (Грачёвский)
+| colspan="2" | district
+| align="center" | 53 215
+| align="center" | 53 615
+| 
+*13 selsovets
+|-
+| colspan="2" | Dombarovsky (Домбаровский)
+| colspan="2" | district
+| align="center" | 53 217
+| align="center" | 53 617
+| 
+*6 selsovets 
+*1 settlement council
+|-
+| colspan="2" | Ileksky (Илекский)
+| colspan="2" | district
+| align="center" | 53 219
+| align="center" | 53 619
+| 
+*15 selsovets
+|-
+| colspan="2" | Kvarkensky (Кваркенский)
+| colspan="2" | district
+| align="center" | 53 222
+| align="center" | 53 622
+| 
+*12 selsovets 
+*2 settlement councils
+|-
+| colspan="2" | Krasnogvardeysky (Красногвардейский)
+| colspan="2" | district
+| align="center" | 53 223
+| align="center" | 53 623
+| 
+*16 selsovets
+|-
+| colspan="2" | Kuvandyksky (Кувандыкский)
+| district
+| urban okrug
+| align="center" | 53 224
+| align="center" | 53 624
+| 
+*18 selsovets
+|-
+| colspan="2" | Kurmanayevsky (Курманаевский)
+| colspan="2" | district
+| align="center" | 53 225
+| align="center" | 53 625
+| 
+*17 selsovets
+|-
+| colspan="2" | Matveyevsky (Матвеевский)
+| colspan="2" | district
+| align="center" | 53 227
+| align="center" | 53 627
+| 
+*16 selsovets
+|-
+| colspan="2" | Novoorsky (Новоорский)
+| colspan="2" | district
+| align="center" | 53 230
+| align="center" | 53 630
+| 
+*7 selsovets 
+*2 settlement councils
+|-
+| colspan="2" | Novosergiyevsky (Новосергиевский)
+| colspan="2" | district
+| align="center" | 53 231
+| align="center" | 53 631
+| 
+*18 selsovets 
+*1 settlement council
+|-
+| colspan="2" | Oktyabrsky (Октябрьский)
+| colspan="2" | district
+| align="center" | 53 233
+| align="center" | 53 633
+| 
+*15 selsovets
+|-
+| colspan="2" | Orenburgsky (Оренбургский)
+| colspan="2" | district
+| align="center" | 53 234
+| align="center" | 53 634
+| 
+*30 selsovets
+*1 settlement council
+|-
+| colspan="2" | Pervomaysky (Первомайский)
+| colspan="2" | district
+| align="center" | 53 236
+| align="center" | 53 636
+| 
+*16 selsovets
+|-
+| colspan="2" | Perevolotsky (Переволоцкий)
+| colspan="2" | district
+| align="center" | 53 237
+| align="center" | 53 637
+| 
+*18 selsovets 
+*1 settlement council
+|-
+| colspan="2" | Ponomaryovsky (Пономарёвский)
+| colspan="2" | district
+| align="center" | 53 238
+| align="center" | 53 638
+| 
+*16 selsovets
+|-
+| colspan="2" | Sakmarsky (Сакмарский)
+| colspan="2" | district
+| align="center" | 53 240
+| align="center" | 53 640
+| 
+*15 selsovets 
+*1 settlement council
+|-
+| colspan="2" | Saraktashsky (Саракташский)
+| colspan="2" | district
+| align="center" | 53 241
+| align="center" | 53 641
+| 
+*19 selsovets 
+*1 settlement council
+|-
+| colspan="2" | Svetlinsky (Светлинский)
+| colspan="2" | district
+| align="center" | 53 242
+| align="center" | 53 642
+| 
+*9 selsovets 
+*1 settlement council
+|-
+| colspan="2" | Severny (Северный)
+| colspan="2" | district
+| align="center" | 53 243
+| align="center" | 53 643
+| 
+*17 selsovets
+|-
+| colspan="2" | Sol-Iletsky (Соль-Илецкий)
+| district
+| bgcolor="lightpink" | 
+| align="center" | 53 244
+| bgcolor="lightpink" align="center" | 53 725
+| 
+*21 selsovets
+|-
+| colspan="2" | Sorochinsky (Сорочинский)
+| district
+| bgcolor="lightpink" | 
+| align="center" | 53 250
+| bgcolor="lightpink" align="center" | 53 727
+| 
+*15 selsovets
+|-
+| colspan="2" | Tashlinsky (Ташлинский)
+| colspan="2" | district
+| align="center" | 53 251
+| align="center" | 53 251
+| 
+*18 selsovets
+|-
+| colspan="2" | Totsky (Тоцкий)
+| colspan="2" | district
+| align="center" | 53 252
+| align="center" | 53 652
+| 
+*22 selsovets
+|-
+| colspan="2" | Tyulgansky (Тюльганский)
+| colspan="2" | district
+| align="center" | 53 253
+| align="center" | 53 653
+| 
+*14 selsovets 
+*1 settlement council
+|-
+| colspan="2" | Sharlyksky (Шарлыкский)
+| colspan="2" | district
+| align="center" | 53 256
+| align="center" | 53 656
+| 
+*17 selsovets
+|-
+| colspan="2" | Yasnensky (Ясненский)
+| district
+| urban okrug
+| align="center" | 53 259
+| align="center" | 53 659
+| 
+*6 selsovets
+|}
+

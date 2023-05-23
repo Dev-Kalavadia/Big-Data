@@ -1,0 +1,50 @@
+Title: 1014 Semphyra
+
+1014 Semphyra, provisional designation , is a background asteroid from the central regions of the asteroid belt, approximately 17 kilometers in diameter. It was discovered on 29 January 1924, by German astronomer Karl Reinmuth at the Heidelberg Observatory in southwest Germany. The asteroid was named after the character "Semphyra" in a poem by Aleksandr Pushkin.
+
+== Orbit and classification ==
+
+Semphyra has not been associated with any known asteroid family. It orbits the Sun in the central main belt at a distance of 2.2–3.4 AU once every 4 years and 8 months (1,714 days). Its orbit has an eccentricity of 0.20 and an inclination of 2° with respect to the ecliptic.
+
+The body's observation arc begins with its official discovery observation at Heidelberg.
+
+== Physical characteristics ==
+
+In the SMASS classification, Semphyra is an Xe-subtype that transitions from the X-type to the bright E-type asteroids, while the Wide-field Infrared Survey Explorer characterizes it as a dark P-type.
+
+=== Rotation period ===
+
+In February 2004, a rotational lightcurve of Semphyra was obtained from photometric observations by American astronomer Donald Pray at the Carbuncle Hill Observatory, Rhode Island (). The observations were made at a low phase angle of 1.6–2.9°. Lightcurve analysis gave a well-defined rotation period of 5.636 hours with a brightness amplitude of 0.12 magnitude (), indicating that the body has a rather spheroidal shape.
+
+=== Diameter and albedo ===
+
+According to the surveys carried out by the Japanese Akari satellite and the NEOWISE mission of NASA's WISE, Semphyra measures between 14.89 and 17.487 kilometers in diameter and its surface has an albedo between 0.083 and 0.12.
+
+The Collaborative Asteroid Lightcurve Link assumes a standard albedo for carbonaceous asteroids of 0.057 and calculates a diameter of 23.21 kilometers based on an absolute magnitude of 11.9.
+
+== Naming ==
+
+This minor planet was named after the character "Semphyra" in a poem by Russian Aleksandr Pushkin (1799–1837), who was directly honored with the naming of . The asteroid's official name was proposed by N. Komendantov () and mentioned in The Names of the Minor Planets by Paul Herget in 1955 ().
+
+== References ==
+ 
+
+== External links ==
+* Asteroid Lightcurve Database (LCDB), query form (info )
+* Dictionary of Minor Planet Names, Google books
+* Asteroids and comets rotation curves, CdR – Observatoire de Genève, Raoul Behrend
+* Discovery Circumstances: Numbered Minor Planets (1)-(5000) – Minor Planet Center
+* 
+* 
+
+
+
+
+
+
+001014
+Category:Discoveries by Karl Wilhelm Reinmuth
+19240129
+Category:Named minor planets
+Category:Alexander Pushkin
+001014

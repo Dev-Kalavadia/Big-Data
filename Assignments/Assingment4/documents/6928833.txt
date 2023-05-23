@@ -1,0 +1,11 @@
+Title: M 51 and M 52 MACI minesThe M 51 MACI and M 52 MACI (Mine Antichar Indétectable) are French circular minimum metal anti-tank blast mines. The use a variety of fuzes, a M61 pressure/friction fuze, a "tentacle" fuze with four hoses that triggers the mine when two of the opposite tentacles are crushed, and a tilt rod fuze. The M51 and M52 are broadly similar with a thin fibreglass cases, the principal difference being the M52 is slightly larger than the M51.
+
+==Specifications==
+{|class=wikitable
+! Mine || Diameter || Height || Weight || Explosive content || Operating pressure 
+|-
+| M 51 MACI || 300 mm || 95 mm || 7 kg || TNT and RDX || various, pressure fuze with 300 kg
+|-
+| M 52 MACI || 300 mm || 120 mm || 9 kg || TNT and RDX || various, pressure fuze with 300 kg
+|}
+

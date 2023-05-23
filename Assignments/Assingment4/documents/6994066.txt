@@ -1,0 +1,47 @@
+Title: 1388 Aphrodite
+
+
+
+1388 Aphrodite (prov. designation: ) is an asteroid of the Eos family from the outer regions of the asteroid belt, approximately  in diameter. It was discovered on 24 September 1935, by Belgian astronomer Eugène Delporte at the Royal Observatory of Belgium in Uccle. The likely elongated K-type asteroid has a rotation period of 11.9 hours. It was named after the Greek goddess Aphrodite from Greek mythology.
+
+== Orbit and classification ==
+
+Aphrodite is a core member of the Eos family (), the largest asteroid family in the outer main belt consisting of nearly 10,000 asteroids. It orbits the Sun at a distance of 2.7–3.3 AU once every 5 years and 3 months (1,916 days; semi-major axis of 3.02 AU). Its orbit has an eccentricity of 0.09 and an inclination of 11° with respect to the ecliptic. The body's observation arc begins at Johannesburg Observatory in September 1939, just four nights after its official discovery observation at Uccle.
+
+== Naming ==
+
+This minor planet was named from Greek mythology after Aphrodite, the Greek goddess of love, beauty, and sexuality, and daughter of Zeus and the Titaness Dione. The asteroid's name was proposed by the German Astronomisches Rechen-Institut (). The official  was mentioned in The Names of the Minor Planets by Paul Herget in 1955 ().
+
+== Physical characteristics ==
+
+While the asteroid's spectral type is unknown, Aphrodite, with a geometric albedo of around 0.15 (see asteroid-family list), is likely a K-type asteroid, which is typically associated with members of the Eos family.
+
+=== Rotation period and poles ===
+
+In May 2007, a rotational lightcurve of Aphrodite was obtained from photometric observations by Julian Oey at the Kingsgrove Observatory  in Australia in collaboration with other observatories. Lightcurve analysis gave a well-defined rotation period of  hours and a brightness variation of 0.65 magnitude (), indicative for an elongated, non-spherical shape. Alternative period determinations by Alvaro Alvarez-Candal (9 h; Δ 0.4 mag) in 2004, René Roy (11.88 h; Δ 0.34 mag) in 2006, and Kevin Ivarsen (11.95 h; Δ 0.35 mag) in 2003, received a lower rating ().
+
+A modeled lightcurve using photometry obtained from public databases and through a large collaboration network as well as sparse-in-time individual measurements from a few sky surveys was published in 2016 and 2018. Most recent results gave a concurring sidereal period of  hours, as well as two spin axes at (325.0°, 35.0°) and (137.0°, 66.0°) in ecliptic coordinates (λ, β).
+
+=== Diameter and albedo ===
+
+According to the surveys carried out by the Infrared Astronomical Satellite IRAS, the Japanese Akari satellite and the NEOWISE mission of NASA's Wide-field Infrared Survey Explorer, Aphrodite measures between 21.4 and 25.2 kilometers in diameter and its surface has an albedo between 0.13 and 0.18. The Collaborative Asteroid Lightcurve Link derives an albedo of 0.1217 and a diameter of 25.17 kilometers based on an absolute magnitude of 10.9.
+
+== References ==
+ 
+
+== External links ==
+* Lightcurve Database Query (LCDB), at www.minorplanet.info
+* Dictionary of Minor Planet Names, Google books
+* Asteroids and comets rotation curves, CdR – Geneva Observatory, Raoul Behrend
+* Discovery Circumstances: Numbered Minor Planets (1)-(5000) – Minor Planet Center
+* 
+* 
+
+
+
+
+
+001388
+Category:Discoveries by Eugène Joseph Delporte
+Category:Named minor planets
+19350924

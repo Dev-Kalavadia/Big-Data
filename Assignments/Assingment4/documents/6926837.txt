@@ -1,0 +1,158 @@
+Title: Grimsby-class sloop
+
+{|
+
+
+
+|}
+The Grimsby-class sloops were a class of 13 sloops-of-war laid down between 1933 and 1940. Of these, eight were built in the United Kingdom for the Royal Navy, four in Australia for the Royal Australian Navy and one for the Royal Indian Navy. Main armament was initially two  guns for RN ships and three  for Australian ships, but armament varied considerably between ships, and was increased later.
+
+Losses during World War II were , , , and . Some survivors of this class served into the 1960s. One ship, , is preserved as the headquarters of the Honourable Company of Master Mariners.
+
+==Design==
+The Royal Navy started to build replacements for the  and  sloops of the First World War, when the two vessels of the  were laid down in 1928, with the similar four-ship  laid down in 1929 and the eight ships of the  being laid down in 1929–31. All of these ships were designed to combine the convoy-escort role of the  Flower class with the minesweeping duties of the Hunt class, being fitted with equipment for both roles. By 1932, however, it became clear that what was needed was ships dedicated to a single role. Development therefore began of the s as a cheaper mass-production minesweeper, while a new class of sloops would be built that was more closely matched to the escort role.
+
+The new class of escort sloops, the Grimsby class, had a heavier gun armament than its predecessors, with two 4.7-inch (120 mm) Mark IX guns mounted fore and aft replacing the  guns of the earlier ships. As the 4.7-inch guns were low-angle guns, not suited to anti aircraft use, a single QF 3-inch 20 cwt anti-aircraft gun was mounted in "B" position. Four 3-pounder saluting guns completed the ships' gun armament. The ship was powered by two geared steam turbines driving two shafts, fed by two Admiralty 3-drum boilers. This machinery produced  and could propel the ships to a speed of .
+
+Eight ships of the class were built for the Royal Navy, being laid down between 1933 and 1935 and completing between 1934 and 1936. The last two ships built for the Royal Navy,  and  had differing armaments, with Aberdeen replacing the 4.7 and 3-inch guns with two 4-inch anti-aircraft guns, and adding a quadruple .50-inch anti-aircraft machine gun mount, while Fleetwood had a main gun armament of two twin 4-inch anti-aircraft mounts, with a short-range anti-aircraft armament of four .50 in machine guns.
+
+
+
+The Royal Australian Navy also adopted the Grimsby class, with two ships being laid down in 1934–35 and completed in 1935–36, with two more ships laid down in 1938–39 and completed in 1940. The first two ships were armed with three single 4-inch anti-aircraft guns, while the third and fourth ships having one twin and one-single 4-inch mount, with short-range armament a quadruple machine gun mount in all four ships.
+
+The armament of most of the class was reinforced during the Second World War, with several gaining additional 4-inch guns, with the close in anti aircraft armament being supplemented by the addition of Oerlikon 20 mm cannon. The ships' depth charge complement increased from 15 at the start of the war to 40 for Australian ships and up to 90 for Royal Navy ships, while several ships were also refitted with a Hedgehog anti-submarine projector.
+
+==Ships==
+{|class="wikitable"
+|- bgcolor="#efefef"
+! Name
+! Builder
+! Ordered
+! Laid down
+! Launched
+! Commissioned
+! Fate
+|-
+!colspan=7 align=center|Royal Navy
+|-
+|colspan=7 align=center|Group 1
+|-
+|
+|HM Dockyard, Devonport
+|1 November 1932
+|23 January 1933
+|19 July 1933
+|17 May 1934
+|Sunk in air attack by Italian and German dive bombers off Tobruk, 25 May 1941
+|-
+|
+|HM Dockyard, Devonport
+|1 November 1932
+|6 February 1933
+|9 September 1933
+|12 July 1934
+|Sold into mercantile service, 25 November 1946Royal Danish Navy survey ship Galathea 1949Scrapped 1955
+|-
+|
+|HM Dockyard, Devonport
+|1 May 1933
+|21 August 1933
+|11 April 1934
+|22 November 1934
+|Sold into mercantile service, 1946Scrapped 1955
+|-
+|
+|HM Dockyard, Devonport
+|1 May 1933
+|25 September 1933
+|29 May 1934
+|24 January 1935
+|Sold to Honourable Company of Master Mariners as Headquarters, 1947
+|-
+|
+|HM Dockyard, Devonport
+|1 March 1934
+|11 June 1934
+|16 January 1935
+|20 September 1935
+|Broken up at Llanelly, 1948
+|-
+|
+|HM Dockyard, Chatham
+|1 May 1933
+|30 April 1934
+|5 February 1935
+|20 August 1935
+|Broken up at Milford Haven, 1948
+|-
+|colspan=7 align=center|Group 2
+|-
+|
+|HM Dockyard, Devonport
+|1 March 1935
+|12 June 1935
+|22 January 1936
+|17 September 1936
+|Broken up at Hayle, 1949
+|-
+|
+|HM Dockyard, Devonport
+|1 March 1935
+|14 August 1935
+|24 March 1936
+|19 November 1936
+|Broken up at Gateshead, 1959
+|-
+!colspan=7 align=center|Royal Australian Navy
+|-
+|
+|Cockatoo Island Dockyard, Sydney
+|22 December 1933
+|24 May 1934
+|28 March 1935
+|19 December 1935
+|Sunk in surface action off Java, 4 March 1942
+|-
+|
+|Cockatoo Island Dockyard, Sydney
+|2 January 1935
+|1 May 1935
+|28 March 1936
+|10 December 1936
+|Broken up at Sydney, 1964
+|-
+|
+|Cockatoo Island Dockyard, Sydney
+|July 1938
+|9 November 1938
+|18 June 1939
+|8 April 1940
+|Sunk in torpedo attack off Tobruk, 27 November 1941
+|-
+|
+|Cockatoo Island Dockyard, Sydney
+|December 1938
+|10 May 1939
+|10 February 1940
+|21 August 1940
+|Broken up at Sydney, 1965
+|-
+!colspan=7 align=center|Royal Indian Navy
+|-
+|
+|Hawthorn Leslie and Company, Hebburn
+|14 August 1933
+|8 December 1933
+|24 August 1934
+|15 March 1935
+|Sunk in air attack off Akyab, 6 April 1942
+|}
+
+==See also==
+
+*List of corvette and sloop classes of the Royal Navy
+*List of Royal Australian Navy ships
+
+==Notes==
+
+

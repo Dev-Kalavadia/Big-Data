@@ -1,0 +1,8 @@
+Title: Path spaceIn mathematics, the term path space refers to any topological space of paths from one specified set into another. In particular, it may refer to:
+
+* The classical Wiener space of continuous paths
+* The Skorokhod space of càdlàg paths
+* For the usage in algebraic topology, see path space (algebraic topology). For Moore's path space, see path space fibration#Moore's path space.
+
+See also: loop space, the space of loops in a topological space
+

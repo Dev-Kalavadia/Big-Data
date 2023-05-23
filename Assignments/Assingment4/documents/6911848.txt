@@ -1,0 +1,82 @@
+Title: List of Jake and the Fatman episodes
+
+This article contains a list of episodes of the United States television series Jake and the Fatman, which were broadcast on CBS between 1987 and 1992.
+
+==Series overview==
+{| class="wikitable" style="text-align: center;"
+|-
+! style="padding: 0 8px;" colspan="2" rowspan="2"| Season
+! style="padding: 0 8px;" rowspan="2"| No. of episodes
+! colspan="2"| Originally aired
+|-
+! style="padding: 0 8px;"| First aired
+! style="padding: 0 8px;"| Last aired
+|-
+|style="background: #7d190e;"|
+| Pilot
+| 2
+|style="padding: 0 8px;"| 
+|style="padding: 0 8px;"| 
+|-
+|style="background: #29AC29;"|
+| 1
+| 23
+|style="padding: 0 8px;"| 
+|style="padding: 0 8px;"| 
+|-
+|style="background: #FF8C00;"|
+| 2
+| 11
+|style="padding: 0 8px;"| 
+|style="padding: 0 8px;"| 
+|-
+|style="background: #00A6A6;"|
+| 3
+| 26
+|style="padding: 0 8px;"| 
+|style="padding: 0 8px;"| 
+|-
+| style="background:#ff0;"|
+| 4
+| 24
+|style="padding: 0 8px;"| 
+|style="padding: 0 8px;"| 
+|-
+| style="background:#00f;"|
+| 5
+| 22
+|style="padding: 0 8px;"| 
+|style="padding: 0 8px;"| 
+|}
+
+==Episodes==
+===Pilot-Matlock (1986)===
+{| class="wikitable plainrowheaders" style="width:100%; background:#fff;"
+|- style="color:#fff;"
+! style="background:#7d190e;"| No. inoverall
+! style="background:#7d190e;"| No. inseason
+! style="background:#7d190e;"| Title
+! style="background:#7d190e;"| Director
+! style="background:#7d190e;"| Writer(s)
+! style="background:#7d190e;"| Original air date
+! style="background:#7d190e;"| Ratings(households)
+
+
+|}
+
+===Season 1 (1987–88)===
+
+
+===Season 2 (1989)===
+
+
+===Season 3 (1989–90)===
+
+
+===Season 4 (1990–91)===
+"It Never Entered My Mind" served as a back-door pilot for Diagnosis: Murder.
+
+
+===Season 5 (1991–92)===
+
+

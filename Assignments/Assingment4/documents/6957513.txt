@@ -1,0 +1,51 @@
+Title: Dynastes
+
+
+
+Dynastes is a genus of large beetles belonging to the family Scarabaeidae. They occur in the Nearctic realm and in the Neotropical realm, from the United States to Brazil; Dynastes hercules at UFL four North American species (including Mexico), three with distributions extending from Central America either north or south, and two species endemic to South America.
+
+==Description==
+thumb|150px|left|Dynastes head and prothorax showing the pliers
+Males of Dynastes bear two long horns, one on the head, and the other on the pronotum, forming a "plier"; the pronotal horn has reddish setae on its underside. This pronotal horn is absent in females.Generic Guide to New World Scarab Beetles Some species have an iridescent colouration to their elytra. Certain species of the genus Dynastes also have the ability to change colour. Specific species have been noted to occur with either black or yellowish to khaki green elytra. This variation in colour is due to a spongy layer below the transparent cuticle; this spongy layer is a network of filamentous strands made up of three-dimensional photonic crystals lying parallel to the cuticle surface. When  the cuticle is filled with gas this layer can show through, presenting the yellow to khaki green colour, but when filled with fluid the cuticle appears black. This is due to the change in refraction index allowing us to see the difference in colours. This system is known as a hygrochromic effect. Female beetles can change colour but not as completely as males, which is not yet explained as the mechanisms for the colour change is still not completely understood. What is known is that changes in humidity affect the levels of moisture in the cuticle which leads to a change in colour in most cases. Since the change is due to humidity it is a reversible process, however, it has been observed that after multiple colour changes or high stress the beetles will maintain some dark spots on their cuticle. Some hypotheses for why this colour change occurs at all are the ability to blend with surroundings depending on the time of day (black for nighttime and yellow for daytime) to best avoid their main predator, the tropical screech owl (Megascops choliba). Another theory has to do with thermoregulation in the sense that a black beetle heats up faster than yellow and then once they have warmed up theoretically there will be less moisture in the cuticle which leads to changing to a colour which does not heat as quickly so they won't overheat.
+
+==Species==
+There are eight species currently recognized in the genus, not counting putative subspecies of D. hercules:
+{| class="wikitable"
+|-
+! Male !!  Female !!Larvae !!Scientific name !! Common Name  !! Distribution
+|-
+|120px ||120px|| ||Dynastes grantii Horn, 1870  ||Western Hercules beetle or Grants' Hercules beetle ||USA: Arizona
+|-
+|120px ||120px||120px ||Dynastes hercules (Linnaeus, 1758) ||Hercules beetle ||Central and South America
+|-
+| ||120px|| ||Dynastes hyllus Chevrolat, 1843 || ||Mexico, Belize, El Salvador, Honduras, Guatemala, Nicaragua. Male: ; female: 
+|-
+| |||| ||Dynastes moroni Nagai, 2005 || ||Sierra de los Tuxtlas in Mexico
+|-
+| || || ||Dynastes maya Hardy, 2003 ||Maya white beetleMaya white beetle, Open Cage  ||Mexico, Guatemala. Male: ; female: 
+|-
+|120px ||120px|| ||Dynastes neptunus (Quensel in Schönherr, 1805 ||Neptune beetle ||South America: Colombia
+|-
+|120px ||120px|| ||Dynastes satanas Moser, 1909 ||Satanas beetle  ||Bolivia. Male: ; female: 
+|-
+|120px ||120px|| ||Dynastes tityus (Linnaeus, 1763) ||Unicorn beetle or Eastern Hercules beetle ||United StatesBiolib
+|-
+|}
+
+==Hybridization==
+Although there are numerous species under the genus Dynastes, some are able to produce viable offspring with one another. This has been observed in captivity, but it is unclear if wild beetles will engage in acts of hybridization. Certain species such as D. grantii and D. hyllus are believed to be sister species, while D. tityus is thought to be a sister taxon to the Central American "white Hercules" lineage. The intermediate species that bridges the "white Hercules" and the "giant Hercules" lineages is thought to be D. maya.
+
+==Life cycle==
+The larval stage of Dynastes hercules will last one to two years, with the larva growing up to  in length and weighing more than . Much of the life of the larva is spent tunneling through rotting wood. After the larval period, transformation into a pupa, and moulting, the beetle then emerges as an adult. Adults of most species can live from two to ten months and some can even live one or two years. Eastern Hercules beetles, D. tityus, can live six to twenty-three months in captivity with a hibernation period. Western Hercules beetles, D. grantii, tend to have a shorter adult lifespan in the wild (two to four months), but in captivity they live for about the same amount of time as the eastern species. It has also been noted that captive longevity is possible without a hibernation period.
+
+==Gallery==
+
+File: Scarabaeidae - Dynastes satanas.JPG|Dynastes satanas
+File:Dynastes tityus.JPG|Dynastes tityus
+File:Dynastes neptunus 001.jpg|Dynastes neptunus
+
+
+==Bibliography==
+*  Hardy, 2003 - Description of a new species of Dynastes Kirby, Besoiro, Nr. 9
+*  Lachaume (G.), 1985 - The Beetles of the World, volume 5, Dynastini 1. (Dynastidae) 
+

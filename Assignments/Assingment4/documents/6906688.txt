@@ -1,0 +1,491 @@
+Title: List of municipalities of the Province of Avellino
+
+The following is a list of the 119 municipalities (comuni) of the Province of Avellino, Campania, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|064001
+|Aiello del Sabato
+| align="right" |3,454
+|-
+|064002
+|Altavilla Irpina
+| align="right" |4,242
+|-
+|064003
+|Andretta
+| align="right" |2,219
+|-
+|064004
+|Aquilonia
+| align="right" |2,008
+|-
+|064005
+|Ariano Irpino
+| align="right" |23,330
+|-
+|064006
+|Atripalda
+| align="right" |11,336
+|-
+|064007
+|Avella
+| align="right" |7,756
+|-
+|064008
+|Avellino
+| align="right" |56,993
+|-
+|064009
+|Bagnoli Irpino
+| align="right" |3,370
+|-
+|064010
+|Baiano
+| align="right" |4,740
+|-
+|064011
+|Bisaccia
+| align="right" |4,275
+|-
+|064012
+|Bonito
+| align="right" |2,549
+|-
+|064013
+|Cairano
+| align="right" |392
+|-
+|064014
+|Calabritto
+| align="right" |2,758
+|-
+|064015
+|Calitri
+| align="right" |5,603
+|-
+|064016
+|Candida
+| align="right" |1,115
+|-
+|064017
+|Caposele
+| align="right" |3,720
+|-
+|064018
+|Capriglia Irpina
+| align="right" |2,370
+|-
+|064019
+|Carife
+| align="right" |1,642
+|-
+|064020
+|Casalbore
+| align="right" |2,051
+|-
+|064021
+|Cassano Irpino
+| align="right" |970
+|-
+|064022
+|Castel Baronia
+| align="right" |1,202
+|-
+|064023
+|Castelfranci
+| align="right" |2,217
+|-
+|064024
+|Castelvetere sul Calore
+| align="right" |1,707
+|-
+|064025
+|Cervinara
+| align="right" |10,182
+|-
+|064026
+|Cesinali
+| align="right" |2,434
+|-
+|064027
+|Chianche
+| align="right" |591
+|-
+|064028
+|Chiusano di San Domenico
+| align="right" |2,494
+|-
+|064029
+|Contrada
+| align="right" |2,984
+|-
+|064030
+|Conza della Campania
+| align="right" |1,433
+|-
+|064031
+|Domicella
+| align="right" |1,750
+|-
+|064032
+|Flumeri
+| align="right" |3,300
+|-
+|064033
+|Fontanarosa
+| align="right" |3,439
+|-
+|064034
+|Forino
+| align="right" |5,200
+|-
+|064035
+|Frigento
+| align="right" |4,115
+|-
+|064036
+|Gesualdo
+| align="right" |3,811
+|-
+|064037
+|Greci
+| align="right" |863
+|-
+|064038
+|Grottaminarda
+| align="right" |8,352
+|-
+|064039
+|Grottolella
+| align="right" |1,929
+|-
+|064040
+|Guardia Lombardi
+| align="right" |1,963
+|-
+|064041
+|Lacedonia
+| align="right" |2,994
+|-
+|064042
+|Lapio
+| align="right" |1,713
+|-
+|064043
+|Lauro
+| align="right" |3,611
+|-
+|064044
+|Lioni
+| align="right" |6,279
+|-
+|064045
+|Luogosano
+| align="right" |1,253
+|-
+|064046
+|Manocalzati
+| align="right" |3,156
+|-
+|064047
+|Marzano di Nola
+| align="right" |1,698
+|-
+|064048
+|Melito Irpino
+| align="right" |1,987
+|-
+|064049
+|Mercogliano
+| align="right" |12,293
+|-
+|064050
+|Mirabella Eclano
+| align="right" |8,286
+|-
+|064051
+|Montaguto
+| align="right" |550
+|-
+|064052
+|Montecalvo Irpino
+| align="right" |4,169
+|-
+|064053
+|Montefalcione
+| align="right" |3,443
+|-
+|064054
+|Monteforte Irpino
+| align="right" |9,752
+|-
+|064055
+|Montefredane
+| align="right" |2,325
+|-
+|064056
+|Montefusco
+| align="right" |1,477
+|-
+|064057
+|Montella
+| align="right" |7,852
+|-
+|064058
+|Montemarano
+| align="right" |3,022
+|-
+|064059
+|Montemiletto
+| align="right" |5,332
+|-
+|064060
+|Monteverde
+| align="right" |909
+|-
+|064061
+|Montoro
+| align="right" |19,776
+|-
+|064063
+|Morra De Sanctis
+| align="right" |1,363
+|-
+|064064
+|Moschiano
+| align="right" |1,711
+|-
+|064065
+|Mugnano del Cardinale
+| align="right" |5,108
+|-
+|064066
+|Nusco
+| align="right" |4,432
+|-
+|064067
+|Ospedaletto d'Alpinolo
+| align="right" |1,704
+|-
+|064068
+|Pago del Vallo di Lauro
+| align="right" |1,838
+|-
+|064069
+|Parolise
+| align="right" |709
+|-
+|064070
+|Paternopoli
+| align="right" |2,645
+|-
+|064071
+|Petruro Irpino
+| align="right" |379
+|-
+|064072
+|Pietradefusi
+| align="right" |2,527
+|-
+|064073
+|Pietrastornina
+| align="right" |1,597
+|-
+|064074
+|Prata di Principato Ultra
+| align="right" |2,881
+|-
+|064075
+|Pratola Serra
+| align="right" |3,376
+|-
+|064076
+|Quadrelle
+| align="right" |1,774
+|-
+|064077
+|Quindici
+| align="right" |2,938
+|-
+|064078
+|Roccabascerana
+| align="right" |2,355
+|-
+|064079
+|Rocca San Felice
+| align="right" |871
+|-
+|064080
+|Rotondi
+| align="right" |3,479
+|-
+|064081
+|Salza Irpina
+| align="right" |822
+|-
+|064082
+|San Mango sul Calore
+| align="right" |1,230
+|-
+|064083
+|San Martino Valle Caudina
+| align="right" |4,669
+|-
+|064084
+|San Michele di Serino
+| align="right" |2,452
+|-
+|064085
+|San Nicola Baronia
+| align="right" |842
+|-
+|064086
+|San Potito Ultra
+| align="right" |1,479
+|-
+|064087
+|San Sossio Baronia
+| align="right" |1,888
+|-
+|064088
+|Santa Lucia di Serino
+| align="right" |1,525
+|-
+|064089
+|Sant'Andrea di Conza
+| align="right" |1,870
+|-
+|064090
+|Sant'Angelo all'Esca
+| align="right" |893
+|-
+|064091
+|Sant'Angelo a Scala
+| align="right" |735
+|-
+|064092
+|Sant'Angelo dei Lombardi
+| align="right" |4,404
+|-
+|064093
+|Santa Paolina
+| align="right" |1,443
+|-
+|064095
+|Santo Stefano del Sole
+| align="right" |2,072
+|-
+|064096
+|Savignano Irpino
+| align="right" |1,295
+|-
+|064097
+|Scampitella
+| align="right" |1,385
+|-
+|064098
+|Senerchia
+| align="right" |879
+|-
+|064099
+|Serino
+| align="right" |7,307
+|-
+|064100
+|Sirignano
+| align="right" |2,607
+|-
+|064101
+|Solofra
+| align="right" |12,082
+|-
+|064102
+|Sorbo Serpico
+| align="right" |584
+|-
+|064103
+|Sperone
+| align="right" |3,397
+|-
+|064104
+|Sturno
+| align="right" |3,238
+|-
+|064105
+|Summonte
+| align="right" |1,597
+|-
+|064106
+|Taurano
+| align="right" |1,597
+|-
+|064107
+|Taurasi
+| align="right" |2,735
+|-
+|064108
+|Teora
+| align="right" |1,577
+|-
+|064109
+|Torella dei Lombardi
+| align="right" |2,265
+|-
+|064110
+|Torre Le Nocelle
+| align="right" |1,368
+|-
+|064111
+|Torrioni
+| align="right" |639
+|-
+|064112
+|Trevico
+| align="right" |1,217
+|-
+|064113
+|Tufo
+| align="right" |919
+|-
+|064114
+|Vallata
+| align="right" |3,026
+|-
+|064115
+|Vallesaccarda
+| align="right" |1,456
+|-
+|064116
+|Venticano
+| align="right" |2,604
+|-
+|064117
+|Villamaina
+| align="right" |980
+|-
+|064118
+|Villanova del Battista 
+| align="right" |1,967
+|-
+|064119
+|Volturara Irpina
+| align="right" |4,218
+|-
+|064120
+|Zungoli
+| align="right" |1,363
+|-
+|
+|Total
+| align="right" |437,560
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

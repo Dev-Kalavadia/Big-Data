@@ -1,0 +1,9 @@
+Title: MP-APVL 83-F4 mineThe MP-APVL 83-F4 is a Chilean anti-tank blast mine based on the United States M1A1 mine. The mine has a plastic body with distinctive pressed steel pressure spider on the top. The main charge of the mine has 3.5 kg of steel balls embedded into the charge. The steel balls in the main charge create a secondary anti-personnel effect.
+
+The mine is in service with Chile.
+
+==Specifications==
+* Weight: 6.75 kg
+* Explosive content: 2 kg of TNT and 0.2 kg Pentolite
+* Operating pressure: 120 kg to 250 kg
+

@@ -1,0 +1,49 @@
+Title: Blue Rondo à la Turk
+
+"Blue Rondo à la Turk" is a jazz standard composition by Dave Brubeck. It appeared on the album Time Out in 1959. It is written in  time, with one side theme in  and the choice of rhythm was inspired by the Turkish aksak time signatures. It was originally recorded by the Dave Brubeck Quartet with Dave Brubeck on piano, Paul Desmond on alto saxophone, Eugene Wright on bass, and Joe Morello on drums.
+
+==History==
+thumb|300px|right|Rhythm of "Blue Rondo à la Turk": the arrows on the tempo dial show the tempo for  and the measure beat. Starts slow, and speeds up to approximate the tempo of "Blue Rondo à la Turk".
+
+Brubeck heard this unusual rhythm performed by Turkish musicians on the street. Upon asking the musicians where they got the rhythm, one replied "This rhythm is to us what the blues is to you." Hence the title "Blue Rondo à la Turk."
+
+Contrary to popular belief, the piece is neither inspired by nor related to the last movement of Wolfgang Amadeus Mozart's Piano Sonata No. 11, known by the near-identical title "Rondo Alla Turca".Sleeve notes  to Time Out, notnowmusic.com
+
+The rhythm is an additive rhythm that consists of three measures of  followed by one measure of  and the cycle then repeats. Taking the smallest time unit as eighth notes, then the main beats are:
+
+:
+\new RhythmicStaff {
+   \clef percussion
+   \time 9/8
+   \set Score.tempoHideNote = ##t \tempo 4 = 150
+   c4 c c c4.
+   c4 c c c4.
+   c4 c c c4.
+   c4. c c
+}
+
+
+==Derivative pieces==
+Rock keyboardist Keith Emerson used this piece (uncredited) as a foundation of his "Rondo" beginning when he was with the progressive rock band The Nice; it appeared on the album The Thoughts of Emerlist Davjack. Emerson's version was in  time and Brubeck, meeting with Emerson in 2003, described it to him as "your 4/4 version which I can't play." Emerson, a great admirer of Brubeck, took this to mean that Brubeck preferred his own version, as Brubeck would have had no difficulty in playing Emerson's interpretation.
+
+Later, Emerson folded the melody into the 14-minute "Finale (Medley)" on the 1993 Emerson, Lake & Palmer (ELP) release Live at the Royal Albert Hall, as well as improvisations on "Fanfare for the Common Man". Those medleys also included themes from other well-known tunes including "America" from West Side Story, "Toccata and Fugue in Dm", and "Flight of the Bumblebee".
+
+Emerson frequently used "Rondo" as a closing number during performances both with The Nice and ELP.
+
+On his 1981 album Breakin' Away, Al Jarreau performed a vocal version of the song, with lyrics by himself.
+
+== References ==
+
+
+
+
+
+
+
+Category:1950s jazz standards
+Category:Cool jazz standards
+Category:Grammy Award for Best Jazz Vocal Performance, Male
+Category:Compositions by Dave Brubeck
+Category:Jazz compositions in F major
+Category:Articles containing video clips
+Category:1959 songs

@@ -1,0 +1,47 @@
+Title: 1020 Arcadia
+
+1020 Arcadia, provisional designation , is a stony Agnia asteroid from the central regions of the asteroid belt, approximately  in diameter. It was discovered on 7 March 1924, by German astronomer Karl Reinmuth at the Heidelberg Observatory in Heidelberg, Germany. The asteroid was named after the Greek region of Arcadia.
+
+== Orbit and classification ==
+
+Arcadia is a member of the Agnia family (), a very large family of stony asteroids with more than 2000 known members. They most likely formed from the breakup of a basalt object, which in turn was spawned from a larger parent body that underwent igneous differentiation. The family's parent body and namesake is the asteroid 847 Agnia.
+
+It orbits the Sun in the central main-belt at a distance of 2.7–2.9 AU once every 4 years and 8 months (1,703 days; semi-major axis of 2.79 AU). Its orbit has an eccentricity of 0.04 and an inclination of 4° with respect to the ecliptic. The body's observation arc begins at Heidelberg in March 1924, six days after its official discovery observation.
+
+== Physical characteristics ==
+
+In the SMASS classification, Arcadia is a common, stony S-type asteroid. It has been characterized as an S-type by Pan-STARRS photometric survey, as well as by SDSS-MFB (Masi Foglia Bus).
+
+=== Rotation period ===
+
+In November 2011, a fragmentary rotational lightcurve of Arcadia was obtained from photometric observations by Gordon Gartrelle at the University of North Dakota. Lightcurve analysis gave a rotation period of 17.02 hours with a brightness amplitude of 0.05 magnitude (). As of 2018, no secure period has been obtained.
+
+=== Diameter and albedo ===
+
+According to the survey carried out by the NEOWISE mission of NASA's Wide-field Infrared Survey Explorer, Arcadia measures between 10.067 and 13.02 kilometers in diameter and its surface has an albedo between 0.150 and 0.2364. The Collaborative Asteroid Lightcurve Link assumes an albedo 0.057, i.e. an albedo for a carbonaceous rather than for a stony asteroid, and consequently calculates a much larger diameter of 21.16 kilometers based on an absolute magnitude of 12.1. It may be speculated whether this anomaly is a glitch in the data base.
+
+== Naming ==
+
+This minor planet was named after the Greek region of Arcadia in central Peloponnese. It is also a celebrated mythological region, where the shepherd god Pan lived. The official naming citation was mentioned in The Names of the Minor Planets by Paul Herget in 1955 ().
+
+== References ==
+ 
+
+== External links ==
+* Asteroid Lightcurve Database (LCDB), query form (info )
+* Dictionary of Minor Planet Names, Google books
+* Asteroids and comets rotation curves, CdR – Observatoire de Genève, Raoul Behrend
+* Discovery Circumstances: Numbered Minor Planets (1)-(5000) – Minor Planet Center
+* 
+* 
+
+
+
+
+
+
+001020
+Category:Discoveries by Karl Wilhelm Reinmuth
+Category:Named minor planets
+001020
+19240307

@@ -1,0 +1,39 @@
+Title: Abdominal epilepsy
+
+Abdominal epilepsy is a rare condition most frequently found in children, consisting of gastrointestinal disturbances caused by epileptiform seizure activity. Though a few cases of it have been reported in adults too. It has been described as a type of temporal lobe epilepsy. Responsiveness to anticonvulsants can aid in the diagnosis. Distinguishing features of abdominal epilepsy include (1) Abnormal laboratory, radiographic, and endoscopic findings revealing paroxysmal GI manifestations of unknown origin (2) CNS symptoms (3) Abnormal EEG. Most published medical literature dealing with abdominal epilepsy is in the form of individual case reports. A 2005 review article found a total of 36 cases described in the medical literature.
+
+==Symptoms and signs==
+Abdominal epilepsy is marked by GI symptoms such as abdominal pain followed by uncontrollable vomiting, usually preceded by lethargy. Lethargy and confusion is the most common neurological symptoms associated with abdominal epilepsy. Other symptoms include generalized tonic-clonic seizures followed by sleep, and unresponsiveness.  Abdominal aura characterized by abdominal sensations precedes the abdominal seizure. This is associated with pain, nausea, hunger, gassiness especially in temporal lobe epilepsy.
+
+== Cause ==
+It is unknown as to what causes abdominal epilepsy. While a causal relationship between seizure activity and the GI symptoms has not been proven, the GI symptoms cannot be explained by other pathophysiological mechanisms, and are seen to improve upon anticonvulsant treatment. Because the condition is so rare, no high-quality studies exist. There have been too few reported cases to identify risk factors, genetic factors, or other potential causes.
+
+== Diagnosis ==
+Criteria for diagnosis of abdominal epilepsy includes frequent periodic abdominal symptoms, an abnormal electroencephalogram (EEG) and significant improvement of gastrointestinal symptoms after taking anti-seizure medication. Medical testing for diagnosis can be completed using MRI scans of the brain, CT scans and ultrasounds of the abdomen, endoscopy of the gastrointestinal tract, and blood tests.
+
+Usually, the procedure for its diagnosis starts by extracting information about the presence of typical symptoms (such as paroxysmal, abdominal pain, and other GI symptoms). Symptoms that are persistent throughout or persist for hours are less probable to be indications of abdominal epilepsy. Convulsions, impairment in consciousness and other neurological symptoms are ought to be considered along with the gastrointestinal symptoms when diagnosing abdominal epilepsy. Though every episode of it may not be accompanied by a neurological symptom. This often makes these neurological symptoms unnoticeable for the patient.
+
+This is followed by the necessary evaluation that comprises neurological and physical examination, laboratory test, abdominal imaging using CT and ultrasound, endoscopy. Next if the above are normal but the history still suggests for this syndrome an EEG must be performed. EEG findings alone too cannot distinguish between the kinds of epilepsy. Moreover, often an EEG report could be normal if an event is not accompanied by neurological symptoms. If it is doubtable a neurologist should be consulted.
+
+== Treatment ==
+Like other forms of epilepsy, abdominal epilepsy is treated with anticonvulsant drugs, such as phenytoin. Based on the clinical response additional medication may be used for complementing it or it could be used instead of phenytoin. Since no controlled studies exist, however, other drugs may be equally effective. Anticonvulsants target non-epileptic causes of abdominal pain via sedative mechanisms. It may also act just as a placebo. The prognosis is generally good and most patients are benefitted from medicines alone.
+
+==Pathophysiology==
+The pathophysiology behind abdominal epilepsy remains speculative. Several studies indicate that insula and sylvian fissures also known as lateral sulcus could be related to inducing abdominal epilepsy. Their location is found to coincide with the locations of the abdomen on the Sensory homunculus. Any pathophysiological changes in the M2 portion of cerebral artery which flows through lateral sulcus are associated with the epilepsies of the temporal and parietal regions. The abdominal symptoms are believed to be associated with the transmission of impulses from the temporal lobe to the dorsal motor nucleus of the vagus nerve via the dense direct projections. The hypothalamus is also believed to induce sympathetic pathways from the amygdala in the medial temporal lobe to the GI tract to trigger such symptoms.
+
+Cerebral tumors have been assessed to be a plausible cause of abdominal epilepsy. Right parietal and occipital encephalomalacia, biparietal atrophy, and bilateral perisylvian polymicrogyria has been possibly associated with ictal abdominal pain associated with abdominal epilepsy.
+
+== History ==
+French physician and scientist Armand Trousseau is commonly credited as being the first to describe the condition in 1868 in a boy with paroxysmal GI symptoms culminating in grand mal epileptic seizure. The first account of abdominal epilepsy supported by EEG tracings came in 1944 in an article by M.T. Moore, followed by subsequent case reports from the same group.
+
+== Footnotes ==
+
+
+== External links ==
+
+
+
+Category:Gastrointestinal tract disorders
+Category:Epilepsy types
+Category:Seizure types
+Category:Rare diseases

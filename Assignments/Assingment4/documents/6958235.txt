@@ -1,0 +1,50 @@
+Title: List of tallest structures in Luxembourg
+
+
+A list of the tallest structures in Luxembourg. The list contains all types of structures.
+
+{| cellpadding="4" cellspacing="0" style="border:3px solid #cccccc;"
+|- bgcolor="#cccccc"
+!Construction || Year || Structural type|| Town || Pinnacle height || Coordinates || Remarks
+|-
+| FM- and TV-mast Hosingen || 1972 ||Guyed Mast || Hosingen || 300 m || 984 ft || 
+|-
+| Longwave transmitter Beidweiler || 1972 ||Guyed Mast || Beidweiler || 290 m || 951 ft ||  ;  ;  || 3 masts
+|-
+| Dudelange Radio Tower || 1957 ||Tower || Dudelange || 285 m || 935 ft || 
+|-
+| Longwave transmitter Junglinster || 1932 ||Tower || Junglinster || 216 m || 708 ft ||  ;  ;  || 3 towers, insulated against ground
+|-
+| Heiderscheid-Kehmen Wind turbines || 2006 || Wind turbine || Heiderscheid-Kehmen || 133 m || 436 ft ||  ;  ;  ;  ;  ;  ;   || 7 units, type Enercon E-66/18.70, 3 smaller wind turbines nearby 
+|-
+| Burer Bierg Wind Turbines || 2008 || Wind turbine || Mompach || 133 m || 436 ft || || 4 units, type Enercon E 70-E4
+|-
+| Esch Steel Mill Plant, Large Sinter Chimney || || Chimney || Esch || 115 m || 377 ft ||  || unused
+|-
+|Palais de la Cour de Justice, Tower C
+|2019
+|Highrise
+|Luxembourg
+|115 m
+|377 ft
+|
+|31 floors
+|-
+| Palais de la Cour de Justice, Tower A || 2008 || Highrise || Luxembourg || 107 m || 351 ft || ||27 floors
+|-
+| Palais de la Cour de Justice, Tower B || 2008 || Highrise || Luxembourg || 107 m || 351 ft || ||27 floors
+|-
+| Marnach transmitter, daytime antenna || || Guyed mast || Marnach || 105 m || 344 ft ||  ;  ; 
+|| 3 masts, insulated against ground
+|-
+| Esch Blast-Furnace || || Blast-Furnace || Esch || 101 m || 331 ft || 
+|}
+
+== External links ==
+* 
+* 
+
+
+
+Tallest structures in Luxembourg, List of
+Luxembourg

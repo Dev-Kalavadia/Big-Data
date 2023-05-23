@@ -1,0 +1,17 @@
+Title: Maxivision
+
+Maxivision 24 and Maxivision 48 are 35 mm film motion picture film formats. The system was designed by Dean Goodhill in 1999.. The system uses normal thirty-five millimetre motion picture film, capturing images on three perforations of film per frame. The format can run either at the standard twenty-four frames per second, or at forty-eight frames per second, which reduces strobing effects and increases apparent resolution when combined with a system for reducing film movement in the gate and eliminating scratching.
+
+Because Maxivision uses only three film perforations per frame, the twenty-four-frame-per-second format uses 25% less film than standard four-perforation formats, and the 48 frame-per-second format only requires a 50% increase in the amount of film to yield twice the frame rate. The image is exposed into the region ordinarily reserved for the analog optical sound track which is rarely used now. This allows for a wider image on the same size film. This also reduces the need for cropping of the image and makes for a 30% larger total frame area than traditional projection even though less film is used.
+
+The advancements of this system go beyond simply a larger image with less waste, however. The projector head is far more stable than traditional projection systems. It uses a sophisticated grid tracking charge-coupled device to automatically detect and compensate for any changes in the film type and position making projection of even traditional thirty-five millimeter prints sharper, more steady and with less chance of damage to the film.
+
+Critic Roger Ebert repeatedly praised the system, saying that the picture quality is "four times as good" as traditional film projection, and "provides a picture of startling clarity."..
+
+The format uses a custom-built projector head that can be switched between standard 35 millimeter formats and Maxivision. Furthermore, the new projector head is able to change from anamorphic to Maxivision and standard matte prints on the fly. This reduces the chances of operator error and cuts the costs of having to order special trailers for different movie formats.
+
+==See also==
+* 3-perf
+* Univisium
+* Showscan
+

@@ -1,0 +1,14 @@
+Title: Dick Hardtthumb|right|Dick Hardt, 2007
+
+Dick Clarence Hardt (born May 28, 1963) is the founder of SignIn.Org and is an advocate of Identity 2.0.
+
+Hardt has spoken at tech events such as Web 2.0, Supernova, Digital ID World, ETech, OSCON,  PICNIC, International World Wide Web Conference (WWW2007), ISOC, Anti-Phishing Working Group, at New York University (NYU), Harvard and many other locales.  He has been interviewed extensively and has been cited in numerous publications, including Wired.
+
+Hardt founded Sxip Identity in 2003, where he promoted next-generation Internet identity technology. He was a founding board member of the OpenID Foundation.
+
+Prior to Sxip, Hardt founded ActiveState in 1997. Under his leadership as CEO, ActiveState became a leader in tools for open-source programming languages and anti-spam software and was acquired by UK-based security company, Sophos, in 2003 for $23 million.
+
+Hardt claims to have made the original port of the Perl programming language to Windows in the mid-1990s, which was highly controversial in the open source community. In 1999, ActiveState signed a contract to add features previously missing from Windows ports of Perl.
+
+On December 9, 2008, Hardt announced that he was joining Microsoft as a partner architect and will be working on consumer, enterprise and government identity problems. While at Microsoft he would continue to be on the board of Sxipper Inc., maintaining the Sxipper product originally started at Sxip Inc. On his weblog at dickhardt.org,  Hardt indicated that January 15, 2010, was his last day at Microsoft. He then founded Bubbler (UX, architecture & software development using node.js) and joined Amazon in 2015..
+

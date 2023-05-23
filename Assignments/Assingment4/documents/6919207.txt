@@ -1,0 +1,513 @@
+Title: List of places in Alaska (N)
+
+This list of cities, towns, unincorporated communities, counties, and other recognized places in the U.S. state of Alaska also includes information on the number and names of counties in which the place lies, and its lower and upper zip code bounds, if applicable.
+
+
+{| class="wikitable"
+!Name of place
+!Number of counties
+!Principal county
+!Lower zip code
+!Upper zip code
+|----
+|Nabesna
+|1
+|Southeast Fairbanks Census Area
+| 
+| 
+|----
+|Nakeen
+|1
+|Lake and Peninsula Borough
+| 
+| 
+|----
+|Naknek
+|1
+|Bristol Bay Borough
+|99633
+| 
+|----
+|NANA
+|1
+|Northwest Arctic Borough
+| 
+| 
+|----
+|Nancy
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Nanwalek
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Napaimiut
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|Napaimute
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|Napakiak
+|1
+|Bethel Census Area
+|99634
+| 
+|----
+|Napakiak
+|1
+|Bethel Census Area
+|99559
+| 
+|----
+|Napakiakamute
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|Napaskiak
+|1
+|Bethel Census Area
+|99559
+| 
+|----
+|Naptowne
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Nash Harbor
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|Native Village of Kotzebue
+|1
+|Northwest Arctic Borough
+| 
+| 
+|----
+|Natzuhini
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Naukati Bay
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Navy Town
+|1
+|Aleutians West Census Area
+| 
+| 
+|----
+|Neets Bay
+|1
+|Ketchikan Gateway Borough
+| 
+| 
+|----
+|Nelchina
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Nelson Lagoon
+|1
+|Aleutians East Borough
+|99571
+| 
+|----
+|Nelson Lagoon
+|1
+|Aleutians East Borough
+|99501
+| 
+|----
+|Nelsonville
+|1
+|Dillingham Census Area
+| 
+| 
+|----
+|Nenana
+|1
+|Yukon-Koyukuk Census Area
+|99760
+| 
+|----
+|Nenana City School District
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|New Allakaket
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Newhalen
+|1
+|Lake and Peninsula Borough
+|99606
+| 
+|----
+|New Hamilton
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|New Igloo
+|1
+|Nome Census Area
+| 
+| 
+|----
+|New Iliamna
+|1
+|Lake and Peninsula Borough
+| 
+| 
+|----
+|New Knockhock
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|New Koliganek
+|1
+|Dillingham Census Area
+| 
+| 
+|----
+|New Stuyahok
+|1
+|Dillingham Census Area
+|99636
+| 
+|----
+|Newtok
+|2
+|Bethel Census Area
+|99559
+| 
+|----
+|Newtok
+|2
+|Kusilvak Census Area
+|99559
+| 
+|----
+|Newtok
+|2
+|Bethel Census Area
+|99559
+| 
+|----
+|Newtok
+|2
+|Kusilvak Census Area
+|99559
+| 
+|----
+|Nichin Cove
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Nightmute
+|1
+|Bethel Census Area
+|99690
+| 
+|----
+|Nikishka
+|1
+|Kenai Peninsula Borough
+|99635
+| 
+|----
+|Nikiski
+|1
+|Kenai Peninsula Borough
+|99635
+| 
+|----
+|Nikolaevsk
+|1
+|Kenai Peninsula Borough
+|99556
+| 
+|----
+|Nikolai
+|1
+|Yukon-Koyukuk Census Area
+|99691
+| 
+|----
+|Nikolski
+|1
+|Aleutians West Census Area
+|99638
+| 
+|----
+|Nililak
+|1
+|Kusilvak Census Area
+|99666
+| 
+|----
+|Ninilchik
+|1
+|Kenai Peninsula Borough
+|99639
+| 
+|----
+|Noatak
+|1
+|Northwest Arctic Borough
+|99761
+| 
+|----
+|Noatak National Preserve
+|2
+|North Slope Borough
+|99501
+| 
+|----
+|Noatak National Preserve
+|2
+|Northwest Arctic Borough
+|99501
+| 
+|----
+|Nogamut
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|Nolan
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Nome
+|1
+|Nome Census Area
+|99762
+| 
+|----
+|Nome
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Nome Airport
+|1
+|Nome Census Area
+|99762
+| 
+|----
+|Nome City School District
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Nondalton
+|1
+|Lake and Peninsula Borough
+|99640
+| 
+|----
+|Noorvik
+|1
+|Northwest Arctic Borough
+|99763
+| 
+|----
+|Northeast Cape
+|1
+|Nome Census Area
+| 
+| 
+|----
+|North Kenai
+|1
+|Kenai Peninsula Borough
+|99611
+| 
+|----
+|North Nenana
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|North Pole
+|1
+|Fairbanks North Star Borough
+|99705
+| 
+|----
+|North Slope
+|1
+|North Slope Borough
+| 
+| 
+|----
+|North Slope Borough School District
+|1
+|North Slope Borough
+| 
+| 
+|----
+|North Tongass Highway
+|1
+|Ketchikan Gateway Borough
+| 
+| 
+|----
+|Northway
+|1
+|Southeast Fairbanks Census Area
+|99764
+| 
+|----
+|Northway Junction
+|1
+|Southeast Fairbanks Census Area
+| 
+| 
+|----
+|Northway Village
+|1
+|Southeast Fairbanks Census Area
+| 
+| 
+|----
+|Northwest Arctic
+|1
+|Northwest Arctic Borough
+| 
+| 
+|----
+|Northwest Arctic Borough School District
+|1
+|Northwest Arctic Borough
+| 
+| 
+|----
+|Northwest Arctic Native Association
+|1
+|Northwest Arctic Borough
+| 
+| 
+|----
+|North Whale Pass
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Nuchek
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Nuiqsut
+|1
+|North Slope Borough
+|99789
+| 
+|----
+|Nulato
+|1
+|Yukon-Koyukuk Census Area
+|99765
+| 
+|----
+|Nunachuak
+|1
+|Dillingham Census Area
+| 
+| 
+|----
+|Nunachuk
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|Nunaka Valley
+|1
+|Municipality of Anchorage
+|99504
+| 
+|----
+|Nunam Iqua
+|1
+|Kusilvak Census Area
+|99666
+| 
+|----
+|Nunam Iqua
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Nunapitchuk
+|1
+|Bethel Census Area
+|99641
+| 
+|----
+|Nunapitsinchak
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|Nushagak
+|1
+|Dillingham Census Area
+| 
+| 
+|----
+|Nyac
+|1
+|Bethel Census Area
+|99642
+| 
+|----
+|}
+
+ N

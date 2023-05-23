@@ -1,0 +1,58 @@
+Title: HeteroazeotropeA heteroazeotrope is an azeotrope where the vapour phase coexists with two liquid phases.
+Sketch of a T-x/y equilibrium curve of a typical heteroazeotropic mixture
+
+thumb|400px|right|Phase diagram of a heteroazeotrope.
+
+== Examples of heteroazeotropes ==
+*Benzene - Water NBP 69.2 °C
+*Dichloromethane - Water NBP 38.5 °C
+* n-Butanol - Water NBP 93.5 °C
+* Toluene - Water NBP 82 °C
+
+== Continuous heteroazeotropic distillation ==
+Heterogeneous distillation means that during the distillation the liquid phase of the mixture is immiscible.
+In this case on the plates can be two liquid phases and the top vapour condensate splits in two liquid phases, which can be separated in a decanter.
+The simplest case of continuous heteroazeotropic distillation is the separation of a binary heterogeneous azeotropic mixture. In this case the system contains two columns and a decanter. The fresh feed (A-B) is added into the first column. (The feed may also be added into the decanter directly or into the second column depending on the composition of the mixture). From the decanter the A-rich phase is withdrawn as reflux into the first column while the B-rich phase is withdrawn as reflux into the second column. This mean the first column produces "A" and the second column produces "B" as a bottoms product. In industry the butanol-water mixture is separated with this technique.
+
+Image:conti hetero 1.png
+
+At the previous case the binary system forms already a heterogeneous azeotrope. The other application of the heteroazeotropic distillation is the separation of a binary system (A-B) forming a homogeneous azeotrope. In this case an entrainer or solvent is added to the mixture in order to form an heteroazeotrope with one or both of the components in order to help the separation of the original A-B mixture.
+
+== Batch heteroazeotropic distillation ==
+Batch heteroazeotropic distillation is an efficient method for the separation of azeotropic and
+low relative volatility (low α) mixtures. A third component (entrainer, E) is added to the
+binary A-B mixture, which makes the separation of A and B possible. The entrainer forms a
+heteroazeotrope with at least one (and preferably with only one (selective entrainer)) of the
+original components.
+The main parts of the conventional batch distillation columns are the following:
+- pot (include reboiler)
+- column
+- condenser to condense the top vapour
+- product receivers
+- (entrainer fed)
+In case of the heteroazeotropic distillation the equipment is completed with a decanter, where the two liquid phases are split.
+
+Image:bhad column.png
+
+Three different cases are possible for the addition of the entrainer:
+
+1, Batch Addition of the Entrainer: The total quantity of the entrainer is added to the charge before the start of the procedure.
+ 
+2, Continuous Entrainer Feeding: The total quantity of the entrainer is introduced continuously to the column.
+
+3, Mixed Addition of the Entrainer: The combination of the batch addition and continuous feeding of the entrainer. We added one part of the entrainer to the charge before the start of the distillation and the other part continuously during distillation.
+
+In the last years the batch heteroazeotropic distillation has come into prominence so several studies have been published. The heteroazeotropic batch distillation was investigated by feasibility studies, rigorous simulation calculations and laboratory experiments. Feasibility analysis is conducted in Modla et al.Modla G., P. Lang, K. Molnar, ”Batch Heteroazeotropic Rectification of a Low Relative Volatility Mixture under Continuous Entrainer Feeding”, 6-th World Congress of Chemical Engineering, Melbourne, Australia, (2001).Modla G., P. Lang, B. Kotai and K. Molnar, ”Batch Heteroazeotropic Rectification of a Low Relative Volatility Mixture under Continuous Entrainer Feeding”, AICHE J., 49., 2533-2552 (2003). and Rodriguez-Donis et al.Rodríguez-Donis I., V. Gerbaud, and X. Joulia, ”Feasibility of Heterogeneous Batch Distillation”, AIChE J., 48, 1168-1178, (2002). for the separation of low-relative-volatility and azeotropic mixtures by heterogeneous batch distillation in a batch rectifier. Rodriguez-Donis et al.Rodríguez-Donis I., E. Pardillo-Fontdevila, V. Gerbaud, and X. Joulia, ”Synthesis, experiments and simulation of heterogeneous batch distillation processes”, Comp. Chem. Eng. 4-6, 799, (2001a).
+ were the first to provide the entrainer selection rules. The feasibility methods was extended and modified by Rodriguez-Donis et al., Rodríguez-Donis I., A. J. Esquijarosa, V. Gerbaud, and X. Joulia, ”Separation of minimum boiling azeotropoc mixtures by extractive batch distillation processes with heterogeneous entrainers”, AIChE J., 49, 3074-3083, (2003). Rodriguez-Donis et al., (2005), Skouras et al.,Skouras S., V. Kiva and S. Skogestad, “Feasible separations and entrainer selection rules for heteroazeotropic batch distillation”, Chemical Engineering Science, 60, 2895. (2005).
+Skouras S., S. Skogestad and V. Kiva, “Analysis and Control of Heteroazeotropic Batch Distillation”, AIChE Journal, 51 (4), 1144-1157. (2005). and Lang and Modla.Lang P., G. Modla: „Generalised method for the determination of heterogeneous batch distillation regions”, Chem. Eng. Sci., 61, 4262-4270 (2006) Varga Varga V. "Distillation extractive discontinue dans une colonne de rectification et dans une colonne inverse". Ph.D. thesis, INP-Toulouse, France. http://ethesis.inp-toulouse.fr (2006). applied these feasibility studies in her thesis. Experimental result was published by Rodriguez-Donis et al.,Rodríguez-Donis, I., Acosta-Esquijarosa I., Gerbaud V., Pardillo-Fondevila E., Joulia, X., "Separation of n hexane – ethyl acetate mixture by azeotropic batch distillation with heterogeneous entrainers". Chemical Engineering and Processing. 44, 131-137. (2005) Xu and Wand,Xu, S. L. and H. Y. Wand, “Separation of tert-butyl alcohol-water mixtures by a heterogeneous azeotropic batch distillation process,” Chem. Eng. Tech., 29, 113 (2006). Van Kaam R. Van Kaam, Rodríguez-Donis I., V. Gerbaud, "Heterogeneous Extractive Batch Distillation of Chloroform - Methanol - Water: Feasibility and Experiments", Chem. Eng. Sci., 63, 78-94, (2008). and others.
+
+== References ==
+
+
+== See also ==
+*Azeotrope
+*Batch distillation
+*Distillation
+*Steam distillation
+
+Category:Phase transitions

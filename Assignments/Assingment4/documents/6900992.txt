@@ -1,0 +1,20 @@
+Title: Robertsite
+
+Robertsite, Ca3(Mn3+)4[(OH)3|  (PO4)2]2·3(H2O) (alternatively formulated Ca2(Mn3(PO4)3O2)(H2O)3), is a secondary phosphate mineral named for Willard Lincoln Roberts (1923–1987), mineralogist and professor at South Dakota School of Mines in Rapid City, South Dakota.
+
+The type locality for Robertsite is the Tip Top mine, Custer County, South Dakota, US. Robertsite occurs at the Tip Top Mine as minute crystal aggregates and crusts found on quartz associated with triphylite. It is a dark reddish brown to black monoclinic mineral.
+
+It occurs as a secondary mineral in pegmatite. It is also reported from the Khoa Rang Kai phosphate deposit, Chiang Mai, Thailand in a limestone guano deposit.Handbook of Mineralogy It is associated with rockbridgeite, ferrisicklerite, leucophosphite, jahnsite, montgomeryite, collinsite and hureaulite in the type locality. In the guano deposit it occurs with carbonate-fluorapatite, calcite, dolomite, quartz and clay minerals. In the Omo Valley of Ethiopia it occurs with mitridatite associated with fossil fish in Pliocene/Pleistocene lake sediments.Mindat location data
+
+Recently, in an exploration conducted by the Italian La Venta Geographical Association, confirmed the existence of Robertsite in the Puerto Princesa Subterranean River National Park, located about 50 kilometres (31 mi) north of the city center of Puerto Princesa, Palawan, Philippines.
+
+*Mitridatite group:
+**Arseniosiderite-mitridatite series:Mindat Arseniosiderite-Mitridatite Series
+***Ca2(Fe3+)3[(O)2|(AsO4)3]·3H2O
+***to
+***Ca2(Fe3+)3[(O)2|(PO4)3]·3H2O
+**Arseniosiderite-robertsite series:Mindat Arseniosiderite-Robertsite Series
+***Ca2(Fe3+)3[(O)2|(AsO4)3]·3H2O
+***to
+***Ca3(Mn3+)4[(OH)3|(PO4)2]2·3H2O
+

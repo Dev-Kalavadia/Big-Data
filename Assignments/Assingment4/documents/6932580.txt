@@ -1,0 +1,32 @@
+Title: Chlorophyllin
+
+Chlorophyllin refers to any one of a group of closely related water-soluble salts that are semi-synthetic derivatives of chlorophyll, differing in the identity of the cations associated with the anion. Its most common form is a sodium/copper derivative used as a food additive and in alternative medicine.  As a food coloring agent, copper complex chlorophyllin is known as natural green 3 and has the E number E141.
+
+== Uses ==
+=== Alternative medicine ===
+
+Chlorophyllin is the active ingredient in a number of internally taken preparations intended to reduce odors associated with incontinence, colostomies, and similar procedures, as well as body odor in general. Also in recent years it has been used as a home remedy to treat acne and skin conditions such as pimples or blackheads, thanks to its antimicrobial effect. It is also available as a topical preparation, purportedly useful for both treatment and odor control of wounds, injuries, radiation burns, and other skin conditions.
+
+=== 3D printing ===
+Chlorophyllin has been used as a biocompatible photoblocker for generating green colored hydrogels with complex inner structures.
+
+==Chemical properties==
+Chlorophyllin is water-soluble.  In vitro, it binds to some environmental mutagens such as the polycyclic aromatic hydrocarbons benzo[a]pyrene and dibenzo[a,i]pyrene. Chlorophyllin also binds to acridine orange.
+
+== Biological properties ==
+Chlorophyllin has been validated to exhibit ameliorative effects against food additive induced genotoxicity (elevating the expression of DNA repair proteins p53 and PARP) and mitochondrial dysfunction and may be used as a therapeutic tool for the management of diseases like diabetes and cancer. It has shown to modulate several protein functions including the expression of cytokine proteins  NFkβ and IFNγ.
+
+== References ==
+
+
+== External links ==
+* Chlorophyll and Chlorophyllin, Linus Pauling Institute, Oregon State University
+*  2002 Video from CNN
+* Food-Info.net
+
+
+Category:Dietary supplements
+Category:Food additives
+Category:Copper complexes
+Category:Tetrapyrroles
+Category:E-number additives

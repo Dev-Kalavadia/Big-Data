@@ -1,0 +1,104 @@
+Title: Curio, Ticino
+
+Curio is a municipality in the district of Lugano in the canton of Ticino in Switzerland.
+
+==History==
+Curio is first mentioned in 1196 as Coira.  In 1298 it was mentioned as Cuyri.
+
+During the Middle Ages Curio, Novaggio, Banco and Bedigliora formed a Kastlanei.  The first village church, consecrated to St. Peter, was mentioned in 1352.  The present church was built in 1609.
+
+Historically, many residents emigrated to foreign countries for work.  Some of these emigrant families became quite famous. They include the family Avanzini (notaries, doctors, construction workers) and Visconti (architects and engineers), who worked, from the end of the 18th and over the entire 19th centuries, in Piedmont and Russia.  Their success led them to perform a number of philanthropic works in Curio. In the 19th and at the beginning of the 20th century, this resulted in a number of charitable foundations.  The most significant was the art school, which was founded in 1850. In 1985, the Museum of Malcantone was founded in the old school building.
+
+Today, the majority of the population works in Lugano, or in the lower Malcantone.
+
+==Geography==
+thumb|Aerial view (1964)
+Curio has an area, , of .  Of this area,  or 14.2% is used for agricultural purposes, while  or 81.6% is forested.   Of the rest of the land,  or 6.9% is settled (buildings or roads),  or 1.4% is either rivers or lakes.
+
+Of the built up area, housing and buildings made up 5.2% and transportation infrastructure made up 0.7%.  Out of the forested land, 75.7% of the total land area is heavily forested and 5.9% is covered with orchards or small clusters of trees.  Of the agricultural land, 7.6% is used for growing crops, while 1.4% is used for orchards or vine crops and 5.2% is used for alpine pastures.  All the water in the municipality is flowing water.Altitudine, superficie, secondo il genere di utilizzazione, rilevazione 1992/1997, e densità della popolazione, nel 2000  accessed 25 October 2010
+
+The municipality is located in the Lugano district, in the Malcantone valleyu on the southern slope of Mount Gheggio.  The old village center is built along two streets.  It consists of the village of Curio and the exclave of Bombinasco, which became part of Curio in 1850.
+
+==Coat of arms==
+The blazon of the municipal coat of arms is Or a wolf's head eradicaed sable langued gules.Flags of the World.com accessed 8 January 2011
+
+==Demographics==
+Curio has a population () of .  , 13.2% of the population are resident foreign nationals.Swiss Federal Statistical Office - Superweb database - Gemeinde Statistics 1981-2008   accessed 19 June 2010  Over the last 10 years (1997–2007) the population has changed at a rate of 8.1%.
+
+Most of the population () speaks Italian (76.0%), with German being second most common (17.9%) and French being third (3.6%).Swiss Federal Statistical Office  accessed 8 January 2011  Of the Swiss national languages (), 93 speak German, 19 people speak French, 396 people speak Italian.  The remainder (13 people) speak another language.Popolazione residente, secondo la lingua principale e la religione, nel 2000   accessed 23 November 2010
+
+, the gender distribution of the population was 48.1% male and 51.9% female.  The population was made up of 218 Swiss men (41.0% of the population), and 38 (7.1%) non-Swiss men.  There were 248 Swiss women (46.6%), and 28 (5.3%) non-Swiss women.
+
+In  there were 0 live births to Swiss citizens and 1 birth to a non-Swiss citizen, and in same time span there were 4 deaths of Swiss citizens.  Ignoring immigration and emigration, the population of Swiss citizens decreased by 4 while the foreign population increased by 1.  There were 2 Swiss women who immigrated back to Switzerland.  At the same time, there was 1 non-Swiss man and 2 non-Swiss women who immigrated from another country to Switzerland.  The total Swiss population change in 2008 (from all sources, including moves across municipal borders) was a decrease of 12 and the non-Swiss population change was a decrease of 6 people.  This represents a population growth rate of -3.3%.
+
+The age distribution, , in Curio is; 40 children or 7.5% of the population are between 0 and 9 years old and 70 teenagers or 13.2% are between 10 and 19.  Of the adult population, 52 people or 9.8% of the population are between 20 and 29 years old.  41 people or 7.7% are between 30 and 39, 101 people or 19.0% are between 40 and 49, and 91 people or 17.1% are between 50 and 59.  The senior population distribution is 62 people or 11.7% of the population are between 60 and 69 years old, 38 people or 7.1% are between 70 and 79, there are 37 people or 7.0% who are over 80.01.02.03 Popolazione residente permanente   accessed 23 November 2010
+
+, there were 211 private households in the municipality, and an average of 2.4 persons per household.   there were 137 single family homes (or 77.4% of the total) out of a total of 177 inhabited buildings.  There were 20 two family buildings (11.3%) and 14 multi-family buildings (7.9%).  There were also 6 buildings in the municipality that were multipurpose buildings (used for both housing and commercial or another purpose). 09.02.01 Edifici   accessed 23 November 2010
+
+The vacancy rate for the municipality, , was 0.42%.   there were 224 apartments in the municipality.  The most common apartment size was the 4 room apartment of which there were 73.  There were 3 single room apartments and 72 apartments with five or more rooms.  09.02.02 Abitazioni   accessed 23 November 2010  Of these apartments, a total of 206 apartments (92.0% of the total) were permanently occupied, while 16 apartments (7.1%) were seasonally occupied and 2 apartments (0.9%) were empty.  , the construction rate of new housing units was 0 new units per 1000 residents.
+
+The historical population is given in the following chart:Popolazione residente, dal 1850   accessed 23 November 2010
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.8)
+ImageSize  = width:1080 height:210
+PlotArea   = height:150 left:100 bottom:50 right:100
+AlignBars  = justify
+DateFormat = x.y
+Period     = from:0 till:530
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:100 start:0
+ScaleMinor = gridcolor:lightgrey increment:25 start:0
+PlotData=
+  color:yellowgreen width:40   mark:(line,white) align:center
+  bar:1591 from:start till:500 text:"500"
+  bar:1801 from:start till:245 text:"245"
+  bar:1850 from:start till:421 text:"421"
+  bar:1860 from:start till:407 text:"407"
+  bar:1870 from:start till:400 text:"400"
+  bar:1880 from:start till:386 text:"386"
+  bar:1890 from:start till:416 text:"416"
+  bar:1900 from:start till:340 text:"340"
+  bar:1910 from:start till:345 text:"345"
+  bar:1920 from:start till:356 text:"356"
+  bar:1930 from:start till:380 text:"380"
+  bar:1941 from:start till:273 text:"273"
+  bar:1950 from:start till:275 text:"275"
+  bar:1960 from:start till:235 text:"235"
+  bar:1970 from:start till:276 text:"276"
+  bar:1980 from:start till:288 text:"288"
+  bar:1990 from:start till:419 text:"419"
+  bar:2000 from:start till:521 text:"521"
+
+
+==Heritage Sites of national significance==
+The Del Malcantone Museum is listed as a Swiss heritage site of national significance.  The entire village of Curio is part of the Inventory of Swiss Heritage Sites.
+
+==Politics==
+In the 2007 federal election the most popular party was the CVP which received 33.24% of the vote.  The next three most popular parties were the FDP (18.97%), the SP (16.44%) and the Ticino League (15.74%).  In the federal election, a total of 181 votes were cast, and the voter turnout was 46.5%.Swiss Federal Statistical Office, Nationalratswahlen 2007: Stärke der Parteien und Wahlbeteiligung, nach Gemeinden/Bezirk/Canton   accessed 28 May 2010
+
+In the  Gran Consiglio election, there were a total of 400 registered voters in Curio, of which 248 or 62.0% voted.  4 blank ballots were cast, leaving 244 valid ballots in the election.  The most popular party was the PPD+GenGiova which received 53 or 21.7% of the vote.  The next three most popular parties were; the SSI (with 46 or 18.9%), the LEGA (with 45 or 18.4%) and the PS (with 36 or 14.8%). Elezioni cantonali: Gran Consiglio, Consiglio di Stato   accessed 23 November 2010
+
+In the  Consiglio di Stato election, 3 blank ballots were cast, leaving 245 valid ballots in the election.  The most popular party was the LEGA which received 69 or 28.2% of the vote.  The next three most popular parties were; the PPD (with 51 or 20.8%), the PS (with 44 or 18.0%) and the SSI (with 37 or 15.1%).
+
+==Economy==
+, Curio had an unemployment rate of 2.23%.  , there were 11 people employed in the primary economic sector and about 4 businesses involved in this sector.  26 people were employed in the secondary sector and there were 7 businesses in this sector.  64 people were employed in the tertiary sector, with 16 businesses in this sector.  There were 244 residents of the municipality who were employed in some capacity, of which females made up 38.1% of the workforce.
+
+, there were 64 workers who commuted into the municipality and 171 workers who commuted away.  The municipality is a net exporter of workers, with about 2.7 workers leaving the municipality for every one entering.  About 21.9% of the workforce coming into Curio are coming from outside Switzerland.Swiss Federal Statistical Office - Statweb  accessed 24 June 2010  Of the working population, 6.6% used public transportation to get to work, and 62.3% used a private car.
+
+==Religion==
+From the , 355 or 68.1% were Roman Catholic, while 72 or 13.8% belonged to the Swiss Reformed Church.  There are 61 individuals (or about 11.71% of the population) who belong to another church (not listed on the census), and 33 individuals (or about 6.33% of the population) did not answer the question.
+
+==Education==
+In Curio about 80.8% of the population (between age 25-64) have completed either non-mandatory upper secondary education or additional higher education (either University or a Fachhochschule).
+
+In Curio there were a total of 85 students (). The Ticino education system provides up to three years of non-mandatory kindergarten and in Curio there were 8 children in kindergarten. The primary school program lasts for five years.  In the municipality, 22 students attended the standard primary schools. In the lower secondary school system, students either attend a two-year middle school followed by a two-year pre-apprenticeship or they attend a four-year program to prepare for higher education.  There were 32 students in the two-year middle school, while 8 students were in the four-year advanced program.
+
+The upper secondary school includes several options, but at the end of the upper secondary program, a student should be prepared to enter a trade or to continue to a university or college. In Ticino, vocational students may either attend school while working on their internship or apprenticeship (which takes three or four years) or may attend school followed by an internship or apprenticeship (which takes one year as a full-time student or one and a half to two years as a part-time student). There were 5 vocational students who were attending school full-time and 8 who attend part-time.
+
+The professional program lasts three years and prepares a student for a job in engineering, nursing, computer science, business, tourism and similar fields. There were 2 students in the professional program. Allievi e studenti, secondo il genere di scuola, anno scolastico 2009/2010   accessed 23 November 2010
+
+, there was 1 student in Curio who came from another municipality, while 99 residents attended schools outside the municipality.
+

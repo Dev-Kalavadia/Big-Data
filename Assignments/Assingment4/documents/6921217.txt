@@ -1,0 +1,46 @@
+Title: Microsoft Sans Serif
+
+
+Microsoft Sans Serif is a sans-serif typeface introduced with early Microsoft Windows versions. It is the successor of MS Sans Serif, formerly Helv, a proportional bitmap font introduced in Windows 1.0. Both typefaces are very similar in design to Arial and Helvetica. The typeface was designed to match the MS Sans bitmap included in the early releases of Microsoft Windows.
+
+==History==
+Microsoft Sans Serif's predecessor is Helv (a shortened form of Helvetica), a bitmap font included with Windows 1.0 and later. In Windows 3.1, the bitmap font was renamed MS Sans Serif. "Helv" is still a valid alias for MS Sans Serif. OS/2 and its successor ArcaOS still name the font "Helv".
+
+MS Sans Serif is the default system font on Windows 3.1, Windows 95, Windows NT 4.0, Windows 98, and Windows ME. A Euro symbol was added to this font for the release of Windows 98. MS Sans Serif is available in the font sizes 8, 10, 12, 14, 18, and 24. When changing the DPI settings in Windows 95 or later, Windows loads a different MS Sans Serif font, historically called the "8514" variant, which adds sizes 23 and 30 points (high DPI versions of sizes 18 and 24 respectively). 
+Also, according to the strings hidden in the .FON file (on the original raster/bitmap variant), it is seen that the font was designed by Microsoft Corporation in 1987 (font sizes 8, 10, 12 and also a portion of the 8514/a version), also in 1985 by Xiphias, Los Angeles, CA (font sizes 14, 18, 24), also the 8514 version contains typefaces designed by Bitstream Inc. in 1989.
+
+==Description==
+Microsoft Sans Serif is a TrueType font that is designed as a vectorized, metric-compatible variant of MS Sans Serif, distributed with Windows 2000 and later. This font also contains most glyphs shipped with any version of Windows until Windows Vista, excluding fonts supporting East Asian ideographs. The PostScript font name is MicrosoftSansSerif.
+
+Despite being a vectorized replacement, there are subtle design changes. For example, the tail in the lowercase "a" is shortened to a vertical stem in Microsoft Sans Serif, the top of the stem on the lowercase "f" curves down instead of horizontally, the hook at the descenders of "y" and "j" are hooked up in Microsoft Sans Serif, the strokes in the middle of digit "8" intersect at a different angle. Capital R, which was designed in the style of original Helvetica in the original MS Sans Serif, is instead a compromise between Helvetica and the straight-diagonal descender in Arial; the descender curves at the top and is a straight diagonal at the bottom.
+
+Version 1.10 of the font includes 1119 glyphs (1209 characters, 26 blocks), supporting Unicode ranges Alphabetic Presentation forms, Arabic, Arabic Presentation forms A-B, Cyrillic, General Punctuation, Greek and Coptic, Hebrew, Latin Extended-A, Latin Extended-B, Latin Extended Additional, Mathematical Operators, Thai. Supported code pages include 1250-1258, Macintosh US Roman, 874, 864, 862, 708. Font is smoothed at 0-6 points, hinted at 7-14 points, hinted and smoothed at 15 and above points. OpenType features includes init, isol, medi, fina, liga for default Arabic script.
+
+Version 1.41 (supplied with Windows XP SP2) includes 2257 glyphs (2301 characters, 28 blocks), which extended Unicode ranges to include Combining Diacritical Marks, Currency Symbols, Cyrillic Supplement, Geometric Shapes, Greek Extended, IPA Extensions, Number Forms, Spacing Modifier Letters. New OpenType scripts include Arabic MAR script. Additional OpenType features includes rlig for Arabic scripts.
+
+Version 5.00 (supplied with Windows Vista and Windows Server 2008) includes 3053 glyphs (2788 characters, 36 blocks), which extended Unicode ranges to include Arabic Supplement, Combining Diacritical Marks Supplement, Combining Half Marks, Latin Extended-C, Latin Extended-D, Phonetic Extensions, Phonetic Extensions Supplement, Specials, Superscripts and Subscripts. New OpenType scripts include Arabic URD (Urdu), Cyrillic (default), Hebrew (default), Latin (default, Romanian), Thai (default). Additional OpenType features includes ccmp, mark, mkmk for Arabic scripts; locl for Arabic URD (Urdu) script; mark, mkmk for default Cyrillic; dlig, ccmp, mark for default Hebrew; ccmp, mark, mkmk for Latin scripts; locl for Romanian Latin; ccmp, mark, mkmk for Thai.
+
+MS Sans Serif was given a PANOSE number that indicates it has "cove" serifs, While the PANOSE number for Microsoft Sans Serif indicates that is a sans serif.
+
+Glyphs from Microsoft Sans Serif are also used in the typeface Kartika.
+
+== Non-Microsoft operating systems ==
+On October 16, 2007, Apple announced on their website that the next version of Mac OS X v10.5 ("Leopard"), would include Microsoft Sans Serif. Leopard also ships with several other previously Microsoft-only fonts, including Tahoma, Arial Unicode, and Wingdings. Microsoft Sans Serif has been included with all macOS versions since.
+
+Retail versions of the font are sold through Ascender Corporation.
+
+== References==
+
+
+== External links ==
+
+*Microsoft's entry on Microsoft Sans Serif
+
+
+
+Category:Microsoft typefaces
+Category:Windows XP typefaces
+Category:Neo-grotesque sans-serif typefaces
+Category:Computer-related introductions in 1985
+Category:Typefaces and fonts introduced in 1992
+Category:Typefaces and fonts introduced in 1997

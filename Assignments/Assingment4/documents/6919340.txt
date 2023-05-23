@@ -1,0 +1,651 @@
+Title: List of municipalities of the Province of Salerno
+
+The following is a list of the 158 municipalities (comuni) of the Province of Salerno, Campania, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|065001
+|Acerno
+| align="right" |2,961
+|-
+|065002
+|Agropoli
+| align="right" |20,174
+|-
+|065003
+|Albanella
+| align="right" |6,368
+|-
+|065004
+|Alfano
+| align="right" |1,154
+|-
+|065005
+|Altavilla Silentina
+| align="right" |6,742
+|-
+|065006
+|Amalfi
+| align="right" |5,480
+|-
+|065007
+|Angri
+| align="right" |30,545
+|-
+|065008
+|Aquara
+| align="right" |1,764
+|-
+|065009
+|Ascea
+| align="right" |5,576
+|-
+|065010
+|Atena Lucana
+| align="right" |2,298
+|-
+|065011
+|Atrani
+| align="right" |958
+|-
+|065012
+|Auletta
+| align="right" |2,469
+|-
+|065013
+|Baronissi
+| align="right" |15,746
+|-
+|065014
+|Battipaglia
+| align="right" |50,958
+|-
+|065015
+|Bellosguardo
+| align="right" |935
+|-
+|065016
+|Bracigliano
+| align="right" |5,363
+|-
+|065017
+|Buccino
+| align="right" |5,555
+|-
+|065018
+|Buonabitacolo
+| align="right" |2,641
+|-
+|065019
+|Caggiano
+| align="right" |2,945
+|-
+|065020
+|Calvanico
+| align="right" |1,459
+|-
+|065021
+|Camerota
+| align="right" |7,198
+|-
+|065022
+|Campagna
+| align="right" |15,605
+|-
+|065023
+|Campora
+| align="right" |545
+|-
+|065024
+|Cannalonga
+| align="right" |1,126
+|-
+|065025
+|Capaccio
+| align="right" |20,934
+|-
+|065026
+|Casalbuono
+| align="right" |1,246
+|-
+|065027
+|Casaletto Spartano
+| align="right" |1,571
+|-
+|065028
+|Casal Velino
+| align="right" |4,800
+|-
+|065029
+|Caselle in Pittari
+| align="right" |2,013
+|-
+|065030
+|Castelcivita
+| align="right" |2,065
+|-
+|065031
+|Castellabate
+| align="right" |7,892
+|-
+|065032
+|Castelnuovo Cilento
+| align="right" |2,337
+|-
+|065033
+|Castelnuovo di Conza
+| align="right" |749
+|-
+|065034
+|Castel San Giorgio
+| align="right" |13,087
+|-
+|065035
+|Castel San Lorenzo
+| align="right" |2,837
+|-
+|065036
+|Castiglione del Genovesi
+| align="right" |1,245
+|-
+|065037
+|Cava de' Tirreni
+| align="right" |53,229
+|-
+|065038
+|Celle di Bulgheria
+| align="right" |2,022
+|-
+|065039
+|Centola
+| align="right" |4,909
+|-
+|065040
+|Ceraso
+| align="right" |2,527
+|-
+|065041
+|Cetara
+| align="right" |2,390
+|-
+|065042
+|Cicerale
+| align="right" |1,317
+|-
+|065043
+|Colliano
+| align="right" |3,815
+|-
+|065044
+|Conca dei Marini
+| align="right" |728
+|-
+|065045
+|Controne
+| align="right" |910
+|-
+|065046
+|Contursi Terme
+| align="right" |3,227
+|-
+|065047
+|Corbara
+| align="right" |2,532
+|-
+|065048
+|Corleto Monforte
+| align="right" |710
+|-
+|065049
+|Cuccaro Vetere
+| align="right" |591
+|-
+|065050
+|Eboli
+| align="right" |36,879
+|-
+|065051
+|Felitto
+| align="right" |1,342
+|-
+|065052
+|Fisciano
+| align="right" |12,929
+|-
+|065053
+|Furore
+| align="right" |834
+|-
+|065054
+|Futani
+| align="right" |1,320
+|-
+|065055
+|Giffoni Sei Casali
+| align="right" |4,539
+|-
+|065056
+|Giffoni Valle Piana
+| align="right" |11,383
+|-
+|065057
+|Gioi
+| align="right" |1,450
+|-
+|065058
+|Giungano
+| align="right" |1,117
+|-
+|065059
+|Ispani
+| align="right" |1,018
+|-
+|065060
+|Laureana Cilento
+| align="right" |1,094
+|-
+|065061
+|Laurino
+| align="right" |1,888
+|-
+|065062
+|Laurito
+| align="right" |913
+|-
+|065063
+|Laviano
+| align="right" |1,535
+|-
+|065064
+|Lustra
+| align="right" |1,103
+|-
+|065065
+|Magliano Vetere
+| align="right" |866
+|-
+|065066
+|Maiori
+| align="right" |5,685
+|-
+|065067
+|Mercato San Severino
+| align="right" |20,873
+|-
+|065068
+|Minori
+| align="right" |3,006
+|-
+|065069
+|Moio della Civitella
+| align="right" |1,919
+|-
+|065070
+|Montano Antilia
+| align="right" |2,122
+|-
+|065071
+|Montecorice
+| align="right" |2,526
+|-
+|065072
+|Montecorvino Pugliano
+| align="right" |8,939
+|-
+|065073
+|Montecorvino Rovella
+| align="right" |12,081
+|-
+|065074
+|Monteforte Cilento
+| align="right" |620
+|-
+|065075
+|Monte San Giacomo
+| align="right" |1,697
+|-
+|065076
+|Montesano sulla Marcellana
+| align="right" |6,937
+|-
+|065077
+|Morigerati
+| align="right" |743
+|-
+|065078
+|Nocera Inferiore
+| align="right" |46,533
+|-
+|065079
+|Nocera Superiore
+| align="right" |23,934
+|-
+|065080
+|Novi Velia
+| align="right" |2,082
+|-
+|065081
+|Ogliastro Cilento
+| align="right" |2,245
+|-
+|065082
+|Olevano sul Tusciano
+| align="right" |6,661
+|-
+|065083
+|Oliveto Citra
+| align="right" |3,988
+|-
+|065084
+|Omignano
+| align="right" |1,566
+|-
+|065085
+|Orria
+| align="right" |1,259
+|-
+|065086
+|Ottati
+| align="right" |810
+|-
+|065087
+|Padula
+| align="right" |5,576
+|-
+|065088
+|Pagani
+| align="right" |34,775
+|-
+|065089
+|Palomonte
+| align="right" |4,088
+|-
+|065090
+|Pellezzano
+| align="right" |10,547
+|-
+|065091
+|Perdifumo
+| align="right" |1,816
+|-
+|065092
+|Perito
+| align="right" |1,045
+|-
+|065093
+|Pertosa
+| align="right" |720
+|-
+|065094
+|Petina
+| align="right" |1,235
+|-
+|065095
+|Piaggine
+| align="right" |1,654
+|-
+|065096
+|Pisciotta
+| align="right" |2,957
+|-
+|065097
+|Polla
+| align="right" |5,394
+|-
+|065098
+|Pollica
+| align="right" |2,545
+|-
+|065099
+|Pontecagnano Faiano
+| align="right" |23,946
+|-
+|065100
+|Positano
+| align="right" |3,947
+|-
+|065101
+|Postiglione
+| align="right" |2,312
+|-
+|065102
+|Praiano
+| align="right" |1,980
+|-
+|065103
+|Prignano Cilento
+| align="right" |904
+|-
+|065104
+|Ravello
+| align="right" |2,475
+|-
+|065105
+|Ricigliano
+| align="right" |1,329
+|-
+|065106
+|Roccadaspide
+| align="right" |7,500
+|-
+|065107
+|Roccagloriosa
+| align="right" |1,747
+|-
+|065108
+|Roccapiemonte
+| align="right" |9,263
+|-
+|065109
+|Rofrano
+| align="right" |2,001
+|-
+|065110
+|Romagnano al Monte
+| align="right" |393
+|-
+|065111
+|Roscigno
+| align="right" |918
+|-
+|065112
+|Rutino
+| align="right" |908
+|-
+|065113
+|Sacco
+| align="right" |670
+|-
+|065114
+|Sala Consilina
+| align="right" |12,649
+|-
+|065115
+|Salento
+| align="right" |2,053
+|-
+|065116
+|Salerno
+| align="right" |135,818
+|-
+|065117
+|Salvitelle
+| align="right" |657
+|-
+|065118
+|San Cipriano Picentino
+| align="right" |6,489
+|-
+|065119
+|San Giovanni a Piro
+| align="right" |3,819
+|-
+|065120
+|San Gregorio Magno
+| align="right" |4,621
+|-
+|065121
+|San Mango Piemonte
+| align="right" |2,355
+|-
+|065122
+|San Marzano sul Sarno
+| align="right" |9,738
+|-
+|065123
+|San Mauro Cilento
+| align="right" |993
+|-
+|065124
+|San Mauro la Bruca
+| align="right" |747
+|-
+|065125
+|San Pietro al Tanagro
+| align="right" |1,716
+|-
+|065126
+|San Rufo
+| align="right" |1,799
+|-
+|065127
+|Santa Marina
+| align="right" |3,279
+|-
+|065128
+|Sant'Angelo a Fasanella
+| align="right" |760
+|-
+|065129
+|Sant'Arsenio
+| align="right" |2,711
+|-
+|065130
+|Sant'Egidio del Monte Albino
+| align="right" |8,607
+|-
+|065131
+|Santomenna
+| align="right" |569
+|-
+|065132
+|San Valentino Torio
+| align="right" |9,719
+|-
+|065133
+|Sanza
+| align="right" |2,885
+|-
+|065134
+|Sapri
+| align="right" |6,987
+|-
+|065135
+|Sarno
+| align="right" |31,580
+|-
+|065136
+|Sassano
+| align="right" |5,191
+|-
+|065137
+|Scafati
+| align="right" |50,525
+|-
+|065138
+|Scala
+| align="right" |1,492
+|-
+|065139
+|Serramezzana
+| align="right" |366
+|-
+|065140
+|Serre
+| align="right" |3,811
+|-
+|065141
+|Sessa Cilento
+| align="right" |1,423
+|-
+|065142
+|Siano
+| align="right" |10,299
+|-
+|065143
+|Sicignano degli Alburni
+| align="right" |3,441
+|-
+|065144
+|Stella Cilento
+| align="right" |840
+|-
+|065145
+|Stio
+| align="right" |1,028
+|-
+|065146
+|Teggiano
+| align="right" |8,087
+|-
+|065147
+|Torchiara
+| align="right" |1,624
+|-
+|065148
+|Torraca
+| align="right" |1,242
+|-
+|065149
+|Torre Orsaia
+| align="right" |2,352
+|-
+|065150
+|Tortorella
+| align="right" |569
+|-
+|065151
+|Tramonti
+| align="right" |4,082
+|-
+|065152
+|Trentinara
+| align="right" |1,714
+|-
+|065153
+|Valle dell'Angelo
+| align="right" |404
+|-
+|065154
+|Vallo della Lucania
+| align="right" |8,952
+|-
+|065155
+|Valva
+| align="right" |1,806
+|-
+|065156
+|Vibonati
+| align="right" |3,109
+|-
+|065157
+|Vietri sul Mare
+| align="right" |8,671
+|-
+|065158
+|Bellizzi
+| align="right" |12,862
+|-
+|
+|Total
+| align="right" |1,089,770
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

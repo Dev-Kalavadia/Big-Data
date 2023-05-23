@@ -1,0 +1,26 @@
+Title: SmILE
+SmILE is a showcase car designed for Greenpeace in 1996 to demonstrate how fuel efficient a car can be. The name stands for "Small, Intelligent, Light, Efficient'. It is based on the Renault Twingo, halving its fuel consumption to 3.3 l/100km (30 km/L or 85 mpg (imperial) / 68 mpg (US)). 
+
+An important issue in the design was that it should use off-the-shelf technology (parts and know-how). As a result, in mass production it should not cost significantly more than a 'heavier' equivalent. The engine should even be cheaper because it is made of fewer parts. However, parts that would be more expensive are supercharging (be it pressure wave supercharger or turbo-supercharger) and the wheels and the wheel suspension, which  are made of aluminium. 
+
+The major changes made to the Twingo are:
+* 23% lighter (650 kg instead of 845 kg):
+** 80 kg less because of a smaller engine and lighter peripherals (battery, radiator and exhaust system)
+** 80 kg less in vehicle interior and chassis through lighter seat structures (aluminium / plastic) and lighter metals for wheel suspensions, drum brakes, brake calliper and rims. To keep the cost down, no exotic materials (such as titanium screws or carbon gear boxes) were used.
+** lighter wheels, which also have a rolling resistance that is 35% lower.
+* Less air resistance, with a 30% improvement in the wind tunnel (Cw value (drag coefficient) down from 0.37 to 0.25)
+* A smaller and more efficient engine: a supercharged flat-twin, four-stroke engine with four-valve technology in a boxer arrangement. A maximum torque of 75 N·m results from a swept volume of 358 cm3 at 2,900 rpm. The dynamic pressure supercharger makes sure the engine runs most efficiently at normal operating speeds. Most car engines are designed for optimum performance at maximum speed and load, which are in reality rarely used. At 55 bhp, the engine has the same performance as the original Twingo. Other performance parameters, such as maximum speed, elasticity and acceleration are the same or better.
+
+The main consumption change of the engine stems from its more frequent use in the higher load range, which results in higher thermal stress. This is compensated for by an ingenious cooling system. The mean piston velocities are in the customary range. The use of the latest technologies in materials and surface coatings guarantees stability of piston rings and cylinder bearing surfaces despite the higher pressures due to supercharging.
+
+At least a further 80 kg weight reduction could be achieved through the use of fibre composite materials, a smaller tank and replacing the glass windows with polycarbonate, but these modifications were not selected.  The changes did not alter the safety standards of the Twingo and the airbag and lateral collision protection were kept in place.  Aluminium accounts for 45 kg of the weight of the SmILE (7%), through replacement of both axles, wheel suspension and seat structure. In average cars in Europe this is 65 kg (6%) and rising. One problem with aluminium is the high energy cost of primary production. However, recycled aluminium has a much lower energy cost and identical mechanical properties.  
+
+In Germany, around 10% of all cars are replaced annually by new vehicles, so if all new vehicles had the SmILE standard that would mean an annual reduction of the CO2 emissions of the car fleet by 5%.  A similar reduction in fuel consumption would be possible for all petrol cars, but not diesels because they are heavier (and require heavier batteries). The Twingo was chosen because of its favourable ratio between internal space and exterior and because it is a reasonable all-round car for everyone (it is the most imported car in Germany).
+
+Greenpeace says that ultimately, this car is not a definitive solution. Reduction of the number of cars is still necessary, also to reduce other problems, such as traffic jams, the emission of toxic substances in cities, the death toll on roads (over a million per year) and the destruction (and carving up) of nature to build roads. Alternative fuels would be a better solution, but time is pressing, so an intermediate off-the-shelf solution like the SmILE is needed.
+
+The car was designed by the Swiss company of Wenko. For this, they received a loan of roughly 1.3 million euro from Greenpeace, which they will return if the engine concept is taken over by a manufacturer for series production or profits are obtained from issuing licences.
+
+==See also==
+*Eco-marathon
+

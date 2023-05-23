@@ -1,0 +1,2858 @@
+Title: List of Nürburgring Nordschleife lap times
+
+
+thumb|upright=1.5|right|"Nordschleife"-layout
+This is a list of lap times achieved by various vehicles on the Nürburgring (Nordschleife). The list itself is broken down into categories.
+
+==The Nordschleife==
+
+thumb|Porsche 919 Evo - Overall record holder on the modern 20,832m full layout with a time of 5:19.546 minutes
+thumb|Volkswagen I.D. R - Overall electric record holder on the modern 20,832m full layout with a time of 6:05.336 minutes
+thumb|Porsche 956 - Former overall record holder with a time of 6:11.13 minutes set during a qualifying session in 1983
+The Nürburgring Nordschleife (North Loop) in Germany, with its remaining  long old section dating from 1927, is used by various motoring media outlets and vehicle manufacturers for testing. Manufacturers publish times for promotional purposes while automotive media outlets usually publish times for comparison and reporting purposes. According to Car and Driver, Nürburgring Nordschleife "record-chasing runs are a universally accepted, objective measure of a car’s performance, and shaving seconds gives automakers reasons to grab some headlines."  Compared to the current version, the original Nürburgring track was longer and split into three configurations. The entire track, the Gesamtstrecke (see map above) was 28.3 kilometres in length, composed of the Nordschleife (22.8 km), the Südschleife (7.7 km), and the Betonschleife – the latter a short 2 kilometer warm-up loop around the pit area. The lengths of the two segments, when considered separately, add up to more than the whole, since each circuit also incorporated some parts of the Betonschleife.
+
+==Timing entities==
+Along with races and timing events under the rules of their respective sanctioning bodies, the operators of the track have instituted official rules as of 2019 that govern the measurement and certification of lap time on the Nordschleife, with measurement over the full length of the track timed with a flying start. Timekeeping is supervised by a notary and the vehicles are scrutineered with regard to their series-production state.
+
+===Timing by media===
+The German magazine sport auto publishes its "Supertest" of cars, in which the lap time (usually driven by editor-in-chief Horst von Saurma) at the Nordschleife is the most discussed result. The magazine also runs a challenge for the fastest lap time driven with a car that is road legal (TÜV) and registered in Germany. The road legality rule also applies for the tyres.
+
+British motorcycle magazine Performance Bikes began testing their bikes in a regular feature at the Nordschleife in March 2007 and finished in December 2007. Bikes were tested by Dale Lomas and Brendan Keirle (then known only as "The Baron"). As with sport auto, all machines tested are road-legal (MOT) and shod with road-legal Bridgestone BT002 Pro Race tyres. To date there are 28 lap times published in the regular feature. As motorcycles are forbidden to participate in industry pool sessions and after-hours test sessions, Performance Bikes were forced to test during quiet mid-week tourist sessions, where speed limits apply in some sections. This means their lap times are measured from bridge to gantry (see below) and are approximately 22 seconds shorter than a full  Nordschleife lap.
+
+Nordschleife runs are conducted or observed by various other media outlets, such as the British Evo Magazine or Auto Bild from Germany.
+
+===Timing by manufacturers===
+Manufacturers, especially those of sports cars, conduct their own timing runs and publish these for varying purposes. Manufacturers also lend support to private entities or media outlets.
+
+===Timing by private drivers===
+Some lap times are even claimed to have been done during tourist driving sessions. It is forbidden to race on tourist days. Additionally, there are two speed limits (one in Breidscheid, and one on "Döttinger Höhe") on tourist days.
+
+==Controversies==
+Nordschleife runs are not without sometimes prominent critics. The British motoring programme Top Gear used the Nordschleife for their challenges, often involving Sabine Schmitz. Top Gears James May, however, was very critical of the influence of Nordschleife lap timing, saying that it "corrupts performance when it is used by car makers to develop new models. Testing prototype cars on a circuit is nothing new, obviously: it's probably been going on since someone drove a horseless carriage onto a disused donkey derby track. But the 'Ring, through being communal and open to all, encourages a pointless scrabble for comparative lap times that isn't helping you or me." According to Popular Science, "beating the 'ring, and making a YouTube video to prove it, is about the best marketing move a sports car company can make, even one that plans to roll only a double-digits'-worth of cars out of its production facility."
+
+The views and definitions differ among automakers and also among journalists. According to Porsche, the Porsche 918 Spyder did set a "Nurburgring record for a street-legal automobile", while the car landed on place 3 on this list behind two Radical SR8. With roof reinforced for safety reasons and observed by sport auto, the record was widely reported by the media. Magazines like Car and Driver and the wider automotive industry declared the worldwide street-legal Porsche 918 the new record holder since the SR8 didn't meet full type-approval and only could get British single-vehicle approval.
+
+Two months later, Nissan claimed, which was also widely reported in the media, a ring record for its Nissan GT-R Nismo as "world's fastest volume production car". Engineers later confessed that the car had been "specifically tuned for the Nurburgring" with significant changes from the standard car, including the addition of not road legal parts. The Nissan GT-R was fourth place on this list at the time.
+
+File:Radical SR8.jpg|thumb|The Radical SR8 achieved record in 2009 for the fastest road-legal car with a time of 6:48
+
+
+==Track lengths and timing==
+There are varying lap lengths. Therefore, not all of the lap times are comparable.
+
+===Full lap===
+A full lap of the Nordschleife, bypassing the modern GP track, is  long. Most laps are completed  shorter for safety reasons. Full uninterrupted flying laps can only be done in closed sessions and race events like Castrol-Haugg-Cup.
+
+===Bridge to gantry===
+During tourist driving sessions, the full main straight cannot be driven at speed due to the exit/entrance. These laps are usually timed "bridge to gantry", which is only 19.1 km (11.9 mi). The lap goes from the "bridge" at Antoniusbuche to the "gantry" (currently carrying Audi sponsorship) on Döttinger Höhe.
+
+==Lap times==
+
+===Automobiles===
+
+====Production/street-legal====
+
+A production vehicle is defined as "one that is put into mass production, as a model produced in large numbers and offered for sale to the public." VCA, the United Kingdom's national approval authority for new road vehicles defines a production vehicle as "a vehicle of a make, model and type mass produced by the vehicle manufacturer." Guinness World Records was reported to require a minimum of 30 and other lists within Wikipedia require at least 25 road legal cars built.  The Nürburgring is a public (toll-) road, and regulations of Germany and the EU apply. For the purpose of this list, a car is “street legal” if it is registered in at least one EU country for road use.
+
+For new entries, this list requires an official manufacturer's press release for manufacturer-conducted tests. If the test has been conducted by an independent publication, an article in that publication is required. New entries require an original, uncut on-board video, showing the lap and the timing from start to finish. A statement that road legal OEM tyres have been used is required.
+
+{| class="wikitable sortable" style="font-size: 90%;"
+|-
+! style="width:8%;"|Length
+! style="width:4%;"|Time
+! style="width:25%;"|Vehicle
+! style="width:9%;"|Driver
+! style="width:7%;"|Date
+! style="width:45%;"|Notes
+|-
+|
+|6:30.705
+|Mercedes-AMG One
+|Maro Engel
+|28 October 2022
+|Official Nürburgring record attempt by Mercedes-AMG. Timing and vehicle condition verified by a notary. Michelin Pilot Sport Cup 2 R tyres. 6:35.183 on the 20,832 m lap.
+|-
+|
+|6:38.835
+|Porsche 911 GT2 RS MR (991.2)
+|Lars Kern
+|14 June 2021
+|Official Nürburgring record attempt by Porsche. Timing and vehicle condition verified by a notary. Michelin Pilot Sport Cup 2 R tyres, OEM Manthey Performance Kit. 6:43.300 on the 20,832 m lap.
+|-
+|
+|6:43.616
+|Mercedes-AMG GT Black Series
+|Maro Engel
+|4 November 2020
+|Official Nürburgring record attempt by Mercedes. Timing and vehicle condition verified by a notary. OEM Michelin Pilot Sport Cup 2 R MO tyres. 6:48.047 on the 20,832 m lap.
+|-
+| 
+|6:44.848
+|Porsche 911 GT3 RS (992)
+|Jörg Bergmeister
+|5 October 2022
+|Porsche conducted test, full roll cage, Michelin Pilot Sport Cup 2 R tyres. 6:49.328 on 20,832 m lap. Timing and vehicle condition verified by a notary. 
+|-
+| 
+|6:44.97
+|Lamborghini Aventador SVJ LP770-4 (2018)
+|Marco Mapelli
+|26 July 2018
+|Lamborghini conducted test, full roll cage, Pirelli P Zero Trofeo R.
+|-
+|
+|6:47.25
+|Porsche 911 GT2 RS (991.2)
+|Lars Kern
+|20 September 2017
+|Porsche conducted test. OEM Michelin Pilot Sport Cup 2 'N2', OEM "Weissach Package", OEM deletion of audio and communication system, Porsche Motorsport bucket seat and harness on driver's side.
+|-
+| 
+| 6:48.28
+| Radical SR8 LM
+| Michael Vergers
+| 19 August 2009
+| Dunlop Direzza DZ03 tyres. Production car status disputed, road legal version is available with British Single Vehicle Approval. Timing overseen by Evo magazine who consider it to be a road legal production car, timed by Sport Auto, who do not consider it to be a road legal production car lap. Single Vehicle Approval: Raised ride height (100 mm), compliant suspension settings, road lights, switches, hand brake, quiet silencer with catalytic converter, rear view mirrors, bodywork trim and mouldings and collapsible steering column
+|-
+|
+| 6:52.01
+|Lamborghini Huracán Performante LP640-4 (2017)
+| Marco Mapelli
+| 5 October 2016
+| Lamborghini conducted test, full roll cage, Pirelli Trofeo R.
+|-
+| 
+| 6:55
+| Radical SR8
+| Michael Vergers
+| 28 September 2005
+| Dunlop Direzza DZ03 tyres. Track car, road legal version is available with British Single Vehicle Approval. Timed by Sport Auto, who do not consider it to be a road legal production car lap, but considered a road legal production car by Pistonheads.
+|-
+| 
+| 6:55.34
+|Porsche 911 GT3 (992.1, 2022)
+|Lars Kern
+| 15 September 2020
+| Porsche conducted test. Michelin Pilot Sport Cup 2 R. 6:59.927 on the  configuration.
+|-
+|
+|6:56.4
+|Porsche 911 GT3 RS (991.2)
+|Kévin Estre
+|16 April 2018
+|Porsche conducted test. OEM Michelin Pilot Sport Cup 2 R 'N0', OEM "Weissach Package", OEM deletion of audio and communication system, Porsche Motorsport bucket seat and harness on driver's side.
+|- 
+| 
+| 6:57
+| Porsche 918 Spyder
+| Marc Lieb
+| 4 September 2013
+| Porsche conducted test, observed by Sport Auto. "Weissach Package", Michelin Pilot Sport Cup 2 'N0'.
+|-
+|
+|6:58.28
+|Porsche 911 GT2 RS (991.2)
+|Christian Gebhardt
+|17 April 2018
+|Sport Auto (7/2018), Michelin Pilot Sport Cup 2 R
+|-
+| 
+| 6:59.73
+|Lamborghini Aventador SuperVeloce LP750-4 (2015)
+| Marco Mapelli
+| 18 May 2015
+| Lamborghini conducted test, full roll cage, Pirelli P Zero Corsa.
+|-
+| 
+| 7:00.03
+| Ferrari 488 Pista
+| Christian Gebhardt
+| 16 May 2019
+| Sport Auto (11/2019), Michelin Pilot Sport Cup 2 R K1
+|-
+| 
+| 7:01.3
+| Dodge Viper ACR (2017)
+| Lance David Arnold
+| 1 September 2017
+| OEM "GTS-R Commemorative Edition", "Extreme Aero Package", Kumho Ecsta V720 ACR. Privately funded and observed by Road & Track. Third attempt, testing ended by tyre failure resulting in crash.
+|-
+|
+|7:04.511
+|Porsche Cayman GT4 RS (982)
+|Jörg Bergmeister
+|
+|Porsche conducted test. OEM Michelin Pilot Sport Cup 2 R, OEM deletion of audio and communication system, bucket seat and harness on driver's side. 7:09.300 on the  configuration.
+|-
+|
+|7:04.632
+|Mercedes-AMG GT R Pro
+| Maro Engel
+| November 2018
+| Mercedes-Benz conducted test (11/2018). Michelin Pilot Sport Cup 2 ZP. Ambient temperature of . Vehicle in accordance with regulations. Timed by wige SOLUTIONS.
+|-
+|
+|7:05.41
+|Porsche 911 GT3 RS (991.2)
+| Christian Gebhardt
+| 18 April 2018
+| Sport Auto (09/2018), OEM deletion of audio and communication system, Porsche Motorsport bucket seat and harness on driver's side.
+|-
+|
+|7:06.60
+|Mercedes-AMG GT R Pro
+| Christian Gebhardt
+| 22 May 2019
+|Sport Auto (8/2019), Michelin Pilot Sport Cup 2 ZP.
+|-
+| 
+| 7:08.34
+| McLaren 720S
+| Christian Gebhardt
+| 28 June 2018
+| Sport Auto (2/2019), Pirelli P Zero Corsa.
+|-
+| 
+| 7:08.82
+| McLaren 600LT
+| Christian Gebhardt
+| 6 June 2019
+| Sport Auto (9/2019), Pirelli P Zero Trofeo R MC.
+|-
+| 
+| 7:10.92
+|Mercedes-AMG GT R (2017)
+| Christian Gebhardt
+| 4 November 2016
+| Sport Auto (1/2017), Michelin Pilot Sport Cup 2 'ZP'.
+|-
+| 
+| 7:11.57
+| Gumpert Apollo Sport
+| Florian Gruber
+| 13 August 2009
+| Observed by Sport Auto, Michelin Pilot Sport Cup.
+|-
+| 
+| 7:12.13
+| Dodge Viper ACR (2010)
+| Dominik Farnbacher
+| 14 September 2011
+| SRT, Viper Club of America and ViperExchange conducted test. Michelin Pilot Sport Cup.
+|-
+| 
+| 7:12.7
+| Porsche 911 GT3 (991.2)
+| Lars Kern
+| 4 May 2017
+| Porsche conducted test. Michelin Pilot Sport Cup 2, PDK, carbon ceramic brakes, OEM deletion of audio and communication system, "Clubsport Package", Porsche Motorsport bucket seat and harness on driver's side.
+|-
+| 
+| 7:13.90
+| Chevrolet Corvette C7 Z06
+| Christian Gebhardt
+| 24 April 2017
+| Sport Auto (8/2017), Michelin Pilot Sport Cup 2 'ZP', manual.
+|-
+| 
+| 7:13
+| Porsche 918 Spyder
+| Horst von Saurma
+| June 2014
+| Sport Auto (6/2014).
+|-
+| 
+| 7:14.64
+|Lexus LFA Nürburgring Package
+| Akira Iida
+| 31 August 2011
+| Lexus conducted test. OEM "Nürburgring Package", Bridgestone Potenza RE070, additional roll cage.
+|-
+| 
+| 7:14.89
+| Donkervoort D8 RS
+| Michael Düchting
+| 2006
+| Observed by Sport Auto, Dunlop Sportmaxx.
+|-
+|
+|7:15.677
+|BMW M4 CSL
+|Jörg Weidinger
+|May 2022
+|Fastest lap time ever for a series-produced BMW car.
+|-
+| 
+| 7:16.04
+| Chevrolet Camaro ZL1 1LE (2018)
+| Bill Wise
+| 2017
+| General Motors conducted test, OEM Goodyear Eagle F1 Supercar 3R.
+|-
+| 
+| 7:17.11
+| Porsche 911 Turbo S (991.2)
+| Christian Gebhardt
+| 24 August 2017
+| Sport Auto (3/2018), Pirelli P Zero Corsa 'N1', OEM 'Aerokit'.
+|-
+|
+|7:17.3
+|Porsche 911 Turbo S (992)
+|Christian Gebhardt
+|30 January 2021
+|Sport Auto (2/2021), Pirelli P Zero 'NA1', OEM 'Aerokit'.
+|-
+| 
+| 7:18
+|Porsche 911 GT2 RS (997.2)
+| Timo Kluck
+| 2010
+| Porsche conducted test, Michelin Pilot Sport Cup 'N2'.
+|-
+| 
+| 7:18
+| Porsche 911 GT3 (991.2)
+| Christian Gebhardt
+| 28 April 2017
+| Sport Auto (7/2017), Michelin Pilot Sport Cup 2 'N1', PDK, bucket seat and harness.
+|-
+| 
+| 7:18.1
+| Donkervoort D8 RS
+| Michael Düchting
+| 24 October 2004
+| Observed by Sport Auto.
+|-
+| 
+| 7:19.1
+| Nissan GT-R (2013)
+| 
+| 2012
+| Nissan conducted test.
+|-
+| 
+| 7:19.63
+|Chevrolet Corvette C6 ZR1 (2012)
+| Jim Mero
+| 9 June 2011
+| General Motors conducted test. Base car, OEM Michelin Pilot Sport Cup ZP option.
+|-
+| 
+| 7:21.63
+|Ferrari 488 GTB
+| Christian Gebhardt
+| November 2016
+| Sport Auto (12/2016), Michelin Pilot Sport Cup 2.
+|-
+| 
+|7:22.1
+|Dodge Viper ACR (2009)
+| Tom Coronel
+| 18 August 2008
+| Chrysler and Motor Trend conducted test. Michelin Pilot Sport Cup.
+|-
+| 
+| 7:22.68
+|Chevrolet Corvette C6 Z06 (2012)
+| Jim Mero
+| 23 June 2011
+| General Motors conducted test. Z07 package, OEM Michelin Pilot Sport Cup ZP option.
+|-
+|
+|7:23.009
+|Mercedes-AMG GT 4-Door Coupé GT 63 S 4MATIC+ (2021)
+|Demian Schaffert
+|10 November 2020
+|Mercedes-Benz conducted test, Michelin Pilot Sport Cup 2 tires and AMG Aerodynamics Package. Timed by wige Solutions.
+|-
+|
+|7:23.164
+|Jaguar XE SV Project 8 (2018)
+|Vincent Radermecker
+|July 2019
+|Jaguar conducted test, Michelin Pilot Sport Cup 2 R tyres, two-seat Track Package.
+|-
+| 
+| 7:23.77
+| Porsche 911 Carrera GTS (991.2)
+| Christian Gebhardt
+| May 2017
+| Sport Auto (6/2017), optional OEM Pirelli P Zero Corsa N0, PDK, rear seats.
+|-
+| 
+| 7:24
+| Gumpert Apollo Sport
+| Horst von Saurma
+| November 2010
+| Sport Auto (11/2009), Michelin Pilot Sport Cup.
+|-
+| 
+| 7:24
+|Porsche 911 GT2 RS (997.2)
+| Horst von Saurma
+| 2010
+| Sport Auto (11/2010), Michelin Pilot Sport Cup.
+|-
+| 
+|7:24.22
+| Nissan GT-R (2011)
+| Toshio Suzuki
+| 1 October 2010
+| Nissan conducted test.0:15, Chapter 5, special movie "Team GT-R"  Video confirmed. Done on semi-wet (damp) condition. Best Motoring (12/2010).Best Motoring 12/2010 
+|-
+|
+| 7:24.29
+| Maserati MC12
+| Marc Basseng
+| August 2008
+| Evo Magazine conducted test
+|-
+| 
+| 7:24.44
+| Pagani Zonda F Clubsport
+| Marc Basseng
+| August 2008
+| Evo Magazine conducted test
+|-
+| 
+| 7:25
+|Lamborghini Aventador LP700-4
+| Horst von Saurma
+| 2012
+| Sport Auto (08/2012), Pirelli P Zero Corsa.
+|-
+| 
+| 7:25.21
+| Enzo Ferrari
+| Marc Basseng
+| August 2008
+| Evo Magazine conducted test
+|-
+| 
+| 7:25.41
+| Mercedes-AMG GT 4-Door Coupé 63 S 4MATIC+
+| Demian Schaffert
+| October 2018
+| Mercedes-AMG conducted test.
+|-
+| 
+| 7:25.67
+|Mercedes-Benz SLS AMG Black Series
+| 
+| August 2013
+| Mercedes-AMG conducted test.
+|-
+| 
+| 7:25.72
+| KTM X-Bow RR
+| Christopher Haase
+| 2012
+| Michelin Pilot Sport Cup.
+|-
+| 
+| 7:26.4
+|Chevrolet Corvette C6 ZR1 (2009)
+| Jim Mero
+| 27 June 2008
+| General Motors conducted test, Michelin Pilot Sport 2.
+|-
+| 
+| 7:26.70
+| Nissan GT-R (2009)
+| Toshio Suzuki
+| 23 April 2009
+| Nissan Motors conducted test, optional tyres. Best Motoring (08/2009).Best Motoring 08/2009 
+|-
+| 
+| 7:27.48
+| Ferrari 812 Superfast
+| Christian Gebhardt
+| 20 June 2018
+| Sport Auto (03/2019), Pirelli P Zero Corsa.
+|-
+| 
+| 7:27.82
+| Pagani Zonda F Clubsport (2005)
+| Marc Basseng
+| September 2007
+| Pagani conducted test.
+|-
+|
+| 7:27.88
+|BMW M4 GTS
+| Joerg Weidinger
+| September 2015
+| Michelin Pilot Sport Cup 2.
+|-
+| 
+| 7:28.0
+| Porsche Carrera GT (980)
+| Walter Röhrl
+| 2 July 2004
+| Auto Bild(07/04)
+|-
+| 
+| 7:28.0
+| McLaren MP4-12C
+| Horst von Saurma
+| 2011
+|Sport Auto (11/2011), Pirelli P Zero Corsa.
+|-
+| 
+| 7:28.0
+|Lamborghini Huracán LP610-4
+| Christian Gebhardt
+| July 2016
+| Sport Auto (08/2016), Pirelli P Zero Trofeo R.
+|-
+| 
+| 7:28.71
+| Porsche Carrera GT (980)
+| Marc Basseng
+| August 2008
+| Evo Magazine conducted test.
+|-
+| 
+| 7:29.03
+| Nissan GT-R (2009)
+| Toshio Suzuki
+| 17 April 2008
+| Nissan Motors conducted test.  GT-R Achieves Under 7:30 at Nurburgring 
+|-
+| 
+| 7:29.60
+| Chevrolet Camaro ZL1 (2017)
+| Drew Cattell
+| October 24, 2016
+| Goodyear Eagle F1.
+|-
+| 
+| 7:29.81
+| Porsche Panamera Turbo (2020)
+| Lars Kern
+| July 24, 2020
+| Porsche Conducted Test. Michelin Pilot Sport Cup 2 tires. Lap record for a production executive car.
+|-
+|
+|7:29.90
+|Chevrolet Corvette (C8) (2020)
+|Oliver Gavin
+|July 2019
+|General Motors conducted test. Z51 performance package
+|-
+| 
+| 7:30.0
+| Mercedes-Benz SLS AMG GT (2012)
+| 
+| 2012
+| According to AMG chairman Ola Källenius, as reported by Auto Blog. No video or press release.
+|-
+| 
+| 7:30.41
+| Porsche 911 Carrera S (992)
+| Christian Gebhardt
+| 2019
+| Sport Auto (10/2019), Pirelli P Zero NA1, Porsche Motorsport bucket seat and harness on driver's side.
+|-
+| 
+| 7:31
+| Porsche 911 GT2 (997, 2007)
+| Walter Röhrl
+| 2007
+| Porsche conducted test.
+|-
+| 
+| 7:32.40
+| Porsche Carrera GT (980) 
+| Horst von Saurma
+| 2003
+| Sport Auto (01/2004), Michelin Pilot Sport. Wet patches on the track.
+|-
+| 
+| 7:32
+| Porsche 911 GT3 (991)
+| Horst von Saurma
+| November 2013
+| Sport Auto (11/2013), Michelin Pilot Sport Cup 2.
+|-
+| 
+| 7:32
+| Audi R8 V10 Plus (4S, 2015)
+| Christian Gebhardt
+| 2015
+| Sport Auto (10/2015), Michelin Pilot Sport Cup 2.
+|-
+| 
+| 7:32
+|Alfa Romeo Giulia Quadrifoglio (2015)
+| Fabio Francia
+| September 2016
+| Alfa Romeo Giulia Quadrifoglio with automatic transmission
+|-
+|
+| 7:33
+|Pagani Zonda F
+|Horst von Saurma
+| 2006
+|Sport Auto (05/2006), Michelin Pilot Sport 2 N0/1.
+|-
+|
+| 7:33
+|Porsche 911 GT3 RS (997.2)
+|Horst von Saurma
+| 2010
+|Sport Auto (05/2010), PCCB  
+|-
+|
+| 7:33
+|Porsche 911 GT2 (997, 2007)
+|Horst von Saurma
+| 2007
+|Sport Auto (11/2007), Michelin Pilot Sport Cup.
+|-
+| 
+|7:33.35
+|Porsche Taycan Turbo S (2023)
+|Lars Kern
+|Aug. 10, 2022
+|Porsche conducted test. Equipped with Tequipment performance kit and PDCC. Pirelli P Zero Corsa tyres. Added roll cage and racing seats.  
+|-
+|
+| 7:33.55
+|Koenigsegg CCX
+|Marc Basseng
+| August 2008
+|Evo Magazine conducted test
+|-
+|
+| 7:33.67
+|Porsche 911 Carrera S (991.2)
+|Christian Gebhardt
+| May 2016
+|Sport Auto (6/2016), Pirelli P Zero N1.
+|-
+|
+| 7:33.95
+|Porsche Cayenne Turbo GT 
+|Lars Kern
+| 14 June 2021
+| Official Nürburgring record attempt by Porsche. Timing and vehicle condition verified by a notary. Pirelli P Zero Corsa. Set a SUV record with 7:38.925 on the 20,832 m lap.
+|-
+|
+| 7:34
+|Koenigsegg CCR
+|Horst von Saurma
+| 17 October 2005
+|Sport Auto (03/2006), Michelin Pilot Sport N0.
+|-
+|
+| 7:34
+|Nissan GT-R (2011)
+|Horst von Saurma
+| October 2010
+|Sport Auto (11/2010),.
+|-
+|
+| 7:34
+|Lexus LFA Nürburgring Package
+|Horst von Saurma
+| February 2012
+|Sport Auto (02/2012), Potenza RE070.
+|-
+|
+| 7:34
+|Porsche 911 Turbo S (991)
+|Horst von Saurma
+| February 2014
+|Sport Auto (2/2014), Dunlop SportMaxx Race.
+|-
+|
+|7:34.46
+|Nissan GT-R Spec-V
+|
+|2009
+|Best Motoring - Time Attack.
+|-
+| 
+| 7:35
+|Mercedes-AMG GT S
+| 
+| 2016
+| Autoweek 
+|-
+|
+| 7:35
+|Ruf Rt 12
+|Horst von Saurma
+| 2008
+|Sport Auto (02/2008), Michelin Pilot Sport Cup.
+|-
+|
+| 7:35
+|McLaren 650S Spider
+|Horst von Saurma
+| 2015
+|Sport Auto (03/2015), Pirelli P Zero Corsa.
+|-
+|
+|7:35:060
+|BMW M3 Touring
+|Jörg Weidinger
+|May 2022
+|Record for the fastest lap for a wagon.Official Nürburgring record attempt by BMW.
+|-
+| 
+| 7:35.522
+| Audi RS3 
+| Frank Stippler
+| 14 June 2021
+| Official Nürburgring record attempt by Audi. Timing and vehicle condition verified by a notary. Pirelli P Zero Trofeo R. 7:40.748 on the 20,832 m lap. Lap record for compact cars.
+|-
+| 
+| 7:35.579
+| Tesla Model S Plaid
+| Andreas Simonsen
+| 9 September 2021
+| Michelin 295/30ZR21. 7:30.909 for 20.6 km.
+|-
+| 
+| 7:35.90
+| BMW M5 Competition (F90)
+| Christian Gebhardt
+| 17 April 2019
+| Sport Auto (7/2019), Pirelli P Zero.
+|-
+|
+| 7:36
+|Nissan GT-R (R35)
+|Horst von Saurma
+| 2011
+|Sport Auto (05/2011), Dunlop SP Sport Maxx GT 600 DSST.
+|-
+|
+|7:36
+|Honda NSX (NC1, 2016)
+|Christian Gebhardt 
+|March 2017
+|Sport Auto (03/2017),  Pirelli P Zero Trofeo R.
+|-
+|
+| 7:37
+|BMW M4 GTS
+|Christian Gebhardt
+| October 2016
+|Sport Auto (09/2016), Michelin Pilot Sport Cup 2.
+|-
+|
+| 7:37.4
+|Chevrolet Camaro Z/28 (2014)
+| Adam Dean
+| October 2013
+|General Motors conducted test, Pirelli P Zero Trofeo R.
+|-
+|
+| 7:37.9
+|Porsche 911 Carrera S (991)
+| Timo Kluck
+| 28 August 2012
+|Porsche conducted test, PDK transmission.
+|-
+| 
+| 7:38
+| Ferrari 458 Italia
+| Horst von Saurma
+| 2010
+| Sport Auto (08/2010), Michelin Pilot Sport PS2.
+|-
+| 
+| 7:38
+| Lexus LFA
+| Horst von Saurma
+| September 2010
+| Sport Auto (09/2010), Bridgestone Potenza S001.
+|-
+|
+| 7:38
+| Porsche 911 Turbo (997)
+|
+| September 2008
+| Porsche conducted test.
+|-
+| 
+| 7:38
+|Chevrolet Corvette C6 ZR1
+| Horst von Saurma
+| October 2009
+| Sport Auto conducted test, Michelin Pilot Sport ZP run-flat.
+|-
+| 
+| 7:38
+| Nissan GT-R
+| Horst von Saurma
+| 2009
+| Sport Auto (07/2009), Dunlop SP Sport 600 DSST run flat.
+|-
+| 
+| 7:38
+|Lamborghini Gallardo Superleggera LP570-4
+| Horst von Saurma
+| 2011
+| Sport Auto (04/2011), Pirelli P Zero Corsa.
+|-
+| 
+| 7:38
+| Porsche Panamera Turbo (2017)
+| 
+| 2016
+| Car equipped with roll cage. Confirmed by Road & Track
+|-
+| 
+| 7:38.85
+| Lexus LFA
+| Sascha Bert
+| November 2010
+| Auto Bild Sportscars supercomparo (LFA vs 458 vs SLS AMG vs GT-R vs LP570-4 vs Weismann GT) test conducted on the long 20.8 km configuration of Nurburgring (11/2010)
+|-
+| 
+| 7:38.92
+| BMW M5 (F90)
+| Christian Gebhardt
+| 12 April 2018
+| Sport Auto (06/2018).
+|-
+| 
+| 7:39
+|Ferrari 430 Scuderia
+| Horst von Saurma
+| 2008
+| Sport Auto (07/2008), Pirelli P Zero Corsa.
+|-
+| 
+| 7:40
+| Bugatti Veyron 16.4 
+| 
+| 2005
+| Wheels Magazine Australia 2005
+|-
+| 
+| 7:40
+|Lamborghini Murciélago LP640
+| Giorgio Sanna
+|
+| Lamborghini, Auto Bild (01/2007)
+|-
+| 
+| 7:40
+| Mercedes-Benz SLR McLaren
+| Klaus Ludwig
+|
+| Auto Bild(07/2004)
+|-
+| 
+| 7:40
+|Porsche 911 GT3 (997.2)
+| Horst von Saurma
+| 2009
+| Sport Auto (06/2009), Michelin Pilot Sport Cup.
+|-
+| 
+| 7:40
+| Mercedes-Benz SLS AMG
+| Horst von Saurma
+| 2010
+| Sport Auto (05/2010), Continental ContiSportContact 5.
+|-
+| 
+| 7:40.100
+| Renault Mégane R.S. Trophy-R
+| Laurent Hurgon
+| April 2019
+| Renault Sport conducted test, Bridgestone Potenza S007. 7:45.389 on the 20,832 m lap. Current FWD car record holder.
+|-
+| 
+| 7:40.76
+| Lamborghini Gallardo Superleggera LP570-4
+| Sascha Bert
+| November 2010
+| Auto Bild Sportscars (11/2010)
+|-
+| 
+| 7:41.23
+| Porsche 911 Turbo S (997.2)
+| Sascha Bert
+| November 2010
+| Auto Bild Sportscars (11/2010)
+|-
+|
+| 7:41.27
+| Chevrolet Camaro ZL1 (2012)
+| Aaron Link
+| October 2011
+| GM conducted test.
+|-
+| 
+| 7:41.50
+|Chevrolet Corvette C6 ZR1
+| Sascha Bert
+| November 2010
+| Auto Bild Sportscars (11/2010)
+|-
+| 
+| 7:42
+| Porsche 911 GT3 (997)
+| Walter Röhrl
+|
+| Automobil (05/2006), Sport Auto (05/2006)
+|-
+| 
+| 7:42
+|Lamborghini Murciélago SuperVeloce LP670-4
+| Horst von Saurma
+|
+| Sport Auto (01/2010), Pirelli P Zero Corsa.
+|-
+|
+|7:42.34
+|Porsche Taycan Turbo
+|Lars Kern
+|August 2019
+|Porsche conducted test, pre-production model.
+|-
+|
+| 7:42.39
+|Porsche Cayman GT4 (981)
+| Christian Gebhardt
+| April 2015
+| Sport Auto (5/2015), Michelin Pilot Sport Cup 2.
+|-
+
+| 
+| 7:43.65
+| Nissan GT-R
+| Sascha Bert
+| November 2010
+| Auto Bild Sportscars (11/2010)
+|-
+| 
+| 7:43.92
+| Aston Martin V8 Vantage (2019)
+| Christian Gebhardt
+| 14 August 2019
+| Sport Auto (02/2020), Pirelli P Zero A6A.
+|-
+| 
+| 7:44
+| Audi R8 Coupé 5.2 FSI quattro
+|
+|
+| Sport Auto (09/2009), Pirelli P Zero Corsa.
+|-
+| 
+| 7:44
+| Pagani Zonda S 7.3 (2002)
+| Horst von Saurma
+| 2002
+| Sport Auto (2002), Michelin Pilot Sport.
+|-
+| 
+| 7:44
+| Bugatti EB110 SS
+| Loris Bicocchi
+| 1993
+| 
+|-
+| 
+| 7:44.13
+| Mercedes-AMG C 63 S Coupé (W205)
+| Christian Gebhardt
+| 2019 
+| Sport Auto (03/2019).
+|-
+| 
+| 7:44.42
+| Mercedes-Benz SLS AMG
+| Sascha Bert
+| November 2010
+| Auto Bild Sportscars (11/2010)
+|-
+|
+|7:45
+| Mercedes-Benz CLK 63 AMG Coupe Black Series
+|Bernd Schneider
+|1 May 2007
+|Car and Driver (5/2007).
+|-
+| 
+| 7:45.19
+| Mercedes-AMG E63 S 4Matic+ (T-Modell Wagon)
+| Christian Gebhardt
+| 22 September 2017
+| Sport Auto (12/2017), Michelin Pilot Sport 4S, fastest estate car.
+|-
+| 
+| 7:46
+| Mercedes-Benz C 63 AMG Coupe Black Series
+| Horst von Saurma
+| 2011
+| Sport Auto (01/2012), Dunlop Sport Maxx Race M0.
+|-
+| 
+| 7:46
+| Porsche 911 GT2 (1999)
+| Horst von Saurma
+|
+| Sport Auto (06/2001)
+|-
+| 
+| 7:46
+|Lamborghini Gallardo LP570-4 Superleggera
+| Horst von Saurma
+| 2007
+| Sport Auto (09/2007), Pirelli P Zero Corsa.
+|-
+| 
+| 7:46.70
+| Porsche 718 Cayman S (982)
+| Christian Gebhardt
+| September 2016
+| Sport Auto (10/2016), Pirelli P Zero N1.
+|-
+| 
+| 7:47
+|Porsche 911 GT3 RS (996)
+| Horst von Saurma
+| 2004
+| Sport Auto (3/2004), Pirelli P Zero Corsa.
+|-
+| 
+| 7:47
+| Ferrari 599 GTB Fiorano
+| Horst von Saurma
+| 2007
+| Sport Auto (08/2007), Pirelli P Zero.
+|-
+| 
+| 7:47
+|Lamborghini Murciélago LP640
+| Horst von Saurma
+| 2006
+| Sport Auto (01/2007), e-gear automated manual transmission, Pirelli P Zero Corsa.
+|-
+| 
+| 7:47.19
+| Volkswagen Golf GTI Clubsport S (2016)
+| 
+| 7 December 2016
+| Volkswagen conducted test, special Nürburgring set-up. FWD car record (before 2017 Civic Type R), video confirmed.
+|-
+| 
+| 7:48
+| BMW M3 GTS Coupé (E92, 2011)
+| Horst von Saurma
+| 2011
+| Sport Auto
+|-
+| 
+| 7:48
+| Porsche 911 GT3 RS (997.1)
+| Horst von Saurma
+| 2007
+| Sport Auto (3/2007), Michelin Pilot Sport Cup.
+|-
+| 
+| 7:48
+| Porsche 911 GT3 (997.1)
+| Horst von Saurma
+| 2006
+| Sport Auto (7/2006), Michelin Pilot Sport Cup.
+|-
+| 
+| 7:48.13
+| Lotus Exige Cup 380 (2017)
+| Christian Gebhardt
+| 27 July 2017
+| Sport Auto (1/2018), Michelin Pilot Sport Cup 2.
+|-
+| 
+| 7:48.40
+| Audi TT RS (8S)
+| Christian Gebhardt
+| 17 May 2017
+| Sport Auto (10/2017), Pirelli P Zero Corsa.
+|-
+| 
+| 7:48.80
+| Mercedes-AMG A 45 S 4Matic+ (W177)
+| Christian Gebhardt
+| 24 October 2019
+| Sport Auto (04/2020), Pirelli P Zero Trofeo R MO1.
+|-
+| 
+| 7:49
+|Chevrolet Corvette C6 Z06
+| Horst von Saurma
+| 22 June 2007
+| Sport Auto (06/2007), Goodyear Eagle F1 Supercar EMT.
+|-
+| 
+| 7:49.21
+| Volkswagen Golf GTI Clubsport S
+| Benny Leuchter
+| 20 April 2016
+| Volkswagen conducted test, special Nürburgring set-up. FWD car record, video confirmed.
+|-
+| 
+| 7:50
+| Aston Martin V8 Vantage GT8
+| Christian Gebhardt
+| February 2017
+| Sport Auto (3/2017), Michelin Pilot Sport Cup 2.
+|-
+| 
+| 7:50
+|BMW M3 CSL (E46, 2004)
+| Horst von Saurma
+| 2003
+| Sport Auto (08/2003), Michelin Pilot Sport Cup.
+|-
+| 
+| 7:50
+| Porsche 911 Carrera S (997.2, 2009)
+| Horst von Saurma
+| 2008
+| Sport Auto (08/2008), Michelin Pilot Sport Cup N0, PCCB, PDK, Sport Chrono Plus.
+|-
+| 
+| 7:51
+| Mercedes-Benz SL65 AMG Black Series
+| 
+| 2009
+| Motor Trend
+|-
+| 
+| 7:51.7
+| Alfa Romeo Stelvio Quadrifoglio (2018)
+| Fabio Francia
+| 2017
+| Alfa Romeo conducted test. Pirelli tyre. Equipped with OEM optional racing seat, harness and carbon-ceramic brakes. Equipped with roll cage.
+|-
+| 
+| 7:51.8
+|Lamborghini Gallardo LP560-4
+| Horst von Saurma
+| 2008
+| Sport Auto (11/2008), Pirelli P Zero Corsa.
+|-
+| 
+| 7:52
+|Aston Martin V12 Vantage S
+| Horst von Saurma
+| 2014
+| Sport Auto (8/2014), Pirelli P Zero Corsa, eight-speed Sportshift III automatic.
+|-
+| 
+| 7:52
+| BMW M4
+| Horst von Saurma
+| 2014
+|Auto Motor & Sport Germany
+|-
+| 
+| 7:52
+| Mercedes-Benz SLR McLaren
+| Klaus Ludwig
+| 2004
+| Sport Auto, Michelin Pilot Sport 2.
+|-
+| 
+| 7:52
+| Porsche Panamera Turbo S (970)
+| Horst von Saurma
+|
+| Sport Auto (04/2012), PDK, Michelin Pilot Sport.
+|-
+| 
+| 7:52.17
+| Toyota GR Supra (A90/J29)
+| Christian Gebhardt
+| 22 August 2019
+| Sport Auto (01/2020), Michelin Pilot Super Sport.
+|-
+| 
+| 7:52.36
+| BMW M2 Competition (F82)
+| Christian Gebhardt
+| 12 September 2018
+| Sport Auto
+|-
+| 
+| 7:54
+|Mercedes-Benz CLK DTM AMG (W209, 2004)
+| Marcus Schurig
+| 
+| Sport Auto (03/2005), Dunlop SP Sport Super Race, five-speed AMG SPEEDSHIFT automatic.
+|-
+|
+| 7:54
+| Nissan GT-R
+|
+| September 2008
+| Porsche conducted test.
+|-
+| 
+| 7:54
+|Porsche 911 GT3 (996)
+| Horst von Saurma
+| 2003
+| Sport Auto (6/2003), Michelin Pilot Sport N2.
+|-
+| 
+| 7:54
+| Porsche 911 Turbo (997)
+| Horst von Saurma
+| 2007
+| Sport Auto (05/2007), Michelin Pilot Sport Cup N0.
+|-
+| 
+| 7:54
+| BMW M5 Competition (F10) 
+| Horst von Saurma
+| 2014
+| Sport Auto (12/2014)
+|-
+| 
+| 7:54.36
+| Renault Mégane RS 275 Trophy-R
+| Laurent Hurgon
+| 16 June 2014
+| Test realised by Renault Sport7’54’’36 : record du tour au Nürburgring pour la Nouvelle Mégane R.S. 275 Trophy-R - Renault Sport, 16th June 2014
+|-
+| 
+| 7:55
+| Mercedes-Benz E63 AMG S 4Matic 
+| Horst von Saurma
+| 9/2013
+| Sport Auto (09/2013) 
+|-
+|
+| 7:55
+| Caterham R500 Superlight
+| Robert Nearn
+|
+| Evo Magazine (07/2000)
+|-
+| 
+| 7:55
+| Ferrari F430 F1
+| Horst von Saurma
+| 2005
+| Sport Auto (01/2006), Pirelli P Zero Corsa.
+|-
+| 
+| 7:55.12
+| Renault Mégane R.S. Trophy-R (No. 25 of 500)
+| Christian Gebhardt
+| 2019
+| Sport Auto (06/2019), Bridgestone Potenza S007 RS, carbon-ceramic brake package.
+|-
+|
+| 7:56
+| Chevrolet Corvette C5 Z06
+| Dave Hill
+|
+| crossedflags.com
+|-
+|
+| 7:56
+| Porsche 911 Turbo (996)
+| Horst von Saurma
+|
+| Sport Auto
+|-
+|
+| 7:56
+| Porsche Panamera Turbo
+| Walter Röhrl
+|
+| Motor Trend (07/2009)
+|-
+|
+| 7:56
+|Ferrari 360 Challenge Stradale F1
+| Horst von Saurma
+|
+| Sport Auto (02/2004), sport tyres.
+|-
+|
+| 7:56.73
+| Honda NSX-R (NA2)
+| Motoharu Kurosawa
+| 2002
+| Best Motoring Video Special Vol. 55 "NA2 NSX-R" (2002), video confirmed
+|-
+|
+| 7:58
+| BMW M2 (F82)
+|
+| December 2015
+| Car Magazine (12/2015)
+|-
+|
+| 7:58.4
+| SEAT León Mk3 Cupra
+| Jordi Gené
+| March 2014
+| SEAT conducted test
+|-
+|
+| 7:59
+| Porsche 911 Carrera S (996)
+| Walter Röhrl
+|
+| 'Wheels' magazine (06/2004), PASM setting "Performance"
+|-
+|
+| 7:59.32
+| Cadillac CTS-V (2009)
+| John Heinricy
+| 9 May 2008
+| General Motors conducted test, video confirmedVideo of Nurburgring run 
+|-
+|
+| 7:59.74
+| Porsche Cayenne Turbo S (958.2)
+| 
+|
+| Porsche conducted test
+|-
+|
+| 7:59.887
+|Nissan Skyline GT-R R33
+| Dirk Schoysman
+| 1996
+|Nissan conducted test, roll cage, controversial
+|-
+|
+| 8:02
+|Mercedes-Benz CLK63 AMG Black Series
+|
+|
+| Auto Bild (07/2007)
+|-
+| 
+| 8:02
+| Aston Martin DBS
+| Horst von Saurma
+|
+| Sport Auto (01/2009), Pirelli P Zero.
+|-
+|
+| 8:03
+| Aston Martin V8 Vantage (2005)
+| Horst von Saurma
+|
+| Sport Auto (10/2005)
+|-
+| 
+| 8:03
+| Jaguar XKR-S
+| Horst von Saurma
+| 
+| Sport Auto (03/2012), Pirelli P-Zero, six-speed automatic.
+|-
+|
+| 8:03
+| Porsche 911 GT3 (996)
+| Horst von Saurma
+|
+| Sport Auto (08/1999)
+|-
+|
+| 8:03.86
+|Honda NSX-R (NA1)
+| Motoharu Kurosawa
+| 1992
+| Best Motoring Video Special Vol. 25 "NA1 NSX-R" (1995), video confirmed
+|-
+| 
+| 8:04
+|Lamborghini Diablo GT
+| Horst von Saurma
+| 2000
+| Sport Auto (07/2000), Pirelli P Zero.
+|-
+| 
+| 8:04
+| Audi R8 4.2 FSI quattro
+| Horst von Saurma
+| 2007
+| Sport Auto (07/2007), Pirelli P Zero Corsa, manual.
+|-
+| 
+| 8:04
+| Alfa Romeo 4C
+| Horst von Saurma
+| 12 September 2013
+| Evo: Horst von Saurma, access-date: 23. June 2017
+|-
+| 
+| 8:04
+| Porsche Boxster S (981)
+| Horst von Saurma
+| 2012
+| Sport Auto (07/2012), Pirelli P Zero, PDK, PCCB, PASM.
+|-
+| 
+| 8:04.92
+| VW Golf GTI TCR (2019)
+| Christian Gebhardt
+| 3 July 2019
+| Sport Auto (12/2019), Michelin Pilot Sport Cup 2 N0.
+|-
+| 
+| 8:05
+| BMW M3 E92
+| Horst von Saurma
+|
+| Sport Auto (12/2007)
+|-
+| 
+| 8:05
+| Mercedes-Benz CLK63 Black Series
+| Horst von Saurma
+| 2007
+| Sport Auto (03/2008), Pirelli P Zero Corsa.
+|-
+|
+| 8:06.01
+| Subaru WRX STi Spec-C
+| Motoharu Kurosawa
+| 2004
+| Best Motoring Video 'NISMO Beast Unleashed'
+|-
+| 
+| 8:06.29
+| Ford Focus RS (Mk III, 2016)
+| Christian Gebhardt
+|
+| Sport Auto (1/2017).
+|-
+|
+| 8:06.56
+| Honda NSX (NA1)
+| Fredrik Sørlie
+| September 2016
+| Kumho HU36, D2 coilovers
+|-
+| 
+| 8:07
+| Ford Mustang GT Performance Pack
+| Horst von Saurma
+| 2015
+| Auto Zeitung
+|-
+|
+| 8:07
+| BMW Z8 E52
+|
+|
+| Auto Bild (06/2001)
+|-
+|
+| 8:07.97
+| Renault Mégane RenaultSport 265 Trophy
+| Laurent Hurgon
+| 17 June 2011
+| Renault Sport conducted test, Bridgestone RE 050A (235/35 R19).
+|-
+| 
+| 8:08.73
+| Porsche 911 Turbo 3.3
+| Motoharu Kurosawa
+| 1991
+| Best Motoring conducted test
+|-
+|
+| 8:09
+| Audi RS4
+| Horst von Saurma
+|
+| Sport Auto (06/2006)
+|-
+|
+| 8:09
+|BMW M6 (E63)
+| Horst von Saurma
+|
+| Sport Auto (12/2005), sport tyres, 259 km/h speed limiter.
+|-
+|
+| 8:09
+|Honda NSX-R (facelift)
+| Horst von Saurma
+|
+| Sport Auto (08/2002), sport tyres, suspension modification.
+|-
+| 
+| 8:09
+|Lamborghini Diablo SV
+| Horst von Saurma
+| 1997
+| Sport Auto (/1997), Pirelli P Zero Asimmetrico.
+|-
+|
+| 8:10
+| Porsche Boxster S (987)
+|
+|
+| Porsche conducted test, reported by Süddeutsche Zeitung
+|-
+|
+| 8:10
+|Dodge Viper GTS
+| Horst von Saurma
+|
+| Sport Auto (10/1997)
+|-
+| 
+| 8:10
+| BMW Alpina B6 S
+| Horst von Saurma
+|
+| Sport Auto (05/2008)
+|-
+|
+| 8:11.16
+|Mitsubishi Lancer Evo IX
+| Takayuki Kinoshita
+|
+| Best Motoring Video 14. Wet conditions, not a true time attack.
+|-
+|
+| 8:12
+| BMW Z4 M Coupe
+|
+|
+| Evo Magazine (Issue 093, page 077)
+|-
+| 
+| 8:13
+| BMW M5 (E60)
+| Horst von Saurma
+| 2004
+| Sport Auto (12/2004)
+|-
+| 
+| 8:13
+| Dodge Viper SRT-10 roadster (ZB)
+| Horst von Saurma
+| 2007
+| Sport Auto (2007), Michelin Pilot Sport.
+|-
+| 
+| 8:13
+| Mercedes-Benz C63 AMG (W204)
+| Horst von Saurma
+| 2008
+| Sport Auto (02/2009), Michelin Pilot Sport 2, Performance Package (LSD, composite brakes, sport suspension).
+|-
+|
+| 8:13
+| Porsche Cayenne Turbo (958)
+| 
+| 2012
+| Porsche conducted test, air suspension, PDCC, no PASM.
+|-
+| 
+| 8:14
+| Artega GT
+| Horst von Saurma
+| 2010
+| Sport Auto (12/2010), Continental Conti ForceContact, DSG, optional sport suspension.
+|-
+|
+| 8:14
+| BMW Alpina B3 (E92) Biturbo Coupé
+| Horst von Saurma
+|
+| Sport Auto (12/2008), optional LSD and 19 inch wheels.
+|-
+| 
+| 8:14
+| Range Rover Sport SVR (2015)
+| 
+| May 2014
+| Range Rover conducted test.
+|-
+| 
+| 8:14.98
+| Mitsubishi Lancer Evolution VIII MR GSR
+| Motoharu Kurosawa
+| 2003
+| Best Motoring conducted test
+|-
+| 
+| 8:15
+| BMW 1 Series M Coupé (E82)
+| Horst von Saurma
+| 2011
+| Sport Auto (07/2011), Michelin Pilot Sport.
+|-
+| 
+| 8:15
+| Honda Civic Type R (FK2)
+| Christian Gebhardt
+| 2016
+| Sport Auto (04/2016), Continental Conti SportContact 6, manual.
+|-
+|
+| 8:16.15
+|Honda NSX (NA1)
+| Motoharu Kurosawa
+| 1990
+| Best Motoring Video Special Vol. 15 "The Honda NSX" (1990), video confirmed
+|-
+|
+| 8:16.90
+| Renault Mégane RS R26.R
+| Vincent Baylé
+| 23 June 2008
+| Renault Sport conducted test, video confirmed 
+|-
+| 
+| 8:17
+| Porsche Cayman S (987, 2009)
+| Horst von Saurma
+| 2009
+| Sport Auto (12/2009), Bridgestone Potenza RE 050A N1, PDK, LSD, PASM, Sport Chrono options.
+|-
+| 
+| 8:18
+| BMW M135i (F20, 2012)
+| Horst von Saurma
+| 2012
+| Sport Auto (01/2013), Michelin Pilot Super Sport, manual, Adaptive M suspension.
+|-
+|
+| 8:18
+| Lexus IS-F
+| Horst von Saurma
+| 2009
+| Sport Auto (2009)
+|-
+| 
+| 8:18
+| Porsche Boxster S (987, 2009)
+| Horst von Saurma
+| 2009
+| Sport Auto (12/2009), Bridgestone Potenza RE 050A N1, PDK, LSD, PASM, Sport Chrono options.
+|-
+|
+| 8:18
+| Ferrari 355
+|
+|
+| Sport Auto (06/1997)
+|-
+| 
+| 8:19.47
+| Holden VF SS Redline Ute
+| Rob Trubiani
+| April 2013
+| Holden Blog (04/2013)
+|-
+|
+| 8:20
+| Chevrolet Camaro SS (2010)
+| 
+| 2008
+| GM conducted test.
+|-
+| 
+| 8:22
+|BMW M3 E46
+| Horst von Saurma
+| 2000
+| Sport Auto (12/2000), Michelin Pilot Sport.
+|-
+|
+| 8:22
+| BMW M3 E36/8
+| Horst von Saurma
+|
+| Sport Auto (10/1998)
+|-
+| 
+| 8:22
+| Mercedes-Benz C55 AMG  (W203)
+| Horst von Saurma
+| 2004
+| Sport Auto (7/2004), Pirelli P Zero Rosso.
+|-
+|
+| 8:22.38
+|Nissan Skyline GT-R R32
+| Motoharu Kurosawa
+| 1989
+| Best Motoring Video Special DVD, semi-wet (damp) condition lap time.
+|-
+|
+| 8:22.85
+| Chevrolet Cobalt SS/TC (2007)
+|
+|
+| Motor Trend (10/2007)
+|-
+| 
+| 8:23
+| Porsche Boxster S (987, 2006)
+| Horst von Saurma
+| 2006
+| Sport Auto (04/2006), Michelin Pilot Sport 2 N1, manual, Sport Chrono, PASM.
+|-
+| 
+| 8:23.12
+| Porsche 911 Carrera RS (964)
+| Christian Gebhardt
+| 2019
+| Sport Auto (10/2019), Pirelli P Zero Trofeo R N0.
+|-
+|
+| 8:24
+| Cosworth Type 25 STI spec C (2010)
+| Mark Chandler
+|
+| Sport Auto (2010), Sport tyres.
+|-
+| 
+| 8:24
+|Mitsubishi Lancer Evo VI
+| Horst von Saurma
+| 1999
+| Sport Auto (11/1999), sport tyres.
+|-
+| 
+| 8:25
+|Mitsubishi Lancer Evo VII
+| Horst von Saurma
+| 2002
+| Sport Auto (11/2002), Yokohama ADVAN.
+|-
+| 
+| 8:25
+| Lotus Exige S
+| Horst von Saurma
+| 2008
+| Sport Auto (06/2008)
+|-
+| 
+| 8:25
+| Jaguar XKR
+| Horst von Saurma
+| 2006
+| Sport Auto (12/2006), Dunlop SP Sportmaxx, six-speed automatic.
+|-
+| 
+| 8:25
+| Porsche Cayman S (987)
+| Horst von Saurma
+| 2006
+| Sport Auto (11/2006), Michelin Pilot Sport 2 N1, PASM, Sport Chrono.
+|-
+| 
+| 8:26
+| Audi S5
+| Horst von Saurma
+|
+| Sport Auto (01/2008), Michelin Pilot Sport.
+|-
+| 
+| 8:26
+| BMW 335i Coupé (E92)
+| Horst von Saurma
+| 2006
+| Sport Auto (10/2006), Bridgestone Potenza RE050A run-flat.
+|-
+| 
+| 8:26
+| Ford Focus RS (Mk2)
+| Horst von Saurma
+| 2009
+| Sport Auto (08/2009), Continental Conti SportContact 3.
+|-
+|
+| 8:26
+| Nissan 350Z
+| Horst von Saurma
+|
+| Sport Auto (10/2003)
+|-
+| 
+| 8:28
+| Mini John Cooper Works Pro (F56)
+| Christian Gebhardt
+| 2017
+| Sport Auto (04/2017), Pirelli P Zero.
+|-
+|
+| 8:28
+| Porsche 911 Carrera (993)
+| Horst von Saurma
+|
+| Sport Auto (07/1997)
+|-
+| 
+| 8:29
+| Audi TTS Coupé
+| Horst von Saurma
+|
+| Sport Auto (10/2008)
+|-
+|
+| 8:30
+| Alfa Romeo Giulietta QV
+|
+|
+| al Volante.it (04/2011)
+|-
+|
+| 8:32
+| Porsche Boxster S
+| Horst von Saurma
+|
+| Sport Auto (12/1999)
+|-
+|
+| 8:35.00
+| Ford Focus ST
+| Patrick Bernhard
+| 2005
+| Factory claimed.
+|-
+| 
+| 8:35
+|BMW M3 E36
+| Horst von Saurma
+| 1997
+| Sport Auto (03/1997), Michelin MXX3, SMG automatic.
+|-
+| 
+| 8:36
+| Volkswagen Golf Mk5 VW R32 MKV DSG
+| RRRRpower
+| 4 October 2009
+| BTG https://www.youtube.com/watch?v=xSnMcKdsfjg
+|-
+|
+| 8:38
+| Honda NSX
+|
+|
+| Sport Auto (08/1997)
+|-
+|
+| 8:39
+| Honda S2000
+| Horst von Saurma
+|
+| Sport Auto (01/2000)
+|-
+|
+| 8:39
+| Mazda MAZDASPEED3 (Mazda3 MPS)
+| Mark Ticehurst
+| 2007
+| Mazda News (06/2007), Mazda Racing Driver, 10th lap.
+|-
+|
+| 8:40
+| Chevrolet Corvette C5
+|
+|
+| Sport Auto (07/1997), automatic transmission
+|-
+|
+| 8:42
+| Lotus Exige Mk1
+| Horst von Saurma
+|
+| Sport Auto (11/2000), Sport tyres.
+|-
+|
+| 8:43
+| Hyundai Genesis Coupe 3.8L
+| Dmitry Sokolov
+| July 2011
+| TopGear Russia (2011), automatic transmission
+|-
+| 
+| 8:43.3
+| SEAT León Cupra R Mk1
+| Øistein Helland
+| 7 August 2010
+| BTG https://www.youtube.com/watch?v=BGwNecMZrtQ
+|-
+|
+| 8:47
+| Volkswagen Scirocco 2.0 TSI
+| Bernt Bråten Andersen
+| 15 November 2009
+| Minimalt.no
+|-
+| 
+| 8:47
+| Honda Civic Type-R 2.0i LS
+| Horst von Saurma
+| 2001
+| Sport Auto (11/2001).
+|-
+|
+| 8:47.99
+| Opel Corsa OPC
+| Manuel Reuter
+| 2007
+| Opel conducted test.
+|-
+| 
+| 8:50
+| BMW M3 (E30)
+|
+| 2010
+| Sport Auto (9/2010)
+|-
+|
+|8:50
+|Tesla Model S P85D
+|
+|2015
+|BTG
+|-
+| 
+| 8:53
+| Volkswagen Golf GTI (Mk5)
+| Horst von Saurma
+| 2005
+| Sport Auto (11/2005), Michelin Pilot Exalto, DSG.
+|-
+| 
+| 8:54
+| Opel Corsa 1.6 Turbo OPC
+| Horst von Saurma
+| 2008
+| Sport Auto (04/2008), Continental Conti SportContact.
+|-
+|
+| 8:55
+| Range Rover Sport Supercharged (2010)
+| Paul Wijgaertz
+| 2009
+| Dynamic Adaptive Test - https://www.youtube.com/watch?v=4SYyxYDWtyk
+|-
+|
+|9:00
+|Tesla Model 3 Performance
+|
+|2019
+|BTG
+|-
+|
+| 9:02
+| Chevrolet Cobalt SS Turbo
+| John Heinricy
+| October 2007
+| Wet Track
+|-
+| 
+| 9:09
+| Volkswagen Lupo GTI
+| Daniel Schwerfeld
+| 29 September 2002
+| BTG
+|-
+| 
+| 9:12
+| Opel Corsa B
+| Steven Stephan
+| 24 June 2020
+| BTG
+|-
+| 
+| 16:01
+| Trabant P50
+| Factory team of VEB Sachsenring
+| April 1960
+| Production car with 20 bhp during the final stage of the international Hanseat-Rallye.Lang: Rallye-Sport mit dem Trabant. Kraftfahrzeugtechnik; August 1961; p. 340; VEB Verlag Technik Berlin, Germany
+|} 
+
+====Non-series/non-road-legal====
+{| class="wikitable sortable" style="font-size:90%;"
+|-
+! style="width:57px;"|Length
+! style="width:46px;"|Time
+! style="width:110px;"|Make Model
+! style="width:118px;"|Power/Weight
+! style="width:110px;"|Driver
+! style="width:100px;"|Date
+! style="width:150px;"|Source
+! Notes
+|-
+|
+|5:19.546
+|Porsche 919 Hybrid EVO
+| +  /  dry
+|Timo Bernhard
+|29 June 2018
+|
+|Modified LMP1-h (Le Mans prototype).
+
+|-
+|
+|6:05.336
+|Volkswagen ID.R
+| / < 
+|Romain Dumas
+|3 June 2019
+|
+|Average speed of 206.96 km/h. Electric vehicle lap record and lowest energy consumption at 24.7 kWh.
+|-
+| 
+| 6:40.33
+| Porsche 911 GT2 RS MR (991.2) by Manthey Racing
+|  /  
+| Lars Kern
+| 25 October 2018
+| 
+| Street-legal, Michelin Pilot Sport Cup 2 R, OEM "Weissach Package", OEM deletion of audio and communication system, KW Competition 3-way race suspension, larger wing and dive planes, Porsche Motorsport bucket seat and harness on driver's side. Porsche conducted test.
+|-
+| 
+| 6:43.22
+| McLaren P1 XP1 LM Prototype
+| 
+| Kenny Bräck
+| 27 April 2017
+| Road & Track
+| Modified by Lanzante Motorsport to meet road regulations. Car was without front number plate and therefore not road legal during the run.
+|-
+| 
+| 6:45.90
+| NIO EP9
+|  / 
+| Peter Dumbreck 
+|12 May 2017
+|  
+| NextEV-branded slicks.
+|-
+| 
+| 6:47.50
+| Pagani Zonda R
+|  /  Dry
+| Marc Basseng
+| 29 June 2010
+|  Video
+|-
+| 
+| 6:57.578
+| Subaru WRX STI Type RA NBR Special
+| 
+| Richie Stanaway
+| Jul 21, 2017
+| Subaru WRX STI Type RA NBR claims Nürburgring sedan record with 6:57.5 lap: Subaru WRX STI Type RA NBR claims Nürburgring sedan record with 6:57.5 lap, access-date: 31. Julycustom built race car built by Prodrive 2017
+| Custom-built race car by Prodrive.
+|-
+| 
+| 6:58.16
+| Ferrari 599XX
+|  /  Dry 
+| Raffaele de Simone
+| 21 April 2010
+| Ferrari.com
+|
+|-
+| 
+| 7:03.06
+| Dodge Viper ACR-X
+|  /  Dry 
+| 
+| February 2012
+| drivesrt.com, Viper Club of America (video)
+|
+|-
+| 
+| 7:05.12
+| NIO EP9
+|  / 
+| Peter Dumbreck
+| 14 October 2016
+| nio.io video
+|
+|-
+| 
+| 7:08.679
+|Nissan GT-R Nismo
+| 
+| Michael Krumm
+| September 30, 2013
+|
+| Nissan conducted test. 255/40RF-20 run-flat Dunlop SP Sport Maxx GT 600 DSST. Pre-production Nismo "N Attack Package" (including removal of rear seats, alterations of front seats, engine, powertrain, suspension, brakes, aerodynamic parts). six-point harness and carbon fibre bonnet gurney making the car not road legal.
+|-
+| 
+| 7:09.59
+| Porsche 911 GT3 RS MR (991.1) by Manthey Racing
+|  /  
+| Christian Gebhardt
+| 2017
+| Sport Auto
+| Street-legal, Michelin Pilot Sport Cup 2 N0, magnesium wheels, KW Competition 3-way race suspension, 911 R diffusor.
+|-
+| 
+| 7:15.63
+| Porsche 911 GT2 (996) by Edo Competition
+| 
+| Patrick Simon
+| 4 August 2005
+| Sport Auto 
+| Vehicle was tuned to produce 670 bhp and 880Nm Torque.
+|-
+|
+| 7:20.143
+|Lynk & Co 03 Cyan Concept 
+|  /  
+| Thed Björk
+| 23 August 2019
+| 
+| Michelin Pilot Sport Cup 2 285/30R20.
+|-
+| 
+| 7:22:00
+| Mygale M12-SJ-Ford Ecoboost
+|  / 
+| Nick Tandy
+| 4 September 2012
+| Auto Express Official Ford YouTube video
+| Technical info of chassis. Car is a series produced Formula Ford racer converted for road use that including the addition of registration plates, wheel covers, front and rear lights, revised wing mirrors and a horn. The car was driven on road-legal tyres. Ford conducted test.
+|-
+| 
+| 7:22.329
+| Toyota TMG EV P002
+| 
+| Jochen Krumbach
+| 2 October 2012
+| 
+| Toyota Motorsport GmbH conducted test.
+|-
+| 
+| 7:22:80
+| BMW M3 CSL (E46) by Loaded
+|  / 
+| Richard Göransson
+| 11 November 2007
+| Caradvice.com.au.
+| Time was set on a non-exclusive public track day with other cars present. Car has been modified by Loaded to include a custom supercharger that puts out  more than the stock car's  3.2L inline 6 BMW S54 engine. Car is road legal outside of North America.
+|-
+| 
+| 7:29.5
+| BMW M5 (F90) by AC Schnitzer
+| 
+| Jörg Müller
+| 22 August 2018
+| AC Schnitzer
+|-
+| 
+| 7:43.8
+| Honda Civic Type R (FK8)
+|
+| April 2017
+| Honda conducted test, full "floating" roll cage, removed infotainment and rear seats. FWD car record (before Renault Mégane R.S. Trophy-R)
+
+|-
+| 7:46
+| Jaguar XJ220 Prototype
+|
+| John Nielsen
+| 1991
+| 
+| Car wasn't road legal. A manual stopwatch in a promotional video by Jaguar was shown displaying this time. Not independently verified.
+|-
+| 
+| 7:49
+| Toyota Supra
+| 
+| Herbert Schürg
+| 1997
+| Video Option Vol.50 
+| Refer to link for modification details. Modified by Japanese automotive accessory company Blitz, it was claimed to be capable of  but ran on  when time was recorded.
+|-
+| 
+| 7:50
+| BMW X5 (E53) LM
+| , 
+| Hans-Joachim Stuck
+| 2000
+| 'EVO' magazine (08/2005).
+| BMW M70 S70B56 engine from a V12 LMR.
+|-
+| 
+| 7:50.63
+| Honda Civic Type R Prototype 
+|
+|
+| May 2014
+| 
+| Honda conducted test, development car with technical specifications representative of the final production car. Air conditioning, front passenger seat and audio equipment removed, full roll cage added. FWD car record, video confirmed.
+|-
+| 
+| 7:55
+| Subaru Impreza WRX STi Sedan (2011) Prototype
+| 
+| Tommi Mäkinen
+| 16 April 2010
+|
+| Subaru conducted test. MY2011 prototype with non-production upgrades and modifications. Subaru EJ207 engine from a 2010 JDM Subaru Impreza WRX STi R205 with larger turbo. Video confirmed.
+
+|-
+| 
+| 8:01.72
+|Nissan Skyline GT-R R33
+|
+| Motoharu Kurosawa
+| 1995
+|
+| Best Motoring - Video Special DVD Series, Prototype (weight/horsepower different from production car)
+
+|-
+| 
+| 8:15
+| BMW Z4 M Roadster Prototype
+| 
+| 
+| 2009
+| EVO magazine (Issue 093, page 077).
+| "...we cant resist asking what its lap time is and Richter, (Gerhard Richter, director of M GmbH) reveals that it's 8:15, but that time was set with a development car rather than the final, optimum, production-ready car."
+|-
+| 
+| 8:19.8
+| BMW i8 by AC Schnitzer
+|  +  / 
+| Markus Oestreich
+| 2017
+| 
+| Bodykit with wing, 21" wheels, wider tyres, lowered suspension.
+|-
+| 
+| 8:42.72
+| Electric Raceabout
+|  /  Dry 
+| Ralf Kelleners
+| September 2011
+| RaceAbout release
+| Electric RaceAbout of Finland is road legal and registered prototype battery electric vehicle. Test was run by Helsinki Metropolia University of Applied Sciences using Nokian Z G2 high performance road tyres. Time will also be verified and published by Sport Auto.
+|-
+| 
+|  8:56.81
+| Chery Riich G5 2.0T
+|
+| Dirk Schoysman
+| 13 October 2009
+| Chery.cn/China Car Times
+YouTube Video 
+| Chery conducted test. This modified car differs from the production model with added roll-cage, stripped out interior, upgraded brakes, rims and tyres. Not clear whether the engine had been tuned. Chery claimed that they have been the first Chinese auto maker that 'Conquered the Nürburgring (中国首驱，征服纽博格林！)'.
+|-
+| 
+| 9:12
+| Jaguar S-Type Diesel
+|
+| Sabine Schmitz
+| 21 November 2004
+| Top Gear 2004
+| Jeremy Clarkson was set a challenge to get a Jaguar S-Type 2.7 Diesel round the 'ring in under 10 minutes, and after getting shown around and getting advice from Sabine Schmitz, and quite a few attempts, he managed a 9:59. Sabine completed the lap in the same car as Clarkson on her first try in 9:12.
+|-
+| 
+| 9:52
+| Mini E racer,  Electric
+|
+| Thomas Jäger
+| April 2010
+| Car magazine
+| This was the first time under ten minutes recorded by an electric car.
+|-
+| 
+| 10:08.49
+| Ford Transit
+|
+| Sabine Schmitz
+|
+|
+| After telling Jeremy Clarkson that she could do his lap time in a van, Schmitz was set the same challenge as Clarkson, but in a Ford Transit. Vehicle had several parts removed and the draft vehicle in front of it. Top Gear Series 6, Episode 7. Originally aired 10 July 2005Top Gear - Series 6, Episode 7: Bridge to Gantry
+|}
+
+====Competition====
+
+General Note: International motorsport sanctioning bodies used the 20.832 km Nordschleife variant in 1983 only.
+
+=====Qualifying=====
+{| class="wikitable sortable"
+|-
+! Length
+! Time
+! Make Model
+! Class
+! Driver
+! Date
+! Source
+! Notes
+|-
+| 20,832 m
+| 6:11.13
+| Porsche 956
+| Gr. C
+| Stefan Bellof
+| 28 May 1983
+| 
+| Pole-position for 1983 1000k Sports Car race
+|-
+| 20,832 m
+| 6:16.85
+| Porsche 956
+| Gr. C
+| Jochen Mass
+| 28 May 1983
+| 
+| Pole-position for 1983 1000k Sports Car race
+|-
+| 22,835 m
+| 6:58.6
+| Ferrari 312T
+| F1
+| Niki Lauda
+| 2 August 1975
+| Lauda had set 7:00.6 the day before, and with 6:58.6 broke the magic barrier of 7 minutes. Carlos Pace was 1.4 sec slower with his Brabham, qualifying second. (translated from German) p.102, Jörg-Thomas Födisch, Robert Ostrovsky: Grüne Hölle Nürburgring, 1995, 
+| Pole-position for 1975 German Grand Prix.  During unofficial practice in 1974 Lauda drove 6:58.2 in a Ferrari 312B3.
+|-
+| 22,835 m
+| 7:06.5
+| McLaren M23–Ford
+| F1
+| James Hunt
+| 31 July 1976
+| 
+| pole-position for 1976 German Grand Prix
+|-
+| 22,835 m
+| 7:08.59
+| Ford Capri Zakspeed Turbo
+| Gr. 5
+| Klaus Niedzwiedz
+| 4 July 1982
+| 
+| Pole-pos Großer Preis der Tourenwagen
+|-
+| 22,835 m
+| 7:30.52
+| Ford Capri Zakspeed Turbo
+| Gr. 5
+| Klaus Ludwig
+| 30 March 1980
+| 
+| pole-position for 1980 DRM race
+|-
+| 22,835 m
+| 7:31.7
+| Porsche 935 K3
+| Gr. 5
+| Klaus Ludwig
+| 29 April 1979
+| 
+| pole-position for 1979 Eifelrennen, DRM race
+|-
+| 22,835 m
+| 7:44.4
+| Ford Capri Zakspeed Turbo
+| Gr. 5
+| Hans Heyer
+| 29 April 1979
+| 
+| Fastest Category II car of 1979 Eifelrennen, DRM race
+|-
+| 22,835 m
+| 7:45.44
+| BMW 320 Turbo
+| Gr. 5
+| Hans-Joachim Stuck
+| 30 March 1980
+| 
+| Fastest Category II car of 1980 Eifelrennen, DRM race
+|-
+| 22,835 m
+| 7:42.1
+| Brabham BT26A-Ford
+| F1
+| Jacky Ickx
+| 3 August 1969
+| 
+| pole 1969 German GP, fastest on original bumpy track
+|-
+| 20,832 m
+| 7:56.0
+| Jaguar XJS
+| Gr. A
+| Tom Walkinshaw
+| 9 July 1983
+| |
+|pole Großer Preis der Tourenwagen, European Touring Car Championship race
+|-
+| 24,368 m
+| 7:57.474
+| Audi R8 LMS Ultra
+| SP9 GT3
+| Basseng Marc/Stippler Frank
+| 30 September 2014
+| 
+| Average speed 183.651 km/h. Pole position for 2014 VLN 37. RCM DMV Grenzlandrennen. Fastest qualifying lap on current Nürburgring VLN layout. 
+|-
+| 25,378 m
+| 8:09.105
+| Porsche 911 GT3 R (991)
+| SP9 GT3
+| Laurens Vanthoor
+| 11 May 2018
+| 
+| Average speed 186.792 km/h. Pole position for 2018 24 Hours Nürburgring race. Fastest qualifying lap on current Nürburgring 24h layout. Onboard video.
+|-
+| 25,378 m
+| 8:10.921
+| McLaren MP4-12C GT3
+| SP9 GT3
+| Kévin Estre
+| 20 June 2014
+| 
+| Average speed 186.101 km/h. Pole position for 2014 24 Hours Nürburgring race. Video confirmed.
+|-
+| 22,810 m
+| 9:43.1
+| Mercedes-Benz W154
+| GP
+| Hermann Lang
+| 24 July 1938
+| n/a
+| pole-position for 1939 German Grand Prix
+|-
+| 22,810 m
+| 9:48.4
+| Mercedes-Benz W154
+| GP
+| Manfred von Brauchitsch
+| 23 July 1939
+| n/a
+| pole-position for 1938 German Grand Prix
+|}
+
+=====Racing=====
+{| class="wikitable sortable" style="font-size:95%"
+|-
+! Length
+! Time
+! Make Model
+! Class
+! Driver
+! Date
+! Source
+! Notes
+|- 
+| 20,832 m
+| 6:25.91
+| Porsche 956
+| Gr. C
+| Stefan Bellof
+| 29 May 1983
+| 
+| 1983 1000 km Nürburgring (did not finish (accident))
+|-
+| 20,832 m
+| 6:28.03
+| March Engineering 832-BMW
+| F2
+| Christian Danner
+| 24 April 1983
+| 
+| 1983 Eifelrennen (193.272 km/h)
+|-
+| 20,832 m
+| 6:58
+| Porsche 997 Turbo
+| Gr. A/GT
+| Jürgen Alzen
+| 5 September 2009
+| Der Betzdorfer umrundete die 20,83 Kilometer lange Nordschleife in atemberaubenden 6.58 Minuten.
+| BMW Driving Experience Challenge "Rhein-Ruhr" 2009
+|-
+| 20,832 m
+| 7:04
+| Porsche 996 Turbo
+| Gr. A/GT
+| Uwe Alzen
+| 29 May 2003
+| Statistik: CHC Rundenrekorde Nordschleife 1990 - 2007 
+| Castrol-Haugg-Cup 2003Foto  Klasen/Alzen  (bettered by 15-25 s during videotaped  VLN races on 24.4 km track)
+|-
+| 22,835 m
+| 7:06.4
+| Ferrari 312T
+| F1
+| Clay Regazzoni
+| 3 August 1975
+| Regazzoni, starting from third row (with 7:01,6), in lap 7, while on position 2, set a new lap record with (192.79 km/h) 7:06.4. This record will stand forever. (translated from German) p.102, Jörg-Thomas Födisch, Robert Ostrovsky: Grüne Hölle Nürburgring, 1995, 
+| 1975 German Grand Prix
+|-
+| 22,835 m
+| 7:06.51
+| Maurer MM82-BMW
+| F2
+| Stefan Bellof
+| 25 April 1982
+| 
+| F2 lap record in 1982 Eifelrennen
+|-
+| 22,835 m
+| 7:10.8
+| Tyrrell P34–Ford
+| F1
+| Jody Scheckter
+| 1 August 1976
+| 
+| 1976 German Grand Prix
+|-
+| 22,835 m
+| 7:37.3
+| Porsche 935 K3
+| Gr. 5
+| Klaus Ludwig
+| 29 April 1979
+| 
+| 1979 Eifelrennen, DRM race (179.760 km/h)
+|-
+| 22,835 m
+| 7:46.3
+| Zakspeed Capri Turbo
+| Gr. 5
+| Hans Heyer
+| 29 April 1979
+| 
+| 1979 Eifelrennen, DRM race (176.290 km/h)
+|-
+| 22,835 m
+| 7:56.21
+| Zakspeed Capri Turbo
+| Gr. 5
+| Harald Ertl
+| 30 March 1980
+| 
+| 1980 DRM race (172.630 km/h)
+|-
+| 22,835 m
+| 7:43.8
+| Brabham BT26A-Ford
+| F1
+| Jacky Ickx
+| 3 August 1969
+| 
+| 1969 German GP, lap record of original bumpy track with no safety features
+|-
+| 24,369 m
+| 7:59.045
+| BMW Z4 GT3
+| SP9 GT3
+| Jens Klingmann
+| 2 August 2014
+| 
+| VLN 37. RCM DMV Grenzlandrennen (183.049 km/h)
+|-
+| 20,832 m
+| 8:02.44
+| Jaguar XJS
+| Gr. A
+| Tom Walkinshaw
+| 10 July 1983
+| 
+| 1983 Großer Preis der Tourenwagen (155.449 km/h) (did not finish (gearbox))
+|-
+| 24,433 m
+| 8:09.949
+| Porsche 996 Turbo
+| Gr. A/GT
+| Uwe Alzen/Jürgen Alzen
+| 24 September 2005
+| Sieg und neuer Rundenrekord für Alzen Motorsport 
+| VLN 2005videotaped . Turbo engined discontinued due to rule changes. (179.526 km/h)
+|-
+| 25,378 m
+| 8:17.340
+| Porsche 911 GT3 R (991)
+| SP9 GT3
+| Nick Tandy
+| 13 May 2018
+| https://www.24h-rennen.de/wp-content/uploads/2018/05/34-24h-Official-Result.pdf 
+| 24 Hours Nürburgring 2018, Lap 30 (183.699 km/h). 
+|-
+| 25,378 m
+| 8:19.607
+| McLaren MP4-12C GT3
+| SP9 GT3
+| Kévin Estre/Peter Kox/Tim Mullen/Sascha Bert
+| 21 June 2014
+| 
+| 24 Hours Nürburgring 2014, Lap 38 (182.865 km/h)
+|-
+| 25,359 m
+| 8:22.088
+| BMW Z4 GT3
+| SP9 GT3
+| Maxime Martin/Andrea Piccini/Yelmer Buurman/Richard Göransson
+| 20 May 2013
+| 
+| 24 Hours Nürburgring 2013, Lap 84 driven by Maxime Martin, video confirmed
+|-
+| 25,359 m
+| 8:36.768
+| Porsche 997 GT3-RSR
+| SP7
+| Timo Bernhard/Marc Lieb/Romain Dumas/Marcel Tiemann
+| 25 May 2009
+| 
+| 24 Hours Nürburgring 2009, Lap 99, new distance record with 155 laps
+|-
+| 25,378 m
+| 8:43.367
+| Porsche 996 GT3-MR
+| Gr. A/GT
+| Lucas Luhr/Timo Bernhard/Mike Rockenfeller/ Marcel Tiemann
+| 18 June 2006
+| 
+| 24 Hours Nürburgring 2006
+|-
+| 25,947 m
+| 9:02.206
+|Dodge Viper GTS-R
+| GT2/24h
+| Peter Zakowski/Pedro Lamy/Robert Lechner
+| 1 June 2003
+| 
+| 24 Hours Nürburgring 2003. Team DQ'd for fuel tank size
+|-
+| 22,810 m
+| 10:09.1
+| Mercedes-Benz W154
+| GP
+| Richard Seaman
+| 24 July 1938
+| n/a
+| 1938 German Grand Prix
+|-
+| 22,810 m
+| 10:24.2
+| Mercedes-Benz W154
+| GP
+| Rudolf Caracciola
+| 23 July 1939
+| n/a
+| 1939 German Grand Prix
+|}
+
+===Motorcycles===
+
+====Racing====
+
+{| class="wikitable sortable" style="font-size: 90%;"
+|-
+! Length
+! Time
+! Make Model
+! Rider
+! Date
+! Source
+! Notes
+|-
+| 20,832 m
+| 7:49.71
+| Honda RC30
+| Helmut Dähne
+| 23 May 1993
+| Foreword by Helmut Dähne, to Ulrich Thomson: Das Nürburgring Fahrer-Handbuch, 1997, 7:49,71 - Der Ring. Der Dauerbrenner von Futura. Erleben Sie Helmut Dähne mit der Honda RC 30 auf seiner Rekordrunde auf der Nürburgring-Nordschleife. 7.49.71 die Rekordzeit, die bis zum heutigen Tage von keinem Motorradfahrer gebrochen wurde. Onboard-Video by Futura Video, reenacting the record setting ride 
+| As motorcycle contests were discontinued after 1994, this remains the fastest officially timed motorcycle lap ever on the 20,832 m variant (159.7 km/h). Done in a single lap time trial run during Zuverlässigkeitsfahrt series on road legal VFR750R RC30 and Metzeler ME Z1 tyres.
+|-
+| 22,835 m
+| 8:22.2
+| Suzuki 500
+| Marco Lucchinelli
+| 24 August 1980
+| p.108, Jörg-Thomas Födisch, Robert Ostrovsky: Grüne Hölle Nürburgring, 1995, Nürburgring - Rekorde Nürburgring - Rekorde 
+| 1980 German motorcycle Grand Prix (163.6 km/h), fastest motorcycle lap even on 22,835 m variant, last Grand Prix motorcycle racing event held there
+|}
+
+{| class="wikitable sortable" style="font-size: 90%;"
+|-
+! Length
+! Time
+! Make Model
+! Rider
+! Date
+! Source
+! Notes
+|-
+| 19,100 m
+| 7:10.0
+| Yamaha YZF-R1
+| Andy "AndyPath" Carlile
+| n/a
+| 
+| Bridge to Gantry time set during touristenfahrten.
+|-
+| 19,100 m
+| 7:17.0
+| P3 Suzuki GSX-R600K7
+| Andy "AndyPath" Carlile
+| n/a
+| Fast Bikes Magazine March 2009
+| Road legal project. Built by Richard Vanags at P3 Unlimited for Fast Bikes Magazine. Based on a Suzuki GSXR 600K7.
+|-
+| 19,100 m
+| 7:21.8
+| MV Agusta F4 R 312
+| Andy "AndyPath" Carlile
+| 15 Oct 2007
+| Performance Bikes Magazine January 2008
+| n/a
+|-
+| 19,100 m
+| 7:28.8
+| Yamaha YZF-R1
+| "The Baron"
+| n/a
+| Performance Bikes Magazine October 2007
+| n/a
+|-
+|
+| 7:32.1
+| Yamaha YZF-R1
+| Brendan Keirle
+| n/a
+| Sliders Guest House video lap Aug 2006
+| n/a
+|-
+|
+| 7:32.6
+| Aprilia RSV1000R Factory
+| "The Baron"
+| n/a
+| Reported in PB Magazine August 2007
+| n/a
+|-
+|
+| 7:35.7
+| Suzuki GSX-R1000K7
+| Dale Lomas (Ex-Roadtest Editor of Performance Bikes Magazine)
+| n/a
+| On-board video at BridgeToGantry.com 
+| n/a
+|-
+|
+| 7:50
+| Suzuki GSX-R1000 vs Aprilia RSV1000R
+| Fausto "Faustone" Severi & Helmut Dähne
+| 2002
+| SuperWheels
+| during a SuperWheels's Pattuglia Acrobatica test
+|}
+
+{| class="wikitable sortable" style="font-size: 90%;"
+|-
+! Length
+! Time
+! Make Model
+! Rider
+! Date
+! Source
+! Notes
+|-
+| 20,832 m
+| 7:46.70
+| Suzuki GSXR 1000
+| Tim Rothig
+| May 2008
+| 
+|
+|-
+| 20,832 m
+| 7:50
+| Kawasaki ZX-10R (2011)
+| Tim Rothig
+| September 2011
+| Bridgestone Battlax R10.
+|
+|}
+
+===Bicycles===
+
+
+====Rad am Ring Time Trial (22 km)====
+{| class="wikitable sortable" style="font-size: 90%;"
+|-
+! Category
+! Time
+! Rider
+! Event, Notes
+|-
+| Men's
+| 31:11.17
+| Victor De la Parte
+| Winner 22 km-Zeitfahren, Rad&Run am Ring 2015
+|-
+| Men's
+| 31:43.28
+| Patrick Schelling
+| Winner 22 km-Zeitfahren, Rad am Ring 2016
+|-
+| Men's
+| 32:43.36
+| Manuel Bosch
+| Winner 22 km-Zeitfahren, Rad am Ring 2017
+|-
+| Men's
+| 33:08.00
+| Karl Platt
+| Winner 22 km-Zeitfahren, Rad am Ring 2019
+|-
+| Men's
+| 34:47.00
+| Christian Bundschuh
+| Winner 22 km-Zeitfahren, Rad am Ring 2018
+|-
+| Women's
+| 38:00.00
+| Lisa Brömmel
+| Winner 22 km-Zeitfahren, Rad am Ring 2019
+|-
+| Women's
+| 38:34.00
+| Lisa Brömmel
+| Winner 22 km-Zeitfahren, Rad am Ring 2018
+|-
+| Women's
+| 39:44.55
+| Tatjana Paller
+| Winner 22 km-Zeitfahren, Rad am Ring 2016
+|-
+| Women's
+| 39:57.37
+| Bianca Lust
+| Winner 22 km-Zeitfahren, Rad am Ring 2017
+|-
+| Women's
+| 41:18.87
+| Gudrun Stock
+| Winner 22 km-Zeitfahren, Rad&Run am Ring 2015
+|}
+
+==See also==
+*List of Nordschleife lap times (racing)
+

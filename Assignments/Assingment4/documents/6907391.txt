@@ -1,0 +1,208 @@
+Title: Second Winchester Confederate order of battleThe following Confederate States Army units and commanders fought in the Second Battle of Winchester. The Union order of battle is listed separately.
+
+==Military rank abbreviations==
+* LTG = Lieutenant General
+* MG = Major General
+* BG = Brigadier General
+* Col = Colonel
+* Ltc = Lieutenant Colonel
+* Maj = Major
+* Cpt = Captain
+
+==Confederate army==
+Second Corps, Army of Northern Virginia (22651 officers & men) 
+LTG Richard S. Ewell
+
+{| class="wikitable"
+! width=25% | Division
+! width=25% | Brigade
+! Regiments and Others
+|-
+| rowspan=5 |
+Early's Division (6350 officers & men)    
+MG Jubal Anderson Early
+| Hays' Brigade (1272 officers & men)
+  
+BG Harry T. Hays
+|
+*5th Louisiana (205 officers & men): Maj Alexander Hart
+*6th Louisiana (255 officers & men): Col William Monaghan, Ltc Joseph Hanlon
+*7th Louisiana (255 officers & men): Col Davidson B. Penn
+*8th Louisiana (296 officers & men): Col Trevanion D. Lewis
+*9th Louisiana (260 officers & men): Col Leroy Augustus Stafford
+|-
+| Hoke's Brigade (1750 officers & men)
+  
+Col Isaac E. Avery
+|
+*6th North Carolina (515 officers & men): Maj Samuel McD. Tate
+*21st North Carolina (445 officers & men): Col William Whedbee Kirkland
+*54th North Carolina (408 officers & men): Col. Kenneth M. Murchison
+*57th North Carolina (305 officers & men): Ltc James H. Skinner
+*1st North Carolina Battalion (77 officers & men): Maj Rufus H. Wharton
+|-
+| Smith's Brigade (1180 officers & men)
+  
+BG William "Extra Billy" Smith
+|
+*13th Virginia Infantry (102 officers & men): Col James B. Terrill
+*31st Virginia Infantry (270 officers & men): Col John S. Hoffman
+*49th Virginia Infantry (281 officers & men): Ltc J. Catlett Gibson
+*52nd Virginia Infantry (255 officers & men): Ltc James H. Skinner
+*58th Virginia Infantry (272 officers & men): Col Francis H. Board
+|-
+| Gordon's Brigade (1850 officers & men)
+  
+BG John Brown Gordon
+|
+*13th Georgia (322 officers & men): Col James Milton Smith
+*26th Georgia (320 officers & men): Col Edward N. Atkinson
+*31st Georgia (260 officers & men): Col Clement A. Evans
+*38th Georgia (350 officers & men): Cpt William L. McLeod
+*60th Georgia (305 officers & men): Cpt Waters B. Jones
+*61st Georgia (293 officers & men): Col John H. Lamar
+|-
+| Artillery Battalion (298 officers & men)
+  
+Ltc Hilary P. Jones
+|
+*Charlottesville Virginia Battery (75 officers & men; 4x 12-pounder Napoleons): Cpt James McD. Carrington
+*Courtney Virginia Battery (95 officers & men; 4x 3-inch Ordnance Rifles): Cpt William A. Tanner
+*Staunton Virginia Battery (64 officers & men; 4x 12-pounder Napoleons): Cpt Asher W. Garber
+*Louisiana Guard Battery (64 officers & men; 2x 3-inch Ordnance rifles; 2x 10-pounder Parrott Rifles): Cpt Charles Thompson, Lt Charles A. Green
+|-
+| rowspan=5 |
+Johnson's Division (6473 officers & men)    
+MG Edward "Allegheny" Johnson
+| Steuart's Third Brigade (2178 officers & men)  
+BG George H. Steuart
+| 
+*1st North Carolina (396 officers & men): Ltc Hamilton A. Brown
+*3rd North Carolina (585 officers & men): Maj William M. Parsley
+*10th Virginia Infantry (282 officers & men): Col E. T. H. Warren
+*23rd Virginia Infantry (251 officers & men): Ltc Simeon T. Walton
+*37th Virginia Infantry (264 officers & men): Maj Henry C. Wood
+|-
+| Nicholl's "Pelican" Brigade (1038 officers & men)  
+Col Jesse M. Williams
+|
+*1st Louisiana (172 officers & men): Cpt Edward D. Willett
+*2nd Louisiana (236 officers & men): Ltc Ross E. Burke
+*10th Louisiana (226 officers & men): Maj Thomas N. Powell
+*14th Louisiana (218 officers & men): Ltc David Zable
+*15th Louisiana (186 officers & men): Maj Andrew Brady
+|-
+| Stonewall Brigade (1346 officers & men)  
+BG James A. Walker
+|
+*2nd Virginia Infantry (335 officers & men): Col John Q. A. Nadenbousch
+*4th Virginia Infantry (257 officers & men): Maj William Terry
+*5th Virginia Infantry (370 officers & men): Col John H. S. Funk
+*27th Virginia Infantry (148 officers & men): Ltc David M. Shriver
+*33rd Virginia Infantry (236 officers & men): Cpt Jacob B. Golladay
+|-
+| Jones' Second Brigade (1446 officers & men)  
+BG John M. Jones
+|
+*21st Virginia Infantry (183 officers & men): Cpt William P. Mosley
+*25th Virginia Infantry (280 officers & men): Col John C. Higginbotham
+*42nd Virginia Infantry (252 officers & men): Ltc Robert W. Withers
+*44th Virginia Infantry (227 officers & men): Ltc Robert M. Dungan
+*48th Virginia Infantry (252 officers & men): Ltc R. H. Dungan
+*50th Virginia Infantry (252 officers & men): Ltc Logan H. N. Solyer
+|-
+| Artillery Battalion (380 officers & men)  
+Ltc R. Snowden Andrews (W); Maj Joseph W. Latimer
+|
+*1st Battery, Maryland Artillery (105 officers & men; 4x 12-pounder Napoleons): Cpt William F. Dement
+*Chesapeake (Maryland) Artillery (81 officers & men; 4x 10-pounder Parrott Rifles): Cpt William D. Brown
+*Allegheny (Virginia) Artillery (99 officers & men; 2x 12-pounder Napoleons; 2x 3-inch Ordnance Rifles): Cpt John C. Carpenter
+*Lee (Virginia) Battery (95 officers & men; 1x 3-inch Ordnance Rifles; 1x 10-pounder Parrott Rifles; 2x 20-pounder Parrott Rifles): Cpt C. I. Raine
+|-
+| rowspan=6 |
+Rodes's Division (7952 officers & men)    
+MG Robert E. Rodes
+| Daniel's Brigade (2157 officers & men)  
+BG Junius Daniel
+|
+*32nd North Carolina (465 officers & men): Col Edmund C. Brabble
+*43rd North Carolina (583 officers & men): Col Thomas S. Kenan
+*45th North Carolina (460 officers & men): Ltc Samuel H. Boyd
+*53rd North Carolina (409 officers & men): Col William A. Owens
+*2nd North Carolina Battalion (240 officers & men): Ltc Hezekiah L. Andrews
+|-
+| Iverson's Brigade (1380 officers & men)  
+BG Alfred Iverson, Jr.
+|
+*5th North Carolina (473 officers & men): Cpt Speight B. West
+*12th North Carolina (219 officers & men): Ltc William S. Davis
+*20th North Carolina (372 officers & men): Ltc Nelson Slough
+*23rd North Carolina (316 officers & men): Col Daniel H. Christie
+|-
+| Doles's Brigade (1329 officers & men)  
+BG George P. Doles
+|
+*4th Georgia (341 officers & men): Ltc D. R. E. Winn
+*12th Georgia (327 officers & men): Col Edward Willis
+*21st Georgia (287 officers & men): Col John T. Mercer
+*44th Georgia (364 officers & men): Col Samuel P. Lumpkin
+|-
+| Ramseur's Brigade (1023 officers & men)  
+BG Stephen Dodson Ramseur
+|
+*2nd North Carolina (243 officers & men): Maj Daniel W. Hurtt
+*4th North Carolina (196 officers & men): Col Bryan Grimes
+*14th North Carolina (308 officers & men): Col Tyler Bennett
+*30th North Carolina (276 officers & men): Col Francis M. Parker
+|-
+| O'Neal's Brigade (1685 officers & men)  
+Col Edward A. O'Neal
+|
+*3rd Alabama (350 officers & men): Col Cullen A. Battle
+*5th Alabama (317 officers & men): Col Josephus M. Hall
+*6th Alabama (382 officers & men): Col James N. Lightfoot
+*12th Alabama (317 officers & men): Col Samuel B. Pickens
+*26th Alabama (319 officers & men): Ltc John C. Goodgame
+|-
+| Artillery Battalion (378 officers & men)  
+Ltc Thomas H. Carter
+|
+*Jeff Davis (Alabama) Artillery (79 officers & men; 4x 3-inch Ordnance Rifles): Cpt William J. Reese
+*King William (Virginia) Artillery (103 officers & men; 2x 10-pounder Parrott Rifles; 2x 12-pounder Napoleons): Cpt William P. Carter
+*Morris (Virginia) Artillery (114 officers & men; 4x 12-pounder Napoleons): Cpt Richard C. M. Page
+*Orange (Virginia) Artillery (82 officers & men; 2x 3-inch Ordnance Rifles; 2x 10-pounder Parrott Rifles): Cpt Charles W. Fry
+|-
+| rowspan=1|
+Unattached
+| 
+|
+*1st Maryland Infantry Battalion (400 officers & men) (17 total casualties): Ltc James R. Herbert
+*2nd Baltimore (Maryland) Light Artillery (106 officers & men; 4x 10-pounder Parrott Rifles): Capt Wiley H. Griffin
+*Company A, 1st Maryland Cavalry (~50 officers & men): Capt. Frank A. Bond
+*Company B, 1st Maryland Cavalry (~50 officers & men): Capt George M. Emack
+|-
+| rowspan=1|
+Cavalry
+| Jenkins's Cavalry Brigade (1185 officers & men)  
+BG Albert G. Jenkins
+|
+*34th Virginia Cavalry (172 officers & men): Ltc Vincent A. Witcher
+*14th Virginia Cavalry (268 officers & men): Col James A. Cochran
+*16th Virginia Cavalry (265 officers & men): Col Milton J. Ferguson Maj James H. Nounnan
+*17th Virginia Cavalry (242 officers & men): Col William H. French
+*36th Virginia Cavalry Battalion (125 officers & men): Maj James W. Sweeney (w); Capt Cornelius T. Smith
+*Charlottesville (Virginia) Horse Battery (113 officers & men; 2x 3-inch Rifles; 2x 12-pounder Howitzers): Cpt Thomas E. Jackson
+|-
+| rowspan=2|
+Artillery Reserve (85 officers & men)
+| Crutchfield's Artillery  
+Col J. Thompson Brown
+|
+|-
+| Nelson's Battalion
+  
+Ltc William Nelson
+|
+*Five batteries of 1st Virginia Artillery
+|}
+

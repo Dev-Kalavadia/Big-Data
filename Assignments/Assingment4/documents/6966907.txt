@@ -1,0 +1,114 @@
+Title: McClellan–Kerr Arkansas River Navigation System
+
+
+
+thumb|right|A map of the inland waterway system with the McClellan–Kerr Navigation System marked in red.
+thumb|right|A map of the McClellan–Kerr Arkansas River Navigation System.
+The McClellan–Kerr Arkansas River Navigation System (MKARNS) is part of the United States inland waterway system originating at the Tulsa Port of Catoosa and running southeast through Oklahoma and Arkansas to the Mississippi River. The total length of the system is . It was named for two senators, Robert S. Kerr (D-OK) and John L. McClellan (D-AR), who pushed its authorizing legislation through Congress. The system officially opened on June 5, 1971. President Richard M. Nixon attended the opening ceremony.O'Dell, Larry. "McClellan-Kerr Arkansas River Navigation System". Encyclopedia of Oklahoma History and Culture. It is operated by the Army Corps of Engineers (USACE).
+
+While the system primarily follows the Arkansas River, it also includes portions of the Verdigris River in Oklahoma, the White River in Arkansas, and the Arkansas Post Canal, a short canal named for the nearby Arkansas Post National Memorial which connects the Arkansas and White Rivers.
+
+Through Oklahoma and Arkansas, dams artificially deepen and widen the modest-sized river to build it into a commercially navigable body of water. The design enables traffic to overcome an elevation difference of  between the Mississippi River and the Tulsa Port of Catoosa. Along the section of the Arkansas River that carries the McClellan–Kerr channel, the river sustains commercial barge traffic and offers passenger and recreational use. Here, the system is a series of reservoirs.
+
+==Official change of significance==
+The U.S. Department of Transportation (USDOT) officially announced in early May 2015 that it had upgraded MKARNS from  "Connector" to "Corridor" on the National Marine Highway. The announcement also added the Oklahoma Department of Transportation (ODOT) as an official sponsor."Oklahoma Waterway Takes Prestigious Step Up in National Status (PRESS RELEASE)".  U.S. Department of Transportation. May 15, 2015. 
+
+In 2015, the USACE increased its designation of the MKARNS from a moderate-use to a high-use waterway system. The high-use designation means that a waterway carries more than 10 million tons per year, having a value of more than 12 million ton-miles per year.
+
+==Construction==
+The Arkansas River is very shallow through Arkansas and Oklahoma, and was naturally incapable of supporting river traffic through most of the year.  To allow for navigation, construction was started in 1963 on a system of channels and locks to connect the many reservoirs along the length of the Arkansas River.  The first section, running to Little Rock, Arkansas, opened on January 1, 1969.  The first barge to reach the Port of Catoosa arrived in early 1971.
+
+Each lock measures  wide and  long, the standard size for much of the Mississippi River waterway.  Standard jumbo barges, measuring 35 by , are grouped 3 wide by 3 long, with a tug at center rear, to form a barge tow which can be fit into a lock.  Larger barge tows must be broken down and passed through the lock in sections, and rejoined on the opposite side."McClellan-Kerr Arkansas River Navigation System 2016 Inland Waterway Fact Sheet". Oklahoma Department of Transportation. 2016. Accessed June 16, 2017.
+
+The specifications for the channel itself are as follows:
+*Depth of channel:  or more.
+*Width of channel: mostly  to .
+*Bridge clearance:  horizontal;  vertical.
+
+Although Congress originally authorized USACE to dredge the channel to a depth of  in 2005, it did not provide the funds to do so. ODOT says that the capacity of each barge could be increased by 200 tons for each foot of draft. An article in 2010 stated that much of MKARNS is already  deep, so that only about  would need to be deepened. The article quoted Lt. Col. Gene Snyman, then deputy commander of the U.S. Army Corps of Engineers’ Tulsa District, as saying such a project would cost about $170 million (2010 dollars).Kramer, Kirk (October 17, 2010). "Going deeper – Deeper channel would boost business". Muskogee Phoenix. Accessed June 20, 2017.
+
+==Lock information==
+
+
+The following tables list the features of the navigation system, from the Mississippi River to the origin at the Port of Catoosa. Except as noted, all locks are on the Arkansas River.
+
+There is no lock 11; sequentially, it would have been in the middle of Lake Dardanelle. Per the animated system map (see "External links"), Dardanelle Lock & Dam (lock 10), which forms Lake Dardanelle, is the highest facility on the system (54 feet between upper & lower pools); Ozark-Jeta Taylor Lock & Dam (lock 12), just above that lake, is the third highest (34 feet).  Thus, it is likely that those two facilities were redesigned, in terms of height and possibly location, so as to eliminate lock 11 as originally planned.  The Mississippi River lock is numbered lock 99 as it was added to the system after it was completed.
+
+{| class="wikitable"
+|+McClellan–Kerr Arkansas River Navigation System Locks and Dams
+|-
+!Feature!!Navigational distancefrom Mississippi River!!Location!!Coordinates!!Photo
+|-
+!colspan="5"|Arkansas
+|-
+|Montgomery Point Lock and Dam(Lock 99)||||White River||||100px|Montgomery Point Lock & DamAugust 25, 2005 USACE|
+|-
+|Norrell Lock and Dam(Lock 1)||||Arkansas Post Canal||||100px
+|-
+|Lock 2||||Arkansas Post Canal||||
+|-
+|Wilbur D. Mills Dam||||Arkansas County /Desha County||||100px
+|-
+|Joe Hardin Lock and Dam(Lock 3)||||Jefferson County||||100px
+|-
+|Emmett Sanders Lock and Dam(Lock 4)||||Pine Bluff||||
+|-
+|Col. Charles D. Maynard Lock and Dam(Lock 5)||||Jefferson County||||
+|-
+|David D. Terry Lock and Dam(Lock 6)||||Pulaski County||||
+|-
+|Murray Lock and DamLock 7||||Little Rock||||100px|Murray Lock in Little Rock, Arkansas
+|-
+|Toad Suck Ferry Lock and Dam(Lock 8)||||Conway||||
+|-
+|Arthur V. Ormond Lock and Dam(Lock 9)||||Morrilton||||
+|-
+|Dardanelle Lock and Dam(Lock 10)||||Dardanelle /Russellville||||100px|Dardanelle Lock and Dam (Lock 10)
+|- style="background-color:silver"
+|Lock 11||colspan="5"|Never Constructed
+|-
+|Ozark-Jeta Taylor Lock and Dam(Lock 12)||||Ozark||||
+|-
+|James W. Trimble Lock and Dam(Lock 13)||||Barling||||
+|-
+!colspan="5"|Oklahoma
+|-
+|W. D. Mayo Lock and Dam(Lock 14)||||Fort Coffee||||100px
+|-
+|Robert S. Kerr Lock and Dam(Lock 15)||||Sallisaw||||100px|Aerial view of Robert S. Kerr Lock and Dam, impounding Robert S. Kerr Reservoir on the Arkansas River
+|-
+|Webbers Falls Lock and Dam(Lock 16)||||Webbers Falls||||100px
+|-
+|Chouteau Lock & Dam(Lock 17)||||Wagoner (Verdigris River)||||100px|Chouteau Lock and Dam in Wagoner County, Oklahoma, August 23, 2007.
+|-
+|Newt Graham Lock and Dam(Lock 18)||||Inola (Verdigris River)||||100px|Newt Graham Lock and Dam on the Verdigris River in Wagoner County, Oklahoma
+|-
+|Port of Catoosa||||Catoosa (Verdigris River)||||100px
+|}
+
+== 2019 Arkansas River flooding ==
+
+Extremely heavy rains hit the Arkansas River upstream of Keystone Dam during late May and early June 2019. So much water poured into the Keystone Reservoir in a short time that it quickly became evident that a major release of water would be needed to prevent overtopping the dam, causing devastating floods downstream. Even so, water rushed downstream toward MKARNS at such a high rate that officials at USACE halted barge traffic to avoid calamities such as collisions or hitting trees and debris afloat in the river.Morgan, Rhett (October 11, 2019). "Limited waterway traffic returns to McClellan-Kerr Arkansas River Navigation System". Tulsa World. Accessed October 22, 2019.
+
+By October, barge traffic was allowed on a limited basis. Normally, tows comprise twelve to sixteen barges. However, the flood carried so much silt down river that re-dredging would be required to return to normal traffic patterns. In October, the tows were limited to six barges (two wide and three deep).
+
+The 2019 flood deposited about 1.5 million cubic yards of sediment into the waterway, As of February 2020, barge traffic remained limited by tow size and restricted to daylight hours only due to sediment. USACE expected to complete the dredging of sediment by late May 2020.
+
+==Waterway traffic control==
+The growth of business along MKARNS has greatly increased congestion at the locks. The Secretary of the Army has directed USACE to establish the following priorities for admitting vessels to each lock:
+* Vessels owned by the U.S. government
+* Commercial passenger vessels
+* Commercial vessels (e.g., barges)
+* Rafts
+* Pleasure craft
+*
+
+There is no minimum size for watercraft using the locks. Craft as small as canoes, dinghies, and kayaks have all been allowed to use the locks, either alone or with multiple other vessels at the same time. If commercial traffic is heavy, pleasure craft may be required to wait approximately 1.5 hours or may be allowed to lock through with commercial vessels.https://www.swl.usace.army.mil/Portals/50/docs/navigation/Turtle%20Book%20or%20Locking%20Through%20Book.pdf 
+
+==See also==
+* List of navigation authorities in the United States
+* List of crossings of the Arkansas River
+
+==Notes==
+
+

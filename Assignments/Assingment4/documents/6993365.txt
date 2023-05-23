@@ -1,0 +1,9 @@
+Title: Compu-Spell
+
+Compu-Spell is educational software developed by Sherwin Steffin and Steven Pederson of Edu-Ware Services for the Apple II in 1980.
+
+==Summary==
+It is designed to teach spelling based on the assumption that spelling is a memorization (as opposed to rule-based) task. The program presents a series of spelling words within sentences, and then requires the learner to type in the spelling words. In "learning" mode, the program would ignore incorrect letters, with the idea being that seeing an incorrect spelling on the screen would interfere with memorizing a correct spelling. (The user could continually guess at the next correct letter or press ESC to show the correct spelling.) Misspelled words are presented again to learners, who must retype spelling words until they are spelled correctly.  The program periodically presents spelling words from previous lessons to reinforce memoirization.
+
+The program was sold with data disks of spelling words for grade levels 4 through 8, each containing 800 to 1200 spelling words, along with an "adult/secretarial' disk featuring the most frequently misspelled words in the English language. Designed for both home and classroom use, the program includes a classroom management system allowing teachers to track the progress of many students, a number of settings used by teachers to control the learning process, and a file-building system for adding new spelling words and sentences.
+

@@ -1,0 +1,157 @@
+Title: 1994 South Carolina gubernatorial election
+
+
+The 1994 South Carolina gubernatorial election was held on November 8, 1994, to select the governor of the state of South Carolina. The contest featured two politicians from the Upstate and David Beasley narrowly defeated Nick Theodore to become the 113th governor of South Carolina.
+
+==Democratic primary==
+The South Carolina Democratic Party held their primary for governor on August 9, 1994. Lieutenant Governor Nick Theodore, from the Upstate, emerged as the winner of the runoff election on August 23 against popular Charleston mayor Joseph P. (Joe) Riley Jr. and the three-term Attorney General of South Carolina, Thomas T. Medlock.
+
+{| border="1" cellpadding="4" cellspacing="0" style="background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|- style="background-color:#E9E9E9"
+! colspan="3" | Democratic Primary
+|- style="background-color:#E9E9E9"
+! colspan="1" style="width: 170px"|Candidate
+! style="width: 50px"|Votes
+! style="width: 40px"|%
+|-
+|- 
+  | Nick Theodore
+  | align="right" | 129,572
+  | align="right" | 49.6
+|- 
+  | Joseph P. Riley Jr.
+  | align="right" | 99,967
+  | align="right" | 38.2
+|- 
+  | Thomas T. Medlock
+  | align="right" | 22,468
+  | align="right" | 8.6
+|- 
+  | William Holler
+  | align="right" | 9,439
+  | align="right" | 3.6
+|-
+|}
+
+{| border="1" cellpadding="4" cellspacing="0" style="background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|- style="background-color:#E9E9E9"
+! colspan="4" | Democratic Primary Runoff
+|- style="background-color:#E9E9E9"
+! colspan="1" style="width: 170px"|Candidate
+! style="width: 50px"|Votes
+! style="width: 40px"|%
+! style="width: 40px"|±%
+|-
+|- 
+| Nick Theodore
+| align="right" | 113,127
+| align="right" | 50.4
+| align="right" | +0.8
+|- 
+| Joseph P. Riley Jr.
+| align="right" | 111,517
+| align="right" | 49.6
+| align="right" | +11.2
+|-
+|}
+
+
+==Republican primary==
+The South Carolina Republican Party held their primary on August 9, 1994, and the contest featured state representative David Beasley from the Upstate against two Lowcountry politicians. Beasley cruised to victory and benefited from the campaign of popular Charleston mayor Joe Riley for the Democratic nomination by drawing Lowcountry voters away from the Republican primary and towards the Democratic primary.
+
+{| border="1" cellpadding="4" cellspacing="0" style="background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|- style="background-color:#E9E9E9"
+! colspan="3" | Republican Primary
+|- style="background-color:#E9E9E9"
+! colspan="1" style="width: 170px"|Candidate
+! style="width: 50px"|Votes
+! style="width: 40px"|%
+|-
+|- 
+  | David Beasley
+  | align="right" | 119,724
+  | align="right" | 47.2
+|- 
+  | Arthur Ravenel, Jr.
+  | align="right" | 81,129
+  | align="right" | 32.0
+|- 
+  | Thomas Hartnett
+  | align="right" | 52,866
+  | align="right" | 20.8
+|-
+|}
+
+{| border="1" cellpadding="4" cellspacing="0" style="background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|- style="background-color:#E9E9E9"
+! colspan="4" | Republican Primary Runoff
+|- style="background-color:#E9E9E9"
+! colspan="1" style="width: 170px"|Candidate
+! style="width: 50px"|Votes
+! style="width: 40px"|%
+! style="width: 40px"|±%
+|-
+|- 
+| David Beasley
+| align="right" | 134,297
+| align="right" | 57.6
+| align="right" | +10.4
+|- 
+| Arthur Ravenel, Jr.
+| align="right" | 98,915
+| align="right" | 42.4
+| align="right" | +10.4
+|-
+|}
+
+
+==General election==
+
+===Polling===
+{| class="wikitable"
+|- bgcolor=lightgrey
+! width="150px" | Source
+! width="100px" | Date
+! width="100px" | Beasley (R)
+! width="100px" | Theodore (D)
+|-
+| The Greenville News
+| Nov. 3, 1994
+| 38%
+| 34%
+|}
+
+===Results===
+The general election was held on November 8, 1994, and David Beasley was elected as the next governor of South Carolina in the closest election percentage wise since the disputed election of 1876. Turnout was higher than the previous gubernatorial election because of the competitive nature of the race between the two parties.
+
+
+ 
+ 
+
+
+
+
+
+|-
+| 
+| colspan=5 |Republican hold
+|-
+
+
+thumb|300px|none|1994 South Carolina gubernatorial election map, by percentile by county.
+
+
+
+
+
+
+
+
+
+
+
+==See also==
+*Governor of South Carolina
+*List of governors of South Carolina
+*South Carolina gubernatorial elections
+

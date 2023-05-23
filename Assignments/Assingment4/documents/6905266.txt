@@ -1,0 +1,22 @@
+Title: Flight director (aeronautics)
+
+
+In aviation, a flight director (FD) is a flight instrument that is overlaid on the attitude indicator that shows the pilot of an aircraft the attitude required to execute the desired flight path. Flight directors are mostly commonly used during approach and landing. They can be used with or without autopilot systems.
+
+==Description==
+Flight director (FD) modes integrated with autopilot systems perform calculations for more advanced automation, like "selected course (intercepting), changing altitudes, and tracking navigation sources with cross winds."  FD computes and displays the proper pitch and bank angles required for the aircraft to follow a selected flight path.
+
+A simple example: The aircraft flies level on 045° heading at flight level FL150 at  indicated airspeed, the FD bars are thus centered. Then the flight director is set to heading 090° and a new flight level FL200. The aircraft must thus turn to the right and climb.
+This is done by banking to the right while climbing. The roll bar will deflect to the right and the pitch bar will deflect upwards. The pilot will then pull back on the control column while banking to the right. Once the aircraft reaches the proper bank angle, the FD vertical bar will center and remain centered until it is time to roll back to wings level (when the heading approaches 090°).
+When the aircraft approaches FL200 the FD horizontal bar will deflect downwards thus commanding the pilot to lower the nose in order to level off at FL200.
+
+A flight director can be used with or without automation of the flight control surfaces. The FD is commonly used in direct connection with the Autopilot (AP), where the FD commands the AP to put the aircraft in the attitude necessary to follow a trajectory. The FD/AP combination is typically used in autopilot coupled low instrument approaches (below 200 feet above ground level [AGL]), or CAT II and CAT III ILS instrument approaches.
+
+The exact form of the flight director's display varies with the instrument type, either crosshair or command bars (so-called "cue").
+
+==See also==
+* Acronyms and abbreviations in avionics
+* Attitude indicator
+* Flight instruments
+* Head-up display (HUD)
+

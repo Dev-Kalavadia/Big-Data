@@ -1,0 +1,21 @@
+Title: Ian Cullimore
+
+
+Ian H. S. Cullimore is an English-born mathematician and computer scientist who has been influential in the pocket PC arena.
+
+==Biography==
+Cullimore has a degree in mathematics from King's College London, and a PhD in cognitive and computer science from the University of Sussex.
+
+He was the original founder (in 1985) and main inventor of the pocket PC which became the Atari Portfolio (originally known as the "DIP Pocket PC") in 1989. DIP Research Ltd. was acquired by Phoenix Technologies in 1994.
+
+In 1988 Cullimore was also one of the founders and Vice President of Software at Poqet Computer Corporation in Silicon Valley, where he developed the Poqet PC.
+
+His interest in PDAs was sparked from his early times at Psion, working on the first Organiser products.
+
+He was also the original instigator of the PC Card (formerly "PCMCIA Card") movement. This came about from his decision to use the then-emerging credit card memories in the design of the Atari Portfolio. On founding Poqet, and with major investment from Fujitsu, a decision was made to use the 68-pin JEIDA card. He successfully persuaded the board of Poqet to set up an industry standards organization, PCMCIA, to promote this as a standard.
+
+Cullimore wrote parts of the PCMCIA driver stack for (NetWare) PalmDOS 1.0, a variant of Digital Research's DR DOS, tailored specifically at battery powered mobile PCs in 1992.
+
+==Publications==
+* 
+

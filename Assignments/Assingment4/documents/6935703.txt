@@ -1,0 +1,24 @@
+Title: Miklós Ajtai
+
+
+
+Miklós Ajtai (born 2 July 1946) is a computer scientist at the IBM Almaden Research Center, United States. In 2003, he received the Knuth Prize for his numerous contributions to the field, including a classic sorting network algorithm (developed jointly with J. Komlós and Endre Szemerédi), exponential lower bounds, superlinear time-space tradeoffs for branching programs, and other "unique and spectacular" results. He is a member of the U.S. National Academy of Sciences.
+
+==Selected results==
+One of Ajtai's results states that the length of proofs in propositional logic of the pigeonhole principle for n items grows faster than any polynomial in n. He also proved that the statement "any two countable structures that are second-order equivalent are also isomorphic" is both consistent with and independent of ZFC. Ajtai and Szemerédi proved the corners theorem, an important step toward higher-dimensional generalizations of the Szemerédi theorem. With Komlós and Szemerédi he proved the ct2/log t upper bound for the Ramsey number R(3,t). The corresponding lower bound was proved by Kim only in 1995, a result that earned him a Fulkerson Prize.  With Chvátal, Newborn, and Szemerédi, Ajtai proved the crossing number inequality, that any drawing of a graph with n vertices and m edges, where , has at least  crossings. Ajtai and Dwork devised in 1997 a lattice-based public-key cryptosystem; Ajtai has done extensive work on lattice problems. For his numerous contributions in Theoretical Computer Science he received the Knuth Prize.
+
+==Biodata==
+Ajtai received his Candidate of Sciences degree in 1976 from the Hungarian Academy of Sciences.Magyar Tudományos Akadémia, Almanach, 1986, Budapest. Since 1995 he has been an external member of the Hungarian Academy of Sciences.
+
+In 1998 he was an Invited Speaker of the International Congress of Mathematicians in Berlin. In 2012 he was elected as a Fellow of the American Association for the Advancement of Science.AAAS Members Elected as Fellows, AAAS, 29 November 2012 In 2021 he was elected a member of the National Academy of Sciences.
+
+==Bibliography==
+* 
+* 
+* 
+
+==Selected papers==
+# 
+# 
+
+

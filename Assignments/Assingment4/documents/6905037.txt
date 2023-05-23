@@ -1,0 +1,863 @@
+Title: Demidov Prize
+
+
+The Demidov Prize () is a national scientific prize in Russia awarded annually to the members of the Russian Academy of Sciences. Originally awarded from 1832 to 1866 in the Russian Empire, it was revived by the government of Russia's Sverdlovsk Oblast in 1993. In its original incarnation it was one of the first annual scientific awards, and its traditions influenced other awards of this kind including the Nobel Prize.
+
+==History==
+
+
+In 1831 Count Pavel Nikolaievich Demidov, representative of the famous Demidov family, established a scientific prize in his name. The Saint Petersburg Academy of Sciences (now the Russian Academy of Sciences) was chosen as the awarding institution. In 1832 the president of the Petersburg Academy of Sciences, Sergei Uvarov, awarded the first prizes.
+
+From 1832 to 1866 the Academy awarded 55 full prizes (5,000 rubles) and 220 part prizes. Among the winners were many prominent Russian scientists: the founder of field surgery and inventor of the plaster immobilisation method in treatment of fractures, Nikolai Pirogov; the seafarer and geographer Adam Johann von Krusenstern, who led the first russian circumnavigation of the globe; Dmitri Mendeleev, the creator of the periodic table of elements; Boris Jacobi, pioneer of the first usable electric motors; and many others. One of the recipients was the founder's younger brother, Count Anatoly Nikolaievich Demidov, 1st Prince of San Donato, in 1847; Pavel had died in 1840, making Anatoly the Count Demidov (note that Russia did not recognize Anatoly's Italian title of prince).
+
+From 1866, 25 years after Count Demidov's death, as was according to the terms of his bequest, there were no more awards.
+
+In 1993, on the initiative of the vice-president of the Russian Academy of Sciences Gennady Mesyats and the governor of the Sverdlovsk Oblast Eduard Rossel, the Demidov Prize traditions were restored. The prize is awarded for outstanding achievements in natural sciences and humanities. The winners are elected annually among the members of the Russian Academy of Sciences. According to the tradition every year the Demidov Scientific Foundation chooses three or four academicians to receive the award. The prize includes a medal, a diploma and $10,000. The awards ceremony takes place every year at the Governor's Palace of Sverdlovsk Oblast, in Yekaterinburg, Russia. The recipients of the Prize also give lectures at the Ural State University (Demidov Lecture).
+
+==Winners (1832-1866) ==
+{| class="sortable wikitable" border="1" style="text-align:left"
+|- 
+! scope="col"|Year
+! scope="col"|Portrait
+! scope="col"|Recipient(s)
+! scope="col"|Field(s)
+! scope="col"|Ref
+|-
+!rowspan=2|1832
+|
+| Magnus Georg Paucker
+| Physics
+|
+|-
+|
+| Julius Hagemeister
+| Economics
+|
+|-
+!rowspan=2|1833
+|80px
+| Aleksandr Vostokov
+| Philology
+|
+|-
+|
+| Carl Philipp Reiff
+| Philology
+|
+|-
+!rowspan=3|1835
+|
+| Fr Theodore Sidonsky
+|Philosophy
+|
+|-
+|80px
+| Archimandrite Hyacinth (Nikita Bichurin)
+| History
+|
+|-
+|
+| 
+| Philology
+|
+|-
+!rowspan=3|1836
+| 80px
+| Friedrich Benjamin Lütke
+| Geography
+|
+|-
+| 80px
+| Nikolaus Braschmann
+| Mathematics
+|
+|-
+| 80px
+| Alexander Mikhailovsky-Danilevsky
+| History
+|
+|-
+!rowspan=3|1837
+| 80px
+| Adam Johann von Krusenstern
+|Geography
+|
+|-
+| 80px
+| Friedrich Wilhelm Argelander
+| Astronomy
+|
+|-
+| 80px
+| Nikolay Ustryalov
+| History
+|
+|-
+!scope=row|1838
+| 80px
+| Stanislav Chaudoir
+| History
+|
+|-
+!rowspan=3|1839
+| 80px
+| Archimandrite Hyacinth (Nikita Bichurin)
+| Philology
+|
+|-
+|
+| Alexander Kazembek
+| Philology
+|
+|-
+|
+| Nikolai Medem
+|Military sciences
+|
+|-
+!rowspan=3|1840
+|80px
+| Mikhail Pogodin
+| Philology
+|
+|-
+|80px
+| David Chubinashvili
+| Philology
+|
+|-
+|80px
+| Boris Jacobi
+| Physics
+|
+|-
+!rowspan=2|1841
+| 
+| Alexander Postels
+| Biology
+|
+|-
+|80px
+| Franz Josef Ruprecht
+| Biology
+|
+|-
+!scope=row|1842
+|80px
+| Ferdinand von Wrangel
+| Geography
+|
+|-
+!rowspan=4|1844
+| 80px
+| Chaim Zelig Slonimski
+|Inventions
+|Chaim Aronson, Norman Marsden (1983) A Jewish Life Under the Tsars: The Autobiography of Chaim Aronson, 1825–1888 Oxford Centre for Postgraduate Hebrew Studies, p. 310
+|-
+| 80px
+| Aleksandr Vostokov
+|Philology
+|
+|-
+|80px
+| Fr Gerasim Pavsky
+| Philology
+|
+|-
+|80px
+| Nikolai Pirogov
+| Medicine
+|
+|-
+!scope=row|1845
+|80px
+| Friedrich von Adelung
+| Geography
+|
+|-
+!rowspan=3|1846
+|80px
+| Aleksey Savich
+| Astronomy
+|
+|-
+|80px
+| Józef Kowalewski
+| Philology
+|
+|-
+|80px
+| Karl Ernst Claus
+| Chemistry
+|
+|-
+!rowspan=5|1847
+|80px
+| Alexander Keyserling
+| Geography
+|
+|-
+|
+| Paul von Krusenstern
+|Geography
+|
+|-
+|80px
+| Count Anatoly Demidov
+|Geography
+|
+|-
+|80px
+| Dmitry Tolstoy
+| History
+|
+|-
+|80px
+| David Chubinashvili
+| Philology
+|
+|-
+!scope=row|1848 
+|80px
+| Johan Jakob Nervander
+| Meteorology
+|
+|-
+!scope=row|1849
+|80px
+| Pafnuty Chebyshev
+|Mathematics
+|
+|-
+!scope=row|1850
+|
+| Fyodor Goremykin
+|Military sciences
+|
+|-
+!rowspan=2|1851
+|80px
+| Nikolai Pirogov
+|Medicine
+|
+|-
+|80px
+| Michael Reinecke
+| Geography
+|
+|-
+!rowspan=2|1852
+|80px
+| Konstantin Nevolin
+|History
+|
+|-
+|80px
+| Loggin Seddeler
+|Military sciences
+|
+|-
+!scope=row|1853
+|80px
+| Dmitry Milyutin
+| History
+|
+|-
+!rowspan=2|1854
+|80px
+| Metropolitan Macarius (Mikhail Bulgakov)
+|Theology
+|
+|-
+|80px
+| Konstantin Nevolin
+| History
+|
+|-
+!scope=row|1855
+|80px
+| Dmitrii Ivanovich Zhuravskii
+|Technical sciences
+|
+|-
+!rowspan=2|1857
+|80px
+| Nikolai Turchaninov
+|Biology
+|
+|-
+|80px
+| Heinz Christian Pander
+| Geography
+|
+|-
+!scope=row|1858
+|
+| Iosif Goshkevich
+|Philology
+|
+|-
+!scope=row|1859
+|80px
+| Carl Johann Maximovich
+| Biology
+|
+|-
+!rowspan=2|1860
+| 80px
+| Nikolai Pirogov
+| Medicine
+|
+|-
+|
+| Fyodor Dmitriyev
+|Law
+|
+|-
+!rowspan=2|1861
+|
+| Pyotr Pekarsky
+| Philology
+|
+|-
+|80px
+| Modest Bogdanovich
+| History
+|
+|-
+!rowspan=2|1862
+| 80px
+| Modest von Korff
+|History
+|
+|-
+|80px
+| Dmitri Mendeleev
+| Chemistry
+|
+|-
+!scope=row|1863
+|80px
+| Grigory Butakov
+| Maritime sciences
+|
+|-
+!rowspan=2|1865
+|
+| Friedrich von Smitt
+| History
+|
+|-
+|
+| Ludwig Schwarz
+| Geodesy
+|
+|}
+
+==Winners (from 1993) ==
+{| class="sortable wikitable" border="1" style="text-align:left"
+|- 
+! scope="col"|Year
+! scope="col"|Portrait
+! scope="col"|Recipient(s)
+! scope="col"|Field(s)
+! scope="col"|Ref
+|-
+!rowspan=5|1993
+|
+| Sergei Vonsovsky
+| Physics
+|
+|-
+|
+| Nikolay Kochetkov
+| Chemistry
+|
+|-
+|
+| 
+|Geology
+|
+|-
+|
+| Valentin Yanin
+|History
+|
+|-
+|
+| 
+| Economics
+|
+|-
+!rowspan=4|1994
+|
+| Boris Rauschenbach
+| Mechanics
+|
+|-
+|
+| 
+| Biology
+|
+|-
+|
+| Pyotr Kropotkin
+| Geology
+|
+|-
+|
+| 
+| Philology
+|
+|-
+!rowspan=4|1995
+|80px
+| Andrei Viktorovich Gaponov-Grekhov
+|Physics
+|
+|-
+|
+| 
+|Chemistry
+|
+|-
+|
+| 
+|Geophysics
+|
+|-
+|
+| 
+|History
+|
+|-
+!rowspan=4|1996
+| 
+| Nikolay Krasovsky
+| Mathematics and mechanics
+|
+|-
+|
+| Vladimir Sokolov
+| Biology
+|
+|-
+|80px
+| Georgy Golitsyn
+| Earth sciences
+|
+|-
+|
+| Yevgeni Chelyshev
+| Philology
+|
+|-
+!rowspan=4|1997
+| 80px
+| Alexander Skrinsky
+| Physics
+|
+|-
+| 
+| Nikolay Vatolin
+| Chemistry
+|
+|-
+|80px
+| 
+| Earth sciences
+|
+|-
+|80px
+| Andrey Zaliznyak
+| Linguistics
+|
+|-
+!rowspan=4|1998
+|
+| Oleg Gazenko
+| Biology
+|
+|-
+|
+| Andre Gonchar
+|Mathematics
+|
+|-
+|
+| 
+|History
+|
+|-
+|
+| 
+| Earth sciences
+|
+|-
+!rowspan=3|1999
+|80px
+| Zhores Alferov
+| Physics
+|
+|-
+|
+| 
+|Earth sciences
+|
+|-
+|
+| 
+| Chemistry
+|
+|-
+!rowspan=4|2000
+|
+| Victor Maslov
+|Mathematics
+|
+|-
+|
+| 
+| Mechanics
+|
+|-
+|80px
+| 
+| Earth sciences
+|
+|-
+|80px
+| Tatyana Zaslavskaya
+| Economics and sociology
+|
+|-
+!rowspan=3|2001
+|80px
+| Aleksandr Prokhorov
+| Physics
+|
+|-
+|80px
+| 
+| Chemistry
+|
+|-
+|
+| 
+| Earth sciences
+|
+|-
+!rowspan=4|2002
+|80px
+| Ludvig Faddeev
+| Mathematics
+||
+|-
+|
+| Viktor Savelyev
+| Medicine
+|
+|-
+|
+| 
+| Law
+|
+|-
+|80px
+| Gennady Mesyats
+| Physics
+|
+|-
+!rowspan=3|2003
+|
+| 
+| Physics
+|
+|-
+| 80px
+| Irina Beletskaya
+| Chemistry
+|
+|-
+|
+| 
+| Earth sciences
+|
+|-
+!rowspan=3|2004
+|80px
+| Gury Marchuk
+| Mathematics
+|
+|-
+|
+| 
+| Biology
+|
+|-
+| 80px
+| Anatoly Derevyanko
+| History and archeology
+|
+|-
+!rowspan=3|2005
+|
+| 
+| Physics
+|
+|-
+|
+| 
+| Physicochemistry
+|
+|-
+| 80px
+| 
+| Earth sciences
+|
+|-
+!rowspan=3|2006
+| 80px
+| Timur Eneev
+| Mathematics
+|
+|-
+|
+| 
+| History
+|
+|-
+|
+| 
+| Medicine
+|
+|-
+!rowspan=3|2007
+| 
+| 
+| Physics
+|
+|-
+|
+| 
+| Chemistry
+|
+|-
+| 
+| 
+| Earth science
+|
+|-
+!rowspan=3|2008
+|
+| 
+| Mathematics
+|
+|-
+| 80px
+| Anatoly Grigoriev
+| Medicine
+|
+|-
+|
+| 
+| Economics
+|
+|-
+!rowspan=4|2009
+|
+| 
+|Physics
+|
+|-
+| 80px
+| 
+|Earth science
+|
+|-
+|
+| 
+| Chemistry
+|
+|-
+|
+| Alexey Olovnikov
+| Biology
+|
+|-
+!rowspan=3|2010
+|80px
+| Yury Osipov
+| Mathematics
+|
+|-
+| 80px
+| 
+| Chemistry
+|
+|-
+|80px
+| 
+|Humanities
+|
+|-
+!rowspan=3|2011
+|
+| Alexander Andreev
+| Physics
+|
+|-
+|
+| 
+| Biology
+|
+|-
+|80px
+| 
+| Earth science
+|
+|-
+!rowspan=3|2012
+| 80px
+| Yevgeny Primakov
+| Social science
+|
+|-
+| 80px
+| Ilya Moiseev
+| Chemistry
+|
+|-
+|80px
+| Yevgeny Avrorin
+| Physics
+|
+|-
+!rowspan=3|2013
+| 80px
+| Yuri Yershov
+| Mathematics
+|
+|-
+|
+| Alexander Spirin
+| Biology
+| 
+|-
+|
+| 
+| Mining
+| 
+|-
+!rowspan = 3|2014
+|
+| Nikolai Kardashev
+| astrophysics
+| 
+|-
+|
+| 
+| chemistry
+| 
+|-
+|
+| 
+| Wheat breeding
+| 
+|-
+!rowspan="3"|2015
+|
+| 
+| Space exploration
+| 
+|-
+|
+| 
+| Cardiology
+| 
+|-
+|
+| 
+| Palaeovolcanology
+| 
+|-
+!rowspan="3"|2016
+| 80px
+| 
+| Analytical chemistry
+| 
+|-
+|
+| 
+| Archaeology
+| 
+|-
+| 80px
+| Valery Rubakov
+| Fundamental physics
+|
+|-
+!rowspan="3"|2017
+| 80px
+| Vladimir Fortov
+| Physics
+| 
+|-
+| 80px
+| 
+| Agrarian sciences
+| 
+|-
+|
+| Vladimir Skulachev
+| Bioenergetics
+|
+|-
+!rowspan="4"|2019
+| 80px
+| Yuri Oganessian
+| Nuclear physics
+| 
+|-
+|
+| Alexander Chibilev
+|
+| 
+|-
+|
+| Vyacheslav Rozhnov
+|
+| 
+|-
+| 80px
+| Eduard Rossel
+|
+| 
+
+|-
+!rowspan="3"|2020
+| 80px
+| Viktor Sadovnichiy
+| Mathematics
+| 
+|-
+| 
+| Leopold Igorevich Leontiev
+| Metallurgy
+| 
+|-
+|80px
+| Anatoly Torkunov
+| International relations
+|
+|-
+|}
+
+== See also ==
+
+* List of general science and technology awards 
+* List of biology awards
+* List of chemistry awards
+* List of mathematics awards
+* List of physics awards
+

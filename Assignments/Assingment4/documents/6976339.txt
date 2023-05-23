@@ -1,0 +1,11 @@
+Title: Swfmill
+
+
+
+
+swfmill is a free software (GPL v2) command line tool that generates SWF files.
+
+It is an XML-to-SWF and SWF-to-XML processor. It uses SWFML, an XML dialect closely modeled after the SWF format. It comes with XSLT capabilities, and a more accessible dialect of SWFML to generate SWF files.
+
+swfmill may be used to generate SWF files that contain library assets for use with MTASC. Currently, it imports images (JPEG, PNG), fonts (TrueType), SVG and other SWF files. It may also place assets on the stage, create movieclips with multiple frames, textfields, among other things.
+

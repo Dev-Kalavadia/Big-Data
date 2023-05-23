@@ -1,0 +1,39 @@
+Title: SYDI
+
+SYDI (Script Your Documentation Instantly) is an open source project aimed at assisting system administrators do in documenting their networks. Hosted on SourceForge, the project provides scripts that target computers running Windows and Linxu operating systems. The Windows scripts are written in VBScrip, while the Linux script is written inPython.
+
+Each script serves two basic functions: collecting and reporting. After targeting a system, the script collects information from the target and outputs it to either an  XML file or a Microsoft Word document.
+
+SYDI is licensed under the BSD License.
+
+== SYDI components ==
+As of version 2.0, SYDI consists of four separate script packages, each of which targets specific operating systems or applications.
+
+=== SYDI-Server ===
+SYDI-Server is the most developed script within the SYDI project. It is used to document Windows servers or clients. It collects information with Windows Management Instrumentation (WMI) and by reading the Windows registry. SYDI-Server finds basic hardware settings, installed software, domain membership, network settings etc.
+
+=== SYDI-Exchange ===
+SYDI-Exchange is used to document Microsoft Exchange Server organizations. Information is gathered through LDAP queries to the Active Directory where the Exchange information is stored.
+
+=== SYDI-SQL ===
+SYDI-SQL is used to document Microsoft SQL (MS SQL) Servers. Information is gathered by using SQL queries against the target server.
+
+=== SYDI-Linux ===
+SYDI-Linux is the least developed package within the SYDI project. Information is gathered by reading various files on a Linux system. SYDI-Linux focuses on documenting the Gentoo Linux distribution. Unlike the other SYDI packages this is not able to write Microsoft Word documents, however the XML file created can be converted into an OpenOffice document.
+
+=== SYDI-SMS ===
+SYDI-SMS is an offshoot of the SYDI project. It was created by a Microsoft MVP to document his System Management Server 2003 unlike the other Microsoft-based SYDI packages, this script only create a Word document.
+
+=== SYDI-SCCM ===
+SYDI-SCCM is an offshoot of the SYDI project. It was created by a Microsoft MVP to document his System Center Configuration Manager 2007 unlike the other Microsoft-based SYDI packages, this script only create a Word document. This version will document most of CM12 too.
+
+=== SYDI-CM12 ===
+SYDI-SCCM is an offshoot of the SYDI project. It was created by a Microsoft MVP to document his System Center Configuration Manager 2012 unlike the other Microsoft-based SYDI packages, this script will only create a Word document. This version will document most of CM12 too.
+
+==External links==
+*Official SYDI Website
+*Creators blog with news about SYDI
+*SYDI-SMS, SYDI SCCM, and SYDI CM12 scripts
+
+Category:Free documentation generators
+Category:Windows network-related software

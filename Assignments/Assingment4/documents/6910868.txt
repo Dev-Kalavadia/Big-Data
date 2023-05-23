@@ -1,0 +1,63 @@
+Title: BAR domain
+
+
+
+
+
+
+
+
+
+
+In molecular biology, BAR domains are highly conserved protein dimerisation domains that occur in many proteins involved in membrane dynamics in a cell. The BAR domain is banana-shaped and binds to membrane via its concave face. It is capable of sensing membrane curvature by binding preferentially to curved membranes. BAR domains are named after three proteins that they are found in: Bin, Amphiphysin and Rvs.
+
+== BAR domains occur in combinations with other domains ==
+Many BAR family proteins contain alternative lipid specificity domains that help target these protein to particular membrane compartments. Some also have SH3 domains that bind to dynamin and thus proteins like amphiphysin and endophilin are implicated in the orchestration of vesicle scission.
+
+== N-BAR domain ==
+Some BAR domain containing proteins have an N-terminal amphipathic helix preceding the BAR domain. This helix inserts (like in the epsin ENTH domain) into the membrane and induces curvature, which is stabilised by the BAR dimer. Amphiphysin, endophilin, BRAP1/bin2 and nadrin are examples of such proteins containing an N-BAR. The Drosophila amphiphysin N-BAR (DA-N-BAR) is an example of a protein with a preference for negatively charged surfaces.
+
+=== Human proteins containing this domain ===
+AMPH; ARHGAP17; ARHGAP44; BIN1; BIN2; BIN3;
+SH3BP1; SH3GL1; SH3GL2; SH3GL3; SH3GLB1; SH3GLB2.
+
+==F-BAR (EFC) domain ==
+F-BAR domains (for FCH-BAR, or EFC for Extended FCH Homology) are BAR domains that are extensions of the already established FCH domain. They are frequently found at the amino terminus of proteins. They can bind lipid membranes and can tubulate lipids in vitro and in vivo, but their exact physiological role still is under investigation. Examples of the F-BAR domain family are CIP4/FBP17/Toca-1, Syndapins (also called PACSINs) and muniscins. Gene knock-out of syndapin I in mice revealed that this brain-enriched isoform of the syndapin family is crucial for proper size control of synaptic vesicles and thereby indeed helps to define membrane curvature a physiological process. Work of the lab of Britta Qualmann also demonstrated that syndapin I is crucial for proper targeting of the large GTPase dynamin to membranes.
+
+== Sorting nexins ==
+The sorting nexin family of proteins includes several members that possess a BAR domain, including the well characterized SNX1 and SNX9.
+
+== Human proteins containing this domain ==
+AMPH;      ARHGAP17; BIN1;      BIN2;      BIN3;      DNMBP; GMIP;   RICH2;     SH3BP1;
+SH3GL1;    SH3GL2;    SH3GL3;    SH3GLB1;   SH3GLB2;
+
+==See also==
+* Arfaptin, includes a BAR-like domain
+* IMD domain, a BAR-like domain
+* SNX8 - protein family with a combination of BAR-like and PX domains 
+* Epsin
+*Membrane curvature
+
+==External links==
+* endocytosis.org
+
+== References ==
+
+
+=== Further reading ===
+*
+*Review.
+*
+*
+*
+*
+*
+*
+*
+
+
+
+
+
+Category:Peripheral membrane proteins
+Category:Protein domains

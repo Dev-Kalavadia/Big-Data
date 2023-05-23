@@ -1,0 +1,20 @@
+## Warning: This is just a demo with Telenet
+## For your own exercice/assignement, use a library such as pymemcache (python) or libmemcahed (c++)
+
+
+## With Telent, pay attention to the format of the set operation
+## set <name> <flag> <time to live> <bytes> 
+## hit enter
+## input exactly the number of bytes you specified
+## for example, one char is 1 byte
+
+
+$telnet 127.0.0.1 11211
+
+set v0 0 10 1 h
+set v1 0 0 10 TestValue1
+get v1
+get v0 
+delete v1
+stats items
+stats cachedump 1 10

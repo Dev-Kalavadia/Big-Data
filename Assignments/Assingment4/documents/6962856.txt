@@ -1,0 +1,40 @@
+Title: NLA media accessNLA media access (often shortened to the NLA) is the collecting society for UK newspapers, a privately owned limited company. It undertakes collective rights management on behalf of its members and licenses companies, such as press cuttings agencies and media monitoring firms.
+
+== History ==
+The NLA was founded in 1996 by the following eight UK national newspaper publishers, who were equal shareholders:
+
+* Associated Newspapers
+* Financial Times
+* Guardian Media Group
+* ESI Media (comprising The Independent and Evening Standard)
+* Northern & Shell
+* News International
+* Daily Telegraph
+* Trinity Mirror
+
+There are seven shareholders as of 2019, following Northern & Shell’s acquisition by Trinity Mirror.
+
+NLA media access distributes over £22m each year to national and regional newspapers in respect of copyright works.  In 2009 NLA media access licensed over 1000m copies of newspaper cuttings from more than 1,400 titles and collected licence fees from over 8,300 licensees (representing over 150,000 organisations).
+
+In 2006 the NLA launched eClips, an online database of newspaper cuttings. In 2008, it launched ClipSearch, allowing anyone to search and retrieve original newspaper articles from around the UK, updated 72 hours after publication. In 2009, it introduced Newspapers for Schools, to encourage and ease the access of newspaper material to schools throughout the UK. NLA media access also supports the Journalism Diversity Fund which provides bursaries to students from ethnically and socially diverse backgrounds looking to train as journalists.
+
+== Clipping services litigation ==
+
+In 2010, NLA media access introduced a licence covering media monitoring services which crawl sites and offer paid-for services based on their filtered results. A media monitoring company, Meltwater Group, charged its clients to view relevant results without those clients needing a licence from a newspaper company or copyright service to read the original mention. The case revolved around whether a client lacking a licence would infringe copyright by being shown, and viewing, the extracts from copyrighted material in this way (it was common ground that to subsequently view a full article would require a licence). The majority of media monitoring agencies signed up for the new NLA web licence with the exception of Meltwater, who argued no licence was required by its clients for this purpose, and in conjunction with the PRCA referred the scheme to the Copyright Tribunal, and the matter was escalated.
+
+In May 2010 the NLA announced action in the High Court and on 26 November the High Court ruled in favour of the NLA. The case was appealed and heard by the UK's Court of Appeal in June 2011.  They upheld the decision in the High Court case, implying that most (if not all) businesses subscribing to a media monitoring service that contains content from online newspapers would require a licence.High Court rules against Meltwater and PRCA  Communicate magazine, November 2010
+
+However this was reversed by the UK Supreme Court in 2013, who ruled Meltwater's activities legal, subject to certain questions referred to the European Court of Justice and intended to clarify matters of a cross-border nature. The rationale was that viewing of copyright works was not, and had never been, illegal in either the UK or European law, and Article 5.1 of the European Directive Directive 2001/29/EC (which covers "temporary copies"]) permitted automated copying of a temporary nature for a lawful purpose. As mere viewing by Meltwater's clients was lawful under UK and EU law, the technical creation of cached copies to enable and facilitate this were also lawful.
+
+On 5 June 2014 the Court of Justice of the European Union in Luxembourg ruled in favour of the PRCAEU Court Of Justice delivers landmark judgment in favour of PRCA/Meltwater against NLA and found that browsing and viewing articles online does not require authorisation from the copyright holder.
+
+== References ==
+
+
+
+== External links ==
+*NLA website
+
+
+
+Category:Copyright collection societies

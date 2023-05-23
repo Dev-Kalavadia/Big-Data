@@ -1,0 +1,52 @@
+Title: Galeus
+
+
+Galeus is a genus of catshark, belonging to the family Scyliorhinidae, commonly known as sawtail catsharks in reference to a distinctive saw-toothed crest of enlarged dermal denticles, found along the upper edges of their caudal fins. They are found in the Atlantic, the western and central Pacific, and the Gulf of California, inhabiting deep waters at or close to the sea floor. Members of this genus are rather small, slim sharks with firm bodies and thick, rough skin. Their heads are usually fairly long and pointed, and have large mouths with well-developed furrows at the corners. They have large pectoral and anal fins, and two similar dorsal fins placed well back. Many species are ornately patterned with dark saddles and/or blotches. Sawtail catsharks feed on various invertebrates and fishes, and may be either egg-laying or live-bearing. These harmless sharks are sometimes caught as bycatch but are of minimal commercial value.
+
+==Taxonomy==
+thumb|left|The illustration that accompanied the 1904 description of the mouse catshark, as Pristurus murinus
+Galeus, derived from the Greek galeos meaning "shark", is one of the oldest carcharhiniform generic names. It was first used in a binomial by Constantine Samuel Rafinesque in his 1810 ."Characters of various new genera and species of animals (mostly fishes) and plants, with various observations about them" Rafinesque listed G. melastomus, G. vulpecula (=Alopias vulpinus), G. mustelus (=Mustelus mustelus), and G. catulus (=Scyliorhinus canicula). Subsequently, in 1816 Georges Cuvier used Galeus to refer to the genus presently known as Galeorhinus, and in 1818 William Elford Leach used Galeus to refer to genus presently known as Mustelus. As a result, 19th century authors generally used Galeus for the tope sharks, and Pristiurus, coined by Charles Lucien Bonaparte in 1834, for the sawtail catsharks.
+
+Rafinesque might have intended G. mustelus to be the type species for Galeus, but of his listed species he furnished a description only for G. melastomus. Therefore, in 1908 Henry Weed Fowler designated G. melastomus as the type species of Galeus, establishing the genus to contain the sawtail catsharks. Pristiurus became a junior synonym, though it continued to appear in scientific literature for some time after. Fowler's definition of Galeus gained widespread acceptance after Henry Bryant Bigelow and William Charles Schroeder's 1948 taxonomic review. In 1952, Philip Orkin advocated that Pristiurus take precedence over Galeus, based on David Starr Jordan and Barton Warren Evermann's (possibly questionable) designation of G. mustelus as a type species for Galeus in 1896. Leonard Compagno and most other recent authors have not upheld his proposal, in the interests of taxonomic stability.
+
+==Species==
+* Galeus antillensis S. Springer, 1979  (Antilles catshark)
+* Galeus arae  Nichols, 1927 (roughtail catshark) 
+* Galeus atlanticus  Vaillant, 1888 (Atlantic sawtail catshark)
+* Galeus cadenati S. Springer, 1966 (longfin sawtail catshark)
+* Galeus eastmani D. S. Jordan & Snyder, 1904 (gecko catshark)
+* Galeus friedrichi Ebert & Jang, 2022 (Philippines sawtail catshark)
+* Galeus gracilis Compagno & Stevens, 1993 (slender sawtail catshark)
+* Galeus longirostris Tachikawa & Taniuchi, 1987 (longnose sawtail catshark)
+* Galeus melastomus Rafinesque, 1810 (blackmouth catshark)
+* Galeus mincaronei Soto, 2001 (southern sawtail catshark)
+* Galeus murinus Collett, 1904 (mouse catshark)
+* Galeus nipponensis Nakaya, 1975 (broadfin sawtail catshark)
+* Galeus piperatus S. Springer & M. H. Wagner, 1966 (peppered catshark)
+* Galeus polli Cadenat, 1959 (African sawtail catshark)  
+* Galeus priapus Séret & Last, 2008 (phallic catshark)
+* Galeus sauteri D. S. Jordan & R. E. Richardson, 1909 (blacktip sawtail catshark)
+* Galeus schultzi S. Springer, 1979 (dwarf sawtail catshark)
+* Galeus springeri  Konstantinou & Cozzi, 1998 (Springer's sawtail catshark)
+
+==Phylogeny and evolution==
+Most taxonomic studies have concluded the closest relatives of Galeus to be Apristurus, Asymbolus, Parmaturus, and/or Cephalurus. Leonard Compagno has placed Galeus with Apristurus, Bythaelurus, Cephalurus, Parmaturus, and Pentanchus in the tribe Pentanchini of the subfamily Pentanchinae, based on morphological characters. Galeus was suggested to be the sister group of Apristurus in a 2005 phylogenetic study based on mitochondrial and nuclear DNA gene sequences, by Samuel Iglésias and colleagues. The affinity between Galeus and Apristurus was also upheld, albeit weakly, in a 2006 phylogenetic analysis based on three mitochondrial DNA genes, by Brett Human and colleagues. Within the genus, though the G. arae species complex, G. atlanticus, G. eastmani, G. melastomus, G. piperatus, G. polli, and G. sauteri definitely form a monophyletic group, the assignment of other species (e.g. G. murinus) within the genus is more problematic. In the aforementioned study by Iglésias and colleagues, which included five Galeus species, G. eastmani, G. gracilis, and G. sauteri were grouped into one clade and G. melastomus and G. murinus grouped into another. Galeus fossils, dating to the Burdigalian (20.43–15.97 Ma) and Langhian (15.97–13.65 Ma) stages of the early Miocene, have been recovered from France.
+
+==Distribution and habitat==
+thumb|A roughtail catshark (G. arae) in its natural habitat. Members of this genus occur close to the bottom in deep water.
+The centers of biodiversity for Galeus are the North Atlantic (8 species) and the northwestern Pacific (4 species). A few outlying species are found in the South Atlantic (G. mincaronei and G. polli), Oceania (G. gracilis and G. priapus), and the Gulf of California (G. piperatus). In the western  Indian Ocean, this genus appears to be replaced by the ecologically similar genus Holohalaelurus. Sawtail catsharks are demersal in habits and occur in deep water over outer continental and insular shelves and upper slopes.
+
+==Description==
+Sawtail catsharks reach maximum lengths of between . They have slender, firm bodies and narrow, slightly flattened heads with short to long, pointed snouts. The nostrils are divided into incurrent and excurrent openings by triangular flaps of skin on their anterior rims. The horizontally oval eyes are placed mostly on the sides of the head and equipped with rudimentary nictitating membranes (protective third eyelids); below each eye is a subtle ridge, and behind is a small spiracle (auxiliary respiratory opening). The mouth is rather large and wide, and when closed the upper teeth are exposed. There are short to long furrows around the corners of the jaws. The teeth are small and number 47–78 rows in the upper jaw and 48–82 rows in the lower jaw; each tooth has a narrow central cusp flanked by one or more smaller cusplets on either side. There are five pairs of gill slits.
+
+thumb|Close-up from above of the caudal fin denticle crest of the longfin sawtail catshark (G. cadenati). Such crests are shared by all Galeus species.
+The two dorsal fins are nearly equal in size and shape, and are placed well back on the body, behind the origins of the pelvic fins. The pectoral fins are fairly large and broad, with angular to rounded corners. The pelvic fins are much smaller, and bear claspers in males; in G. murinus and G. nipponensis, the pelvic fin inner margins are partially fused to form an "apron" over the base of the claspers. The anal fin is elongated and much larger than the pelvic and dorsal fins; its position relative to the pelvic and caudal fins varies from very close to well-spaced. The caudal peduncle can be nearly cylindrical to laterally compressed, depending on species. The caudal fin comprises more or less a quarter of the total length, and is low with a small lower lobe and a ventral notch near the tip of the upper lobe.
+
+The skin is thick and densely covered by small, overlapping, well-calcified dermal denticles; each denticle has a leaf-shaped crown with a horizontal ridge and three teeth on the posterior margin. There is a prominent, saw-like crest of enlarged denticles along the dorsal margin of the caudal fin. G. murinus and G. springeri also have a similar crest along the ventral margin of the caudal fin. Galeus species are typically grayish or brownish above and lighter below, and most have a pattern of darker saddles and/or blotches along the back and tail. The interior of the mouth may be light or dark.
+
+==Biology and ecology==
+Natural history data is scant for most Galeus species. They feed on various types of invertebrates and fishes on or near the bottom. In Suruga Bay, the dietary compositions of G. eastmani and juvenile G. nipponensis differ significantly, suggesting there is reduced interspecific competition between co-occurring Galeus species. Reproductive modes within the genus are notably diverse: while most species are oviparous and lay encapsulated eggs on the sea floor, there is a single aplacental viviparous species (G. polli) that retains eggs internally and gives live birth. Among the oviparous species, most (e.g. G. murinus, G. nipponensis) exhibit single oviparity, in which only a single egg matures within each of the female's oviducts at a time. In contrast, a few species such as G. atlanticus and G. melastomus exhibit multiple oviparity, in which several eggs can mature within each oviduct simultaneously. Single oviparity is considered to be the basal condition, while multiple oviparity and aplacental viviparity are thought to be more derived.
+
+==Human interactions==
+Sawtail catsharks pose no danger to humans and have little economic value, though varying numbers are caught incidentally by deepwater commercial fisheries. Some of the larger species, such as G. melastomus and G. polli, are occasionally utilized for meat, fishmeal, and/or leather. The International Union for Conservation of Nature (IUCN) has listed G. atlanticus and G. mincaronei, both of which have very restricted distributions, as Near Threatened and Vulnerable respectively.
+

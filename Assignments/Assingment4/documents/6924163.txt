@@ -1,0 +1,2065 @@
+Title: List of minor planets: 136001–137000
+
+
+
+
+== 136001–136100 ==
+
+
+|-bgcolor=#E9E9E9
+| 136001 ||  || — || November 4, 2002 || Palomar || NEAT || — || align=right | 4.2 km || 
+|-id=002 bgcolor=#E9E9E9
+| 136002 ||  || — || November 4, 2002 || Palomar || NEAT || ADE || align=right | 6.2 km || 
+|-id=003 bgcolor=#E9E9E9
+| 136003 ||  || — || November 6, 2002 || Socorro || LINEAR || — || align=right | 3.8 km || 
+|-id=004 bgcolor=#E9E9E9
+| 136004 ||  || — || November 6, 2002 || Socorro || LINEAR || XIZ || align=right | 2.4 km || 
+|-id=005 bgcolor=#E9E9E9
+| 136005 ||  || — || November 6, 2002 || Anderson Mesa || LONEOS || NEM || align=right | 3.8 km || 
+|-id=006 bgcolor=#E9E9E9
+| 136006 ||  || — || November 6, 2002 || Anderson Mesa || LONEOS || — || align=right | 1.4 km || 
+|-id=007 bgcolor=#d6d6d6
+| 136007 ||  || — || November 3, 2002 || Haleakala || NEAT || — || align=right | 4.7 km || 
+|-id=008 bgcolor=#E9E9E9
+| 136008 ||  || — || November 3, 2002 || Haleakala || NEAT || — || align=right | 2.7 km || 
+|-id=009 bgcolor=#E9E9E9
+| 136009 ||  || — || November 5, 2002 || Socorro || LINEAR || HEN || align=right | 1.9 km || 
+|-id=010 bgcolor=#E9E9E9
+| 136010 ||  || — || November 6, 2002 || Anderson Mesa || LONEOS || — || align=right | 2.0 km || 
+|-id=011 bgcolor=#E9E9E9
+| 136011 ||  || — || November 6, 2002 || Anderson Mesa || LONEOS || — || align=right | 3.9 km || 
+|-id=012 bgcolor=#E9E9E9
+| 136012 ||  || — || November 6, 2002 || Socorro || LINEAR || — || align=right | 4.8 km || 
+|-id=013 bgcolor=#E9E9E9
+| 136013 ||  || — || November 6, 2002 || Socorro || LINEAR || XIZ || align=right | 2.5 km || 
+|-id=014 bgcolor=#E9E9E9
+| 136014 ||  || — || November 7, 2002 || Socorro || LINEAR || — || align=right | 2.6 km || 
+|-id=015 bgcolor=#d6d6d6
+| 136015 ||  || — || November 7, 2002 || Anderson Mesa || LONEOS || ALA || align=right | 8.5 km || 
+|-id=016 bgcolor=#E9E9E9
+| 136016 ||  || — || November 7, 2002 || Socorro || LINEAR || — || align=right | 4.9 km || 
+|-id=017 bgcolor=#d6d6d6
+| 136017 ||  || — || November 7, 2002 || Socorro || LINEAR || KOR || align=right | 2.9 km || 
+|-id=018 bgcolor=#d6d6d6
+| 136018 ||  || — || November 7, 2002 || Socorro || LINEAR || SAN || align=right | 2.7 km || 
+|-id=019 bgcolor=#E9E9E9
+| 136019 ||  || — || November 7, 2002 || Socorro || LINEAR || AGN || align=right | 2.5 km || 
+|-id=020 bgcolor=#fefefe
+| 136020 ||  || — || November 7, 2002 || Socorro || LINEAR || FLO || align=right | 1.1 km || 
+|-id=021 bgcolor=#d6d6d6
+| 136021 ||  || — || November 7, 2002 || Socorro || LINEAR || — || align=right | 5.3 km || 
+|-id=022 bgcolor=#d6d6d6
+| 136022 ||  || — || November 7, 2002 || Socorro || LINEAR || — || align=right | 6.4 km || 
+|-id=023 bgcolor=#d6d6d6
+| 136023 ||  || — || November 11, 2002 || Socorro || LINEAR || EUP || align=right | 9.0 km || 
+|-id=024 bgcolor=#E9E9E9
+| 136024 ||  || — || November 8, 2002 || Socorro || LINEAR || — || align=right | 5.4 km || 
+|-id=025 bgcolor=#E9E9E9
+| 136025 ||  || — || November 11, 2002 || Socorro || LINEAR || PAD || align=right | 3.7 km || 
+|-id=026 bgcolor=#d6d6d6
+| 136026 ||  || — || November 12, 2002 || Anderson Mesa || LONEOS || — || align=right | 5.3 km || 
+|-id=027 bgcolor=#E9E9E9
+| 136027 ||  || — || November 11, 2002 || Anderson Mesa || LONEOS || — || align=right | 2.7 km || 
+|-id=028 bgcolor=#d6d6d6
+| 136028 ||  || — || November 11, 2002 || Socorro || LINEAR || EUP || align=right | 6.4 km || 
+|-id=029 bgcolor=#E9E9E9
+| 136029 ||  || — || November 12, 2002 || Socorro || LINEAR || MRX || align=right | 1.8 km || 
+|-id=030 bgcolor=#E9E9E9
+| 136030 ||  || — || November 12, 2002 || Socorro || LINEAR || — || align=right | 5.0 km || 
+|-id=031 bgcolor=#d6d6d6
+| 136031 ||  || — || November 12, 2002 || Socorro || LINEAR || — || align=right | 5.5 km || 
+|-id=032 bgcolor=#d6d6d6
+| 136032 ||  || — || November 12, 2002 || Socorro || LINEAR || — || align=right | 7.4 km || 
+|-id=033 bgcolor=#d6d6d6
+| 136033 ||  || — || November 13, 2002 || Palomar || NEAT || — || align=right | 4.3 km || 
+|-id=034 bgcolor=#E9E9E9
+| 136034 ||  || — || November 13, 2002 || Socorro || LINEAR || GAL || align=right | 3.4 km || 
+|-id=035 bgcolor=#d6d6d6
+| 136035 ||  || — || November 12, 2002 || Socorro || LINEAR || — || align=right | 5.0 km || 
+|-id=036 bgcolor=#E9E9E9
+| 136036 ||  || — || November 13, 2002 || Palomar || NEAT || — || align=right | 5.2 km || 
+|-id=037 bgcolor=#E9E9E9
+| 136037 ||  || — || November 6, 2002 || Socorro || LINEAR || — || align=right | 3.7 km || 
+|-id=038 bgcolor=#E9E9E9
+| 136038 || 2002 WR || — || November 20, 2002 || Socorro || LINEAR || PAL || align=right | 3.8 km || 
+|-id=039 bgcolor=#E9E9E9
+| 136039 ||  || — || November 21, 2002 || Palomar || NEAT || — || align=right | 5.0 km || 
+|-id=040 bgcolor=#d6d6d6
+| 136040 ||  || — || November 24, 2002 || Palomar || NEAT || THM || align=right | 5.3 km || 
+|-id=041 bgcolor=#E9E9E9
+| 136041 ||  || — || November 27, 2002 || Anderson Mesa || LONEOS || — || align=right | 5.3 km || 
+|-id=042 bgcolor=#E9E9E9
+| 136042 ||  || — || November 27, 2002 || Anderson Mesa || LONEOS || — || align=right | 5.4 km || 
+|-id=043 bgcolor=#E9E9E9
+| 136043 ||  || — || November 28, 2002 || Anderson Mesa || LONEOS || PAD || align=right | 3.6 km || 
+|-id=044 bgcolor=#E9E9E9
+| 136044 ||  || — || December 1, 2002 || Socorro || LINEAR || — || align=right | 1.9 km || 
+|-id=045 bgcolor=#E9E9E9
+| 136045 ||  || — || December 2, 2002 || Socorro || LINEAR || — || align=right | 5.2 km || 
+|-id=046 bgcolor=#d6d6d6
+| 136046 ||  || — || December 2, 2002 || Socorro || LINEAR || — || align=right | 4.7 km || 
+|-id=047 bgcolor=#d6d6d6
+| 136047 ||  || — || December 3, 2002 || Palomar || NEAT || — || align=right | 4.0 km || 
+|-id=048 bgcolor=#d6d6d6
+| 136048 ||  || — || December 3, 2002 || Palomar || NEAT || — || align=right | 7.0 km || 
+|-id=049 bgcolor=#E9E9E9
+| 136049 ||  || — || December 5, 2002 || Socorro || LINEAR || — || align=right | 3.8 km || 
+|-id=050 bgcolor=#d6d6d6
+| 136050 ||  || — || December 2, 2002 || Socorro || LINEAR || — || align=right | 3.8 km || 
+|-id=051 bgcolor=#E9E9E9
+| 136051 ||  || — || December 5, 2002 || Socorro || LINEAR || — || align=right | 5.1 km || 
+|-id=052 bgcolor=#d6d6d6
+| 136052 ||  || — || December 6, 2002 || Socorro || LINEAR || — || align=right | 7.0 km || 
+|-id=053 bgcolor=#E9E9E9
+| 136053 ||  || — || December 6, 2002 || Socorro || LINEAR || JUN || align=right | 2.7 km || 
+|-id=054 bgcolor=#E9E9E9
+| 136054 ||  || — || December 7, 2002 || Palomar || NEAT || EUN || align=right | 2.6 km || 
+|-id=055 bgcolor=#E9E9E9
+| 136055 ||  || — || December 6, 2002 || Socorro || LINEAR || — || align=right | 5.4 km || 
+|-id=056 bgcolor=#d6d6d6
+| 136056 ||  || — || December 10, 2002 || Socorro || LINEAR || — || align=right | 4.5 km || 
+|-id=057 bgcolor=#d6d6d6
+| 136057 ||  || — || December 10, 2002 || Socorro || LINEAR || KOR || align=right | 2.5 km || 
+|-id=058 bgcolor=#E9E9E9
+| 136058 ||  || — || December 10, 2002 || Kitt Peak || Spacewatch || — || align=right | 4.5 km || 
+|-id=059 bgcolor=#d6d6d6
+| 136059 ||  || — || December 10, 2002 || Palomar || NEAT || — || align=right | 7.5 km || 
+|-id=060 bgcolor=#E9E9E9
+| 136060 ||  || — || December 11, 2002 || Socorro || LINEAR || PAE || align=right | 7.1 km || 
+|-id=061 bgcolor=#E9E9E9
+| 136061 ||  || — || December 11, 2002 || Socorro || LINEAR || — || align=right | 2.7 km || 
+|-id=062 bgcolor=#d6d6d6
+| 136062 ||  || — || December 11, 2002 || Socorro || LINEAR || — || align=right | 7.2 km || 
+|-id=063 bgcolor=#d6d6d6
+| 136063 ||  || — || December 11, 2002 || Palomar || NEAT || — || align=right | 7.5 km || 
+|-id=064 bgcolor=#E9E9E9
+| 136064 ||  || — || December 13, 2002 || Palomar || NEAT || EUN || align=right | 3.1 km || 
+|-id=065 bgcolor=#E9E9E9
+| 136065 ||  || — || December 13, 2002 || Haleakala || NEAT || — || align=right | 4.5 km || 
+|-id=066 bgcolor=#d6d6d6
+| 136066 ||  || — || December 11, 2002 || Palomar || NEAT || — || align=right | 6.2 km || 
+|-id=067 bgcolor=#E9E9E9
+| 136067 ||  || — || December 12, 2002 || Socorro || LINEAR || — || align=right | 3.0 km || 
+|-id=068 bgcolor=#d6d6d6
+| 136068 ||  || — || December 5, 2002 || Socorro || LINEAR || HYG || align=right | 5.5 km || 
+|-id=069 bgcolor=#d6d6d6
+| 136069 ||  || — || December 5, 2002 || Socorro || LINEAR || KOR || align=right | 2.4 km || 
+|-id=070 bgcolor=#E9E9E9
+| 136070 ||  || — || December 5, 2002 || Socorro || LINEAR || — || align=right | 3.9 km || 
+|-id=071 bgcolor=#d6d6d6
+| 136071 ||  || — || December 5, 2002 || Socorro || LINEAR || TEL || align=right | 2.5 km || 
+|-id=072 bgcolor=#E9E9E9
+| 136072 || 2002 YN || — || December 27, 2002 || Anderson Mesa || LONEOS || CLO || align=right | 3.8 km || 
+|-id=073 bgcolor=#d6d6d6
+| 136073 ||  || — || December 28, 2002 || Needville || Needville Obs. || — || align=right | 7.5 km || 
+|-id=074 bgcolor=#d6d6d6
+| 136074 ||  || — || December 31, 2002 || Socorro || LINEAR || — || align=right | 7.3 km || 
+|-id=075 bgcolor=#d6d6d6
+| 136075 ||  || — || December 31, 2002 || Socorro || LINEAR || — || align=right | 5.9 km || 
+|-id=076 bgcolor=#d6d6d6
+| 136076 ||  || — || January 3, 2003 || Socorro || LINEAR || — || align=right | 8.3 km || 
+|-id=077 bgcolor=#E9E9E9
+| 136077 ||  || — || January 4, 2003 || Socorro || LINEAR || — || align=right | 5.7 km || 
+|-id=078 bgcolor=#d6d6d6
+| 136078 ||  || — || January 4, 2003 || Socorro || LINEAR || — || align=right | 7.4 km || 
+|-id=079 bgcolor=#E9E9E9
+| 136079 ||  || — || January 7, 2003 || Socorro || LINEAR || — || align=right | 5.8 km || 
+|-id=080 bgcolor=#d6d6d6
+| 136080 ||  || — || January 5, 2003 || Socorro || LINEAR || — || align=right | 8.6 km || 
+|-id=081 bgcolor=#d6d6d6
+| 136081 ||  || — || January 5, 2003 || Socorro || LINEAR || ALA || align=right | 6.2 km || 
+|-id=082 bgcolor=#fefefe
+| 136082 ||  || — || January 5, 2003 || Socorro || LINEAR || — || align=right | 2.8 km || 
+|-id=083 bgcolor=#d6d6d6
+| 136083 ||  || — || January 7, 2003 || Socorro || LINEAR || — || align=right | 6.7 km || 
+|-id=084 bgcolor=#d6d6d6
+| 136084 ||  || — || January 7, 2003 || Socorro || LINEAR || LUT || align=right | 9.6 km || 
+|-id=085 bgcolor=#d6d6d6
+| 136085 ||  || — || January 10, 2003 || Socorro || LINEAR || — || align=right | 6.0 km || 
+|-id=086 bgcolor=#E9E9E9
+| 136086 ||  || — || January 10, 2003 || Socorro || LINEAR || — || align=right | 4.4 km || 
+|-id=087 bgcolor=#d6d6d6
+| 136087 ||  || — || January 1, 2003 || Socorro || LINEAR || — || align=right | 7.6 km || 
+|-id=088 bgcolor=#E9E9E9
+| 136088 ||  || — || January 26, 2003 || Palomar || NEAT || — || align=right | 3.3 km || 
+|-id=089 bgcolor=#d6d6d6
+| 136089 ||  || — || January 26, 2003 || Haleakala || NEAT || — || align=right | 7.6 km || 
+|-id=090 bgcolor=#d6d6d6
+| 136090 ||  || — || January 27, 2003 || Socorro || LINEAR || — || align=right | 4.1 km || 
+|-id=091 bgcolor=#d6d6d6
+| 136091 ||  || — || January 27, 2003 || Socorro || LINEAR || — || align=right | 7.0 km || 
+|-id=092 bgcolor=#d6d6d6
+| 136092 ||  || — || January 27, 2003 || Socorro || LINEAR || — || align=right | 8.8 km || 
+|-id=093 bgcolor=#fefefe
+| 136093 ||  || — || January 27, 2003 || Socorro || LINEAR || — || align=right | 1.3 km || 
+|-id=094 bgcolor=#fefefe
+| 136094 ||  || — || January 27, 2003 || Socorro || LINEAR || — || align=right | 1.2 km || 
+|-id=095 bgcolor=#E9E9E9
+| 136095 ||  || — || January 27, 2003 || Haleakala || NEAT || — || align=right | 4.5 km || 
+|-id=096 bgcolor=#d6d6d6
+| 136096 ||  || — || February 1, 2003 || Haleakala || NEAT || — || align=right | 7.7 km || 
+|-id=097 bgcolor=#E9E9E9
+| 136097 ||  || — || February 6, 2003 || Palomar || NEAT || EUN || align=right | 2.5 km || 
+|-id=098 bgcolor=#d6d6d6
+| 136098 || 2003 DD || — || February 19, 2003 || Haleakala || NEAT || CHA || align=right | 3.6 km || 
+|-id=099 bgcolor=#E9E9E9
+| 136099 ||  || — || February 22, 2003 || Palomar || NEAT || MRX || align=right | 2.4 km || 
+|-id=100 bgcolor=#d6d6d6
+| 136100 ||  || — || February 26, 2003 || Campo Imperatore || CINEOS || 7:4 || align=right | 6.0 km || 
+|}
+
+== 136101–136200 ==
+
+
+|-bgcolor=#d6d6d6
+| 136101 ||  || — || March 5, 2003 || Socorro || LINEAR || — || align=right | 7.8 km || 
+|-id=102 bgcolor=#E9E9E9
+| 136102 ||  || — || March 5, 2003 || Socorro || LINEAR || — || align=right | 4.6 km || 
+|-id=103 bgcolor=#E9E9E9
+| 136103 ||  || — || March 6, 2003 || Socorro || LINEAR || GEF || align=right | 2.6 km || 
+|-id=104 bgcolor=#d6d6d6
+| 136104 ||  || — || March 6, 2003 || Socorro || LINEAR || HYG || align=right | 6.6 km || 
+|-id=105 bgcolor=#fefefe
+| 136105 ||  || — || March 6, 2003 || Anderson Mesa || LONEOS || NYS || align=right | 1.1 km || 
+|-id=106 bgcolor=#fefefe
+| 136106 ||  || — || March 7, 2003 || Anderson Mesa || LONEOS || NYS || align=right | 1.2 km || 
+|-id=107 bgcolor=#E9E9E9
+| 136107 ||  || — || March 12, 2003 || Palomar || NEAT || EUN || align=right | 2.3 km || 
+|-id=108 bgcolor=#C2E0FF
+| 136108 Haumea ||  ||  || March 7, 2003 || Sierra Nevada || Sierra Nevada Obs. || Haumeamoon || align=right | 1595 km || 
+|-id=109 bgcolor=#fefefe
+| 136109 ||  || — || March 25, 2003 || Kitt Peak || Spacewatch || FLO || align=right data-sort-value="0.81" | 810 m || 
+|-id=110 bgcolor=#E9E9E9
+| 136110 ||  || — || March 26, 2003 || Palomar || NEAT || PAD || align=right | 3.2 km || 
+|-id=111 bgcolor=#E9E9E9
+| 136111 ||  || — || March 27, 2003 || Kitt Peak || Spacewatch || — || align=right | 3.0 km || 
+|-id=112 bgcolor=#fefefe
+| 136112 ||  || — || March 26, 2003 || Kitt Peak || Spacewatch || NYS || align=right | 1.1 km || 
+|-id=113 bgcolor=#d6d6d6
+| 136113 ||  || — || April 1, 2003 || Socorro || LINEAR || HYG || align=right | 5.4 km || 
+|-id=114 bgcolor=#fefefe
+| 136114 ||  || — || April 7, 2003 || Palomar || NEAT || — || align=right | 1.0 km || 
+|-id=115 bgcolor=#E9E9E9
+| 136115 ||  || — || April 24, 2003 || Anderson Mesa || LONEOS || — || align=right | 4.5 km || 
+|-id=116 bgcolor=#fefefe
+| 136116 ||  || — || April 23, 2003 || Socorro || LINEAR || H || align=right | 1.3 km || 
+|-id=117 bgcolor=#fefefe
+| 136117 ||  || — || April 26, 2003 || Haleakala || NEAT || H || align=right data-sort-value="0.99" | 990 m || 
+|-id=118 bgcolor=#fefefe
+| 136118 || 2003 KV || — || May 21, 2003 || Reedy Creek || J. Broughton || — || align=right | 2.9 km || 
+|-id=119 bgcolor=#E9E9E9
+| 136119 ||  || — || May 29, 2003 || Socorro || LINEAR || — || align=right | 3.2 km || 
+|-id=120 bgcolor=#C2E0FF
+| 136120 ||  || — || June 1, 2003 || Cerro Tololo || M. W. Buie || res1:3critical || align=right | 117 km || 
+|-id=121 bgcolor=#fefefe
+| 136121 || 2003 OA || — || July 18, 2003 || Siding Spring || R. H. McNaught || — || align=right data-sort-value="0.91" | 910 m || 
+|-id=122 bgcolor=#fefefe
+| 136122 ||  || — || July 24, 2003 || Palomar || NEAT || — || align=right | 1.7 km || 
+|-id=123 bgcolor=#fefefe
+| 136123 ||  || — || August 22, 2003 || Socorro || LINEAR || — || align=right | 1.2 km || 
+|-id=124 bgcolor=#fefefe
+| 136124 ||  || — || August 23, 2003 || Socorro || LINEAR || NYS || align=right | 1.2 km || 
+|-id=125 bgcolor=#E9E9E9
+| 136125 ||  || — || August 25, 2003 || Palomar || NEAT || — || align=right | 2.7 km || 
+|-id=126 bgcolor=#fefefe
+| 136126 ||  || — || August 26, 2003 || Socorro || LINEAR || — || align=right | 1.6 km || 
+|-id=127 bgcolor=#d6d6d6
+| 136127 ||  || — || September 14, 2003 || Haleakala || NEAT || — || align=right | 6.0 km || 
+|-id=128 bgcolor=#fefefe
+| 136128 ||  || — || September 17, 2003 || Kitt Peak || Spacewatch || — || align=right | 1.2 km || 
+|-id=129 bgcolor=#fefefe
+| 136129 ||  || — || September 16, 2003 || Kitt Peak || Spacewatch || FLO || align=right data-sort-value="0.88" | 880 m || 
+|-id=130 bgcolor=#fefefe
+| 136130 ||  || — || September 17, 2003 || Socorro || LINEAR || — || align=right | 1.5 km || 
+|-id=131 bgcolor=#fefefe
+| 136131 ||  || — || September 19, 2003 || Socorro || LINEAR || — || align=right | 2.5 km || 
+|-id=132 bgcolor=#fefefe
+| 136132 ||  || — || September 19, 2003 || Palomar || NEAT || — || align=right | 1.8 km || 
+|-id=133 bgcolor=#fefefe
+| 136133 ||  || — || September 20, 2003 || Palomar || NEAT || — || align=right | 1.4 km || 
+|-id=134 bgcolor=#fefefe
+| 136134 ||  || — || September 16, 2003 || Kitt Peak || Spacewatch || — || align=right | 1.4 km || 
+|-id=135 bgcolor=#fefefe
+| 136135 ||  || — || September 20, 2003 || Palomar || NEAT || — || align=right | 1.2 km || 
+|-id=136 bgcolor=#fefefe
+| 136136 ||  || — || September 21, 2003 || Kitt Peak || Spacewatch || — || align=right | 1.5 km || 
+|-id=137 bgcolor=#E9E9E9
+| 136137 ||  || — || September 22, 2003 || Anderson Mesa || LONEOS || — || align=right | 4.3 km || 
+|-id=138 bgcolor=#fefefe
+| 136138 ||  || — || September 21, 2003 || Anderson Mesa || LONEOS || — || align=right | 1.5 km || 
+|-id=139 bgcolor=#fefefe
+| 136139 ||  || — || September 24, 2003 || Socorro || LINEAR || PHO || align=right | 2.6 km || 
+|-id=140 bgcolor=#fefefe
+| 136140 ||  || — || September 29, 2003 || Desert Eagle || W. K. Y. Yeung || FLO || align=right | 1.4 km || 
+|-id=141 bgcolor=#fefefe
+| 136141 ||  || — || September 26, 2003 || Socorro || LINEAR || — || align=right | 1.0 km || 
+|-id=142 bgcolor=#fefefe
+| 136142 ||  || — || September 27, 2003 || Socorro || LINEAR || FLO || align=right | 1.1 km || 
+|-id=143 bgcolor=#fefefe
+| 136143 ||  || — || September 26, 2003 || Socorro || LINEAR || FLO || align=right | 1.3 km || 
+|-id=144 bgcolor=#fefefe
+| 136144 ||  || — || September 28, 2003 || Socorro || LINEAR || FLO || align=right | 1.1 km || 
+|-id=145 bgcolor=#fefefe
+| 136145 ||  || — || September 29, 2003 || Socorro || LINEAR || FLO || align=right | 1.2 km || 
+|-id=146 bgcolor=#FA8072
+| 136146 ||  || — || September 28, 2003 || Socorro || LINEAR || — || align=right | 1.1 km || 
+|-id=147 bgcolor=#E9E9E9
+| 136147 ||  || — || September 29, 2003 || Anderson Mesa || LONEOS || — || align=right | 2.6 km || 
+|-id=148 bgcolor=#fefefe
+| 136148 ||  || — || September 30, 2003 || Socorro || LINEAR || — || align=right | 1.5 km || 
+|-id=149 bgcolor=#FA8072
+| 136149 ||  || — || September 29, 2003 || Goodricke-Pigott || J. W. Kessel || — || align=right | 1.2 km || 
+|-id=150 bgcolor=#fefefe
+| 136150 || 2003 TJ || — || October 2, 2003 || Socorro || LINEAR || — || align=right | 2.2 km || 
+|-id=151 bgcolor=#fefefe
+| 136151 ||  || — || October 1, 2003 || Goodricke-Pigott || J. W. Kessel || — || align=right | 1.7 km || 
+|-id=152 bgcolor=#fefefe
+| 136152 ||  || — || October 14, 2003 || Anderson Mesa || LONEOS || FLO || align=right | 1.1 km || 
+|-id=153 bgcolor=#fefefe
+| 136153 ||  || — || October 2, 2003 || Haleakala || NEAT || PHO || align=right | 1.9 km || 
+|-id=154 bgcolor=#fefefe
+| 136154 ||  || — || October 14, 2003 || Anderson Mesa || LONEOS || — || align=right | 1.3 km || 
+|-id=155 bgcolor=#fefefe
+| 136155 ||  || — || October 1, 2003 || Kitt Peak || Spacewatch || FLO || align=right data-sort-value="0.89" | 890 m || 
+|-id=156 bgcolor=#E9E9E9
+| 136156 ||  || — || October 1, 2003 || Anderson Mesa || LONEOS || — || align=right | 2.1 km || 
+|-id=157 bgcolor=#fefefe
+| 136157 ||  || — || October 2, 2003 || Kitt Peak || Spacewatch || FLO || align=right data-sort-value="0.99" | 990 m || 
+|-id=158 bgcolor=#fefefe
+| 136158 ||  || — || October 16, 2003 || Kitt Peak || Spacewatch || V || align=right | 1.1 km || 
+|-id=159 bgcolor=#fefefe
+| 136159 ||  || — || October 16, 2003 || Kitt Peak || Spacewatch || — || align=right | 1.1 km || 
+|-id=160 bgcolor=#fefefe
+| 136160 ||  || — || October 16, 2003 || Anderson Mesa || LONEOS || — || align=right | 1.3 km || 
+|-id=161 bgcolor=#fefefe
+| 136161 ||  || — || October 22, 2003 || Kitt Peak || Spacewatch || — || align=right | 1.2 km || 
+|-id=162 bgcolor=#fefefe
+| 136162 ||  || — || October 21, 2003 || Fountain Hills || Fountain Hills Obs. || V || align=right | 1.2 km || 
+|-id=163 bgcolor=#fefefe
+| 136163 ||  || — || October 16, 2003 || Anderson Mesa || LONEOS || — || align=right | 3.0 km || 
+|-id=164 bgcolor=#fefefe
+| 136164 ||  || — || October 24, 2003 || Socorro || LINEAR || — || align=right | 1.2 km || 
+|-id=165 bgcolor=#E9E9E9
+| 136165 ||  || — || October 16, 2003 || Anderson Mesa || LONEOS || — || align=right | 2.9 km || 
+|-id=166 bgcolor=#d6d6d6
+| 136166 ||  || — || October 19, 2003 || Kitt Peak || Spacewatch || HYG || align=right | 4.8 km || 
+|-id=167 bgcolor=#fefefe
+| 136167 ||  || — || October 18, 2003 || Kitt Peak || Spacewatch || — || align=right | 1.2 km || 
+|-id=168 bgcolor=#fefefe
+| 136168 ||  || — || October 19, 2003 || Anderson Mesa || LONEOS || V || align=right | 1.2 km || 
+|-id=169 bgcolor=#fefefe
+| 136169 ||  || — || October 19, 2003 || Kitt Peak || Spacewatch || — || align=right | 1.2 km || 
+|-id=170 bgcolor=#E9E9E9
+| 136170 ||  || — || October 17, 2003 || Anderson Mesa || LONEOS || WIT || align=right | 1.8 km || 
+|-id=171 bgcolor=#E9E9E9
+| 136171 ||  || — || October 18, 2003 || Kitt Peak || Spacewatch || AST || align=right | 2.5 km || 
+|-id=172 bgcolor=#E9E9E9
+| 136172 ||  || — || October 19, 2003 || Kitt Peak || Spacewatch || — || align=right | 3.2 km || 
+|-id=173 bgcolor=#fefefe
+| 136173 ||  || — || October 18, 2003 || Palomar || NEAT || — || align=right | 1.8 km || 
+|-id=174 bgcolor=#fefefe
+| 136174 ||  || — || October 19, 2003 || Palomar || NEAT || FLO || align=right | 1.3 km || 
+|-id=175 bgcolor=#fefefe
+| 136175 ||  || — || October 19, 2003 || Palomar || NEAT || V || align=right | 1.2 km || 
+|-id=176 bgcolor=#E9E9E9
+| 136176 ||  || — || October 18, 2003 || Anderson Mesa || LONEOS || — || align=right | 3.8 km || 
+|-id=177 bgcolor=#fefefe
+| 136177 ||  || — || October 18, 2003 || Anderson Mesa || LONEOS || FLO || align=right | 1.2 km || 
+|-id=178 bgcolor=#fefefe
+| 136178 ||  || — || October 18, 2003 || Anderson Mesa || LONEOS || V || align=right | 1.1 km || 
+|-id=179 bgcolor=#fefefe
+| 136179 ||  || — || October 18, 2003 || Anderson Mesa || LONEOS || V || align=right | 1.4 km || 
+|-id=180 bgcolor=#fefefe
+| 136180 ||  || — || October 21, 2003 || Palomar || NEAT || — || align=right | 1.2 km || 
+|-id=181 bgcolor=#fefefe
+| 136181 ||  || — || October 21, 2003 || Socorro || LINEAR || — || align=right | 1.00 km || 
+|-id=182 bgcolor=#fefefe
+| 136182 ||  || — || October 21, 2003 || Kitt Peak || Spacewatch || MAS || align=right data-sort-value="0.97" | 970 m || 
+|-id=183 bgcolor=#E9E9E9
+| 136183 ||  || — || October 22, 2003 || Socorro || LINEAR || — || align=right | 5.8 km || 
+|-id=184 bgcolor=#fefefe
+| 136184 ||  || — || October 23, 2003 || Anderson Mesa || LONEOS || — || align=right | 1.5 km || 
+|-id=185 bgcolor=#fefefe
+| 136185 ||  || — || October 23, 2003 || Anderson Mesa || LONEOS || — || align=right | 1.5 km || 
+|-id=186 bgcolor=#fefefe
+| 136186 ||  || — || October 23, 2003 || Kitt Peak || Spacewatch || V || align=right | 1.1 km || 
+|-id=187 bgcolor=#fefefe
+| 136187 ||  || — || October 21, 2003 || Socorro || LINEAR || — || align=right | 1.8 km || 
+|-id=188 bgcolor=#d6d6d6
+| 136188 ||  || — || October 24, 2003 || Kitt Peak || Spacewatch || KOR || align=right | 1.4 km || 
+|-id=189 bgcolor=#fefefe
+| 136189 ||  || — || October 23, 2003 || Kitt Peak || Spacewatch || — || align=right data-sort-value="0.93" | 930 m || 
+|-id=190 bgcolor=#fefefe
+| 136190 ||  || — || October 24, 2003 || Socorro || LINEAR || — || align=right | 1.4 km || 
+|-id=191 bgcolor=#fefefe
+| 136191 ||  || — || October 24, 2003 || Haleakala || NEAT || V || align=right | 1.1 km || 
+|-id=192 bgcolor=#fefefe
+| 136192 ||  || — || October 22, 2003 || Palomar || NEAT || PHO || align=right | 1.9 km || 
+|-id=193 bgcolor=#fefefe
+| 136193 ||  || — || October 25, 2003 || Socorro || LINEAR || FLO || align=right | 1.3 km || 
+|-id=194 bgcolor=#fefefe
+| 136194 ||  || — || October 28, 2003 || Socorro || LINEAR || — || align=right | 1.3 km || 
+|-id=195 bgcolor=#fefefe
+| 136195 ||  || — || October 30, 2003 || Socorro || LINEAR || — || align=right | 1.8 km || 
+|-id=196 bgcolor=#fefefe
+| 136196 ||  || — || October 26, 2003 || Socorro || LINEAR || V || align=right data-sort-value="0.99" | 990 m || 
+|-id=197 bgcolor=#fefefe
+| 136197 Johnandrews ||  ||  || October 22, 2003 || Kitt Peak || M. W. Buie || — || align=right | 1.0 km || 
+|-id=198 bgcolor=#E9E9E9
+| 136198 ||  || — || October 16, 2003 || Kitt Peak || Spacewatch || AST || align=right | 4.2 km || 
+|-id=199 bgcolor=#C2E0FF
+| 136199 Eris ||  ||  || October 21, 2003 || Palomar || M. E. Brown, C. Trujillo, D. L. Rabinowitz || SDOmooncritical || align=right | 2326 km || 
+|-id=200 bgcolor=#fefefe
+| 136200 ||  || — || November 15, 2003 || Kitt Peak || Spacewatch || — || align=right | 1.8 km || 
+|}
+
+== 136201–136300 ==
+
+
+|-bgcolor=#fefefe
+| 136201 ||  || — || November 15, 2003 || Palomar || NEAT || — || align=right | 1.0 km || 
+|-id=202 bgcolor=#fefefe
+| 136202 ||  || — || November 18, 2003 || Palomar || NEAT || FLO || align=right | 1.3 km || 
+|-id=203 bgcolor=#fefefe
+| 136203 ||  || — || November 18, 2003 || Palomar || NEAT || — || align=right | 1.5 km || 
+|-id=204 bgcolor=#C7FF8F
+| 136204 ||  || — || November 16, 2003 || Kitt Peak || Spacewatch || centaur || align=right | 118 km || 
+|-id=205 bgcolor=#fefefe
+| 136205 ||  || — || November 18, 2003 || Kitt Peak || Spacewatch || — || align=right | 1.8 km || 
+|-id=206 bgcolor=#fefefe
+| 136206 ||  || — || November 19, 2003 || Socorro || LINEAR || — || align=right | 1.7 km || 
+|-id=207 bgcolor=#fefefe
+| 136207 ||  || — || November 19, 2003 || Socorro || LINEAR || FLO || align=right | 1.2 km || 
+|-id=208 bgcolor=#fefefe
+| 136208 ||  || — || November 19, 2003 || Socorro || LINEAR || — || align=right | 1.6 km || 
+|-id=209 bgcolor=#fefefe
+| 136209 ||  || — || November 19, 2003 || Socorro || LINEAR || — || align=right | 1.8 km || 
+|-id=210 bgcolor=#fefefe
+| 136210 ||  || — || November 18, 2003 || Kitt Peak || Spacewatch || — || align=right | 1.4 km || 
+|-id=211 bgcolor=#fefefe
+| 136211 ||  || — || November 18, 2003 || Palomar || NEAT || V || align=right | 1.2 km || 
+|-id=212 bgcolor=#fefefe
+| 136212 ||  || — || November 19, 2003 || Kitt Peak || Spacewatch || — || align=right | 1.5 km || 
+|-id=213 bgcolor=#E9E9E9
+| 136213 ||  || — || November 19, 2003 || Socorro || LINEAR || — || align=right | 2.1 km || 
+|-id=214 bgcolor=#fefefe
+| 136214 ||  || — || November 19, 2003 || Socorro || LINEAR || FLO || align=right | 1.2 km || 
+|-id=215 bgcolor=#E9E9E9
+| 136215 ||  || — || November 19, 2003 || Kitt Peak || Spacewatch || — || align=right | 2.4 km || 
+|-id=216 bgcolor=#fefefe
+| 136216 ||  || — || November 20, 2003 || Socorro || LINEAR || — || align=right | 1.2 km || 
+|-id=217 bgcolor=#fefefe
+| 136217 ||  || — || November 20, 2003 || Socorro || LINEAR || FLO || align=right | 1.2 km || 
+|-id=218 bgcolor=#fefefe
+| 136218 ||  || — || November 20, 2003 || Socorro || LINEAR || — || align=right | 1.3 km || 
+|-id=219 bgcolor=#fefefe
+| 136219 ||  || — || November 19, 2003 || Palomar || NEAT || KLI || align=right | 3.7 km || 
+|-id=220 bgcolor=#fefefe
+| 136220 ||  || — || November 20, 2003 || Socorro || LINEAR || — || align=right | 1.4 km || 
+|-id=221 bgcolor=#fefefe
+| 136221 ||  || — || November 20, 2003 || Socorro || LINEAR || — || align=right | 1.3 km || 
+|-id=222 bgcolor=#fefefe
+| 136222 ||  || — || November 19, 2003 || Socorro || LINEAR || — || align=right | 1.5 km || 
+|-id=223 bgcolor=#fefefe
+| 136223 ||  || — || November 19, 2003 || Catalina || CSS || V || align=right | 1.1 km || 
+|-id=224 bgcolor=#fefefe
+| 136224 ||  || — || November 21, 2003 || Socorro || LINEAR || FLO || align=right | 1.4 km || 
+|-id=225 bgcolor=#fefefe
+| 136225 ||  || — || November 20, 2003 || Socorro || LINEAR || — || align=right | 1.7 km || 
+|-id=226 bgcolor=#fefefe
+| 136226 ||  || — || November 20, 2003 || Socorro || LINEAR || V || align=right | 1.0 km || 
+|-id=227 bgcolor=#fefefe
+| 136227 ||  || — || November 21, 2003 || Socorro || LINEAR || — || align=right | 1.3 km || 
+|-id=228 bgcolor=#fefefe
+| 136228 ||  || — || November 21, 2003 || Socorro || LINEAR || ERI || align=right | 3.1 km || 
+|-id=229 bgcolor=#fefefe
+| 136229 ||  || — || November 20, 2003 || Socorro || LINEAR || — || align=right | 2.1 km || 
+|-id=230 bgcolor=#fefefe
+| 136230 ||  || — || November 20, 2003 || Socorro || LINEAR || V || align=right | 1.2 km || 
+|-id=231 bgcolor=#fefefe
+| 136231 ||  || — || November 20, 2003 || Socorro || LINEAR || V || align=right | 1.2 km || 
+|-id=232 bgcolor=#fefefe
+| 136232 ||  || — || November 20, 2003 || Socorro || LINEAR || FLO || align=right | 1.3 km || 
+|-id=233 bgcolor=#fefefe
+| 136233 ||  || — || November 20, 2003 || Socorro || LINEAR || FLO || align=right | 1.2 km || 
+|-id=234 bgcolor=#fefefe
+| 136234 ||  || — || November 20, 2003 || Socorro || LINEAR || FLO || align=right | 1.5 km || 
+|-id=235 bgcolor=#fefefe
+| 136235 ||  || — || November 20, 2003 || Kitt Peak || Spacewatch || V || align=right | 1.3 km || 
+|-id=236 bgcolor=#fefefe
+| 136236 ||  || — || November 21, 2003 || Socorro || LINEAR || FLO || align=right | 1.3 km || 
+|-id=237 bgcolor=#E9E9E9
+| 136237 ||  || — || November 21, 2003 || Socorro || LINEAR || — || align=right | 3.8 km || 
+|-id=238 bgcolor=#fefefe
+| 136238 ||  || — || November 21, 2003 || Socorro || LINEAR || — || align=right | 1.9 km || 
+|-id=239 bgcolor=#fefefe
+| 136239 ||  || — || November 21, 2003 || Socorro || LINEAR || — || align=right | 1.4 km || 
+|-id=240 bgcolor=#fefefe
+| 136240 ||  || — || November 21, 2003 || Palomar || NEAT || — || align=right | 2.1 km || 
+|-id=241 bgcolor=#fefefe
+| 136241 ||  || — || November 20, 2003 || Socorro || LINEAR || — || align=right | 1.8 km || 
+|-id=242 bgcolor=#fefefe
+| 136242 || 2003 XZ || — || December 1, 2003 || Kitt Peak || Spacewatch || V || align=right data-sort-value="0.99" | 990 m || 
+|-id=243 bgcolor=#fefefe
+| 136243 ||  || — || December 1, 2003 || Socorro || LINEAR || V || align=right data-sort-value="0.89" | 890 m || 
+|-id=244 bgcolor=#fefefe
+| 136244 ||  || — || December 1, 2003 || Socorro || LINEAR || V || align=right data-sort-value="0.99" | 990 m || 
+|-id=245 bgcolor=#fefefe
+| 136245 ||  || — || December 1, 2003 || Socorro || LINEAR || — || align=right | 1.2 km || 
+|-id=246 bgcolor=#fefefe
+| 136246 ||  || — || December 3, 2003 || Anderson Mesa || LONEOS || — || align=right | 1.7 km || 
+|-id=247 bgcolor=#fefefe
+| 136247 ||  || — || December 3, 2003 || Socorro || LINEAR || NYS || align=right data-sort-value="0.97" | 970 m || 
+|-id=248 bgcolor=#E9E9E9
+| 136248 ||  || — || December 4, 2003 || Socorro || LINEAR || — || align=right | 2.4 km || 
+|-id=249 bgcolor=#fefefe
+| 136249 ||  || — || December 3, 2003 || Socorro || LINEAR || — || align=right | 1.4 km || 
+|-id=250 bgcolor=#fefefe
+| 136250 ||  || — || December 14, 2003 || Palomar || NEAT || — || align=right | 1.9 km || 
+|-id=251 bgcolor=#fefefe
+| 136251 ||  || — || December 14, 2003 || Palomar || NEAT || FLO || align=right | 1.0 km || 
+|-id=252 bgcolor=#fefefe
+| 136252 ||  || — || December 3, 2003 || Anderson Mesa || LONEOS || — || align=right | 1.9 km || 
+|-id=253 bgcolor=#fefefe
+| 136253 ||  || — || December 4, 2003 || Socorro || LINEAR || — || align=right | 2.3 km || 
+|-id=254 bgcolor=#E9E9E9
+| 136254 ||  || — || December 17, 2003 || Palomar || NEAT || — || align=right | 2.6 km || 
+|-id=255 bgcolor=#fefefe
+| 136255 ||  || — || December 16, 2003 || Catalina || CSS || — || align=right | 1.4 km || 
+|-id=256 bgcolor=#fefefe
+| 136256 ||  || — || December 18, 2003 || Socorro || LINEAR || — || align=right | 2.3 km || 
+|-id=257 bgcolor=#fefefe
+| 136257 ||  || — || December 18, 2003 || Kitt Peak || Spacewatch || MAS || align=right | 1.0 km || 
+|-id=258 bgcolor=#fefefe
+| 136258 ||  || — || December 19, 2003 || Socorro || LINEAR || — || align=right | 1.8 km || 
+|-id=259 bgcolor=#fefefe
+| 136259 ||  || — || December 17, 2003 || Bergisch Gladbach || W. Bickel || — || align=right | 1.5 km || 
+|-id=260 bgcolor=#fefefe
+| 136260 ||  || — || December 19, 2003 || Socorro || LINEAR || FLO || align=right | 1.5 km || 
+|-id=261 bgcolor=#fefefe
+| 136261 ||  || — || December 19, 2003 || Kitt Peak || Spacewatch || — || align=right | 1.3 km || 
+|-id=262 bgcolor=#fefefe
+| 136262 ||  || — || December 19, 2003 || Socorro || LINEAR || MAS || align=right | 1.6 km || 
+|-id=263 bgcolor=#E9E9E9
+| 136263 ||  || — || December 19, 2003 || Socorro || LINEAR || — || align=right | 4.4 km || 
+|-id=264 bgcolor=#E9E9E9
+| 136264 ||  || — || December 21, 2003 || Socorro || LINEAR || BRU || align=right | 5.5 km || 
+|-id=265 bgcolor=#E9E9E9
+| 136265 ||  || — || December 18, 2003 || Socorro || LINEAR || EUN || align=right | 2.5 km || 
+|-id=266 bgcolor=#E9E9E9
+| 136266 ||  || — || December 18, 2003 || Socorro || LINEAR || — || align=right | 5.7 km || 
+|-id=267 bgcolor=#d6d6d6
+| 136267 ||  || — || December 18, 2003 || Socorro || LINEAR || LIX || align=right | 10 km || 
+|-id=268 bgcolor=#E9E9E9
+| 136268 ||  || — || December 18, 2003 || Kitt Peak || Spacewatch || — || align=right | 1.9 km || 
+|-id=269 bgcolor=#fefefe
+| 136269 ||  || — || December 19, 2003 || Socorro || LINEAR || — || align=right | 3.0 km || 
+|-id=270 bgcolor=#E9E9E9
+| 136270 ||  || — || December 19, 2003 || Kitt Peak || Spacewatch || HEN || align=right | 2.3 km || 
+|-id=271 bgcolor=#fefefe
+| 136271 ||  || — || December 19, 2003 || Socorro || LINEAR || — || align=right | 1.7 km || 
+|-id=272 bgcolor=#d6d6d6
+| 136272 ||  || — || December 22, 2003 || Kitt Peak || Spacewatch || — || align=right | 4.7 km || 
+|-id=273 bgcolor=#fefefe
+| 136273 Csermely ||  ||  || December 25, 2003 || Piszkéstető || K. Sárneczky || — || align=right | 1.4 km || 
+|-id=274 bgcolor=#E9E9E9
+| 136274 ||  || — || December 23, 2003 || Socorro || LINEAR || — || align=right | 3.0 km || 
+|-id=275 bgcolor=#fefefe
+| 136275 ||  || — || December 23, 2003 || Socorro || LINEAR || — || align=right | 1.7 km || 
+|-id=276 bgcolor=#fefefe
+| 136276 ||  || — || December 28, 2003 || Socorro || LINEAR || — || align=right | 1.8 km || 
+|-id=277 bgcolor=#fefefe
+| 136277 ||  || — || December 27, 2003 || Socorro || LINEAR || — || align=right | 1.5 km || 
+|-id=278 bgcolor=#fefefe
+| 136278 ||  || — || December 27, 2003 || Socorro || LINEAR || PHO || align=right | 2.7 km || 
+|-id=279 bgcolor=#fefefe
+| 136279 ||  || — || December 27, 2003 || Socorro || LINEAR || — || align=right | 1.5 km || 
+|-id=280 bgcolor=#fefefe
+| 136280 ||  || — || December 27, 2003 || Kitt Peak || Spacewatch || V || align=right | 1.1 km || 
+|-id=281 bgcolor=#E9E9E9
+| 136281 ||  || — || December 27, 2003 || Socorro || LINEAR || MAR || align=right | 2.0 km || 
+|-id=282 bgcolor=#fefefe
+| 136282 ||  || — || December 27, 2003 || Socorro || LINEAR || — || align=right | 1.9 km || 
+|-id=283 bgcolor=#d6d6d6
+| 136283 ||  || — || December 27, 2003 || Socorro || LINEAR || — || align=right | 7.1 km || 
+|-id=284 bgcolor=#fefefe
+| 136284 ||  || — || December 28, 2003 || Socorro || LINEAR || — || align=right | 4.2 km || 
+|-id=285 bgcolor=#d6d6d6
+| 136285 ||  || — || December 28, 2003 || Kitt Peak || Spacewatch || — || align=right | 3.0 km || 
+|-id=286 bgcolor=#E9E9E9
+| 136286 ||  || — || December 28, 2003 || Socorro || LINEAR || — || align=right | 4.4 km || 
+|-id=287 bgcolor=#E9E9E9
+| 136287 ||  || — || December 29, 2003 || Socorro || LINEAR || AER || align=right | 2.1 km || 
+|-id=288 bgcolor=#E9E9E9
+| 136288 ||  || — || January 13, 2004 || Anderson Mesa || LONEOS || — || align=right | 4.0 km || 
+|-id=289 bgcolor=#E9E9E9
+| 136289 ||  || — || January 3, 2004 || Socorro || LINEAR || HNS || align=right | 3.1 km || 
+|-id=290 bgcolor=#d6d6d6
+| 136290 ||  || — || January 13, 2004 || Palomar || NEAT || EOS || align=right | 2.9 km || 
+|-id=291 bgcolor=#d6d6d6
+| 136291 ||  || — || January 15, 2004 || Kitt Peak || Spacewatch || THM || align=right | 4.7 km || 
+|-id=292 bgcolor=#E9E9E9
+| 136292 ||  || — || January 15, 2004 || Kitt Peak || Spacewatch || HEN || align=right | 2.0 km || 
+|-id=293 bgcolor=#d6d6d6
+| 136293 ||  || — || January 13, 2004 || Kitt Peak || Spacewatch || EUP || align=right | 5.8 km || 
+|-id=294 bgcolor=#fefefe
+| 136294 ||  || — || January 13, 2004 || Palomar || NEAT || — || align=right | 1.5 km || 
+|-id=295 bgcolor=#fefefe
+| 136295 ||  || — || January 16, 2004 || Palomar || NEAT || — || align=right | 1.4 km || 
+|-id=296 bgcolor=#fefefe
+| 136296 ||  || — || January 16, 2004 || Palomar || NEAT || NYS || align=right | 1.1 km || 
+|-id=297 bgcolor=#d6d6d6
+| 136297 ||  || — || January 16, 2004 || Palomar || NEAT || EOS || align=right | 3.9 km || 
+|-id=298 bgcolor=#E9E9E9
+| 136298 ||  || — || January 16, 2004 || Palomar || NEAT || — || align=right | 1.8 km || 
+|-id=299 bgcolor=#E9E9E9
+| 136299 ||  || — || January 17, 2004 || Palomar || NEAT || MAR || align=right | 2.1 km || 
+|-id=300 bgcolor=#E9E9E9
+| 136300 ||  || — || January 16, 2004 || Palomar || NEAT || HOF || align=right | 5.5 km || 
+|}
+
+== 136301–136400 ==
+
+
+|-bgcolor=#E9E9E9
+| 136301 ||  || — || January 16, 2004 || Palomar || NEAT || — || align=right | 2.4 km || 
+|-id=302 bgcolor=#E9E9E9
+| 136302 ||  || — || January 17, 2004 || Palomar || NEAT || — || align=right | 2.1 km || 
+|-id=303 bgcolor=#fefefe
+| 136303 ||  || — || January 17, 2004 || Palomar || NEAT || MAS || align=right | 1.2 km || 
+|-id=304 bgcolor=#d6d6d6
+| 136304 ||  || — || January 19, 2004 || Anderson Mesa || LONEOS || TEL || align=right | 2.1 km || 
+|-id=305 bgcolor=#E9E9E9
+| 136305 ||  || — || January 19, 2004 || Kitt Peak || Spacewatch || HOF || align=right | 5.6 km || 
+|-id=306 bgcolor=#E9E9E9
+| 136306 ||  || — || January 19, 2004 || Kitt Peak || Spacewatch || — || align=right | 3.0 km || 
+|-id=307 bgcolor=#fefefe
+| 136307 ||  || — || January 22, 2004 || Socorro || LINEAR || NYS || align=right | 1.2 km || 
+|-id=308 bgcolor=#d6d6d6
+| 136308 ||  || — || January 22, 2004 || Socorro || LINEAR || — || align=right | 7.2 km || 
+|-id=309 bgcolor=#E9E9E9
+| 136309 ||  || — || January 22, 2004 || Socorro || LINEAR || — || align=right | 3.4 km || 
+|-id=310 bgcolor=#E9E9E9
+| 136310 ||  || — || January 21, 2004 || Socorro || LINEAR || — || align=right | 4.7 km || 
+|-id=311 bgcolor=#E9E9E9
+| 136311 ||  || — || January 21, 2004 || Socorro || LINEAR || — || align=right | 2.4 km || 
+|-id=312 bgcolor=#E9E9E9
+| 136312 ||  || — || January 21, 2004 || Socorro || LINEAR || — || align=right | 3.1 km || 
+|-id=313 bgcolor=#d6d6d6
+| 136313 ||  || — || January 21, 2004 || Socorro || LINEAR || — || align=right | 6.2 km || 
+|-id=314 bgcolor=#E9E9E9
+| 136314 ||  || — || January 21, 2004 || Socorro || LINEAR || MIS || align=right | 4.2 km || 
+|-id=315 bgcolor=#fefefe
+| 136315 ||  || — || January 23, 2004 || Anderson Mesa || LONEOS || — || align=right | 1.6 km || 
+|-id=316 bgcolor=#E9E9E9
+| 136316 ||  || — || January 23, 2004 || Anderson Mesa || LONEOS || — || align=right | 4.6 km || 
+|-id=317 bgcolor=#fefefe
+| 136317 ||  || — || January 23, 2004 || Socorro || LINEAR || — || align=right | 1.4 km || 
+|-id=318 bgcolor=#E9E9E9
+| 136318 ||  || — || January 21, 2004 || Socorro || LINEAR || — || align=right | 2.6 km || 
+|-id=319 bgcolor=#E9E9E9
+| 136319 ||  || — || January 21, 2004 || Socorro || LINEAR || HEN || align=right | 1.5 km || 
+|-id=320 bgcolor=#E9E9E9
+| 136320 ||  || — || January 22, 2004 || Socorro || LINEAR || — || align=right | 2.4 km || 
+|-id=321 bgcolor=#E9E9E9
+| 136321 ||  || — || January 24, 2004 || Socorro || LINEAR || — || align=right | 3.0 km || 
+|-id=322 bgcolor=#E9E9E9
+| 136322 ||  || — || January 24, 2004 || Socorro || LINEAR || — || align=right | 3.5 km || 
+|-id=323 bgcolor=#E9E9E9
+| 136323 ||  || — || January 26, 2004 || Anderson Mesa || LONEOS || — || align=right | 2.5 km || 
+|-id=324 bgcolor=#fefefe
+| 136324 ||  || — || January 22, 2004 || Socorro || LINEAR || — || align=right | 1.7 km || 
+|-id=325 bgcolor=#E9E9E9
+| 136325 ||  || — || January 23, 2004 || Socorro || LINEAR || EUN || align=right | 1.7 km || 
+|-id=326 bgcolor=#E9E9E9
+| 136326 ||  || — || January 23, 2004 || Socorro || LINEAR || — || align=right | 2.7 km || 
+|-id=327 bgcolor=#d6d6d6
+| 136327 ||  || — || January 22, 2004 || Palomar || NEAT || EOS || align=right | 5.4 km || 
+|-id=328 bgcolor=#E9E9E9
+| 136328 ||  || — || January 29, 2004 || Socorro || LINEAR || — || align=right | 4.2 km || 
+|-id=329 bgcolor=#d6d6d6
+| 136329 ||  || — || January 24, 2004 || Socorro || LINEAR || — || align=right | 5.9 km || 
+|-id=330 bgcolor=#fefefe
+| 136330 ||  || — || January 28, 2004 || Catalina || CSS || — || align=right | 1.2 km || 
+|-id=331 bgcolor=#d6d6d6
+| 136331 ||  || — || January 28, 2004 || Catalina || CSS || — || align=right | 5.4 km || 
+|-id=332 bgcolor=#E9E9E9
+| 136332 ||  || — || January 29, 2004 || Catalina || CSS || HNS || align=right | 2.6 km || 
+|-id=333 bgcolor=#d6d6d6
+| 136333 ||  || — || January 16, 2004 || Kitt Peak || Spacewatch || — || align=right | 4.5 km || 
+|-id=334 bgcolor=#E9E9E9
+| 136334 ||  || — || January 17, 2004 || Palomar || NEAT || ADE || align=right | 4.9 km || 
+|-id=335 bgcolor=#d6d6d6
+| 136335 ||  || — || February 10, 2004 || Palomar || NEAT || THM || align=right | 4.8 km || 
+|-id=336 bgcolor=#d6d6d6
+| 136336 ||  || — || February 11, 2004 || Catalina || CSS || — || align=right | 3.7 km || 
+|-id=337 bgcolor=#E9E9E9
+| 136337 ||  || — || February 11, 2004 || Palomar || NEAT || — || align=right | 3.5 km || 
+|-id=338 bgcolor=#d6d6d6
+| 136338 ||  || — || February 11, 2004 || Palomar || NEAT || — || align=right | 3.9 km || 
+|-id=339 bgcolor=#d6d6d6
+| 136339 ||  || — || February 11, 2004 || Palomar || NEAT || — || align=right | 3.7 km || 
+|-id=340 bgcolor=#E9E9E9
+| 136340 ||  || — || February 10, 2004 || Palomar || NEAT || — || align=right | 2.6 km || 
+|-id=341 bgcolor=#E9E9E9
+| 136341 ||  || — || February 12, 2004 || Kitt Peak || Spacewatch || — || align=right | 3.8 km || 
+|-id=342 bgcolor=#d6d6d6
+| 136342 ||  || — || February 11, 2004 || Catalina || CSS || ALA || align=right | 6.0 km || 
+|-id=343 bgcolor=#d6d6d6
+| 136343 ||  || — || February 12, 2004 || Kitt Peak || Spacewatch || KOR || align=right | 2.3 km || 
+|-id=344 bgcolor=#fefefe
+| 136344 ||  || — || February 12, 2004 || Kitt Peak || Spacewatch || FLO || align=right | 1.2 km || 
+|-id=345 bgcolor=#E9E9E9
+| 136345 ||  || — || February 11, 2004 || Catalina || CSS || — || align=right | 3.8 km || 
+|-id=346 bgcolor=#E9E9E9
+| 136346 ||  || — || February 13, 2004 || Kitt Peak || Spacewatch || PAD || align=right | 3.5 km || 
+|-id=347 bgcolor=#d6d6d6
+| 136347 ||  || — || February 11, 2004 || Catalina || CSS || — || align=right | 5.4 km || 
+|-id=348 bgcolor=#E9E9E9
+| 136348 ||  || — || February 12, 2004 || Kitt Peak || Spacewatch || — || align=right | 2.5 km || 
+|-id=349 bgcolor=#d6d6d6
+| 136349 ||  || — || February 12, 2004 || Kitt Peak || Spacewatch || — || align=right | 4.8 km || 
+|-id=350 bgcolor=#d6d6d6
+| 136350 ||  || — || February 13, 2004 || Palomar || NEAT || — || align=right | 4.4 km || 
+|-id=351 bgcolor=#fefefe
+| 136351 ||  || — || February 13, 2004 || Palomar || NEAT || V || align=right | 1.3 km || 
+|-id=352 bgcolor=#d6d6d6
+| 136352 ||  || — || February 11, 2004 || Catalina || CSS || THM || align=right | 4.8 km || 
+|-id=353 bgcolor=#fefefe
+| 136353 ||  || — || February 11, 2004 || Anderson Mesa || LONEOS || NYS || align=right | 1.5 km || 
+|-id=354 bgcolor=#E9E9E9
+| 136354 ||  || — || February 11, 2004 || Palomar || NEAT || — || align=right | 3.9 km || 
+|-id=355 bgcolor=#E9E9E9
+| 136355 ||  || — || February 12, 2004 || Kitt Peak || Spacewatch || HOF || align=right | 4.8 km || 
+|-id=356 bgcolor=#fefefe
+| 136356 ||  || — || February 14, 2004 || Catalina || CSS || ERI || align=right | 2.6 km || 
+|-id=357 bgcolor=#E9E9E9
+| 136357 ||  || — || February 12, 2004 || Kitt Peak || Spacewatch || — || align=right | 2.2 km || 
+|-id=358 bgcolor=#E9E9E9
+| 136358 ||  || — || February 16, 2004 || Kitt Peak || Spacewatch || — || align=right | 3.7 km || 
+|-id=359 bgcolor=#E9E9E9
+| 136359 ||  || — || February 16, 2004 || Kitt Peak || Spacewatch || — || align=right | 3.1 km || 
+|-id=360 bgcolor=#fefefe
+| 136360 ||  || — || February 17, 2004 || Socorro || LINEAR || — || align=right | 1.6 km || 
+|-id=361 bgcolor=#d6d6d6
+| 136361 ||  || — || February 18, 2004 || Catalina || CSS || TIR || align=right | 3.1 km || 
+|-id=362 bgcolor=#E9E9E9
+| 136362 ||  || — || February 16, 2004 || Kitt Peak || Spacewatch || HOF || align=right | 4.3 km || 
+|-id=363 bgcolor=#E9E9E9
+| 136363 ||  || — || February 17, 2004 || Socorro || LINEAR || — || align=right | 3.7 km || 
+|-id=364 bgcolor=#d6d6d6
+| 136364 ||  || — || February 17, 2004 || Palomar || NEAT || NAE || align=right | 4.4 km || 
+|-id=365 bgcolor=#E9E9E9
+| 136365 ||  || — || March 9, 2004 || Palomar || NEAT || — || align=right | 5.4 km || 
+|-id=366 bgcolor=#d6d6d6
+| 136366 ||  || — || March 11, 2004 || Palomar || NEAT || — || align=right | 5.5 km || 
+|-id=367 bgcolor=#d6d6d6
+| 136367 Gierlinger ||  ||  || March 10, 2004 || Altschwendt || W. Ries || 7:4 || align=right | 7.9 km || 
+|-id=368 bgcolor=#d6d6d6
+| 136368 ||  || — || March 11, 2004 || Palomar || NEAT || BRA || align=right | 3.6 km || 
+|-id=369 bgcolor=#fefefe
+| 136369 ||  || — || March 15, 2004 || Goodricke-Pigott || Goodricke-Pigott Obs. || FLO || align=right | 1.4 km || 
+|-id=370 bgcolor=#fefefe
+| 136370 ||  || — || March 14, 2004 || Socorro || LINEAR || V || align=right | 1.1 km || 
+|-id=371 bgcolor=#d6d6d6
+| 136371 ||  || — || March 15, 2004 || Catalina || CSS || — || align=right | 7.0 km || 
+|-id=372 bgcolor=#d6d6d6
+| 136372 ||  || — || March 12, 2004 || Palomar || NEAT || HYG || align=right | 3.8 km || 
+|-id=373 bgcolor=#d6d6d6
+| 136373 ||  || — || March 14, 2004 || Palomar || NEAT || ALA || align=right | 8.8 km || 
+|-id=374 bgcolor=#d6d6d6
+| 136374 ||  || — || March 15, 2004 || Palomar || NEAT || — || align=right | 5.3 km || 
+|-id=375 bgcolor=#d6d6d6
+| 136375 ||  || — || March 14, 2004 || Socorro || LINEAR || — || align=right | 3.9 km || 
+|-id=376 bgcolor=#E9E9E9
+| 136376 ||  || — || March 14, 2004 || Socorro || LINEAR || EUN || align=right | 3.2 km || 
+|-id=377 bgcolor=#E9E9E9
+| 136377 ||  || — || March 17, 2004 || Kitt Peak || Spacewatch || HOF || align=right | 4.2 km || 
+|-id=378 bgcolor=#fefefe
+| 136378 ||  || — || March 17, 2004 || Kitt Peak || Spacewatch || NYS || align=right | 1.2 km || 
+|-id=379 bgcolor=#d6d6d6
+| 136379 ||  || — || March 16, 2004 || Socorro || LINEAR || — || align=right | 5.8 km || 
+|-id=380 bgcolor=#d6d6d6
+| 136380 ||  || — || March 16, 2004 || Kitt Peak || Spacewatch || — || align=right | 6.0 km || 
+|-id=381 bgcolor=#d6d6d6
+| 136381 ||  || — || March 16, 2004 || Socorro || LINEAR || HYG || align=right | 3.2 km || 
+|-id=382 bgcolor=#E9E9E9
+| 136382 ||  || — || March 18, 2004 || Socorro || LINEAR || GEF || align=right | 2.2 km || 
+|-id=383 bgcolor=#d6d6d6
+| 136383 ||  || — || March 19, 2004 || Socorro || LINEAR || — || align=right | 3.7 km || 
+|-id=384 bgcolor=#d6d6d6
+| 136384 ||  || — || March 23, 2004 || Socorro || LINEAR || — || align=right | 5.8 km || 
+|-id=385 bgcolor=#d6d6d6
+| 136385 ||  || — || March 31, 2004 || Socorro || LINEAR || ALA || align=right | 7.3 km || 
+|-id=386 bgcolor=#fefefe
+| 136386 ||  || — || March 17, 2004 || Kitt Peak || Spacewatch || FLO || align=right | 1.1 km || 
+|-id=387 bgcolor=#d6d6d6
+| 136387 ||  || — || April 13, 2004 || Palomar || NEAT || TIR || align=right | 5.1 km || 
+|-id=388 bgcolor=#E9E9E9
+| 136388 ||  || — || April 14, 2004 || Anderson Mesa || LONEOS || — || align=right | 3.3 km || 
+|-id=389 bgcolor=#E9E9E9
+| 136389 ||  || — || April 19, 2004 || Kitt Peak || Spacewatch || — || align=right | 5.1 km || 
+|-id=390 bgcolor=#d6d6d6
+| 136390 ||  || — || April 19, 2004 || Socorro || LINEAR || — || align=right | 5.7 km || 
+|-id=391 bgcolor=#E9E9E9
+| 136391 ||  || — || May 15, 2004 || Socorro || LINEAR || — || align=right | 1.7 km || 
+|-id=392 bgcolor=#E9E9E9
+| 136392 ||  || — || August 11, 2004 || Socorro || LINEAR || — || align=right | 3.0 km || 
+|-id=393 bgcolor=#fefefe
+| 136393 ||  || — || September 17, 2004 || Socorro || LINEAR || NYS || align=right | 1.2 km || 
+|-id=394 bgcolor=#E9E9E9
+| 136394 ||  || — || October 7, 2004 || Socorro || LINEAR || — || align=right | 2.1 km || 
+|-id=395 bgcolor=#fefefe
+| 136395 ||  || — || October 8, 2004 || Kitt Peak || Spacewatch || NYS || align=right | 1.1 km || 
+|-id=396 bgcolor=#fefefe
+| 136396 ||  || — || December 10, 2004 || Kitt Peak || Spacewatch || — || align=right | 1.6 km || 
+|-id=397 bgcolor=#E9E9E9
+| 136397 ||  || — || December 15, 2004 || Socorro || LINEAR || — || align=right | 4.8 km || 
+|-id=398 bgcolor=#E9E9E9
+| 136398 ||  || — || December 14, 2004 || Kitt Peak || Spacewatch || HEN || align=right | 1.9 km || 
+|-id=399 bgcolor=#fefefe
+| 136399 ||  || — || December 11, 2004 || Catalina || CSS || H || align=right | 1.0 km || 
+|-id=400 bgcolor=#d6d6d6
+| 136400 ||  || — || December 14, 2004 || Catalina || CSS || — || align=right | 7.1 km || 
+|}
+
+== 136401–136500 ==
+
+
+|-bgcolor=#d6d6d6
+| 136401 ||  || — || December 18, 2004 || Mount Lemmon || Mount Lemmon Survey || — || align=right | 4.6 km || 
+|-id=402 bgcolor=#fefefe
+| 136402 ||  || — || December 18, 2004 || Mount Lemmon || Mount Lemmon Survey || NYS || align=right data-sort-value="0.96" | 960 m || 
+|-id=403 bgcolor=#fefefe
+| 136403 ||  || — || December 18, 2004 || Mount Lemmon || Mount Lemmon Survey || — || align=right | 1.5 km || 
+|-id=404 bgcolor=#fefefe
+| 136404 ||  || — || January 6, 2005 || Catalina || CSS || — || align=right | 1.9 km || 
+|-id=405 bgcolor=#d6d6d6
+| 136405 ||  || — || January 6, 2005 || Socorro || LINEAR || — || align=right | 3.4 km || 
+|-id=406 bgcolor=#fefefe
+| 136406 ||  || — || January 11, 2005 || Socorro || LINEAR || — || align=right | 1.9 km || 
+|-id=407 bgcolor=#fefefe
+| 136407 ||  || — || January 13, 2005 || Kitt Peak || Spacewatch || NYS || align=right | 1.2 km || 
+|-id=408 bgcolor=#fefefe
+| 136408 ||  || — || January 13, 2005 || Kitt Peak || Spacewatch || — || align=right | 1.4 km || 
+|-id=409 bgcolor=#fefefe
+| 136409 ||  || — || January 13, 2005 || Kitt Peak || Spacewatch || — || align=right | 1.6 km || 
+|-id=410 bgcolor=#d6d6d6
+| 136410 ||  || — || January 15, 2005 || Catalina || CSS || — || align=right | 3.7 km || 
+|-id=411 bgcolor=#fefefe
+| 136411 ||  || — || January 15, 2005 || Kitt Peak || Spacewatch || FLO || align=right | 1.2 km || 
+|-id=412 bgcolor=#E9E9E9
+| 136412 ||  || — || January 18, 2005 || Kitt Peak || Spacewatch || — || align=right | 1.8 km || 
+|-id=413 bgcolor=#fefefe
+| 136413 ||  || — || February 1, 2005 || Kitt Peak || Spacewatch || FLO || align=right | 1.2 km || 
+|-id=414 bgcolor=#E9E9E9
+| 136414 ||  || — || February 3, 2005 || Socorro || LINEAR || — || align=right | 3.5 km || 
+|-id=415 bgcolor=#fefefe
+| 136415 ||  || — || February 2, 2005 || Socorro || LINEAR || — || align=right | 1.6 km || 
+|-id=416 bgcolor=#E9E9E9
+| 136416 ||  || — || February 2, 2005 || Kitt Peak || Spacewatch || — || align=right | 2.4 km || 
+|-id=417 bgcolor=#fefefe
+| 136417 ||  || — || February 2, 2005 || Kitt Peak || Spacewatch || — || align=right | 2.0 km || 
+|-id=418 bgcolor=#fefefe
+| 136418 ||  || — || February 2, 2005 || Kitt Peak || Spacewatch || FLO || align=right | 1.0 km || 
+|-id=419 bgcolor=#fefefe
+| 136419 ||  || — || February 2, 2005 || Kitt Peak || Spacewatch || — || align=right | 1.5 km || 
+|-id=420 bgcolor=#fefefe
+| 136420 ||  || — || February 2, 2005 || Catalina || CSS || — || align=right | 1.3 km || 
+|-id=421 bgcolor=#fefefe
+| 136421 ||  || — || February 2, 2005 || Catalina || CSS || NYS || align=right | 1.2 km || 
+|-id=422 bgcolor=#fefefe
+| 136422 ||  || — || February 2, 2005 || Catalina || CSS || FLO || align=right data-sort-value="0.98" | 980 m || 
+|-id=423 bgcolor=#fefefe
+| 136423 ||  || — || February 2, 2005 || Socorro || LINEAR || — || align=right | 1.2 km || 
+|-id=424 bgcolor=#fefefe
+| 136424 ||  || — || February 2, 2005 || Catalina || CSS || — || align=right | 2.8 km || 
+|-id=425 bgcolor=#fefefe
+| 136425 ||  || — || February 2, 2005 || Kitt Peak || Spacewatch || — || align=right | 1.4 km || 
+|-id=426 bgcolor=#fefefe
+| 136426 ||  || — || February 4, 2005 || Anderson Mesa || LONEOS || V || align=right | 1.2 km || 
+|-id=427 bgcolor=#fefefe
+| 136427 ||  || — || March 1, 2005 || Kitt Peak || Spacewatch || MAS || align=right | 1.1 km || 
+|-id=428 bgcolor=#fefefe
+| 136428 ||  || — || March 2, 2005 || Catalina || CSS || NYS || align=right | 1.2 km || 
+|-id=429 bgcolor=#fefefe
+| 136429 ||  || — || March 3, 2005 || Kitt Peak || Spacewatch || LCI || align=right | 2.2 km || 
+|-id=430 bgcolor=#fefefe
+| 136430 ||  || — || March 3, 2005 || Kitt Peak || Spacewatch || — || align=right | 1.1 km || 
+|-id=431 bgcolor=#fefefe
+| 136431 ||  || — || March 3, 2005 || Kitt Peak || Spacewatch || ERI || align=right | 2.0 km || 
+|-id=432 bgcolor=#fefefe
+| 136432 Allenlunsford ||  ||  || March 3, 2005 || Catalina || CSS || NYS || align=right | 1.4 km || 
+|-id=433 bgcolor=#E9E9E9
+| 136433 ||  || — || March 3, 2005 || Catalina || CSS || — || align=right | 1.6 km || 
+|-id=434 bgcolor=#fefefe
+| 136434 ||  || — || March 3, 2005 || Catalina || CSS || — || align=right | 3.4 km || 
+|-id=435 bgcolor=#fefefe
+| 136435 ||  || — || March 3, 2005 || Catalina || CSS || — || align=right | 2.3 km || 
+|-id=436 bgcolor=#E9E9E9
+| 136436 ||  || — || March 1, 2005 || Catalina || CSS || — || align=right | 2.3 km || 
+|-id=437 bgcolor=#E9E9E9
+| 136437 ||  || — || March 3, 2005 || Kitt Peak || Spacewatch || — || align=right | 1.7 km || 
+|-id=438 bgcolor=#d6d6d6
+| 136438 ||  || — || March 3, 2005 || Catalina || CSS || — || align=right | 6.2 km || 
+|-id=439 bgcolor=#fefefe
+| 136439 ||  || — || March 4, 2005 || Kitt Peak || Spacewatch || V || align=right | 1.1 km || 
+|-id=440 bgcolor=#fefefe
+| 136440 ||  || — || March 4, 2005 || Kitt Peak || Spacewatch || NYS || align=right | 1.3 km || 
+|-id=441 bgcolor=#fefefe
+| 136441 ||  || — || March 4, 2005 || Kitt Peak || Spacewatch || MAS || align=right | 1.1 km || 
+|-id=442 bgcolor=#fefefe
+| 136442 ||  || — || March 4, 2005 || Mount Lemmon || Mount Lemmon Survey || — || align=right | 1.2 km || 
+|-id=443 bgcolor=#E9E9E9
+| 136443 ||  || — || March 4, 2005 || Socorro || LINEAR || — || align=right | 4.6 km || 
+|-id=444 bgcolor=#d6d6d6
+| 136444 ||  || — || March 4, 2005 || Catalina || CSS || — || align=right | 6.2 km || 
+|-id=445 bgcolor=#E9E9E9
+| 136445 ||  || — || March 4, 2005 || Catalina || CSS || — || align=right | 2.3 km || 
+|-id=446 bgcolor=#E9E9E9
+| 136446 ||  || — || March 4, 2005 || Socorro || LINEAR || — || align=right | 4.5 km || 
+|-id=447 bgcolor=#fefefe
+| 136447 ||  || — || March 8, 2005 || Anderson Mesa || LONEOS || — || align=right | 1.2 km || 
+|-id=448 bgcolor=#d6d6d6
+| 136448 ||  || — || March 8, 2005 || Catalina || CSS || LIX || align=right | 6.6 km || 
+|-id=449 bgcolor=#E9E9E9
+| 136449 ||  || — || March 9, 2005 || Socorro || LINEAR || — || align=right | 4.9 km || 
+|-id=450 bgcolor=#fefefe
+| 136450 ||  || — || March 10, 2005 || Catalina || CSS || — || align=right | 1.7 km || 
+|-id=451 bgcolor=#fefefe
+| 136451 ||  || — || March 8, 2005 || Mount Lemmon || Mount Lemmon Survey || — || align=right | 1.3 km || 
+|-id=452 bgcolor=#fefefe
+| 136452 ||  || — || March 11, 2005 || Mount Lemmon || Mount Lemmon Survey || — || align=right | 1.2 km || 
+|-id=453 bgcolor=#fefefe
+| 136453 ||  || — || March 8, 2005 || Anderson Mesa || LONEOS || FLO || align=right | 1.3 km || 
+|-id=454 bgcolor=#d6d6d6
+| 136454 ||  || — || March 9, 2005 || Catalina || CSS || — || align=right | 8.0 km || 
+|-id=455 bgcolor=#d6d6d6
+| 136455 ||  || — || March 9, 2005 || Mount Lemmon || Mount Lemmon Survey || — || align=right | 8.3 km || 
+|-id=456 bgcolor=#E9E9E9
+| 136456 ||  || — || March 10, 2005 || Mount Lemmon || Mount Lemmon Survey || — || align=right | 2.2 km || 
+|-id=457 bgcolor=#d6d6d6
+| 136457 ||  || — || March 8, 2005 || Catalina || CSS || — || align=right | 7.0 km || 
+|-id=458 bgcolor=#E9E9E9
+| 136458 ||  || — || March 13, 2005 || Catalina || CSS || — || align=right | 1.8 km || 
+|-id=459 bgcolor=#E9E9E9
+| 136459 ||  || — || March 10, 2005 || Catalina || CSS || — || align=right | 4.5 km || 
+|-id=460 bgcolor=#E9E9E9
+| 136460 ||  || — || March 10, 2005 || Anderson Mesa || LONEOS || ADE || align=right | 4.6 km || 
+|-id=461 bgcolor=#fefefe
+| 136461 ||  || — || March 11, 2005 || Kitt Peak || Spacewatch || NYS || align=right | 1.6 km || 
+|-id=462 bgcolor=#fefefe
+| 136462 ||  || — || March 9, 2005 || Socorro || LINEAR || — || align=right | 1.5 km || 
+|-id=463 bgcolor=#fefefe
+| 136463 ||  || — || March 10, 2005 || Mount Lemmon || Mount Lemmon Survey || MAS || align=right | 1.5 km || 
+|-id=464 bgcolor=#fefefe
+| 136464 ||  || — || March 11, 2005 || Socorro || LINEAR || V || align=right | 1.2 km || 
+|-id=465 bgcolor=#fefefe
+| 136465 ||  || — || March 13, 2005 || Catalina || CSS || — || align=right | 1.7 km || 
+|-id=466 bgcolor=#fefefe
+| 136466 ||  || — || March 13, 2005 || Catalina || CSS || — || align=right | 1.6 km || 
+|-id=467 bgcolor=#E9E9E9
+| 136467 ||  || — || March 8, 2005 || Socorro || LINEAR || — || align=right | 2.3 km || 
+|-id=468 bgcolor=#fefefe
+| 136468 ||  || — || March 11, 2005 || Kitt Peak || Spacewatch || — || align=right | 1.9 km || 
+|-id=469 bgcolor=#E9E9E9
+| 136469 ||  || — || March 17, 2005 || Goodricke-Pigott || R. A. Tucker || AGN || align=right | 2.8 km || 
+|-id=470 bgcolor=#E9E9E9
+| 136470 ||  || — || March 30, 2005 || Catalina || CSS || EUN || align=right | 2.4 km || 
+|-id=471 bgcolor=#fefefe
+| 136471 ||  || — || March 30, 2005 || Catalina || CSS || — || align=right | 1.7 km || 
+|-id=472 bgcolor=#C2E0FF
+| 136472 Makemake ||  ||  || March 31, 2005 || Palomar || M. E. Brown, C. Trujillo, D. L. Rabinowitz || other TNOmoon || align=right | 1430 km || 
+|-id=473 bgcolor=#fefefe
+| 136473 Bakosgáspár || 2005 GB ||  || April 1, 2005 || Piszkéstető || K. Sárneczky || — || align=right | 1.7 km || 
+|-id=474 bgcolor=#E9E9E9
+| 136474 ||  || — || April 3, 2005 || Palomar || NEAT || — || align=right | 5.3 km || 
+|-id=475 bgcolor=#E9E9E9
+| 136475 ||  || — || April 5, 2005 || Anderson Mesa || LONEOS || — || align=right | 1.4 km || 
+|-id=476 bgcolor=#d6d6d6
+| 136476 ||  || — || April 6, 2005 || Anderson Mesa || LONEOS || — || align=right | 3.5 km || 
+|-id=477 bgcolor=#d6d6d6
+| 136477 ||  || — || April 4, 2005 || Catalina || CSS || — || align=right | 6.7 km || 
+|-id=478 bgcolor=#fefefe
+| 136478 ||  || — || April 2, 2005 || Mount Lemmon || Mount Lemmon Survey || NYS14px|link=Interloper (asteroid)#405 || align=right | 3.2 km || 
+|-id=479 bgcolor=#fefefe
+| 136479 ||  || — || April 2, 2005 || Mount Lemmon || Mount Lemmon Survey || — || align=right | 1.6 km || 
+|-id=480 bgcolor=#d6d6d6
+| 136480 ||  || — || April 3, 2005 || Palomar || NEAT || HYG || align=right | 4.5 km || 
+|-id=481 bgcolor=#fefefe
+| 136481 ||  || — || April 5, 2005 || Mount Lemmon || Mount Lemmon Survey || — || align=right | 1.5 km || 
+|-id=482 bgcolor=#d6d6d6
+| 136482 ||  || — || April 6, 2005 || Catalina || CSS || — || align=right | 6.4 km || 
+|-id=483 bgcolor=#d6d6d6
+| 136483 ||  || — || April 6, 2005 || Catalina || CSS || — || align=right | 4.0 km || 
+|-id=484 bgcolor=#d6d6d6
+| 136484 ||  || — || April 6, 2005 || Catalina || CSS || — || align=right | 4.8 km || 
+|-id=485 bgcolor=#fefefe
+| 136485 ||  || — || April 4, 2005 || Mount Lemmon || Mount Lemmon Survey || MAS || align=right | 1.3 km || 
+|-id=486 bgcolor=#d6d6d6
+| 136486 ||  || — || April 6, 2005 || Anderson Mesa || LONEOS || EUP || align=right | 7.1 km || 
+|-id=487 bgcolor=#E9E9E9
+| 136487 ||  || — || April 9, 2005 || Mount Lemmon || Mount Lemmon Survey || — || align=right | 2.4 km || 
+|-id=488 bgcolor=#d6d6d6
+| 136488 ||  || — || April 7, 2005 || Catalina || CSS || — || align=right | 5.9 km || 
+|-id=489 bgcolor=#E9E9E9
+| 136489 ||  || — || April 10, 2005 || Kitt Peak || Spacewatch || — || align=right | 2.9 km || 
+|-id=490 bgcolor=#fefefe
+| 136490 ||  || — || April 10, 2005 || Kitt Peak || Spacewatch || — || align=right | 1.2 km || 
+|-id=491 bgcolor=#d6d6d6
+| 136491 ||  || — || April 13, 2005 || Socorro || LINEAR || HYG || align=right | 5.0 km || 
+|-id=492 bgcolor=#E9E9E9
+| 136492 ||  || — || April 11, 2005 || Goodricke-Pigott || Goodricke-Pigott Obs. || EUN || align=right | 2.1 km || 
+|-id=493 bgcolor=#d6d6d6
+| 136493 ||  || — || April 9, 2005 || Socorro || LINEAR || ALA || align=right | 6.6 km || 
+|-id=494 bgcolor=#d6d6d6
+| 136494 ||  || — || April 11, 2005 || Kitt Peak || Spacewatch || — || align=right | 5.4 km || 
+|-id=495 bgcolor=#E9E9E9
+| 136495 ||  || — || April 13, 2005 || Socorro || LINEAR || — || align=right | 2.3 km || 
+|-id=496 bgcolor=#E9E9E9
+| 136496 ||  || — || April 12, 2005 || Kitt Peak || Spacewatch || HEN || align=right | 2.1 km || 
+|-id=497 bgcolor=#d6d6d6
+| 136497 ||  || — || April 16, 2005 || Kitt Peak || Spacewatch || — || align=right | 3.7 km || 
+|-id=498 bgcolor=#d6d6d6
+| 136498 ||  || — || May 4, 2005 || Catalina || CSS || — || align=right | 9.0 km || 
+|-id=499 bgcolor=#d6d6d6
+| 136499 ||  || — || May 4, 2005 || Catalina || CSS || — || align=right | 4.0 km || 
+|-id=500 bgcolor=#d6d6d6
+| 136500 ||  || — || May 9, 2005 || Catalina || CSS || — || align=right | 6.4 km || 
+|}
+
+== 136501–136600 ==
+
+
+|-bgcolor=#d6d6d6
+| 136501 ||  || — || May 6, 2005 || Catalina || CSS || EOS || align=right | 3.4 km || 
+|-id=502 bgcolor=#d6d6d6
+| 136502 ||  || — || May 13, 2005 || Siding Spring || SSS || MEL || align=right | 6.4 km || 
+|-id=503 bgcolor=#d6d6d6
+| 136503 ||  || — || May 13, 2005 || Catalina || CSS || — || align=right | 4.1 km || 
+|-id=504 bgcolor=#fefefe
+| 136504 ||  || — || May 4, 2005 || Kitt Peak || Spacewatch || — || align=right | 3.0 km || 
+|-id=505 bgcolor=#E9E9E9
+| 136505 ||  || — || May 8, 2005 || Kitt Peak || Spacewatch || — || align=right | 1.5 km || 
+|-id=506 bgcolor=#d6d6d6
+| 136506 ||  || — || May 16, 2005 || Kitt Peak || Spacewatch || — || align=right | 4.5 km || 
+|-id=507 bgcolor=#fefefe
+| 136507 ||  || — || May 16, 2005 || Palomar || NEAT || — || align=right | 1.9 km || 
+|-id=508 bgcolor=#d6d6d6
+| 136508 ||  || — || May 18, 2005 || Siding Spring || SSS || — || align=right | 4.9 km || 
+|-id=509 bgcolor=#d6d6d6
+| 136509 ||  || — || May 31, 2005 || Catalina || CSS || — || align=right | 3.3 km || 
+|-id=510 bgcolor=#d6d6d6
+| 136510 || 2005 LH || — || June 1, 2005 || RAS || A. Lowe || — || align=right | 4.3 km || 
+|-id=511 bgcolor=#fefefe
+| 136511 ||  || — || June 27, 2005 || Kitt Peak || Spacewatch || V || align=right | 1.1 km || 
+|-id=512 bgcolor=#d6d6d6
+| 136512 ||  || — || July 5, 2005 || Palomar || NEAT || — || align=right | 5.4 km || 
+|-id=513 bgcolor=#d6d6d6
+| 136513 ||  || — || July 5, 2005 || Siding Spring || SSS || — || align=right | 5.0 km || 
+|-id=514 bgcolor=#d6d6d6
+| 136514 ||  || — || August 25, 2005 || Palomar || NEAT || HYG || align=right | 5.5 km || 
+|-id=515 bgcolor=#fefefe
+| 136515 ||  || — || August 25, 2005 || Palomar || NEAT || — || align=right | 1.7 km || 
+|-id=516 bgcolor=#E9E9E9
+| 136516 ||  || — || August 26, 2005 || Palomar || NEAT || — || align=right | 3.1 km || 
+|-id=517 bgcolor=#fefefe
+| 136517 ||  || — || September 25, 2005 || Kitt Peak || Spacewatch || — || align=right | 2.3 km || 
+|-id=518 bgcolor=#E9E9E9
+| 136518 Opitz ||  ||  || September 28, 2005 || Piszkéstető || K. Sárneczky || — || align=right | 2.6 km || 
+|-id=519 bgcolor=#E9E9E9
+| 136519 ||  || — || September 30, 2005 || Mount Lemmon || Mount Lemmon Survey || WIT || align=right | 1.7 km || 
+|-id=520 bgcolor=#fefefe
+| 136520 ||  || — || October 28, 2005 || Catalina || CSS || — || align=right | 1.3 km || 
+|-id=521 bgcolor=#fefefe
+| 136521 ||  || — || February 20, 2006 || Kitt Peak || Spacewatch || — || align=right | 1.3 km || 
+|-id=522 bgcolor=#E9E9E9
+| 136522 ||  || — || February 24, 2006 || Catalina || CSS || — || align=right | 3.6 km || 
+|-id=523 bgcolor=#E9E9E9
+| 136523 ||  || — || February 28, 2006 || Socorro || LINEAR || — || align=right | 5.1 km || 
+|-id=524 bgcolor=#fefefe
+| 136524 ||  || — || March 2, 2006 || Mount Lemmon || Mount Lemmon Survey || MAS || align=right | 1.7 km || 
+|-id=525 bgcolor=#E9E9E9
+| 136525 ||  || — || March 23, 2006 || Kitt Peak || Spacewatch || — || align=right | 2.0 km || 
+|-id=526 bgcolor=#d6d6d6
+| 136526 ||  || — || March 24, 2006 || Anderson Mesa || LONEOS || — || align=right | 7.6 km || 
+|-id=527 bgcolor=#E9E9E9
+| 136527 ||  || — || April 2, 2006 || Kitt Peak || Spacewatch || — || align=right | 2.4 km || 
+|-id=528 bgcolor=#E9E9E9
+| 136528 ||  || — || April 2, 2006 || Kitt Peak || Spacewatch || AGN || align=right | 2.3 km || 
+|-id=529 bgcolor=#E9E9E9
+| 136529 ||  || — || April 7, 2006 || Socorro || LINEAR || — || align=right | 2.6 km || 
+|-id=530 bgcolor=#fefefe
+| 136530 ||  || — || April 9, 2006 || Siding Spring || SSS || V || align=right | 1.1 km || 
+|-id=531 bgcolor=#fefefe
+| 136531 ||  || — || April 18, 2006 || Palomar || NEAT || — || align=right | 1.5 km || 
+|-id=532 bgcolor=#E9E9E9
+| 136532 ||  || — || April 19, 2006 || Kitt Peak || Spacewatch || — || align=right | 3.2 km || 
+|-id=533 bgcolor=#d6d6d6
+| 136533 ||  || — || April 20, 2006 || Kitt Peak || Spacewatch || THM || align=right | 4.8 km || 
+|-id=534 bgcolor=#d6d6d6
+| 136534 ||  || — || May 20, 2006 || Anderson Mesa || LONEOS || ALA || align=right | 7.0 km || 
+|-id=535 bgcolor=#fefefe
+| 136535 ||  || — || May 25, 2006 || Kitt Peak || Spacewatch || — || align=right | 3.9 km || 
+|-id=536 bgcolor=#E9E9E9
+| 136536 ||  || — || June 11, 2006 || Palomar || NEAT || EUN || align=right | 2.3 km || 
+|-id=537 bgcolor=#fefefe
+| 136537 ||  || — || June 11, 2006 || Palomar || NEAT || — || align=right | 1.4 km || 
+|-id=538 bgcolor=#E9E9E9
+| 136538 ||  || — || June 19, 2006 || Mount Lemmon || Mount Lemmon Survey || ADE || align=right | 4.3 km || 
+|-id=539 bgcolor=#E9E9E9
+| 136539 || 2144 P-L || — || September 24, 1960 || Palomar || PLS || — || align=right | 2.8 km || 
+|-id=540 bgcolor=#E9E9E9
+| 136540 || 2543 P-L || — || September 24, 1960 || Palomar || PLS || — || align=right | 4.4 km || 
+|-id=541 bgcolor=#d6d6d6
+| 136541 || 3012 P-L || — || September 24, 1960 || Palomar || PLS || EOS || align=right | 4.4 km || 
+|-id=542 bgcolor=#E9E9E9
+| 136542 || 3089 P-L || — || September 25, 1960 || Palomar || PLS || — || align=right | 2.4 km || 
+|-id=543 bgcolor=#d6d6d6
+| 136543 || 3111 P-L || — || September 24, 1960 || Palomar || PLS || EOS || align=right | 4.1 km || 
+|-id=544 bgcolor=#E9E9E9
+| 136544 || 4773 P-L || — || September 24, 1960 || Palomar || PLS || HEN || align=right | 1.9 km || 
+|-id=545 bgcolor=#E9E9E9
+| 136545 || 5552 P-L || — || October 17, 1960 || Palomar || PLS || RAF || align=right | 1.6 km || 
+|-id=546 bgcolor=#fefefe
+| 136546 || 6208 P-L || — || September 24, 1960 || Palomar || PLS || LCI || align=right | 1.9 km || 
+|-id=547 bgcolor=#E9E9E9
+| 136547 || 6297 P-L || — || September 24, 1960 || Palomar || PLS || — || align=right | 3.1 km || 
+|-id=548 bgcolor=#d6d6d6
+| 136548 || 6329 P-L || — || September 24, 1960 || Palomar || PLS || — || align=right | 4.9 km || 
+|-id=549 bgcolor=#fefefe
+| 136549 || 6702 P-L || — || September 24, 1960 || Palomar || PLS || — || align=right | 1.4 km || 
+|-id=550 bgcolor=#E9E9E9
+| 136550 || 6747 P-L || — || September 24, 1960 || Palomar || PLS || GER || align=right | 2.2 km || 
+|-id=551 bgcolor=#fefefe
+| 136551 || 6864 P-L || — || September 24, 1960 || Palomar || PLS || — || align=right | 1.3 km || 
+|-id=552 bgcolor=#d6d6d6
+| 136552 || 1047 T-2 || — || September 29, 1973 || Palomar || PLS || LIX || align=right | 6.7 km || 
+|-id=553 bgcolor=#d6d6d6
+| 136553 || 1445 T-2 || — || September 29, 1973 || Palomar || PLS || — || align=right | 6.7 km || 
+|-id=554 bgcolor=#E9E9E9
+| 136554 || 2062 T-2 || — || September 29, 1973 || Palomar || PLS || — || align=right | 1.7 km || 
+|-id=555 bgcolor=#E9E9E9
+| 136555 || 2254 T-2 || — || September 29, 1973 || Palomar || PLS || — || align=right | 3.2 km || 
+|-id=556 bgcolor=#fefefe
+| 136556 || 3299 T-2 || — || September 30, 1973 || Palomar || PLS || — || align=right | 1.4 km || 
+|-id=557 bgcolor=#C2FFFF
+| 136557 Neleus || 5214 T-2 ||  || September 25, 1973 || Palomar || PLS || L4 || align=right | 16 km || 
+|-id=558 bgcolor=#d6d6d6
+| 136558 || 5429 T-2 || — || September 30, 1973 || Palomar || PLS || — || align=right | 7.1 km || 
+|-id=559 bgcolor=#fefefe
+| 136559 || 1035 T-3 || — || October 17, 1977 || Palomar || PLS || — || align=right | 1.4 km || 
+|-id=560 bgcolor=#fefefe
+| 136560 || 1109 T-3 || — || October 17, 1977 || Palomar || PLS || V || align=right | 1.2 km || 
+|-id=561 bgcolor=#d6d6d6
+| 136561 || 1304 T-3 || — || October 17, 1977 || Palomar || PLS || — || align=right | 9.0 km || 
+|-id=562 bgcolor=#d6d6d6
+| 136562 || 2609 T-3 || — || October 16, 1977 || Palomar || PLS || TRP || align=right | 4.9 km || 
+|-id=563 bgcolor=#E9E9E9
+| 136563 || 3288 T-3 || — || October 16, 1977 || Palomar || PLS || — || align=right | 1.4 km || 
+|-id=564 bgcolor=#FFC2E0
+| 136564 || 1977 VA || — || November 7, 1977 || Palomar || E. F. Helin, E. M. Shoemaker || AMO || align=right data-sort-value="0.4" | 400 m || 
+|-id=565 bgcolor=#d6d6d6
+| 136565 ||  || — || December 7, 1977 || Palomar || S. J. Bus || 627 || align=right | 6.4 km || 
+|-id=566 bgcolor=#fefefe
+| 136566 ||  || — || November 7, 1978 || Palomar || E. F. Helin, S. J. Bus || NYS || align=right | 2.2 km || 
+|-id=567 bgcolor=#d6d6d6
+| 136567 ||  || — || July 24, 1979 || Siding Spring || S. J. Bus || — || align=right | 4.4 km || 
+|-id=568 bgcolor=#FA8072
+| 136568 || 1980 XB || — || December 13, 1980 || Mount Hamilton || E. A. Harlan || — || align=right | 2.8 km || 
+|-id=569 bgcolor=#d6d6d6
+| 136569 ||  || — || March 2, 1981 || Siding Spring || S. J. Bus || — || align=right | 6.1 km || 
+|-id=570 bgcolor=#d6d6d6
+| 136570 ||  || — || March 2, 1981 || Siding Spring || S. J. Bus || — || align=right | 4.5 km || 
+|-id=571 bgcolor=#d6d6d6
+| 136571 ||  || — || March 1, 1981 || Siding Spring || S. J. Bus || — || align=right | 5.9 km || 
+|-id=572 bgcolor=#fefefe
+| 136572 ||  || — || March 1, 1981 || Siding Spring || S. J. Bus || — || align=right | 2.0 km || 
+|-id=573 bgcolor=#fefefe
+| 136573 ||  || — || March 1, 1981 || Siding Spring || S. J. Bus || — || align=right | 2.0 km || 
+|-id=574 bgcolor=#E9E9E9
+| 136574 ||  || — || March 6, 1981 || Siding Spring || S. J. Bus || — || align=right | 4.2 km || 
+|-id=575 bgcolor=#fefefe
+| 136575 ||  || — || March 6, 1981 || Siding Spring || S. J. Bus || — || align=right | 1.4 km || 
+|-id=576 bgcolor=#fefefe
+| 136576 ||  || — || March 1, 1981 || Siding Spring || S. J. Bus || — || align=right | 1.2 km || 
+|-id=577 bgcolor=#d6d6d6
+| 136577 ||  || — || March 1, 1981 || Siding Spring || S. J. Bus || — || align=right | 5.3 km || 
+|-id=578 bgcolor=#fefefe
+| 136578 ||  || — || March 1, 1981 || Siding Spring || S. J. Bus || — || align=right | 1.8 km || 
+|-id=579 bgcolor=#E9E9E9
+| 136579 ||  || — || March 6, 1981 || Siding Spring || S. J. Bus || — || align=right | 2.4 km || 
+|-id=580 bgcolor=#fefefe
+| 136580 || 1984 WL || — || November 27, 1984 || Caussols || J. Ciffréo || — || align=right | 2.3 km || 
+|-id=581 bgcolor=#E9E9E9
+| 136581 || 1986 GX || — || April 4, 1986 || Kitt Peak || Spacewatch || — || align=right | 4.0 km || 
+|-id=582 bgcolor=#FFC2E0
+| 136582 || 1992 BA || — || January 27, 1992 || Kitt Peak || Spacewatch || AMO || align=right data-sort-value="0.38" | 380 m || 
+|-id=583 bgcolor=#d6d6d6
+| 136583 ||  || — || February 29, 1992 || La Silla || UESAC || EMA || align=right | 5.8 km || 
+|-id=584 bgcolor=#fefefe
+| 136584 ||  || — || March 8, 1992 || La Silla || UESAC || — || align=right | 1.8 km || 
+|-id=585 bgcolor=#E9E9E9
+| 136585 ||  || — || September 22, 1992 || La Silla || E. W. Elst || — || align=right | 5.6 km || 
+|-id=586 bgcolor=#fefefe
+| 136586 ||  || — || October 18, 1992 || Kitt Peak || Spacewatch || NYS || align=right data-sort-value="0.95" | 950 m || 
+|-id=587 bgcolor=#fefefe
+| 136587 ||  || — || March 17, 1993 || La Silla || UESAC || — || align=right | 1.2 km || 
+|-id=588 bgcolor=#fefefe
+| 136588 ||  || — || March 17, 1993 || La Silla || UESAC || — || align=right | 1.6 km || 
+|-id=589 bgcolor=#fefefe
+| 136589 ||  || — || March 17, 1993 || La Silla || UESAC || NYS || align=right data-sort-value="0.98" | 980 m || 
+|-id=590 bgcolor=#d6d6d6
+| 136590 ||  || — || March 17, 1993 || La Silla || UESAC || — || align=right | 4.6 km || 
+|-id=591 bgcolor=#d6d6d6
+| 136591 ||  || — || March 17, 1993 || La Silla || UESAC || — || align=right | 3.9 km || 
+|-id=592 bgcolor=#d6d6d6
+| 136592 ||  || — || March 17, 1993 || La Silla || UESAC || — || align=right | 5.2 km || 
+|-id=593 bgcolor=#d6d6d6
+| 136593 ||  || — || March 17, 1993 || La Silla || UESAC || — || align=right | 7.0 km || 
+|-id=594 bgcolor=#fefefe
+| 136594 ||  || — || March 21, 1993 || La Silla || UESAC || — || align=right | 1.7 km || 
+|-id=595 bgcolor=#d6d6d6
+| 136595 ||  || — || March 21, 1993 || La Silla || UESAC || — || align=right | 5.7 km || 
+|-id=596 bgcolor=#d6d6d6
+| 136596 ||  || — || March 21, 1993 || La Silla || UESAC || — || align=right | 5.4 km || 
+|-id=597 bgcolor=#d6d6d6
+| 136597 ||  || — || March 19, 1993 || La Silla || UESAC || — || align=right | 4.0 km || 
+|-id=598 bgcolor=#fefefe
+| 136598 ||  || — || March 19, 1993 || La Silla || UESAC || — || align=right | 1.3 km || 
+|-id=599 bgcolor=#fefefe
+| 136599 ||  || — || March 19, 1993 || La Silla || UESAC || NYS || align=right | 1.3 km || 
+|-id=600 bgcolor=#fefefe
+| 136600 ||  || — || March 19, 1993 || La Silla || UESAC || NYS || align=right | 1.0 km || 
+|}
+
+== 136601–136700 ==
+
+
+|-bgcolor=#d6d6d6
+| 136601 ||  || — || March 19, 1993 || La Silla || UESAC || — || align=right | 3.8 km || 
+|-id=602 bgcolor=#fefefe
+| 136602 ||  || — || April 19, 1993 || Kitt Peak || Spacewatch || — || align=right | 1.3 km || 
+|-id=603 bgcolor=#fefefe
+| 136603 ||  || — || August 15, 1993 || Caussols || E. W. Elst || — || align=right | 1.4 km || 
+|-id=604 bgcolor=#E9E9E9
+| 136604 ||  || — || August 19, 1993 || Palomar || E. F. Helin || JUN || align=right | 5.2 km || 
+|-id=605 bgcolor=#E9E9E9
+| 136605 ||  || — || September 17, 1993 || La Silla || E. W. Elst || — || align=right | 1.9 km || 
+|-id=606 bgcolor=#E9E9E9
+| 136606 ||  || — || October 9, 1993 || Kitt Peak || Spacewatch || — || align=right | 2.5 km || 
+|-id=607 bgcolor=#E9E9E9
+| 136607 ||  || — || October 9, 1993 || La Silla || E. W. Elst || — || align=right | 2.9 km || 
+|-id=608 bgcolor=#E9E9E9
+| 136608 ||  || — || October 9, 1993 || La Silla || E. W. Elst || JUN || align=right | 1.7 km || 
+|-id=609 bgcolor=#E9E9E9
+| 136609 ||  || — || October 9, 1993 || La Silla || E. W. Elst || — || align=right | 2.6 km || 
+|-id=610 bgcolor=#E9E9E9
+| 136610 ||  || — || October 9, 1993 || La Silla || E. W. Elst || HEN || align=right | 1.8 km || 
+|-id=611 bgcolor=#E9E9E9
+| 136611 ||  || — || October 9, 1993 || La Silla || E. W. Elst || JUN || align=right | 3.3 km || 
+|-id=612 bgcolor=#E9E9E9
+| 136612 ||  || — || October 9, 1993 || La Silla || E. W. Elst || — || align=right | 2.8 km || 
+|-id=613 bgcolor=#E9E9E9
+| 136613 ||  || — || October 9, 1993 || La Silla || E. W. Elst || — || align=right | 2.5 km || 
+|-id=614 bgcolor=#E9E9E9
+| 136614 ||  || — || November 9, 1993 || Kitt Peak || Spacewatch || MRX || align=right | 1.8 km || 
+|-id=615 bgcolor=#d6d6d6
+| 136615 ||  || — || January 8, 1994 || Kitt Peak || Spacewatch || 7:4 || align=right | 7.3 km || 
+|-id=616 bgcolor=#E9E9E9
+| 136616 ||  || — || January 11, 1994 || Kitt Peak || Spacewatch || XIZ || align=right | 2.5 km || 
+|-id=617 bgcolor=#FFC2E0
+| 136617 || 1994 CC || — || February 3, 1994 || Kitt Peak || Spacewatch || APO +1kmPHAmoon || align=right | 1.0 km || 
+|-id=618 bgcolor=#FFC2E0
+| 136618 ||  || — || February 15, 1994 || Kitt Peak || Spacewatch || APO +1kmPHA || align=right | 1.6 km || 
+|-id=619 bgcolor=#fefefe
+| 136619 ||  || — || February 8, 1994 || La Silla || E. W. Elst || — || align=right | 1.5 km || 
+|-id=620 bgcolor=#B88A00
+| 136620 || 1994 JC || — || May 4, 1994 || Palomar || E. F. Helin, K. J. Lawrence || 2:1Junusual || align=right | 5.9 km || 
+|-id=621 bgcolor=#d6d6d6
+| 136621 ||  || — || May 5, 1994 || Kitt Peak || Spacewatch || — || align=right | 3.9 km || 
+|-id=622 bgcolor=#d6d6d6
+| 136622 ||  || — || August 10, 1994 || La Silla || E. W. Elst || HYG || align=right | 4.5 km || 
+|-id=623 bgcolor=#d6d6d6
+| 136623 ||  || — || August 10, 1994 || La Silla || E. W. Elst || HYG || align=right | 4.9 km || 
+|-id=624 bgcolor=#d6d6d6
+| 136624 ||  || — || August 10, 1994 || La Silla || E. W. Elst || HYG || align=right | 5.9 km || 
+|-id=625 bgcolor=#fefefe
+| 136625 ||  || — || August 10, 1994 || La Silla || E. W. Elst || — || align=right | 1.5 km || 
+|-id=626 bgcolor=#E9E9E9
+| 136626 ||  || — || August 12, 1994 || La Silla || E. W. Elst || EUN || align=right | 2.1 km || 
+|-id=627 bgcolor=#d6d6d6
+| 136627 ||  || — || August 12, 1994 || La Silla || E. W. Elst || — || align=right | 4.7 km || 
+|-id=628 bgcolor=#d6d6d6
+| 136628 ||  || — || August 12, 1994 || La Silla || E. W. Elst || — || align=right | 6.0 km || 
+|-id=629 bgcolor=#fefefe
+| 136629 ||  || — || August 12, 1994 || La Silla || E. W. Elst || NYS || align=right | 1.1 km || 
+|-id=630 bgcolor=#d6d6d6
+| 136630 ||  || — || September 11, 1994 || Kitt Peak || Spacewatch || HYG || align=right | 4.5 km || 
+|-id=631 bgcolor=#fefefe
+| 136631 ||  || — || September 12, 1994 || Kitt Peak || Spacewatch || NYS || align=right data-sort-value="0.90" | 900 m || 
+|-id=632 bgcolor=#fefefe
+| 136632 ||  || — || September 28, 1994 || Kitt Peak || Spacewatch || — || align=right | 1.5 km || 
+|-id=633 bgcolor=#d6d6d6
+| 136633 ||  || — || September 28, 1994 || Kitt Peak || Spacewatch || HYG || align=right | 4.9 km || 
+|-id=634 bgcolor=#d6d6d6
+| 136634 ||  || — || September 28, 1994 || Kitt Peak || Spacewatch || THM || align=right | 6.5 km || 
+|-id=635 bgcolor=#FFC2E0
+| 136635 ||  || — || November 5, 1994 || Kitt Peak || Spacewatch || AMO || align=right data-sort-value="0.53" | 530 m || 
+|-id=636 bgcolor=#E9E9E9
+| 136636 ||  || — || November 5, 1994 || Kitt Peak || Spacewatch || — || align=right | 2.0 km || 
+|-id=637 bgcolor=#d6d6d6
+| 136637 ||  || — || November 28, 1994 || Kitt Peak || Spacewatch || THM || align=right | 3.8 km || 
+|-id=638 bgcolor=#E9E9E9
+| 136638 ||  || — || January 25, 1995 || Oizumi || T. Kobayashi || — || align=right | 2.6 km || 
+|-id=639 bgcolor=#E9E9E9
+| 136639 ||  || — || February 1, 1995 || Kitt Peak || Spacewatch || — || align=right | 2.4 km || 
+|-id=640 bgcolor=#E9E9E9
+| 136640 ||  || — || February 1, 1995 || Kitt Peak || Spacewatch || — || align=right | 2.4 km || 
+|-id=641 bgcolor=#E9E9E9
+| 136641 ||  || — || February 1, 1995 || Kitt Peak || Spacewatch || — || align=right | 2.8 km || 
+|-id=642 bgcolor=#E9E9E9
+| 136642 ||  || — || February 24, 1995 || Kitt Peak || Spacewatch || — || align=right | 1.8 km || 
+|-id=643 bgcolor=#E9E9E9
+| 136643 ||  || — || March 2, 1995 || Kitt Peak || Spacewatch || — || align=right | 2.1 km || 
+|-id=644 bgcolor=#E9E9E9
+| 136644 ||  || — || March 26, 1995 || Kitt Peak || Spacewatch || — || align=right | 1.2 km || 
+|-id=645 bgcolor=#E9E9E9
+| 136645 ||  || — || March 27, 1995 || Kitt Peak || Spacewatch || — || align=right | 3.5 km || 
+|-id=646 bgcolor=#E9E9E9
+| 136646 ||  || — || March 27, 1995 || Kitt Peak || Spacewatch || NEM || align=right | 3.8 km || 
+|-id=647 bgcolor=#fefefe
+| 136647 ||  || — || March 28, 1995 || Kitt Peak || Spacewatch || V || align=right data-sort-value="0.83" | 830 m || 
+|-id=648 bgcolor=#E9E9E9
+| 136648 ||  || — || April 2, 1995 || Kitt Peak || Spacewatch || — || align=right | 2.1 km || 
+|-id=649 bgcolor=#E9E9E9
+| 136649 ||  || — || April 4, 1995 || Kitt Peak || Spacewatch || — || align=right | 2.8 km || 
+|-id=650 bgcolor=#E9E9E9
+| 136650 ||  || — || April 25, 1995 || Kitt Peak || Spacewatch || — || align=right | 3.7 km || 
+|-id=651 bgcolor=#E9E9E9
+| 136651 ||  || — || April 26, 1995 || Kitt Peak || Spacewatch || — || align=right | 3.9 km || 
+|-id=652 bgcolor=#E9E9E9
+| 136652 ||  || — || June 22, 1995 || Kitt Peak || Spacewatch || GEF || align=right | 2.3 km || 
+|-id=653 bgcolor=#d6d6d6
+| 136653 ||  || — || June 23, 1995 || Kitt Peak || Spacewatch || 615 || align=right | 2.9 km || 
+|-id=654 bgcolor=#fefefe
+| 136654 ||  || — || June 23, 1995 || Kitt Peak || Spacewatch || — || align=right | 1.3 km || 
+|-id=655 bgcolor=#fefefe
+| 136655 ||  || — || June 30, 1995 || Kitt Peak || Spacewatch || V || align=right | 1.2 km || 
+|-id=656 bgcolor=#fefefe
+| 136656 ||  || — || July 22, 1995 || Kitt Peak || Spacewatch || V || align=right data-sort-value="0.78" | 780 m || 
+|-id=657 bgcolor=#d6d6d6
+| 136657 ||  || — || July 22, 1995 || Kitt Peak || Spacewatch || — || align=right | 3.7 km || 
+|-id=658 bgcolor=#fefefe
+| 136658 ||  || — || July 24, 1995 || Kitt Peak || Spacewatch || FLO || align=right | 1.9 km || 
+|-id=659 bgcolor=#fefefe
+| 136659 ||  || — || July 25, 1995 || Kitt Peak || Spacewatch || V || align=right | 1.1 km || 
+|-id=660 bgcolor=#fefefe
+| 136660 ||  || — || July 27, 1995 || Kitt Peak || Spacewatch || — || align=right | 1.3 km || 
+|-id=661 bgcolor=#fefefe
+| 136661 ||  || — || July 26, 1995 || Kitt Peak || Spacewatch || MAS || align=right data-sort-value="0.99" | 990 m || 
+|-id=662 bgcolor=#fefefe
+| 136662 ||  || — || August 17, 1995 || Kitt Peak || Spacewatch || — || align=right | 1.5 km || 
+|-id=663 bgcolor=#d6d6d6
+| 136663 ||  || — || August 22, 1995 || Kitt Peak || Spacewatch || EOS || align=right | 3.0 km || 
+|-id=664 bgcolor=#d6d6d6
+| 136664 ||  || — || August 22, 1995 || Kitt Peak || Spacewatch || HYG || align=right | 4.2 km || 
+|-id=665 bgcolor=#d6d6d6
+| 136665 ||  || — || August 28, 1995 || Kitt Peak || Spacewatch || — || align=right | 3.1 km || 
+|-id=666 bgcolor=#fefefe
+| 136666 Seidel || 1995 SE ||  || September 17, 1995 || Kleť || M. Tichý, J. Tichá || NYS || align=right | 1.1 km || 
+|-id=667 bgcolor=#d6d6d6
+| 136667 ||  || — || September 17, 1995 || Kitt Peak || Spacewatch || — || align=right | 4.2 km || 
+|-id=668 bgcolor=#fefefe
+| 136668 ||  || — || September 17, 1995 || Kitt Peak || Spacewatch || MAS || align=right data-sort-value="0.72" | 720 m || 
+|-id=669 bgcolor=#fefefe
+| 136669 ||  || — || September 17, 1995 || Kitt Peak || Spacewatch || NYS || align=right | 1.2 km || 
+|-id=670 bgcolor=#d6d6d6
+| 136670 ||  || — || September 18, 1995 || Kitt Peak || Spacewatch || — || align=right | 7.4 km || 
+|-id=671 bgcolor=#d6d6d6
+| 136671 ||  || — || September 18, 1995 || Kitt Peak || Spacewatch || — || align=right | 6.3 km || 
+|-id=672 bgcolor=#d6d6d6
+| 136672 ||  || — || September 18, 1995 || Kitt Peak || Spacewatch || — || align=right | 3.5 km || 
+|-id=673 bgcolor=#fefefe
+| 136673 ||  || — || September 18, 1995 || Kitt Peak || Spacewatch || — || align=right data-sort-value="0.88" | 880 m || 
+|-id=674 bgcolor=#d6d6d6
+| 136674 ||  || — || September 18, 1995 || Kitt Peak || Spacewatch || — || align=right | 4.0 km || 
+|-id=675 bgcolor=#fefefe
+| 136675 ||  || — || September 19, 1995 || Kitt Peak || Spacewatch || MAS || align=right | 1.2 km || 
+|-id=676 bgcolor=#fefefe
+| 136676 ||  || — || September 19, 1995 || Kitt Peak || Spacewatch || EUT || align=right | 1.0 km || 
+|-id=677 bgcolor=#fefefe
+| 136677 ||  || — || September 19, 1995 || Kitt Peak || Spacewatch || V || align=right | 1.0 km || 
+|-id=678 bgcolor=#fefefe
+| 136678 ||  || — || September 19, 1995 || Kitt Peak || Spacewatch || — || align=right | 1.2 km || 
+|-id=679 bgcolor=#fefefe
+| 136679 ||  || — || September 19, 1995 || Kitt Peak || Spacewatch || — || align=right | 1.7 km || 
+|-id=680 bgcolor=#d6d6d6
+| 136680 ||  || — || September 19, 1995 || Kitt Peak || Spacewatch || THM || align=right | 3.4 km || 
+|-id=681 bgcolor=#d6d6d6
+| 136681 ||  || — || September 20, 1995 || Kitt Peak || Spacewatch || THM || align=right | 3.2 km || 
+|-id=682 bgcolor=#fefefe
+| 136682 ||  || — || September 20, 1995 || Kitt Peak || Spacewatch || — || align=right | 1.1 km || 
+|-id=683 bgcolor=#fefefe
+| 136683 ||  || — || September 22, 1995 || Kitt Peak || Spacewatch || MAS || align=right data-sort-value="0.81" | 810 m || 
+|-id=684 bgcolor=#d6d6d6
+| 136684 ||  || — || September 22, 1995 || Kitt Peak || Spacewatch || — || align=right | 6.3 km || 
+|-id=685 bgcolor=#d6d6d6
+| 136685 ||  || — || September 22, 1995 || Kitt Peak || Spacewatch || — || align=right | 3.6 km || 
+|-id=686 bgcolor=#fefefe
+| 136686 ||  || — || September 23, 1995 || Kitt Peak || Spacewatch || — || align=right data-sort-value="0.98" | 980 m || 
+|-id=687 bgcolor=#fefefe
+| 136687 ||  || — || September 23, 1995 || Kitt Peak || Spacewatch || — || align=right data-sort-value="0.87" | 870 m || 
+|-id=688 bgcolor=#d6d6d6
+| 136688 ||  || — || September 24, 1995 || Kitt Peak || Spacewatch || KOR || align=right | 2.3 km || 
+|-id=689 bgcolor=#fefefe
+| 136689 ||  || — || September 24, 1995 || Kitt Peak || Spacewatch || — || align=right data-sort-value="0.94" | 940 m || 
+|-id=690 bgcolor=#fefefe
+| 136690 ||  || — || September 25, 1995 || Kitt Peak || Spacewatch || MAS || align=right | 1.1 km || 
+|-id=691 bgcolor=#d6d6d6
+| 136691 ||  || — || September 25, 1995 || Kitt Peak || Spacewatch || — || align=right | 4.8 km || 
+|-id=692 bgcolor=#d6d6d6
+| 136692 ||  || — || September 25, 1995 || Kitt Peak || Spacewatch || THM || align=right | 2.5 km || 
+|-id=693 bgcolor=#fefefe
+| 136693 ||  || — || September 25, 1995 || Kitt Peak || Spacewatch || — || align=right data-sort-value="0.87" | 870 m || 
+|-id=694 bgcolor=#fefefe
+| 136694 ||  || — || September 25, 1995 || Kitt Peak || Spacewatch || — || align=right data-sort-value="0.91" | 910 m || 
+|-id=695 bgcolor=#fefefe
+| 136695 ||  || — || September 26, 1995 || Kitt Peak || Spacewatch || — || align=right | 1.4 km || 
+|-id=696 bgcolor=#fefefe
+| 136696 ||  || — || September 26, 1995 || Kitt Peak || Spacewatch || MAS || align=right data-sort-value="0.88" | 880 m || 
+|-id=697 bgcolor=#fefefe
+| 136697 ||  || — || September 25, 1995 || Kitt Peak || Spacewatch || NYS || align=right | 1.1 km || 
+|-id=698 bgcolor=#FA8072
+| 136698 ||  || — || September 25, 1995 || Kitt Peak || Spacewatch || — || align=right | 1.1 km || 
+|-id=699 bgcolor=#d6d6d6
+| 136699 ||  || — || September 18, 1995 || Kitt Peak || Spacewatch || TIR || align=right | 6.5 km || 
+|-id=700 bgcolor=#fefefe
+| 136700 ||  || — || September 21, 1995 || Kitt Peak || Spacewatch || — || align=right | 1.1 km || 
+|}
+
+== 136701–136800 ==
+
+
+|-bgcolor=#d6d6d6
+| 136701 ||  || — || September 21, 1995 || Kitt Peak || Spacewatch || — || align=right | 5.1 km || 
+|-id=702 bgcolor=#d6d6d6
+| 136702 ||  || — || September 25, 1995 || Kitt Peak || Spacewatch || — || align=right | 2.6 km || 
+|-id=703 bgcolor=#d6d6d6
+| 136703 ||  || — || September 26, 1995 || Kitt Peak || Spacewatch || HYG || align=right | 2.8 km || 
+|-id=704 bgcolor=#d6d6d6
+| 136704 || 1995 TW || — || October 13, 1995 || Kitt Peak || T. B. Spahr || — || align=right | 5.2 km || 
+|-id=705 bgcolor=#fefefe
+| 136705 ||  || — || October 14, 1995 || Xinglong || SCAP || FLO || align=right | 1.2 km || 
+|-id=706 bgcolor=#d6d6d6
+| 136706 ||  || — || October 15, 1995 || Kitt Peak || Spacewatch || — || align=right | 2.9 km || 
+|-id=707 bgcolor=#d6d6d6
+| 136707 ||  || — || October 15, 1995 || Kitt Peak || Spacewatch || — || align=right | 5.5 km || 
+|-id=708 bgcolor=#fefefe
+| 136708 ||  || — || October 15, 1995 || Kitt Peak || Spacewatch || — || align=right | 1.8 km || 
+|-id=709 bgcolor=#fefefe
+| 136709 ||  || — || October 1, 1995 || Kitt Peak || Spacewatch || — || align=right | 1.1 km || 
+|-id=710 bgcolor=#fefefe
+| 136710 ||  || — || October 17, 1995 || Kitt Peak || Spacewatch || NYS || align=right | 1.0 km || 
+|-id=711 bgcolor=#fefefe
+| 136711 ||  || — || October 17, 1995 || Kitt Peak || Spacewatch || NYS || align=right data-sort-value="0.96" | 960 m || 
+|-id=712 bgcolor=#d6d6d6
+| 136712 ||  || — || October 17, 1995 || Kitt Peak || Spacewatch || — || align=right | 5.7 km || 
+|-id=713 bgcolor=#fefefe
+| 136713 ||  || — || October 17, 1995 || Kitt Peak || Spacewatch || NYS || align=right | 1.3 km || 
+|-id=714 bgcolor=#fefefe
+| 136714 ||  || — || October 17, 1995 || Kitt Peak || Spacewatch || V || align=right | 1.1 km || 
+|-id=715 bgcolor=#d6d6d6
+| 136715 ||  || — || October 17, 1995 || Kitt Peak || Spacewatch || — || align=right | 5.2 km || 
+|-id=716 bgcolor=#fefefe
+| 136716 ||  || — || October 17, 1995 || Kitt Peak || Spacewatch || V || align=right data-sort-value="0.97" | 970 m || 
+|-id=717 bgcolor=#fefefe
+| 136717 ||  || — || October 17, 1995 || Kitt Peak || Spacewatch || NYS || align=right | 1.2 km || 
+|-id=718 bgcolor=#d6d6d6
+| 136718 ||  || — || October 18, 1995 || Kitt Peak || Spacewatch || — || align=right | 5.1 km || 
+|-id=719 bgcolor=#fefefe
+| 136719 ||  || — || October 18, 1995 || Kitt Peak || Spacewatch || V || align=right data-sort-value="0.98" | 980 m || 
+|-id=720 bgcolor=#d6d6d6
+| 136720 ||  || — || October 19, 1995 || Kitt Peak || Spacewatch || — || align=right | 3.6 km || 
+|-id=721 bgcolor=#fefefe
+| 136721 ||  || — || October 19, 1995 || Kitt Peak || Spacewatch || — || align=right | 1.5 km || 
+|-id=722 bgcolor=#d6d6d6
+| 136722 ||  || — || October 20, 1995 || Kitt Peak || Spacewatch || EOS || align=right | 2.6 km || 
+|-id=723 bgcolor=#fefefe
+| 136723 ||  || — || October 20, 1995 || Kitt Peak || Spacewatch || NYS || align=right | 1.0 km || 
+|-id=724 bgcolor=#d6d6d6
+| 136724 ||  || — || October 21, 1995 || Kitt Peak || Spacewatch || LIX || align=right | 6.1 km || 
+|-id=725 bgcolor=#d6d6d6
+| 136725 ||  || — || October 23, 1995 || Kitt Peak || Spacewatch || — || align=right | 5.9 km || 
+|-id=726 bgcolor=#d6d6d6
+| 136726 ||  || — || October 23, 1995 || Kitt Peak || Spacewatch || EOS || align=right | 3.0 km || 
+|-id=727 bgcolor=#fefefe
+| 136727 ||  || — || October 19, 1995 || Kitt Peak || Spacewatch || NYS || align=right data-sort-value="0.87" | 870 m || 
+|-id=728 bgcolor=#d6d6d6
+| 136728 ||  || — || October 23, 1995 || Kitt Peak || Spacewatch || — || align=right | 5.2 km || 
+|-id=729 bgcolor=#d6d6d6
+| 136729 ||  || — || October 17, 1995 || Kitt Peak || Spacewatch || fast? || align=right | 3.5 km || 
+|-id=730 bgcolor=#fefefe
+| 136730 ||  || — || October 18, 1995 || Kitt Peak || Spacewatch || NYS || align=right data-sort-value="0.98" | 980 m || 
+|-id=731 bgcolor=#fefefe
+| 136731 ||  || — || October 19, 1995 || Kitt Peak || Spacewatch || MAS || align=right data-sort-value="0.96" | 960 m || 
+|-id=732 bgcolor=#d6d6d6
+| 136732 ||  || — || October 24, 1995 || Kitt Peak || Spacewatch || VER || align=right | 5.9 km || 
+|-id=733 bgcolor=#d6d6d6
+| 136733 ||  || — || October 24, 1995 || Kitt Peak || Spacewatch || — || align=right | 3.9 km || 
+|-id=734 bgcolor=#fefefe
+| 136734 ||  || — || November 14, 1995 || Kitt Peak || Spacewatch || — || align=right | 1.2 km || 
+|-id=735 bgcolor=#d6d6d6
+| 136735 ||  || — || November 15, 1995 || Kitt Peak || Spacewatch || — || align=right | 4.7 km || 
+|-id=736 bgcolor=#d6d6d6
+| 136736 ||  || — || November 15, 1995 || Kitt Peak || Spacewatch || HYG || align=right | 5.5 km || 
+|-id=737 bgcolor=#fefefe
+| 136737 ||  || — || November 15, 1995 || Kitt Peak || Spacewatch || NYS || align=right | 1.3 km || 
+|-id=738 bgcolor=#fefefe
+| 136738 ||  || — || November 15, 1995 || Kitt Peak || Spacewatch || — || align=right | 1.6 km || 
+|-id=739 bgcolor=#d6d6d6
+| 136739 ||  || — || November 15, 1995 || Kitt Peak || Spacewatch || — || align=right | 5.4 km || 
+|-id=740 bgcolor=#d6d6d6
+| 136740 ||  || — || November 15, 1995 || Kitt Peak || Spacewatch || HYG || align=right | 3.9 km || 
+|-id=741 bgcolor=#fefefe
+| 136741 ||  || — || November 15, 1995 || Kitt Peak || Spacewatch || NYS || align=right | 1.3 km || 
+|-id=742 bgcolor=#d6d6d6
+| 136742 ||  || — || November 15, 1995 || Kitt Peak || Spacewatch || — || align=right | 3.9 km || 
+|-id=743 bgcolor=#fefefe
+| 136743 Echigo ||  ||  || November 16, 1995 || Chichibu || N. Satō, T. Urata || NYS || align=right | 1.1 km || 
+|-id=744 bgcolor=#fefefe
+| 136744 ||  || — || November 27, 1995 || Oizumi || T. Kobayashi || NYS || align=right | 1.1 km || 
+|-id=745 bgcolor=#FFC2E0
+| 136745 ||  || — || November 29, 1995 || Caussols || C. Pollas || AMO +1km || align=right data-sort-value="0.88" | 880 m || 
+|-id=746 bgcolor=#d6d6d6
+| 136746 ||  || — || November 17, 1995 || Kitt Peak || Spacewatch || HYG || align=right | 3.4 km || 
+|-id=747 bgcolor=#d6d6d6
+| 136747 ||  || — || November 17, 1995 || Kitt Peak || Spacewatch || HYG || align=right | 4.4 km || 
+|-id=748 bgcolor=#fefefe
+| 136748 ||  || — || November 18, 1995 || Kitt Peak || Spacewatch || V || align=right | 1.1 km || 
+|-id=749 bgcolor=#fefefe
+| 136749 ||  || — || November 18, 1995 || Kitt Peak || Spacewatch || MAS || align=right data-sort-value="0.98" | 980 m || 
+|-id=750 bgcolor=#E9E9E9
+| 136750 ||  || — || December 16, 1995 || Kitt Peak || Spacewatch || — || align=right | 1.8 km || 
+|-id=751 bgcolor=#d6d6d6
+| 136751 ||  || — || December 16, 1995 || Kitt Peak || Spacewatch || — || align=right | 5.6 km || 
+|-id=752 bgcolor=#fefefe
+| 136752 ||  || — || December 18, 1995 || Kitt Peak || Spacewatch || — || align=right | 1.3 km || 
+|-id=753 bgcolor=#d6d6d6
+| 136753 ||  || — || December 22, 1995 || Kitt Peak || Spacewatch || HYG || align=right | 3.8 km || 
+|-id=754 bgcolor=#fefefe
+| 136754 ||  || — || January 12, 1996 || Kitt Peak || Spacewatch || NYS || align=right | 1.2 km || 
+|-id=755 bgcolor=#E9E9E9
+| 136755 ||  || — || January 13, 1996 || Kitt Peak || Spacewatch || RAF || align=right | 1.9 km || 
+|-id=756 bgcolor=#fefefe
+| 136756 ||  || — || January 14, 1996 || Kitt Peak || Spacewatch || — || align=right | 1.2 km || 
+|-id=757 bgcolor=#E9E9E9
+| 136757 ||  || — || January 20, 1996 || Kitt Peak || Spacewatch || ADE || align=right | 3.7 km || 
+|-id=758 bgcolor=#E9E9E9
+| 136758 ||  || — || March 11, 1996 || Kitt Peak || Spacewatch || — || align=right | 1.9 km || 
+|-id=759 bgcolor=#E9E9E9
+| 136759 ||  || — || March 20, 1996 || Haleakala || NEAT || — || align=right | 4.4 km || 
+|-id=760 bgcolor=#E9E9E9
+| 136760 ||  || — || March 20, 1996 || Kitt Peak || Spacewatch || — || align=right | 1.5 km || 
+|-id=761 bgcolor=#d6d6d6
+| 136761 ||  || — || April 12, 1996 || Kitt Peak || Spacewatch || 615 || align=right | 3.2 km || 
+|-id=762 bgcolor=#E9E9E9
+| 136762 ||  || — || April 14, 1996 || Kitt Peak || Spacewatch || MAR || align=right | 2.1 km || 
+|-id=763 bgcolor=#E9E9E9
+| 136763 ||  || — || April 18, 1996 || Kitt Peak || Spacewatch || — || align=right | 1.3 km || 
+|-id=764 bgcolor=#E9E9E9
+| 136764 ||  || — || April 20, 1996 || La Silla || E. W. Elst || — || align=right | 2.1 km || 
+|-id=765 bgcolor=#E9E9E9
+| 136765 || 1996 JA || — || May 5, 1996 || Modra || A. Galád, A. Pravda || — || align=right | 2.6 km || 
+|-id=766 bgcolor=#E9E9E9
+| 136766 ||  || — || May 9, 1996 || Kitt Peak || Spacewatch || — || align=right | 3.7 km || 
+|-id=767 bgcolor=#E9E9E9
+| 136767 ||  || — || May 12, 1996 || Kitt Peak || Spacewatch || — || align=right | 2.9 km || 
+|-id=768 bgcolor=#E9E9E9
+| 136768 ||  || — || May 13, 1996 || Kitt Peak || Spacewatch || — || align=right | 2.2 km || 
+|-id=769 bgcolor=#E9E9E9
+| 136769 || 1996 OD || — || July 18, 1996 || Prescott || P. G. Comba || — || align=right | 3.4 km || 
+|-id=770 bgcolor=#FFC2E0
+| 136770 ||  || — || August 11, 1996 || Siding Spring || R. H. McNaught || APOcritical || align=right data-sort-value="0.27" | 270 m || 
+|-id=771 bgcolor=#fefefe
+| 136771 ||  || — || August 13, 1996 || Haleakala || NEAT || — || align=right | 1.5 km || 
+|-id=772 bgcolor=#E9E9E9
+| 136772 ||  || — || September 14, 1996 || Kitt Peak || Spacewatch || AST || align=right | 4.1 km || 
+|-id=773 bgcolor=#FFC2E0
+| 136773 ||  || — || October 9, 1996 || Kitt Peak || Spacewatch || AMO || align=right data-sort-value="0.67" | 670 m || 
+|-id=774 bgcolor=#E9E9E9
+| 136774 ||  || — || October 3, 1996 || Xinglong || SCAP || AST || align=right | 2.4 km || 
+|-id=775 bgcolor=#d6d6d6
+| 136775 ||  || — || October 5, 1996 || Kitt Peak || Spacewatch || — || align=right | 3.3 km || 
+|-id=776 bgcolor=#fefefe
+| 136776 ||  || — || October 6, 1996 || Kitt Peak || Spacewatch || — || align=right data-sort-value="0.96" | 960 m || 
+|-id=777 bgcolor=#d6d6d6
+| 136777 ||  || — || October 7, 1996 || Kitt Peak || Spacewatch || — || align=right | 6.2 km || 
+|-id=778 bgcolor=#d6d6d6
+| 136778 ||  || — || October 12, 1996 || Kitt Peak || Spacewatch || KOR || align=right | 2.0 km || 
+|-id=779 bgcolor=#fefefe
+| 136779 ||  || — || October 8, 1996 || La Silla || C.-I. Lagerkvist || — || align=right | 2.2 km || 
+|-id=780 bgcolor=#fefefe
+| 136780 ||  || — || November 4, 1996 || Kitt Peak || Spacewatch || — || align=right | 1.8 km || 
+|-id=781 bgcolor=#d6d6d6
+| 136781 ||  || — || November 6, 1996 || Kitt Peak || Spacewatch || KOR || align=right | 2.4 km || 
+|-id=782 bgcolor=#fefefe
+| 136782 ||  || — || November 11, 1996 || Kitt Peak || Spacewatch || FLO || align=right data-sort-value="0.96" | 960 m || 
+|-id=783 bgcolor=#d6d6d6
+| 136783 ||  || — || November 11, 1996 || Kitt Peak || Spacewatch || — || align=right | 3.6 km || 
+|-id=784 bgcolor=#d6d6d6
+| 136784 ||  || — || November 30, 1996 || Oizumi || T. Kobayashi || — || align=right | 5.2 km || 
+|-id=785 bgcolor=#fefefe
+| 136785 ||  || — || December 3, 1996 || Prescott || P. G. Comba || V || align=right | 1.2 km || 
+|-id=786 bgcolor=#fefefe
+| 136786 ||  || — || December 6, 1996 || Kitt Peak || Spacewatch || — || align=right | 1.5 km || 
+|-id=787 bgcolor=#fefefe
+| 136787 ||  || — || December 1, 1996 || Kitt Peak || Spacewatch || — || align=right | 1.5 km || 
+|-id=788 bgcolor=#fefefe
+| 136788 ||  || — || December 2, 1996 || Kitt Peak || Spacewatch || — || align=right | 1.4 km || 
+|-id=789 bgcolor=#fefefe
+| 136789 ||  || — || December 4, 1996 || Kitt Peak || Spacewatch || — || align=right | 1.9 km || 
+|-id=790 bgcolor=#fefefe
+| 136790 ||  || — || December 29, 1996 || Chichibu || N. Satō || — || align=right | 1.5 km || 
+|-id=791 bgcolor=#d6d6d6
+| 136791 ||  || — || January 2, 1997 || Kitt Peak || Spacewatch || — || align=right | 3.6 km || 
+|-id=792 bgcolor=#d6d6d6
+| 136792 ||  || — || January 14, 1997 || Oizumi || T. Kobayashi || Tj (2.92) || align=right | 6.7 km || 
+|-id=793 bgcolor=#FFC2E0
+| 136793 ||  || — || January 15, 1997 || Farra d'Isonzo || Farra d'Isonzo || APO || align=right data-sort-value="0.78" | 780 m || 
+|-id=794 bgcolor=#fefefe
+| 136794 ||  || — || January 10, 1997 || Kitt Peak || Spacewatch || — || align=right | 1.5 km || 
+|-id=795 bgcolor=#FFC2E0
+| 136795 Tatsunokingo || 1997 BQ ||  || January 16, 1997 || Kiso || T. Hasegawa || APO +1kmPHA || align=right data-sort-value="0.83" | 830 m || 
+|-id=796 bgcolor=#E9E9E9
+| 136796 ||  || — || January 30, 1997 || Goodricke-Pigott || R. A. Tucker || — || align=right | 4.1 km || 
+|-id=797 bgcolor=#fefefe
+| 136797 ||  || — || February 1, 1997 || Oizumi || T. Kobayashi || — || align=right | 1.3 km || 
+|-id=798 bgcolor=#fefefe
+| 136798 ||  || — || February 2, 1997 || Kitt Peak || Spacewatch || — || align=right | 1.4 km || 
+|-id=799 bgcolor=#fefefe
+| 136799 ||  || — || February 6, 1997 || Prescott || P. G. Comba || — || align=right | 1.1 km || 
+|-id=800 bgcolor=#d6d6d6
+| 136800 ||  || — || February 4, 1997 || Kitt Peak || Spacewatch || — || align=right | 5.0 km || 
+|}
+
+== 136801–136900 ==
+
+
+|-bgcolor=#fefefe
+| 136801 ||  || — || February 3, 1997 || Kitt Peak || Spacewatch || NYS || align=right data-sort-value="0.99" | 990 m || 
+|-id=802 bgcolor=#fefefe
+| 136802 ||  || — || February 15, 1997 || Kitt Peak || Spacewatch || — || align=right | 2.1 km || 
+|-id=803 bgcolor=#fefefe
+| 136803 Calliemorgan ||  ||  || March 6, 1997 || Chinle || J. Bruton || — || align=right | 2.4 km || 
+|-id=804 bgcolor=#fefefe
+| 136804 ||  || — || March 4, 1997 || Kitt Peak || Spacewatch || — || align=right | 1.4 km || 
+|-id=805 bgcolor=#fefefe
+| 136805 ||  || — || March 13, 1997 || Kitt Peak || Spacewatch || — || align=right | 1.8 km || 
+|-id=806 bgcolor=#fefefe
+| 136806 ||  || — || March 11, 1997 || Kitt Peak || Spacewatch || MAS || align=right | 1.0 km || 
+|-id=807 bgcolor=#d6d6d6
+| 136807 ||  || — || March 5, 1997 || Socorro || LINEAR || — || align=right | 6.6 km || 
+|-id=808 bgcolor=#fefefe
+| 136808 ||  || — || March 12, 1997 || La Silla || E. W. Elst || NYS || align=right | 1.2 km || 
+|-id=809 bgcolor=#fefefe
+| 136809 ||  || — || April 2, 1997 || Kitt Peak || Spacewatch || — || align=right | 1.2 km || 
+|-id=810 bgcolor=#fefefe
+| 136810 ||  || — || April 3, 1997 || Socorro || LINEAR || H || align=right data-sort-value="0.96" | 960 m || 
+|-id=811 bgcolor=#fefefe
+| 136811 ||  || — || April 3, 1997 || Socorro || LINEAR || V || align=right | 1.2 km || 
+|-id=812 bgcolor=#fefefe
+| 136812 ||  || — || April 3, 1997 || Socorro || LINEAR || NYS || align=right | 1.0 km || 
+|-id=813 bgcolor=#fefefe
+| 136813 ||  || — || April 6, 1997 || Socorro || LINEAR || NYS || align=right | 1.2 km || 
+|-id=814 bgcolor=#fefefe
+| 136814 ||  || — || April 30, 1997 || Kitt Peak || Spacewatch || MAS || align=right | 1.0 km || 
+|-id=815 bgcolor=#fefefe
+| 136815 ||  || — || April 27, 1997 || Kitt Peak || Spacewatch || — || align=right | 1.5 km || 
+|-id=816 bgcolor=#E9E9E9
+| 136816 ||  || — || April 30, 1997 || Socorro || LINEAR || — || align=right | 1.7 km || 
+|-id=817 bgcolor=#E9E9E9
+| 136817 ||  || — || May 1, 1997 || Kitt Peak || Spacewatch || — || align=right | 2.2 km || 
+|-id=818 bgcolor=#FFC2E0
+| 136818 Selqet ||  ||  || June 29, 1997 || Goodricke-Pigott || R. A. Tucker || ATE || align=right data-sort-value="0.57" | 570 m || 
+|-id=819 bgcolor=#E9E9E9
+| 136819 ||  || — || June 26, 1997 || Kitt Peak || Spacewatch || BRG || align=right | 2.2 km || 
+|-id=820 bgcolor=#E9E9E9
+| 136820 ||  || — || June 30, 1997 || Kitt Peak || Spacewatch || — || align=right | 1.9 km || 
+|-id=821 bgcolor=#E9E9E9
+| 136821 ||  || — || July 6, 1997 || Kitt Peak || Spacewatch || — || align=right | 1.6 km || 
+|-id=822 bgcolor=#d6d6d6
+| 136822 ||  || — || August 10, 1997 || Modra || A. Galád, A. Pravda || 3:2 || align=right | 7.5 km || 
+|-id=823 bgcolor=#E9E9E9
+| 136823 || 1997 QR || — || August 26, 1997 || Ondřejov || L. Kotková || — || align=right | 2.5 km || 
+|-id=824 bgcolor=#E9E9E9
+| 136824 Nonamikeiko ||  ||  || September 8, 1997 || Yatsuka || H. Abe || MRX || align=right | 2.1 km || 
+|-id=825 bgcolor=#E9E9E9
+| 136825 Slawitschek ||  ||  || September 26, 1997 || Kleť || J. Tichá, M. Tichý || — || align=right | 2.0 km || 
+|-id=826 bgcolor=#E9E9E9
+| 136826 ||  || — || September 27, 1997 || Oizumi || T. Kobayashi || — || align=right | 2.0 km || 
+|-id=827 bgcolor=#E9E9E9
+| 136827 ||  || — || September 29, 1997 || Kitt Peak || Spacewatch || — || align=right | 1.7 km || 
+|-id=828 bgcolor=#E9E9E9
+| 136828 ||  || — || September 29, 1997 || Kitt Peak || Spacewatch || — || align=right | 2.1 km || 
+|-id=829 bgcolor=#E9E9E9
+| 136829 ||  || — || September 30, 1997 || Uenohara || S. Ueda, H. Kaneda || — || align=right | 5.0 km || 
+|-id=830 bgcolor=#E9E9E9
+| 136830 ||  || — || September 27, 1997 || Kitt Peak || Spacewatch || — || align=right | 2.8 km || 
+|-id=831 bgcolor=#E9E9E9
+| 136831 ||  || — || October 3, 1997 || Caussols || ODAS || — || align=right | 1.9 km || 
+|-id=832 bgcolor=#E9E9E9
+| 136832 ||  || — || October 4, 1997 || Caussols || ODAS || NEM || align=right | 4.1 km || 
+|-id=833 bgcolor=#fefefe
+| 136833 || 1997 UP || — || October 19, 1997 || Kleť || Kleť Obs. || — || align=right | 1.3 km || 
+|-id=834 bgcolor=#E9E9E9
+| 136834 ||  || — || October 21, 1997 || Ondřejov || P. Pravec || — || align=right | 2.0 km || 
+|-id=835 bgcolor=#d6d6d6
+| 136835 ||  || — || October 28, 1997 || Kitt Peak || Spacewatch || 3:2 || align=right | 6.3 km || 
+|-id=836 bgcolor=#E9E9E9
+| 136836 ||  || — || November 8, 1997 || Oizumi || T. Kobayashi || JUN || align=right | 3.2 km || 
+|-id=837 bgcolor=#E9E9E9
+| 136837 ||  || — || November 2, 1997 || Xinglong || SCAP || — || align=right | 2.7 km || 
+|-id=838 bgcolor=#d6d6d6
+| 136838 ||  || — || November 28, 1997 || Xinglong || SCAP || BRA || align=right | 3.1 km || 
+|-id=839 bgcolor=#FFC2E0
+| 136839 ||  || — || November 29, 1997 || Socorro || LINEAR || AMO || align=right data-sort-value="0.62" | 620 m || 
+|-id=840 bgcolor=#E9E9E9
+| 136840 ||  || — || November 30, 1997 || Kitt Peak || Spacewatch || GAL || align=right | 2.8 km || 
+|-id=841 bgcolor=#E9E9E9
+| 136841 ||  || — || November 29, 1997 || Socorro || LINEAR || — || align=right | 2.2 km || 
+|-id=842 bgcolor=#E9E9E9
+| 136842 ||  || — || December 6, 1997 || Goodricke-Pigott || R. A. Tucker || HNS || align=right | 2.4 km || 
+|-id=843 bgcolor=#d6d6d6
+| 136843 ||  || — || December 25, 1997 || Oizumi || T. Kobayashi || TRP || align=right | 5.9 km || 
+|-id=844 bgcolor=#E9E9E9
+| 136844 ||  || — || December 25, 1997 || Haleakala || NEAT || — || align=right | 3.5 km || 
+|-id=845 bgcolor=#E9E9E9
+| 136845 ||  || — || December 28, 1997 || Kitt Peak || Spacewatch || — || align=right | 2.3 km || 
+|-id=846 bgcolor=#fefefe
+| 136846 ||  || — || December 28, 1997 || Kitt Peak || Spacewatch || — || align=right | 1.4 km || 
+|-id=847 bgcolor=#d6d6d6
+| 136847 ||  || — || January 20, 1998 || Nachi-Katsuura || Y. Shimizu, T. Urata || — || align=right | 4.7 km || 
+|-id=848 bgcolor=#E9E9E9
+| 136848 Kevanpooler ||  ||  || January 25, 1998 || Cima Ekar || U. Munari, M. Tombelli || — || align=right | 4.7 km || 
+|-id=849 bgcolor=#FFC2E0
+| 136849 ||  || — || February 9, 1998 || Xinglong || SCAP || APO +1kmPHA || align=right | 1.0 km || 
+|-id=850 bgcolor=#E9E9E9
+| 136850 ||  || — || February 17, 1998 || Xinglong || SCAP || — || align=right | 5.2 km || 
+|-id=851 bgcolor=#d6d6d6
+| 136851 ||  || — || February 23, 1998 || Kitt Peak || Spacewatch || KOR || align=right | 2.2 km || 
+|-id=852 bgcolor=#fefefe
+| 136852 ||  || — || February 24, 1998 || Kitt Peak || Spacewatch || — || align=right | 1.3 km || 
+|-id=853 bgcolor=#fefefe
+| 136853 ||  || — || February 24, 1998 || Kitt Peak || Spacewatch || — || align=right data-sort-value="0.99" | 990 m || 
+|-id=854 bgcolor=#fefefe
+| 136854 ||  || — || February 26, 1998 || Kitt Peak || Spacewatch || — || align=right | 1.3 km || 
+|-id=855 bgcolor=#d6d6d6
+| 136855 ||  || — || March 1, 1998 || Kitt Peak || Spacewatch || — || align=right | 4.5 km || 
+|-id=856 bgcolor=#d6d6d6
+| 136856 ||  || — || March 18, 1998 || Kitt Peak || Spacewatch || — || align=right | 4.7 km || 
+|-id=857 bgcolor=#d6d6d6
+| 136857 ||  || — || March 20, 1998 || Kitt Peak || Spacewatch || — || align=right | 4.1 km || 
+|-id=858 bgcolor=#fefefe
+| 136858 ||  || — || March 24, 1998 || Caussols || ODAS || — || align=right | 1.1 km || 
+|-id=859 bgcolor=#fefefe
+| 136859 ||  || — || March 20, 1998 || Socorro || LINEAR || FLO || align=right | 1.3 km || 
+|-id=860 bgcolor=#E9E9E9
+| 136860 ||  || — || March 20, 1998 || Socorro || LINEAR || — || align=right | 4.2 km || 
+|-id=861 bgcolor=#fefefe
+| 136861 ||  || — || March 20, 1998 || Socorro || LINEAR || — || align=right | 2.5 km || 
+|-id=862 bgcolor=#fefefe
+| 136862 ||  || — || March 20, 1998 || Socorro || LINEAR || ERI || align=right | 3.0 km || 
+|-id=863 bgcolor=#fefefe
+| 136863 ||  || — || March 20, 1998 || Socorro || LINEAR || FLO || align=right | 1.3 km || 
+|-id=864 bgcolor=#FA8072
+| 136864 ||  || — || March 20, 1998 || Socorro || LINEAR || — || align=right | 1.6 km || 
+|-id=865 bgcolor=#fefefe
+| 136865 ||  || — || March 20, 1998 || Socorro || LINEAR || — || align=right | 1.7 km || 
+|-id=866 bgcolor=#d6d6d6
+| 136866 ||  || — || March 20, 1998 || Socorro || LINEAR || — || align=right | 4.7 km || 
+|-id=867 bgcolor=#d6d6d6
+| 136867 ||  || — || March 20, 1998 || Socorro || LINEAR || — || align=right | 4.5 km || 
+|-id=868 bgcolor=#E9E9E9
+| 136868 ||  || — || March 20, 1998 || Socorro || LINEAR || — || align=right | 4.9 km || 
+|-id=869 bgcolor=#fefefe
+| 136869 ||  || — || March 20, 1998 || Socorro || LINEAR || FLO || align=right | 1.1 km || 
+|-id=870 bgcolor=#fefefe
+| 136870 ||  || — || March 20, 1998 || Socorro || LINEAR || — || align=right | 1.4 km || 
+|-id=871 bgcolor=#fefefe
+| 136871 ||  || — || March 20, 1998 || Socorro || LINEAR || — || align=right | 1.8 km || 
+|-id=872 bgcolor=#fefefe
+| 136872 ||  || — || March 20, 1998 || Socorro || LINEAR || NYS || align=right | 1.3 km || 
+|-id=873 bgcolor=#d6d6d6
+| 136873 ||  || — || March 20, 1998 || Socorro || LINEAR || — || align=right | 4.5 km || 
+|-id=874 bgcolor=#FFC2E0
+| 136874 ||  || — || March 31, 1998 || Socorro || LINEAR || APO +1km || align=right | 3.4 km || 
+|-id=875 bgcolor=#d6d6d6
+| 136875 ||  || — || March 24, 1998 || Socorro || LINEAR || — || align=right | 4.3 km || 
+|-id=876 bgcolor=#d6d6d6
+| 136876 ||  || — || March 24, 1998 || Socorro || LINEAR || — || align=right | 4.9 km || 
+|-id=877 bgcolor=#d6d6d6
+| 136877 ||  || — || March 31, 1998 || Socorro || LINEAR || — || align=right | 6.7 km || 
+|-id=878 bgcolor=#fefefe
+| 136878 ||  || — || March 20, 1998 || Socorro || LINEAR || EUT || align=right | 1.0 km || 
+|-id=879 bgcolor=#d6d6d6
+| 136879 ||  || — || March 24, 1998 || Socorro || LINEAR || — || align=right | 4.4 km || 
+|-id=880 bgcolor=#fefefe
+| 136880 ||  || — || March 22, 1998 || Socorro || LINEAR || NYS || align=right | 1.1 km || 
+|-id=881 bgcolor=#fefefe
+| 136881 ||  || — || March 20, 1998 || Socorro || LINEAR || — || align=right | 1.3 km || 
+|-id=882 bgcolor=#d6d6d6
+| 136882 ||  || — || March 20, 1998 || Socorro || LINEAR || — || align=right | 6.7 km || 
+|-id=883 bgcolor=#fefefe
+| 136883 ||  || — || March 25, 1998 || Socorro || LINEAR || FLO || align=right | 1.5 km || 
+|-id=884 bgcolor=#d6d6d6
+| 136884 ||  || — || March 29, 1998 || Socorro || LINEAR || — || align=right | 5.5 km || 
+|-id=885 bgcolor=#fefefe
+| 136885 ||  || — || April 2, 1998 || Socorro || LINEAR || — || align=right | 1.9 km || 
+|-id=886 bgcolor=#d6d6d6
+| 136886 ||  || — || April 2, 1998 || La Silla || E. W. Elst || — || align=right | 4.2 km || 
+|-id=887 bgcolor=#d6d6d6
+| 136887 ||  || — || April 18, 1998 || Kitt Peak || Spacewatch || — || align=right | 7.7 km || 
+|-id=888 bgcolor=#fefefe
+| 136888 ||  || — || April 17, 1998 || Kitt Peak || Spacewatch || — || align=right | 1.2 km || 
+|-id=889 bgcolor=#d6d6d6
+| 136889 ||  || — || April 18, 1998 || Socorro || LINEAR || — || align=right | 6.7 km || 
+|-id=890 bgcolor=#d6d6d6
+| 136890 ||  || — || April 20, 1998 || Socorro || LINEAR || — || align=right | 5.9 km || 
+|-id=891 bgcolor=#fefefe
+| 136891 ||  || — || April 20, 1998 || Socorro || LINEAR || — || align=right | 1.9 km || 
+|-id=892 bgcolor=#fefefe
+| 136892 ||  || — || April 28, 1998 || Kitt Peak || Spacewatch || V || align=right | 1.0 km || 
+|-id=893 bgcolor=#d6d6d6
+| 136893 ||  || — || April 18, 1998 || Kitt Peak || Spacewatch || — || align=right | 3.0 km || 
+|-id=894 bgcolor=#fefefe
+| 136894 ||  || — || April 20, 1998 || Socorro || LINEAR || — || align=right | 1.2 km || 
+|-id=895 bgcolor=#d6d6d6
+| 136895 ||  || — || April 20, 1998 || Socorro || LINEAR || — || align=right | 7.7 km || 
+|-id=896 bgcolor=#d6d6d6
+| 136896 ||  || — || April 20, 1998 || Socorro || LINEAR || — || align=right | 7.5 km || 
+|-id=897 bgcolor=#FFC2E0
+| 136897 ||  || — || April 28, 1998 || Socorro || LINEAR || AMO || align=right data-sort-value="0.71" | 710 m || 
+|-id=898 bgcolor=#d6d6d6
+| 136898 ||  || — || April 20, 1998 || Socorro || LINEAR || — || align=right | 5.3 km || 
+|-id=899 bgcolor=#fefefe
+| 136899 ||  || — || April 20, 1998 || Socorro || LINEAR || — || align=right | 1.6 km || 
+|-id=900 bgcolor=#FFC2E0
+| 136900 ||  || — || April 30, 1998 || Kitt Peak || Spacewatch || APO +1km || align=right | 1.2 km || 
+|}
+
+== 136901–137000 ==
+
+
+|-bgcolor=#fefefe
+| 136901 ||  || — || April 25, 1998 || Kitt Peak || Spacewatch || — || align=right | 1.6 km || 
+|-id=902 bgcolor=#d6d6d6
+| 136902 ||  || — || April 21, 1998 || Socorro || LINEAR || — || align=right | 5.5 km || 
+|-id=903 bgcolor=#fefefe
+| 136903 ||  || — || April 21, 1998 || Socorro || LINEAR || — || align=right data-sort-value="0.97" | 970 m || 
+|-id=904 bgcolor=#d6d6d6
+| 136904 ||  || — || April 21, 1998 || Socorro || LINEAR || — || align=right | 6.8 km || 
+|-id=905 bgcolor=#d6d6d6
+| 136905 ||  || — || April 21, 1998 || Socorro || LINEAR || ALA || align=right | 6.6 km || 
+|-id=906 bgcolor=#fefefe
+| 136906 ||  || — || April 21, 1998 || Socorro || LINEAR || — || align=right | 1.3 km || 
+|-id=907 bgcolor=#fefefe
+| 136907 ||  || — || April 21, 1998 || Socorro || LINEAR || — || align=right | 1.3 km || 
+|-id=908 bgcolor=#fefefe
+| 136908 ||  || — || April 21, 1998 || Socorro || LINEAR || FLO || align=right data-sort-value="0.98" | 980 m || 
+|-id=909 bgcolor=#fefefe
+| 136909 ||  || — || April 21, 1998 || Socorro || LINEAR || V || align=right | 1.3 km || 
+|-id=910 bgcolor=#fefefe
+| 136910 ||  || — || April 21, 1998 || Socorro || LINEAR || V || align=right | 1.1 km || 
+|-id=911 bgcolor=#fefefe
+| 136911 ||  || — || April 21, 1998 || Socorro || LINEAR || V || align=right data-sort-value="0.99" | 990 m || 
+|-id=912 bgcolor=#fefefe
+| 136912 ||  || — || April 21, 1998 || Socorro || LINEAR || NYS || align=right | 1.1 km || 
+|-id=913 bgcolor=#fefefe
+| 136913 ||  || — || April 21, 1998 || Socorro || LINEAR || — || align=right | 1.3 km || 
+|-id=914 bgcolor=#d6d6d6
+| 136914 ||  || — || April 25, 1998 || La Silla || E. W. Elst || — || align=right | 8.1 km || 
+|-id=915 bgcolor=#d6d6d6
+| 136915 ||  || — || April 23, 1998 || Socorro || LINEAR || — || align=right | 8.7 km || 
+|-id=916 bgcolor=#d6d6d6
+| 136916 ||  || — || April 23, 1998 || Socorro || LINEAR || — || align=right | 5.7 km || 
+|-id=917 bgcolor=#fefefe
+| 136917 ||  || — || April 18, 1998 || Socorro || LINEAR || — || align=right | 1.4 km || 
+|-id=918 bgcolor=#fefefe
+| 136918 ||  || — || April 19, 1998 || Socorro || LINEAR || ERI || align=right | 3.1 km || 
+|-id=919 bgcolor=#d6d6d6
+| 136919 ||  || — || April 21, 1998 || Socorro || LINEAR || TIR || align=right | 7.0 km || 
+|-id=920 bgcolor=#d6d6d6
+| 136920 ||  || — || April 21, 1998 || Socorro || LINEAR || URS || align=right | 7.2 km || 
+|-id=921 bgcolor=#fefefe
+| 136921 ||  || — || April 21, 1998 || Socorro || LINEAR || PHO || align=right | 2.8 km || 
+|-id=922 bgcolor=#fefefe
+| 136922 Brianbauer ||  ||  || April 19, 1998 || Anderson Mesa || M. W. Buie || — || align=right | 2.0 km || 
+|-id=923 bgcolor=#FFC2E0
+| 136923 ||  || — || May 1, 1998 || Kitt Peak || Spacewatch || AMO +1km || align=right | 2.0 km || 
+|-id=924 bgcolor=#fefefe
+| 136924 ||  || — || May 24, 1998 || Kitt Peak || Spacewatch || — || align=right | 1.7 km || 
+|-id=925 bgcolor=#d6d6d6
+| 136925 || 1998 ME || — || June 16, 1998 || Kitt Peak || Spacewatch || — || align=right | 4.1 km || 
+|-id=926 bgcolor=#FA8072
+| 136926 || 1998 MY || — || June 16, 1998 || Socorro || LINEAR || — || align=right | 1.7 km || 
+|-id=927 bgcolor=#fefefe
+| 136927 ||  || — || June 16, 1998 || Kitt Peak || Spacewatch || V || align=right | 1.1 km || 
+|-id=928 bgcolor=#fefefe
+| 136928 ||  || — || June 20, 1998 || Kitt Peak || Spacewatch || — || align=right | 1.4 km || 
+|-id=929 bgcolor=#fefefe
+| 136929 ||  || — || June 20, 1998 || Kitt Peak || Spacewatch || — || align=right | 1.2 km || 
+|-id=930 bgcolor=#fefefe
+| 136930 ||  || — || July 24, 1998 || Caussols || ODAS || — || align=right | 1.8 km || 
+|-id=931 bgcolor=#fefefe
+| 136931 ||  || — || July 30, 1998 || Višnjan Observatory || Višnjan Obs. || — || align=right | 1.9 km || 
+|-id=932 bgcolor=#fefefe
+| 136932 ||  || — || July 28, 1998 || Xinglong || SCAP || — || align=right | 1.8 km || 
+|-id=933 bgcolor=#fefefe
+| 136933 ||  || — || August 22, 1998 || Xinglong || SCAP || V || align=right | 1.6 km || 
+|-id=934 bgcolor=#fefefe
+| 136934 ||  || — || August 19, 1998 || Socorro || LINEAR || H || align=right | 1.2 km || 
+|-id=935 bgcolor=#d6d6d6
+| 136935 ||  || — || August 24, 1998 || Caussols || ODAS || 3:2 || align=right | 9.5 km || 
+|-id=936 bgcolor=#fefefe
+| 136936 ||  || — || August 17, 1998 || Socorro || LINEAR || — || align=right | 1.3 km || 
+|-id=937 bgcolor=#fefefe
+| 136937 ||  || — || August 22, 1998 || Xinglong || SCAP || — || align=right | 1.5 km || 
+|-id=938 bgcolor=#fefefe
+| 136938 ||  || — || August 17, 1998 || Socorro || LINEAR || — || align=right | 1.2 km || 
+|-id=939 bgcolor=#fefefe
+| 136939 ||  || — || August 17, 1998 || Socorro || LINEAR || NYS || align=right | 1.6 km || 
+|-id=940 bgcolor=#fefefe
+| 136940 ||  || — || August 17, 1998 || Socorro || LINEAR || slow || align=right | 1.8 km || 
+|-id=941 bgcolor=#fefefe
+| 136941 ||  || — || August 30, 1998 || Kitt Peak || Spacewatch || MAS || align=right | 1.1 km || 
+|-id=942 bgcolor=#fefefe
+| 136942 ||  || — || August 24, 1998 || Socorro || LINEAR || — || align=right | 2.3 km || 
+|-id=943 bgcolor=#fefefe
+| 136943 ||  || — || August 24, 1998 || Socorro || LINEAR || — || align=right | 1.5 km || 
+|-id=944 bgcolor=#fefefe
+| 136944 ||  || — || August 24, 1998 || Socorro || LINEAR || — || align=right | 3.3 km || 
+|-id=945 bgcolor=#fefefe
+| 136945 ||  || — || August 24, 1998 || Socorro || LINEAR || — || align=right | 3.7 km || 
+|-id=946 bgcolor=#fefefe
+| 136946 ||  || — || August 26, 1998 || La Silla || E. W. Elst || NYS || align=right | 1.1 km || 
+|-id=947 bgcolor=#fefefe
+| 136947 ||  || — || August 26, 1998 || La Silla || E. W. Elst || NYS || align=right | 1.5 km || 
+|-id=948 bgcolor=#fefefe
+| 136948 ||  || — || August 25, 1998 || La Silla || E. W. Elst || V || align=right | 1.2 km || 
+|-id=949 bgcolor=#fefefe
+| 136949 ||  || — || August 23, 1998 || Socorro || LINEAR || NYS || align=right | 1.5 km || 
+|-id=950 bgcolor=#E9E9E9
+| 136950 ||  || — || September 14, 1998 || Catalina || CSS || — || align=right | 5.9 km || 
+|-id=951 bgcolor=#fefefe
+| 136951 ||  || — || September 14, 1998 || Socorro || LINEAR || H || align=right data-sort-value="0.87" | 870 m || 
+|-id=952 bgcolor=#E9E9E9
+| 136952 ||  || — || September 14, 1998 || Socorro || LINEAR || — || align=right | 2.0 km || 
+|-id=953 bgcolor=#fefefe
+| 136953 ||  || — || September 14, 1998 || Socorro || LINEAR || H || align=right | 1.0 km || 
+|-id=954 bgcolor=#fefefe
+| 136954 ||  || — || September 14, 1998 || Socorro || LINEAR || H || align=right | 1.0 km || 
+|-id=955 bgcolor=#fefefe
+| 136955 ||  || — || September 15, 1998 || Caussols || ODAS || — || align=right | 2.0 km || 
+|-id=956 bgcolor=#fefefe
+| 136956 ||  || — || September 12, 1998 || Kitt Peak || Spacewatch || — || align=right | 1.2 km || 
+|-id=957 bgcolor=#fefefe
+| 136957 ||  || — || September 13, 1998 || Kitt Peak || Spacewatch || — || align=right | 1.6 km || 
+|-id=958 bgcolor=#fefefe
+| 136958 ||  || — || September 13, 1998 || Kitt Peak || Spacewatch || MAS || align=right | 1.3 km || 
+|-id=959 bgcolor=#fefefe
+| 136959 ||  || — || September 15, 1998 || Kitt Peak || Spacewatch || — || align=right | 1.6 km || 
+|-id=960 bgcolor=#fefefe
+| 136960 ||  || — || September 14, 1998 || Socorro || LINEAR || — || align=right | 1.6 km || 
+|-id=961 bgcolor=#fefefe
+| 136961 ||  || — || September 14, 1998 || Socorro || LINEAR || MAS || align=right | 1.5 km || 
+|-id=962 bgcolor=#fefefe
+| 136962 ||  || — || September 14, 1998 || Socorro || LINEAR || NYS || align=right | 1.1 km || 
+|-id=963 bgcolor=#fefefe
+| 136963 ||  || — || September 14, 1998 || Socorro || LINEAR || V || align=right | 1.4 km || 
+|-id=964 bgcolor=#fefefe
+| 136964 ||  || — || September 14, 1998 || Socorro || LINEAR || V || align=right | 1.1 km || 
+|-id=965 bgcolor=#E9E9E9
+| 136965 ||  || — || September 14, 1998 || Socorro || LINEAR || — || align=right | 1.8 km || 
+|-id=966 bgcolor=#fefefe
+| 136966 ||  || — || September 14, 1998 || Socorro || LINEAR || NYS || align=right | 1.3 km || 
+|-id=967 bgcolor=#fefefe
+| 136967 ||  || — || September 14, 1998 || Socorro || LINEAR || — || align=right | 2.0 km || 
+|-id=968 bgcolor=#E9E9E9
+| 136968 ||  || — || September 14, 1998 || Socorro || LINEAR || — || align=right | 1.8 km || 
+|-id=969 bgcolor=#fefefe
+| 136969 ||  || — || September 14, 1998 || Socorro || LINEAR || V || align=right | 1.5 km || 
+|-id=970 bgcolor=#fefefe
+| 136970 ||  || — || September 14, 1998 || Socorro || LINEAR || — || align=right | 1.7 km || 
+|-id=971 bgcolor=#fefefe
+| 136971 ||  || — || September 14, 1998 || Socorro || LINEAR || SUL || align=right | 3.6 km || 
+|-id=972 bgcolor=#E9E9E9
+| 136972 ||  || — || September 14, 1998 || Socorro || LINEAR || — || align=right | 1.2 km || 
+|-id=973 bgcolor=#fefefe
+| 136973 ||  || — || September 14, 1998 || Socorro || LINEAR || NYS || align=right | 1.3 km || 
+|-id=974 bgcolor=#fefefe
+| 136974 ||  || — || September 14, 1998 || Socorro || LINEAR || MAS || align=right | 1.4 km || 
+|-id=975 bgcolor=#fefefe
+| 136975 ||  || — || September 14, 1998 || Socorro || LINEAR || — || align=right | 1.3 km || 
+|-id=976 bgcolor=#d6d6d6
+| 136976 ||  || — || September 14, 1998 || Socorro || LINEAR || — || align=right | 5.2 km || 
+|-id=977 bgcolor=#fefefe
+| 136977 ||  || — || September 14, 1998 || Socorro || LINEAR || — || align=right | 1.7 km || 
+|-id=978 bgcolor=#E9E9E9
+| 136978 ||  || — || September 14, 1998 || Socorro || LINEAR || — || align=right | 1.6 km || 
+|-id=979 bgcolor=#fefefe
+| 136979 ||  || — || September 14, 1998 || Socorro || LINEAR || — || align=right | 1.6 km || 
+|-id=980 bgcolor=#E9E9E9
+| 136980 || 1998 SR || — || September 16, 1998 || Caussols || ODAS || — || align=right | 1.6 km || 
+|-id=981 bgcolor=#fefefe
+| 136981 ||  || — || September 17, 1998 || Caussols || ODAS || V || align=right | 1.2 km || 
+|-id=982 bgcolor=#fefefe
+| 136982 ||  || — || September 17, 1998 || Caussols || ODAS || ERI || align=right | 4.2 km || 
+|-id=983 bgcolor=#fefefe
+| 136983 ||  || — || September 17, 1998 || Kitt Peak || Spacewatch || MAS || align=right | 1.7 km || 
+|-id=984 bgcolor=#E9E9E9
+| 136984 ||  || — || September 21, 1998 || Ondřejov || P. Pravec || — || align=right | 1.9 km || 
+|-id=985 bgcolor=#E9E9E9
+| 136985 ||  || — || September 22, 1998 || Caussols || ODAS || GER || align=right | 2.3 km || 
+|-id=986 bgcolor=#E9E9E9
+| 136986 ||  || — || September 16, 1998 || Kitt Peak || Spacewatch || — || align=right | 1.1 km || 
+|-id=987 bgcolor=#E9E9E9
+| 136987 ||  || — || September 21, 1998 || Kitt Peak || Spacewatch || — || align=right | 1.4 km || 
+|-id=988 bgcolor=#fefefe
+| 136988 ||  || — || September 26, 1998 || Socorro || LINEAR || H || align=right | 1.3 km || 
+|-id=989 bgcolor=#fefefe
+| 136989 ||  || — || September 26, 1998 || Socorro || LINEAR || H || align=right | 1.0 km || 
+|-id=990 bgcolor=#fefefe
+| 136990 ||  || — || September 26, 1998 || Socorro || LINEAR || H || align=right data-sort-value="0.97" | 970 m || 
+|-id=991 bgcolor=#E9E9E9
+| 136991 ||  || — || September 28, 1998 || Prescott || P. G. Comba || — || align=right | 1.5 km || 
+|-id=992 bgcolor=#E9E9E9
+| 136992 ||  || — || September 25, 1998 || Kitt Peak || Spacewatch || slow? || align=right | 2.6 km || 
+|-id=993 bgcolor=#FFC2E0
+| 136993 ||  || — || September 29, 1998 || Socorro || LINEAR || APO +1kmmoon || align=right data-sort-value="0.99" | 990 m || 
+|-id=994 bgcolor=#fefefe
+| 136994 ||  || — || September 17, 1998 || Anderson Mesa || LONEOS || — || align=right | 2.2 km || 
+|-id=995 bgcolor=#fefefe
+| 136995 ||  || — || September 17, 1998 || Anderson Mesa || LONEOS || MAS || align=right | 1.4 km || 
+|-id=996 bgcolor=#fefefe
+| 136996 ||  || — || September 26, 1998 || Xinglong || SCAP || — || align=right | 2.7 km || 
+|-id=997 bgcolor=#fefefe
+| 136997 ||  || — || September 21, 1998 || La Silla || E. W. Elst || MAS || align=right | 1.7 km || 
+|-id=998 bgcolor=#E9E9E9
+| 136998 ||  || — || September 21, 1998 || La Silla || E. W. Elst || — || align=right | 1.6 km || 
+|-id=999 bgcolor=#fefefe
+| 136999 ||  || — || September 19, 1998 || Socorro || LINEAR || — || align=right | 1.8 km || 
+|-id=000 bgcolor=#fefefe
+| 137000 ||  || — || September 26, 1998 || Socorro || LINEAR || — || align=right | 1.6 km || 
+|}
+
+
+
+== References ==
+
+
+== External links ==
+* Discovery Circumstances: Numbered Minor Planets (135001)–(140000) (IAU Minor Planet Center)
+
+
+0136

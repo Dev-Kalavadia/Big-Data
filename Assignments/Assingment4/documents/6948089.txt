@@ -1,0 +1,8 @@
+Title: Cablesoft
+Cablesoft was an early attempt to define an interactive television standard. The partners in the new company were Microsoft, Tele-Communications and Time Warner. In fact, much of the effort appeared to be on Microsoft's part, and the two cable companies were essentially launch partners. 
+
+The Cablesoft effort was first announced in the May 1994 and at the time consisted primarily of the Microsoft Media Server (codenamed Tiger during development) and a custom version of the Windows NT operating system known as NTAS, which was essentially a series of fine-tuning efforts to drive ATM switches. The basic model appeared to be to use a PC-like set-top box that would communicate with PC's running NTAS at the cable company's head ends, using Tiger to cue up and deliver content.
+Cablesoft was succeeded by MSN TV in 1997.
+==Note==
+An apparently unrelated company, CableSoft, also delivered on-demand content starting around 1995. The company was headquartered in Burlington, Massachusetts.
+

@@ -1,0 +1,207 @@
+Title: List of municipalities of the Province of Teramo
+
+The following is a list of the 47 municipalities (comuni) of the Province of Teramo, Abruzzo, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|067001
+|Alba Adriatica
+| align="right" |11,104
+|-
+|067002
+|Ancarano
+| align="right" |1,854
+|-
+|067003
+|Arsita
+| align="right" |952
+|-
+|067004
+|Atri
+| align="right" |11,286
+|-
+|067005
+|Basciano
+| align="right" |2,453
+|-
+|067006
+|Bellante
+| align="right" |7,198
+|-
+|067007
+|Bisenti
+| align="right" |2,103
+|-
+|067008
+|Campli
+| align="right" |7,533
+|-
+|067009
+|Canzano
+| align="right" |1,863
+|-
+|067010
+|Castel Castagna
+| align="right" |552
+|-
+|067011
+|Castellalto
+| align="right" |6,973
+|-
+|067012
+|Castelli
+| align="right" |1,314
+|-
+|067013
+|Castiglione Messer Raimondo
+| align="right" |2,486
+|-
+|067014
+|Castilenti
+| align="right" |1,607
+|-
+|067015
+|Cellino Attanasio
+| align="right" |2,719
+|-
+|067016
+|Cermignano
+| align="right" |1,919
+|-
+|067017
+|Civitella del Tronto
+| align="right" |5,395
+|-
+|067018
+|Colledara
+| align="right" |2,281
+|-
+|067019
+|Colonnella
+| align="right" |3,422
+|-
+|067020
+|Controguerra
+| align="right" |2,515
+|-
+|067021
+|Corropoli
+| align="right" |4,018
+|-
+|067022
+|Cortino
+| align="right" |775
+|-
+|067023
+|Crognaleto
+| align="right" |1,569
+|-
+|067024
+|Fano Adriano
+| align="right" |401
+|-
+|067025
+|Giulianova
+| align="right" |21,806
+|-
+|067026
+|Isola del Gran Sasso
+| align="right" |4,947
+|-
+|067027
+|Montefino
+| align="right" |1,172
+|-
+|067028
+|Montorio al Vomano
+| align="right" |8,037
+|-
+|067029
+|Morro d'Oro
+| align="right" |3,408
+|-
+|067030
+|Mosciano Sant'Angelo
+| align="right" |8,539
+|-
+|067031
+|Nereto
+| align="right" |4,717
+|-
+|067032
+|Notaresco
+| align="right" |6,817
+|-
+|067033
+|Penna Sant'Andrea
+| align="right" |1,721
+|-
+|067034
+|Pietracamela
+| align="right" |302
+|-
+|067035
+|Pineto
+| align="right" |13,497
+|-
+|067036
+|Rocca Santa Maria
+| align="right" |652
+|-
+|067037
+|Roseto degli Abruzzi
+| align="right" |23,554
+|-
+|067038
+|Sant'Egidio alla Vibrata
+| align="right" |9,141
+|-
+|067039
+|Sant'Omero
+| align="right" |5,267
+|-
+|067040
+|Silvi Marina
+| align="right" |15,250
+|-
+|067041
+|Teramo
+| align="right" |52,695
+|-
+|067042
+|Torano Nuovo
+| align="right" |1,670
+|-
+|067043
+|Torricella Sicura
+| align="right" |2,703
+|-
+|067044
+|Tortoreto
+| align="right" |8,401
+|-
+|067045
+|Tossicia
+| align="right" |1,493
+|-
+|067046
+|Valle Castellana
+| align="right" |1,182
+|-
+|067047
+|Martinsicuro
+| align="right" |14,800
+|-
+|
+|Total
+| align="right" |296,063
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

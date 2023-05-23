@@ -1,0 +1,393 @@
+Title: List of places in Alaska (M)
+
+This list of cities, towns, unincorporated communities, counties, and other recognized places in the U.S. state of Alaska also includes information on the number and names of counties in which the place lies, and its lower and upper zip code bounds, if applicable.
+
+
+{| class="wikitable"
+!Name of place
+!Number of counties
+!Principal county
+!Lower zip code
+!Upper zip code
+|----
+|McCarthy
+|1
+|Valdez-Cordova Census Area
+|99566
+| 
+|----
+|McCord
+|1
+|Kodiak Island Borough
+| 
+| 
+|----
+|McGrath
+|1
+|Yukon-Koyukuk Census Area
+|99627
+| 
+|----
+|McGrath Airport
+|1
+|Yukon-Koyukuk Census Area
+|99627
+| 
+|----
+|McGrath-Holy Cross
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|McKinley Park
+|1
+|Denali Borough
+|99755
+| 
+|----
+|McKinley Village
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Makushin
+|1
+|Aleutians West Census Area
+| 
+| 
+|----
+|Manley Hot Springs
+|1
+|Yukon-Koyukuk Census Area
+|99756
+| 
+|----
+|Manokotak
+|1
+|Dillingham Census Area
+|99628
+| 
+|----
+|Marshall
+|1
+|Kusilvak Census Area
+|99585
+| 
+|----
+|Marvel Creek
+|1
+|Bethel Census Area
+|99557
+| 
+|----
+|Mary's Igloo
+|1
+|Nome Census Area
+|99778
+| 
+|----
+|Matanuska
+|1
+|Matanuska-Susitna Borough
+|99645
+| 
+|----
+|Matanuska-Susitna
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Matanuska-Susitna Borough School District
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|May Creek
+|1
+|Valdez-Cordova Census Area
+|99566
+| 
+|----
+|Meade River
+|1
+|North Slope Borough
+| 
+| 
+|----
+|Meadow Lakes
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Meakerville
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Medfra
+|1
+|Yukon-Koyukuk Census Area
+|99627
+| 
+|----
+|Medfra
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Mekoryuk
+|1
+|Bethel Census Area
+|99630
+| 
+|----
+|Mellicks Trading Post
+|1
+|Bethel Census Area
+|99668
+| 
+|----
+|Mendeltna
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Mendeltna Lodge
+|1
+|Valdez-Cordova Census Area
+|99645
+| 
+|----
+|Mendenhall
+|1
+|City and Borough of Juneau
+|99801
+| 
+|----
+|Mendenhall Flats
+|1
+|City and Borough of Juneau
+|99801
+| 
+|----
+|Mendenhall Valley
+|1
+|City and Borough of Juneau
+| 
+| 
+|----
+|Mendenhaven
+|1
+|City and Borough of Juneau
+| 
+| 
+|----
+|Mentasta
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Mentasta Lake
+|1
+|Valdez-Cordova Census Area
+|99780
+| 
+|----
+|Meshik
+|1
+|Lake and Peninsula Borough
+| 
+| 
+|----
+|Metlakahtla
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Metlakatla
+|1
+|Prince of Wales-Outer Census Area
+|99926
+| 
+|----
+|Metlakatla Indian Community
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Meyers Chuck
+|1
+|Prince of Wales-Outer Census Area
+|99903
+| 
+|----
+|Miller House
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Miller Landing
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Millers Landing
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Minto
+|1
+|Yukon-Koyukuk Census Area
+|99758
+| 
+|----
+|Montana
+|1
+|Matanuska-Susitna Borough
+|99676
+| 
+|----
+|Montana Creek
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Moody
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Moore Creek
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Moose Creek
+|1
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Moose Pass
+|1
+|Kenai Peninsula Borough
+|99631
+| 
+|----
+|Moquawkie
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Morzhovoi
+|1
+|Aleutians East Borough
+|99583
+| 
+|----
+|Moses Point Fishing Village
+|1
+|Nome Census Area
+|99762
+| 
+|----
+|Mosquito Lake
+|1
+|Haines Borough
+| 
+| 
+|----
+|Mountain Point
+|1
+|Ketchikan Gateway Borough
+|99901
+| 
+|----
+|Mountain View
+|1
+|Municipality of Anchorage
+|99508
+| 
+|----
+|Mountain Village
+|1
+|Kusilvak Census Area
+|99632
+| 
+|----
+|Mount Edgecumbe
+|1
+|City and Borough of Sitka
+|99835
+| 
+|----
+|Mount McKinley National Park
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Mud Bay
+|1
+|Haines Borough
+| 
+| 
+|----
+|Mud Bay
+|1
+|Ketchikan Gateway Borough
+|99901
+| 
+|----
+|Mumtrak
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|Murphy Dome
+|1
+|Fairbanks North Star Borough
+|99701
+| 
+|----
+|Musk Ox
+|1
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Muskwa Village
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Myers Chuck
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|}
+
+ M

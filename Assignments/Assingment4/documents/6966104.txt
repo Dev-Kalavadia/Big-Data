@@ -1,0 +1,23 @@
+Title: Vent (submarine)
+
+
+In submarine technology a vent  is a valve fitted to the top of a submarine's ballast tanks to let air escape from the top of the ballast tank and be replaced by water entering through the opening(s) called "flood ports" or "floods" at the bottom of the tank.  In earlier times, the openings at the bottom of the ballast tank were fitted with valves known as Kingston valves.  These valves were eliminated in the U.S. Navy between the World Wars.
+
+When on the surface a submarine's ballast tanks are filled with air which gives the vessel its buoyancy and in order for the submarine to submerge water is taken into the ballast tanks through the flood ports at the bottom of the tanks, effacing this excess buoyancy. As the ballast tanks contain air when on the surface it is necessary to allow this air to escape, so that water may then enter the tanks, and this air is allowed to escape via the opened vents in the top of the ballast tanks.
+
+The vents which are used to allow water to enter the submarine's main ballast tanks when it submerges are the main vents and it is air escaping through these that accounts for the spray sometimes seen when submarines dive.
+
+To get a submarine to surface, the main vents in the top of the tank are closed and high-pressure compressed air is blown into the ballast tanks, forcing the water out through the flood ports at the bottom of the tank. Replacing ballast water with lighter air reduces the vessel's total mass. When the weight of the vessel becomes less than the weight of the volume of displaced water, buoyancy becomes positive, in accordance with Archimedes' principle and the submarine begins to rise. The displacement of a submerged submarine with full ballast tanks is greater than the displacement on the surface with empty ballast tanks where buoyancy equilibrium is restored. 
+
+Once on the surface, in order to conserve supplies of compressed air, a lower-pressure compressor is then used to remove the remainder of the water from the tanks.
+
+==See also==
+* Ballast tank
+* Kingston valve
+
+
+Category:Submarine components
+Category:Submarine design
+
+
+

@@ -1,0 +1,446 @@
+Title: Rikard Franzén
+
+Rikard Franzén (born March 21, 1968 in Huddinge, Sweden) is a retired professional ice hockey defenceman.
+
+Franzén spent most of his career with AIK Hockey as their top defenceman. Having originally played for the team from 1988 to 1997, he moved to Germany's Deutsche Eishockey Liga with the Kölner Haie, but after one season he returned to AIK. In 2001, Franzén moved to Switzerland's Nationalliga A with SC Bern where he spent two seasons. He then returned to the DEL, signing for the Hannover Scorpions. In 2004, Franzén returned to Sweden with Djurgårdens IF before retiring.
+
+==Career statistics==
+===Regular season and playoffs===
+{| border="0" cellpadding="1" cellspacing="0" style="text-align:center; width:60em"
+|- bgcolor="#e0e0e0"
+! colspan="3" bgcolor="#ffffff" |  
+! rowspan="99" bgcolor="#ffffff" |  
+! colspan="5" | Regular season
+! rowspan="99" bgcolor="#ffffff" |  
+! colspan="5" | Playoffs
+|- bgcolor="#e0e0e0"
+! Season
+! Team
+! League
+! GP
+! G
+! A
+! Pts
+! PIM
+! GP
+! G
+! A
+! Pts
+! PIM
+|- 
+| 1985–86
+| Huddinge IK
+| Swe-2
+| 29
+| 3
+| 7
+| 10
+| 40
+| —
+| —
+| —
+| —
+| —
+|- bgcolor="#f0f0f0"
+| 1986–87
+| Huddinge IK
+| Swe-2
+| 28
+| 5
+| 4
+| 9
+| 36
+| —
+| —
+| —
+| —
+| —
+|-
+| 1987–88
+| AIK
+| SEL
+| 22
+| 3
+| 6
+| 9
+| 16
+| 5
+| 0
+| 1
+| 1
+| 6
+|- bgcolor="#f0f0f0"
+| 1988–89
+| AIK
+| SEL
+| 36
+| 2
+| 12
+| 14
+| 38
+| 1
+| 0
+| 0
+| 0
+| 0
+|-
+| 1989–90
+| AIK
+| SEL
+| 34
+| 7
+| 10
+| 17
+| 46
+| 3
+| 2
+| 0
+| 2
+| 2
+|- bgcolor="#f0f0f0"
+| 1990–91
+| AIK
+| SEL
+| 35
+| 8
+| 12
+| 20
+| 55
+| —
+| —
+| —
+| —
+| —
+|-
+| 1991–92
+| AIK
+| SEL
+| 37
+| 5
+| 12
+| 17
+| 40
+| 3
+| 0
+| 0
+| 0
+| 4
+|- bgcolor="#f0f0f0"
+| 1992–93
+| AIK
+| SEL
+| 20
+| 9
+| 7
+| 16
+| 50
+| —
+| —
+| —
+| —
+| —
+|-
+| 1992–93
+| AIK
+| Allsv.
+| 18
+| 6
+| 9
+| 15
+| 24
+| 2
+| 1
+| 2
+| 3
+| 2
+|- bgcolor="#f0f0f0"
+| 1993–94
+| AIK
+| SEL
+| 31
+| 10
+| 14
+| 24
+| 82
+| —
+| —
+| —
+| —
+| —
+|-
+| 1994–95
+| AIK
+| SEL
+| 39
+| 12
+| 13
+| 25
+| 42
+| —
+| —
+| —
+| —
+| —
+|- bgcolor="#f0f0f0"
+| 1995–96
+| AIK
+| SEL
+| 39
+| 10
+| 7
+| 17
+| 54
+| —
+| —
+| —
+| —
+| —
+|-
+| 1996–97
+| AIK
+| SEL
+| 47
+| 10
+| 13
+| 23
+| 46
+| 7
+| 2
+| 1
+| 3
+| 18
+|- bgcolor="#f0f0f0"
+| 1997–98
+| Kölner Haie
+| DEL
+| 46
+| 8
+| 15
+| 23
+| 86
+| 3
+| 0
+| 3
+| 3
+| 6
+|-
+| 1998–99
+| AIK
+| SEL
+| 33
+| 6
+| 10
+| 16
+| 61
+| —
+| —
+| —
+| —
+| —
+|- bgcolor="#f0f0f0"
+| 1999–2000
+| AIK
+| SEL
+| 49
+| 17
+| 29
+| 46
+| 54
+| —
+| —
+| —
+| —
+| —
+|-
+| 2000–01
+| AIK
+| SEL
+| 50
+| 7
+| 19
+| 26
+| 100
+| 5
+| 1
+| 1
+| 2
+| 16
+|- bgcolor="#f0f0f0"
+| 2001–02
+| SC Bern
+| NLA
+| 44
+| 7
+| 18
+| 25
+| 54
+| 2
+| 0
+| 0
+| 0
+| 4
+|-
+| 2002–03
+| SC Bern
+| NLA
+| 32
+| 2
+| 16
+| 18
+| 70
+| —
+| —
+| —
+| —
+| —
+|- bgcolor="#f0f0f0"
+| 2002–03
+| EHC Biel
+| NLB
+| 1
+| 0
+| 0
+| 0
+| 0
+| —
+| —
+| —
+| —
+| —
+|-
+| 2003–04
+| Hannover Scorpions
+| DEL
+| 30
+| 3
+| 6
+| 9
+| 20
+| —
+| —
+| —
+| —
+| —
+|- bgcolor="#f0f0f0"
+| 2004–05
+| Djurgårdens IF
+| SEL
+| 34
+| 0
+| 6
+| 6
+| 57
+| 1
+| 0
+| 0
+| 0
+| 0
+|- bgcolor="#e0e0e0"
+! colspan="3" | SEL totals
+! 475
+! 96
+! 156
+! 252
+! 659
+! 25
+! 5
+! 3
+! 8
+! 46
+|- bgcolor="#e0e0e0"
+! colspan="3" | DEL totals
+! 76
+! 11
+! 21
+! 32
+! 106
+! 3
+! 0
+! 3
+! 3
+! 6
+|- bgcolor="#e0e0e0"
+! colspan="3" | NLA totals
+! 76
+! 9
+! 34
+! 43
+! 124
+! —
+! —
+! —
+! —
+! —
+|}
+
+===International===
+{| border="0" cellpadding="1" cellspacing="0" style="text-align:center; width:50em"
+|- ALIGN="center" bgcolor="#e0e0e0"
+! Year
+! Team
+! Event
+! rowspan="99" bgcolor="#ffffff" |  
+! GP
+! G
+! A
+! Pts
+! PIM
+|-
+| 1986
+| Sweden
+| EJC
+| 5
+| 0
+| 0
+| 0
+| 6
+|- bgcolor="#f0f0f0"
+| 1987
+| Sweden
+| WJC
+| 7
+| 3
+| 2
+| 5
+| 10
+|-
+| 1988
+| Sweden
+| WJC
+| 7
+| 0
+| 0
+| 0
+| 8
+|- bgcolor="#f0f0f0"
+| 2000
+| Sweden
+| WC
+| 5
+| 0
+| 1
+| 1
+| 6
+|- bgcolor="#e0e0e0"
+! colspan=3 | Junior totals
+! 19
+! 3
+! 2
+! 5
+! 24
+|}
+
+==External links==
+*
+
+
+Category:Swedish ice hockey defencemen
+Category:Swedish expatriate ice hockey players in Germany
+Category:Swedish expatriate sportspeople in Switzerland
+Category:AIK IF players
+Category:Kölner Haie players
+Category:Hannover Scorpions players
+Category:SC Bern players
+Category:Djurgårdens IF Hockey players
+Category:Living people
+Category:1968 births

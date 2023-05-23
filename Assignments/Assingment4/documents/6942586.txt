@@ -1,0 +1,38 @@
+Title: Brahea
+
+
+Brahea is a genus of palms in the family Arecaceae. They are commonly referred to as hesper palms and are endemic to Mexico and Central America.Kew World Checklist of Selected Plant FamiliesGovaerts, R. & Dransfield, J. (2005). World Checklist of Palms: 1-223. The Board of Trustees of the Royal Botanic Gardens, Kew. All Hesper Palms have large, fan-shaped leaves.
+The generic name honours Danish astronomer Tycho Brahe (1546-1601).
+
+==Species==
+{| class="wikitable sortable"
+|- 
+! Image !! Name !! Common name!! Distribution
+|-
+|120px ||Brahea aculeata (Brandegee) H.E.Moore  ||Sinaloa hesper palm   || Sonora, Sinaloa, Durango
+|-
+|120px ||Brahea armata S.Watson  ||Blue hesper palm, Mexican blue palm  || Baja California, Sonora 
+|-
+|120px ||Brahea brandegeei (Purpus) H.E.Moore  || San Jose hesper palm, palma de taco || Baja California Sur, Sonora 
+|-
+|120px ||Brahea calcarea Liebm.  || || western Mexico, Guatemala
+|-
+|120px ||Brahea decumbens Rzed.||  || Tamaulipas, San Luis Potosí
+|-
+| ||Brahea dulcis (Kunth) Mart.  || Rock palm  || widespread across much of Mexico as well as Belize, Guatemala, Honduras, El Salvador
+|-
+|120px ||Brahea edulis H.Wendl.  || Guadalupe palm || Guadalupe Island in State of Baja California  
+|- 
+|||Brahea moorei L.H.Bailey ex H.E.Moore||  || Hidalgo, Querétaro, San Luis Potosí, Tamaulipas
+|-
+| ||Brahea pimo Becc. || || Nayarit, Jalisco, Guerrero, México State, Michoacán
+|-
+|120px ||Brahea salvadorensis H.Wendl. ex Becc.||  || El Salvador, Honduras, Nicaragua
+|-
+| ||Brahea sarukhanii H.J.Quero||  || Nayarit, Jalisco
+|-
+|}
+
+===Formerly placed here===
+*Washingtonia filifera (Linden ex André) H.Wendl. (as B. filamentosa (H.Wendl. ex Franceschi) H.Wendl. ex Kuntze)
+

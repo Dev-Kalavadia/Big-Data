@@ -1,0 +1,96 @@
+Title: Public holidays in Benin
+
+This is a list of holidays in Benin.
+
+== Public holidays ==
+{| class="wikitable"
+! Date
+! English Name
+|----
+|January 1
+|New Year's Day
+|----
+|January 10
+|Traditional Day
+|----
+|March 8
+|International Women's Day
+|----
+|May 1
+|Labour Day
+|----
+|Monday after Easter
+|Easter Monday 
+|----
+|Forty days after Easter
+|Ascension
+|----
+|August 1
+|Independence Day
+|----
+|August 15
+|Assumption
+|----
+|October 26
+|Armed Forces Day
+|----
+|November 1
+|All Saints' Day
+|----
+|November 30
+|National Day 
+|----
+|December 25
+|Christmas Day
+|----
+|December 26
+|Boxing Day
+|-
+|}
+
+==Movable holidays==
+The following holidays are public holidays but the date on which each occurs varies, according to its corresponding calendar, and thus has no set date. In order in which they occur:
+
+{| class="wikitable"
+! English Name
+! Local Name
+! Date
+! Description
+|----
+|Eid ul-Adha
+|Tabaski
+|Feast of Sacrifice
+|10 Dhu al-Hijjah
+|----
+|Prophet's Birthday
+|Maouloud
+|12 Rabi' al-awwal
+|Celebrates Muhammad's birthday
+|----
+|Easter
+|Pâques
+|First Sunday after first full moon after 21 March
+|Resurrection of Jesus
+|----
+|Easter Monday
+|
+|The Monday following Easter
+|
+|----
+|Eid ul-Fitr
+|Korité
+|1 Shawwal
+|Celebrates end of Ramadan
+|----
+|}
+
+== References ==
+
+
+
+
+
+Benin
+Category:Beninese culture
+Benin
+

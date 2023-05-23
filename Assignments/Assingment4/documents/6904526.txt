@@ -1,0 +1,32 @@
+Title: Ikazuchi-class destroyer escort
+{|
+
+
+
+|}
+The  was a destroyer escort (or frigate) class built for the Coastal Safety Force (later Japan Maritime Self-Defense Force, JMSDF) in the late 1950s.
+
+In the FY1953, the Japanese government ordered three destroyer escorts,  and this class. These vessels were the first indigenous post-World War II Japanese destroyer escorts, but their propulsion systems were different because the JMSDF tried to find the best way in the propulsion systems of future surface combatants. Akebono was a steam-powered vessel, but this class was diesel-powered vessels.
+
+So equipment of this class were almost the same as those of Akebono, with two American 3"/50 caliber Mark 21 guns (or Type 54, the Japanese version) with two Mark 22 single mounts controlled by Mark 51 director each, two Bofors 40 mm anti-aircraft guns in a dual mount, a Hedgehog anti-submarine mortar and eight K-gun depth charge throwers. And in 1959, all Mark 21 guns were replaced by Mark 22 rapid-fire guns with Mark 34 single mounts and Mark 63 GFCS was introduced in exchange of the reduction of Bofors 40 mm guns.
+
+This class had a twin-shaft machinery installation with two diesel engines (6,000ps each). This propulsion system was less powerful than the steam turbine machinery of Akebono, but it was able to propel the ship at a top speed of  still. The JMSDF appreciated the lower cost of maintenance of machinery of this class, so every Japanese destroyer escorts adopted diesel propulsion system until the period of gas turbine powered vessels.
+
+==Ships==
+{| class="wikitable"
+! Pennant no. || Name || Laid down || Launched || Commissioned || Decommissioned || Stricken
+|-
+| DE-202 ||  || 18 December 1954 || 6 September 1955 || 29 May 1956 || 31 March 1976 || 30 March 1983
+|-
+| DE-203 ||  || 25 December 1954 || 4 August 1955 || 5 March 1956 || 15 March 1977 || 30 March 1983
+|}
+
+== References ==
+
+
+
+
+
+ 
+Category:Frigate classes
+Category:Frigates of the Japan Maritime Self-Defense Force

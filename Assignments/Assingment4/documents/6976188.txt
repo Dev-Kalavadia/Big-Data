@@ -1,0 +1,36 @@
+Title: Parechovirus B
+
+
+Parechovirus B, formerly called the Ljungan virus, was first discovered in the mid-1990s after being isolated from a bank vole near the Ljungan river in Medelpad county, Sweden. It has since been established that Parechovirus B, which is also found in several places in Europe and America, causes serious illness in wild as well as laboratory animals. Several scientific articles have recently reported findings indicating that Parechovirus B is associated with malformations, intrauterine fetal death, and sudden infant death syndrome in humans. In addition, studies are being conducted worldwide to investigate the possible connection of the virus to diabetes, neurological and other illnesses in humans.
+
+Parechovirus B belongs to the genus Parechovirus of the family Picornaviridae. Other members of this viral family include poliovirus, Hepatovirus A, and the viruses causing the common cold (rhinovirus). One of the earliest scientific discoveries regarding Parechovirus B was that infected wild rodents developed diabetes if they were exposed to stress. This has led to speculation that this disease may be the underlying cause of fluctuating rodent populations in Scandinavia; when rodents increase to high densities, they find it difficult to defend territory and obtain food, and then become more susceptible to predation. This stressful situation results in disease, death and population decline, leading to a pattern of cyclic variation in population size over time.
+
+== Viral classification ==
+Parecherovirus B is a positive sense, single stranded RNA virus. Parechovirus B is a virus that contains an outer shell. This outer shell, or capsid is made up of proteins set up in an icosahedral formation. Unlike other picornaviruses, the capsid shell of Parechovirus B has some proteins that protrude and are markedly displaced from the remainder of the proteins.
+thumb|This image is an example of what an icosahedral capsid protein shell might look like. This is not the exact formation of the Parechovirus B capsid shell, it is a good example, of how the capsid proteins might be assembled.
+
+== Genome replication ==
+
+=== Cell entry ===
+There is a receptor for Parechovirus B on the outer membrane of a cell called integrin αvβ6. The viral Protein RGD is what binds the virus to the cell it is trying to get into. The protein rests in the more flexible areas of the capsid shell. Very little is known about how exactly the virus enters the cell.  The virus can enter  the cell through many different pathways, but most likely  the integrin αvβ6  proteins on the host cell are still used.
+
+=== Replication ===
+When the virus is replicating in cells, it typically uses the mechanisms already in the cell to replicate ins own genomic information. However, unlike many other picornaviruses, Pacherovirus B does not completely shut down the host cell's ability to replicate its own genomic information. Protein synthesis is maintained and not disrupted in the host cell. Maintaining protein synthesis allows the virus to prevent normal cellular replication, but still allow for  ribosome dependent translation to occur. The primary site for replication is also thought to be in the gastrointestinal and respiratory tracts.
+
+== Associated diseases ==
+Due to primary replication in the gastrointestinal tract, specifically the intestines, viral shedding can lead to many gastrointestinal issues. Diarrhea is one of the most common symptoms associated with being infected with picornaviruses, Parechovirus B included. As for respiratory disease and symptoms, there is evidence that Pacrechovirus B can cause respiratory disease. Wheezing and even contracting pneumonia have also been identified as symptoms of respiratory infection with Parechovirus B.
+
+== References ==
+
+
+== External links ==
+* Ljunganvirus.org – This site intends to be a knowledge bank summarizing the increasing mass of information generated regarding the effects of Parechovirus B infection. It is financed and written by Apodemus AB.
+*  – Apodemus is the research company that discovered Parechovirus B in the 1990s
+
+
+
+
+Category:Picornaviridae
+Category:Rare diseases
+Category:Rare infectious diseases
+Category:Rodent diseases

@@ -1,0 +1,18 @@
+Title: Paavo Korhonen
+
+
+Paavo Jaakko Matias Korhonen (5 June 1928 – 29 September 2019) was a Finnish Nordic skier who won the individual titles at the 1957 Holmenkollen ski festival and 1958 FIS Nordic World Ski Championships. He competed at the 1952, 1956 and 1960 Olympics and placed fourth, fourth and ninth, respectively. At the 1952 games he also finished 14th in the 18 km cross-country skiing race, and in 1960 served as the Finnish Olympic flag bearer at the opening ceremony. Korhonen lived in his home town of Joutseno, where a statue is erected in his honor.
+
+==Cross-country skiing results==
+===Olympic Games===
+{| class="wikitable" style="font-size:95%; text-align:center; border:grey solid 1px; border-collapse:collapse; background:#ffffff;"
+! style="background-color:#369; color:white; width:60px;"| Year  
+! style="background-color:#369; color:white; width:40px;"| Age  
+! style="background-color:#4180be; color:white; width:75px;"|  18 km 
+! style="background-color:#4180be; color:white; width:75px;"|  50 km 
+! style="background-color:#4180be; color:white; width:75px;"| 4 × 10 km  relay 
+|-
+| 1952 || 23 || 14  ||  — || — 
+|-
+|}
+

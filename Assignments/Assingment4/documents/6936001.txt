@@ -1,0 +1,99 @@
+Title: List of municipalities of the Province of Enna
+
+The following is a list of the 20 municipalities (comuni) of the Province of Enna, Sicily, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|086001
+|Agira
+| align="right" |8,171
+|-
+|086002
+|Aidone
+| align="right" |5,462
+|-
+|086003
+|Assoro
+| align="right" |5,380
+|-
+|086004
+|Barrafranca
+| align="right" |13,003
+|-
+|086005
+|Calascibetta
+| align="right" |4,738
+|-
+|086006
+|Catenanuova
+| align="right" |4,901
+|-
+|086007
+|Centuripe
+| align="right" |5,775
+|-
+|086008
+|Cerami
+| align="right" |2,353
+|-
+|086009
+|Enna
+| align="right" |28,476
+|-
+|086010
+|Gagliano Castelferrato
+| align="right" |3,789
+|-
+|086011
+|Leonforte
+| align="right" |14,046
+|-
+|086012
+|Nicosia
+| align="right" |14,752
+|-
+|086013
+|Nissoria
+| align="right" |2,954
+|-
+|086014
+|Piazza Armerina
+| align="right" |20,704
+|-
+|086015
+|Pietraperzia
+| align="right" |7,326
+|-
+|086016
+|Regalbuto
+| align="right" |7,709
+|-
+|086017
+|Sperlinga
+| align="right" |934
+|-
+|086018
+|Troina
+| align="right" |9,875
+|-
+|086019
+|Valguarnera Caropepe
+| align="right" |8,557
+|-
+|086020
+|Villarosa
+| align="right" |5,521
+|-
+|
+|Total
+| align="right" |174,426
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

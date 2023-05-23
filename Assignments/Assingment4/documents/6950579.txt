@@ -1,0 +1,277 @@
+Title: Jack Oatey Medal
+
+
+
+The Jack Oatey Medal is awarded to the best player during the SANFL Grand Final. It has been awarded since 1981. In 2018, Mitch Grigg of Norwood became the first player to win the Jack Oatey Medal on a losing team, after his team were defeated by North Adelaide in the 2018 SANFL Grand Final.
+
+== Winners ==
+{| class="wikitable"
+|+ Table key
+|style="background-color:#FBCEB1; width:3em"|^
+|Player was member of losing team
+|-
+|}
+
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|+ Table of recipients
+|-
+! scope=col | Year
+! scope=col | Recipient
+! scope=col | Club
+! scope=col class="unsortable"|
+|-
+| 1981
+! scope=row |  
+| 
+| rowspan=37 |
+|- 
+| 1982
+! scope=row | 
+| 
+|-
+| 1983
+! scope=row | 
+| 
+|-
+| 1984
+! scope=row | 
+| 
+|-
+| 1985
+! scope=row | 
+| 
+|- 
+| 1986
+! scope=row |  
+| 
+|-
+| 1987
+! scope=row | 
+| 
+|-
+| 1988
+! scope=row | 
+| 
+|-
+| 1989
+! scope=row | 
+| 
+|-
+| 1990
+! scope=row | 
+| 
+|-
+| 1991
+! scope=row | 
+| 
+|-
+| 1992
+! scope=row | 
+| 
+|-
+| 1993
+! scope=row | 
+| 
+|-
+| 1994
+! scope=row | 
+| 
+|- 
+| 1995
+! scope=row | 
+| 
+|- 
+| 1996
+! scope=row | 
+| 
+|- 
+| 1997
+! scope=row | 
+| 
+|- 
+| 1998
+! scope=row | 
+| 
+|- 
+| 1999
+! scope=row | 
+| 
+|- 
+| 2000
+! scope=row | 
+| 
+|- 
+| 2001
+! scope=row | 
+| 
+|- 
+| 2002
+! scope=row | 
+| 
+|- 
+| 2003
+! scope=row | 
+| 
+|- 
+| 2004
+! scope=row | 
+| 
+|- 
+| 2005
+! scope=row | 
+| 
+|- 
+| 2006
+! scope=row | 
+| 
+|- 
+| 2007
+! scope=row | 
+| 
+|- 
+| 2008
+! scope=row | 
+| 
+|- 
+| 2009
+! scope=row | 
+| 
+|- 
+| 2010
+! scope=row | 
+| 
+|- 
+| 2011
+! scope=row | 
+| 
+|- 
+| 2012
+! scope=row | 
+| 
+|- 
+| 2013
+! scope=row | 
+| 
+|- 
+| 2014
+! scope=row | 
+| 
+|- 
+| 2015
+! scope=row | 
+| 
+|- 
+| 2016
+! scope=row | 
+| 
+|- 
+| 2017
+! scope=row | 
+| 
+|- 
+| 2018
+! scope=row style="background:#FBCEB1;" | ^
+| 
+| 
+|- 
+| 2019
+! scope=row | 
+| 
+|
+|- 
+| 2020
+! scope=row | 
+| 
+|
+|- 
+| 2021
+! scope=row | 
+| 
+|
+|- 
+| 2022
+! scope=row | 
+| 
+|
+|}
+
+=== Club totals ===
+{| class="wikitable sortable plainrowheaders"
+|+ Table of clubs' totals
+|-
+! scope=col | Club
+! scope=col | Total
+! scope=col | Years
+|-
+! scope=row | 
+| style="text-align:center;"| 10
+| 
+|-
+! scope=row | 
+| style="text-align:center;"| 9
+| 
+|-
+! scope=row | 
+| style="text-align:center;"| 8
+| 
+|-
+! scope=row | 
+| style="text-align:center;"| 5
+| 
+|-
+! scope=row | 
+| style="text-align:center;"| 3
+| 
+|-
+! scope=row | 
+| style="text-align:center;"| 3
+| 
+|-
+! scope=row | 
+| style="text-align:center;"| 2
+| 
+|-
+! scope=row | 
+| style="text-align:center;"| 2
+| 
+|-
+! scope=row | 
+| style="text-align:center;"| 0
+| —
+|-
+! scope=row | 
+| style="text-align:center;"| 0
+| —
+|}
+
+== Best on ground before award ==
+Before the inception of the Jack Oatey Medal there was no official award for the best on ground in SANFL Grand Finals. However the media would often arrive at a consensus as to who was the best player on the ground.
+
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|+ 
+|-
+! scope=col | Year
+! scope=col | Best on ground (media consensus)
+! scope=col | Club
+! scope=col class="unsortable"|
+|-
+| rowspan=2|1951
+| Allen Greer (The Mail, The Advertiser) 
+| 
+|
+|- 
+|Peter Marrett (The Mail, The Advertiser)
+| 
+| 
+|-
+| 1952
+| Doug Olds (The Advertiser, The News)
+| 
+| 
+|- 
+|1953
+|Mick Clingly (The Mail, The News)
+|West Torrens
+|
+|}
+

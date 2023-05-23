@@ -1,0 +1,41 @@
+Title: NTEN: The Nonprofit Technology Enterprise Network{| class="toccolours" style="float: right; margin-left: 1em; width: 20em; font-size: 90%;" cellspacing="3"
+|-
+| colspan="2" style="padding: 1em 0; text-align: center;" | Image:NTEN Logo.png
+|- style="vertical-align: top;"
+|Established
+|style="padding-right: 1em;" | 2000
+|- style="vertical-align: top;"
+|CEO
+|style="padding-right: 1em;" | Amy Sample Ward
+|- style="vertical-align: top;"
+|Offices
+|style="padding-right: 1em;" | Portland, Oregon
+|- style="vertical-align: top;"
+|Homepage
+|style="padding-right: 1em;" | www.nten.org
+|}
+
+NTEN: The Nonprofit Technology Enterprise Network is an international nonprofit organization based in the United States.  Founded in 2000, NTEN is primarily a community for those interested in the use of technology to support nonprofit organizations and issues.  Its major activity is an annual international conference,  the Nonprofit Technology Conference, for nonprofit organizations, IT staff, consultants, and technology vendors. It also hosts various virtual and regional events throughout the year.
+
+== Overview ==
+
+NTEN is the trade association for nonprofit technology assistance providers.Nicole P. Marwell,  
+Paul-Brian McInerney, The Nonprofit/For-Profit Continuum: Theorizing the Dynamics of Mixed-Form Markets Nonprofit and Voluntary Sector Quarterly, vol. 34, no. 1, March 2005 pp. 7-28 Described in the Nonprofit Quarterly as "One of the more recent and potentially powerful networks evolving in the nonprofit technology-assistance scene",Marc Osten and Mary F. Weis, Developing Enabling Networks and Systems of Support, The Nonprofit Quarterly, v 7, i 1, Summer 2000.  the association provides forums for people involved in nonprofit technology, acts as a conduit for connecting journalists and researchers with nonprofit technology practitioners, makes technology information and resources available to organizationsTechnology (A Special Report), The Wall Street Journal, 2006-11-27 and undertakes research for the sector. It runs the annual Nonprofit Technology Conference (NTC) in the USA as well as co-hosting other events, including the first Circuit Rider Conference in the UK.Circuit Riders In the UK from London Advice Services Alliance. Retrieved 2007-03-23.
+
+==See also==
+
+*Nonprofit technology
+*Circuit rider (Technology)
+*NTAP
+*Community of practice
+
+== References ==
+
+
+==External links==
+* 
+
+Category:Non-profit technology
+Category:Non-profit organizations based in Oregon
+Category:Organizations established in 2000
+Category:2000 establishments in Oregon

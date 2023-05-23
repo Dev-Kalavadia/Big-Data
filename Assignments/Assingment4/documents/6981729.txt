@@ -1,0 +1,55 @@
+Title: Łobez County
+__NOTOC__
+thumb|left| Town hall
+Łobez County () is a unit of territorial administration and local government (powiat) in West Pomeranian Voivodeship, north-western Poland. Its administrative seat and largest town is Łobez, which lies  east of the regional capital Szczecin. The county contains three other towns: Resko,  north-west of Łobez, Węgorzyno,  south of Łobez, and Dobra,  west of Łobez.
+
+A Łobez County existed prior to the abolition of the powiats in 1975. When they were reintroduced in the Polish local government reforms of 1999, there was initially no Łobez County. The present-day county was created later, in 2002, out of parts of Gryfice County, Goleniów County and Stargard County (to which Łobez itself had belonged).
+
+The county covers an area of . As of 2006 its total population is 38,232, out of which the population of Łobez is 10,617, that of Resko is 4,377, that of Węgorzyno is 3,011, that of Dobra is 2,028, and the rural population is 18,199.
+
+==Neighbouring counties==
+Łobez County is bordered by Gryfice County and Kołobrzeg County to the north, Świdwin County to the east, Drawsko County to the south-east, Stargard County to the south-west, and Goleniów County to the west.
+
+==Administrative division==
+The county is subdivided into five gminas (four urban-rural and one rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km²)
+| style="text-align:center;"|Population(2006)
+| style="text-align:center;"|Seat
+|-
+|Gmina Łobez
+|urban-rural
+| style="text-align:right;"|227.7
+| style="text-align:right;"|14,480
+|Łobez
+|-
+|Gmina Resko
+|urban-rural
+| style="text-align:right;"|285.2
+| style="text-align:right;"|8,236
+|Resko
+|-
+|Gmina Węgorzyno
+|urban-rural
+| style="text-align:right;"|256.2
+| style="text-align:right;"|7,316
+|Węgorzyno
+|-
+|Gmina Dobra
+|urban-rural
+| style="text-align:right;"|116.1
+| style="text-align:right;"|4,440
+|Dobra
+|-
+|Gmina Radowo Małe
+|rural
+| style="text-align:right;"|180.4
+| style="text-align:right;"|3,760
+|Radowo Małe
+|-
+|}
+

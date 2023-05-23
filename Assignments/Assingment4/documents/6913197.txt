@@ -1,0 +1,1098 @@
+Title: Czechoslovakia at the 1992 Winter Olympics
+
+Czechoslovakia, formally the Czech and Slovak Federative Republic, competed at the 1992 Winter Olympics in Albertville, France.
+The team consisted of 74 athletes, which was the largest number at that time. It was the last time Czechoslovakia participated in the Winter Olympics, because the state split to Czech Republic and Slovakia and both countries entered their independent teams to the 1994 Winter Olympics.
+
+Cross-country skier Pavel Benc was the flag-bearer of the country in the opening ceremony.
+
+==Medalists==
+{| class="wikitable sortable" style="font-size:90%"
+|-
+!Medal
+!Name
+!Sport
+!Event
+!Date
+|-
+|  ||        || Ski jumping || Large hill team || 14 February
+|-
+|  ||  || Figure skating || Men's singles || 15 February
+|-
+|  || Czechoslovakia men's national ice hockey team || Ice hockey || Men's tournament || 22 February
+|}
+
+==Competitors==
+The following is the list of number of competitors in the Games.Czechoslovakia at the 1992 Winter Olympics
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! width=180|Sport
+! width=55|Men
+! width=55|Women
+! width=55|Total
+|-
+| align=left|Alpine skiing
+| 2 || 2 || 4
+|-
+| align=left|Biathlon
+| 4 || 6 || 10
+|-
+| align=left|Bobsleigh
+| 6 || – || 6
+|-
+| align=left|Cross-country skiing
+| 6 || 6 || 12
+|-
+| align=left|Figure skating
+| 3 || 3 || 6
+|-
+| align=left|Ice hockey
+| 22 || – || 22
+|-
+| align=left|Luge
+| 2 || 2 || 4
+|-
+| align=left|Nordic combined
+| 4 || – || 4
+|-
+| align=left|Ski jumping
+| 4 || – || 4
+|-
+| align=left|Speed skating
+| 2 || 0 || 2
+|-
+! Total || 55 || 19 || 74
+|}
+
+== Alpine skiing==
+
+
+Czechoslovakia's participation in the alpine skiing races was done by four skiers, all Slovaks. Lucia Medzihradská was the most successful of them reaching top eight in the women's combined event.
+
+;Men:
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Run 1
+!colspan="2"|Run 2
+!colspan="3"|Final/Total
+|-
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Diff
+!Rank
+|-align="center"
+|align="left" rowspan=4|Marian Bíreš
+|align="left" |Downhill
+|colspan=4 
+|1:56.21
+| +5.84
+|34
+|-align="center"
+|align="left" |Super-G
+|colspan=4 
+|1:17.47
+| +4.43
+|37
+|-align="center"
+|align="left" |Giant slalom
+|1:10.98
+|43
+|1:07.13
+|31
+|2:18.11
+| +11.13
+|34
+|-align="center"
+|align="left" |Slalom
+|56.01
+|31
+|colspan=5|Did not finish
+|-align="center"
+|align="left" rowspan=3|Peter Jurko
+|align="left" |Super-G
+|colspan=4 
+|1:17.68
+| +4.64
+|39
+|-align="center"
+|align="left" |Giant slalom
+|1:10.65
+|39
+|1:08.50
+|38
+|2:19.15
+| +12.17
+|37
+|-align="center"
+|align="left" |Slalom
+|55.95
+|30
+|56.85
+|30
+|1:52.80
+| +8.41
+|25
+|}
+
+;Men's combined
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="3"|Downhill
+!colspan="5"|Slalom
+!colspan="2"|Total
+|-
+!Time
+!Points
+!Rank
+!Time 1
+!Time 2
+!Total
+!Points
+!Rank
+!Points
+!Rank
+|-align="center"
+|align="left"|Marian Bíreš
+|align="left" rowspan=2|Combined
+|1:49.61
+|47.30
+|37
+|colspan=7|Did not finish
+|-align="center"
+|align="left"|Peter Jurko
+|1:58.27
+|135.57
+|52
+|colspan=7|Did not finish
+|}
+
+;Women:
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Run 1
+!colspan="2"|Run 2
+!colspan="3"|Final/Total
+|-
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Diff
+!Rank
+|-align="center"
+|align="left" rowspan=4|Lucia Medzihradská
+|align="left" |Downhill
+|colspan=4 
+|1:54.78
+| +2.23
+|16
+|-align="center"
+|align="left" |Super-G
+|colspan=4 
+|1:26.76
+| +5.54
+|27
+|-align="center"
+|align="left" |Giant slalom
+|1:09.90
+|27
+|1:09.37
+|19
+|2:19.27
+| +6.53
+|20
+|-align="center"
+|align="left" |Slalom
+|50.08
+|19
+|46.37
+|17
+|1:36.45
+| +3.77
+|16
+|-align="center"
+|align="left" rowspan=4|Ľudmila Milanová
+|align="left" |Downhill
+|colspan=4 
+|1:57.85
+| +5.30
+|24
+|-align="center"
+|align="left" |Super-G
+|colspan=4 
+|1:27.61
+| +6.39
+|34
+|-align="center"
+|align="left" |Giant slalom
+|colspan=7|Did not finish
+|-align="center"
+|align="left" |Slalom
+|51.95
+|30
+|47.83
+|23
+|1:39.78
+| +7.10
+|24
+|}
+
+;Women's combined
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="3"|Downhill
+!colspan="5"|Slalom
+!colspan="2"|Total
+|-
+!Time
+!Points
+!Rank
+!Time 1
+!Time 2
+!Total
+!Points
+!Rank
+!Points
+!Rank
+|-align="center"
+|align="left"|Lucia Medzihradská
+|align="left" rowspan=2|Combined
+|1:27.89
+|25.55
+|16
+|35.52
+|36.43
+|1:11.95
+|21.88
+|9
+|47.43
+|8
+|-align="center"
+|align="left"|Ľudmila Milanová
+|1:28.68
+|35.40
+|22
+|36.69
+|37.57
+|1:14.26
+|40.88
+|12
+|76.28
+|15
+|}
+
+== Biathlon==
+
+
+Jiřina Adamičková was close to winning a medal in the women's sprint, fighting for it after last shooting, but fading fast in the closing uphill section and falling down to fifth place, seven seconds behind bronze-medal Belova of the Unified Team.
+
+;Men
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="3"|Final
+|-
+!Time
+!Misses
+!Rank
+|-align="center"
+|align="left" rowspan=2|Jiří Holubec
+|align="left"|Individual
+|59:56.2
+|0
+|15
+|-align="center"
+|align="left"|Sprint
+|27:37.8
+|0
+|23
+|-align="center"
+|align="left" rowspan=2|Tomáš Kos
+|align="left"|Individual
+|1:00:33.3
+|2
+|23
+|-align="center"
+|align="left"|Sprint
+|27:37.4
+|1
+|22
+|-align="center"
+|align="left" rowspan=2|Ivan Masařík
+|align="left"|Individual
+|1:05:24.9
+|7
+|66
+|-align="center"
+|align="left"|Sprint
+|27:16.8
+|2
+|12
+|-align="center"
+|align="left" rowspan=2|Martin Rypl
+|align="left"|Individual
+|1:00:39.3
+|3
+|25
+|-align="center"
+|align="left"|Sprint
+|28:41.8
+|1
+|50
+|-align="center"
+|align="left"|Martin Rypl  Tomáš Kos  Jiří Holubec  Ivan Masařík
+|align="left"|Relay
+|1:27:15.8
+|1
+|7
+|}
+
+;Women
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="3"|Final
+|-
+!Time
+!Misses
+!Rank
+|-align="center"
+|align="left" rowspan=2|Jiřina Adamičková
+|align="left"|Individual
+|56:21.8
+|3
+|23
+|-align="center"
+|align="left"|Sprint
+|24:57.6
+|0
+|5
+|-align="center"
+|align="left" rowspan=2|Gabriela Sůvová
+|align="left"|Individual
+|1:02:22.4
+|7
+|56
+|-align="center"
+|align="left"|Sprint
+|26:42.1
+|2
+|18
+|-align="center"
+|align="left"|Jana Kulhavá
+|align="left"|Individual
+|59:09.8
+|6
+|43
+|-align="center"
+|align="left"|Petra Nosková
+|align="left"|Individual
+|1:02:57:6
+|7
+|60
+|-align="center"
+|align="left"|Helena Černohorská
+|align="left"|Sprint
+|30:13.8
+|3
+|62
+|-align="center"
+|align="left"|Iveta Knížková
+|align="left"|Sprint
+|28:13.0
+|8
+|41
+|-align="center"
+|align="left"|Gabriela Sůvová  Jana Kulhavá  Jiřina Adamičková
+|align="left"|Relay
+|1:23:12.7
+|3
+|8
+|}
+
+==Bobsleigh==
+
+
+After many years, Czechoslovakia entered its Olympic bobsleigh teams again, which recorded average to below-average results, but improved fast to be strong competitors at the 1994 Winter Olympics.
+
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Run 1
+!colspan="2"|Run 2
+!colspan="2"|Run 3
+!colspan="2"|Run 4
+!colspan="2"|Total
+|-
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align="center"
+|align="left"|Jiří DžmuraRoman Hrabáň
+|align="left" rowspan=2|Two-man
+|1:01.37
+|21
+|1:02.33
+|28
+|1:02.25
+|27
+|1:02.36
+|25
+|4:08.31
+|25
+|-align="center"
+|align="left"|Petr RamseidlZdeněk Kohout
+|1:02.46
+|33
+|1:02.48
+|30
+|1:03.10
+|34
+|1:02.80
+|31
+|4:10.84
+|31
+|-align="center"
+|align="left"|Jiří Džmura  Pavel Puškár  Karel Dostál  Roman Hrabáň
+|align="left" rowspan=2|Four-man
+|59.30
+|22
+|59.66
+|21
+|59.92
+|21
+|59.67
+|21
+|3:58.557
+|21
+|}
+
+==Cross-country skiing==
+
+
+The men's 50-kilometer freestyle marathon was the highlight of Czechoslovakia's men. Radim Nyč and Pavel Benc finished in top eight. Václav Korunka missed the top ten, but recorded three top-20 performances. In women's races Alžběta Havrančíková performed great in the second, freestyle-pursuit part of the combination race to move up from 34th to 17th place. Young Kateřina Neumannová took part in her first Olympics. The strong Czech and Slovak team-up of the women's relay fought for medals before losing pace in the last stage run by Iveta Zelingerová.
+
+;Men
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Race
+|-
+!Time
+!Rank
+|-align="center"
+|align="left" rowspan=3|Pavel Benc
+|align="left"|10 km classical
+|31:13.6
+|41
+|-align="center"
+|align="left"|15 km freestyle pursuit
+|43:02.0
+|33
+|-align="center"
+|align="left"|50 km freestyle
+|2:08:13.6
+|8
+|-align="center"
+|align="left" rowspan=3|Václav Korunka
+|align="left"|10 km classical
+|29:43.4
+|17
+|-align="center"
+|align="left"|15 km freestyle pursuit
+|41:03.5
+|14
+|-align="center"
+|align="left"|50 km freestyle
+|2:10:30.7
+|13
+|-align="center"
+|align="left" rowspan=3|Radim Nyč
+|align="left"|10 km classical
+|30:31.5
+|33
+|-align="center"
+|align="left"|15 km freestyle pursuit
+|42:16.0
+|25
+|-align="center"
+|align="left"|50 km freestyle
+|2:07:41.5
+|6
+|-align="center"
+|align="left" rowspan=3|Martin Petrásek
+|align="left"|10 km classical
+|32:27.4
+|66
+|-align="center"
+|align="left"|15 km freestyle pursuit
+|45:57.1
+|55
+|-align="center"
+|align="left"|30 km classical
+|1:28:30.8
+|24
+|-align="center"
+|align="left"|Lubomír Buchta
+|align="left"|30 km classical
+|1:25:40.6
+|13
+|-align="center"
+|align="left" rowspan=2|Jiří Teplý
+|align="left"|30 km classical
+|1:26:14.4
+|18
+|-align="center"
+|align="left"|50 km freestyle
+|2:12:00.2
+|21
+|-align="center"
+|align="left"|Radim Nyč  Lubomír Buchta  Pavel Benc  Václav Korunka
+|align="left"|4×10 km relay
+|1:44:20.0
+|7
+|}
+
+;Women
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Race
+|-
+!Time
+!Rank
+|-align="center"
+|align="left" rowspan=3|Lubomíra Balážová
+|align="left"|5 km classical
+|14:54.6
+|11
+|-align="center"
+|align="left"|10 km freestyle pursuit
+|29:11.0
+|26
+|-align="center"
+|align="left"|15 km classical
+|45:22.6
+|13
+|-align="center"
+|align="left" rowspan=3|Alžběta Havrančíková
+|align="left"|5 km classical
+|15:44.6
+|34
+|-align="center"
+|align="left"|10 km freestyle pursuit
+|28:39.9
+|17
+|-align="center"
+|align="left"|30 km freestyle
+|1:27:54.9
+|11
+|-align="center"
+|align="left" rowspan=3|Kateřina Neumannová
+|align="left"|5 km classical
+|14:59.1
+|13
+|-align="center"
+|align="left"|10 km freestyle pursuit
+|28:56.6
+|22
+|-align="center"
+|align="left"|15 km classical
+|45:28.6
+|14
+|-align="center"
+|align="left" rowspan=3|Iveta Zelingerová
+|align="left"|5 km classical
+|15:06.4
+|18
+|-align="center"
+|align="left"|10 km freestyle pursuit
+|29:03.4
+|24
+|-align="center"
+|align="left"|30 km freestyle
+|1:31:39.1
+|22
+|-align="center"
+|align="left" rowspan=2|Anna Janoušková
+|align="left"|15 km classical
+|47:29.3
+|33
+|-align="center"
+|align="left"|30 km freestyle
+|1:32:43.9
+|27
+|-align="center"
+|align="left" rowspan=2|Zora Simčáková
+|align="left"|15 km classical
+|45:45.6
+|18
+|-align="center"
+|align="left"|30 km freestyle
+|1:33:10.3
+|30
+|-align="center"
+|align="left"|Lubomíra Balážová  Kateřina Neumannová  Alžběta Havrančíková  Iveta Zelingerová
+|align="left"|4×5 km relay
+|1:01:37.4
+|6
+|}
+
+==Figure skating==
+
+
+Reigning European Champion Petr Barna won his only Olympic medal behind Ukraine's Viktor Petrenko and United States' Paul Wylie. During his free program, Barna was the first skater to land the quadruple jump in the Olympic competition. The program was choreographed on the Hamlet soundtrack and was Barna's artistic masterpiece.
+
+Radka Kovaříková and René Novotný teamed up after Novotný's 1988 Winter Olympics medicine problem. They beat Shishkova and Naumov of the Unified Team in the competition, but lost to Isabelle Brasseur and Lloyd Eisler of Canada in a close battle for the bronze medal, feeling a sort of injustice.
+
+Kateřina Mrázová and Martin Šimeček finished 10th in the ice-dancing competition, while Lenka Kulovaná finished 11th. She was fifth in the 1992 European Championships, but lost to two European opponents only in Albertville.
+
+{|class="wikitable" style="font-size:90%"
+|-
+! rowspan="2"|Athlete(s)
+! rowspan="2"|Event
+! 
+! 
+! /
+! /
+! colspan="2"|Total
+|-
+!
+!
+!
+!
+!
+!Rank
+|-align="center"
+|align="left"|Petr Barna
+|align="left"|Men's
+|colspan=2 
+|2 Q
+|3
+|4.0
+|
+|-align="center"
+|align="left"|Lenka Kulovaná
+|align="left"|Ladies'
+|colspan=2 
+|9 Q
+|12
+|16.5
+|11
+|-align="center"
+|align="left"|Radka Kovaříková & René Novotný
+|align="left"|Pairs
+|colspan=2 
+|4
+|4
+|6.0
+|4
+|-align="center"
+|align="left|Kateřina Mrázová & Martin Šimeček
+|align="left|Ice dancing
+|12
+|11
+|12
+|10
+|20.6
+|10
+|}
+
+==Ice hockey==
+
+
+In 1991, Czechoslovakia failed to win a medal at the World Championships in Finland. Stanislav Neveselý and Josef Horešovský were sacked and the team was coached by Ivan Hlinka in Albertville. He named ten members of the 1991 World Championships for their Olympic squad. The team entered the group hammering Norway and coming back from 0-2 against France. Robert Lang's two goals helped beat Unified Team, which was the only one loss of the later Olympic champions. Czechoslovakia itself then recorded its first loss against Canada, but confirmed their quarterfinals participation with a win over Switzerland.
+
+Sweden, the reigning World Champions, met Czechoslovakia in the quarterfinals, but was beaten as Kadlec, Janecký and Augusta scored their goals and Czechoslovakia headed to the semifinals against Canada again. The game was more balanced than the group one, but was lost 2-4. The team however had not problems finding motivation to beat United States for the bronze medal. Robert Lang was the top scoring player of the team (13 points).
+
+;Team roster:
+* Goalkeepers: Petr Bříza, Oldřich Svoboda, Jaromír Dragan
+* Defenders: Leo Gudas, Miloslav Hořava, Drahomír Kadlec, Bedřich Ščerban, Richard Šmehlík, František Procházka, Róbert Švehla, Jiří Šlégr
+* Forwards: Petr Rosol, Robert Lang, Kamil Kašťák, Richard Žemlička, Ladislav Lubina, Radek Ťoupal, Peter Veselovský, Petr Hrbek, Otakar Janecký, Patrik Augusta, Tomáš Jelínek, Igor Liba
+* Coaches: Ivan Hlinka, Jaroslav Walter
+
+{| class="wikitable" style="text-align:center;"
+! Team
+! 
+! 
+! 
+! 
+! 
+! 
+|-style="background:#ccffcc"
+|  ||bgcolor="#ffffff"|   ||4-5 ||5–1 || 3–2 ||6–1 ||10–0
+|-style="background:#ccffcc"
+|  ||5-4 ||bgcolor="#ffffff"|   || 3–4 ||8–0 ||8-1 || 8-1
+|-style="background:#ccffcc"
+|  ||1-5 ||4–3 ||bgcolor="#ffffff"|   ||6-4 ||4–2 ||10-1
+|-style="background:#ccffcc"
+|  ||2-3 ||0–8 ||4–6 ||bgcolor="#ffffff"|   || 4–3 || 4–2
+|-style="background:pink"
+|  ||1–6 ||1–8 ||2–4 ||3–4 ||bgcolor="#ffffff"|   || 6–3
+|-style="background:pink"
+|  ||0–10 ||1–8 ||1–10 ||2–4 ||3–6 ||bgcolor="#ffffff"|  
+|-
+|}
+
+{| class="wikitable" style="text-align:center;"
+|-
+!width=165|Team
+!width=40|GP
+!width=40|W
+!width=40|L
+!width=40|T
+!width=40|GF
+!width=40|GA
+!width=40|DIF
+!width=40|PTS
+|- style="background:#ccffcc;"
+|align=left|
+|5||4||1||0||28||9||19||8
+|- style="background:#ccffcc;"
+|align=left|
+|5||4||1||0||32||10||22||8
+|- style="background:#ccffcc;"
+|align=left|
+|5||4||1||0||25||15||10||8
+|- style="background:#ccffcc;"
+|align=left|
+|5||2||3||0||14||22||-8||4
+|- style="background:#ffcccc;"
+|align=left|
+|5||1||4||0||13||25||-12||2
+|- style="background:#ffcccc;"
+|align=left|
+|5||0||5||0||7||38||-31||0
+|}
+
+*February 8
+{| bgcolor="#f9f9f9" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse; background: #f9f9f9;"
+|-
+|||align="center" | 10:1||
+|}
+*February 10
+{| bgcolor="#f9f9f9" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse; background: #f9f9f9;"
+|-
+|||align="center" | 4:6||
+|}
+*February 12
+{| bgcolor="#f9f9f9" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse; background: #f9f9f9;"
+|-
+|||align="center" | 4:3||
+|}
+*February 14
+{| bgcolor="#f9f9f9" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse; background: #f9f9f9;"
+|-
+|||align="center" | 5:1||
+|}
+*February 16
+{| bgcolor="#f9f9f9" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse; background: #f9f9f9;"
+|-
+|||align="center" | 4:2||
+|}
+
+;Medal Round
+;Quarter-finals
+
+
+;Semi-finals
+
+
+;Bronze Medal Game
+
+
+
+==Luge==
+
+
+Petr Urban was the leading and most controversial member of the Czechoslovakia's luge team. He recorded two top-20 finishes, but was soon excluded from the team because of his cartoon jokes he published in daily Sport while competing in Albertville.
+
+
+{|class="wikitable" style="font-size:90%"
+|-
+! rowspan="2"|Athlete(s)
+! rowspan="2"|Event
+! colspan="1"|Run 1
+! colspan="1"|Run 2
+! colspan="1"|Run 3
+! colspan="1"|Run 4
+! colspan="2"|Total
+|-
+!Time
+!Time
+!Time
+!Time
+!Time
+!Rank
+|-align="center"
+|align="left"|Jan Kohoutek
+|align="left" rowspan=2|Men's
+|46.156
+|46.261
+|46.958
+|47.067
+|3:06.442
+|20
+|-align="center"
+|align="left"|Petr Urban
+|46.211
+|46.285
+|46.961
+|46.812
+|3:06.269
+|19
+|-align="center"
+|align="left"|Mária Jasenčáková
+|align="left" rowspan=2|Women's
+|47.673
+|47.483
+|47.694
+|47.593
+|3:10.443
+|20
+|-align="center"
+|align="left"|Petra Matěchová
+|47.298
+|47.323
+|47.749
+|47.290
+|3:09.660
+|17
+|-align="center"
+|align="left"|Petr Urban  Jan Kohoutek
+|align="left"|Doubles
+|47.005
+|47.219
+|colspan=2 
+|1:34.274
+|15
+|}
+
+==Nordic combined ==
+
+
+
+
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Ski jumping
+!colspan="6"|Cross-country
+|-
+!Points
+!Rank
+!Deficit
+!Time
+!Rank
+|-align="center"
+|align="left"|Martin Bayer
+|align="left" rowspan=4|Individual
+|188.2
+|37
+| +4:28.7
+|55:11.2 +10:43.1
+|41
+|-align="center"
+|align="left"|Josef Kovařík
+|193.3
+|30
+| +3:54.7
+|48:41.8 +4:13.7
+|17
+|-align="center"
+|align="left"|Milan Kučera
+|205.0
+|16
+| +2:36.7
+|colspan=2|Did not finish
+|-align="center"
+|align="left"|František Máka
+|197.1
+|27
+| +3:29.4
+|48:02.8 +3:34.7
+|15
+|-align="center"
+|align="left"|František Máka  Milan Kučera  Josef Kovařík
+|align="left"|Team
+|546.7
+|8
+| +8:12
+|1::32:41.2 +8:12
+|6
+|}
+
+== Ski jumping==
+
+
+Jiří Parma was Czechoslovakia's flag-bearer at the 1988 Winter Olympics, but recorded his best ever Olympic results in 1992. He led the team in a dramatic competition, where only Czechoslovakia managed to get closer to the uncontested duo of Austria and gold medal winning Finland. He added large hill fifth place and normal hill 10th place.
+
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Jump 1
+!colspan="4"|Jump 2
+|-
+!Points
+!Rank
+!Points
+!Rank
+!Total
+!Rank
+|-align="center"
+|align="left" rowspan=2|Tomáš Goder
+|align="left"|Normal hill
+|83.9
+|52
+|91.4
+|36
+|175.3
+|48
+|-align="center"
+|align="left"|Large hill
+|90.6
+|14
+|74.2
+|25
+|164.8
+|20
+|-align="center"
+|align="left" rowspan=2|František Jež
+|align="left"|Normal hill
+|99.7
+|19
+|93.0
+|33
+|192.7
+|23
+|-align="center"
+|align="left"|Large hill
+|91.5
+|12
+|79.8
+|18
+|171.3
+|13
+|-align="center"
+|align="left" rowspan=2|Jiří Parma
+|align="left"|Normal hill
+|109.2
+|5
+|98.7
+|18
+|207.9
+|10
+|-align="center"
+|align="left"|Large hill
+|101.1
+|5
+|96.9
+|5
+|198.0
+|5
+|-align="center"
+|align="left" rowspan=2|Jaroslav Sakala
+|align="left"|Normal hill
+|101.1
+|17
+|99.7
+|16
+|200.8
+|15
+|-align="center"
+|align="left"|Large hill
+|85.7
+|21
+|45.7
+|51
+|131.4
+|41
+|-align="center"
+|align="left"|Tomáš Goder  František Jež  Jaroslav Sakala  Jiří Parma
+|align="left"|Team
+|325.6
+|3
+|294.5
+|3
+|620.1
+|
+|}
+
+==Speed skating==
+
+
+Only two Czechoslovakia's speed skaters took part in the Games, but none of them was able to fight the competition for better than low-place finishes.
+
+;Men
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Final
+|-
+!Time
+!Rank
+|-align="center"
+|align="left" rowspan=3|Jiří Kyncl
+|align="left"|500 m
+|40.92
+|39
+|-align="center"
+|align="left"|5000 m
+|7:27.78
+|27
+|-align="center"
+|align="left"|10000 m
+|15:03.97
+|25
+|-align="center"
+|align="left" rowspan=3|Jiří Musil
+|align="left"|500 m
+|42.20
+|41
+|-align="center"
+|align="left"|5000 m
+|7:29.91
+|29
+|-align="center"
+|align="left"|10000 m
+|15:14.18
+|28
+|}
+
+== References ==
+
+* Official Olympic Reports
+* International Olympic Committee results database
+
+
+
+
+Category:Nations at the 1992 Winter Olympics
+1992
+Winter Olympics

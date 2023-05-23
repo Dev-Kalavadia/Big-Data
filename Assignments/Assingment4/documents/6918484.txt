@@ -1,0 +1,370 @@
+Title: Stones River Confederate order of battleThe following Confederate States Army units and commanders fought in the Battle of Stones River of the American Civil War. The Union order of battle is listed separately. Order of battle compiled from the army organizationMultiple commander names indicate command succession of command during the battle or the campaign. during the campaign,Official Records, Series I, Volume XX, Part 1, pages 658-661 the casualty returnsOfficial Records, Series I, Volume XX, Part 1, pages 676-681 and the reports.Official Records, Series I, Volume XX, Part 1, pages 1093-1099
+
+==Abbreviations used==
+
+===Military rank===
+* Gen = General
+* LTG = Lieutenant General
+* MG = Major General
+* BG = Brigadier General
+* Col = Colonel
+* Ltc = Lieutenant Colonel
+* Maj = Major
+* Cpt = Captain
+* Lt = Lieutenant
+
+===Other===
+* (w) = wounded
+* (mw) = mortally wounded
+* (k) = killed
+* (c) = captured
+
+==Army of Tennessee==
+
+Gen Braxton Bragg, Commanding
+
+===Polk's Corps===
+
+LTG Leonidas Polk
+
+{| class="wikitable"
+! width=25% | Division
+! width=25% | Brigade
+! Regiments and Others
+|-
+| rowspan=4 |
+Cheatham's Division
+    
+MG Benjamin F. Cheatham
+| First (Donelson's) Brigade
+   
+BG Daniel S. Donelson
+|
+* 8th Tennessee: Col William L. Moore (k), Ltc John H. Anderson
+* 16th Tennessee: Col John H. Savage
+* 38th Tennessee: Col John C. Carter
+* 51st Tennessee: Col John Chester
+* 84th Tennessee: Col Sidney S. Stanton
+* Carnes' (Tennessee) battery: Cpt William W. Carnes
+|-
+| Second (Stewart's) Brigade
+  
+BG Alexander P. Stewart
+|
+* 4th-5th Tennessee: Col Otho F. Strahl
+* 19th Tennessee: Col Francis M. Walker
+* 24th Tennessee: Col Hugh L. W. Bratton (mw), Maj Samuel E. Shannon
+* 31st-33rd Tennessee: Col Egbert E. Tansil
+* Stanford's (Mississippi) battery: Cpt Thomas J. Stanford
+|-
+| Third (Maney's) Brigade
+  
+BG George Maney
+|
+* 1st-27th Tennessee: Col Hume R. Field
+* 4th Tennessee (Provisional Army): Col James A. McMurry
+* 6th-9th Tennessee: Col Charles S. Hurt, Maj John L. Harris
+* Maney's company (Tennessee) Sharpshooters: Cpt Frank Maney
+* Smith's (Mississippi) battery: Lt William B. Turner
+|-
+| Fourth (Smith's) Brigade
+  
+Col Alfred J. Vaughan, Jr.
+  
+BG Preston SmithAssumed command January 2, 1863 (see: Vaughan's report)
+|
+* 12th Tennessee: Maj Josiah N. Wyatt
+* 13th Tennessee: Ltc William E. Morgan (mw), Cpt R. F. Lanier
+* 29th Tennessee: Maj John B. Johnson
+* 47th Tennessee: Cpt William M. Watkins
+* 154th Senior Tennessee: Ltc Michael Magevney, Jr.
+* 9th Texas: Col William H. Young
+* Allin's (Tennessee) Sharpshooters: Lt J. R. J. Creighton (mw), Lt T. F. Pattison
+* Scott's (Tennessee) battery: Cpt William L. Scott
+|-
+| rowspan=4 |
+Withers' Division
+    
+MG Jones M. Withers
+| First (Deas') Brigade
+  
+Col John Q. Loomis (w)
+  
+Col John G. Coltart
+|
+* 19th Alabama
+* 22nd Alabama
+* 25th Alabama
+* 26th Alabama: Not to be confused with the other 26th Alabama(O'Neill's) that served in the Army of Northern Virginia and later Army of Tennessee. Coltart's 26th Alabama was renamed 50th Alabama on June 6 1863. Col John G. Coltart
+* 39th Alabama
+* 17th Alabama Battalion Sharpshooters: Cpt Benjamin C. Yancey
+* 1st Louisiana (Regulars): Ltc Frederick H. Farrar, Jr. (mw)
+* Robertson's (Florida) battery: Cpt Felix H. Robertson
+|-
+| Second (Chalmers') Brigade
+  
+BG James R. Chalmers (w)
+  
+Col Thomas W. White
+|
+* 7th Mississippi
+* 9th Mississippi: Col Thomas W. White
+* 10th Mississippi
+* 41st Mississippi
+* 9th Mississippi Battalion Sharpshooters: Cpt O. F. West
+* Blythe's (Mississippi) regiment
+* Garrity's (Alabama) battery
+|-
+| Third (Walthall's) BrigadeBrigadier General Walthall was absent on sick leave (see: Anderson's report)
+  
+BG J. Patton Anderson
+|
+* 45th Alabama: Col James G. Gilchrist
+* 24th Mississippi: Ltc Robert P. McKelvaine
+* 27th Mississippi: Col Thomas M. Jones,Turned over command to Lieutenant Colonel Autry on December 30, 1862 (see: Anderson's report) Ltc James L. Autry (k), Cpt Edward R. Neilson (w)
+* 29th Mississippi: Col William F. Brantley (w), Ltc James B. Morgan
+* 30th Mississippi: Ltc Junius I. Scales
+* 39th North Carolina:Joined Brigade December 31st, 1862; transferred, January 2, 1863 to Anderson's Brigade Cpt Alfred W. Bell
+* Barret's (Missouri) battery: Cpt O. W. Barret
+|-
+| Fourth (Anderson's) Brigade
+  
+Col Arthur M. Manigault
+|
+* 24th Alabama
+* 28th Alabama
+* 34th Alabama
+* 10th-19th South Carolina: Col Augustus J. Lythgoe (k)
+* Waters' (Alabama) battery: Cpt David D. Waters
+|}
+
+===Hardee's Corps===
+
+LTG William J. Hardee
+
+{| class="wikitable"
+! width=25% | Division
+! width=25% | Brigade
+! Regiments and Others
+|-
+| rowspan=5 |
+Breckinridge's Division
+    
+MG John C. Breckinridge
+| First (Adams') Brigade
+  
+BG Daniel W. Adams (w)
+  
+Col Randall L. Gibson
+|
+* 32nd Alabama: Ltc Henry Maury (w), Col Alexander McKinstry
+* 13th-20th Louisiana: Col Randall L. Gibson, Maj Charles Guillet
+* 16th-25th Louisiana: Col Stewart W. Fisk (k), Maj Francis C. Zacharie
+* 14th Louisiana Battalion Sharpshooters: Maj John E. Austin
+* Washington Artillery, Fifth Company: Lt William C. D. Vaught
+|-
+| Second (Pillow's) Brigade32nd Tennessee was on detached service near Wartrace, Tennessee (see: Palmer's and Pillow's reports)
+  
+Col Joseph B. Palmer
+  
+BG Gideon J. PillowAssumed command January 2, 1863 (see: Breckinridge's and Pillow's report)
+|
+* 18th Tennessee: Ltc William R. Butler, Col Joseph B. PalmerWounded but did not relinquish the command (w)
+* 26th Tennessee: Col John M. Lillard
+* 28th Tennessee: Col Preston D. Cunningham (k)
+* 45th Tennessee: Col Anderson Searcy
+* Moses' (Georgia) battery: Lt Ruel W. Anderson
+|-
+| Third (Preston's) Brigade
+  
+BG William Preston
+|
+* 1st-3rd Florida: Col William Miller (w)
+* 4th Florida: Col William L. L. Bowen
+* 60th North Carolina: Col Joseph A. McDowell
+* 20th Tennessee: Col Thomas B. Smith (w), Ltc Frank M. Lavender, Maj Fred Claybrooke
+* Wright's (Tennessee) Battery: Cpt E. Eldridge Wright (k), Lt John W. Mebane (w)
+|-
+| Fourth (Hanson's) Brigade
+  
+BG Roger W. Hanson (mw)
+  
+Col Robert P. Trabue
+|
+* 41st Alabama: Ltc Martin L. Stansel (w)
+* 2nd Kentucky: Maj James W. Hewitt (w), Cpt James W. Moss
+* 4th Kentucky: Col Robert P. Trabue, Cpt Thomas W. Thompson
+* 6th Kentucky: Col Joseph H. Lewis
+* 9th Kentucky: Col Thomas H. Hunt
+* Cobb's (Kentucky) Battery: Cpt Robert Cobb
+|-
+| Jackson's BrigadeTemporarily assigned to Breckinridge's Division
+  
+BG John K. Jackson
+|
+* 5th Georgia: Col William T. Black (k), Maj Charles P. Daniel
+* 2nd Georgia Battalion Sharpshooters: Maj Jesse J. Cox
+* 5th Mississippi: Ltc Walter L. Sykes (w)
+* 8th Mississippi: Col John C. Wilkinson (w&c), Ltc Aden McNeill
+* Pritchard's (Georgia) Battery
+* Lumsden's (Alabama) battery: Lt Harvey H. Cribbs
+|-
+| rowspan=4 |
+Cleburne's Division
+    
+MG Patrick R. Cleburne
+| First (Polk's) Brigade
+  
+BG Lucius E. Polk
+|
+* 1st Arkansas: Col John W. Colquitt
+* 13th-15th Arkansas: Maj Charles H. Carlton (w), Maj Robert A. Duncan (w)
+* 5th Confederate: Col James A. Smith
+* 2nd Tennessee: Col William D. Robison
+* 5th Tennessee: Col Benjamin J. Hill
+* Helena (Arkansas) Artillery: Lt Thomas J. Key
+|-
+| Second (Liddell's) Brigade
+  
+BG St. John R. Liddell
+|
+* 2nd Arkansas: Col Daniel C. Govan
+* 5th Arkansas: Ltc John E. Murray
+* 6th-7th Arkansas: Col Samuel G. Smith (w), Ltc F. J. Cameron (w), Maj William F. Douglass
+* 8th Arkansas: Col John H. Kelly (w), Ltc George F. Baucum
+* Swett's (Mississippi) battery: Lt Harvey Shannon
+|-
+| Third (Johnson's) Brigade
+  
+BG Bushrod R. Johnson
+|
+* 17th Tennessee: Col Albert S. Marks (w), Ltc Watt W. Floyd
+* 23rd Tennessee: Ltc Richard H. Keeble
+* 25th Tennessee: Col John M. Hughs (w), Ltc Samuel Davis
+* 37th Tennessee: Col Moses White (w), Maj Joseph T. McReynolds (k), Cpt Charles G. Jarnagin
+* 44th Tennessee: Col John S. Fulton
+* Jefferson (Mississippi) Artillery: Cpt Putnam Darden
+|-
+| Fourth (Wood's) Brigade
+  
+BG Sterling A. M. Wood
+|
+* 16th Alabama: Col William B. Wood (w)
+* 33rd Alabama: Col Samuel Adams
+* 3rd Confederate: Maj John F. Cameron
+* 45th Mississippi: Ltc Richard Charlton
+* 15th Mississippi Battalion Sharpshooters: Cpt A. T. Hawkins
+* Semple's (Alabama) Battery: Cpt Henry C. SempleServed with Hanson's Brigade, Breckinridge's Division until January 1, 1863 (see: Cleburne's and Semple's report)
+|-
+| rowspan=3 |
+McCown's DivisionOf Smith's Corps, served with Hardee's Corps
+    
+MG John P. McCown
+| First (Ector's) Brigade
+  
+BG Mathew D. Ector
+|
+* 10th Texas Cavalry (dismounted): Col Matthew F. Locke
+* 11th Texas Cavalry (dismounted): Col John C. Burks (mw), Ltc Joseph M. Bounds
+* 14th Texas Cavalry (dismounted): Col John L. Camp
+* 32nd (15th) Texas Cavalry (dismounted):This regiment appears subsequently on Texas register as the 32nd Texas Cavalry (see: Official Records, Series I, Volume XX, Part 1, page 936/footnote) Col Julius A. Andrews
+* Douglas's Texas Battery: Cpt James P. Douglas
+|-
+| Second (Rains's) Brigade
+  
+BG James E. Rains (k)
+  
+Col Robert B. Vance
+|
+* 3rd Georgia Battalion: Ltc Marcellus A. Stovall
+* 9th Georgia Battalion: Maj Joseph T. Smith
+* 29th North Carolina: Col Robert B. Vance
+* 11th Tennessee: Col George W. Gordon (w), Ltc William Thedford
+* Eufaula (Alabama) Light Artillery: Lt William A. McDuffie
+|-
+| Third (McNair's) Brigade
+  
+BG Evander McNairTurned over command to Colonel Harper on account of sickness on December 31, 1862 (see: McCown's and McNair's report)
+  
+Col Robert W. Harper
+|
+* 1st Arkansas Mounted Rifles (dismounted): Col Robert W. Harper, Maj Lee M. Ramsaur (w)
+* 2nd Arkansas Mounted Rifles (dismounted): Ltc James A. Williamson
+* 4th Arkansas: Col Henry G. Bunn
+* 30th (25th) Arkansas: Maj James J. Franklin (w&c), Cpt William A. Cotter
+* 4th Arkansas Battalion: Maj Jesse A. Ross
+* Humphreys' (Arkansas) Battery: Cpt John T. Humphreys
+|}
+
+===Cavalry===
+{| class="wikitable"
+! width=25% | Division
+! width=25% | Brigade
+! Regiments and Others
+|-
+| rowspan=4 |
+CavalryForrest's and Morgan's commands on detached service
+    
+BG Joseph WheelerChief of Cavalry
+| Wheeler's Brigade
+  
+BG Joseph Wheeler
+|
+* 1st Alabama: Col William W. Allen (w)
+* 3rd Alabama: Maj Francis Y. Gaines, Cpt Tyirie H. Mauldin
+* 51st Alabama: Col John T. Morgan, Ltc James D. Webb (w)
+* 8th Confederate: Col William B. Wade
+* 1st Tennessee: Col James E. Carter
+* Douglass' (Tennessee) Battalion: Maj DeWitt C. Douglass
+* Holman's (Tennessee) Battalion: Maj Daniel W. Holman
+* Wiggins' (Arkansas) Battery: Cpt Jannedens H. Wiggins
+|-
+| Buford's Brigade
+  
+BG Abraham Buford
+|
+* 3rd Kentucky: Col J. Russell Butler
+* 5th Kentucky: Col D. H. Smith
+* 6th Kentucky: Col John W. Grigsby
+|-
+| Pegram's BrigadeProbably incomplete
+  
+BG John Pegram
+|
+* 1st Georgia
+* 1st Louisiana
+|-
+| Wharton's Brigade
+  
+BG John A. Wharton
+|
+* 14th Alabama Battalion: Ltc James C. Malone
+* 1st Confederate: Col John T. CoxCommanded 1st Confederate, Davis' (Tennessee) Battalion, 14th Alabama Battalion and Murray's (Tennessee) regiment (see: Wharton's report)
+* 3rd Confederate: Ltc William N. Estes
+* 2nd Georgia: Ltc James E. Dunlop, Maj Francis M. Ison
+* 3rd Georgia (detachment): Maj Robert Thompson
+* 2nd Tennessee:transferred, January 1, 1863 to Pegram's Brigade (see: Wharton's report) Col Henry M. Ashby
+* 4th Tennessee: Col Baxter Smith
+* Davis' (Tennessee) Battalion: Maj John R. Davis
+* 8th Texas: Col Thomas HarrisonCommanded 8th Texas, 3rd Confederate and 2nd Georgia (see: Wharton's report)
+* Murray's (Tennessee) regiment: Maj William S. Bledsoe
+* Escort company: Cpt Paul F. Anderson
+* McCown's escort company: Cpt L. T. Hardy
+* White's (Tennessee) battery: Cpt Benjamin F. White, Jr.
+|}
+
+===Artillery===
+{| class="wikitable"
+! Battalions
+! Batteries
+|-
+| ArtilleryByrne's battery mentioned in Breckenridge's report. The others do not appear to have been engaged in the campaign. Baxter's battery reported as at Shelbyville, December 31, and Gibson's was ordered, December 1, 1862, to Chattanooga, Tennessee, to be fitted for the field
+|
+* Baxter's (Tennessee) battery
+* Byrne's (Kentucky) battery
+* Gibson's (Georgia) battery
+|}
+
+==Notes==
+
+

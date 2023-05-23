@@ -1,0 +1,25 @@
+Title: Ross Johnson (lacrosse)
+
+
+
+Ross Johnson (born February 22, 1980) is a former professional lacrosse player and athlete for the San Jose Stealth.  He was originally from Mill Valley, CaliforniaStealth Sign Three Forwards and was released by the Stealth after the 2005 season.Stealth Acquire Pair of Players from Anaheim
+
+==Statistics==
+===NLL===
+{| BORDER="0" CELLPADDING="3" CELLSPACING="0"
+|- ALIGN="center" bgcolor="#e0e0e0"
+! colspan="2" bgcolor="#ffffff" |  
+! rowspan="99" bgcolor="#ffffff" |  
+! colspan="6" | Regular Season
+! rowspan="99" bgcolor="#ffffff" |  
+! colspan="6" | Playoffs
+|- ALIGN="center" bgcolor="#e0e0e0"
+! Season !! Team !! GP !! G !! A !! Pts !! LB !! PIM !! GP !! G !! A !! Pts !! LB !! PIM
+|- ALIGN="center" bgcolor="#f0f0f0"
+| 2004 || San Jose || 6 || 2 || 0 || 2 || 10 || 6 || -- || -- || -- || -- || -- || --
+|- ALIGN="center"
+| 2005 || San Jose || 3 || 1 || 1 || 2 || 10 || 6 || -- || -- || -- || -- || -- || --
+|- ALIGN="center" bgcolor="#e0e0e0"
+! colspan="2" | NLL Totals !! 9 !! 3 !! 1 !! 4 !! 20 !! 12!! 0 !! 0 !! 0 !! 0 !! 0 !! 0
+|}
+

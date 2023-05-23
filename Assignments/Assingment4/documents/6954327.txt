@@ -1,0 +1,16 @@
+Title: Globoidnan A
+Globoidnan A is a lignan found in Eucalyptus globoidea, a tree native to Australia.
+
+The molecule has been found to weakly inhibit the action of HIV integrase (IC50 = 0.64 μM) in vitro. HIV integrase is an enzyme which is responsible for the introduction of HIV viral DNA into a host's cellular DNA.  It is not known that globoidnan A inhibits the action of other retroviral integrases.
+
+== References ==
+
+
+
+
+
+
+Category:Lignans
+Category:Naphthalenes
+Category:Catechols
+Category:Carboxylate esters

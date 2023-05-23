@@ -1,0 +1,516 @@
+Title: 2006–07 Phoenix Suns season
+
+
+The 2006–07 Phoenix Suns season started with the team trying to return to the Western Conference Finals, where they were eliminated in six games by the Dallas Mavericks in the previous season, 2005–06. After an excellent regular season in which they posted a 61–21 record, in a rematch of last season's first round where they came back from a 3–1 deficit, they defeated the Los Angeles Lakers in the opening round of the playoffs in five games, but were narrowly defeated in the Western Conference Semifinals in six games by the more experienced and heavily favored and eventual NBA champion San Antonio Spurs. The Suns had the best team offensive rating in the NBA.
+
+The Suns' marketing slogan for the 2006–07 season was Eyes on the Prize. Billboards and bus wraps showed closeups of the eyes of a different Suns player, each face photographed in a strongly tinted purple color (orange on some ads), with small reflections of the NBA championship trophy reflected in the pupils.
+
+This was the last season the Suns won their division until the 2020–21 season.
+
+==Offseason==
+* Ann Meyers-Drysdale was hired as a vice-president for the Suns.
+
+===NBA Draft===
+
+
+{| class="wikitable sortable sortable"
+! style="" width="10%"| Round
+! style="" width="10%"| Pick
+! style="" width="20%"| Player
+! style="" width="15%"| Position
+! style="" width="15%"| Nationality
+! style="" width="20%"| College
+|- style="text-align: center"
+| 1
+| 21
+| Rajon Rondo
+| Guard
+| 
+| Kentucky
+|- style="text-align: center"
+| 1
+| 27
+| Sergio Rodríguez
+| Guard
+| 
+|
+|}
+
+==Roster==
+{| class="toccolours" style="font-size: 85%; width: 100%;"
+|-
+! colspan="2" style="background-color: #423189;  color: #FF8800; text-align: center;" | Phoenix Suns roster
+|- style="background-color: #FF8800; color: #423189;   text-align: center;"
+! Players !! Coaches
+|-
+| valign="top" |
+{| class="sortable" style="background:transparent; margin:0px; width:100%;"
+! Pos. !! # !! Nat. !! Name !! Height !! Weight !! DOB (Y-M-D) !! From
+|-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==Regular season==
+
+===Standings===
+
+
+
+===Record vs. opponents===
+{| class="wikitable" style="font-size:86%; text-align:center;"
+|-
+!colspan=31|2006–07 NBA Records
+|-
+!width=100|Team
+!style="background:#FF0000;color:#FFFFFF;width=35"|ATL
+!style="background:#006400;color:#FFFFFF;width=35"|BOS
+!style="background:#253E6A;color:#DF5106;width=35"|CHA
+!style="background:#FF0000;color:#000000;width=35"|CHI
+!style="background:#9F1F32;color:#001D43;width=35"|CLE
+!style="background:#0055BA;color:#898D8F;width=35"|DAL
+!style="background:#4C92CC;color:#FDB827;width=35"|DEN
+!style="background:#006BB7;color:#ED164B;width=35"|DET
+!style="background:#072E63;color:#DC5A34;width=35"|GSW
+!style="background:#D31145;color:#CBD4D8;width=35"|HOU
+!style="background:#000080;color:#FFD700;width=35"|IND
+!style="background:#F9160D;color:#1A2E8B;width=35"|LAC
+!style="background:#800080;color:#FFD700;width=35"|LAL
+!style="background:#00265B;color:#BAD1EB;width=35"|MEM
+!style="background:#000000;color:#8B0000;width=35"|MIA
+!style="background:#00471B;color:#AC1A2F;width=35"|MIL
+!style="background:#044D80;color:#000000;width=35"|MIN
+!style="background:#12305B;color:#C4CED4;width=35"|NJN
+!style="background:#0093B1;color:#FDB827;width=35"|NOK
+!style="background:#0000FF;color:#FF8C00;width=35"|NYK
+!style="background:#0000FF;color:#000000;width=35"|ORL
+!style="background:#000000;color:#BB9754;width=35"|PHI
+!style="background:#800080;color:#FF4500;width=35"|PHO
+!style="background:#000000;color:#FF0000;width=35"|POR
+!style="background:#6846A8;color:#FFFFFF;width=35"|SAC
+!style="background:#000000;color:#C0C0C0;width=35"|SAS
+!style="background:#005831;color:#FFC322;width=35"|SEA
+!style="background:#7436BF;color:#BE0F34;width=35"|TOR
+!style="background:#042A5C;color:#4C8ECC;width=35"|UTA
+!style="background:#044D7D;color:#BC7A44;width=35"|WAS
+|-
+| style="text-align:left;" | Atlanta
+|| — || 3–1 || 1–3 || 0–4 || 1–3 || 0–2 || 1–1 || 1–2 || 2–0 || 1–1 || 1–3 || 2–0 || 0–2 || 2–0 || 0–4 || 1–2 || 2–0 || 1–2 || 0–2 || 1–2 || 3–1 || 1–3 || 1–1 || 1–1 || 1–1 || 0–2 || 0–2 || 2–2 || 0–2 || 1–3
+|-
+| style="text-align:left;" | Boston
+|| 1–3 || — || 2–2 || 0–3 || 1–2 || 0–2 || 1–1 || 0–4 || 0–2 || 1–1 || 1–3 || 0–2 || 0–2 || 1–1 || 1–2 || 2–2 || 1–1 || 2–2 || 0–2 || 3–1 || 1–3 || 1–3 || 0–2 || 2–0 || 0–2 || 1–1 || 1–1 || 1–3 || 0–2 || 0–3
+|-
+| style="text-align:left;" | Charlotte
+|| 3–1 || 2–2 || — || 1–2 || 2–2 || 0–2 || 1–1 || 2–2 || 1–1 || 0–2 || 1–2 || 0–2 || 2–0 || 0–2 || 2–2 || 2–2 || 1–1 || 1–2 || 1–1 || 2–2 || 2–2 || 2–2 || 0–2 || 0–2 || 1–1 || 1–1 || 0–2 || 0–3 || 1–1 || 2–2
+|-
+| style="text-align:left;" | Chicago
+|| 4–0 || 3–0 || 2–1 || — || 2–2 || 1–1 || 1–1 || 3–1 || 1–1 || 0–2 || 3–1 || 0–2 || 1–1 || 1–1 || 3–1 || 4–0 || 0–2 || 1–3 || 2–0 || 3–1 || 1–2 || 2–1 || 1–1 || 2–0 || 0–2 || 1–1 || 2–0 || 2–2 || 0–2 || 3–1
+|-
+| style="text-align:left;" | Cleveland
+|| 3–1 || 2–1 || 2–2 || 2–2 || — || 0–2 || 0–2 || 1–3 || 2–0 || 1–1 || 3–1 || 2–0 || 2–0 || 2–0 || 1–3 || 4–0 || 2–0 || 2–1 || 1–1 || 2–2 || 1–2 || 3–1 || 0–2 || 1–1 || 2–0 || 2–0 || 1–1 || 3–1 || 1–1 || 2–1
+|-
+| style="text-align:left;" | Dallas
+|| 2–0 || 2–0 || 2–0 || 1–1 || 2–0 || — || 3–1 || 1–1 || 0–3 || 3–1 || 2–0 || 2–1 || 3–1 || 4–0 || 2–0 || 2–0 || 4–0 || 2–0 || 4–0 || 2–0 || 2–0 || 2–0 || 2–2 || 3–0 || 4–0 || 3–1 || 4–0 || 2–0 || 1–2 || 1–1
+|-
+| style="text-align:left;" | Denver
+|| 1–1 || 1–1 || 1–1 || 1–1 || 2–0 || 1–3 || — || 0–2 || 3–1 || 1–2 || 2–0 || 2–1 || 3–1 || 2–2 || 2–0 || 2–0 || 2–2 || 1–1 || 2–2 || 1–1 || 1–1 || 1–1 || 1–2 || 3–1 || 2–2 || 1–2 || 3–1 || 1–1 || 1–3 || 1–1
+|-
+| style="text-align:left;" | Detroit
+|| 2–1 || 4–0 || 2–2 || 1–3 || 3–1 || 1–1 || 2–0 || — || 0–2 || 1–1 || 2–2 || 2–0 || 2–0 || 2–0 || 2–1 || 3–1 || 1–1 || 4–0 || 1–1 || 2–1 || 4–0 || 3–1 || 1–1 || 1–1 || 1–1 || 0–2 || 2–0 || 2–1 || 0–2 || 2–2
+|-
+| style="text-align:left;" | Golden State
+|| 0–2 || 2–0 || 1–1 || 1–1 || 0–2 || 3–0 || 1–3 || 2–0 || — || 2–1 || 1–1 || 2–2 || 0–4 || 3–1 || 0–2 || 0–2 || 2–1 || 1–1 || 3–1 || 1–1 || 1–1 || 2–0 || 1–3 || 2–1 || 3–1 || 1–3 || 3–1 || 1–1 || 2–2 || 1–1
+|-
+| style="text-align:left;" | Houston
+|| 1–1 || 1–1 || 2–0 || 2–0 || 1–1 || 1–3 || 2–1 || 1–1 || 1–2 || — || 1–1 || 3–1 || 2–2 || 4–0 || 2–0 || 2–0 || 2–2 || 2–0 || 1–3 || 2–0 || 2–0 || 2–0 || 1–3 || 2–2 || 3–0 || 2–2 || 3–0 || 1–1 || 1–3 || 2–0
+|-
+| style="text-align:left;" | Indiana
+|| 3–1 || 3–1 || 2–1 || 1–3 || 1–3 || 0–2 || 0–2 || 2–2 || 1–1 || 1–1 || — || 1–1 || 1–1 || 2–0 || 2–2 || 4–0 || 0–2 || 0–4 || 1–1 || 2–1 || 2–2 || 2–2 || 0–2 || 2–0 || 0–2 || 1–1 || 0–2 || 1–2 || 0–2 || 0–3
+|-
+| style="text-align:left;" | L.A. Clippers
+|| 0–2 || 2–0 || 2–0 || 2–0 || 0–2 || 1–2 || 1–2 || 0–2 || 2–2 || 1–3 || 1–1 || — || 2–2 || 3–0 || 2–0 || 2–0 || 1–2 || 1–1 || 2–2 || 1–1 || 1–1 || 2–0 || 2–2 || 3–1 || 2–2 || 0–4 || 2–2 || 0–2 || 1–3 || 1–1
+|-
+| style="text-align:left;" | L.A. Lakers
+|| 2–0 || 2–0 || 0–2 || 1–1 || 0–2 || 1–3 || 1–3 || 0–2 || 4–0 || 2–2 || 1–1 || 2–2 || — || 2–2 || 1–1 || 0–2 || 3–1 || 2–0 || 1–2 || 0–2 || 2–0 || 1–1 || 1–3 || 1–2 || 3–1 || 2–1 || 3–1 || 1–1 || 2–1 || 1–1
+|-
+| style="text-align:left;" | Memphis
+|| 0–2 || 1–1 || 2–0 || 1–1 || 0–2 || 0–4 || 2–2 || 0–2 || 1–3 || 0–4 || 0–2 || 0–3 || 2–2 || — || 0–2 || 0–2 || 2–1 || 0–2 || 1–3 || 0–2 || 1–1 || 1–1 || 0–4 || 2–2 || 1–2 || 1–3 || 1–2 || 1–1 || 1–3 || 1–1
+|-
+| style="text-align:left;" | Miami
+|| 4–0 || 2–1 || 2–2 || 1–3 || 3–1 || 0–2 || 0–2 || 1–2 || 2–0 || 0–2 || 2–2 || 0–2 || 1–1 || 2–0 || — || 2–1 || 2–0 || 3–1 || 1–1 || 1–3 || 0–4 || 1–3 || 0–2 || 2–0 || 2–0 || 1–1 || 2–0 || 2–1 || 2–0 || 3–1
+|-
+| style="text-align:left;" | Milwaukee
+|| 2–1 || 2–2 || 2–2 || 0–4 || 0–4 || 0–2 || 0–2 || 1–3 || 2–0 || 0–2 || 0–4 || 0–2 || 2–0 || 2–0 || 1–2 || — || 2–0 || 1–2 || 0–2 || 1–3 || 1–3 || 2–1 || 0–2 || 1–1 || 1–1 || 2–0 || 1–1 || 1–3 || 0–2 || 1–3
+|-
+| style="text-align:left;" | Minnesota
+|| 0–2 || 1–1 || 1–1 || 2–0 || 0–2 || 0–4 || 2–2 || 1–1 || 1–2 || 2–2 || 2–0 || 2–1 || 1–3 || 1–2 || 0–2 || 0–2 || — || 1–1 || 1–3 || 2–0 || 1–1 || 2–0 || 1–3 || 2–2 || 2–2 || 1–2 || 1–3 || 0–2 || 1–3 || 1–1
+|-
+| style="text-align:left;" | New Jersey
+|| 2–1 || 2–2 || 2–1 || 3–1 || 1–2 || 0–2 || 1–1 || 0–4 || 1–1 || 0–2 || 4–0 || 1–1 || 0–2 || 2–0 || 1–3 || 2–1 || 1–1 || — || 1–1 || 4–0 || 2–2 || 2–2 || 0–2 || 0–2 || 1–1 || 0–2 || 0–2 || 2–2 || 2–0 || 4–0
+|-
+| style="text-align:left;" | New Orleans/Oklahoma City
+|| 2–0 || 2–0 || 1–1 || 0–2 || 1–1 || 0–4 || 2–2 || 1–1 || 1–3 || 3–1 || 1–1 || 2–2 || 2–1 || 3–1 || 1–1 || 2–0 || 3–1 || 1–1 || — || 2–0 || 1–1 || 0–2 || 0–3 || 1–2 || 3–1 || 0–4 || 2–2 || 0–2 || 1–2 || 1–1
+|-
+| style="text-align:left;" | New York
+|| 2–1 || 1–3 || 2–2 || 1–3 || 2–2 || 0–2 || 1–1 || 1–2 || 1–1 || 0–2 || 1–2 || 1–1 || 2–0 || 2–0 || 3–1 || 3–1 || 0–2 || 0–4 || 0–2 || — || 2–1 || 1–3 || 0–2 || 1–1 || 1–1 || 0–2 || 1–1 || 1–3 || 1–1 || 2–2
+|-
+| style="text-align:left;" | Orlando
+|| 1–3 || 3–1 || 2–2 || 2–1 || 2–1 || 0–2 || 1–1 || 0–4 || 1–1 || 0–2 || 2–2 || 1–1 || 0–2 || 1–1 || 4–0 || 3–1 || 1–1 || 2–2 || 1–1 || 1–2 || — || 2–1 || 0–2 || 2–0 || 1–1 || 1–1 || 2–0 || 0–4 || 2–0 || 2–2
+|-
+| style="text-align:left;" | Philadelphia
+|| 3–1 || 3–1 || 2–2 || 1–2 || 1–3 || 0–2 || 1–1 || 1–3 || 0–2 || 0–2 || 2–2 || 0–2 || 1–1 || 1–1 || 3–1 || 1–2 || 0–2 || 2–2 || 2–0 || 3–1 || 1–2 || — || 1–1 || 1–1 || 1–1 || 0–2 || 2–0 || 1–3 || 1–1 || 0–3
+|-
+| style="text-align:left;" | Phoenix
+|| 1–1 || 2–0 || 2–0 || 1–1 || 2–0 || 2–2 || 2–1 || 1–1 || 3–1 || 3–1 || 2–0 || 2–2 || 3–1 || 4–0 || 2–0 || 2–0 || 3–1 || 2–0 || 3–0 || 2–0 || 2–0 || 1–1 || — || 4–0 || 3–1 || 1–2 || 2–1 || 2–0 || 1–3 || 1–1
+|-
+| style="text-align:left;" | Portland
+|| 1–1 || 0–2 || 2–0 || 0–2 || 1–1 || 0–3 || 1–3 || 1–1 || 1–2 || 2–2 || 0–2 || 1–3 || 2–1 || 2–2 || 0–2 || 1–1 || 2–2 || 2–0 || 2–1 || 1–1 || 0–2 || 1–1 || 0–4 || — || 2–2 || 0–4 || 2–2 || 1–1 || 2–2 || 2–0
+|-
+| style="text-align:left;" | Sacramento
+|| 1–1 || 2–0 || 1–1 || 2–0 || 0–2 || 0–4 || 2–2 || 1–1 || 1–3 || 0–3 || 2–0 || 2–2 || 1–3 || 2–1 || 0–2 || 1–1 || 2–2 || 1–1 || 1–3 || 1–1 || 1–1 || 1–1 || 1–3 || 2–2 || — || 0–4 || 2–1 || 1–1 || 2–1 || 0–2
+|-
+| style="text-align:left;" | San Antonio
+|| 2–0 || 1–1 || 1–1 || 1–1 || 0–2 || 1–3 || 2–1 || 2–0 || 3–1 || 2–2 || 1–1 || 4–0 || 1–2 || 3–1 || 1–1 || 0–2 || 2–1 || 2–0 || 4–0 || 2–0 || 1–1 || 2–0 || 2–1 || 4–0 || 4–0 || — || 4–0 || 2–0 || 2–2 || 2–0
+|-
+| style="text-align:left;" | Seattle
+|| 2–0 || 1–1 || 2–0 || 0–2 || 1–1 || 0–4 || 1–3 || 0–2 || 1–3 || 0–3 || 2–0 || 2–2 || 1–3 || 2–1 || 0–2 || 1–1 || 3–1 || 2–0 || 2–2 || 1–1 || 0–2 || 0–2 || 1–2 || 2–2 || 1–2 || 0–4 || — || 1–1 || 2–2 || 0–2
+|-
+| style="text-align:left;" | Toronto
+|| 2–2 || 3–1 || 3–0 || 2–2 || 1–3 || 0–2 || 1–1 || 1–2 || 1–1 || 1–1 || 2–1 || 2–0 || 1–1 || 1–1 || 1–2 || 3–1 || 2–0 || 2–2 || 2–0 || 3–1 || 4–0 || 3–1 || 0–2 || 1–1 || 1–1 || 0–2 || 1–1 || — || 0–2 || 3–1
+|-
+| style="text-align:left;" | Utah
+|| 2–0 || 2–0 || 1–1 || 2–0 || 1–1 || 2–1 || 3–1 || 2–0 || 2–2 || 3–1 || 2–0 || 3–1 || 1–2 || 3–1 || 0–2 || 2–0 || 3–1 || 0–2 || 2–1 || 1–1 || 0–2 || 1–1 || 3–1 || 2–2 || 1–2 || 2–2 || 2–2 || 2–0 || — || 1–1
+|-
+| style="text-align:left;" | Washington
+|| 3–1 || 3–0 || 2–2 || 1–3 || 1–2 || 1–1 || 1–1 || 2–2 || 1–1 || 0–2 || 3–0 || 1–1 || 1–1 || 1–1 || 1–3 || 3–1 || 1–1 || 0–4 || 1–1 || 2–2 || 2–2 || 3–0 || 1–1 || 0–2 || 2–0 || 0–2 || 2–0 || 1–3 || 1–1 || —
+|}
+
+===15-game winning streak===
+On December 19, the Suns made franchise history by winning their fifteenth straight game with a 115–98 win over the Toronto Raptors ; ironically, the Raptors are a franchise headed by Bryan Colangelo, former Suns president and son of Jerry Colangelo, longtime Suns owner and current Suns CEO (under new owner Robert Sarver). The younger Colangelo left the Suns' organization to accept the Raptors' president–GM position in late February 2006.
+
+Steve Nash had 15 assists to go with 10 points, while Stoudemire scored a game-high 28 points and brought in 10 rebounds (in 28 minutes of playing time).  The Suns' previous record was the 14-game win streak of the 1992–93 team, which made the NBA Finals but lost to the Chicago Bulls.
+
+The streak ended on December 22 against the Washington Wizards in overtime, by a score of 144–139, with Gilbert Arenas scoring a game-high 54 points.
+
+===17-game winning streak===
+
+On January 28, 2007, the Suns made franchise history yet again by winning their seventeenth straight game with a 115–100 win over the Cleveland Cavaliers, in a game played at Quicken Loans Arena in Cleveland, Ohio. Steve Nash contributed 23 points and 15 assists. Shawn Marion had 23 points, Amar'e Stoudemire had 22 and Leandro Barbosa scored 19.
+
+The franchise's previous record of fifteen was set earlier in the season on December 19 (as noted above). The win against the Cavs also marked the 20th victory in 21 games this season to date against Eastern Conference teams.
+
+Up to this point, the Suns' last loss was December 28 against the Dallas Mavericks. A victory at Minneapolis on Monday, January 29 against the Minnesota Timberwolves would have extended the streak to 18 games and again establish a franchise-best winning streak; however, the Suns fell to the T-Wolves by a score of 121–112. Kevin Garnett scored 44 points and had 11 rebounds for Minnesota, while Shawn Marion had 24 points and 10 rebounds and Leandro Barbosa had 17 for Phoenix in a losing cause; Raja Bell scored 26 points while Steve Nash had 20 points and 18 assists for the Suns, but he scored only three points and had just one assist in the final period as Garnett's scoring was too much for the Suns to overcome.
+
+:"Better to lose that way than to lose when we beat ourselves", Nash said. "Kevin was sensational. We just didn't make shots at the end at the clip Kevin was making them." 
+
+Up to that time, the only other teams in NBA history with 17-game win streaks were the 1946–47 Washington Capitols, the 1959–60 Boston Celtics and the 1995–96 San Antonio Spurs. (The Suns' rival, the 2006–07 Dallas Mavericks would later go on their own 17-game winning streak).
+
+The all-time best winning streak in the NBA is 33 games, set by the 1971–72 L.A. Lakers. Steve Nash noted in an interview with the Associated Press:
+
+
+
+As noted by Paul Coro of the Arizona Republic, the Suns franchise has had nine double-digit win streaks in its history to date, with four of them alone under coach Mike D'Antoni since 2004–05. The Suns are the 12th franchise in NBA history to have multiple winning streaks of at least 10 games before the month of February, but they are also the only team to have two 15-game winning streaks before the All-Star break.  
+
+===Steve Nash injury===
+Due to inflammation of his right shoulder (first experienced February 1), Nash did not play in the second half of a February 5 road game against the Denver Nuggets, a 113–108 Suns victory, at the insistence of Mike D'Antoni. Nash left the game with 9 points, 3 rebounds and a team-high 7 assists in the first half. It was also announced that he would miss the following night's game against the Portland Trail Blazers (guard–forward Eric Piatkowski started in his place) . Both Nash and D'Antoni criticized the rest of the team for uninspired play during the first half, in a game that All-Star Allen Iverson and Marcus Camby did not participate in.
+
+Phoenix suffered their worst loss of the season on February 14. The Suns fell to the Sonics at KeyArena, by a score of 114–90. Marcus Banks scored a season-high 21 points in a losing cause. In addition to Nash's injury, Boris Diaw missed a second straight game due to back spasms; F Kurt Thomas has been out since January 15 with a sore right elbow.
+
+====All-Star blowout: Suns do their part====
+Nash eventually was forced to withdraw from the 2007 NBA All-Star Game (played February 18 in Las Vegas). In the All-Star game, the Suns were represented by Amar'e Stoudemire (29 points) and Shawn Marion (18 points) in the 153–132 West squad victory over the East.
+
+Stoudemire, by now seemingly fully recovered from the knee surgery, ended up scoring the most points ever by a Phoenix Suns player in an All-Star Game (29), more than the 21 points scored by Tom Chambers in 1990 and Paul Westphal in 1980.
+
+Nash was replaced on the West All-Star squad by Seattle SuperSonics guard Ray Allen; Nash was in attendance as a spectator.
+
+Despite the setbacks, as of the end of play on the 14th, the Suns enjoyed a 10-game first-place lead in the Pacific Division over the Los Angeles Lakers, and after the Suns struggled going 1–3 without Nash, he returned to action against the Los Angeles Clippers in a game played at Staples Center on February 20; Nash scored 13 points and had 12 assists in a decisive 115–90 victory, a game made famous with Amar'e Stoudemire airballing a free throw with the Suns up by 21 points drawing laughter and groans from the crowd. Shawn Marion scored 31 points. The following night, Nash continued his comeback with a double-double in a 118–108 home win against the Boston Celtics.
+
+===Road to the postseason===
+A key test for the Suns, as they began to prepare for postseason play, was a road game against their bitter conference rivals, the Dallas Mavericks, in a game played at American Airlines Center on March 14. The game was billed as a showdown of the two teams with the current best won-lost records in the NBA; one of the key factors in which team gets home-court advantage in the playoffs; and a possible preview of the Western Conference championship series. The Mavericks wore their green alternate uniform and the Suns their white home uniforms despite the game been played in Dallas.
+
+The crowd of 20,525 was a season high for Dallas. The game was marked by controversial officiating and stellar offense by both teams (by their own standards the Suns' offense had been less than stellar, in general, in the period after the All-Star break).
+
+Nash made a three-point shot to send the game into overtime. The game went into a second overtime period tied at 120–120. During the second OT period, Amar'e Stoudemire took over. He scored six of the nine points the Suns scored in the OT period (13 of the Suns' 18 in both OTs) and did a good job rebounding alongside Shawn Marion. Stoudemire (41 points) and Nash combined for 73 total points in the game versus 33 points for Jerry Stackhouse (his best point total as a Dallas Maverick). Conversation thus began on a possible third MVP award for Nash (which would place him in the same company as NBA legends Bill Russell, Larry Bird and Kareem Abdul-Jabbar), and a possible competition between him and his close friend, Mavericks' star forward Dirk Nowitzki, for the honor (Nowitzki would go on to win the MVP award on May 11)).
+
+The thriller ended 129–127, with the Suns edging the Mavericks to make the season series 2–1 favoring Dallas (it was the Mavs' first home loss in 24 games). The win moved the Suns to within 2½ games of Dallas in the chase for the best record in the NBA. (They played again on April 1 in front of a sellout crowd and national ABC Sports audience at US Airways Center, Phoenix, to end their season series match-up; the Suns won that game decisively by a score of 126–104. Barbosa led all scorers with 29 points; Stoudemire had 24 points; Nash had 23 points and 11 assists.)
+
+====Third straight Pacific Division title====
+
+In a home game played on March 20, the Suns defeated the Timberwolves 108–90 to clinch their third consecutive Pacific Division championship (and sixth overall for the franchise). Raja Bell hit six three-point shots in the winning cause, his most since January 26, and scored 22 points.
+
+Phoenix ended its regular season on April 17 with a 103–99 home loss to the Los Angeles Clippers. The final regular-season record was 61–21, one win fewer than the franchise-best playoff teams of 1993 and 2005.
+
+==Playoffs==
+
+===Game log===
+
+
+
+|- align="center" bgcolor="#ccffcc"
+| 1
+| April 22
+| L.A. Lakers
+| W 95–87
+| Amar'e Stoudemire (23)
+| Shawn Marion (16)
+| Steve Nash (10)
+| US Airways Center18,422
+| 1–0
+|- align="center" bgcolor="#ccffcc"
+| 2
+| April 24
+| L.A. Lakers
+| W 126–98
+| Leandro Barbosa (26)
+| Shawn Marion (10)
+| Steve Nash (14)
+| US Airways Center18,422
+| 2–0
+|- align="center" bgcolor="#ffcccc"
+| 3
+| April 26
+| @ L.A. Lakers
+| L 89–95
+| Amar'e Stoudemire (24)
+| Amar'e Stoudemire (10)
+| Steve Nash (13)
+| Staples Center18,997
+| 2–1
+|- align="center" bgcolor="#ccffcc"
+| 4
+| April 29
+| @ L.A. Lakers
+| W 113–100
+| Amar'e Stoudemire (27)
+| Amar'e Stoudemire (21)
+| Steve Nash (23)
+| Staples Center18,997
+| 3–1
+|- align="center" bgcolor="#ccffcc"
+| 5
+| May 2
+| L.A. Lakers
+| W 119–110
+| Shawn Marion (26)
+| Amar'e Stoudemire (16)
+| Steve Nash (10)
+| US Airways Center18,422
+| 4–1
+|-
+
+|- align="center" bgcolor="#ffcccc"
+| 1
+| May 6
+| San Antonio
+| L 106–111
+| Steve Nash (31)
+| Amar'e Stoudemire (18)
+| Steve Nash (8)
+| US Airways Center18,422
+| 0–1
+|- align="center" bgcolor="#ccffcc"
+| 2
+| May 8
+| San Antonio
+| W 101–81
+| Amar'e Stoudemire (27)
+| Shawn Marion (10)
+| Steve Nash (16)
+| US Airways Center18,422
+| 1–1
+|- align="center" bgcolor="#ffcccc"
+| 3
+| May 12
+| @ San Antonio
+| L 101–108
+| Shawn Marion (26)
+| Kurt Thomas (12)
+| Steve Nash (11)
+| AT&T Center18,797
+| 1–2
+|- align="center" bgcolor="#ccffcc"
+| 4
+| May 14
+| @ San Antonio
+| W 104–98
+| Amar'e Stoudemire (26)
+| Shawn Marion (12)
+| Steve Nash (15)
+| AT&T Center18,797
+| 2–2
+|- align="center" bgcolor="#ffcccc"
+| 5
+| May 16
+| San Antonio
+| L 85–88
+| Shawn Marion (24)
+| Shawn Marion (17)
+| Steve Nash (12)
+| US Airways Center18,422
+| 2–3
+|- align="center" bgcolor="#ffcccc"
+| 6
+| May 18
+| @ San Antonio
+| L 106–114
+| Amar'e Stoudemire (38)
+| Amar'e Stoudemire (12)
+| Steve Nash (14)
+| AT&T Center18,797
+| 2–4
+|-
+
+
+===First round vs. Los Angeles Lakers===
+Game 1
+
+On Sunday, April 22, the Suns opened postseason play with a 95–87 win over the Los Angeles Lakers in the first game of the playoffs (in a game played on the Suns' home court at US Airways Center). Leandro Barbosa scored 26 points (19 of those in the second half); Amar'e Stoudemire, in his first playoff game since 2005, scored 23 points; Steve Nash scored 20 points and had 10 assists; Shawn Marion had 16 points. The Suns fell behind by halftime and the third quarter, but rallied in the fourth quarter as the Lakers' stamina gave out down the stretch. Kobe Bryant scored 39 points, but only 11 of those came in the second half.
+
+Game 2
+
+Game 2 was played Tuesday, April 24 at US Airways Center in Phoenix. The Suns engineered a decisive 126–98 win over the Lakers. Leandro Barbosa (who was awarded the NBA Sixth Man Award on April 23) scored 26 points and hit four three-point shots; Amar'e Stoudemire scored 20 points; Shawn Marion had 18 points. Steve Nash had his third career postseason double-double with 16 points and 14 assists. Kobe Bryant was held to only 15 points on 5-of-13 shooting (and only scored two points in the entire second half). The Suns went on a 27–9 scoring run to take a 55–34 lead with 4:50 to go in the first half, and that seemed to set the tone for the rest of the game. The Suns shot 54.3 percent (50-of-92) from the field. All of the Suns players who played during the game scored at least once, including fan favorite Pat Burke and Eric Piatkowski, both of whom rarely see playing time during games.
+
+The Suns had their first 2–0 lead in an NBA playoff series since sweeping the Memphis Grizzlies in the first round of the 2005 playoffs.
+
+Game 3
+
+The Los Angeles Lakers rallied to beat the Phoenix Suns by a score of 95–89 in front of their initially displeased home fans at Staples Center, getting the series a little closer by a margin of 2–1. The Suns scored the first 11 points unanswered, and built a 17-point lead in the first quarter, leading to boos from the Laker fans, but the Suns' offense did not hold up (Stoudemire and Raja Bell were hampered by foul trouble down the stretch).  The Suns lethargic play was no match for the Lakers' desperate aggressiveness, especially from big men Kwame Brown and Lamar Odom. Bryant tallied 45 points. Brown scored 18 points. Amar'e Stoudemire led the Suns with 23 points and 10 rebounds. Steve Nash scored 10 points and had 13 assists, while Leandro Barbosa had 20 points off the bench. The Suns wore their Orange uniforms, the Lakers yellow.
+
+Game 4
+
+The Phoenix Suns responded to their opponents with aggressiveness and energy of game 3, defeating the Los Angeles Lakers on their home turf by a score of 113–100.  Point guard Steve Nash recorded a Suns post-season record 23 assists, falling one assist short of tying Magic Johnson and John Stockton for the NBA post-season record of 24. The Suns wore their Orange uniforms for the final time of the season, the Lakers wore their white.
+
+Game 5
+
+The Suns achieve a 4–1 series victory at home (by a score of 119–110), despite late fourth period back-to-back three-pointers by Bryant that brought the Lakers close enough to turn the tables. Nash had 17 points and 10 assists; Stoudemire had 27 points and 16 rebounds; Marion added 26 points and 10 rebounds. It was the 10th win by the Suns in the past 11 games against the Lakers.
+
+===Conference Semifinals vs. San Antonio Spurs===
+Game 1 was played on May 6 at the US Airways Center in downtown Phoenix.  The Spurs won 111–106.  Late in the 4th quarter, Steve Nash collided head to head with Tony Parker, who had possession of the ball.  Nash sustained a deep cut on his nose that bled profusely for the remainder of the game.  His nose was bandaged and tended to by the team trainer, but Nash was in and out of the game as the wound continued to bleed through the bandages.  It was the first time this postseason that Nash did not record a double-double.  Tim Duncan and Tony Parker led the Spurs with 32 and 33 points, respectively.  Nash led the Suns with 31 points, while Amar'e Stoudemire scored 20 and pulled down 18 boards.
+
+Game 2 was played May 8 at the US Airways Center in downtown Phoenix. The Suns blew out the Spurs 101–81 to even series at one game apiece. Mike D'Antoni's decision for Kurt Thomas to guard Tim Duncan helped Amar'e Stoudemire to focus on offense, scoring 21 of his 27 points in the second half. Tim Duncan scored 29 points while Tony Parker and Bruce Bowen both had 13 points each.
+
+Game 3 was played on May 12 in San Antonio. The Spurs beat the Suns 108–101 as Tim Duncan rallied 33 points and 19 boards. Manu Ginóbili ended up with a black and bruised eye when he was poked in the eye by Shawn Marion in Game 3. The Spurs led series 2–1.
+
+====Controversy & Tim Donaghy====
+Game 4 was played on May 14 in San Antonio. The Suns trailed by as much as 11 points throughout the 3rd quarter. Finally, the Suns took a lead near the end of the 4th quarter when Steve Nash fed Stoudemire back to back inside to make the game 100–97. Then, Robert Horry collided with Nash and sent the smaller framed Nash flying to the scorer's table midcourt. Raja Bell tried to come to Nash's aid, and was stopped by his teammates and referees. Horry was given a flagrant foul and was ejected. Bell also was given a technical foul for trying to get at Horry after the collision. The Suns won 104–98, evening the series at 2-2. Nash finished the game with 24 points and 15 assists.
+
+On May 15, the NBA announced that Horry would be suspended two games for flagrantly fouling Nash and striking Bell's shoulder. Amar'e Stoudemire and Boris Diaw were suspended one game each for leaving their bench during an altercation in violation of league rules.  
+Coach D'Antoni was not happy with Stoudemire and Diaw's suspension, as they were critically important members of the Suns' squad:
+
+
+
+Game 5 was played May 16 at the US Airways Center in downtown Phoenix. After leading by as many as 16 points in the second quarter and ahead 79-71 with 5:18 to play, the Suns collapsed and lost the game by a score of 88–85. Bruce Bowen hit a three-point shot with 36.4 seconds to go. The Suns, without Stoudemire and Diaw because of the aforementioned one-game suspension, were led by Shawn Marion, who scored 24 points and 17 rebounds, but only four of those points were scored in the second half. Kurt Thomas, playing in place of Stoudemire, had 15 points and 12 rebounds. Steve Nash finished with 19 points and 12 assists. Manu Ginóbili scored 15 of his 26 points in the final quarter to lead the Spurs to the late rally as the Spurs proved to be too much for the Suns.
+
+Game 6 was played May 18 in San Antonio, Texas. With 2 fresh players coming back, in Boris Diaw and Amar'e Stoudemire, Phoenix was very anxious about this game. Phoenix started the game off going shot for shot with the Spurs. After trailing at halftime 53–51, Phoenix believed that they were going to force a Game 7 back in Phoenix, but a big 3rd quarter by San Antonio put the Spurs up by as many as 20. In the 4th quarter, the Suns almost rallied back by starting to hit big shots. But in the end, it was not enough as San Antonio eliminated the team in the NBA with the second best record (61–21).
+
+In the aftermath of the season, one of the referees that was involved with the series, Tim Donaghy, would write in his book that he had no doubt the Suns were the best in the league that year and even admitted that the entire series was officiated poorly. In his book, Donaghy claimed that his supervisor, Tommy Nuñez, disliked team owner Robert Sarver while also enjoying the lifestyle of San Antonio to the point where he wanted the Spurs to continue leading their playoff stretch. He would also admit that this particular series was poorly officiated from the very start until its bitter end.
+
+==Awards and honors==
+
+===Week/Month===
+* Steve Nash was named Western Conference Player of the Month for January.
+* Mike D'Antoni was named Western Conference Coach of the Month for December.
+* Mike D'Antoni was named Western Conference Coach of the Month for January.
+* Steve Nash was named Western Conference Player of the Week for games played December 4 through December 10.
+* Steve Nash was named Western Conference Player of the Week for games played January 15 through January 21.
+* Steve Nash was named Western Conference Player of the Week for games played January 22 through 28.
+* Amar'e Stoudemire was named Western Conference Player of the Week for games played February 19 through February 25.
+
+===All-Star===
+* Steve Nash was selected as a reserve for the Western Conference in the All-Star Game. It was his fifth All-Star selection. Nash finished fourth in voting among Western Conference guards with 1,504,826 votes. Nash did not compete due to injury and was replaced by Mehmet Okur.
+* Amar'e Stoudemire was selected as a reserve for the Western Conference in the All-Star Game. It was his second All-Star selection. Stoudemire finished second in voting among Western Conference centers with 1,209,333 votes.
+* Shawn Marion was selected as a reserve for the Western Conference in the All-Star Game. It was his fourth All-Star selection. Marion finished sixth in voting among Western Conference forwards with 551,173 votes.
+* Mike D'Antoni was selected as the coach for the Western Conference in the All-Star Game, leading the team to a 153–132 victory over the Eastern Conference.
+* Steve Nash was selected to compete in the Skills Challenge. Nash did not compete due to injury and was replaced by Chris Paul.
+
+===Season===
+* Leandro Barbosa received the Sixth Man of the Year Award.
+* Steve Nash was named to the All-NBA First Team. Nash also finished second in MVP voting.
+* Amar'e Stoudemire was named to the All-NBA First Team. Stoudemire also finished 14th in MVP voting, and 16th in Most Improved Player voting.
+* Steve Nash led the league in assists per game with an 11.6 average, and total assists with 884.
+* Shawn Marion led the league in steals with 156.
+* Shawn Marion finished fourth in Defensive Player of the Year voting.
+* Raja Bell finished 23rd in Defensive Player of the Year voting.
+* Leandro Barbosa finished eighth in Most Improved Player voting.
+
+==Player statistics==
+
+
+===Season===
+
+|- align="center" bgcolor=""
+|  || 45 || 1 || 11.2 || .429 || .172 || .800 || 0.8 || 1.3 || .5 || .1 || 4.9
+|- align="center" bgcolor="#f0f0f0"
+|  || 80 || 18 || 32.7 || .476 || .434 || .845 || 2.7 || 4.0 || 1.2 || .2 || 18.1
+|- align="center" bgcolor=""
+|  || 78 || 78 || 37.4 || .432 || .413 || .776 || 3.2 || 2.5 || .6 || .3 || 14.7
+|- align="center" bgcolor="#f0f0f0"
+|  || 23 || 0 || 7.1 || .354 || .273 || .615 || 2.0 || 0.2 || .1 || .1 || 2.6
+|- align="center" bgcolor=""
+|  || 73 || 59 || 31.1 || .538 || .333 || .683 || 4.3 || 4.8 || .4 || .5 || 9.7
+|- align="center" bgcolor="#f0f0f0"
+|  || 76 || 7 || 18.1 || .368 || .378 || .877 || 2.3 || 0.6 || .4 || .6 || 6.4
+|- align="center" bgcolor=""
+|  || 18 || 0 || 7.7 || .275 || .313 || 1.000^ || 1.3 || 0.1 || .3 || .1 || 2.2
+|- align="center" bgcolor="#f0f0f0"
+|  || 80 || style="background:#FF8800;color:#423189;" | 80 || style="background:#FF8800;color:#423189;" | 37.6 || .524 || .317 || .810 || style="background:#FF8800;color:#423189;" | 9.8 || 1.7 || style="background:#FF8800;color:#423189;" | 2.0 || style="background:#FF8800;color:#423189;" | 1.5 || 17.5
+|- align="center" bgcolor=""
+|  || 3 || 0 || 5.7 || .333 || .000 || 1.000^ || 1.0 || 0.0 || .0 || .3 || 2.0
+|- align="center" bgcolor="#f0f0f0"
+|  || 76 || 76 || 35.3 || .532 || style="background:#FF8800;color:#423189;" | .455 || style="background:#FF8800;color:#423189;" | .899^ || 3.5 || style="background:#FF8800;color:#423189;" | 11.6 || .8 || .1 || 18.6
+|- align="center" bgcolor=""
+|  || 11 || 0 || 6.6 || .360 || .389 || 1.000^ || 0.8 || 0.4 || .0 || .1 || 2.5
+|- align="center" bgcolor="#f0f0f0"
+|  || 29 || 0 || 8.5 || .442 || .447 || .917^ || 0.8 || 0.6 || .2 || .1 || 3.7
+|- align="center" bgcolor=""
+|  || style="background:#FF8800;color:#423189;" | 82 || 78 || 32.8 || style="background:#FF8800;color:#423189;" | .575 || .000 || .781 || 9.6 || 1.0 || 1.0 || 1.3 || style="background:#FF8800;color:#423189;" | 20.4
+|- align="center" bgcolor="#f0f0f0"
+|  || 67 || 13 || 18.0 || .486 || .000 || .789 || 5.7 || 0.4 || .4 || .4 || 4.6
+|}
+
+^ – Minimum 125 free throws made.
+
+===Playoffs===
+
+|- align="center" bgcolor=""
+|  || 2 || 0 || 3.5 || .000 || .000 || 1.000^ || 0.0 || 0.5 || .0 || .0 || 1.0
+|- align="center" bgcolor="#f0f0f0"
+|  || style="background:#FF8800;color:#423189;" | 11 || 1 || 31.7 || .405 || .305 || .718 || 3.5 || 2.2 || 1.1 || .2 || 15.8
+|- align="center" bgcolor=""
+|  || style="background:#FF8800;color:#423189;" | 11 || style="background:#FF8800;color:#423189;" | 11 || 39.8 || .460 || .444 || .857 || 3.0 || 1.8 || .9 || .2 || 10.2
+|- align="center" bgcolor="#f0f0f0"
+|  || 3 || 0 || 2.3 || .500 || . || . || 0.3 || 0.0 || .0 || .3 || 0.7
+|- align="center" bgcolor=""
+|  || 10 || 0 || 23.5 || .475 || .000 || .667 || 3.2 || 3.0 || .7 || .2 || 6.6
+|- align="center" bgcolor="#f0f0f0"
+|  || style="background:#FF8800;color:#423189;" | 11 || 6 || 15.5 || .528† || .444 || .818 || 1.4 || 0.3 || .2 || .2 || 5.0
+|- align="center" bgcolor=""
+|  || style="background:#FF8800;color:#423189;" | 11 || style="background:#FF8800;color:#423189;" | 11 || style="background:#FF8800;color:#423189;" | 41.4 || .500 || .353 || .667 || 10.4 || 1.2 || style="background:#FF8800;color:#423189;" | 1.5 || 1.7 || 16.9
+|- align="center" bgcolor="#f0f0f0"
+|  || style="background:#FF8800;color:#423189;" | 11 || style="background:#FF8800;color:#423189;" | 11 || 37.5 || .463 || style="background:#FF8800;color:#423189;" | .487 || style="background:#FF8800;color:#423189;" | .891^ || 3.2 || style="background:#FF8800;color:#423189;" | 13.3 || .4 || .1 || 18.9
+|- align="center" bgcolor=""
+|  || 1 || 0 || 3.0 || 1.000† || . || . || 0.0 || 0.0 || .0 || .0 || 2.0
+|- align="center" bgcolor="#f0f0f0"
+|  || 1 || 0 || 9.0 || .250 || .000 || . || 1.0 || 2.0 || .0 || .0 || 2.0
+|- align="center" bgcolor=""
+|  || 10 || 10 || 34.3 || style="background:#FF8800;color:#423189;" | .523† || .333 || .769 || style="background:#FF8800;color:#423189;" | 12.1 || 0.6 || 1.3 || style="background:#FF8800;color:#423189;" | 1.9 || style="background:#FF8800;color:#423189;" | 25.3
+|- align="center" bgcolor="#f0f0f0"
+|  || style="background:#FF8800;color:#423189;" | 11 || 5 || 19.3 || .523 || . || .882 || 4.9 || 1.1 || .5 || .8 || 7.5
+|}
+
+† – Minimum 20 field goals made.
+^ – Minimum 10 free throws made.
+

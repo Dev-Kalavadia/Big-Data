@@ -1,0 +1,20 @@
+Title: List of places in Alaska (Q)
+
+This list of cities, towns, unincorporated communities, counties, and other recognized places in the U.S. state of Alaska also includes information on the number and names of counties in which the place lies, and its lower and upper zip code bounds, if applicable.
+
+{| class="wikitable"
+!Name of place
+!Number of counties
+!Principal county
+!Lower zip code
+!Upper zip code
+|----
+|Quinhagak (Kwinhagak)
+|1
+|Bethel Census Area
+|99655
+| 
+|----
+|}
+
+ Q

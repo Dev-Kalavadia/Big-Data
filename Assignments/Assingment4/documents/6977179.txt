@@ -1,0 +1,80 @@
+Title: Sidrapong Hydroelectric Power Station
+
+
+Sidrapong Hydroelectric Power Station ( Sidrapong Hydel Power Station), located at the foothills of Arya Tea Estate  from Darjeeling town, is the oldest hydel power station or hydroelectric power plant in India. commissioned on 10 November 1897, its original capacity was 2 × 65 kW, which was expanded in phases for increased demands to a total 1000 kW in 1916.  Having reached the limit of the water supply, the machinery was replaced in 1931 for more-efficient triple-phase transmission.
+
+The station uses water from the  (Nepalese for 'streams') Kotwali, Hospital and Barbatia, channeled through a network of flumes to reservoirs, then passed down  penstocks to the generators.
+
+West Bengal State Electricity Board (WBSEB) took over operation of the station when it absorbed Darjeeling Electric Supply in 1978.  In the 1980s, the station was damaged due to a landslide and remained closed for a decade, but was revived in 1997 to mark its centenary.  The station has been accorded cultural heritage status by the central government.
+
+==Approaches==
+There are two approaches to the station. The first is via Arya Tea Estate. The road to the tea factory building is well laid and accessible by vehicles, covering a distance of  from Darjeeling. Beyond the tea factory, there is a steep pony track  to Sidrapong Forebay. Though not completely developed, this approach offers scenic views of the tea gardens.
+
+The second and more-popular approach is via Bloomfield tea factory, covering a stretch of . The former foot track beyond Bloomfield factory was developed by the Darjeeling Gorkha Hill Council to a  metalled road (gravel road) with a bridge across the Kotwali Jhora to the Sidrapong Forebay.
+
+==History==
+On 11 February 1896, the Municipal Commissioners of Darjeeling decided to set up a hydroelectric power station for the purpose of lighting the town. A loan of 1 lakh (100,000) was secured from the government, and a site for the power station was selected at the foot of the Arya Tea Estate at Sidrapong. The site was then a fine orchard of the Maharajah of Burdwan, who was pleased to hand it over to the municipality for the importance of the public interest. The work for the installation of a power station started immediately, with machines and equipment imported from Britain. There being no proper road communication, all equipment, machinery and materials had to be transported manually—a Herculean task, inconceivable in the present day.Encyclopedia Darjeeling by Barun Roy, Published by New Media Foundation, Kolkata
+
+The first plant consisted of two 65 kW Crompton-Brunton single-phase, 2300 volt 83.3 Hz alternators coupled with two Gunther's turbines. India's first hydroelectric power station with 2 × 65 kW capacity was commissioned on 10 November 1897 by Sir C. C. Stevens, the Acting Lieutenant Governor of Bengal. It is a noteworthy fact that the first power utility run on a commercial basis for the use of the general public in India was developed by the public sector under state patronage.Fallen Cicada by Barun Roy, Published by Beacon Publications, Darjeeling. The total initial cost of installation of this power station was only 1.2 lakhs (120,000 rupees).
+
+For the first few years Darjeeling Municipality had to run Sidrapong Hydel Power Station at a loss, there being few consumers of electrical power. But as the demand grew, a 135 kW set was added in 1905 and a third 135 kW set was installed in 1909 in the same power house. A new power house was built in 1916 at a higher location, now known as Jubilee Power House. In this way, the total capacity of the station grew from 130 kW to 1000 kW. However, the limited supply of water meant that power generation could not be increased to match the growing demand of the town and of the factories at the neighbouring tea gardens. Various schemes were prepared to install a larger power station elsewhere. In 1914, while surveying for such, Municipal Engineer George P. Robertson drowned in the Great Rangeet River.
+
+In the meantime, the demand for power grew rapidly, while the old single-phase system of supply had become out-dated as it suffered from transmission losses. On 9 June 1931, the Municipal Commissioners resolved to modernize the power supply by replacing the old machines and switching from single-phase 83 Hz to three-phase 50 Hz.
+
+In 1931, the seven old machines of the single-phase system were replaced with five 200 kW units in the new three-phase system, one of them at the Lower Power House and four at the higher Jubilee Power House. One 200 kW set was moved in 1942 to a still lower location at Singtam (Darjeeling Singtam) Power Station. This may be called a third stage of Sindrapong since it runs in tandem with Sidrapong Power House utilising its discharge water. The present installation, therefore, consists of 3 sets of 200 kW at Sidrapong Power House plus one DC hydel generation set of 20 kW for auxiliary power.
+
+West Bengal State Electricity Board (WBSEB) took over Sidrapong Hydel Power Station when it absorbed the Darjeeling Electric Supply Undertaking on 30 January 1978.Sidrapong, Heritage Power Station, Published by Corporate Public Relations Department, WBSEB,Vidyut Bhavan, Calcutta 700 091. 10 November 1997 Centenary Booklet It had been smoothly running the power station until the early 1990s when it was considered that the aging power station be converted into a heritage site.
+
+==Water sources and hydrology==
+The power station is fed with water from the three  (Nepalese for 'streams'): Kotwali, Hospital and Barbatia.  This water is channeled through flumes constructed from black metal sheets of 1.3 mm (0.051 in, 16 gauge) thickness with masonry duct and concrete lining. The ducts are  in cross-section, except where mentioned otherwise.  Water from the flumes is gathered at the forebay reservoir, then fed into a penstock (a long vertical pipe) which delivers it to the gates of the turbines.
+
+===Kotwali flume===
+This flume is a  conduit, with a silt tank near the intake to remove sand and loose stones from the water.  The minimum quantity of water available in the driest month of April is .
+
+===Hospital flume===
+This flume moves alongside precipitous rocks which have been cut in places to accommodate it. This source is dirty so the flume has a silt tank at either end to screen out detritus. It provides about  of water in the driest month.
+
+===Barbatia flume===
+This flume is  long, including a  section on a  suspension bridge. The conduit over the bridge is  and runs alongside a footway.  The Barbatia provides the largest quantity of clean water: about  in the driest month. The flume has a silt tank with scour gates near its intake; in heavy rains, these gates are left partly open so that grit is automatically scoured out.
+
+===Forebay===
+Water from the three flumes are collected in a 1,864-cubic-metre (410,000 imp gal, 65,860 cu ft) reservoir which is connected to a larger 5,680-cubic-metre (1.25 million imp gal, 200,000 cu ft) reservoir.
+
+==Penstocks==
+Water from the smaller reservoir is passed through a  underground cast-iron pipe to a pentrough , the bottom of which is on the same level as the reservoir. The water runs from the pentrough down to the gates of the turbines through steel pipes  long and  inside diameter. The pipes are made from double-riveted  steel plate in  sections with flanged joints. There are two bends in the length, one of 28 degrees at about two-thirds the way down and the other of 90 degrees just beyond the power house. The bends are of cast-iron tested to . There are no expansion joints; the pipes are kept full of water and are buried underground so that the temperature variation is small. The pipe line is connected to a  steel receiver pipe, , made of  plate steel. It is made in two parts, one tapered to  diameter and the other part fitted with a blank end bolted on. The receiver is provided with two branches of  inside diameter for the two turbines and one  branch for the 20 kW auxiliary generator.
+
+Water from the larger reservoir is fed to another penstock for a length of . This pipe is of  inside diameter, assembled from  steel plate in . The ends fit into loose collars, which are filled-in with lead; rings of ferro-concrete connected by iron bolts were cast round the collar-ends to prevent the lead from being blown out. The lower length is of  inside diameter made from  steel in . The two different sections are connected with a  steel reducing piece,  long.
+
+Before entering the machines there are sluice valves with provision for a  bypass valve to reduce the pressure at the time of opening the main valve. There are provisions for running all the machines from both the reservoirs separately in case of necessity by providing interconnection in the pipes along with necessary valves and gates.
+
+==Switch yard==
+The switch yard is located immediately below the machine floor level on the northern part of the building. It has housed four 0.4/6.6 kV transformers.
+
+==Renovation==
+For many decades, the project was ignored by the state and the private sector. Larger and modern power supply networks were developed to supply the growing populations of Darjeeling and Kalimpong. The number of workers at the power plant dwindled and the machinery fell into disrepair. During the Gorkhaland political agitation, the local residents struggled to preserve the station from rival groups seeking to demolish it. The station was damaged around this time due to a landslide and remained closed for a decade. The central government and the WBSEB revived the power station in 1997 to mark its centenary. In a special ceremony, the station was accorded cultural heritage status by the central government, with a pledge to revive the power plant. However, efforts at repairing the plant and restarting operations languished for 6 years owing to persistent technical problems and lack of attention from state authorities. The residents of the towns of Sidrapong, Risheehat, Arya and Bloomfield formed a committee on 1 December 2003 to revive and resuscitate the historic and monumental hydel project.
+
+==The oldest power plants in India==
+Some of the oldest electric power plants (or stations) established in India are as follows:
+* Sidrapong Hydel Power Station
+* Shivanasamudra Falls Hydroelectric Power Plant in Kingdom of MysoreShivanasamudra Falls#Power generation
+* Sumera Hydroelectric Power Plant at Sumera Dariyapur in Aligarh, built by the British in 1931.
+* Palra Hydroelectric Power Plant at Palra in Bulandshahar.
+* Faridabad Thermal Power Station in Faridabad.
+
+These power plants have either been closed or on the brink of closure due to age and obsolescence.
+
+==See also==
+
+*Pharping Hydro Power Project
+*Darjeeling
+*West Bengal
+*Hydroelectricity
+*Hydroelectric power plant
+*Dam
+*Renewable energy
+*Sumera Hydroelectric Power Plant
+*Faridabad Thermal Power Station
+
+==Notes==
+
+

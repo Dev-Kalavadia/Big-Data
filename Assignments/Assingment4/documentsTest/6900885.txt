@@ -1,0 +1,68 @@
+Title: Asagiri-class destroyer
+{| 
+
+
+
+|}
+The  is a class of destroyer, serving with the Japan Maritime Self-Defense Force (JMSDF). It was the second class of first-generation general-purpose destroyers of the JMSDF.
+
+==Background==
+The JMSDF started construction of a  since FY1977. This was the first class of  under the eight ships / eight helicopters concept. In this concept, each flotilla would be composed of one helicopter destroyer (DDH), five general-purpose destroyers (DD), and two guided-missile destroyers (DDG).
+
+However, due to constraints such as budget, the design of the Hatsuyuki class was compelled to compromise in terms of C4I function, resistance, and durability. Thus, destroyers to be built after FY1983, Asagiri class were changed to an evolved design with expanded hull and enhanced equipment.
+
+==Design==
+The hull is an enlarged type of Hatsuyuki class, and the hull form is of the shelter deck style. Also, as the latter batch of the Hatsuyuki class, the upper structure is made of steel, but since it was incorporated into the design from the beginning, the adverse effect on the movement performance was solved.
+
+The engine room was greatly renovated. Instead of the COGOG propulsion system of the Hatsuyuki class, this class has the COGAG propulsion system with four Kawasaki-Rolls-Royce Spey SM1A gas turbines. With these powerful engines, it was possible to run at  by driving only two of the four engines, and the benefits of tracking a submarine were especially great. An alternating arrangement was introduced to improve resistance and durability, as in the steam turbine driven destroyers.
+
+==Equipment==
+The earlier batch was equipped with the OYQ-6 combat direction system (CDS). This system employed one AN/UYK-20 computer as the same as the OYQ-5 tactical data processing system of the Hatsuyuki class, but with expanded memories, it can exchange tactical data via Link-11, which the OYQ-5 does not support. Later, all OYQ-6 systems were upgraded to the OYQ-7, integrated with the OYQ-101 ASW Direction System. All ships of this class were later retrofitted with the terminal for the MOF system, the key operational C4I system of the JMSDF which uses the Superbird SHF-SATCOM.
+
+The surface-search radars were replaced by OPS-28. The air-search radars were updated to OPS-14C in the earlier batch, and in the latter batch, OPS-24 3D radars were introduced. This was a maritime version of the land-based J/FPS-3 early-warning radar, and first shipboard active electronically scanned array radar in the world. In the latter batch, electronic warfare support measures systems were also replaced by NOLR-8, completely newly developed with emphasis on anti-ship missile defense.
+
+Its weapon system is basically the same as the Hatsuyuki class except for the minor change on its FCS. However, a new SH-60J was installed as a shipboard helicopter, so a large capacity data link device was installed. The hangar is enlarged in order to accommodate two helicopters, but only one helicopter is used operationally.
+
+== Ships in the class ==
+Yamagiri and Asagiri have been converted into training vessels.
+
+{|class=wikitable
+! Pennant no. || Name || Laid down || Launched || Commissioned || Builder || Home port || Note 
+|-
+| DD-151TV-3516 ||  
+|  || 19 September 1986 || 1988  || IHI Corporation, Tokyo || Maizuru 　|| Converted to training vessel (TV-3516) on 16 February 2005re-converted to DD-151 in March 2012
+|-
+| DD-152TV-3515 ||  
+|  || 10 October 1987  || 1989 || Mitsui, Tamano || Yokosuka 　|| Converted to training vessel (TV-3515) on 18 March 2004,re-converted to DD-152 in March 2011
+|-
+| DD-153 ||  
+|  || 21 September 1987  || 1989 || Sumitomo Heavy Industries Uraga Shipyard || Yokosuka 　|| On 4 June 1996 accidentally shot down a USN A-6E Intruder, during a live-fire CIWS exercise (part of RIMPAC '96). The two aviators ejected safely, and they were rescued by Yūgiri. Though a malfunction in the Phalanx CIWS was initially implicated as the cause of the incident, human error was later blamed.
+|-
+| DD-154 ||  
+|  || 9 September 1987  || 28 February 1989 || IHI Corporation || Yokosuka 　||
+|-
+| DD-155 ||  
+|  || 4 June 1988  || 1990 || Hitachi, Maizuru || Ominato 　||
+|-
+| DD-156 ||  
+|  || 12 September 1988  || 1990 || Hitachi, Maizuru  || Maizuru 　||
+|-
+| DD-157 ||  
+|  || 25 December 1988  || 1990 || Mitsubishi Heavy Industries Nagasaki Shipyard || Sasebo 　||
+|-
+| DD-158 ||  
+|  || 11 September 1989  || 1991 || IHI Corporation || Kure 　||
+|}
+
+File:Asagiri DN-SC-92-06175.jpg|JS Asagiri (DD-151)
+File:JS Yamagiri in Cruise（Left View）.jpg|JS Yamagiri (DD-152)
+File:JS Yugiri in Cruise（Left View）.jpg|JS Yūgiri (DD-153)
+File:JS Amagiri in Cruise.jpg|JS Amagiri (DD-154)
+File:JS Hamagiri (DD-155) in the Sea.jpg|JS Hamagiri (DD-155)
+File:JS Setogiri (DD-156) in the Pacific, -16 Nov. 2007 a.jpg|JS Setogiri (DD-156)
+File:JDS Sawagiri DD157.jpg|JS Sawagiri (DD-157)
+File:JS Umigiri（DD-158）.jpg|JS Umigiri (DD-158)
+File:DD 158 - JDS Umigiri Hangar Deck BB.jpg|The hangar deck of JS Umigiri (DD-158)
+File:TV 3516 - JDS Asagiri BB.jpg|JS Asagiri (TV-3516)
+
+

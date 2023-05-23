@@ -1,0 +1,223 @@
+Title: Bowaters Paper Railway
+
+
+The Bowaters Paper Railway was a  narrow gauge industrial railway running from Sittingbourne to Ridham Dock on The Swale in the county of Kent. It had the distinction of being the last steam-operated industrial narrow gauge railway in Britain when it closed in 1969. Part of the system still operates as the Sittingbourne & Kemsley Light Railway.
+
+==History==
+
+thumb|left|C1910 map
+The manufacture of paper at Sittingbourne dates back to the seventeenth century. The paper mill was originally supplied with raw materials by barges that sailed to wharves at the head of Milton Creek. A short horse-hauled tramway moved pulp to the mill. Two steam locomotives were introduced in 1908.
+
+In 1913, as Milton Creek began to silt up, the paper making company began work on the construction of Ridham Dock, a deepwater facility on the Swale estuary, where seagoing ships could unload raw materials and load finished paper products. At the start of the First World War the railway and the dock was taken over by the Admiralty and the railway was extended to connect the dock. After the end of the war the railway was returned to the paper company. In 1924 a second paper mill opened at Kemsley Down, and further extended in 1936. By this time, the railway reached its maximum length of . There was also a Standard gauge system around Kemsley and Ridham Dock that was connected to the Sheerness line near Swale.
+
+==Closure, preservation and uncertain future==
+In 1969, a time and motion study by the then owners, The Bowater Paper Corporation (Bowater), resulted in the closure of the railway. By this time the railway was the last industrial narrow gauge railway in Britain operating steam locomotives and, until withdrawn from 30 September 1969, had operated a scheduled passenger service for its employees between the Sittingbourne mill and Ridham Dock.Journal of the Stephenson Locomotive Society Dec 1968 p.380 Bowaters had a "handing over" ceremony to the news lessees, the Locomotive Club of Great Britain (LCGB), on 4 October 1969 but continued running its goods trains until the final one on 25 October 1969. The LCGB was granted a lease of the southern portion of the railway between Sittingbourne and Kemsley Down in 1970. Much of the rest of the equipment went to form the Great Whipsnade Railway. The LCGB formed the Sittingbourne and Kemsley Light Railway Company to operate the railway. The company operates the railway under the name Sittingbourne & Kemsley Light Railway (S&KLR).
+
+
+
+==Locomotives==
+{|class="wikitable sortable"
+|-
+!Name
+!Builder
+!Wheel arrangement
+!Gauge
+!Works Number
+!Built
+!Notes
+!Photograph
+|-
+|Alpha
+|W.G. Bagnall
+|
+|2 ft 6 in (762 mm)
+|2472
+|1932
+|Undergoing cosmetic overhaul at the SKLR.
+|200px|right
+|-
+|Chevalier
+|Manning Wardle
+|
+|2 ft 6 in (762 mm)
+|1877
+|1915
+|Acquired from the Chattenden and Upnor Railway in 1950. Sold to the Great Whipsnade Railway, later resold to Bill Parker.
+|
+|-
+|Conqueror
+|W.G. Bagnall
+|
+|2 ft 6 in (762 mm)
+|2192
+|1922
+|Sold to the Great Whipsnade Railway, now part of the Vale of Rheidol Railway Museum Collection.
+|
+|-
+|Excelsior
+|Kerr Stuart
+|
+|2 ft 6 in (762 mm)
+|1049
+|1908
+|Sold to the Great Whipsnade Railway in 1968–1970.
+|200px|right
+|-
+|Jubilee
+|W.G. Bagnall
+|
+|4 ft 8 1⁄2 in (1,435 mm)
+|2542
+|1936
+|Now at the East Anglian Railway Museum.
+|
+|-
+|Leader
+|Kerr Stuart
+|
+|2 ft 6 in (762 mm)
+|926
+|1905
+|Under overhaul on the SKLR.
+|150px|right
+|-
+|Melior
+|Kerr Stuart
+|
+|2 ft 6 in (762 mm)
+|4219
+|1924
+|Operational on the SKLR.
+|200px|right
+|-
+|Monarch
+|W.G. Bagnall
+|
+|2 ft 6 in (762 mm)
+|3024
+|1953
+|Sold to the Welshpool and Llanfair Light Railway in 1966.
+|200px|right
+|-
+|Pioneer
+|Manning Wardle
+|
+|4 ft 8 1⁄2 in (1,435 mm)
+|942
+|1885
+|Acquired from Smith, Patterson & Co Ltd, Blaydon in 1943. Scrapped in 1954.
+|
+|-
+|Pioneer II
+|Ashford
+|
+|4 ft 8 1⁄2 in (1,435 mm)
+|
+|1910
+|SECR P class no.178. Acquired from BR in 1958. Sold to the Bluebell Railway in 1969.
+|
+|-
+|Premier
+|Kerr Stuart
+|
+|2 ft 6 in (762 mm)
+|886
+|1905
+|Operational on the SKLR.
+|200px|right
+|-
+|Superb
+|W.G. Bagnall
+|
+|2 ft 6 in (762 mm)
+|2624
+|1940
+|Under overhaul on the SKLR.
+|200px|right
+|-
+|Superior
+|Kerr Stuart
+|
+|2 ft 6 in (762 mm)
+|4043
+|1920
+|Sold to the Great Whipsnade Railway in 1968–1970.
+|200px|right
+|-
+|Triumph
+|W.G. Bagnall
+|
+|2 ft 6 in (762 mm)
+|2511
+|1934
+|On display at the SKLR.
+|200px|right
+|-
+|Unique
+|W.G. Bagnall
+|
+|2 ft 6 in (762 mm)
+|2216
+|1924
+|A rare narrow gauge fireless locomotive. On display at the SKLR.
+|200px|right
+|-
+|Victor
+|W.G. Bagnall
+|
+|2 ft 6 in (762 mm)
+|2366
+|1929
+|A rare narrow gauge fireless locomotive. Scrapped in 1967.
+|
+|-
+| Rattler
+| W.G. Bagnall
+| 
+|2 ft 6 in (762 mm)
+|1978
+|1913
+|Acquired from the Cape Copper Company, Swansea in 1942. Loco was in poor condition and did little work. Scrapped in 1950.
+|
+|-
+| - 
+|Hudson Hunslet
+|
+|2 ft 6 in (762 mm)
+|4182
+|1953
+|Operational on the S&KLR with the name Victor.
+|200px
+|-
+|The Tank
+|English Electric
+|
+|2 ft 6 in (762 mm)
+|515
+|1921
+|Scrapped in 1969.
+|
+|-
+| -
+|Robert Stephenson and Hawthorns
+|
+|4 ft 8 1⁄2 in (1,435 mm)
+|2603/7889
+|1957
+|Class 04 D2259, acquired from BR in 1968. Scrapped in 1978.
+|
+|-
+| -
+|Vulcan Foundry
+|
+|4 ft 8 1⁄2 in (1,435 mm)
+|2551/D277
+|1955
+|Class 04 D2228, acquired from BR in 1969. Scrapped in 1979.
+|
+|}
+
+==See also==
+* British narrow gauge railways
+* Sittingbourne and Kemsley Light Railway
+

@@ -1,0 +1,87 @@
+Title: Certara
+
+Certara is a former municipality in the district of Lugano in the canton of Ticino in Switzerland.  On 14 April 2013 the former municipalities of Bogno, Cadro, Carona, Certara, Cimadera, Valcolla and Sonvico merged into the municipality of Lugano.Amtliches Gemeindeverzeichnis der Schweiz published by the Swiss Federal Statistical Office  accessed 2 January 2013
+
+==History==
+Certara is first mentioned in 1264 as Certara with the church of S. Pietro Martire.
+
+Certara was probably originally a simple alpine herding camp for the village of Sonvico.  Although the village remained dependent, until 1899, on the parish of St. Pietro in Colla, it already had its own property in 1591, a cemetery in the 17th century, the Baptistery of S. Rocco in 1670 and also a pastor.
+
+The income of the village came mainly from agriculture and cattle breeding but was supplemented by the money sent back to the village by emigrants.  Starting in the late 19th century, the village population declined as a result of the decline of agriculture and the formation of the Lugano agglomeration.  Today, many houses are used as second or vacation homes.
+
+==Geography==
+Before the merger, Certara had a total area of .  Of this area,  or 7.0% is used for agricultural purposes, while  or 81.3% is forested.   Of the rest of the land,  or 4.4% is settled (buildings or roads) and  or 3.3% is unproductive land.
+
+Of the built up area, housing and buildings made up 1.1% and transportation infrastructure made up 3.3%.  Out of the forested land, 76.9% of the total land area is heavily forested and 4.0% is covered with orchards or small clusters of trees.  Of the agricultural land, 5.9% is used for growing crops and 1.1% is used for alpine pastures.Altitudine, superficie, secondo il genere di utilizzazione, rilevazione 1992/1997, e densità della popolazione, nel 2000  accessed 25 October 2010
+
+The municipality is located in the Lugano district, on the left side of the Val Colla between two mountains, Denti della Vecchia and the village Gazzirola on il Gazzirola at the Italian border.
+
+==Coat of arms==
+The blazon of the municipal coat of arms is Or a rose gules between two piles issuant from the base reaching the chief.  The rose symbolizes the position of the village between two mountains: i Denti della Vecchia (the teeth of the old woman) and il GazzirolaFlags of the World.com accessed 28-December-2010
+
+==Demographics==
+Certara had a population (as of 2011) of 60.Swiss Federal Statistical Office  accessed 18 April 2013  , 14.5% of the population are resident foreign nationals.Swiss Federal Statistical Office - Superweb database - Gemeinde Statistics 1981-2008   accessed 19 June 2010  Over the last 10 years (1997–2007) the population has changed at a rate of -27.8%.
+
+Most of the population () speaks Italian (81.5%), with German being second most common (12.3%) and French being third (4.6%).  Of the Swiss national languages (), 8 speak German, 3 people speak French, 53 people speak Italian.  The remainder (1 person) speak another language.Popolazione residente, secondo la lingua principale e la religione, nel 2000   accessed 23 November 2010
+
+, the gender distribution of the population was 45.0% male and 55.0% female.  The population was made up of 22 Swiss men (36.7% of the population), and 5 (8.3%) non-Swiss men.  There were 29 Swiss women (48.3%), and 4 (6.7%) non-Swiss women.
+
+In  there was 1 live birth to Swiss citizens and 1 death of a Swiss citizen.  Ignoring immigration and emigration, the population of Swiss citizens remained the same while the foreign population remained the same.  There were 2 non-Swiss women who immigrated from another country to Switzerland.  The total Swiss population change in 2008 (from all sources, including moves across municipal borders) was an increase of 2 and the non-Swiss population change was an increase of 3 people.  This represents a population growth rate of 8.8%.
+
+The age distribution, , in Certara is; 3 children or 5.0% of the population are between 0 and 9 years old and 5 teenagers or 8.3% are between 10 and 19.  Of the adult population, 2 people or 3.3% of the population are between 20 and 29 years old.  11 people or 18.3% are between 30 and 39, 9 people or 15.0% are between 40 and 49, and 7 people or 11.7% are between 50 and 59.  The senior population distribution is 8 people or 13.3% of the population are between 60 and 69 years old, 8 people or 13.3% are between 70 and 79, there are 7 people or 11.7% who are over 80.01.02.03 Popolazione residente permanente   accessed 23 November 2010
+
+, there were 31 private households in the municipality, and an average of 2. persons per household.   there were 89 single family homes (or 89.9% of the total) out of a total of 99 inhabited buildings.  There were 5 two family buildings (5.1%) and 2 multi-family buildings (2.0%).  There were also 3 buildings in the municipality that were multipurpose buildings (used for both housing and commercial or another purpose). 09.02.01 Edifici   accessed 23 November 2010
+
+The vacancy rate for the municipality, , was 0%.   there were 108 apartments in the municipality.  The most common apartment size was the 3 room apartment of which there were 40.  There were 4 single room apartments and 14 apartments with five or more rooms.  09.02.02 Abitazioni   accessed 23 November 2010  Of these apartments, a total of 31 apartments (28.7% of the total) were permanently occupied, while 76 apartments (70.4%) were seasonally occupied and 1 apartments (0.9%) were empty.  , the construction rate of new housing units was 0 new units per 1000 residents.
+
+The historical population is given in the following chart:
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.8)
+ImageSize  = width:600 height:210
+PlotArea   = height:150 left:100 bottom:50 right:100
+AlignBars  = justify
+DateFormat = x.y
+Period     = from:0 till:200
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:25 start:0
+ScaleMinor = gridcolor:lightgrey increment:5 start:0
+PlotData=
+  color:yellowgreen width:40   mark:(line,white) align:center
+  bar:1591 from:start till:100 text:"100 "
+  bar:1791 from:start till:150 text:" 150"
+  bar:1808 from:start till:102 text:" 102"
+  bar:1850 from:start till:142 text:" 142"
+  bar:1900 from:start till:181 text:" 181"
+  bar:1950 from:start till:136 text:" 136"
+  bar:1990 from:start till:52 text:"52"
+  bar:2000 from:start till:65 text:"65"
+
+
+
+==Politics==
+In the 2007 federal election the most popular party was the Ticino League which received 41.28% of the vote.  The next three most popular parties were the SP (18.35%), the CVP (13.76%) and the SVP (12.84%).  In the federal election, a total of 16 votes were cast, and the voter turnout was 30.8%.Swiss Federal Statistical Office, Nationalratswahlen 2007: Stärke der Parteien und Wahlbeteiligung, nach Gemeinden/Bezirk/Canton   accessed 28 May 2010
+
+In the  Gran Consiglio election, there were a total of 55 registered voters in Certara, of which 21 or 38.2% voted.  The most popular party was the PLRT which received 5 or 23.8% of the vote.  The next three most popular parties were; the PLRT (with 5 or 23.8%), the LEGA (with 4 or 19.0%) and the PPD+GenGiova (with 3 or 14.3%). Elezioni cantonali: Gran Consiglio, Consiglio di Stato   accessed 23 November 2010
+
+In the  Consiglio di Stato election,   The most popular party was the LEGA which received 6 or 28.6% of the vote.  The next three most popular parties were; the LEGA (with 6 or 28.6%), the PLRT (with 5 or 23.8%) and the PPD (with 3 or 14.3%).
+
+==Economy==
+, Certara had an unemployment rate of 6%.  , there were  people employed in the primary economic sector and about  businesses involved in this sector.  1 person was employed in the secondary sector and there was 1 business in this sector.   people were employed in the tertiary sector, with  businesses in this sector.  There were 23 residents of the municipality who were employed in some capacity, of which females made up 47.8% of the workforce.  , there were 17 workers who commuted away from the municipality.Swiss Federal Statistical Office - Statweb  accessed 24 June 2010  Of the working population, 8.7% used public transportation to get to work, and 69.6% used a private car.
+
+==Religion==
+From the , 49 or 75.4% were Roman Catholic, while 3 or 4.6% belonged to the Swiss Reformed Church.  There are 8 individuals (or about 12.31% of the population) who belong to another church (not listed on the census), and 5 individuals (or about 7.69% of the population) did not answer the question.
+
+==Education==
+The entire Swiss population is generally well educated.  In Certara about 67.6% of the population (between age 25–64) have completed either non-mandatory upper secondary education or additional higher education (either University or a Fachhochschule).
+
+In Certara there were a total of 5 students ().
+
+The Ticino education system provides up to three years of non-mandatory kindergarten followed by five years of mandatory primary school.  In the municipality, 1 student attended the standard primary school.  In the lower secondary school system, students either attend a two-year middle school followed by a two-year pre-apprenticeship or they attend a four-year program to prepare for higher education.  There were 2 students in the two-year middle school, while 0 students were in the four-year advanced program.
+
+The upper secondary school includes several options, but at the end of the upper secondary program, a student will be prepared to enter a trade or to continue on to a university or college.  In Ticino, vocational students may either attend school while working on their internship or apprenticeship (which takes three or four years) or may attend school followed by an internship or apprenticeship (which takes one year as a full-time student or one and a half to two years as a part-time student).  There was 1 vocational student who was attending school full-time and 1 who attend part-time. Allievi e studenti, secondo il genere di scuola, anno scolastico 2009/2010   accessed 23 November 2010
+
+, there were 3 students from Certara who attended schools outside the municipality.
+

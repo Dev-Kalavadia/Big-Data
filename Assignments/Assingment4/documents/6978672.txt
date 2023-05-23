@@ -1,0 +1,66 @@
+Title: Comparability graph
+In graph theory, a comparability graph is an undirected graph that connects pairs of elements that are comparable to each other in a partial order. Comparability graphs have also been called transitively orientable graphs, partially orderable graphs, containment graphs,, p. 105; , p. 94. and divisor graphs.
+An incomparability graph is an undirected graph that connects pairs of elements that are not comparable to each other in a partial order.
+
+==Definitions and characterization==
+thumb|300px|Hasse diagram of a poset (left) and its comparability graph (right)
+thumb|One of the forbidden induced subgraphs of a comparability graph. The generalized cycle  in this graph has odd length (nine) but has no triangular chords.
+
+For any strict partially ordered set , the comparability graph of  is the graph  of which the vertices are the elements of  and the edges are those pairs  of elements such that .  That is, for a partially ordered set, take the directed acyclic graph, apply transitive closure, and remove orientation.
+
+Equivalently, a comparability graph is a graph that has a transitive orientation,; see , theorem 1.4.1, p. 12. Although the orientations coming from partial orders are acyclic, it is not necessary to include acyclicity as a condition of this characterization. an assignment of directions to the edges of the graph (i.e. an orientation of the graph) such that the adjacency relation of the resulting directed graph is transitive: whenever there exist directed edges  and , there must exist an edge .
+
+One can represent any finite partial order as a family of sets, such that  in the partial order whenever the set corresponding to  is a subset of the set corresponding to . In this way, comparability graphs can be shown to be equivalent to containment graphs of set families; that is, a graph with a vertex for each set in the family and an edge between two sets whenever one is a subset of the other.; ; , section 6.3, pp. 94–96.
+Alternatively, one can represent the partial order by a family of integers, such that  whenever the integer corresponding to  is a divisor of the integer corresponding to . Because of this construction, comparability graphs have also been called divisor graphs.
+
+Comparability graphs can be characterized as the graphs such that, for every generalized cycle (see below) of odd length, one can find an edge  connecting two vertices that are at distance two in the cycle. Such an edge is called a triangular chord. In this context, a generalized cycle is defined to be a closed walk that uses each edge of the graph at most once in each direction. and . See also , theorem 6.1.1, p. 91. Comparability graphs can also be characterized by a list of forbidden induced subgraphs.; ; , p. 91 and p. 112.
+
+==Relation to other graph families==
+Every complete graph is a comparability graph, the comparability graph of a total order. All acyclic orientations of a complete graph are transitive. Every bipartite graph is also a comparability graph. Orienting the edges of a bipartite graph from one side of the bipartition to the other results in a transitive orientation, corresponding to a partial order of height two. As  observes, every comparability graph that is neither complete nor bipartite has a skew partition.
+
+The complement of any interval graph is a comparability graph. The comparability relation is called an interval order. Interval graphs are exactly the graphs that are chordal and that have comparability graph complements.Transitive orientability of interval graph complements was proven by ; the characterization of interval graphs is due to . See also , prop. 1.3, pp. 15–16.
+
+A permutation graph is a containment graph on a set of intervals.. , theorem 6.3.1, p. 95. Therefore, permutation graphs are another subclass of comparability graphs.
+
+The trivially perfect graphs are the comparability graphs of rooted trees., theorem 6.6.1, p. 99.
+Cographs can be characterized as the comparability graphs of series-parallel partial orders; thus, cographs are also comparability graphs., corollary 6.4.1, p. 96; .
+
+Threshold graphs are another special kind of comparability graph.
+
+Every comparability graph is perfect. The perfection of comparability graphs is Mirsky's theorem, and the perfection of their complements is Dilworth's theorem; these facts, together with the perfect graph theorem can be used to prove Dilworth's theorem from Mirsky's theorem or vice versa., theorems 5.34 and 5.35, p. 133. More specifically, comparability graphs are perfectly orderable graphs, a subclass of perfect graphs: a greedy coloring algorithm for a topological ordering of a transitive orientation of the graph will optimally color them..
+
+The complement of every comparability graph is a string graph. and . See also .
+
+==Algorithms==
+A transitive orientation of a graph, if it exists, can be found in linear time.; see , p. 91. However, the algorithm for doing so will assign orientations to the edges of any graph, so to complete the task of testing whether a graph is a comparability graph, one must test whether the resulting orientation is transitive, a problem provably equivalent in complexity to matrix multiplication.
+
+Because comparability graphs are perfect, many problems that are hard on more general classes of graphs, including graph coloring and the independent set problem, can be solved in polynomial time for comparability graphs.
+
+==Notes==
+
+
+== References ==
+
+*.
+*
+*.
+*.
+*.
+*.
+*.
+*.
+*.
+*.
+*.
+*.
+*.
+*.
+*.
+*.
+
+
+
+
+Category:Graph families
+Category:Order theory
+Category:Perfect graphs

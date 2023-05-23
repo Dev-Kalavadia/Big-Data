@@ -1,0 +1,614 @@
+Title: Second Bull Run Union order of battleThe following Union Army units and commanders fought in the Second Battle of Bull Run, also known as the Second Battle of Manassas, of the American Civil War. The Confederate order of battle is listed separately. Order of battle compiled from the army organizationMultiple commander names indicate command succession of command during the battle or the campaign. during the battle,Battles and Leaders of the Civil War, Volume 2, pages 497-499; Official Records, Series I, Volume XII, Part 3, pages 581-588; Manassas National Battlefield Park - Battle of Second Manassas, Union Order of Battle the casualty returnsOfficial Records, Series I, Volume XII, Part 2, pages 249-262 and the reports.Official Records, Series I, Volume XII, Part 2, pages 829-830, 872-874; Official Records, Series I, Volume LI, Part 1, pages 1326, 1404
+
+==Abbreviations used==
+
+===Military rank===
+* MG = Major General
+* BG = Brigadier General
+* Col = Colonel
+* Ltc = Lieutenant Colonel
+* Maj = Major
+* Cpt = Captain
+* Lt = Lieutenant
+
+===Other===
+* w = wounded
+* mw = mortally wounded
+* k = killed
+* c = captured
+
+==Union forces==
+
+===Army of Virginia===
+
+MG John PopeAlso commanded the detachments from the Army of the Potomac (see: Pope's report)
+
+Chief of Staff: Col George D. Ruggles
+Chief of Artillery: Cpt Alexander Piper
+Chief of Cavalry: BG Washington L. Elliott (w)
+
+Headquarters Escort:
+* 1st Ohio Cavalry, Companies A and C
+
+====I Corps====
+
+MG Franz Sigel (w)
+
+Chief of Artillery: Cpt Ulric Dahlgren
+
+Headquarters Escort:
+* 1st Indiana Cavalry, Companies I and K
+
+{| class="wikitable"
+! width=25% | Division
+! width=25% | Brigade
+! Regiments and Others
+|-
+| rowspan=2 |
+First Division
+    
+BG Robert C. Schenck (w)
+    
+BG Julius Stahel
+| 1st Brigade
+  
+BG Julius Stahel
+  
+Col Adolphus Buschbeck
+|
+* 8th New York: Ltc Carl B. Hedterich
+* 41st New York: Ltc Ernest W. Holmstedt
+* 45th New York: Ltc Edward W. Wratislaw
+* 27th Pennsylvania: Col Adolphus Buschbeck, Ltc Lorenz Cantador
+* New York Light Artillery, 2nd Battery: Lt F. J. T. Blume
+|-
+| 2nd Brigade
+  
+Col Nathaniel C. McLean
+|
+* 25th Ohio: Col William P. Richardson
+* 55th Ohio: Col John C. Lee
+* 73rd Ohio: Col Orland Smith
+* 75th Ohio: Maj Robert Reily
+* 1st Ohio Light Artillery, Battery K: Lt George B. Haskin
+|-
+| rowspan=1 |
+Second Division
+    
+BG Adolph von Steinwehr
+| 1st BrigadeTemporarily attached to Third Division August 30, 1862
+  
+Col John A. Koltes (k)
+  
+Ltc Gustavus A. Muhleck
+|
+* 29th New York: Col Clemens Soest (w), Maj Louis Hartman
+* 68th New York: Ltc John H. Kleefisch (mw)
+* 73rd Pennsylvania: Ltc Gustavus A. Muhleck, Cpt Augustus Brueckner (k), Cpt Charles C. Cresson (w), Cpt Lewis Talter (w)
+|-
+| rowspan=3 |
+Third Division
+    
+BG Carl Schurz
+| 1st Brigade
+  
+Col Alexander Schimmelfennig
+|
+* 61st Ohio: Ltc Stephen J. McGroarty
+* 74th Pennsylvania: Maj Franz Blessing
+* 8th West Virginia: Cpt Hedgman Slack
+* Pennsylvania Light Artillery, Battery F: Cpt Robert B. Hampton
+|-
+| 2nd Brigade
+  
+Col Wlodzimierz Krzyzanowski
+|
+* 54th New York: Ltc Charles Ashby
+* 58th New York: Maj William Henkel (w), Cpt Frederick Braun
+* 75th Pennsylvania: Ltc Francis Mahler
+* 2nd New York Artillery, Battery L: Cpt Jacob Roemer
+|-
+| Unattached
+|
+* 3rd West Virginia Cavalry, Company C: Cpt Jonathan Stahl
+* 1st Ohio Light Artillery, Battery I: Cpt Hubert Dilger
+|-
+| rowspan=3 |
+Reporting directly
+| Independent Brigade
+  
+BG Robert H. Milroy
+|
+* 82nd Ohio: Col James Cantwell (k), Ltc James S. Robinson
+* 2nd West Virginia: Col George R. Latham
+* 3rd West Virginia: Col David T. Hewes
+* 5th West Virginia: Col John L. Zeigler
+* 1st West Virginia Cavalry, Companies C, E, and L: Maj John S. Krepps
+* Ohio Light Artillery, 12th Battery: Cpt Aaron C. Johnson
+|-
+| Cavalry Brigade
+  
+Col John BeardsleyBeardsley's brigade was unusable on August 29-30 due to the poor condition of its horses.
+|
+* 1st Connecticut Battalion
+* 1st Maryland: Ltc Charles Wetschky
+* 4th New York: Ltc Ferris Nazer
+* 9th New York: Maj Charles McL. Knox
+* 6th Ohio: Col William R. Lloyd
+|-
+| Reserve ArtilleryCaptain Frank Buell was killed on August 22, 1862 (see: Official Records, Series I, Volume XII, Part 2, page 820)
+  
+Cpt Louis Schirmer
+|
+* 1st New York Light, Battery I: Cpt Michael Wiedrich
+* New York Light, 13th Battery: Cpt Julius Dieckmann
+* West Virginia Light, Battery C: Lt Wallace Hill
+|}
+
+====II Corps====
+
+
+{| class="wikitable"
+! width=25% | Brigade
+! Regiments and Others
+|-
+| Cavalry BrigadeNo troops from the Second Corps, Army of Virginia, excepting its cavalry and the 6th Maine Battery, were engaged in any of the principle battles. During the battle the Corps was located at Bristoe Station (see: John J. Hennessy, Return to Bull Run, The Campaign and Battle of Second Manassas, page 411).
+  
+BG John BufordFor Buford's wound see: John J. Hennessy, Return to Bull Run, The Campaign and Battle of Second Manassas, page 434 (w)
+| 
+* 1st Michigan: Col Thornton F. Brodhead (mw), Maj Charles H. Town
+* 5th New York: Col Othniel DeForest
+* 1st Vermont: Col Charles H. Tompkins
+* 1st West Virginia: Ltc Nathaniel P. Richmond
+|-
+| Artillery
+|
+* Maine Light, 6th Battery:Temporarily attached to the Third Corps, Army of the Potomac, August 28–30, 1862 (see: Itinerary of the 6th Maine Battery) Cpt Freeman McGilvery
+|}
+
+====III Corps====
+
+MG Irvin McDowell
+
+Chief of Staff: Col Edmund Schriver
+Chief of Artillery: Maj Davis Tillson
+
+Headquarters Troops:
+* Maine Light Artillery, 3rd Battery (Pontonniers): Cpt James G. Swett
+* 13th Pennsylvania Reserves (1st Rifles), Companies C, G, H and I: Ltc Thomas L. Kane
+
+{| class="wikitable"
+! width=25% | Division
+! width=25% | Brigade
+! Regiments and Others
+|-
+| rowspan=5|
+First Division
+    
+BG Rufus KingSick after August 28, 1862
+    
+BG John P. Hatch (w)
+    
+BG Abner Doubleday
+| 1st Brigade
+  
+BG John P. Hatch
+  
+Col Timothy Sullivan
+|
+* 22nd New York: Col Walter Phelps, Jr.
+* 24th New York: Col Timothy Sullivan, Ltc Samuel Beardsley (w), Maj Andrew Barney (w)
+* 30th New York: Col Edward Frisby
+* 84th New York (14th Militia): Ltc Edward B. Fowler (w), Maj William H. DeBevoise
+* 2nd United States Sharpshooters: Col Henry A. V. Post
+|-
+| 2nd Brigade
+  
+BG Abner Doubleday
+  
+Col William P. Wainwright
+|
+* 76th New York: Col William P. Wainwright, Maj Charles E. Livingstone
+* 95th New York: Ltc James B. Post
+* 56th Pennsylvania: Col Sullivan A. Meredith (w), Ltc J. William Hofmann
+|-
+| 3rd Brigade
+  
+BG Marsena R. Patrick
+|
+* 21st New York: Col William F. Rogers
+* 23rd New York: Ltc Nirom M. Crane
+* 35th New York: Col Newton B. Lord
+* 80th New York (20th Militia): Col George W. Pratt (mw), Ltc Theodore B. Gates
+|-
+| 4th Brigade
+  
+BG John Gibbon
+|
+* 19th Indiana: Col Solomon Meredith
+* 2nd Wisconsin: Col Edgar O'Conner (k), Ltc Lucius FairchildCommanded the 2nd and 7th Wisconsin on August 30, 1862 (see: Gibbon's report)
+* 6th Wisconsin: Col Lysander Cutler (w), Ltc Edward S. Bragg
+* 7th Wisconsin: Col William W. Robinson (w), Ltc Charles A. Hamilton (w), Ltc Lucius Fairchild
+|-
+| Artillery
+|
+* New Hampshire Light, 1st Battery: Cpt George A. Gerrish (c), Lt Frederick M. Edgell
+* 1st New York Light, Battery L: Cpt John A. Reynolds
+* 1st Rhode Island Light, Battery D: Cpt J. Albert Monroe
+* 4th United States, Battery B: Cpt Joseph B. Campbell
+|-
+| rowspan=5 |
+Second Division
+    
+BG James B. Ricketts
+| 1st Brigade
+  
+BG Abram Duryée
+|
+* 97th New York: Ltc John P. Spofford
+* 104th New York: Maj Lewis C. Skinner
+* 105th New York: Col Howard Carroll
+* 107th Pennsylvania: Col Thomas F. McCoy
+|-
+| 2nd Brigade
+  
+BG Zealous B. Tower (w)
+  
+Col William H. Christian
+|
+* 26th New York: Col William H. Christian, Ltc Richard H. Richardson
+* 94th New York: Col Adrian R. Root (w)
+* 88th Pennsylvania: Ltc Joseph A. McLean (k), Maj George W. Gile
+* 90th Pennsylvania: Col Peter Lyle
+|-
+| 3rd Brigade
+  
+Col John W. Stiles
+|
+* 12th Massachusetts: Col Fletcher Webster (k), Ltc Timothy M. Bryan, Jr.
+* 13th Massachusetts: Col Samuel H. Leonard
+* 83rd New York (9th Militia): Ltc William Atterbury
+* 11th Pennsylvania: Col Richard Coulter
+|-
+| 4th Brigade
+  
+Col Joseph Thoburn (w)
+|
+* 7th Indiana: Lieutenant Col John F. Cheek
+* 84th Pennsylvania: Col Samuel M. Bowman
+* 110th Pennsylvania: Col William D. Lewis, Jr.
+* 1st West Virginia: Ltc Henry B. Hubbard
+|-
+| Artillery
+|
+* Maine Light, 2nd Battery: Cpt James A. Hall
+* Maine Light, 5th Battery: Cpt George F. Leppien
+* 1st Pennsylvania Light, Battery F: Cpt Ezra W. Matthews
+* Pennsylvania Light, Battery C: Cpt James Thompson
+|-
+| rowspan=4 |
+Pennsylvania ReservesTemporarily attached to the Third Corps, Army of Virginia
+    
+BG John F. Reynolds
+| 1st Brigade
+  
+BG George G. Meade
+|
+* 3rd Pennsylvania Reserves: Col Horatio G. Sickel
+* 4th Pennsylvania Reserves: Col Albert L. Magilton
+* 7th Pennsylvania Reserves: Ltc Robert M. Henderson (w)
+* 8th Pennsylvania Reserves: Cpt William Lemon
+* 13th Pennsylvania Reserves (1st Rifles), Companies A, B, D, E, F and K: Col Hugh W. McNeil
+|-
+| 2nd Brigade
+  
+BG Truman Seymour
+|
+* 1st Pennsylvania Reserves: Col Richard Biddle Roberts
+* 2nd Pennsylvania Reserves: Col William McCandless (w)
+* 5th Pennsylvania Reserves: Ltc George Dare
+* 6th Pennsylvania Reserves: Col William Sinclair
+|-
+| 3rd Brigade
+  
+BG Conrad F. JacksonTurned over command to Colonel Hardin on account of sickness on August 29, 1862 (see: John J. Hennessy, Return to Bull Run, The Campaign and Battle of Second Manassas, page 375; Reynolds' report)
+  
+Col Martin Davis Hardin (w)
+  
+Col James T. Kirk (w)
+  
+Ltc Robert Anderson
+|
+* 9th Pennsylvania Reserves: Ltc Robert Anderson, Maj James M. Snodgrass
+* 10th Pennsylvania Reserves: Col James T. Kirk
+* 11th Pennsylvania Reserves: Ltc Samuel M. Jackson
+* 12th Pennsylvania Reserves: Col Martin D. Hardin, Cpt Richard Gustin
+|-
+| Artillery
+  
+Cpt Dunbar R. Ransom
+|
+* 1st Pennsylvania Light, Battery A: Lt John G. Simpson
+* 1st Pennsylvania Light, Battery B: Cpt James H. Cooper
+* 1st Pennsylvania Light, Battery G: Cpt Mark Kern
+* 5th United States, Battery C: Cpt Dunbar R. Ransom
+|-
+| rowspan=2 |
+Reporting directly
+| Cavalry Brigade
+  
+BG George D. Bayard
+|
+* 1st Maine: Col Samuel H. Allen
+* 2nd New York: Col J. Mansfield Davies
+* 1st New Jersey: Ltc Joseph Karge (w), Maj Ivins D. Jones
+* 1st Pennsylvania: Col Owen Jones
+* 1st Rhode Island: Col Alfred N. Duffié
+|-
+| Unattached
+|
+* 3rd Indiana Cavalry (detachment)
+* Indiana Light Artillery, 16th Battery: Cpt Charles A. Naylor
+* 4th United States, Battery E: Cpt Joseph C. Clark, Jr.
+|}
+
+====Reserve Corps====
+BG Samuel D. Sturgis
+
+{| class="wikitable"
+! width=25% | Brigade
+! Regiments and Others
+|-
+| Piatt's BrigadeTemporarily attached to the Fifth Corps, Army of the Potomac August 27–31, 1862
+  
+BG Abram S. Piatt
+| 
+* 63rd Indiana (Companies A, B, C and D): Ltc John S. Williams
+* 86th New York: Col Benajah P. Bailey
+|}
+
+===Army of the Potomac===
+
+The following Corps from the Army of the Potomac were attached to the Army of Virginia.
+
+====III Corps====
+
+MG Samuel P. Heintzelman
+
+{| class="wikitable"
+! width=25% | Division
+! width=25% | Brigade
+! Regiments and Others
+|-
+| rowspan=4 |
+First Division
+    
+MG Philip Kearny
+| 1st Brigade
+  
+BG John C. Robinson
+|
+* 20th Indiana: Col William L. Brown (k), Maj John Wheeler                                                                                                    
+* 30th Ohio Infantry (6 cos.), Lt. Col. Theodore Jones
+* 63rd Pennsylvania: Col Alexander Hays (w), Cpt James F. Ryan (w)
+* 105th Pennsylvania: Ltc Calvin A. Craig (w), Maj Jacob W. Greenwalt
+|-
+| 2nd Brigade
+  
+BG David B. Birney
+|
+* 3rd Maine: Cpt Moses B. Lakeman, Maj Edwin BurtCommanded 1st New York on August 29, 1862, returned to the 3rd Maine on August 30, 1862 (see: Lakeman's and Burt's report)
+* 4th Maine: Col Elijah Walker
+* 1st New York: Maj Edwin Burt, Cpt Joseph Yeamans
+* 38th New York: Col J. H. Hobart Ward
+* 40th New York: Col Thomas W. Egan
+* 101st New York: Ltc Nelson A. Gesner
+* 57th Pennsylvania: Maj William Birney
+|-
+| 3rd Brigade
+  
+Col Orlando Poe
+|
+* 2nd Michigan: Ltc Louis Dillman
+* 3rd Michigan: Col Stephen G. Champlin (w), Maj Byron R. Pierce
+* 5th Michigan: Cpt William Wakenshaw
+* 37th New York: Col Samuel B. Hayman
+* 99th Pennsylvania: Col Asher S. Leidy
+|-
+| Artillery
+|
+* 1st Rhode Island Light, Battery E: Cpt George E. Randolph
+* 1st United States, Battery K: Cpt William M. Graham
+|-
+| rowspan=3 |
+Second Division
+    
+MG Joseph Hooker
+| 1st Brigade
+  
+BG Cuvier Grover
+|
+* 1st Massachusetts: Col Robert Cowdin
+* 11th Massachusetts: Col William E. Blaisdell
+* 16th Massachusetts: Maj Gardner Banks
+* 2nd New Hampshire: Col Gilman Marston
+* 26th Pennsylvania: Maj Robert L. Bodine
+|-
+| 2nd Brigade
+  
+Col Nelson Taylor
+|
+* 70th New York: Cpt Charles L. Young
+* 71st New York: Cpt Owen Murphy
+* 72nd New York: Cpt Harman J. Bliss
+* 73rd New York: Cpt M. William Burns
+* 74th New York: Maj Edward L. Price
+|-
+| 3rd Brigade
+  
+Col Joseph B. Carr
+|
+* 5th New Jersey: Ltc William J. Sewell
+* 6th New Jersey: Col Gershom Mott (w), Ltc George C. Burling
+* 7th New Jersey: Col Joseph W. Revere
+* 8th New Jersey: Ltc William Ward (w), Cpt John Tuite (k), Cpt George Hoffman,Injured August 29, 1862 and turned the command over to Captain Johnson (see: Hoffman's report) Cpt Oliver S. Johnson, Cpt Daniel Blauvelt, Jr.Rejoined the regiment on August 30, 1862 and assumed command as the senior officer present (see: Hoffman's report)
+* 2nd New York: Cpt Sidney W. Park
+* 115th Pennsylvania: Ltc Robert Thompson
+|}
+
+====V Corps====
+
+MG Fitz John Porter
+
+Chief of Staff: Ltc Frederick T. Locke
+
+{| class="wikitable"
+! width=25% | Division
+! width=25% | Brigade
+! Regiments and Others
+|-
+| rowspan=4 |
+First Division
+    
+BG Daniel ButterfieldCommanded the First and Third Brigades in battle August 30, 1862. The division commander Major General Morell and the Second Brigade (9th Massachusetts, 32nd Massachusetts, 4th Michigan, 14th New York and 62nd Pennsylvania) under Brigadier General Griffin were at Centreville, Virginia. (see: John J. Hennessy, Return to Bull Run, The Campaign and Battle of Second Manassas, page 318; Lansing's report)
+| 1st Brigade22nd Massachusetts detached at Centreville, Virginia (see: Roberts' report)
+  
+Col Charles W. Roberts
+|
+* 2nd Maine: Maj Daniel F. Sargent
+* 18th Massachusetts: Maj Joseph Hayes
+* 1st Michigan: Col Horace S. Roberts (k), Cpt Emery W. Belton
+* 13th New York: Col Elisha G. Marshall
+* 25th New York: Col Charles A. Johnson
+|-
+| 3rd Brigade
+  
+Col Henry S. LansingTurned over command to Colonel Weeks on account of sickness on August 30, 1862 (see: Lansing's report)
+  
+Col Henry A. Weeks (w)
+  
+Col James C. Rice
+|
+* 16th Michigan:Brady's Company Michigan Sharpshooters attached Cpt Thomas J. Barry (w), Cpt Henry H. Sibley
+* 12th New York: Col Henry A. Weeks, Cpt Adrian I. Root (w), Cpt William Huson
+* 17th New York: Col Henry S. Lansing, Maj William T. C. Grower (w), Cpt John Vickers
+* 44th New York: Col James C. Rice, Maj Freeman Conner
+* 83rd Pennsylvania: Ltc Hugh S. Campbell (w), Maj William R. Lamont (w), Cpt John Graham (w), Cpt Orpheus S. Woodward
+|-
+| Sharpshooters
+|
+* 1st United States: Col Hiram Berdan
+|-
+| Artillery3rd Massachusetts Battery detached at Centreville, Virginia (see: Martin's report)
+|
+* 1st Rhode Island Light, Battery C: Cpt Richard Waterman
+* 5th United States, Battery D: Lt Charles E. Hazlett
+|-
+| rowspan=4 |
+Second Division
+    
+BG George Sykes
+| 1st Brigade
+  
+Ltc Robert C. Buchanan
+|
+* 3rd United States: Cpt John D. Wilkins
+* 4th United States: Cpt Joseph B. Collins (w), Cpt Hiram Dryer
+* 12th United States, 1st Battalion: Cpt Matthew M. Blunt
+* 14th United States, 1st Battalion: Cpt John D. O'Connell (w), Cpt W. Harvey Brown
+* 14th United States, 2nd Battalion: Cpt David B. McKibbin (w)
+|-
+| 2nd Brigade
+  
+Ltc William Chapman
+|
+* 1st and 6th United States:Only Company G, 1st United States under Captain Matthew R. Marston was present and attached to the 6th United States (see: Bootes' report) Cpt Levi C. Bootes
+* 2nd and 10th United States:The 2nd and 10th United States were consolidated under the command of Major Lovell (see: Chapman's and Lovell's report) Maj Charles S. Lovell
+* 11th United States: Maj Delancey Floyd-Jones
+* 17th United States: Maj George L. Andrews
+|-
+| 3rd Brigade
+  
+Col Gouverneur K. Warren
+|
+* 5th New York: Cpt Cleveland Winslow
+* 10th New York: Col John E. Bendix
+|-
+| Artillery
+  
+Cpt Stephen H. Weed
+|
+* 1st United States, Batteries E and G: Lt Alanson M. Randol
+* 5th United States, Battery I: Cpt Stephen H. Weed
+* 5th United States, Battery K: Cpt John R. Smead (k), Lt William E. Van Reed
+|}
+
+====IX Corps====
+
+MG Jesse L. Reno
+
+{| class="wikitable"
+! width=25% | Division
+! width=25% | Brigade
+! Regiments and Others
+|-
+| rowspan=4 |
+First Division
+    
+BG Isaac I. Stevens
+| 1st Brigade
+  
+Col Benjamin C. Christ
+|
+* 8th Michigan: Ltc Frank Graves
+* 50th Pennsylvania: Ltc Thomas S. Brenholtz (w), Maj Edward Overton, Jr.
+|-
+| 2nd Brigade
+  
+Col Daniel Leasure (w)
+  
+Ltc David A. Leckey
+|
+* 46th New York (5 companies): Col Rudolph Rosa (w), Maj Julius Parcus
+* 100th Pennsylvania: Ltc David A. Leckey (w), Cpt James E. Cornelius
+|-
+| 3rd Brigade
+  
+Col Addison Farnsworth
+|
+* 28th Massachusetts: Maj George W. Cartwright (w), Cpt Andrew P. Caraher
+* 79th New York: Ltc David Morrison
+|-
+| Artillery
+|
+* Massachusetts Light, 8th Battery: Cpt Asa M. Cook
+* 2nd U.S. Artillery, Battery E: Lt Samuel N. Benjamin
+|-
+| rowspan=3 |
+Second Division
+    
+MG Jesse L. RenoAlso in command of all the troops of the Ninth Corps with Pope's army.
+| 1st Brigade
+  
+Col James Nagle
+|
+* 2nd Maryland: Ltc J. Eugene Duryèe
+* 6th New Hampshire: Col Simon G. Griffin
+* 48th Pennsylvania: Ltc Joshua K. Sigfried
+|-
+| 2nd Brigade
+  
+Col Edward Ferrero
+|
+* 21st Massachusetts: Col William S. Clark
+* 51st New York: Ltc Robert Brown Potter
+* 51st Pennsylvania: Col John F. Hartranft
+|-
+| Artillery
+|
+* Pennsylvania Light, Battery D: Cpt George W. Durell
+|}
+
+==Notes==
+
+

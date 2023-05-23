@@ -1,0 +1,203 @@
+Title: List of municipalities of the Province of Piacenza
+
+The following is a list of the 46 municipalities (comuni) of the Province of Piacenza, Emilia-Romagna, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|033001
+|Agazzano
+| align="right" |2,021
+|-
+|033049
+|Alta Val Tidone
+| align="right" |3,148
+|-
+|033002
+|Alseno
+| align="right" |4,793
+|-
+|033003
+|Besenzone
+| align="right" |982
+|-
+|033004
+|Bettola
+| align="right" |3,178
+|-
+|033005
+|Bobbio
+| align="right" |3,788
+|-
+|033006
+|Borgonovo Val Tidone
+| align="right" |7,062
+|-
+|033007
+|Cadeo
+| align="right" |5,601
+|-
+|033008
+|Calendasco
+| align="right" |2,380
+|-
+|033010
+|Caorso
+| align="right" |4,594
+|-
+|033011
+|Carpaneto Piacentino
+| align="right" |7,224
+|-
+|033012
+|Castell'Arquato
+| align="right" |4,597
+|-
+|033013
+|Castel San Giovanni
+| align="right" |12,651
+|-
+|033014
+|Castelvetro Piacentino
+| align="right" |5,129
+|-
+|033015
+|Cerignale
+| align="right" |197
+|-
+|033016
+|Coli
+| align="right" |1,030
+|-
+|033017
+|Corte Brugnatella
+| align="right" |789
+|-
+|033018
+|Cortemaggiore
+| align="right" |4,299
+|-
+|033019
+|Farini
+| align="right" |1,744
+|-
+|033020
+|Ferriere
+| align="right" |1,823
+|-
+|033021
+|Fiorenzuola d'Arda
+| align="right" |13,845
+|-
+|033022
+|Gazzola
+| align="right" |1,856
+|-
+|033023
+|Gossolengo
+| align="right" |4,197
+|-
+|033024
+|Gragnano Trebbiense
+| align="right" |3,850
+|-
+|033025
+|Gropparello
+| align="right" |2,379
+|-
+|033026
+|Lugagnano Val d'Arda
+| align="right" |4,247
+|-
+|033027
+|Monticelli d'Ongina
+| align="right" |5,316
+|-
+|033028
+|Morfasso
+| align="right" |1,313
+|-
+|033030
+|Ottone
+| align="right" |675
+|-
+|033032
+|Piacenza
+| align="right" |99,150
+|-
+|033033
+|Pianello Val Tidone
+| align="right" |2,273
+|-
+|033034
+|Piozzano
+| align="right" |714
+|-
+|033035
+|Podenzano
+| align="right" |7,991
+|-
+|033036
+|Ponte dell'Olio
+| align="right" |4,917
+|-
+|033037
+|Pontenure
+| align="right" |5,575
+|-
+|033038
+|Rivergaro
+| align="right" |6,101
+|-
+|033039
+|Rottofreno
+| align="right" |9,670
+|-
+|033040
+|San Giorgio Piacentino
+| align="right" |5,511
+|-
+|033041
+|San Pietro in Cerro
+| align="right" |962
+|-
+|033042
+|Sarmato
+| align="right" |2,714
+|-
+|033043
+|Travo
+| align="right" |2,032
+|-
+|033044
+|Vernasca
+| align="right" |2,407
+|-
+|033045
+|Vigolzone
+| align="right" |3,773
+|-
+|033046
+|Villanova sull'Arda
+| align="right" |1,928
+|-
+|033047
+|Zerba
+| align="right" |123
+|-
+|033048
+|Ziano Piacentino
+| align="right" |2,703
+|-
+|
+|Total
+| align="right" |273,689
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

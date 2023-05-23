@@ -1,0 +1,80 @@
+Title: Rider (theater)In theater, dance, and live musical performances, a rider is a set of requests or demands that a performer sets as criteria for performance, which are typically fulfilled by the hosting venue. Types of riders include hospitality and technical.
+
+Since the 2010s, inclusion riders, which provide for certain levels of  diversity in casting and production staff, are used in the film and television industry.
+
+== Hospitality rider ==
+The hospitality rider is a list of requests for the comfort of the artist on the day of the show. Common requests are:
+
+* Specific foods and beverages (typically water, but sometimes alcoholic beverages)
+* Fresh towels
+* Transportation and hotels
+* A runner (a person or persons hired to act as a personal shopper/driver for band and crew needs)
+* A number of complimentary ("comp") tickets or guest lists (free tickets for friends and family)
+* Security personnel and/or locking rooms
+* Access to a private bathroom and/or shower
+* Ice
+
+==Technical rider==
+A document which specifies the types of equipment to be used, the staff to be provided, and other arrangements directly relating to the performance. 
+
+For live music performances, technical riders usually include:
+*An input list, which will highlight every single stage connection that the engineer is going to be making and it gives them an idea of how many channels are going to be required of them for the show.
+*A stage plot, a rough block diagram that shows where each band member is going to be placed on the stage.
+
+Typical requests are:
+
+===Piano===
+*Orchestras will often specify a make of piano (e.g., Steinway) and a standard of tuning for the instrument, should their program require one.
+
+===Sound===
+*Sound reinforcement system, generally described in terms such as 'a professional quality 3 or 4 way active system', frequency response (e.g., 45 Hz-20 kHz) and power (either in wattage or dB SPL) are also common.
+*Mixing consoles—it is normal for engineers to specify a list of preferred consoles and also minimum requirements (such as number of channels) from other consoles as a backup. Requests for recording equipment or feeds for recording are sometimes included here.
+*Outboard gear—the number and quality of gates, compressors and effects units required.
+*Channel/input list—a list of the instruments being used, including preferred microphones and inserts.
+*Monitor requirements—often included alongside the channel list, detailing the number of monitor wedges and mixes required, a section similar to the front of house requirements detailing the need for monitor desk, graphic equalizers and other outboard equipment. If a monitor engineer is to be provided by the house it is generally requested here.
+*If the artist brings large amounts of equipment (such as the PA system) then power requirements are likely to be stated here.
+
+===Lighting===
+*Depending on the size of the production this can vary between 'provide a front wash and x kW of back lighting' to specific lighting plots of equipment
+*The number and type of follow spotlights to be used 
+*Number of lighting technicians
+*Power requirements 
+* Truss weightings (when the lighting system is provided by the touring production.)
+
+===Backline===
+*Some bands will not transport the full backline due to the expense of transport (generally if performing only a few times in each country/area) and may have the venue provide some to all of it. Larger items like amps, cabs and drums are more likely to be requested than guitars which many musicians treat more personally.
+*Risers—a riser is a raised area of stage, the size and positioning of risers for musicians (such as drummers, orchestra wind sections) are specified here.
+
+===Other===
+*Crew—productions typically specify the number of local crew the venue should provide as well as any technical staff.
+
+== Unreasonable requests ==
+
+On occasion, an artist's rider may be seen as unreasonable or excessive for a given performance.  It is often the case that such riders were devised for larger or more complex performances.  In situations like these, the stage manager would talk with the band manager about alternatives.
+
+Some requests or requirements are used to avoid certain conditions and small venues (e.g., if an act is required to perform as a condition of grant money). Such clauses make it difficult to put on a show and/or limit production quality. An example could be a ballet choreographed for a 60 feet by 60 feet stage. Adapting to a smaller stage could require removal of vital parts of the performance. Another example is asking for an unnecessarily large power supply.
+
+Some rider requirements are attempts to avoid specific problems from previous shows. Some venues cut corners to save expense, leaving the touring crew with inedible food, etc.
+
+"Unreasonable requests" (if legal) can be contractual obligations. Failure to meet such terms can compel performance fees to be paid without a performance.
+
+==Notable rider requests==
+* Van Halen requested in the technical rider that a bowl of M&M's be provided in their dressing room with the brown ones removed. Failure to do so would not only mean that the band would not perform, but the venue would still have to pay the full fee. The objective of this was not due to any excesses on the part of the band, but was a method to determine how much attention to detail the crew at a local venue paid to the requests specified in the rider. Should the bowl be absent, or if brown M&M's were present, it would give band members reason to suspect other, legitimate, technical and safety issues were also being performed poorly or were outright overlooked. David Lee Roth stated in his autobiography that this request was made as a result of faulty workmanship at a venue on an earlier tour which nearly cost the life of a member of Van Halen's road crew. He added that at Colorado State University-Pueblo, where he found brown M&M's, the management's failure to read weight requirements in the rider resulted in the band's equipment sinking through the floor and causing over $80,000 of damage.
+* Johnny Cash required an American flag on stage.
+* Paul McCartney requested a sweep of the venue by bomb-sniffing dogs before the show.
+* Elton John required that his dressing room be kept at " in summer and  in winter."
+* Deadmau5 requested an inflatable pool toy at all of his performances for use during the show.
+* Laibach requested for a 1980s tour that the venue provide a deer head with antlers to use as a stage prop.
+* Lady Gaga requested for her performance at BBC Radio 1's Big Weekend that her dressing room be covered in Union Flag bunting, Pimm's and fish and chips with battered Mars bars to be served and, most unusually, her staff to speak in Cockney accents for the entire event.
+* Michael Bublé who is an avid ice hockey fan since childhood, requires "one local team hockey puck" in his dressing room as part of his rider contract to concert promoters in every city.
+* Guns N' Roses lead singer Axl Rose gained attention by the extensive and sometimes bizarre requirements in his rider document, which include a cubic melon, seven types of cheese, six lamps, a rug and two bear shaped pots of honey. Until 2010, he also demanded his dressing room to be all black and decorated with red and white roses.
+* The Wonder Years singer Dan "Soupy" Campbell stated in a video interview with Rock Sound that they had put Hi-C Ecto Cooler on their rider as a joke, but once they got to an unnamed college in the UK, a woman on the staff apologized to the members of the band for not being able to locate the drink, due to it being discontinued, and so found the list of ingredients, compared them to modern juice drinks and found a near equivalent, before the band revealed to her that it was indeed a joke.
+
+== References ==
+
+
+==External links==
+* A list of original concert riders at The Smoking Gun website
+
+Category:Stagecraft
+Category:Stage terminology

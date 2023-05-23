@@ -1,0 +1,248 @@
+Title: Pacific Coast Railway
+
+
+The Pacific Coast Railway was a  narrow gauge railway on the Central Coast of California. The original 10-mile (16 km) link from San Luis Obispo to Avila Beach and Port Harford was later built southward to Santa Maria and Los Olivos, with branches to Sisquoc and Guadalupe.
+
+==Origins==
+The Santa Maria Valley of the central California coast was isolated by the Santa Lucia Range to the north and the Santa Inez Range to the south. El Camino Real traversed the difficult Cuesta Pass to reach San Francisco via the Salinas Valley or San Marcos Pass to reach Los Angeles via Santa Barbara. The  People's Wharf was built at Port Harford in 1869 to transfer freight and passengers from Pacific Coast Steamships Mohongo, Orizaba and Gypsy operating between San Francisco and San Diego. Goodall, Nelson and Perkins steamships Ventura and Constantine began weekly service to Port Harford in 1873; and Ah Louis built a horse-powered,  narrow gauge tramway in 1873 to transport passengers and freight between Port Harford and a wagon road at Avila Beach.
+
+In 1875, Pacific Coast Steamship Company replaced the tram with the  narrow gauge steam-powered San Luis Obispo & Santa Maria Valley Railroad to San Luis Obispo. Operations began with ten boxcars and one coach pulled by a  called the "Avila" and a  called the "John Harford" built by Baldwin Locomotive Works. San Luis Obispo rail yard warehouses became a commercial center for inbound merchandise and outgoing shipments of hay, grain, dairy products, sheep and cattle. The rail line was extended from San Luis Obispo to Arroyo Grande in 1881 and to Santa Maria in 1882. Grant Locomotive Works built another  and two  locomotives to pull a fleet of 120 new flatcars.  A new  wharf at Port Harford was  wide with tracks extending the full length.
+
+==Reorganization==
+Oregon Improvement Company obtained controlling interest in the Pacific Coast Steamship Company in late 1882, reorganized the railroad as the Pacific Coast Railway, and extended the line to Los Alamos. The next project was to replace the heavy grade of the original tramway alignment with a deep rock cut and long fill. The line was then extended to Los Olivos in 1887. A fire in 1892 destroyed the San Luis Obispo car shops, grain warehouse, loaded freight cars, half of the railroad's passenger cars and all the cabooses while heavily damaging the station and freight warehouse. Operations were profitable enough to promptly repair the damage. Passenger traffic though Port Harford declined when Southern Pacific reached San Luis Obispo from San Francisco in 1894. Southern Pacific freight rates were high enough to keep most Santa Maria Valley freight on the steamboats; but the loss of passenger traffic put the Oregon Improvement Company into receivership. The reorganized railroad built a  branch line in 1899 from Santa Maria to a new Union Sugar Company beet refinery in Betteravia.
+
+==Boom years==
+thumb|Route in 1931
+The increased agricultural business was shortly overshadowed by discovery of oil in the Santa Maria Valley. By 1902 the railroad had converted its engines to burn oil and was strapping tanks from standard gauge cars onto their flatcars at the rate of ten per month. The railway's three 2-6-0 locomotives were inadequate to move all the oil to storage tanks near San Luis Bay. Five new Baldwin 2-8-0s were delivered by 1906 as the freight car fleet expanded to two hundred cars. The Betteravia branch was electrified in 1906 and extended to Guadalupe in 1909. Another electrified branch was built in 1910 to serve an oil refinery near Sisquoc. Three center-cab electric locomotives worked the branches with a center-door interurban car built by Cincinnati Car Company in 1912.
+
+==Decline==
+
+The  Santa Maria Valley Railroad was built parallel to the electrified branch of the narrow gauge. Santa Maria Valley agriculture slowly shifted from sugar beets to produce which could be loaded directly onto Southern Pacific refrigerator cars. The sugar beet factory closed in 1927, and electric operations ended in 1928, although steam locomotives still worked the branches occasionally. Profits peaked in 1921 and declined as automobiles became more common, but the railroad saw a brief increase in business hauling gravel for construction of U.S. Route 101 in 1928 and '29. The gravel business required purchase of two 2-8-0s from the recently standard-gauged Nevada–California–Oregon Railway to replace Pacific Coast 2-8-0s dismantled for parts to keep the other engines running. Service to Los Olivos was reduced to a twice-weekly mixed train by 1930 and ended in 1933. A used Plymouth Locomotive Works gasoline switcher was purchased in 1936. The line beyond Los Alamos was dismantled in 1936, and the branch lines were dismantled in 1937. In 1938 locomotive number 106 was destroyed in a grade crossing collision with a gasoline truck, and the last three coaches and a baggage car were sold to the White Pass and Yukon Route. A single combine car numbered 106 was the last piece of passenger equipment. The United States Navy bought the boxcars for use at Naval Station Pearl Harbor when operations ended in 1941; and locomotive number 111 went to the Oahu Railway and Land Company. Bell Oil Company briefly used the railway north of Santa Maria until the line was dismantled in 1942. Most of the remaining equipment was cut up for scrap by 1948, but caboose number 2 has been preserved at the California State Railroad Museum. The remaining Right of Way in Santa Maria was taken over by SMV and converted to standard Gauge.
+
+== Locomotives ==
+
+=== Steam Locomotives ===
+{| class="wikitable"
+|+
+!Number
+!Type
+!Builder
+!SN
+!Built
+!Disposition
+!Notes
+|-
+|1
+|2-4-2t
+|Baldwin Locomotive Works
+|3371
+|8/1875
+|Sold to Columbia & Puget Sound.
+|Tender added in 1882.
+|-
+|2
+|4-4-0
+|Baldwin Locomotive Works
+|3968
+|8/1876
+|Burned 1896, scrapped 1900.
+|
+|-
+|3
+|4-4-0
+|Thos. Paul & Sons
+|
+|4/1881
+|Rebuilt to #104 in 1899.
+|
+|-
+|4
+|2-6-0
+|Thos. Paul & Sons
+|
+|4/1881
+|Rebuilt to #102 in 1898.
+|
+|-
+|5
+|2-6-0
+|Thos. Paul & Sons
+|
+|4/1881
+|Rebuilt to #103 in 1898.
+|
+|-
+|6
+|4-4-0
+|Baldwin Locomotive Works
+|6921
+|6/1883
+|Blew up and scrapped in 1904.
+|
+|-
+|101
+|2-6-0
+|Baldwin Locomotive Works
+|13732
+|9/1893
+|Scrapped 1924.
+|
+|-
+|102
+|2-6-0
+|Rebuilt 1898
+|
+|
+|Scrapped 1912.
+|Built as #2.
+|-
+|103
+|2-6-0
+|Rebuilt 1898
+|
+|
+|Scrapped 1905.
+|Built as #4.
+|-
+|104
+|4-4-0
+|Rebuilt 1899
+|
+|
+|Scrapped 1912.
+|Built as #3.
+|-
+|105
+|2-8-0
+|Baldwin Locomotive Works
+|23968
+|9/1904
+|Scrapped 1943.
+|
+|-
+|106
+|2-8-0
+|Baldwin Locomotive Works
+|24696
+|8/1904
+|Destroyed in a wreck in 1938 and scrapped.
+|
+|-
+|107
+|2-8-0
+|Baldwin Locomotive Works
+|24848
+|12/1904
+|Retired 1935, used for parts, scrapped 1948.
+|
+|-
+|108
+|2-8-0
+|Baldwin Locomotive Works
+|25043
+|1/1905
+|Retired 1935, scrapped 1940.
+|
+|-
+|109
+|2-8-0
+|Baldwin Locomotive Works
+|27225
+|1/1906
+|Retired and scrapped in 1935.
+|
+|-
+|110
+|4-6-0
+|Baldwin Locomotive Works
+|34528
+|4/1910
+|Scrapped 1948.
+|Purchased in 1929 from the Nevada-California-Oregon #10.
+|-
+|111
+|4-6-0
+|Baldwin Locomotive Works
+|27394
+|12/1911
+|Sold to Oahu Railway #11 in 1942.
+|Purchased in 1929 from the Nevada-California-Oregon #11.
+|}
+
+=== Electric Locomotives ===
+{| class="wikitable"
+|+
+!Number
+!Description
+!Builder
+!Built
+!Disposition
+!Notes
+|-
+|"Dinky"
+|Single Truck Locomotive
+|Unknown
+|
+|Dismantled 1907.
+|Truck used to built #E1.
+|-
+|E1
+|26 feet, Double truck, steeple cab locomotive, one powered truck
+|Pacific Coast Railway
+|1907
+|Scrapped 1938.
+|Truck from "Dinky", non powered truck and cab from steam locomotive #2. Truck replaced in 1927.
+|-
+|E2
+|31 feet, Double truck, steeple cab locomotive, both trucks powered
+|Pacific Coast Railway
+|1909
+|Scrapped 1938.
+|Wooden cab came from steam locomotive #103. Later replaced with steel cab.
+|-
+|E3
+|55 feet, closed, center entrance, combination passenger/baggage
+|Cincinnati Car Company
+|1912
+|Scrapped 1942.
+|Used a Dodge gasoline engine between 1938 and 1942.
+|}
+
+=== Gasoline Locomotives ===
+{| class="wikitable"
+|+
+!Number
+!Description
+!Builder
+!Disposition
+!Notes
+|-
+|120
+|2-4-2 arrangement. Switcher.
+|Plymouth Locomotive Works
+|Sold in 1942 to Aaron Feher & Sons Company of Los Angeles.
+|Purchased used in 1936.
+|-
+|4000
+|Built from a 1918 Ford Model T. Light freight service.
+|Pacific Coast
+|Scrapped by 1942.
+|
+|-
+|None
+|Passenger service.
+|Pacific Coast
+|Never operated on PC, sold to Davenport Portland Cement Company.
+|
+|-
+|Railcars
+|At least 6, no records.
+|Unknown
+|All gone by 1942.
+|
+|}
+
+==See also==
+
+* List of heritage railroads in the United States
+

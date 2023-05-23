@@ -1,0 +1,29 @@
+Title: Diffuse esophageal spasm
+Diffuse esophageal spasm (DES), also known as distal esophageal spasm, is a condition characterized by uncoordinated contractions of the esophagus, which may cause difficulty swallowing (dysphagia) or regurgitation. In some cases, it may cause symptoms such as chest pain, similar to heart disease. In many cases, the cause of DES remains unknown.
+
+Certain abnormalities on x-ray imaging are commonly observed in DES, such as a "corkscrew esophagus" or "rosary bead esophagus", although these findings are not unique to this condition. Specialized testing called manometry can be performed to evaluate the motor function of the esophagus, which can help identify abnormal patterns of muscle contraction within the esophagus that are suggestive of DES. The treatment of DES consists primarily of medications, such as acid suppressing agents (like proton-pump inhibitors), calcium channel blockers, hyoscine butylbromide, or nitrates. In only extremely rare cases, surgery may be considered. People with DES have higher incidences of gastroesophageal reflux disease (GERD), neuromuscular diseases, and degenerative neurological disorders.
+
+==Signs and symptoms==
+DES manifests as intermittent difficulty swallowing solid foods and liquids (dysphagia), and atypical chest pain.  The chest pain may appear similar to cardiac chest pain (angina pectoris), so investigating the possible existence of heart disease is often indicated.
+
+==Causes==
+The causes of diffuse esophageal spasm is unclear. It is thought, however, that many cases are caused by uncontrolled brain signals running to nerve endings. Therefore, suppression medication is often the first-line therapy such as antidepressants and anti-epileptic medication are prescribed. It has also been reported that very cold or hot beverages can trigger an esophageal spasm. Avoidance therapy benefits some people, but it has not been medically proven. Food allergies or intolerances may also be a cause in which spasms may be triggered within hours or days from the offending foods.
+
+==Diagnosis==
+thumb|Corkscrew appearance of the esophagus.
+Several radiographic findings are suggestive of DES, such as a "corkscrew esophagus" or "rosary bead esophagus" appearance on barium swallow x-ray, although these findings are not unique to DES.
+
+==Treatment==
+Several drugs are used to treat DES, including nitroglycerin, hyoscine butylbromide, calcium channel blockers, hydralazine, and anti-anxiety medications. Acid suppression therapy, such as proton-pump inhibitors, are often the first-line therapy.
+
+===Procedures===
+Botulinum toxin, which inhibits acetylcholine release from nerve endings, injected above the lower esophageal sphincter may also be used in the treatment of DES.  Small studies have suggested benefit from endoscopic balloon dilation in certain patients, but all of the above have a low percentage of success in treating the condition; whilst the treatments work in some sufferers, it does not work for everyone.  In extremely rare cases, surgery may be considered.
+
+==Epidemiology==
+It affects about 1 per 100,000 people per year.
+
+==See also==
+*Nutcracker esophagus
+*Esophageal spasm
+
+

@@ -1,0 +1,533 @@
+Title: List of diplomatic missions of Paraguay
+thumb|right|450px|Map of Paraguayan diplomatic missions
+
+
+
+This is a list of diplomatic missions of Paraguay. Paraguay is landlocked between two South American giants, Brazil and Argentina, and therefore it has several consulates in both countries. It is also one of the most significant countries and the only South American country to have an embassy in Taipei instead of Beijing.
+
+==Current missions==
+
+===Africa===
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+|-
+! scope="col" | Host country
+! scope="col" | Host city
+! scope="col" | Mission
+! scope="col" | Concurrent accreditation
+! scope="col" | 
+|-
+! scope="row" | 
+| Cairo
+| Embassy
+|   
+| 
+|-
+! scope="row" | 
+| Rabat
+| Embassy
+|   
+| 
+|-
+! scope="row" | 
+| Pretoria
+| Embassy
+|   
+| 
+|}
+
+===Americas===
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+|-
+! scope="col" | Host country
+! scope="col" | Host city
+! scope="col" | Mission
+
+! scope="col" | Concurrent accreditation
+! scope="col" | 
+|-
+! scope="row" rowspan="13" | 
+| Buenos Aires 
+| Embassy
+| rowspan="13" | 
+| 
+|-
+| Clorinda 
+| Consulate
+| 
+|-
+| Córdoba
+| Consulate
+| 
+|-
+| Corrientes
+| Consulate
+| 
+|-
+| Formosa
+| Consulate
+| 
+|-
+| La Plata 
+| Consulate
+| 
+|-
+| Mendoza
+| Consulate
+| 
+|-
+| Posadas
+| Consulate
+|  
+|-
+| Puerto Iguazú
+| Consulate 
+| 
+|-
+| Resistencia
+| Consulate 
+| 
+|-
+| Rosario
+| style="text-align:center;" | Consulate 
+| 
+|-
+| Salta 
+| Consulate 
+| 
+|-
+| San Justo
+| Consulate 
+| 
+|-
+! scope="row" rowspan="3" | 
+| La Paz
+| Embassy
+| rowspan="3" |
+| 
+|-
+| Santa Cruz
+| Consulate General
+| 
+|-
+| Villamontes
+| Consulate 
+| 
+|-
+! scope="row" rowspan="10" | 
+| Brasília
+| Embassy
+| rowspan="10" |   
+| 
+|-
+| Curitiba
+| Consulate General
+| 
+|-
+| Rio de Janeiro 
+| Consulate General
+| 
+|-
+| São Paulo
+| Consulate General
+| 
+|-
+| Campo Grande
+| Consulate
+| 
+|-
+| Foz do Iguaçu
+| Consulate 
+| 
+|-
+| Guaíra
+| Consulate 
+| 
+|-
+| Ponta Porã 
+| Consulate 
+| 
+|-
+| Porto Alegre
+| Consulate 
+| 
+|-
+| Porto Murtinho
+| Consulate 
+| 
+|-
+! scope="row" | 
+| Ottawa
+| Embassy
+| 
+| 
+|-
+! scope="row" rowspan="2" | 
+| Santiago de Chile
+| Embassy
+| rowspan="2" |
+| 
+|-
+| Iquique
+| Consulate
+| 
+|-
+! scope="row" | 
+| Bogotá 
+| Embassy
+| 
+| 
+|-
+! scope="row" | 
+| San José 
+| Embassy
+|   
+| 
+|-
+! scope="row" | 
+| Havana 
+| Embassy
+|   
+| 
+|-
+! scope="row" | 
+| Santo Domingo
+| Embassy
+| 
+| 
+|-
+! scope="row" | 
+| Quito
+| Embassy
+| 
+| 
+|-
+! scope="row" | 
+| Mexico City 
+| Embassy
+|   
+| 
+|-
+! scope="row" | 
+| Panama City 
+| Embassy
+|   
+| 
+|-
+! scope="row" | 
+| Lima
+| Embassy
+| 
+| 
+|-
+! scope="row" rowspan="4" | 
+| Washington, D.C. 
+| Embassy
+| rowspan="4" | 
+| 
+|-
+| Los Angeles
+| Consulate General
+|  
+|-
+| Miami 
+| Consulate General
+|  
+|-
+| New York City 
+| Consulate General
+|  
+|-
+! scope="row" | 
+| Montevideo
+| Embassy
+| 
+| 
+|}
+
+===Asia===
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+|-
+! scope="col" | Host country
+! scope="col" | Host city
+! scope="col" | Mission
+! scope="col" | Concurrent accreditation
+! scope="col" | 
+|-
+! scope="row" | 
+| New Delhi
+| Embassy
+|   
+| 
+|-
+! scope="row" | 
+| Tel Aviv
+| Embassy
+| 
+| 
+|-
+! scope="row" | 
+| Tokyo
+| Embassy
+|   
+| 
+|-
+! scope="row" | 
+| Beirut
+| Embassy
+|   
+| 
+|-
+! scope="row" | 
+| Doha
+| Embassy
+|  
+| 
+|-
+! scope="row" | 
+| Seoul
+| Embassy
+| 
+| 
+|-
+! scope="row" | 
+| Taipei
+| Embassy
+| 
+| 
+|-
+! scope="row" | 
+| Ankara
+| Embassy
+|   
+| 
+|-
+! scope="row" | 
+| Abu Dhabi
+| Embassy
+| 
+| 
+|}
+
+===Europe===
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+|-
+! scope="col" | Host country
+! scope="col" | Host city
+! scope="col" | Mission
+! scope="col" | Concurrent accreditation
+! scope="col" | 
+|-
+! scope="row" | 
+| Vienna
+| Embassy
+|   
+  
+| 
+|-
+! scope="row" | 
+| Brussels
+| Embassy
+|   
+  
+| 
+|-
+! scope="row" | 
+| Paris
+| Embassy
+|   
+| 
+|-
+! scope="row" rowspan="2" | 
+| Berlin
+| Embassy
+| rowspan="2" |   
+| 
+|-
+| Frankfurt
+| Consulate General
+| 
+|-
+! scope="row" | 
+| Rome
+| Embassy
+|   
+
+| 
+|-
+! scope="row" | 
+| Rome
+| Embassy
+|   
+
+| 
+|-
+! scope="row" | 
+| Lisbon
+| Embassy
+|   
+| 
+|-
+! scope="row" | 
+| Moscow
+| Embassy
+|   
+| 
+|-
+! scope="row" rowspan="3" | 
+| Madrid
+| Embassy
+| rowspan="3" |   
+| 
+|-
+| Barcelona
+| Consulate General
+| 
+|-
+| Málaga
+| Consulate General
+| 
+|-
+! scope="row" | 
+| London
+| Embassy
+|   
+| 
+|}
+
+===Oceania===
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+|-
+! scope="col" | Host country
+! scope="col" | Host city
+! scope="col" | Mission
+! scope="col" | Concurrent accreditation
+! scope="col" | 
+|-
+! scope="row" | 
+| Canberra
+| Embassy
+| 
+| 
+|}
+
+===Multilateral organisations===
+
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+|-
+! scope="col" | Organization
+! scope="col" | Host city
+! scope="col" | Host country
+! scope="col" | Mission
+! scope="col" | Concurrent accreditation
+! scope="col" | 
+|-
+! scope="row" | 25px ALADI
+| Montevideo
+| Uruguay
+| Permanent Mission
+| 
+| 
+|-
+! scope="row" | 
+| Washington, D.C.
+| United States
+| Permanent Mission
+|   
+| 
+|-
+! scope="row"  rowspan="2" | 
+| New York City
+| United States
+| Permanent Mission
+| 
+| 
+|-
+| Geneva
+| Switzerland
+| Permanent Mission
+| 
+| 
+|-
+! scope="row" | 
+| Paris
+| France
+| Permanent Delegation
+|
+| 
+|}
+
+==Gallery==
+
+File:Embassy Paraguay Berlin-Charlottenburg.jpg|Building hosting the embassy in Berlin
+File:Paraguayan Embassy, Buenos Aires.jpg|Embassy in Buenos Aires
+File:Embajada de Paraguay en La Paz.jpg|Embassy in La Paz
+File:Embaixada do Paraguai, Lisboa 02.jpg|Embassy in Lisbon
+File:Embassy of the Dominican Republic in London - 2020.jpg|Building hosting the embassy in London
+File:Madrid - Embajada de Paraguay 1.jpg|Embassy in Madrid
+File:Gran Via 529 - 001.jpg|Consulate-General in Barcelona
+File:Embajada de Paraguay en Ciudad de México.jpg|Embassy in Mexico City
+File:1RueStDominique-P7-017.jpg|Embassy in Paris
+File:The Diplomatic Quarter (使館特區) of Taiwan (中華民國), as seen from Lane 101, Tianmu West road (天母西路101巷) on 31 October 2017, around 1PM (Picture 3).jpg|Embassy in Taipei
+File:Embassy of the Paraguay in Japan 1.jpg|Building hosting the embassy in Tokyo
+File:Wien-Prinz-Eugen-Str-18.jpg|Embassy in Vienna
+File:EmbassyParaguayWashingtonDC.JPG|Permanent Mission to the OAS in Washington, D.C. 
+
+
+==Closed missions==
+
+===Americas===
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+|-
+! scope="col" | Host country
+! scope="col" | Host city
+! scope="col" | Mission
+! scope="col" | Year closed
+! scope="col" | 
+|-
+! scope="row" rowspan="2"| 
+| Paranaguá
+| Consulate
+| 2018
+| 
+|-
+| Santos
+| Consulate
+| Unknown
+| 
+|-
+! scope="row" | 
+| Caracas
+| Embassy
+| 2019
+| 
+|}
+
+===Europe===
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+|-
+! scope="col" | Host country
+! scope="col" | Host city
+! scope="col" | Mission
+! scope="col" | Year closed
+! scope="col" | 
+|-
+! scope="row" | 
+| Stockholm
+| Embassy
+| 2020
+| 
+|-
+! scope="row" | 
+| Bern
+| Embassy
+| 2021
+| 
+|}
+
+==See also==
+*Foreign relations of Paraguay
+*Visa policy of Paraguay
+
+==Notes==
+
+

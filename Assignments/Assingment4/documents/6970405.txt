@@ -1,0 +1,272 @@
+Title: Miriwoong language
+
+
+
+
+Miriwoong, also written Miriuwung and Miriwung, is an Aboriginal Australian language which today has fewer than 20 fluent speakers, most of whom live in or near Kununurra in Western Australia. All of the fluent speakers are elderly and the Miriwoong language is considered to be critically endangered. However, younger generations tend to be familiar with a lot of Miriwoong vocabulary which they use when speaking Kimberley Kriol or Aboriginal English.
+
+== Linguo-genetic categorisation ==
+Miriwoong is categorised by linguists as a Non-Pama-Nyungan language and part of the Jarrakan subgroup.
+
+== Sign ==
+As is common in many Australian language communities, the Miriwoong people have a  signed language that is used in addition to the spoken languages of the community.
+
+== Multilingualism ==
+Despite the endangered status of the Miriwoong language, the Miriwoong community is vibrantly multilingual. Languages spoken include Miriwoong (for a small number of speakers), the Miriwoong signed language, Kimberley Kriol, and English. Two varieties of English are present in the community, Aboriginal English, and Standard Australian English. Many speakers are bi-dialectical in both varieties while many others have a strong preference for Aboriginal English.
+
+== Mirima Dawang Woorlab-gerring ==
+The Mirima Dawang Woorlab-gerring Language and Culture Centre has been tasked with the preservation and revitalisation of the Miriwoong language since the 1970s.
+
+MDWg engages in a wide range of language revitalisation and documentation activities including a language nest, public language classes and on-country training camps. The language nest reaches around 300 children every week, both Indigenous and Non-Indigenous.
+
+A significant part of MDWg's revitalisation efforts is the publication of books in Miriwoong.
+
+== Some linguistic features ==
+
+=== Phonology ===
+
+==== Vowels ====
+The vowel system of Miriwoong comprises the following four vowel phonemes. Length is not phonemic.
+
+{| class="wikitable" style="text-align:center;"
+!
+!front
+!central
+!back
+|-
+!high
+|
+|
+|
+|-
+!mid
+|
+|
+|
+|-
+!low
+|
+|
+|
+|}
+
+==== Consonants ====
+Miriwoong distinguishes 19 consonant phonemes. The consonant inventory of Miriwoong is fairly typical for Indigenous Australian languages, having multiple lateral and nasal consonants, no voicing contrast, and no fricatives.
+
+{| class="wikitable" style="text-align:center;"
+!rowspan=2|
+!colspan=2|Peripheral
+!colspan=2|Laminal
+!colspan=2|Apical
+|-
+!Bilabial
+!Velar
+!Lamino-dental
+!Lamino-palatal
+!Alveolar
+!Retroflex
+|-
+!Plosive
+|
+|
+|
+|
+|
+|
+|-
+!Nasal
+|
+|
+|
+|
+|
+|
+|-
+!Trill
+|
+|
+|
+|
+|
+|
+|-
+!Lateral
+|
+|
+|
+|
+|
+|
+|-
+!Approximant
+| colspan="2" |
+| colspan="2" |
+| colspan="2" |
+|}
+
+=== Orthography ===
+The largely phonemic orthography of Miriwoong was developed at the Mirima Dawang Woorlab-gerring. Some sounds that do not have a standard character in the Latin script are represented by digraphs. The vowel /u/ is spelled oo in Miriwoong.
+{| class="wikitable"
+!Grapheme
+!IPA symbol
+!Miriwoong example
+!English translation
+|-
+!Vowels
+|
+|
+|
+|-
+|a
+|a
+|
+|place
+|-
+|e
+|ə
+|
+|man
+|-
+|oo
+|u
+|
+|dog
+|-
+|i
+|i
+|
+|cat
+|-
+|iyi
+|i: ~ iji
+|
+|yes
+|-
+!Monograph consonants
+|
+|
+|
+|-
+|b
+|b
+|
+|to stand
+|-
+|d
+|d
+|
+|heart
+|-
+|g
+|g
+|
+|fish
+|-
+|j
+|c~ɟ
+|
+|swim
+|-
+|K (only following n)
+|g
+|
+|footprints
+|-
+|l
+|l
+|
+|white
+|-
+|m
+|m
+|
+|magpie goose
+|-
+|n
+|n
+|
+|Kununurra (river)
+|-
+|r
+|ɹ
+|
+|grass
+|-
+|w
+|w
+|
+|small (f)
+|-
+|y
+|j
+|
+|non-meat food
+|-
+!Digraph consonants
+|
+|
+|
+|-
+|ly
+|ʎ
+|
+|tick
+|-
+|ng
+|ŋ
+|
+|big
+|-
+|nh
+|n̪
+|
+|red
+|-
+|ny
+|ɲ
+|
+|rock
+|-
+|rd
+|ɖ
+|
+|cup
+|-
+|rl
+|ɭ
+|
+|water
+|-
+|rn
+|ɳ
+|
+|paper
+|-
+|rr
+|r
+|
+|Bandicoot Bar (place name)
+|-
+|th
+|d̪
+|
+|black
+|}
+MDWg is working with local organisations to conform to the standardised orthography when Miriwoong is written in documents or signage.
+
+See also: Transcription of Australian Aboriginal languages
+
+=== Grammar ===
+Some notable features of Miriwoong grammar are as follows:
+
+==== Nouns ====
+
+===== Gender =====
+Miriwoong nouns have grammatical gender and adjectives and demonstratives agree with the noun. There are two genders, designated masculine and feminine.
+
+===== Case =====
+Nouns are not marked for case in Miriwoong, although arguments are cross-referenced on the verb, in most cases using a nominative-accusative pattern.
+
+==== Verbs ====
+Verbs in Miriwoong have a compound system of coverbs, which are generally uninflected and carry the main semantic content, and inflecting verbs, which carry the grammatical information. Both coverbs and verbs can stand alone but most verbal expressions comprise both a coverb and an inflecting verb (Newry 2015: 20-21). The inflecting verbs are a closed class and number around 20 while the coverbs are an open class. This type of verb system has been observed in other Australian languages, particularly in languages spoken in the north of Australia.
+

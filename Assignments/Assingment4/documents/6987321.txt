@@ -1,0 +1,36 @@
+Title: Ján Čado
+thumb|right|Ján Čado
+Ján Čado (born 7 May 1963, in Trstena) is a retired Slovak triple jumper who represented Czechoslovakia during his active career.
+
+His personal best results was 17.34 metres, achieved in May 1984 in Bratislava.
+
+==International competitions==
+{| 
+|-
+|1983
+|World Championships 
+|Helsinki, Finland
+| 6th
+|Triple jump
+|-
+|rowspan=3|1985
+|rowspan=2|World Indoor Games 
+|rowspan=2|Paris, France
+|align="center" | 5th
+|Triple jump
+|-
+| 5th
+|Long jump
+|-
+|European Indoor Championships 
+|Piraeus, Greece
+|bgcolor="silver"| 2nd
+|Triple jump
+|-
+|1987
+|World Indoor Championships 
+|Indianapolis, United States
+| 10th
+|Triple jump
+|}
+

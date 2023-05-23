@@ -1,0 +1,855 @@
+Title: 2004 International Formula 3000 Championship
+The 2004 International Formula 3000 season was the thirty-eight season of the second-tier of Formula One feeder championship and also twentieth and final season under the International Formula 3000 Championship moniker. It featured the 2004 FIA Formula 3000 International Championship, which was contested over ten rounds from 24 April to 11 September 2004.2004 Formula 3000 International Championship race results  Retrieved from www.teamdan.com on 26 May 2010  Two titles were awarded, a Championship for Drivers and a Championship for Teams.2004 Formula 3000 International Championship classifications  Retrieved from www.fia.com on 26 May 2010 This was the final FIA Formula 3000 International Championship before it was replaced by the GP2 Series in 2005.
+
+==Drivers and teams==
+The following drivers and teams contested the 2004 FIA Formula 3000 International Championship.
+{| class="wikitable" style="font-size:85%"
+! Team
+!
+! Driver
+! Rounds
+|-
+|rowspan=2|  Arden International
+| 1
+|  Vitantonio Liuzzi
+|All
+|-
+| 2
+|  Robert Doornbos
+|All
+|-
+|rowspan=2|  CMS Performance
+| 3
+|  José María López
+|All
+|-
+| 4
+|  Mathias Lauda
+|All
+|-
+|rowspan=5|  Durango Corse
+|rowspan=3| 5
+|  Yannick Schroeder
+|1-8
+|-
+|  Matteo Meneghello
+|9
+|-
+|  Michele Rugolo
+|10
+|-
+|rowspan=2|6
+|  Rodrigo Ribeiro
+|1-4
+|-
+|  Ernesto Viso
+|5-10
+|-
+|rowspan=4|  Coloni Motorsport
+|rowspan=2|7
+|  Jeffrey van Hooydonk
+|1-4
+|-
+|  Patrick Friesacher
+|5-10
+|-
+|rowspan=2|8
+|  Can Artam
+|1-5, 7
+|-
+|  Chanoch Nissany
+|8-10
+|-
+|rowspan=4|  Super Nova Racing
+|rowspan=2|9
+|  Patrick Friesacher
+|1-4
+|-
+|  Jeffrey van Hooydonk
+|5-10
+|-
+|rowspan=2|10
+|  Alan van der Merwe
+|1-7
+|-
+|  Can Artam
+|8-10
+|-
+|rowspan=4|  Team Astromega
+|rowspan=2|11
+|  Nico Verdonck
+|1-9
+|-
+|  Raffaele Giammaria
+|10
+|-
+|rowspan=2|12
+|  Jan Heylen
+|1-4
+|-
+|  Olivier Tielemans
+|6-10
+|-
+|rowspan=2|  BCN F3000
+| 14
+|  Enrico Toccacelo
+|All
+|-
+| 15
+|  Esteban Guerrieri
+|All
+|-
+|rowspan=2|  Ma-Con Engineering
+| 16
+|  Tomáš Enge
+|All
+|-
+| 17
+|  Tony Schmidt
+|All
+|-
+|rowspan=3|  AEZ Racing
+|rowspan=2| 18
+|  Raffaele Giammaria
+|1-8
+|-
+|  Matteo Grassotto
+|9-10
+|-
+| 19
+|  Ferdinando Monfardini
+|All
+|}
+All entries used Lola B02/50 chassis with Zytek-Judd KV engines and Avon tyres.Liuzzi is 2004 Champion  Retrieved from www.motorsm.com on 26 May 2010
+
+==Calendar==
+{|class="wikitable" style="font-size:85%"
+|-
+! Round 
+! Circuit
+! Date
+! Distance
+! Pole Position
+! Fastest Lap
+! Winning Driver
+! Winning Team
+! Report
+|-
+! 1
+|  Autodromo Enzo e Dino Ferrari
+| 24 April
+| 31 laps / 152.686 km
+|  Vitantonio Liuzzi
+|  José María López
+|  Vitantonio Liuzzi
+|  Arden International
+| Report
+|-
+! 2
+|  Circuit de Catalunya
+| 8 May
+| 33 laps / 152.565 km
+|  Enrico Toccacelo
+|  Vitantonio Liuzzi
+|  Vitantonio Liuzzi
+|  Arden International
+| Report
+|-
+! 3
+|  Circuit de Monaco
+| 22 May
+| 45 laps / 150.3 km
+|  Vitantonio Liuzzi
+|  Tomáš Enge
+|  Vitantonio Liuzzi
+|  Arden International
+| Report
+|-
+! 4
+|  Nürburgring
+| 29 May
+| 30 laps / 154.423 km
+|  Vitantonio Liuzzi
+|  José María López
+|  Enrico Toccacelo
+|  BCN Competicion
+| Report
+|-
+! 5
+|  Circuit de Nevers Magny-Cours
+| 3 July
+| 35 laps / 154.201 km
+|  Vitantonio Liuzzi
+|  Vitantonio Liuzzi
+|  Vitantonio Liuzzi
+|  Arden International
+| Report
+|-
+! 6
+|  Silverstone Circuit
+| 10 July
+| 30 laps / 154.125 km
+|  Vitantonio Liuzzi
+|  Tomáš Enge
+|  Vitantonio Liuzzi
+|  Arden International
+| Report
+|-
+! 7
+|  Hockenheimring
+| 24 July
+| 33 laps / 150.942 km
+|  Vitantonio Liuzzi
+|  Enrico Toccacelo
+|  Vitantonio Liuzzi
+|  Arden International
+| Report
+|-
+! 8
+|  Hungaroring
+| 14 August
+| 35 laps / 153.440 km
+|  Vitantonio Liuzzi
+|  Tomáš Enge
+|  Patrick Friesacher
+|  Coloni Motorsport
+| Report
+|-
+! 9
+|  Circuit de Spa-Francorchamps
+| 28 August
+| 22 laps / 153.296 km
+|  Vitantonio Liuzzi
+|  Robert Doornbos
+|  Robert Doornbos
+|  Arden International
+| Report
+|-
+! 10
+|  Autodromo Nazionale Monza
+| 11 September
+| 26 laps / 150.353 km
+|  Vitantonio Liuzzi
+|  Vitantonio Liuzzi
+|  Vitantonio Liuzzi
+|  Arden International
+| Report
+|}
+
+==Drivers' Championship==
+{|
+|- valign="top"
+|
+{| class="wikitable" style="font-size: 85%; text-align:center;"
+|- valign="top"
+!valign="middle"| Pos
+!valign="middle"| Driver
+! IMO
+! CAT
+! MON 
+! NÜR 
+! MAG 
+! SIL
+! HOC
+! HUN
+! SPA
+! MNZ
+!valign=middle| Points
+|-
+! 1
+|align="left"|  Vitantonio Liuzzi
+|style="background:#FFFFBF;"| 1
+|style="background:#FFFFBF;"| 1
+|style="background:#FFFFBF;"| 1
+|style="background:#CFCFFF;"| 11
+|style="background:#FFFFBF;"| 1
+|style="background:#FFFFBF;"| 1
+|style="background:#FFFFBF;"| 1
+|style="background:#DFDFDF;"| 2
+|style="background:#DFDFDF;"| 2
+|style="background:#FFFFBF;"| 1
+! align="right" | 86
+|-
+! 2
+|align="left"|  Enrico Toccacelo
+|style="background:#DFDFDF;"| 2
+|style="background:#DFDFDF;"| 2
+|style="background:#DFDFDF;"| 2
+|style="background:#FFFFBF;"| 1
+|style="background:#CFCFFF;"| 12
+|style="background:#DFDFDF;"| 2
+|style="background:#DFDFDF;"| 2
+|style="background:#FFDF9F;"| 3
+|style="background:#CFCFFF;"| 12
+|style="background:#EFCFFF;"| Ret
+! align="right" | 56
+|-
+! 3
+|align="left"|  Robert Doornbos
+|style="background:#FFDF9F;"| 3
+|style="background:#CFCFFF;"| 14
+|style="background:#DFFFDF;"| 6
+|style="background:#DFDFDF;"| 2
+|style="background:#DFFFDF;"| 5
+|style="background:#CFCFFF;"| 10
+|style="background:#DFFFDF;"| 4
+|style="background:#DFFFDF;"| 7
+|style="background:#FFFFBF;"| 1
+|style="background:#FFDF9F;"| 3
+! align="right" | 44
+|-
+! 4
+|align="left"|  Tomáš Enge
+|style="background:#DFFFDF;"| 5
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 14
+|style="background:#DFFFDF;"| 7
+|style="background:#DFDFDF;"| 2
+|style="background:#FFDF9F;"| 3
+|style="background:#EFCFFF;"| Ret
+|style="background:#DFFFDF;"| 4
+|style="background:#DFFFDF;"| 4
+|style="background:#DFDFDF;"| 2
+! align="right" | 38
+|-
+! 5
+|align="left"|  Patrick Friesacher
+|style="background:#CFCFFF;"| 9
+|style="background:#DFFFDF;"| 4
+|style="background:#DFFFDF;"| 5
+|style="background:#EFCFFF;"| Ret
+|style="background:#FFDF9F;"| 3
+|style="background:#DFFFDF;"| 5
+|style="background:#ffffff;"| DNS
+|style="background:#FFFFBF;"| 1
+|style="background:#DFFFDF;"| 5
+|style="background:#EFCFFF;"| Ret
+! align="right" | 33
+|-
+! 6
+|align="left"|  José María López
+|style="background:#EFCFFF;"| Ret
+|style="background:#DFFFDF;"| 6
+|style="background:#FFDF9F;"| 3
+|style="background:#DFFFDF;"| 5
+|style="background:#EFCFFF;"| Ret
+|style="background:#DFFFDF;"| 4
+|style="background:#DFFFDF;"| 6
+|style="background:#DFFFDF;"| 8
+|style="background:#FFDF9F;"| 3
+|style="background:#EFCFFF;"| Ret
+! align="right" | 28
+|-
+! 7
+|align="left"|  Esteban Guerrieri
+|style="background:#EFCFFF;"| Ret
+|style="background:#DFFFDF;"| 5
+|style="background:#EFCFFF;"| Ret
+|style="background:#DFFFDF;"| 4
+|style="background:#DFFFDF;"| 6
+|style="background:#CFCFFF;"| 15
+|style="background:#FFDF9F;"| 3
+|style="background:#DFFFDF;"| 5
+|style="background:#DFFFDF;"| 7
+|style="background:#DFFFDF;"| 5
+! align="right" | 28
+|-
+! 8
+|align="left"|  Raffaele Giammaria
+|style="background:#DFFFDF;"| 4
+|style="background:#FFDF9F;"| 3
+|style="background:#DFFFDF;"| 4
+|style="background:#DFFFDF;"| 6
+|style="background:#EFCFFF;"| Ret
+|style="background:#DFFFDF;"| 6
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 10
+|| 
+|style="background:#DFFFDF;"| 4
+! align="right" | 27
+|-
+! 9
+|align="left"|  Yannick Schroeder
+|style="background:#DFFFDF;"| 7
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 10
+|style="background:#FFDF9F;"| 3
+|style="background:#DFFFDF;"| 4
+|style="background:#CFCFFF;"| 14
+|style="background:#EFCFFF;"| Ret
+|style="background:#EFCFFF;"| Ret
+|| 
+||  
+! align="right" | 13
+|-
+! 10
+|align="left"|  Tony Schmidt
+|style="background:#CFCFFF;"| 10
+|| 
+|style="background:#CFCFFF;"| 11
+|style="background:#CFCFFF;"| 14
+|style="background:#DFFFDF;"| 7
+|style="background:#DFFFDF;"| 7
+|style="background:#DFFFDF;"| 5
+|style="background:#CFCFFF;"| 11
+|style="background:#DFFFDF;"| 6
+|style="background:#EFCFFF;"| Ret
+! align="right" | 11
+|-
+! 11
+|align="left"|  Jeffrey van Hooydonk
+|style="background:#DFFFDF;"| 6
+|style="background:#EFCFFF;"| Ret
+|style="background:#DFFFDF;"| 7
+|style="background:#DFFFDF;"| 8
+|style="background:#CFCFFF;"| 13
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 9
+|style="background:#CFCFFF;"| 9
+|style="background:#CFCFFF;"| 9
+|style="background:#DFFFDF;"| 7
+! align="right" | 8
+|-
+! 12
+|align="left"|  Ernesto Viso
+|| 
+|| 
+|| 
+|| 
+|style="background:#DFFFDF;"| 8
+|style="background:#CFCFFF;"| 11
+|style="background:#DFFFDF;"| 7
+|style="background:#DFFFDF;"| 6
+|style="background:#CFCFFF;"| 10
+|style="background:#DFFFDF;"| 8
+! align="right" | 7
+|-
+! 13
+|align="left"|  Mathias Lauda
+|style="background:#CFCFFF;"| 12
+|style="background:#DFFFDF;"| 7
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 10
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 13
+|style="background:#EFCFFF;"| Ret
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 14
+|style="background:#DFFFDF;"| 6
+! align="right" | 5
+|-
+! 14
+|align="left"|  Alan van der Merwe
+|style="background:#DFFFDF;"| 8
+|style="background:#CFCFFF;"| 12
+|style="background:#CFCFFF;"| 9
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 9
+|style="background:#DFFFDF;"| 8
+|style="background:#EFCFFF;"| Ret
+|| 
+|| 
+|| 
+! align="right" | 2
+|-
+! 15
+|align="left"|  Nico Verdonck
+|style="background:#CFCFFF;"| 15
+|style="background:#CFCFFF;"| 9
+|style="background:#CFCFFF;"| 12
+|style="background:#CFCFFF;"| 12
+|style="background:#CFCFFF;"| 11
+|style="background:#CFCFFF;"| 12
+|style="background:#DFFFDF;"| 8
+|style="background:#CFCFFF;"| 12
+|style="background:#CFCFFF;"| 11
+|| 
+! align="right" | 1
+|-
+! 16
+|align="left"|  Jan Heylen
+|style="background:#CFCFFF;"| 11
+|style="background:#CFCFFF;"| 11
+|style="background:#DFFFDF;"| 8
+|style="background:#CFCFFF;"| 9
+|| 
+|| 
+|| 
+|| 
+|| 
+|| 
+! align="right" | 1
+|-
+! 17
+|align="left"|  Rodrigo Ribeiro
+|style="background:#CFCFFF;"| 13
+|style="background:#DFFFDF;"| 8
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 16
+|| 
+|| 
+|| 
+|| 
+|| 
+|| 
+! align="right" | 1
+|-
+! 18
+|align="left"|  Matteo Grassotto
+|| 
+|| 
+|| 
+|| 
+|| 
+|| 
+|| 
+|| 
+|style="background:#DFFFDF;"| 8
+|style="background:#EFCFFF;"| Ret
+! align="right" | 1
+|-
+! 19
+|align="left"|  Can Artam
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 10
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 13
+|style="background:#EFCFFF;"| Ret
+|| 
+|style="background:#CFCFFF;"| 10
+|style="background:#CFCFFF;"| 14
+|style="background:#CFCFFF;"| 13
+|style="background:#CFCFFF;"| 9
+! align="right" | 0
+|-
+! 20
+|align="left"| 
+|style="background:#CFCFFF;"| 14
+|style="background:#CFCFFF;"| 13
+|style="background:#CFCFFF;"| 13
+|style="background:#CFCFFF;"| 15
+|style="background:#CFCFFF;"| 10
+|style="background:#CFCFFF;"| 9
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 13
+|style="background:#CFCFFF;"| 16
+|style="background:#CFCFFF;"| 14
+! align="right" | 0
+|-
+! 21
+|align="left"|  Olivier Tielemans
+||
+||
+||
+||
+||
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 12
+|style="background:#CFCFFF;"| 15
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 11
+! align="right" | 0
+|-
+! 22
+|align="left"|  Chanoch Nissany
+||
+||
+||
+||
+||
+|| 
+|| 
+|style="background:#EFCFFF;"| Ret
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 12
+! align="right" | 0
+|-
+! 23
+|align="left"|  Matteo Meneghello
+||
+||
+||
+||
+||
+|| 
+|| 
+|| 
+|style="background:#CFCFFF;"| 15
+|| 
+! align="right" | 0
+|-
+! –
+|align="left"|  Michele Rugolo
+||
+||
+||
+||
+||
+|| 
+|| 
+|| 
+|| 
+|style="background:#EFCFFF;"| Ret 
+! align="right" | 0
+|- style="background: #f9f9f9;" valign="top"
+|- valign="top"
+!valign="middle"| Pos
+!valign="middle"| Driver
+! IMO
+! CAT
+! MON 
+! NÜR 
+! MAG 
+! SIL
+! HOC
+! HUN
+! SPA
+! MNZ
+!valign=middle| Points
+|}
+|valign="top"|
+
+Bold — Pole
+Italics — Fastest lap
+|}
+
+* Points towards the 2004 FIA Formula 3000 International Championship for Drivers were awarded on a 10-8-6-5-4-3-2-1 basis for the first eight places at each round. The Sporting Regulations provided that if two or more drivers had the same number of points (including 0 points), their positions in the Championship was fixed according to the quality of their places. Under this system one first place was better than any number of second places, one second place was better than any number of third places, and so on.
+*All drivers used Lola B02/50 chassis with Zytek-Judd KV engines and Avon tyres.
+
+== Teams' Championship ==
+{| class="wikitable" <hiddentext>generated with :de:Wikipedia:Helferlein/VBA-Macro for EXCEL tableconversion V1.5<\hiddentext>
+|- style="font-size:8pt;font-weight:bold"
+| width="51.75" Height="12.75" align="center" valign="bottom" | Position 
+| width="120.75" valign="bottom" | Team 
+| width="20.25" align="center" valign="bottom" | IMO 
+| width="20.25" align="center" valign="bottom" | CAT 
+| width="20.25" align="center" valign="bottom" | MON 
+| width="20.25" align="center" valign="bottom" | NUR 
+| width="20.25" align="center" valign="bottom" | MAG 
+| width="20.25" align="center" valign="bottom" | SIL 
+| width="20.25" align="center" valign="bottom" | HOC 
+| width="20.25" align="center" valign="bottom" | HUN 
+| width="20.25" align="center" valign="bottom" | SPA 
+| width="20.25" align="center" valign="bottom" | MNZ 
+| width="44.25" align="center" valign="bottom" | Points 
+
+|- style="font-size:8pt"
+| Height="12.75" align="center" valign="bottom" | 1
+|  valign="bottom" | Arden International Ltd
+| align="center" valign="bottom" | 16
+| align="center" valign="bottom" | 10
+| align="center" valign="bottom" | 13
+| align="center" valign="bottom" | 8
+| align="center" valign="bottom" | 14
+| align="center" valign="bottom" | 10
+| align="center" valign="bottom" | 15
+| align="center" valign="bottom" | 10
+| align="center" valign="bottom" | 18
+| align="center" valign="bottom" | 16
+| align="center" valign="bottom" | 130
+
+|- style="font-size:8pt"
+| Height="12.75" align="center" valign="bottom" | 2
+|  valign="bottom" | BCN Competicion
+| align="center" valign="bottom" | 8
+| align="center" valign="bottom" | 12
+| align="center" valign="bottom" | 8
+| align="center" valign="bottom" | 15
+| align="center" valign="bottom" | 3
+| align="center" valign="bottom" | 8
+| align="center" valign="bottom" | 14
+| align="center" valign="bottom" | 10
+| align="center" valign="bottom" | 2
+| align="center" valign="bottom" | 4
+| align="center" valign="bottom" | 84
+
+|- style="font-size:8pt"
+| Height="12.75" align="center" valign="bottom" | 3
+|  valign="bottom" | Ma-Con Engineering
+| align="center" valign="bottom" | 4
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 2
+| align="center" valign="bottom" | 10
+| align="center" valign="bottom" | 8
+| align="center" valign="bottom" | 4
+| align="center" valign="bottom" | 5
+| align="center" valign="bottom" | 8
+| align="center" valign="bottom" | 8
+| align="center" valign="bottom" | 49
+
+|- style="font-size:8pt"
+| Height="12.75" align="center" valign="bottom" | 4
+| valign="bottom" | CMS Performance
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 5
+| align="center" valign="bottom" | 6
+| align="center" valign="bottom" | 4
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 5
+| align="center" valign="bottom" | 3
+| align="center" valign="bottom" | 1
+| align="center" valign="bottom" | 6
+| align="center" valign="bottom" | 3
+| align="center" valign="bottom" | 33
+
+|- style="font-size:8pt"
+| Height="12.75" align="center" valign="bottom" | 5
+| valign="bottom" | Coloni Motorsport
+| align="center" valign="bottom" | 3
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 2
+| align="center" valign="bottom" | 1
+| align="center" valign="bottom" | 6
+| align="center" valign="bottom" | 4
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 10
+| align="center" valign="bottom" | 4
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 30
+
+|- style="font-size:8pt"
+| Height="12.75" align="center" valign="bottom" | 6
+| valign="bottom" | AEZ I.E. Engineering
+| align="center" valign="bottom" | 5
+| align="center" valign="bottom" | 6
+| align="center" valign="bottom" | 5
+| align="center" valign="bottom" | 3
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 3
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 1
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 23
+
+|- style="font-size:8pt"
+| Height="12.75" align="center" valign="bottom" | 7
+| valign="bottom" | Durango
+| align="center" valign="bottom" | 2
+| align="center" valign="bottom" | 1
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 6
+| align="center" valign="bottom" | 6
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 2
+| align="center" valign="bottom" | 3
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 1
+| align="center" valign="bottom" | 21
+
+|- style="font-size:8pt"
+| Height="12.75" align="center" valign="bottom" | 8
+| valign="bottom" | Super Nova Racing Ltd
+| align="center" valign="bottom" | 1
+| align="center" valign="bottom" | 5
+| align="center" valign="bottom" | 4
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 1
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 2
+| align="center" valign="bottom" | 13
+
+|- style="font-size:8pt"
+| Height="12.75" align="center" valign="bottom" | 9
+| valign="bottom" | Team Astromega
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 1
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 1
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 0
+| align="center" valign="bottom" | 5
+| align="center" valign="bottom" | 7
+|}
+
+* Points towards the 2004 FIA Formula 3000 International Championship for Teams were awarded on a 10-8-6-5-4-3-2-1 basis for the first eight places at each round. The Sporting Regulations provided that if two or more teams had the same number of points (including 0 points), their positions in the Championship was fixed according to the quality of their places. Under this system one first place was better than any number of second places, one second place was better than any number of third places, and so on.
+
+==Complete Overview==
+
+{| border="0" style="border: 1px solid #999; background-color:#FFFFFF; text-align:center"
+|first column of every race ||style="background:#DFBBBF;"| 10 ||= grid position
+|}
+{| border="0" style="border: 1px solid #999; background-color:#FFFFFF; text-align:center"
+|second column of every race ||style="background:#DFDDDF;"| 10 ||= race result
+|}
+
+R14=retired, but classified R=retired NS=did not start NT=no time set in qualifying
+
+{| border="0" style="border: 1px solid #999; background-color:#FFFFFF; text-align:center"
+|-align="center" style="background:#CCCCCC;"
+| Place || Name || Team
+!colspan=2| IMO
+!colspan=2| CAT
+!colspan=2| MON
+!colspan=2| NÜR
+!colspan=2| MAG
+!colspan=2| SIL
+!colspan=2| HOC
+!colspan=2| HUN
+!colspan=2| SPA
+!colspan=2| MNZ
+|-style="background:#EFEFEF;"
+| 1 ||align="left"|  Vitantonio Liuzzi ||align="left"| Arden International ||style="background:#DFBBBF;"| 1 ||style="background:#DFDDDF;"| 1 ||style="background:#DFBBBF;"| 2 ||style="background:#DFDDDF;"| 1 ||style="background:#DFBBBF;"| 1 ||style="background:#DFDDDF;"| 1 ||style="background:#DFBBBF;"| 1 ||style="background:#DFDDDF;"| 11 ||style="background:#DFBBBF;"| 1 ||style="background:#DFDDDF;"| 1 ||style="background:#DFBBBF;"| 1 ||style="background:#DFDDDF;"| 1 ||style="background:#DFBBBF;"| 1 ||style="background:#DFDDDF;"| 1 ||style="background:#DFBBBF;"| 1 ||style="background:#DFDDDF;"| 2 ||style="background:#DFBBBF;"| 1 ||style="background:#DFDDDF;"| 2 ||style="background:#DFBBBF;"| 1 ||style="background:#DFDDDF;"| 1
+|-
+| 2 ||align="left"|  Enrico Toccacelo ||align="left"| BCN Competicion ||style="background:#DFBBBF;"| 2 ||style="background:#DFDDDF;"| 2 ||style="background:#DFBBBF;"| 1 ||style="background:#DFDDDF;"| 2 ||style="background:#DFBBBF;"| 2 ||style="background:#DFDDDF;"| 2 ||style="background:#DFBBBF;"| 2 ||style="background:#DFDDDF;"| 1 ||style="background:#DFBBBF;"| 8 ||style="background:#DFDDDF;"| 12 ||style="background:#DFBBBF;"| 2 ||style="background:#DFDDDF;"| 2 ||style="background:#DFBBBF;"| 2 ||style="background:#DFDDDF;"| 2 ||style="background:#DFBBBF;"| 2 ||style="background:#DFDDDF;"| 3 ||style="background:#DFBBBF;"| 7 ||style="background:#DFDDDF;"| 12 ||style="background:#DFBBBF;"| 9 ||style="background:#DFDDDF;"| R
+|-style="background:#EFEFEF;"
+| 3 ||align="left"|  Robert Doornbos ||align="left"| Arden International ||style="background:#DFBBBF;"| 6 ||style="background:#DFDDDF;"| 3 ||style="background:#DFBBBF;"| 4 ||style="background:#DFDDDF;"| R14 ||style="background:#DFBBBF;"| 5 ||style="background:#DFDDDF;"| 6 ||style="background:#DFBBBF;"| 8 ||style="background:#DFDDDF;"| 2 ||style="background:#DFBBBF;"| 4 ||style="background:#DFDDDF;"| 5 ||style="background:#DFBBBF;"| 9 ||style="background:#DFDDDF;"| 10 ||style="background:#DFBBBF;"| 7 ||style="background:#DFDDDF;"| 4 ||style="background:#DFBBBF;"| 6 ||style="background:#DFDDDF;"| 7 ||style="background:#DFBBBF;"| 2 ||style="background:#DFDDDF;"| 1 ||style="background:#DFBBBF;"| 3 ||style="background:#DFDDDF;"| 3
+|-
+| 4 ||align="left"|  Tomáš Enge ||align="left"| Ma-Con Engineering ||style="background:#DFBBBF;"| 5 ||style="background:#DFDDDF;"| 5 ||style="background:#DFBBBF;"| 6 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| 8 ||style="background:#DFDDDF;"| 14 ||style="background:#DFBBBF;"| 3 ||style="background:#DFDDDF;"| 7 ||style="background:#DFBBBF;"| 7 ||style="background:#DFDDDF;"| 2 ||style="background:#DFBBBF;"| 4 ||style="background:#DFDDDF;"| 3 ||style="background:#DFBBBF;"| 4 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| 4 ||style="background:#DFDDDF;"| 4 ||style="background:#DFBBBF;"| 3 ||style="background:#DFDDDF;"| 4 ||style="background:#DFBBBF;"| 6 ||style="background:#DFDDDF;"| 2
+|-style="background:#EFEFEF;"
+|rowspan=2| 5 ||rowspan=2 align="left"|  Patrick Friesacher ||align="left"| SuperNova Racing ||style="background:#DFBBBF;"| 8 ||style="background:#DFDDDF;"| 9 ||style="background:#DFBBBF;"| 9 ||style="background:#DFDDDF;"| 4 ||style="background:#DFBBBF;"| 6 ||style="background:#DFDDDF;"| 5 ||style="background:#DFBBBF;"| 10 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"|
+|-style="background:#EFEFEF;"
+|align="left"| Coloni Motorsport ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| 3 ||style="background:#DFDDDF;"| 3 ||style="background:#DFBBBF;"| 5 ||style="background:#DFDDDF;"| 5 ||style="background:#DFBBBF;"| 3 ||style="background:#DFDDDF;"| NS ||style="background:#DFBBBF;"| 3 ||style="background:#DFDDDF;"| 1 ||style="background:#DFBBBF;"| 10 ||style="background:#DFDDDF;"| 5 ||style="background:#DFBBBF;"| 5 ||style="background:#DFDDDF;"| R
+|-
+| 6 ||align="left"|  José María López ||align="left"| CMS Performance/Coloni Motorsport ||style="background:#DFBBBF;"| 4 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| 7 ||style="background:#DFDDDF;"| 6 ||style="background:#DFBBBF;"| 3 ||style="background:#DFDDDF;"| 3 ||style="background:#DFBBBF;"| 4 ||style="background:#DFDDDF;"| 5 ||style="background:#DFBBBF;"| 5 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| 3 ||style="background:#DFDDDF;"| 4 ||style="background:#DFBBBF;"| 13 ||style="background:#DFDDDF;"| 6 ||style="background:#DFBBBF;"| 5 ||style="background:#DFDDDF;"| 8 ||style="background:#DFBBBF;"| 4 ||style="background:#DFDDDF;"| 3 ||style="background:#DFBBBF;"| 4 ||style="background:#DFDDDF;"| R
+|-style="background:#EFEFEF;"
+| ||align="left"|  Esteban Guerrieri ||align="left"| BCN Competicion ||style="background:#DFBBBF;"| 10 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| 11 ||style="background:#DFDDDF;"| 5 ||style="background:#DFBBBF;"| 9 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| 7 ||style="background:#DFDDDF;"| 4 ||style="background:#DFBBBF;"| 6 ||style="background:#DFDDDF;"| 6 ||style="background:#DFBBBF;"| 7 ||style="background:#DFDDDF;"| 15 ||style="background:#DFBBBF;"| 6 ||style="background:#DFDDDF;"| 3 ||style="background:#DFBBBF;"| 8 ||style="background:#DFDDDF;"| 5 ||style="background:#DFBBBF;"| 5 ||style="background:#DFDDDF;"| 7 ||style="background:#DFBBBF;"| 7 ||style="background:#DFDDDF;"| 5
+|-
+|rowspan=2| 8 ||rowspan=2 align="left"|  Raffaele Giammaria ||align="left"| AEZ I.E. Engineering/Durango ||style="background:#DFBBBF;"| 7 ||style="background:#DFDDDF;"| 4 ||style="background:#DFBBBF;"| 10 ||style="background:#DFDDDF;"| 3 ||style="background:#DFBBBF;"| 7 ||style="background:#DFDDDF;"| 4 ||style="background:#DFBBBF;"| 6 ||style="background:#DFDDDF;"| 6 ||style="background:#DFBBBF;"| 14 ||style="background:#DFDDDF;"| R14 ||style="background:#DFBBBF;"| 6 ||style="background:#DFDDDF;"| 6 ||style="background:#DFBBBF;"| 9 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| 9 ||style="background:#DFDDDF;"| 10 ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"|
+|-
+|align="left"| Team Astromega ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| 2 ||style="background:#DFDDDF;"| 4
+|-style="background:#EFEFEF;"
+| 9 ||align="left"|  Yannick Schroeder ||align="left"| Durango Formula ||style="background:#DFBBBF;"| 9 ||style="background:#DFDDDF;"| 7 ||style="background:#DFBBBF;"| 3 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| 14 ||style="background:#DFDDDF;"| 10 ||style="background:#DFBBBF;"| 9 ||style="background:#DFDDDF;"| 3 ||style="background:#DFBBBF;"| 2 ||style="background:#DFDDDF;"| 4 ||style="background:#DFBBBF;"| 17 ||style="background:#DFDDDF;"| 14 ||style="background:#DFBBBF;"| 5 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| 10 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| -
+|-
+| 10 ||align="left"|  Tony Schmidt ||align="left"| Ma-Con Engineering ||style="background:#DFBBBF;"| 11 ||style="background:#DFDDDF;"| 10 ||style="background:#DFBBBF;"| NT ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| 17 ||style="background:#DFDDDF;"| 11 ||style="background:#DFBBBF;"| 12 ||style="background:#DFDDDF;"| 14 ||style="background:#DFBBBF;"| 9 ||style="background:#DFDDDF;"| 7 ||style="background:#DFBBBF;"| 8 ||style="background:#DFDDDF;"| 7 ||style="background:#DFBBBF;"| 8 ||style="background:#DFDDDF;"| 5 ||style="background:#DFBBBF;"| 11 ||style="background:#DFDDDF;"| 11 ||style="background:#DFBBBF;"| 8 ||style="background:#DFDDDF;"| 6 ||style="background:#DFBBBF;"| 8 ||style="background:#DFDDDF;"| R10
+|-style="background:#EFEFEF;"
+|rowspan=2| 11 ||rowspan=2 align="left"|  Jeffrey van Hooydonk ||align="left"| Coloni Motorsport ||style="background:#DFBBBF;"| 3 ||style="background:#DFDDDF;"| 6 ||style="background:#DFBBBF;"| 8 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| 4 ||style="background:#DFDDDF;"| 7 ||style="background:#DFBBBF;"| 5 ||style="background:#DFDDDF;"| 8 ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"|
+|-style="background:#EFEFEF;"
+|align="left"| SuperNova Racing ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| 13 ||style="background:#DFDDDF;"| 13 ||style="background:#DFBBBF;"| 11 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| 15 ||style="background:#DFDDDF;"| 9 ||style="background:#DFBBBF;"| 15 ||style="background:#DFDDDF;"| 9 ||style="background:#DFBBBF;"| 13 ||style="background:#DFDDDF;"| 9 ||style="background:#DFBBBF;"| 13 ||style="background:#DFDDDF;"| 7
+|-
+| 12 ||align="left"|  Ernesto Viso ||align="left"| Durango Formula ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| 10 ||style="background:#DFDDDF;"| 8 ||style="background:#DFBBBF;"| 14 ||style="background:#DFDDDF;"| 11 ||style="background:#DFBBBF;"| 10 ||style="background:#DFDDDF;"| 7 ||style="background:#DFBBBF;"| 7 ||style="background:#DFDDDF;"| 6 ||style="background:#DFBBBF;"| 12 ||style="background:#DFDDDF;"| 10 ||style="background:#DFBBBF;"| 15 ||style="background:#DFDDDF;"| 8
+|-style="background:#EFEFEF;"
+| 13 ||align="left"|  Mathias Lauda ||align="left"| CMS Performance/Coloni Motorsport ||style="background:#DFBBBF;"| 15 ||style="background:#DFDDDF;"| 12 ||style="background:#DFBBBF;"| 12 ||style="background:#DFDDDF;"| 7 ||style="background:#DFBBBF;"| 13 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| 15 ||style="background:#DFDDDF;"| 10 ||style="background:#DFBBBF;"| 11 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| 13 ||style="background:#DFDDDF;"| 13 ||style="background:#DFBBBF;"| 12 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| 13 ||style="background:#DFDDDF;"| R15 ||style="background:#DFBBBF;"| 9 ||style="background:#DFDDDF;"| 14 ||style="background:#DFBBBF;"| 14 ||style="background:#DFDDDF;"| 6
+|-
+| 14 ||align="left"|  Alan van der Merwe ||align="left"| SuperNova Racing ||style="background:#DFBBBF;"| 12 ||style="background:#DFDDDF;"| 8 ||style="background:#DFBBBF;"| 5 ||style="background:#DFDDDF;"| 12 ||style="background:#DFBBBF;"| 10 ||style="background:#DFDDDF;"| 9 ||style="background:#DFBBBF;"| 13 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| 15 ||style="background:#DFDDDF;"| 9 ||style="background:#DFBBBF;"| 10 ||style="background:#DFDDDF;"| 8 ||style="background:#DFBBBF;"| 11 ||style="background:#DFDDDF;"| R11 ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| -
+|-style="background:#EFEFEF;"
+| 15 ||align="left"|  Rodrigo Ribeiro ||align="left"| Durango Formula ||style="background:#DFBBBF;"| 14 ||style="background:#DFDDDF;"| 13 ||style="background:#DFBBBF;"| 16 ||style="background:#DFDDDF;"| 8 ||style="background:#DFBBBF;"| 12 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| 16 ||style="background:#DFDDDF;"| 16 ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| -
+|-
+| ||align="left"|  Jan Heylen ||align="left"| Team Astromega ||style="background:#DFBBBF;"| 13 ||style="background:#DFDDDF;"| 11 ||style="background:#DFBBBF;"| 13 ||style="background:#DFDDDF;"| 11 ||style="background:#DFBBBF;"| 11 ||style="background:#DFDDDF;"| 8 ||style="background:#DFBBBF;"| 11 ||style="background:#DFDDDF;"| 9 ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| -
+|-style="background:#EFEFEF;"
+| ||align="left"|  Nico Verdonck ||align="left"| Team Astromega ||style="background:#DFBBBF;"| 16 ||style="background:#DFDDDF;"| 15 ||style="background:#DFBBBF;"| 14 ||style="background:#DFDDDF;"| 9 ||style="background:#DFBBBF;"| 16 ||style="background:#DFDDDF;"| 12 ||style="background:#DFBBBF;"| 14 ||style="background:#DFDDDF;"| 12 ||style="background:#DFBBBF;"| 16 ||style="background:#DFDDDF;"| 11 ||style="background:#DFBBBF;"| 15 ||style="background:#DFDDDF;"| 12 ||style="background:#DFBBBF;"| 16 ||style="background:#DFDDDF;"| 8 ||style="background:#DFBBBF;"| 12 ||style="background:#DFDDDF;"| 12 ||style="background:#DFBBBF;"| 14 ||style="background:#DFDDDF;"| 11 ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| -
+|-
+| ||align="left"|  Matteo Grassotto ||align="left"| AEZ I.E. Engineering/Durango ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| 6 ||style="background:#DFDDDF;"| 8 ||style="background:#DFBBBF;"| 10 ||style="background:#DFDDDF;"| R
+|-style="background:#EFEFEF;"
+|rowspan=2| - ||rowspan=2 align="left"|  Can Artam ||align="left"| Coloni Motorsport ||style="background:#DFBBBF;"| 17 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| 17 ||style="background:#DFDDDF;"| 10 ||style="background:#DFBBBF;"| 18 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| 17 ||style="background:#DFDDDF;"| 13 ||style="background:#DFBBBF;"| 17 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| 17 ||style="background:#DFDDDF;"| 10 ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"|
+|-style="background:#EFEFEF;"
+|align="left"| SuperNova Racing ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| ||style="background:#DFDDDF;"| ||style="background:#DFBBBF;"| 16 ||style="background:#DFDDDF;"| 14 ||style="background:#DFBBBF;"| 15 ||style="background:#DFDDDF;"| 13 ||style="background:#DFBBBF;"| 16 ||style="background:#DFDDDF;"| 9
+|-
+| - ||align="left"|  Ferdinando Monfardini ||align="left"| AEZ I.E. Engineering/Durango ||style="background:#DFBBBF;"| 18 ||style="background:#DFDDDF;"| 14 ||style="background:#DFBBBF;"| 15 ||style="background:#DFDDDF;"| 13 ||style="background:#DFBBBF;"| 15 ||style="background:#DFDDDF;"| 13 ||style="background:#DFBBBF;"| 18 ||style="background:#DFDDDF;"| 15 ||style="background:#DFBBBF;"| 12 ||style="background:#DFDDDF;"| 10 ||style="background:#DFBBBF;"| 12 ||style="background:#DFDDDF;"| 9 ||style="background:#DFBBBF;"| 14 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| 14 ||style="background:#DFDDDF;"| 13 ||style="background:#DFBBBF;"| 11 ||style="background:#DFDDDF;"| 16 ||style="background:#DFBBBF;"| 11 ||style="background:#DFDDDF;"| R
+|-style="background:#EFEFEF;"
+| - ||align="left"|  Olivier Tielemans ||align="left"| AEZ I.E. Engineering/Durango ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| 16 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| 18 ||style="background:#DFDDDF;"| 12 ||style="background:#DFBBBF;"| 18 ||style="background:#DFDDDF;"| 16 ||style="background:#DFBBBF;"| 18 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| 17 ||style="background:#DFDDDF;"| 11
+|-
+| - ||align="left"|  Chanoch Nissany ||align="left"| Coloni Motorsport ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| 17 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| 16 ||style="background:#DFDDDF;"| R ||style="background:#DFBBBF;"| 18 ||style="background:#DFDDDF;"| 12
+|-style="background:#EFEFEF;"
+| - ||align="left"|  Matteo Meneghello ||align="left"| Durango ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| 17 ||style="background:#DFDDDF;"| 15 ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| -
+|-
+| - ||align="left"|  Michele Rugolo ||align="left"| Durango ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| - ||style="background:#DFDDDF;"| - ||style="background:#DFBBBF;"| 12 ||style="background:#DFDDDF;"| R
+|}
+

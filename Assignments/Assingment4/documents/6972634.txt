@@ -1,0 +1,74 @@
+Title: Mriganka Sur
+
+
+
+
+
+Mriganka Sur (born 1953 in Fatehgarh, India) is the Newton Professor of Neuroscience and Director of the Simons Center for the Social Brain at the Massachusetts Institute of Technology. He is also a Visiting Faculty Member in the Department of Computer Science and Engineering at the Indian Institute of Technology Madras and N.R. Narayana Murthy Distinguished Chair in Computational Brain Research at the Centre for Computational Brain Research, IIT Madras. He was on the Life Sciences jury for the Infosys Prize in 2010 and has been serving as Jury Chair from 2018.
+
+==Biography==
+Mriganka Sur did his early schooling at the St. Joseph's Collegiate School, Allahabad. He received the Bachelor of Technology degree in electrical engineering from the Indian Institute of Technology in Kanpur (IIT Kanpur) in 1974, and the Master of Science and PhD degrees in electrical engineering in 1975 and 1978, respectively, from Vanderbilt University in Nashville. After postdoctoral research at Stony Brook University, he was appointed to the faculty of Yale University School of Medicine in 1983. He joined the faculty of the Department of Brain and Cognitive Sciences at the Massachusetts Institute of Technology (MIT) in 1986. He was named in 1993 Professor of Neuroscience and in 1997 head of the Department of Brain and Cognitive Sciences. He is currently the Newton Professor of Neuroscience and Director of the Simons Center for the Social Brain at Massachusetts Institute of Technology.
+
+==Work==
+Sur is a pioneer in technology development for analyzing the function and structure of neurons and synapses in the live brain, and the study of brain plasticity and its mechanisms. His laboratory uses experimental and computational approaches to study developmental plasticity and dynamic changes in mature cortical networks during information processing and learning. His laboratory has discovered fundamental principles by which neurons of the cerebral cortex are wired during development and operate dynamically in adulthood to enable perception, cognition and action. 
+
+In landmark experiments, he "rewired" the brain to explore how the environment influences the development of cortical circuits. The retina, which normally projects to the visual cortex, was induced to project to structures that normally process hearing. Visual input altered the development of neuronal connections in the auditory cortex, thus enabling animals to use their "hearing" cortex to "see."
+
+These findings have implications for restoring function after brain damage and for constructing neural prostheses for recovery from stroke or trauma. The Sur laboratory also studies genes involved in constructing the cerebral cortex, and the ways in which gene networks are influenced by brain activity. These studies are providing important insights into childhood disorders such as autism. Stemming from this work, a pharmacological treatment for Rett Syndrome is in advanced clinical trials.
+
+By imaging calcium responses of single neurons and a closely related glial cell type, astrocytes, in vivo using high resolution imaging methods, his laboratory has discovered that astrocytes have remarkably specific functional properties and mediate blood flow to active brain regions. This work has revealed the mechanism for noninvasive brain imaging methods such as functional magnetic resonance imaging (fMRI).
+
+The Sur lab pioneered all-optical measurements of single-neuron activity with cell-specific manipulations to discover unique functions of inhibitory neuron classes in brain computations.  Their imaging technologies combined with decoding and encoding models have revealed novel principles of memory-guided decisions across cortical areas and subcortical targets. The impact of these discoveries, which answer long-standing questions about computations underlying learning, decision-making and sensory-motor transformations, ranges from understanding dysregulation in brain disorders to brain architectures for next-generation AI.
+
+==Honors and awards==
+Sur has been elected to the membership of the National Academy of Medicine USA, the Royal Society of London, the American Academy of Arts and Sciences, the Indian National Science Academy  and the World Academy of Sciences. He has also been elected to the American Association for the Advancement of Science, the National Academy of Sciences, India, the Rodin Academy Sweden, and the Neurosciences Research Program. He has been awarded the Krieg Cortical Discoverer Prize (2016) and the Doctor of Science honoris causa from Indian Institute of Technology, Kanpur (2017). He has received the Charles Judson Herrick Award from the American Association of Anatomists (1983), the A.P. Sloan Foundation Fellowship (1985), the McKnight Neuroscience Development Award (1988), the School of Science Prize for Excellence in Graduate Teaching (2000), the Distinguished Overseas Lectureship of the Australian Neuroscience Society (2000), the Sigma Xi Distinguished Lectureship (2001), and the Distinguished Alumnus Award of IIT Kanpur (2002), and named among the top 50 alumni of IIT Kanpur (2010). He has been honoured at MIT with the Hans-Lukas Teuber Scholar Award in the Brain Sciences (1997), the Sherman Fairchild Chair (1998), and the Newton Chair (2008). 
+
+==Major publications==
+:Selected from over 280 publications.
+
+*Sur, M., P.E. Garraghty and A.W. Roe. Experimentally induced visual projections into auditory thalamus and cortex. Science 242: 1437–1441, 1988.
+*Hahm, J.-O., R.B. Langdon and M. Sur. Disruption of retinogeniculate afferent segregation by antagonists to NMDA receptors. Nature 351: 568–570, 1991.
+*Nelson, S., L. Toth, B. Sheth, and M. Sur. Orientation selectivity of cortical neurons persists during intracellular blockade of inhibition. Science 265: 774–777, 1994.
+*Somers, D.C., S.B. Nelson and M. Sur. An emergent model of orientation selectivity in cat visual cortical simple cells.  Journal of Neuroscience 15: 5448–5465, 1995.
+*Sharma, J., A. Angelucci and M. Sur. Induction of visual orientation modules in auditory cortex. Nature 404: 841–847, 2000.
+*Von Melchner, L., S.L. Pallas and M. Sur.  Visual behaviour mediated by retinal projections directed to the auditory pathway. Nature 404: 871–876, 2000.
+*Weng, J., J. McClelland, A. Pentland, O. Sporns, I. Stockman, M. Sur and E. Thelen. Autonomous mental development by robots and animals. Science 291: 599–600, 2001.
+*Dragoi, V., J. Sharma, E.K. Miller and M. Sur. Dynamics of neuronal sensitivity in visual cortex and local feature discrimination. Nature Neuroscience 5: 883–891, 2002. 
+*Newton, J.R., C. Ellsworth, T. Miyakawa, S. Tonegawa and M. Sur. Acceleration of visually cued conditioned fear through the auditory pathway. Nature Neuroscience 7: 968–973, 2004.
+*Sur, M. and J. Rubenstein.  Patterning and plasticity of the cerebral cortex. Science 310: 805–810, 2005.
+*Mariño J., J. Schummers, D.C. Lyon, L. Schwabe, O. Beck, P. Wiesing, K. Obermayer and M. Sur. Invariant computations in local cortical networks with balanced excitation and inhibition. Nature Neuroscience 8: 194–201, 2005. 
+*Tropea, D., G. Kreiman, A. Lyckman, S. Mukherjee, H. Yu, S. Horng and M. Sur.  Gene expression changes and molecular pathways mediating activity-dependent plasticity in visual cortex. Nature Neuroscience 9: 660–668, 2006.
+*Schummers, J., H. Yu and M. Sur. Tuned responses of astrocytes and their influence on hemodynamic signals in the visual cortex.  Science 320: 1638–1643, 2008.
+*Tropea, D., E. Giacometti, N. R. Wilson, C. Beard, C. McCurry, D. Fu, R. Flannery, R. Jaenisch, and M. Sur.  Partial reversal of Rett-Syndrome like symptoms in MeCP2 mutant mice. Proceedings of the National Academy of Sciences 106: 2029–2034, 2009.
+*McCurry, C.L., J.D. Shepherd, D. Tropea, K.H. Wang, M.F. Bear and M. Sur.  Loss of Arc renders the visual cortex impervious to the effects of sensory deprivation or experience. Nature Neuroscience 13: 450–457, 2010.
+*Wilson, N.R., C.A. Runyan, F.L. Wang, and M. Sur. Division and subtraction by distinct cortical inhibitory networks in vivo. Nature 488: 343-348, 2012.
+*Chen, N., H. Sugihara, J. Sharma, G. Perea, J. Petravicz, C. Le, and M. Sur. Nucleus basalis enabled stimulus specific plasticity in the visual cortex is mediated by astrocytes. Proceedings of the National Academy of Sciences 109: E2832–E2841, 2012.
+*Chen, N., H. Sugihara and M. Sur. An acetylcholine-activated microcircuit drives temporal dynamics of cortical activity. Nature Neuroscience 18: 892-902 [doi: 10.1038/nn.4002], 2015.
+*Goard, M.J., G.N. Pho, J. Woodson and M. Sur. Distinct roles of visual, parietal, and frontal motor cortices in memory-guided sensorimotor decisions. eLife 5: e13764. [doi: 10.7554/eLife.13764], 2016.
+*El-Boustani, S., J.P.K. Ip, V. Breton-Provencher, H. Okuno, H. Bito and M. Sur. Locally coordinated synaptic plasticity of visual cortex neurons in vivo. Science 360:1349-1354 [doi: 10.1126/science.aao0862], 2018.
+*Breton-Provencher, V., M. Sur. Active control of arousal by a locus coeruleus GABAergic circuit. Nature Neuroscience 22: 218-228 [doi: 10.1038/s41593-018-0305-z], 2019.
+*Yildirim, M., H. Sugihara, P.T.C. So and M. Sur. Functional imaging of visual cortical layers and subplate in awake mice with optimized three-photon microscopy. Nature Communications 10: 177 [doi: 10.1038/s41467-018-08179-6], 2019.
+*Tang X., R. Jaenisch, M. Sur. The role of GABAergic signalling in neurodevelopmental disorders. Nature Reviews Neuroscience 22: 290-307 , 2021.
+
+
+== References ==
+
+
+
+
+
+
+Category:1953 births
+Category:Living people
+Category:People from Farrukhabad
+Category:IIT Kanpur alumni
+Category:Indian emigrants to the United States
+Category:Vanderbilt University alumni
+Category:Stony Brook University alumni
+Category:Yale University faculty
+Category:Massachusetts Institute of Technology School of Science faculty
+Category:Fellows of the Royal Society
+Category:Foreign Fellows of the Indian National Science Academy
+Category:American academics of Indian descent
+Category:Members of the National Academy of Medicine
+Category:Indian scholars

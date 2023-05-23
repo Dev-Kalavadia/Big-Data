@@ -1,0 +1,735 @@
+Title: List of places in Alaska (S)
+
+This list of cities, towns, unincorporated communities, counties, and other recognized places in the U.S. state of Alaska also includes information on the number and names of counties in which the place lies, and its lower and upper zip code bounds, if applicable.
+
+
+{| class="wikitable"
+!Name of place
+!Number of counties
+!Principal county
+!Lower zip code
+!Upper zip code
+|----
+|Sagwon
+|1
+|North Slope Borough
+| 
+| 
+|----
+|St. George
+|1
+|Aleutians West Census Area
+|99591
+| 
+|----
+|St. George
+|1
+|Aleutians West Census Area
+|99660
+| 
+|----
+|Saint George Island
+|1
+|Aleutians West Census Area
+|99660
+| 
+|----
+|St. John Harbor
+|1
+|Wrangell-Petersburg Census Area
+| 
+| 
+|----
+|Saint Marys
+|1
+|Kusilvak Census Area
+|99658
+| 
+|----
+|Saint Mary's
+|1
+|Kusilvak Census Area
+|99658
+| 
+|----
+|St. Mary's
+|1
+|Kusilvak Census Area
+|99658
+| 
+|----
+|Saint Marys Airport
+|1
+|Kusilvak Census Area
+|99658
+| 
+|----
+|St. Marys City School District
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Saint Michael
+|1
+|Nome Census Area
+|99659
+| 
+|----
+|St. Michael
+|1
+|Nome Census Area
+|99659
+| 
+|----
+|Saint Paul
+|1
+|Aleutians West Census Area
+|99660
+| 
+|----
+|St. Paul
+|1
+|Aleutians West Census Area
+|99660
+| 
+|----
+|Saint Paul Island
+|1
+|Aleutians West Census Area
+|99660
+| 
+|----
+|Saint Paul Island Airport
+|1
+|Aleutians West Census Area
+|99660
+| 
+|----
+|Saint Terese
+|1
+|City and Borough of Juneau
+| 
+| 
+|----
+|Salamatof
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Salcha
+|1
+|Fairbanks North Star Borough
+|99714
+| 
+|----
+|Salchaket
+|1
+|Fairbanks North Star Borough
+|99701
+| 
+|----
+|Salmon
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Salmon Creek
+|1
+|City and Borough of Juneau
+|99801
+| 
+|----
+|Salmon Lake
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Salt Chuck
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Sanak
+|1
+|Aleutians East Borough
+| 
+| 
+|----
+|Sand Bay
+|1
+|Aleutians East Borough
+| 
+| 
+|----
+|Sand Lake
+|1
+|Municipality of Anchorage
+|99522
+| 
+|----
+|Sand Point
+|1
+|Aleutians East Borough
+|99661
+| 
+|----
+|Sand Point Airport
+|1
+|Aleutians East Borough
+|99661
+| 
+|----
+|San Juan
+|1
+|Kodiak Island Borough
+| 
+| 
+|----
+|Saulich
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Savonoski
+|1
+|Bristol Bay Borough
+| 
+| 
+|----
+|Savoonga
+|1
+|Nome Census Area
+|99769
+| 
+|----
+|Saxman
+|1
+|Ketchikan Gateway Borough
+|99901
+| 
+|----
+|Saxman East
+|1
+|Ketchikan Gateway Borough
+| 
+| 
+|----
+|Scammon Bay
+|1
+|Kusilvak Census Area
+|99662
+| 
+|----
+|Scow Bay
+|1
+|Wrangell-Petersburg Census Area
+|99833
+| 
+|----
+|Sealaska
+|8
+|Haines Borough
+| 
+| 
+|----
+|Sealaska
+|8
+|City and Borough of Juneau
+| 
+| 
+|----
+|Sealaska
+|8
+|Ketchikan Gateway Borough
+| 
+| 
+|----
+|Sealaska
+|8
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Sealaska
+|8
+|City and Borough of Sitka
+| 
+| 
+|----
+|Sealaska
+|8
+|Skagway-Hoonah-Angoon Census Area
+| 
+| 
+|----
+|Sealaska
+|8
+|Wrangell-Petersburg Census Area
+| 
+| 
+|----
+|Sealaska
+|8
+|City and Borough of Yakutat
+| 
+| 
+|----
+|Section House
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Selawik
+|1
+|Northwest Arctic Borough
+|99770
+| 
+|----
+|Seldovia
+|1
+|Kenai Peninsula Borough
+|99663
+| 
+|----
+|Seldovia Village
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Serpentine Hot Springs
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Seversens
+|1
+|Dillingham Census Area
+| 
+| 
+|----
+|Seward
+|1
+|Kenai Peninsula Borough
+|99664
+| 
+|----
+|Seward-Hope
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Shageluk
+|1
+|Yukon-Koyukuk Census Area
+|99665
+| 
+|----
+|Shaktolik
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Shaktoolik
+|1
+|Nome Census Area
+|99771
+| 
+|----
+|Sheldon Point
+|1
+|Kusilvak Census Area
+|99666
+| 
+|----
+|Sheldon Point
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Shemya
+|1
+|Aleutians East Borough
+| 
+| 
+|----
+|Shemya Island
+|1
+|Aleutians East Borough
+| 
+| 
+|----
+|Shemya Station/Air Force Station
+|1
+|Aleutians West Census Area
+|98736
+| 
+|----
+|Sherman
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Sheshalik
+|1
+|Northwest Arctic Borough
+| 
+| 
+|----
+|Shishmaref
+|1
+|Nome Census Area
+|99772
+| 
+|----
+|Shoal Cove
+|1
+|Ketchikan Gateway Borough
+| 
+| 
+|----
+|Shoreline Drive
+|1
+|Ketchikan Gateway Borough
+| 
+| 
+|----
+|Shungnak
+|1
+|Northwest Arctic Borough
+|99773
+| 
+|----
+|Shungnak Village
+|1
+|Northwest Arctic Borough
+| 
+| 
+|----
+|Silver Springs
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Silvertip
+|1
+|Kenai Peninsula Borough
+|99631
+| 
+|----
+|Sinuk
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Sitka
+|1
+|City and Borough of Sitka
+|99835
+| 
+|----
+|Sitka
+|1
+|City and Borough of Sitka
+| 
+| 
+|----
+|Sitka Airport
+|1
+|City and Borough of Sitka
+|99835
+| 
+|----
+|Sitka City and Borough School District
+|1
+|City and Borough of Sitka
+| 
+| 
+|----
+|Sitka National Historical Park
+|1
+|City and Borough of Sitka
+| 
+| 
+|----
+|Situk
+|1
+|City and Borough of Yakutat
+| 
+| 
+|----
+|Skagway
+|1
+|Municipality of Skagway Borough
+|99840
+| 
+|----
+|Skagway City School District
+|1
+|Municipality of Skagway Borough
+| 
+| 
+|----
+|Skwentna
+|1
+|Matanuska-Susitna Borough
+|99667
+| 
+|----
+|Slana
+|1
+|Valdez-Cordova Census Area
+|99586
+| 
+|----
+|Slaterville
+|1
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Sleetmute
+|1
+|Bethel Census Area
+|99668
+| 
+|----
+|Snug Harbor
+|1
+|Kenai Peninsula Borough
+|99572
+| 
+|----
+|Soldatna
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Soldotna
+|1
+|Kenai Peninsula Borough
+|99669
+| 
+|----
+|Solomon
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Sourdough
+|1
+|Valdez-Cordova Census Area
+|99586
+| 
+|----
+|South
+|1
+|Municipality of Anchorage
+|99502
+| 
+|----
+|South Bierremark
+|1
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Southeast Fairbanks
+|1
+|Southeast Fairbanks Census Area
+| 
+| 
+|----
+|Southeast Islands Regional Educational Attendance Ar
+|2
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Southeast Islands Regional Educational Attendance Ar
+|2
+|Wrangell-Petersburg Census Area
+| 
+| 
+|----
+|South Fairbanks
+|1
+|Fairbanks North Star Borough
+|99701
+| 
+|----
+|South Naknek
+|1
+|Bristol Bay Borough
+|99670
+| 
+|----
+|Southwest Region Regional Educational Attendance Are
+|1
+|Dillingham Census Area
+| 
+| 
+|----
+|Sparrevohn Station
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|Spenard
+|1
+|Municipality of Anchorage
+|99503
+| 
+|----
+|Squaw Harbor
+|1
+|Aleutians East Borough
+|99661
+| 
+|----
+|Standard
+|1
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Stebbins
+|1
+|Nome Census Area
+|99671
+| 
+|----
+|Steese
+|1
+|Fairbanks North Star Borough
+|99710
+| 
+|----
+|Sterling
+|1
+|Kenai Peninsula Borough
+|99672
+| 
+|----
+|Sterling Landing
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Stevens
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Stevens Village
+|1
+|Yukon-Koyukuk Census Area
+|99774
+| 
+|----
+|Stony River
+|1
+|Bethel Census Area
+|99557
+| 
+|----
+|Strawberry Point
+|1
+|Skagway-Hoonah-Angoon Census Area
+| 
+| 
+|----
+|Strelna
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Stuyahok
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Sulatna Crossing
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Sullivan Camp
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Summit
+|1
+|Denali Borough
+|99729
+| 
+|----
+|Sunnyside
+|1
+|Skagway-Hoonah-Angoon Census Area
+|99832
+| 
+|----
+|Sunrise
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Sunshine
+|1
+|Matanuska-Susitna Borough
+|99501
+| 
+|----
+|Suntrana
+|1
+|Denali Borough
+|99743
+| 
+|----
+|Susitna
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Sutton
+|1
+|Matanuska-Susitna Borough
+|99674
+| 
+|----
+|Sutton-Alpine
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|}
+
+ S

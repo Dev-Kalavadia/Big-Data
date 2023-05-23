@@ -1,0 +1,150 @@
+Title: List of municipalities of the Province of Terni
+
+The following is a list of the 33 municipalities (comuni) of the Province of Terni, Umbria, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|055001
+|Acquasparta
+| align="right" |4,843
+|-
+|055002
+|Allerona
+| align="right" |1,867
+|-
+|055003
+|Alviano
+| align="right" |1,539
+|-
+|055004
+|Amelia
+| align="right" |11,599
+|-
+|055005
+|Arrone
+| align="right" |2,744
+|-
+|055006
+|Attigliano
+| align="right" |1,759
+|-
+|055007
+|Baschi
+| align="right" |2,709
+|-
+|055008
+|Calvi dell'Umbria
+| align="right" |1,860
+|-
+|055009
+|Castel Giorgio
+| align="right" |2,187
+|-
+|055010
+|Castel Viscardo
+| align="right" |3,070
+|-
+|055011
+|Fabro
+| align="right" |2,745
+|-
+|055012
+|Ferentillo
+| align="right" |1,927
+|-
+|055013
+|Ficulle
+| align="right" |1,730
+|-
+|055014
+|Giove
+| align="right" |1,856
+|-
+|055015
+|Guardea
+| align="right" |1,822
+|-
+|055016
+|Lugnano in Teverina
+| align="right" |1,610
+|-
+|055017
+|Montecastrilli
+| align="right" |4,888
+|-
+|055018
+|Montecchio
+| align="right" |1,749
+|-
+|055019
+|Montefranco
+| align="right" |1,329
+|-
+|055020
+|Montegabbione
+| align="right" |1,270
+|-
+|055021
+|Monteleone d'Orvieto
+| align="right" |1,598
+|-
+|055022
+|Narni
+| align="right" |20,212
+|-
+|055023
+|Orvieto
+| align="right" |20,841
+|-
+|055024
+|Otricoli
+| align="right" |1,867
+|-
+|055025
+|Parrano
+| align="right" |589
+|-
+|055026
+|Penna in Teverina
+| align="right" |1,070
+|-
+|055027
+|Polino
+| align="right" |275
+|-
+|055028
+|Porano
+| align="right" |1,867
+|-
+|055029
+|San Gemini
+| align="right" |4,587
+|-
+|055030
+|San Venanzo
+| align="right" |2,324
+|-
+|055031
+|Stroncone
+| align="right" |4,698
+|-
+|055032
+|Terni
+| align="right" |108,999
+|-
+|055033
+|Avigliano Umbro
+| align="right" |2,488
+|-
+|
+|Total
+| align="right" |226,518
+|}
+
+==See also==
+*List of municipalities of Italy
+

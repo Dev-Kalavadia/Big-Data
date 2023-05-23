@@ -1,0 +1,36 @@
+Title: Mankanya language
+
+
+The Mankanya language (; ) is spoken by approximately 70,000 people in Guinea-Bissau, Senegal and Gambia primarily belonging to the ethnic group of the same name. It belongs to the Bak branch of the Niger–Congo language family.
+
+Mancanha is spoken east of the Manjak language area and to the north of Bissau Island. It is also called Brame.Wilson, William André Auquier. 2007. Guinea Languages of the Atlantic group: description and internal classification. (Schriften zur Afrikanistik, 12.) Frankfurt am Main: Peter Lang.
+
+== Sociolinguistic situation ==
+The language has status as a national language in Senegal, and an orthography has recently been developed for writing it. Mankanya is known as "Uhula" by the people themselves (the Mankanya people, or "Bahula"). The name 'Mankanya' is thought to have been conferred upon the people and their language by colonialists who mistook the name of their chief at the time of colonisation for the name of the people-group itself.
+
+The language contains many loanwords from Kriol. There is also extensive bilingualism in Mandjak, a closely related language which is largely mutually comprehensible, as well as in other minority languages spoken in the area, such as Mandinka and Jola. Finally, Mankanya speakers in Senegal also know French, and those in Gambia know English.
+
+== Literature ==
+There is a translation of the Christian Bible in the Mankanya language, available via the Holy Bible YouVersion app. It includes a spoken recording (audio-bible).
+
+== Writing system ==
+Mankanya uses the Latin alphabet. In Senegal, a decree of 2005 provides for an orthography for Mankanya.
+{|class="wikitable" style="text-align: center; vertical-align: middle;"
+! colspan="28" | Mankanya Alphabet (Senegal)
+|-----
+| A || B || C || D || E
+| Ë || F || G || H || I
+| J || K || L || M || N
+| Ñ || Ŋ || O || P || R
+| S || Ş || T || Ŧ || Ţ
+| U || W || Y
+|-----
+| a || b || c || d || e
+| ë || f || g || h || i
+| j || k || l || m || n
+| ñ || ŋ || o || p || r
+| s || ş || t || ŧ || ţ
+| u || w || y
+|}
+
+

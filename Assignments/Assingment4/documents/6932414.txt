@@ -1,0 +1,153 @@
+Title: Open C tuningthumb|right|An open C tuning
+
+Open C tuning is an open tuning for guitar. The open-string notes form a C major chord, which is the triad (C,E,G) having the root note C, the major third (C,E), and the perfect fifth (C,G). When the guitar is strummed without fretting any strings, a C-major chord is sounded. By barring all of the strings for one fret (from one to eleven), one finger suffices to fret the other eleven major-chords.
+
+==Examples==
+
+There are several open C tunings.
+
+===Repetitive C-E-G-C-E-G===
+ {
+\clef "treble_8"
+\time 3/4
+<c e g c' e' g'>2.
+<c >4
+<e >4
+<g  >4
+<c' >4
+<e' >4
+<g' >4
+<c e g c' e' g'>2.
+}
+
+
+The English guitar uses a repetitive open-C tuning
+:C-E-G-C-E-G,
+which is approximately a major-thirds tuning, specifically 
+:C-E-G-C-E-G=C-E-A-C-E-A.
+ {
+\clef "treble_8"
+\time 3/4
+<c e aes c' e' aes'>2.
+<c >4
+<e >4
+<aes  >4
+<c' >4
+<e' >4
+<aes' >4
+<c e aes c' e' aes'>2.
+}
+
+
+==="C5" variant C-G-C-G-G-E===
+ {
+\clef "treble_8"
+\time 3/4
+<c, g, c g g e'>2.
+<c, >4
+<g, >4
+<c  >4
+<g >4
+<g >4
+<e' >4
+<c, g, c g g e'>2.
+}
+
+
+This open C tuning was used by Soundgarden for songs including Pretty Noose, Burden in My Hand, and Head Down. Chord sequences often omit the high E string, leaving the power chord ubiquitous to Grunge music.
+
+===C-G-C-G-C-E===
+ {
+\clef "treble_8"
+\time 3/4
+<c, g, c g c' e'>2.
+<c, >4
+<g, >4
+<c  >4
+<g >4
+<c' >4
+<e' >4
+<c, g, c g c' e'>2.
+}
+
+
+: C-G-C-G-C-E.
+This open C tuning was used by William Ackerman for his "Townshend Shuffle", by John Fahey for his tribute to Mississippi John Hurt, and by Led Zeppelin's Jimmy Page for "Friends".
+Page's "Friends" tuning is called an C6 chord (C-A-C-G-C-E) in Page 92:  It is also used by Devin Townsend for the vast majority of his work (The Devin Townsend Project, Strapping Young Lad, Casualties of Cool).Devin Townsend Masterclass: GuitarMessenger.com at 4:30
+
+===Overtones C-C-G-C-E-G===
+ {
+\clef "treble_8"
+\time 3/4
+<c, c g c' e' g'>2.
+<c, >4
+<c >4
+<g  >4
+<c' >4
+<e' >4
+<g' >4
+<c, c g c' e' g'>2.
+}
+
+:C-C-G-C-E-G
+
+Another open C tuning uses the harmonic sequence (overtones) of the note C. When an open-note C-string is struck, its harmonic sequence begins with the notes (C,C,G,C,E,G,B,C). The root note is associated with a sequence of intervals, beginning with the unison interval (C,C), the octave interval (C,C), the perfect fifth (C,G), the perfect fourth (G,C), the major third (C,E), and the minor third (E,G); in particular, this sequence of intervals contains the thirds of the C-major chord {(C,E),(E,G)}.: 
+
+====C-minor open chord: Cross-note tuning====
+
+Flattening this open tuning's open-note E to E changes the open chord from C-major to C-minor, so producing the cross-note tuning  
+:C-C--G-C-E-G
+ {
+\clef "treble_8"
+\time 3/4
+<c, c g c' ees' g'>2.
+<c, >4
+<c >4
+<g  >4
+<c' >4
+<ees' >4
+<g' >4
+<c, c g c' ees' g'>2.
+}
+
+which enables one-finger minor chords. Like other cross-note tunings, it also allows major chords to be fretted with one adjacent finger.
+
+====Relation to new standard tuning====
+Many of the notes from the harmonic sequence for C appear in the new standard tuning (NST), which is a nearly regular tuning based on perfect fifths; NST also has (D,A) from the pentatonic scale on C:
+:C-G-D-A-E-G
+NST is used in Guitar Craft (a school of guitar playing founded by King Crimson's Robert Fripp). The open-C overtones tuning has the same range as NST, which can use extreme strings (.011 and .059 inches). 
+ {
+\clef "treble_8"
+\time 3/4
+<c, g, d a e' g'>2.
+<c, >4
+<g, >4
+<d  >4
+<a >4
+<e' >4
+<g' >4
+<c, g, d a e' g'>2.
+}
+
+
+===C-C-G-C-E-C===
+ {
+\clef "treble_8"
+\time 3/4
+<c, c g c' e' c>2.
+<c, >4
+<c >4
+<g  >4
+<c' >4
+<e' >4
+<c >4
+<c, c g c' e' c>2.
+}
+
+:C-C-G-C-E-C
+
+Using a high C rather than the high G of the overtone series, this open C tuning was used by Mick Ralphs for the songs "Can't Get Enough" and "Movin' On" on Bad Company's debut album. Ralphs said, "It needs the open C to have that ring," and "it never really sounds right in standard tuning".
+
+==Notes==
+
+

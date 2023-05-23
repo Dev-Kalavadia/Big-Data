@@ -1,0 +1,33 @@
+Title: Transform, clipping, and lighting
+
+
+Transform, clipping, and lighting (T&L or TCL) is a term used in computer graphics.
+
+== Overview ==
+Transformation is the task of producing a two-dimensional view of a three-dimensional scene. Clipping means only drawing the parts of the scene that will be present in the picture after rendering is completed. Lighting is the task of altering the colour of the various surfaces of the scene on the basis of lighting information.
+
+==Hardware==
+Hardware T&L had been used by arcade game system boards since 1993, and by home video game consoles since the Sega Genesis's Virtua Processor (SVP), Sega Saturn's SCU-DSP and Sony PlayStation's GTE in 1994 and the Nintendo 64's RSP in 1996, though it wasn't traditional hardware T&L, but still software T&L running on a coprocessor instead of the main CPU, and could be used for rudimentary programmable pixel and vertex shaders as well. More traditional hardware T&L would appear on consoles with the GameCube and Xbox in 2001 (the PS2 still using a vector coprocessor for T&L). Personal computers implemented T&L in software until 1999, as it was believed faster CPUs would be able to keep pace with demands for ever more realistic rendering. However, 3D computer games of the time were producing increasingly complex scenes and detailed lighting effects much faster than the increase of CPU processing power.
+
+Nvidia's GeForce 256 was released in late 1999 and introduced hardware support for T&L to the consumer PC graphics card market. It had faster vertex processing not only due to the T&L hardware, but also because of a cache that avoided having to process the same vertex twice in certain situations.  While DirectX 7.0 (particularly Direct3D 7) was the first release of that API to support hardware T&L, OpenGL had supported it much longer and was typically the purview of older professionally oriented 3D accelerators which were designed for computer-aided design (CAD) instead of games. 
+
+S3 Graphics launched the Savage 2000 accelerator in late 1999, shortly after GeForce 256, but S3 never developed working Direct3D 7.0 drivers that would have enabled hardware T&L support.Yu, James. Diamond Viper II Z200 Savage2000 Review, Firing Squad, November 15, 1999.
+
+==Usefulness==
+Hardware T&L did not have broad application support in games at the time (mainly due to Direct3D games transforming their geometry on the CPU and not being allowed to use indexed geometries), so critics contended that it had little real-world value. Initially, it was only somewhat beneficial in a few OpenGL-based 3D first-person shooter titles of the time, most notably Quake III Arena. 3dfx and other competing graphics card companies contended that a fast CPU would make up for the lack of a T&L unit. 
+
+ATI's initial response to GeForce 256 was the dual-chip Rage Fury MAXX. By using two Rage 128 chips, each rendering an alternate frame, the card was able to somewhat approach the performance of SDR memory GeForce 256 cards, but the GeForce 256 DDR still retained the top speed.Fastsite. ATI RAGE FURY MAXX Review, X-bit Labs, February 4, 2000. ATI was developing their own GPU at the time known as the Radeon which also implemented hardware T&L.
+
+3dfx's Voodoo5 5500 did not have a T&L unit but it was able to match the performance of the GeForce 256, although the Voodoo5 was late to market and by its release it could not match the succeeding GeForce 2 GTS. 
+
+STMicroelectronics' PowerVR Kyro II, released in 2001, was able to rival the costlier ATI Radeon DDR and NVIDIA GeForce 2 GTS in benchmarks of the time, despite not having hardware transform and lighting. As more and more games were optimised for hardware transform and lighting, the KYRO II lost its performance advantage and is not supported by most modern games. 
+
+Futuremark's 3DMark 2000 heavily utilized hardware T&L, which resulted in the Voodoo 5 and Kyro II both scoring poorly in the benchmark tests, behind budget T&L video cards such as the GeForce 2 MX and Radeon SDR.
+
+==Industry standardization==
+By 2000, only ATI with their comparable Radeon 7xxx series, would remain in direct competition with Nvidia's GeForce 256 and GeForce 2. By the end of 2001, all discrete graphics chips would have hardware T&L. 
+
+Support of hardware T&L assured the GeForce and Radeon of a strong future, unlike its Direct3D 6 predecessors which relied upon software T&L. While hardware T&L does not add new rendering features, the extra performance allowed for much more complex scenes and an increasing number of games recommended it anyway to run at optimal performance. GPUs that support T&L in hardware are usually considered to be in the DirectX 7.0 generation. 
+
+After hardware T&L had become standard in GPUs, the next step in computer 3D graphics was DirectX 8.0 with fully programmable vertex and pixel shaders. Nonetheless, many early games using DirectX 8.0 shaders, such as Half-Life 2, made that feature optional so DirectX 7.0 hardware T&L GPUs could still run the game. For instance, the GeForce 256 was supported in games up until approximately 2006, in games such as Star Wars: Empire at War.
+

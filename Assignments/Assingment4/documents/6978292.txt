@@ -1,0 +1,60 @@
+Title: Kętrzyn County
+__NOTOC__
+Kętrzyn County () is a unit of territorial administration and local government (powiat) in Warmian-Masurian Voivodeship, northern Poland, on the border with Russia. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and largest town is Kętrzyn (former Rastembork), which lies  north-east of the regional capital Olsztyn. The county also contains the towns of Reszel, lying  west of Kętrzyn, and Korsze,  north-west of Kętrzyn.
+
+The county covers an area of . As of 2006 its total population is 66,165, out of which the population of Kętrzyn is 28,000, that of Reszel is 5,098, that of Korsze is 4,632, and the rural population is 28,435.
+
+==Neighbouring counties==
+Kętrzyn County is bordered by Węgorzewo County and Giżycko County to the east, Mrągowo County to the south, and Olsztyn County and Bartoszyce County to the west. It also borders Russia (Kaliningrad Oblast) to the north.
+
+==Administrative division==
+The county is subdivided into six gminas (one urban, two urban-rural and three rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km²)
+| style="text-align:center;"|Population(2006)
+| style="text-align:center;"|Seat
+|-
+|Kętrzyn
+|urban
+| style="text-align:right;"|10.3
+| style="text-align:right;"|28,000
+| 
+|-
+|Gmina Korsze
+|urban-rural
+| style="text-align:right;"|249.9
+| style="text-align:right;"|10,561
+|Korsze
+|-
+|Gmina Reszel
+|urban-rural
+| style="text-align:right;"|178.7
+| style="text-align:right;"|8,335
+|Reszel
+|-
+|Gmina Kętrzyn
+|rural
+| style="text-align:right;"|285.7
+| style="text-align:right;"|8,285
+|Kętrzyn *
+|-
+|Gmina Barciany
+|rural
+| style="text-align:right;"|293.6
+| style="text-align:right;"|6,735
+|Barciany
+|-
+|Gmina Srokowo
+|rural
+| style="text-align:right;"|194.6
+| style="text-align:right;"|4,249
+|Srokowo
+|-
+|colspan=5 style="text-align:right;font-size:90%"|* seat not part of the gmina
+|-
+|}
+

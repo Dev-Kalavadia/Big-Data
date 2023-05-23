@@ -1,0 +1,31 @@
+Title: WJPW-CD
+
+WJPW-CD, virtual channel 59 (UHF digital channel 18), was a low-powered, Class A television station licensed to Weirton, West Virginia, United States. The station was owned by OTA Broadcasting and was a satellite of WEPA-CD.
+
+==History==
+
+WJPW-CD began operation as a station licensed to Steubenville, Ohio on channel 57 with the call sign W57BH. The station was founded and owned by Bruno-Goodworth Network, Inc. as a repeater for its independent Pittsburgh class A station WBGN-LP.
+
+A move from channel 57 to channel 18 was required when NBC affiliate WTOV-TV (channel 9) was granted digital facilities on channel 57. Shortly after moving to channel 18, the WJPW-CA call-sign was granted and the station began repeating WVTX-CA (channel 28). On September 19, 2006, after WVTX-CA closed its studios in Wheeling, the station once again began to repeat WBGN-LP.
+
+On January 7, 2013, the station changed to the WJPW-CD call sign. On August 26, 2013, WJPW-CD was sold along with Bruno-Goodworth Network, Inc.'s ten other class A stations for $7.25 million to OTA Broadcasting, LLC (a company controlled by Michael Dell's MSD Capital).OTA deals for Pittsburgh-based Class A cluster
+
+On April 13, 2017, FCC announced that it had accepted OTA Broadcasting's bids totalling $73.9 million to sell the spectrum rights of five of OTA Broadcasting's stations in the Pittsburgh market in the spectrum incentive auction.FCC Broadcast Television Spectrum Incentive Auction — Auction 1001 Winning Bids Although WJPW-CD was not among them, OTA Broadcasting ceased WJPW-CD's transmissions along with them on October 25, 2017 and surrendered its license to the FCC for cancellation on October 26, 2017.
+
+==Digital channels==
+
+{| class="wikitable"
+|-
+! Channel
+! Video
+! Aspect
+! Short name
+! Programming
+|-
+| 59.1 || rowspan="3"| 480i || rowspan="3"| 4:3 || COZI TV || Cozi TV
+|-
+| 59.2 || MOVIES! || Movies!
+|-
+| 59.3 || RTV || Retro TV
+|}
+

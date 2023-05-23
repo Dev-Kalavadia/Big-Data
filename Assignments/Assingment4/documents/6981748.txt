@@ -1,0 +1,48 @@
+Title: Białogard County
+__NOTOC__
+Białogard County () is a unit of territorial administration and local government (powiat) in West Pomeranian Voivodeship, north-western Poland. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and largest town is Białogard, which lies  north-east of the regional capital Szczecin. The only other towns in the county are Karlino, lying  north-west of Białogard, and Tychowo,  south-east of Białogard.
+
+The county covers an area of . As of 2006 its total population was 48,241, out of which the population of Białogard was 24,339, that of Karlino 5,794, and the rural population 18,108 (including approximately 2,500 for the population of Tychowo, which became a town in 2010).
+
+==Neighbouring counties==
+Białogard County is bordered by Koszalin County to the north, Szczecinek County to the south-east, Świdwin County to the south and Kołobrzeg County to the north-west.
+
+==Administrative division==
+The county is subdivided into four gminas (one urban, two urban-rural and one rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km²)
+| style="text-align:center;"|Population(2006)
+| style="text-align:center;"|Seat
+|-
+|Białogard
+|urban
+| style="text-align:right;"|25.7
+| style="text-align:right;"|24,339
+| 
+|-
+|Gmina Karlino
+|urban-rural
+| style="text-align:right;"|141.0
+| style="text-align:right;"|9,168
+|Karlino
+|-
+|Gmina Białogard
+|rural
+| style="text-align:right;"|327.9
+| style="text-align:right;"|7,758
+|Białogard *
+|-
+|Gmina Tychowo
+|urban-rural
+| style="text-align:right;"|350.7
+| style="text-align:right;"|6,976
+|Tychowo
+|-
+|colspan=5 style="text-align:right;font-size:90%"|* seat not part of the gmina
+|-
+|}
+

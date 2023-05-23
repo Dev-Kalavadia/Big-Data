@@ -1,0 +1,50 @@
+Title: EpsinEpsins are a family of highly conserved membrane proteins that are important in creating membrane curvature. Epsins contribute to membrane deformations like endocytosis, and block vesicle formation during mitosis. thumb|Crystal Structure of the ENTH Domain of Rattus norvegicus Epsin1
+
+== Structure ==
+
+Epsin contains various protein domains that aid in function. Starting at the N-terminus is the ENTH domain. ENTH stands for Epsin N-Terminal Homolog. The ENTH domain is approximately 150 amino acids long and is highly conserved across species. It is composed of seven α-helices and an eighth helix that is not aligned with the seven helices that make up a superhelical fold. The role of the ENTH domain is to bind membrane lipids which is currently thought to aid in the invagination of the plasma membrane to form clathrin-coated vesicles. Additionally, located toward the C-terminus of the ENTH domain are two to three ubiquitin interacting motifs which aids in ubiquitin dependent recruitment.
+
+Following the ENTH domain there is not as much conservation in structure across species. However, in higher eukaryotes there are several conserved motifs such as the clathrin-binding motifs which bind clathrin heavy chain, these motifs flank a cluster of up to eight DP repeats which bind to AP2.
+
+== Function ==
+
+In general, most vertebrates contain at least two epsin paralogs. The two paralogs, epsin-1 and epsin-2 are members that contribute to the clathrin coated endocytotic machinery and are localized at the plasma membrane. In mammals, the two main classes of Epsins are expressed throughout tissues but has the highest expression in the brain, whereas the third Epsin has higher expression in the epidermis and the stomach. thumb|Clathrin Coated Vesicle Formation
+
+Epsins have many different domains to interact with various proteins related to endocytosis. At its N-terminus is an ENTH domain that binds phosphatidylinositol (4,5)-bisphosphate, meaning that it binds a lipid of biological membranes. It has also been postulated that this is a site for cargo-binding. In the middle of the epsin sequence are two UIMs (ubiquitin-interacting motifs). The C-terminus contains multiple binding sites, for example for clathrin and AP2 adaptors. As such, epsins are able to bind to membranes with specific cargo and connect them with the endocytosis machinery, so one may understand epsins as something like Swiss army knives for endocytosis.
+
+Epsins may be the major membrane curvature-driving proteins in many clathrin-coated vesicle budding events. In addition to its primary role as an endocytic adapter, there is evidence the epsins play a role in regulating GTPase activity which provides an alternative mechanism for epsin's role in cell polarity and migration.
+
+In addition, Epsin is thought to play a role in the Notch Signaling Pathway, which is critical for normal embryonic development. Notch Signaling is dependent on the proteolytic cleavage of the Notch receptor intracellular domain. Epsin's role in Notch Signaling is due to Notch's reliance on ligand endocytosis to release the Notch intracellular domain. This occurs through ubiquitination of the D114 notch ligand which provides a docking location of the epsin UIM domain. Current research suggest that this directing of cargo material aids in the recycling in Notch signaling as well. A study on knock out epsins 1 and 2 in mice showed embryonic death at day 10. Further investigation showed vascular defects in the embryo proper, placenta and yolk sac which are characteristic of a loss in notch signaling.
+
+== Family members ==
+
+There are four human genes encoding epsin family members, EPN1, EPN2, EPN3, and EPN4.
+
+The epsin homologue of C. elegans is EPN-1. EPN-1 conserves the UIM, ENTH domain, and clathrin-binding motif.
+
+The epsin homologue of Drosophila melanogaster is liquid facets and was first identified due to its role in eye patterning in flies.
+
+There are three Arabidopsis thaliana genes encoding epsin family members, Epsin1, Epsin2 and Epsin3 that differ in molecular weight and C - terminal domains. Epsin1 has highest expression in cotyledons and flowers while Epsin2 and Epsin3 expression is currently unknown. Little is known about the role plant Epsin plays in clathrin coated vesicle formation.
+
+== Clinical significance ==
+
+Epsin is thought to have role in the angiogenesis of tumors thus, epsin has the potential to be a target for anti-cancer therapies. Several cancers including prostate, breast, lung and skin display an up regulation in epsin. Research indicates that the overexpression could affect the regulation of tumor angiogenesis through defects in the notch pathway. There is also evidence that Epsin could lead to colon cancer through impaired Wnt Signaling by reducing the stability of the Wnt effector dishevelled, leading epsin to being a possible target for pharmaceuticals.
+
+Epsin 4, which encodes the protein enthoprotin, now known as clathrin interactor 1 (CLINT1), has been studied for a possible relationship to schizophrenia in four independent studies, though no conclusive evidence has been found in the analysis of SNPs believed to be associated with schizophrenia (rs1186922, rs254664, rs10046055). A genetic abnormality in CLINT1 is assumed to change the way internalisation of neurotransmitter receptors occurs in the brains of people with schizophrenia.
+
+== References ==
+
+
+== Further reading ==
+
+* 
+* 
+* 
+* 
+
+
+== External links ==
+*Endocytosis.org entry on epsin
+*Society for Developmental Biology entry on Liquid facets
+
+Category:Peripheral membrane proteins

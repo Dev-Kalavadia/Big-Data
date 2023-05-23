@@ -1,0 +1,341 @@
+Title: Sprinter (British Rail)
+
+
+
+
+The Sprinter is a family of diesel multiple unit trains in use on the British railway system. They were built in the 1980s and early-1990s by British Rail Engineering Limited (BREL), Metro-Cammell and Leyland. Most have Cummins engines with Voith hydraulic transmissions, although 47 Class 158 units have Perkins engines instead. Sprinters can be seen operating in almost every part of Great Britain, from rural branch lines to commuter expresses into major cities.
+
+Originally British Rail coined the "Sprinter" name for the units, mainly to promote the superior acceleration capabilities of the units compared with the first-generation DMUs they replaced. Advertisements such as "The Sprinters are coming" were locally advertised in newspapers when these trains were scheduled to be introduced. Great play was also made of, in many cases, reduced journey times.
+
+==Background==
+By the beginning of the 1980s, British Rail (BR) operated a large fleet of  first generation DMUs, which had been constructed in prior decades to various designs. While formulating its long-term strategy for this sector of its operations, British Rail planners recognised that there would be considerable costs incurred by undertaking refurbishment programmes necessary for the continued use of these aging multiple units, particularly due to the necessity of handling and removing hazardous materials such as asbestos. In light of the high costs involved in retention, planners examined the prospects for the development and introduction of a new generation of DMUs to succeed the first generation.
+
+In the concept stage, two separate approaches were devised, one involving a so-called railbus that prioritised the minimisation of both initial (procurement) and ongoing (maintenance & operational) costs, while the second was a more substantial DMU that could deliver superior performance than the existing fleet, particularly when it came to long-distance services. The initial specification developed for the latter type was relatively ambitious for the era, calling for a maximum speed of 90 mph (145 km/h), a rate of acceleration compatible to contemporary EMUs, the ability to couple/work in multiple with existing EMUs, facilitate through-access for passengers, feature pressure ventilation, the ability to assist another failed unit, and to comprise either a three or four-car consist.
+
+This specification led to the development of the experimental British Rail Class 210 DMU. However, to deliver the performance specified, it was found that relatively expensive equipment had to be used, particularly to provide sufficient speed, acceleration, and through-passenger access; it also had maintainability problems due to space limitations. Despite these shortcomings, it was recognised that a production fleet that was assembled from proven components would possess both a greater reliability level and lower maintenance costs; it was forecast to achieve an availability rate of 85 percent. As such, the type had sufficiently demonstrated a promising reduction in maintenance costs was achievable, especially once initial teething problems were dealt with, as well as the wider value represented by a new generation of DMUs in the reduction of ongoing costs for BR.
+
+By 1983, experiences with the Class 210 had influenced planners to favour the procurement of a new generation of DMUs, but to also adopt a new set of specifications that were somewhat less demanding than the prior set. Specifically, it was decided to drop the top speed from 90 mph to 75 mph, as testing had revealed the higher speed did not deliver any perceivable improvement in journey times due to the typically short spacing of the stations the type was intended to serve. Furthermore, it was determined that a propulsion system delivering 7 hp per tonne would deliver sufficient acceleration. The requests for compatibility with other rolling stock were eliminated, although auto-coupling and auto-connecting functionality was added. In addition to a good ride quality, the specification included a sound level of 90 dB when at full speed, an operational range of 1,000 miles, and an interval between major overhauls of five years or 350,000 miles.
+
+In comparison to the prior generation of DMUs, which typically used a pair of engines for each power car, the new generation DMU would only use a single engine per car; sufficient cooling was also provided that even with one failed engine, a two-car unit could continue to perform typical services without incurring a major performance deficient. For an operational perspective, it was intended that the DMU could be assembled akin to building blocks, comprising between two and four cars that may or may not be outfitted with various passenger amenities such as toilets and luggage spaces. 
+
+Initially formalised as a business specification, these requirements were transferred into a relatively broad technical specification that avoided any specifics other than those that were deemed essential for compatibility purposes. Thereafter, it was issued to various rolling stock manufacturers for a competitive tender. As a part of this process, these manufacturers submitted bids to construct an initial series of three-car prototypes as demonstration units. A relatively constrained timetable of only 18 months between the date of order to delivery of these prototypes was also specified; this has been attributed as having restricted manufacturers to overwhelming lean towards existing industrial practices for their submissions.
+
+In response to the specification, several submissions were received by BR. The bid submitted by British Rail Engineering Limited (BREL) was heavily based on its successful Class 455 EMU, sharing its body and the majority of its running gear, albeit equipped with two different power trains. The railway engineering company Metro-Cammell also bid, offered its own design that employed rivetted aluminium construction; this feature was attributed as enabling a meaningful reduction in weight over conventional methods. BR officials quickly opted to proceed with a pair of prototypes from both BREL and Metro-Cammell, issuing orders to these manufacturers henceforth.
+
+==Prototypes==
+Two companies, BREL and Metro-Cammell, built 2 x three coach prototypes for the first batch of Sprinters, the Class 150/0 and Class 151.
+
+{| class="wikitable"
+|----- bgcolor=#f9f9f9
+! rowspan="2" | Class 
+! rowspan="2" |Image
+! colspan="2" | Top speed 
+! rowspan="2" | Number 
+! rowspan="2" | Built 
+! rowspan="2" | Notes 
+|----- bgcolor=#f9f9f9
+! mph 
+! km/h 
+|-
+|150/0
+|100px
+| align="center" rowspan="2" |75
+| align="center" rowspan="2" |121
+| align="center" rowspan="2" |2
+|align=center|1984
+|One of these BREL prototypes was very similar to the production Class 150 units, with a Cummins engine and Voith gearbox. The other was fitted with a Rolls-Royce engine and Self Changing Gears (SCG) transmission. The latter unit would suffer various problems with both of these components, but would later become the only Class 154 and was used as a Class 158 testbed.Class 150 Sprinter Prototype
+|-
+|151
+|100px
+| align="center" rowspan="2" |1985
+|Built by Metro-Cammell, these featured the same Cummins engine as the Class 150. They had aluminium body shells and  American Twin Disc hot-shift gearboxes. They suffered from a jerky, violent gearshift, which was never fully rectified. BREL's Class 150 design won the contract from British Rail, and the Class 151 never entered production.Class 151 Sprinter Prototype
+|-
+|154
+|100px
+|align=center|90
+|align=center|145
+|align=center|1
+|A class of a single unit, this unit had been converted from a Class 150 prototype, fitted with a different engine and gearbox to the production Class 150s. It became a Class 158 testbed; its problematic gearbox was replaced with an improved  American Twin-Disc hot shift transmission with different control software, which finally resulted in smooth gear-changes, and air conditioning was also fitted. Converted back to a standard Class 150.Class 154 experimental DMU
+|}
+
+==Production units==
+{| class="wikitable"
+|----- bgcolor=#f9f9f9
+!  Class 
+!  1 car Set 
+!  2 car Set 
+!  3 car Set 
+!  Total Sets 
+!  Total Cars 
+|- bgcolor=#f9f9f9
+|Class 150
+|align=center|–
+|align=center|132
+|align=center|2
+|align=center|134
+|align=center|273
+|-
+|Class 153
+|align=center|70
+|align=center|–
+|align=center|–
+|align=center|70
+|align=center|70
+|-
+|Class 155
+|align=center|–
+|align=center|7
+|align=center|–
+|align=center|7
+|align=center|14
+|-
+|Class 156
+|align=center|–
+|align=center|114
+|align=center|–
+|align=center|114
+|align=center|228
+|-
+|Class 158
+|
+|align=center|147
+|align=center|21
+|align=center|168
+|align=center|357
+|-
+|Class 159
+|align=center|–
+|align=center|–
+|align=center|30
+|align=center|30
+|align=center|90
+|-
+!Totals
+|align=center|70
+|align=center|397
+|align=center|56
+|align=center|523
+|align=center|1032
+|}
+
+The production units were all built as two coach units, with the exception of 17 Class 158s and the 22 Class 159 units, which were built with an additional centre car. The Class 153 railcars were converted from the two coach Class 155s.
+
+Class 150, 153, 155, and 156 units have no air-conditioning and a top speed of ; Classes 158 and 159 have air conditioning and a top speed of . All units except the first two batches of Class 150s have outer-end gangways, allowing passengers to walk between trains working in multiple.
+
+All trains in the Sprinter family have BSI couplers which allow them to work in multiple with any other trains in the Sprinter family and also , ,  and  units. However, they cannot work in multiple with  or  units due to incompatible wiring arrangements.
+
+===Class 150 Sprinter===
+alt=|thumb|Class 150/1
+
+
+These were designed as commuter units and are fitted with 5 abreast seating and doors fitted at 1 and 2 thirds down the length of each car, unique amongst the Sprinter family. For the era, the Class 150 provided exceptional ride quality; it also was fully compliant with BR's 50 percent engine-out performance requirements. Early units had no end gangway, therefore in multiple-working with other Sprinter units passengers can not move between units. The 150/2s do feature end gangways, as well as two-by-two airline seating.
+
+====150/0====
+Currently operated by
+*Northern Trains
+
+====150/1====
+Currently operated by:
+
+*Northern Trains
+
+====150/2====
+Currently operated by:
+*Great Western Railway
+*Northern Trains
+*Transport for Wales
+
+====Class 950====
+
+In addition to the standard Class 150 units, a single two-car DMU was constructed using the same bodyshell for use as a track assessment unit on stretches of line where heavier stock cannot be safely used. This unit was initially classified as Class 180, but was reclassified in the departmental series as Class 950 upon the entry into service of the Class 180 Adelante units.
+
+=== Class 153 Super Sprinter ===
+
+
+These single-car units were originally built as two-car Class 155 units by Leyland from 1987 to 1988, but were converted by Hunslet-Barclay at Kilmarnock from 1991 to 1992. The class was built for lightly used lines, replacing first generation single coach units. The conversion involved building a new cab at the original inner ends of the vehicles. The layout of the original non-cab ends was subtly different from the original cab end, so the ends are noticeably different, and the vehicle not symmetrical. The new cab is significantly smaller than the original Leyland cab and pushes back into the door area.
+
+Currently operated by
+*Abellio ScotRail
+*Transport for Wales
+
+===Class 155 Super Sprinter===
+
+
+Early on, it was recognised that the Class 150 would be unsatisfactory in some criteria for more-upmarket services, but that a derivative of the type would likely better handle these services. Thus, such DMUs were built by British Leyland at Workington (using a body construction technology derived from the Leyland National bus) between 1987 and 1988. They have a top speed of . Changes from the Class 150 include was the discarding of openable windows in favour of fully-sealed units, while the external doors were relocated into vestibules located at either ends of each coach to reduce internal noise levels. Furthermore, the coaches were stretched to provide more internal volume and thus enabling the somewhat cramped two-by-three seating arrangement of the Class 150 to be substituted with a more roomy two-by-two counterpart. These changes could be implemented without impacting much of the benefits of adopting the existing design, although did result in an increased weight and thus a decreased power-to-weight ratio. Of the original 42 units built, only 7 remain, due to the majority having been converted into the Class 153.
+
+Currently operated by
+*Northern Trains
+
+===Class 156 Super Sprinter===
+
+
+The Class 156 units were built from 1987 to 1989 by Metro-Cammell (now owned by Alstom) at their Washwood Heath Works in Birmingham. The vehicles, like the Class 155s, have a single leaf sliding door at either end of each coach - this feature reflected the anticipated longer journeys (with fewer stops) that the Class 156 was supposed to operate. They have a top speed of . They feature medium density (2+2) seating.
+
+Currently operated by:
+*Abellio ScotRail
+*East Midlands Railway
+*Northern Trains
+
+===Class 158 Express Sprinter===
+
+
+The Class 158 "Express Sprinter" units were built from 1989 to 1992 by BREL at Derby Litchurch Lane Works to replace elderly 'heritage' DMUs and locomotive-hauled passenger trains. Compared with previous members of the Sprinter family, specifically the venerable Class 156 Super Sprinter, the Class 158 is much better suited to longer journeys with fewer stops and provides a much quieter and more comfortable environment. They are fully air-conditioned (except the driver's cabs) with provision for a trolley refreshment service and an increased top speed of . They feature medium density (2+2) seating in standard class and, on applicable examples, low density (2+1) seating in first class.
+
+They are mostly fitted with Cummins engines, with the remaining 47 fitted with Perkins engines.
+
+Currently operated by:
+*Abellio ScotRail
+*East Midlands Railway
+*Great Western Railway
+*Northern Trains
+*South Western Railway
+and exported versions for State Railway of Thailand (differences include inward opening slam doors rather than plug doors and 4 carriages rather than 2 or 3 in the UK)
+
+===Class 159 South Western Turbo===
+
+These 90 mph trains were originally built as 3 car class 158s, but converted before entry into service. Twenty-two 3-car units were built for Network SouthEast's West of England and from London Waterloo to Salisbury, Yeovil and Exeter. They were used to replace Class 50 and Class 47 locomotive-hauled passenger trains. Units tend to operate in six or nine coach formations between Waterloo and Salisbury and in three or six coach formations between Salisbury and Exeter. South West Trains used to operate services from London Waterloo to Paignton, Plymouth and Penzance, but all services west of Exeter were withdrawn at the end of 2009.
+
+Some surplus three coach Class 158 units, which were transferred to the West of England route in 2007, have been refurbished to Class 159 standards, and have been renumbered as Class 159/1
+
+Currently operated by
+*South Western Railway
+
+==Proposed==
+In addition to the production types, there were two types of Sprinter proposed that were in the event not proceeded with.
+
+=== Class 152 Super Sprinter ===
+In the early 1990s, as a cost saving measure on underused rural routes, British Rail proposed converting the 2-car Class 156 into single car units, which were named as Class 152. Although the single car Sprinter did go ahead, it was eventually decided to convert the Class 155, which became the Class 153.
+
+=== Class 157 Strathclyde Sprinter ===
+
+In the 1990s, Strathclyde Passenger Transport was looking to update the fleet that was used to operate commuter and suburban services in and around Glasgow, with a new Sprinter type intended to be procured, which became Class 157. However, due to British Rail's financial limits at the time leading up to privatisation, these units were not ordered, with Class 170s eventually being procured.
+
+==Variations==
+{| class="wikitable"
+|-
+! Class !! Image !! Operator !! Introduced !! Number !! Carriages !! End Gangways!! Notes
+|-
+||150 
+|100x100px
+|
+* Great Western Railway
+* Northern Trains
+* Transport for Wales
+|align=center|1984–87
+|align=center|137
+|align=center|2 (/1 & /2)3 (/0 & /9)
+|align=center|No (/0 & /1)Yes (/2 & /9)
+|
+|-
+||151
+|100px
+|
+* Regional Railways
+|align=center|1985
+|align=center|2
+|align=center|3
+|align=center|No
+|Scrapped in 2004
+|-
+|152
+|align=center|
+|colspan=3|Planned conversion of Class 156 to single car
+|rowspan="2"align=center|1
+|rowspan="2"align=center|Yes
+|Never built
+|-
+|153
+|100x100px
+|
+* Abellio ScotRail
+* Transport for Wales
+|align=center|1991–92
+|align=center|70
+|Converted from Class 155
+|-
+|154
+|100px
+|
+*Regional Railways
+|align=center|1985
+|align=center|1
+|rowspan="4"align=center|2 
+|align=center|No
+|Converted from and back to Class 150
+|-
+|155
+|100x100px
+|
+*Northern Trains
+|align=center|1987–88
+|align=center|42
+|rowspan="2"align=center|Yes
+|35 units converted to Class 153
+|-
+|156
+|100x100px
+|
+* Abellio ScotRail
+* East Midlands Railway
+*Northern Trains
+|align=center|1987–89
+|align=center|114 
+|
+|-
+|157
+|
+|colspan=3|Planned regional units
+|align=center|No
+|Never built
+|-
+|158
+|100px
+|
+*Abellio ScotRail
+*East Midlands Railway
+*Great Western Railway
+*Northern Trains
+* South Western Railway
+* Transport for Wales
+|align=center|1989–92
+|align=center|170
+|align=center|2 or 3
+|rowspan="2"align=center|Yes 
+| 
+|-
+|159
+|100x100px
+|
+*South Western Railway
+|align=center|1989–93
+|align=center|30
+|align=center|3
+|
+|-
+|950
+|100px
+|
+*Network Rail
+|align=center|1985–86
+|align=center|1
+|align=center|2
+|align=center|No
+|Network Rail measurement unit
+|-
+|Thailand ASR
+|
+|
+*State Railway of Thailand
+|align=center|1990–91
+|align=center|12
+|align=center|3
+|align=center|Yes
+|Built to Thailand's metre gauge
+|}
+
+==Replacement==
+
+As many Sprinters are now 30 years old, train operating companies are beginning to replace them. For example, London Midland decided to replace their  Class 150 fleet with Class 172s from 2010.
+
+Class 158s have been augmented or replaced by Class 170 and Class 175 units, allowing these to be cascaded to replace older Sprinters, which in turn replace Pacer trains. Class 158s still operate the five hour journey from Norwich to Liverpool Lime Street and also the four hour Birmingham International to Holyhead journey, replacing Class 175 for use on other long-distance services. Transport for Wales Rail plan to replace its Class 150, 153, and 158 units with brand new CAF Civity diesel multiple units by 2023.
+

@@ -1,0 +1,10 @@
+Title: ATM-74 mineThe ATM-74 is a North Korean wooden box mine, it is a copy of the Soviet TMD-B. It is a wooden box packed with blocks of TNT, the top of the mine has three planks of wood underneath the central plank is a pressure fuze similar to Soviet MV-5 pressure fuze.
+
+==Specifications==
+* Length: 320 mm
+* Width: 290 mm
+* Height: 160 mm
+* Weight: 9 kg
+* Explosive content: 6 kg of TNT
+* Operating pressure: 200 to 500 kg
+

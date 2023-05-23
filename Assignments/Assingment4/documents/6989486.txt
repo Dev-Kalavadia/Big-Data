@@ -1,0 +1,20 @@
+Title: Transductor
+
+A transductor is type of magnetic amplifier used in power systems for compensating reactive power.  It consists of an iron-cored inductor with two windings - a main winding through which an alternating current flows from the power system, and a secondary control winding which carries a small direct current.  By varying the direct current, the iron core of the transductor can be arranged to saturate at different levels and thus vary the amount of reactive power absorbed.
+
+Transductors were widely used before the advent of solid-state electronics but today have been largely replaced by power electronic devices such as the Static VAR compensator and STATCOM.
+
+A formerly common use for Transductors was in CRT displays, to correct a distortion called pincushion distortion, where the side of the picture bowed in at the centre as a result of the geometry of large deflection angles.  It would have one set of windings in the horizontal deflection circuit and the other set in the vertical; the action of the transductor caused the deflection waveforms to modulate each other - reducing line scan at the top and bottom (where the magnetization from the vertical deflection waveform was greatest) and similarly on the vertical waveform (where the magnetization from horizontal scan current was greatest).
+
+An additional use for the transductor, prior to Hall effect devices, was as a feedback transducer for large dc current measurement.  The dc bus to be measured passed through the center of the toroidal iron core saturable reactor and 120vac excitation was applied to the winding around the iron core.  As the current in the dc bus increased, the iron saturated more and more, which in turn allowed a higher level of ac current to flow.  This ac current was then rectified as an output signal proportional to the bus current. In this manner, dc currents of 30,000 amps or more could be accurately measured without electrically bonding to the bus.
+ 
+==See also==
+* Saturable reactor
+
+== References ==
+
+* 
+
+Category:Electromagnetic components
+
+

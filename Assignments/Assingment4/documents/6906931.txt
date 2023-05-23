@@ -1,0 +1,435 @@
+Title: List of municipalities of the Province of Caserta
+
+The following is a list of the 104 municipalities (comuni) of the Province of Caserta, Campania, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|061001
+|Ailano
+| align="right" |1,443
+|-
+|061002
+|Alife
+| align="right" |7,372
+|-
+|061003
+|Alvignano
+| align="right" |4,938
+|-
+|061004
+|Arienzo
+| align="right" |5,262
+|-
+|061005
+|Aversa
+| align="right" |53,051
+|-
+|061006
+|Baia e Latina
+| align="right" |2,334
+|-
+|061007
+|Bellona
+| align="right" |5,095
+|-
+|061008
+|Caianello
+| align="right" |1,791
+|-
+|061009
+|Caiazzo
+| align="right" |5,836
+|-
+|061010
+|Calvi Risorta
+| align="right" |5,904
+|-
+|061011
+|Camigliano
+| align="right" |1,808
+|-
+|061012
+|Cancello e Arnone
+| align="right" |5,164
+|-
+|061013
+|Capodrise
+| align="right" |8,135
+|-
+|061014
+|Capriati a Volturno
+| align="right" |1,683
+|-
+|061015
+|Capua
+| align="right" |19,081
+|-
+|061016
+|Carinaro
+| align="right" |6,729
+|-
+|061017
+|Carinola
+| align="right" |8,164
+|-
+|061018
+|Casagiove
+| align="right" |14,810
+|-
+|061019
+|Casal di Principe
+| align="right" |20,158
+|-
+|061020
+|Casaluce
+| align="right" |9,782
+|-
+|061021
+|Casapulla
+| align="right" |8,339
+|-
+|061022
+|Caserta
+| align="right" |79,488
+|-
+|061023
+|Castel Campagnano
+| align="right" |1,657
+|-
+|061024
+|Castel di Sasso
+| align="right" |1,207
+|-
+|061025
+|Castello del Matese
+| align="right" |1,468
+|-
+|061026
+|Castel Morrone
+| align="right" |4,007
+|-
+|061027
+|Castel Volturno
+| align="right" |21,444
+|-
+|061028
+|Cervino
+| align="right" |5,137
+|-
+|061029
+|Cesa
+| align="right" |7,748
+|-
+|061030
+|Ciorlano
+| align="right" |508
+|-
+|061031
+|Conca della Campania
+| align="right" |1,385
+|-
+|061032
+|Curti
+| align="right" |7,127
+|-
+|061033
+|Dragoni
+| align="right" |2,147
+|-
+|061034
+|Fontegreca
+| align="right" |866
+|-
+|061035
+|Formicola
+| align="right" |1,492
+|-
+|061036
+|Francolise
+| align="right" |4,918
+|-
+|061037
+|Frignano
+| align="right" |8,570
+|-
+|061038
+|Gallo Matese
+| align="right" |724
+|-
+|061039
+|Galluccio
+| align="right" |2,381
+|-
+|061040
+|Giano Vetusto
+| align="right" |663
+|-
+|061041
+|Gioia Sannitica
+| align="right" |3,656
+|-
+|061042
+|Grazzanise
+| align="right" |6,835
+|-
+|061043
+|Gricignano di Aversa
+| align="right" |9,221
+|-
+|061044
+|Letino
+| align="right" |789
+|-
+|061045
+|Liberi
+| align="right" |1,198
+|-
+|061046
+|Lusciano
+| align="right" |13,494
+|-
+|061047
+|Macerata Campania
+| align="right" |10,410
+|-
+|061048
+|Maddaloni
+| align="right" |38,150
+|-
+|061049
+|Marcianise
+| align="right" |40,139
+|-
+|061050
+|Marzano Appio
+| align="right" |3,013
+|-
+|061051
+|Mignano Monte Lungo
+| align="right" |3,339
+|-
+|061052
+|Mondragone
+| align="right" |26,558
+|-
+|061053
+|Orta di Atella
+| align="right" |15,703
+|-
+|061054
+|Parete
+| align="right" |10,597
+|-
+|061055
+|Pastorano
+| align="right" |2,525
+|-
+|061056
+|Piana di Monte Verna
+| align="right" |2,488
+|-
+|061057
+|Piedimonte Matese
+| align="right" |11,702
+|-
+|061058
+|Pietramelara
+| align="right" |4,594
+|-
+|061059
+|Pietravairano
+| align="right" |3,065
+|-
+|061060
+|Pignataro Maggiore
+| align="right" |6,572
+|-
+|061061
+|Pontelatone
+| align="right" |1,847
+|-
+|061062
+|Portico di Caserta
+| align="right" |7,156
+|-
+|061063
+|Prata Sannita
+| align="right" |1,677
+|-
+|061064
+|Pratella
+| align="right" |1,689
+|-
+|061065
+|Presenzano
+| align="right" |1,697
+|-
+|061066
+|Raviscanina
+| align="right" |1,367
+|-
+|061067
+|Recale
+| align="right" |7,264
+|-
+|061068
+|Riardo
+| align="right" |2,494
+|-
+|061069
+|Rocca d'Evandro
+| align="right" |3,608
+|-
+|061070
+|Roccamonfina
+| align="right" |3,727
+|-
+|061071
+|Roccaromana
+| align="right" |1,045
+|-
+|061072
+|Rocchetta e Croce
+| align="right" |517
+|-
+|061073
+|Ruviano
+| align="right" |1,873
+|-
+|061074
+|San Cipriano d'Aversa
+| align="right" |12,767
+|-
+|061075
+|San Felice a Cancello
+| align="right" |17,274
+|-
+|061076
+|San Gregorio Matese
+| align="right" |1,034
+|-
+|061077
+|San Marcellino
+| align="right" |12,087
+|-
+|061078
+|San Nicola la Strada
+| align="right" |19,975
+|-
+|061079
+|San Pietro Infine
+| align="right" |985
+|-
+|061080
+|San Potito Sannitico
+| align="right" |1,943
+|-
+|061081
+|San Prisco
+| align="right" |10,928
+|-
+|061082
+|Santa Maria a Vico
+| align="right" |13,827
+|-
+|061083
+|Santa Maria Capua Vetere
+| align="right" |31,031
+|-
+|061084
+|Santa Maria la Fossa
+| align="right" |2,751
+|-
+|061085
+|San Tammaro
+| align="right" |4,558
+|-
+|061086
+|Sant'Angelo d'Alife
+| align="right" |2,389
+|-
+|061087
+|Sant'Arpino
+| align="right" |13,774
+|-
+|061088
+|Sessa Aurunca
+| align="right" |22,877
+|-
+|061089
+|Sparanise
+| align="right" |7,461
+|-
+|061090
+|Succivo
+| align="right" |7,158
+|-
+|061091
+|Teano
+| align="right" |12,897
+|-
+|061092
+|Teverola
+| align="right" |11,407
+|-
+|061093
+|Tora e Piccilli
+| align="right" |1,038
+|-
+|061094
+|Trentola-Ducenta
+| align="right" |15,172
+|-
+|061095
+|Vairano Patenora
+| align="right" |6,330
+|-
+|061096
+|Valle Agricola
+| align="right" |1,086
+|-
+|061097
+|Valle di Maddaloni
+| align="right" |2,711
+|-
+|061098
+|Villa di Briano
+| align="right" |5,771
+|-
+|061099
+|Villa Literno
+| align="right" |10,608
+|-
+|061100
+|Vitulazio
+| align="right" |5,613
+|-
+|061101
+|Falciano del Massico
+| align="right" |3,831
+|-
+|061102
+|Cellole
+| align="right" |7,560
+|-
+|061103
+|Casapesenna
+| align="right" |6,652
+|-
+|061104
+|San Marco Evangelista
+| align="right" |6,022
+|-
+|
+|Total
+| align="right" |879,342
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

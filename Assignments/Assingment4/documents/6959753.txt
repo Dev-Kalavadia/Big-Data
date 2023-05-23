@@ -1,0 +1,71 @@
+Title: Namco Bandai Partners
+
+
+Namco Bandai Partners S.A.S. (formerly Distribution Partners SAS) was a video game distribution company that was an amalgamation of several former Atari SA (formerly known as Infogrames Entertainment SA) offices located in PAL territories, which were acquired beginning in 2009 by Bandai Namco Holdings.
+
+==History==
+Atari and Namco had long maintained a cross-publishing relationship that can be traced back to the very origins of Namco, and Atari's liquidation of regional assets was a natural opportunity for Namco Bandai to gain a PAL distribution network.
+
+On September 9, 2008, Infogrames and Namco Bandai Games Europe announced a new joint-venture known as Distribution Partners. The distribution arms of both businesses were regrouped into a standalone entity with exclusive physical packaged-goods distribution rights for video games produced by Namco Bandai and Infogrames within Infogrames European and Asian territories. Along the way, Namco Bandai's parent company acquired a 34% stake in Atari's European and Asian businesses. The acquisitions came on the heels of Infogrames and Atari's financial difficulties, which had begun to snowball in 2006. The venture would trade worldwide, excluding North America and Japan.
+
+On March 25, 2009, Atari announced they would leave the European and Asian markets and sell off their 66% stake in Distribution Partners within the next four months to Namco Bandai Games, although they would still retain a five-year distribution deal in the venture. This move was done so Atari could focus on the MMO market. The purchase was completed on July 7, and Distribution Partners was renamed Namco Bandai Partners in immediate effect, alongside all of Atari's European and Australian distribution subsidiaries being renamed under the Namco Bandai Partners umbrella as well. Because of the existing distribute deal planned beforehand, Namco Bandai Partners would continue to distribute Atari's games, which included titles such as Champions Online. and also distribute titles from other publishers, such as Cities XL from Monte Cristo.
+
+On April 16, 2010, it was announced that the company had signed an agreement deal with Sony Computer Entertainment to allow them to distribute and publish the game Demon's Souls for PAL-region territories. This followed news after Sony's European publishing division and Atlus, who published the game in North America, made announcements that they had no plans to bring the title over to PAL-regions.
+
+On 1 July 2013, Namco Bandai Partners merged its operations with Namco Bandai Games Europe, with the latter now handling distribution of games through both Europe and Australia. This was done out of the parent company's desire in merging its publishing and distribution divisions together to help unify the Namco Bandai brand.
+
+==Titles==
+{| class="wikitable sortable"
+! Game || Release || Publisher || Platform(s) || Source
+|-
+| Champions Online || 4 September 2009 || Atari || Microsoft Windows ||
+|-
+|Katamari Forever || 18 September 2009 || Namco Bandai Games || PlayStation 3 ||
+|-
+|Family Trainer: Extreme Challenge || 25 September 2009 || Namco Bandai Games || Wii ||
+|-
+|One Piece: Unlimited Cruise Episode 2: Awakening of a Hero || 25 September 2009 || Namco Bandai Games || Wii ||
+|-
+|Cities XL || 8 October 2009 || Monte Cristo || Microsoft Windows ||
+|-
+|Dragon Ball: Revenge of King Piccolo || 30 October 2009 || Namco Bandai Games || Wii ||
+|-
+|Tekken 6 || 30 October 2009 || Namco Bandai Games || PlayStation 3, Xbox 360 ||
+|-
+|Ghostbusters: The Video Game || 6 November 2009 || Atari || Xbox 360, Wii, Microsoft Windows, Nintendo DS ||
+|-
+|Tales of Symphonia: Dawn of the New World || 13 November 2009 || Namco Bandai Games || Wii ||
+|-
+|Dragon Ball: Raging Blast || 13 November 2009 || Namco Bandai Games || PlayStation 3, Xbox 360 ||
+|-
+|Star Trek Online || 5 February 2010 || Atari || Microsoft Windows ||
+|-
+|Project Runway || 18 June 2010 || Atari || Wii ||
+|-
+|Demon's Souls || 25 June 2010 || Sony Computer Entertainment || PlayStation 3 ||
+|-
+|Test Drive Unlimited 2 || 11 February 2011 || Atari || Microsoft Windows, PlayStation 3, Xbox 360 ||https://qj.net/test-drive-unlimited-2-other-namco-bandai-games-dated/
+|-
+|Atari Greatest Hits: Volume 1 || 25 February 2011 || Atari || Nintendo DS ||
+|-
+|The Witcher 2: Assassins of Kings || 17 May 2011 || CD Projekt || Microsoft Windows ||
+|-
+|The Witcher 2: Assassins of Kings || 17 April 2012 || CD Projekt || Xbox 360 ||
+|-
+|RollerCoaster Tycoon 3D || 26 October 2012 || Atari || Nintendo 3DS ||
+|}
+
+== References ==
+
+
+
+== External links ==
+*
+
+
+
+Category:Video game companies established in 2009
+Category:Video game companies disestablished in 2013
+Category:Atari
+Category:Defunct video game companies of France
+Category:Former Bandai Namco Holdings subsidiaries

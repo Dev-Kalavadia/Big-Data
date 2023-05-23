@@ -1,0 +1,56 @@
+Title: Two-pore channel
+
+
+
+
+Two-pore channels (TPCs) are eukaryotic intracellular voltage-gated and ligand gated cation selective ion channels. There are two known paralogs in the human genome, TPC1s and TPC2s. In humans, TPC1s are sodium selective and TPC2s conduct sodium ions, calcium ions and possibly hydrogen ions. Plant TPC1s are non-selective channels. Expression of TPCs are found in both plant vacuoles and animal acidic organelles. These organelles consist of endosomes  and lysosomes. TPCs are formed from two transmembrane non-equivalent tandem Shaker-like, pore-forming subunits, dimerized to form quasi-tetramers. Quasi-tetramers appear very similar to tetramers, but are not quite the same. Some key roles of TPCs include calcium dependent responses in muscle contraction(s), hormone secretion, fertilization, and differentiation. Disorders linked to TPCs include membrane trafficking, Parkinson's disease, Ebola, and fatty liver.
+
+As implied by their name, TPC channels possess two pores and were named for their two Shaker-like repeats, which each have a pore domain. This contrasts with two-pore-domain potassium channels, which confusingly have only one pore and were named for the fact that each subunit has two P (pore) domains in its primary sequence.
+
+== History and discovery ==
+Although much is left to be discovered about TPC function, they have been extensively studied thus far. Many questions have been raised about the specific function of TPC channels, as well as the ions and molecules that appear to be most closely affiliated with these channels. Some of these ions are sodium, calcium, and NAADP. Present knowledge of TPCs has come from experiments done on mice and plants, especially Arabidopsis thaliana. Additionally, because of the localization of these channels in mammals, it is difficult to use electrophysiological recordings on them. Therefore, these TPC channels have to be expressed in alternative compartments or organelles of the cell, such as plant vacuoles to be studied using the electrophysiological methods – especially the patch clamp technique. In order to clearly visualize the plant vacuoles, scientists have relied on fluorescent microscopy in their experiments. Using these techniques, scientists have been able to collect significant qualitative data in order to make conclusions about mammalian TPC functions. Specifically, scientists were able to conclude that human TPC are predominantly voltage-dependent sodium channels, and that PI(3,5)P2, an endolysosome-specific phosphoinositide (PIP), is a direct activator of TPC channels while NAADP is actually not an activator as it was once previously assumed to be.
+
+== Structure and domains ==
+At the mouth of the TPC pore, there are four amino acid residues with negative charges that can interact with ions that pass through. This site is too wide to select ions. Below the group of negative charges is the selectivity filter which is largely hydrophobic. There are two non-identical Shaker-like pore forming subunits. Subunit 1 consists of voltage sensing domain 1 (VSD1) and subunit 2 consists of the voltage sensing domain 2 (VSD2). The two subunit domains are separated by an EF-hand domain that has a calcium ion binding motif. This binding motif can facilitate channel activation by cytosolic calcium ions. Each of the two subunits are built from 12 transmembrane helices. The two central pore domains are combined from the voltage sensing domains, VSD1 and VSD2. Both the N-terminal domain (NTD) and C-terminal domain (CTD) extend out on the cytosolic side, along with the EF-hand domain in the center that extends into the cytoplasm. The EF-hand domain extends into the cytosol, positioned between VSD1 and VSD2, where it can be activated by cytosolic calcium. The VSD2 domain is voltage sensitive active and can be inhibited by calcium in the lumen. This is a conformation change from the activation state to the inactive state. Two rings of hydrophobic residues seal the pore cavity from the cytoplasm; this results in forming the pore gate. Voltage sensors, selectivity filter, and the gate work together in a coordinated manner to open and close TPCs for regulation of ion conductance.thumb|A depiction of Two-Pore Channel 2 (TPC2). There are two domains, labelled I and II. A pore exists in each domain, as labeled by P.
+Adapted from image in Grimm, C. et al. "Role Of TRPML And Two-Pore Channels In Endolysosomal Cation Homeostasis". Journal of Pharmacology and Experimental Therapeutics 342.2 (2012): 236–244. Web.
+
+
+The VSD2 domain contains a normal voltage sensing motif, arginine residues R1, R2 and R3 and alpha helix S10, in respect to other voltage-gated ion channels structures, but this domain adopts a distinct conformation in the resting state of a voltage sensor. Luminal calcium acts as a TPC1 inhibitor, preventing ion conductance. There are two calcium binding sites for VSD2 on the luminal side. The first site does not affect the channel. Site 2, composed of residues in VSD2 and the pore domain, inhibits the channel by shifting the voltage dependence to more positive voltages.
+
+Activation of TPCs is induced by a decrease in transmembrane potential, or by an increase in calcium concentrations in the cytosol. Low pH of the lumen and low calcium concentration could cause inhibition of these channels. TPCs are also phosphorylation-gated channels in both animals as well as plants. Sites of phosphorylation are at the N-terminal and C-terminal domains. These terminals are positioned to provide allosteric change in order to be activated by calcium from the cytosol.
+
+Human and plant TPCs are multi-modal for conductance. The mechanism for channel opening is likely contributed to a combination of calcium concentrations, voltage, and phosphoregulation integration, in order to govern the conduction of ions through TPCs.
+
+== Biological roles (function/dysfunction) ==
+Two-pore channels were analyzed by using cell biological methods, endolysosomal patch clamp techniques, and a variety of other methods to study their functions. From these, it was suggested that TPCs have some power in controlling the luminal pH in endolysosomal vesicles. When TPC2 expression is decreased or knocked out, there is a resultant elevation in production of melanin and thus melanosomal pH, and when TPC2 expression is increased, there is less production of melanin.
+
+TPCs also are involved in nutrient detection as they become active constitutively on identifying the status of the nutrients. This is done by direct communication between the TPCs and mammalian/mechanistic targets of rapamycin (mTORs), which are associated with detecting levels of oxygen, nutrients, and energy in the cells and thus help with regulation of metabolism. This is how the TPCs play a role in this physiological regulation through this interaction.
+
+TPCs regulate sodium and calcium ion conductance, intravasicular pH, and trafficking excitability. The second messenger nicotinic acid adenine dinucleotide phosphate (NAADP) has been shown to mediate calcium release from these acidic organelles through TPCs. TPC2s are NAADP-gated calcium release channels where these TPC currents can be blocked by NAADP antagonists. TCP2 plays a critical role in the endocytosis allowing SARS-CoV-2 virus to enter cells.
+
+Various ailments can occur from the knockdown of these channels, from metabolic and general infectious diseases to even cancer. The pathological conditions due to this lacking of TPCs are covered in the following sections.
+
+=== Membrane trafficking ===
+TPCs play an integral role in membrane trafficking pathways.  They are sectioned in endosomes and lysosomes, especially functioning in endo-lysosomal fusions. TPC trafficking activity has been noted to be conserved; but modifying TPCs affects transportation in the endocytotic pathway. The exact roles of TPCs are specific to cell type and context. These channels are permeable to calcium, making them function as Ca2+ ion channels. When stimulated by NAADP – a second messenger for TPCs –, calcium is released into the cytosol. The influx of calcium is what regulates the fusion between the endosome and lysosomes and what mediates trafficking events. When the function of TPCs are lost, substrates accumulate creating congestion. When the function of TPCs are increased, the lysosome becomes enlarged – which logically relates to increased fusion events with the endosome to lysosome.
+
+=== Parkinson's disease ===
+One implication of membrane trafficking dysfunction leads to Parkinson's disease. Mutations to LRRK2 enzyme alter autophagy dependent upon NAADP and TPC2. The mutation increases the amount of Ca2+ flow through TPC2 by NAADP evoked signals. This increase in signaling leads to an increase in size of the lysosomes due to the increased rate and amount of fusion. The lysosome, therefore, is not able to break down components the way it should. This inability is associated with the onset of the disease.  As TPC2 plays a vital role in this specific mechanism of Parkinson's disease development, it may potentially be a therapeutic target.
+
+=== Ebola ===
+The Ebolavirus takes advantage of host cell endocytotic membrane trafficking, leaving TPCs as a potential drug target. Ebolavirus enter cells through micropinocytosis with endosomal vesicles. After entrance into the endosomal vesicle, Ebolavirus membrane fuses with the endosomal membrane to release the viral contents into the cytosol before the endosome can fuse with the lysosome. For the movement of the virus in endosomes, Ca2+ is necessary. As NAADP regulates maturation of endosomes by the calcium release through TPCs, normal functioning of TPCs allows the Ebolavirus to escape.  Therefore, when TPCs are not functioning, the Ebolavirus cannot escape before the fusion of the endosome with the lysosome. In fact, when mice are treated with tetradine the infection is inhibited. This is because tetradine blocks TPC functioning of calcium release and thus, the Ebolaviruses is contained within the endosomal network destined to be degraded by the lysosome.
+
+=== Fatty liver ===
+TPCs have been implicated in fatty liver diseases, such as NAFLD and NASH. As TPC2 is a cation channel for endocytotic membrane trafficking, TPCs contribute in trafficking LDL molecules for their breakdown and recycling. This primarily occurs within the liver. The degradation pathway causes LDL to end up in endosomes and lysosomes – where TPCs are located. The TPC mechanism once again allows the efflux of calcium for the fusion of the endosomes and lysosomes (where LDL is degraded). When TPCs are not present, or are not functioning properly, the degradation pathway results in defected trafficking. Without the fusion event LDL accumulates in liver cells. The loss of TPCs have been found to be a cause of the yellow coloration of liver, an expression of fatty liver which indicates liver damage.
+
+== References ==
+
+
+== External links ==
+* 
+* 
+* 
+
+
+
+
+Category:Ion channels

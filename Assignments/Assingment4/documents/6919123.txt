@@ -1,0 +1,387 @@
+Title: List of municipalities of the Metropolitan City of Naples
+
+The following is a list of the 92 municipalities (comuni) of the Metropolitan City of Naples, Campania, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|063001
+|Acerra
+| align="right" |49,313
+|-
+|063002
+|Afragola
+| align="right" |63,446
+|-
+|063003
+|Agerola
+| align="right" |7,392
+|-
+|063004
+|Anacapri
+| align="right" |6,240
+|-
+|063005
+|Arzano
+| align="right" |37,994
+|-
+|063006
+|Bacoli
+| align="right" |27,402
+|-
+|063007
+|Barano d'Ischia
+| align="right" |9,423
+|-
+|063008
+|Boscoreale
+| align="right" |27,476
+|-
+|063009
+|Boscotrecase
+| align="right" |10,791
+|-
+|063010
+|Brusciano
+| align="right" |15,526
+|-
+|063011
+|Caivano
+| align="right" |36,980
+|-
+|063012
+|Calvizzano
+| align="right" |12,406
+|-
+|063013
+|Camposano
+| align="right" |5,389
+|-
+|063014
+|Capri
+| align="right" |7,278
+|-
+|063015
+|Carbonara di Nola
+| align="right" |2,109
+|-
+|063016
+|Cardito
+| align="right" |20,752
+|-
+|063017
+|Casalnuovo di Napoli
+| align="right" |50,144
+|-
+|063018
+|Casamarciano
+| align="right" |3,325
+|-
+|063019
+|Casamicciola Terme
+| align="right" |7,990
+|-
+|063020
+|Casandrino
+| align="right" |13,574
+|-
+|063021
+|Casavatore
+| align="right" |19,608
+|-
+|063022
+|Casola di Napoli
+| align="right" |3,752
+|-
+|063023
+|Casoria
+| align="right" |82,403
+|-
+|063024
+|Castellammare di Stabia
+| align="right" |66,100
+|-
+|063025
+|Castello di Cisterna
+| align="right" |6,947
+|-
+|063026
+|Cercola
+| align="right" |19,232
+|-
+|063027
+|Cicciano
+| align="right" |12,360
+|-
+|063028
+|Cimitile
+| align="right" |6,877
+|-
+|063029
+|Comiziano
+| align="right" |1,830
+|-
+|063030
+|Crispano
+| align="right" |12,574
+|-
+|063031
+|Forio
+| align="right" |15,699
+|-
+|063032
+|Frattamaggiore
+| align="right" |31,831
+|-
+|063033
+|Frattaminore
+| align="right" |15,987
+|-
+|063034
+|Giugliano in Campania
+| align="right" |105,951
+|-
+|063035
+|Gragnano
+| align="right" |29,723
+|-
+|063036
+|Grumo Nevano
+| align="right" |18,926
+|-
+|063037
+|Ischia
+| align="right" |18,200
+|-
+|063038
+|Lacco Ameno
+| align="right" |4,607
+|-
+|063039
+|Lettere
+| align="right" |5,917
+|-
+|063040
+|Liveri
+| align="right" |1,725
+|-
+|063041
+|Marano di Napoli
+| align="right" |58,938
+|-
+|063042
+|Mariglianella
+| align="right" |6,662
+|-
+|063043
+|Marigliano
+| align="right" |30,578
+|-
+|063044
+|Massa Lubrense
+| align="right" |13,404
+|-
+|063045
+|Melito di Napoli
+| align="right" |36,031
+|-
+|063046
+|Meta
+| align="right" |7,943
+|-
+|063047
+|Monte di Procida
+| align="right" |13,282
+|-
+|063048
+|Mugnano di Napoli
+| align="right" |31,602
+|-
+|063049
+|Naples
+| align="right" |995,171
+|-
+|063050
+|Nola
+| align="right" |32,935
+|-
+|063051
+|Ottaviano
+| align="right" |23,572
+|-
+|063052
+|Palma Campania
+| align="right" |14,972
+|-
+|063053
+|Piano di Sorrento
+| align="right" |12,895
+|-
+|063054
+|Pimonte
+| align="right" |5,946
+|-
+|063055
+|Poggiomarino
+| align="right" |20,516
+|-
+|063056
+|Pollena Trocchia
+| align="right" |13,724
+|-
+|063057
+|Pomigliano d'Arco
+| align="right" |40,279
+|-
+|063058
+|Pompei
+| align="right" |25,726
+|-
+|063059
+|Portici
+| align="right" |57,777
+|-
+|063060
+|Pozzuoli
+| align="right" |82,131
+|-
+|063061
+|Procida
+| align="right" |10,694
+|-
+|063062
+|Qualiano
+| align="right" |25,452
+|-
+|063063
+|Quarto
+| align="right" |38,573
+|-
+|063064
+|Ercolano
+| align="right" |55,637
+|-
+|063065
+|Roccarainola
+| align="right" |7,250
+|-
+|063066
+|San Gennaro Vesuviano
+| align="right" |10,553
+|-
+|063067
+|San Giorgio a Cremano
+| align="right" |49,480
+|-
+|063068
+|San Giuseppe Vesuviano
+| align="right" |27,966
+|-
+|063069
+|San Paolo Bel Sito
+| align="right" |3,407
+|-
+|063070
+|San Sebastiano al Vesuvio
+| align="right" |9,832
+|-
+|063071
+|Sant'Agnello
+| align="right" |8,826
+|-
+|063072
+|Sant'Anastasia
+| align="right" |28,214
+|-
+|063073
+|Sant'Antimo
+| align="right" |31,285
+|-
+|063074
+|Sant'Antonio Abate
+| align="right" |18,806
+|-
+|063075
+|San Vitaliano
+| align="right" |5,864
+|-
+|063076
+|Saviano
+| align="right" |15,114
+|-
+|063077
+|Scisciano
+| align="right" |5,166
+|-
+|063078
+|Serrara Fontana
+| align="right" |3,117
+|-
+|063079
+|Somma Vesuviana
+| align="right" |33,998
+|-
+|063080
+|Sorrento
+| align="right" |16,506
+|-
+|063081
+|Striano
+| align="right" |7,716
+|-
+|063082
+|Terzigno
+| align="right" |16,977
+|-
+|063083
+|Torre Annunziata
+| align="right" |47,877
+|-
+|063084
+|Torre del Greco
+| align="right" |88,947
+|-
+|063085
+|Tufino
+| align="right" |3,420
+|-
+|063086
+|Vico Equense
+| align="right" |20,506
+|-
+|063087
+|Villaricca
+| align="right" |28,159
+|-
+|063088
+|Visciano
+| align="right" |4,607
+|-
+|063089
+|Volla
+| align="right" |23,251
+|-
+|063090
+|Santa Maria la Carità
+| align="right" |11,330
+|-
+|063091
+|Trecase
+| align="right" |9,117
+|-
+|063092
+|Massa di Somma
+| align="right" |5,929
+|-
+|
+|Total
+| align="right" |3,092,859
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

@@ -1,0 +1,12 @@
+Title: Chameleon (GIS)
+
+Chameleon is an open source, distributed, highly configurable, environment for developing Web Mapping applications. It is built on MapServer as the core mapping engine and works with all MapServer supported data formats. It also works well with OpenGIS Consortium standards for Web Map Services WMS and Web Map Context Documents (WMC) through MapServer's support for these standards.
+
+Chameleon was originally developed in 2002 by DM Solutions Group under contract to NRCan, in support of Canada's GeoConnections program, contributing to the Canadian Geospatial Data Infrastructure (CGDI).  Originally named "CWC2" (CGDI WMS Client Component), Chameleon was renamed once formally released to the open source community.  CWC2 was developed in response to the growing number of WMS servers and lack of user friendly WMS clients in developing web mapping applications.
+
+Chameleon has a plugin architecture. A large number of plugins, or widgets as they are called by the Chameleon developers, are available. A Chameleon widget can implement a mapping task such as zooming, panning, showing legends, or displaying map coordinates. Over a hundred widgets are distributed with the application and developers can easily create their own widget for any specific task.
+
+Chameleon is written in the PHP scripting language with snippets of JavaScript code to handle browser functionality. The latest version as of September 6, 2007 was v2.6rc1.
+
+Chameleon is released under the Prior BSD License.
+

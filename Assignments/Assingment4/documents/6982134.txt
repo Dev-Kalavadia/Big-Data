@@ -1,0 +1,41 @@
+Title: Cakewalk Sonar
+
+
+
+
+
+Sonar was a digital audio workstation created by the former Boston, Massachusettsbased music production software company Cakewalk. It was acquired by Singaporean music company BandLab Technologies and renamed Cakewalk by BandLab.
+
+==Notable features==
+Sonar's features included:
+* Record and manipulate an amount of multitrack digital audio limited by hardware only
+* Record and manipulate MIDI data
+* Apply any DirectX special effects, such as reverberation and delay
+* Automate the process of mixing audio
+* Use virtual instruments, such as software: synthesizers, samplers, and drum machines
+* Connect to other multimedia applications via Rewire
+* Some versions included a 64-bit mastering suite
+
+===Video and audio formats===
+
+Sonar provided limited facilities for video, surround sound (5.1, 7.1), and supported .avi, .mpeg, .wmv, and .mov files. Sonar had the ability to show videos as thumbnails contained in a separate track. With appropriate hardware, it was also possible to output the video to an external monitor screen via FireWire. Common SMPTE formats, frame sizes, and frame rates were supported.  It was possible to transfer audio loop files from other compatible software into Sonar and complete a final mixdown.
+
+Various audio export options (including 64-bit masters) were AIFF, AU, CAF, FLAC, RAW, SD2, W64 (Sony Wave-64), and WAV (Microsoft).
+
+Starting with version 6, Sonar could take advantage of 64-bit internal processing, a 64-bit audio engine, and a 64-bit mixer on 64-bit versions of Windows Vista and Windows 7. Before the introduction of Sonar X2 in October 2012, the entry-level Essential versions of Sonar (Sonar Home Studio and Sonar Essential) were 32-bit only. With Sonar X2, the full program family became native 64-bit.
+
+Starting with Sonar Platinum (February 2015), releases moved to a monthly cycle, with new features and demo products introduced with each update.
+
+===Discontinuation and Relaunch===
+
+On 17 November 2017, parent company Gibson announced that it was ceasing active development and production of Cakewalk branded products, including all versions of SONAR. After 30 years of existence, Cakewalk, Inc. ceased operation, with only the company's web forum and license authorization servers still functional.
+
+On 23 February 2018, Singapore-based BandLab Technologies announced its purchase of some of Cakewalk, Inc.’s assets and all of its intellectual property. BandLab's stated goal was continued development of the former company's flagship product, SONAR (now renamed Cakewalk by BandLab), as part of its portfolio of freeware digital audio workstation software.
+
+==See also==
+
+*Cakewalk by BandLab
+*Cakewalk (sequencer)
+*Comparison of multitrack recording software
+*POW-R dithering algorithms
+

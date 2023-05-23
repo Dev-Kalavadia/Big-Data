@@ -1,0 +1,20 @@
+Title: Harukaze-class destroyer{|
+
+
+
+|}
+The Harukaze-class destroyer was the first indigenous post-World War II Japanese destroyer class. Its main mission was anti-submarine warfare. 
+
+Almost all equipment was supplied from the United States according to the U.S. and Japan Mutual Defense Assistance Agreement. Sensor systems on-board was standard equipment in the U.S. Navy at that time, for example, the AN/SPS-6 air-search radar, the AN/SPS-5 surface-search radar, the QHB search sonar, the QDA attack sonar.
+
+Three 5-inch/38 caliber Mark 12 guns were mounted on Mark 30 single mounts, and controlled by a Mark 51 director. The JMSDF wasn't satisfied with performance of the director, so later the Mark 51 was replaced by the Swedish advanced GFCS developed by Contraves (Harukaze) or American Mark 57 (Yukikaze). At the same time, K-guns and depth charge racks were reduced by half and replaced by Mark 32 torpedoes with two Mark 2 over-the-side launchers.
+
+==Ships==
+{|class=wikitable
+! Pennant no. || Name || Laid down || Launched || Commissioned || Decommissioned
+|-
+| DD-101/ASU-7002 ||  || 1954 || 20 September 1955 || 1956 || 1985
+|-
+| DD-102/ASU-7003 ||  || 1954 || 20 August 1955 || 1956 || 1985
+|}
+

@@ -1,0 +1,78 @@
+Title: Skierniewice County
+__NOTOC__
+Skierniewice County () is a unit of territorial administration and local government (powiat) in Łódź Voivodeship, central Poland. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat is the city of Skierniewice, although the city is not part of the county (it constitutes a separate city county); there are no towns within the county.
+
+The county covers an area of . As of 2006 its total population is 37,779.
+
+==Neighbouring counties==
+Apart from the city of Skierniewice, Skierniewice County is also bordered by Sochaczew County to the north, Żyrardów County to the east, Rawa County and Tomaszów Mazowiecki County to the south, Brzeziny County to the west, and Łowicz County to the north-west.
+
+==Administrative division==
+The county is subdivided into nine gminas. These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km²)
+| style="text-align:center;"|Population(2006)
+| style="text-align:center;"|Seat
+|-
+|Gmina Skierniewice
+|rural
+| style="text-align:right;"|131.7
+| style="text-align:right;"|6,736
+|Skierniewice *
+|-
+|Gmina Głuchów
+|rural
+| style="text-align:right;"|111.3
+| style="text-align:right;"|6,001
+|Głuchów
+|-
+|Gmina Maków
+|rural
+| style="text-align:right;"|83.0
+| style="text-align:right;"|5,996
+|Maków
+|-
+|Gmina Bolimów
+|rural
+| style="text-align:right;"|112.2
+| style="text-align:right;"|4,026
+|Bolimów
+|-
+|Gmina Lipce Reymontowskie
+|rural
+| style="text-align:right;"|42.7
+| style="text-align:right;"|3,323
+|Lipce Reymontowskie
+|-
+|Gmina Nowy Kawęczyn
+|rural
+| style="text-align:right;"|104.4
+| style="text-align:right;"|3,295
+|Nowy Kawęczyn
+|-
+|Gmina Kowiesy
+|rural
+| style="text-align:right;"|85.6
+| style="text-align:right;"|3,035
+|Kowiesy
+|-
+|Gmina Godzianów
+|rural
+| style="text-align:right;"|44.1
+| style="text-align:right;"|2,709
+|Godzianów
+|-
+|Gmina Słupia
+|rural
+| style="text-align:right;"|41.2
+| style="text-align:right;"|2,658
+|Słupia
+|-
+|colspan=5 style="text-align:right;font-size:90%"|* seat not part of the gmina
+|-
+|}
+

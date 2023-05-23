@@ -1,0 +1,111 @@
+Title: Department of Finance (Northern Ireland)
+
+
+
+
+The Department of Finance (DoF, ,Department of Finance and Personnel – Irish  Department of Finance Ulster-Scots: Männystrie o SillerDepartment of Finance and Personnel – Ulster-Scots  Department of Finance) is a devolved Northern Ireland government department in the Northern Ireland Executive. The minister with overall responsibility for the department is the Minister for Finance.
+
+The department was previously called the Department of Finance and Personnel (DFP) before its name change on 9 May 2016.
+
+==Aim==
+DoF's overall aim is to help the Northern Ireland Executive "secure the most appropriate and effective use of resources and services for the benefit of the community".Northern Ireland Budget 2011–15, page 65
+
+The incumbent Minister is Conor Murphy.
+
+==Responsibilities==
+The department is responsible for the following policy areas:
+* finance
+* the Northern Ireland Civil Service
+* land and property
+* building regulation
+* procurement
+* civil law reform
+* civil registration
+
+Some financial matters are reserved to Westminster and are therefore not devolved: 
+Northern Ireland Act 1998, Schedule 3
+* financial services
+* financial markets
+
+In addition, some matters are excepted and were not intended for devolution:Northern Ireland Act 1998, Schedule 2
+* taxation
+* currency
+
+DoF's main counterparts in the United Kingdom Government are:
+* HM Treasury;HM Treasury: About us
+* the Cabinet Office (on civil service matters);Cabinet Office: About the Cabinet Office
+* the Ministry of Justice (on civil law reform);Ministry of Justice: About us 
+* the Department for Communities and Local Government (on building regulation);Communities and Local Government: About us
+* HM Land Registry (on land registration).Land Registry: Framework document
+
+In the Irish Government, the main counterparts are:
+* the Department of Finance;Department of Finance: How the Department works
+* the Department of Public Expenditure, National Development Plan Delivery and Reform;
+* the Department of Justice (on civil law reform and land registration);Department of Justice: Law ReformDepartment of Justice: Property Registration
+* the Department of Housing, Local Government and Heritage (on building regulation).Department of Environment, Community and Local Government: Building Standards 
+
+==History==
+A Ministry of Finance was established on the formation of Northern Ireland in June 1921.  A finance ministry also existed in the 1974 Northern Ireland Executive and became known as the Department of Finance and Personnel under direct rule.
+
+Following a referendum on the Belfast Agreement on 23 May 1998 and the granting of royal assent to the Northern Ireland Act 1998 on 19 November 1998, a Northern Ireland Assembly and Northern Ireland Executive were established by the United Kingdom Government under Prime Minister Tony Blair. The process was known as devolution and was set up to return devolved legislative powers to Northern Ireland. DFP is therefore one of six direct rule Northern Ireland departments which continued in existence after devolution in December 1999 by the Northern Ireland Act 1998 and The Departments (Northern Ireland) Order 1999.
+
+A devolved minister first took office on 2 December 1999.  Devolution was suspended for four periods, during which the department came under the responsibility of direct rule ministers from the Northern Ireland Office:
+* between 12 February 2000Article 2, Northern Ireland Act 2000 (Commencement) Order 2000 and 30 May 2000;Article 2, Northern Ireland Act 2000 (Restoration of Devolved Government) Order 2000
+* on 11 August 2001;Article 1, Northern Ireland Act 2000 (Suspension of Devolved Government) Order 2001Article 2, Northern Ireland Act 2000 (Restoration of Devolved Government) Order 2001
+* on 22 September 2001;Article 1, Northern Ireland Act 2000 (Suspension of Devolved Government) (No.2) Order 2001Article 2, Northern Ireland Act 2000 (Restoration of Devolved Government) (No.2) Order 2001
+* between 15 October 2002Article 1, Northern Ireland Act 2000 (Suspension of Devolved Government) Order 2002 and 8 May 2007.Article 2, Northern Ireland Act 2000 (Restoration of Devolved Government) Order 2007
+
+Since 8 May 2007, devolution has operated without interruption.
+
+== Ministers of Finance==
+{| class="wikitable" style="margin: 1em auto 1em auto"
+|- bgcolor=cccccc
+!  !!Minister!!Image!!Party!!Took office!!Left office
+|-
+| style="background:" |     || Mark Durkan|| 60px ||   || 29 November 1999||11 February 2000
+|-
+| colspan="6" align="center"| Office suspended 
+|-
+| style="background:" |     || Mark Durkan||60px  ||   || 30 May 2000||13 December 2001Office suspended for 24 hours on 11 August 2001 and 22 September 2001
+|-
+| style="background:" |     || Seán Farren|| 60px||   || 14 December 2001||14 October 2002
+|-
+| colspan="6" align="center"| Office suspended 
+|-
+| style="background:" |    
+|| Peter Robinson||60px ||   || 14 May 2007 || 9 June 2008
+|-
+| style="background:" |    
+|| Nigel Dodds ||60px ||   || 9 June 2008|| 1 July 2009
+|-
+| style="background:" |    
+|| Sammy Wilson|| 60px||   || 1 July 2009|| 28 July 2013
+|-
+| style="background:" |    
+|| Simon Hamilton|| 60px||   || 29 July 2013 || 11 May 2015
+|-
+| style="background:" |     || Arlene Foster|| 60px||   || 11 May 2015 || 12 January 2016
+|-
+| style="background:" |     || Mervyn Storey ||60px ||   || 13 January 2016 || 30 March 2016
+|-
+| colspan="6" align="center"| Office renamed Minister of Finance
+|-
+| style="background:" |     || Máirtín Ó Muilleoir ||60px ||   || 25 May 2016 || 2 March 2017
+|-
+| colspan="6" align="center"| Office suspended 
+|-
+| style="background:" |     || Conor Murphy ||60px ||   || 11 January 2020 || 27 October 2022
+|}
+
+===Direct rule ministers===
+During the periods of suspension, the following ministers of the Northern Ireland Office were responsible for the department:
+
+*Adam Ingram (2000)
+*Ian Pearson (2002–05)
+*Lord Rooker (2005–06)
+*David Hanson (2006–07)
+
+==See also==
+*Committee for Finance and Personnel
+* NIDirect
+

@@ -1,0 +1,33 @@
+Title: Instruction creep
+
+Instruction creep or rule creep occurs when instructions or rules accumulate over time until they are unmanageable or inappropriate.  It is a type of scope creep.  The accumulation of bureaucratic requirements results in overly complex procedures that are often misunderstood, irritating, time-wasting, or ignored. 
+
+Instruction creep is common in complex organizations, where rules and guidelines are created by changing groups of people over extended periods of time.  The constant state of flux in such groups often leads them to add or modify instructions, rather than simplifying, consolidating, or generalizing existing ones.  This can result in a loss of clarity, efficiency, and communication, or even of consistency.  Alternatives to instruction creep include applying the KISS principle, articulating general principles rather than specific rules, and trusting people to use their best judgment.
+
+The fundamental fallacy of instruction creep is believing that people read instructions with the same level of attention and comprehension, regardless of the volume or complexity of those instructions. A byproduct is the advent of many new rules having the deliberate intent to control others via fiat, without considering consensus or collaboration. This tends to antagonize others, even when it appears to the instigators that they are acting with proper intent.
+
+== Characteristics ==
+Instruction creep slowly accumulates, which makes it harder for people to notice the accumulating burden of complex rules and procedures.  As the changes happen slowly, the phenomenon of creeping normality results in people adapting to each individual change without realizing how abnormal or undesirable the overall system has become.  In some cases, so many rules are in place that compliance becomes impossible.
+
+Many of the rules added over time are intended to cover edge cases or other uncommon situations.  For example, a rule will say that everyone must wear work boots at an industrial workplace, and later the rule will be expanded to say that employees working in office buildings are exempt, and still later it will be expanded to specify whether a person must change shoes when moving from one part of the building to another.  In other instances, rule creep results in a rule being applied more broadly than originally intended.  For example, the rule will say that everyone must wear work boots, and this internal rule will be applied to package delivery drivers.
+
+Instruction creep reduces the scope for people to use their judgement and discretion.  For example, instead of telling employees that reasonable expenses will be reimbursed for business travel, rules may accumulate over time to specify precisely which expenses will be reimbursed under which circumstances.  Expecting people to follow the rules instead of using their judgement is a form of micromanagement.
+
+== Motivation ==
+
+
+
+== Results ==
+
+
+Employees may spend excessive amounts of time dealing with red tape in the form of complying with the rules or documenting their compliance with the procedures.  Bad processes and complexity may distract employees from important goals.  The rules restrict individuals and teams from meeting their goals or finding better solutions to problems.
+
+In the civil sphere, rule creep can slowly create or extend some unjustified rules that erode individual liberties.  It can be difficult to find a balance and determine which rules are justified, because a rule that restricts one person (e.g., someone who wants to have a noisy party late at night) can also benefit another person (e.g., neighbors who do not want noisy parties when they need to sleep).
+
+== Removing rules ==
+When rules become excessive, it may be necessary to systematically remove the rules.  Companies such as Thrivent and Google have intentionally identified and removed rules.  Netflix has a corporate policy to minimize rules.  Removing and resisting rules requires conscious effort.  In some cases, rules may be modified to be less onerous, such as submitting a photo of a receipt instead of an original paper receipt.  In other cases, specific rules may be replaced with statements of more general principles and a decision to empower people to use their best judgment.
+
+==See also==
+*
+* 
+

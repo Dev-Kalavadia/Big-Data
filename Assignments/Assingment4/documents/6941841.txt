@@ -1,0 +1,20 @@
+Title: Neuroglobin
+
+Neuroglobin is a member of the vertebrate globin family involved in cellular oxygen homeostasis and reactive oxygen/nitrogen scavenging. It is an intracellular hemoprotein expressed in the central and peripheral nervous system, cerebrospinal fluid, retina and endocrine tissues. Neuroglobin is a monomer that reversibly binds oxygen with an affinity higher than that of hemoglobin. It also increases oxygen availability to brain tissue and provides protection under hypoxic or ischemic conditions, potentially limiting brain damage. Neuroglobin were in the past found only in vertebrate neurons, but recently in 2013, were found in the neurons of unrelated protostomes, like photosynthetic acoel as well as radiata such as jellyfish. In addition to neurons, neuroglobin is present in astrocytes in certain pathologies of the rodent brain and in the physiological seal brain. This is thought to be due to convergent evolution.science.gov, Neuroglobins, Pivotal Proteins Associated with Emerging Neural Systems and Precursors of Metazoan Globin Diversity by Lechauve, Christophe; Jager, Muriel; Laguerre, Laurent; Kiger, Laurent; Correc, Gaelle; Leroux, Cedric; Vinogradov, Serge; Czjzek, Mirjam; Marden, Michael C.; Bail It is of ancient evolutionary origin, and is homologous to nerve globins of invertebrates. Recent research confirmed the presence of human neuroglobin protein in cerebrospinal fluid (CSF).
+
+Neuroglobin was first identified by Thorsten Burmester et al. in 2000.
+
+The 3D structure of human neuroglobin was determined in 2003. The next year, murine neuroglobin was determined at a higher resolution.
+
+A practical treatment for carbon monoxide poisoning based on binding of CO by neuroglobin (Ngb) with a mutated distal histidine (H64Q) appears to be possible.
+
+==See also==
+
+* Cytoglobin
+* Hemoprotein
+* Hemoglobin
+* Leghemoglobin
+* Myoglobin
+*Cerebrospinal fluid
+
+

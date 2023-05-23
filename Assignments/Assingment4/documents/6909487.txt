@@ -1,0 +1,268 @@
+Title: Chapel Hill Transit
+Chapel Hill Transit operates public bus and van transportation services within the contiguous municipalities of Chapel Hill and Carrboro and the campus of the University of North Carolina at Chapel Hill in the southeast corner of Orange County in the Research Triangle metropolitan region of North Carolina. Chapel Hill Transit operates its fixed route system fare free due to a contractual agreement with the two towns and the university to share annual operating and capital costs. In , the system had a ridership of , or about  per weekday as of .
+
+== History ==
+In the early 1970s, during the administration of Chapel Hill Mayor Howard Nathaniel Lee, the Public Transportation Study Committee was formed, consisting of representatives from the Towns of Chapel Hill and Carrboro, and UNC. The committee then received a Federal Urban Mass Transit Administration grant to examine the suitability of a permanent transit system. Town voters approved a $350,000 bond referendum for local match for capital and a $.10/$100 valuation ad valorem tax to support transit operations.Town of Chapel Hill, NC. Transportation . Retrieved September 8, 2006. Chapel Hill Transit began operations in August 1974 as a department of the Town of Chapel Hill government. Prior to Chapel Hill Transit, the UNC Student Government operated a campus shuttle system from 1968 until 1974. The Transit Director reports to the Town Manager, who is responsible to the Town Council. A citizen advisory committee, the Transportation Board, makes recommendations to the Town Council on transportation and traffic issues. A plan adopted by the Town Council in 1977 included a set of transportation goals which specifically encourage transit over automobile use in the central areas of Chapel Hill. Although the transit system is operated by the town of Chapel Hill, Carrboro and UNC are financial partners in the operations. System expenses are allocated based upon population. Carrboro began purchasing transit services in the fiscal year 1977–1978 with revenue sharing funds. In the fall of 1980, Carrboro approved a $.10/$100 valuation ad valorem tax to pay for transit service. In fiscal year 1980–1981 the Carrboro contract first included the EZ Rider.
+
+250px|thumb|right|Chapel Hill Transit, Average Daily Ridership, 2002–2016
+
+thumb|250px|right|Digitized signs showing the estimated arrival times of buses.
+In 1992, Chapel Hill Transit teamed up with the Triangle Clean Cities Coalition and Ebus, a California company that manufactures electric buses, to demonstrate a 22-passenger bus that promised cleaner air and reduced dependence on foreign fuels.Hybrid-electric Bus Offers an Alternative to Air Pollution and Foreign Oil in Chapel Hill This vehicle demonstration followed an earlier one arranged by the Public Transportation Division of the North Carolina Department of Transportation. In the earlier demonstration, a Transteq hybrid bus was transported from daily use in Denver, Colorado, and made available for test drives on the Chapel Hill Transit lot. In February 2006, K. Stephen Spade, a former Des Moines Metropolitan Transit Authority employee, was hired as the transportation director for the Town of Chapel Hill.Town of Chapel Hill – Town Manager Announces New Transportation Director  In August 2006, Chapel Hill Transit announced that their buses will be equipped with GPS tracking devices, allowing the bus riders to check the arrival time of the buses using the internet and their cell phone. The project was completed by NextBus Inc. Fourteen bus stops would also have digitized signs showing the estimated arrival times of buses. These signs were controversial, as the cost of installing them was almost $1 million. In September 2006, Chapel Hill Transit announced plans to begin purchasing hybrid buses. The town planned to buy as many as nineteen new buses: three hybrids, several extra-long and the rest standard size. In October 2006, the Chapel Hill Town Council approved the purchase of sixteen new Chapel Hill Transit buses at a cost of $5.8 million from Gillig Corp. Federal grants provided about $5.2 million, and the town provided approximately $600,000 in local funds. Three of these sixteen new buses run on diesel-electric drivetrains. The rest of the buses are mostly powered by Detroit Diesel series 50 engines. The buses, delivered in July 2007, expanded the system and replaced older buses. The town had an additional $1.7 million in federal funding which was sufficient to purchase four 60-foot articulated buses, each with two sections that allow them to flex in the middle. All of the purchased buses were low-floor buses with interior floors at curb level.
+
+== Fixed Route Service ==
+The Chapel Hill Transit system consists of 24 weekday routes and 9 weekend routes. 5 of the weekday routes are considered express routes and are designated with an X, with the exception of route 420. The basic hours of operation are from early morning to evening. Connections to GoTriangle, Orange County Transportation Authority, and PART are available. Each fixed route vehicle is equipped with a bike rack mounted on the front of the bus with capacity for two bicycles.
+
+3 "Safe Ride" routes operate on Thursday, Friday, and Saturday evenings when the university is in session.
+
+A Senior Shuttle route operates weekdays making 7 stops each hour, in a loop, to destinations in Chapel Hill and Carrboro. The Senior Shuttle route uses alternative vehicles to accommodate passengers with restricted mobility.
+
+Chapel Hill Transit operates a "Tar Heel Express" special event shuttle service for UNC Football and Men's Basketball home games, in addition to special events. The shuttles provide continuous and fully accessible service, running every 10 to 15 minutes between the park and rides and Kenan Memorial Stadium or Dean E. Smith Center.
+
+All fixed routes and special service routes are fare free. The Tar Heel Express charges a $3 one way and $5 round trip fee for rides.
+
+250px|right|thumb|The Shared Ride Feeder service is available for passengers from areas that do not receive regular bus service.
+
+=== Route List ===
+{| class="wikitable"
+|+
+! colspan="2" |Service Legend
+|-
+|⬤
+|Service runs all week.
+|-
+|◯
+|Service only runs during weekdays.
+|-
+|◇
+|Express service runs during rush-hours only.
+|}
+{| class="wikitable"
+|-
+! Designation !! Areas Served
+|-
+|A ⬤|| Martin Luther King Blvd  Northside  University Place
+|-
+|B ◯|| Baity Hill  UNC Hospitals
+|-
+|CL ◯|| Colony Lake  Sage  UNC Hospitals
+|-
+|CM ⬤||Carrboro  Merritt Mill Rd
+|-
+|CW ⬤||Carrboro  Weaver St
+|-
+|D ⬤|| UNC Hospitals  Franklin Street  Old Durham Rd
+|-
+|F ◯ || Colony Woods  Franklin St  McDougle School
+|-
+|G ◯|| Booker Creek  UNC Hospitals  Glen Lennox
+|-
+|HS ◯||Morris Grove Elementary  Chapel Hill High  Martin Luther King Blvd  Smith Level Rd
+|-
+|J ⬤||Carrboro  Downtown Chapel Hill  Jones Ferry Rd
+|-
+|N ⬤|| Estes Park  UNC Hospitals  Meadowmont
+|-
+|NS ⬤|| Eubanks Rd  Southern Village
+|-
+|NU ⬤|| RR Lot  UNC Hospitals
+|-
+|S ◯||UNC Campus  Friday Center South Park & Ride
+|-
+|T ◯|| Martin Luther King Blvd  UNC Hospitals
+|-
+|RU ◯
+| rowspan="2" |UNC Campus
+|-
+|U ⬤ 
+|-
+! colspan="2" | Express Routes  Rush Hours Only
+|-
+|CCX ◇
+|Chatham County Express
+|-
+|FCX ◇
+|Friday Center Express
+|-
+|JFX ◇
+|Jones Ferry Road Express
+|-
+! colspan="2" |Other Routes
+|-
+|420 ◯
+|Hillsborough  Chapel Hill (in conjunction with Orange County Transportation Authority & GoTriangle)
+|-
+|N/A
+|Senior Shuttle
+|}
+
+==== Safe Ride Service ====
+{| class="wikitable"
+!Designation
+!Route
+|-
+|J
+|Varsity Theater/Rock Creek/The Villages
+|-
+|G
+|Varsity Theater/Finley Forest/Meadowmont/Glen Lennox
+|-
+|T
+|Varsity Theater/Westminster/Chapel View
+|}
+
+==== Tar Heel Express Shuttles ====
+{| class="wikitable"
+!Location
+!Football
+!Men's Basketball
+!Post Game
+|-
+|Friday Center
+|3 hours prior to game start
+|1.5 hours prior to game start
+|45 min
+|-
+|Airport Drive/UNC Facilities Lot (103 Airport Dr)
+|3 hours prior to game start
+|1.5 hours prior to game start
+|45 min
+|-
+|Southern Village
+|1.5 hours prior to game start
+|1.5 hours prior to game start
+|45 min
+|-
+|Jones Ferry Road
+|1.5 hours prior to game start
+|1.5 hours prior to game start
+|45 min
+|-
+|Downtown Chapel Hill (Carolina Coffee Shop)
+|No Service
+|1.5 hours prior to game start
+|45 min
+|}
+
+=== Discontinued Routes ===
+{| class="wikitable"
+|-
+! Designation !! Route
+!End Date
+!Replacement Route(s)
+|-
+|CPX|| Carrboro Plaza Express
+|August 3, 2020
+|CW
+|-
+|HU||UNC Hospitals/NC 54 Park & Ride/Hedrick Building
+|August 3, 2020
+|B
+|-
+|V|| Southern Village/Meadowmont
+|August 3, 2020
+|N
+|}
+
+== Paratransit ==
+A fare free "EZ Rider" paratransit service provides a demand-responsive transit service for the handicapped and elderly that are unable to use the regular fixed route service. The service operates from morning to evening on weekdays and on Saturdays. Advanced reservations and enrollment are required.
+
+== Park & Ride ==
+Chapel Hill Transit operates 4 Park & Ride lots throughout Chapel Hill and Carrboro. Parking fees are $2/day and can be paid using an on-site meter or the Parkmobile app. Monthly and annual permits are available for $21/month and $250/year. The University of North Carolina operates 5 other Park & Ride lots. Permitting for these lots is administered through the university's Commuter Alternatives Program (CAP) Office. UNC's Park & Ride lots are for UNC Employees and Students only; no public/daily parking is available. UNC Park & Ride permits are honored in all Chapel Hill Transit Park & Ride lots.
+
+=== Chapel Hill Transit Park & Ride Lots ===
+{| class="wikitable"
+!Lot
+!Location
+!Served By
+!Parkmobile Zone
+|-
+|Eubanks Road
+|On Eubanks Rd, 1/2 mi west of MLK Jr Blvd
+|NS, CRX (GoTriangle)
+|8801
+|-
+|Jones Ferry
+|Just south of Old Fayetteville Rd and Jones Ferry Rd
+|CM, CW, JFX
+|8802
+|-
+|Carrboro Plaza
+|Behind Carrboro Plaza at Hwy 54 and W Main St
+|CPX, CW
+|8803
+|-
+|Southern Village
+|Just off US 15-501 South
+|NS, V
+|8804
+|}
+
+=== UNC Park & Ride Lots ===
+{| class="wikitable"
+!Lot
+!Location
+!Served By
+|-
+|Friday Center
+|Friday Center Dr and NC 54
+|FCX, HU, S, V
+|-
+|MLK Jr Blvd
+|725 MLK Jr. Blvd
+|G, NS, T
+|-
+|NC 54 East
+|Friday Center Dr and NC 54
+|HU, S
+|-
+|Chatham County
+|US 15-501 near Old Lystra
+|CCX
+|-
+|Hedrick Building
+|Friday Center Dr and NC 54
+|HU
+|}
+
+== Bus Rapid Transit ==
+Chapel Hill Transit is planning to build an 8.2 mile North-South Bus Rapid Transit (NSBRT) to run from the Eubanks Road Park & Ride lot (a northern terminus) and Southern Village (the southern terminus) and points in between. The route follows NC 86 (MLK Jr. Blvd.) from the northern edge of Chapel Hill into downtown, then follows Columbia St through the campus of UNC-Chapel Hill, and continues along US 15-501 to Southern Village. The proposed route is based on the NS route which consistently has the highest ridership of all routes. Projected cost is $96-105.9 million with $50-75 million provided by federal funding, to commence passenger service in 2028 and projected 12,000 daily trips (in 2040) with an annual operating cost of $3.4 million. The NSBRT will run every 8 minutes during peak hours and every 10-20 minutes in off-peak hours. The existing NS bus route is expected to be replaced by the NSBRT. Along most of the corridor, NSBRT will operate in dedicated lanes.
+
+=== Proposed BRT Stations ===
+
+# Eubanks Park & Ride
+# Weaver Dairy Road
+# New Parkside
+# Northfield
+# Piney Mountain
+# Estes
+# Hillsborough
+# Franklin
+# Cameron (northbound)
+# Carrington Hall (northbound)
+# Pittsboro / Credit Union (southbound)
+# Manning / East
+# NC 54
+# Culbreth
+# Southern Village Park & Ride
+
+== See also ==
+*Chapel Hill, North Carolina
+*Carrboro, North Carolina
+*GoTriangle
+*University of North Carolina at Chapel Hill
+*Public transport
+*Bus rapid transit
+
+== References ==
+
+
+== External links ==
+
+* Chapel Hill Transit
+
+
+
+Category:Bus transportation in North Carolina
+Category:Companies based in Chapel Hill-Carrboro, North Carolina
+Category:1974 establishments in North Carolina
+Category:University of North Carolina at Chapel Hill

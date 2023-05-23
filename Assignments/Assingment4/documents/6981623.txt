@@ -1,0 +1,60 @@
+Title: Sławno County
+__NOTOC__
+Sławno County () is a unit of territorial administration and local government (powiat) in West Pomeranian Voivodeship, north-western Poland, on the Baltic coast. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat is the town of Sławno, which lies  north-east of the regional capital Szczecin. The only other town in the county is Darłowo, lying on the coast  west of Sławno.
+
+The county covers an area of . As of 2006 its total population is 57,643, out of which the population of Darłowo is 14,380, that of Sławno is 13,314, and the rural population is 29,949.
+
+==Neighbouring counties==
+Sławno County is bordered by Słupsk County to the east and Koszalin County to the south-west. It also borders the Baltic Sea to the north-west.
+
+==Administrative division==
+The county is subdivided into six gminas (two urban and four rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km²)
+| style="text-align:center;"|Population(2006)
+| style="text-align:center;"|Seat
+|-
+|Darłowo
+|urban
+| style="text-align:right;"|19.9
+| style="text-align:right;"|14,380
+| 
+|-
+|Sławno
+|urban
+| style="text-align:right;"|15.8
+| style="text-align:right;"|13,314
+| 
+|-
+|Gmina Sławno
+|rural
+| style="text-align:right;"|284.2
+| style="text-align:right;"|8,855
+|Sławno *
+|-
+|Gmina Darłowo
+|rural
+| style="text-align:right;"|269.8
+| style="text-align:right;"|7,561
+|Darłowo *
+|-
+|Gmina Postomino
+|rural
+| style="text-align:right;"|227.2
+| style="text-align:right;"|6,973
+|Postomino
+|-
+|Gmina Malechowo
+|rural
+| style="text-align:right;"|226.6
+| style="text-align:right;"|6,560
+|Malechowo
+|-
+|colspan=5 style="text-align:right;font-size:90%"|* seat not part of the gmina
+|-
+|}
+

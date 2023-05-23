@@ -1,0 +1,100 @@
+Title: Novaggio
+Novaggio is a municipality in the district of Lugano, in the canton of Ticino, Switzerland.
+
+==History==
+thumb|Aerial view (1966)
+Novaggio is first mentioned in 1244 as Novagio.
+
+Graves found in Pazz and Traversagna suggest a nearby Iron Age settlement.  In the Early Middle Ages the monastery of S. Abbondio of Como owned property in the village, while the Como Cathedral owned a farm and mill near Novaggio.  In 1294, the Humiliati monastery of Astano owned a house and property in the village.  At that time Novaggio, Curio, Banco and Bedigliora formed a kastlanei.  There were certainly several fortifications around the village, but the exact location, number and type is unknown.
+
+The Church of S. Siro was first mentioned in 1352, and was a parish church since 1632.  The current building dates from 1625.  At the end of the 19th century, a local family founded Evangelical parish.  In 1902 they built a church established an evangelical school.  In 1905, Doctor Fausto Buzzi-Cantone, built Villa Alta.  His partner, Alice Meier, opened a small hospital where the residents of Novaggio were provided free medical care in the park of the villa.  Later the villa was bought by the Confederation, which set up a military hospital, in 1922.
+
+In the 19th century, a vein of silver and gold-bearing galena rock was discovered and mined.  A brick-kiln was built to process the ore.  Previously, the population was living from agriculture, and due to limited land, many emigrated.  At the beginning of the 21st century, most workers worked in the valley.
+
+==Geography==
+Novaggio has an area, , of .  Of this area,  or 12.3% is used for agricultural purposes, while  or 78.2% is forested.   Of the rest of the land,  or 8.4% is settled (buildings or roads) and  or 2.3% is unproductive land.
+
+Of the built up area, housing and buildings made up 6.5% and transportation infrastructure made up 1.4%.  Out of the forested land, 71.5% of the total land area is heavily forested and 5.3% is covered with orchards or small clusters of trees.  Of the agricultural land, 5.6% is used for growing crops and 6.5% is used for alpine pastures.  Of the unproductive areas, 2.3% is unproductive vegetation and .Altitudine, superficie, secondo il genere di utilizzazione, rilevazione 1992/1997, e densità della popolazione, nel 2000   accessed 25 October 2010
+
+The municipality is located in the Lugano district, in the mid-Malcantone valley.
+
+==Demographics==
+Novaggio has a population () of .  , 9.1% of the population are resident foreign nationals.Swiss Federal Statistical Office - Superweb database - Gemeinde Statistics 1981-2008  accessed 19 June 2010  Over the last 10 years (1997–2007) the population has changed at a rate of 16.5%.
+
+Most of the population () speaks Italian (80.0%), with German being second most common (14.1%) and French being third (2.5%).Swiss Federal Statistical Office accessed 24-January-2011  Of the Swiss national languages (), 101 speak German, 18 people speak French, 573 people speak Italian, and 3 people speak Romansh.  The remainder (21 people) speak another language.Popolazione residente, secondo la lingua principale e la religione, nel 2000   accessed 23 November 2010
+
+, the gender distribution of the population was 46.3% male and 53.7% female.  The population was made up of 338 Swiss men (41.1% of the population), and 43 (5.2%) non-Swiss men.  There were 409 Swiss women (49.7%), and 33 (4.0%) non-Swiss women.
+
+In  there were 4 live births to Swiss citizens and were 2 deaths of Swiss citizens.  Ignoring immigration and emigration, the population of Swiss citizens increased by 2 while the foreign population remained the same.  There were 2 Swiss women who emigrated from Switzerland and 2 non-Swiss women who emigrated from Switzerland to another country.  The total Swiss population change in 2008 (from all sources, including moves across municipal borders) was an increase of 3 and the non-Swiss population remained the same.  This represents a population growth rate of 0.4%.
+
+The age distribution, , in Novaggio is; 84 children or 10.2% of the population are between 0 and 9 years old and 98 teenagers or 11.9% are between 10 and 19.  Of the adult population, 84 people or 10.2% of the population are between 20 and 29 years old.  92 people or 11.2% are between 30 and 39, 150 people or 18.2% are between 40 and 49, and 114 people or 13.9% are between 50 and 59.  The senior population distribution is 87 people or 10.6% of the population are between 60 and 69 years old, 56 people or 6.8% are between 70 and 79, there are 58 people or 7.0% who are over 80.01.02.03 Popolazione residente permanente   accessed 23 November 2010
+
+, there were 315 private households in the municipality, and an average of 2.3 persons per household.   there were 289 single family homes (or 79.6% of the total) out of a total of 363 inhabited buildings.  There were 45 two family buildings (12.4%) and 19 multi-family buildings (5.2%).  There were also 10 buildings in the municipality that were multipurpose buildings (used for both housing and commercial or another purpose). 09.02.01 Edifici   accessed 23 November 2010
+
+The vacancy rate for the municipality, , was 0%.   there were 461 apartments in the municipality.  The most common apartment size was the 5 room apartment of which there were 141.  There were 23 single room apartments and 141 apartments with five or more rooms.  09.02.02 Abitazioni   accessed 23 November 2010  Of these apartments, a total of 315 apartments (68.3% of the total) were permanently occupied, while 142 apartments (30.8%) were seasonally occupied and 4 apartments (0.9%) were empty.  , the construction rate of new housing units was 1.2 new units per 1000 residents.
+
+The historical population is given in the following chart:Popolazione residente, dal 1850   accessed 23 November 2010
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.8)
+ImageSize  = width:1080 height:210
+PlotArea   = height:150 left:100 bottom:50 right:100
+AlignBars  = justify
+DateFormat = x.y
+Period     = from:0 till:720
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:100 start:0
+ScaleMinor = gridcolor:lightgrey increment:20 start:0
+PlotData=
+  color:yellowgreen width:40   mark:(line,white) align:center
+  bar:1670 from:start till:373 text:"373"
+  bar:1801 from:start till:379 text:"379"
+  bar:1850 from:start till:441 text:"441"
+  bar:1860 from:start till:468 text:"468"
+  bar:1870 from:start till:447 text:"447"
+  bar:1880 from:start till:467 text:"467"
+  bar:1890 from:start till:466 text:"466"
+  bar:1900 from:start till:476 text:"476"
+  bar:1910 from:start till:493 text:"493"
+  bar:1920 from:start till:395 text:"395"
+  bar:1930 from:start till:463 text:"463"
+  bar:1941 from:start till:442 text:"442"
+  bar:1950 from:start till:432 text:"432"
+  bar:1960 from:start till:418 text:"418"
+  bar:1970 from:start till:517 text:"517"
+  bar:1980 from:start till:501 text:"501"
+  bar:1990 from:start till:606 text:"606"
+  bar:2000 from:start till:716 text:"716"
+
+
+==Politics==
+In the 2007 federal election the most popular party was the FDP which received 27.76% of the vote.  The next three most popular parties were the CVP (23.97%), the SP (17.29%) and the Ticino League (14.22%).  In the federal election, a total of 270 votes were cast, and the voter turnout was 45.5%.Swiss Federal Statistical Office, Nationalratswahlen 2007: Stärke der Parteien und Wahlbeteiligung, nach Gemeinden/Bezirk/Canton  accessed 28 May 2010
+
+In the  Gran Consiglio election, there were a total of 614 registered voters in Novaggio, of which 388 or 63.2% voted.  2 blank ballots and 1 null ballot were cast, leaving 385 valid ballots in the election.  The most popular party was the PLRT which received 85 or 22.1% of the vote.  The next three most popular parties were; the PPD+GenGiova (with 83 or 21.6%), the SSI (with 66 or 17.1%) and the PS (with 57 or 14.8%). Elezioni cantonali: Gran Consiglio, Consiglio di Stato   accessed 23 November 2010
+
+In the  Consiglio di Stato election, 2 blank ballots and 1 null ballot were cast, leaving 385 valid ballots in the election.  The most popular party was the PLRT which received 81 or 21.0% of the vote.  The next three most popular parties were; the PPD (with 75 or 19.5%), the LEGA (with 70 or 18.2%) and the PS (with 68 or 17.7%).
+
+==Economy==
+, Novaggio had an unemployment rate of 3%.  , there were 4 people employed in the primary economic sector and about 2 businesses involved in this sector.  17 people were employed in the secondary sector and there were 5 businesses in this sector.  184 people were employed in the tertiary sector, with 25 businesses in this sector.  There were 305 residents of the municipality who were employed in some capacity, of which females made up 39.7% of the workforce.
+
+, there were 150 workers who commuted into the municipality and 206 workers who commuted away.  The municipality is a net exporter of workers, with about 1.4 workers leaving the municipality for every one entering.  About 12.0% of the workforce coming into Novaggio are coming from outside Switzerland.Swiss Federal Statistical Office - Statweb   accessed 24 June 2010  Of the working population, 10.5% used public transportation to get to work, and 57.4% used a private car.
+
+, there were 3 hotels in Novaggio with a total of 31 rooms and 74 beds. Settori alberghiero e paralberghiero   accessed 23 November 2010
+
+==Religion==
+thumb|View of the bell tower of the Church of San Siro in a snowstorm
+From the , 480 or 67.0% were Roman Catholic, while 116 or 16.2% belonged to the Swiss Reformed Church.  There are 93 individuals (or about 12.99% of the population) who belong to another church (not listed on the census), and 27 individuals (or about 3.77% of the population) did not answer the question.
+
+==Education==
+In Novaggio about 78.4% of the population (between age 25-64) have completed either non-mandatory upper secondary education or additional higher education (either university or a Fachhochschule).
+
+In Novaggio there were a total of 157 students ().  The Ticino education system provides up to three years of non-mandatory kindergarten and in Novaggio there were 32 children in kindergarten.  The primary school program lasts for five years.  In the municipality, 53 students attended the standard primary schools.  In the lower secondary school system, students either attend a two-year middle school followed by a two-year pre-apprenticeship or they attend a four-year program to prepare for higher education.  There were 38 students in the two-year middle school, while 12 students were in the four-year advanced program.
+
+The upper secondary school includes several options, but at the end of the upper secondary program, a student will be prepared to enter a trade or to continue on to a university or college.  In Ticino, vocational students may either attend school while working on their internship or apprenticeship (which takes three or four years) or may attend school followed by an internship or apprenticeship (which takes one year as a full-time student or one and a half to two years as a part-time student).  There were 8 vocational students who were attending school full-time and 11 who attend part-time.
+
+The professional program lasts three years and prepares a student for a job in engineering, nursing, computer science, business, tourism and similar fields.  There were 3 students in the professional program. Allievi e studenti, secondo il genere di scuola, anno scolastico 2009/2010   accessed 23 November 2010
+
+, there were 5 students in Novaggio who came from another municipality, while 68 residents attended schools outside the municipality.
+

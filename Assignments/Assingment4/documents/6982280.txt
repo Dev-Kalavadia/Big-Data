@@ -1,0 +1,52 @@
+Title: Namysłów County
+__NOTOC__
+Namysłów County () is a unit of territorial administration and local government (powiat) in Opole Voivodeship, south-western Poland. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and only town is Namysłów, which lies  north of the regional capital, which is the city of Opole.
+
+The county covers an area of . As of 2019 its total population is 42,692, out of which the population of Namysłów is 16,557 and the rural population is 27,400.
+
+==Neighbouring counties==
+Namysłów County is bordered by Kępno County to the north-east, Kluczbork County to the east, Opole County to the south, Brzeg County to the south-west, and Oława County and Oleśnica County to the west.
+
+==Administrative division==
+The county is subdivided into five gminas (one urban-rural and four rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km²)
+| style="text-align:center;"|Population(2019)
+| style="text-align:center;"|Seat
+|-
+|Gmina Namysłów
+|urban-rural
+| style="text-align:right;"|290.0
+| style="text-align:right;"|26,145
+|Namysłów
+|-
+|Gmina Pokój
+|rural
+| style="text-align:right;"|133.0
+| style="text-align:right;"|5,228
+|Pokój
+|-
+|Gmina Wilków
+|rural
+| style="text-align:right;"|100.6
+| style="text-align:right;"|4,411
+|Wilków
+|-
+|Gmina Domaszowice
+|rural
+| style="text-align:right;"|113.9
+| style="text-align:right;"|3,591
+|Domaszowice
+|-
+|Gmina Świerczów
+|rural
+| style="text-align:right;"|110.3
+| style="text-align:right;"|3,317
+|Świerczów
+|-
+|}
+

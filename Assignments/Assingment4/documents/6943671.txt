@@ -1,0 +1,42 @@
+Title: Formula Renault V6 Eurocup
+
+Formula Renault V6 Eurocup is a former type of formula racing, active from 2003 to 2004, started by Renault as a support series in Eurosport's Super Racing Weekends (ETCC and FIA GT Championship).  It was a Formula Renault 3.5 that include also World Series by Renault and Formula Asia V6 by Renault.
+
+In 2005, Renault left the Super Racing Weekend and started the World Series by Renault, organized by Renault Sport and RPM, merging both the World Series by Nissan (whose engine contract had finished) and Renault V6 Eurocup.
+
+==Race weekend==
+Each starting grid is determined by a qualification session.  There are two rounds in each venue.  The Grand Race is between 120 km and 130 km or 45 minutes with a standing start and one compulsory pit stops, followed by the Super Sprint, between 80 and 90 km or 30 minutes with a rolling start.
+
+Points are awarded to the first ten drivers in each race, 30 points for the winner, followed by: 24, 20, 16, 12, 10, 8, 6, 4, 2.  An extra 2 points are awarded to the driver that make the pole position in each race and, only in 2003, 2 points for the fastest lap in each race.
+
+==Cars==
+The series ran with Tatuus chassis carbone monocoque and a Nissan-sourced 3.5 L V6 engine. Michelin was the tyres supplier.
+
+* Engine : Renault Type V4Y RS, 60° V6, 3498 cc, 370 hp
+* Chassis : Tatuus Carbon-fibre Monocoque, carbon and fibreglass bodywork
+* Width : 1850 mm (72.8") maximum
+* Wheelbase : 3000 mm
+* Track : 1579 mm (front) and 1536 mm (rear)
+* Weight: 590 kg
+* Fuel : 90 litres
+* Suspension front and rear with torsion bar, push-rod, twin struts
+* Telemetry, and steering wheel
+* Sequential manual transmission, six gears
+* Wheels : Single piece magnesium with central nut, 10 x 13 (front) and 13 x 13 (rear)
+* Tyres : Michelin dry and rain, 24 x 57 x 13 (front) and 31 x 60 x 13 (rear)
+
+==Champions==
+{|class="wikitable"
+!Season
+!Champion
+!Team Champion
+|-
+! 2003
+|  José María López
+|  ARTA-Signature
+|-
+! 2004
+|  Giorgio Mondini
+|  EuroInternational
+|}
+

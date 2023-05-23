@@ -1,0 +1,51 @@
+Title: Picoplankton
+
+
+Picoplankton is the fraction of plankton composed by cells between 0.2 and 2 μm that can be either prokaryotic and eukaryotic phototrophs and heterotrophs:
+* photosynthetic 
+* heterotrophic 
+They are prevalent amongst microbial plankton communities of both freshwater and marine ecosystems. They have an important role in making up a significant portion of the total biomass of phytoplankton communities.
+
+== Classification == 
+
+
+In general, plankton can be categorized on the basis of physiological, taxonomic, or dimensional characteristics. Subsequently, a generic classification of a plankton includes:
+* Bacterioplankton
+* Phytoplankton
+* Zooplankton
+However, there is a simpler scheme that categorizes plankton based on a logarithmic size scale: 
+* Macroplankton (200–2000 μm)
+* Micro-plankton (20–200 μm)
+* Nanoplankton (2–20 μm)
+This was even further expanded to include picoplankton (0.2-2 μm) and fem-toplankton (0.02-0.2 μm), as well as net plankton, ultraplankton. Now that picoplankton have been characterized, they have their own further subdivisions such as prokaryotic and eukaryotic phototrophs and heterotrophs that are spread throughout the world in various types of lakes and tropic states. 
+In order to differentiate between autotrophic picoplankton and heterotrophic picoplankton, the autotrophs could have photosynthetic pigments and the ability to show autofluorescence, which would allow for their enumeration under epifluorescence microscopy. This is how minute eukaryotes first became known. 
+
+Overall, picoplankton play an essential role in oligotrophic dimicitc lakes because they are able to produce and then accordingly recycle dissolved organic matter (DOM) in a very efficient manner under circumstance when competition of other phytoplankters is disturbed by factors such as limiting nutrients and predators. Picoplankton are responsible for the most primary productivity in oligotrophic gyres, and are distinguished from nanoplankton and microplankton.  Because they are small, they have a greater surface to volume ratio, enabling them to obtain the scarce nutrients in these ecosystems.
+Furthermore, some species can also be mixotrophic. The smallest of cells (200 nm) are on the order of nanometers, not picometers. The SI prefix pico- is used quite loosely here, as nanoplankton and microplankton are only 10 and 100 times larger, respectively, although it is somewhat more accurate when considering the volume rather than the length.
+
+== Role in ecosystems ==
+Picoplankton contribute greatly to the biomass and primary production in both marine and freshwater lake ecosystems. In the ocean, the concentration of picoplankton is 105–107 cells per millilitre of ocean water. Algal picoplankton is responsible for up to 90 percent of the total carbon production daily and annually in oligotrophic marine ecosystems. The amount of total carbon production by picoplankton in oligotrophic freshwater systems is also high, making up 70 percent of total annual carbon production. Marine picoplankton make up a higher percentage of biomass and carbon production in zones that are oligotrophic, like the open ocean, versus regions near the shore that are more nutrient rich. Their biomass and carbon production percentage also increases as the depth into the euphotic zone increases. This is due to their use of photopigments and efficiency at using blue-green light at these depths. Picoplankton population densities do not fluctuate throughout the year except in a few cases of smaller lakes where their biomass increases as the temperature of the lake water increases.
+
+Picoplankton also play an important role in the microbial loop of these systems by aiding in providing energy to higher trophic levels. They are grazed by a various number of organisms such as flagellates, ciliates, rotifers and copepods. Flagellates are their main predator due to their ability to swim towards picoplankton in order to consume them.
+
+== Oceanic picoplankton ==
+Picoplankton are important in nutrient cycling in all major oceans, where they exist in their highest abundances. They have many features that allow them to survive in these oligotrophic (low-nutrient) and low-light regions, such as the use several nitrogen sources, including nitrate, ammonium, and urea. Their small size and large surface area allows for efficient nutrient acquisition, incident light absorption, and organism growth.  A small size also allows for minimal metabolic maintenance.
+
+Picoplankton, specifically phototrophic picoplankton, play a significant role in the carbon production of open oceanic environments, which largely contributes to the global carbon production. Their carbon production contributes to at least 10% of global aquatic net primary productivity. High primary productivity contributions are made in both oligotrophic and deep zones in oceans. Picoplankton are dominant in biomass in open ocean regions.
+
+Picoplankton also form the base of aquatic microbial food webs and are an energy source in the microbial loop.  All trophic levels in a marine food web are affected by picoplankton carbon production and the gain or loss of picoplankton in the environment, especially in oligotrophic conditions.  Marine predators of picoplankton include heterotrophic flagellates and ciliates. Protozoa are a dominant predator of picoplankton. Picoplankton are often lost through processes such as grazing, parasitism, and viral lysis.
+
+== Measurement ==
+Marine scientists have slowly begun to understand in the last 10 or 15 years the importance of even the smallest subdivisions of plankton and their role in aquatic food webs and in organic and inorganic nutrient recycling. Therefore, being able to accurately measure the biomass and size distribution of picoplankton communities has now become rather essential. Two of the prevalent methods used to identify and enumerate picoplankton are fluorescence microscopy and visual counting. However, both methods are outdated because of their time-consuming and inaccurate nature. As a result, newer, faster, and more accurate methods have emerged lately, including flow cytometry and image-analyzed fluorescence microscopy. Both techniques are efficient in measuring nano plankton and auto-fluorescing phototrophic picoplankton. However, measuring very minute size ranges of picoplankton has often proven to be difficult to measure, which is why Charge-coupled devices (CCD) and video cameras are now being used to measure small picoplankton, although a slow-scan CCD-based camera is more effective at detecting and sizing tiny particles such as bacteria that is fluorochrome-stained.
+
+== See also == 
+* 
+
+== References ==
+
+
+
+
+Category:Biological oceanography
+Category:Planktology
+Category:Aquatic ecology

@@ -1,0 +1,15 @@
+Title: Carbon respiration
+
+
+Carbon respiration (also called carbon emissions and carbon releases) is used in combination with carbon fixation to gauge carbon  flux (as CO2) between  atmospheric carbon and the global carbon cycle
+
+==Basic process==
+Carbon is released to the atmosphere through the burning of fossil fuels, organic respiration, wood burning, and volcanic eruptions. The uptake of carbon from the atmosphere occurs through carbon dissolution into the oceans, Photosynthesis, and the consequent storing of carbon in various forms such as peat bogs, oil accumulation, and formation of minerals such as coal and copper. It also happens when carbohydrates are changed into carbon dioxide.
+
+==Carbon flux ratio==
+upright=1.2|right|thumb|Graph of CO, temperature, and dust concentration measured from the Vostok, Antarctica ice core as reported by Petit et al., 1999.
+
+The calculation of the annual net difference between carbon release and carbon storage constitutes the annual global atmospheric carbon accumulation rate. Using this method, the annual carbon flux ratio has been calculated to be approaching zero. This means the carbon respiration rate and carbon storage rate are in balance when generating a global estimate of this figure.
+
+Annual net carbon flux has been grossly calculated to be close to zero, implying the carbon release and carbon fixation rates are roughly in balance worldwide.  This finding is contradicted by measuring the concentrations of carbon dioxide in the atmosphere, an important indication that the balance is tipped toward emissions.  Using this data, atmospheric concentrations appear to have increased rapidly over the past 100 years and are currently higher than ever in human history, suggesting that more carbon is being released than can be absorbed on earth.
+

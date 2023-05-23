@@ -1,0 +1,83 @@
+Title: Seminole County Fire Department
+
+The Seminole County Fire Department (SCFD) provides fire protection and emergency medical services to the unincorporated parts of Seminole County, Florida along with the cities of Altamonte Springs, Casselberry, and Winter Springs.
+
+==History==
+The Seminole County Department of Public Safety first created an EMS/Fire/Rescue Division in 1974. This department, which was created from numerous volunteer departments that were already established across the county, was designed to serve the unincorporated areas of Seminole County. By 2000 the department had grown to over 13 stations and in 2002 merged with the City of Altamonte Springs' Fire Department to make one of the largest fire departments in Central Florida. In October 2008, Winter Springs Fire Department also merged into Seminole County bringing the number of county stations to 18. On October 1, 2015 Casselberry Fire/Rescue was assimilated into Seminole County.
+
+==Stations and Apparatus==
+The SCFD has 20 stations spread out in 4 separate battalions. Due to the first response structure of SCFD, a city BC or apparatus may respond as first in to a call. The first response structure was slightly altered in September 2019 with the introduction of a new GPS based AVL and CAD system allowing for the physically closest available unit to the incident to respond automatically.  Station 65 at the University of Central Florida is jointly run by the Orange County Fire Rescue.
+
+{| class=wikitable style="text-align:center;"
+|-
+! Fire Station #
+! Community
+! Engine Company 
+! EMS Rescue Unit
+! Tower or Quint Company 
+! Command Unit 
+! Woods Unit 
+! Other units 
+! Battalion
+|-
+! 11
+|Altamonte Springs (east)|| Engine 11 || Rescue 11|| || || Woods 11 || Boat 11 || 1 
+|-
+! 12 
+|Altamonte Springs (west)|| Engine 12 || Rescue 12|| Tower 12 || Battalion 1 || || || 1 
+|-
+! 13 
+|Forest City|| Engine 13||  Rescue 13  Rescue 14 (9-5 M-F and special events) || Tower 39 (Temporary) || || || Tanker 13 || 1 
+|-
+! 14 
+|Altamonte Springs (central)|| Engine 14|||| || || || || 1 
+|-
+! 16 
+|Wekiva Springs|| Engine 16|| Rescue 16 || || ||Woods 16|| || 3 
+|-
+! 21 
+|Casselberry|| Engine 21||  Rescue 21  Rescue 28 (9-5 M-F and special events) || || Battalion 5 (Spare) || || Boat 21 || 2 
+|-
+! 22 
+|Fern Park|| Engine 22|| Rescue 22 (Bariatric) || || || || || 1 
+|-
+! 23 
+|Goldenrod|| Engine 23|| Rescue 23 || || || || || 2 
+|-
+! 24 
+|Winter Springs|| ||  Rescue 24 || Quint 24 || Tech 1 || || Tanker 24  Rehab 1 || 4 
+|-
+! 25 
+|Casselberry||||  Rescue 25|| Tower 25|| || || || 2 
+|-
+! 26 
+|Winter Springs|| Engine 26 ||  Rescue 26|| || || || || 2 
+|-
+! 27 
+|Winter Springs|| Engine 27 ||  Rescue 27 || Tower 27 || Battalion 2 || || EMS 1 || 2 
+|-
+! 29 
+| Jamestown (Oviedo)|| Engine 29 ||  Rescue 29 || || || Woods 29 || || 2 
+|-
+! 34 
+| Paola (Sanford)||||  Rescue 34 || Quint 34 || || Woods 34 ||ATV 34 Boat 39Tanker 34 || 3 
+|-
+! 35 
+|Five Points || Engine 35 ||  Rescue 35|| || Chief 5 ||Woods 35 ||Boat 35Squad 2Dive Unit 35 || 3 
+|-
+! 36 
+|Heathrow || Engine 36 || Rescue 36 || || Battalion 3 || || || 3 
+|-
+! 41 
+|Midway|| Engine 41 ||  Rescue 41|| || Battalion 4 || Woods 41 || Boat 41 UTV 41 || 4 
+|-
+! 42 
+|Geneva|| Engine 42 ||  Rescue 42|| || ||Woods 42|| Air Boat 42 Boat 42ATV 42Tanker 42 || 4 
+|-
+! 43 
+|Chuluota|| Engine 43 || Rescue 43|| || || Woods 43||ATV 43 Tanker 43 || 4 
+|-
+! 65 
+|UCF|| Engine 65 (OCFR)|| Rescue 65||  || || || || 2
+|}
+

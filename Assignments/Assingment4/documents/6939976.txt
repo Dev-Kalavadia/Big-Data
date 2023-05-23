@@ -1,0 +1,383 @@
+Title: List of municipalities of the Province of Frosinone
+
+The following is a list of the 91 municipalities (comuni) of the Province of Frosinone, Lazio, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2011)
+|-
+|060001
+|Acquafondata
+| align="right" |282
+|-
+|060002
+|Acuto
+| align="right" |1,910
+|-
+|060003
+|Alatri
+| align="right" |28,609
+|-
+|060004
+|Alvito
+| align="right" |2,852
+|-
+|060005
+|Amaseno
+| align="right" |4,314
+|-
+|060006
+|Anagni
+| align="right" |21,441
+|-
+|060007
+|Aquino
+| align="right" |5,309
+|-
+|060008
+|Arce
+| align="right" |5,783
+|-
+|060009
+|Arnara
+| align="right" |2,379
+|-
+|060010
+|Arpino
+| align="right" |7,386
+|-
+|060011
+|Atina
+| align="right" |4,461
+|-
+|060012
+|Ausonia
+| align="right" |2,650
+|-
+|060013
+|Belmonte Castello
+| align="right" |778
+|-
+|060014
+|Boville Ernica
+| align="right" |8,811
+|-
+|060015
+|Broccostella
+| align="right" |2,807
+|-
+|060016
+|Campoli Appennino
+| align="right" |1,749
+|-
+|060017
+|Casalattico
+| align="right" |641
+|-
+|060018
+|Casalvieri
+| align="right" |2,867
+|-
+|060019
+|Cassino
+| align="right" |33,658
+|-
+|060020
+|Castelliri
+| align="right" |3,533
+|-
+|060021
+|Castelnuovo Parano
+| align="right" |902
+|-
+|060022
+|Castrocielo
+| align="right" |3,969
+|-
+|060023
+|Castro dei Volsci
+| align="right" |4,903
+|-
+|060024
+|Ceccano
+| align="right" |23,098
+|-
+|060025
+|Ceprano
+| align="right" |8,740
+|-
+|060026
+|Cervaro
+| align="right" |7,744
+|-
+|060027
+|Colfelice
+| align="right" |1,853
+|-
+|060028
+|Collepardo
+| align="right" |975
+|-
+|060029
+|Colle San Magno
+| align="right" |744
+|-
+|060030
+|Coreno Ausonio
+| align="right" |1,671
+|-
+|060031
+|Esperia
+| align="right" |3,903
+|-
+|060032
+|Falvaterra
+| align="right" |567
+|-
+|060033
+|Ferentino
+| align="right" |20,966
+|-
+|060034
+|Filettino
+| align="right" |551
+|-
+|060035
+|Fiuggi
+| align="right" |9,645
+|-
+|060036
+|Fontana Liri
+| align="right" |2,993
+|-
+|060037
+|Fontechiari
+| align="right" |1,318
+|-
+|060038
+|Frosinone
+| align="right" |46,649
+|-
+|060039
+|Fumone
+| align="right" |2,180
+|-
+|060040
+|Gallinaro
+| align="right" |1,246
+|-
+|060041
+|Giuliano di Roma
+| align="right" |2,343
+|-
+|060042
+|Guarcino
+| align="right" |1,658
+|-
+|060043
+|Isola del Liri
+| align="right" |11,963
+|-
+|060044
+|Monte San Giovanni Campano
+| align="right" |12,882
+|-
+|060045
+|Morolo
+| align="right" |3,267
+|-
+|060046
+|Paliano
+| align="right" |8,146
+|-
+|060047
+|Pastena
+| align="right" |1,528
+|-
+|060048
+|Patrica
+| align="right" |3,084
+|-
+|060049
+|Pescosolido
+| align="right" |1,552
+|-
+|060050
+|Picinisco
+| align="right" |1,255
+|-
+|060051
+|Pico
+| align="right" |3,004
+|-
+|060052
+|Piedimonte San Germano
+| align="right" |6,036
+|-
+|060053
+|Piglio
+| align="right" |4,657
+|-
+|060054
+|Pignataro Interamna
+| align="right" |2,558
+|-
+|060055
+|Pofi
+| align="right" |4,303
+|-
+|060056
+|Pontecorvo
+| align="right" |13,223
+|-
+|060057
+|Posta Fibreno
+| align="right" |1,217
+|-
+|060058
+|Ripi
+| align="right" |5,346
+|-
+|060059
+|Rocca d'Arce
+| align="right" |971
+|-
+|060060
+|Roccasecca
+| align="right" |7,536
+|-
+|060061
+|San Biagio Saracinisco
+| align="right" |361
+|-
+|060062
+|San Donato Val di Comino
+| align="right" |2,122
+|-
+|060063
+|San Giorgio a Liri
+| align="right" |3,166
+|-
+|060064
+|San Giovanni Incarico
+| align="right" |3,410
+|-
+|060065
+|Sant'Ambrogio sul Garigliano
+| align="right" |994
+|-
+|060066
+|Sant'Andrea del Garigliano
+| align="right" |1,566
+|-
+|060067
+|Sant'Apollinare
+| align="right" |1,931
+|-
+|060068
+|Sant'Elia Fiumerapido
+| align="right" |6,227
+|-
+|060069
+|Santopadre
+| align="right" |1,410
+|-
+|060070
+|San Vittore del Lazio
+| align="right" |2,679
+|-
+|060071
+|Serrone
+| align="right" |3,069
+|-
+|060072
+|Settefrati
+| align="right" |792
+|-
+|060073
+|Sgurgola
+| align="right" |2,623
+|-
+|060074
+|Sora
+| align="right" |26,247
+|-
+|060075
+|Strangolagalli
+| align="right" |2,501
+|-
+|060076
+|Supino
+| align="right" |4,893
+|-
+|060077
+|Terelle
+| align="right" |460
+|-
+|060078
+|Torre Cajetani
+| align="right" |1,388
+|-
+|060079
+|Torrice
+| align="right" |4,608
+|-
+|060080
+|Trevi nel Lazio
+| align="right" |1,853
+|-
+|060081
+|Trivigliano
+| align="right" |1,693
+|-
+|060082
+|Vallecorsa
+| align="right" |2,800
+|-
+|060083
+|Vallemaio
+| align="right" |1,002
+|-
+|060084
+|Vallerotonda
+| align="right" |1,671
+|-
+|060085
+|Veroli
+| align="right" |20,763
+|-
+|060086
+|Vicalvi
+| align="right" |806
+|-
+|060087
+|Vico nel Lazio
+| align="right" |2,256
+|-
+|060088
+|Villa Latina
+| align="right" |1,286
+|-
+|060089
+|Villa Santa Lucia
+| align="right" |2,639
+|-
+|060090
+|Villa Santo Stefano
+| align="right" |1,707
+|-
+|060091
+|Viticuso
+| align="right" |372
+|-
+|
+|Total
+| align="right" |492,661
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

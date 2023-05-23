@@ -1,0 +1,311 @@
+Title: List of municipalities of the Aosta Valley
+The following is a list of the 74 municipalities (comuni) of the Aosta Valley, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT code
+!Municipality
+!Population (2005)
+|-
+|007001
+|Allein
+| align="right" |243
+|-
+|007002
+|Antey-Saint-André
+| align="right" |602
+|-
+|007003
+|Aosta / Aoste
+| align="right" |34,270
+|-
+|007004
+|Arnad
+| align="right" |1,294
+|-
+|007005
+|Arvier
+| align="right" |848
+|-
+|007006
+|Avise
+| align="right" |312
+|-
+|007007
+|Ayas
+| align="right" |1,296
+|-
+|007008
+|Aymavilles
+| align="right" |1,966
+|-
+|007009
+|Bard
+| align="right" |135
+|-
+|007010
+|Bionaz
+| align="right" |244
+|-
+|007011
+|Brissogne
+| align="right" |962
+|-
+|007012
+|Brusson
+| align="right" |860
+|-
+|007013
+|Challand-Saint-Anselme
+| align="right" |695
+|-
+|007014
+|Challand-Saint-Victor
+| align="right" |589
+|-
+|007015
+|Chambave
+| align="right" |937
+|-
+|007016
+|Chamois
+| align="right" |99
+|-
+|007017
+|Champdepraz
+| align="right" |674
+|-
+|007018
+|Champorcher
+| align="right" |417
+|-
+|007019
+|Charvensod
+| align="right" |2,333
+|-
+|007020
+|Châtillon
+| align="right" |4,846
+|-
+|007021
+|Cogne
+| align="right" |1,470
+|-
+|007022
+|Courmayeur
+| align="right" |2,979
+|-
+|007023
+|Donnas
+| align="right" |2,661
+|-
+|007024
+|Doues
+| align="right" |409
+|-
+|007025
+|Émarèse
+| align="right" |217
+|-
+|007026
+|Étroubles
+| align="right" |472
+|-
+|007027
+|Fénis
+| align="right" |1,653
+|-
+|007028
+|Fontainemore
+| align="right" |412
+|-
+|007029
+|Gaby
+| align="right" |490
+|-
+|007030
+|Gignod
+| align="right" |1,352
+|-
+|007031
+|Gressan
+| align="right" |2,981
+|-
+|007032
+|Gressoney-La-Trinité
+| align="right" |306
+|-
+|007033
+|Gressoney-Saint-Jean
+| align="right" |799
+|-
+|007034
+|Hône
+| align="right" |1,162
+|-
+|007035
+|Introd
+| align="right" |573
+|-
+|007036
+|Issime
+| align="right" |400
+|-
+|007037
+|Issogne
+| align="right" |1,374
+|-
+|007038
+|Jovençan
+| align="right" |709
+|-
+|007039
+|La Magdeleine
+| align="right" |95
+|-
+|007040
+|La Salle
+| align="right" |1,985
+|-
+|007041
+|La Thuile
+| align="right" |766
+|-
+|007042
+|Lillianes
+| align="right" |494
+|-
+|007043
+|Montjovet
+| align="right" |1,795
+|-
+|007044
+|Morgex
+| align="right" |1,938
+|-
+|007045
+|Nus
+| align="right" |2,713
+|-
+|007046
+|Ollomont
+| align="right" |161
+|-
+|007047
+|Oyace
+| align="right" |211
+|-
+|007048
+|Perloz
+| align="right" |467
+|-
+|007049
+|Pollein
+| align="right" |1,441
+|-
+|007050
+|Pontboset
+| align="right" |190
+|-
+|007051
+|Pontey
+| align="right" |742
+|-
+|007052
+|Pont-Saint-Martin
+| align="right" |3,957
+|-
+|007053
+|Pré-Saint-Didier
+| align="right" |968
+|-
+|007054
+|Quart
+| align="right" |3,263
+|-
+|007055
+|Rhêmes-Notre-Dame
+| align="right" |124
+|-
+|007056
+|Rhêmes-Saint-Georges
+| align="right" |200
+|-
+|007057
+|Roisan
+| align="right" |900
+|-
+|007058
+|Saint-Christophe
+| align="right" |3,124
+|-
+|007059
+|Saint-Denis
+| align="right" |361
+|-
+|007060
+|Saint-Marcel
+| align="right" |1,206
+|-
+|007061
+|Saint-Nicolas
+| align="right" |325
+|-
+|007062
+|Saint-Oyen
+| align="right" |218
+|-
+|007063
+|Saint-Pierre
+| align="right" |2,785
+|-
+|007064
+|Saint-Rhémy-en-Bosses
+| align="right" |387
+|-
+|007065
+|Saint-Vincent
+| align="right" |4,833
+|-
+|007066
+|Sarre
+| align="right" |4,434
+|-
+|007067
+|Torgnon
+| align="right" |522
+|-
+|007068
+|Valgrisenche
+| align="right" |184
+|-
+|007069
+|Valpelline
+| align="right" |627
+|-
+|007070
+|Valsavarenche
+| align="right" |178
+|-
+|007071
+|Valtournenche
+| align="right" |2,169
+|-
+|007072
+|Verrayes
+| align="right" |1,305
+|-
+|007073
+|Verrès
+| align="right" |2,623
+|-
+|007074
+|Villeneuve
+| align="right" |1,136
+|-
+|
+|Total
+| align="right" |122,868
+|-
+|}
+

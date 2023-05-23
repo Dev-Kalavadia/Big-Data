@@ -1,0 +1,52 @@
+Title: ReboilerReboilers are heat exchangers typically used to provide heat to the bottom of industrial distillation columns. They boil the liquid from the bottom of a distillation column to generate vapors which are returned to the column to drive the distillation separation. The heat supplied to the column by the reboiler at the bottom of the column is removed by the condenser at the top of the column.
+
+Proper reboiler operation is vital to effective distillation. In a typical classical distillation column, all the vapor driving the separation comes from the reboiler. The reboiler receives a liquid stream from the column bottom and may partially or completely vaporize that stream. Steam usually provides the heat required for the vaporization.
+
+== Types of reboilers ==
+
+The most critical element of reboiler design is the selection of the proper type of reboiler for a specific service. Most reboilers are of the shell and tube heat exchanger type and normally steam is used as the heat source in such reboilers. However, other heat transfer fluids like hot oil or Dowtherm (TM) may be used. Fuel-fired furnaces may also be used as reboilers in some cases.
+
+Commonly used heat exchanger type reboilers are:
+
+thumb|250px|right|Image 1: Typical steam-heated kettle reboiler for distillation towers
+
+===Kettle Type reboilers===
+Kettle reboilers (Image 1) are very simple and reliable. They may require pumping of the column bottoms liquid into the kettle, or there may be sufficient liquid head to deliver the liquid into the reboiler.  In this reboiler type, steam flows through the tube bundle and exits as condensate. The liquid from the bottom of the tower, commonly called the bottoms, flows through the shell side.  There is a retaining wall or overflow weir separating the tube bundle from the reboiler section where the residual reboiled liquid (called the bottoms product) is withdrawn, so that the tube bundle is kept covered with liquid and reduce the amount of low-boiling compounds in the bottoms product.
+
+thumb|300px|right|Image 2: Typical horizontal thermosyphon reboiler
+
+
+
+===Thermosyphon reboilers===
+Thermosyphon reboilers (Image 2) do not require pumping of the column bottoms liquid into the reboiler. Natural circulation is obtained by using the density difference between the reboiler inlet column bottoms liquid and the reboiler outlet liquid-vapor mixture to provide sufficient liquid head to deliver the tower bottoms into the reboiler. Thermosyphon reboilers (also known as calandrias) are more complex than kettle reboilers and require more attention from the plant operators. There are many types of thermosyphon reboilers including vertical, horizontal, once-through or recirculating.
+
+thumb|right|300px|Image 3: A forced recirculating fired heater reboiler
+
+===Fired reboiler===
+Fired heaters (Image 3), also known as furnaces, may be used as a distillation column reboiler. A pump is required to circulate the column bottoms through the heat transfer tubes in the furnace's convection and radiant sections. The heat source for the fired heater reboiler may be either fuel gas or fuel oil.
+
+thumb|right|250px|Image 4: Typical steam-heated forced circulation reboiler for distillation towers
+
+===Forced circulation reboilers===
+A forced circulation reboiler (Image 4) uses a pump to circulate the column bottoms liquid through the reboilers. This is useful if the reboiler must be located far from the column, or if the bottoms product is extremely viscous.
+
+Some fluids are temperature sensitive such as those subject to polymerization by contact with high temperature heat transfer tube walls. High liquid recirculation rates are used to reduce tube wall temperatures, thereby reducing polymerization on the tube and associated fouling.
+
+==See also==
+
+* Vaporization
+* Boiling
+
+==Further reading==
+* 
+*
+
+==External links==
+* Column reboilers
+* Sketches and discussion of various reboiler types
+
+Category:Heat exchangers
+Category:Distillation
+Category:Industrial equipment
+
+pl:Podgrzewacz cwu

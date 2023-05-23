@@ -1,0 +1,49 @@
+Title: 1994 Ukrainian presidential election
+
+
+Early presidential elections were held in Ukraine on 26 June 1994, with a second round on 10 July.Dieter Nohlen & Philip Stöver (2010) Elections in Europe: A data handbook, p1976  They were held ahead of schedule following a compromise between President Leonid Kravchuk and the Verkhovna Rada. The elections saw Kravchuk defeated by his former Prime Minister Leonid Kuchma. They were the first presidential elections in the Commonwealth of Independent States in which the incumbent was defeated.
+
+Kuchma took office on 19 July, marking the first peaceful transfer of power since the fall of Communism.
+
+==Background==
+On 17 June 1993 the Verkhovna Rada voted to hold a referendum on 26 September that would serve as a motion of no confidence in President Kravchuk. However, the referendum was cancelled two days before it was due to be held. The Verkhovna Rada instead decided to hold early parliamentary elections on 24 March 1994, and early presidential elections two months later.
+
+==Results==
+In the first round Kravchuk was supported by the People's Movement (which had originally collected signatures for Volodymyr Lanovyi) and the Democratic Association, an alliance of right-wing parties that viewed Kuchma as being pro-Russian. Kuchma was supported by the Interregional Bloc of Reforms, and Socialist Party candidate Oleksandr Moroz was supported by the Communist Party and Peasant Party.Political parties of Ukraine in cooperation with structures of power Kyiv center of political research and conflictology After he was knocked out, the Communists supported Kuchma in the second round.Dmitry Bazyov Elections-99: Kuchma and CPU – together again! Den, 15 May 1999
+
+{| class=wikitable style=text-align:right
+!rowspan=2|Candidate
+!rowspan=2|Party
+!colspan=2|First round
+!colspan=2|Second round
+|-
+!Votes
+!%
+!Votes
+!%
+|-
+|align=left|Leonid Kravchuk||align=left|Independent||9,977,766||38.4||12,111,603||45.2
+|-
+|align=left|Leonid Kuchma||align=left|Independent||8,274,806||31.8||14,016,850||52.4
+|-
+|align=left|Oleksandr Moroz||align=left|Socialist Party||3,466,541||13.3||colspan=2 rowspan=5|
+|-
+|align=left|Volodymyr Lanovyi||align=left|Independent||2,483,986||9.6
+|-
+|align=left|Valeriy Babych||align=left|Independent||644,263||2.5
+|-
+|align=left|Ivan Plyushch||align=left|Independent||321,886||1.2
+|-
+|align=left|Petro Talanchuk||align=left|Independent||143,361||0.6
+|-
+|align=left colspan=2|Against all||697,564||2.7||645,508||2.4
+|-
+|align=left colspan=2|Invalid votes||470,498||–||109,681||–
+|-
+|align=left colspan=2|Total||26,480,671||100||26,883,642||100
+|-
+|align=left colspan=2|Registered voters/turnout||37,630,835||70.4||37,531,666||71.6
+|-
+|align=left colspan=6|Source: Nohlen & Stöver
+|}
+

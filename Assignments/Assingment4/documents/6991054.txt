@@ -1,0 +1,20 @@
+Title: Elektronika MK-18M
+
+The Elektronika MK-18M () was a scientific calculator manufactured in the Soviet Union. It was released in 1986.
+thumb|right
+
+==Technical specifications==
+*Display: fluorescent, green color, contains 8 digits + minus sign + error sign
+*Power: 4 x AA batteries or AC adapter (with charging function) with 3-pin connector, power consumption ≤0.7W 
+*20 buttons
+*Case: aluminium + plastic
+*Supported numbers range: ±(10E-7)...±(10E8-1)
+*Size: 170x86.5x27 mm, weighing around 350 grams
+*Ambient temperature range: +10...+35 °C
+
+==See also==
+*Elektronika B3-34
+Category:Computer-related introductions in 1986
+Category:Elektronika calculators
+
+

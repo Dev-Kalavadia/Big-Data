@@ -1,0 +1,12 @@
+Title: Amanin
+
+
+Amanin is a cyclic peptide. It is one of the amatoxins, all of which are found in several members of the mushroom genus Amanita.
+
+==Toxicology==
+
+Like other amatoxins, amanin is an inhibitor of RNA polymerase II.  Upon ingestion, it binds to the RNA polymerase II enzyme which completely prevents mRNA synthesis, effectively causing cytolysis of hepatocytes (liver cells) and kidney cells.
+
+==See also==
+*Mushroom poisoning
+

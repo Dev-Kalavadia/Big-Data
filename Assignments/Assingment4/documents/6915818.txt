@@ -1,0 +1,58 @@
+Title: CodeRush
+
+
+CodeRush Classic is a refactoring and productivity plugin by DevExpress that extends native functionality of Microsoft Visual Studio (Visual Studio .NET 2012, 2013, 2015, 2017 and 2019).
+
+CodeRush Classic provides solution-wide static code analysis (detecting errors in code at design time), and additional functionality to make it easier to correct code smells, complete code, navigate, search for symbols, highlight the structural elements of the code, format code, and generate and optimize code. CodeRush Classic includes 180 automated refactorings, and streamlines unit testing using NUnit, XUnit, MbUnit and MSTest, among other functionality.
+
+In June 2015, DevExpress released CodeRush for Roslyn, a version of CodeRush that sits on top of Microsoft's Roslyn engine. In that same release, CodeRush was renamed to CodeRush Classic.
+
+CodeRush Classic supports C# 5.0, VB10, ASP.NET, HTML, JavaScript, XML, and also XAML.
+
+==Functionality==
+The following is a partial list of CodeRush functionality groups:
+
+* Refactorings
+* Code Generation Tools
+* Code Issues
+* Support for multiple unit testing frameworks NUnit, XUnit, MbUnit and MSTest
+* Support for extensible unit testing to support any testing framework
+* Visualization Tools
+* Debugging Tools
+* Advanced Selection Tools
+* Clipboard Tools
+* Navigation Tools
+* Code Templates
+* CodeRush Extensibility - Large community of plugins.
+
+==Plugins==
+CodeRush provides an API for developers to create third-party plugins extending core CodeRush functionality, such as:
+
+* Class Cleaner
+* Visual Studio Spell Checker
+* Documentor
+* Method Preview
+* Enterprise Library Configuration Tool Launcher
+* Commenter
+* Copy Project
+
+==Awards==
+* Best of TechEd08
+
+==See also==
+*Visual Assist
+*ReSharper
+
+==Notes and references==
+
+
+==External links==
+*Google Code Community Plugins
+*IDETools Tips and Tricks
+*CodeRush AddIns
+*
+
+
+Category:Integrated development environments
+Category:.NET programming tools
+Category:Microsoft Visual Studio extensions

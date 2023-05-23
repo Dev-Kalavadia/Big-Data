@@ -1,0 +1,23 @@
+Title: Accommodative convergenceAccommodative convergence is that portion of the range of inward rotation of both eyes (i.e. convergence) that occurs in response to an increase in optical power for focusing by the crystalline lens (i.e. accommodation).Cassin, B. and Solomon, S. Dictionary of Eye Terminology. Gainesville, Florida: Triad Publishing Company, 1990.  When the human eye engages the accommodation system to focus on a near object, signal is automatically sent to the extraocular muscles that are responsible for turning their eyes inward.  This is helpful for maintaining single, clear, and comfortable vision during reading or similar near tasks.  However, errors in this relationship can cause problems, such as hyperopic individuals having a tendency  for crossed eyes because of the over exertion of their accommodation system.
+
+Clinically, accommodative convergence is measured as a ratio of convergence, measured in prism diopters, to accommodation, measured in diopters of near demand.  The patient is instructed to make a near target perfectly clear and their phoria is measured as the focusing demand on the eye is changed with lenses.
+
+To determine stimulus AC/A, the denominator refers to the value of the stimulus, whereas to determine response
+AC/A, the actual accommodation elicited is the denominator. Determination of response AC/A an increase in AC/A mainly after 40 years of age,
+whereas assessment of the stimulus AC/A does not show change in AC/A with increasing age. Whether
+there is a significant increase in the response AC/A
+before age 40 is unclear. Research on convergence
+accommodation (CA) shows a decrease in CA/C,
+whether measured by response or stimulus methods,
+with increasing age.
+
+ Schor C, Narayan V. Graphical analysis of prism adaptation, convergence accommodation, and accommodative convergence. Am J Optom Physiol Optics.
+1982;59:774-784.
+10. Wick B, Currie D. Convergence accommodation: Laborator)' and clinical evaluation. Optom Vis Sci.
+1991;68:226-231.
+
+==See also==
+*Convergence insufficiency
+*Negative relative accommodation
+*Positive relative accommodation
+

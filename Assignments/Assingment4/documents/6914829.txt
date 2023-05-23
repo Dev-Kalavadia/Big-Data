@@ -1,0 +1,34 @@
+Title: Camera & Imaging Products Association
+ is a Japan-based organization set up in July 2002 to deal with technologies related to photography.  Its members are engaged with the production of film-based and digital cameras, and other related equipment.
+
+This organization succeeds the Japan Camera Industry Association (JCIA).
+
+== Regular members ==
+
+* Canon Inc.
+* Casio
+* Fujifilm
+* Hoya Corporation
+* Tokina
+* Nidec Copal Corporation
+* Nikon
+* Olympus Corporation
+* Panasonic Corporation
+* Ricoh
+* Seiko Epson
+* Seiko
+* Sigma Corporation
+* Sony
+* Tamron
+* Xacti
+
+==Guidelines==
+CIPA publishes guidelines such as "CIPA DCG-001-2018 – Individual Guidelines for noting digital camera specifications on Number of pixels, Image file, and Focal length of the lens" (previously known as JCIA GLA03), which act as standards for how their members specify products.
+
+CIPA DCG-001, only lightly modified since the original 1998 version, is particularly about reporting numbers of pixels as digital camera specifications.  While it does not specifically define pixel, its discussion and examples are consistent with a pixel being an individual photosensor element such as an APS or CCD element.  It suggests reporting primarily the "number of effective pixels", defined as "The number of pixels on the image sensor which receive input light through the optical lens, and which are effectively reflected in the final output data of the still image."  Examples include how to rate multi-sensor cameras such as three-CCD cameras, e.g. as "Number of Effective Pixels 1,020k (340k x 3)".
+
+== See also ==
+* PictBridge
+* Exif
+* Japan Electronics and Information Technology Industries Association (JEITA)
+

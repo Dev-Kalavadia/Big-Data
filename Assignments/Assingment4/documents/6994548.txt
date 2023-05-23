@@ -1,0 +1,198 @@
+Title: EA Salt Lake
+
+EA Salt Lake was an American video game developer located in Salt Lake City, Utah, United States. It was owned by video game publisher Electronic Arts (EA).
+
+==History==
+
+EA Salt Lake was founded by the studio's president, Vance Cook, as Headgate Studios in 1992. As a veteran programmer for years at Access Software, the onetime premier developer of golf simulations, Cook had the experience and knowledge of how to create a rewarding golfing experience. Headgate's first product was PentaCalc, a scientific calculator for Windows.
+
+In April 1996 the studio was purchased by Sierra On-Line. Initially, Headgate solely developed golf games published by Sierra, starting with Front Page Sports: Golf.Front Page Golf review @ gamespot.com On February 22, 1999 Sierra announced a major restructuring of their company, and sold the rights of the original studio back to Cook as a new corporate entity.
+
+In 2000, Headgate began publishing games through Electronic Arts. Headgate began developing Tiger Woods PGA Tour for the PC based on their existing golf engine. They were assigned by EA to develop the title on PlayStation 2 for the 2007 title, and Microsoft Windows, PlayStation 2 and Wii for the 2008 title.
+
+Headgate developed every Microsoft Windows version of the Tiger Woods PGA Tour EA Sports franchise from 2000 to 2007. Headgate's golf games consistently got high praise from industry reviewers and have won numerous industry awards.PGA Championship Golf 2000 review from GameSpot
+
+On December 1, 2006, Headgate Studios was acquired by Electronic Arts. Headgate was renamed EA Salt Lake. The studios' focus was redirected to developing games for Nintendo's new console, the Wii.
+
+On July 21, 2010, EA Salt Lake was moved from its home in Bountiful, Utah to a new state-of-the-art facility in downtown Salt Lake City, Utah, United States.
+
+In 2011, EA Salt Lake was moved to the Maxis division of Electronic Arts, where it developed four expansion packs for the life simulation game The Sims 3.
+
+After the last expansion pack for The Sims 3, Into the Future, was released, a restructure to focus on mobile titles took place in January 2014. EA closed down the studio in April 2017.
+
+==Games developed==
+{| class="wikitable sortable"
+|+
+!Year
+!Title
+!Platform(s)
+|-
+! colspan="3" style="text-align:center;"  |As Headgate Studios
+|-
+|1997
+|Front Page Sports: Golf
+|Microsoft Windows
+|-
+|1998
+|PGA Championship Golf
+|Microsoft Windows
+|-
+|1999
+|PGA Championship Golf: 1999 Edition
+|Microsoft Windows
+|-
+| rowspan="2" |2000
+|PGA Championship Golf 2000
+|Microsoft Windows
+|-
+|Tiger Woods PGA Tour 2001
+|Microsoft Windows
+|-
+| rowspan="2" |2002
+|Tiger Woods PGA Tour 2002
+|Microsoft Windows
+|-
+|Tiger Woods PGA Tour 2003
+|Microsoft Windows
+|-
+|2003
+|Tiger Woods PGA Tour 2004
+|Microsoft Windows
+|-
+|2004
+|Tiger Woods PGA Tour 2005
+|Microsoft Windows
+|-
+|2005
+|Tiger Woods PGA Tour 06
+|Microsoft Windows
+|-
+| rowspan="5" |2006
+|The Godfather: The Game
+|Microsoft Windows
+|-
+| rowspan="4" |Tiger Woods PGA Tour 07
+|Microsoft Windows
+|-
+|PlayStation 2
+|-
+|Wii
+|-
+|Xbox
+|-
+! colspan="3" style="text-align:center;"  |As EA Salt Lake
+|-
+| rowspan="6" |2007
+| rowspan="2" |Madden NFL 08
+|Macintosh
+|-
+|Microsoft Windows
+|-
+| rowspan="4" |Tiger Woods PGA Tour 08
+|Microsoft Windows
+|-
+|Macintosh
+|-
+|PlayStation 2
+|-
+|Wii
+|-
+| rowspan="6" |2008
+| rowspan="2" |Littlest Pet Shop
+|Microsoft Windows
+|-
+|Wii
+|-
+|Littlest Pet Shop: Garden
+|Nintendo DS
+|-
+|Littlest Pet Shop: Jungle
+|Nintendo DS
+|-
+|Littlest Pet Shop: Winter
+|Nintendo DS
+|-
+|Nerf N-Strike
+|Wii
+|-
+| rowspan="7" |2009
+|Littlest Pet Shop
+|Nintendo DSi
+|-
+|Littlest Pet Shop: Beach Friends
+|Nintendo DS
+|-
+|Littlest Pet Shop: City Friends
+|Nintendo DS
+|-
+|Littlest Pet Shop: Country Friends
+|Nintendo DS
+|-
+|Littlest Pet Shop: Friends
+|Wii
+|-
+|Littlest Pet Shop: Spring
+|Nintendo DS
+|-
+|Nerf N-Strike Elite
+|Wii
+|-
+| rowspan="4" |2010
+|Littlest Pet Shop 3: Biggest Stars - Blue Team
+|Nintendo DS
+|-
+|Littlest Pet Shop 3: Biggest Stars - Pink Team
+|Nintendo DS
+|-
+|Littlest Pet Shop 3: Biggest Stars - Purple Team
+|Nintendo DS
+|-
+|Monopoly Streets
+|Wii
+|-
+| rowspan="6" |2011
+| rowspan="3" |Hasbro Family Game Night 4: The Game Show
+|PlayStation 3
+|-
+|Wii
+|-
+|Xbox 360
+|-
+|Monopoly Collection
+|Wii
+|-
+| rowspan="2" |Monopoly Streets
+|PlayStation 3
+|-
+|Xbox 360
+|-
+| rowspan="2" |2012
+|The Sims 3: Showtime
+|Microsoft Windows, macOS
+|-
+|The Sims 3: Supernatural
+|Microsoft Windows, macOS
+|-
+| rowspan="2" |2013
+|The Sims 3: University Life
+|Microsoft Windows, macOS
+|-
+|The Sims 3: Into the Future
+|Microsoft Windows, macOS
+|-
+| rowspan="2" |2015
+| rowspan="2" |Minions Paradise
+|Android
+|-
+|iOS
+|-
+| rowspan="2" |2016
+| rowspan="2" |The Secret Life of Pets: Unleashed
+|Android
+|-
+|iOS
+|}
+
+== Notes ==
+
+

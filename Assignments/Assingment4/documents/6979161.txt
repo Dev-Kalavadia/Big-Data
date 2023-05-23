@@ -1,0 +1,49 @@
+Title: Ensoniq VFX
+
+thumb|300px|Ensoniq VFX
+
+The Ensoniq VFX Synth was initially released as a performance type synthesizer in 1989.  It was soon followed by the release of the VFX-SD, which included some updated waveforms (drum waves), a 24-track sequencer and a floppy drive.  Both models were equipped with the Ensoniq Signal Processing (ESP) chip for 24-bit effects. The VFX-SD also included two AUX outs, which allowed for a total of 4 outputs from the synth for more routing flexibility.  The initial models were 21-voice polyphony, and in latter models of the VFX-SD (I/II) and the SD-1, the polyphony was 32. 
+
+
+There were many features that caused this synth line to be popular. Some of these were:
+#The sound of the synth itself.
+#The performance capabilities for live use.
+#The versatility of the sequencer (in the VFX-SD and SD-1).
+
+==Synthesis types==
+The VFX employed 3 types of synthesis: Transwave Wavetable Synthesis, Sample playback and Subtractive Synthesis. The Transwaves gave the VFX a unique sound as the only other instruments (at the time) using wavetable synthesis were the Waldorf Microwave and PPG Wave machines. The wavetable positions and directions of scan could be modulated in a variety of ways, giving a very animated and "alive" sound when programmed correctly. Transwaves are also the only way to get the typical resonance sound since the filters of the VFX did not have a resonance parameter. The waveforms in the original VFX and early VFX-SD synths are 16-bit resolution with a sample frequency of approximately 39 kHz. They covered the standard list of piano, bass, guitar, string and solo varieties, as well as many others, all to Ensoniq's high quality. The VFX can be very deep and atmospheric by combining the waveforms themselves; however, a single sound can contain up to 6 oscillators at a time, providing for some complex layered and detuned sounds. The voice structuring, comprehensive matrix modulation, controller keyboard settings and performance capabilities are pretty advanced and versatile for a synthesizer of this vintage.
+
+==Performance capabilities==
+The performance capabilities of the VFX's made it a favorite for live musicians, as up to three voices can be selected, combined into a Preset (20 user presets in memory at a time, 40 built-in) to play from at any given time and saved in a custom-programmed setup (each sound in the PRESET allowed for Transpose, Output Routing, MIDI channel assignments, EFX routing/selection, etc.). Since each voice could be made of up to six individual sounds, the possibilities were very wide-ranging, such as using different key-ranges/splits for each of the six voices (although it significantly ate up polyphony). One particular feature that the VFX (and VFX-SD series) had was "Poly-Key Pressure" (better known as Polyphonic Aftertouch). This allowed the player to add modulation to each single note when playing chords. Most synths use the more common (and less expensive to manufacture) "Channels Aftertouch" which adds equal modulation to all keys at a time on a given MIDI channel.
+  
+An Ensoniq specialty that appeared in almost all of their products were the two "PATCH SELECT" buttons above the Pitch/Modulation wheels. These two buttons were used to select four different oscillator combinations of a sound. The mapping was fully programmable and was invaluable for creating more versatile sounds for performance.
+
+Ensoniq had other MIDI modes in addition to the standard Omni and Multi modes:  Mono A and Mono B. These were particularly effective when using a guitar synth and allowed for more realistic playing of the sounds. Mono A allowed for the same sound to be played across the MIDI channels and Mono B allowed for each MIDI channel to have a different sound.
+
+==The sequencer==
+The sequencer (not included in the first VFX version) works in a sequence/song type fashion that allows 12 pattern tracks and 12 parallel song tracks. A full set of editing tools are available, and can be done on specific time ranges set by the user: filtering events, merging tracks, quantize (at up to 96ppq), copy, paste, erase, etc. Because of the large fluorescent display, a lot of information and parameters are available at any one time, making the sequencer very intuitive to work with. Auditioning of tracks after a recording or editing changes allows the user to "KEEP" or "CANCEL" a take if needed.
+The sequencer capacity is ~25,000 notes, but could be expanded to ~75,000 notes with an optional memory expansion kit. The sequencer also allows for external MIDI input recording from other instruments. This can be done either one track (MIDI channel) at a time or in multi mode with several tracks (MIDI channels) being recorded at once. This makes it easy to also record multi channel sequences from other MIDI-instruments in to the VFX-SD.  
+
+In 'Sequence' mode, the different patterns can be arranged and named (e.g. as 'Intro', 'Verse', 'Bridge', 'Ending', 'Part 1' etc.), and arranged in any order to make a finished song. Each pattern can be repeated up to 99 times each, which can save a lot of sequencer memory by, for example, recording a standard 2-bar drum/bass/piano part, then repeating it 8 times to make a 16-bar Verse. Tempo changes for each pattern could be programmed in to the patterns themselves or in song mode, to speed up or slow down the tempo at certain points. The user could also change the effects on a 'per-pattern' basis, allowing for more dramatic changes in the song, although that would make the output mute for a moment, if a different effect were selected. 
+
+'Song' mode also allows for an additional 12 tracks with their own track parameters. This is similar to having 12 "tape-like" tracks, and can be used for live-like piano playing or solos and such, which may be difficult to put into the individual sequences. By also using external sound devices (or other MIDI gear), very complex arrangements are possible, triggering many different types of MIDI devices. Some users would use the sequencer live, and use some of the extra tracks to change programs on other MIDI enabled devices (light controllers, guitar processors, vocal FX processors etc.). This sequencer can be found in later Ensoniq models -- the VFX-SD (I) and VFX-SD (II), the SD-1, TS series and the SQ series.
+
+==Storage==
+The VFX-SD also added a floppy disk drive, for additional data archiving purposes, and are used for: single sounds, sets of 6 or sets of 30 sounds, whole banks (60 sounds), single presets, 20-presets bank, single sequence, whole songs etc. Very(!) versatile indeed.
+The format was proprietary to Ensoniq, but shared by the VFX, the EPS sampler and all later models, although cross-loading amongst different models was limited. Since it was not MS-DOS compatible, a niche industry sprang up to service the needs of musicians.
+
+Also, SYS-EX information can be used to send/receive sounds/songs etc. and make parameter changes from a computer software editor.
+
+==Reliability==
+The main problem with the VFX line was its reliability. Because of the Poly-Key pressure and keybed design (which was in three pieces), it was prone to bending and breaking at the solder points, causing the keyboard not to calibrate when turned on. It took Ensoniq quite a long time to remedy this problem in the future models (VFX-SD I/II) and they created a somewhat disappointed customer base. Another problem with the synth was its ability to get very warm and cause heat-related issues. The heat sink itself would get hot to the touch and cause other problems with heating up the internals of the board, causing 'meltdown' issues (although this mostly happened on US-models). These problems were corrected in future versions and other models within the company, and can easily be solved on existing models as well.
+
+== Notable users ==
+
+* Richard Barbieri
+* Tony Banks
+* Keith Fejeran
+* T Lavitz
+* Hudson Mohawke
+* Mike Oldfield
+* Rick Wakeman
+

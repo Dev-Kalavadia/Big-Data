@@ -1,0 +1,50 @@
+Title: Xtracycle
+
+
+thumb|The extended frame of an Xtracycle allows a cyclist to carry large loads.
+Xtracycle is the name of a company and the name commonly used for the  variety of load-carrying bicycle, a longtail or a longbike, that results from use of the company's products: the FreeRadical kit, complete long-frame bicycles and associated accessories. Web forums and blogs often use the shorthand Xtrabike, Xtra, or simply X to refer to either the FreeRadical extension or the entire extended bicycle. An Xtracycle may be constructed by modifying an existing bicycle with a Free Radical extension, or by custom-building an extended-tail bicycle frame.
+
+==Differences from other load-carrying bicycles==
+While the Xtracycle is based on a standard hardtail diamond frame with 26-inch or 622 mm (700c) wheels, the Xtracycle differs from other load-carrying bicycles in that it does not employ a handlebar basket, panniers, or a bicycle trailer. Baskets are easy to attach and allow stowing of cargo in plain view. Panniers are often watertight or water resistant, and can be easily removed from their racks and carried as luggage. While trailers come in many designs and allow a bicycle to pull a significant amount of cargo, an Xtracycle allows for more stowage of large containers directly on the extended frame of the bicycle itself. Xtracycles are also called "sport utility bicycles" for their ability to carry larger loads than a normal bicycles having baskets or panniers, while also maintaining the "sporty" maneuverability of conventional "short" bikes.
+
+==History and spin-offs==
+The FreeRadical was conceived by Ross Evans at Stanford University and developed during his work in the mid-1990s managing a "Bikes Not Bombs" project in Nicaragua, where having a bicycle enhances a person's employment opportunities. In 1998 Evans and his friend Kipchoge Spencer created Xtracycle Inc to manufacture and market the invention, as well as a nonprofit organization, Worldbike, devoted to encourage a bicycle-centric lifestyle and culture.Retherford, Brittany. One step at a time: Duo's film, innovations geared to a healthier world . The Union, (January 12, 2006).
+
+Despite the fact that the FreeRadical qualifies as an aftermarket bike accessory, its growing acceptance has sparked an Xtracycle aftermarket not formally connected with Xtracycle Inc: varieties of specialized kickstands, electric-assist motors, and even bike-mounted blenders have come to market, even though each requires the prior purchase of a FreeRadical or other Xtracycle-compatible frame to function properly.
+
+===Big Dummy===
+
+Xtracycle Inc has worked with various bicycle manufacturers to build purpose-built extended bicycles compatible with their accessories.  The first to actually produce and market an integrated Xtracycle frameset was Surly Bikes with the Big Dummy. XInc continues to form similar covenants with manufacturers in all price ranges, with the goal of making the Xtracycle less of a niche product and more mainstream. XInc is also working on FreeRadical attachments sized for children's and youths' bicycles on the theory of "catch 'em young and train 'em right."
+
+Other applications for the FreeRadical have included linking two Xtracycles to support a mobile stage for use in parades and street fairs, and a computerized chalkpowder-printer device mounted on an Xtracycle that leaves a dot-matrix trail of messages on the street.Kinberg, Joshua. Bikes Against Bush "Maiden Voyage" Video , (August 1, 2004).
+
+===Open source===
+In 2008, Xtracycle put their longtail bike frame specifications online. as part of their project to open source their longtail frame design. They’ve created a Longtail Standard and logoing to allow vendors to design their products to fit in the Xtracycle FreeRadical ecosystem. The "Longtail Technology" logo can be used on bikes, accessories or packaging. The open sourcing of the patented technology was meant to stimulate the cargo bike movement, while developing a standard for "longtail" frames and accessories. Several frame and accessory makers have adopted the standards, while others have developed competing and incompatible long-frame cargo bike designs.
+However, the documents are no longer freely available, and now require an agreement with Xtracycle first.
+
+==Products==
+
+===FreeRadical===
+thumb|Xtracycle Free Radical closeup
+The FreeRadical is an extender for a bicycle.
+
+===Radish===
+In 2009 the Radish was launched by Xtracycle. It is a production long-tail bicycle with a low-standover height frame and matching FreeRadical.
+
+===EdgeRunner===
+In 2013 the EdgeRunner is a second generation cargo bicycle with a 20" rear wheel. The EdgeRunner has been called the "Best longtail ever. No contest."
+
+===CargoJoe===
+In 2013 the CargoJoe is a folding cargo bike developed in a partnership between Xtracycle and Tern.
+
+===Sidecar===
+In 2011 Xtracycle created a sidecar for cargo transport that can carry up to 250 pounds. 
+
+==See also==
+*Bicycle Luggage carrier
+* Electric bicycle
+* Cargo bike
+* Outline of cycling
+* Modular design
+* Open-hardware vehicle
+

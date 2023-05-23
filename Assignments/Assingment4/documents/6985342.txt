@@ -1,0 +1,47 @@
+Title: Stylolite
+
+
+Stylolites (Greek: stylos, pillar; lithos, stone) are serrated surfaces within a rock mass at which mineral material has been removed by pressure dissolution, in a deformation process that decreases the total volume of rock. Minerals which are insoluble in water, such as clays, pyrite and oxides, as well as insoluble organic matter, remain within the stylolites and make them visible. Sometimes host rocks contain no insoluble minerals, in which case stylolites can be recognized by change in texture of the rock.Middleton, Gerard V., Encyclopedia of sediments and sedimentary rocks, 2003, p. 90-92  They occur most commonly in homogeneous rocks, carbonates, cherts, sandstones, but they can be found in certain igneous rocks and ice. Their size vary from microscopic contacts between two grains (microstylolites) to large structures up to 20 m in length and up to 10 m in amplitude in ice.  Stylolites usually form parallel to bedding, because of overburden pressure, but they can be oblique or even perpendicular to bedding, as a result of tectonic activity.Petrology of the sedimentary rocks, F.H. Hatch, R.H. Rastall p. 382
+
+== Classification of stylolites==
+
+In structural geology and diagenesis, pressure solution or pressure dissolution is a deformation mechanism that involves the dissolution of minerals at grain-to-grain contacts into an aqueous pore fluid in areas of relatively high stress and either deposition in regions of relatively low stress within the same rock or their complete removal from the rock within the fluid. It is an example of diffusive mass transfer. Stylolites are formed by this process.
+
+Stylolites can be classified according to their geometry or their orientation and relationship to bedding.
+
+===Geometric classification===
+Park and Schot (1968) recognized six different geometries in stylolites:
+# Simple or primitive wave-like
+# Sutured type
+# Up-peak type (rectangular type)
+# Down-peak type (rectangular type)
+# Sharp-peak type (tapered and pointed)
+# Seismogram type
+
+===Relationship to bedding===
+
+; Horizontal stylolites:This is the most commonly observed stylolite type. They occur parallel or nearly parallel to the bedding of rocks. This type is most frequently found in layered sedimentary rocks, mostly in carbonate rocks, which have not been affected by intensive tectonic structural activity or metamorphism.
+; Inclined stylolites or slickolites:This type occurs oblique to bedding. It appears in rocks which are both affected or unaffected by tectonic activity, and can also be found in metamorphic and layered igneous rocks.
+; Horizontal-inclined (vertical) or crosscutting stylolites: This type is a combination of horizontal and inclined types of stylolites.  Horizontal stylolites usually have a higher amplitude than inclined stylolites. Horizontal-inclined can be found in rocks affected by pressure parallel to the bedding plane followed by pressure perpendicular to bedding.
+; Vertical stylolites:This type of stylolite is related to the bedding at right angles. It may or may not be associated with tectonic activity. It is caused by pressure acting perpendicularly to the bedding.
+; Interconnecting network stylolites:This type is a network of stylolites, which are related to each other with relatively small angles. This type can be divided into two subtypes. Stylolites of subtype A are characterized by higher amplitudes. They are related to the bedding either horizontally, or at a small angle. Stylolites of subtype B usually appear in rocks which have been affected by tectonic and/or metamorphic activity. These stylolites have a low amplitude with undulations. Their relation to the bedding can vary from horizontal to vertical.
+; Vertical-inclined (horizontal) or crosscutting stylolites: This type is a combination of horizontal or inclined and vertical stylolite types. In this case the inclined or horizontal stylolites were formed first and the vertical later. This type can be divided into two subtypes by directions of displacement of the inclined stylolites. In subtype A, the displacements could have happened during vertical stylolization, while in subtype B, the displacements could have happened before vertical stylolization.
+
+==Development==
+A stylolite is not a structural fracture, although they have been described as a form of 'anticrack', with the sides moving together rather than apart.Fletcher, C.C. and Pollard, D.D. 1981 Anticrack model for pressure solution surfaces. Geology, 9, 419-24.  Proof exists in the form of fossiliferous limestone where fossils are crosscut by a stylolite and only one half still exists; the other half has been dissolved away. Rye & Bradbury (1988) Rye, DM, and Bradbury, HJ (1988): Fluid flow in the crust: an example from a Pyrenean thrust ramp. American Journal of Science (288): 197-235. investigated 13/12C and 18/16O stable isotope systematics in limestone on either side of a stylolite plane and found differences confirming different degrees of fluid-rock interaction.
+
+In order for a stylolite to develop, a solution into which minerals can dissolve needs to be present, along with a pore network through which dissolved solids can migrate by advection or diffusion from the developing stylolite. Stylolite development can be improved with porosity, as it localizes stress on grains, increasing the stress there. Therefore, it is suggested that bedding-parallel stylolites form in areas of high porosity,Merino, E., Ortoleva, P., and Strickholm, P., 1983. Generation of evenly-spaced pressure-solution seams during (late) diagenesis: a kinetic theory. Contributions to Mineralogy and Petrology, 82: 360-370. and most of the transverse stylolites form along preexisting fractures.
+
+==Significance==
+Stylolites are significant in several fields. In petrology, stylolites are important because they alter rock fabrics and dissolve solids that precipitate as cement. In stratigraphy, weathering of stylolites generates apparent bedding in many stratigraphic sections and loss of material along stylolites can have a result similar to erosion, with significant stratigraphic thinning. In hydrology, stylolites prevent fluid flow and, in other settings, serve for fluid flow. Also, stylolites are indicators of compressive stress in tectonic studies, and development of transverse stylolites contributes to crustal shortening parallel to the direction of their column.
+
+==Gallery==
+
+File:Stylolite oehrlikalk 1b.jpg|A stylolite viewed in thin section in plane polarized light in a packstone, Oehrlikalk formation of the Axen nappe, Wellenberg, Switzerland
+File:Stylolite in czarnov limestone2 sk.JPG|Stylolite in a Slovakian limestone
+
+
+==See also==
+* Fold (geology)
+* Rock microstructure
+

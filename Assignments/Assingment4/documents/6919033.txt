@@ -1,0 +1,309 @@
+Title: List of places in Alaska (H)
+
+This list of cities, towns, unincorporated communities, counties, and other recognized places in the U.S. state of Alaska also includes information on the number and names of counties in which the place lies, and its lower and upper zip code bounds, if applicable.
+
+
+{| class="wikitable"
+!Name of place
+!Number of counties
+!Principal county
+!Lower zip code
+!Upper zip code
+|----
+|Hadley
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Haines
+|1
+|Haines Borough
+|99827
+| 
+|----
+|Haines
+|1
+|Haines Borough
+| 
+| 
+|----
+|Haines Borough School District
+|1
+|Haines Borough
+| 
+| 
+|----
+|Halibut Cove
+|1
+|Kenai Peninsula Borough
+|99603
+| 
+|----
+|Hallersville
+|1
+|Lake and Peninsula Borough
+| 
+| 
+|----
+|Hamilton
+|1
+|Kusilvak Census Area
+|99620
+| 
+|----
+|Hamilton Acres
+|1
+|Fairbanks North Star Borough
+|99701
+| 
+|----
+|Hamilton Bay
+|1
+|Wrangell-Petersburg Census Area
+| 
+| 
+|----
+|Happy
+|1
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Happy Valley
+|1
+|Kenai Peninsula Borough
+|99556
+| 
+|----
+|Harding-Birch Lakes
+|1
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Harding Lake
+|1
+|Fairbanks North Star Borough
+|99701
+| 
+|----
+|Hawk Inlet
+|1
+|Skagway-Hoonah-Angoon Census Area
+|99801
+| 
+|----
+|Haycock
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Healy
+|1
+|Denali Borough
+|99743
+| 
+|----
+|Healy Fork
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Healy Lake
+|1
+|Southeast Fairbanks Census Area
+| 
+| 
+|----
+|Herendeen Bay
+|1
+|Aleutians East Borough
+| 
+| 
+|----
+|Herring Cove
+|1
+|Ketchikan Gateway Borough
+|99901
+| 
+|----
+|Highland Park
+|1
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Hobart Bay
+|1
+|Skagway-Hoonah-Angoon Census Area
+| 
+| 
+|----
+|Hogatza
+|1
+|Yukon-Koyukuk Census Area
+|99744
+| 
+|----
+|Holikachuk
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Hollis
+|1
+|Prince of Wales-Outer Census Area
+|99901
+| 
+|----
+|Holy Cross
+|1
+|Yukon-Koyukuk Census Area
+|99602
+| 
+|----
+|Homer
+|1
+|Kenai Peninsula Borough
+|99603
+| 
+|----
+|Homer Airport
+|1
+|Kenai Peninsula Borough
+|99603
+| 
+|----
+|Homesite Park
+|1
+|Municipality of Anchorage
+| 
+| 
+|----
+|Honolulu
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Hood Bay
+|1
+|Skagway-Hoonah-Angoon Census Area
+| 
+| 
+|----
+|Hoonah
+|1
+|Skagway-Hoonah-Angoon Census Area
+|99829
+| 
+|----
+|Hoonah
+|1
+|Skagway-Hoonah-Angoon Census Area
+| 
+| 
+|----
+|Hoonah-Angoon
+|1
+|Skagway-Hoonah-Angoon Census Area
+| 
+| 
+|----
+|Hoonah City School District
+|1
+|Skagway-Hoonah-Angoon Census Area
+| 
+| 
+|----
+|Hoonah-Yakutat
+|2
+|Skagway-Hoonah-Angoon Census Area
+| 
+| 
+|----
+|Hoonah-Yakutat
+|2
+|City and Borough of Yakutat
+| 
+| 
+|----
+|Hooper Bay
+|1
+|Kusilvak Census Area
+|99604
+| 
+|----
+|Hope
+|1
+|Kenai Peninsula Borough
+|99605
+| 
+|----
+|Hope-Seward
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Hot Springs
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Houston
+|1
+|Matanuska-Susitna Borough
+|99694
+| 
+|----
+|Hughes
+|1
+|Yukon-Koyukuk Census Area
+|99745
+| 
+|----
+|Hunter
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Hurricane
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Huslia
+|1
+|Yukon-Koyukuk Census Area
+|99746
+| 
+|----
+|Hydaburg
+|1
+|Prince of Wales-Outer Census Area
+|99922
+| 
+|----
+|Hydaburg City School District
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Hyder
+|1
+|Prince of Wales-Outer Census Area
+|99923
+| 
+|----
+|}
+
+ H

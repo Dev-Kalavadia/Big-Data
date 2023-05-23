@@ -1,0 +1,40 @@
+Title: Hyperball Racing
+
+Hyperball Racing is a single-player and multiplayer video game for Windows developed by the Belgian game studio Gabitasoft Entertainment.
+
+==Description==
+The game set in a fantasy world with legends based on a place we know as Earth. It includes several race modes: Tutorials, Championship, Time trial and Quick race. The tutorials teach  players how to race, shoot and defend themselves in the deep jungles of the world of Hyperball. 
+There are several themed islands to explore; a pirate island, ancient temples, bamboo forests and an oriental island.
+
+==Gameplay==
+The game features a single player and multiplayer mode.
+
+In single player mode, the player selects either a male or female character, difficulty level and a basic vehicle. To unlock new buggies, accessories and weapons, Hyperballs must be collected in the Championship, Timetrail and Quickrace modes. In Championship mode, the player races against five opponents and collects Hyperballs. Finishing first unlocks a new level and first prize.
+
+As a vehicular combat game, buggies may be equipped with accessories such as weapons, force-fields and bullbars.
+
+The multiplayer mode allows up to eight players to race over a local area network or internet connection. Players may select any of the seven characters, 20 race maps or 10 special multiplayer maps. Game modes include Capture the Hyperball, Deathmatch, Team deathmatch, Dominate the Hyperball and Racing.
+
+==Story==
+This is the story for the male character; the story for the female character differs only slightly.
+
+
+==Characters==
+In single-player the gamer can create his own profile with selecting either the male or female character. In multiplayer the gamer can select any of the 7 characters.
+*Player: Male & Female: You are the returning underdog; the one who always got picked on in school, come back to take on the Big Bad Bully by the name of Calec. Yes, it's a cliché, but it's a good one and if it ain't broke, we're not gonna be the ones to fix it. Oh, and by the way, you're not even on the rankings. Hey, you gotta start somewhere.
+*Calec is your biggest rival, a cheater and generally an all-around Nasty Dude. Like you, he was born and raised on Inuktha, and is the planet's champion in the Hyperball Races, to those who don't mind making an omelet by breaking a few legs. He's first in all the rankings, but you can bet that he hasn't gotten there honestly. Calec is the First Place Racer.
+*Cassandra was once a beautiful human female who was once the first-place Racer in the whole Galaxy, but because of a "tragic accident" (there are many whispered rumors within the right circles that Calec was involved) during a Race some years ago, she was horribly mutilated and has had to have such extensive surgery and cybernetic-replacement therapy that she is nearly at the legal limit between human and machine. She never says anything about the incident, but afterwards she became very bitter and cruel, using Calec's own tactics against him. She will do anything to regain the first-place title. Cassandra is currently in second place.
+*Kraska is the most evil, sneaky, crafty and cunning Dwalgondian in a long line of extraordinarily evil, sneaky, crafty, and cunning Dwalgondians to have ever taken part in the Hyperball Races, and therefore there is a tremendous rivalry between him and the stalwart Gronk. If he sees the slightest opening to slip up a rank, he will exploit it to the maximum, which explains why he is ranked as the Third Place Racer.
+*Beverly is, by some strange twist of fate, the epitome of the Dumb Blonde (pink). Although she's not Human, nobody is quite sure where she came from, although she claims to have escaped from a very secret genetic research laboratory somewhere in deep space. She's neurotic, unpredictable, and quite stupid (or pretends to be) but somehow she maintains her position. She is currently the Fourth Place Racer.
+*Gronk is a gruff, stiff, formal and completely honest Gloktian. He claims that he never races to actually win, but simply for the thrill of the game. Because of Kraska's obvious dishonesty, Gronk maintains a very healthy dislike for the Dwalgondians. Gronk is currently the Fifth Place Racer.
+
+==External links==
+* Official website (archived)
+* Gabitasoft Entertainment official website (archived)
+
+Category:2006 video games
+Category:Racing video games
+Category:Vehicular combat games
+Category:Video games developed in Belgium
+Category:Windows games
+Category:Windows-only games

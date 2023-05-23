@@ -1,0 +1,750 @@
+Title: Constitutional Court of Thailand
+
+
+
+
+The Constitutional Court of the Kingdom of Thailand (, , ) is an independent Thai court created by the 1997 Constitution with jurisdiction over the constitutionality of parliamentary acts, royal decrees, draft legislation, as well as the appointment and removal of public officials and issues regarding political parties. The current court is part of the judicial branch of the Thai national government.
+
+The court, along with the 1997 Constitution, was dissolved and replaced by a Constitutional Tribunal in 2006 following the 2006 Thai coup d'état. While the Constitutional Court had 15 members, seven from the judiciary and eight selected by a special panel, the Constitution Tribunal had nine members, all from the judiciary.The Nation, Nine Constitution Tribunal members , 7 October 2006 A similar institution, consisting of nine members, was again established by the 2007 Constitution.
+
+The Constitutional Court has provoked much public debate, both regarding the court's jurisdiction and composition as well as the initial selection of justices. A long-standing issue has been the degree of control exerted by the judiciary over the court.
+
+The decisions of the court are final and not subject to appeal. Its decisions bind every state organ, including the National Assembly, the Council of Ministers, and other courts.
+
+The various versions of the court have made several significant decisions. These include the 1999 decision that deputy minister of agriculture Newin Chidchop could retain his cabinet seat after being sentenced to imprisonment for defamation; the 2001 acquittal of Thaksin Shinawatra for filing an incomplete statement regarding his assets with the National Anti-Corruption Commission; the 2003 invalidation of Jaruvan Maintaka's appointment as auditor-general; the 2007 dissolution of the Thai Rak Thai political party; the 2014 removal of prime minister Yingluck Shinawatra from office, the dissolution of the Thai Raksa Chart Party before the March 2019 election, and the dissolution of the Future Forward Party in 2020.
+
+The FY2019 budget of the Constitutional Court is 223.7 million baht. , its president is Nurak Marpraneet.
+
+== Origins and controversy ==
+
+
+=== Drafting of the 1997 Constitution ===
+The creation of the Constitutional Court was the subject of much debate during the 1996–1997 drafting of the 1997 Constitution of Thailand.James R. Klein, "The Battle for Rule of Law in Thailand: The Constitutional Court of Thailand",  Senior judges opposed the concept on the grounds that constitutional and judicial review should remain a prerogative of the Supreme Court and that a Constitutional Court would create a fourth branch of government more powerful than the judiciary, legislature, or executive. Judges stated their fear over political interference in the selection and impeachment of judges. The Constitution Drafting Assembly (CDA) eventually made several concessions regarding the composition and powers of the Court.
+
+==== Jurisdiction ====
+The constitution did not give the Constitutional Court the authority to overrule a final judgment of the Supreme Court. An affected party, or a court, could request the opinion from the Constitutional Court if it believed a case involved a constitutional issue. The court where the initial action was pending would stay its proceedings until the Constitutional Court issued its decision. Constitutional court decisions would have no retroactive effect on previous decisions of the regular courts.
+
+The constitution also did not give the Constitutional Court the authority to rule on any case in which the constitution did not specifically delegate an agency the power to adjudicate.
+
+==== Impeachment ====
+The constitution allowed individual justices to be the subject of impeachment proceedings with the vote of one-fourth of the members of the House or with the approval of 50,000 petitioners. A vote of three-fifths of the Senate is required for impeachment. Earlier drafts had required votes of only 10% of the combined House and Senate to call for a vote of impeachment, and votes of three-fifths of the combined parliament to dismiss a justice.
+
+==== Appointment ====
+The constitution gave the judiciary a strong influence over the composition of the Constitutional Court. Originally, the court was to have nine justices including six legal experts and three political science experts. A panel of 17 persons would propose 18 names from which parliament would elect the nine justices. The panel president would be the president of the Supreme Court, the panel itself would have included four political party representatives. The CDA finally compromised and allowed seven of the justices to be selected by the judiciary, while the remaining eight justices would be selected by the Senate from a list of Supreme Court nominees.
+
+=== Appointment of the first Constitutional Court ===
+The appointment of the first Constitutional Court following the promulgation of the constitution in 1997 was four month controversy pitting the senate against the Supreme Court. A key issue was the senate's authority to review the backgrounds of judicial nominees and reject nominees deemed inappropriate or unqualified.
+
+==== Appointment of Amphorn Thongprayoon ====
+After receiving the Supreme Court's list of nominees, the senate created a committee to review the nominees' credentials and backgrounds. On 24 November 1997, the Senate voted to remove the name of Supreme Court Vice-president Amphorn Thongprayoon, on the grounds that his credentials were dubious and on allegations that he had defaulted on three million baht in debt. The Supreme Court was furious, arguing the constitution did not empower the senate to do background checks or to reject Supreme Court nominees. The Supreme Court requested a ruling from the Constitutional Tribunal chaired by the House speaker. On 8 January 1998, in a six to three vote, the Tribunal ruled the Senate did not have the authority to do background checks or reject the Supreme Court's nominees. The Tribunal ruled that the Senate's review powers were limited to examining the records of the nominees and electing half of those nominees for appointment.
+
+Immediately after the Supreme Court filed its request to the Tribunal, Justice Amphorn withdrew his name. After the Tribunal's ruling, the Supreme Court elected justice Jumpol na Songkhla on 9 January 1998 to replace Amphorn. The Senate ignored the Tribunal's ruling and proceeded to review Jumphol's background and delayed a vote to accept his nomination for seven days so that the Senate could evaluate Jumphol. Finding no problems, the Senate acknowledged his appointment to the court on 23 January 1998.
+
+==== Appointment of Ukrit Mongkolnavin ====
+The appointment of former Senate and Parliament president Ukrit Mongkolnavin was especially problematic. The Senate had initially elected Ukrit from the list of ten legal specialists nominated by the selection panel, despite claims by democracy activists that Ukrit was unqualified to guard the constitution because he had served dictators while president of parliament under the 1991-1992 military government of the National Peacekeeping Council.
+
+Stung by the Senate rejection of Amphorn Thongprayoon, the two Bangkok Civil Court judges, Sriampron Salikhup and Pajjapol Sanehasangkhom, petitioned the Constitutional Tribunal to disqualify Ukrit on a legal technicality. They argued that Ukrit only had an honorary professorship at Chulalongkorn University, while the 1997 Constitution specifically specifies that a nominee, if not meeting other criteria, must be at least a professor. Echoing the Senate's rejection of Amphorn, the judges also alleged that Ukrit was involved in a multi-million baht lawsuit over a golf course. On 10 January 1998 the tribunal ruled that the judges were not affected parties and therefore they had no right to request a ruling. Nevertheless, the parliament's president invoked his power as chairman of the tribunal to ask the Senate to reconsider Ukrit's nomination.
+
+On 19 January 1998, the Senate reaffirmed Ukrit's qualifications, noting that his professorship was special only because he was not a government official. Under Chulalongkorn's regulations, he had the academic status of a full professor.
+
+This position inflamed activists and the judiciary, and prompted the parliament president on 21 January to invoke his authority under Article 266 of the 1997 Constitution to order the Constitutional Tribunal to consider the issue. On 8 February, in a four to three vote, the tribunal ruled that Ukrit's special professorship did not qualify him for a seat on the Constitutional Court. The tribunal noted that Chulalongkorn's criteria for honorary professorship were different from its criteria for academic professors, as intended by the constitution. The Senate ended up electing Komain Patarapirom to replace Ukrit.
+
+== Jurisdiction ==
+Under the 2007 Constitution, the court is competent to address the following:
+
+{| class="wikitable sortable" style="text-align:left; font-size:90%"
+! #
+! Matters
+! Sections of the Constitution allowing their institution
+! Eligible petitioners
+! Type
+|-
+| 1
+| A petition for a decision as to whether a resolution or regulation of a political party to which the petitioner belongs
+# is contrary to his status and functions as representative, 
+# or is contrary to the fundamental principles of the democratic regime of government with the king as head of state
+| Section 65, paragraph 3
+| A member of the political party in question
+| style="background-color:#fbbcc8"| Political party
+|- 
+| 2
+| A petition for a decision as to whether any person or political party exercises the constitutional rights and freedoms
+# to undermine the democratic regime of government with the king as head of state, 
+# or to acquire the national government power by the means not recognised by the constitution
+| Section 68
+| Any person
+| style="background-color:#9ed6d3"| Constitutional defence
+|-
+| 3
+| A petition for a decision as to whether any representative or senator loses his membership by operation of the constitution
+| Section 91
+| At least one-tenth of the existing representatives or senators
+| style="background-color:#cba5d7"| Membership
+|-
+| 4
+| A petition for a decision as to whether a political party resolution terminating any representative's membership in the party
+# is contrary to his status and functions as representative, 
+# or is contrary to the fundamental principles of the democratic regime of government with the king as head of state
+| Section 106 (7)
+| The representative in question
+| style="background-color:#fbbcc8"| Political party
+|-
+| 5
+| A petition for a decision concerning the constitutionality of a draft organic act having been approved by the National Assembly
+| Section 141
+| The National Assembly
+| style="background-color:#f4ed73"| Constitutionality of draft law
+|-
+| 6
+| A petition for a decision as to whether a draft organic act or act introduced by the council of ministers or representatives bears the principle identical or similar to that which needs to be suppressed
+| Sections 140 and 149
+| The president of the House of Representatives or Senate
+| style="background-color:#f4ed73"| Constitutionality of draft law
+|-
+| 7
+| A petition for a decision as to
+# whether
+## a bill having been approved by the National Assembly by virtue of section 150 but having not yet been submitted to the king by the prime minister, 
+## or a bill having been reapproved by the National Assembly but having not yet been resubmitted to the king by the prime minister,
+#: is unconstitutional, 
+# or whether its enactment was in compliance with the requirements of the Constitution
+| Section 154
+|
+* At least one-tenth of the existing representatives or senators
+* The prime minister
+| style="background-color:#f4ed73"| Constitutionality of draft law
+|-
+| 8
+| A petition for a decision as to
+# whether the draft rules of order of the House of Representatives, the draft rules of order of the Senate, or the draft rules of order of the National Assembly, which have been approved by the House of Representatives, Senate or National Assembly but have not yet been published in the Government Gazette, are unconstitutional, 
+# or whether their enactment was in compliance with the requirements of the Constitution
+| Section 155
+| 
+* At least one-tenth of the existing representatives or senators
+* The prime minister
+| style="background-color:#f4ed73"| Constitutionality of draft law
+|-
+| 9
+| A petition for a decision as to whether any motion, motion amendment or action introduced during the House of Representatives, Senate or committee proceedings for consideration of a draft bill on annual expenditure budget, additional expenditure budget or expenditure budget transfer, would allow a representative, Senator or committee member to directly or indirectly be involved in the disbursement of such budget
+| Section 168, paragraph 7
+| At least one-tenth of the existing representatives or senators
+| style="background-color:#a3d869"| Others
+|-
+| 10
+| A petition for a decision as to whether any minister individually loses his ministership
+| Section 182
+|
+* At least one-tenth of the existing representatives or senators
+* The Election Commission
+| style="background-color:#cba5d7"| Membership
+|-
+| 11
+| A petition for a decision as to whether an emergency decree is enacted against section 184, paragraph 1 or 2, of the Constitution
+| Section 185
+| At least one-fifth of the existing representatives or senators
+| style="background-color:#fa943e"| Constitutionality of law
+|-
+| 12
+| A petition for a decision as to whether any "written agreement" to be concluded by the executive branch requires prior parliamentary approval because
+# it contains a provision which would bring about a change in the Thai territory or the extraterritorial areas over which Thailand is competent to exercise sovereignty or jurisdiction by virtue of a written agreement or international law,
+# its execution requires the enactment of an act,
+# it would extensively affect national economic or social security, 
+# or it would considerably bind national trade, investment or budget
+| Section 190
+| At least one-tenth of the existing representatives or senators
+| style="background-color:#fb4357"| Authority
+|-
+| 13
+| A petition for a decision as to whether a legal provision to be applied to any case by a court of justice, administrative court or military court is unconstitutional
+| Section 211
+| A party to such case
+| style="background-color:#fa943e"| Constitutionality of law
+|-
+| 14
+| A petition for a decision as to the constitutionality of a legal provision
+| Section 212
+| Any person whose constitutionally recognised right or freedom has been violated
+| style="background-color:#fa943e"| Constitutionality of law
+|-
+| 15
+| A petition for a decision as to a conflict of authority between the National Assembly, the Council of ministers, or two or more constitutional organs other than the courts of justice, administrative courts or military courts
+| Section 214
+|
+* The president of the National Assembly
+* The prime minister
+* The organs in question
+| style="background-color:#fb4357"| Authority
+|-
+| 16
+| A petition for a decision as to whether any election commissioner lacks a qualification, is attacked by a disqualification or has committed a prohibited act
+| Section 233
+| At least one-tenth of the existing representatives or senators
+| style="background-color:#cba5d7"| Membership
+|-
+| 17
+| A petition for
+# dissolution of a political party deemed to have attempted to acquire the national government power by the means not recognised by the Constitution, 
+# and disfranchisement of its leader and executive members
+| Section 237 in conjunction with section 68
+| Any person
+| style="background-color:#fbbcc8"| Political party
+|-
+| 18
+| A petition for a decision as to the constitutionality of any legal provision
+| Section 245 (1)
+| Ombudsmen
+| style="background-color:#fa943e"| Constitutionality of law
+|-
+| 19
+| A petition for a decision as to the constitutionality of any legal provision on grounds of human rights
+| Section 257, paragraph 1 (2)
+| The National Human Rights Commission
+| style="background-color:#fa943e"| Constitutionality of law
+|-
+| 20
+| Other matters permitted by legal provisions
+|
+|
+| style="background-color:#a3d869"| Others
+|-
+|}
+
+==Composition==
+===1997 Constitution===
+The Constitutional Court was modeled after the Constitutional Court of Italy.Andrew Harding, May there be Virtue: ‘New Asian Constitutionalism’ in Thailand, Microsoft Word format and HTML format According to the 1997 Constitution, the Court had 15 members, all serving nine year terms and appointed by the king upon senatorial advice:
+* Five were judges of the Supreme Court of Justice (SCJ) and selected by the SCJ Plenum through secret ballot.
+* Two were judges of the Supreme Administrative Court (SAC) and selected by the SAC Plenum through secret ballot.
+* Five were experts in law approved by the Senate after having been selected by a special panel. Such panel consisted of the SCJ president, four deans of law, four deans of political science, and four representatives of the political parties whose members are representatives.
+* Three were experts in political science approved by the Senate after having been selected by the same panel.
+
+=== 2006 Constitution ===
+According to the 2006 Constitution, the Constitutional Tribunal was established to replace the Constitutional Court which had been dissolved by the Council for Democratic Reform. The Tribunal had nine members as follows:
+* The SCJ president as president.
+* The SAC president as vice-president.
+* Five SCJ judges selected by the SCJ plenum through secret ballot.
+* Two SAC judges selected by the SAC plenum through secret ballot.
+
+==== Members of the Tribunal ====
+{| class="wikitable sortable" style="text-align:left; font-size:90%"
+|+ As from the coming into force of the 2006 Constitution
+! colspan=3 | Name
+! colspan=3 | Tenure
+! rowspan=2 | Basis
+|-
+! Romanised
+! Thai
+! RTGS
+! Start
+! End
+! Reason for vacation of office
+|-
+| Ackaratorn Chularat
+| อักขราทร จุฬารัตน
+| Akkharathon Chularat
+| 2006
+| 2008
+| Operation of section 300 of the 2007 Constitution
+| SAC president
+|-
+| Charan Hathagam
+| จรัญ หัตถกรรม
+| Charan Hatthakam
+| 2006
+| 2008
+| Operation of section 300 of the 2007 Constitution
+| SAC judge
+|-
+| Kitisak Kitikunpairoj
+| กิติศักดิ์ กิติคุณไพโรจน์
+| Kitisak Kitikhunphairot
+| 2006
+| 2008
+| Operation of section 300 of the 2007 Constitution
+| SCJ judge
+|-
+| Krairerk Kasemsan, Mom Luang
+| ไกรฤกษ์ เกษมสันต์, หม่อมหลวง
+| Krai-roek Kasemsan, Mom Luang
+| 2006
+| 2008
+| Operation of section 300 of the 2007 Constitution
+| SCJ judge
+|-
+| Nurak Marpraneet
+| นุรักษ์ มาประณีต
+| Nurak Mapranit
+| 2006
+| 2008
+| Operation of section 300 of the 2007 Constitution
+| SCJ judge
+|-
+| Panya Thanomrod
+| ปัญญา ถนอมรอด
+| Panya Thanomrot
+| 2006
+| 2007
+| Retirement from the office of SCJ president
+| SCJ president
+|-
+| Somchai Pongsata
+| สมชาย พงษธา
+| Somchai Phongsatha
+| 2006
+| 2008
+| Operation of section 300 of the 2007 Constitution
+| SCJ judge
+|-
+| Thanis Kesawapitak
+| ธานิศ เกศวพิทักษ์
+| Thanit Ketsawaphithak
+| 2006
+| 2008
+| Operation of section 300 of the 2007 Constitution
+| SCJ judge
+|-
+| Vichai Chuenchompoonut
+| วิชัย ชื่นชมพูนุท
+| Wichai Chuenchomphunut
+| 2006
+| 2008
+| Operation of section 300 of the 2007 Constitution
+| SAC judge
+|-
+| Viruch Limvichai
+| วิรัช ลิ้มวิชัย
+| Wirat Limwichai
+| 2007
+| 2008
+| Operation of section 300 of the 2007 Constitution
+| SCJ president
+|-
+|}
+
+=== 2007 Constitution ===
+thumb|upright=1.5|The composition of the Constitutional Court of Thailand under the 2007 Constitution.
+
+After the Constitutional Court was abolished by the Council for Democratic Reform and was replaced by the Constitutional Tribunal under the 2006 Constitution, the 2007 Constitution reestablishes the Constitutional Court and makes various changes to it. The Court is back with greater vigour and is also empowered to introduce to the National Assembly the draft laws concerning the Court itself.
+ 
+Under the 2007 Constitution, the Constitutional Court has nine members, all serving for nine year terms and appointed by the king with senatorial advice:
+
+* Three are SCJ judges and are selected by the SCJ plenum through secret ballot.
+* Two are SAC judges and are selected by the SAC plenum through secret ballot.
+* Two are experts in law approved by the Senate after having been selected by a special panel. Such panel is composed of the SCJ president, the SAC president, the president of the House of Representatives, the opposition leader and one of the chiefs of the constitutional independent agencies (chief ombudsman, president of the election commission, president of the National Anti-Corruption Commission or president of the State Audit Commission).
+* Two are experts in political science, public administration or other field of social science and are approved by the Senate after having been selected by the same panel.
+
+==== Members of the court ====
+{| class="wikitable sortable" style="text-align:left; font-size:90%"
+|+
+|}
+{| class="wikitable sortable" style="text-align:left; font-size:90%"
+|+ As from the coming into force of the 2007 Constitution
+! colspan="3" | Name
+! colspan="3" | Tenure
+! colspan="3" | Presidency
+! rowspan="2" | Basis
+|-
+! Romanised
+! Thai
+! RTGS
+! Start
+! End
+! Reason for vacation of office
+! Start
+! End
+! Reason for vacation of office
+|-
+| Jaran Pukditanakul
+| จรัญ ภักดีธนากุล
+| Charan Phakdithanakun
+| 2008
+| 2020
+| End of term
+|
+|
+|
+| Expert in law
+|-
+| Charoon Intachan
+| จรูญ อินทจาร
+| Charun Inthachan
+| 2008
+| 2014
+| Retirement
+| 2013
+| 2014
+| Resignation
+| SAC judge
+|-
+| Chalermpon Ake-uru
+| เฉลิมพล เอกอุรุ
+| Chaloemphon Ek-uru
+| 2008
+| 2015
+| Retirement
+|
+|
+|
+| Expert in political science
+|-
+| Chut Chonlavorn
+| ชัช ชลวร
+| Chat Chonlawon
+| 2008
+| 2020
+| End of term
+| 2008
+| 2011
+| Resignation
+| SCJ judge
+|-
+| Nurak Marpraneet
+| นุรักษ์ มาประณีต
+| Nurak Mapranit
+| 2008
+| 2020
+| End of term
+| 2014
+| 2020
+| End of term
+| SCJ judge
+|-
+| Boonsong Kulbupar
+| บุญส่ง กุลบุปผา
+| Bunsong Kunbuppha
+| 2008
+| 2020
+| End of term
+|
+|
+|
+| SCJ judge
+|-
+| Suphot Khaimuk
+| สุพจน์ ไข่มุกด์
+| Suphot Khaimuk
+| 2008
+| 2015
+| Retirement
+|
+|
+|
+| Expert in political science
+|-
+| Wasan Soypisudh
+| วสันต์ สร้อยพิสุทธิ์
+| Wasan Soiphisut
+| 2008
+| 2013
+| Resignation
+| 2011
+| 2013
+| Resignation
+| Expert in law
+|-
+| Udomsak Nitimontree
+| อุดมศักดิ์ นิติมนตรี
+| Udomsak Nitimontri
+| 2008
+| 2020
+| End of term
+|
+|
+|
+| SAC judge
+|-
+| Twekiat Menakanist
+| ทวีเกียรติ มีนะกนิษฐ
+| Thawikiat Minakanit
+| 2013
+| 2020
+| Continue on 2017 Constitution
+|
+|
+|
+| Expert in law
+|-
+|Worawit Kangsasitiam
+|วรวิทย์ กังศศิเทียม
+|Worawit Kangsasithiam
+|2015
+|2020
+|Continue on 2017 Constitution
+|
+|
+|
+|SAC judge
+|-
+|Nakharin Mektrairat
+|นครินทร์ เมฆไตรรัตน์
+|Nakarin Mektrairat
+|2015
+|2020
+|Continue on 2017 Constitution
+|
+|
+|
+|Expert in political science
+|-
+|Punya Udchachon
+|ปัญญา อุดชาชน
+|Punya Utchachon
+|2015
+|2020
+|Continue on 2017 Constitution
+|
+|
+|
+|Expert in political science
+|-
+|}
+
+=== 2017 Constitution ===
+After 2014 Thai coup d'état, the court had not been dissolved. Until the 2017 constitution was in effect, the judges from the 2007 constitution court continued to work on the 2017 court.
+
+==== Members of the court ====
+{| class="wikitable sortable" style="text-align:left; font-size:90%"
+|+ As from the coming into force of the 2017 Constitution
+! colspan="2" | Name
+! colspan="3" | Tenure
+! colspan="3" | Presidency
+! rowspan="2" | Basis
+|-
+! Romanised
+! Thai
+! Start
+! End
+! Reason for vacation of office
+! Start
+! End
+! Reason for vacation of office
+|-
+| Twekiat Menakanist
+| ทวีเกียรติ มีนะกนิษฐ
+| 2013
+|
+|
+|
+|
+|
+| Expert in law
+|-
+| Worawit Kangsasitiam
+| วรวิทย์ กังศศิเทียม
+| 2015
+|
+|
+| 2020
+|
+|
+| SAC judge
+|-
+| Nakharin Mektrairat
+| นครินทร์ เมฆไตรรัตน์
+| 2015
+|
+|
+|
+|
+|
+| Expert in political science
+|-
+| Punya Udchachon
+| ปัญญา อุดชาชน
+| 2015
+|
+|
+|
+|
+|
+| Expert in political science
+|-
+| Udom Sittiwirattham
+| อุดม สิทธิวิรัชธรรม
+| 2020
+|
+|
+|
+|
+|
+| SCJ judge
+|-
+| Wiroon Sangtian
+| วิรุฬห์ แสงเทียน
+| 2020
+|
+|
+|
+|
+|
+| SCJ judge
+|-
+| Chiranit Havanond
+| จิรนิติ หะวานนท์
+| 2020
+|
+|
+|
+|
+|
+| SCJ judge
+|-
+| Noppadon Theppitak
+| นภดล เทพพิทักษ์
+| 2020
+|
+|
+|
+|
+|
+| Expert in law
+|-
+| Bunjongsak Wongprachaya
+| บรรจงศักดิ์ วงศ์ปราชญ์
+| 2020
+|
+|
+|
+|
+|
+| SAC judge
+|-
+|}
+
+== Key decisions ==
+
+
+=== Chuan-government emergency decrees during the 1997 economic crisis ===
+==== Unconstitutionality of emergency economic decrees ====
+In its first decision, the Court ruled on the constitutionality of four emergency executive decrees issued by the Chuan government to deal with the Asian financial crisis. The government had issued the decrees in early-May 1998 to expand the role of the Financial Restructuring Authority and the Assets Management Corporation, to settle the debts of the Financial Institutions Development Fund through the issue of 500 billion baht in bonds, and to authorize the ministry of finance to seek 200 billion baht in overseas loans. The opposition New Aspiration Party (NAP) did not have the votes to defeat the bills, and therefore, on the last day of debate, invoked Article 219 of the Constitution to question the constitutionality of an emergency decree.
+
+The NAP argued that since there was no emergency nor necessary urgency (under Article 218(2)), the government could not issue any emergency decrees. Article 219, however, specifically notes the constitutionality of an emergency decree can be questioned only on Article 218(1) concerning the maintenance of national or public safety, national economic security, or to avert public calamity. The government, fearing further economic damage if the decree were delayed, opposed the Court's acceptance of the complaint, as the opposition clearly had failed to cite the proper constitutional clause. The Court wished to set a precedent, however, demonstrating it would accept petitions under Article 219, even if technically inaccurate. Within a day it ruled that it was obvious to the general public that the nation was in an economic crisis, and that the decrees were designed to assist with national economic security in accordance with Article 218(1). The decrees were later quickly approved by Parliament.
+
+The NAP's last minute motion damaged its credibility, and made it unlikely that Article 219 will be invoked unless there is a credible issue and the issue is raised and discussed at the beginning of parliamentary debate, rather than at the last-minute before a vote.
+
+On the other hand, a precedent was established by the Court that it would accept all petitions under Article 219 to preserve Parliament's right to question the constitutionality of emergency executive decrees.
+
+==== Treaty status of IMF letters of intent ====
+The NAP later filed impeachment proceedings with the National Anti-Corruption Commission (NACC) against prime minister Chuan Leekpai and the minister of finance Tarrin Nimmanahaeminda for violation of the Constitution. The NAP argued that the letter of intent that the government signed with the International Monetary Fund (IMF) to secure emergency financial support was a treaty, and that Article 224 of the Constitution stipulated that the government must receive prior consent from Parliament to enter a treaty.
+
+The NACC determined the issue concerned a constitutional interpretation and petitioned the Constitutional Court for an opinion. The Court ruled the IMF letters were not treaties, as internationally defined, because they were unilateral documents from the Thai government with no rules for enforcement or provisions for penalty. Moreover, the IMF itself had worded the letters in a way that stated that the letters were not contractual agreements.
+
+=== Appointment of Jaruvan Maintaka as auditor-general ===
+On 24 June 2003, a petition was filed with the Constitutional Court seeking its decision on the constitutionality of Jaruvan Maintaka's appointment by the Senate as auditor-general. Jaruvan was one of three nominees for the position of auditor-general in 2001, along with Prathan Dabpet and Nontaphon Nimsomboon. Prathan received five votes from the eight person State Audit Commission (SAC) while Jaruvan received three votes. According to the constitution, State Audit Commission chairman Panya Tantiyavarong should have submitted Prathan's nomination to the Senate, as he received the majority of votes. However, on 3 July 2001, the SAC chairman submitted a list of all three candidates for the post of auditor-general to the Senate, which later voted to select Khunying Jaruvan Maintaka.
+
+The Constitutional Court ruled on 6 July 2004 that the selection process that led to the appointment of Jaruvan as auditor-general was unconstitutional. The court noted that the constitution empowers the SAC to nominate only one person with the highest number of votes from a simple majority, not three as had been the case. The court stopped short of saying she had to leave her post.Chronology of events in the auditor-general’s deadlock, The Nation 30 August 2005 However, when the Constitutional Court had ruled on 4 July 2002 that the then Election Commission chairman Sirin Thoopklam's election to the body was unconstitutional, the president of the court noted "when the court rules that the selection [process] was unconstitutional and has to be redone, the court requires the incumbent to leave the post".The Nation, "Jaruvan again in eye of the storm" , 2 June 2006
+
+Jaruwan refused to resign without a royal dismissal from King Bhumibol Adulyadej. She noted "I came to take the position as commanded by a royal decision, so I will leave the post only when directed by such a decision."Jaruvan waits for royal word, The Nation 9 September 2005 The State Audit Commission later nominated Wisut Montriwat, former deputy permanent secretary of the ministry of finance, for the post of auditor-general. The Senate approved the nomination on 10 May 2005. However, King Bhumibol Adulyadej, in an unprecedented move, withheld his royal assent. The National Assembly did not hold a vote to overthrow the royal veto. In October 2005 the Senate rejected a motion to reaffirm her appointment, and instead deferred the decision to the SAC.Senate steers clear of motion on Jaruvan, The Nation, 11 October 2005
+
+On 15 February 2006 the State Audit Commission (SAC) reinstated Auditor-General Khunying Jaruvan Maintaka. Its unanimous decision came after it received a memo from the office of King Bhumibol Adulyadej's principal private secretary, directing that the situation be resolved.Poll booths 'the decider', Bangkok Post Friday 5 May 2006
+
+The controversy led many to reinterpret the political and judicial role of the king in Thailand's constitutional monarchy.
+
+=== Thaksin Shinawatra's alleged conflicts of interest ===
+In February 2006, 28 Senators submitted a petition to the Constitutional Court calling for the prime minister's impeachment for conflicts of interest and improprieties in the sell-off of Shin Corporation under Articles 96, 216 and 209 of the Thai constitution.Xinhua, Students submit voters petition to impeach Thai PM, 29 July 2006 The Senators said the prime minister violated the Constitution and was no longer qualified for office under Article 209. However, the Court rejected the petition on 16 February, with the majority judges saying the petition failed to present sufficient grounds to support the prime minister's alleged misconduct.
+
+
+=== Political parties dissolution following the April 2006 election ===
+
+
+===Court rejects flawed oath petition===
+In September 2019, the court rejected a petition lodged by the Ombudsman of Thailand regarding the incomplete oath recited by Prime Minister Prayut Chan-o-cha and his cabinet in July 2019. The prime minister failed to recite the final sentence of the oath which pledges to uphold and abide by the constitution. The court ruled that it was "not in its authority" to make a ruling on the issue, in effect ruling that vows to uphold the constitution are none of the constitutional court's business.
+
+===Future Forward Party dissolution===
+On 20 November 2019, the court convicted Thanathorn Juangroongruangkit, disqualifying his MP status. On 21 February 2020, Future Forward Party was dissolved in the court ruling, which said that the party was in violation of election laws regarding donations to political parties. The party was loaned 191.2 million baht (about US$6 million) from its leader, Thanathorn, according to the court, counted as a donation. The dissolution order drew criticism from commentators inside and outside the country, who characterized it as part of the military's continued interference in Thai politics, noting that the party's vocal anti-military position made it a target and that the other parties' finances were not similarly scrutinized.
+
+===Court rules that Prayut not "state official"===
+The court ruled in September 2019, that General Prayut, on seizing power in May 2014 with no authorization to do so, answering to no other state official, and holding onto his power only temporarily, could not be considered a state official. The ruling bears on Prayut's eligibility to serve as prime minister.
+
+===Court rules that the monarchy reform is to overthrow the state and the monarchy===
+
+
+On 10 November 2021, the court ruled that Arnon, Panupong, and Panusaya of the 2020–2021 Thai protests' 10-point call for reforms of the monarchy in 'Thammasat will not tolerate' rally on 10 August 2020 aimed to overthrow the state and the monarchy in their speeches. The court ordered them and other protest groups to end all monarchy reform movements. The petition was filed by Natthaporn Toprayoon on 3 September 2020.
+
+
+
+The court explained that such demands were an “abuse of the rights and freedoms and harmed the state’s security”, but the court did not enforce a punishment on them, ruling on the constitutionality of their demands. Three protest leaders deny seeking to overthrow the monarchy. Evidence submitted by the defence was not examined by the court. Their lawyer and Panusaya walked out of the middle of hearing. The court also rules that sovereign power belongs to the monarchy not the people.
+
+Sunai Phasuk of Human Rights Watch described the ruling as “essentially a judicial coup” that could escalate more legal cases against protesters, possibility a treason. This could lead to an end to Thailand's constitutional monarchy rule and replacing with absolute monarchy. Jonathan Head of BBC described this ruling forcefully shuts down any room in Thailand for public discussion of the monarchy, but private discussion and social media discussion will continue on, regardless of the government efforts to stop. It was seen as another politicised intervention on the side of conservatives, royalists, by the independent court.
+
+On 11 November 2021, the Court website was hacked. Its homepage was renamed to the Kangaroo Court and a YouTube video of a song, Guillotine (It goes Yah) by Death Grips.
+
+===Same sex marriage===
+
+In 2021, the Court ruled that Section 1448 of the Civil and Commercial Code interpreting marriages as only between women and men is constitutional, but after the release of full ruling, one phrase mentioned that members of the LGBTQ community cannot reproduce, as it is against nature, and they are unlike other animals with unusual behaviours or physical characteristics. The text were deemed by some as sexist and politically incorrect.
+
+== See also ==
+
+
+* Constitution
+* Constitution of Thailand
+* Constitutional economics
+* Constitutionalism
+* History of Thailand since 2001
+* Judiciary
+* Jurisprudence
+* Rule according to higher law
+* Rule of law
+* Separation of powers
+
+== References ==
+
+
+==Further reading==
+===In English===
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+===In Thai===
+
+
+* 
+
+* 
+* 
+
+* 
+* 
+* 
+* 
+
+* 
+* 
+* 
+* 
+* 
+
+* 
+* 
+
+* 
+
+* 
+* 
+
+* 
+* 
+
+
+== External links ==
+* Constitutional Court on Facebook 
+
+
+
+
+Thailand
+Category:Constitutional law
+Category:Law of Thailand
+Category:Constitution of Thailand
+Category:Judiciary of Thailand
+Category:Government of Thailand
+Category:Organizations based in Bangkok
+Category:1997 establishments in Thailand
+Category:Legal history of Thailand
+Category:Courts and tribunals established in 1997
+Category:Network monarchy
+Category:Controversies in Thailand

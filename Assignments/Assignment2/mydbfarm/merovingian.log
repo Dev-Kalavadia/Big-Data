@@ -1,0 +1,24 @@
+2023-03-02 17:28:27 MSG merovingian[8322]: Merovingian 11.45.13 (Sep2022-SP2) starting
+2023-03-02 17:28:27 MSG merovingian[8322]: monitoring dbfarm /Users/devkalavadiya/Desktop/Big Data/Labs/Lab3/mydbfarm
+2023-03-02 17:28:27 MSG merovingian[8322]: accepting connections on TCP socket localhost:50000
+2023-03-02 17:28:27 MSG merovingian[8322]: accepting connections on TCP socket localhost:50000
+2023-03-02 17:28:27 MSG merovingian[8322]: accepting connections on UNIX domain socket /tmp/.s.monetdb.50000
+2023-03-02 17:28:27 MSG discovery[8322]: listening for UDP messages on localhost:50000
+2023-03-02 17:28:27 MSG control[8322]: accepting connections on UNIX domain socket /tmp/.s.merovingian.50000
+2023-03-02 17:28:40 MSG control[8322]: (local): created database 'flight'
+2023-03-02 17:28:48 MSG control[8322]: (local): served status list
+2023-03-02 17:28:48 MSG control[8322]: (local): released database 'flight'
+2023-03-02 17:29:13 MSG merovingian[8322]: starting database 'flight', up min/avg/max: 0s/0s/0s, crash average: 0.00 0.00 0.00 (0-0=0)
+2023-03-02 17:29:13 MSG flight[8339]: arguments: /opt/homebrew/Cellar/monetdb/11.45.13/bin/mserver5 "--dbpath=/Users/devkalavadiya/Desktop/Big Data/Labs/Lab3/mydbfarm/flight" --set=merovingian_uri=mapi:monetdb://Devs-MacBook-Pro-2.local:50000/flight --set=mapi_listenaddr=none "--set=mapi_usock=/Users/devkalavadiya/Desktop/Big Data/Labs/Lab3/mydbfarm/flight/.mapi.sock" "--set=monet_vault_key=/Users/devkalavadiya/Desktop/Big Data/Labs/Lab3/mydbfarm/flight/.vaultkey" --set=gdk_nr_threads=8 --set=max_clients=64 --set=sql_optimizer=default_pipe
+2023-03-02 17:29:17 MSG flight[8339]: # MonetDB 5 server v11.45.13 (Sep2022-SP2)
+2023-03-02 17:29:17 MSG flight[8339]: # Serving database 'flight', using 8 threads
+2023-03-02 17:29:17 MSG flight[8339]: # Compiled for arm64-pc-darwin-appleclang/64bit with 128bit integers
+2023-03-02 17:29:17 MSG flight[8339]: # Found 8.000 GiB available main-memory of which we use 6.520 GiB
+2023-03-02 17:29:17 MSG flight[8339]: # Copyright (c) 1993 - July 2008 CWI.
+2023-03-02 17:29:17 MSG flight[8339]: # Copyright (c) August 2008 - 2023 MonetDB B.V., all rights reserved
+2023-03-02 17:29:17 MSG flight[8339]: # Visit https://www.monetdb.org/ for further information
+2023-03-02 17:29:17 MSG flight[8339]: # MonetDB/SQL module loaded
+2023-03-02 17:29:17 MSG flight[8339]: # Listening for UNIX domain connection requests on mapi:monetdb:///Users/devkalavadiya/Desktop/Big Data/Labs/Lab3/mydbfarm/flight/.mapi.sock
+2023-03-03 13:13:07 ERR discovery[8322]: error while sending broadcast message: Can't assign requested address
+2023-03-03 13:52:39 ERR flight[8339]: #client2: createExceptionInternal: ERROR: ParseException:SQLparser:42000!syntax error in: "time"
+2023-03-03 13:55:57 ERR flight[8339]: #client3: createExceptionInternal: ERROR: ParseException:SQLparser:42000!syntax error in: "time"

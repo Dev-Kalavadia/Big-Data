@@ -1,0 +1,123 @@
+Title: List of municipalities of the Province of Rimini
+
+The following is a list of the 27 municipalities (comuni) of the Province of Rimini, Emilia-Romagna, Italy. Before August 2009, seven of these (Casteldelci, Maiolo, Novafeltria, Pennabilli, San Leo, Sant'Agata Feltria and Talamello) were in the Province of Pesaro and Urbino.‘Codici dei comuni, delle province e delle regioni’, Istat, 30 October 2009: see the section headed ‘Nuovi codici dei comuni distaccati dalla Provincia di Pesaro e Urbino (Regione Marche) e aggregati alla provincia di Rimini (Regione Emilia-Romagna)’.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT CodeIstat codes taken from ‘Nuovi codici dei comuni aggregati alla Provincia di Rimini’.
+!Comune
+!Population (31 December 2008)‘Elenco dei comuni al 30 ottobre 2009’ (Excel worksheet), Istat.
+|-
+|099001
+|Bellaria-Igea Marina
+| align="right" |18,745
+|-
+|099021
+|Casteldelci
+| align="right" |476
+|-
+|099002
+|Cattolica
+| align="right" |16,668
+|-
+|099003
+|Coriano
+| align="right" |9,772
+|-
+|099004
+|Gemmano
+| align="right" |1,212
+|-
+|099022
+|Maiolo
+| align="right" |841
+|-
+|099005
+|Misano Adriatico
+| align="right" |11,842
+|-
+|099006
+|Mondaino
+| align="right" |1,462
+|-
+|099008
+|Montefiore Conca
+| align="right" |2,135
+|-
+|099009
+|Montegridolfo
+| align="right" |1,027
+|-
+|099029
+|Montescudo-Monte Colombo
+| align="right" |6751
+|-
+|099011
+|Morciano di Romagna
+| align="right" |6,697
+|-
+|099023
+|Novafeltria
+| align="right" |7,312
+|-
+|099024
+|Pennabilli
+| align="right" |3,098
+|-
+|099012
+|Poggio Berni
+| align="right" |3,334
+|-
+|099013
+|Riccione
+| align="right" |35,233
+|-
+|099014
+|Rimini
+| align="right" |140,137
+|-
+|099015
+|Saludecio
+| align="right" |2,908
+|-
+|099016
+|San Clemente
+| align="right" |4,762
+|-
+|099017
+|San Giovanni in Marignano
+| align="right" |8,884
+|-
+|099025
+|San Leo
+| align="right" |3,041
+|-
+|099026
+|Sant'Agata Feltria
+| align="right" |2,316
+|-
+|099018
+|Santarcangelo di Romagna
+| align="right" |20,913
+|-
+|099027
+|Talamello
+| align="right" |1,117
+|-
+|099019
+|Torriana
+| align="right" |1,433
+|-
+|099020
+|Verucchio
+| align="right" |9,960
+|-
+|
+|Total
+| align="right" |321,457
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

@@ -1,0 +1,435 @@
+Title: List of municipalities of the Province of Chieti
+
+The following is a list of the 104 municipalities (comuni) of the Province of Chieti, Abruzzo, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|069001
+|Altino
+| align="right" |2,633
+|-
+|069002
+|Archi
+| align="right" |2,330
+|-
+|069003
+|Ari
+| align="right" |1,339
+|-
+|069004
+|Arielli
+| align="right" |1,196
+|-
+|069005
+|Atessa
+| align="right" |10,455
+|-
+|069006
+|Bomba
+| align="right" |954
+|-
+|069007
+|Borrello
+| align="right" |423
+|-
+|069008
+|Bucchianico
+| align="right" |5,003
+|-
+|069009
+|Montebello sul Sangro
+| align="right" |118
+|-
+|069010
+|Canosa Sannita
+| align="right" |1,507
+|-
+|069011
+|Carpineto Sinello
+| align="right" |738
+|-
+|069012
+|Carunchio
+| align="right" |749
+|-
+|069013
+|Casacanditella
+| align="right" |1,431
+|-
+|069014
+|Casalanguida
+| align="right" |1,087
+|-
+|069015
+|Casalbordino
+| align="right" |6,461
+|-
+|069016
+|Casalincontrada
+| align="right" |2,990
+|-
+|069017
+|Casoli
+| align="right" |5,901
+|-
+|069018
+|Castel Frentano
+| align="right" |3,977
+|-
+|069019
+|Castelguidone
+| align="right" |469
+|-
+|069020
+|Castiglione Messer Marino
+| align="right" |2,127
+|-
+|069021
+|Celenza sul Trigno
+| align="right" |1,053
+|-
+|069022
+|Chieti
+| align="right" |56,127
+|-
+|069023
+|Civitaluparella
+| align="right" |425
+|-
+|069024
+|Civitella Messer Raimondo
+| align="right" |962
+|-
+|069025
+|Colledimacine
+| align="right" |258
+|-
+|069026
+|Colledimezzo
+| align="right" |568
+|-
+|069027
+|Crecchio
+| align="right" |3,057
+|-
+|069028
+|Cupello
+| align="right" |4,597
+|-
+|069029
+|Dogliola
+| align="right" |409
+|-
+|069030
+|Fara Filiorum Petri
+| align="right" |1,927
+|-
+|069031
+|Fara San Martino
+| align="right" |1,610
+|-
+|069032
+|Filetto
+| align="right" |1,070
+|-
+|069033
+|Fossacesia
+| align="right" |5,692
+|-
+|069034
+|Fraine
+| align="right" |435
+|-
+|069035
+|Francavilla al Mare
+| align="right" |23,561
+|-
+|069036
+|Fresagrandinaria
+| align="right" |1,111
+|-
+|069037
+|Frisa
+| align="right" |1,942
+|-
+|069038
+|Furci
+| align="right" |1,220
+|-
+|069039
+|Gamberale
+| align="right" |374
+|-
+|069040
+|Gessopalena
+| align="right" |1,658
+|-
+|069041
+|Gissi
+| align="right" |3,050
+|-
+|069042
+|Giuliano Teatino
+| align="right" |1,347
+|-
+|069043
+|Guardiagrele
+| align="right" |9,662
+|-
+|069044
+|Guilmi
+| align="right" |486
+|-
+|069045
+|Lama dei Peligni
+| align="right" |1,478
+|-
+|069046
+|Lanciano
+| align="right" |36,228
+|-
+|069047
+|Lentella
+| align="right" |748
+|-
+|069048
+|Lettopalena
+| align="right" |403
+|-
+|069049
+|Liscia
+| align="right" |815
+|-
+|069050
+|Miglianico
+| align="right" |4,529
+|-
+|069051
+|Montazzoli
+| align="right" |1,074
+|-
+|069052
+|Monteferrante
+| align="right" |176
+|-
+|069053
+|Montelapiano
+| align="right" |95
+|-
+|069054
+|Montenerodomo
+| align="right" |909
+|-
+|069055
+|Monteodorisio
+| align="right" |2,475
+|-
+|069056
+|Mozzagrogna
+| align="right" |2,171
+|-
+|069057
+|Orsogna
+| align="right" |4,086
+|-
+|069058
+|Ortona
+| align="right" |23,603
+|-
+|069059
+|Paglieta
+| align="right" |4,499
+|-
+|069060
+|Palena
+| align="right" |1,504
+|-
+|069061
+|Palmoli
+| align="right" |1,113
+|-
+|069062
+|Palombaro
+| align="right" |1,146
+|-
+|069063
+|Pennadomo
+| align="right" |348
+|-
+|069064
+|Pennapiedimonte
+| align="right" |548
+|-
+|069065
+|Perano
+| align="right" |1,626
+|-
+|069066
+|Pizzoferrato
+| align="right" |1,163
+|-
+|069067
+|Poggiofiorito
+| align="right" |962
+|-
+|069068
+|Pollutri
+| align="right" |2,334
+|-
+|069069
+|Pretoro
+| align="right" |1,105
+|-
+|069070
+|Quadri
+| align="right" |922
+|-
+|069071
+|Rapino
+| align="right" |1,461
+|-
+|069072
+|Ripa Teatina
+| align="right" |4,002
+|-
+|069073
+|Roccamontepiano
+| align="right" |1,927
+|-
+|069074
+|Rocca San Giovanni
+| align="right" |2,329
+|-
+|069075
+|Roccascalegna
+| align="right" |1,401
+|-
+|069076
+|Roccaspinalveti
+| align="right" |1,607
+|-
+|069077
+|Roio del Sangro
+| align="right" |138
+|-
+|069078
+|Rosello
+| align="right" |322
+|-
+|069079
+|San Buono
+| align="right" |1,165
+|-
+|069080
+|San Giovanni Lipioni
+| align="right" |271
+|-
+|069081
+|San Giovanni Teatino
+| align="right" |10,527
+|-
+|069082
+|San Martino sulla Marrucina
+| align="right" |1,029
+|-
+|069083
+|San Salvo
+| align="right" |17,914
+|-
+|069084
+|Santa Maria Imbaro
+| align="right" |1,757
+|-
+|069085
+|Sant'Eusanio del Sangro
+| align="right" |2,420
+|-
+|069086
+|San Vito Chietino
+| align="right" |4,998
+|-
+|069087
+|Scerni
+| align="right" |3,645
+|-
+|069088
+|Schiavi di Abruzzo
+| align="right" |1,265
+|-
+|069089
+|Taranta Peligna
+| align="right" |500
+|-
+|069090
+|Tollo
+| align="right" |4,241
+|-
+|069091
+|Torino di Sangro
+| align="right" |3,099
+|-
+|069092
+|Tornareccio
+| align="right" |1,968
+|-
+|069093
+|Torrebruna
+| align="right" |1,092
+|-
+|069094
+|Torrevecchia Teatina
+| align="right" |3,880
+|-
+|069095
+|Torricella Peligna
+| align="right" |1,526
+|-
+|069096
+|Treglio
+| align="right" |1,373
+|-
+|069097
+|Tufillo
+| align="right" |528
+|-
+|069098
+|Vacri
+| align="right" |1,775
+|-
+|069099
+|Vasto
+| align="right" |37,213
+|-
+|069100
+|Villalfonsina
+| align="right" |1,038
+|-
+|069101
+|Villamagna
+| align="right" |2,444
+|-
+|069102
+|Villa Santa Maria
+| align="right" |1,472
+|-
+|069103
+|Pietraferrazzana
+| align="right" |139
+|-
+|069104
+|Fallo
+| align="right" |152
+|-
+|
+|Total
+| align="right" |391,167
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

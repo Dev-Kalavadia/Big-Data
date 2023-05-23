@@ -1,0 +1,155 @@
+Title: Jeffrey van Hooydonk
+thumb|
+Jeffrey van Hooydonk (born 1 October 1977) is a Belgian racing car driver.
+
+A native of Antwerp, Van Hooydonk began racing karts in 1990 and graduated to open-wheel racing five years later.  For the next three seasons, he was successful in Formula Renault, winning the European Formula Super Renault championship in 1997.  He progressed to German Formula Three the following year, finishing sixth in the championship, and then moving up to Formula 3000 in 1999.  Despite scoring one pole position, the next two years were largely unsuccessful, and he switched to the Belcar series in 2001 with a Porsche 996.
+
+After returning the German F3 in 2002, and finishing fifth overall, van Hooydonk was again promoted to F3000 and remained there for the 2003 and 2004 seasons, with moderate success.  This was not enough to get him a drive in the new GP2 Series which replaced F3000 in 2005, and, despite a test with the MF1 Formula One team, he returned to tin-top racing by competing in the European Mégane Trophy for that year, finishing the championship in fourth whilst driving for ex-F1 driver Thierry Boutsen's team.
+
+Van Hooydonk has also competed in some endurance races at Zolder, Spa-Francorchamps and Le Mans.
+
+==Racing record==
+
+===Complete International Formula 3000 results===
+(key) (Races in bold indicate pole position; races in italics indicate fastest lap.)
+{| class="wikitable" style="text-align:center; font-size:90%"
+! Year
+! Entrant
+! 1
+! 2
+! 3
+! 4
+! 5
+! 6
+! 7
+! 8
+! 9
+! 10
+! DC
+! Points
+|-
+| 1999
+! Witmeur KTR
+|style="background:#EFCFFF;"| IMO
+|style="background:#CFCFFF;"| MON
+|style="background:#CFCFFF;"| CAT
+|style="background:#DFFFDF;"| MAG
+|style="background:#CFCFFF;"| SIL
+|style="background:#FFCFCF;"| A1R
+|style="background:#FFCFCF;"| HOC
+|style="background:#EFCFFF;"| HUN
+|style="background:#FFCFCF;"| SPA
+|style="background:#CFCFFF;"| NÜR
+! 17th
+! 3
+|-
+| 2000
+! Witmeur KTR
+|style="background:#CFCFFF;"| IMO
+|style="background:#CFCFFF;"| SIL
+|style="background:#DFFFDF;"| CAT
+|style="background:#EFCFFF;"| NÜR
+|style="background:#CFCFFF;"| MON
+|style="background:#CFCFFF;"| MAG
+|style="background:#CFCFFF;"| A1R
+|style="background:#EFCFFF;"| HOC
+|style="background:#EFCFFF;"| HUN
+|style="background:#EFCFFF;"| SPA
+! 19th
+! 3
+|-
+| 2003
+! Team Astromega
+|style="background:#EFCFFF;"| IMO
+|style="background:#EFCFFF;"| CAT
+| A1R
+|style="background:#DFFFDF;"| MON
+|style="background:#DFFFDF;"| NÜR
+|style="background:#DFFFDF;"| MAG
+| SIL
+| HOC
+| HUN
+|style="background:#DFFFDF;"| MNZ
+! 13th
+! 9
+|-
+|rowspan="2"| 2004
+! Coloni Motorsport
+|style="background:#DFFFDF;"| IMO
+|style="background:#EFCFFF;"| CAT
+|style="background:#DFFFDF;"| MON
+|style="background:#DFFFDF;"| NÜR
+|
+|
+|
+|
+|
+|
+!rowspan="2"| 11th
+!rowspan="2"| 8
+|-
+! Super Nova Racing
+|
+|
+|
+|
+|style="background:#CFCFFF;"| MAG
+|style="background:#EFCFFF;"| SIL
+|style="background:#CFCFFF;"| HOC
+|style="background:#CFCFFF;"| HUN
+|style="background:#CFCFFF;"| SPA
+|style="background:#DFFFDF;"| MNZ
+|}
+
+===24 Hours of Le Mans results===
+{| class="wikitable" style="font-size:90%"
+|-
+! Year
+! Team
+! Co-Drivers
+! Car
+! Class
+! Laps
+! 
+! 
+|- align="center"
+! 2000
+|align="left"|  Mopar Team Oreca
+|align="left"|  Didier Theys Didier André
+|align="left"| Reynard 2KQ-LM-Mopar
+| LMP900
+| 292
+| 20th
+| 10th
+|}
+
+==External links==
+*Jeffrey van Hooydonk official website
+
+
+
+
+
+
+
+
+
+Category:Living people
+Category:1977 births
+Category:German Formula Three Championship drivers
+Category:Belgian racing drivers
+Category:International Formula 3000 drivers
+Category:Blancpain Endurance Series drivers
+Category:24 Hours of Spa drivers
+Category:Sportspeople from Antwerp
+
+
+
+Category:Oreca drivers
+Category:Team Astromega drivers
+Category:Scuderia Coloni drivers
+Category:KTR drivers
+Category:RC Motorsport drivers
+Category:Super Nova Racing drivers
+Category:Boutsen Ginion Racing drivers
+Category:24H Series drivers

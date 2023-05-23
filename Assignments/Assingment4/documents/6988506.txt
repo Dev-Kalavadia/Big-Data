@@ -1,0 +1,272 @@
+Title: List of presidents of the Chamber of Deputies of Luxembourg
+
+
+
+The president of the Chamber of Deputies (Luxembourgish: Chamberpresident, French: Président de la Chambre des Députés, German: Präsident der Abgeordnetenkammer) is the presiding officer in Luxembourg's unicameral national legislature, the Chamber of Deputies.
+
+Note that, during recess, the chamber does not have a president.  However, for continuity purposes, unless the president changes between one parliamentary session and another, the presidency is treated as though it is held continuously.
+
+{| class="wikitable"
+! colspan=2| Name
+! Party
+! Start date
+! End date
+|-
+! width=5px| 
+| Charles Metz
+| 
+| 1848
+| 1853
+|-
+!
+| Théodore Pescatore (first time)
+| 
+| 1853
+| 1855
+|-
+!
+| Baron de Tornaco (first time)
+| 
+| 1855
+| 1856
+|- 
+!
+| Jean-Mathias Wellenstein
+| 
+| 1857
+| 1858
+|-
+!
+| Jean-Pierre Toutsch (first time)
+| 
+| 1858
+| 1859
+|- 
+!
+| Baron de Tornaco (second time)
+| 
+| 1859
+| 1860
+|- 
+!
+| Norbert Metz
+| 
+| 1860
+| 1861
+|- 
+!
+| Théodore Pescatore (second time)
+| 
+| 1861
+| 1866
+|- 
+!
+| Michel Witry
+| 
+| 1866
+| 1867
+|- 
+!
+| Jean-Pierre Toutsch (second time)
+| 
+| 1867
+| 1869
+|-
+!
+| Paul de Scherff
+| 
+| 1869
+| 1872
+|-
+!
+| Baron de Blochausen / Jean-Pierre Foehr
+| 
+| 1872
+| 1873
+|-
+!
+| Baron de Blochausen / Jean-Pierre Foehr
+| 
+| 1873
+| 1874
+|-
+!
+| Baron de Blochausen / Jean-Pierre Foehr
+| 
+| 1874
+| 1875
+|-
+!
+| Jacques Gustave Lessel
+| 
+| 1875
+| 1886
+|-
+!
+| Zénon de Muyser
+| 
+| 1886
+| 1887
+|-
+!
+| Emmanuel Servais
+| 
+| 1887
+| 1890
+|-
+!
+| Théodore Willibrord de Wacquant
+| 
+| 1890
+| 1896
+|-
+!
+| Charles-Jean Simons
+| 
+| 1896
+| 1905
+|-
+!
+| Auguste Laval
+| 
+| 1905
+| 1915
+|-
+!
+| Edouard Hemmer
+| 
+| 1915
+| 1917
+|-
+! style="background-color: " |
+| François Altwies
+| PD
+| 1917
+| 1925
+|-
+! style="background-color: " |
+| René Blum
+| PS
+| 1925
+| 1926
+|-
+! style="background-color: " |
+| Émile Reuter (first time)
+| PD
+| 1926
+| 20 October 1944President in name only under Nazi occupation (1940–1944)
+|-
+! style="background-color: " |
+| Nicolas WirtgenSelected by virtue of being oldest member
+| CSV
+| 6 December 1944
+| 1945
+|-
+! style="background-color: " |
+| Émile Reuter (second time)
+| CSV
+| 1945
+| 1958
+|-
+! style="background-color: " |
+| Joseph Bech
+| CSV
+| 1959
+| 1964
+|-
+! style="background-color: " |
+| Victor Bodson
+| LSAP
+| 1964
+| 1967
+|-
+! style="background-color: " |
+| Romain Fandel
+| LSAP
+| 1967
+| 1969
+|-
+! style="background-color: " |
+| Pierre Grégoire
+| CSV
+| 1969
+| 1974
+|-
+! style="background-color: " |
+| Antoine Wehenkel
+| LSAP
+| 1974
+| 1975
+|-
+! style="background-color: " |
+| René Van Den Bulcke
+| LSAP
+| 1975
+| 1979
+|-
+! style="background-color: " |
+| Léon Bollendorff
+| CSV
+| 1979
+| 1989
+|-
+! style="background-color: " |
+| Erna Hennicot-Schoepges
+| CSV
+| 1989
+| 1995
+|-
+! style="background-color: " |
+| Jean Spautz
+| CSV
+| 1995
+| 2004
+|-
+! style="background-color: " |
+| Jean Asselborn (extraordinary session)
+| LSAP
+| 13 July 2004
+| 30 July 2004
+|-
+! style="background-color: " |
+| Lucien Weiler
+| CSV
+| 30 July 2004
+| 7 June 2009
+|-
+! style="background-color: " |
+| Laurent Mosar
+| CSV
+| 28 July 2009
+| 12 November 2013
+|-
+! style="background-color: " |
+| Mars Di Bartolomeo
+| LSAP
+| 5 December 2013
+| 5 December 2018
+|-
+! style="background-color: " |
+| Fernand Etgen
+| DP
+| 6 December 2018
+| Present
+|}
+
+In addition, there were four extraordinary sessions, for which the Presidents were selected by virtue of being the oldest members.  In these cases, the Presidents were:
+* 11 January 1858: Mathias Ulrich
+* 24 June 1872 – 27 June 1872 Michel Witry
+* 6 July 1979: Jean-Pierre Urwald
+* 16 July 1984: Jean-Pierre Urwald
+
+==See also==
+* List of presidents of the Council of State of Luxembourg
+
+==Footnotes==
+
+
+
+
+ 
+Category:Lists of political office-holders in Luxembourg
+Luxembourg Chamber of Deputies

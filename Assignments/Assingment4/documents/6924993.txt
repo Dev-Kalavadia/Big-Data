@@ -1,0 +1,18 @@
+Title: Canon AF35M
+thumb|Canon AF35M
+thumb|Top view; pop-up flash on left
+thumb|Rear view
+thumb|Canon 'New Autoboy' from 1989
+
+The Canon AF35M, by Canon Japan or the Sure Shot by Canon USA, was Canon Inc.'s first autofocus 35mm lens-shutter compact camera.  It was launched in November 1979 and received the Japanese Ministry of International Trade and Industry's 1980 Good Design Award in September 1980.  It proved successful among similar cameras from the competition and sold well; production reached 110,000 per month by the second half of 1981.  It was partly supplanted by 1981's higher-specified AF35ML and wholly replaced by 1983's AF35M II. 
+
+The active autofocus system used a near-infrared emitting diode and a PIN photodiode to determine the subject position by triangulation in a manner similar to a coincident-image rangefinder.  This meant that the system was independent of ambient light levels and achieved a high degree of accuracy; however, it could be fooled by glass (which is not transparent to infrared radiation).  The autofocus area was marked on the reverse-Galilean optical viewfinder, which also had projected framelines, zone focusing marks for near, medium and far (lit to indicate the approximate area the autofocus had selected), parallax correction marks, and battery-check and camera-shake warning LEDs.  Viewfinder magnification was 0.5× and coverage was 85% of the full 135 frame area.
+
+The lens was of 38 mm focal length and with a maximum aperture of .  A ring around the lens optic itself was used to set the film speed (ISO 25 to 400), which was indicated on a small window on the front of the lens assembly; also there, but below the lens optic itself, was the cadmium sulfide (CdS) photoresistor for the light meter.  The location of this, inside the filter ring of the lens, meant that the meter would function accurately even with filters fitted to the lens.
+
+Film transport was fully automatic in both directions, but the camera was not fitted with Canon's Quick Load feature; film still had to be manually threaded to the take-up spool.
+
+An integral flash was fitted; this retracted into the top of the camera on the left (from the user's perspective) and was manually extended via releasing a catch on the camera's front.  The unit had a guide number of 14 (at ISO 100 in meters) and featured auto-exposure with the camera's light meter as well as supporting fill flash.  Also on the front was a self-timer control.
+
+All electronic functions drew power from two AA batteries. Some of the later models drew power from a single 2CR5 battery.
+

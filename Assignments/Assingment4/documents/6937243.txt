@@ -1,0 +1,729 @@
+Title: Antietam Confederate order of battleThe following Confederate States Army units and commanders fought in the Battle of Antietam of the American Civil War. The Union order of battle is listed separately. Order of battle compiled from the army organizationMultiple commander names indicate command succession of command during the battle or the campaign. during the campaign,Antietam National Battlefield-Army of Northern Virginia; Official Records, Series I, Volume XIX, Part 1, pages, 803-810; Stephen W. Sears, Landscape Turned Red: The Battle of Antietam, pages 366-372 the casualty returnsOfficial Records, Series I, Volume XIX, Part 1, pages, 810-813 and the reports.Official Records, Series I, Volume XIX, Part 1, pages, 1111-1114, 1169-1171; Official Records, Series I, Volume LI, Part 1, pages, 1312, 1391-1392
+
+==Abbreviations used==
+
+===Military rank===
+* Gen = General
+* MG = Major General
+* BG = Brigadier General
+* Col = Colonel
+* Ltc = Lieutenant Colonel
+* Maj = Major
+* Cpt = Captain
+* Lt = Lieutenant
+
+===Other===
+* (w) = wounded
+* (mw) = mortally wounded
+* (k) = killed in action
+* (c) = captured
+
+==Army of Northern Virginia==
+
+Gen Robert E. Lee
+
+===Right Wing===
+MG James Longstreet
+
+{| class="wikitable"
+! width=25% | Division
+! width=25% | Brigade
+! Regiments and Others
+|-
+| rowspan=5 |
+McLaws' Division
+    
+MG Lafayette McLaws
+| Kershaw's Brigade
+  
+BG Joseph B. Kershaw
+|
+* 2nd South Carolina: Col John D. Kennedy (w), Maj Franklin Gaillard
+* 3rd South Carolina: Col James D. Nance
+* 7th South Carolina: Col David W. Aiken (w), Cpt John S. Hard
+* 8th South Carolina: Ltc Axalla J. Hoole
+|-
+| Cobb's Brigade
+  
+Ltc Christopher C. SandersTurned over command to Lieutenant Colonel MacRae on account of sickness (see: MacRae's report)
+  
+Ltc William MacRae
+|
+* 16th Georgia: Ltc Philip Thomas
+* 24th Georgia: Maj Robert E. McMillan (w)
+* Cobb's (Georgia) Legion: Ltc Luther Glenn
+* 15th North Carolina: Ltc William MacRae
+|-
+| Semmes' Brigade
+  
+BG Paul J. Semmes
+|
+* 10th Georgia: Maj Willis C. Holt (w), Cpt William Johnston (w), Cpt Philologus H. Loud (w)
+* 53rd Georgia: Ltc Thomas Sloan (mw), Cpt Samuel W. Marshborne
+* 15th Virginia: Cpt Emmett M. Morrison (w), Cpt Edward J. Willis
+* 32nd Virginia: Col Edgar B. Montague
+|-
+| Barksdale's Brigade
+  
+BG William Barksdale
+|
+* 13th Mississippi: Ltc Kennon McElroyWounded September 15, 1862, but remained in command (see: Barksdale's report)
+* 17th Mississippi: Ltc John C. Fiser
+* 18th Mississippi: Maj James C. Campbell (w), Ltc William H. LuseReached the field just as the battle was closing (see: Barksdale's report)
+* 21st Mississippi: Cpt John Sims, Col Benjamin G. Humphreys
+|-
+| Artillery
+  
+Maj Samuel P. Hamilton
+  
+Col Henry C. CabellJoined during the battle (see: McLaws' report)
+|
+* Manly's (1st North Carolina, Battery A) Battery: Cpt Basil C. Manly
+* Pulaski (Georgia) Artillery: Cpt John P. W. Read
+* Richmond (Fayette) Artillery: Cpt Miles C. Macon
+* Richmond Howitzers, 1st Company: Cpt Edward S. McCarthy
+* Troup (Georgia) Artillery: Cpt Henry H. Carlton
+|-
+| rowspan=7 |
+Anderson's Division
+    
+MG Richard H. Anderson (w)
+    
+BG Roger A. Pryor
+| Wilcox's Brigade
+  
+Col Alfred Cumming (w)
+  
+Maj Hilary A. Herbert
+  
+Cpt James M. Crow
+|
+* 8th Alabama: Maj Hilary A. Herbert
+* 9th Alabama: Maj Jeremiah H. Johnston (w), Cpt James M. Crow
+* 10th Alabama: Cpt George C. Whatley (k)
+* 11th Alabama: Maj John C. C. Sanders
+|-
+| Mahone's BrigadeAttached to Pryor's brigade (see: Stephen W. Sears, Landscape Turned Red: The Battle of Antietam, page 367)
+  
+Col William A. Parham
+|
+* 6th Virginia: Cpt John R. Ludlow
+* 12th Virginia
+* 16th Virginia
+* 41st Virginia
+* 61st Virginia
+|-
+| Featherston's BrigadeThe Antietam National Battlefield site and the Official Records lists Brigadier General Featherston in command but he is not mentioned in the reports. For Posey in command see Longstreet's report
+  
+Col Carnot Posey
+|
+* 12th Mississippi: Col William H. Taylor
+* 16th Mississippi: Cpt Abram M. Feltus
+* 19th Mississippi: Col Nathaniel H. Harris (w)
+* 2nd Mississippi Battalion: Maj William S. Wilson (mw)
+|-
+| Armistead's Brigade
+  
+BG Lewis A. Armistead (w)
+  
+Col James G. Hodges
+|
+* 9th Virginia: Cpt William J. Richardson
+* 14th Virginia: Col James G. Hodges
+* 38th Virginia: Col Edward C. Edmonds
+* 53rd Virginia: Cpt William G. Pollard (k)
+* 57th Virginia
+|-
+| Pryor's Brigade
+  
+BG Roger A. Pryor
+  
+Col John C. Hately (w)
+|
+* 14th Alabama: Maj James A. Broome
+* 2nd Florida: Col William D. Ballantine (w), Lt Henry C. Geiger
+* 5th Florida: Col John C. Hately (w), Ltc Thomas B. Lamar (w), Maj Benjamin F. Davis
+* 8th Florida: Ltc Georges A. G. De Coppens (k), Cpt Richard A. Waller (k), Cpt William Baya
+* 3rd Virginia: Col Joseph Mayo, Jr. (w), Ltc Alexander D. Callcote
+|-
+| Wright's Brigade
+  
+BG Ambrose R. Wright (w)
+  
+Col Robert H. Jones (w)
+  
+Col William Gibson
+|
+* 44th Alabama: Ltc Charles A. Derby (k), Maj William F. Perry
+* 3rd Georgia: Cpt Reuben B. Nisbit (w), Cpt John T. Jones
+* 22nd Georgia: Col Robert H. Jones (w), Cpt Lawrence D. Lallerstedt (w)
+* 48th Georgia: Col William Gibson
+|-
+| Artillery
+  
+Maj John S. Saunders
+|
+* Donaldsonville (Louisiana) Artillery: Cpt Victor Maurin
+* Norfolk (Virginia) Artillery (Huger's Battery): Lt Charles R. Phelps
+* Moorman's (Virginia) Battery: Cpt Marcellus N. Moorman
+* Portsmouth (Virginia) Artillery: Cpt Cary F. Grimes (k)
+* Dixie (Virginia) Artillery: Cpt William H. Chapman
+|-
+| rowspan=7 |
+Jones' Division
+    
+BG David R. Jones
+| Toombs' Brigade
+  
+BG Robert Toombs (w)Commanded the 2nd, 20th and 50th Georgia and the 2nd Company, Washington Artillery. Colonel Benning commanded the remnant of the brigade. (see: Toombs' report; F. Ray Sibley, Jr., The Confederate Order of Battle, Volume 1, The Army of Northern Virginia, page 248/Note 47)
+  
+Col Henry L. Benning
+|
+* 2nd Georgia: Ltc William R. Holmes (k), Maj Skidmore Harris (w), Cpt Abner M. Lewis
+* 15th Georgia: Col William T. Millican (mw), Cpt Thomas H. Jackson
+* 17th Georgia: Cpt John A. McGregor
+* 20th Georgia: Col John B. Cumming
+|-
+| Drayton's Brigade
+  
+BG Thomas F. Drayton
+|
+* 50th Georgia: Ltc Francis Kearse
+* 51st Georgia
+* Phillips' (Georgia) Legion: Maj Richard "Robert" Thomas CookRichard M. Coffman & Kurt D. Graham, To Honor These Men: A History of the Phillips Georgia Legion Infantry Battalion
+* 15th South Carolina: Col William D. DeSaussure
+* 3rd South Carolina Battalion:F. Ray Sibley, Jr., The Confederate Order of Battle, Volume 1, The Army of Northern Virginia, page 28 Cpt George M. Gunnels
+|-
+| Pickett's Brigade
+  
+BG Richard B. Garnett
+|
+* 8th Virginia: Col Eppa Hunton
+* 18th Virginia: Maj George C. Cabell
+* 19th Virginia: Lt William N. Wood
+* 28th Virginia: Cpt William L. Wingfield
+* 56th Virginia: Cpt John B. McPhail, Jr.Wounded September 14, 1862, but remained in command
+|-
+| Kemper's Brigade
+  
+BG James L. Kemper
+|
+* 1st Virginia: Cpt George F. Newton, Maj William H. Palmer
+* 7th Virginia: Maj Arthur Herbert
+* 11th Virginia: Cpt Robert Miller Mitchell, Jr.Relieved Maj Adam Clement, wia 9/14; Robert T. Bell, 11th Virginia Infantry, Lynchburg (Va.): H. E. Howard, Inc., 1985, roster
+* 17th Virginia: Col Montgomery D. Corse (w)
+* 24th Virginia: Col William R. Terry
+|-
+| Jenkins' Brigade
+  
+Col Joseph Walker
+|
+* 1st South Carolina (Volunteers): Ltc Daniel Livingston (w)
+* 2nd South Carolina Rifles: Col Robert A. Thompson
+* 5th South Carolina: Cpt Thomas C. Beckham
+* 6th South Carolina: Cpt Edward B. Cantey (w)
+* 4th South Carolina Battalion: Lt W. T. Field
+* Palmetto (South Carolina) Sharpshooters: Cpt Alfred H. Foster (w), Cpt Franklin W. Kirkpatrick
+|-
+| Jones' Brigade
+  
+Col George T. Anderson
+|
+* 1st Georgia (Regulars): Col William J. Magill (w), Cpt Richard A. Wayne
+* 7th Georgia: Col George H. Carmical
+* 8th Georgia: Col John R. Towers
+* 9th Georgia: Ltc John C. L. Mounger (w)
+* 11th Georgia: Maj Francis H. LittleDetached September 14, 1862, at Hagerstown, five companies reached Sharpsburg on the morning of September 17, 1862, and served with General Toombs (see: Anderson's report)
+|-
+| ArtilleryStribling's, Rogers' and Leake's batteries left at Leesburg, Virginia
+|
+* Wise (Virginia) Artillery: Cpt James S. Brown
+|-
+| rowspan=2 |
+Walker's Division
+    
+BG John G. Walker
+| Walker's Brigade
+  
+Col Van H. Manning (w)
+  
+Col Edward D. Hall
+|
+* 3rd Arkansas: Cpt John W. Reedy
+* 27th North Carolina: Col John R. Cooke (w)
+* 46th North Carolina: Col Edward D. Hall, Ltc William A. Jenkins
+* 48th North Carolina: Col Robert C. Hill
+* 30th Virginia: Ltc Robert S. Chew (w)
+* French's (Virginia) Battery: Cpt Thomas B. French
+|-
+| Ransom's Brigade
+  
+BG Robert Ransom, Jr.
+|
+* 24th North Carolina: Ltc John L. Harris
+* 25th North Carolina: Col Henry M. Rutledge
+* 35th North Carolina: Col Matt W. Ransom
+* 49th North Carolina: Ltc Leroy M. McAfee
+* Branch's (Virginia) Battery: Cpt James R. Branch
+|-
+| rowspan=3 |
+Hood's Division
+    
+BG John B. Hood
+| Hood's Brigade
+  
+Col William T. Wofford
+|
+* 18th Georgia: Ltc Solon Z. Ruff
+* Hampton's (South Carolina) Legion: Ltc Martin W. Gary
+* 1st Texas: Ltc Philip A. Work
+* 4th Texas: Ltc Benjamin F. Carter
+* 5th Texas: Cpt Ike N. M. Turner
+|-
+| Whiting's BrigadeAlso called Law's or Third Brigade (see: Longstreet's and Law's report)
+  
+Col Evander M. Law
+|
+* 4th Alabama: Cpt Lawrence H. Scruggs (w), Cpt William M. Robbins
+* 2nd Mississippi: Col John M. Stone (w), Lt William C. Moody
+* 11th Mississippi: Ltc Samuel F. Butler (mw), Maj Taliaferro S. Evans (k)
+* 6th North Carolina: Maj Robert F. Webb (w)
+|-
+| Artillery
+  
+Maj Bushrod W. Frobel
+|
+* German (South Carolina) Artillery: Cpt William K. Bachman
+* Palmetto (South Carolina) Artillery: Cpt Hugh R. Garden
+* Rowan (North Carolina) Artillery: Cpt James Reilly
+|-
+|Reporting directly
+| Evans' Brigade
+  
+BG Nathan G. Evans
+  
+Col Peter F. StevensCommanded the brigade while General Evans commanded a provisional division (w) 
+|
+* 17th South Carolina: Col Fitz W. McMaster
+* 18th South Carolina: Col William H. Wallace
+* 22nd South Carolina: Maj Miel Hilton
+* 23rd South Carolina: Lt E. R. White
+* Holcombe (South Carolina) Legion: Col Peter F. Stevens
+* Macbeth (South Carolina) Artillery: Cpt Robert Boyce
+|-
+| rowspan=2 |
+Reserve Artillery
+| Washington (Louisiana) Artillery
+  
+Col James B. Walton
+|
+* 1st Company: Cpt Charles W. Squires
+* 2nd Company: Cpt John B. Richardson
+* 3rd Company: Cpt Merritt B. Miller
+* 4th Company: Cpt Benjamin F. Eshleman
+|-
+| Lee's Battalion
+  
+Col Stephen D. Lee
+|
+* Ashland (Virginia) Artillery: Cpt Pichegru Woolfolk, Jr.
+* Bedford (Virginia) Artillery: Cpt Tyler C. Jordan
+* Brooks (South Carolina) Artillery (Rhett's Battery): Lt William Elliott
+* Eubank's (Virginia) Battery: Cpt John L. Eubank
+* Madison (Louisiana) Light Artillery: Cpt George V. Moody
+* Parker's (Virginia) Battery: Cpt William W. Parker
+|}
+
+===Left Wing===
+MG Thomas J. Jackson
+
+Chief of Artillery: Col Stapleton Crutchfield
+
+Escort:
+* 4th Virginia Cavalry, Company H: Cpt Robert Randolph
+* White's Virginia Cavalry (3 companies): Cpt Elijah V. White
+
+{| class="wikitable"
+! width=25% | Division
+! width=25% | Brigade
+! Regiments and Others
+|-
+| rowspan=5 |
+Ewell's Division
+    
+BG Alexander Lawton (w)
+    
+BG Jubal A. Early
+| Lawton's Brigade
+  
+Col Marcellus Douglass (k)
+  
+Maj John H. Lowe
+  
+Col John H. Lamar
+|
+* 13th Georgia: Cpt D. A. Kidd
+* 26th Georgia
+* 31st Georgia: Ltc John T. Crowder (w), Maj John H. Lowe
+* 38th Georgia: Cpt William H. Battey (k), Cpt Peter Brennan
+* 60th Georgia: Maj Waters B. Jones
+* 61st Georgia: Col John H. Lamar, Maj Archibald P. McRae (k)
+|-
+| Early's Brigade
+  
+BG Jubal A. Early
+  
+Col William Smith (w)
+|
+* 13th Virginia: Cpt Frank V. Winston
+* 25th Virginia: Cpt Robert D. Lilley
+* 31st Virginia
+* 44th Virginia: Cpt David W. Anderson (w)
+* 49th Virginia: Col William Smith, Ltc Jonathan C. Gibson (w)
+* 52nd Virginia: Col Michael G. Harman
+* 58th Virginia
+|-
+| Trimble's Brigade
+  
+Col James A. Walker (w)
+|
+* 15th Alabama: Cpt Isaac B. Feagin
+* 12th Georgia: Cpt James G. Rogers (k), Cpt John T. Carson
+* 21st Georgia: Maj Thomas C. Glover (w), Cpt James C. Nisbit
+* 21st North Carolina: Cpt F. P. Miller (k)
+* 1st North Carolina Battalion SharpshootersAttached to the 21st North Carolina
+|-
+| Hays' Brigade
+  
+BG Harry T. Hays
+|
+* 5th Louisiana: Col Henry Forno
+* 6th Louisiana: Col Henry B. Strong (k)
+* 7th Louisiana: Col. Davidson Bradfute Penn
+* 8th Louisiana: Ltc Trevanion D. Lewis (w)
+* 14th Louisiana
+|-
+| ArtilleryCarrington's (Virginia) battery left at Richmond in August, did not rejoin the Army after the Battle of Sharpsburg. Johnson's and D'Aquin batteries were the only ones present with this division at Sharpsburg, Brown's (Maryland), Dement's (Maryland), Latimer's (Virginia) and Balthis' (Virginia) batteries having been left at Harper's Ferry and Shepherdstown
+  
+Maj Alfred R. Courtney
+|
+* Johnson's (Virginia) Battery: Cpt John R. Johnson
+* Louisiana Guard Battery: Cpt Louis E. D'Aquin
+|-
+| rowspan=6 |
+A. P. Hill's Light DivisionAnderson's (old) Brigade (14th, 35th, 45th, 49th Georgia) under Colonel Edward L. Thomas was left at Harper's Ferry (see: A. P. Hill's and Walker's report)
+    
+MG Ambrose P. Hill
+| Branch's Brigade
+  
+BG Lawrence O. Branch (k)
+  
+Col James H. Lane
+|
+* 7th North Carolina: Col Edward G. Haywood
+* 18th North Carolina: Ltc Thomas J. Purdie
+* 28th North Carolina: Col James H. Lane, Maj William J. Montgomery
+* 33rd North Carolina: Ltc Robert F. Hoke
+* 37th North Carolina: Cpt William G. Morris
+|-
+| Gregg's Brigade
+  
+BG Maxcy Gregg (w)
+|
+* 1st South Carolina (Provisional Army): Col Daniel H. Hamilton, Sr.
+* 1st South Carolina Rifles: Ltc James M. Perrin (w)
+* 12th South Carolina: Col Dixon Barnes (mw), Maj William H. McCorkle
+* 13th South Carolina: Col Oliver E. Edwards
+* 14th South Carolina: Ltc William D. Simpson
+|-
+| Field's Brigade
+  
+Col John M. Brockenbrough
+|
+* 40th Virginia: Ltc Fleet W. Cox
+* 47th Virginia: Ltc John W. Lyell
+* 55th Virginia: Maj Charles N. Lawson
+* 22nd Virginia Battalion: Maj Edward P. Tayloe
+|-
+| Archer's Brigade
+  
+BG James J. Archer
+  
+Col Peter TurneyCommanded the brigade during the march from Harper's Ferry to Sharpsburg and from September 18–19, 1862. Brigadier General Archer retired from the field on account of exhaustion during the march and on September 18, 1862 (see: Archer's report)
+|
+* 5th Alabama Battalion: Cpt Charles M. Hooper
+* 19th Georgia: Maj James H. Neal
+* 1st Tennessee (Provisional Army): Col Peter Turney
+* 7th Tennessee: Lt George A. Howard
+* 14th Tennessee: Col William McComb (w), Ltc James W. Lockert
+|-
+| Pender's Brigade
+  
+BG William D. Pender
+|
+* 16th North Carolina: Ltc William A. Stowe
+* 22nd North Carolina: Maj Christopher C. Cole
+* 34th North Carolina: Ltc John McDowell
+* 38th North Carolina
+|-
+| ArtilleryBraxton's, Crenshaw's, McIntosh's, and Pegram's batteries engaged at Sharpsburg. Davidson's battery had been left at Harper's Ferry, and Fleet's and Latham's batteries at Leesburg
+  
+Ltc R. Lindsay Walker
+|
+* Pee Dee (South Carolina) Artillery: Cpt David G. McIntosh
+* Crenshaw's (Virginia) Battery: Cpt William G. Crenshaw
+* Fredericksburg (Virginia) Artillery: Cpt Carter M. Braxton
+* Purcell (Virginia) Artillery: Cpt William R. J. Pegram
+|-
+| rowspan=5 |
+Jackson's Division
+    
+BG John R. Jones (w)
+    
+BG William E. Starke (k)
+    
+Col Andrew J. Grigsby
+| Winder's Brigade2nd Virginia detached at Martinburg, West Virginia
+  
+Col Andrew J. Grigsby
+  
+Ltc Robert D. Gardner (w)
+  
+Maj Hazael J. Williams
+|
+* 4th Virginia: Ltc Robert D. Gardner
+* 5th Virginia: Maj Hazael J. Williams, Cpt E. L. Curtis (w)
+* 27th Virginia: Cpt Frank C. Wilson
+* 33rd Virginia: Cpt Jacob Golladay (w), Lt David Walton
+|-
+| Taliaferro's Brigade10th Virginia detached at Martinburg, West Virginia
+  
+Col Edward T. H. Warren
+  
+Col James W. Jackson (w)
+  
+Col James L. Sheffield
+|
+* 47th Alabama: Col James W. Jackson, Maj James M. Campbell
+* 48th Alabama: Col James L. Sheffield
+* 23rd Virginia Ltc Simeon T. Walton (w)
+* 37th Virginia: Ltc John F. Terry (w)
+|-
+| Jones' Brigade
+  
+Cpt John E. Penn (w)
+  
+Cpt A. C. Page (w)
+  
+Cpt Robert W. Withers
+|
+* 21st Virginia: Cpt A. C. Page
+* 42nd Virginia: Cpt Robert W. Withers, Cpt D. W. Garrett
+* 48th Virginia: Cpt John H. Candler
+* 1st Virginia Battalion: Lt Charles A. Davidson
+|-
+| Starke's Brigade
+  
+BG William E. Starke
+  
+Col Jesse M. Williams (w)
+  
+Col Leroy A. Stafford (w)
+  
+Col Edmund Pendleton
+|
+* 1st Louisiana: Ltc Michael Nolan (w), Cpt William E. Moore
+* 2nd Louisiana: Col Jesse M. Williams
+* 9th Louisiana: Col Leroy A. Stafford, Ltc William R. Peck
+* 10th Louisiana: Cpt Henry D. Monier
+* 15th Louisiana: Col Edmund Pendleton
+* Coppens' (First Louisiana Zouaves) Battalion:F. Ray Sibley, Jr., The Confederate Order of Battle, Volume 1, The Army of Northern Virginia, page 250/Note 111 Cpt M. Alfred Coppens
+|-
+| Artillery
+  
+Maj Lindsay M. Shumaker
+|
+* Alleghany (Virginia) Artillery: Cpt Joseph Carpenter
+* Baltimore (Maryland) Artillery: Cpt John B. Brockenbrough
+* Danville (Virginia) Artillery: Cpt George Wooding
+* Hampden (Virginia) Artillery: Cpt William H. Caskie
+* Lee (Virginia) Battery: Cpt Charles I. Raine
+* Rockbridge (Virginia) Artillery: Cpt William T. Poague
+|-
+| rowspan=6 |
+D. H. Hill's DivisionOn 'field return', Army of Northern Virginia, for September 22, 1862, this division appears as of Jackson's Corps (Left Wing)
+    
+MG Daniel H. Hill
+| Ripley's Brigade
+  
+BG Roswell S. Ripley (w)
+  
+Col George P. Doles
+|
+* 4th Georgia: Col George P. Doles, Maj Robert S. Smith (k), Cpt William H. Willis
+* 44th Georgia: Cpt John C. Key
+* 1st North Carolina: Ltc Hamilton A. Brown
+* 3rd North Carolina: Col William L. De Rosset (w), Maj Stephen D. Thruston (w)
+|-
+| Rodes' Brigade
+  
+BG Robert E. Rodes (w)
+|
+* 3d Alabama: Col Cullen A. Battle
+* 5th Alabama: Maj Edwin L. Hobson
+* 6th Alabama: Col John B. Gordon (w), Ltc James N. Lightfoot (w)
+* 12th Alabama: Cpt E. Tucker (k), Cpt W. L. Maroney (w), Cpt Adolph Proskauer (w)
+* 26th Alabama: Col Edward A. O'Neal (w)
+|-
+| Garland's Brigade
+  
+Col Duncan K. McRae (w)
+|
+* 5th North Carolina: Cpt Thomas M. Garrett
+* 12th North Carolina: Cpt Shugan Snow
+* 13th North Carolina: Ltc Thomas Ruffin, Jr. (w), Cpt Joseph H. Hyman
+* 20th North Carolina: Col Alfred Iverson, Jr.
+* 23rd North Carolina: Col Daniel H. Christie
+|-
+| Anderson's Brigade
+  
+BG George B. Anderson (mw)
+  
+Col Risden T. Bennett (w)
+|
+* 2nd North Carolina: Col Charles C. Tew (k), Cpt Gideon M. Roberts
+* 4th North Carolina: Col Bryan Grimes, Cpt William T. Marsh (k), Cpt Daniel P. Latham (k)
+* 14th North Carolina: Col Risden T. Bennett
+* 30th North Carolina: Col Francis M. Parker (w), Maj William W. Sillers
+|-
+| Rains' (old) Brigade
+  
+Col Alfred H. Colquitt
+|
+* 13th Alabama: Col Birkett D. Fry (w), Ltc William H. Betts (w)
+* 6th Georgia: Ltc James M. Newton (k), Maj Philemon Tracy (mw), Lt Eugene P. Bennett
+* 23rd Georgia: Col William P. Barclay (k), Ltc Emory F. Best (w), Maj James H. Huggins (w)
+* 27th Georgia: Col Levi B. Smith (k), Ltc Charles T. Zachry (w), Cpt William H. Rentfro
+* 28th Georgia: Maj Tully Graybill (w), Cpt Nehemiah J. Garrison (w), Cpt George W. Warthen
+|-
+| Artillery
+  
+Maj Scipio Pierson
+|
+* Hardaway's (Alabama) Battery: Cpt Robert A. Hardaway
+* Jefferson Davis (Alabama) Artillery: Cpt James W. Bondurant
+* Jones' (Virginia) Battery: Cpt William B. Jones
+* King William (Virginia) Artillery: Cpt Thomas H. Carter (w)
+|}
+
+===Artillery Reserve===
+
+{| class="wikitable"
+! width=25% | Division
+! width=25% | Battalions
+! Batteries
+|-
+| rowspan=5 |
+Artillery ReserveIncluding all batteries mentioned in the reports or in the reorganization of October 4, 1862, and not elsewhere accounted for. Brooke's, Dearings' and Nelson's batteries joined after the campaign had terminated
+    
+BG William N. Pendleton
+| Brown's BattalionFirst Virginia Artillery
+  
+Col J. Thompson Brown
+|
+* Powhatan (Virginia) Artillery: Cpt Willis J. Dance
+* Richmond (Virginia) Howitzers, 2nd company: Cpt David Watson
+* Richmond (Virginia) Howitzers, 3rd company: Cpt Benjamin H. Smith, Jr.
+* Salem (Virginia) Artillery: Cpt Abraham Hupp
+* Williamsburg (Virginia) Artillery: Cpt John A. Coke
+|-
+| Cutts' BattalionUnder D. H. Hill's command
+  
+Ltc Allen S. Cutts
+|
+* Blackshears' (Georgia) Battery: Cpt James A. Blackshear
+* Irwin (Georgia) Artillery: Cpt John Lane
+* Lloyd's (North Carolina) Battery: Cpt Whitmel P. Lloyd
+* Patterson's (Georgia) Battery: Cpt George M. Patterson
+* Ross' (Georgia) Battery: Cpt Hugh M. Ross
+|-
+| Jones' Battalion
+  
+Maj Hilary P. Jones
+|
+* Morris (Virginia) Artillery: Cpt Richard C. M. Page
+* Orange (Virginia) Artillery: Cpt Jefferson Peyton
+* Turner's (Virginia) Battery: Cpt William H. Turner
+* Long Island (Virginia) Battery: Cpt Abram Wimbish
+|-
+| Nelson's Battalion
+  
+Maj William Nelson
+|
+* Amherst (Virginia) Artillery: Cpt Thomas J. Kirkpatrick
+* Fluvanna (Virginia) Artillery: Cpt John J. Ancell
+* Huckstep's (Virginia) Battery: Cpt Charles T. Huckstep
+* Johnson's (Virginia) Battery: Cpt. Marmaduke Johnson
+* Milledge (Georgia) Artillery: Cpt John Milledge
+|-
+| Miscellaneous BatteriesThomas (Virginia) Artillery (Edwin J. Anderson's Battery) left in Leesburg
+|
+* Cutshaw's (Virginia) Battery
+* Magruder (Virginia) Artillery
+* Rice's (Virginia) Battery:Not mentioned between September 1–22, but probably with the army in reserve Cpt William H. Rice
+|}
+
+===Cavalry===
+
+
+{| class="wikitable"
+! width=25% | Division
+! width=25% | Brigade
+! Regiments and Others
+|-
+| rowspan=5 |
+Stuart's Division
+    
+MG James E.B. Stuart
+| Hampton's Brigade
+  
+BG Wade Hampton
+|
+* 1st North Carolina: Col Laurence S. Baker
+* 2nd South Carolina: Col Matthew C. Butler
+* 10th Virginia
+* Cobb's (Georgia) Legion: Ltc Pierce M. B. Young (w), Maj William G. Delony
+* Jeff Davis (Mississippi) Legion: Ltc William T. Martin
+|-
+| Lee's Brigade
+  
+BG Fitzhugh Lee
+|
+* 1st Virginia: Ltc Luke T. Brien
+* 3rd Virginia: Ltc John T. Thornton (mw), Cpt Thomas Owens
+* 4th Virginia: Col Williams C. Wickham
+* 5th Virginia: Col Thomas L. Rosser
+* 9th Virginia
+|-
+| Robertson's Brigade
+  
+Col Thomas T. Munford
+|
+* 2nd Virginia: Ltc Richard H. Burks
+* 6th Virginia
+* 7th Virginia: Cpt Samuel B. Myers
+* 12th Virginia: Col Asher W. Harman
+* 17th Virginia Battalion
+|-
+| Horse Artillery
+  
+Cpt John Pelham
+|
+* Chew's (Virginia) Battery: Cpt R. Preston Chew
+* Hart's (South Carolina) Battery: Cpt James F. Hart
+* Pelham's (Virginia) Battery: Cpt John Pelham
+|}
+
+==Notes==
+
+

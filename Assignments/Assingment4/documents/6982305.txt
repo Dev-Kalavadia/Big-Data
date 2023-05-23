@@ -1,0 +1,18 @@
+Title: SwitchoverSwitchover is the manual switch from one system to a redundant or standby computer server, system, or network upon the failure or abnormal termination of the previously active server, system, or network, or to perform system maintenance, such as installing patches, and upgrading software or hardware. 
+
+Automatic switchover of a redundant system on an error condition, without human intervention, is called failover. Manual switchover on error would be used if automatic failover is not available, possibly because the overall system is too complex. 
+
+==See also==
+* Safety engineering
+* Data integrity
+* Fault-tolerance
+* HA Clusters
+* Business continuity planning
+
+== References ==
+
+
+Category:Engineering failures
+Category:Fault-tolerant computer systems
+
+

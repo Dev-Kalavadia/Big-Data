@@ -1,0 +1,99 @@
+Title: List of municipalities of the Province of Brindisi
+
+The following is a list of the 20 municipalities (comuni) of the Province of Brindisi, Apulia, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|074001
+|Brindisi
+| align="right" |87,935
+|-
+|074002
+|Carovigno
+| align="right" |15,514
+|-
+|074003
+|Ceglie Messapica
+| align="right" |20,732
+|-
+|074004
+|Cellino San Marco
+| align="right" |6,804
+|-
+|074005
+|Cisternino
+| align="right" |12,052
+|-
+|074006
+|Erchie
+| align="right" |8,838
+|-
+|074007
+|Fasano
+| align="right" |38,563
+|-
+|074008
+|Francavilla Fontana
+| align="right" |36,337
+|-
+|074009
+|Latiano
+| align="right" |15,260
+|-
+|074010
+|Mesagne
+| align="right" |28,182
+|-
+|074011
+|Oria
+| align="right" |15,414
+|-
+|074012
+|Ostuni
+| align="right" |32,819
+|-
+|074013
+|San Donaci
+| align="right" |7,062
+|-
+|074014
+|San Michele Salentino
+| align="right" |6,242
+|-
+|074015
+|San Pancrazio Salentino
+| align="right" |10,503
+|-
+|074016
+|San Pietro Vernotico
+| align="right" |14,773
+|-
+|074017
+|San Vito dei Normanni
+| align="right" |19,807
+|-
+|074018
+|Torchiarolo
+| align="right" |5,067
+|-
+|074019
+|Torre Santa Susanna
+| align="right" |10,588
+|-
+|074020
+|Villa Castelli
+| align="right" |8,725
+|-
+|
+|Total
+| align="right" |401,217
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

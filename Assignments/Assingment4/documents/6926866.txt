@@ -1,0 +1,75 @@
+Title: Harley-Davidson WLA
+
+
+The Harley-Davidson WLA is a Harley-Davidson motorcycle that was produced to US Army specifications in the years during and around World War II. It was based on an existing civilian model, the WL, and is of the 45 solo type, so called due to its  engine displacement and single-rider design. It acquired the nickname "Liberator"
+
+==Model designation==
+The model number breaks down as follows:
+
+* W : the W family of motorcycles. Harley-Davidson (except in very early models) gives a letter designation for each model family. The W series at the time was the newest incarnation of the  flathead motor, and was developed from the earlier R family 1932–1936.
+* L : "high compression", in the usual HD scheme. The "low compression" W model was only briefly available.
+* A : Army. The company would also produce a model to the slightly different specifications of the Canadian Army, which would be named the WLC. The WLCs differed from WLAs chiefly in the use of some heavier components, usually Big Twin parts, as well as Canadian blackout lighting.
+
+==History==
+
+
+Harley-Davidson began producing the WLA in small numbers in 1940, as part of a general military expansion. The later entry of the United States into World War II saw significantly increased production, with some 70,000 being produced during the war (along with spare parts the equivalent of many more). Harley-Davidson would also produce a close WLA variant for the Canadian Army called the WLC and would also supply smaller numbers to the UK, South Africa and other allies , as well as filling orders for different models from the Navy and Marine Corps.
+
+Unusually, all the WLAs produced after Pearl Harbor, regardless of the actual year, would be given serial numbers indicating 1942 production. Thus, war-time machines would come to be known as 42WLAs. This may have been in recognition of the continued use of the same specification. Most WLCs were produced in 1942 and 1943, and are marked  42WLC or 43WLC. The precise serial number, as well as casting marks, can be used to date a specific motor accurately, and some other parts bear year and month stamps. Frames and many other parts were not tagged with the serial number, but can be dated by castingnumbers. This is common prior to adoption of the vehicle identification number (VIN).
+
+Many WLAs would be shipped to allies under the Lend-Lease program. The largest recipient was the Soviet Union, which was sold over 30,000 WLAs. 
+
+Production of the WLA would cease after the war, but would be revived for the Korean War during the years 1949–1952.
+
+Most WLAs in western hands after the war would be sold as surplus and "civilianized"; the many motorcycles available at very low cost would lead to the rise of the chopper and other modified motorcycle styles, as well as the surrounding biker culture. Many a young soldier would come home hoping to get a Harley-Davidson like he saw or rode in the service, leading to the post-war popularity of both the motorcycle and the company in general.
+
+However, this also ensured that few nearly-original WLAs would survive in the US or even Western Europe. A significant number of WLAs were left in the Soviet Union, and either stored or put in private hands. With little access to parts and no chopper culture, and no export path to the West, many of those WLAs were preserved during the Cold War. Russia and other former Soviet countries are now a major source of WLAs and parts.
+
+==Military changes==
+thumb|Mostly-restored WLA originally sent to Russia
+
+The WLA is very similar to civilian models, specifically the WL. Among the changes making it a military model:
+* paint and other finishes: painted surfaces were generally painted olive drab or black and chrome- or nickel-plated parts were generally blued or parkerized or painted white. Some parts were left as unfinished aluminum. However, Harley-Davidson was apparently very practical in its use of existing parts and processes, and many finishes remained in their bright civilian versions for a time, and, in some cases, for the whole production run.
+* blackout lights: in order to reduce nighttime visibility, WLAs were fitted with a second set of blackout head and tail lights.
+* fenders: to reduce mud clogging, the sides of the standard fenders were removed.
+* accessories: a heavy-duty luggage rack (for radios), ammo box, leather Thompson submachine gun scabbard, skid plate, leg protectors, and windshield could be fitted. Most came with at least these accessories less the windshield or leg protectors.
+* air cleaner: an oil bath air cleaner, originally used for tractors and other vehicles in dusty environments, was fitted to handle the dust of off-road use and to allow easier field maintenance. Oil bath cleaners require only the addition of standard motor oil rather than replaceable filters.
+* fording: changes to the crankcase breather reduced the possibility of water intake into the crankcase.
+
+==Uses==
+thumb|US Army Manual diagram of the HD WLA.
+
+The US Army would use motorcycles for police and escort work, courier duties, and some scouting, as well as limited use to transport radio and radio suppression equipment. Allied motorcycles were almost never used as combat vehicles or for troop mobility, and so were rarely equipped with sidecars as was common on the German side.
+The WLAs in Soviet service however were often equipped with sidecars and were used as battlevehicles in the frontlines.Nevertheless, the WLA acquired the nickname "Liberator", since it was seen ridden by soldiers liberating occupied Europe.
+
+==Technology==
+The engine of the WLA is a side-valve design, which is reliable though not particularly efficient in comparison to overhead-valve designs. Harley-Davidson already had overhead valve engines in production for its Big Twin lines, but the "small twin" flathead design was popular in applications needing low cost and reliability more than power. This engine remained in production from 1937 to 1973 in the Servi-Car, although it was superseded in two-wheeled motorcycles by the more advanced flathead engine used in the Model K in 1952, the short-lived ancestor engine of the OHV Sportster from 1957.
+
+Though the model designation suggested high compression, for reliability, the Army version actually used a medium-compression version. In modern terms, the WLA's compression ratio of 5:1 is very low. Due to this low compression ratio, a WLA will run on 74 octane gasoline.
+
+The WLA also features springer front suspension. Harley-Davidson would not adopt telescopic front forks until after the war. The rear wheel had no suspension, giving this type of motorcycle the nickname "hard tail".
+
+==Other military motorcycles==
+
+
+Harley-Davidson provided motorcycles to the Army during World War I and for earlier excursions against Mexican revolutionaries such as Pancho Villa.
+
+During World War II, the Army produced a specification for a motorcycle much like the BMWs used by German forces. That meant shaft drive, a boxer engine, and several other features that made the BMWs exceptionally reliable and low-maintenance machines. Harley-Davidson produced the XA based closely on the BMW. About 1,000 were produced. Due to its new features and low production, the XA was expensive, and by that time it was clear that the Jeep was the Army's general purpose vehicle of choice; the less advanced but cheaper WLA was considered sufficient for its limited roles.
+
+Other motorcycles produced by HD for World War II included US Army and Canadian versions of the Big Twin EL family, the ELA and ELC, as well as an Army version of the U, the UA. There was also an experimental three-wheeler TA with a 69 ci EL-motor.
+These were produced mainly for "home front" use, and not in very large numbers. Consequently, they are very rare today.
+
+Indian, Harley-Davidson's major competitor at the time, also produced some war-time models, such as the Indian 640, Indian CAV/340, Indian 741, and a longitudinal V-twin shaft-drive model, the Indian 841.
+
+Harley-Davidson would later produce the MT350E, after acquiring the British Armstrong company in 1987. These were dual-sport machines, capable of both on-road and off-road service, powered by 350 cc Rotax engines. The MT350E was a redesign of the 500 cc Armstrong MT500, which reduced weight, added an electric start, and upgraded pollution standards. The MT500 began as the Italian SWM XN Tornado, which Armstrong acquired the rights to in 1984 when SWM liquidated, and then modified for military use with assistance from CCM. The MT350E mostly saw British and Canadian service, and some are still in use.Harley-Davidson Motorcycle
+
+==See also==
+*BMW R75
+*Zündapp KS 750
+*Harley-Davidson XA
+*Indian 841
+*Sokol 1000 M111
+*G-numbers
+*List of motorcycles of the 1940s
+*List of motorcycles of the 1950s
+

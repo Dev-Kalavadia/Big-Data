@@ -1,0 +1,13 @@
+Title: Obturator ring
+
+
+An obturator ring was a type of piston ring used in World War I aero engines for improved sealing in the presence of cylinder distortion.
+
+==Purpose==
+The cylinders of rotary aircraft engines of World War I (engines with the crankshaft fixed to the airframe and rotating cylinders) were notoriously difficult to keep cool leading to  thermal distortion. To keep the weight down they had very thin-wall (1.5 mm) steel cylinders.The Rotary Aero Engine, Andrew Nahum 1987, , p.40 Obturator rings, made of bronze in the early Gnome engines,Aviation Engine Examiner, Major Victor W. Page, The Norman W. Henley Publishing Co., 2 West 45th Street, New York 1931, p.146 could flex to the shape of the cylinder. Wear on the rings was considerable. Engines needed to be overhauled about every 20 hours.The Rotary Aero Engine, Andrew Nahum 1987, , p.40 The reliability of Gnome engines license-built by The British Gnome and Le Rhone Engine Co. gave an overhaul life of about 80 hours mainly as a result using a special tool to roll the 'L' section obturator rings.I Kept No Diary, Air Commodore F.R. Banks 1978, , p.63 The problem of thermal distortion was effectively cured on the Bentley BR1 engine by using aluminium cylinders, for good thermal conductivity, with cast iron liners shrunk in.The Rotary Aero Engine, Andrew Nahum 1987, , p.27
+
+An 'L' section obturator ring is shown in Patent US 1378109A - "Obturator ring".https://patentimages.storage.googleapis.com/31/ba/4e/d0d1dff885aaff/US1378109.pdf 
+
+==See also==
+*Piston ring
+

@@ -1,0 +1,928 @@
+Title: 2006 Chinese motorcycle Grand Prix
+
+
+The 2006 Chinese motorcycle Grand Prix was the fourth race of the 2006 Motorcycle Grand Prix season. It took place on the weekend of 12–14 May 2006 at the Shanghai International Circuit.
+
+thumb|Dani Pedrosa and Nicky Hayden, riding their Honda's in the MotoGP race. They went on to finish first and second, which was Pedrosa's first victory in the MotoGP class.
+
+==MotoGP classification==
+{| class="wikitable" style="font-size: 95%;"
+! Pos.
+! No.
+! Rider
+! Team
+! Manufacturer
+! Laps
+! Time/Retired
+! Grid
+! Points
+|-
+! 1
+| 26
+|  Dani Pedrosa
+| Repsol Honda Team
+| Honda
+| 22
+| 44:07.734
+| 1
+| 25
+|-
+! 2
+| 69
+|  Nicky Hayden
+| Repsol Honda Team
+| Honda
+| 22
+| +1.505
+| 5
+| 20
+|-
+! 3
+| 5
+|  Colin Edwards
+| Camel Yamaha Team
+| Yamaha
+| 22
+| +14.634
+| 3
+| 16
+|-
+! 4
+| 21
+|  John Hopkins
+| Rizla Suzuki MotoGP
+| Suzuki
+| 22
+| +19.265
+| 2
+| 13
+|-
+! 5
+| 27
+|  Casey Stoner
+| Honda LCR
+| Honda
+| 22
+| +23.061
+| 7
+| 11
+|-
+! 6
+| 6
+|  Makoto Tamada
+| Konica Minolta Honda
+| Honda
+| 22
+| +23.879
+| 11
+| 10
+|-
+! 7
+| 33
+|  Marco Melandri
+| Fortuna Honda
+| Honda
+| 22
+| +24.101
+| 8
+| 9
+|-
+! 8
+| 65
+|  Loris Capirossi
+| Ducati Marlboro Team
+| Ducati
+| 22
+| +24.467
+| 10
+| 8
+|-
+! 9
+| 15
+|  Sete Gibernau
+| Ducati Marlboro Team
+| Ducati
+| 22
+| +28.358
+| 6
+| 7
+|-
+! 10
+| 56
+|  Shinya Nakano
+| Kawasaki Racing Team
+| Kawasaki
+| 22
+| +33.815
+| 4
+| 6
+|-
+! 11
+| 24
+|  Toni Elías
+| Fortuna Honda
+| Honda
+| 22
+| +35.316
+| 15
+| 5
+|-
+! 12
+| 17
+|  Randy de Puniet
+| Kawasaki Racing Team
+| Kawasaki
+| 22
+| +52.004
+| 9
+| 4
+|-
+! 13
+| 10
+|  Kenny Roberts Jr.
+| Team Roberts
+| KR211V
+| 22
+| +56.293
+| 18
+| 3
+|-
+! 14
+| 7
+|  Carlos Checa
+| Tech 3 Yamaha
+| Yamaha
+| 22
+| +1:03.575
+| 14
+| 2
+|-
+! 15
+| 66
+|  Alex Hofmann
+| Pramac d'Antin MotoGP
+| Ducati
+| 22
+| +1:11.172
+| 16
+| 1
+|-
+! 16
+| 77
+|  James Ellison
+| Tech 3 Yamaha
+| Yamaha
+| 22
+| +1:23.075
+| 17
+|
+|-
+! 17
+| 30
+|  José Luis Cardoso
+| Pramac d'Antin MotoGP
+| Ducati
+| 22
+| +1:35.150
+| 19
+|
+|-
+! Ret
+| 46
+|  Valentino Rossi
+| Camel Yamaha Team
+| Yamaha
+| 17
+| Tyre wear
+| 13
+|
+|-
+! Ret
+| 71
+|  Chris Vermeulen
+| Rizla Suzuki MotoGP
+| Suzuki
+| 3
+| Accident
+| 12
+|
+|-
+!colspan=9| Sources:
+|}
+
+==250 cc classification==
+{| class="wikitable" style="font-size: 95%;"
+! Pos.
+! No.
+! Rider
+! Manufacturer
+! Laps
+! Time/Retired
+! Grid
+! Points
+|-
+! 1
+| 80
+|  Héctor Barberá
+| Aprilia
+| 21
+| 44:49.445
+| 1
+| 25
+|-
+! 2
+| 34
+|  Andrea Dovizioso
+| Honda
+| 21
+| +0.266
+| 4
+| 20
+|-
+! 3
+| 4
+|  Hiroshi Aoyama
+| KTM
+| 21
+| +3.320
+| 7
+| 16
+|-
+! 4
+| 48
+|  Jorge Lorenzo
+| Aprilia
+| 21
+| +3.602
+| 2
+| 13
+|-
+! 5
+| 55
+|  Yuki Takahashi
+| Honda
+| 21
+| +3.618
+| 6
+| 11
+|-
+! 6
+| 58
+|  Marco Simoncelli
+| Gilera
+| 21
+| +15.850
+| 17
+| 10
+|-
+! 7
+| 15
+|  Roberto Locatelli
+| Aprilia
+| 21
+| +16.003
+| 11
+| 9
+|-
+! 8
+| 73
+|  Shuhei Aoyama
+| Honda
+| 21
+| +16.555
+| 3
+| 8
+|-
+! 9
+| 14
+|  Anthony West
+| Aprilia
+| 21
+| +21.860
+| 8
+| 7
+|-
+! 10
+| 96
+|  Jakub Smrž
+| Aprilia
+| 21
+| +27.041
+| 9
+| 6
+|-
+! 11
+| 54
+|  Manuel Poggiali
+| KTM
+| 21
+| +34.289
+| 10
+| 5
+|-
+! 12
+| 50
+|  Sylvain Guintoli
+| Aprilia
+| 21
+| +34.563
+| 12
+| 4
+|-
+! 13
+| 36
+|  Martín Cárdenas
+| Honda
+| 21
+| +39.232
+| 16
+| 3
+|-
+! 14
+| 25
+|  Alex Baldolini
+| Aprilia
+| 21
+| +41.696
+| 20
+| 2
+|-
+! 15
+| 28
+|  Dirk Heidolf
+| Aprilia
+| 21
+| +42.693
+| 13
+| 1
+|-
+! 16
+| 8
+|  Andrea Ballerini
+| Aprilia
+| 21
+| +43.148
+| 15
+|
+|-
+! 17
+| 57
+|  Chaz Davies
+| Aprilia
+| 21
+| +56.667
+| 18
+|
+|-
+! 18
+| 16
+|  Jules Cluzel
+| Aprilia
+| 21
+| +1:00.754
+| 23
+|
+|-
+! 19
+| 23
+|  Arturo Tizón
+| Honda
+| 21
+| +1:08.145
+| 19
+|
+|-
+! 20
+| 62
+|  Shi Zhao Huang
+| Yamaha
+| 21
+| +1:45.025
+| 22
+|
+|-
+! 21
+| 63
+|  Jin Xiao
+| Yamaha
+| 20
+| +1 lap
+| 25
+|
+|-
+! Ret
+| 85
+|  Alessio Palumbo
+| Aprilia
+| 15
+| Retirement
+| 27
+|
+|-
+! Ret
+| 19
+|  Sebastián Porto
+| Honda
+| 12
+| Retirement
+| 21
+|
+|-
+! Ret
+| 22
+|  Luca Morelli
+| Aprilia
+| 7
+| Retirement
+| 26
+|
+|-
+! Ret
+| 59
+|  Chin Feng Ho
+| Aprilia
+| 3
+| Accident
+| 28
+|
+|-
+! Ret
+| 60
+|  Zhu Wang
+| Aprilia
+| 3
+| Retirement
+| 24
+|
+|-
+! Ret
+| 7
+|  Alex de Angelis
+| Aprilia
+| 2
+| Accident
+| 5
+|
+|-
+! Ret
+| 21
+|  Arnaud Vincent
+| Honda
+| 0
+| Retirement
+| 14
+|
+|-
+! DNQ
+| 61
+|  Zheng Peng Li
+| Aprilia
+|
+| Did not qualify
+|
+|
+|-
+!colspan=8| 
+|-
+|}
+
+==125 cc classification==
+{| class="wikitable" style="font-size: 95%;"
+! Pos.
+! No.
+! Rider
+! Manufacturer
+! Laps
+! Time/Retired
+! Grid
+! Points
+|-
+! 1
+| 36
+|  Mika Kallio
+| KTM
+| 19
+| 42:06.223
+| 1
+| 25
+|-
+! 2
+| 75
+|  Mattia Pasini
+| Aprilia
+| 19
+| +0.097
+| 6
+| 20
+|-
+! 3
+| 19
+|  Álvaro Bautista
+| Aprilia
+| 19
+| +0.357
+| 4
+| 16
+|-
+! 4
+| 14
+|  Gábor Talmácsi
+| Honda
+| 19
+| +0.899
+| 5
+| 13
+|-
+! 5
+| 60
+|  Julián Simón
+| KTM
+| 19
+| +1.106
+| 3
+| 11
+|-
+! 6
+| 52
+|  Lukáš Pešek
+| Derbi
+| 19
+| +1.886
+| 2
+| 10
+|-
+! 7
+| 55
+|  Héctor Faubel
+| Aprilia
+| 19
+| +20.727
+| 20
+| 9
+|-
+! 8
+| 32
+|  Fabrizio Lai
+| Honda
+| 19
+| +21.478
+| 11
+| 8
+|-
+! 9
+| 71
+|  Tomoyoshi Koyama
+| Malaguti
+| 19
+| +21.558
+| 10
+| 7
+|-
+! 10
+| 24
+|  Simone Corsi
+| Gilera
+| 19
+| +21.640
+| 19
+| 6
+|-
+! 11
+| 33
+|  Sergio Gadea
+| Aprilia
+| 19
+| +21.722
+| 13
+| 5
+|-
+! 12
+| 35
+|  Raffaele De Rosa
+| Aprilia
+| 19
+| +22.017
+| 8
+| 4
+|-
+! 13
+| 29
+|  Andrea Iannone
+| Aprilia
+| 19
+| +23.734
+| 17
+| 3
+|-
+! 14
+| 6
+|  Joan Olivé
+| Aprilia
+| 19
+| +27.491
+| 21
+| 2
+|-
+! 15
+| 63
+|  Mike Di Meglio
+| Honda
+| 19
+| +39.818
+| 16
+| 1
+|-
+! 16
+| 41
+|  Aleix Espargaró
+| Honda
+| 19
+| +49.284
+| 15
+|
+|-
+! 17
+| 11
+|  Sandro Cortese
+| Honda
+| 19
+| +49.332
+| 18
+|
+|-
+! 18
+| 16
+|  Michele Conti
+| Honda
+| 19
+| +49.500
+| 23
+|
+|-
+! 19
+| 18
+|  Nicolás Terol
+| Derbi
+| 19
+| +49.744
+| 24
+|
+|-
+! 20
+| 17
+|  Stefan Bradl
+| KTM
+| 19
+| +49.793
+| 22
+|
+|-
+! 21
+| 43
+|  Manuel Hernández
+| Aprilia
+| 19
+| +50.009
+| 25
+|
+|-
+! 22
+| 38
+|  Bradley Smith
+| Honda
+| 19
+| +50.162
+| 30
+|
+|-
+! 23
+| 12
+|  Federico Sandi
+| Aprilia
+| 19
+| +54.547
+| 32
+|
+|-
+! 24
+| 53
+|  Simone Grotzkyj
+| Aprilia
+| 19
+| +55.055
+| 39
+|
+|-
+! 25
+| 15
+|  Michele Pirro
+| Aprilia
+| 19
+| +59.726
+| 31
+|
+|-
+! 26
+| 44
+|  Karel Abraham
+| Aprilia
+| 19
+| +1:04.809
+| 33
+|
+|-
+! 27
+| 37
+|  Joey Litjens
+| Honda
+| 19
+| +1:04.818
+| 34
+|
+|-
+! 28
+| 21
+|  Mateo Túnez
+| Aprilia
+| 19
+| +1:21.244
+| 35
+|
+|-
+! 29
+| 20
+|  Roberto Tamburini
+| Aprilia
+| 19
+| +1:22.707
+| 38
+|
+|-
+! 30
+| 26
+|  Vincent Braillard
+| Aprilia
+| 19
+| +1:22.994
+| 37
+|
+|-
+! 31
+| 13
+|  Dino Lombardi
+| Aprilia
+| 19
+| +1:23.596
+| 36
+|
+|-
+! 32
+| 45
+|  Imre Tóth
+| Aprilia
+| 19
+| +1:43.819
+| 27
+|
+|-
+! 33
+| 9
+|  Michael Ranseder
+| KTM
+| 19
+| +1:50.719
+| 29
+|
+|-
+! Ret
+| 23
+|  Lorenzo Baroni
+| Honda
+| 16
+| Accident
+| 27
+|
+|-
+! Ret
+| 22
+|  Pablo Nieto
+| Aprilia
+| 15
+| Retirement
+| 8
+|
+|-
+! Ret
+| 7
+|  Alexis Masbou
+| Malaguti
+| 10
+| Retirement
+| 26
+|
+|-
+! Ret
+| 1
+|  Thomas Lüthi
+| Honda
+| 4
+| Retirement
+| 7
+|
+|-
+! Ret
+| 10
+|  Ángel Rodríguez
+| Aprilia
+| 2
+| Accident
+| 9
+|
+|-
+! Ret
+| 8
+|  Lorenzo Zanetti
+| Aprilia
+| 0
+| Accident
+| 14
+|
+|-
+! DSQ
+| 86
+|  Ho Wan Chow
+| Honda
+| 11
+| Black flag
+| 40
+|
+|-
+!colspan=8| 
+|-
+|}
+
+==Championship standings after the race (MotoGP)==
+
+Below are the standings for the top five riders and constructors after round four has concluded.
+
+
+
+;Riders' Championship standings
+{| class="wikitable" style="font-size: 95%;"
+|-
+! 
+! Rider
+! Points
+|-
+|align=center| 1
+|  Nicky Hayden
+|align=right| 72
+|-
+|align=center| 2
+|  Loris Capirossi
+|align=right| 59
+|-
+|align=center| 3
+|  Dani Pedrosa
+|align=right| 57
+|-
+|align=center| 4
+|  Marco Melandri
+|align=right| 54
+|-
+|align=center| 5
+|  Casey Stoner
+|align=right| 52
+|}
+
+;Constructors' Championship standings
+{|class="wikitable" style="font-size: 95%;"
+|-
+! 
+! Constructor
+! Points
+|-
+|align=center| 1
+|  Honda
+|align=right| 90
+|-
+|align=center| 2
+|  Yamaha
+|align=right| 59
+|-
+|align=center| 3
+|  Ducati
+|align=right| 59
+|-
+|align=center| 4
+|  Suzuki
+|align=right| 29
+|-
+|align=center| 5
+|  Kawasaki
+|align=right| 28
+|}
+
+* Note: Only the top five positions are included for both sets of standings.
+
+

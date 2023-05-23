@@ -1,0 +1,54 @@
+Title: Gambling 3NTIn the card game contract bridge, Gambling 3NT is a special  of an opening  of 3NT. The bid is used to describe a hand containing a minor suit of at least seven cards in length and headed by the ace, king and queen, at minimum. The bid has the dual objectives of preempting the opponents' bidding should they hold the  and trying for a game in notrump on the gamble that partner might hold adequate support.
+
+Because this conventional bid replaces the standard use of opening 3NT (a hand with 25-27 high card points and a balanced distribution), partnerships must use other bids to show the standard 3NT hand.  For partnerships which also employ the use of the strong two club convention, that bid can be used to describe a standard 3NT opening hand.  For example, the following bidding sequence:
+{| class="wikitable"
+|-
+! North
+! East
+! South
+! West
+|-
+| 2
+| Pass
+| 2
+| Pass
+|-
+| 3NT
+| Pass
+| Pass
+| Pass
+|}
+
+replaces the traditional 3NT opening bid if gambling 3NT and strong two club is in use.  That is, North's hand is best described as 25 to 27 high card points and a balanced distribution.
+
+==Responses==
+
+Responses vary depending on the partnership agreement for stoppers in the side suits.
+
+For the strong 3NT variant, the responder will normally pass unless holding a strong enough hand to envision a possible slam.
+
+For the weak 3NT variant responder will:Bridge Guys
+* pass when holding a stopper in three suits or with two aces (3NT becomes the contract)
+* bid 4, 5, 6, or 7.  This bid should be passed by the opener if the minor is clubs or corrected to diamonds. 
+* bid 4 asking opener to 
+** bid their shortness (singleton or void) if it is a major
+** bid 4NT with 7222 shape, 
+** bid their long minor suit with a singleton in the other minor.  
+* bid 4NT with four likely tricks, asking opener to continue to slam with an eight card suit.
+
+==Variations==
+Partnership agreements vary as to whether the 3NT opening bid shows a side-suit ace or king. Originally, the convention required the opener to have stoppers in at least two of the side suits, now known as the Strong Gambling 3NT. The common current treatment is that the 3NT bidder shows weakness in the other suits and many play that it specifically denies any Aces or Kings in the side suits (in the first or second seat) – the Weak Gambling 3NT. Other variants include having at least one ace in a side suit or exactly two aces in the side suits.
+
+Some partnerships play the following response variations:
+* bid 4 asking opener to 
+** bid their shortness (singleton or void) if it is a major
+** bid 4NT with a minor suit singleton
+**  bid their long minor suit with 7222 shape
+Or alternatively
+* bid 4 as the Gerber convention asking opener to respond using their version of this convention (usually showing Aces)
+
+==Defense==
+A double by either opponent shows a strong hand which can expect to defeat 3NT with moderate help from partner, and invites partner to take out with some shape if the opponents run to their long suit.
+
+If 3NT, doubled or otherwise, becomes the final contract, it is recommended that the opening lead be an ace, in order to see the dummy.  A typical reason not to lead aces against other contracts is that it may give away a trick when declarer holds the king; here that is not possible.  The reason that the ace is led is that the offense may have nine top tricks, and the defense must take its five first, without losing the lead.
+

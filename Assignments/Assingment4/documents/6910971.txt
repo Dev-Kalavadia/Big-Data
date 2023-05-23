@@ -1,0 +1,11 @@
+Title: ANTH domain
+
+The ANTH domain is a membrane binding domain that shows weak specificity for PtdIns(4,5)P2. It was found in AP180 (homologous to CALM) endocytotic accessory protein that has been implicated in the formation of clathrin-coated pits. The domain is involved in phosphatidylinositol 4,5-bisphosphate binding and is a universal adaptor for nucleation of clathrin coats.
+
+Its structure is a solenoid of 9 helices. The PtdIns(4,5)P2 binding residues are spread over several helices at the tip of the structure. The PtdIns(4,5)P2 binding sequence is Kx9Kx(K/R)(H/Y).
+
+An ANTH domain is also found in HIP1 and HIP1R, and the PtdIns(4,5)P2 binding sequence is conserved. More information is found on endocytosis.org.
+
+==Human proteins containing this domain ==
+HIP1;      HIP1R;     PICALM;    SNAP91;
+

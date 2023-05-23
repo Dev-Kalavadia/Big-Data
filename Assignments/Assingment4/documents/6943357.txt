@@ -1,0 +1,33 @@
+Title: WxHaskell
+
+wxHaskell is a portable and native GUI library for Haskell, built on wxWidgets. It is often used by those wanting to develop a GUI with a functional language.
+
+==Applications==
+
+=== High-level GUI libraries built on top of wxHaskell ===
+wxHaskell is a middle-level GUI library.Haskell wiki: Libraries and tools/GUI libraries Several experimental high-level GUI library approaches are implemented on top of wxHaskell:
+* Reactive-banana
+* FunctionalForms
+* wxFruit
+* Phooey
+In contrast, the high-level GUI libraries FG and Grapefruit are implemented on top of the middle-level Gtk2Hs, which is based on GTK2.
+
+All of these high-level libraries are experimental, using advanced mathematical concepts in their approach (see arrows in functional programming).
+
+==Notes==
+
+
+==External links==
+
+* Web page of the wxHaskell project
+* The 2004 ICFP Programming Contest. The winning entry by the team Dunkosmiloolump was written in Haskell and wxHaskell.
+* wxHaskell, A Portable and Concise GUI Library for Haskell
+
+
+
+
+Category:WxWidgets
+Category:Free computer libraries
+Category:X-based libraries
+
+

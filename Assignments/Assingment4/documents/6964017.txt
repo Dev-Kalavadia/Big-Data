@@ -1,0 +1,58 @@
+Title: North American Numbering Plan expansion
+
+The expansion of the  North American Numbering Plan (NANP) is the anticipated requirement for providing more telephone numbers to accommodate future needs beyond the pool of ten-digit telephone numbers. Ten-digit telephone numbers have been in use in the United States and Canada in long-distance telephone service since 1947. An October 2020 analysis estimated that the numbering plan would not be exhausted until after the year 2050.
+
+==History==
+
+In the 1940s, the American Telephone and Telegraph Company (AT&T) devised the first comprehensive continental telephone numbering plan to implement destination routing in Operator Toll Dialing with the goal of speeding the connection times in long-distance telephony. By 1951, this plan became the foundation for Direct Distance Dialing by telephone service subscribers. In the following two decades, the numbering plan became the foundation for the North American Numbering Plan (NANP), a membership organization for North American countries and affiliated territories, or regions.
+
+The North American Numbering Plan is based on a ten-digit telephone number assigned to each telephone in the telephone network. The number is divided into a three-digit area code, a three-digit central office code, and a four-digit station or line number. Certain rules govern the numerical format of each part. These rules have evolved from historical convention, technical limitations in the switching equipment, and administrative decisions by the network operators. These rules have resulted in reservation of blocks of telephone numbers for certain service types, geographic use, or future need. Based on the growing demand for telephone numbers, these rules and the allocation methods to telephone companies have been modified to prevent exhaustion of the numbering pool.
+
+The area code designates a numbering plan area (NPA) which is a geographic division of the numbering plan's entire service area, based principally on the boundaries of U.S. states, Canadian provinces, and smaller countries and territories. Many states and provinces are divided further to accommodate numbering plan needs and toll call routing facilities.
+
+From 1947 to c. 1960, the initial two digits of the central office code were mapped to two letters of an often locally significant name, the central office name or exchange name. This scheme, practiced in large cities since its invention by W. G. Blauvelt of AT&T in 1917,A History of Engineering and Science in the Bell System: The Early Years (1875-1925) p578 by M. D. Fagen (editor) & Bell Labs technical staff (1975, Bell Telephone Laboratories) prevented the use of numerous digit combinations that did not yield pronounceable words or, at best, produced poorly distinguished names. All-number calling removed these restrictions and permitted the phasing out of exchange names. Central office codes were initially still restricted from using digits 0 and 1 in the middle position, which provided a contrast with area codes, which always had these digits in the middle position. This last restriction was removed by 1995 with interchangeable NPA codes and the phase-out of electromechanical switching systems with programmable electronic switching systems (ESS).
+
+The NANP telephone number pool is expanded by assigning new central office codes to switching systems in the numbering plan areas. When that capacity is reached, a new area code must be created. Assigning a new area code is possible by two principal methodologies.  A numbering plan area may be geographically divided, a process called area code split, or an additional area code may be assigned to an existing numbering plan area, a procedure that results in an overlay numbering plan. In area code splits, the subscribers in a part of the numbering plan area must be assigned a new area code, a procedure that requires potentially millions of subscribers to change device configuration, stationary, and business tools. While many area code splits were performed in the 1990s and early 2000s, the preferred method has since been to create area code overlays that do not require changes for existing customers. This method only requires dialing procedures, as it does not support seven-digit dialing, and requires ten-digit dialing of all calls even in the local numbering plan area.
+
+Ten digits allow a maximum of 10 billion telephone numbers. The numbering rules of the NANP reduce that to 6.4 billion. However, a considerable percentage of these numbers will remain unused when the last available NPA code is assigned, because thousands of numbers will be reserved in exchanges that serve only small population centers, the exchange being served by a single NPA-NXX combination in non-competitive markets. More combinations would be partially unused in the event that a small market has competitive providers.
+
+Many blocks of numbers that were unassignable have been reclaimed by rate center consolidation and number pooling in the US.
+
+Expansion options have been discussed in industry forums for several years and recommendations for expansion have been analyzed and proposed.
+
+The NANPA regularly performs exhaustion analyses. The April 2019 analysis anticipates exhaustion after 2049.
+
+Many countries outside the NANP have open numbering plans in which the size of telephone numbers or area codes can be expanded as needed in each locality. In the North American Numbering Plan incremental changes were avoided, and delayed until the entire numbering plan requires expansion.
+
+==Industry recommendations==
+In NANP telephone number specifications, the letter N represents a numeral from 2 through 9, while the letter X represents any numeral. Thus, NXX is a number from 200 through 999, while XXXX is a range from 0000 through 9999. The first three digits of a telephone number are the numbering plan area code (NPA code, or simply NPA). The next three, NXX, identify the central office and the last four digits are the line number of an individual office.
+
+The telephone industry's current recommendation assumes first that mandatory dialing of all ten digits is required to initiate a call, even for a local call, throughout the North American Numbering Plan members, which includes many Caribbean and Pacific territories and nations.
+
+The plan proposes the insertion of 00 or 11 between the NPA and NXX, to produce twelve-digit numbers. The plan further proposes that the US would use one of these codes, while Canada would use the other, to allow customers to distinguish countries by use of these digits, which do not appear at the beginning of the twelve-digit number.  This distinction would quickly vanish as digits other than 0 and 1 are used in these positions after permissive dialing ends.
+
+Under this proposal, the N9X format NPA codes, which are currently reserved from assignment, would be released and be available for normal assignment for code relief and other purposes.
+
+===Examples===
+For these examples, it is assumed that the new digits will be 00 for the US, and 11 for Canada. With these assumptions, under this plan, the New Jersey telephone number (609) 555-0175 would become (6090) 0555-0175, and would be dialed as such. Likewise, the Ontario number (613) 555-0175 would become (6131) 1555-0175.
+
+One advantage is that, during the transition period, permissive dialing could be enabled. This means that until everyone has adjusted to the new dialing system, users would still be able to dial the shorter, 10-digit numbers. Since currently the 4th digit (or digit 'D') cannot be 1 or 0, if the telephone system detects 1 or 0 in the 4th position it will process the number as a new 12-digit number, and if it is any digit other than 1 or 0, it can process it as an existing 10-digit number until the transition is complete.
+
+==Other proposals==
+
+Proposals that utilize the reserved N9X-format codes for expansion include the following proposals:
+
+===N9XX, with no change to the remainder of the phone number===
+This proposal would expand numbers to eleven digits overall. A 9 would be inserted as the new second digit of all area codes (e.g. 212 would become 2912, 916 would become 9916). Permissive dialing would be allowed because exchange equipment, on detecting a 9 as the second digit of the area code, would respond appropriately to expect 11 digits, or 10 in the absence of a 9 in that position.
+
+Under this plan, the New Jersey telephone number (609) 555-0175 would become (6909) 555-0175.
+
+The permissive dialing period where detecting the 9 as the second digit (to expect 11 numbers) would eventually have an end date, and then new NPAs with a second digit other than 9 could be assigned, effectively multiplying the number of NPAs by ten. As with the current 3 digit scheme excluding 9 as a second digit, one number in the 2nd digit position could be reserved for a future expansion from 4 to 5 digits.
+
+===N9XX, with a new initial digit===
+With a new initial digit in front of the last seven digits of the phone number, this proposal would expand numbers to twelve digits overall. As with the above plan, a 9 would be inserted as the new second digit of all area codes. A potential problem would occur with permissive dialing of local calls where the area code is not presently required (areas with no overlay in effect, although by then that will be a very small number of areas). If the added digit were 3, for example, numbers that already begin with a 3 would present a problem, probably resolved using either a "time-out" if the customer only dials seven digits, or a flash-cut to mandatory eight-digit dialing.
+
+Under this plan, the New Jersey telephone number (609) 555-0175 could become (6909) 3555-0175, although the added '3' in the middle block could theoretically be any digit.
+
+An advantage of expanding to 12 digits under this plan is that the area codes would be "consumed" at a much slower rate, as there would be ten times as many possible combinations in each area code.
+

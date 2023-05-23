@@ -1,0 +1,212 @@
+Title: Rubab (instrument)
+
+
+
+
+Rubab, Robab or Rabab (Pashto / Persian: رُباب, Kashmiri : رَبابہٕ, Sindhi:  (Nastaleeq), रबाब (Devanagari), Azerbaijani / Turkish: Rübab, Tajik / Uzbek рубоб) is a lute-like musical instrument.David Courtney, 'Rabab', Chandra & David's Homepage The rubab, one of the national musical instruments of Afghanistan, is also commonly played in Pakistan and India by Pashtuns, Balochis, Sindhis, Kashmiris and Punjabis. The rubab has three variants, the Kabuli rebab of Afghanistan, the Seni rebab of northern India and the Pamiri rubab of Tajikistan. The instrument and its variants spread throughout West, Central, South and Southeast Asia. The Kabuli rebab from Afghanistan derives its name from the Arabic rebab and is played with a bow while in Central Asia and the Indian subcontinent, the instrument is plucked and is distinctly different in construction.
+
+==Size variants==
+{| class="wikitable sortable mw-collapsible"
+|+
+!English
+!Strings
+!Pashto
+!Persian
+!In Inches
+|-
+|Small
+|5 sympathetic strings
+|وړوکی رباب
+Warukay Rabab
+|زيلچه
+Zaliche
+|27
+|-
+|Medium
+|19 strings, 13 sympathetic strings
+|منځنۍ) رباب)
+(Mianzanai) rabab
+|رباب
+Rubab
+|28
+|-
+|Large
+|21 strings, 15 sympathetic strings
+|لوی رباب
+Large rabab
+|شاه رباب (king size)
+Shah rabab
+|30
+|}
+
+==Components==
+
+
+{| class="wikitable"
+|+
+!English
+!Pashto
+!Persian
+|-
+|Headstock
+|تاج
+Tāj
+|سر پنجه or  تاج
+"Tāj" or "Sar Penjah"   
+|-
+|Tuning peg
+|غوږي
+Ghwagi/Ghwazhi
+|گوشی‌
+Goshi
+|-
+|Nut
+|?
+|شیطانک
+Sheitanak 
+|-
+|Neck
+|غړۍ
+Gharai
+|دسته
+Dastah
+|-
+|Strings
+|تارونه
+Tāruna
+|?
+|-
+|Long/Low Drones
+|شاتار
+Shātār
+|?
+|-
+|Short/High Drones
+|?
+|?
+|-
+|Sympathetic Strings
+|بچي
+Bachi
+|?
+|-
+|Frets
+|پرده
+Parda
+|?
+|-
+|Chest
+|سينه
+Sina
+|?
+|-
+|Side
+|?
+|صفحه
+Safah 
+|-
+|Skin belly
+|ګوډی or څرمن
+"Tsarman" or "Goday"
+|پوست
+Pust
+|-
+|Head or Chamber
+|ډول
+Dol
+|کاسه
+Kassah
+|-
+|Bridge
+|ټټو
+Tatu
+|خرک
+Kharak
+|-
+|tailpiece
+|?
+|سیم گیر
+Seemgeer 
+|-
+|Plectrum
+|شاباز
+Shabaz
+|مضراب
+Mezrab
+|}
+In detail about the strings:
+{| class="wikitable"
+!English
+!Explanation
+!Pashto
+!Persian
+|-
+|Strings
+|Main strings: 3 and made out of nylon
+Long Drone: 2-3 and made out of steel
+
+Short Drone: 2 and made out of steel
+|تارونه
+Tāruna
+|?
+|-
+|First/Low/Bass String
+|Low/Bass String is the thickest string
+|کټی
+Katay
+|?
+|-
+|Second String
+|Thiner than bass string and thicker than high string
+|بم
+Bam
+|?
+|-
+|Third/High String
+|The thinest string out of all the three main strings
+|زېر
+Zer
+|?
+|}
+
+==Construction==
+
+The body is carved out of a single piece of wood, with a head covering a hollow bowl which provides the sound-chamber. The bridge sits on the skin and is held in position by the tension of the strings. It has three melody strings tuned in fourths, two or three drone strings and up to 15 sympathetic strings. The instrument is made from the trunk of a mulberry tree, the head from an animal skin such as goat, and the strings from the intestines of young goats (gut) or nylon.
+
+==History==
+
+
+The rubab is known as "the lion of instruments" and is one of the two national instruments of Afghanistan (with the zerbaghali). Classical Afghan music often features this instrument as a key component. Elsewhere it is known as the Kabuli rebab in contrast to the Seni rebab of India. In appearance, the Kabuli rubab looks slightly different from the Indian rubab. It is the ancestor of the north Indian sarod, although unlike the sarod, it is fretted.
+
+The rubab is attested from the 7th century CE. It is mentioned in old Persian books, and many Sufi poets mention it in their poems. It is the traditional instrument of Khorasan and is widely used in countries such as Afghanistan, Pakistan, Azerbaijan, Iran, Turkey, Iraq, Tajikistan, and Uzbekistan, as well as in the Xinjiang province of northwest China and the Jammu and Kashmir and Punjab regions of northwest India.
+
+The rubab was the first instrument used in Sikhism; it was used by Bhai Mardana, companion of the first guru, Guru Nanak. Whenever a shabad was revealed to Guru Nanak he would sing and Bhai Mardana would play on his rubab; he was known as a rababi. The rubab playing tradition is carried on by Sikhs such as Namdharis.
+
+
+File:Young man with rubab, 16th century, Safavid Empire.jpg|Young man with Iranian rubab, 16th century, Safavid Empire. 8-shaped body resembles a tar, but tars have both sides of the 8 covered with hide. Rubabs had a lower section covered with hide, and an upper hollow section covered with wood.
+File:Rubab-family instrument on Abbasid era bowl.jpg|Abbasid era rubab, painted on the inside of a bowl, 10th century C. E. The instrument has two strings.
+
+
+==Variants==
+In northern India, the seni rebab, which emerged during the Mughal Empire, has "a large hook at the back of its head, making it easier for a musician to sling it over the shoulder and play it even while walking." The Sikh rabab was traditionally a local Punjabi variant known as the 'Firandia' rabab (Punjabi: ਫਿਰੰਦੀਆ ਰਬਾਬ Phiradī'ā rabāba), however Baldeep Singh, an expert in the Sikh musical tradition, challenges this narrative.
+
+In Tajikistan a similar but somewhat distinct rubab-i-pamir (Pamiri rubab) is played, employing a shallower body and neck. The rubab of the Pamir area has six gut strings, one of which, rather than running from the head to the bridge, is attached partway down the neck, similar to the fifth string of the American banjo.Music and Poetry from the Pamir Mountains Musical Instruments, The Institute of Ismaili Studies.
+
+==Notable players==
+* Ustad Mohammed Omar (1905—1980), Rabab player From Kabul, Afghanistan
+* Ustad Rahim Khushnawaz (1945-2010), Rabab Player From Herat, Afghanistan
+* Ustad Homayun Sakhi, Rabab Player From Kabul, Afghanistan
+* Ustad Ramin Saqizada, Rabab Player From Afghanistan 
+* Ustad Sadiq Sameer, Rabab Player, From Afghanistan 
+* Ustad Shahzaib Khan, Rabab Player From Nowshera/Nokhar, Pakistan
+* Ustad Waqar Atal, Rabab Player, From Peshawer, Pakistan 
+* John Baily, Emeritus Professor of Ethnomusicology at Goldsmiths, University of London 
+* Khaled Arman (b. 1965), Rabab Player and Guitarist From Kabul, Afghanistan 
+*Daud Khan Sadozai, Afghan Rubab and Sarod Player from Kabul Afghanistan 
+
+==See also==
+* Rababi
+* Rebab
+* Rebec
+* Sarod
+

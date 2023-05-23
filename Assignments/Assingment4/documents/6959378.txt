@@ -1,0 +1,1163 @@
+Title: List of tallest structures in Switzerland
+
+
+
+
+
+
+
+
+
+A list of tallest structures in Switzerland. This list may be incomplete and incorrect.
+
+ indicates a structure that is no longer standing.
+
+{| class="wikitable sortable"
+|- bgcolor=#DDDDDD
+! Construction type
+! year built
+! construction type
+! Location
+! Height
+! Coordinates
+! Remarks
+|-
+|Grande Dixence Dam
+|1965
+|dam
+|Hérémence
+|285 m
+| 
+|
+|-
+|Swisscom-Sendeturm St. Chrischona
+|1983
+|tower
+|St. Chrischona, Bettingen
+|250 m
+|
+|
+|-
+|Mauvoisin Dam
+|1957
+|dam
+|Bagnes
+|250 m
+| 
+|
+|-
+|Luzzone Dam
+|1965
+|dam
+|Olivone
+|225 m
+| 
+|
+|- bgcolor=lightgrey (demolished)
+|Transmitter Monte Ceneri
+|1978
+|guyed mast
+|Monte Ceneri
+|220 m
+|
+|insulated against ground, dismantled in 2016
+|-
+|Verzasca Dam
+|1965
+|dam
+|Tenero-Contra
+|220 m
+|
+|
+|-
+|Blosenbergturm
+|1937
+|lattice tower
+|Beromünster
+|217 m
+|
+|insulated against ground
+|-
+|Roche Tower 2
+|2021
+|Skyscraper
+|Basel
+|205 m
+|
+|-
+|Tamina Bridge
+|2017
+|bridge
+|Pfäfers
+|200 m
+|
+|
+|-
+|Bantiger TV Tower
+|1995
+|concrete tower
+|Bolligen
+|196 m
+| 
+|
+|-
+|Niouc Bridge
+|1922
+|Bridge
+|Chandolin
+|190 m
+|
+| 
+|- bgcolor=lightgrey (demolished)
+|Transmitter Sottens, old transmission tower
+|1948
+|
+|Sottens
+|190 m
+|
+|demolished in 1989, insulated against ground
+|-
+|Pont de Gueuroz
+|1934
+|Bridge
+|Vernayaz
+|189 m
+|
+|
+|-
+|Pont Neuf de Gueuroz
+|1994
+|Bridge
+|Vernayaz
+|189 m
+|
+|
+|-
+|Sottens transmitter
+|1989
+|lattice tower
+|Sottens
+|188 m
+| 
+|Grounded tower with cage antenna for medium wave broadcasting
+|-
+|Uetliberg TV Tower
+|1990
+|concrete tower
+|Zürich
+|187 m
+|
+|
+|-
+|Sigriswil Panorama Bridge
+|2012
+|Bridge
+|Sigriswil
+|182 m
+|
+|
+|-
+|Emosson dam
+|1974
+|dam
+|Finhaut
+|180 m
+|
+|
+|-
+|Roche Tower
+|2015
+|skyscraper
+|Basel
+|178 m
+|
+|Tallest building in Switzerland
+|-
+|Haldenstein Wind Turbine
+|2013
+|Wind turbine
+|Haldenstein
+|175 m
+|
+|type: V-112-3.0 MW, nacelle height: 119 metres, rotor diameter: 112 metres
+|-
+|Hammetschwand Elevator
+|1905
+|lattice tower
+|Luzern
+|157 m
+| 
+|
+|-
+|Tseuzier Dam
+|1957
+|dam
+|Crans-sur-Sierre
+|156 m
+|
+|
+|-
+|Göscheneralp Dam
+|1960
+|dam
+|Göschenen
+|155 m
+|
+|
+|-
+|Curnera Dam
+|1960
+|dam
+|Mompe Tujetsch
+|153 m
+|
+|
+|-
+|Zervreila Dam
+|1958
+|dam
+|Vals
+|151 m
+|
+|
+|-
+|Cooling tower of Gösgen Nuclear Power Plant
+|?
+|cooling tower
+|Gösgen
+|150 m
+| 
+|
+|-
+|Ganter Bridge
+|1980
+|Bridge
+|Ried-Brig
+|150 m
+|
+|
+|-
+|Moiry Dam
+|1958
+|dam
+|Grimentz
+|148 m
+|
+|
+|-
+| Peuchapatte Wind Turbines
+| 2010
+| Steel tube tower
+| Muriaux
+| 148 m
+| 
+| Wind turbines of Enercon E-82 type
+|-
+|Gigerwald Dam
+|1976
+|dam
+|Pfäfers
+|147 m
+|
+|
+|-
+|Limmern Dam
+|1963
+|dam
+|Linthal
+|146 m
+|
+|
+|-
+|Geissberg Radio Tower
+|
+|lattice tower
+|Villigen
+|145 m
+|
+|
+|-
+|Cooling tower of nuclear power plant Leibstadt
+|?
+|cooling tower
+|Leibstadt
+|144 m
+|
+|
+|-
+|Valle di Lei Dam
+|1962
+|dam
+|Campsut-Cröt
+|141 m
+|
+|
+|-
+|DSM-Chimney
+|
+|chimney
+|Eiken
+|140 m
+|
+|
+|-
+| Martigny Wind Turbine
+| 2008
+| Steel tube tower
+| Martigny
+| 140 m
+| 
+| Wind turbine of Enercon E-82 type
+|-
+| Mount Crosin, Vestas V90 Wind Turbine
+| 2010
+| Steel tube tower
+| Mount Crosin
+| 140 m
+|  ;   ;   ;  ;   ;   ;   ;  
+| 8 Wind turbines of Vestas V90 type
+|-
+|Farinet bridge
+|
+|bridge
+|Saillon
+|136 m
+|
+|
+|-
+|St. Chrischona, old tower
+|1962
+|lattice tower
+|St. Chrischona, Bettingen
+|136 m
+|
+|
+|-
+| Collonges Wind Turbine
+| 2005
+| Steel tube tower
+| Collonges
+| 135.5 m
+| 
+| Wind turbine of Enercon E-70/E4 type
+|-
+|Transmitter Monte Ceneri
+|1933
+|Lattice tower
+|Monte Ceneri pass
+|135 m
+| 
+|insulated against ground, originally 120 metres tall. Since 1978 used for TV-broadcasting ( today DVB-T and DAB)
+|-
+|Mauvernay Wind Measurement Mast
+|2015
+|guyed mast
+|Epalinges
+|135 m
+|
+|
+|-
+|Sambuco Dam
+|1956
+|dam
+|Fusio
+|130 m
+|
+|
+|-
+|Gall Dam
+|1968
+|dam
+|Zernez
+|130 m
+|
+|
+|-
+|Dala Gorge Bridge
+|1991
+|bridge
+|Leuk
+|130 m
+|
+|
+|-
+|Brühlberg Tower
+|1994
+|concrete tower
+|Winterthur
+|130 m
+|
+|
+|-
+|Nalps Dam
+|1962
+|dam
+|Sedrun
+|127 m
+|
+|
+|-
+|Transmitter Beromünster, backup transmission tower
+|1933
+|lattice tower
+|Beromünster
+|125 m
+|
+|insulated against ground
+|-
+|Transmitter Sottens, backup transmission tower
+|1931
+|lattice tower
+|Sottens
+|125 m
+|
+|Insulated against ground
+|-bgcolor=lightgrey (demolished)
+|Towers of HBG Prangins
+|1931
+|lattice towers
+|Prangins
+|125 m
+| ; 
+|2 grounded towers carrying a T-antenna for longwave, demolished in 2012
+|-
+|Prime Tower (formerly "Maagtower")
+|2011
+|Skyscraper
+|Zürich
+|125 m
+|
+|Second tallest building in Switzerland (in future 5th tallest skyscraper in Switzerland )
+|-
+|Jura-Zement Factory Chimney
+|?
+|Chimney
+|Wildegg
+|125 m
+|
+|
+|-
+|Chimney of Mühleberg Nuclear Power Plant
+|?
+|Chimney
+|Mühleberg
+|125 m
+|
+|
+|-
+|Hongrin Dam North
+|1969
+|Dam
+|L'Etivaz
+|125 m
+|
+|
+|-
+|Säntis transmitter
+|1998
+|concrete tower
+|Säntis
+|123,55 m
+|
+|
+|- 
+|Mont Pèlerin TV Tower
+|1974
+|concrete tower
+|Mont Pèlerin
+|122.6 m
+|
+|
+|-bgcolor=lightgrey (demolished)
+|Chimney of Novartis AG
+|?
+|Chimney
+|Basel
+| 122 m
+|
+|demolished in 2005
+|-
+|Old Stalden Bridge
+|1930
+|Bridge
+|Stalden
+|122 m
+|
+|
+|-
+|New Stalden Bridge
+|1969
+|Bridge
+|Stalden
+|122 m
+|
+|
+|-
+|Gries Wind Turbine
+|
+|Wind Turbine
+|Ulrichen
+|120.5 m
+|
+|type: Enercon E-70, nacelle height: 85 metres, rotor diameter: 71 metres
+|-bgcolor=lightgrey (demolished)
+|Chimney of Holderbank AG
+|?
+|Chimney
+|Aargau
+|approximately 120 m
+|
+|demolished in 1984
+|-
+|Gebidem Dam
+|1964
+|Dam
+|Naters
+|120 m
+|
+|
+|-
+|Chimney of Chavalon Thermal Power Plant
+|1965
+|Chimney
+|Vouvry
+|120 m
+|
+|
+|-
+|Mattmark
+|1967
+|Dam
+|Saas Almagell
+|120 m
+|
+|
+|-
+|Directional Radio Tower Le Chasseral
+|1983
+|concrete tower
+|Nods
+|120 m
+|
+|
+|- 
+|Valzeina TV Tower
+|
+|lattice tower
+|Valzeina
+|120 m
+|
+|
+|-
+| St. Brais Wind Turbines
+| 2009
+| Steel tube tower
+| St. Brais
+| 119 m
+|  ; 
+| 2 Wind turbines of Enercon E-70/E4 type
+|-
+|Gibloux Radio Tower
+|?
+|concrete tower
+|Sorens
+|118.7 m
+|
+|
+|-
+|Kornhaus Swissmill
+|2015
+|silo
+|Zürich
+|118 m
+|
+|
+|-
+|Santa Maria Dam
+|1968
+|dam
+|Medels
+|117 m
+|
+|
+|-
+|Albinga Dam
+|1959
+|dam
+|Vicosoprano
+|117 m
+|
+|
+|-
+| Meteorological Mast of Leibstadt Nuclear Power Plant
+| 1997
+| guyed mast
+| Leibstadt
+| 115 m
+|
+|
+|-
+|Mentue bridge
+|1999
+|bridge
+|Yvonand
+|115 m
+|
+|motorway bridge
+|-
+|Spitallamm Dam
+|1932
+|dam
+|Guttannen
+|114 m
+|
+|
+|-
+|Transmission Tower La Dole
+|1958
+|lattice tower
+|La Dole
+|112 m
+|
+|
+|-
+|Innerthal Dam
+|1932
+|dam
+|Innerthal
+|112 m
+|
+|
+|-
+| Wasserflue Radio Tower
+| 
+| lattice tower
+| Küttigen
+| 112 m
+| 
+|
+|-
+|Cavagnoli Dam
+|1968
+|dam
+|Cavergno
+|111 m
+|
+|
+|-
+| Engelberg Radio Tower
+| 1974
+| lattice tower
+| Dulliken
+| 110.6 m
+| 
+|
+|-
+|Chimneys of Basel Incineration Plant
+|?
+|Chimney
+|Basel
+|110 m
+| ; 
+| 2 chimneys
+|-
+|Vaux Bridge
+|1999
+|bridge
+|Yvonand
+|110 m
+|
+|motorway bridge
+|-
+| Swisscom Tower
+| 
+| Highrise
+| Winterthur
+| 110 m
+| 
+| roof height: 90 metres
+|-
+|Poya Bridge
+|2014
+|bridge
+|Fribourg
+|107.65 m
+|
+|
+|-
+|Cheneviers Waste Incineration Facility
+|?
+|Building with chimney
+|Aïre-la-Ville
+|106 m
+|
+|
+|-
+|Chimney of Aubrugg Incineration Plant
+|?
+|Chimney
+|Zürich
+|105 m
+|
+|
+|-
+|Basler Messeturm
+|2003
+|skyscraper
+|Basel
+|105 m
+|
+|Third tallest building in Switzerland
+|-
+|Twin Chimney of Cheneviers Waste Incineration Facility
+|?
+|chimney
+|Aïre-la-Ville
+|103 m
+|
+|
+|-
+|Large chimney of Basel Roche-works
+|1957
+|chimney
+|Basel
+|103 m
+|
+|
+|-
+|Biaschina Bridge
+|1983
+|bridge
+|Giornico
+|102 m
+|
+|motorway bridge
+|-
+|Bière Wind Measurement Mast
+|2012
+|guyed mast
+|Bière
+|102 m
+|
+|
+|-
+|Münster of Bern
+|1883
+|cathedral
+|Bern
+|100 m
+|
+|tallest church tower in Switzerland
+|-
+| Attisholz-Infra Work
+| ?
+| Building with chimney
+| Riedholz
+| 100 m
+|  
+|
+|-
+| Volta-Basel Cogeneration Facility
+| ?
+| Building with chimney
+| Basel
+| 100 m
+|  
+|
+|-
+| Large Chimney of Schweizerhalle Novartis-Works
+| ?
+| Chimney
+| Muttenz
+| 100 m
+|  
+|
+|-
+| Infrapark Cogeneration Facility
+| ?
+| Building with chimney
+| Muttenz
+| 100 m
+|  
+|
+|-
+| Large Chimney of Siggenthal Cement Factory
+| ?
+| Chimney
+| Siggenthal
+| 100 m
+|  
+|
+|-
+| Collombey Refinery, Chimney North 
+| ?
+| Chimney
+| Collombey
+| 100 m
+|  
+|
+|-
+| Large Chimney of Collombey Refinery
+| ?
+| Chimney
+| Collombey
+| 100 m
+|  
+|
+|-
+| Chimney of Collombey Refinery Power Station
+| ?
+| Chimney
+| Collombey
+| 100 m
+|  
+|
+|-
+| Large Chimney of Cressier Refinery
+| ?
+| Chimney
+| Cressier
+| 100 m
+|  
+|
+|-
+| Obwalden High Bridge
+| 1943
+| Bridge
+| Kerns
+| 100 m
+|  
+| Roof-covered, wooden bridge
+|-
+| Oberaar Dam
+| 1953
+| dam
+| Guttannen
+| 100 m
+|  
+|
+|-
+| Gimmelwald Nepal Bridge
+| 2008
+| Bridge
+| Mürren
+| 100 m
+|  
+|
+|-
+| Trift Bridge
+| 2009
+| Bridge
+| Gadmen
+| 100 m
+|  
+|
+|-
+| Linthgebiet Waste Incineration Plant Chimney
+| ?
+| Chimney
+| Niederurnen
+| 100 m
+|  
+|
+|-
+|Sulzer Building
+| 1962
+| Highrise
+| Winterthur
+| 99.9 m
+| 
+|
+|-
+| Mount Crosin, Vestas V66 Wind Turbines
+| 2004
+| Steel tube tower
+| Mount Crosin
+| 99 m
+|  ; 
+| 2 Wind turbines of Vestas V66 type
+|-
+|Sitter Bridge
+|1910
+|Bridge
+|Sankt Gallen
+|99 m
+| 
+|
+|-
+|Chimney of Gösgen Nuclear Power Plant
+|?
+|Chimney
+|Gösgen
+|99 m
+| 
+|
+|-
+|Chimney of nuclear power plant Leibstadt
+|?
+|Chimney
+|Leibstadt
+|99 m
+| 
+|
+|-
+|Haggen Bridge
+|1937
+|Bridge
+|Sankt Gallen
+|98.6 m
+| 
+|
+|-
+|Manera Telecommunication Tower
+|
+|Tower
+|Rivera
+|98 m
+| 
+|
+|-
+| Malters Sankt Martin Church
+| 1883
+| Church
+| Malters
+| 98 m
+|  
+|
+|-
+|Prediger Church
+|
+|Church
+|Zurich
+|97 m
+| 
+|
+|-
+|Feschel transmitter
+|1980
+|Tower
+|Zurich
+|97 m
+| 
+|
+|-
+| Cholfirst Radio Tower
+| 1973
+| Lattice tower
+| Flurlingen
+| 96 m
+| 
+| Observation deck in a height of 42 metres
+|-
+|Bullingerstrasse 73
+|1978
+|Highrise
+|Zurich
+|95.4 m
+| 
+|
+|-
+| Ulmizberg Telecommunication Tower
+| 1974
+| Lattice tower
+| Köniz
+| 95 m
+| 
+| Observation deck in a height of 13.5 metres
+|-
+| Rigi TV Tower
+| 1998
+| Concrete tower
+| Arth
+| 95 m
+| 
+| Observation deck in a height of 7 metres
+|-
+| Chimney of Kirchberg Waste Incineration Facility
+| 1992
+| chimney
+| Bazenheid
+| 95 m
+| 
+| 
+|-
+| Gant-Hohtälli Aerial Tramway Support Pillar
+| 1998
+| Lattice tower
+| Zermatt
+| 94 m
+| 
+| 
+|-
+| Zurichberg Radio Tower
+| 
+| tower
+| Zurich
+| 94 m
+| 
+| 
+|-
+| Räterichsboden Dam
+| 1950
+| dam
+| Guttannen
+| 94 m
+| 
+| 
+|-
+| Salginatobel Bridge
+| 1930
+| bridge
+| Schiers
+| 93 m
+| 
+| Arch bridge
+|-
+| Malvaglia Dam
+| 1959
+| dam
+| Malvaglia
+| 92 m
+| 
+| 
+|-
+| Alpnach St. Maria Magdalena Church
+| 1820
+| Church
+| Alpnach
+| 91.17 m
+|  
+|
+|-
+| Marmorera Dam
+| 1954
+| dam
+| Marmorera
+| 91 m
+| 
+| 
+|-
+| Cite du Lignon Large Tower
+| 1968
+| highrise
+| Vernier
+| 90.83 m
+| 
+| 
+|-
+|Hongrin Dam South
+|1969
+|Dam
+|L'Etivaz
+|90 m
+|
+|
+|-
+| Chimney of Josef Street Waste Incineration Facility
+| 
+| chimney
+| Zurich
+| 90 m
+| 
+| 
+|-
+| Chimney of Hagenholz Waste Incineration Facility
+| 1991
+| chimney
+| Zurich
+| 90 m
+| 
+| 
+|-
+| Chimney of Eclépens Cement Factory
+| 
+| chimney
+| Eclépens
+| 90 m
+| 
+| 
+|-
+| Sunrise Tower
+| 2004
+| highrise
+| Zurich
+| 90 m
+| 
+| 
+|-
+| Fégire Bridge
+| 
+| bridge
+| Châtel-St-Denis
+| 90 m
+| 
+| 
+|-
+| MZA Celerina
+| 
+| lattice tower
+| Celerina
+| 90 m
+| 
+| 
+|-
+| Sankt Gallen Waste Incineration Facility
+| 
+| Building with chimney
+| Sankt Gallen
+| 90 m
+| 
+| 
+|-
+| Mont Cornu Radio Tower
+| 
+| lattice tower
+| La Chaux-de-Fonds
+| 90 m
+| 
+| 
+|-
+|Andreas Turm
+|2018
+|Skyscraper
+|Zurich-Oerlikon
+|80 m
+|
+|-
+|Novartis Sandoz
+|-
+|Office Building
+|Basel
+|77 m
+|
+|-
+|Pylon in the artificial lake of Santa Maria
+|1949
+|pylon
+|Lake Santa Maria
+|75 m
+| 
+|- 
+|Espacité
+|-
+|Office Building
+|La Chaux-de-Fonds
+|60 m
+|
+|- 
+|Edipresse Tower
+|-
+|Office Building
+|Lausanne
+|52 m
+|
+|
+|}
+
+==See also==
+* List of tallest dams in Switzerland
+* List of tallest buildings
+
+==External links==
+* SkyscraperPage Comparative diagram of tallest Swiss structures
+

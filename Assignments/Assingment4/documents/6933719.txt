@@ -1,0 +1,8 @@
+Title: Diminished octave
+thumb|right|Diminished octave on C .
+thumb|right|Diminished octave on C-sharp .
+
+In music from Western culture, a diminished octave () is an interval produced by narrowing a perfect octave by a chromatic semitone.Benward & Saker (2003). Music: In Theory and Practice, Vol. I, p.54. . Specific example of an d8 not given but general example of perfect intervals described. As such, the two notes are denoted by the same letter but have different accidentals. For instance, the interval from C4 to C5 is a perfect octave, twelve semitones wide, and both the intervals from C4 to C5 and from C4 to C5 are diminished octaves, spanning eleven semitones. Being diminished, it is considered a dissonant interval.Benward & Saker (2003), p.92.
+
+The diminished octave is enharmonically equivalent to the major seventh.
+

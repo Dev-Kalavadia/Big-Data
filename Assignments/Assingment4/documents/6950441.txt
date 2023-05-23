@@ -1,0 +1,46 @@
+Title: Hydroxamic acid
+thumb|right|150px|The general structure of a hydroxamic acid
+
+In organic chemistry, hydroxamic acids are a class of organic compounds bearing the functional group , with R and R' as organic residues.  They are amides () wherein the nitrogen center has a hydroxyl () substituent. They are often used as metal chelators.
+
+==Synthesis and reactions==
+Hydroxamic acids are usually prepared from either esters or acid chlorides by a reaction with hydroxylamine salts.  For the synthesis of benzohydroxamic acid, the overall equation is:
+:C6H5CO2Me  +  NH2OH   →   C6H5C(O)NHOH  +  MeOH
+
+Hydroxamic acids can also be synthesized from aldehydes and N-sulfonylhydroxylamine via the Angeli-Rimini reaction.
+
+A well-known reaction of hydroxamic acid esters is the Lossen rearrangement.
+
+==Coordination chemistry and biochemistry==
+
+File:Ferrichrome.svg| Ferrichrome
+File:Deferoxamine-2D-skeletal.png |Deferoxamine
+File:Rhodotorulic acid.svg|Rhodotorulic acid
+File:Fe(hydroxamate)3.svg|Fe(III) complex of triacetylfusarinine
+
+The conjugate base of hydroxamic acids forms is called a hydroxamate.  Deprotonation occurs at the NOH group.  The resulting conjugate base presents the metal with an anionic, conjugated O,O chelating ligand. Many hydroxamic acids and many iron hydroxamates have been isolated from natural sources.
+
+They function as ligands, usually for iron.   Nature has evolved families of hydroxamic acids to function as iron-binding compounds (siderophores) in bacteria.  They extract iron(III) from otherwise insoluble sources (rust, minerals, etc.).  The resulting complexes are transported into the cell, where the iron is extracted and utilized metabolically.
+
+Ligands derived from hydroxamic acid and thiohydroxamic acid also form strong complexes with lead(II).
+
+==Other uses and occurrences==
+Hydroxamic acids are used extensively in flotation of rare earth minerals during the concentration and extraction of ores to be subjected to further processing.
+
+Some hydroxamic acids (e.g. vorinostat, belinostat, panobinostat, and trichostatin A) are HDAC inhibitors with anti-cancer properties. Fosmidomycin is a natural hydroxamic acid inhibitor of 1-deoxy-D-xylulose-5-phosphate reductoisomerase (DXP reductoisomerase). Hydroxamic acids have also been investigated for reprocessing of irradiated fuel.
+
+== References ==
+
+
+==Further reading==
+*
+*
+*
+*
+*
+*
+
+
+
+ 
+Category:Functional groups

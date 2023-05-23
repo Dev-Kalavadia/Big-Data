@@ -1,0 +1,219 @@
+Title: List of municipalities of the Province of Vibo Valentia
+
+The following is a list of the 50 municipalities (comuni) of the Province of Vibo Valentia, Calabria, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|102001
+|Acquaro
+| align="right" |2,908
+|-
+|102002
+|Arena
+| align="right" |1,678
+|-
+|102003
+|Briatico
+| align="right" |4,091
+|-
+|102004
+|Brognaturo
+| align="right" |712
+|-
+|102005
+|Capistrano
+| align="right" |1,147
+|-
+|102006
+|Cessaniti
+| align="right" |3,595
+|-
+|102007
+|Dasà
+| align="right" |1,316
+|-
+|102008
+|Dinami
+| align="right" |3,258
+|-
+|102009
+|Drapia
+| align="right" |2,197
+|-
+|102010
+|Fabrizia
+| align="right" |2,622
+|-
+|102011
+|Filadelfia
+| align="right" |5,908
+|-
+|102012
+|Filandari
+| align="right" |1,913
+|-
+|102013
+|Filogaso
+| align="right" |1,397
+|-
+|102014
+|Francavilla Angitola
+| align="right" |2,093
+|-
+|102015
+|Francica
+| align="right" |1,666
+|-
+|102016
+|Gerocarne
+| align="right" |2,391
+|-
+|102017
+|Jonadi
+| align="right" |3,027
+|-
+|102018
+|Joppolo
+| align="right" |2,150
+|-
+|102019
+|Limbadi
+| align="right" |3,688
+|-
+|102020
+|Maierato
+| align="right" |2,305
+|-
+|102021
+|Mileto
+| align="right" |7,082
+|-
+|102022
+|Mongiana
+| align="right" |887
+|-
+|102023
+|Monterosso Calabro
+| align="right" |1,927
+|-
+|102024
+|Nardodipace
+| align="right" |1,437
+|-
+|102025
+|Nicotera
+| align="right" |6,626
+|-
+|102026
+|Parghelia
+| align="right" |1,383
+|-
+|102027
+|Pizzo
+| align="right" |8,933
+|-
+|102028
+|Pizzoni
+| align="right" |1,307
+|-
+|102029
+|Polia
+| align="right" |1,224
+|-
+|102030
+|Ricadi
+| align="right" |4,562
+|-
+|102031
+|Rombiolo
+| align="right" |4,756
+|-
+|102032
+|San Calogero
+| align="right" |4,571
+|-
+|102033
+|San Costantino Calabro
+| align="right" |2,320
+|-
+|102034
+|San Gregorio d'Ippona
+| align="right" |2,278
+|-
+|102035
+|San Nicola da Crissa
+| align="right" |1,540
+|-
+|102036
+|Sant'Onofrio
+| align="right" |3,202
+|-
+|102037
+|Serra San Bruno
+| align="right" |6,966
+|-
+|102038
+|Simbario
+| align="right" |1,076
+|-
+|102039
+|Sorianello
+| align="right" |1,455
+|-
+|102040
+|Soriano Calabro
+| align="right" |2,975
+|-
+|102041
+|Spadola
+| align="right" |813
+|-
+|102042
+|Spilinga
+| align="right" |1,665
+|-
+|102043
+|Stefanaconi
+| align="right" |2,477
+|-
+|102044
+|Tropea
+| align="right" |6,922
+|-
+|102045
+|Vallelonga
+| align="right" |726
+|-
+|102046
+|Vazzano
+| align="right" |1,170
+|-
+|102047
+|Vibo Valentia
+| align="right" |33,749
+|-
+|102048
+|Zaccanopoli
+| align="right" |859
+|-
+|102049
+|Zambrone
+| align="right" |1,803
+|-
+|102050
+|Zungri
+| align="right" |2,141
+|-
+|
+|Total
+| align="right" |168,894
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

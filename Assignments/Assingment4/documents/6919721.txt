@@ -1,0 +1,180 @@
+Title: List of municipalities of the Metropolitan City of Bari
+
+A list of the 41 municipalities (comuni) of the Metropolitan City of Bari, Apulia, Italy.
+
+==List==
+{| class="wikitable sortable"
+|-
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|072001
+|Acquaviva delle Fonti
+| style="text-align:right;"|21,579
+|-
+|072002
+|Adelfia
+| style="text-align:right;"|16,824
+|-
+|072003
+|Alberobello
+| style="text-align:right;"|10,930
+|-
+|072004
+|Altamura
+| style="text-align:right;"|66,601
+|-
+|072006
+|Bari
+| style="text-align:right;"|328,458
+|-
+|072008
+|Binetto
+| style="text-align:right;"|1,993
+|-
+|072010
+|Bitetto
+| style="text-align:right;"|10,489
+|-
+|072011
+|Bitonto
+| style="text-align:right;"|56,420
+|-
+|072012
+|Bitritto
+| style="text-align:right;"|10,298
+|-
+|072014
+|Capurso
+| style="text-align:right;"|14,976
+|-
+|072015
+|Casamassima
+| style="text-align:right;"|17,413
+|-
+|072016
+|Cassano delle Murge
+| style="text-align:right;"|12,495
+|-
+|072017
+|Castellana Grotte
+| style="text-align:right;"|18,643
+|-
+|072018
+|Cellamare
+| style="text-align:right;"|5,183
+|-
+|072019
+|Conversano
+| style="text-align:right;"|24,425
+|-
+|072020
+|Corato
+| style="text-align:right;"|46,796
+|-
+|072021
+|Gioia del Colle
+| style="text-align:right;"|27,762
+|-
+|072022
+|Giovinazzo
+| style="text-align:right;"|20,934
+|-
+|072023
+|Gravina in Puglia
+| style="text-align:right;"|43,545
+|-
+|072024
+|Grumo Appula
+| style="text-align:right;"|12,696
+|-
+|072025
+|Locorotondo
+| style="text-align:right;"|14,027
+|-
+|072027
+|Modugno
+| style="text-align:right;"|37,036
+|-
+|072028
+|Mola di Bari
+| style="text-align:right;"|26,388
+|-
+|072029
+|Molfetta
+| style="text-align:right;"|60,624
+|-
+|072030
+|Monopoli
+| style="text-align:right;"|49,734
+|-
+|072031
+|Noci
+| style="text-align:right;"|19,501
+|-
+|072032
+|Noicattaro
+| style="text-align:right;"|24,379
+|-
+|072033
+|Palo del Colle
+| style="text-align:right;"|21,368
+|-
+|072034
+|Poggiorsini
+| style="text-align:right;"|1,481
+|-
+|072035
+|Polignano a Mare
+| style="text-align:right;"|17,558
+|-
+|072036
+|Putignano
+| style="text-align:right;"|27,913
+|-
+|072037
+|Rutigliano
+| style="text-align:right;"|17,888
+|-
+|072038
+|Ruvo di Puglia
+| style="text-align:right;"|25,924
+|-
+|072039
+|Sammichele di Bari
+| style="text-align:right;"|6,854
+|-
+|072040
+|Sannicandro di Bari
+| style="text-align:right;"|9,628
+|-
+|072041
+|Santeramo in Colle
+| style="text-align:right;"|26,488
+|-
+|072043
+|Terlizzi
+| style="text-align:right;"|27,452
+|-
+|072044
+|Toritto
+| style="text-align:right;"|8,815
+|-
+|072046
+|Triggiano
+| style="text-align:right;"|27,325
+|-
+|072047
+|Turi
+| style="text-align:right;"|11,253
+|-
+|072048
+|Valenzano
+| style="text-align:right;"|17,988
+|-
+|
+|Total
+| style="text-align:right;"|1,254,461
+|}
+

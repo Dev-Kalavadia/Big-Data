@@ -1,0 +1,605 @@
+Title: 2006 Kansas City Chiefs season
+
+
+
+The 2006 season was the Kansas City Chiefs' 37th in the National Football League (NFL), their 47th overall, their 44th in Kansas City, and their first under head coach Herm Edwards. The team failed to improve on their 10–6 record from 2005 after starting at 0–2 start and ending the year with a 9–7 record.
+
+The team endured many setbacks during the 2006 season, including the loss of starting quarterback Trent Green in the first game, the readjustment of a record-breaking offense, and the death of owner and founder Lamar Hunt on December 13, 2006.  Despite these setbacks, the team gained momentum and finished second in the AFC West with a 4–2 divisional record.
+
+The Chiefs entered Week 17 of the season a long shot to make the playoffs, needing a win and a loss from the Denver Broncos, Cincinnati Bengals, and Tennessee Titans. In an unlikely clinching scenario, the Chiefs defeated the Jaguars 35–30, the Bengals, Titans, and the Broncos lost, allowing the Chiefs to clinch the sixth seed in the 2006–07 playoffs and clinching their first playoff berth since the 2003 season. The Chiefs lost in the Wild Card round of the playoffs 8–23 to their playoff rival and eventual Super Bowl champions, the Indianapolis Colts.
+
+
+==Staff==
+
+
+==Preseason==
+{| class="wikitable" style="text-align:center"
+!style=""| Week
+!style=""| Date
+!style=""| Opponent
+!style=""| Result
+!style=""| Record
+!style=""| Venue
+!style=""| Recap
+|- style="background:#fcc"
+! 1
+| 
+| at Houston Texans
+| L 14–24
+| 0–1
+| Reliant Stadium
+| Recap
+|-  style="background:#fcc"
+! 2
+| 
+| at New York Giants
+| L 0–17
+| 0–2
+| Giants Stadium
+| Recap
+|- style="background:#cfc"
+! 3
+| 
+| St. Louis Rams
+| W 16–12
+| 1–2
+| Arrowhead Stadium
+| Recap
+|- style="background:#cfc"
+! 4
+| 
+| New Orleans Saints
+| W 10–9
+| 2–2
+| Arrowhead Stadium
+| Recap
+|}
+
+== Regular season ==
+=== Schedule===
+{| class="wikitable" style="text-align:center"
+! style=""| Week
+! style=""| Date
+! style=""| Opponent
+! style=""| Result
+! style=""| Record
+! style=""| Venue
+! style=""| Recap
+|-style="background:#fcc"
+! 1
+| September 10
+| Cincinnati Bengals
+| L 10–23
+| 0–1
+| Arrowhead Stadium
+| Recap
+|-style="background:#fcc"
+! 2
+| September 17
+| at Denver Broncos
+| L 6–9  
+| 0–2
+| Invesco Field at Mile High
+| Recap
+|-
+! 3
+| colspan="6" |Bye
+|-style="background:#cfc"
+! 4
+| October 1
+| San Francisco 49ers
+| W 41–0
+| 1–2
+| Arrowhead Stadium
+| Recap
+|-style="background:#cfc"
+! 5
+| October 8
+| at Arizona Cardinals
+| W 23–20
+| 2–2
+| University of Phoenix Stadium
+| Recap
+|-style="background:#fcc"
+! 6
+| October 15
+| at Pittsburgh Steelers
+| L 7–45
+| 2–3
+| Heinz Field
+| Recap
+|-style="background:#cfc"
+! 7
+| October 22
+| San Diego Chargers
+| W 30–27
+| 3–3
+| Arrowhead Stadium
+| Recap
+|-style="background:#cfc"
+! 8
+| October 29
+| Seattle Seahawks
+| W 35–28
+| 4–3
+| Arrowhead Stadium
+| Recap
+|-style="background:#cfc"
+! 9
+| November 5
+| at St. Louis Rams
+| W 31–17
+| 5–3
+| Edward Jones Dome
+| Recap
+|-style="background:#fcc"
+! 10
+| November 12
+| at Miami Dolphins
+| L 10–13
+| 5–4
+| Dolphin Stadium
+| Recap
+|-style="background:#cfc"
+! 11
+| November 19
+| Oakland Raiders
+| W 17–13
+| 6–4
+| Arrowhead Stadium
+| Recap
+|-style="background:#cfc"
+! 12
+| November 23
+| Denver Broncos
+| W 19–10
+| 7–4
+| Arrowhead Stadium
+| Recap
+|-style="background:#fcc"
+! 13
+| December 3
+| at Cleveland Browns
+| L 28–31 
+| 7–5
+| Cleveland Browns Stadium
+| Recap
+|-style="background:#fcc"
+! 14
+| December 10
+| Baltimore Ravens
+| L 10–20
+| 7–6
+| Arrowhead Stadium
+| Recap
+|-style="background:#fcc"
+! 15
+| December 17
+| at San Diego Chargers
+| L 9–20
+| 7–7
+| Qualcomm Stadium
+| Recap
+|-style="background:#cfc"
+! 16
+| 
+| at Oakland Raiders
+| W 20–9
+| 8–7
+| McAfee Coliseum
+| Recap
+|-style="background:#cfc"
+! 17
+| December 31
+| Jacksonville Jaguars
+| W 35–30
+| 9–7
+| Arrowhead Stadium
+| Recap
+|}
+Note: Intra-division opponents are in bold text.
+
+==Standings==
+
+
+==Offseason==
+Dick Vermeil, head coach, retired after the Chiefs' 2005 campaign.  On Monday, January 9, 2006, the Chiefs made their first step throughout the 2006 offseason when they hired Herman Edwards from the New York Jets as the new head coach.
+
+===2006 NFL Draft===
+Note: The Chiefs exchanged their fourth round draft pick to the New York Jets in order to acquire coach Herman Edwards.
+
+{| class="wikitable"
+|-
+!Round
+!Pick
+!Name
+!Position
+!College
+|-
+|1
+|20
+|Tamba Hali
+|Defensive end
+|Penn State
+|-
+|2
+|54
+|Bernard Pollard
+|Strong safety
+|Purdue
+|-
+|3
+|85
+|Brodie Croyle
+|Quarterback
+|Alabama
+|-
+|5
+|154
+|Marcus Maxey
+|Cornerback
+|Miami
+|-
+|6
+|186
+|Tre' Stallings
+|Guard
+|Ole Miss
+|-
+|6
+|190
+|Jeff Webb
+|Wide receiver
+|San Diego State
+|-
+|7
+|228
+|Jarrad Page
+|Strong safety
+|UCLA
+|}
+
+===Roster moves===
+Just before training camp, Pro Bowl cornerback Ty Law was added to Kansas City's lineup to strengthen the defense.  To help the offense, Left tackle Kyle Turley made his first appearance post-two-year absence from the NFL, and Running back Michael Bennett was acquired to back up Larry Johnson.  The Chiefs signed quarterback Casey Printers, who had success in the Canadian Football League, to their practice squad.
+
+Key losses to the team included the heart and soul of the team's offense; Pro Bowl tackles Willie Roaf and John Welbourn announcing their retirements (Welbourn later returned to the team in week eight following a suspension served after his reinstatement), and Fullback Tony Richardson was signed by the Minnesota Vikings.
+
+==Training camp & Pre-season==
+The Chiefs held training camp at the University of Wisconsin–River Falls.  The team reported July 28 and broke camp on August 18.  On August 4, the Chiefs scrimmaged the Minnesota Vikings in Mankato, Minnesota.
+
+In the preseason, the Chiefs lost to the Houston Texans on August 12 and the New York Giants on August 17.  For their preseason home games, the Chiefs defeated the St. Louis Rams and retained the Missouri Governor's Cup on August 26 and also defeated the New Orleans Saints on August 31.
+
+
+File:Texans Chiefs coin toss Aug 2006.jpg|Coin toss at the Chiefs' game at Houston
+File:Damien Rhodes about to score.jpg|Houston's Damien Rhodes scores, August 12
+
+
+===Game summaries===
+
+====Week 1: vs. Cincinnati Bengals====
+
+
+The Chiefs opened the regular season at home against the Cincinnati Bengals on September 10.  The game was broadcast on CBS at noon Kansas City time.
+
+The Chiefs' offense began at a slow pace, while their defense initially held the Bengals to a field goal within the first few minutes.  The Bengals began to rip through the Chiefs' defense with the help of Rudi Johnson, who would later go on to rush for 96 yards and a touchdown.
+
+In the third quarter, quarterback Trent Green received a concussion when he slid past the first-down marker and was hit by
+Robert Geathers' shoulder.Merrill, Elizabeth. QB's injury caps dark day for shell-shocked Chiefs Kansas City Star, September 11, 2006.   Green laid motionless for eleven minutes until he was taken off the field by a stretcher.  The mood of the game changed instantly when the Chiefs lost their leader, and many fans began to leave Arrowhead Stadium due to heavy rain and the dwindling score.
+
+Back-up quarterback Damon Huard came into the game and completed 12 of 20 passes for 140 yards and a touchdown, and was sacked four times.  Tight end Tony Gonzalez caught his first touchdown pass of the season and helped bring the score to 20–10.  The Bengals left with their first win of the 2006 season as the Chiefs began their season 0–1.
+
+====Week 2: at Denver Broncos====
+
+
+Heading into their second game of the season and first on the road, the Chiefs looked to backup quarterback Damon Huard to lead their first win of the season.  The game marked the first time the Herman Edwards regime played against the Denver Broncos, as Kansas City had not won in Denver since 2000.  The game was broadcast on CBS at 2:15pm Denver time.
+
+The game was the first time the Chiefs and Broncos played with no touchdowns scored by either team.  The Kansas City defense held the Broncos scoreless in the first half, and to only nine points by the end of the game; the fewest the Chiefs have permitted at Denver since registering a 21–7 win on October 22, 1995.  It also marked the fewest points Denver scored at INVESCO Field since it opened in 2001.Moris, Pete. Chiefs-Broncos Postgame Notes KCChiefs.com, September 18, 2006.  
+
+Punter Dustin Colquitt tied a career-high with six punts and established a career-high with 281 punting yards.  Two costly fumbles by Damon Huard and one by Larry Johnson in the red zone resulted in the tied game going into overtime.  The Broncos won the toss and set up for the game winning kick by Jason Elam.
+
+With the loss, the Chiefs entered their bye week 0–2.
+
+====Week 3: Bye Week====
+The Chiefs took a week off, using the time to help Trent Green recover from his injury and developing Damon Huard and Brodie Croyle familiarity with their offensive playbook.
+
+====Week 4: vs. San Francisco 49ers====
+
+
+On October 1, the Chiefs hosted the San Francisco 49ers at Arrowhead Stadium.  Coach Herman Edwards confirmed Trent Green would not play in the game.Chiefs QB Green ruled out of 49ers game Associated Press, September 25, 2006    The game was broadcast on Fox at noon Kansas City time.
+
+The Chiefs defense shut out the 49ers high scoring offense, forcing two interceptions and three forced fumbles.  Quarterback Alex Smith was held to 92 yards passing and the 49ers to 93 yards rushing. In their first three games, the 49ers had given up only four sacks,Tucker, Doug. Chiefs Crush 49ers 41–0 Associated Press, October 2, 2006.  but against the Chiefs, they allowed five total sacks.
+
+Quarterback Damon Huard completed 18 of 23 passes for 208 yards and two passing touchdowns. While compiling a 133.3 passer rating – 158.3 is perfect – Huard was hardly ever touched or even hurried by a San Francisco defense which had rung up 12 sacks in its first three games.  The game marked the first shutout for the Chiefs defense since December 1, 2002, and the 49ers their first shutout since 2004 and only their second since 1977.
+
+With the win, the Chiefs improved to 1–2.
+
+====Week 5: at Arizona Cardinals====
+
+
+On October 8, the Chiefs traveled to Glendale, Arizona for their first game in the University of Phoenix Stadium to face the Arizona Cardinals.  Trent Green was still recovering from his concussion, and Arizona's rookie quarterback Matt Leinart made his career start.  The game was broadcast on CBS 1:05pm Arizona time.
+
+The game began with Arizona's offense dominating and catching the Chiefs' defense off-guard with a 49-yard touchdown pass to Wide receiver Anquan Boldin, putting the Cardinals on the scoreboard within three minutes of the game.Teicher, Adam. Cardinals' two quick hits get defense's attention Kansas City Star, October 9, 2006. 
+
+On the opening kickoff, Dante Hall was injured and left the game,Teicher, Adam. Chiefs vs. Cardinals: How they scored Kansas City Star, October 9, 2006.   leaving rookie Jeff Webb to return the kicks for the rest of the game, including a 56-yard punt return.  Samie Parker caught a 15-yard touchdown pass, leaving the Chiefs within three points of the Cardinals (17–20).  The play was officially reviewed as the referees initially thought Parker caught the ball out of bounds, but the referees decided it was caught in the endzone.
+
+Damon Huard threw Larry Johnson a 78-yard screen pass that would be stopped short of a touchdown when Antrel Rolle twisted Johnson's neck by grabbing his facemask, sending him to the turf motionless for 2 minutes.  Johnson recovered and received a standing ovation.  The NFL fined Rolle $12,500 for his penalty.  It was the second time in the 2006 season in which Rolle had been fined for an illegal tackle.NFL fines Cardinals CB Rolle $12,500 for facemask penalty Sports Ticker, October 14, 2006.  The play set up Lawrence Tynes’ eventual game-winning field goal, leaving the Chiefs with the 23–20 lead.
+
+Neil Rackers set up for a kick with less than 15 seconds to play in order to send the 23–20 contest into overtime.  Rackers missed the uprights by a foot with seconds left in the game.
+
+With the win, the Chiefs improved to 2–2.
+
+====Week 6: at Pittsburgh Steelers====
+
+
+On October 15, the Chiefs traveled to Heinz Field to battle the defending Super Bowl champion Pittsburgh Steelers.  The Chiefs entered the game 2–2 for the season, while the Steelers were 1–3 with a three-game losing streak.  The game was broadcast on CBS 4:15 p.m. Pittsburgh time.
+
+Trent Green would sit out for the fourth straight week.  Damon Huard would make his fourth consecutive start as he entered the game ranked second in the NFL in quarterback ratings,Merrill, Elizabeth. Huard is getting more than passing grades Kansas City Star, October 9, 2006.  while the Chiefs defense ranked in the top five in the NFL.  Larry Johnson recovered from his facemask tackle from Antrel Rolle and started as running back.Chief concerns: Hall uncertain, L.J. OK, but Green out Associated Press, October 9, 2006.
+
+Ben Roethlisberger threw his first touchdown of the season as the Chiefs defense gave up 372 total yards in the first half,  allowing 17 first downs.Posnanski, Joe.No one expected defense to collapse Kansas City Star, October 16, 2006.   Cornerback Ty Law made a costly error in the opening series by slipping on the turf, allowing Santonio Holmes to gain 50 yards on the third play of the game.  Holmes would have scored if he had not slipped as well.
+
+The Chiefs managed one touchdown in the game, coming from Larry Johnson in the third quarter.  Following a 49-yard interception by safety Troy Polamalu, Larry Johnson stopped Polamalu by tackling him from his long hair.  Johnson was not penalized for pulling Polamalu down, but by pulling him back up by his hair (a 15-yard penalty for unsportsmanlike conductRobinson, Alan.Steelers come to life, rout Chiefs 45–7 Associated Press, October 16, 2006. ).
+
+The Chiefs put in rookie quarterback Brodie Croyle in the final quarter, who managed an interception for a touchdown and a sack, as the Steelers ended the game with the 45–7 victory margin.
+
+With the loss, the Chiefs fell to 2–3.
+
+
+File:Huard full, Kansas City Chiefs Pittsburgh Steelers 2006.jpg|Damon Huard's poor performance led to Brodie Croyle's substitution against Pittsburgh
+File:Steelers Chiefs goal line.jpg|Pittsburgh approaches the Chiefs' goal line
+File:Chiefs and Steelers lineup.jpg|An identical play with the Chiefs on offense
+File:Hines Ward vs. Chiefs.jpg|The Chiefs defense takes on running back Hines Ward
+File:Heath Miller, Jared Allen, etc. in 2006.jpg|Willie Parker is tackled by the Chiefs
+
+
+====Week 7: vs. San Diego Chargers====
+
+
+On October 22, the Chiefs returned to Arrowhead to face division rivals, the San Diego Chargers.  The game was broadcast on CBS at noon Kansas City time.
+
+Trent Green had been ruled out to start in the game, but has been cleared by doctors to begin practicing with the squad.Mortensen, Chris.Chiefs quarterback Green cleared to practice next week ESPN.com, October 21, 2006.  Ronnie Cruz, the Chiefs' only fullback, is out for the year following an unspecified knee injury.Teicher, Adam.Chiefs Notebook: Cruz out for the season Kansas City Star, October 17, 2006.   Tight end Kris Wilson took over for Cruz.Teicher, Adam.Chief getting into game Kansas City Star, October 19, 2006.  The Chiefs also signed fullback Greg Hanoian in the days before the game to add depth to the position.Chiefs place FB Ronnie Cruz on IR, add FB Greg Hanoian Sports Illustrated, October 18, 2006. 
+
+The game started with the Chiefs forcing turnovers on San Diego's first four possessions.  Damon Huard later converted turnovers with two touchdown passes.  Jared Allen forced a fumble from quarterback Philip Rivers, recovered by Tamba Hali.  The Chiefs took advantage of the turnover by scoring a touchdown with Eddie Kennison, making the lead 14–0.  The Chargers would kick a field goal and the Chiefs would respond with a 15-yard field goal extending the lead to 20–3.  The Chargers would not go into halftime with a 17-point deficit, so they kicked another field goal with 5 minutes to halftime.
+
+The game was tied for the rest of the fourth quarter until 33 seconds remained when Damon Huard led the Chiefs to a 52-yard gain with 3 passes—two of them to Tony Gonzalez for 37 yards. The gain by Gonzalez set up for a game-winning field goal by kicker Lawrence Tynes. With 11 seconds left in the game, with the Chiefs trying to avoid overtime, Tynes connected on a career long 53-yard kick which later gave the Chiefs the victory, 30–27.
+
+With the win, the Chiefs improved to 3–3.
+
+====Week 8: vs. Seattle Seahawks====
+
+
+On October 29, the Chiefs hosted the defending NFC champion and former division rival,The Seahawks were previously aligned with the AFC West from 1976 to 2001 before the team joined the NFC West in the 2002 NFL division realignment.  the Seattle Seahawks.  The game marked the first time the Seahawks had played at Arrowhead since joining the NFC.  The game was broadcast on Fox at noon Kansas City time.
+
+Trent Green had been cleared by doctors to practice again with the team, but he required a minimum of 2 more games to adjust to playing time.  Backup quarterback Damon Huard was injured in the days before the game and was expected to miss the game,Report: Chiefs backup Huard injured in practice Associated Press, October 27, 2006. but he was declared fit to start.  On the Chiefs radio coverage during the game, play-by-play announcer Mitch Holthus called the game "The Backup Bowl."
+
+Offensive tackle John Welbourn practiced with the team, but it was not known if he will be welcomed back to the team following a suspension violating the league's steroid policy.Merrill, Elizabeth.Chiefs may be getting Welbourn back on line Kansas City Star, October 19, 2006.   He later came back after Week 8 after serving his suspension.  The Chiefs also signed offensive tackle Chris Terry to a two-year contract.  Previously, Terry had been suspended from the NFL for four games in 2003 for violation of the policies on substance abuse and personal conduct.
+
+In the second quarter, the Chiefs' Lawrence Tynes connected on a 32-yard field goal adding to the Chiefs' lead 13–7.  Quarterback Seneca Wallace responded to the Chiefs' lead by throwing to Wide receiver Deion Branch, who went out of bounds in front of the end zone.  The Chiefs challenged the call as they believed Branch did not have possession while in bounds.  Replays showed Branch caught the ball while in the air and while one foot landed in bounds, the other stepped on the line.  The review booth was experiencing technical difficulties. so the referees declared the call stands.
+
+The Chiefs' defense held the Seahawks for the remaining time in the fourth quarter after Jared Allen intercepted a tipped pass from Seneca Wallace.  Allen had the ball stripped by Deion Branch near the Seattle 27-yard line.  Seattle challenged Allen's possession as it was later seen that Branch recovered the ball before going out of bounds.  The referees took nearly four minutes in reviewing the play, where new NFL rules claim that referees should take no longer than 90 seconds or else the play will stand.  The call was reversed and Seattle regained possession with less than two minutes remaining and one timeout left.
+
+In the last few moments in the game, Derrick Johnson managed to get the Chiefs' first sack on Seneca Wallace and the Chiefs' defense held the Seahawks to secure the win.  With the win, the Chiefs climbed above .500 for the first time in the season.
+
+With the win, the Chiefs improved to 4–3.Johnson's four TDs rescue Chiefs in 35–28 win NFL.com, October 29, 2006.   
+
+====Week 9: at St. Louis Rams====
+
+
+On November 5, the Chiefs traveled to the Edward Jones Dome to battle their intrastate and interleague rivals, the St. Louis Rams.  The Chiefs were defending the Missouri Governor's Cup, in which both teams competed in the pre-season.Merrill, Elizabeth. KC covets a win, not the trophy Kansas City Star, November 4, 2006.   The game was broadcast on CBS at noon St. Louis time.
+
+Chiefs' running back Priest Holmes would meet with a neurosurgeon about his October 30 neck injury, suffered against the Chargers' Shawne Merriman.  Holmes must practice by November 7 to be eligible to remain in the season.Pasquarelli, Len.
+Holmes meeting with neurosurgeon, still hopes to play ESPN.com, November 1, 2006.  Trent Green suited up for the game against the Rams, but was listed as the third quarterback behind starter Damon Huard and rookie Brodie Croyle.  Herm Edwards said there was no chance Green would play against the Rams, but could be back by week 10.
+
+Damon Huard threw a 43-yard pass to Samie Parker which put the Chiefs in the red zone at the 3-yard line.  Huard continued the drive with a 3-yard pass to Tony Gonzalez, his 58th career touchdown and the Chiefs' all-time record breaker for Tight ends.Herb, Patrick. BATTERING RAM: Johnson and Chiefs take Governor's Cup 31–17 KCChiefs.com, November 5, 2006.    The Chiefs were leading with two and a half minutes into the game.  Kansas City again used Larry Johnson's speed to their advantage as Johnson broke a 16-yard dash, setting up a field goal by Lawrence Tynes on fourth and one.  An offensive battle ensued between the two teams before the half, as Tony Gonzalez scored his 59th career touchdown and second of the game from 25-yards out.  The Rams failed to find the endzone, but Jeff Wilkins connected on a field goal to make the score 24–10 at the half.
+
+Damon Huard fumbled on Kansas City's next offensive drive but was recovered by Kyle Turley—in his first game back from an injury.  The Rams' defensive unit stopped the Chiefs from securing the lead.  The Chiefs' defense gave up some major yardage on the Rams' next turn on offense.  Penalties to St. Louis cost them over 60 yards, as the Chiefs' offense suffered a penalty for defensive pass interference from Dexter Coakley and a facemask to Larry Johnson from Oshiomogho Atogwe.  The Chiefs would go on to secure the win with an 11-yard touchdown pass to Kris Wilson to make the score 31–17.  The game ended as the clock ran out as the Chiefs retained the Governor's Cup and advanced to 5–3.
+
+Several Chiefs players were injured throughout the game including Brian Waters, Tamba Hali, Derrick Johnson, Greg Wesley, Keyaron Fox and Kendall Gammon.Merrill, Elizabeth. Injury-plagued Chiefs beat Rams 31–17, Kansas City Star, November 5, 2006. 
+
+====Week 10: at Miami Dolphins====
+
+
+On November 12, the Chiefs traveled to Dolphin Stadium to play the Miami Dolphins.  The Chiefs entered the game with a three-game winning streak and the Dolphins entered with an upset victory over the previously undefeated Chicago Bears.  The game was broadcast on CBS at 1pm Miami time.
+
+In a November 7 press conference, Herm Edwards backed off on the subject of whether Trent Green will retain his starting role.Chiefs' Edwards non-committal on QB decision, NFL.com, November 7, 2006.  Edwards backs off commitment to reinserting Green Associated Press, November 7, 2006.  On Election Day, Chiefs' fans were asked to vote for their choice of starting quarterback on The Kansas City Star's website.POLL: Who should start at quarterback for the Chiefs? Kansas City Star, November 7, 2006.   Damon Huard won the poll with 58%.  The vote did not determine Edwards' decision, and was strictly for the fan's input.
+
+Pro Bowler Brian Waters missed the gameTeicher, Adam. Chiefs in thick of division race Kansas City Star, November 7, 2006 and several other Chiefs players—including Derrick Johnson and Greg Wesley—missed the game with their own injuries.  Kansas City was 3-for-14 on third-down conversions and had the ball for only 24 minutes throughout the game.
+
+The Chiefs were shut out by the end of the first half, the first time Miami had not allowed their opponents to score all season.  After the second half, the Chiefs began to regain their ground.  A fumble by Ronnie Brown gave Kansas City's Jared Allen 20-yards to recover and put the Chiefs in the red zone.  Larry Johnson would finish the opportunity from the turnover and score from 2-yards out for a touchdown.  The Chiefs now trailed 10–13 following an XPA by Lawrence Tynes.
+
+The Chiefs regained the ball after a failed offensive drive by Miami with 3:10 left in the game.  A costly sack by former Chiefs player Vonnie Holliday would put Damon Huard back within 5-yards of the end zone.  The Chiefs would not be able to rally back from the 3-point deficit following an incomplete pass to Tony Gonzalez.  The Dolphins ran the clock out for their third win of the season, and Kansas City's first loss in three games as the team fell to 5–4.
+
+====Week 11: vs. Oakland Raiders====
+
+
+On November 19, the Chiefs began a short week by facing their historic division rivals, the Oakland Raiders, and prepared for another home game just four days later against the Denver Broncos.  The game was broadcast on CBS at noon CST.
+
+Tight end Tony Gonzalez missed the game because of a sprained shoulder from week 10, and at the time his status for the Thanksgiving game was unknown.Chiefs TE Gonzalez out at least one week Associated Press, November 13, 2006.    Brian Waters and Kevin Sampson will also miss the game, and Derrick Johnson and Greg Wesley are questionable to start.
+
+thumb|The game in week 11
+thumb|Kansas City on offense
+
+
+In the week before the game, Trent Green was cleared by his doctor to play in the game.  Coach Herm Edwards said early Wednesday (November 15) that whatever decision he made would remain a secret until game time,Chiefs QB Green cleared to play, may start Sunday Associated Press, November 14, 2006.  but by the evening, Fox Sports reported Edwards confirmed Green to be the starting QB for the game.Glazer, Jay. Green will start for Chiefs vs. Raiders  FoxSports.com, November 15, 2006.  On the Chiefs' radio broadcast, Mitch Holthus noted the crowd was so deafening that it sounded "like a playoff game."
+
+Trent Green took the field for the first time in two months, but barely threw the ball in the first half, gaining only 3-yards passing.  Green was not making many throws for the first 3½ quarters.  He attempted four passes in the first half for only three yards.  Edwards said he dialed down the playbook not necessarily because of Green's rust but because the Chiefs wanted to get Larry Johnson more involved.Merrill, Elizabeth. Green reclaims role in comeback Kansas City Star, November 20, 2006.  With the help of backup Michael Bennett, Larry Johnson and the run game trampled the Raiders to get into the end zone from 5 yards out.  The Chiefs led 7–0.
+
+The noise from the Chiefs fans began to die down when the Raiders took the lead.  After offensive struggles from both teams, the Chiefs finally managed to be within 15-yards until they were penalized for delay of game, setting them back 5 yards.  The Chiefs managed to kick a field goal to make the game 13–10, reclaiming the lead.  Through the fourth quarter, the Raiders were plagued with multiple penalties.  Trent Green made his biggest throw of the game when he connected with Eddie Kennison for a 24-yard gain, and another to Samie Parker for 16 yards.  Larry Johnson capped off the offensive drive by running 9-yards into the endzone.  The play was challenged by Oakland and reversed, but the Chiefs still managed to score with a 1-yard touchdown by Johnson with less than 2 minutes to go in the game.  After an PAT, the Chiefs secured their lead 17–13.
+
+Aaron Brooks shot a pass from the 8 yard line to Randy Moss, but the ball was intercepted by rookie safety Jarrad Page with 30 seconds left in the game.  The Chiefs secured the win with a kneel-down by Trent Green, and their seventh straight win over the Raiders, their 50th win over the Raiders in 95 meetings.Merrill, Elizabeth; Teicher, Adam. CHIEFS GAME BUZZ | Tony G's streak comes to an end Kansas City Star, November 20, 2006.  The game marked the first time in 120 games,  since 1999, that Tony Gonzalez did not play in the game.
+
+Larry Johnson finished with a two-touchdown, 159-yard rushing game on his 27th birthday.  Trent Green in his comeback performance finished with 9 completed passes out of 16 attempts for 102 yards passing.  Aaron Brooks had his own impressive comeback by completing 13 or 22 passes for 179 yards passing and one touchdown.  The Chiefs finished the game with only 92 yards passing, but 200 rushing.  The Raiders were penalized 8 times for 65 yards.
+
+With the win, the Chiefs improved to 6–4.
+
+====Week 12: vs. Denver Broncos====
+
+
+On Thanksgiving, the Chiefs played their modern-day rivals, the Denver Broncos.  The game was broadcast on the NFL Network as part of the NFL's new "Thanksgiving Tripleheader" tradition, set to kick off the NFL Network's broadcasts of Thursday and Saturday Night Football.  The game also aired on Denver and Kansas City local television--KDVR-Fox 31 in Denver and WDAF-Fox 4 in Kansas CityBroncos-Chiefs Game Notes  DenverBroncos.com, November 21, 2006.Flanagan, Jeffrey. NO NFL Network? No Thanksgiving worries Kansas City Star, November 12, 2006.Chiefs-Broncos can be seen on WDAF-TV (Fox 4) KCChiefs, November 22, 2006.   at 7pm Kansas City time. The game was broadcast on Westwood One radio. The game marked the first time in NFL history that the league played a triple-header on the holiday, and it was also the first Thanksgiving prime-time game.Gretz, Bob. Thanksgiving first KCChiefs.com, November 22, 2006.  
+
+thumb|300px|Arrowhead Stadium during the Chiefs-Broncos Thanksgiving game
+
+After John Fogerty played at halftime, the Chiefs showed their own explosive firepower.  A big gain by Samie Parker for 31-yards set up another field goal by Lawrence Tynes from 34 yards out.  The Broncos fought back on their next possession.  It appeared the Plummer threw his second interception of the game when Patrick Surtain intercepted a ball intended for Javon Walker, but a penalty on Lenny Walls reversed the call.  The Chiefs led 13–10.
+
+A defensive battle ensued in the fourth quarter, as the Broncos and Chiefs' defense held each other from scoring again.  At the 30-yard line, a pass from Trent Green was intercepted by Darrent Williams, intended for Samie Parker.  The Chiefs regained possession at 8:00 left in the game.  The Chiefs secured the win
+
+The game ball was given to Chiefs founder Lamar Hunt, who lobbied for 37-years to put a Thanksgiving game in Kansas City.Johnson's rushing, Tynes' 4 FGs help Chiefs top Broncos  Associated Press, November 24, 2006.  The 74-year-old Hunt, who missed only a handful of games since founding the franchise, was admitted to a Dallas-area hospital on Wednesday,Chiefs' founder in hospital, misses game NFL.com, November 24, 2006.   bitterly disappointed he would not see Kansas City's inaugurating the NFL's new Thanksgiving tripleheader.
+
+Making the night even more festive was an in-house standing-room-only crowd of 80,866, the largest since 1972The crowd of 80,866 at the Thanksgiving game would go on to be the second largest crowd to ever witness a game at Arrowhead Stadium as well as to see their team improve to 7–4.  The largest crowd to see a game in Arrowhead Stadium is 82,094 (vs. Oakland Raiders; November 4, 1972) (the year Arrowhead Stadium opened).
+
+====Week 13: at Cleveland Browns====
+
+
+On December 3, the Chiefs traveled to Ohio to battle the Cleveland Browns following a 10-day break.  The Chiefs looked to secure a three-game win streak over the Browns, who suffered from a 1–14 home record in December since 1999.  The game was broadcast on CBS at noon Cleveland time.
+
+On November 28, it was announced that former Chiefs starting running back Priest Holmes would not return for the remainder of the 2006 season, along with Chiefs cornerback William Bartee.  Holmes has not played since October 30, 2005, when he was injured on a hit by Chargers linebacker Shawne Merriman in a game at San Diego. The injury left him with head and neck trauma, diagnosed by three spinal specialists.Chiefs RB Holmes won't play in 2006 NFL.com, November 28, 2006.  
+
+Before halftime, the Browns tied the game with another touchdown, 14–14.  Kansas City began the second half and Eddie Kennison racked in 39 yards with a pass from Trent Green.  The Chiefs moved upfield and capped off another offensive drive with a touchdown from Kris Wilson.  The play was challenged by Cleveland, but upheld.  The Chiefs appeared to have sealed the win as they were up 28–14 with twelve minutes left in the game.
+
+Cleveland fought back by finding holes in the Kansas City defense.  A 54-yard pass to Jason Wright set the Browns up for a score.  Steve Heiden caught a 6-yard pass for a touchdown, placing the Browns within a possession, 28–21.  The Browns moved 81 yards in three and half minutes.  Kansas City never found its offensive power again: a failed offensive drive gave the Browns possession again.  With forty seconds remaining in the game, the Chiefs gave up another touchdown: a 3-yard pass to Steve Heiden tied the game.  The Chiefs called a timeout with five seconds remaining but were clearly out of Lawrence Tynes' range for a game-winning field goal.  A short pass to Tony Gonzalez, intending to reach out of bounds to stop the clock, led the game into overtime.
+
+The Chiefs won the toss in overtime but incomplete passes barred them from winning their eighth game of the season.  The game marked the second time this season that the Chiefs could not stop a team in overtime from advancing to the red zone and their second overtime loss from a field goal.
+
+====Week 14: vs. Baltimore Ravens====
+
+
+On December 10, the Chiefs looked to extend their "December home game winning streak" to 19 games when they took on the Baltimore Ravens.  The Chiefs previously won the past 18 games at home in December, leading back to their loss to the Indianapolis Colts on December 15, 1996.  The game was broadcast on CBS at noon Kansas City time.  Before the game, there was a moment of silence for ailing Chiefs owner and founder Lamar Hunt, who was still in the hospital seeking cancer treatment.
+
+Throughout the first half, it was a defensive fight with the Ravens getting a 41-yard field goal in the first quarter and a 23-yard field goal in the second quarter by kicker Matt Stover.  Within the first half, Trent Green committed three turnoversMerrill, Elizabeth. Loss to Ravens puts a dent in Chiefs' playoff chances Kansas City Star, December 11, 2006.
+
+In the third quarter, Kansas City fell big as blown coverage allowed Steve McNair to complete an 87-yard touchdown pass to Mark Clayton.  The pass was the longest made by McNair in his career and Clayton's longest receptionAssociated Press. McNair on target, Ravens D dominant in win vs. Chiefs ESPN.com, December 11, 2006.  The blown coverage would seal the loss for the Chiefs.  The score put the Ravens up 13–0 with just under 6 and a half minutes left in the third quarter.  Chiefs fans began to file out of Arrowhead Stadium, realizing their team lost for the first time in December at home in over a decade.
+
+====Death of Lamar Hunt====
+
+In the late hours of Wednesday, December 13, Chiefs founder and owner Lamar Hunt died due to complications to prostate cancer at the age of 74.Associated Press. Lamar Hunt, Chiefs owner and sports legend, dies at 74 ESPN.com, December 14, 2006.  Hunt had been in the hospital seeking cancer treatment since November 22.  Hunt was stricken with prostate cancer in September 1998 and underwent a series of chemotherapy treatments. In October 2003 he had surgery to remove the prostate gland.Covitz, Randy; Pulliam, Kent. Chiefs founder Lamar Hunt dies Kansas City Star, December 14, 2006. 
+
+Hunt is survived by wife Norma, children Lamar Jr., Sharron Munson, Clark and Daniel; and 13 grandchildren.  Clark Hunt will oversee the family's sports interests.  On Thursday, December 14, before the Thursday Night Football game on NFL Network between the San Francisco 49ers and Seattle Seahawks, a moment of silence was held to honor Lamar Hunt.
+
+====Week 15: at San Diego Chargers====
+
+
+The race in the AFC West continued to heat up in December, especially when the Chiefs took on the San Diego Chargers on prime-time national television.  The Chiefs entered the game fighting to keep their playoff dreams alive while the San Diego Chargers looked to secure the home field advantage in the playoffs.
+
+The game was scheduled to be broadcast on CBS at 1pm San Diego time, but on December 4, the game was officially chosen to be aired on NBC Sunday Night Football at 8:15 ET (6:15 San Diego time) as part of the league's new "flex scheduling" policy.Teicher, Adam. Chiefs-Chargers flexed to Sunday night game Kansas City Star, December 4, 2006. Flex scheduling set for Weeks 14 and 15 NFL.com, December 4, 2006.  Chiefs, Chargers to play in prime time.  Associated Press, December 4, 2006.  The game marked the first time the Chiefs appeared on NBC Sunday Night Football, their first prime-time game in San Diego, and their first game to be aired on NBC since facing Denver in the AFC Divisional Playoff Game at Arrowhead on January 4, 1998.Chiefs game at San Diego moved to Sunday night at 7:15 PM (CST) KCChiefs.com, December 4, 2006. 
+
+Publicity fueled the Sunday night match when Chiefs defensive end Tamba Hali claimed the Chargers were a "finesse team" eight weeks ago after Kansas City beat San Diego 30–27 at Arrowhead Stadium in week 5.  The game was the last time the Chargers lost before their seven-game winning streak leading into week 14.
+
+Prior to kickoff, there was a video tribute and moment of silence for Hunt, who died Wednesday night of complications from prostate cancer. He was 74. The Chiefs had "LH" decals on the backs of their helmets.Associated Press. LT torches Chiefs, breaks single-season scoring mark ESPN.com, December 17, 2006.  The Chiefs opted for white pants in honor of Lamar Hunt. The Chiefs got their start in Kansas City wearing white on white when playing on the road and some players appealed to coach Herm Edwards to go to the traditional look Sunday night.Teicher, Adam. Chiefs notes: White pants for Lamar Kansas City Star, December 18, 2006.
+
+After getting one sack in the previous two games and none in last week's loss to Baltimore, the Chiefs were able to put some pressure on Philip Rivers in the first half. James Reed and Tamba Hali each had a sack, and the Chiefs would have had a third, but Rivers was penalized for intentional grounding when he unloaded the ball.  The Chiefs did not allow Chargers quarterback Philip Rivers to complete a pass until early in the second quarter when he threw for 18 yards to Vincent Jackson.  The Chargers still led 7–3 at the time.
+
+Tomlinson broke three NFL records: single-season scoring (186 points), single-season rushing touchdowns (28) and consecutive multi-touchdown games (eight).  Tomlinson's 85-yard touchdown run in the second quarter was the game's deciding play. It gave the Chargers a 14–3 lead with less than 3 minutes until halftime.  The Chiefs never recovered from the botched blocked punt and let the Chargers run away with their eleventh win of the season and homefield advantage in the playoffs.
+
+Trent Green finished the game 23 of 41 with 185 yards passing, no touchdowns and one interception.  It was Green's fourth loss in six games after returning from his injury in week one.  Lawrence Tynes was the only scorer for the Chiefs, kicking three field goals from 45, 52 and 24 yards out.
+
+The game was the Chiefs' third straight loss as they fell to 7–7 and the Chargers' eighth straight win as they improved to 12–2.
+
+====Week 16: at Oakland Raiders====
+
+
+On December 23, the Chiefs visited the Oakland Raiders for a Saturday night game.  The game was broadcast on the NFL Network and local Oakland and Kansas City television at 5pm Oakland time.  Former Chiefs head coach Dick Vermeil helped announce the game with Bryant Gumbel on NFL Network.  The Chiefs had lost three straight and the Raiders lost seven in a row.  The Raiders themselves had not beat the Chiefs in four years and were looking for their first division win since 2004.
+
+Kansas City managed to hold Oakland throughout the first quarter while Lawrence Tynes managed to get a 29-yard field goal.  Kansas City's Jared Allen recovered a fumble from Oakland's Andrew Walter after Walter was sandwiched by Allen and Kawika Mitchell.  In the third quarter, the Raiders would get yet another field goal as Janikowski got one from 53 yards out.  It would be the final score from Oakland of the night, and the third field goal.  Kansas City looked to extend their lead with a kick from Lawrence Tynes but the kick was missed wide right.  Kansas City still had the lead, 17–6.
+
+The Chiefs became the first team to ever win eight straight against the Raiders.  The Raiders (2–13) have lost eight straight overall and matched the franchise record for losses in a season set when they went 1–13 in 1962—the season before Davis arrived to coach and eventually own the team.Associated Press. Chiefs are first team to win eight straight over Raiders ESPN.com, December 24, 2006.
+
+Larry Johnson has 398 yards rushing in three starts against the Raiders, and his 10 touchdowns in six games are his most against any opponent.  Johnson broke Christian Okoye's club record of 370 carries in a season. Johnson's 31 carries gave him 383.  With the win, Kansas City snapped its three-game skid, improved its record to 8–7, while the Raiders lost their eighth straight game of the season.
+
+====Week 17: vs. Jacksonville Jaguars====
+
+
+On New Year's Eve 2006, the Chiefs closed out the regular season when they played the Jacksonville Jaguars.  The team looked to restart their "December home game winning streak" during the cold, wintry weather.  The game was broadcast on CBS at noon Kansas City time.
+
+The game began with Kansas City under enormous doubt to reach the playoffs.  Kansas City would slide into the tournament with a win, and losses by Tennessee, Cincinnati and Denver.  The team started the day with the 10th seed in the AFC playoffs, but ended 2006 with a truly happy new year.  The Chiefs paid tribute to Hunt with a moment of silence before the game and the video boards played tributes before and during the game.Covitz, Randy. Chiefs plow through emotional day with win over Jags Kansas City Star, January 1, 2007.
+
+thumb|250px|The Jaguars and Chiefs line up, week 17
+
+Quarterback Trent Green was hit hard from Clint Ingram, resulting in a slightly sprained ankle.  He sat out the next few drives as back-up quarterback Damon Huard returned to the field with the Kansas City offense to enormous applause.Teicher, Adam. Huard shines again Kansas City Star, January 1, 2007.  Huard threw a deep pass to Eddie Kennison (who miraculously held on to the ball after juggling it) and gained 40-yards.  Huard handed off to Larry Johnson, who ran in for this third touchdown of the game from 12-yards out.  The Chiefs were leading 35–17.  By the end of the third quarter, Chiefs starting quarterback Trent Green was back in the game and threw an interception—a play that was met with jeers for Green and chants for Damon Huard to return.
+
+Within the final five minutes, all of which Kansas City held possession, various penalties were issued against the Chiefs and Jaguars.  The most notable of which came against Jacksonville's defensive tackle John Henderson and Kansas City's guard Brian Waters, both of which were flagged for unnecessary roughness.  Both Henderson and Waters began to brawl against each other.  Kansas City ran out the clock throughout the final two minutes and hung on for their ninth win of the season.
+
+The Chiefs, needing four teams to lose in order to gain the final seed in the playoffs, had their wish come true.  Kansas City clinched the final playoff berth with Denver's loss to San Francisco and fulfilled an almost impossible playoff scenario.Merrill, Elizabeth. KC in the playoffs Kansas City Star, January 1, 2007. Associated Press. Chiefs ride wacky scenario into playoffs StarTribune.com, December 31, 2006.   For the first time since 2003, the Chiefs were heading back to the playoffs to face the team they lost to, the Indianapolis Colts.
+
+Kansas City's Larry Johnson set the single-season record for carries.Associated Press. LJ sets all-time record for carries (416) in KC victory ESPN.com, December 31, 2006. Johnson's 416 attempts passed Jamal Anderson's (Atlanta Falcons) 1998 record of 410 carries.  Johnson finished the game with 138 yards on 33 carries with three touchdowns.
+
+==Postseason==
+
+
+===Schedule===
+The Kansas City Chiefs clinched the final wild card berth (as 6th seed) during the final week of the regular season with their win over Jacksonville, a loss by Tennessee, and two overtime losses by Cincinnati and Denver. The Chiefs played against the Indianapolis Colts.
+
+The Chiefs were a 50-to-1 bet and the longest shot to win the Super Bowl, according to odds posted January 3, 2007 by online sportsbook PinnacleSports.com. Pinnacle pegged Kansas City at 30–1 to win the AFC title and a berth in the big game.Chiefs Notebook | Huard makes like Manning Kansas City Star, January 4, 2007.  The Chiefs held the sixth seed in the AFC playoff bracket, the same berth as the previous year's Super Bowl champion Pittsburgh Steelers. The Chiefs were eliminated by the Colts in the first round of the playoffs, losing by a score of 23–8.
+
+{| class="wikitable" style="text-align:center"
+!style=""| Round
+!style=""| Date
+!style=""| Opponent (seed)
+!style=""| Result
+!style=""| Record
+!style=""| Venue
+!style=""| Recap
+|- style="background:#fcc"
+! Wild Card
+|  
+| at Indianapolis Colts (3)
+| L  8–23
+| 0–1
+| RCA Dome 
+| Recap
+|}
+
+===Game summaries===
+====AFC Wild Card Playoffs: at (3) Indianapolis Colts====
+
+
+Entering the AFC Wild Card Round as the sixth-seed, the Chiefs began their playoff run in the RCA Dome against the third-seeded Indianapolis Colts.  In the first half, Kansas City trailed early as Colts kicker Adam Vinatieri getting a 48-yard and a 19-yard field goal in the first quarter, along with a 50-yard field goal in the second quarter.  Also in the first half, the Chiefs offense was unable to get a single first down.  In the third quarter, Indianapolis continued its domination with a 6-yard TD run by RB Joseph Addai.  Afterwards, Kansas City's offense finally got going by not only getting some first downs, but they also capped off their drive with QB Trent Green completing a 6-yard TD pass to TE Tony Gonzalez.  Following the touchdown, the Chiefs got a successful two-point conversion as Green completed the pass to FB Kris Wilson.  However, the Colts continued its domination as in the fourth quarter, Colts QB Peyton Manning helped wrap up the game with a 5-yard TD pass to WR Reggie Wayne.
+
+RB Larry Johnson, one of the league's top rushers, was held to just 32 yards on 13 carries, along with 29 receiving yards on 5 receptions, by the Colts defense (which was last in the league against the run).
+
+Unlike the teams' previous meeting in the playoffs which consisted of an offensive shootout, both teams' defenses were the story of the game.  With the loss, Kansas City ended its season with an overall record of 9–8.
+
+===2007 Pro Bowl===
+
+Four Chiefs players were selected to play at the 2007 Pro Bowl, including RB Larry Johnson (2nd selection), TE Tony Gonzalez (8th selection), G Will Shields (12th selection) and G Brian Waters (3rd selection).  Shields will make his 12th straight trip to Honolulu as a Pro Bowl performer, extending his record for the longest streak of Pro Bowl appearances in team history.
+
+==Season statistics==
+
+
+
+===Offense===
+Yards per game: 321.4 (#16 in NFL)
+
+Total yards in season: 5,143 (#16 in NFL)
+
+Points per game: 20.7 (#15 in NFL)
+
+Quarterback rating: QB Damon Huard, 98.0 (#2 in NFL)
+
+Rushing yards: RB Larry Johnson, 1,789 (#2 in NFL)
+
+Total touchdowns: RB Larry Johnson, 19 (#2 in NFL)
+
+
+
+===Defense===
+Yards per game: 328.9 (#16 in NFL)
+
+Total yards in season: 5,262 (#16 in NFL)
+
+Points per game: 19.7 (T-#11 in NFL)
+
+
+==Final roster==
+
+
+==Notes and references==
+
+
+
+
+
+
+
+
+Kansas City Chiefs
+Category:Kansas City Chiefs seasons
+Kansas

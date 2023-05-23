@@ -1,0 +1,41 @@
+Title: Węgorzewo County
+
+__NOTOC__
+Węgorzewo County () is a unit of territorial administration and local government (powiat) in Warmian-Masurian Voivodeship, northern Poland, on the border with Russia. It was created in 2002 out of the northern part of Giżycko County. Its administrative seat and only town is Węgorzewo, which lies  north-east of the regional capital Olsztyn.
+
+The county covers an area of . As of 2006 its total population is 23,641, out of which the population of Węgorzewo is 11,638 and the rural population is 12,003.
+
+==Neighbouring counties==
+Węgorzewo County is bordered by Gołdap County to the east, Giżycko County to the south and Kętrzyn County to the west. It also borders Russia (Kaliningrad Oblast) to the north.
+
+==Administrative division==
+The county is subdivided into three gminas (one urban-rural and two rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km²)
+| style="text-align:center;"|Population(2006)
+| style="text-align:center;"|Seat
+|-
+|Gmina Węgorzewo
+|urban-rural
+| style="text-align:right;"|341.1
+| style="text-align:right;"|17,092
+|Węgorzewo
+|-
+|Gmina Pozezdrze
+|rural
+| style="text-align:right;"|177.3
+| style="text-align:right;"|3,498
+|Pozezdrze
+|-
+|Gmina Budry
+|rural
+| style="text-align:right;"|175.0
+| style="text-align:right;"|3,051
+|Budry
+|-
+|}
+

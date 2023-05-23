@@ -1,0 +1,112 @@
+Title: Prandtl–Meyer expansion fan
+
+thumb|300px|When a supersonic flow encounters a convex corner, it forms an expansion fan, which consists of an infinite number of expansion waves centred at the corner. The figure shows one such ideal expansion fan.
+
+A supersonic expansion fan, technically known as Prandtl–Meyer expansion fan, a two-dimensional simple wave, is a centered expansion process that occurs when a supersonic flow turns around a convex corner. The fan consists of an infinite number of Mach waves, diverging from a sharp corner. When a flow turns around a smooth and circular corner, these waves can be extended backwards to meet at a point. 
+
+Each wave in the expansion fan turns the flow gradually (in small steps). It is physically impossible for the flow to turn through a single "shock" wave because this would violate the second law of thermodynamics.
+thumb|300px|An expansion process through a single "shock" is impossible, because it will violate the second law of thermodynamics.
+Impossibility of expanding a flow through a single "shock" wave: 
+Consider the scenario shown in the adjacent figure. As a supersonic flow turns, the normal component of the velocity increases ( w_2 > w_1 ), while the tangential component remains constant ( v_2 = v_1 ). The corresponding change is the entropy (\Delta s = s_2 - s_1) can be expressed as follows,
+:\begin{align}
+  \frac{\Delta s}{R} 
+    & = \ln \left[ \left( \frac{p_2}{p_1} \right)^\frac{1}{\gamma - 1} \left( \frac{\rho_2}{\rho_1} \right)^{-\frac{\gamma}{\gamma - 1}} \right] \\
+    & \approx \frac{\gamma + 1}{12\gamma^2} \left( \frac{p_2 - p_1}{p_1} \right)^3 \\
+    & \approx \frac{\gamma + 1}{12\gamma^2} \left[ \frac{\rho_1 w_1^2}{p_1} \left(1 - \frac{w_2}{w_1}\right) \right]^3
+\end{align}
+
+where, R is the universal gas constant, \gamma is the ratio of specific heat capacities, \rho is the static density, p is the static pressure, s is the entropy, and w is the component of flow velocity normal to the "shock". The suffix "1" and "2" refer to the initial and final conditions respectively.
+
+Since  w_2 > w_1 , this would mean that \Delta s < 0. Since this is not possible, it means that it is impossible to turn a flow through a single shock wave. The argument may be further extended to show that such an expansion process can occur only if we consider a turn through infinite number of expansion waves in the limit  \Delta s \rightarrow 0. Accordingly, an expansion process is an isentropic process.
+ 
+
+Across the expansion fan, the flow accelerates (velocity increases) and the Mach number increases, while the static pressure, temperature and density decrease. Since the process is isentropic, the stagnation properties (e.g. the total pressure and total temperature) remain constant across the fan.
+
+The theory was described by Theodor Meyer on his thesis dissertation in 1908, along with his advisor Ludwig Prandtl, who had already discussed the problem a year before. Reprinted in 
+
+== Flow properties ==
+The expansion fan consists of an infinite number of expansion waves or Mach lines.
+thumb|300px|For an object moving at supersonic speeds (u > c) as it moves from point A to B (distance u·t), the disturbances originating from point A travel a distance c·t. The corresponding angle is known as a Mach angle and the lines enclosing the disturbed region are known as Mach lines (in 2-D case) or Mach cone (in 3-D). Mach lines (cone) and Mach angle:
+
+Mach lines are a concept usually encountered in 2-D supersonic flows (i.e. M \ge 1). They are a pair of bounding lines which separate the region of disturbed flow from the undisturbed part of the flow. These lines occur in pairs and are oriented at an angle 
+:\mu = \arcsin \left( \frac{c}{u} \right) = \arcsin \left( \frac{1}{M} \right)
+
+with respect to the direction of motion (also known as the Mach angle). In case of 3-D flow field, these lines form a surface known as Mach cone, with Mach angle as the half angle of the cone.
+
+To understand the concept better, consider the case sketched in the figure. We know that when an object moves in a flow, it causes pressure disturbances (which travel at the speed of sound, also known as Mach waves). The figure shows an object moving from point A to B along the line AB at supersonic speeds (u > c). By the time the object reaches point B, the pressure disturbances from point A have travelled a distance c·t and are now at circumference of the circle (with centre at point A). There are infinite such circles with their centre on the line AB, each representing the location of the disturbances due to the motion of the object. The lines propagating outwards from point B and tangent to all these circles are known as Mach lines.
+
+Note: These concepts have a physical meaning only for supersonic flows (u \ge c). In case of subsonic flows, the disturbances will travel faster than the source and the argument of the \arcsin( ) function will be greater than one.
+
+ The first Mach line is at an angle \mu_1 = \arcsin \left( \frac{1}{M_1} \right) with respect to the flow direction, and the last Mach line is at an angle \mu_2 = \arcsin \left( \frac{1}{M_2} \right) with respect to final flow direction. Since the flow turns in small angles and the changes across each expansion wave are small, the whole process is isentropic. This simplifies the calculations of the flow properties significantly. Since the flow is isentropic, the stagnation properties like stagnation pressure (p_0), stagnation temperature (T_0) and stagnation density (\rho_0) remain constant. The final static properties are a function of the final flow Mach number (M_2) and can be related to the initial flow conditions as follows, where \gamma is the heat capacity ratio of the gas (1.4 for air):
+
+:\begin{align}
+  \frac{T_2}{T_1} &= \left( \frac{1 + \frac{\gamma - 1}{2}M_1^2}{1 + \frac{\gamma - 1}{2}M_2^2} \right) \\[3pt]
+  \frac{p_2}{p_1} &= \left( \frac{1 + \frac{\gamma - 1}{2}M_1^2}{1 + \frac{\gamma - 1}{2}M_2^2} \right)^\frac{\gamma}{\gamma - 1} \\[3pt]
+  \frac{\rho_2}{\rho_1} &= \left( \frac{1 + \frac{\gamma - 1}{2}M_1^2}{1 + \frac{\gamma - 1}{2}M_2^2} \right)^\frac{1}{\gamma - 1}.
+\end{align}
+
+The Mach number after the turn (M_2) is related to the initial Mach number (M_1) and the turn angle (\theta) by,
+
+: \theta = \nu(M_2) - \nu(M_1) \,
+
+where, \nu(M) \, is the Prandtl–Meyer function. This function determines the angle through which a sonic flow (M = 1) must turn to reach a particular Mach number (M). Mathematically,
+
+: \begin{align}
+  \nu(M) 
+    &= \int \frac{\sqrt{M^2 - 1}}{1 + \frac{\gamma - 1}{2}M^2}\frac{\,dM}{M} \\
+    &= \sqrt{\frac{\gamma + 1}{\gamma - 1}} \arctan \sqrt{\frac{\gamma - 1}{\gamma + 1} \left(M^2 - 1\right)} - \arctan\sqrt{M^2 - 1}. \\
+\end{align} 
+
+By convention, \nu(1) = 0. \,
+
+Thus, given the initial Mach number ( M_1 ), one can calculate \nu(M_1) \, and using the turn angle find \nu(M_2) \,. From the value of \nu(M_2) \, one can obtain the final Mach number ( M_2 ) and the other flow properties. The velocity field in the expansion fan, expressed in polar coordinates (r,\phi) are given byLandau, L. D., & Lifshitz, E. M. (2013). Fluid Mechanics: Landau and Lifshitz: Course of Theoretical Physics, Volume 6 (Vol. 6). Elsevier.
+
+:v_r = \sqrt{2(h_0-h)-c^2}, \quad v_\phi=c, \quad \text{where} \quad \phi = - \int \frac{d(\rho c)}{\rho \sqrt{2(h_0-h)-c^2}},
+
+h is the specific enthalpy and h_0 is the stagnation specific enthalpy.
+
+== Maximum turn angle ==
+thumb|300px|There is a limit on the maximum angle (\theta_\text{max}) through which a supersonic flow can turn.
+
+As Mach number varies from 1 to \infty, \nu \, takes values from 0 to \nu_\text{max} \,, where
+: \nu_\text{max} = \frac{\pi}{2} \left( \sqrt{\frac{\gamma + 1}{\gamma - 1}} - 1 \right).
+
+This places a limit on how much a supersonic flow can turn through, with the maximum turn angle given by,
+
+: \theta_\text{max} = \nu_\text{max} - \nu(M_1). \,
+
+One can also look at it as follows. A flow has to turn so that it can satisfy the boundary conditions. In an ideal flow, there are two kinds of boundary condition that the flow has to satisfy,
+# Velocity boundary condition, which dictates that the component of the flow velocity normal to the wall be zero. It is also known as no-penetration boundary condition.
+# Pressure boundary condition, which states that there cannot be a discontinuity in the static pressure inside the flow (since there are no shocks in the flow).
+
+If the flow turns enough so that it becomes parallel to the wall, we do not need to worry about pressure boundary condition. However, as the flow turns, its static pressure decreases (as described earlier). If there is not enough pressure to start with, the flow won't be able to complete the turn and will not be parallel to the wall. This shows up as the maximum angle through which a flow can turn. The lower the Mach number is to start with (i.e. small M_1), the greater the maximum angle through which the flow can turn.
+
+The streamline which separates the final flow direction and the wall is known as a slipstream (shown as the dashed line in the figure). Across this line there is a jump in the temperature, density and tangential component of the velocity (normal component being zero). Beyond the slipstream the flow is stagnant (which automatically satisfies the velocity boundary condition at the wall). In case of real flow, a shear layer is observed instead of a slipstream, because of the additional no-slip boundary condition.
+
+== Notes ==
+
+
+== See also ==
+* Gas dynamics
+* Mach wave
+* Oblique shock
+* Shock wave
+* Shadowgraph technique
+* Schlieren photography
+* Sonic boom
+
+== References ==
+* 
+* 
+* 
+* 
+* 
+
+== External links ==
+* Expansion fan (NASA)
+* Prandtl- Meyer expansion fan calculator (Java applet).
+
+
+Category:Aerodynamics
+Category:Conservation equations
+Category:Fluid dynamics

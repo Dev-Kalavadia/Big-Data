@@ -1,0 +1,22 @@
+Title: Palace of Magic
+
+
+Palace of Magic is a platform game released on 1 November 1987 for the Acorn Electron and BBC Micro by Superior Software. Combining platform elements with problem solving, it similar gameplay to the earlier Citadel. Both are early examples of the Metroidvania genre.
+
+==Plot==
+thumb|left|BBC Micro gameplay
+
+The game begins with the player character in a palace, having been shrunk and taken out of your normal place and time by an evil wizard called Caldeti (an anagram of Citadel). The objective is to magically restore the character to his original size and find the teleporter to their home world.  This involves moving  through the Palace and other locations such as a church, woods, and dungeon, overcoming obstacles and enemies along the way.
+
+==Similarities to Citadel==
+The player is not automatically killed if they come into contact with hazards; instead the player is allocated a set amount of energy (but this time measured by a bar, subdivided into units), which is depleted through contact, and can be replenished by collecting objects shaped like top hats.  As in Citadel, the game is divided into 'rooms' or screens and if the player loses too much energy in a room, the screen turns red and the player is transported back to where they entered the room. This prevents players from passing through a room simply by walking through enemies and taking the damage.
+
+Other similarities to Citadel include:  
+*Some areas of the game are not immediately accessible, but are blocked by coloured doors.  In order to gain access the player needs to find a key with the same colour.
+*Various objects are scattered throughout the game which must be collected to overcome obstacles and hazards.
+*The location of a particular screen is provided by (x,y) co-ordinates, with (0,0) being the starting screen of the game.
+*The player sprite is not superimposed over objects that it walks "in front" of; rather, the colour of the pixels of the character sprite is overlaid, using an XOR bitwise operation, with the colour of the superimposed object, resulting in a completely different colour.
+
+==Differences between BBC And Electron versions==
+Whilst the layout of the Palace and the mechanics of the game are identical between the two machines, the BBC version runs in a higher resolution (seven-colour Mode 2) whilst the Electron version runs in four-colour Mode 5. The BBC version also includes a vertical hardware scroll when the player strikes the ground after a long fall, and flickering pixels above the collectible top hats.
+

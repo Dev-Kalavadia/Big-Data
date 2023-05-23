@@ -1,0 +1,19 @@
+Title: Optical bistabilityIn optics, optical bistability is an attribute of certain optical devices where two resonant transmissions states are possible and stable, dependent on the input. Optical devices with a feedback mechanism, e.g. a laser, provide two methods of achieving bistability.
+
+*Absorptive bistability utilizes an absorber to block light inversely dependent on the intensity of the source light. The first bistable state resides at a given intensity where no absorber is used. The second state resides at the point where the light intensity overcomes the absorber's ability to block light.
+*Refractive bistability utilizes an optical mechanism that changes its refractive index inversely dependent on the intensity of the source light. The first bistable state resides at a given intensity where no optical mechanism is used. The second state resides at the point where a certain light intensity causes the light to resonate to the corresponding refractive index.
+
+This effect is caused by two factors
+*Nonlinear atom-field interaction
+*Feedback effect of mirror
+Important cases that might be regarded are:
+*Atomic detuning
+*Cooperating factor
+*Cavity mistuning
+Applications of this phenomenon include its use in optical transmitters, memory elements and pulse shapers.
+
+Optical bistability was first observed within vapor of sodium during 1974.
+
+== Intrinsic bistability ==
+When the feedback mechanism is provided by an internal procedure (not by an external entity like the mirror within the Interferometers), the latter will be known as intrinsic optical bistability.Goldstone, J. A., and E. Garmire. "Intrinsic optical bistability in nonlinear media". Physical review letters 53.9 (1984): 910. https://doi.org/10.1103/PhysRevLett.53.910 This process can be seen in nonlinear media containing the nanoparticles through which the effect of surface plasmon resonance can potentially occur.Sharif, Morteza A., et al. "Difference Frequency Generation-based ultralow threshold Optical Bistability in graphene at visible frequencies, an experimental realization". Journal of Molecular Liquids 284 (2019): 92–101. https://doi.org/10.1016/j.molliq.2019.03.167
+

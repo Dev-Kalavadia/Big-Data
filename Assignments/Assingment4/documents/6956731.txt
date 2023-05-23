@@ -1,0 +1,31 @@
+Title: Japanese South China Area Army
+
+The  was a field army of the Imperial Japanese Army during Second Sino-Japanese War.
+
+==History==
+The Japanese South China Area Army was formed on February 9, 1940 under the control of the China Expeditionary Army. It was transferred to direct control by the Imperial General Headquarters on July 23, 1940. Headquartered in Canton, it was responsible for direction of the Japanese invasion of southern China, garrisoning Japanese-occupied Guangdong Province and controlling military operations in neighboring Guangxi Province. It was disbanded on June 26, 1941 and its component units were reassigned back to the China Expeditionary Army.
+
+On March 9, the 106th Division was recalled to Japan for demobilization from Central China. It was disbanded in Central China in April 1940 never having reached South China.
+
+==List of Commanders==
+
+===Commanding officer===
+{| class=wikitable
+!  || Name || From || To
+|-
+|1|| Lieutenant General Rikichi Ando ||10 February 1940 || 5 October 1940
+|-
+|2|| Lieutenant General Jun Ushiroku ||5 October 1940 || 26 June 1941
+|-
+|}
+
+===Chief of Staff===
+{| class=wikitable
+!  || Name || From || To
+|-
+|1|| Major General Hiroshi Nemoto ||10 February 1940 || 1 March 1941
+|-
+|2|| Major General Rimpei Katō ||1 March 1941 || 28 June 1941
+|-
+|}
+

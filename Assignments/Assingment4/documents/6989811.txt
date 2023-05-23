@@ -1,0 +1,211 @@
+Title: Ajmer Lok Sabha constituency
+
+
+
+
+
+Ajmer Lok Sabha constituency is one of the 25 Lok Sabha (parliamentary) constituencies in Rajasthan state in India.
+
+==Vidhan Sabha segments==
+Presently, Ajmer Lok Sabha constituency comprises eight Vidhan Sabha (legislative assembly) segments. These are:
+{| class="wikitable" width="500px"
+! width="50px" style="font-size:75%" |Constituency number
+! width="200px" |Name
+! width="100px" style="font-size:75%" |Reserved for (SC/ST/None)
+! width="150px" |District
+|-
+|45
+|Dudu
+|SC
+|Jaipur
+|-
+|98
+|Kishangarh
+|None
+|Ajmer
+|-
+|99
+|Pushkar
+|None
+|Ajmer
+|-
+|100
+|Ajmer North
+|None
+|Ajmer
+|-
+|101
+|Ajmer South
+|SC
+|Ajmer
+|-
+|102
+|Nasirabad
+|None
+|Ajmer
+|-
+|104
+|Masuda
+|None
+|Ajmer
+|-
+|105
+|Kekri
+|None
+|Ajmer
+|-
+|}
+
+==Members of Lok Sabha==
+===Prior to independence===
+{| class="wikitable"
+|-
+! Central Legislative Assembly!!Duration!!Name of M.P.!!Party Affiliation
+|-
+| Second||1924|| rowspan="3" |Har Bilas Sarda|| rowspan="4" |Independent
+|-
+| Third||1926
+|-
+| Fourth||1930
+|-
+| Fifth||1934||Seth Bhagchand Soni
+|-
+| Sixth||1945||Mukat Behari Lal Bhargava||Indian National Congress
+|}
+
+===Post-independence===
+{| class="wikitable sortable"
+|-
+! Lok Sabha!!Duration!!Name of M.P.!!colspan=2|Party
+|-
+| First-a || 1951-57 ||Jwala Prasad Sharma (Ajmer North)|| 
+|-
+| First-b || 1951-57  ||Mukat Behari Lal Bhargava (Ajmer South) 
+|-
+| Second||1957-62|| rowspan="2" |Mukat Behari Lal Bhargava
+|-
+| Third||1962-67
+|-
+| Fourth||1967-71|| rowspan="2" |B. N. Bhargava
+|-
+| Fifth||1971-77
+|-
+| Sixth||1977-80||Shrikaran Sharda||
+|-
+| Seventh||1980-84||Bhagwan Dev Acharya|| 
+|-
+| Eighth||1984-89||Vishnu Kumar Modi
+|-
+| Ninth||1989-91|| rowspan="3" |Rasa Singh Rawat|| 
+|-
+| Tenth||1991-96
+|-
+| #11 ||1996-98
+|-
+| #12 ||1998-99||Prabha Thakur||
+|-
+| Thirteenth||1999-04|| rowspan="2" |Rasa Singh Rawat|| 
+|-
+| Fourteenth||2004-2009
+|-
+| Fifteenth||2009-2014||Sachin Pilot||
+|-
+| rowspan="2" |#16||2014-2017||Sanwar Lal Jat||
+|-
+||2018-2019|| Raghu Sharma (bye-poll) || 
+|-
+| # 17||2019-current||Bhagirath Choudhary||
+|}
+
+==Election Results==
+===2019===
+
+
+
+
+
+
+
+
+
+ 
+
+
+=== 2018 Bye-poll ===
+
+
+
+
+
+
+
+
+
+
+
+===2014===
+
+
+
+
+
+
+
+
+
+
+
+
+====2009 Lok Sabha Election====
+
+
+
+
+
+
+
+
+
+
+
+===2004 Lok Sabha Election===
+
+
+
+
+
+
+
+ 
+ 
+
+
+=== 1991 ===
+  
+
+
+ 
+
+
+
+
+
+
+===1962 Lok Sabha Election===
+* Mukatbehari Lal (INC) : 92,598 votes  
+* Bhagwandas (Jana Sangh) : 60,455 
+
+==See also==
+* Ajmer district
+* List of Constituencies of the Lok Sabha
+
+==Notes==
+
+
+
+
+
+
+
+Category:Ajmer
+Category:Lok Sabha constituencies in Rajasthan

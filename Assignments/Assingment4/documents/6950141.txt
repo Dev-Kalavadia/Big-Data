@@ -1,0 +1,111 @@
+Title: List of municipalities of the Province of Ferrara
+
+The following is a list of the 23 municipalities (comuni) of the Province of Ferrara, Emilia-Romagna, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|038001
+|Argenta
+| align="right" |21,971
+|-
+|038002
+|Berra
+| align="right" |5,696
+|-
+|038003
+|Bondeno
+| align="right" |15,579
+|-
+|038004
+|Cento
+| align="right" |31,475
+|-
+|038005
+|Codigoro
+| align="right" |12,883
+|-
+|038006
+|Comacchio
+| align="right" |22,385
+|-
+|038007
+|Copparo
+| align="right" |17,859
+|-
+|038008
+|Ferrara
+| align="right" |131,907
+|-
+|038017
+|Fiscaglia
+| align="right" |6,030
+|-
+|038009
+|Formignana
+| align="right" |2,898
+|-
+|038010
+|Jolanda di Savoia
+| align="right" |3,298
+|-
+|038011
+|Lagosanto
+| align="right" |4,480
+|-
+|038012
+|Masi Torello
+| align="right" |2,355
+|-
+|038014
+|Mesola
+| align="right" |7,331 
+|-
+|038017
+|Ostellato
+| align="right" |6,762
+|-
+|038018
+|Poggio Renatico
+| align="right" |8,077
+|-
+|038019
+|Portomaggiore
+| align="right" |12,158
+|-
+|038020
+|Ro
+| align="right" |3,663 
+|-
+|038022
+|Vigarano Mainarda
+| align="right" |6,707
+|-
+|038023
+|Voghiera
+| align="right" |3,924
+|-
+|038024
+|Tresigallo
+| align="right" |4,709
+|-
+|038025
+|Goro
+| align="right" |4,058
+|-
+|038028
+|Terre del Reno
+| align="right" |10,041
+|-
+|
+|Total
+| align="right" |349,774
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

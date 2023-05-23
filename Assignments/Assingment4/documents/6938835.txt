@@ -1,0 +1,75 @@
+Title: Sand Hutton Light Railway
+
+
+The Sand Hutton Light Railway was a minimum gauge estate railway serving the estate of Sir Robert Walker, the Fourth Baronet of Sand Hutton, Yorkshire. It connected the main house with the LNER Warthill Station and the village of Bossall. It replaced the earlier, shorter,  gauge Sand Hutton Miniature Railway that was built in 1914.
+
+==History==
+
+After the First World War Walker obtained an order under the Light Railway Act that allowed him to extend the existing Sand Hutton Miniature Railway to  to allow the railway to serve as the primary transportation system for the estate and link it to the North Eastern Railway (NER) at Warthill. Construction of the extension was nearing completion by the end of 1920 when it became clear that more substantial rolling stock would be required for the line to fulfill its purpose.
+
+In December 1920 the British government put up for sale the  gauge railway at the Deptford Meat Depot. The depot had been established by the Corporation of London shortly before 1900 and had a standard gauge connection to the LB&SCR as well as an internal  gauge tramway system. Around 1916 the army took over the running of the depot as a strategic supply for the war effort and introduced steam locomotives to work the narrow gauge tramway. After the end of the war, the depot was surplus to requirements and the entire system was bought by Walker, who realised that the substantially larger Hunslet 0-4-0 well tank locomotives would be suited to his plans at Sand Hutton.
+
+Between 1920 and 1922 the existing miniature railway was converted to  gauge and the extension to Warthill was completed. In April 1922 the first  of the light railway were opened to goods traffic. This line ran from Warthill station on the NER to Kissthorn's Siding near the main hall, as well as a substantial branch serving the brickworks at Claxton. In 1923 the mainline was further extended to Bossall, and a steep branch to Barnby House was added. The Light Railway Order for the railway allowed for a half-mile (800m) extension to Scrayingham, but this would have involved a large and expensive bridge over the River Derwent so this was not built. The total length of the line was .
+
+The line carried agricultural produce from the estate's farms, coal to the brickworks and bricks from them. Most of the goods traffic flowed to or from the transfer sidings at Warthill station. The line also ran passenger services for personnel and visitors to the estate between 1924 and 1930.
+
+The Claxton brickworks closed in 1929 and Sir Robert Walker died in 1930. The line closed in June 1932 and was dismantled by 1933.
+
+==Rolling stock==
+
+{|class="wikitable"
+!Number
+!Name
+!Builder
+!Type
+!Works Number
+!Built
+!Notes
+|-
+|4
+|Esme
+|Hunslet
+|
+|1207
+|1916
+|Purchased in 1927. Named after Sir Robert's second wife 
+|-
+|10
+|
+|Hunslet
+|
+|1289
+|1917
+|Purchased in 1921
+|-
+|11
+|
+|Hunslet
+|
+|1290
+|1917
+|Purchased in 1921
+|-
+|12
+|
+|Hunslet
+|
+|1291
+|1917
+|Purchased in 1921
+|}
+
+All four Hunslet steam locomotives were built for the War Department's meat depot in Deptford. They were all scrapped by Thos W Ward Ltd of Sheffield shortly after the line closed in 1932. Some sources say there were only three locomotives at Sand Hutton, which note the motive power prior to 1927.
+
+The wagon stock of the line came from Deptford and totalled 75 vehicles. They were built in May 1915 by P&W Maclellan Ltd of Glasgow, and had a simple four-wheel underframe on which there was a wooden drop side body. There were three-link drawhooks, and large dumb buffers.
+
+There was one brake van (or possibly two - the Ministry of Transport Railway Statistics of 1927 list two), built by Robert Hudson.  long, they had a screw handbrake, sliding doors on each side, and an end door onto a single open platform. The van escaped scrapping, and was known to be in existence in the late 1960s, but its final fate is unclear.
+
+There was one passenger coach, built in 1924 by Robert Hudson of Leeds. It was very large for so narrow a gauge, being  long. It seated 30 in two separate compartments, and there was a small private saloon with moveable chairs for the Walker family. Electric lighting and vacuum brake gear were fitted. The roof was of elliptical section, but within months of arrival at Sand Hutton a small section of the roof above each opening was cut out, giving an extra  of headroom. When the line closed in 1932 the coach was bought for use as a cricket pavilion at Harton. It was saved for preservation in 1967, and rebuilt for  gauge on the Lincolnshire Coast Light Railway. After that line was shut by the Council, the coach was stored outside for many years, and its condition deteriorated badly.  The coach is now stored at the Lincolnshire Coast Light Railway's new base near Skegness, awaiting restoration.
+
+
+Sand Hutton Light Railway - Bossall station.jpg|Bossall station
+Sand Hutton Light Railway - Claxton brickworks.jpg|Claxton brickworks
+Sand Hutton Light Railway - Engine shed (Roger Griffiths collection).jpg|Engine shed
+
+

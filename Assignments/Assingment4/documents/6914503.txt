@@ -1,0 +1,31 @@
+Title: Kaidanji: Oshikawa Shunrō
+ is a 1987 Japanese book by Jun'ya Yokota and Shingo Aizu about Shunro Oshikawa, the early twentieth century pioneer of Japanese science fiction. The book won the 1988 Nihon SF Taisho Award.
+
+==Publication history==
+* with Shingo Aizu (December 1987, Pan Research Institute, )
+* with Shingo Aizu (April 1991, Tokuma Shoten, )
+
+==Awards and honors==
+Kaidanji Oshikawa Shunrō: Nihon SF no Oya received the following awards and honors:
+
+{| class="wikitable"
+|-
+! scope="col" style="width:30px;"| Year
+! scope="col" style="width:120px;"| Organization
+! scope="col" style="width:150px;"| Award title,Category
+! scope="col" style="width:10px;"| Result
+! scope="col" style="width:10px;"| Refs
+
+|-
+| rowspan="2" | 1988
+| Federation of Science Fiction Fan Groups of Japan
+| Seiun Award,Best Nonfiction
+| 
+| 
+|-
+| Science Fiction and Fantasy Writers of Japan
+| Nihon SF Taisho Award
+| 
+| 
+|}
+

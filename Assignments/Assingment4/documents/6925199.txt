@@ -1,0 +1,7 @@
+Title: PABPIIPABPII, or polyadenine binding protein II, is a protein involved in the assembly of the polyadenine tail added to newly synthesized pre-messenger RNA (mRNA) molecules during the process of gene transcription. It is a regulatory protein that controls the rate at which polyadenine polymerase (PAP) adds adenine nucleotides to the 3' end of the growing tail within the nucleus of the cell. In the absence of PABPII, PAP adds adenines slowly, typically about 12. PABPII then binds to the short polyadenine tail and induces an acceleration in the rate of addition by PAP until the tail has grown to about 200 adenines long. The mechanism by which PABPII signals the termination of the polymerization reaction once the tail has reached its required length is not clearly understood.
+
+PABPII is distinct from the related protein PABPI in being localized to the cell nucleus rather than the cytoplasm.
+
+== See also ==
+* PABPN1
+

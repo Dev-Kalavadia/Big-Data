@@ -1,0 +1,12 @@
+Title: Ultimate failure
+In mechanical engineering, ultimate failure describes the breaking of a material.  In general there are two types of failure: fracture and buckling.  Fracture of a material occurs when either an internal or external crack elongates the width or length of the material.  In ultimate failure this will result in one or more breaks in the material.  Buckling occurs when compressive loads are applied to the material and instead of cracking the material bows.  This is undesirable because most tools that are designed to be straight will be inadequate if curved.  If the buckling continues, it will create tension on the outer side of the bend and compression on the inner side, potentially fracturing the material.
+
+In engineering there are multiple types of failure based upon the application of the material.  In many machine applications any change in the part due to yielding will result in the machine piece needing to be replaced.  Although this deformation or weakening of the material is not the technical definition of ultimate failure, the piece has failed.  In most technical applications, pieces are rarely allowed to reach their ultimate failure or breakage point, instead for safety factors they are removed at the first signs of significant wear.
+
+There are two different types of fracture: brittle and ductile.  Each of these types of failure occur based on the material's ductility.  Brittle failure occurs with little to no plastic deformation before fracture.  An example of this would be stretching a clay pot or rod, when it is stretched it will not neck or elongate, but merely break into two or more pieces.  While applying a tensile stress to a ductile material, instead of immediately breaking the material will instead elongate.  The material will begin by elongating uniformly until it reaches the yield point, then the material will begin to neck.  When necking occurs the material will begin to stretch more in the middle and the radius will decrease.  Once this begins the material has entered a stage called plastic deformation.  Once the material has reached its ultimate tensile strength it will elongate more easily until it reaches ultimate failure and breaks.
+
+==See also==
+* Failure causes
+* Material strength
+* Fabrication (metal)
+

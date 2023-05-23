@@ -1,0 +1,259 @@
+Title: List of municipalities of the Province of Viterbo
+
+The following is a list of the 60 municipalities (comuni) of the Province of Viterbo, Lazio, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|056001
+|Acquapendente
+| align="right" |5,771
+|-
+|056002
+|Arlena di Castro
+| align="right" |871
+|-
+|056003
+|Bagnoregio
+| align="right" |3,737
+|-
+|056004
+|Barbarano Romano
+| align="right" |999
+|-
+|056005
+|Bassano Romano
+| align="right" |4,465
+|-
+|056006
+|Bassano in Teverina
+| align="right" |1,209
+|-
+|056007
+|Blera
+| align="right" |3,199
+|-
+|056008
+|Bolsena
+| align="right" |4,161
+|-
+|056009
+|Bomarzo
+| align="right" |1,657
+|-
+|056010
+|Calcata
+| align="right" |895
+|-
+|056011
+|Canepina
+| align="right" |3,104
+|-
+|056012
+|Canino
+| align="right" |5,106
+|-
+|056013
+|Capodimonte
+| align="right" |1,745
+|-
+|056014
+|Capranica
+| align="right" |5,871
+|-
+|056015
+|Caprarola
+| align="right" |5,388
+|-
+|056016
+|Carbognano
+| align="right" |1,992
+|-
+|056017
+|Castel Sant'Elia
+| align="right" |2,302
+|-
+|056018
+|Castiglione in Teverina
+| align="right" |2,306
+|-
+|056019
+|Celleno
+| align="right" |1,311
+|-
+|056020
+|Cellere
+| align="right" |1,249
+|-
+|056021
+|Civita Castellana
+| align="right" |16,072
+|-
+|056022
+|Civitella d'Agliano
+| align="right" |1,679
+|-
+|056023
+|Corchiano
+| align="right" |3,542
+|-
+|056024
+|Fabrica di Roma
+| align="right" |7,218
+|-
+|056025
+|Faleria
+| align="right" |2,136
+|-
+|056026
+|Farnese
+| align="right" |1,727
+|-
+|056027
+|Gallese
+| align="right" |2,865
+|-
+|056028
+|Gradoli
+| align="right" |1,496
+|-
+|056029
+|Graffignano
+| align="right" |2,273
+|-
+|056030
+|Grotte di Castro
+| align="right" |2,915
+|-
+|056031
+|Ischia di Castro
+| align="right" |2,467
+|-
+|056032
+|Latera
+| align="right" |994
+|-
+|056033
+|Lubriano
+| align="right" |934
+|-
+|056034
+|Marta
+| align="right" |3,503
+|-
+|056035
+|Montalto di Castro
+| align="right" |8,061
+|-
+|056036
+|Monte Romano
+| align="right" |13,102
+|-
+|056037
+|Montefiascone
+| align="right" |1,938
+|-
+|056038
+|Monterosi
+| align="right" |2,780
+|-
+|056039
+|Nepi
+| align="right" |8,438
+|-
+|056040
+|Onano
+| align="right" |1,096
+|-
+|056041
+|Oriolo Romano
+| align="right" |3,276
+|-
+|056042
+|Orte
+| align="right" |8,237
+|-
+|056043
+|Piansano
+| align="right" |2,232
+|-
+|056044
+|Proceno
+| align="right" |630
+|-
+|056045
+|Ronciglione
+| align="right" |8,177
+|-
+|056046
+|Villa San Giovanni in Tuscia
+| align="right" |1,179
+|-
+|056047
+|San Lorenzo Nuovo
+| align="right" |2,144
+|-
+|056048
+|Soriano nel Cimino
+| align="right" |8,420
+|-
+|056049
+|Sutri
+| align="right" |5,638
+|-
+|056050
+|Tarquinia
+| align="right" |15,910
+|-
+|056051
+|Tessennano
+| align="right" |399
+|-
+|056052
+|Tuscania
+| align="right" |7,857
+|-
+|056053
+|Valentano
+| align="right" |2,975
+|-
+|056054
+|Vallerano
+| align="right" |2,568
+|-
+|056055
+|Vasanello
+| align="right" |3,999
+|-
+|056056
+|Vejano
+| align="right" |2,230
+|-
+|056057
+|Vetralla
+| align="right" |12,459
+|-
+|056058
+|Vignanello
+| align="right" |4,699
+|-
+|056059
+|Viterbo
+| align="right" |60,537
+|-
+|056060
+|Vitorchiano
+| align="right" |3,690
+|-
+|
+|Total
+| align="right" |299,830
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

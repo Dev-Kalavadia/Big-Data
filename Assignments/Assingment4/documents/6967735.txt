@@ -1,0 +1,238 @@
+Title: EHF Men's Champions Trophy
+The EHF Champions Trophy (named IHF Supercup between 1979 and 1983, named EHF Supercup between 1996 and 2007) was an official annual club competition of the European Handball Federation, that was contested until 2008. 
+
+==History==
+Regarded as one of the strongest handball competitions in Europe it was usually played among club winners of the top three EHF competitions (EHF Champions League, EHF Cup, EHF Cup Winner's Cup) during the previous season and the fourth club, either a host or a special EHF invitee.
+
+==Winners==
+{| class="wikitable" style="font-size:90%; width: 98%; text-align: center;"
+|- bgcolor=#C1D8FF
+!rowspan=2 width=5%|Year
+!width=1% rowspan=1000 bgcolor=ffffff|
+!colspan=3|Final
+!width=1% rowspan=1000 bgcolor=ffffff|
+!colspan=3|Third place match
+|- bgcolor=#EFEFEF
+!width=15%|Champion
+!width=9%|Score
+!width=15%|Runner-up
+!width=15%|Third place
+!width=9%|Score
+!width=15%|Fourth place
+|-
+|1979Details
+|  VfL Gummersbach
+|14–9
+|  TV Grosswallstadt
+|rowspan=5|
+|rowspan=5|
+|rowspan=5|
+|-
+|1980Details
+|  TV Grosswallstadt
+|19–15
+|  C.BM Calpisa Alicante
+|-
+|1981Details
+|  SC Magdeburg
+|24–19
+|  TuS Nettelstedt
+|-
+|1982Details
+|  SC Empor Rostock
+|31–27
+|  SC Honved Budapest
+|-
+|1983Details
+|  VfL Gummersbach
+|17–16
+|  SKA Minsk
+|-
+!colspan=9|
+|-
+|1996Details
+|  FC Barcelona Handbol
+|27–24
+|  BM Granollers
+|  TBV Lemgo
+|25–20
+|  Drammen HK
+|-
+|1997Details
+|   FC Barcelona Handbol
+|25–20
+|   Elgorriaga Bidasoa
+|   Kolding IF
+|36–34
+|   Virum Sorgenfri
+|-
+|1998Details
+|  FC Barcelona Handbol
+|28–22
+|  Badel 1862 Zagreb
+|  Caja Cantabria Santander
+|26–24
+|  IFK Skövde HK
+|-
+|1999Details
+|  FC Barcelona Handbol
+|26–25
+|  SC Magdeburg
+|  Prosesa Ademar Leon
+|35–34
+|  SG Flensburg-Handewitt
+|-
+|2000Details
+|  Portland San Antonio
+|28–24
+|  FC Barcelona Handbol
+|  Dunaferr SE
+|27–22
+|  RK Metković Jambo
+|-
+|2001Details
+|  SC Magdeburg
+|21–20
+|  Portland San Antonio
+|  THW Kiel
+|33–31
+|  SG Flensburg-Handewitt
+|-
+|2002Details
+|  SC Magdeburg
+|31–30
+|  Fotex KC Veszprém
+|  BM Ciudad Real
+|32–20
+|  THW Kiel
+|-
+|2003Details
+|  FC Barcelona Handbol
+|30–29
+|  BM Valladolid
+|  BM Ciudad Real
+|29–28
+|  Montpellier HB
+|-
+|2004Details
+|  Celje
+|30–29
+|  Kiel
+|  Ciudad Real
+|34–24
+|  BM Valladolid
+|-
+|2005Details
+|  BM Ciudad Real
+|37–28
+|  SC Magdeburg
+|  FC Barcelona Handbol
+|31–30
+|  CB Ademar León
+|-
+|2006Details
+|  BM Ciudad Real
+|36–31
+|  VfL Gummersbach
+|  TBV Lemgo
+|34–33
+|  Chekhovskiye Medvedi
+|-
+|2007Details
+|  Kiel
+|38–34
+|  Celje
+|  Hamburg
+|31–27
+|  Magdeburg
+|-
+|2008Details
+|  BM Ciudad Real
+|32–28
+|  MKB Veszprém KC
+|  THW Kiel
+|36–31
+|  HSG Nordhorn
+|}
+
+==Statistics==
+===By country===
+{| class="wikitable"
+!Country
+!1st
+!2nd
+!3rd
+!4th
+!Top 4
+|-
+| 
+|9
+|6
+|6
+|2
+|23
+|-
+| 
+|8
+|6
+|5
+|5
+|24
+|-
+| 
+|1
+|1
+|0
+|0
+|2
+|-
+| 
+|0
+|3
+|1
+|0
+|4
+|-
+|  / 
+|0
+|1
+|0
+|1
+|2
+|-
+| 
+|0
+|1
+|0
+|1
+|2
+|-
+| 
+|0
+|0
+|1
+|1
+|2
+|-
+| 
+|0
+|0
+|0
+|1
+|1
+|-
+| 
+|0
+|0
+|0
+|1
+|1
+|-
+| 
+|0
+|0
+|0
+|1
+|1
+|}
+

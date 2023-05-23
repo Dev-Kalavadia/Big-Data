@@ -1,0 +1,58 @@
+Title: Donald Sadoway
+
+
+
+Donald Robert Sadoway (born 7 March 1950) is professor emeritus of materials chemistry at the Massachusetts Institute of Technology. He is a noted expert on batteries and has done significant research on how to improve the performance and longevity of portable power sources. In parallel, he is an expert on the extraction of metals from their ores and the inventor of molten oxide electrolysis, which has the potential to produce crude steel without the use of carbon reductant thereby totally eliminating greenhouse gas emissions.
+
+== Background ==
+Sadoway was born in Toronto, Ontario, Canada. He did both his undergraduate and graduate studies at the University of Toronto, receiving his PhD in 1977. There he focused his studies on chemical metallurgy. He also served on the National Executive of the Ukrainian Canadian Students' Union (SUSK) from 1972–1974. In 1977, he received a NATO postdoctoral fellowship from the National Research Council of Canada and came to MIT to conduct his postdoctoral research under Julian Szekely. Sadoway joined the MIT faculty in 1978. On 19 June 2013, Sadoway was awarded an honorary Doctorate of Engineering by the University of Toronto in recognition of his contributions to sustainable energy and sustainable metal production as well as to higher education both in curriculum and in teaching style. In 2014, Sadoway received an honorary doctorate from NTNU, the Norwegian University of Science and Technology.
+
+== Research ==
+As a researcher, Sadoway has focused on environmental ways to extract metals from their ores, as well as producing more efficient batteries. His research has often been driven by the desire to reduce greenhouse gas emissions while improving quality and lowering costs. He is the co-inventor of a solid polymer electrolyte. This material, used in his "sLimcell" has the capability of allowing batteries to offer twice as much power per kilogram as is possible in current lithium ion batteries.
+
+In August 2006, a team that he led demonstrated the feasibility of extracting iron from its ore through molten oxide electrolysis. When powered exclusively by renewable electricity, this technique has the potential to eliminate the carbon dioxide emissions that are generated through traditional methods.
+
+In 2009, Sadoway disclosed the liquid metal battery comprising liquid layers of magnesium and antimony separated by a layer of molten salt that could be used for stationary energy storage.Sadoway proposing all-liquid metal battery Research on this concept was being funded by ARPA-ELiquid metal battery funded by ARPA-E  and the French energy company TotalStaff (2012) Ambri Origins Ambri company web page, Retrieved 6 December 2012 Experimental data showed a 69% DC-to-DC storage efficiency with good storage capacity and relatively low leakage current (self discharge). In 2010, with funding from Bill Gates and Total, Sadoway and two others, David Bradwell and Luis Ortiz, co-founded a company called the Liquid Metal Battery Corporation (later, Ambri) in order to scale up and commercialize the technology.
+
+==Teaching==
+For 16 years Sadoway taught 3.091 Introduction to Solid State Chemistry at MIT, one of the largest classes at MIT. Sadoway's animated teaching style was popular with students and freshman enrollment in the course steadily increased through 2010.
+
+In the fall of 2007, the number of students registering for 3.091 reached 570 students, over half the freshman class. The largest lecture hall available on campus seats 566 students. Sadoway much preferred teaching in one of the smaller lecture halls, seating only 450; as such, the institute had to take the unprecedented step of streaming digital video of the lecture into an overflow room to accommodate all the students interested in taking the course. In contrast, most classes at MIT are relatively small with approximately 60% of classes at MIT having fewer than 20 students. The popularity of this course has reached outside of the MIT campus as a result of the MIT OpenCourseWare initiative. This is seen in a comment by Bill Gates who told the Seattle Post-Intelligencer "Everybody should watch chemistry lectures -- they're far better than you think. Don Sadoway, MIT -- best chemistry lessons anywhere. Unbelievable".
+Sadoway's lectures often included the history of science, especially with respect to the Nobel Prize. Sadoway gave out "library assignments" in which he asked students to research Nobel Prize–winning papers. He began his lectures by playing music, which has some connection with the lecture's material. For example, for the lecture on hydrogen bonding he plays Handel's Water Music. For one of the lectures on polymers he plays Aretha Franklin's "Chain of Fools". He ended his lectures with five minutes on the topic of "chemistry and the world around us". Examples include automotive exhaust catalytic converters (technology), forensic examination of paintings (chemistry in the fine arts), the mistreatment of Rosalind Franklin in the quest to discover the structure of DNA (intellectual dishonesty), the metallurgical failure that sank the Titanic (greed and incompetence), and the clarification of champagne (viticulture).
+
+==Media recognition==
+On 29 February 2012, Sadoway gave a TED talk on his invention of the liquid metal battery for grid-scale storage. The talk is as much about the inventive process as it is about the technology.
+
+Sadoway was named one of Time magazine's 100 Most Influential People in the World in 2012 for accomplishments in energy storage as well as his approach to mentoring students (hire the novice instead of the expert).
+
+On 22 October 2012, Sadoway appeared as a guest on The Colbert Report to discuss his liquid metal battery technology and his view that electrochemistry is the key to world peace (batteries usher in the electric age reducing the dependence on petroleum dropping its price thereby destabilizing dictatorships).
+
+Sadoway appeared in "MIT Gangnam Style". (27 October 2012)
+
+==See also==
+* John F. Elliott – MIT has a chaired professorship named after Elliott. Since 1999, Sadoway has occupied that chair.
+
+== References ==
+
+
+==External links==
+* 
+* Donald Sadoway resume
+* Introduction to Solid State Chemistry: Course description, from OCW.Mit.edu
+* Don Sadoway Playlist Appearance on WMBR's Dinnertime Sampler  (radio show) 2 October 2002.
+* "Innovation in Energy Storage: What I Learned in 3.091 was All I Needed to Know". lecture by Donald R. Sadoway, 5 June 2010.
+* 
+** "The missing link to renewable energy" (TED2012) (also )
+
+
+
+Category:1950 births
+Category:Living people
+Category:American materials scientists
+Category:MIT School of Engineering faculty
+Category:Canadian emigrants to the United States
+Category:Scientists from Toronto
+Category:University of Toronto alumni
+Category:Fellows of the Minerals, Metals & Materials Society
+Category:Canadian materials scientists
+Category:Solid state chemists

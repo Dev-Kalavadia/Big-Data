@@ -1,0 +1,79 @@
+Title: John Mandic
+
+John Joseph Mandic (October 3, 1919 – June 22, 2003) was an American professional basketball player of Croatian origin.Croatians in America by Adam Eterovich He played college basketball for the Oregon State Beavers from 1939 to 1942. He played for the Portland Indians of the Pacific Coast Professional Basketball League in the team's debut season in 1946–47, and was drafted by the Washington Capitols in the 1947 BAA draft after the season had finished. Instead of playing for the Capitols, he instead signed with the Rochester Royals of the National Basketball League and played for the team for one season. He joined the Indianapolis Jets for the 1948–49 BAA season. He was sold to the Capitols, the team that had drafted him two years prior, on August 13, 1949.John Mandic Stats. Basketball Reference. Accessed on June 8, 2017. After playing 22 games with the Capitols, he was waived, and signed with the Baltimore Bullets, but only managed three games with the team before retiring from playing basketball.
+
+==BAA/NBA career statistics==
+{| class="toccolours" style="font-size: 90%; white-space: nowrap;"
+|-
+! colspan="6" style="background:#f2f2f2; border:1px solid #aaa;"| Legend
+|-
+| style="background:#f2f2f2; border:1px solid black;"|   GP
+| Games played
+| style="background:#f2f2f2; border:1px solid black;"|  FG% 
+| style="padding-right: 8px" | Field-goal percentage
+|-
+| style="background:#f2f2f2; border:1px solid black;"|  FT% 
+| Free-throw percentage
+| style="background:#f2f2f2; border:1px solid black;"|  APG 
+| Assists per game
+|-
+| style="background:#f2f2f2; border:1px solid black;"|  PPG 
+| Points per game
+| style="background-color: #F2F2F2; border: 1px solid black" |  Bold 
+| Career high
+|-
+|}
+
+===Regular season===
+{| class="wikitable sortable" style="font-size:95%; text-align:right;"
+|-
+! Year
+! Team
+! GP
+! FG%
+! FT%
+! APG
+! PPG
+|-
+|style="text-align:left;"| 1948–49
+| style="text-align:left;"| Indianapolis
+| 56 || .321 || .652 || 1.4 || 4.8
+|-
+|style="text-align:left;"| 1949–50
+| style="text-align:left;"| Washington
+|22 || .323 || .667 || 0.3 || 2.8
+|-
+|style="text-align:left;"| 1949–50
+| style="text-align:left;"| Baltimore
+| 3 || .100 || 1.000 || 0.3 || 1.3
+|-
+|style="text-align:center;" colspan="2"|Career
+| 81 || .316 || .660 || 1.1 || 4.1
+|-
+|}
+
+== References ==
+
+
+==External links==
+
+
+
+
+
+
+Category:1919 births
+Category:2003 deaths
+Category:All-American college men's basketball players
+Category:American men's basketball players
+Category:American people of Croatian descent
+Category:Baltimore Bullets (1944–1954) players
+Category:Basketball players from Los Angeles
+Category:Centers (basketball)
+Category:Indianapolis Jets players
+Category:Oregon State Beavers men's basketball players
+Category:Power forwards (basketball)
+Category:Washington Capitols draft picks
+Category:Washington Capitols players
+
+

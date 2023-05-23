@@ -1,0 +1,70 @@
+Title: International Union for Quaternary Research
+
+
+The International Union for Quaternary Research (INQUA) was founded in 1928.  It has members from a number of scientific disciplines who study the environmental changes that occurred during the glacial ages, the last 2.6 million years.  One  goal of these investigators is to document the timing and patterns in past climatic changes to help understand the causes of changing climates.
+
+INQUA is a Scientific Union member of the International Council for Science (ICSU). INQUA holds an international congress normally every four years. The congresses serve as an educational forum as well as the opportunity for the various commissions, committees, and working groups to conduct business in person. Past congresses have been held in Copenhagen (1928), Leningrad (Saint Petersburg) (1932), Vienna (1936), Rome (1953), Madrid (1957), Warsaw (1961), Boulder (1965), Paris (1969), Christchurch (1973), Birmingham (1977), Moscow (1982), Ottawa (1987), Beijing (1991), Berlin (1995), Durban (1999), Reno (2003), Cairns (2007), Bern (2011) and Nagoya (2015).
+
+The most recent INQUA Congress (XIX) was held in Dublin, Ireland, in July 2019. In 2023 the next INQUA Congress (XXI) will take place in Rome, Italy.
+
+==Climate change==
+In 2007, the union issued a statement on climate change in which it reiterated the conclusions of the Intergovernmental Panel on Climate Change (IPCC), and urged all nations to take prompt action in line with the UNFCCC principles:
+Human activities are now causing atmospheric concentrations of greenhouse gases - including carbon dioxide, methane, tropospheric ozone, and nitrous oxide - to rise well above pre-industrial levels….Increases in greenhouse gasses are causing temperatures to rise…The scientific understanding of climate change is now sufficiently clear to justify nations taking prompt action….Minimizing the amount of this carbon dioxide reaching the atmosphere presents a huge challenge but must be a global priority.
+
+== INQUA Congress ==
+
+{| class="wikitable"
+|+ INQUA Congress & PresidentsINQUA Executive.  Retrieved 06/06/2015. 
+! Nr. !! Year !! colspan="2"| Congress  !! Term !! colspan="2"| President !! colspan="2"| Secretary-General
+|-
+| 21. || 2023 || Rome ||  
+|  ||  ||  ||  || 
+|- style="background:#ccffcc"
+| 20. || 2019 || Dublin ||  
+| 2019-2023  || Thijs Van Kolfschoten ||  || Eniko Magyari || 
+|- 
+| 19. || 2015 || Nagoya ||  
+| 2015-2019  || Allan Ashworth ||  || Brian M Chase || 
+|-
+| 18. || 2011 || Bern ||  
+| 2011-2015 || Margaret Avery ||  || Julius Lejju ||  
+|-
+| 17. || 2007 || Cairns ||  
+|  ||  ||  ||  || 
+|-
+| 16. || 2003 || Reno, Nevada ||  ||  ||  || 
+|-
+| 15. || 1999 || Durban ||  ||  ||  || 
+|-
+| 14. || 1995 || Berlin ||  ||  ||  || 
+|-
+| 13. || 1991 || Beijing ||  ||  ||  || 
+|-
+| 12. || 1987 || Ottawa ||  ||  ||  || 
+|-
+| 11. || 1982 || Moscow ||  ||  || Boris Sokolov || 
+|-
+| 10. || 1977 || Birmingham ||  ||  ||  || 
+|-
+| 9. || 1973 || Christchurch ||  ||  ||  || 
+|-
+| 8. || 1969 || Paris ||  ||  ||  || 
+|-
+| 7. || 1965 || Boulder, Colorado ||  ||  ||  || 
+|-
+| 6. || 1961 || Warsaw ||  ||  ||  || 
+|-
+| 5. || 1957 || Madrid ||  ||  ||  || 
+|-
+| 4. || 1953 || Rome ||  ||  || Gian Alberto Blanc ||  
+|-
+| 3. || 1936 || Vienna ||  ||  ||Gustav Götzinger  || 
+|-
+| 2. || 1932 || Leningrad ||  ||  ||Ivan Gubkin  || 
+|-
+| 1. || 1928 || Copenhagen ||  ||  ||Dmitry Mushketov  || 
+|}
+
+==See also==
+*Quaternary science
+

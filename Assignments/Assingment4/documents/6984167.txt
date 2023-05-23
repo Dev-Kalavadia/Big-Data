@@ -1,0 +1,45 @@
+Title: Vélo'v
+
+
+
+
+thumb|A Vélo'v Bicycle
+thumb|A Vélo'v Station
+
+Vélo'v is a bicycle sharing system running in the city of Lyon, France, in conjunction with the advertising company JCDecaux. It has been the pioneer of smart bicycle-sharing systems, previous systems being more ad hoc and run similar to a charity. The relationship with JCDecaux allows the city to provide the service on a cost neutral basis for the city, and at a very low cost to users, in return for providing exclusive advertising access on bus shelters and the like. The primary aim is to reduce vehicle traffic within the city. The scheme also aims to reduce pollution, create a convivial atmosphere within the city, and encourage the health benefits of increased activity. Its name is a portmanteau of French vélo (bike) and English love. The first bicycle sharing system to open in France, after the pioneering 1974 scheme in La Rochelle, its thundering success inspired similar systems in major French and European cities, including Paris' Velib' in 2007. With the success of these two high profile smart bicycle sharing systems a new paradigm of government supporting bike sharing as a part of a public transportation network emerged. It is still the bike share scheme with the second-highest market penetration (1 bike per 121 residents) in the world, after the Velib'.
+
+==Overview==
+The system began on 19 May 2005 and now provides over 3000 bicycles available from over 350 stations situated around the cities of Lyon and Villeurbanne. The aim is to have stations within 300m of every point in the city. The bicycles can be returned to any other station. Access is via a subscription system in which a card is purchased online or at a station giving the user an account and a PIN with which they access bicycles through a terminal situated at the bicycle stations.
+
+Rentals can last from less than 30 minutes up to 24 hours and are available to anyone 14 years and over holding a Carte Vélo'v (subscription card for the service), tourists can buy a 1 or 7-day card for the cycles using a credit card.
+
+The June 2006 edition of the Vélo'v newsletter reported that over 22,000 rentals per day were made by the over 52,000 subscribers to the service, an increase of 44% in a year, and representing 6,400,000 km traveled for the year.
+
+In 2010, Velo'v data was analyzed by a cross-disciplinary team, who found some interesting patterns, such as higher average speeds on Wednesdays, speeds that outpaced cars during peak hours, and an average trip length of 14.7 minutes.
+
+In 2017 there were nearly 25000 daily rentals, more than 8 million trips in the year and 68500 long-term subscribers.
+
+==Bicycles==
+Vélo'v bicycles, along with a lock and basket, contain electronic components which allow the bicycle to be identified by the stations, allow tracking of kilometers traveled, tracking the condition of the bicycles, (lights, brakes, dynamo), and collection of detailed statistics about the usage of the bicycles.
+
+==Video game==
+
+For the 2006 edition of the Festival of Lights, Lyon had been partly modelized in order to create a video game named Velo've raced in Lyon, created by B2B Games. Pedestrians could play for free from 7 to 10 December and the game was broadcast on screens on place de la République.
+
+== See also ==
+* Outline of cycling
+*Short term hire schemes
+
+== References ==
+
+==External links==
+
+* vélo'v Grand Lyon - vélo'v Official Site
+
+
+
+
+Category:Cycling in France
+Category:Transport in Lyon
+Category:Community bicycle programs
+Category:Bicycle sharing in France

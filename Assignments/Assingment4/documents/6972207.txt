@@ -1,0 +1,39 @@
+Title: Mindi
+
+
+
+
+
+
+Mindi is a suburb area  in Visakhapatnam, Andhra Pradesh, India.
+
+==Entertainment==
+Globex Shopping Mall is at NH Road accessible here. There is a multiplex with 5 screens.
+
+==Transport==
+APSRTC buses are available here from city.
+
+;APSRTC routes:
+{| class="sortable wikitable"
+|-
+!Route Number
+!Start
+!End
+!Via
+|-
+|38A
+|Mindi
+|RTC Complex
+|BHPV, Airport, NAD Kotharoad, Birla Junction, Gurudwar
+|-
+|36
+|Mindi
+|Collector Office
+|BHPV, Gajuwaka, Malkapuram, Scindia, Convent, Town Kotharoad, Jagadamba Centre
+|-
+|400M
+|Mindi
+|Arilova Colony
+|BHPV, Gajuwaka, Malkapuram, Scindia, Railway station, RTC Complex, Maddilapalem, Hanumanthuwaka
+|}
+

@@ -1,0 +1,67 @@
+Title: R6 expressway (Slovakia)
+
+
+Expressway R6 (R6) is a expressway in Slovakia, which after its completion will connect D1 ( intersection Beluša) with Púchov and the border crossing to Czech Republic at Lysá pod Makytou. It will be located in the corridor I/49 and will pass through slightly undulating terrain. At the border, the R6 road will be connected to the Czech highway D49. Both roads, R6 and D49 are included in the pan-European network of multimodal corridors TEN-T. In the past, according to the rhetoric of NDS a.s., more significant construction of the R6 road currently depended on the progress of works on the D49 highway in the Czech Republic. České ŘSD (obdoba NDS a.s.) assumes that the D49 will reach the Czech-Slovak border in at least half its profile in 2033. On the Czech side, the construction of the first, 17.3 km long section of the D49 highway was started near Zlín in 2021, and approximately 40 km, which are divided into seven sections.
+
+According to the current plans of the Ministry of Transport, no sections of the R6 road will be constructed or open until 2028. With regard to the current intentions of the Ministry of Transport, the operation of the expressway along the entire length of the route cannot be expected before the year 2050.
+
+== Overview of R6 expressway sections ==
+{| class="wikitable sortable"
+!Section order
+!Section designation
+!Section length in km
+!Starting construction
+section
+!Introduction of section to
+operations
+!Exits and intersections
+|- style="background-color: #e56262"
+|1.
+State border Slovakia/Czech Republic - Mestečko
+|11.0
+|Not included in the plan before 2028
+|?
+|?
+|
+# Mestecko
+|- style="background-color: #e56262"
+|2.
+Town - Púchov
+|11.3
+|Not included in the plan before 2028
+|?
+|?
+|2. Púchov - West
+3. Púchov - East
+|-
+|3.
+|Púchov, East - Beluša, intersection R6xD1, right half
+|7.7
+|1997
+|2005
+|901. Temporary connection to road II/507
+4. Lower Kočkovce
+
+5. Beluša
+
+6. Beluša, intersection R6xD1
+|- style="background-color: #e56262"
+|3.
+|Púchov, East - Beluša, intersection R6xD1, left half + modification of the existing right half
+|7.7
+|Not included in the plan before 2028
+|?
+|4. Lower Kočkovce
+5. Beluša
+
+6. Beluša, intersection R6xD1
+|}
+
+== Sections ==
+=== Beluša, intersection D1xR6 - Púchov, East ===
+
+The given section was implemented in three sub-sections. The first sub-section is the part of the road between the highway intersection of roads R6 and D1 in Beluša and the Beluša exit, which connects the R6 road with the I/61 road with a length of 1.2 km. The second sub-section is the part of the R6 road between the Beluša exit and the Dolné Kočkovce exit. It is followed by the third sub-section between the Dolné Kočkovce exit and the temporary connection to the II/507 road, at the location of the future Púchov - Východ exit, which was not implemented as part of this construction. The section of the road between Dolní Kočkovce and the temporary connection is not preliminarily marked as the R6 road, but as the I/49a road, because as part of cost-saving measures, there are level temporary crossings on this sub-section. After the completion of the full profile and the removal of these intersections, this road will be recategorized as an R6 road. The total length of the constructed section is 7.7 km.
+
+=== Púchov-Lysá pod Makytou ===
+This is a planned section, the construction of which will complete the R6 expressway. As part of it, the previous section will also be completed so that it meets the technical parameters of the half-profile expressway. The final opinion of the Ministry of the Environment was issued in March 2009 and recommended the construction of the so-called of the combined variant, which was created by combining several proposed variants in accordance with the comments of the affected entities and municipalities. The length of this section is 23.202 kilometers, including 4.866 km that need to be built south of Púchova. The construction will also include two one-sided rest areas, one at Dohňany in the direction of Czech Republic and the other at Lysej pod Makytou in the direction of Púchov and. According to the National Highway Company, it should be built in the period from September 2014 to July  2018 in half profile (R11,5/80). Construction costs should reach 285.815 million eur. According to the studies, the construction of the second profile will need to be implemented only in the distant time horizon (after 2030). In November 2017, the section Púchov – Mestečko and Mestečko – state border is in the EIA process.
+

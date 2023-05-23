@@ -1,0 +1,27 @@
+Title: Santosham Best Producer Award
+
+The Santosham Best Producer Award is given by the Santosham Film magazine as part of its annual Santosham Film Awards for Telugu films.
+
+The award was first given in 2003. Here is a list of the award winners and the films for which they won.
+
+{| cellspacing="1" cellpadding="1" border="0" style="width:50%;"
+|- style="background:#d1e4fd;"
+! Year || Producer || Film || References
+|- 
+| 2011 || Yalamanchali Sai Babu || Sri Rama Rajyam || 
+|- style="background:#edf3fe;"
+| 2009 || Shyam Prasad Reddy || Arundhati || 
+|- 
+| 2006 || K. L. Narayana || Rakhi || 
+|- style="background:#edf3fe;"
+| 2005 || Murali Mohan || Athadu
+|-
+| 2004 || Nagarjuna || Mass || 
+|- style="background:#edf3fe;"
+| 2003 || Nagarjuna || Satyam || 
+|}
+
+== References ==
+
+
+Category:Santosham Film Awards

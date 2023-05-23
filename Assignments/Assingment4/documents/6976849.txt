@@ -1,0 +1,125 @@
+Title: ISLISP
+
+ISLISP (also capitalized as ISLisp) is a programming language in the Lisp family standardized by the International Organization for Standardization (ISO) and International Electrotechnical Commission (IEC) joint working group ISO/IEC JTC 1/SC 22/WG 16 (commonly termed simply SC22/WG16 or WG16). The primary output of this working group was an international standard, published by ISO. The standard was updated in 2007 and republished as ISO/IEC 13816:2007(E).  Although official publication was through ISO, versions of the ISLISP language specification are available that are believed to be in the public domain.
+
+The goal of this standards effort was to define a small, core language to help bridge the gap between differing dialects of Lisp. It attempted to accomplish this goal by studying primarily Common Lisp, EuLisp, Le Lisp, and Scheme and standardizing only those features shared between them.
+
+
+
+==Design goals==
+ISLISP has these design goals:
+
+* Compatible with extant Lisp dialects where feasible
+* Provide basic functionality
+* Object-oriented
+* Design for extensibility
+* Prioritize industrial needs over academic needs
+* Promote efficient implementations and applications
+
+ISLISP has separate function and variable namespaces (hence it is a Lisp-2).
+
+ISLISP's object system, ILOS, is mostly a subset of the Common Lisp Object System (CLOS).
+
+==Implementations==
+ISLISP implementations have been made for many operating systems including: Windows, most Unix and POSIX based (Linux, macOS, FreeBSD, OpenBSD, NetBSD, Solaris, HP-UX, AIX, Cygwin, QNX), Android, DOS, OS/2, Pocket PC, OpenVMS, and z/OS.
+
+Implementations for hardware computer architectures include: x86, x86-64, IA-64, SPARC, SPARC9, PowerPC, MIPS, Alpha, PA-RISC, ARM, AArch64
+
+{| class="wikitable sortable" style="font-size: smaller; text-align: center; width: auto; table-layout: fixed;"
+|+ ISLISP implementations
+|-
+! Name
+! Creator
+! Complete ISLisp
+! Architecture
+! Written in
+! Operating system
+! License
+! Source code available
+|-
+| OpenLisp
+| Eligis
+| 
+| interpreter, compiles to C
+| C, Lisp
+| Windows, macOS, Linux, BSD, AIX, Solaris, QNX
+| 
+| 
+|-
+| OKI ISLISP
+| Kyoto University and Oki Electric Industry Co.
+| 
+| Bytecode machine, compiles to bytecode
+| C
+| Windows
+| 
+| 
+|-
+| PRIME-LISP
+| Mikhail Semenov
+| 
+| Interpreter
+| C#
+| Windows
+| , Shareware, freely redistributable binaries
+| 
+|-
+| Iris
+| Masaya Taniguchi
+| 
+| Interpreter
+| Go
+| any
+| , Mozilla Public License 2.0
+| 
+|-
+| Iris web REPL
+| Masaya Taniguchi
+| 
+| Interpreter, compiles to JavaScript
+| Go, JavaScript
+| Browser
+| , Mozilla Public License 2.0
+| 
+|-
+| Kiss
+| Yuji Minejima
+| , not yet
+| Interpreter
+| C, Lisp
+| any
+| , GPL v3+
+| 
+|-
+| ISLisproid
+| Hiroshi Gomi
+| 
+| Interpreter
+| Java
+| Android
+| 
+| 
+|-
+| dayLISP
+| Matthew Denson
+| 
+| Interpreter
+| Java, Lisp
+| Any
+| , BSD
+| 
+|-
+| Easy-ISLisp
+| Kenichi Sasagawa
+| 
+| Interpreter, compiles to C
+| C, Lisp
+| Linux,MacOS,OpenBSD
+| , BSD
+| 
+|}
+
+Two older implementations are no longer available:
+*TISL, by Masato Izumi and Takayasu Ito (Tohoku University), was an interpreter and compiler.
+*G-LISP, by Josef Jelinek, was a Java applet.
+

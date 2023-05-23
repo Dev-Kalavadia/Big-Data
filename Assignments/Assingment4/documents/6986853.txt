@@ -1,0 +1,177 @@
+Title: Scorecard of A. E. J. Collins
+
+thumb|right|200px|Plaque at Clifton College, fixed in 1962.
+Arthur Edward Jeune "James" Collins (18 August 1885 – 11 November 1914) was an English cricketer and soldier, most famous for his achievement as a schoolboy of what was, for 116 years, the highest-ever recorded score in cricket—628 not out, scored over four afternoons in June 1899. Collins's record-making innings drew a large crowd and increasing media interest: spectators at the Old Cliftonian match being played nearby were drawn away to watch a junior school house cricket match. Collins's record score was never matched until 2016, when Pranav Dhanawade scored 1009 not out.
+
+== Scorecard ==
+
+=== Clark's House – 1st Innings ===
+
+{| border="1" cellpadding="1" cellspacing="0" style="font-size: 85%; border: gray solid 1px; border-collapse: collapse; text-align: center; width: 100%;"
+|-
+! Batsman
+! 
+! 
+! Runs
+|-
+| AEJ Collins || || not out || 628
+|-
+| Champion || c Monteath || b Rendall || 27
+|-
+| Gilbert || || b Crew || 9
+|-
+| Sudely || c Davis || b Sainsbury || 8
+|-
+| Sheriff || || b Crew || 6
+|-
+| Galway || || b Crew || 11
+|-
+| Whittey || || c & b Monteath || 42
+|-
+| Spooner || || b Monteath || 0
+|-
+| Leake || || b Monteath || 32
+|-
+| Raine || || b Sainsbury || 14
+|-
+| Redfern || c Fuller-Eberle || b Crew || 13
+|-
+! Extras || || 34 byes, 1 leg bye, 10 wides, 1 no-ball || 46
+|-
+! Total || || all out || 836
+|}
+
+Fall of wickets: 1-127, 2-169, 3-226, 4-268, 5-311, 6-436, 7-451, 8-?, 9-698, 10-836.
+
+{| border="1" cellpadding="1" cellspacing="0" style="font-size: 85%; border: gray solid 1px; border-collapse: collapse; text-align: center; width: 100%;"
+|-
+! Bowler
+! Overs
+! Maidens
+! Runs
+! Wickets
+|-
+| Lindrea || 50 || 5 || 218 || 0
+|-
+| Sainsbury || 32 || 7 || 166 || 2
+|-
+| Crew || 42.3 || 5 || 165 || 4
+|-
+| Rendall || 10 || 3 || 44 || 1
+|-
+| Monteath ||? || ? || 129  || 3
+|-
+| Davis || 14 || 0 || 79 || 0
+|}
+
+Notes:
+* Collins' 628* in 6 hours 50 minutes, 1 x 6, 4 x 5, 31 x 4, 33 x 3, 146 x 2, 87 x 1.
+* Collins was dropped on the following scores: 80, 100, 140, 400, 556, 605 and 619.
+
+=== North Town – 1st Innings ===
+
+{| border="1" cellpadding="1" cellspacing="0" style="font-size: 85%; border: gray solid 1px; border-collapse: collapse; text-align: center; width: 100%;"
+|-
+! Batsman
+! 
+! 
+! Runs
+|-
+| Monteath ||  || run out || 4
+|-
+| Crew || || b Collins || 10
+|-
+| Fedden || || b Collins || 10
+|-
+| Sainsbury || lbw || b Collins || 0
+|-
+| Barstow || || b Sheriff || 32
+|-
+| Fuller-Eberle || c Galway || b Collins || 8
+|-
+| Rendall || || b Sudely || 9
+|-
+| Lindrea || || b Collins || 1
+|-
+| Ratcliff || || not out || 6
+|-
+| Robinson || || b Collins || 0
+|-
+| Davies || || b Collins || 4
+|-
+! Extras || || || 3
+|- 
+!Total || || all out || 87
+|}
+
+{| border="1" cellpadding="1" cellspacing="0" style="font-size: 85%; border: gray solid 1px; border-collapse: collapse; text-align: center; width: 100%;"
+|-
+! Bowler
+! Overs
+! Maidens
+! Runs
+! Wickets
+|-
+| Collins || ? || ?  || 33 || 7
+|-
+| Sheriff || ? || ?  || ? || 1
+|-
+| Sudely || ? || ?  || ? || 1
+|}
+
+=== North Town – 2nd Innings ===
+
+{| border="1" cellpadding="1" cellspacing="0" style="font-size: 85%; border: gray solid 1px; border-collapse: collapse; text-align: center; width: 100%;"
+|-
+! Batsman
+! 
+! 
+! Runs
+|-
+| Monteath || || c & b Gilbert || 4
+|-
+| Crew || c Champion || b Gilbert || 4
+|-
+| Fedden || lbw || b Collins || 1
+|-
+| Sainsbury || lbw || b Collins || 13
+|-
+| Barstow || || b Collins || 0
+|-
+| Fuller-Eberle || || b Sheriff || 15
+|-
+| Rendall || || b Collins || 8
+|-
+| Lindrea || || b Sheriff || 11
+|-
+| Ratcliff || c Champion || b Sheriff || 0
+|-
+| Robinson || c Raine || b Sheriff || 0
+|-
+| Davies || || not out || 0
+|-
+! Extras || || || 5
+|-
+! Total || || all out || 61
+|}
+
+{| border="1" cellpadding="1" cellspacing="0" style="font-size: 85%; border: gray solid 1px; border-collapse: collapse; text-align: center; width: 100%;"
+|-
+! Bowler
+! Overs
+! Maidens
+! Runs
+! Wickets
+|-
+| Collins || ? || ?  || 30 || 4
+|-
+| Gilbert || ? || ?  || ? || 2
+|-
+| Sheriff || ? || ?  || ? || 4
+|}
+
+Clark's House wins by an innings and 688 runs.
+
+Category:Cricket records and statistics
+Category:1899 in English cricket
+Category:Schools cricket matches

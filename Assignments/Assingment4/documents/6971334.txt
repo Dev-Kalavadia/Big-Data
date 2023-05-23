@@ -1,0 +1,40 @@
+Title: ESL Incorporated
+
+ESL Incorporated, or Electromagnetic Systems Laboratory, was a subsidiary of TRW,  a high technology firm in the United States that was engaged in software design, systems analysis and hardware development for the strategic reconnaissance marketplace.  Founded in January 1964 in Palo Alto, California,  the company was initially entirely privately capitalized by its employees.  One of the company founders and original chief executive was William J. Perry, who eventually became United States Secretary of Defense under President Bill Clinton. Another company founder was Joe Edwin Armstrong. ESL was a leader in developing strategic signal processing systems and a prominent supplier of tactical reconnaissance and direction-finding systems to the U. S. military. These systems provided integrated real-time intelligence.
+
+Most of TRW—including ESL—was acquired by the Northrop Grumman Corporation in December 2002.
+
+ESL primarily supplied domestic intelligence agencies, NASA and the U.S. military, but had certain direct relations with the North Atlantic Treaty Organization (NATO) and also provided some services for a variety of state agencies.  Principal historic areas of competence are: (a) reconnaissance systems; (b) data communications systems (including advanced sonar and laser light scattering); (c)  phased array radar surveillance systems; (d) advanced data processing systems; and  (e) environmental systems.  The company employed a large technical staff, most of them holding advanced academic degrees.
+
+==Early formation and progression==
+The company was founded from a small incubator space on Fabian Way in Palo Alto, California, where it remained until about 85 employees in size.  The first major expansion took place about 1969, when a staged facility complex in Sunnyvale, California on Java Drive was initiated. within Moffett Industrial Park, which yielded a decade later about  of space for laboratories and research/development activity.  The early line management team included Perry as chief executive; Robert Fossum (later director of the Defense Advanced Research Projects Agency), director of systems analysis; Donald Wolfe, director of hardware; Michael Hogan, director of environmental systems and Paul Scheibe, director of technology.  By 1988 there were 9 buildings housing the over 3000 employees.
+
+==Reconnaissance systems==
+For optical systems ESL developed one of the first digital image processing capabilities for aerial photography (both satellite and aircraft platforms).  Various radio frequencies are also addressed in order to create a comprehensive capability in signal processing for a variety of listening devices. Tools developed emphasize the real time interaction of interpreters in order to facilitate rapid use of data intercepted.  A primary mission of reconnaissance work was support of the Arms Control and Disarmament Agency during the 1960s and 1970s.  Some of the unique developments of ESL in this field are: new application of digital signal processing and an early method of recording high speed digital data on analog media.ESL Incorporated 1972 Annual Report, ESL Inc., Sunnyvale, Ca. (1973)
+
+==Data receiving systems==
+This work centers on development of remotely controlled real-time systems utilized in a variety of strategic surveillance activities.  Consequently, ESL has always been a pioneer in the fields of antenna design throughout a wide part of the electromagnetic spectrum, including advances in phased array technology.  Airborne derivatives of this technology have also been applied to tactical situations, involving tracking of multiple high velocity objects.  After successes in specific applications for the government market, ESL began producing some of these receiving systems as commercially available catalog items in the late 1970s.
+
+==Systems analysis==
+Since the 1970s ESL has made state of the art advances in coherent signal processing in a high electronic noise environment.  These innovations led to near real-time signal processing even as early as 1972.ESL Incorporated 1973 Annual Report, ESL Inc., Sunnyvale, Ca. (1974)  Optical systems analysis has been conducted for four decades, starting in the 1960s with satellite imagery and laser light scattering from atmospheric  particles.  Acoustical analysis was also conducted in early years related to understanding how porpoises communicate in the wild.  In many cases these systems analyses led to hardware implementation programs, typically beginning with one-of-a-kind prototypes for field testing.  Multi-year planning programs for the Arms Control and Disarmament Agency including consulting work on implementation of the Strategic Arms Limitation Talks (SALT) and the Mutual and Balanced Force Reductions with the previous Soviet Union.
+
+==Data communications systems==
+Data communication systems were originally developed to support a variety of the firm’s strategic reconnaissance systems activity.  It was natural to seek to provide links from remote unattended listening stations to central station command and control functions.  These data systems were often developed to withstand severe environmental and reliability tests; some systems include multiple airborne and ground-based receivers.  One of the early data communications systems developed was a multi-channel ultra high frequency digital data link, whose innovation was its ability to be conveyed over a single standard military voice channel.  In 1972 the company developed one of the first commercial grade telephone to computer data modem devices.
+
+==Medical and environmental research==
+The company developed the first software for interpreting renal isograms in the diagnosis of Renovascular hypertension, working in conjunction with physicians practicing in the kidney disease diagnostics field.  For NASA, image processing research has been used to interpret satellite photos, including some of the earliest work of this type.  The environmental systems division has developed specialized  mathematical models for air quality, environmental noise and water pollution topics, gaining note for developing early line source models used in certain environmental litigation.Jay Mathews, High Court Backs Delay Of Route 66, The Washington Post and Times-Herald, Washington, D.C., 7 November 1972
+
+==Public offering and merger with TRW==
+The company underwent a successful public offering of its common stock underwritten by Hambrecht & Quist in the mid 1970s with shares thereafter trading on the NASDAQ exchange.  In 1978 a merger was consummated with TRW Inc.ESL-TRW Merger San Francisco Chronicle, Tuesday Dec. 6, 1977, San Francisco, Ca, to merge ESL with TRW, the latter being a large defense contractor in the USA. In 2001, TRW sold the real estate of the ESL campus in Sunnyvale, CA.  Approximately half of the operation moved to San Jose, California, and the other half set up offices at the former McClellan Air Force Base in Sacramento, California.
+
+==Acquisition of TRW by Northrop Grumman Corporation==
+In December of 2002, TRW and its subsidiary, ESL were acquired by Northrop Grumman Corporation.  Northrop Grumman has one of the largest intelligence analysis capabilities in the U.S. and is a leader in developing computer architectures and multi-source data integration tools. Core competencies of the combined ESL, TRW, and Northrop Grumman units include systems integration, high-performance signal processing algorithms, high-speed architectures, remotely controlled modular payloads and antenna systems. ESL survives essentially intact in their San Jose facility and the former McClellan Air Force Base facility in Sacramento.
+
+==1988 mass shooting==
+In February 1988, former employee Richard Farley fatally shot seven people and wounded four others at the company's headquarters after years of stalking former co-worker Laura Black. The incident helped prompt California's 1990 passage of the country's first anti-stalking laws.
+
+==See also==
+*Arms Control and Disarmament Agency
+*Strategic Defense Initiative
+*Phased array
+

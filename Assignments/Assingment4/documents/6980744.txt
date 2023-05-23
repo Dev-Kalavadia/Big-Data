@@ -1,0 +1,10 @@
+Title: The Nature of Rationality
+
+The Nature of Rationality is 1993 book by the philosopher Robert Nozick, in which he explores practical rationality.
+
+==Summary==
+Nozick views human rationality as an evolutionary adaptation. Its delimited purpose and function may be responsible for biases and blind spots, possibly accounting for philosophy's difficulty with perennial questions that are remote from the exigencies that drive natural selection. He offers a reformulation of the decision theory that was developed in the 20th century to explain rational action, advocating the inclusion of actions' symbolic meaning as well as a new rule that maximizes decision value. These have implications for longstanding issues such as the Prisoner's Dilemma and Newcomb's Problem. His proposal about rational belief has an internalist element of support by reasons that make the belief credible, and an externalist element of generation by a process that reliably produces true beliefs. Rational belief has an intellectual component: one should not believe any statement less credible than some incompatible alternative. It also has a practical component: one should believe a statement only if the expected utility (or decision value) of doing so is greater than that of not believing it.
+
+==Publication history==
+The Nature of Rationality was first published in 1993 by Princeton University Press.
+

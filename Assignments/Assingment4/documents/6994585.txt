@@ -1,0 +1,53 @@
+Title: 1019 Strackea
+
+1019 Strackea, provisional designation , is a stony Hungaria asteroid of the inner asteroid belt, approximately 8 kilometers in diameter. It was discovered on 3 March 1924, by astronomer Karl Reinmuth at Heidelberg Observatory in southwest Germany. It is named for German astronomer Gustav Stracke.
+
+== Classification and orbit ==
+
+Strackea is a member of the Hungaria group, a dynamical group forming the innermost dense concentration of asteroids in the Solar System. It is, however, a non-family asteroid of the background population, and not a member of the (collisional) Hungaria family. It orbits the Sun at a distance of 1.8–2.0 AU once every 2 years and 8 months (965 days). Its orbit has an eccentricity of 0.07 and an inclination of 27° with respect to the ecliptic.
+The body's observation arc begins with its official discovery observation at Heidelberg in 1924.
+
+== Physical characteristics ==
+
+In the Tholen classification, Strackea is a common, stony S-type asteroid.
+
+=== Lightcurve ===
+
+The first valid rotational lightcurve of Strackea with a period of 4.05 hours and a brightness variation of 0.17 magnitude was obtained by French amateur astronomer Laurent Bernasconi in February 2006 (). Since then, several well-defined lightcurves with a period between 4.044 and 4.052 hours and an amplitude of 0.15 to 0.25 magnitude were obtained by astronomers Brian Warner, Richard Schmidt, as well as by the group of astronomers Pierre Antonini, Raoul Behrend, Roberto Crippa and Federico Manzini ().
+
+=== Diameter and albedo ===
+
+According to the surveys carried out by the Infrared Astronomical Satellite IRAS, the Japanese Akari satellite, and NASA's Wide-field Infrared Survey Explorer with its subsequent NEOWISE mission, Strackea measures between 7.169 and 8.79 kilometers in diameter and its surface has an albedo between 0.206 and 0.39. The Collaborative Asteroid Lightcurve Link adopts the results obtained by IRAS, that is, an albedo of 0.2236 and a diameter of 8.37 kilometers with an absolute magnitude of 12.63.
+
+== Naming ==
+
+This minor planet was named after German astronomer Gustav Stracke (1887–1943), who was in charge of the minor planet department at the Berlin-based Astronomical Calculation Institute, despite his wish that he not be honored in this fashion. Previously, the discoverer had circumvented Stracke's wish by accordingly naming a consecutively numbered sequence of asteroids, so that their first letters form the name "G. Stracke". These minor planets, in the , were:
+* Geranium – Scabiosa – Tilia – Riceia – Auricula – Cortusa – Kobresia – Elyna
+
+Naming citation was first published by Paul Herget in The Names of the Minor Planets in 1955 ().
+
+== Notes ==
+ 
+
+== References ==
+ 
+
+== External links ==
+* Lightcurve plot of 1019 Strackea, Palmer Divide Observatory, B. D. Warner (2011)
+* Asteroid Lightcurve Database (LCDB), query form (info )
+* Dictionary of Minor Planet Names, Google books
+* Asteroids and comets rotation curves, CdR – Observatoire de Genève, Raoul Behrend
+* Discovery Circumstances: Numbered Minor Planets (1)-(5000) – Minor Planet Center
+* 
+* 
+
+
+
+
+
+
+001019
+Category:Discoveries by Karl Wilhelm Reinmuth
+Category:Named minor planets
+001019
+19240303

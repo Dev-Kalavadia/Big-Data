@@ -1,0 +1,70 @@
+Title: Kamień County
+__NOTOC__
+Kamień County () is a unit of territorial administration and local government (powiat) in West Pomeranian Voivodeship, north-western Poland, on the Baltic coast. It existed from 1944 to 1975 and was re-established in its current form on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and largest town is Kamień Pomorski, which lies  north of the regional capital Szczecin. The county contains four other towns: Międzyzdroje,  west of Kamień Pomorski, Wolin,  south-west of Kamień Pomorski, Dziwnów,  north-west of Kamień Pomorski, and Golczewo,  south-east of Kamień Pomorski.
+
+The county covers an area of . As of 2006 its total population is 47,604, out of which the population of Kamień Pomorski is 9,134, that of Misdroy is 5,436, that of Wolin is 4,878, that of Dziwnów is 2,949, that of Golczewo is 2,724, and the rural population is 22,483.
+
+== Neighbouring counties ==
+Kamień County is bordered by Gryfice County to the east, Goleniów County to the south and the city of Świnoujście to the west. It also borders the Baltic Sea to the north.
+
+== Administrative division ==
+The county is subdivided into six gminas (five urban-rural and one rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km2)
+| style="text-align:center;"|Population(2006)
+| style="text-align:center;"|Seat
+|-
+|Gmina Kamień Pomorski
+|urban-rural
+| style="text-align:right;"|208.6
+| style="text-align:right;"|14,389
+|Kamień Pomorski
+|-
+|Gmina Wolin
+|urban-rural
+| style="text-align:right;"|327.4
+| style="text-align:right;"|12,351
+|Wolin
+|-
+|Gmina Międzyzdroje
+|urban-rural
+| style="text-align:right;"|117.2
+| style="text-align:right;"|6,477
+|Międzyzdroje
+|-
+|Gmina Golczewo
+|urban-rural
+| style="text-align:right;"|175.4
+| style="text-align:right;"|6,065
+|Golczewo
+|-
+|Gmina Świerzno
+|rural
+| style="text-align:right;"|140.2
+| style="text-align:right;"|4,174
+|Świerzno
+|-
+|Gmina Dziwnów
+|urban-rural
+| style="text-align:right;"|37.9
+| style="text-align:right;"|4,148
+|Dziwnów
+|-
+|}
+
+== References ==
+* Polish official population figures 2006
+
+
+
+
+
+ 
+Category:Land counties of West Pomeranian Voivodeship
+Category:States and territories established in 1944
+Category:States and territories disestablished in 1975
+Category:States and territories established in 1999

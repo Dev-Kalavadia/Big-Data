@@ -1,0 +1,151 @@
+Title: Howitzer Motor Carriage M8
+
+
+The 75 mm Howitzer Motor Carriage M8 was a self-propelled howitzer vehicle of the United States in use during World War II. It was developed on the chassis of the M5 Stuart tank and was equipped with a M116 howitzer in an M7 mount.
+
+==Development and design==
+===Prototypes===
+Experiments with a close-support version of the M3 Stuart began with the T18 Howitzer Motor Carriage. This essentially combined an M3 light tank chassis with the gun mount of a M3 Grant medium tank mounting the much smaller 75mm pack howitzer. This produced a tall design with the gun well forward, which led to the tank being nose-heavy. They also found the fighting compartment was too cramped and the cut-down sides provided no protection to the crew for shots anywhere but the front.
+
+The T18 was cancelled in 1942 in favor of a new design, the T41. This moved to the updated M5 chassis, differing from the M3 mostly in its engine, while introducing a new fighting compartment with a well-sloped front that provided more room and much better production. However, the new layout also moved the gun even further forward and produced wear on the front wheels that was considered unacceptable. A further revision moved the gun to one side to free up room and change the balance, which was successful enough to consider production on surplus M3 chassis. By this time a competing concept had proved superior and production was cancelled in favor of the new T47.Chamberlain and Ellis (1969) British and American Tanks of World War II p96 Some further work was carried out on a T41 with the 105 mm M2A1; this work was later spun off as the T82 project.
+
+The T47 was also developed on the basis of the M5 chassis, but replaced the fixed fighting compartment with a new manually-turned turret mounting the same gun. This not only provided much better protection for the crew, but also offered far better tactical freedom than any fixed-mount system. The prototype was designated the 75 mm Howitzer Motor Carriage T17E1
+
+===Production===
+After a mock-up had been produced, it was ordered into production as the 75 mm Howitzer Motor Carriage M8. Like the M5, the M8 had a crew of four; commander, gunner, driver, and assistant driver/loader. When the M8 was in action, the commander positioned himself at the antiaircraft machine gun and directed his crew, the gunner sat in the turret on the right side of the howitzer, the assistant driver/loader moved up from his seat in the right front hull, and the driver stayed at his position.War Department Armored Command Field Manual 17-69 Crew Drill, Service of the Piece, and Gunnery (75-MM Assault Howitzer on Motor Carriage M8), dated 30 November 1943, pp. 3-5
+
+Due to the larger turret, the driver compartment crew hatches on the top of the hull had to be removed. These hatches served double duty on the M5, offering crew access as well as allowing the driver and assistant driver/loader to raise their seats and drive with their heads out of their hatch for greatly improved visibility. In the M8, the hatches were replaced with smaller hinged plates on the front of the glacis that could be opened by rotating them upward or lowered to "button up". To provide visibility when the hatches were closed, periscopes were placed on the top of the hull in front of the driver and loader. These openings were too small to be used for crew access, so those crew members had to access the tank through the open-topped turret.
+
+In early 1944, production was phased out in favor of the M4 or M4A3 armed with the M101 howitzer, having better protection, firepower and mobility (albeit not as fast). In November 1944, the Ordnance Department recommended that the M8 be called the General Scott, after American general Winfield Scott, although there is no evidence this name subsequently entered general use.
+
+===Armor===
+The M8 was based upon the Light Tank M5 (itself a descendant of the Light Tank M3), and so had relatively thin armor. The lower hull armor ranged from  to  on the sides to  on the lower front and  on the lower rear. The lower hull sides were vertical, while the lower hull front was sloped at 18 degrees from the vertical, and the lower hull rear, which protected the engine and radiator, was sloped at 17 degrees from the vertical. The hull floor ranged from  thick at the front to  thick at the rear. The glacis plate of the M8 was sloped at 45 degrees from the vertical and was  thick. The upper hull sides, like the lower hull sides, were vertical and  thick at the front, thinning to  thick at the rear. The upper rear hull was a vertical plate, . The plate sloped at 50 degrees for a short distance before it met the hull roof, which was uniformly  thick, and flat.
+
+The turret of the M8 was of cast steel. It was  thick at the front, which was rounded, sloping from 0 to 63 degrees from the vertical. The sides and rear were  thick and sloped at 20 degrees from the vertical. The cast gun shield, which covered the barrel of the 75 mm Howitzer M2/M3, was  thick and rounded.
+
+===Armament===
+The armament of the M8 consisted of a new open-topped turret armed with a 75 mm M2 howitzer, later a 75 mm M3 howitzer. The M8 carried 46 rounds of 75 mm ammunition; 11 rounds at the right rear of the fighting compartment, 20 rounds at the left rear of the fighting compartment, 9 rounds in the left hull sponson, and 6 "ready" rounds stored between the driver and assistant driver's positions. The most common types of ammunition carried were the M89 white phosphorus shell and the M48 high explosive shell. Unlike the standard M5 light tank, the M8 featured no hull-mounted or coaxial Browning M1919A4 .30 caliber machine gun. A Browning M2HB .50 caliber machine gun with 400 rounds was mounted on the right rear corner of the turret for local defense and anti-aircraft purposes. For self-defense, the vehicle driver was provided with a Thompson submachine gun, while the other three crew members were issued M1 carbines.War Department Armored Command Field Manual 17-69 Crew Drill, Service of the Piece, and Gunnery (75-MM Assault Howitzer on Motor Carriage M8), dated 30 November 1943, p.4
+
+==Production==
+1,778 of the Howitzer Motor Carriage M8 were produced by the Cadillac division of General Motors from September 1942 to January 1944.
+
+{| class="wikitable"
+|- style="vertical-align:top; text-align:center;"
+|+Production of M8 Howitzer Motor CarriageOrdnance Department Armored, Tank, and Combat Vehicles 1940-45, page 11 (1 May 1945)Official Munitions Production of the United States by Months, July 1, 1940 - August 1, 1945, page 231 (War Production Board and Civilian Production Administration, 1 May 1947)''
+
+! Month
+! Number built
+! Serial number(s)
+! Registration number(s)
+|- style="vertical-align:top; text-align:center;"
+! September 1942
+| 1
+| 1
+| 4051234
+|- style="vertical-align:top; text-align:center;"
+! October 1942
+| 24
+| 2-25
+| 4051235-4051258
+|- style="vertical-align:top; text-align:center;
+! November 1942
+| 101
+| 26-126
+| 4051259-4051359
+|- style="vertical-align:top; text-align:center;"
+! December 1942
+| 247
+| 127-373
+| 4051360-4051606
+|- style="vertical-align:top; text-align:center;"
+! January 1943
+| 160
+| 374-533
+| 4051607-4051766
+|- style="vertical-align:top; text-align:center;"
+! February 1943
+| 160
+| 534-693
+| 4051767-4051927
+|- style="vertical-align:top; text-align:center;"
+! March 1943
+| 160
+| 694-853
+| 4051928-4052086
+|- style="vertical-align:top; text-align:center;"
+! April 1943
+| 160
+| 854-1013
+| 4052087-4052246
+|- style="vertical-align:top; text-align:center;"
+! May 1943
+| 160
+| 1014-1173
+| 4052247-4052406
+|- style="vertical-align:top; text-align:center;"
+! June 1943
+| 160
+| 1174-1333
+| 4052407-4052566
+|- style="vertical-align:top; text-align:center;"
+! July 1943
+| 62
+| 1334-1395
+| 4052567-4052628
+|- style="vertical-align:top; text-align:center;"
+! August 1943
+| 62
+| 1396-1457
+| 4052629-4052690
+|- style="vertical-align:top; text-align:center;"
+! September 1943
+| 62
+| 1458-1519
+| 4052691-4052752
+|- style="vertical-align:top; text-align:center;"
+! October 1943
+| 62
+| 1520-1581
+| 4052753-4052814
+|- style="vertical-align:top; text-align:center;"
+! November 1943
+| 62
+| 1582-1643
+| 4052815-4052876
+|- style="vertical-align:top; text-align:center;"
+! December 1943
+| 60
+| 1644-1703
+| 4052877-4052938
+|- style="vertical-align:top; text-align:center;"
+! January 1944
+| 75
+| 1704-1778
+| 4052939-4053011
+|- style="vertical-align:top; text-align:center;"
+! Total
+! 1,778
+!
+!
+|}
+
+==Combat service==
+thumb|Soldiers of the 77th Inf. Div. walk past M8 self-propelled howitzers parked by the side of the road on Okinawa. 26 May, 1945
+M8s were issued to Headquarters companies in medium tank battalions. Starting in early 1944 they were replaced by the 105mm howitzer variant of the M4 Sherman tank.Chamberlain & Ellis p97  The 75 mm Howitzer Motor Carriage M8 was assigned to the Assault Gun Troops of Cavalry Reconnaissance Squadrons in order to give them close support against enemy fortified positions. The high elevation (+40/-20 degrees) of the howitzer was useful for hitting enemies emplaced on the sides of hills. The M8 was used in the Italian Campaign, the Western Front, and in the Pacific Theater by the US Army and on the Western Front by the French Army. It was also used by the French Union and State of Vietnam during the First Indochina War. It stayed in French service until 1962 and saw service in Algeria.
+Nine M8s were also used by the partisans in Yugoslavia under the name Kadilak.German and Allied Armour in Yugoslavia in World War Two.
+
+==Users==
+* - U.S. Army
+* - French Army
+* - Mexican Army
+* - Army of the Republic of Vietnam (ARVN)
+* - Khmer National Army (FANK)
+* Kingdom of Laos - Royal Lao Army
+* Republic of China - Republic of China Army (ROCA)
+* - Tunisian Army
+
+==See also==
+
+* Landing Vehicle Tracked (Armored) 4 — an LVT(A)1 rearmed with the turret of the 75 mm Howitzer Motor Carriage M8
+* G-numbers
+

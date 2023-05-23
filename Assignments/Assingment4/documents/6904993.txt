@@ -1,0 +1,63 @@
+Title: Abukuma-class destroyer escort
+
+
+{| 
+
+
+
+|}
+
+The Abukuma-class destroyer escort (or frigate) is the general-purpose destroyer escort of the Japan Maritime Self-Defense Force. It is the successor of the earlier .
+
+==Design==
+This class was planned to replace the earlier  and possess both ASW capability as the successor of the  and ASuW capability as the successor of the Yūbari class, but there are many  enhancements as follows:
+
+=== Introduction of stealth technology===
+This class is the first combatant ship of the JMSDF with stealth technology. Their superstructure has traditional vertical surfaces, but their hulls are angled to reduce their radar cross section.
+
+===Electronic warfare===
+This is the first destroyer escort class with the Naval Tactical Data System and OYQ-7 combat direction system. It is also the first destroyer escort class which has ECM capability with the OLT-3 jammer.
+
+===Weapon systems===
+The Short Range Air Defense system comprises the OPS-14 air-search radar, the OPS-28 surface search and target acquisition radar, one Otobreda 76 mm rapid-firing gun controlled by the FCS-2 fire-control system and Phalanx CIWS. The OPS-14 is the Japanese equivalent of the American AN/SPS-49 radar, and the OPS-28 is the equivalent of the American TAS Mk.23. Phalanx CIWS has given the ships an improved self-defence capability against anti-ship missiles. Mk.31 RAM GMWS Point Defense Missile System was planned, but it is not installed yet.
+
+The ASW system comprises an OQS-8 hull-sonar (Japanese equivalent of the American DE-1167), ASROC anti-submarine rocket from the Type 74 octuple launcher (Japanese license-built version of the American Mark 16 GMLS) and lightweight ASW torpedoes from two HOS-301 triple  torpedo tubes. A Tactical Towed-Array Sonar System was planned but it is not installed yet.
+
+The JMSDF intended to build eleven ships of this class, but finally, only six were built because s started deploying in distinct forces. All six vessels in this class are named after Japanese rivers.
+
+== Ships in the class ==
+{| class="wikitable"
+|-
+! Pennant no. || Name || Laid down || Launched || Commissioned || Home port
+|-
+| DE-229 || 
+| 17 March 1988    || 21 December 1988
+| 12 December 1989  || Kure
+|-
+| DE-230 || 
+| 14 April 1988    || 31 January 1989
+| 28 February 1990  || Sasebo
+|-
+| DE-231 || 
+| 8 March 1989     || 19 December 1989
+| 23 January 1991   || Ominato
+|-
+| DE-232 || 
+| 14 April 1989    || 26 January 1990
+| 15 March 1991     || Maizuru
+|-
+| DE-233 || 
+| 14 February 1991 || 25 January 1992
+| 24 February 1993  || Ominato
+|-
+| DE-234 || 
+| 8 February 1991  || 6 December 1991
+| 8 February 1993   || Kure
+|}
+
+==See also==
+* List of naval ship classes in service
+
+==Notes==
+
+

@@ -1,0 +1,336 @@
+Title: List of municipalities of the Province of Catanzaro
+
+The following is a list of the 80 municipalities (comuni) of the Province of Catanzaro, Calabria, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|079002
+|Albi
+| align="right" |1,084
+|-
+|079003
+|Amaroni
+| align="right" |2,011
+|-
+|079004
+|Amato
+| align="right" |894
+|-
+|079005
+|Andali
+| align="right" |905
+|-
+|079007
+|Argusto
+| align="right" |557
+|-
+|079008
+|Badolato
+| align="right" |3,356
+|-
+|079009
+|Belcastro
+| align="right" |1,394
+|-
+|079011
+|Borgia
+| align="right" |7,269
+|-
+|079012
+|Botricello
+| align="right" |4,690
+|-
+|079017
+|Caraffa di Catanzaro
+| align="right" |2,055
+|-
+|079018
+|Cardinale
+| align="right" |2,611
+|-
+|079020
+|Carlopoli
+| align="right" |1,742
+|-
+|079023
+|Catanzaro
+| align="right" |95,099
+|-
+|079024
+|Cenadi
+| align="right" |632
+|-
+|079025
+|Centrache
+| align="right" |447
+|-
+|079027
+|Cerva
+| align="right" |1,300
+|-
+|079029
+|Chiaravalle Centrale
+| align="right" |6,891
+|-
+|079030
+|Cicala
+| align="right" |1,037
+|-
+|079033
+|Conflenti
+| align="right" |1,598
+|-
+|079034
+|Cortale
+| align="right" |2,364
+|-
+|079036
+|Cropani
+| align="right" |4,024
+|-
+|079039
+|Curinga
+| align="right" |6,704
+|-
+|079042
+|Davoli
+| align="right" |5,324
+|-
+|079043
+|Decollatura
+| align="right" |3,385
+|-
+|079047
+|Falerna
+| align="right" |3,957
+|-
+|079048
+|Feroleto Antico
+| align="right" |2,079
+|-
+|079052
+|Fossato Serralta
+| align="right" |632
+|-
+|079055
+|Gagliato
+| align="right" |574
+|-
+|079056
+|Gasperina
+| align="right" |2,266
+|-
+|079058
+|Gimigliano
+| align="right" |3,470
+|-
+|079059
+|Girifalco
+| align="right" |6,394
+|-
+|079060
+|Gizzeria
+| align="right" |3,825
+|-
+|079061
+|Guardavalle
+| align="right" |5,196
+|-
+|079063
+|Isca sullo Ionio
+| align="right" |1,568
+|-
+|079065
+|Jacurso
+| align="right" |784
+|-
+|079068
+|Magisano
+| align="right" |1,303
+|-
+|079069
+|Maida
+| align="right" |4,370
+|-
+|079071
+|Marcedusa
+| align="right" |502
+|-
+|079072
+|Marcellinara
+| align="right" |2,201
+|-
+|079073
+|Martirano
+| align="right" |1,013
+|-
+|079074
+|Martirano Lombardo
+| align="right" |1,327
+|-
+|079077
+|Miglierina
+| align="right" |843
+|-
+|079080
+|Montauro
+| align="right" |1,337
+|-
+|079081
+|Montepaone
+| align="right" |4,395
+|-
+|079083
+|Motta Santa Lucia
+| align="right" |857
+|-
+|079087
+|Nocera Terinese
+| align="right" |4,718
+|-
+|079088
+|Olivadi
+| align="right" |634
+|-
+|079089
+|Palermiti
+| align="right" |1,346
+|-
+|079092
+|Pentone
+| align="right" |2,224
+|-
+|079094
+|Petrizzi
+| align="right" |1,256
+|-
+|079095
+|Petronà
+| align="right" |2,833
+|-
+|079096
+|Pianopoli
+| align="right" |2,350
+|-
+|079099
+|Platania
+| align="right" |2,359
+|-
+|079108
+|San Floro
+| align="right" |579
+|-
+|079110
+|San Mango d'Aquino
+| align="right" |1,822
+|-
+|079114
+|San Pietro a Maida
+| align="right" |4,230
+|-
+|079115
+|San Pietro Apostolo
+| align="right" |1,890
+|-
+|079116
+|San Sostene
+| align="right" |1,142
+|-
+|079117
+|Santa Caterina dello Ionio
+| align="right" |2,222
+|-
+|079118
+|Sant'Andrea Apostolo dello Ionio
+| align="right" |2,288
+|-
+|079122
+|San Vito sullo Ionio
+| align="right" |1,901
+|-
+|079123
+|Satriano
+| align="right" |3,137
+|-
+|079126
+|Sellia
+| align="right" |568
+|-
+|079127
+|Sellia Marina
+| align="right" |5,966
+|-
+|079129
+|Serrastretta
+| align="right" |3,460
+|-
+|079130
+|Sersale
+| align="right" |5,041
+|-
+|079131
+|Settingiano
+| align="right" |2,476
+|-
+|079133
+|Simeri Crichi
+| align="right" |4,133
+|-
+|079134
+|Sorbo San Basile
+| align="right" |951
+|-
+|079137
+|Soverato
+| align="right" |9,859
+|-
+|079138
+|Soveria Mannelli
+| align="right" |3,482
+|-
+|079139
+|Soveria Simeri
+| align="right" |1,633
+|-
+|079142
+|Squillace
+| align="right" |3,347
+|-
+|079143
+|Stalettì
+| align="right" |2,386
+|-
+|079146
+|Taverna
+| align="right" |2,640
+|-
+|079147
+|Tiriolo
+| align="right" |4,062
+|-
+|079148
+|Torre di Ruggiero
+| align="right" |1,240
+|-
+|079151
+|Vallefiorita
+| align="right" |2,250
+|-
+|079157
+|Zagarise
+| align="right" |1,866
+|-
+|079160
+|Lamezia Terme
+| align="right" |70,366
+|-
+|
+|Total
+| align="right" |368,923
+|-
+|}
+

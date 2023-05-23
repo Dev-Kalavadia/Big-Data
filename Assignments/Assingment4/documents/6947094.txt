@@ -1,0 +1,235 @@
+Title: List of municipalities of the Province of Pesaro and Urbino
+
+The following is a list of the 60 municipalities (comuni) of the Province of Pesaro and Urbino, Marche, Italy, following the transfer of seven (Casteldelci, Maiolo, Novafeltria, Pennabilli, San Leo, Sant'Agata Feltria and Talamello) to the Province of Rimini in August 2009.‘Codici dei comuni, delle province e delle regioni’, Istat, 30 October 2009: see the section headed ‘Nuovi codici dei comuni distaccati dalla Provincia di Pesaro e Urbino (Regione Marche) e aggregati alla provincia di Rimini (Regione Emilia-Romagna)’.Istat codes and population figures taken from  elenco_comuni_italiani_30_ottobre_2009.csv, Istat 2009.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (31 December 2008)
+|-
+|041001
+|Acqualagna
+| align="right" |4,414
+|-
+|041002
+|Apecchio
+| align="right" |2,084 
+|-
+|041005
+|Belforte all'Isauro
+| align="right" |796
+|-
+|041006
+|Borgo Pace
+| align="right" |687
+|-
+|041007
+|Cagli
+| align="right" |9,031
+|-
+|041008
+|Cantiano
+| align="right" |2,437
+|-
+|041009
+|Carpegna
+| align="right" |1,680
+|-
+|041010
+|Cartoceto
+| align="right" |7,939
+|-
+|041069
+|Colli al Metauro
+| align="right" |12,352
+|-
+|041013
+|Fano
+| align="right" |63,734
+|-
+|041014
+|Fermignano
+| align="right" |8,666
+|-
+|041015
+|Fossombrone
+| align="right" |9,834
+|-
+|041016
+|Fratte Rosa
+| align="right" |1,009
+|-
+|041017
+|Frontino
+| align="right" |317
+|-
+|041018
+|Frontone
+| align="right" |1,362
+|-
+|041019
+|Gabicce Mare
+| align="right" |5,906
+|-
+|041020
+|Gradara
+| align="right" |4,500
+|-
+|041021
+|Isola del Piano
+| align="right" |666
+|-
+|041022
+|Lunano
+| align="right" |1,453
+|-
+|041023
+|Macerata Feltria
+| align="right" |2,128
+|-
+|041025
+|Mercatello sul Metauro
+| align="right" |1,502
+|-
+|041026
+|Mercatino Conca
+| align="right" |1,112
+|-
+|041027
+|Mombaroccio
+| align="right" |2,146
+|-
+|041028
+|Mondavio
+| align="right" |4,017
+|-
+|041029
+|Mondolfo
+| align="right" |11,914
+|-
+|041030
+|Montecalvo in Foglia
+| align="right" |2,762
+|-
+|041031
+|Monte Cerignone
+| align="right" |672
+|-
+|041032
+|Monteciccardo
+| align="right" |1,675
+|-
+|041033
+|Montecopiolo
+| align="right" |1,099
+|-
+|041034
+|Montefelcino
+| align="right" |2,801
+|-
+|041035
+|Monte Grimano
+| align="right" |1,249
+|-
+|041036
+|Montelabbate
+| align="right" |6,525
+|-
+|041038
+|Monte Porzio
+| align="right" |2,736
+|-
+|041041
+|Peglio
+| align="right" |721
+|-
+|041043
+|Pergola
+| align="right" |6,760
+|-
+|041044
+|Pesaro
+| align="right" |94,197
+|-
+|041045
+|Petriano
+| align="right" |2,894
+|-
+|041046
+|Piagge
+| align="right" |1,026
+|-
+|041047
+|Piandimeleto
+| align="right" |2,096
+|-
+|041048
+|Pietrarubbia
+| align="right" |671
+|-
+|041049
+|Piobbico
+| align="right" |2,140
+|-
+|041051
+|San Costanzo
+| align="right" |4,863
+|-
+|041054
+|San Lorenzo in Campo
+| align="right" |3,539
+|-
+|041057
+|Sant'Angelo in Vado
+| align="right" |4,121
+|-
+|041058
+|Sant'Ippolito
+| align="right" |1,625
+|-
+|041071
+|Sassocorvaro Auditore
+| align="right" |4,888
+|-
+|041060
+|Sassofeltrio
+| align="right" |1,392
+|-
+|041061
+|Serra Sant'Abbondio
+| align="right" |1,116
+|-
+|041064
+|Tavoleto
+| align="right" |909
+|-
+|041065
+|Tavullia
+| align="right" |7,535
+|-
+|041070
+|Terre Roverasche
+| align="right" |5,265
+|-
+|041066
+|Urbania
+| align="right" |7,059
+|-
+|041067
+|Urbino
+| align="right" |15,528
+|-
+|041068
+|Vallefoglia
+| align="right" |15,029
+|-
+|
+|Total
+| align="right" |363,529
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

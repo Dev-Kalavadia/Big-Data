@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Apr 23 17:34:54 GST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0187-ae53-19f5-00000681a8e8 
+on database directory /Users/devkalavadiya/Desktop/BigData/Assignments/Assignment5/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5ffd2b27 
+Loaded from file:/opt/homebrew/Cellar/apache-spark/3.3.2/libexec/jars/derby-10.14.2.0.jar
+java.vendor=Homebrew
+java.runtime.version=20
+user.dir=/Users/devkalavadiya/Desktop/BigData/Assignments/Assignment5
+os.name=Mac OS X
+os.arch=aarch64
+os.version=13.0.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

@@ -1,0 +1,92 @@
+Title: Tree nut allergy
+A tree nut allergy is a hypersensitivity to dietary substances from tree nuts and edible tree seeds causing an overreaction of the immune system which may lead to severe physical symptoms. Tree nuts include almonds, Brazil nuts, cashews, chestnuts, filberts/hazelnuts, macadamia nuts, pecans, pistachios, shea nuts and walnuts.Many seeds are commonly referred to as "nuts" even though botanists use the term more restrictively to refer to those that come from indehiscent fruits. See the article about nuts for more information.
+
+Management is by avoiding eating the causal nuts  or foods that contain them among their ingredients, and a prompt treatment if there is an accidental ingestion. Total avoidance is complicated because the declaration of the presence of trace amounts of allergens in foods is not mandatory in every country.
+
+Tree nut allergies are distinct from peanut allergy, as peanuts are legumes, whereas a tree nut is a hard-shelled nut.
+
+==Signs and symptoms==
+350px|right|Signs and symptoms of anaphylaxis
+Food allergies in general usually have an onset of symptoms in the range of minutes to hours for an IgE-mediated response, which may include anaphylaxis. Symptoms may include rash, hives, itching of mouth, lips, tongue, throat, eyes, skin, or other areas, swelling of lips, tongue, eyelids, or the whole face, difficulty swallowing, runny or congested nose, hoarse voice, wheezing, shortness of breath, diarrhea, abdominal pain, lightheadedness, fainting, nausea, or vomiting. Non-IgE-mediated responses occur hours to days after consuming the allergenic food, and are not as severe as IgE-mediated symptoms. Symptoms of allergies vary from person to person and incident to incident.
+
+Potentially life-threatening, the anaphylactic onset of an allergic reaction is characterized by respiratory distress, as indicated by wheezing, breathing difficulty, and cyanosis, and also circulatory impairment that can include a weak pulse, pale skin, and fainting. This can occur when IgE antibodies are released and areas of the body not in direct contact with the food allergen show severe symptoms. Untreated, the overall response can lead to vasodilation, which can be a low blood pressure situation called anaphylactic shock.
+
+Consumption of raw nuts usually causes a more severe reaction than roasted nuts or food-grade nut oils, as processing can reduce the integrity of the allergic proteins.
+
+==Causes==
+
+
+==Diagnosis==
+An allergy test or food challenge may be performed at an allergy clinic to determine the exact allergens.
+
+Since a tree nut allergy can be life threatening, people who suspect they are having allergic reactions to any kind of tree nut should be tested by an allergist immediately. Tree nut allergies can be genetic and passed down.
+Skin-prick tests and blood tests may be used to determine if an allergy is present. Tests can reveal the presence of immunoglobulin E (IgE), an antibody that responds to allergens and triggers the release of chemicals which cause the symptoms.
+
+If the test results are inconclusive, there is also an oral food challenge. This test consists of feeding the patient tiny amounts of the food that they believe is causing their allergy reactions. This is done under direct supervision of the allergist.
+
+==Prevention==
+Prevention involves an exclusion diet and vigilant avoidance of foods that may be contaminated with tree nuts, nut particles, or oils extracted from nuts. In the United States, the federal Food Allergen Labeling and Consumer Protection Act (FALCPA) requires that any packaged food product that contains tree nuts as an ingredient must list the specific tree nut on the label.  Foods that almost always contain tree nuts include pesto, marzipan, Nutella, baklava, pralines, nougat, gianduja, and turrón.  Other common foods that may contain tree nuts include cereals, crackers, cookies, baked goods, candy, chocolates, energy/granola bars, flavored coffee, frozen desserts, marinades, barbecue sauces, and some cold cuts, such as mortadella.  Tree nut oils (especially shea nut) are also sometimes used in lotions and soaps.  Asian and African restaurants, ice cream parlors, and bakeries are considered high-risk for people with tree nut allergy due to the common use of nuts and the possibility of cross contamination.
+
+===Cross-reactivity===
+People with clinically confirmed tree nut allergy to one type of tree nut may have cross-reactivity to other tree nut species and also to peanuts, which are not nuts but rather part of the legume family. The cause is similarity in protein structures. Identifiable allergenic proteins are grouped into families: cupins, prolamins, profilin and others. Tree nuts have proteins in these families, as do peanuts and other legumes. Reviews of human trials report that for a confirmed tree nut allergy, up to one third of people will react to more than one type of tree nut. The cross reactivity among almond, walnut, pecan, hazelnut and Brazil nut is stronger than cross reactivity of these toward cashew or pistachio.
+
+People with tree nut allergy are seldom allergic to just one type of nut, and are therefore usually advised to avoid all tree nuts,  even though an individual may not be allergic to the nuts of all species of trees.
+
+Someone allergic to walnuts or pecans may not have an allergy to cashews or pistachios, because the two groups are only distantly related and do not necessarily share related allergenic proteins.
+
+==Prognosis==
+This allergy tends to be lifelong; studies have shown that only about 9% of children outgrow their tree nut allergy.National Institutes of Health, NIAID Allergy Statistics. 
+
+==Treatment==
+thumb|Epinephrine autoinjectors are portable single-dose epinephrine-dispensing devices used to treat anaphylaxis.
+Strict dietary avoidance of the causal nut(s) remains the mainstay of treatment for nut-allergic individuals. Treatment for accidental ingestion of tree nut products by allergic individuals varies depending on the sensitivity of the person. An antihistamine such as diphenhydramine may be prescribed. Sometimes prednisone will be prescribed to prevent a possible late phase Type I hypersensitivity reaction. Severe allergic reactions (anaphalaxis) may require treatment with an epinephrine pen, which is an injection device designed to be used by a non-healthcare professional when emergency treatment is warranted.
+
+==Regulation==
+Whether food allergy prevalence is increasing or not, food allergy awareness has increased, with impacts on the quality of life for children, their parents and their immediate caregivers. In the United States, the Food Allergen Labeling and Consumer Protection Act enacted August 2004, effective January 1, 2006, causes people to be reminded of allergy problems every time they handle a food package, and restaurants have added allergen warnings to menus. The Culinary Institute of America, a premier school for chef training, has courses in allergen-free cooking and a separate teaching kitchen.Culinary Institute of America Allergen-free oasis comes to the CIA (2017) School systems have protocols about what foods can be brought into the school. Despite all these precautions, people with serious allergies are aware that accidental exposure can easily occur at other peoples' houses, at school or in restaurants. 
+
+===Regulation of labeling===
+thumb|upright=1.3|An example of a list of allergens in a food item
+In response to the risk that certain foods pose to those with food allergies, some countries have responded by instituting labeling laws that require food products to clearly inform consumers if their products contain major allergens or byproducts of major allergens among the ingredients intentionally added to foods. Nevertheless, there are no labeling laws to mandatory declare the presence of trace amounts in the final product as a consequence of cross-contamination, except in Brazil.
+
+"Food allergen labelling and information requirements under the EU Food Information for Consumers Regulation No. 1169/2011: Technical Guidance"  (April 2015).
+
+====Ingredients intentionally added====
+FALCPA requires companies to disclose on the label whether a packaged food product contains any of these eight major food allergens, added intentionally: cow's milk, peanuts, eggs, shellfish, fish, tree nuts, soy and wheat. This list originated in 1999 from the World Health Organisation Codex Alimentarius Commission. To meet FALCPA labeling requirements, if an ingredient is derived from one of the required-label allergens, then it must either have its "food sourced name" in parentheses, for example "Casein (milk)," or as an alternative, there must be a statement separate but adjacent to the ingredients list: "Contains milk" (and any other of the allergens with mandatory labeling). The European Union requires listing for those eight major allergens plus molluscs, celery, mustard, lupin, sesame and sulfites.
+
+FALCPA applies to packaged foods regulated by the FDA, which does not include poultry, most meats, certain egg products, and most alcoholic beverages. However, some meat, poultry, and egg processed products may contain allergenic ingredients. These products are regulated by the Food Safety and Inspection Service (FSIS), which requires that any ingredient be declared in the labeling only by its common or usual name. Neither the identification of the source of a specific ingredient in a parenthetical statement nor the use of statements to alert for the presence of specific ingredients, like "Contains: milk", are mandatory according to FSIS.  FALCPA also does not apply to food prepared in restaurants. The EU Food Information for Consumers Regulation 1169/2011 – requires food businesses to provide allergy information on food sold unpackaged, for example, in catering outlets, deli counters, bakeries and sandwich bars.
+
+====Trace amounts as a result of cross-contamination====
+The value of allergen labeling other than for intentional ingredients is controversial. This concerns labeling for ingredients present unintentionally as a consequence of cross-contact or cross-contamination at any point along the food chain (during raw material transportation, storage or handling, due to shared equipment for processing and packaging, etc.). Experts in this field propose that if allergen labeling is to be useful to consumers, and healthcare professionals who advise and treat those consumers, ideally there should be agreement on which foods require labeling, threshold quantities below which labeling may be of no purpose, and validation of allergen detection methods to test and potentially recall foods that were deliberately or inadvertently contaminated.
+
+Labeling regulations have been modified to provide for mandatory labeling of ingredients plus voluntary labeling, termed precautionary allergen labeling (PAL), also known as “may contain” statements, for possible, inadvertent, trace amount, cross-contamination during production. PAL labeling can be confusing to consumers, especially as there can be many variations on the wording of the warning.  PAL is regulated only in Switzerland, Japan, Argentina, and South Africa. Argentina decided to prohibit precautionary allergen labeling since 2010, and instead puts the onus on the manufacturer to control the manufacturing process and label only those allergenic ingredients known to be in the products. South Africa does not permit the use of PAL, except when manufacturers demonstrate the potential presence of allergen due to cross-contamination through a documented risk assessment and despite adherence to Good Manufacturing Practice. In Australia and New Zealand there is a recommendation that PAL be replaced by guidance from VITAL 2.0 (Vital Incidental Trace Allergen Labeling). A review identified "the eliciting dose for an allergic reaction in 1% of the population" as ED01. This threshold reference dose for foods (such as cow's milk, egg, peanut and other proteins) will provide food manufacturers with guidance for developing precautionary labeling and give consumers a better idea of might be accidentally in a food product beyond "may contain." VITAL 2.0 was developed by the Allergen Bureau, a food industry sponsored, non-government organization.The VITAL Program Allergen Bureau, Australia and New Zealand. The European Union has initiated a process to create labeling regulations for unintentional contamination but is not expected to publish such before 2024.
+
+In Brazil since April 2016, the declaration of the possibility of cross-contamination is mandatory when the product does not intentionally add any allergenic food or its derivatives, but the Good Manufacturing Practices and allergen control measures adopted are not sufficient to prevent the presence of accidental trace amounts. These allergens include wheat, rye, barley, oats and their hybrids, crustaceans, eggs, fish, peanuts, soybean, milk of all species of mammalians, almonds, hazelnuts, cashew nuts, Brazil nuts, macadamia nuts, walnuts, pecan nuts, pistaches, pine nuts, and chestnuts.
+
+==Society and culture==
+Food fear has a significant impact on quality of life. For children with allergies, quality of life is also affected by actions of their peers. There is an increased occurrence of bullying, which can include threats or acts of deliberately being touched with foods they need to avoid, also having their allergen-free food deliberately contaminated.
+
+==Research==
+Immunotherapy treatments are being developed for tree nut allergy, including oral immunotherapy, sublingual immunotherapy, and epicutaneous immunotherapy.
+
+== See also ==
+* Allergy (has diagrams showing involvement of different types of white blood cells)
+* Food allergy (has images of hives, skin prick test and patch test)
+* List of allergens (food and non-food)
+* Peanut allergy (can be cross-reactive to tree nut allergy)
+
+==Notes==
+
+
+== References ==
+
+
+== External links ==
+
+* Tree nut allergy at Food Allergy Initiative
+* "Are Nut Bans Promoting Hysteria?" by Tana Parker-Pope at The New York Times (15 Dec 2008)
+
+
+
+
+*
+Category:Food allergies

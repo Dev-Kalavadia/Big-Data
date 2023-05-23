@@ -1,0 +1,83 @@
+Title: Gordevio
+
+
+Gordevio was a municipality in the district of Vallemaggia in the canton of Ticino in Switzerland.  On 20 April 2008, Avegno and Gordevio merged to form Avegno Gordevio.Amtliches Gemeindeverzeichnis der Schweiz published by the Swiss Federal Statistical Office  accessed 14 January 2010
+
+==History==
+Gordevio is first mentioned in 1200 as de gordauio.  In 1335 it was mentioned as de Gordavio.
+
+The parish church of SS Giacomo e Filippo, is first mentioned in the 13th century.  The current building was built in the 17th century on the remains of a previous church from the 14th century.  It contains paintings by Giovanni Antonio Vanoni (19th century) and probably by Giuseppe Antonio Felice Orelli, who created frescoes in the adjacent ossuary in 1753.  In village of Brièè, in 1666, the chapel of S. Antonio Abate was built.  In the 14th century both Gordevio and Avegno had their own chaplain.  The two villages broke away from the mother church in Maggia, and parted from each other probably about 1645.
+
+The village center of contains some houses from the 19th century.  Due to lack of farming land, emigration (at first mainly to Rome, but in the second half of the 19th century overseas as well) lowered the number of inhabitants.  In the last decades of the 20th century, the population has risen again.  This increase is mainly due to its proximity to agglomeration of Locarno.  Agricultural jobs have practically disappeared from the village.
+
+==Geography==
+The village is located in the Vallemaggia district.  It consists of two sections, Villa and Brièè, which are separated by the Ri di Gèi stream.
+
+==Coat of arms==
+The blazon of the municipal coat of arms is Per bend gules two fleurs de lis argent and of the last a cross pattee per saltire azure and of the first and overall a bendlet of the third.Flags of the World.com accessed 9 February 2011
+
+==Demographics==
+Gordevio has a population () of 812.  Most of the population () speaks Italian language (675 or 84.6%), with German being second most common (80 or 10.0%) and French being third (29 or 3.6%).  There are 3 people who speak Romansh.
+
+Of the population in the village 305 or about 38.2% were born in Gordevio and lived there in 2000.  There were 236 or 29.6% who were born in the same canton, while 115 or 14.4% were born somewhere else in Switzerland, and 100 or 12.5% were born outside of Switzerland.  , there were 346 people who were single and never married in the village.  There were 354 married individuals, 58 widows or widowers and 40 individuals who are divorced.STAT-TAB Datenwürfel für Thema 40.3 - 2000    accessed 2 February 2011
+
+There were 59 households that consist of only one person and 24 households with five or more people.  Out of a total of 274 households that answered this question, 21.5% were households made up of just one person and 7 were adults who lived with their parents.  Of the rest of the households,  there are 64 married couples without children, 104 married couples with children  There were 26 single parents with a child or children.  There were 12 households that were made up unrelated people and 2 households that were made some sort of institution or another collective housing.
+
+ there were 260 single-family homes (or 78.5% of the total) out of a total of 331 inhabited buildings.  There were 64 multi-family buildings (19.3%), along with 4 multi-purpose buildings that were mostly used for housing (1.2%) and 3 other use buildings (commercial or industrial) that also had some housing (0.9%).  Of the single-family homes 12 were built before 1919, while 10 were built between 1990 and 2000.  The greatest number of single-family homes (84) were built between 1919 and 1945.Federal Statistical Office STAT-TAB - Datenwürfel für Thema 09.2 - Gebäude und Wohnungen   accessed 28 January 2011
+
+ there were 422 apartments in the village.  The most common apartment size was 4 rooms of which there were 112.  There were 18 single room apartments and 122 apartments with five or more rooms.  Of these apartments, a total of 270 apartments (64.0% of the total) were permanently occupied, while 142 apartments (33.6%) were seasonally occupied and 10 apartments (2.4%) were empty.
+
+The historical population is given in the following chart:Swiss Federal Statistical Office STAT-TAB Bevölkerungsentwicklung nach Region, 1850-2000   accessed 29 January 2011
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.8)
+ImageSize  = width:1140 height:210
+PlotArea   = height:150 left:100 bottom:50 right:100
+AlignBars  = justify
+DateFormat = x.y
+Period     = from:0 till:800
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:200 start:0
+ScaleMinor = gridcolor:lightgrey increment:40 start:0
+PlotData=
+  color:yellowgreen width:40   mark:(line,white) align:center
+  bar:1283 from:start till:120
+  bar:1283 at:130 fontsize:S text: "[[Hearth tax|30 Hearths]]"  shift:(8,5)
+  bar:1591 from:start till:230 text:"230"
+  bar:1709 from:start till:650 text:"650"
+  bar:1850 from:start till:373 text:"373"
+  bar:1860 from:start till:342 text:"342"
+  bar:1870 from:start till:358 text:"358"
+  bar:1880 from:start till:332 text:"332"
+  bar:1888 from:start till:314 text:"314"
+  bar:1900 from:start till:278 text:"278"
+  bar:1910 from:start till:265 text:"265"
+  bar:1920 from:start till:259 text:"259"
+  bar:1930 from:start till:246 text:"246"
+  bar:1941 from:start till:254 text:"254"
+  bar:1950 from:start till:266 text:"266"
+  bar:1960 from:start till:294 text:"294"
+  bar:1970 from:start till:354 text:"354"
+  bar:1980 from:start till:559 text:"559"
+  bar:1990 from:start till:671 text:"671"
+  bar:2000 from:start till:798 text:"798"
+
+
+==Politics==
+In the 2007 federal election the most popular party was the SP which received 27.17% of the vote.  The next three most popular parties were the CVP (26.51%), the FDP (21.86%) and the Ticino League (13.94%).  In the federal election, a total of 262 votes were cast, and the voter turnout was 45.5%.Swiss Federal Statistical Office, Nationalratswahlen 2007: Stärke der Parteien und Wahlbeteiligung, nach Gemeinden/Bezirk/Canton   accessed 28 May 2010
+
+In the  Gran Consiglio election, there were a total of 576 registered voters in Gordevio, of which 358 or 62.2% voted.  3 blank ballots were cast, leaving 355 valid ballots in the election.  The most popular party was the PS which received 88 or 24.8% of the vote.  The next three most popular parties were; the PPD+GenGiova (with 85 or 23.9%), the SSI (with 73 or 20.6%) and the LEGA (with 44 or 12.4%). Elezioni cantonali: Gran Consiglio, Consiglio di Stato   accessed 23 November 2010
+
+In the  Consiglio di Stato election, 4 blank ballots and 1 null ballot were cast, leaving 353 valid ballots in the election.  The most popular party was the PS which received 97 or 27.5% of the vote.  The next three most popular parties were; the PPD (with 88 or 24.9%), the LEGA (with 73 or 20.7%) and the SSI (with 50 or 14.2%).
+
+==Economy==
+There were 318 residents of the village who were employed in some capacity, of which females made up 41.2% of the workforce.  , there were 86 workers who commuted into the village and 226 workers who commuted away.  The village is a net exporter of workers, with about 2.6 workers leaving the village for every one entering.  About 14.0% of the workforce coming into Gordevio are coming from outside Switzerland.Swiss Federal Statistical Office - Statweb  accessed 24 June 2010
+
+==Religion==
+From the , 632 or 79.2% were Roman Catholic, while 52 or 6.5% belonged to the Swiss Reformed Church.  Of the rest of the population, there were 2 members of an Orthodox church (or about 0.25% of the population), and there was 1 individual who belongs to another Christian church.  There was 1 individual who was Islamic.  80 (or about 10.03% of the population) belonged to no church, are agnostic or atheist, and 30 individuals (or about 3.76% of the population) did not answer the question.
+
+==Education==
+In Gordevio about 313 or (39.2%) of the population have completed non-mandatory upper secondary education, and 77 or (9.6%) have completed additional higher education (either University or a Fachhochschule).  Of the 77 who completed tertiary schooling, 55.8% were Swiss men, 37.7% were Swiss women.  , there were 3 students in Gordevio who came from another village, while 105 residents attended schools outside the village.
+

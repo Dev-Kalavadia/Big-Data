@@ -1,0 +1,34 @@
+Title: M. S. Narasimhan
+
+
+
+
+Mudumbai Seshachalu Narasimhan  (7 June 1932 – 15 May 2021) was an Indian mathematician. His focus areas included number theory, algebraic geometry, representation theory, and partial differential equations. He was a pioneer in the study of moduli spaces of holomorphic vector bundles on projective varieties. His work is considered the foundation for Kobayashi–Hitchin correspondence that links differential geometry and algebraic geometry of vector bundles over complex manifolds. He was also known for his collaboration with mathematician C. S. Seshadri, for their proof of the Narasimhan–Seshadri theorem which proved the necessary conditions for stable vector bundles on a Riemann surface.
+
+He was a recipient of the Padma Bhushan, India's third highest civilian honor, in 1990, and the Ordre national du Mérite from France in 1989. He was an elected Fellow of the Royal Society, London. He was also the recipient of Shanti Swarup Bhatnagar Prize in 1975 and was the only Indian to receive the King Faisal International Prize in the field of science.
+
+== Early life ==
+Narasimhan was born on 7 June 1932 into a rural family in Tandarai in present day Tamil Nadu, as the eldest among five children. His family hailed from the North Arcot district. After his early education in rural part of the country, he joined Loyola College in Madras for his undergraduate education. Here he studied under Father Charles Racine, a French Jesuit professor, who in turn had studied under the French mathematician and geometer Élie Cartan. He joined the Tata Institute of Fundamental Research (TIFR), Bombay, for his graduate studies in 1953. He obtained his Ph.D. from the University of Mumbai in 1960 where his advisor was the mathematician K. S. Chandrasekharan, who was known for his work on number theory.
+
+== Career ==
+Narasimhan started his career in 1960 when he joined the faculty of the Tata Institute of Fundamental Research (TIFR); he later went on to become an honorary fellow. His areas of focus while at TIFR included studying partial differential operators and elliptic operators. During this time, he visited France under the invitation of Laurent Schwartz and was exposed to the works of other French mathematicians including Jean-Pierre Serre, Claude Chevalley, Élie Cartan, and Jean Leray. He contracted pleurisy during his time in France and was hospitalized. He would later recount the incident as exposing him to the "real France" and further strengthening his leftist sympathies which were already triggered by his interactions with the Trotskyist Schwartz.
+
+During his time in France he also collaborated with Japanese mathematician Takeshi Kotake working on the analyticity theorems for determining specific types of elliptic operators that satisfied Cauchy–Schwarz inequalities. His work with Kotake was known as the Kotake–Narasimhan theorem for elliptic operators in the setting of ultradifferentiable functions.
+
+He collaborated with Indian mathematician C. S. Seshadri for the ground-breaking Narasimhan–Seshadri theorem which has been at the core of algebraic geometry and number theory for over half a century. The theorem derived the relation between the purely algebraic notion of stable vector bundles on Riemann surfaces. The theorem made a connection between two areas of modern geometry viz. differential geometry and algebraic geometry. Both Seshadri and Narasimhan were elected Fellows of the Royal Society for their work on this topic. He also collaborated with mathematician R. R. Simha on proving the existence of moduli of general type complex structures on a real analytic manifold. These measures were called Simha–Narasimhan measures on Riemann surfaces.
+
+For his work, Narasimhan was considered a pioneer in the study of moduli spaces of holomorphic vector bundles on projective varieties. His work is considered the foundation for Kobayashi–Hitchin correspondence that links differential geometry and algebraic geometry of vector bundles over complex manifolds.
+
+When the National Board of Higher Mathematics was established in India, Narasimhan was the first chairman of the board. In 1992, Narasimhan retired from TIFR, and became the head of the research group in Mathematics at the International Centre for Theoretical Physics in Trieste. He had also served as a visiting scholar at the Institute for Advanced Study, in Princeton, New Jersey in 1968.  After retiring from ICTP, he settled in Bangalore.
+
+He was a Fellow of the Royal Society, London as well as recipient of French National Order of Merit in 1989. He was awarded the Padma Bhushan, India's third highest civilian honor, in 1990. He was also the recipient of the Shanti Swarup Bhatnagar Prize in 1975, Third World Academy of Sciences Prize for Mathematics in 1987, and the Srinivasa Ramanujan Medal in 1988. He was also the recipient of the King Faisal International Prize for Science in 2006, and award that he won jointly with mathematician Simon Donaldson, Imperial College.*Donaldson and Narasimhan Receive 2006 King Faisal Prize - Notices of the American Mathematical Society, March 2006, Volume 53, Number 3. As of 2021, he was the only Indian to have won the King Faisal International Prize for Science.
+
+== Personal life ==
+Narasimhan was married to Sakuntala Narasimhan, a classical musician, journalist and a consumer rights activist. The couple had a daughter, Shobhana Narasimhan, a scientist and professor at Jawaharlal Nehru Centre for Advanced Scientific Research, and a son. Narasimhan was interested in Indian classical music, contemporary art and painting, as well as Tamil literature.
+
+Narasimhan died on 15 May 2021, in Bangalore at the age of 88. He had been undergoing treatment for cancer for the previous year.
+
+==Selected publications==
+* 
+* 
+

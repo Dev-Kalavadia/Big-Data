@@ -1,0 +1,32 @@
+Title: Pederin
+
+Pederin is a vesicant toxic amide with two tetrahydropyran rings, found in the haemolymph of the beetle genus Paederus, including the Nairobi fly, belonging to the family Staphylinidae. It was first characterized by processing 25 million field-collected P. fuscipes.Bugs Don’t Have to Bite to Do Damage:The Tale of the Paederus Beetle   It makes up approximately 0.025% of an insects weight (for P. fuscipes).
+
+It has been demonstrated that the production of pederin relies on the activities of an endosymbiont (Pseudomonas ssp.) within Paederus.
+
+The manufacture of pederin is largely confined to adult female beetles—larvae and males only store pederin acquired maternally (i.e., through eggs) or by ingestion.
+
+==Physical effects==
+Skin contact with pederin from the coelomic fluid exuded from a female Paederus beetle causes Paederus dermatitis. This is a rash that varies from a slight erythema to severe blistering, depending on the concentration and duration of exposure. Treatment involves washing the irritated area with cool soapy water. Application of a topical steroid is also recommended for more intense exposures.Paederus Dermatitis These measures can significantly reduce the physical effects the toxin has on the affected area.
+
+thumb|left|Paederus littoralis
+
+==Synthesis==
+An efficient total synthesis of pederin is known. Beginning with (+)-benzoylselenopederic acid, Zn(BH4)2 reduction is applied, introducing stereoselective reduction of the acyclic ketone. Michael addition of nitromethane is performed. After several steps of Moffatt oxidation, phenylselenation, hydrolysis, and reduction, pederic acid is reached.
+
+The final steps of the synthesis of pederin are shown to the right. Here, pederic acid is added to the protected compound in LiHMDS and THF, producing a 75% yield. The protecting groups are then removed using TBAF and a hydrolytic quench. This step gives an 88% yield.
+
+thumb|Pederin Synthesis
+
+==Mode of action==
+Pederin blocks mitosis at levels as low as 1 ng/ml, by inhibiting protein and DNA synthesis without affecting RNA synthesis, prevents cell division, and has been shown to extend the life of mice bearing a variety of tumors. For these reasons, it has garnered interest as a potential anti-cancer treatment.
+
+==Uses==
+Pederin and its derivatives are being researched as anticancer drugs. This family of compounds is able to inhibit protein and DNA biosynthesis, making it useful to slow the division of cancer cells. One derivative of pederin, psymberin, has been found to be highly selective in targeting solid tumor cells.
+
+==See also==
+* Psymberin
+* Paederus dermatitis
+* Cycloheximide
+* Christmas eye
+

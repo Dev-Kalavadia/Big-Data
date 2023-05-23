@@ -1,0 +1,33 @@
+Title: Sybase iAnywhere
+
+
+
+Sybase iAnywhere, is a subsidiary of Sybase specializing in mobile computing, management and security and enterprise database software. SQL Anywhere, formerly known as SQL Anywhere Studio or Adaptive Server Anywhere (ASA), is the company's flagship relational database management system (RDBMS). SQL Anywhere powers popular applications such as Intuit, Inc.'s QuickBooks, and the devices of 140,000 census workers during the 2010 United States Census. The product's customers include Brinks, Kodak, Pepsi Bottling Group (PBG), MICROS Systems, Inc. and the United States Navy. In August 2008.
+
+Sybase iAnywhere mobility products include Sybase Unwired Platform. a platform for mobile enterprise application development.  It combines tooling and integration with standard development environments. Afaria provides mobile device management and security capabilities to ensure that mobile data and devices are up-to-date, reliable and secure.  Afaria is currently being used by Novartis and United Utilities among others.  iAnywhere Mobile Office, formerly known as OneBridge, is specifically designed to securely extend email and business processes to wireless devices.
+
+RFID Anywhere, is a software platform designed to simplify radio frequency identification (RFID) projects, including the development, deployment and management of highly distributed, multi-site networks. Through the 2006 acquisition of Extended Systems, Inc., Sybase iAnywhere is now providing wireless connectivity, device management and data synchronization software. Its software development kits (SDKs) for Bluetooth, IrDA, OMA (Open Mobile Alliance) Device Management and OMA Data Synchronization protocols are used by cellphone and automobile manufacturers worldwide in Original Equipment Manufacturer (OEM) and Original Design Manufacturer (ODM) applications. XTNDConnect PC, available for OEM/ODM applications, as well as for direct purchase, is a software application based on this technology that helps millions of consumers sync their mobile phones and devices with PC applications.
+
+==History==
+Watcom International Corporation was founded in 1981 in Waterloo, Ontario, Canada. Watcom produced a variety of tools, including the well-known Watcom C compiler introduced in 1988. In 1994 Powersoft acquired Watcom, merging with Sybase just one year later. In 2000, Sybase iAnywhere was formed as a wholly owned subsidiary consisting of the former mobile and embedded computing division. iAnywhere played an important role in Sybase's Unwired Enterprise strategy, which focuses on managing and mobilizing information from the data center to the point of action.  In 2010 Sybase (along with iAnywhere) was acquired by SAP and is now known as Sybase, an SAP Company.
+
+==Products==
+
+===Database ===
+*Advantage Database Server (ADS): A client/server back-end for shared, networked, standalone, mobile and Internet database applications. Advantage provides both ISAM table-based and SQL based data access.
+*SQL Anywhere: A data management and enterprise data synchronization for development of applications for mobile, remote and small to medium-sized business environments.
+
+===Management and security===
+*Afaria: Allows companies to centrally manage and secure technology, mobile data and devices used at the front lines of business.
+*RemoteWare: Retail polling, file transfer, and content distribution to move sales data between retail or hospitality sites and the headquarters of an organization.
+
+===Enterprise mobile===
+*Sybase unwired platform: A platform for mobile enterprise application development. It provides a set of services that allow customers to mobilize data and business processes for enterprises using a variety of mobile devices.
+*iAnywhere mobile office: Secure mobile email and business process mobilization, combines infrastructure support with enhanced on-device security, usability and performance.
+*M-Business Anywhere: A scalable platform for delivering Web-based applications and content to mobile devices. Supports both secure wireless and off-line access to information. M-Business Anywhere is the technology behind the AvantGo internet service.
+*Answers Anywhere: A middleware platform with context understanding and natural language capabilities, allowing end-users to ask for information and transactions in their own words, and in any language, using a wireless phone, a handheld PDA, a customized console, or a desktop computer.
+
+==See also==
+* IvanAnywhere
+* SQL Anywhere
+

@@ -1,0 +1,118 @@
+Title: Semi-trailer
+
+
+
+
+A semi-trailer is a trailer without a front axle. In the United States, the term is also used to refer to the combination of a truck and a semi-trailer; a tractor-trailer.
+
+A large proportion of a semi-trailer's weight is supported by a tractor unit, or a detachable front-axle assembly known as a dolly, or the tail of another trailer. The other portion of the semi-trailer's weight is semi-supported (half-supported) by its own wheels, which only support the rear of the semi-trailer. A semi-trailer is normally equipped with landing gear (legs which can be lowered) to support it when it is uncoupled. Many semi-trailers have wheels that are capable of being totally dismounted and are also relocatable (repositionable) to better distribute load to bearing wheel weight factors. Semi-trailers are more popular for transport than full trailers, which have both front and rear axles.  Ease of backing is cited as one of the semi's chief advantages. A road tractor coupled to a semi-trailer is often called a semi-trailer truck or "semi" in North America and Australia, and an articulated lorry or "artic" in the UK.
+
+Semi-trailers with two trailer units are called B-doubles (Australian English) or tandem tractor-trailers, tandem rigs, or doubles (American English). Other terms used are "B-train"  or (when there are three or more trailers) "road train". A double-trailer combination is possible with the use of a dolly, or "converter dolly" (Australian and American English), essentially one to three additional axles placed under the front of a second semi-trailer. The first semi-trailer is connected to the power unit using the tractor's fifth wheel coupling while the converter dolly, already attached to the second semi-trailer, is connected to the first semi-trailer with a drawbar. In Australian English, the tractor unit is called a "prime-mover", and the combination of a prime-mover and trailer is known as a "semi-trailer", "semi" or single. Some popular manufacturers are Kenworth, Freightliner, Peterbilt, and Mack
+
+==Properties==
+right|thumb|A 1920 advertisement for semi-trailers
+
+Semi-trailers were invented by August Fruehauf in 1914.
+
+Road tractors and semi-trailers are responsible for carrying a large proportion of cargo. With 1,170,117 million tonne-kilometers transported this way in the European Union, including the UK, road tractors and semi-trailers are 77.6% of the total tonne-kilometers transported in 2015, according to Eurostat.Eurostat (PDF)
+
+In road haulage, semi-trailers predominate over full trailers because of their flexibility. The trailers can be coupled and uncoupled quickly, allowing them to be shunted for loading and to be trucked between depots. If a power unit fails, another tractor can replace it without disturbing the cargo.
+
+Compared with a full trailer, a semi-trailer attached to a tractor unit is easier to reverse, since it has only one turning point (the coupling), whereas a full trailer has two turning points (the coupling and the drawbar attachment). Special tractors are known as shunt trucks or shuttle trucks can easily maneuver semi-trailers at a depot or loading and unloading ferries. These tractors may lift the coupling so the trailer legs clear the ground.
+
+A rigid truck and full trailer are articulated inside the cargo area length, so a semi-trailer can have a longer continuous cargo area. Because of this, a semi-trailer can haul longer objects, (logs, pipe, beams, railway track). This depends on the legislation; in some European countries, a full trailer can be as long as a semi-trailer. However, since a rigid truck is longer than a semi-tractor, this increases the overall length of the combination, making it less maneuverable.
+
+For heavy haulage or for increased manoeuvrability, some semi-trailers are fitted with rear-wheel steering, controlled electro-hydraulically. 
+The wheels on all or some of the rear axles may be turned through different angles to enable tighter cornering, or through the same angle (so-called 'crab' steering) to move the rear of the trailer laterally.
+
+==Couplings==
+The two types of couplings are fifth-wheel coupling and automatic.  In some applications, no separable coupling is fitted, and the trailer is bolted to the tractor unit, using a bearing, and rocker feet as are used under a fifth wheel skid plate.
+
+===Fifth-wheel coupling===
+The towing vehicle has a wide coupling plate known as a fifth-wheel coupling bolted onto its chassis, on which the semi-trailer rests and pivots.  As the tractor reverses under the trailer, a kingpin under the front of the trailer slides into a slot in the skid plate, and the jaws of the fifth wheel close onto it.  The driver has to raise the trailer legs manually and couple the airbrake lines and electrical cables. Some low-set trailers such as lowboys/low-loaders and car transporters have electrically powered landing gear due to the necessarily low clearance prohibiting conventional landing gear.
+
+===Automatic couplings===
+Many years ago, automatic couplings predominated, but have not been used now for around 50 years. Automatic couplings were generally used for payloads of  or less, e.g. on the Scammell Mechanical Horse. The Scammell coupler was initially very popular and fitted to many other makes of trucks.
+
+No coupling plate is used on the tractor; a turntable is permanently fixed to the underside of the trailer.  This locks to the chassis of the tractor.  When the tractor reverses under the trailer, its legs rise, and the brake and electrical connections are made automatically.  Almost the entire coupling and uncoupling procedure is operated by the driver from inside the cab, except that he or she has to descend to release (or apply) the trailer parking brake.
+
+==Types==
+Different types of semi-trailers are designed to haul different cargoes.
+
+Common widths are , and . Generally speaking, most North American type trailers use two axles with dual-tire hubs totaling 8 wheels, while most European type trailers use three axles with single-tire hubs totaling 6 wheels, with one of the axles being able to be lifted for lighter loads and saving on tire, brake, and axle wear. Nearly all sufficiently tall modern trailers are equipped with a rear underride guard to prevent cars from passing beyond the rear edge of the trailer, and most also have side underride guards for the same reason. There are also other smaller differences with regards to kingpin depth, lighting, door locks, et cetera, though most purpose-built tractor trucks can carry most types of trailer regardless of which continent it was built on and the differences therein.
+*Box or van trailers are the most common type. They are quite simply a metal box on wheels with some doors on the back, though some offer additional access doors on the sides. Standard lengths in North America are , , , , , , ,  and . Due to maximum length regulations and the need to maximize cargo within said regulations, almost all European semi-trailers are  in length.
+*Bus-bodied trailers are hitched to a tractor unit to form a trailer bus, a simple alternative to building a rigid bus.
+*Car carrier trailers carry multiple cars, usually new cars from the manufacturer. In the US and elsewhere, car carriers often carry used vehicles as well. Similar variants can carry forklift trucks, light commercial vehicles, and agricultural tractors. Single-deck versions are used for larger vehicles.
+*Conestoga trailers are a special form of a flatbed trailer with a flexible retractable roof and siding used to carry large pieces of equipment that can only be lifted by an overhead crane, but which also need protection from the weather during transit.
+*Curtain siders or tautliners are similar to box trailers except the sides are movable curtains made of reinforced fabric coated with a waterproof coating. To put it another way, it is basically a flatbed trailer with additional aerodynamic and weather protection as well as greater load security. They generally have a restraining system of straps and buckles every foot (30 cm) or so to keep the curtain tight and adverse to the elements. Also, some have removable gates mounted into the trailer, to help reinforce the load and prevent bulges. The purpose of a curtain sider is to combine the security and weather resistance of a box trailer with the ease of loading of a flatbed. Curtain siders are one of the most common trailer types in Europe.
+*Drop-deck trailers (or step-frame trailer) have a floor that drops down a level once clear of the tractor unit; the most common types of drop-deck trailers are flatbeds and curtain siders.
+*Double deckers or deckers have either a fixed, hinged, or moveable second floor to enable them to carry more palletized goods. In general, a double-decker can carry 40 pallets, as opposed to 26 for a standard trailer. Double-deck trailers are generally a step-frame construction with the majority being either box or curtain siders, with box trailers having either a fixed or movable (floating) deck, and curtain sides having either a fixed or hinged second deck; this hinged second deck generally swings into a position down the length of the trailer and can be divided into two or three sections to allow greater load flexibility. In Australia and New Zealand, they are known as mezzanine trailers or mezz-decks for short.
+*Dry bulk ("British" powder tankers) trailers resemble big tankers but are used for cement, sand, barite, flour, and other dry powder materials.
+*Dump trailers ("British" Tippers) are trailers in which one end can be raised to allow the cargo (often building materials or Agricultural produce) to slide out the other end. Commonly, they are hinged at the rear and raised at the front, but side-unloading dump trailers also are used.
+*Flatbeds, or flat decks, consist of just a load floor and removable side rails and a bulkhead in front to protect the tractor in the event of a load shift. They can haul almost anything that can be stacked on and strapped down. 
+*Hopper bottoms are usually used to haul grain, but can be used to haul other materials.
+*Inloaders are used to transport glass panes on stillages. They feature an open bottom to maximize loading height and the entire trailer can be lifted and lowered during loading, to allow safe loading of fragile glass panels.
+*Intermodal trailers are similar in frame design to box trailers, but without any sort of integral cargo-carrying ability as they are designed to carry a variety of standard Intermodal containers
+*Live bottom trailers have a conveyor belt on the bottom of the trailer tub that pushes the load material out of the back of the trailer. The tub does not have to be raised to deposit the materials.
+*Livestock trailers are used to haul livestock such as cattle, horses, pigs, sheep, etc. Commonly, they have two levels (or three for hogs) to maximize capacity.
+*Lowboy ("British/Australian" low-loader) trailers are a type of flatbed in which the load floor is as close to the ground as possible, most commonly used to haul heavy equipment, cranes, bulldozers, etc.
+*Refrigerator trailers are box trailers with a heating/cooling unit (reefer) attached and insulated walls, used for hauling produce, frozen foods, meat, flowers, etc. Not quite as common but they are also produced in tautliner models with thicker curtains to sustain temperature.
+*Refrigerator tank trailers are well insulated or refrigerated to haul bulk liquid foods, such as liquid sugar, water, wine, milk or juices.
+*Semi-trailers with sidelifters  have a hydraulic crane mounted at each end of the chassis allowing for the loading and unloading of shipping containers without the need of a forklift or other container-handling equipment. Also known as a Sideloader.
+*Side bay trailers have a series of roll-up or panel doors down each side. Each door opens into individual compartments. These trailers are most commonly used in the beverage distribution industry.
+*Tank chassis or tank trailers are used for hauling liquids such as gasoline and alcohol, or various types of gases. They are similar in principle to intermodal trailers but with a very different frame intended to be attached to a liquid or gas tank, hence the name. Some are designed with a lowered centre of gravity to ensure greater stability. Generally bottom loaded with the ability to recover any waste vapor for safety reasons.
+* A "frac" tank trailer has a single and fixed axle, and is typically used during hydraulic fracturing at oil wells or for petrochemical industries. It is shaped like a wedge, and when it is unhitched, its bottom side lies flat on the ground.
+* "Wing" trailers are mostly found in Japan and are something of a hybrid between a curtain sider and a box trailer, with rigid, motorized Gull-wing doors in place of the fabric curtains. Also found as part of a rigid box truck.
+
+=== Tank trailer ===
+A tank trailer is a semi-trailer specifically designed to carry liquids, fluids and gases.Tank trailer
+
+== Gallery ==
+
+File:2008-08-02 UPS long trailer 1.jpg|Box trailer (US)
+File:KühneNagelAuflieger.jpg|Curtain sider trailer (EU)
+File:WieltonMuldenkipper.jpg|Semi dump trailer (EU)
+File:Caminhaocegonha.jpg|Auto transporter (Brazil)
+File:SinoTruk HOWO Iran.jpg|Flatbed trailer (Iran)
+File:Live bottom pic 1.jpg|Live bottom trailer (US)
+File:Glas-Innenlader für Flachglas.jpg|Glass inloader trailer (Germany)
+File:Globe Trailers Lowboy with Volvo A300.jpg|Lowboy (US)
+File:Sainsburys lorry refrigerated trailer.jpg|Refrigerated trailer (UK)
+File:Sidelifter in forest.jpg|Sidelifter (New Zealand)
+File:Tank truckタンクローリー9274341.jpg|Tank trailer (Japan)
+File:Gullwing Trailer.jpg|Gullwing trailer 
+File:Road train (27).jpg|thumb|53 foot container turnpike doubles
+File:Loves Freightliner tanker truck, southern Oklahoma.jpg|Tank trailer
+
+
+==See also==
+
+*Air brake (road vehicle)
+* Articulated lorries
+*Articulated vehicle
+*Brake
+*Cargo
+*Fifth-wheel coupling
+*Fruehauf Corporation
+*Gladhand connector
+*Globe Trailers
+*Trailer jack
+*Jackknifing
+* Live bottom trailer
+*Long combination vehicle
+*Refrigerated container
+*Refrigerator truck
+*Roll trailer
+*Self unloading trailer
+*Semi-trailer truck
+*Shunt truck
+* Side stake
+*Swap body
+* Tank chassis
+*Teardrop trailer (truck)
+*Trailer
+*Trailer skirt
+*Trailer tail
+*Vehicle category
+
+

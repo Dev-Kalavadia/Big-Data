@@ -1,0 +1,28 @@
+Title: Runyon classification
+
+The Timpe and  Runyon classification of nontuberculous mycobacteria based on the rate of growth, production of yellow pigment and whether this pigment was produced in the dark or only after exposure to light.
+
+It was introduced by Ernest Runyon in 1959.
+
+On these bases, the nontuberculous mycobacteria are divided into four groups:
+
+==Slowly growing Mycobacteria==
+
+The first three groups are classified as "Slowly growing Mycobacteria".
+
+===Runyon I:  Photochromogens===
+Runyon I organisms (photochromogens) are slow growing, and produce a yellow-orange pigment when exposed to light.  The group includes
+Mycobacterium kansasii, Mycobacterium marinum, Mycobacterium asiaticum, and Mycobacterium simiae. Mycobacterium szulgai is a photochromogen when grown at 24 degrees, and a scotochromogen at 37 degrees. In contrast, Runyon classifications III through IV are considered nonphotochromogens, in that exposure to light does not make them produce pigment which they would not develop in dark growing conditions.
+
+===Runyon II: Scotochromogens===
+Runyon II organisms (scotochromogens) are slow-growing and produce a yellow-orange pigment regardless of whether they are grown in the dark or the light.  The group includes Mycobacterium gordonae and Mycobacterium scrofulaceum, among others. Mycobacterium szulgai is a scotochromogen when grown at 37 degrees, as mentioned above.
+
+===Runyon III: Nonchromogens===
+Runyon III organisms (nonchromogens) are slow-growing and never produce pigment, regardless of culture conditions.  The group includes Mycobacterium avium and Mycobacterium intracellulare (together known as the MAC complex), Mycobacterium tuberculosis, Mycobacterium ulcerans and numerous other organisms.
+
+==Runyon IV:  Rapid Growers==
+Runyon IV organisms are rapid growing for mycobacteria (colonies in 5 days).  They do not produce pigment.
+Mycobacterium fortuitum, Mycobacterium peregrinum, Mycobacterium abscessus, Mycobacterium chelonae, Mycobacterium thermoresistibile.
+
+Some rapidly growing mycobacteria are considered "late-pigmenting".
+

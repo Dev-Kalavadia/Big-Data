@@ -1,0 +1,18 @@
+Title: Cleavage factor__NOTOC__
+Cleavage factors are two closely associated protein complexes involved in the cleavage of the 3' untranslated region of a newly synthesized pre-messenger RNA (mRNA) molecule in the process of gene transcription. The cleavage is the first step in adding a polyadenine tail to the pre-mRNA, which is one of the necessary post-transcriptional modifications necessary for producing a mature mRNA molecule.
+
+In mammals, the two cleavage factors are known as CFIm and CFIIm. The proteins that constitute these complexes are recruited to the cleavage site by cleavage and polyadenylation specificity factor and cleavage stimulatory factor, and form a larger complex that also includes polyadenine polymerase, which performs the polyadenylation reaction.
+
+==The CFIm complex==
+Involved in the earliest step for the formation of the active cleavage complex, the CFIm complex is formed by three proteins of 25, 59 and 68 kDa, respectively:
+*CFIm25 (or CPSF5/NUDT21)
+*CFIm59 (or CPSF7)
+*CFIm68 (or CPSF6)
+
+CFIm25 and CFIm68 are sufficient for the activity of the complex, proving the expected redundancy of CFIm68 and CFIm59, which share great sequence similarity.
+
+==The CFIIm complex==
+The CFIIm complex is responsible for transcription termination and triggering the disassembly of the elongation complex. It is composed of only two proteins:
+*PCF11
+*CLP1
+

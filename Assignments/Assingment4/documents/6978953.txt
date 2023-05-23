@@ -1,0 +1,68 @@
+Title: Beswick v Beswick
+
+
+ was a landmark English contract law case on privity of contract and specific performance. The Lords, overruling the decision of Lord Denning in the Court of Appeal, ruled that a person who was not party to a contract had no independent standing to sue to enforce it, even if the contract was clearly intended for their benefit.
+
+Today the judicial precedent has been codified by statute in the United Kingdom, and Lord Denning's decision has largely been given effect by the Contracts (Rights of Third Parties) Act 1999. However the case remains good law in many other Commonwealth common law jurisdictions.
+
+==Facts==
+Lord Denning in the Court of Appeal started describing the facts of the case in the following way.
+
+
+
+The agreement was that Peter assign his business to his nephew in consideration of the nephew employing him for the rest of his life and then paying a weekly annuity to Mrs Beswick. Since the latter term was for the benefit of someone not party to the contract, the nephew did not believe it was enforceable and so did not perform it, making only one payment of the agreed weekly amount of 5 pounds.
+
+The nephew argued that as Mrs Beswick was not a party to the contract, she was not able to enforce it due to the doctrine of privity of contract.
+
+==Decision==
+
+===Court of Appeal===
+Lord Denning held that Mrs Beswick was entitled to claim in her capacity as a third party intended to benefit from the contract. He said,[1968] Ch. 538, 557
+
+
+
+Danckwerts LJ and Salmon LJ concurred in the result, though not with Lord Denning's reasoning.
+
+===House of Lords===
+
+The House of Lords disagreed with Lord Denning in the Court of Appeal, that the law allowed third parties to sue to enforce benefits under a contract. However, they held that Mrs Beswick in her capacity as Mr Beswick's administratrix (i.e. as the person representing someone's estate who dies without a will) could enforce the nephew's promise to pay Mrs Beswick an annuity. Furthermore, Mrs Beswick was entitled to specific performance of the contract.
+
+Lord Reid's judgment outlined the details, with which Lords Hodson, Pearce, Upjohn and Guest concurred.
+
+
+
+==Significance==
+In Smith and Snipes Hall Farm Ltd v River Douglas Catchment Board [1949] 2 KB 500, 514, Denning LJ had already tried to dispose of the English doctrine of privity. He had said,
+
+
+
+In Australia, Coulls v. Bagot's Executor and Trustee Co Ltd (1967) 119 CLR 460 shows the approach has been similar. Here the contract was between a husband (Mr Coulls) and a company (Bagot's). Mrs Coulls was not a party to it.  Even if she was, she would not be able to enforce it, as she gave no consideration. Bagots was entitled to the benefit of this contract as executor of Mr Coull's Estate.
+
+Many people, including judges had called for statutory reform and in England this came in the form of the Contracts (Rights of Third Parties) Act 1999, which gives a general right to enforce the benefit of a contract when one was either expressly identified as being able to enforce it, or one was intended to benefit.
+
+==See also==
+
+*English contract law
+*Contracts (Rights of Third Parties) Act 1999
+*Tweddle v Atkinson (1861) 1 B&S 393, the traditional rule of privity
+*Dunlop Pneumatic Tyre Co Ltd v Selfridge & Co Ltd [1915] AC 847, affirming the privity rule 50 years later in a resale price maintenance case.
+
+==Further reading==
+*Flannigan, 'Privity - The End of an Era (Error)' (1987) 103 Law Quarterly Review 564
+*Robert Stevens, 'The Contracts (Rights of Third Parties) Act 1999' (2004) 120 Law Quarterly Review 292
+*Dutton v Poole (1678) 2 Lev 211, for an old case where it was held that third parties could enforce a benefit
+*Scruttons v Midland Silicones Ltd [1962] AC 446, the privity rule applied to a clause excluding liability in tort
+
+==Notes==
+
+
+==External links==
+* full text of House of Lords decision
+* Full text of decision from bailii.org
+
+Category:1967 in case law
+Category:Lord Denning cases
+Category:English privity case law
+Category:English remedy case law
+Category:1967 in British law
+Category:House of Lords cases

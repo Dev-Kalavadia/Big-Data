@@ -1,0 +1,32 @@
+Title: Akizuki-class destroyer (1959)
+
+{|
+
+
+
+|}
+The Akizuki-class destroyer was a destroyer class built for the Japan Maritime Self-Defense Force (JMSDF) in the late 1950s. This class was planned to be a flotilla leader with the enhanced command and control capability, so sometimes this class was classified as the "DDC" (commanding destroyer) unofficially.
+
+==Design==
+Initially, the American Military Assistance Advisory Group-Japan (MAAG-J) recommended a modified version of the American , but Japan had already constructed surface combatants of their own at that time. As a result, the project of this class was financed by the Off Shore Procurement (OSP) of the United States, but design and construction were completely indigenous.
+
+Like its predecessors, the  and es, this class adopted a "long forecastle" design with inclined afterdeck called "Holland Slope", named after the scenic sloping street in Nagasaki City. With the enlargement of the hull, the steam turbine propulsion system was uprated with higher-pressure boilers (570 psi).
+
+This class was equipped with both gunnery weapons of the Murasame class and the torpedo/mine weapons of the Ayanami class. And alongside these anti-submarine weapons similar to them of the Ayanami class, the Akizuki class were the first vessels equipped with a Mk.108 Weapon Alpha. While the JMSDF desired this American ASW rocket launcher originally, it became clear that its performance wasn't as good as it was believed. It was later replaced by a Type 71  quadruple ASW rocket launcher (Japanese version of the Swedish M/50) in 1976.
+
+{|class=wikitable
+! Pennant no. || Name || Laid down || Launched || Commissioned || Decommissioned
+|-
+| DD-161ASU-7010 ||  || 31 July 1958 || 26 June 1959 || 13 February 1960  || 7 December 1993
+|-
+| DD-162ASU-7012TV-3504 ||  || 15 August 1958 || 24 June 1959 || 29 February 1960  || 27 September 1993
+|}
+
+== References ==
+
+
+
+
+
+Category:Destroyer classes
+ 

@@ -1,0 +1,57 @@
+Title: Lidzbark County
+__NOTOC__
+Lidzbark County () is a unit of territorial administration and local government (powiat) in Warmian-Masurian Voivodeship, northern Poland. Its administrative seat and largest town is Lidzbark Warmiński, which lies  north of the regional capital Olsztyn. The only other town in the county is Orneta, lying  west of Lidzbark Warmiński.
+
+The county covers an area of . As of 2006 its total population is 43,006, out of which the population of Lidzbark Warmiński is 16,390, that of Orneta is 9,380, and the rural population is 17,236.
+
+==History==
+Lidzbark County came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998.
+
+==Neighbouring counties==
+Lidzbark County is bordered by Bartoszyce County to the north-east, Olsztyn County to the south, Ostróda County to the south-west, and Elbląg County and Braniewo County to the west.
+
+==Administrative division==
+The county is subdivided into five gminas (one urban, one urban-rural and three rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km2)
+| style="text-align:center;"|Population(2006)
+| style="text-align:center;"|Seat
+|-
+|Lidzbark Warmiński
+|urban
+| style="text-align:right;"|14.3
+| style="text-align:right;"|16,390
+| 
+|-
+|Gmina Orneta
+|urban-rural
+| style="text-align:right;"|244.1
+| style="text-align:right;"|12,701
+|Orneta
+|-
+|Gmina Lidzbark Warmiński
+|rural
+| style="text-align:right;"|371.0
+| style="text-align:right;"|6,733
+|Lidzbark Warmiński *
+|-
+|Gmina Lubomino
+|rural
+| style="text-align:right;"|149.6
+| style="text-align:right;"|3,717
+|Lubomino
+|-
+|Gmina Kiwity
+|rural
+| style="text-align:right;"|145.4
+| style="text-align:right;"|3,465
+|Kiwity
+|-
+|colspan=5 style="text-align:right;font-size:90%"|* seat not part of the gmina
+|-
+|}
+

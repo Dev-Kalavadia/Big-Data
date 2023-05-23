@@ -1,0 +1,24 @@
+Title: Directory Services Restore Mode
+Directory Services Restore Mode (DSRM) is a function on Active Directory Domain Controllers to take the server offline for emergency maintenance, particularly restoring backups of AD objects. It is accessed on Windows Server via the advanced startup menu, similarly to safe mode.
+
+== Password ==
+In Windows 2000, the DSRM password is typically created as a null value (blank), which is also the Recovery Console password. Starting with Windows Server 2003, a DSRM password must be defined when the domain controller is promoted.
+
+Anyone with the password who has access to the domain controller can reboot the machine, copy and modify the Active Directory database, and reboot the server without leaving any trace of the activity.  DSRM password changes cannot be scripted, but can be accomplished manually through the command line; DSRM passwords can also be automatically changed and audited using Privileged Identity Management software.
+
+== Alternatives ==
+On Windows Server 2008 R2, an "Active Directory Recycle Bin" was added, which allows on-line restoration of accidentally-deleted AD objects. Its functionality is reminiscent of Windows' own Recycle Bin function.
+
+== See also ==
+* List of Microsoft Windows components
+
+== References ==
+
+
+== External links ==
+* Securing the DSRM Password
+* Restart the domain controller in Directory Services Restore Mode locally
+
+Category:Active Directory
+
+

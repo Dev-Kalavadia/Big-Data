@@ -1,0 +1,58 @@
+Title: Kędzierzyn-Koźle County
+__NOTOC__
+Kędzierzyn-Koźle County () is a unit of territorial administration and local government (powiat) in Opole Voivodeship, south-western Poland. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and only town is Kędzierzyn-Koźle, which lies  south-east of the regional capital Opole.
+
+The county covers an area of . As of 2019 its total population is 94,135, out of which the population of Kędzierzyn-Koźle is 60,852 and the rural population is 33,283.
+
+==Neighbouring counties==
+Kędzierzyn-Koźle County is bordered by Strzelce County to the north, Gliwice County to the east, Racibórz County to the south, Głubczyce County and Prudnik County to the west, and Krapkowice County to the north-west.
+
+==Administrative division==
+The county is subdivided into six gminas (one urban and five rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km2)
+| style="text-align:center;"|Population(2019)
+| style="text-align:center;"|Seat
+|-
+|Kędzierzyn-Koźle
+|urban
+| style="text-align:right;"|123.4
+| style="text-align:right;"|60,852
+| 
+|-
+|Gmina Reńska Wieś
+|rural
+| style="text-align:right;"|97.9
+| style="text-align:right;"|8,251
+|Reńska Wieś
+|-
+|Gmina Bierawa
+|rural
+| style="text-align:right;"|119.2
+| style="text-align:right;"|7,910
+|Bierawa
+|-
+|Gmina Pawłowiczki
+|rural
+| style="text-align:right;"|153.6
+| style="text-align:right;"|7,477
+|Pawłowiczki
+|-
+|Gmina Cisek
+|rural
+| style="text-align:right;"|70.9
+| style="text-align:right;"|5,624
+|Cisek
+|-
+|Gmina Polska Cerekiew
+|rural
+| style="text-align:right;"|60.9
+| style="text-align:right;"|4,021
+|Polska Cerekiew
+|-
+|}
+

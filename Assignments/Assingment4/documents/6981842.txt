@@ -1,0 +1,100 @@
+Title: Torricella-Taverne
+
+Torricella-Taverne is a municipality in the district of Lugano in the canton of Ticino in Switzerland.
+
+==Geography==
+thumb|Aerial view (1964)
+Torricella-Taverne has an area, , of .  Of this area,  or 15.3% is used for agricultural purposes, while  or 68.9% is forested.   Of the rest of the land,  or 18.1% is settled (buildings or roads),  or 0.6% is either rivers or lakes and  or 2.7% is unproductive land.
+
+Of the built up area, industrial buildings made up 2.9% of the total area while housing and buildings made up 9.5% and transportation infrastructure made up 4.6%.  Out of the forested land, 63.5% of the total land area is heavily forested and 3.6% is covered with orchards or small clusters of trees.  Of the agricultural land, 5.2% is used for growing crops and 9.5% is used for alpine pastures.  All the water in the municipality is flowing water.Altitudine, superficie, secondo il genere di utilizzazione, rilevazione 1992/1997, e densità della popolazione, nel 2000   accessed 25 October 2010
+
+==Coat of arms==
+The blazon of the municipal coat of arms is Argent an eagle displayed sable statant on two towers embatteled gules issuant from a base azure and on it a bendlet of the first.Flags of the World.com accessed 26-January-2011
+
+==Demographics==
+Torricella-Taverne has a population () of .  , 28.4% of the population are resident foreign nationals.Swiss Federal Statistical Office - Superweb database - Gemeinde Statistics 1981-2008  accessed 19 June 2010  Over the last 10 years (1997–2007) the population has changed at a rate of 7%.
+
+Most of the population () speaks Italian (86.2%), with German being second most common (6.8%) and French being third (1.7%).Swiss Federal Statistical Office accessed 26-January-2011  Of the Swiss national languages (), 184 speak German, 46 people speak French, 2,331 people speak Italian, and 8 people speak Romansh.  The remainder (135 people) speak another language.Popolazione residente, secondo la lingua principale e la religione, nel 2000   accessed 23 November 2010
+
+, the gender distribution of the population was 48.6% male and 51.4% female.  The population was made up of 982 Swiss men (32.8% of the population), and 472 (15.8%) non-Swiss men.  There were 1,129 Swiss women (37.7%), and 408 (13.6%) non-Swiss women.
+
+In  there were 16 live births to Swiss citizens and 8 births to non-Swiss citizens, and in same time span there were 14 deaths of Swiss citizens and 3 non-Swiss citizen deaths.  Ignoring immigration and emigration, the population of Swiss citizens increased by 2 while the foreign population increased by 5.  There were 2 Swiss men who emigrated from Switzerland and 1 Swiss woman who immigrated back to Switzerland.  At the same time, there were 6 non-Swiss men and 7 non-Swiss women who immigrated from another country to Switzerland.  The total Swiss population change in 2008 (from all sources, including moves across municipal borders) was a decrease of 36 and the non-Swiss population change was an increase of 16 people.  This represents a population growth rate of -0.7%.
+
+The age distribution, , in Torricella-Taverne is; 311 children or 10.4% of the population are between 0 and 9 years old and 328 teenagers or 11.0% are between 10 and 19.  Of the adult population, 375 people or 12.5% of the population are between 20 and 29 years old.  430 people or 14.4% are between 30 and 39, 512 people or 17.1% are between 40 and 49, and 420 people or 14.0% are between 50 and 59.  The senior population distribution is 356 people or 11.9% of the population are between 60 and 69 years old, 170 people or 5.7% are between 70 and 79, there are 89 people or 3.0% who are over 80.01.02.03 Popolazione residente permanente   accessed 23 November 2010
+
+, there were 1,036 private households in the municipality, and an average of 2.6 persons per household.   there were 497 single family homes (or 70.6% of the total) out of a total of 704 inhabited buildings.  There were 121 two family buildings (17.2%) and 57 multi-family buildings (8.1%).  There were also 29 buildings in the municipality that were multipurpose buildings (used for both housing and commercial or another purpose). 09.02.01 Edifici   accessed 23 November 2010
+
+The vacancy rate for the municipality, , was 0.08%.   there were 1,186 apartments in the municipality.  The most common apartment size was the 4 room apartment of which there were 398.  There were 39 single room apartments and 336 apartments with five or more rooms.  09.02.02 Abitazioni   accessed 23 November 2010  Of these apartments, a total of 1,034 apartments (87.2% of the total) were permanently occupied, while 139 apartments (11.7%) were seasonally occupied and 13 apartments (1.1%) were empty.  , the construction rate of new housing units was 2.7 new units per 1000 residents.
+
+The historical population is given in the following chart:Popolazione residente, dal 1850   accessed 23 November 2010
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.8)
+ImageSize  = width:960 height:210
+PlotArea   = height:150 left:100 bottom:50 right:100
+AlignBars  = justify
+DateFormat = x.y
+Period     = from:0 till:2800
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:600 start:0
+ScaleMinor = gridcolor:lightgrey increment:120 start:0
+PlotData=
+  color:yellowgreen width:40   mark:(line,white) align:center
+  bar:1850 from:start till:512 text:"512"
+  bar:1860 from:start till:529 text:"529"
+  bar:1870 from:start till:512 text:"512"
+  bar:1880 from:start till:612 text:"612"
+  bar:1890 from:start till:574 text:"574"
+  bar:1900 from:start till:587 text:"587"
+  bar:1910 from:start till:681 text:"681"
+  bar:1920 from:start till:645 text:"645"
+  bar:1930 from:start till:645 text:"645"
+  bar:1941 from:start till:663 text:"663"
+  bar:1950 from:start till:741 text:"741"
+  bar:1960 from:start till:847 text:"847"
+  bar:1970 from:start till:1067 text:"1,067"
+  bar:1980 from:start till:1612 text:"1,612"
+  bar:1990 from:start till:2317 text:"2,317"
+  bar:2000 from:start till:2704 text:"2,704"
+
+
+==Politics==
+In the 2007 federal election the most popular party was the FDP which received 25.46% of the vote.  The next three most popular parties were the CVP (21.99%), the Ticino League (18.97%) and the SP (16.97%).  In the federal election, a total of 822 votes were cast, and the voter turnout was 49.4%.Swiss Federal Statistical Office, Nationalratswahlen 2007: Stärke der Parteien und Wahlbeteiligung, nach Gemeinden/Bezirk/Canton  accessed 28 May 2010
+
+In the  Gran Consiglio election, there were a total of 1,651 registered voters in Torricella-Taverne, of which 1,015 or 61.5% voted.  14 blank ballots and 1 null ballot were cast, leaving 1,000 valid ballots in the election.  The most popular party was the PLRT which received 264 or 26.4% of the vote.  The next three most popular parties were; the SSI (with 179 or 17.9%), the PPD+GenGiova (with 156 or 15.6%) and the LEGA (with 154 or 15.4%). Elezioni cantonali: Gran Consiglio, Consiglio di Stato   accessed 23 November 2010
+
+In the  Consiglio di Stato election, 12 blank ballots and 6 null ballots were cast, leaving 997 valid ballots in the election.  The most popular party was the PLRT which received 238 or 23.9% of the vote.  The next three most popular parties were; the LEGA (with 221 or 22.2%), the PS (with 165 or 16.5%) and the PPD (with 160 or 16.0%).
+
+==Economy==
+, Torricella-Taverne had an unemployment rate of 3.58%.  , there were 16 people employed in the primary economic sector and about 6 businesses involved in this sector.  405 people were employed in the secondary sector and there were 50 businesses in this sector.  646 people were employed in the tertiary sector, with 106 businesses in this sector.  There were 1,291 residents of the municipality who were employed in some capacity, of which females made up 40.1% of the workforce.
+
+, there were 765 workers who commuted into the municipality and 1,011 workers who commuted away.  The municipality is a net exporter of workers, with about 1.3 workers leaving the municipality for every one entering.  About 30.3% of the workforce coming into Torricella-Taverne are coming from outside Switzerland.Swiss Federal Statistical Office - Statweb   accessed 24 June 2010  Of the working population, 9.6% used public transportation to get to work, and 66.7% used a private car.
+
+, there were 2 hotels in Torricella-Taverne. Settori alberghiero e paralberghiero   accessed 23 November 2010
+
+==Religion==
+From the , 2,027 or 75.0% were Roman Catholic, while 231 or 8.5% belonged to the Swiss Reformed Church.  There are 289 individuals (or about 10.69% of the population) who belong to another church (not listed on the census), and 157 individuals (or about 5.81% of the population) did not answer the question.
+
+==Education==
+In Torricella-Taverne about 64.7% of the population (between age 25-64) have completed either non-mandatory upper secondary education or additional higher education (either university or a Fachhochschule).
+
+In Torricella-Taverne there were a total of 540 students ().  The Ticino education system provides up to three years of non-mandatory kindergarten and in Torricella-Taverne there were 81 children in kindergarten.  The primary school program lasts for five years and includes both a standard school and a special school.  In the municipality, 180 students attended the standard primary schools and 6 students attended the special school.  In the lower secondary school system, students either attend a two-year middle school followed by a two-year pre-apprenticeship or they attend a four-year program to prepare for higher education.  There were 134 students in the two-year middle school and 1 in their pre-apprenticeship, while 50 students were in the four-year advanced program.
+
+The upper secondary school includes several options, but at the end of the upper secondary program, a student will be prepared to enter a trade or to continue on to a university or college.  In Ticino, vocational students may either attend school while working on their internship or apprenticeship (which takes three or four years) or may attend school followed by an internship or apprenticeship (which takes one year as a full-time student or one and a half to two years as a part-time student).  There were 23 vocational students who were attending school full-time and 58 who attend part-time.
+
+The professional program lasts three years and prepares a student for a job in engineering, nursing, computer science, business, tourism and similar fields.  There were 7 students in the professional program. Allievi e studenti, secondo il genere di scuola, anno scolastico 2009/2010   accessed 23 November 2010
+
+, there were 21 students in Torricella-Taverne who came from another municipality, while 305 residents attended schools outside the municipality.
+
+==Architecture==
+Like in many other places in Ticino, there are interesting examples of architectural design, such as:
+* Casa Tonini, located at via Sottochiesa, one of the most notable examples of project research by Bruno Reichlin and Fabio Reinhart in 1972-1974; it shows strong influence from Palladian villas.
+
+== Notable people ==
+* Francesco Carlo Rusca also known as Ritter von Rusca (1693–1769) was an itinerant Italian-Swiss painter, best known for his portraits.
+
+==Transport==
+Torricella-Taverne is served by the Taverne-Torricella station, situated on the border with the adjoining municipality of Lamone and Bedano. The station is on the Gotthard railway.
+

@@ -1,0 +1,81 @@
+Title: List of airlines of Serbia
+This is a list of airlines currently operating in Serbia.
+
+==Scheduled airlines==
+{| class="wikitable sortable"
+|- valign=top align=left
+! Airline
+! Image
+! ICAO
+! IATA
+! Callsign
+! Commenced operations
+! Hub airport(s)
+! Notes
+|-
+| Air Serbia
+|100px
+| ASL
+| JU
+| AIR SERBIA
+|2013
+| Belgrade Nikola Tesla Airport
+|
+|}
+
+==Charter airlines==
+{| class="wikitable sortable"
+|- valign=top align=left
+! Airline
+! Image
+! ICAO
+! IATA
+! Callsign
+! Commenced operations
+! Hub airport(s)
+! Notes
+|-
+| Airpink
+|100px
+| PNK
+|  
+| AIR PINK
+|2004
+| Belgrade Nikola Tesla Airport
+|
+|-
+| Aviolet
+|100px
+| ASL
+| JU
+| 
+|2014
+| Belgrade Nikola Tesla Airport
+|Division of Air Serbia
+|-
+| Prince Aviation
+|100px
+| PNC
+|  
+| PRINCE AVIATION
+|1992
+| Belgrade Nikola Tesla Airport
+|
+|}
+
+==See also==
+* List of defunct airlines of Serbia
+* List of airlines of Yugoslavia
+
+==External links==
+* Registered operators
+
+
+
+
+
+*
+Serbia
+Airlines
+Airlines
+Serbia

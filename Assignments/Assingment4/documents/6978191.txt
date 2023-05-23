@@ -1,0 +1,60 @@
+Title: Działdowo County
+__NOTOC__
+Działdowo County () is a unit of territorial administration and local government (powiat) in Warmian-Masurian Voivodeship, northern Poland. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and largest town is Działdowo, which lies  south of the regional capital Olsztyn. The only other town in the county is Lidzbark, lying  west of Działdowo. (This should not be confused with Lidzbark Warmiński, another town in Warmian-Masurian Voivodeship, which is the seat of Lidzbark County.)
+
+The county covers an area of . As of 2019 its total population is 65,288, out of which the population of Działdowo is 21,279, that of Lidzbark is 7,794, and the rural population is 36,215.
+
+==Neighbouring counties==
+Działdowo County is bordered by Ostróda County to the north, Nidzica County to the north-east, Mława County to the south-east, Żuromin County to the south-west, Brodnica County and Nowe Miasto County to the west, and Iława County to the north-west.
+
+==Administrative division==
+The county is subdivided into six gminas (one urban, one urban-rural and four rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km2)
+| style="text-align:center;"|Population(2019)
+| style="text-align:center;"|Seat
+|-
+|Działdowo
+|urban
+| style="text-align:right;"|13.4
+| style="text-align:right;"|21,279
+| 
+|-
+|Gmina Lidzbark
+|urban-rural
+| style="text-align:right;"|255.7
+| style="text-align:right;"|14,132
+|Lidzbark
+|-
+|Gmina Działdowo
+|rural
+| style="text-align:right;"|272.8
+| style="text-align:right;"|9,836
+|Działdowo *
+|-
+|Gmina Rybno
+|rural
+| style="text-align:right;"|147.5
+| style="text-align:right;"|7,205
+|Rybno
+|-
+|Gmina Iłowo-Osada
+|rural
+| style="text-align:right;"|103.8
+| style="text-align:right;"|7,203
+|Iłowo-Osada
+|-
+|Gmina Płośnica
+|rural
+| style="text-align:right;"|163.1
+| style="text-align:right;"|5,633
+|Płośnica
+|-
+|colspan=5 style="text-align:right;font-size:90%"|* seat not part of the gmina
+|-
+|}
+

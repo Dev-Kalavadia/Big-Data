@@ -1,0 +1,51 @@
+Title: Bridge Base Online
+
+Bridge Base Online (BBO) is the world's largest bridge-playing online platform, with about 10 million monthly visits, as of November 2021.
+
+ Originally created by professional bridge player Fred Gitelman, BBO was first published by Bridge Base, Inc. in 2001, as a Windows downloadable software, offering free online multiplayer bridge rooms for practice and play.
+
+ Around 2008, BBO was ported to a web application to also support Linux and macOS users, as well as mobile devices.
+
+In 2018, Bridge Base Online was inducted to the American Contract Bridge League's Hall of Fame, for its long-term commitment to bridge.
+
+ As of February 2022, BBO was the only organization ever inducted by the Hall of Fame.
+
+
+
+BBO was acquired by the 52 Entertainment group in December 2018, and Fred Gitelman retired from the company in July 2019.
+
+== Main Features ==
+thumb|300px|BBO web app
+In addition to bridge rooms for casual play and teaching, BBO hosts many types of duplicate bridge tournaments, including events sanctioned by official bridge organizations such as the American Contract Bridge League or the English Bridge Union, which award official masterpoints to players.
+
+Bridge Base Online also features free tools that help novice players learn and improve their game skills, like 'Bridge Master' and 'Minibridge'. Users can register at no cost. Many playing activities are also free, while premium tournaments charge an entry fee. Players may also rent robots for play practice.
+
+A significant contribution to the game are the Vugraph "broadcasts", which present live matches from around the world and are enhanced by expert commentary. As with other online bridge platforms, because the language of bridge bidding and play uses only 15 words and because all selections are done via mouseclick, people who speak different languages can play together. BBO's interface supports several languages and it allows players and "kibitzers" to chat, mainly using a text-based interface, at tables and other virtual rooms. Records of hands played are archived, and are publicly accessible, enabling players to view their own and other competitors' actions and results.
+
+== Robots in BBO ==
+200px|thumb|BBO mobile app (2022)
+BBO also offers playing robots, which allow users to practice or compete without human partners and/or opponents. The "NABC Robot Individual", for example, is a 3-day duplicate tournament where about 3000 players compete partnering with robots.
+
+ 
+The BBO robot is also known as Ginsberg's Intelligent Bridgeplayer (GIB). GIB is an Artificial intelligence bridge player. It can be rented on BBO. It plays the 2/1 game forcing system and can be used either to fill in for one or more players or to provide advice.
+
+== American Contract Bridge League ==
+In partnership with the American Contract Bridge League (ACBL), Bridge Base Online sponsors ACBL-sanctioned tournaments on its website. These tournaments award online masterpoints.  The colorless masterpoints awarded for online play can be combined with other types of ACBL masterpoints, which helps players achieve higher ACBL ranks.
+
+During the COVID-19_pandemic, BBO partnered with ACBL and The Common Game to initiate an online platform named ACBL Virtual Clubs. This grew significantly during the pandemic by allowing duplicate bridge clubs to hold their games via an online platform, with the majority of the game fees going to the clubs.
+
+== References ==
+
+
+==External links==
+* Bridge Base Online
+
+
+
+Category:2001 video games
+Category:Browser games
+Category:Digital card games
+Category:Online video game services
+Category:Companies based in Las Vegas
+Category:Contract bridge websites
+Category:Video games developed in the United States

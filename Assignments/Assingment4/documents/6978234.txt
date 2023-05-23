@@ -1,0 +1,82 @@
+Title: Ostróda County
+
+__NOTOC__
+Ostróda County () is a unit of territorial administration and local government (powiat) in Warmian-Masurian Voivodeship, northern Poland. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and largest town is Ostróda, which lies  west of the regional capital Olsztyn. The county contains three other towns: Morąg,  north of Ostróda, Miłakowo,  north of Ostróda, and Miłomłyn,  north-west of Ostróda.
+
+The county covers an area of . As of 2006 its total population is 105,286, out of which the population of Ostróda is 33,419, that of Morąg is 14,497, that of Miłakowo is 2,665, that of Miłomłyn is 2,305, and the rural population is 52,400.
+
+==Neighbouring counties==
+Ostróda County is bordered by Lidzbark County to the north-east, Olsztyn County to the east, Nidzica County to the south-east, Działdowo County to the south, Iława County and Sztum County to the west, and Elbląg County to the north-west.
+
+==Administrative division==
+The county is subdivided into nine gminas (one urban, three urban-rural and five rural). These are listed in the following table, in descending order of population.
+
+{| class="wikitable"
+|-
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km²)
+| style="text-align:center;"|Population(2006)
+| style="text-align:center;"|Seat
+|-
+|Ostróda
+|urban
+| style="text-align:right;"|14.2
+| style="text-align:right;"|33,419
+| 
+|-
+|Gmina Morąg
+|urban-rural
+| style="text-align:right;"|310.6
+| style="text-align:right;"|24,886
+|Morąg
+|-
+|Gmina Ostróda
+|rural
+| style="text-align:right;"|401.1
+| style="text-align:right;"|15,501
+|Ostróda *
+|-
+|Gmina Małdyty
+|rural
+| style="text-align:right;"|188.9
+| style="text-align:right;"|6,281
+|Małdyty
+|-
+|Gmina Miłakowo
+|urban-rural
+| style="text-align:right;"|159.4
+| style="text-align:right;"|5,736
+|Miłakowo
+|-
+|Gmina Grunwald
+|rural
+| style="text-align:right;"|179.8
+| style="text-align:right;"|5,648
+|Gierzwałd
+|-
+|Gmina Miłomłyn
+|urban-rural
+| style="text-align:right;"|160.9
+| style="text-align:right;"|4,988
+|Miłomłyn
+|-
+|Gmina Łukta
+|rural
+| style="text-align:right;"|184.7
+| style="text-align:right;"|4,458
+|Łukta
+|-
+|Gmina Dąbrówno
+|rural
+| style="text-align:right;"|165.4
+| style="text-align:right;"|4,369
+|Dąbrówno
+|-
+|colspan=5 style="text-align:right;font-size:90%"|* seat not part of the gmina
+|-
+|}
+
+== Historical population ==
+In 1828 Ostróda County (Kreis Osterode) had 32845 inhabitants, including by mother tongue: 23577 (~72%) Polish and 9268 (~28%) German.
+

@@ -1,0 +1,24 @@
+Title: Ceragon
+
+
+
+
+Ceragon Networks Ltd. is a networking equipment vendor, focused on wireless point-to-point connectivity, mostly used for wireless backhaul by mobile operators and wireless service providers as well as private businesses.
+
+Ceragon's products include Short-Haul and Long-Haul wireless point-to-point systems in licensed microwave licensed spectrum (4–42 GHz) and millimeter-wave (57–88 GHz and, in the future – up to 170 GHz) spectrum range.
+
+== 5G Wireless Backhaul Services ==
+Ceragon is also a provider of 5G wireless transport, enabling it to connect of broadband sites to the core network in a wireless manner. This is a common way to connect areas to broadband networks when for various reasons using an optic fiber connection is not an option.
+
+==Corporate history==
+
+Established in 1996 under the name Giganet, Ceragon Networks was first listed on the NASDAQ on September 6, 2000 (symbol: CRNT).
+
+Ceragon designs and manufactures high-capacity communication systems for wireless backhaul, mid-haul, and front-haul – addressing the segment of the cellular market that connects a typical cell site to an operator's core network (backhaul) and different cell site functions that reside in separate geographical locations (mid-haul and front-haul). Ceragon provides wireless equipment with capacities of up to 20Gbps and plans to add products, based on higher frequency bands, to support up to 100Gbps.
+
+Ceragon markets its products under the IP-20 and IP-50 brands. Ceragon has a customer base of over 230 service providers of all sizes, and hundreds of private networks in more than 130 countries across the globe.
+
+Ceragon has numerous sales offices located throughout North and South America, EMEA, and Asia, handling direct sales. Partnerships with leading distributors, VARs, and system integrators around the world provide an active indirect channel. Its US headquarters was opened in 1999 and its European headquarters in 2000.
+
+Ceragon reported worldwide revenue of $290.8 million US dollars for 2021.
+

@@ -1,0 +1,203 @@
+Title: List of municipalities of the Province of Pescara
+
+The following is a list of the 46 municipalities (comuni) of the Province of Pescara, Abruzzo, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|068001
+|Abbateggio
+| align="right" |447
+|-
+|068002
+|Alanno
+| align="right" |3,709
+|-
+|068003
+|Bolognano
+| align="right" |1,242
+|-
+|068004
+|Brittoli
+| align="right" |397
+|-
+|068005
+|Bussi sul Tirino
+| align="right" |2,920
+|-
+|068006
+|Cappelle sul Tavo
+| align="right" |3,790
+|-
+|068007
+|Caramanico Terme
+| align="right" |2,089
+|-
+|068008
+|Carpineto della Nora
+| align="right" |728
+|-
+|068009
+|Castiglione a Casauria
+| align="right" |910
+|-
+|068010
+|Catignano
+| align="right" |1,488
+|-
+|068011
+|Cepagatti
+| align="right" |9,610
+|-
+|068012
+|Città Sant'Angelo
+| align="right" |13,025
+|-
+|068013
+|Civitaquana
+| align="right" |1,351
+|-
+|068014
+|Civitella Casanova
+| align="right" |2,042
+|-
+|068015
+|Collecorvino
+| align="right" |5,550
+|-
+|068016
+|Corvara
+| align="right" |289
+|-
+|068017
+|Cugnoli
+| align="right" |1,642
+|-
+|068018
+|Elice
+| align="right" |1,737
+|-
+|068019
+|Farindola
+| align="right" |1,730
+|-
+|068020
+|Lettomanoppello
+| align="right" |3,137
+|-
+|068021
+|Loreto Aprutino
+| align="right" |7,672
+|-
+|068022
+|Manoppello
+| align="right" |6,091
+|-
+|068023
+|Montebello di Bertona
+| align="right" |1,101
+|-
+|068024
+|Montesilvano
+| align="right" |43,258
+|-
+|068025
+|Moscufo
+| align="right" |3,231
+|-
+|068026
+|Nocciano
+| align="right" |1,767
+|-
+|068027
+|Penne
+| align="right" |12,518
+|-
+|068028
+|Pescara
+| align="right" |122,577
+|-
+|068029
+|Pescosansonesco
+| align="right" |553
+|-
+|068030
+|Pianella
+| align="right" |7,788
+|-
+|068031
+|Picciano
+| align="right" |1,375
+|-
+|068032
+|Pietranico
+| align="right" |593
+|-
+|068033
+|Popoli
+| align="right" |5,607
+|-
+|068034
+|Roccamorice
+| align="right" |1,021
+|-
+|068035
+|Rosciano
+| align="right" |3,161
+|-
+|068036
+|Salle
+| align="right" |312
+|-
+|068037
+|Sant'Eufemia a Maiella
+| align="right" |342
+|-
+|068038
+|San Valentino in Abruzzo Citeriore
+| align="right" |1,947
+|-
+|068039
+|Scafa
+| align="right" |3,979
+|-
+|068040
+|Serramonacesca
+| align="right" |591
+|-
+|068041
+|Spoltore
+| align="right" |16,546
+|-
+|068042
+|Tocco da Casauria
+| align="right" |2,826
+|-
+|068043
+|Torre de' Passeri
+| align="right" |3,136
+|-
+|068044
+|Turrivalignani
+| align="right" |863
+|-
+|068045
+|Vicoli
+| align="right" |437
+|-
+|068046
+|Villa Celiera
+| align="right" |849
+|-
+|
+|Total
+| align="right" |307,974
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

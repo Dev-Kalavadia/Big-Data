@@ -1,0 +1,59 @@
+Title: British R-class submarine
+
+
+{|
+
+
+
+|}
+The R-class submarines were a class of 12 small British diesel-electric submarines built for the Royal Navy during World War I, and were forerunners of the modern attack submarine, in that they were designed specifically to attack and sink enemy submarines, their battery capacity and hull shape being optimized for underwater performance.
+
+With a submerged speed of , the class set an underwater speed record not broken until the experimental Japanese Submarine No.71 of 1938, which was capable of more than  submerged.
+
+==Description==
+Ordered in December 1917, the R class were designed to be faster underwater than on the surface, achieving a submerged speed of  versus a surfaced speed of . They were well-streamlined, having no external ballast tanks, casing, or deck gun, and a streamlined spindle-shaped hull of circular cross-sectionFitzsimons, p.2170, "R-1" (not reproduced until the American USS Albacore) which tapered sharply towards the stern and allowed only for a single screw. The bulbous bow contained five sensitive hydrophones and the lightened conning tower was also well-streamlined.
+
+Thirty-five percent of the space inside the pressure hull was occupied by machinery. A single 8-cylinder  diesel engine was installed for surface propulsion, while high underwater speed was given by two large electric motors arranged one behind the other to drive the single propeller shaft, and powered by a 200-cell battery of the same type fitted to J-class submarines. The large battery was, however, sufficient for only about an hour at full power. In addition, the engine took a full day to charge the batteries, using half its power. Charging was therefore undertaken in harbour, using a supply of electricity from the shore or from special battery charging vessels.
+
+Despite being designed for maximum underwater performance, the R-class submarines were extremely difficult to control submerged, especially at high speeds. Surfaced, they had poor seakeeping and were slow. Minor modifications were made to , the only submarine of the class to survive into the 1930s, which made it more manageable on the surface, but reduced its submerged speed to a maximum .
+
+===Armament===
+The R class were the first Royal Navy submarines to be fitted with six bow torpedo tubes, number of torpedoes being considered more important than range or size of warhead carried when attacking U-boats. The torpedo tubes were originally the smaller  but later changed to 21 inch (533 mm).Gunston, p.114, "'British R class (33)" As designed, one spare torpedo was allowed for, but in operation six reloads were carried in place of the senior ratings' accommodation. It was originally intended to fit a  gun on the foredeck, but this was dropped due to the adverse effect it would have had on submerged speed.
+
+
+File:British WWI Submarine Plan R1-4.jpg|R1-R4 Submarine plans
+File:British WWI Submarine HMS R3.JPG|R3 at sea 
+File:British WWI Submarine HMS R3a.JPG|R3 at sea
+File:R class submarine model.jpg|Model of an R-class submarine
+File:Hms_r2_submarine.jpg|HMS R2
+
+
+==Construction==
+R1 through R4 were ordered from Chatham, R5 and R6 from Devonport (later changed to Pembroke), R7 and R8 from Vickers,  R9 and R10 from Armstrong, and R11 and R12 from Cammell Laird. In August 1919, with World War I over, R5 and R6 were cancelled, the rest being completed. To save time, they used H-class components.
+
+==Service==
+Operating out of Killybegs, Donegal, one of the class reportedly tracked and fired on a German U-boat in October 1918, firing a full salvo of six torpedoes. Only one hit, but it failed to detonate.
+
+All but R4 and R10 were sold for scrap in 1923. The two survivors were relegated to ASW training at Portland. Pitched against poor performing naval trawlers, the trawlers were no match to the high performance of the submarines. R10 was sold in 1929, while R4 survived as a fast underwater target at Portland until 1934.
+
+==R-class submarines==
+
+
+* 
+* 
+* 
+* 
+* HMS R5 *
+* HMS R6 *
+* 
+* 
+* 
+* 
+* 
+* 
+
+ * Cancelled while under construction
+
+==Notes==
+
+

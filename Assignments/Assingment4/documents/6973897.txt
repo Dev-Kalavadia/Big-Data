@@ -1,0 +1,29 @@
+Title: Saddle tank (submarine)
+
+Saddle tanks are a type of ballast tank configuration fitted to submarines.
+
+Saddle tanks are fitted in pairs external to the pressure hull, one on each side, in a similar manner to that of a horse's saddle-bags, the positioning of which they resemble in appearance.
+
+== Development ==
+thumb|Early submarine cross-section, before saddle tanks
+The first effective submarines, those of World War I, had hulls that were broadly circular in cross-section, with a deck plate mounted midway. Their heavy battery tanks were mounted beneath this deck, for stability. The ballast tanks were mounted inside the pressure hull. For compactness the ballast tanks were wrapped around the batteries, low down and sharing the flat surfaces of the battery tank. The Kingston valves linking the ballast tanks to the sea could be left open, a practice known as "riding the valves", and the water level in the tanks controlled solely by the vent and blowing air valves. The drawback was that the ballast tanks, open to sea pressure, had a flat surface to the crew compartment and were thus restricted in strength to the bursting strength of this flat plate. In particular this led to accidents where the boat bottomed safely after an accident, but the excess pressure of "blowing out" was sufficient to cause the internal tank wall to fail.
+
+A secondary drawback of these internal ballast tanks could be poor sea-keeping when surfaced. With the tanks full of water the submarine was stable, but when emptied, this large buoyant volume low down led to excessive rolling. This was a particular problem because early submarines spent almost all of their time surfaced and had little freeboard to begin with.
+
+thumb|Development of the saddle tank
+The saddle tank was formed by moving the ballast tanks outside the pressure hull. Early designs raised the weather deck and casing above the pressure hull, producing a ballast tank that wrapped around the upper part of the pressure hull (diagrams A & B). Following the terminology of steam railway locomotives, this was termed a "saddle tank". Later designs, notably those of the US Fleet submarines and German U-boats, placed two separate ballast tanks lower down on the sides of the hull (diagram C). In railway practice this would have been a "pannier tank", but for submarines the "saddle" label remained.A source of some confusion to railway aficionados since.
+
+For some time it remained practice to place the main ballast tanks outside the pressure hull, but to keep the smaller auxiliary tanks inside the hull and below the deck. In the US Navy T-class submarines, this tank wall was at least curved to resist pressure.
+
+== Development after World War II ==
+The tanks themselves are usually streamlined to reduce water resistance and are prominent on many submarine designs produced prior to the end of World War II.
+
+Saddle tanks are not fitted to current naval submarine designs, as external fittings are discouraged in order to improve underwater speed and reduce hydrodynamic noise detectable by an enemy's passive sonar. For this reason, post-1945 designs, i.e. post Albacore, usually use internal ballast tanks, which are fitted inside the teardrop pressure hull.
+
+== References ==
+
+
+
+
+Category:Submarine design
+Category:Submarine components

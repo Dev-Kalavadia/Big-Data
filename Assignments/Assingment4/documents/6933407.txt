@@ -1,0 +1,10 @@
+Title: CoolbitsCoolbits was a Windows registry hack for Nvidia graphics cards Windows drivers, that allows tweaking features via the Nvidia driver control panel (including overclocking).
+There is also a Coolbits 2.0, with extra features.
+These features provided by Coolbits are considered expert-only and thus the reason they are normally hidden in the control panel.
+
+Below is the main Coolbits activation entry in the registry:
+ [HKEY_LOCAL_MACHINE\SOFTWARE\NVIDIA Corporation\Global\NvTweak]
+ "CoolBits"=dword:00000003 
+
+It is also available on Unix-like systems running the X Window System by setting the "Coolbits" option to "5" in the configuration file. Using "28" instead of "5" will enable additional overclocking features.Nvidia - Chapter 7. Frequently Asked QuestionsNvidia - Appendix B. X Config Optionslinustechtipps.com - Post by Night_
+

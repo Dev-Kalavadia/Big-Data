@@ -1,0 +1,22 @@
+Title: Koenigs–Knorr reactionThe Koenigs–Knorr reaction in organic chemistry is the substitution reaction of a glycosyl halide with an alcohol to give a glycoside. It is one of the oldest glycosylation reactions. It is named after Wilhelm Koenigs (1851–1906), a student of von Baeyer and fellow student with Hermann Emil Fischer, and Edward Knorr, a student of Koenigs.
+
+450px|center|Koenigs-Knorr synthesis
+
+In its original form, Koenigs and Knorr treated acetobromoglucose with alcohols in the presence of silver carbonate. Shortly afterwards Fischer and Armstrong reported very similar findings.
+
+In the above example, the stereochemical outcome is determined by the presence of the neighboring group at C2 that lends anchimeric assistance, resulting in the formation of a 1,2-trans stereochemical arrangement. Esters (e.g. acetyl, benzoyl, pivalyl) generally provide good anchimeric assistance, whereas ethers (e.g. benzyl, methyl etc.) do not, leading to mixtures of stereoisomers.
+
+==Mechanism==
+
+In the first step of the mechanism, the glycosyl bromide reacts with silver carbonate upon elimination of silver bromide and the silver carbonate anion to the oxocarbenium ion. From this structure a dioxolanium ring is formed, which is attacked by methanol via an  mechanism at the carbonyl carbon atom. This attack leads to the inversion. After deprotonation of the intermediate oxonium, the product glycoside is formed.
+
+:frameless|upright=3.0
+
+The reaction can also be applied to carbohydrates with other protecting groups. In the oligosaccharide synthesis in place of the methanol other carbohydrates are used, which have been modified with protective groups in such a way that only one hydroxyl group is accessible. 
+
+==History==
+The method was later transferred by Emil Fischer and Burckhardt Helferich to other chloro-substituted purines and produced thus for the first time synthetic nucleosides. It was later improved and modified by numerous chemists.
+
+== Alternative reactions ==
+Generally, the Koenigs–Knorr reaction refers to the use of glycosyl chlorides, bromides and more recently iodides as glycosyl donors. The Koenigs–Knorr reaction can be performed with alternative promoters such as various heavy metal salts including mercuric bromide/mercuric oxide, mercuric cyanide and silver triflate. When mercury salts are used, the reaction is normally called the Helferich method.
+Other glycosidation methods are Fischer glycosidation, use of glycosyl acetates, thioglycosides, glycosyl trichloroacetimidates, glycosyl fluorides or n-pentenyl glycosides as glycosyl donors, or intramolecular aglycon delivery.

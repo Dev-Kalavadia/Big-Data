@@ -1,0 +1,144 @@
+Title: Docklands Light Railway rolling stock
+
+
+
+Docklands Light Railway rolling stock is the passenger trains and service vehicles (collectively known as 'rolling stock') used on the Docklands Light Railway (DLR), which serves the London Docklands area in the east of London.
+
+The passenger stock consists of high-floor, bi-directional, single-articulated EMUs. The trains are formed from sets of two or three semi-permanently connected cars, the increase to three-car trains being introduced progressively on the busiest routes in 2010, following substantial platform extension works. The automation system is a GoA3 driverless system, which requires a Passenger Service Agent (PSA) to operate doors and drive manually the train when required.
+
+There have been three different main types of DLR rolling stock, but only two of them (the B90/B92/B2K fleet and the B07 fleet) are in operation; the original P86/P89 stock having been withdrawn and sold to Essen, Germany.
+
+In January 2023, the first of a new fleet of 54 trains arrived at the Beckton DLR depot. These will be trialled throughout 2023, and deployed from 2024 to 2026 as replacements for older rolling stock and to provide additional capacity.
+
+==Passenger stock overview==
+The passenger trains consist of 149 high-floor, bi-directional, single-articulated cars, each  long. The cars have four doors on each side and each train is normally composed of two cars coupled together. A third car has been added on the busiest routes since 2010. Each car has 70 seats and has a total capacity of 284 passengers.
+
+The cars do not have a driver's cab, although there is a small driving console concealed behind a locked panel at each outer car end from which the Passenger Service Agent (PSA) can manually drive the train if necessary. Other consoles at each door opening allow the PSA to control door closure and make announcements whilst patrolling the train. Because of the absence of a driver's position, the fully glazed car ends provide a panoramic forward (or rear) view for passengers. At least one PSA is required on each train to close the doors upon departing and for emergency situations, such as taking the controls or evacuating the train, especially in tunnelled sections.
+thumb|left|View from the front of a Docklands Light Railway train. The control desk is usually closed and locked.
+
+Despite having high floors and being highly automated, the cars are derived from a German Stadtbahn design, which was intended for use in systems with elements of street running (as is currently the case with the cars now used in Essen). All the cars that have operated on the system look similar, but there have been five separate types, three of which are still in operation on the Docklands Light Railway. A further car type, with quite different styling, was first displayed in March 2008 and entered service in September 2008.Docklands Light Rail car formally unveiled  Metro Report International 29 March 2008
+
+The DLR trains have a maximum speed of , but the fastest possible speed reached is  through the tunnel under the River Thames between Woolwich Arsenal station and King George V.
+
+==P86 and P89 rolling stock==
+
+The fleet for the 1987 opening consisted of 11 light rail vehicles (LRVs) built in 1986 by Linke-Hofmann-Busch in Germany and numbered 01 to 11. These were referred to as P86 stock, the 'P' referring to Poplar depot, where they were maintained. These cars had folding doors, which proved to be problematic; later cars had sliding doors. Vehicle 11 made history several times. It was part of a light rail demonstration at Debdale Park, Manchester for which it had a pantograph fitted by Balfour Beatty. The demonstration took place on 9 February 1987 as evaluation trials for a potential tram system in Manchester. P11 was the last unit to be delivered to the DLR at Poplar on 30 March 1987, without the pantograph. It carried the Queen and the Duke of Edinburgh during the opening of the DLR on 30 July 1987 from Island Gardens (when originally above ground) to Poplar and then to Tower Gateway. It also operated the first revenue-earning DLR service and was the first to move to Essen in 1991.
+
+
+There were 84 seats in each car with most arranged in transverse bays of four to take advantage of the large windows. There were two wheelchair bays, and twelve longitudinal seats increased the circulation area. An emergency console for the Train Captain was provided but locked when out of use. These cars were built for the initial above-ground system and, because of failing to meet safety requirements, were not allowed to operate on the tunnelled extension to . Because of this, and because adaptation to a new signalling system was too costly, these cars were sold in 1991 to Essener Verkehrs-AG of Essen, Germany. Despite the sale, several cars remained in service on the DLR until July 1995, when they were finally withdrawn along with the P89 stock. In Germany, they were extensively rebuilt and put into service on the Essen Stadtbahn between 1994 and 1998. "Docklands cars sold" The Railway Magazine issue 1090 February 1992 page 75 Originally, they retained DLR colours and were limited to route U11, but after a further modification programme started in 2005 trains are appearing in a yellow livery and are used on all routes.
+
+
+In 1989–1990, British Rail Engineering Limited's Holgate Road carriage works, supplied another ten numbered 12 to 21. These shared the characteristics of the original P86 stock. They were, though, equipped with sufficient fire-proofing to operate through the tunnels of the Bank extension, possibly because they were designed by a different manufacturer. These were designated P89 stock and remained in operation on the DLR until 1995. The two initial car types were effectively identical in appearance; apart from the car numbers one difference was the red livery underneath the end window was noticeably more orange and reflective on the P89 cars than on the original P86 ones. By 1994, all P89s had been modified with single-leaf sliding doors. They were also subsequently sold to Essen, where they entered service between 1999 and 2004 after major modifications had been carried out. In 2005 the last cars were repainted in Essen colours. As the Essen Stadtbahn does not use fully automated driving and uses overhead line rather than third rail power collection, the modifications to both sets of cars involved fitting driver's cabs and pantographs. Today, the former London trains operate all (U11, U17 and U18) lines.
+
+==B90/B92/B2K rolling stock==
+thumb|Repainted B2K stock arrives at Royal Victoria station.
+thumb|upright|The interior of B92 stock train 49.
+Further vehicles were required as the network grew and as the original P86 and P89 cars had to be replaced due to their unsuitability for the changed system conditions. Bombardier built 23 vehicles of B90 stock in 1991, 47 vehicles of B92 stock from 1993-1995, and 24 vehicles of B2K stock from 2001-2002 at its Bruges, Belgium plant. When new the B2K stock differed from the earlier vehicles in appearance as the doors and handrails were painted in colours contrasting to their surroundings and they added front doors to comply with the new safety regulations. They are also fitted with internal LCD display screens. These differences were all mandated by the Rail Vehicle Accessibility Regulations of the Disability Discrimination Act, which were not in force when the older cars were built.
+
+The 'B' in the type codes refers to Beckton DLR depot, where they are primarily maintained. They are of a common design and can be operated interchangeably in trains of up to three sets.
+
+The DLR fleet at the end of 2004 consisted of:
+*22–44: Bombardier B90, built 1991
+*45–91: Bombardier B92, built 1993–1995
+*92–99, 01–16: Bombardier B2K, built 2001–2002
+
+The numbering of the last B2K cars restarted at 01, reusing the numbers of the replaced, original cars. The main reason for this was that the DLR computer system had only been designed originally to handle 2-digit car numbers, and an upgrade to allow 3-digit car numbers did not take place until some time after these cars were received.
+
+DLR cars had a common livery of blue, red, and white upon delivery. Over the years, several vehicles have received all-over advertising livery. A new livery of turquoise and blue was tested on B92 car 40 in the mid-1990s, but it was not adopted, and the car was repainted in standard livery a few years later. The B90/B92/B2K stocks were refurbished from 2004-2007 with the completed trains re-entering service with a redesigned interior and in a new livery of red and blue with grey doors to comply with the Disability Discrimination Act. The refurbished units feature an Audio and Visual Information System which gives audio announcements when approaching a station: "This train is for destination, the next stop is next stop", for example:
+"This train is for Bank, the next stop is Canary Wharf". It also announces the name of the station when the doors have opened, for example: "This is Canary Wharf". The fronts of the trains were refreshed from 2013, with the red front being repainted into a black front similar to the style of the B07 stock, after an online vote found it to be the most popular.
+
+B90 number 39 was withdrawn in May 2016, B92 number 88 in March 2020 and B2K number 98 following failures.https://www.whatdotheyknow.com/request/current_fleet_availability#incoming-2115985 One car from B90 number 39 was sent for scrap at CF Booths in Rotherham on 27 October 2022. By early 2023 vehicle 88 had been reactivated, using parts from the other withdrawn vehicles and converted into a dedicated shunting vehicle being used for the unloading and movement of new build stock within the depot.
+
+==B07 rolling stock==
+thumb|left|B07 stock entering Canary Wharf station
+In May 2005, a further 24 vehicles of a new design were ordered from Bombardier for network extensions and three-car service on the Bank–Lewisham route.DLR capacity expansion  Metro Report International 1 June 2005 They were to be delivered between May 2007 and September 2008, but were delayed. These vehicles are known as B07 stock, and are numbered 101 to 124. The first was delivered on 22 December 2007, and three units of B07 stock, 104, 105, and 106, were displayed at West India Quay on 13 March 2008. The first train of B07 stock, made up of units 105 and 106, entered service in September 2008. Even by March 2009 few of the new trains had appeared in service, but all units of this first batch had entered service by July 2009.
+
+In June 2006, another 31 vehicles were added to this order. Sometimes called B09, these trains are B07 batch 2 and were built at Bombardier's plant at Bautzen, Germany.Olympic car order  Metro Report International 1 July 2006 This batch was partly funded by the Olympic Delivery Authority and was planned for delivery by 2009. The first six units had been delivered by June 2009 with all in service by the end of June 2010.
+
+The B07 stock units feature a totally redesigned exterior and interior. They have larger windows and doors and more leg room. In addition, several technical improvements were made for better acceleration, altered door functions to enable faster boarding and alighting, and improved braking for a smoother ride.
+
+The B07 units were the first to operate as three-car trains in early 2010; the B92 trains followed operating in this way later in 2010.Docklands Light Rail rolls out three-car trains  Metro Report International 4 March 2010 The initial three-car route was the mainstream Bank to Lewisham route, but the lengthened trains were subsequently operated on other routes as well.
+
+==Problems experienced==
+All DLR trains have wheels which have a more angular profile than that on Network Rail mainline trains, which is effective in manoeuvring around the tight curves encountered on DLR routes.  However, a disadvantage of this technology is that they are partly responsible for violent shaking as the train travels at higher speeds on the straight parts of the route (Hunting oscillation). The new 2023 rolling stock will have improved suspension to reduce this shaking effect.
+
+Another manifestation of the DLR's wheel geometry and tight rail curves is that this setup makes noise which is amplified by the use of steel box torsion girders (e.g. Marsh Wall elevated road crossing adjacent to South Quay DLR Station).
+
+==B23 rolling stock==
+In 2017, Transport For London (TfL) published a notice in the Official Journal of the European Union seeking expressions of interest from manufacturers to build a new fleet of 43 trains each  long."TfL considers new Docklands fleet" The Railway Magazine issue 1393 April 2017 page 84 DLR services presently operate with two or three trains coupled together, but the new fleet will be fixed formation units with walk-through carriages equivalent to the length of three current trains. On-board facilities planned include real-time information screens, air conditioning and mobile device charging points. TfL is also seeking improved reliability, and is aiming for a mean distance of  between service-affecting failures.
+
+The depot at Beckton is to be expanded to accommodate the new fleet. Procurement is planned through a manufacture and supply agreement, with the DLR franchise responsible for maintenance and a separate fleet support agreement seeing the manufacturer offer technical support and supply spares. The trains will be financed by a lease, whereby each train would be paid for by the lessor and purchased by TfL at a later date when it can make funds available."Procurement Begins for New DLR Fleet" Modern Railways issue 826 July 2017 page 18 Alstom, Bombardier, CAF and a Siemens / Stadler Rail consortium were shortlisted.Four shortlisted for Docklands Light Rail train order  Metro Report International 17 November 2017
+
+On 12 June 2019, CAF was announced as the winner to construct 43 units, later increased to 54 units. Thirty-three will replace the existing trains, and the rest will be used to provide additional capacity. These new trains will enter service from 2024,CAF announced as winner Rail Magazine 12 June 2019  
+following testing and infrastructure improvements throughout 2023, and will be fully deployed on the network by 2026.
+Manufacturing began in December 2020, 
+and the first train arrived at the Beckton depot in January 2023. In February 2023, the name of the trains was revealed to be B23 stock.
+
+== Non-passenger stock ==
+In addition to the passenger stock, the DLR also has a small fleet of vehicles used for maintenance work.
+{| class="wikitable"
+|+
+!Number
+!Name
+!Builder
+!Type
+!Quantity
+!Notes
+|-
+|088
+|
+|Bombardier
+|B92 Stock
+|1
+|Withdrawn passenger vehicle converted to a dedicated shunting vehicle.
+|-
+|993
+|Kylie
+|Hunslet
+|4 wheel battery locomotive
+|1
+|
+|-
+|994
+|Kevin Keaney
+|GEC
+|0-4-0 diesel shunter
+|1
+|Ex-British Steel.
+|-
+|996-999
+|
+|
+|Flat wagons
+|4
+|
+|-
+|753
+|
+|Wickham
+|CT30 crane trolley
+|1
+|
+|-
+|
+|
+|
+|Road rail vehicle
+|1
+|
+|}
+
+==Gallery==
+
+
+File:DLR train at Debdale Park Manchester.jpg|P86 stock fitted with pantograph (at Debdale Park, Manchester) during evaluation trials for a potential tram system in Manchester
+File:B90pantoodock.jpg|B2K stock pulling into Pontoon Dock DLR station
+File:Dlr.canary.wharf.arp.750pix.jpg|B92 stock train 57 arrives at Canary Wharf DLR station
+File:Electric Tube London.jpg|B2K stock car 02, shown at Canary Wharf station
+File:DLR unit 109 at Heron Quays.JPG|B07 stock train at Heron Quays DLR station
+File:Newolddlr.jpg|Two B07 rolling stock next to an older B90 rolling stock at the Poplar DLR depot next to Poplar DLR Station.
+
+
+
+
+

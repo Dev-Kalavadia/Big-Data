@@ -1,0 +1,402 @@
+Title: Kerry Huffman
+
+
+Kerry Huffman (born January 3, 1968) is a Canadian former professional ice hockey defenceman who played for the Philadelphia Flyers, Quebec Nordiques and Ottawa Senators in the National Hockey League (NHL) and is currently a professional scout for the Pittsburgh Penguins.
+
+==Biography==
+As a youth, Huffman played in the 1981 Quebec International Pee-Wee Hockey Tournament with a minor ice hockey team from Peterborough, Ontario.
+
+Huffman was drafted in the first-round, 20th overall by the Philadelphia Flyers in the 1986 NHL Entry Draft and spent six seasons with the team. On June 30, 1992, he was involved in the Eric Lindros trade, involving 1991's first overall pick Eric Lindros.  The deal saw Huffman traded to the Quebec Nordiques, along with Peter Forsberg, Mike Ricci, Ron Hextall, Chris Simon, Steve Duchesne, a first-round pick in the 1993 and 1994 Drafts and $15,000,000 for Lindros, who refused to play for the Nordiques.  
+
+He later played for the Ottawa Senators before returning to Philadelphia in a trade in 1996. In total, Huffman played 401 regular season games, scoring 37 goals and 108 assists for 145 points and collecting 361 penalty minutes.
+
+Since the 2016–17 season, Huffman has served as an assistant coach for the Lehigh Valley Phantoms of the American Hockey League under Scott Gordon. In the 2018–19 season, Huffman was promoted to interim head coach after Gordon departed for the interim head coaching position with the Philadelphia Flyers. Upon Gordon's return to the Phantoms at the end of the season, Huffman resumed his duties as an assistant coach.
+
+==Career statistics==
+
+===Regular season and playoffs===
+{| border="0" cellpadding="1" cellspacing="0" style="text-align:center; width:60em"
+|- bgcolor="#e0e0e0"
+! colspan="3"  bgcolor="#ffffff" |  
+! rowspan="99" bgcolor="#ffffff" |  
+! colspan="5"                    | Regular season
+! rowspan="99" bgcolor="#ffffff" |  
+! colspan="5"                    | Playoffs
+|- bgcolor="#e0e0e0"
+! Season
+! Team
+! League
+! GP
+! G
+! A
+! Pts
+! PIM
+! GP
+! G
+! A
+! Pts
+! PIM
+|-
+| 1984–85
+| Peterborough Roadrunners
+| MetJHL
+| 24
+| 2
+| 5
+| 7
+| 53
+| —
+| —
+| —
+| —
+| —
+|- style="background:#f0f0f0;"  
+| 1985–86
+| Guelph Platers
+| OHL
+| 56
+| 3
+| 24
+| 27
+| 35
+| 20
+| 1
+| 10
+| 11
+| 10
+|-  
+| 1986–87
+| Philadelphia Flyers
+| NHL
+| 9
+| 0
+| 0
+| 0
+| 2
+| —
+| —
+| —
+| —
+| —
+|- style="background:#f0f0f0;"
+| 1986–87
+| Guelph Platers
+| OHL
+| 44
+| 4
+| 31
+| 35
+| 20
+| 5
+| 0
+| 2
+| 2
+| 8
+|-  
+| 1986–87
+| Hershey Bears
+| AHL
+| 3
+| 0
+| 1
+| 1
+| 0
+| 4
+| 0
+| 0
+| 0
+| 0
+|- style="background:#f0f0f0;"
+| 1987–88
+| Philadelphia Flyers
+| NHL
+| 52
+| 6
+| 17
+| 23
+| 34
+| 2
+| 0
+| 0
+| 0
+| 0
+|-  
+| 1988–89
+| Philadelphia Flyers
+| NHL
+| 29
+| 0
+| 11
+| 11
+| 31
+| —
+| —
+| —
+| —
+| —
+|- style="background:#f0f0f0;"
+| 1988–89
+| Hershey Bears
+| AHL
+| 29
+| 2
+| 13
+| 15
+| 16
+| —
+| —
+| —
+| —
+| —
+|-  
+| 1989–90
+| Philadelphia Flyers
+| NHL
+| 43
+| 1
+| 12
+| 13
+| 34
+| —
+| —
+| —
+| —
+| —
+|- style="background:#f0f0f0;"
+| 1990–91
+| Hershey Bears
+| AHL
+| 45
+| 5
+| 29
+| 34
+| 20
+| 7
+| 1
+| 2
+| 3
+| 0
+|-  
+| 1990–91
+| Philadelphia Flyers
+| NHL
+| 10
+| 1
+| 2
+| 3
+| 10
+| —
+| —
+| —
+| —
+| —
+|- style="background:#f0f0f0;"
+| 1991–92
+| Philadelphia Flyers
+| NHL
+| 60
+| 14
+| 18
+| 32
+| 41
+| —
+| —
+| —
+| —
+| —
+|-  
+| 1992–93
+| Quebec Nordiques
+| NHL
+| 52
+| 4
+| 18
+| 22
+| 54
+| 3
+| 0
+| 0
+| 0
+| 0
+|- style="background:#f0f0f0;"
+| 1993–94
+| Quebec Nordiques
+| NHL
+| 28
+| 0
+| 6
+| 6
+| 28
+| —
+| —
+| —
+| —
+| —
+|- 
+| 1993–94
+| Ottawa Senators
+| NHL
+| 34
+| 4
+| 8
+| 12
+| 12
+| —
+| —
+| —
+| —
+| —
+|- style="background:#f0f0f0;"
+| 1994–95
+| Ottawa Senators
+| NHL
+| 37
+| 2
+| 4
+| 6
+| 46
+| —
+| —
+| —
+| —
+| —
+|- 
+| 1995–96
+| Ottawa Senators
+| NHL
+| 43
+| 4
+| 11
+| 15
+| 63
+| —
+| —
+| —
+| —
+| —
+|- style="background:#f0f0f0;" 
+| 1995–96
+| Philadelphia Flyers
+| NHL
+| 4 
+| 1
+| 1
+| 2
+| 2
+| 6
+| 0
+| 0
+| 0
+| 2
+|- 
+| 1996–97
+| Las Vegas Thunder
+| IHL
+| 44
+| 5
+| 19
+| 24
+| 38
+| 5
+| 3
+| 0
+| 0
+| 2
+|- style="background:#f0f0f0;"
+| 1997–98
+| Grand Rapids Griffins
+| IHL
+| 73
+| 4
+| 23
+| 27
+| 60
+| 4
+| 3
+| 0
+| 0
+| 2
+|- 
+| 1998–99
+| Grand Rapids Griffins
+| IHL
+| 4
+| 0
+| 1
+| 1
+| 6
+| —
+| —
+| —
+| —
+| — 
+|- style="background:#e0e0e0;"
+! colspan="3"|NHL totals
+!401
+!37
+!108
+!145
+!361
+!11
+!0
+!0
+!0
+!2
+|}
+
+===International===
+{| border="0" cellpadding="1" cellspacing="0" style="text-align:center; width:40em"
+|- ALIGN="center" bgcolor="#e0e0e0"
+! Year
+! Team
+! Event
+! rowspan="99" bgcolor="#ffffff" |  
+! GP
+! G
+! A
+! Pts
+! PIM
+|-
+| 1987
+| Canada
+| WJC
+| 6
+| 0
+| 1
+| 1
+| 4
+|- style="background:#f0f0f0;"
+| 1992
+| Canada
+| WC
+| 6
+| 1
+| 0
+| 1
+| 2
+|- bgcolor="#e0e0e0"
+! colspan=3 | Senior totals
+! 6
+! 1
+! 0
+! 1
+! 2
+|}
+
+===Head coaching record===
+{| class="wikitable" style="font-size: 95%; text-align:center; width:50em;"
+|-
+! rowspan="2" | Team !! rowspan="2" | Year !! colspan="7" | Regular season !! Postseason
+|-
+! G !! W !! L !! T !! OTL !! Pts !!Finish !! Result 
+|-
+! LHV || 2018–19
+| 50 || 24 || 21 || — || 5 || 53 || 4th in Atlantic || —
+|-
+!colspan="2"|LHV Totals
+! 50 !! 24 !! 21 !! – !! 5 !! 53 !! 0 division titles!! 0 playoff appearances
+|-
+!colspan="2"|AHL Totals
+! 50 !! 24 !! 21 !! – !! 5 !! 53 !! 0 division titles !! 0 playoff appearances
+|}
+

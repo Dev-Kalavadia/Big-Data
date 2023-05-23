@@ -1,0 +1,16 @@
+Title: MI AC PR mineThe MI AC PR are a series of French minimum metal blast resistant mine anti-tank blast mines. The mines can be laid by hand or automatically from the Matenin mine laying system at a rate of 500 per hour. The mines use a clockwork arming delay, which can also self neutralize the mine after a set period. They have a secondary fuze well in the base that allows anti-handling devices to be fitted.
+
+The mine is still in production and is in service with the French army, as well as a number of others.
+
+==Specifications==
+* Length: 282 mm
+* Width 188 mm
+* Height: 104 mm
+* Weight: 5.67 kg
+* Explosive content: 3.94 kg of TNT
+
+==Variants==
+* MI AC PR F1
+* MI AC PR F2
+* MI AC PR H - fitted with a carrying handle.
+

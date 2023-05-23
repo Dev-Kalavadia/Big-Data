@@ -1,0 +1,102 @@
+Title: List of municipalities of the Province of Syracuse
+The following is a list of the 21 municipalities (comuni) of the Province of Syracuse, Sicily, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2011)
+|-
+|089001
+|Augusta
+| align="right" |36,169
+|-
+|089002
+|Avola
+| align="right" |31,328
+|-
+|089003
+|Buccheri
+| align="right" |2,133
+|-
+|089004
+|Buscemi
+| align="right" |1,128
+|-
+|089005
+|Canicattini Bagni
+| align="right" |7,186
+|-
+|089006
+|Carlentini
+| align="right" |17,958
+|-
+|089007
+|Cassaro
+| align="right" |813
+|-
+|089008
+|Ferla
+| align="right" |2,600
+|-
+|089009
+|Floridia
+| align="right" |22,685
+|-
+|089010
+|Francofonte
+| align="right" |12,923
+|-
+|089011
+|Lentini
+| align="right" |24,484
+|-
+|089012
+|Melilli
+| align="right" |13,076
+|-
+|089013
+|Noto
+| align="right" |23,704
+|-
+|089014
+|Pachino
+| align="right" |22,068
+|-
+|089015
+|Palazzolo Acreide
+| align="right" |9,091
+|-
+|089016
+|Rosolini
+| align="right" |21,526
+|-
+|089017
+|Syracuse
+| align="right" |118,385
+|-
+|089018
+|Solarino
+| align="right" |7,853
+|-
+|089019
+|Sortino
+| align="right" |8,907
+|-
+|089020
+|Portopalo di Capo Passero
+| align="right" |3,749
+|-
+|089021
+|Priolo Gargallo
+| align="right" |12,167
+|-
+|
+|Total
+| align="right" |399,933
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

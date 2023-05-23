@@ -1,0 +1,98 @@
+Title: Vilasantar
+
+
+Vilasantar is a municipality of northwestern Spain in the province of A Coruña in the autonomous community of Galicia. It belongs to the comarca of Betanzos.
+
+== Geography ==
+Vilasantar is located in the south of the comarca of Betanzos. It is bordered to the north by the municipalities of Curtis and Oza-Cesuras; to the west by Mesía, to the east with Sobrado and to the south with Boimorto. Its surface is 59.2 km².
+
+It is situated in an area of medium altitude, with most of the municipality being between 400 and 500 meters above sea level. The Tambre river (which delimits the southern border with Boimorto), and its tributaries, including the Cabalar river and the Río das Gándaras river, are of great importance.
+
+== History ==
+Megaliths are preserved, such as the mámoas de Vilariño, the mámoa de Pedriño or the medorra de Fanegas, in the parish of San Vicenzo de Curtis. Castros such as those in Vilariño or As Corredoiras are preserved from the Castro culture.
+
+Of the romanization there are remains of the Roman camp of Ciadella, the bigger of those discovered in Galicia, between the municipalities of Sobrado and Vilasantar.
+left|thumb|270x270px|Pazo of Présaras
+In the Middle Ages, these lands belonged to the county of Présaras, which had its origin in the Roman praessurae, desert lands offered to settlers to be populated and cultivated. The area was strongly linked to the Sobrado Abbey and Monastery of Santa María de Mezonzo. This last one may have its origin in the Suevian era, because the church retains two capitals of the sixth or seventh centuries and appears in Latin documents as monastery of Mosontio. In the middle of the tenth century, Pedro de Mezonzo, who became the abbot of the convent and bishop of Compostela, joined him.
+
+In the Modern Age there were numerous hidalgos in the municipality, as evidenced by several manor houses. Vilasantar was established as municipality in 1834. Its population grew until 1950, when it began to fall due to emigration.
+
+It was an area of great activity during the Civil War and the postwar period. In 1938, the mayor of Vilasantar and neighbor of Présaras, Antonio Iglesias Corral, was executated in Miraz, Friol. In the years following the war, the Guerrilla Army of Galicia took some actions in the municipality, as well as the mythical Foucellas, who acted in the area and lived a time hidden in the house of his cousin in Ru, Vilasantar. In the parish of Mezonzo was born other guerrilla, Manolito Bello.
+
+== Economy ==
+The primary sector and the tertiary one have a predominant weight in the area, and in the secondary sector the manufacture of wooden board stands out, due to the presence of the Losán Group in the municipality.
+
+During the first half of the 20th century, the textile industry was very important because of the La Arzuana factory in Présaras, founded by Luís Miranda and José Núñez de la Barca, and in which hundreds of people worked, most of them women.
+
+== Demography ==
+According to the National Institute of Statistics, the population of Vilasantar in 2017 was 1,241 inhabitants.
+
+Evolution of the population in the last century:
+
+Colors=
+  id:lightgrey value:gray(0.8)
+  id:darkgrey  value:gray(0.6)
+  id:bar       value:rgb(1,0.75,0.4)
+
+ImageSize = width:500 height:300
+PlotArea = left:50 bottom:20 top:20 right:30
+DateFormat = x.y
+Period = from:0 till:4500
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:500 start:0
+ScaleMinor = gridcolor:lightgrey increment:100 start:0
+BackgroundColors = canvas:white
+
+PlotData=
+  color:bar width:20 align:left
+  bar:1900 from:0 till:3020
+  bar:1910 from:0 till:3001
+  bar:1920 from:0 till:3197
+  bar:1930 from:0 till:3331
+  bar:1940 from:0 till:4073
+  bar:1950 from:0 till:4094
+  bar:1960 from:0 till:3869
+  bar:1970 from:0 till:2887
+  bar:1981 from:0 till:2368
+  bar:1991 from:0 till:1875
+  bar:2001 from:0 till:1639
+  bar:2009 from:0 till:1415
+  bar:2017 from:0 till:1241
+
+PlotData=
+  bar:1900 at: 3020 fontsize:S text:3.020 shift:(-10,5)
+  bar:1910 at: 3001 fontsize:S text:3.001 shift:(-10,5)
+  bar:1920 at: 3197 fontsize:S text:3.197 shift:(-10,5)
+  bar:1930 at: 3331 fontsize:S text:3.331 shift:(-10,5)
+  bar:1940 at: 4073 fontsize:S text:4.073 shift:(-10,5)
+  bar:1950 at: 4094 fontsize:S text:4.094 shift:(-10,5)
+  bar:1960 at: 3869 fontsize:S text:3.869 shift:(-10,5)
+  bar:1970 at: 2887 fontsize:S text:2.887 shift:(-10,5)
+  bar:1981 at: 2368 fontsize:S text:2.368 shift:(-10,5)
+  bar:1991 at: 1875 fontsize:S text:1.875 shift:(-10,5)
+  bar:2001 at: 1639 fontsize:S text:1.639 shift:(-10,5)
+  bar:2009 at: 1415 fontsize:S text:1.415 shift:(-10,5)
+  bar:2017 at: 1241 fontsize:S text:1.241 shift:(-10,5)
+
+
+== Parishes ==
+The municipality is formed by the following seven parishes:
+
+* Armental (San Martiño).
+* Barbeito (San Salvador).
+* Mezonzo (Santa María).
+* Présaras (San Pedro).
+* San Vicenzo de Curtis (San Vicenzo).
+* Vilariño (Santa María).
+* Vilasantar (Santiago).
+
+== References ==
+
+
+
+
+
+
+
+Category:Municipalities in the Province of A Coruña

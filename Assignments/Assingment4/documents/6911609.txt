@@ -1,0 +1,70 @@
+Title: C4 (conference)
+C4 was a Macintosh software developers conference held in Chicago, Illinois. The conference ran from 2006 through 2009. It was created by Jonathan Rentzsch after the demise of MacHack. In May 2010 Rentzsch announced that he would no longer operate the conference due to a dissatisfaction with Apple's policies toward iPhone OS development and the lack of a strong negative reaction from the Apple developer community.
+
+==Etymology==
+The name C4 stands for Code Culture Conspiracy Conference
+
+==C4[0]==
+The first C4 conference was a two-day event held at the University Center in downtown Chicago. It was held on October 20 and October 21, 2006, with an optional trip to Adler Planetarium's TimeSpace show for attendees on October 22. Due to that year's Chicago Marathon, attendees unable to stay downtown were provided free passes to the Chicago 'L' railway system for the weekend (an arrangement referred to as "Plan 'L'").
+
+===Presenters===
+*Steve Dekorte, software developer
+*Drunkenbatman, blogger, organizer of Evening@Adler (held at Adler Planetarium)
+*Brian W. Fitzpatrick, developer of Subversion, Fire and Apache Portable Runtime
+*John Gruber, coauthor of Markdown and influential blogger (see Daring Fireball)
+*Gus Mueller, creator of VoodooPad
+*Jonathan Rentzsch, software developer
+*Brent Simmons, creator of NetNewsWire
+*Aaron Hillegass, software developer and Cocoa instructor at Big Nerd Ranch
+*Paul Kafasis, software developer and founder of Rogue Amoeba
+
+===Notable attendees===
+*James Duncan Davidson, former Sun Microsystems engineer, creator of Tomcat and Ant
+
+==C4[1]==
+The second C4 conference was held at the Chicago City Centre Hotel on August 10–August 12, 2007. Like the first conference, C4[1] was organized by Jonathan Rentzsch.
+
+===Presenters===
+*Tim Burks, RubyObjC developer
+*Drunkenbatman
+*Adam Engst, publisher of TidBITS
+*Bob Ippolito, PyObjC developer
+*Daniel Jalkut, developer of MarsEdit (acquired from Brent Simmons)
+*Jonathan Rentzch
+*Cabel Sasser, co-founder of Panic Inc.
+*Wil Shipley, creator of Delicious Library
+*Shawn Morel, VMware developer working on Fusion
+
+
+Daniel Lyons, senior editor at Forbes magazine and writer of The Secret Diary of Steve Jobs under the pseudonym "Fake Steve Jobs", was scheduled to speak at C4 but was unable due to an illness.
+
+==C4[2]==
+The third C4 conference was held at the Chicago City Centre Hotel on September 5–September 7, 2008. Like the previous conferences, C4[2] was organized by Jonathan Rentzsch. He announced the conference via Twitter feed on April 23, 2008.
+
+===Presenters===
+* Alex Payne, developer for Twitter
+* Brent Simmons, creator of NetNewsWire
+* Buzz Andersen, creator of PodWorks
+* Craig Hockenberry, creator of Twitterrific
+* Mike Lee, former developer for Delicious Monster and Tapulous
+* Rich Siegel, founder of Bare Bones Software
+* D. Richard Hipp, architect and primary author of SQLite
+* Wil Shipley, founder of Delicious Monster
+
+
+==C4[3]==
+
+The fourth C4 conference was held at the DoubleTree Chicago from September 25 to September 27, 2009. It sold out within eight hours of the initial announcement. This year's version featured Blitz talks, talks held between the conference's standard presentations.  In these talks, speakers were held to 5 minutes per presentation, with each slide having a maximum of 20 seconds on screen.
+
+===Presenters===
+* Augie Fackler, Google engineer
+* Christopher Lloyd, creator of Cocotron
+* Dave Dribin, founder of BitMaki
+* John C. Welch
+* Jonathan Rentzsch
+* Matt Drance
+* Michael Lopp, author of Rands in Repose
+* Peter Wayner
+* Patrick Thomson
+
+

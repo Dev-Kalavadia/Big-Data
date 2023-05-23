@@ -1,0 +1,504 @@
+Title: List of taluks of Karnataka
+
+
+
+
+thumb|4 Divisions and 31 Districts of Karnataka
+Karnataka has about 240 Talukas. The table below lists all the talukas in the state of Karnataka, India, by district.
+
+The urban status is listed for the headquarters town of the taluka, rural talukas are much larger. Urban status follows the census standard.
+
+Level of each administration.
+* City Corporation (Mahanagara Palike)
+* City Municipal Council (Nagarasabe)
+* Town Municipal Council (Purasabe)
+* Town Panchayat (Pura Panchayiti)
+* Village Panchayat (Grama Panchayiti)
+
+{| class="wikitable sortable"
+|-bgcolor="#efefef"
+!District 
+!Taluka
+!Urban  status of taluka headquarters
+
+|- 
+| rowspan="9" | 1. Bagalkote  || 1. Bagalkote || City Municipal Council
+|-
+| 2. Jamkhandi || City Municipal Council
+|-
+| 3. Mudhola || City Municipal Council
+|-
+| 4. Badami || Town Panchayat
+|-
+| 5. Bilagi || Town Panchayat
+|-
+| 6. Hunagunda || Town Panchayat
+|-
+| 7. Ilkal || City Municipal Council
+|-
+| 8. Rabkavi Banhatti || City Municipal Council
+|-
+| 9. Guledgudda || Town Municipal Council
+|- ||10  Terdal|| Town Municipal Council
+| rowspan="5" |  2. Ballari ||1. Ballari || City Corporation
+|-
+| 2. Kurugodu || Town Municipal Council
+|-
+| 3. Kampli || Town Municipal Council
+|-
+| 4. Sanduru || Town Municipal Council
+|-
+| 5. Siraguppa || City Municipal Council
+|-
+| rowspan="14" |  3. Belagavi || 1. Belagavi || City Corporation
+|-
+|2. Athani || Town Municipal Council
+|-
+|3. Bailhongal || Town Municipal Council
+|-
+|4. Chikkodi || Town Municipal Council
+|-
+|5. Gokak   ||City Municipal Council
+|-
+|6. Khanapura || Town Panchayat
+|-
+|7. Mudalgi  || Town Municipal Council
+|-
+|8. Nippani  || City Municipal Council
+|-
+|9. Rayabaga   || Town Panchayat
+|-
+|10. Savadatti || Town Municipal Council
+|-
+|11. Ramadurga || Town Municipal Council
+|-
+|12. Kagawada || Town Panchayat
+|-
+|13. Hukkeri  || Town Municipal Council
+|-
+|14. Kitturu  || Town Panchayat
+|-
+| rowspan="5" | 4. Bengaluru Urban|| 1. Hebbala|| City Corporation (Part of Bruhat Bengaluru Mahanagara Palike)
+|-
+| 2. Kengeri || City Corporation (Part of Bruhat Bengaluru Mahanagara Palike)
+|-
+| 3. Krishnarajapura || City Corporation (Part of Bruhat Bengaluru Mahanagara Palike)
+|-
+| 4. Anekal || Town Municipal Council
+|-
+| 5. Yelahanka || City Corporation (Part of Bruhat Bengaluru Mahanagara Palike)
+|-
+| rowspan="4" | 5. Bengaluru Rural|| 1. Nelamangala || Town Municipal Council
+|-
+| 2. Doddaballapura || City Municipal Council
+|-
+| 3. Devanahalli || Town Municipal Council
+|-
+| 4. Hosakote || City Municipal Council
+|-
+| rowspan="8" | 6. Bidar|| 1. Aurad || City Municipal Council
+|-
+| 2. Basavakalyana || City Municipal Council
+|-
+| 3. Bhalki || City Municipal Council
+|-
+| 4. Bidar || City Municipal Council
+|-
+| 5. Chitgoppa || Town Municipal Council
+|-
+| 6. Hulsuru || Town Municipal Council
+|-
+| 7. Humnabad || City Municipal Council
+|-
+| 8. Kamalanagara || Town Municipal Council
+|-
+| rowspan="5" | 7. Chamarajanagara  || 1. Chamarajanagara || City Municipal Council
+|-
+| 2. Gundlupete || Town Municipal Council
+|-
+| 3. Kollegala || City Municipal Council
+|-
+| 4. Yelanduru || Town Panchayat
+|-
+| 5. Hanuru  || Town Panchayat
+|-
+| rowspan="7" | 8. Chikkaballapura || 1. Chikkaballapura || City Municipal Council
+|-
+| 2. Bagepalli || Town Municipal Council
+|-
+| 3. Chintamani || City Municipal Council
+|-
+| 4. Gauribidanuru || City Municipal Council
+|-
+| 5. Gudibanda || Town Municipal Council
+|-
+| 6. Sidlaghatta || Town Municipal Council
+|-
+| 7. Cheluru || Village Panchayat
+|-
+| rowspan="9" | 9. Chikkmagaluru  || 1. Chikkamagaluru || City Municipal Council
+|-
+| 2. Kaduru|| Town Municipal Council
+|-
+| 3. Koppa || Town Panchayat
+|-
+| 4. Mudigere || Town Panchayat
+|-
+| 5. Narasimharajapura || Town Panchayat
+|-
+| 6. Sringeri || Town Panchayat
+|-
+| 7. Tarikere || Town Panchayat
+|-
+| 8. Ajjampura || Town Panchayat
+|-
+| 9. Kalasa || Village Panchayat
+|-
+| rowspan="6" | 10. Chitradurga || 1. Chitradurga || City Municipal Council
+|-
+| 2. Challakere || City Municipal Council
+|-
+| 3. Hiriyur || City Municipal Council
+|-
+| 4. Holalkere || Town Panchayat
+|-
+| 5. Hosadurga || Town Municipal Council
+|-
+| 6. Molakalmuru || Town Panchayat
+|-
+| rowspan="9" | 11. Dakshina Kannada || 1. Mangaluru || City Corporation
+|-
+| 2. Ullal || City Municipal Council
+|-
+| 3. Mulki || Town Panchayat
+|-
+| 4. Moodbidri || Town Municipal Council
+|-
+| 5. Bantwala || Town Municipal Council
+|-
+| 6. Belathangadi || Town Panchayat 
+|-
+| 7. Putturu|| City Municipal Council
+|-
+| 8. Sulya || Town Panchayat
+|-
+| 9. Kadaba || Town Panchayat
+|-
+| rowspan="6" | 12. Davanagere || 1. Davanagere || City Corporation
+|-
+| 2. Harihara || City Municipal Council
+|-
+| 3. Channagiri || Town Municipal Council
+|-
+| 4. Honnali || Town Municipal Council
+|-
+| 5. Nyamathi || Town Panchayat
+|-
+| 6. Jagaluru || Town Panchayat
+|-
+| rowspan="8" | 13. Dharwad  || 1. Kalghatgi || Town Panchayat
+|-
+| 2. Dharwad || City Corporation (Part of Hubballi-Dharwad Mahanagara Palike)
+|-
+| 3. Hubballi (Rural) || City Corporation (Part of Hubballi-Dharwad Mahanagara Palike)
+|-
+| 4. Hubballi (Urban) || City Corporation (Part of Hubballi-Dharwad Mahanagara Palike)
+|-
+| 5. Kundagolu|| Town Municipal Council
+|-
+| 6. Navalgunda|| Town Municipal Council
+|-
+| 7. Alnavara|| Town Panchayat
+|-
+| 8. Annigeri|| Town Panchayat
+|- 
+| rowspan="7" | 14. Gadag || 1. Gadag || City Municipal Council
+|-
+| 2. Naragunda || Town Municipal Council
+|-
+| 3. Mundaragi || Town Panchayat
+|-
+| 4. Rona || Town Panchayat
+|-
+| 5. Gajendragada || Town Municipal Council
+|-
+| 6. Lakshmeshwara || Town Municipal Council
+|-
+| 7. Shirahatti || Town Panchayat
+|-
+| rowspan="8" | 15. Hassan || 1. Hassan || City Municipal Council
+|-
+| 2. Arasikere || City Municipal Council
+|-
+| 3. Channarayapattana || Town Municipal Council
+|-
+| 4. Holenarsipura || Town Municipal Council
+|-
+| 5. Sakleshpura || Town Municipal Council
+|-
+| 6. Aluru || Town Panchayat
+|-
+| 7. Arakalagudu || Town Panchayat
+|-
+| 8. Beluru || Town Panchayat
+|-
+| rowspan="8" | 16. Haveri || 1. Ranibennur || City Municipal Council
+|-
+| 2. Byadgi || Town Municipal Council
+|-
+| 3. Hangala || Town Municipal Council
+|-
+| 4. Haveri || City Municipal Council
+|-
+| 5. Savanuru || Town Municipal Council
+|-
+| 6. Hirekeruru || Town Panchayat
+|-
+| 7. Shiggavi || Town Municipal Council
+|-
+| 8. Rattihalli || Town Municipal Council
+|-
+| rowspan="11" | 17. Kalaburagi || 1. Kalaburagi || City Corporation
+|-
+| 2. Afzalpura || Town Panchayat
+|-
+| 3. Alanda || Town Municipal Council
+|-
+| 4. Chincholi || Town Panchayat
+|-
+| 5. Chitapura || Town Municipal Council
+|-
+| 6. Jevargi || Town Panchayat
+|-
+| 7. Sedam || Town Municipal Council
+|-
+| 8. Kamalapura || Town Panchayat
+|-
+| 9. Shahabad || City Municipal Council
+|-
+| 10. Kalgi || Town Panchayat
+|-
+| 11. Yedrami || Town Panchayat
+|-
+| rowspan="5" | 18. Kodagu 
+|| 1. Madikeri || Town Municipal Council
+|-
+| 2. Somawarapete || Town Panchayat
+|-
+| 3. Virajapete || Town Panchayat
+|-
+| 4. Ponnammapete || Town Panchayat
+|-
+| 5. Kushalnagara || Town Panchayat
+|-
+| rowspan="6" | 19. Kolar
+|| 1. Kolar || City Municipal Council
+|-
+| 2. Bangarapete || Town Municipal Council
+|-
+| 3. Maluru || Town Municipal Council
+|-
+| 4. Mulabagilu || Town Municipal Council
+|-
+| 5. Srinivasapura || Town Panchayat
+|-
+| 6. Kolar Gold Fields (Robertsonpete) || Town Municipal Council
+|-
+| rowspan="7" | 20. Koppala || 1. Koppala || City Municipal Council
+|-
+| 2. Gangavathi || City Municipal Council
+|-
+| 3. Kushtagi || Town Municipal Council
+|-
+| 4. Yelaburga || Town Panchayat
+|-
+| 5. Kanakagiri || Town Panchayat
+|-
+| 6. Karatagi   || Town Municipal Council
+|-
+| 7. Kukanuru    || Town Panchayat
+|-
+| rowspan="7" | 21. Mandya || 1. Mandya || City Municipal Council
+|-
+| 2. Madduru || Town Municipal Council
+|-
+| 3. Malavalli || Town Municipal Council
+|-
+| 4. Srirangapattana || Town Municipal Council
+|-
+| 5. Krishnarajapete || Town Panchayat
+|-
+| 6. Nagamangala || Town Panchayat
+|-
+| 7. Pandavapura || Town Panchayat
+|-
+| rowspan="9" | 22. Mysuru || 1. Mysuru || City Corporation
+|-
+| 2. Hunasuru || City Municipal Council
+|-
+| 3. Krishnarajanagara || Town Municipal Council
+|-
+| 4. Nanjanagodu || Town Municipal Council
+|-
+| 5. Heggadadevanakote || Town Panchayat
+|-
+| 6. Piriyapattana || Town Panchayat
+|-
+| 7. Tirumakudalu Narasipura || Town Panchayat
+|-
+| 8. Saraguru || Town Panchayat
+|-
+| 9. Saligrama || Town Panchayat
+|-
+| rowspan="8" | 23. Raichuru 
+|| 1. Raichuru || City Municipal Council
+|-
+| 2. Sindhanuru || City Municipal Council
+|-
+| 3. Manvi || Town Municipal Council
+|-
+| 4. Devadurga || Town Municipal Council
+|-
+| 5. Lingasaguru || Town Municipal Council
+|-
+| 6. Mudgal || Town Municipal Council
+|-
+| 7. Maski || Town Municipal Council
+|-
+| 8. Sirawara || Town Panchayat
+|-
+| rowspan="5" | 24. Ramanagara || 1. Ramanagara || City Municipal Council
+|-
+| 2. Magadi || Town Municipal Council
+|-
+| 3. Kanakapura || City Municipal Council
+|-
+| 4. Channapattana || City Municipal Council
+|-
+| 5. Harohalli || Town Municipal Council
+|-
+| rowspan="7" | 25. Shivamogga ||1. Shivamogga || City Corporation
+|-
+| 2. Sagara || City Municipal Council
+|-
+| 3. Bhadravathi || City Municipal Council
+|-
+| 4. Hosanagara || Town Panchayat
+|-
+| 5. Shikaripura || City Municipal Council
+|-
+| 6. Soraba || Town Panchayat
+|-
+| 7. Tirthahalli || Town Panchayat
+|-
+| rowspan="10" | 26. Tumakuru ||1. Tumakuru || City Corporation
+|-
+|2. Chikkanayakanahalli || Town Municipal Council
+|-
+|3. Kunigal || Town Municipal Council
+|-
+|4. Madhugiri || Town Municipal Council
+|-
+|5. Sira || City Municipal Council
+|-
+|6. Tipturu || City Municipal Council
+|-
+|7. Gubbi || Town Panchayat
+|-
+|8. Koratagere || Town Panchayat
+|-
+|9. Pavagada || Town Panchayat
+|-
+|10. Turuvekere || Town Panchayat
+|-
+| rowspan="7" | 27. Udupi
+||1. Udupi || City Municipal Council
+|-
+| 2. Kapu || Town Municipal Council
+|-
+| 3. Bynduru || Town Panchayat
+|-
+| 4. Karkala || Town Municipal Council
+|-
+| 5. Kundapura || Town Municipal Council
+|-
+| 6. Hebri || Village Panchayat
+|-
+| 7. Brahmavara || Village Panchayat
+|-
+| rowspan="12" | 29. Uttara Kannada || 1.Karwara || City Municipal Council
+|-
+| 2. Sirsi || City Municipal Council
+|-
+| 3. Joida || Town Panchayat
+|-
+| 4. Dandeli || City Municipal Council
+|-
+| 5. Bhatkal || Town Municipal Council
+|-
+| 6. Kumta || Town Municipal Council
+|-
+| 7. Ankola || Town Panchayat
+|-
+| 8. Haliyal || Town Panchayat
+|-
+| 9. Honnavara || Town Panchayat
+|-
+| 10. Mundagodu || Town Panchayat
+|-
+| 11. Siddapura || Town Panchayat
+|-
+| 12. Yellapura || Town Panchayat
+|-
+| rowspan="13" | 29.Vijayapura || 1.Vijayapura || City Corporation
+|-
+| 2. Indi ||City Municipal Council
+|-
+|3. Basavana Bagewadi|| Town Municipal Council
+|-
+|4. Sindgi || Town Municipal Council
+|-
+| 5. Muddebihala || Town Municipal Council
+|-
+| 6. Talikote || Town Municipal Council
+|-
+| 7. Devara Hipparagi || Town Panchayat
+|-
+| 8. Chadchana || Town Panchayat
+|-
+| 9. Tikote || Village Panchayat
+|-
+| 10. Babaleshwara || Town Panchayat
+|-
+| 11. Kolhara || Town Panchayat
+|-
+| 12. Nidagundi || Town Panchayat
+|-
+| 13. Alamela || Town Panchayat
+|-
+| rowspan="6"|  30. Yadagiri             ||1. Yadagiri || City Municipal Council
+|-
+|2. Shahapura || City Municipal Council
+|-
+|3. Surapura || Town Municipal Council
+|-
+| 4. Gurmitkala || Town Panchayat
+|-
+| 5. Vadagera  || Town Panchayat
+|-
+| 6. Hunsagi  || Town Panchayat
+|-
+| rowspan="6"|  31. Vijayanagara
+||1. Hosapete || City Municipal Council
+|-
+| 2. Hagaribommanahalli || Town Municipal Council
+|-
+| 3. Harapanahalli || Town Municipal Council
+|-
+| 4. Hoovina Hadagali || Town Municipal Council
+|-
+| 5. Kudligi || Town Municipal Council 
+|-
+| 6. Kotturu || Town Panchayat
+|}
+

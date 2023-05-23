@@ -1,0 +1,27 @@
+Title: Santosham Best Art Direction Award
+
+
+The Santosham Art Direction Award is given by the Santosham Film magazine as part of its annual Santosham Film Awards for Telugu films.
+
+The award was first given in 2003. Here is a list of the award winners and the films for which they won.
+
+{| cellspacing="1" cellpadding="1" border="0" width="50%"
+|- bgcolor="#d1e4fd"
+! Year || Art Director || Film || Ref
+|- bgcolor=#edf3fe
+| 2009 || S Ravindar || Magadheera || 
+|-
+| 2008 || Bhaskara Raju || Pandurangadu ||
+|- bgcolor=#edf3fe
+| 2007 || Anand Sai || Yamadonga ||
+|-
+| 2006 ||  ||  ||
+|- bgcolor=#edf3fe
+| 2005 || Ashok || Subhash Chandra Bose || Videocon Santosham Telugu film awards 2006. Idlebrain.com. 6 August 2006.
+|-
+| 2004 || Thotta Tharani || Arjun ||
+|- bgcolor=#edf3fe
+| 2003 || Ashok || Okkadu || 
+|-
+|}
+

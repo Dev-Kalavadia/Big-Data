@@ -1,0 +1,26 @@
+Title: Chromobacterium violaceum
+
+
+
+Chromobacterium violaceum is a Gram-negative, facultative anaerobic, non-sporing coccobacillus. It is motile with the help of a single flagellum which is located at the pole of the coccobacillus. Usually, there are one or two more lateral flagella as well.  It is part of the normal flora of water and soil of tropical and sub-tropical regions of the world.  It produces a natural antibiotic called violacein, which may be useful for the treatment of colon and other cancers.  It grows readily on nutrient agar, producing distinctive smooth low convex colonies with a dark violet metallic sheen (due to violacein production). Some strains of the bacteria which do not produce this pigment have also been reported. It has the ability to break down tarballs.
+
+==Biochemistry==
+C. violaceum ferments glucose, trehalose, N-acetylglucosamine and gluconate but not L-arabinose, D-galactose, or D-maltose. It is positive for catalase and oxidase reactions. Bacterial isolates in many cases can show high level resistance to a range of antibiotics.
+
+==Medical significance==
+C. violaceum rarely infects humans, but when it does it causes skin lesions, sepsis, and liver abscesses that may be fatal. The first reported case of Chromobacterium violaceum infection in humans in literature is from Malaysia in 1927. Only 150 cases have been reported in literature since then. To date, cases have been reported from Argentina, Australia, Brazil, Canada, Cuba, India, Japan, Nigeria, Singapore, Sri Lanka, Taiwan, United States and Vietnam. The most common mode of entry of the bacteria into the body is through the injured skin coming in contact with soil or water containing the bacteria. The disease usually starts as a limited infection of the skin at the point of entry of the bacteria, which progresses to necrotizing metastatic lesions, then multiple abscesses of the liver, lung, spleen, skin, lymph nodes or brain, leading to severe septicaemia, culminating in multiorgan failure which may be fatal. Other reported pathologies include chronic granulomatosis, osteomyelitis, cellulitis, diarrhoea, septic spondylitis, conjunctivitis,  periorbital and ocular infection. Care must be taken because Burkholderia pseudomallei is commonly misidentified as C. violaceum by many common identification methods.  The two are readily distinguished because B. pseudomallei produces large wrinkled colonies, whereas C. violaceum produces a distinctive violet pigment.
+
+C. violaceum produces a number of natural antibiotics:
+* Aztreonam is a monobactam antibiotic that is active against gram-negative aerobic bacteria including Pseudomonas aeruginosa. It is marketed as Azactam.
+* Violacein is active against amoebae and trypanosomes;
+* Aerocyanidine is active against Gram-positive organisms;
+* Aerocavin is active against Gram-positive and Gram-negative organisms.
+
+It has been described as a cause of infection in gibbons.
+
+==Treatment==
+Infection caused by C. violaceum is rare, therefore there are no clinical trials evaluating different treatments. Antibiotics that have been used to successfully treat C. violaceum include pefloxacin, ciprofloxacin, amikacin, and co-trimoxazole.  Other antibiotics that appear to be effective in vitro include chloramphenicol and tetracycline.  For theoretical reasons, infection would not be expected to respond to penicillins, cephalosporins, or aztreonam, although carbapenems like meropenem or imipenem may possibly work. Though the bacteria is reported to be resistant to first generation cephalosporins, susceptibility to the newer cephalosporins is variable.
+
+==Genome==
+The complete genome was sequenced and the results were published in 2003. C. violaceum type strain ATCC 12472 was found to have 4,751,080 base pairs with a G + C content of 64.83% and 4,431 ORFs.
+

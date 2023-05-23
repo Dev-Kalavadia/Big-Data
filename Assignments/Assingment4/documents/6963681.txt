@@ -1,0 +1,55 @@
+Title: Mrągowo County
+
+__NOTOC__
+Mrągowo County () is a unit of territorial administration and local government (powiat) in Warmian-Masurian Voivodeship, northern Poland. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and largest town is Mrągowo, which lies  east of the regional capital Olsztyn. The only other town in the county is Mikołajki, lying  east of Mrągowo.
+
+The county covers an area of . As of 2006 its total population is 50,087, out of which the population of Mrągowo is 21,772, that of Mikołajki is 3,848, and the rural population is 24,467.
+
+==Neighbouring counties==
+Mrągowo County is bordered by Kętrzyn County to the north, Giżycko County to the east, Pisz County to the south-east, Szczytno County to the south and Olsztyn County to the west.
+
+==Administrative division==
+The county is subdivided into five gminas (one urban, one urban-rural and three rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km²)
+| style="text-align:center;"|Population(2006)
+| style="text-align:center;"|Seat
+|-
+|Mrągowo
+|urban
+| style="text-align:right;"|14.8
+| style="text-align:right;"|21,772
+| 
+|-
+|Gmina Mikołajki
+|urban-rural
+| style="text-align:right;"|256.4
+| style="text-align:right;"|8,435
+|Mikołajki
+|-
+|Gmina Piecki
+|rural
+| style="text-align:right;"|314.6
+| style="text-align:right;"|7,769
+|Piecki
+|-
+|Gmina Mrągowo
+|rural
+| style="text-align:right;"|294.9
+| style="text-align:right;"|7,485
+|Mrągowo *
+|-
+|Gmina Sorkwity
+|rural
+| style="text-align:right;"|184.6
+| style="text-align:right;"|4,626
+|Sorkwity
+|-
+|colspan=5 style="text-align:right;font-size:90%"|* seat not part of the gmina
+|-
+|}
+

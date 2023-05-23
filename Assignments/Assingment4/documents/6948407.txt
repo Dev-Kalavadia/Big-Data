@@ -1,0 +1,26 @@
+Title: BioModels
+
+BioModels is a free and open-source repository for storing, exchanging and retrieving quantitative models of biological interest created in 2006.Le Novère N., Bornstein B., Broicher A., Courtot M., Donizelli M., Dharuri H., Li L., Sauro H., Schilstra M., Shapiro B., Snoep J.L., Hucka M. BioModels Database: A Free, Centralized Database of Curated, Published, Quantitative Kinetic Models of Biochemical and Cellular Systems. Nucleic Acids Research (2006), 34: D689-D691.Chelliah V., Juty N., Ajmera I., Raza A., Dumousseau M., Glont M., Hucka M., Jalowicki G., Keating S., Knight-Schrijver V., Lloret-Villas A., Natarajan K., Pettit J.-B., Rodriguez N., Schubert M., Wimalaratne S., Zhou Y., Hermjakob H., Le Novère N., Laibe C. BioModels: ten year anniversary. Nucleic Acids Research (2015) 43 (D1): D542-D548 All the models in the curated section of BioModels Database have been described in peer-reviewed scientific literature.
+
+The models stored in BioModels' curated branch are compliant with MIRIAM, the standard of model curation and annotation. The models have been simulated by curators to check that when run in simulations, they provide the same results as described in the publication. Model components are annotated, so the users can conveniently identify each model element and retrieve further information from other resources.
+
+Modellers can submit the models in SBML and CellML. Models can subsequently be downloaded in SBML, VCML,  XPP, SciLab, Octave, BioPAX and RDF/XML. The reaction networks of models are presented in some graphic formats, such as PNG, SVG and graphic Java applet, in which some networks were presented by following Systems Biology Graphical Notation. And a human readable summary of each model is available in PDF.
+
+==Content==
+right|thumb|250px|BioModels Database Pipeline
+BioModels is composed of several branches. The curated branch hosts models that are well curated and annotated. The non-curated-branch provides models that are still not curated, are non-curatable (spatial models, steady-state models etc.), or too huge to be curated. Non-curated models can be later moved into the curated branch. The repository also hosts models which were automatically generated from pathways databases.
+
+All the models are freely available under the Creative Commons CC0 Public Domain Dedication, and can be easily accessed via the website or Web Services.Li C., Courtot M., Le Novère N. and Laibe C (2009) BioModels.net Web Services, a free and integrated toolkit for computational modelling software, Briefings in Bioinformatics,  One can also download archives of all the models from the EBI FTP server.
+
+BioModels announced its 31st release on June 26, 2017.BioModels Database: Hinxton, 26 June 2017 It now publicly provides 144,710 models. This corresponds to 1,640 models published in the literature and 143,070 models automatically generated from pathway resources.
+
+Deposition of models in BioModels is advocated by many scientific journals, included Molecular Systems Biology, all the journals of the Public Library of Science, all the journals of BioMed Central and all the journals published by the Royal Society of Chemistry.
+
+==Development==
+
+BioModels is developed by the BioModels.net Team at the EMBL-EBI, UK, the Le Novère lab at the Babraham Institute, UK, and the SBML Team in Caltech, USA.Funders and collaborators of BioModels
+
+==Funding==
+
+BioModels Development has benefited from the funds of the European Molecular Biology Laboratory, the Biotechnology and Biological Sciences Research Council, the Innovative Medicines Initiative, the Seventh Framework Programme (FP7), the National Institute of General Medical Sciences, the DARPA, and the National Center for Research Resources.
+

@@ -1,0 +1,24 @@
+Title: Major Stryker
+
+
+Major Stryker is a 2D vertically scrolling shooter video game written for DOS by Apogee Software. Its working title was "Strike Force" and was released in January 1993.Apogee Software December 1991 Catalog It consists of three episodes, with the first episode distributed as shareware, and the rest available commercially. The three episodes are set on a Lava Planet, an Arctic Planet and a Desert Planet. The game was re-released as freeware on March 14, 2006, and on Steam with support for Microsoft Windows and macOS in 2014.
+
+==Plot==
+After a third world war, ending with only eight years of peace, Earth is attacked by the alien Kretons. Major Harrison Stryker, a World War III veteran, goes on a mission to wipe out the Kreton military installations on the three elemental planets within their galaxy. The only named characters are the eponymous hero and Fleet Admiral Yoshira, an attractive, often flirtatious woman who briefs Stryker between missions.
+
+==Gameplay==
+thumb|Screenshot
+
+There are three difficulty levels, which have drastically different levels of powerups, enemies, and enemy fire. Because of the greater number of enemies, much higher scores are possible on the harder difficulty levels.
+
+At regular intervals, Stryker's allies deliver numbered boxes containing firepower upgrades, which affect the pattern and number of shots fired. A player with upgraded firepower is lowered to single shots upon being hit. A player with basic firepower instantly loses a life. Hitting a wall also loses a life regardless of firepower. Three different types of shields exist: Two side shields that protect the jet left and right until it is damaged, two temporary small wave shields that rotate around the jet and a temporary invincibility orb shield.
+
+Powerups can be obtained by wiping out an entire fleet of ships or destroying the shield of a shielded powerup. The six powerups appear as letters. B (Burst) increases the number of shots the player can have on screen. H (Hover) causes scrolling to halt for a few seconds. R (Rapid fire) temporarily allows the player to continuously fire by holding down the fire button, rather than tapping it as normal. M (Major Stryker) is an extra life. S (Speed) temporarily increases the speed of the ship. Z (Zap bomb) is a bomb; the player starts each life with three to five bombs (depending on the difficulty level) and can accumulate more. When used, bombs do two points of damage to everything on screen except hiding enemies, and cause all enemy fire on screen to disappear. H and S both have a double edged sword quality, demanding the player carefully consider when to pick them up; H releases a fleet of enemies on opposing sides of the screen, and S increases the jerkiness of the ship, making it impossible to maneuver or aim with precision.
+
+At the end of each level, the player is awarded additional points on the percentages of enemies destroyed and hostages rescued, as well as point bonuses based on secret achievements. Hostages are rescued by ramming into the capsules they are contained in. The capsules are otherwise invincible, and can serve as obstacles blocking the player's fire.
+
+==Development==
+The game uses PC speaker and Sound Blaster audio. The AdLib music is similar in style to Bobby Prince's other songs. The EGA graphics have three layers of scrolling backgrounds ("triple-parallax scrolling").http://www.mobygames.com/images/covers/l/191014-major-stryker-dos-back-cover.jpg 
+
+Originally the game was going to include other Apogee characters including Commander Keen, Duke Nukem and Snake Logan, but was scrapped in favor of a more original storyline.Apogee Catalog - April 1994
+

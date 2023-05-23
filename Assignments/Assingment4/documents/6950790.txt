@@ -1,0 +1,19 @@
+Title: Angeli–Rimini reactionThe Angeli–Rimini reaction is an organic reaction between an aldehyde and the sulfonamide N-hydroxybenzenesulfonamide in presence of base forming a hydroxamic acid.
+
+center|500px|The Angeli-Rimini reaction
+
+The other reaction product is a sulfinic acid. The reaction was discovered by the two Italian chemists Angelo Angeli and Enrico Rimini (1874–1917), and was published in 1896.Angelo Angeli Gazz. Chim. Ital. 1896, 26, 17.Rimini, E. Gazz. Chim. Ital. 1901, 31, 84.
+
+==Chemical test==
+The reaction is used in a chemical test for the detection of aldehydes in combination with ferric chloride. In this test a few drops of aldehyde containing specimen is dissolved in ethanol, the sulfonamide is added together with some sodium hydroxide solution and then the solution is acidified to Congo red. An added drop of ferric chloride will turn the solution an intense red when aldehyde is present. The sulfonamide can be prepared by reaction of hydroxylamine and benzenesulfonyl chloride in ethanol with potassium metal.Gattermann, Ludwig, The Practical Methods of Organic Chemistry, 1937  Link (4.5 MB)
+
+center|400px|chelation with iron
+
+==Reaction mechanism==
+The reaction mechanism for this reaction is not clear and several potential pathways exist.Reaction of aldehydes with N-hydroxybenzenesulfonamide. Acetal formation catalyzed by nucleophilesAlfred Hassner, E. Wiederkehr, and A. J. Kascheres J. Org. Chem.; 1970; 35(6) pp 1962 - 1964; () The N-hydroxybenzenesulfonamide 1 or its deprotonated form 2 is a nucleophile in reaction with the aldehyde 3 to intermediate 4. After intramolecular proton exchange to 5 a sulfinic acid anion is split off and hydroxamic acid 8 results through nitrone 6 and intermediate 7. Alternatively aziridine intermediate 9 directly forms the end=product. The formation of the nitrene intermediate 10 is ruled out given the lack of reactivity of the chemical mixture towards simple alkenes.
+
+center|400px|The mechanism of the Angeli-Rimini reaction
+
+==Scope==
+The Angeli–Rimini reaction has recently been applied in solid-phase synthesis with the sulfonamide covalently linked to a polystyrene solid support.Angeli-Rimini's Reaction on Solid Support: A New Approach to Hydroxamic Acids Andrea Porcheddu and Giampaolo Giacomelli J. Org. Chem.; 2006; 71(18) pp 7057 - 7059; (Note) ()
+

@@ -1,0 +1,160 @@
+Title: Autler–Townes effectIn spectroscopy, the Autler–Townes effect (also known as AC Stark effect), is a dynamical Stark effect corresponding to the case when an oscillating electric field (e.g., that of a laser) is tuned in resonance (or close) to the transition frequency of a given spectral line, and resulting in a change of the shape of the absorption/emission spectra of that spectral line. The AC Stark effect was discovered in 1955 by American physicists Stanley Autler and Charles Townes.
+
+It is the AC equivalent of the static Stark effect which splits the spectral lines of atoms and molecules in a constant electric field.  Compared to its DC counterpart, the AC Stark effect is computationally more complex.
+
+While generally referring to atomic spectral shifts due to AC fields at any (single) frequency, the effect is more pronounced when the field frequency is close to that of a natural atomic or molecular dipole transition. In this case, the alternating field has the effect of splitting the two bare transition states into doublets or "dressed states" that are separated by the Rabi frequency.Fox, Mark. Quantum Optics: An Introduction: An Introduction. Vol. 15. Oxford university press, 2006. Alternatively, this can be described as a Rabi oscillation between the bare states which are no longer eigenstates of the atom–field Hamiltonian.Barnett, Stephen, and Paul M. Radmore. Methods in theoretical quantum optics. Vol. 15. Oxford University Press, 2002.  The resulting fluorescence spectrum is known as a Mollow triplet.
+
+The AC Stark splitting is integral to several phenomena in quantum optics, such as electromagnetically induced transparency and Sisyphus cooling. Vacuum Rabi oscillations have also been described as a manifestation of the AC Stark effect from atomic coupling to the vacuum field.
+
+==History==
+The AC Stark effect was discovered in 1955 by American physicists Stanley Autler and Charles Townes while at Columbia University and Lincoln Labs at the Massachusetts Institute of Technology. Before the availability of lasers, the AC Stark effect was observed with radio frequency sources.  Autler and Townes' original observation of the effect used a radio frequency source tuned to 12.78 and 38.28 MHz, corresponding to the separation between two doublet microwave absorption lines of OCS.
+
+The notion of quasi-energy in treating the general AC Stark effect was later developed by Nikishov and Ritis in 1964 and onward.Nikishov, A. I., and V. I. Ritus. Quantum Processes in the Field of a Plane Electromagnetic Wave and in a Constant Field. PART I. Lebedev Inst. of Physics, Moscow, 1964.Zel'Dovich, Ya B. "Scattering and emission of a quantum system in a strong electromagnetic wave." Physics-Uspekhi 16.3 (1973): 427-433. This more general method of approaching the problem developed into the "dressed atom" model describing the interaction between lasers and atoms.
+
+Prior to the 1970s there were various conflicting predictions concerning the fluorescence spectra of atoms due to the AC Stark effect at optical frequencies.  In 1974 the observation of Mollow triplets verified the form of the AC Stark effect using visible light.
+
+== General semiclassical approach ==
+
+In a semiclassical model where the electromagnetic field is treated classically, a system of charges in a monochromatic electromagnetic field has a Hamiltonian that can be written as:
+
+:
+H=\sum_i \frac{1}{2m_i}\left[\mathbf{p}_i-\frac{q_i}{c}\mathbf{A}(\mathbf{r}_i, t)\right]^2
++V(\mathbf{r}_i),
+
+
+where \mathbf{r}_i \,, \mathbf{p}_i \,, m_i \, and q_i \, are respectively the position, momentum, mass, and charge of the i\,-th particle, and c \, is the speed of light.  The vector potential of the field, \mathbf{A}, satisfies
+
+:\mathbf{A}(t+\tau)=\mathbf{A}(t).
+
+The Hamiltonian is thus also 
+periodic:
+
+:
+H(t+\tau) = H(t).
+
+
+Now, the Schrödinger equation, under a periodic Hamiltonian is a linear homogeneous differential equation with periodic coefficients,
+
+:
+i\hbar \frac{\partial}{\partial t} \psi(\mathbf{\xi},t) = H(t)\psi(\mathbf{\xi},t),
+
+
+where \xi here represents all coordinates. 
+Floquet's theorem guarantees that the solutions to an equation of this form can be written as
+
+:
+\psi(\mathbf{\xi},t) = \exp[-iE_bt/\hbar]\phi(\mathbf{\xi},t).
+
+
+Here, E_b is the "bare" energy for no coupling to the electromagnetic field, and \phi\, has the same time-periodicity as the Hamiltonian,
+
+:
+\phi(\mathbf{\xi},t+\tau) = \phi(\mathbf{\xi},t)
+
+
+or
+
+:
+\phi(\mathbf{\xi},t+2\pi/\omega) = \phi(\mathbf{\xi},t)
+
+
+with \omega=2\pi/\tau the angular frequency of the field.
+
+Because of its periodicity, it is often further useful to expand \phi(\mathbf{\xi},t) in a Fourier series, obtaining
+:
+\psi(\mathbf{\xi},t) = \exp[-iE_bt/\hbar]
+\sum_{k=-\infty}^{\infty}C_k(\mathbf{\xi})\exp[-ik\omega t]
+
+
+or
+
+:
+\psi(\mathbf{\xi},t) = \sum_{k=-\infty}^{\infty}C_k(\mathbf{\xi})\exp[-i(E_b+k\hbar\omega)t/\hbar]
+
+
+where \omega =2\pi/T\, is the frequency of the laser field.
+
+The solution for the joint particle-field system is, therefore, a linear combination of stationary states of energy E_b+k\hbar\omega, which is known as a quasi-energy state and the new set of energies are called the spectrum of quasi-harmonics.
+
+Unlike the DC Stark effect, where perturbation theory is useful in a general case of atoms with infinite bound states, obtaining even a limited spectrum of shifted energies for the AC Stark effect is difficult in all but simple models, although calculations for systems such as the hydrogen atom have been done.Crance, Michèle. "Nonperturbative ac Stark shifts in hydrogen atoms." JOSA B 7.4 (1990): 449-455.
+
+== Examples ==
+
+General expressions for AC Stark shifts must usually be calculated numerically and tend to provide little insight. However, there are important individual examples of the effect that are informative. Analytical solutions in these specific cases are usually obtained assuming the detuning \Delta\equiv (\omega-\omega_0) is small compared to a characteristic frequency of the radiating system.
+
+=== Two level atom dressing ===
+
+An atom driven by an electric field with frequency \omega close to an atomic transition frequency \omega_0 (that is, when |\Delta| \ll \omega_0) can be approximated as a two level quantum system since the off resonance states have low occupation probability. The Hamiltonian can be divided into the bare atom term plus a term for the interaction with the field as:
+
+:
+\hat{H} = \hat{H}_{A} + \hat{H}_{int}.
+
+
+In an appropriate rotating frame, and making the rotating wave approximation, \hat{H} reduces to
+
+:
+\hat{H}=-\hbar\Delta|e\rangle\langle e|+\frac{\hbar\Omega}{2}(|e\rangle\langle g|+|g\rangle
+\langle e|).
+
+
+Where \Omega is the Rabi frequency, and |g\rangle, |e\rangle are the strongly coupled bare atom states.  The energy eigenvalues are
+
+:
+E_{\pm}=\frac{-\hbar\Delta}{2}\pm\frac{\hbar\sqrt{\Omega^2+\Delta^2}}{2}
+,
+
+and for small detuning,
+
+:
+E_{\pm}\approx\pm\frac{\hbar\Omega}{2}.
+
+
+The eigenstates of the atom-field system or dressed states are dubbed |+\rangle and |-\rangle.
+
+The result of the AC field on the atom is thus to shift the strongly coupled bare atom energy eigenstates into two states |+\rangle and |-\rangle which are now separated by \hbar\Omega.  Evidence of this shift is apparent in the atom's absorption spectrum, which shows two peaks around the bare transition frequency, separated by \Omega (Autler-Townes splitting).  The modified absorption spectrum can be obtained by a pump-probe experiment, wherein a strong pump laser drives the bare transition while a weaker probe laser sweeps for a second transition between a third atomic state and the dressed states.
+
+Another consequence of the AC Stark splitting here is the appearance of Mollow triplets, a triple peaked fluorescence profile.  Historically an important confirmation of Rabi flopping, they were first predicted by Mollow in 1969 and confirmed in the 1970s experimentally.
+
+=== Optical Dipole Trap (Far Off Resonance Trap) ===
+When the detuning is much larger than the natural linewidth (|\Delta| \gg \Gamma), the gradient force (caused by the induced electric dipole moment in the neutral atoms) is much larger than the scattering force, which leads to the following optical dipole potential:
+:
+U_\text{dipole}(\mathbf{r})=-\frac{\hbar \Omega^2}{4}\left(\frac{1}{\omega_0-\omega}+\frac{1}{\omega_0+\omega}\right)\,,
+
+
+where the Rabi frequency \Omega is given by the (dimensionless) saturation parameter 
+:s\equiv\frac{I(\mathbf{r})}{I_\text{sat}}=\frac{2\Omega^2}{\Gamma^2}\,.
+
+Here, the intensity of the light (i.e. AC electric field) is I(\mathbf{r}), and the saturation intensity of the atomic transition is 
+:I_\text{sat} = \frac{\pi}{3}{h c \Gamma \over \lambda_0^3}=\frac{\pi}{3}{h c \over {\lambda_0^3 \tau}}\,.
+
+When |\Delta| \ll \omega_0, the rotating wave approximation applies, and the counter-rotating term proportional to 1/(\omega_0+\omega) can be omitted; However, in practice the ODT light is so far detuned that counter-rotating term must be included in calculations, as well as contributions from adjacent atomic transitions.
+
+Note that the natural linewidth \Gamma here is in radians per second, and is the inverse of lifetime \tau. This is the principle of operation for Optical Dipole Trap (ODT, also known as Far Off Resonance Trap, FORT), in which case the light is red-detuned \Delta <0. When blue-detuned, the light beam provides a potential bump/barrier instead.
+
+The optical dipole potential is often expressed in terms of the recoil energy:
+:\varepsilon_{recoil}=\frac{\hbar^2k^2}{2m},
+
+where k is the wavevector of the ODT light (k\neq k_0 when detuned).
+
+A related quantity, the scattering rate R_\text{sc}, is given by:
+:
+\hbar R_\text{sc}=\frac{\Gamma}{\Delta}U_\text{dipole}(\mathbf{r})\,.
+
+
+=== Adiabatic elimination ===
+
+In quantum system with three (or more) states, where a transition from one level, |g\rangle to another |e\rangle can be driven by an AC field, but |e\rangle only decays to states other than |g\rangle, the dissipative influence of the spontaneous decay can be eliminated.  This is achieved by increasing the AC Stark shift on |g\rangle through large detuning and raising intensity of the driving field. Adiabatic elimination has been used to create comparatively stable effective two level systems in Rydberg atoms, which are of interest for qubit manipulations in quantum computing.
+
+=== Electromagnetically induced transparency ===
+
+
+
+Electromagnetically induced transparency (EIT), which gives some materials a small transparent area within an absorption line, can be thought of as a combination of Autler-Townes splitting and Fano interference, although the distinction may be difficult to determine experimentally. While both Autler-Townes splitting and EIT can produce a transparent window in an absorption band, EIT refers to a window that maintains transparency in a weak pump field, and thus requires Fano interference. Because Autler-Townes splitting will wash out Fano interference at stronger fields, a smooth transition between the two effects is evident in materials exhibiting EIT.
+
+== See also ==
+*Stark effect
+*Stark spectroscopy
+*Electromagnetically induced transparency
+*Fano interference
+*Rabi cycle
+

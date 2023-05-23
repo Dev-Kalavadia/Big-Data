@@ -1,0 +1,10 @@
+Title: MPP-B Wierzba mineThe MPP-B "Wierzba" is a fibreglass Polish minimum metal anti-tank blast mine.   The mine is similar to the Russian TM-62 series and is compatible with the same fuses. It is normally used with a MWCz-62 fuse with a clockwork arming delay, which is a copy of the Russian MVCh-62. The mine has a secondary fuse well in the base of the mine for anti-handling devices or for a command detonation device. It can also be used with a ZMN electronic combined pressure and magnetic influence fuse.
+
+The mine is currently in service with the Polish armed forces.
+
+==Specifications (with MWCz-62)==
+* Diameter: 320 mm
+* Height: 128 mm
+* Weight: 9.7 kg
+* Explosive content: 8.1 kg
+

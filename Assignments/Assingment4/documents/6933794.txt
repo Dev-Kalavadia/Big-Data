@@ -1,0 +1,34 @@
+Title: HC La Chaux-de-Fonds
+
+HC La Chaux-de-Fonds is a Swiss professional ice hockey team who currently play in the Swiss League (SL). Founded in 1919, La Chaux-de-Fonds play at the Patinoire des Mélèzes in front of a capacity 7,200.
+
+==History==
+Hockey Club La Chaux-de-Fonds was founded in 1919 and in 1953 the team moved to their current home stadium, the Patinoire des Mélèzes. There, the team would first find success in 1951, 1955 and 1959 capturing the second and third division titles. After making their first appearance in the National League in 1955, Chaux-de-Fonds experienced from 1968 to 1973, six consecutive Swiss Championships, as the premier club of Switzerland. In 1980, however, the team was relegated to the National League B, returning to the Swiss 1. Liga in 1985.
+
+==Honors==
+:National League Championships: (6) 1968, 1969, 1970, 1971, 1972, 1973
+:National League B Championships: (4) 1955, 1965, 1996, 2000
+
+
+==Players==
+===Honored members===
+{| class="wikitable sortable" style="text-align:center"
+|+ style="background:#004080; border-top:#b49154 3px solid; border-bottom:#b49154 3px solid; color:#FFFFFF;" |HC La Chaux-de-Fonds retired numbers
+|-
+! width=40px | No.
+! width=130px |Player
+! width=40px |Position
+! width=150px |Career
+! width=150px |No. retirement
+|-
+| 2 || René Huguenin || D || 1965–1977 || –
+|-
+| 10|| Michel Turler || C || 1964–1976, 1978–1979 || –
+|-
+| 14|| Guy Dubois || LW || 1967–1982 || –
+|-
+| 17|| Gaston Pelletier || C || 1966–1976 || –
+|-
+| 19|| Andern Beseen || C || 1976–1986 || –
+|}
+

@@ -1,0 +1,129 @@
+Title: Ducati L-twin engine
+
+The L-twin is a naturally aspirated two-cylinder petrol engine by Ducati. It uses a 90-degree layout and 270-degree firing order and is mounted with one cylinder horizontal.
+
+The next new Ducati engine to appear after the Ducati Apollo was the 90° V-twin, initial Grand Prix racing versions being 500 cc, and the production bikes were 750 cc. There was also the Ducati 750 Imola Desmo that won at Imola in 1972. These engines had bevel gear shaft drive to the overhead camshaft, and were produced in round, square, and Mille crankcases. In the 1980s, these gave way to the belt drive camshaft engines that have continued to this day, in air-cooled and liquid-cooled form. The Mille used a plain bearing crank, like the belt models.
+
+==Engines==
+
+=== V-twin or L-twin ===
+
+A two-cylinder engine with its cylinders aligned in two banks radiating out from the crankshaft, forming a V angle, is called a V-twin. The Ducati V-twin has the V tilted forward, so the front cylinder is nearly parallel to the ground, hence the term L-twin.
+
+===Two-valve engines===
+Ducati engineer, Fabio Taglioni, once said that when they started building the plain bearing crank, belt-driven camshaft engines, instead of the old ball bearing crank, bevel geared shaft drive camshaft engines, he had gone from making complex engines to making simple ones.
+
+===Multivalve models===
+From 1987 there have also been Ducati multivalve motorcycles.
+
+==History==
+
+
+
+On March 20, 1970, Fabio Taglioni made the first sketches for the layout of a new Ducati V-twin. By April, his drawings were completed, and by July, there was a running motor. By August 1970, there was a complete prototype motorcycle. Taglioni engaged Leopoldo Tartarini, the founder of Italjet, to refine the styling aspects of the new Ducati.
+
+In October 1970, the decision was made by Ducati to re-enter the motorcycle competition. Director Arnaldo Milvio and General Manager Fredmano Spairani, were enthusiastic about racing, and had encouraged Fabio Taglioni to develop the 750 V-twin. In 1971 five 500 cc V-twins were built to compete in the Italian championship and Grand Prix events. Ducati felt that this would demonstrate the bike before a large audience and gain publicity. If they won, that was a bonus.
+
+Even before this, in late 1970, and despite Taglioni's opposition to the idea, Spairani wanted the frame for Ducati's racer to be built by Colin Seeley, a well-known British specialist frame builder of the time. Seeley was asked to develop a racing frame similar to those he had built for G50 Matchless engines. They sent some prototype crankcases for Seeley to work from. Ducati's new Seely frame was ready in February 1971.
+
+Meanwhile, in less than six months, Fabio Taglioni and his team had designed and built their own complete bike (the industry norm for a concept to production is three years). While the 750 and 500 racers were very similar, the 500 had a much shorter 58 mm stroke with its 74 mm bore. It had 10.5:1 compression and initially produced  at 11,000 rpm. (Same bore and stroke as the later 500 Pantah) All Ducati's 500 cc GP engines used desmodromic two valve heads with an 80-degree included valve angle. They used remote float bowl Dell'Orto 40 mm carburettors, and had a six speed gearbox with a dry, multiplate clutch. Ignition was electronic, provided by nearby Ducati Elettrotecnica, but was initially unreliable. Dual spark plugs were used, and the final ignition system used four coils, two on each side of the frame.
+
+In the beginning, Taglioni's Ducati chassis was used. It had a single Lockheed front disc brake and a twin leading shoe Fontana rear drum brake. Dry weight was 135 kg, and it had 18in rims front and rear with 3.00 and 3.25 tyres. Wheelbase was 1430 mm. In June 1971, Phil Read tested the 500 cc bike with the Seeley frame, and pronounced it the better of the two. The frame was then fitted to Spaggiari's bike as well. It was raced in 1972 by Bruno Spaggiari, Ermanno Guliano, and Phil Read.
+
+Also, in June 1971, the first Ducati 750 GT models came out of the factory, distinguished by silver frames, metal-flake paint, fibreglass fuel tanks, 30 mm Amal carburettors, and twin leading shoe rear brakes. Taglioni experimented with four valve heads at this time, but failed to produce better power figures than his two valve heads, so the two valve racers continued. He continued to experiment with four valve heads right up to 1973.
+
+In 1971 race results were spoilt by a run of gearbox and ignition problems. Phil Read's second to Agostini in the San Remo Grand Prix, and a fourth, also by Read, at Monza in the Grand Prix delle Nazione were the highlights of the season. A Seeley frame 750 cc had been tested by Mike Hailwood at Silverstone in August 1971 with a view to competing in Formula 750. Hailwood decided against it, saying he didn't think the handling was good enough. Taglioni had already produced a new frame, for the production bike, incorporating some of the Seeley features. He later said he felt the Seeley frame had been too light for the V-twins. They used the production frame for the 1972 Imola bikes.
+
+The 200 Mile formula was first ro run in Italy in 1972, at Imola. Ducati prepared eight 750 cc bikes for the event. Paul Smart, Bruno Spaggiari, Ermanno Giuliano, and Alan Dunscombe were secured as riders. By now, the racing fever had set in, and the factory wanted to win. The bikes had the new factory frames and 750 engines, and were once more prepared in a very short time. Wherever possible, the bike was lightened, and new 40 mm Dell'Orto carburetors with accelerator pumps were used. These engines delivered  at 8,500 rpm. In that Imola 200 held in April, Smart and Spaggiari came in first and second."Italian Motorcycles 4" magazine, Article: P28 - P33, "Baby Boomers", Subtitle:"Remember when Ducati went 500 GP racing?" Author: Ian Falloon. Publisher: Federal Publishing Company NSW Australia. The effect on Ducati sales was remarkable. Suddenly, a lot more people the world over knew about Ducati.
+
+The current production 750GT now had a black frame, a new seat, and a red or black paint-job.
+
+Racing success did not last long once Agostini's bike was improved. In May 1972, Bruno Spaggiari finished third in the Italian Grand Prix at Imola, with Paul Smart in fourth, reversing their finishing order in the 200 of a month before. Now the twin could not match Agostini on the MV triple.
+
+Taglioni turned to fuel injection. Direct injection was tried on the 500 grand prix bike at a test session at Modena in March 1972. It was outlawed by the FIM as a form of supercharging soon after. By 1972 the racing bikes had Lockheed twin front discs with a single Lockheed rear disc. Unique leading axle Marzocchi front forks were used. In 1972 a three-cylinder 350 cc 12 valve dohc engine with a seven speed gearbox, was developed, based on a British Ricarclo engine. Fortunately for V-twin fans, it was not competitive.
+
+The 1972 Ducati 750 Sport was released, initially using the 750GT frame with the wider seat section and upper rear shocks in line with the frame, but this was soon changed to a frame with a slimmer rear and the upper rear shock mounts outside the frame. While many components were still shared between the Sport and GT, the main differences were narrower fuel tank, bum-stop rear seat cowl, clip-on handlebars, and rearset foot controls, all giving the Sport its distinct racer persona. The Sport also had blacked out crankcase, 32 mm Dell'Orto carburettors, single seat and sports fuel tank. As with the 750 GT, Tartarini was the styling consultant. At the same time the single-cylinder street racer models were given a restyle, and a matching paint job to the 750 Sport"Italian Motorcycles 4" magazine, Article: P46 - P55, "Round Case", Subtitle:"The story of Ducati's first 750s" Author: Ian Falloon. Publisher: Federal Publishing Company NSW Australia.
+
+The last iteration of the 500 racer appeared during 1973, with belt driven double overhead camshafts, and a radial finned front cylinder. The camshaft belts were on the opposite side to the bevel gear shaft drives on earlier engines. The engine had been developed for Taglioni outside Ducati by Armaroli, and featured the reversed head layout found in the later Paso where the inlet ports face each other. It produced  at 12,000 rpm, not a big increase. MV continued to win. In 1971 and 1972, the 500s, and later the 750s, were raced and displayed throughout the western world as part of a major publicity exercise to promote the Ducati name.
+
+In 1973 there was a disastrous change of management personnel. The new boss was De Eccher. All racing projects, including the 500 four, 350 triple, and the 500 GP V-twin, were scrapped. Production was to end for the round case 750 models and all the single-cylinder models. Despite Ducati's withdrawal from racing, many privateers, tuners, and independent racing teams continued to campaign and develop their motorcycles.
+
+In 1973 the production Ducati 750 SuperSport model was unveiled, with an Imola kit for the intending racers. The bike was distinguished by its slim green frame, gaping bell mouths on 40 mm Dell'Ortos, half fairing, fibreglass sports fuel tank with clear fuel-level strip down the side, and single seat.“StreetBike's Best Ever Ducatis”, magazine, Article: P53 – P55, “Numero Uno”, Author: Ian Falloon. Publisher: Federal Publishing Company NSW Australia.
+
+By now the GT and Sport had steel fuel tanks. The GT had shorter rear shocks to lower seat height for the American market, but it meant the bike would ground out more easily when cornering. The Amals on the GT were replaced by 30 mm Dell'Ortos with accelerator pumps. This reduced fuel economy a little.
+
+left|thumb|860 GT engine
+In 1973 the Barcelona 24-hour race was won by Canellas and Grau on a round case Ducati 750 SS converted into an 860 by the use of the Ducati 450 single-cylinder engine's sleeves and pistons. In 1974, the 860 GT went into production. The crankcases had been redesigned by Giugiaro, along with the rest of the bike, with a squared off look, quite unlike the flowing lines of the 750. The new boss De Eccher saw Ducati's future in US exports, and had engaged Giorgetto Giugiaro to do the external design work on the new 860 instead of Tartarini. Taglioni was made to redesign the outer engine cases to match Giugiaro's design. (The new 350 and 500 GTL sport vertical twins were also released, also externally designed by Giugiaro. The motors were not built by Taglioni. He had refused to be involved with them.)
+
+Ducati sales fell. The 860 GTS did not sell well, and the vertical twins were hardly selling at all. De Eccher was out, and Taglioni was back in favour, and so, by association, was Tartarini. A hasty re-design of the fuel tank and seat was undertaken to create the 900GTS - a model destined to help the company regain some ground. At the same time plans were put in place to create two new models the Darmah and the Pantah.
+
+In 1974, Australian importer Ron Angel entered a "Ducati 860 SS" in the Unlimited Production event at the Easter motorbike races at Bathurst, on the mountain. This was the biggest annual motorcycle event in Australia at the time. The bike was ridden by Kenny Blake, and defeated the then dominant Kawasaki Z1 900s on the day. It was sensational. The crowd loved it. Protests flew. Ron Angel immediately started advertising the bikes, saying a shipment was on the way. There was an investigation into the bona-fides of the bike by the governing body - the Auto Cycle Union of New South Wales. The bike was accepted when the Ducati factory sent a letter confirming that Ducati 860 SuperSports were being manufactured, and the ACU-NSW awarded the race to Blake and the 860 SuperSport. When the 900 SuperSport shipment finally did arrive, it was a different bike to the 860 SuperSport that had won Bathurst, but it was too late to matter. That special Bathurst bike had round cases, and looked identical to a green frame 750 SS, but with the 860 camshaft bearing mounts on the heads, and 860 SuperSport on the bike's side covers. Ron Angel later said that the bike had been built by Ducati at his request for the previous Bathurst, but was then ruled ineligible, so more work was done, and the bike was sent by sea, arriving in time for the race the following year, where it was presented as a production bike. It had special parts, including the Imola cams and the limited availability close ratio gearbox. The 2 kg inboard flywheel had been removed, but the bike did not have the straight cut primary gears of the Imola bikes. The camshaft bearing mounts were the only externally obvious 860 part. (The "900" models remained 860 cc.)
+
+Ron Angel had previously brought Spaggiari's bike out to Australia after Imola, and Blake had ridden it in competition where the rules allowed. That bike had the straight cut primary gears."Italian Motorcycles 3" magazine, Article: P72 - P77, "Blakey's bike and the Mountain." Author: Ian Falloon. Publisher: Federal Publishing Company NSW Australia.
+
+In 1976 Tartarini did a makeover on the 860GT creating the Ducati Darmah SD900. It was an immediate success. The only new Giugiaro cased bevel models after this were the Mike Hailwood Replica, a cosmetic version of the NCR racers, and the S2. Unlike the SuperSport, the MHR bikes were not thinly disguised race bikes, but road bikes dressed as racers.
+
+The Mille engine was not just an overbore of the 860, but a complete redesign of the engine. It had a one piece forged nitrided crankshaft, with plain big-end bearings and a larger oil pump with the oil pressure at 80 psi. The new crankshaft had an 80 mm stroke, and with the 88 mm bore, gave a 973 cc engine, and a 5% improvement in power. The complete MHR Mille weighed 198 kg dry. The gearbox and final ratios were altered to give a better spread of ratios, so that the performance gain is a little better than the horsepower and weight figures would suggest. A kick-starter was no longer available. A Nippon Denso starter motor was standard. The giugiario engine covers had finally disappeared.
+The engine was available in the MHR Mille and S2 Mille. The MHR outsold the S2 nine to one.
+
+The 1971 750 GT evolved through the late 1972 750 Sport and 1974 750SS into the 1975 900SS and the 1982 Mike Hailwood Replicas. Despite other variations, all these frames kept the typical Seely style chain adjusters."Italian Motorcycles 7" magazine, Article: P20 - P24, "The magic of Mike the Bike", Subtitle:"How Hailwood saved Ducati" Author: Ian Falloon. Publisher: Federal Publishing Company NSW Australia.
+
+===Belt-driven camshafts===
+(Pantah 500SL onwards)"Modern Ducati" magazine, Article: P6 - P15, "Higher eDUCATIon", Subtitle: "An Informal History of the Two-Valvers". Author: Ian Falloon. Publisher: Federal Publishing Company NSW Australia.
+
+When the 350 cc and 500 cc vertical twins were recognised as a marketing disaster, Taglioni went to work on the Pantah.
+
+It came onto the market in 1980 as the red and silver 500SL. It used the same bore and stroke as the old 500 racers, 74 mm x 58 mm, but had a 60 degree included valve angle and belt driven camshafts. They were noticeably lacking in bottom end and mid range torque, but revved freely enough. The handling seemed less certain, and the 35 mm front forks lacked rigidity.
+
+Enthusiasts soon found the final gearing too tall, and the intake and exhaust restrictive. If you changed those, you had a fast bike.
+
+In 1981 Ducati Bipantah engine was derived by Pantah 500SL: it remained at prototype stage.
+
+In 1981 the silver 600SL became available with fairing and hydraulic clutch activation. It had an 80 mm bore and the 58 mm stroke giving 583 cc (TT2 racer used 81 mm) By 1984 the last of the 600SL bikes had MHR paint.
+
+In 1982 the 600TL was released, and the styling was promptly panned. They lasted till 1983.
+
+In 1983 the 650SL came about because of the need to homologate the TT1 750 racer's 61.5 mm stroke. Instead of producing a production 750, the 650SL was born with 82 mm bore and the 61.5 mm stroke. Visually it was the same as the 600SL, but it had torque, and that was a big improvement.
+
+Cagiva (CAstiglioni GIovanni VArese) company, founded by the Castiglioni brothers, took over Ducati Meccanica in 1985. Ducati engines promptly appeared in Cagiva motorcycles, such as the Cagiva Alazzurra, and the Cagiva Elefant.
+
+The 650SL continued to be produced after the Cagiva take-over, and ended production in 1986.
+
+In 1985 the Ducati F1 750 was released, based on the TT1 and TT2 racers, with full flow oil cooling rather than cylinder head bypass cooling, and cantilever rear suspension. The first production bikes used the same size valves as the 500 had, restricting performance. With its 1400 mm wheelbase, it was a smaller 750 than the world was used to, and ancillary parts were of mixed quality. Larger riders found it small, and the  front wheel restricted tyre choice. Distinctive features included 38 mm Marzocchi front forks, fully floating disc brakes front and rear, hydraulically operated dry clutch, two into one exhaust, Nippon Denso instruments, and an aluminium petrol tank.
+
+In 1986 the 750 F1 crankcases were strengthened, and now used straight cut primary gears, and a stronger gearbox. The valve sizes were increased to 41 mm and 35 mm, as used on the TT2, and this meant smaller 12 mm sparkplugs were fitted. Other features were 40 mm Forcella front forks, Veglia instruments, and a steel petrol tank.
+
+This was the same year the liquid-cooled Desmoquattro engine appeared on a racer at 1986 24H of Montjuic. While air-cooled models are still produced, development since has focussed more on the liquid-cooled models.
+
+The 750 F1 continued to be produced in 1987 and 1988. There were three limited edition models; the Montjuich, the Laguna Seca, and the Santa Monica. These used 40 mm Dell'Orto carburettors, hotter camshafts, a two into one Verlicchi exhaust, 4 piston Brembo calipers with fully floating discs all round, and an aluminium swingarm. These are considered the best of the 750 F1 models.
+
+In the same way Ducati had sought Seely's frame expertise in 1970, Cagiva now went to Massimo Tamburini of Bimota to design a new frame and look for the 750 F1. The Ducati Paso was born, and was named in honour of Renzo Pasolini. The engine was no longer a stressed member of the frame. The cradle frame used M1R Marzocchi forks and rising rate rear suspension. It weighed 195 kg and had almost fully enclosed bodywork. The rear cylinder head was reversed so that both cylinders could share a single twin throat Weber carburettor. The Paso was the second proposal from Tamburini, the first, considered too expensive to produce by the Ducati board, became the Bimota DB1.
+
+The Weber carburettor proved troublesome. Despite numerous tuning revisions owners were plagued with flat spots, backfiring, and throttle lag. The 750 Paso was produced until 1990.
+
+In 1988 a 750 Sport was released, basically a Weber carbed Paso engine in a 750F1 frame, but with an aluminium swingarm.
+
+In 1989 the liquid-cooled 906 Paso was introduced, with a 92 mm bore and 68 mm stroke, and a six speed gearbox, and weighing in at 205 kg.
+
+With the release of the 906 Paso, an air-cooled version of the engine was put into a 1988 750 Sport frame, and the resulting bike called a 1989 900 SuperSport . It weighed just 180 kg, and came with a choice between full and half fairing. In 1990 the Weber was replaced by Mikuni 38 mm CV carburettors, with equal length intakes, while the frame was given a 25 degree steering rake, a reduced 1410 mm wheelbase, a new alloy swingarm, and an adjustable 41 mm Showa upside down forks.
+
+In 1991 the liquid-cooled 907IE was released with Weber-Marelli fuel injection. Early in the model run the crankcases were strengthened, after some cracking in racing use. These had  wheels, and four piston Brembo brake calipers. The 907IE ended production in 1992.
+
+Also in 1991, a five speed 750 SuperSport was released with a single disc, and non-adjustable 41 mm Showa forks. A 400 SuperSport Junior was also released using the same 750SS running gear.
+
+The 900 SuperLight appeared in 1992 as a limited edition model SuperSport with monoposto seat, upswept exhaust pipes, vented clutch cover, fully floating Brembo front discs, carbon fibre bits, and lightweight Marvic wheels and guards. In 1993 the vented clutch cover, fully floating Brembo front discs, and lightweight Marvic wheels and guards disappeared from the SuperLight, and there was now only the fully floating rear brake to differentiate the 900 SuperSport and SuperLight.
+
+1993 saw the introduction of the (M900) Ducati Monster, a 900 SuperSport motor in a modified 851 frame. It weighed 184 kg, and had a low seat height of 770 mm. It was not a race bike or a tourer, but a naked boulevard cruiser crossed with a traffic light dragster. It was quite a sales success.
+
+In 1994 a five speed 600 SuperSport and a five speed 600 Monster appeared. It was the original specification motor and gearbox, with all the improvements of contemporary models added. The 750 SuperSport was updated with twin 320 mm front discs, and a steel swing arm. The 900 SuperSport and SuperLight received uprated Showa forks, and in 1995, an oil temperature gauge was added to the instruments.
+
+In 1996 the M900 gained fully adjustable Marzocchi forks. This was also the year Texas Pacific Group bought a 51% stake in the company for US$325 million, thus taking over from Cagiva, and renamed the company 'Ducati Motor SpA.
+
+In 1998 came the 944 cc liquid-cooled Ducati ST2 Sports Turismo, with an engine descended from the earlier Paso 906 and 907ie.
+
+In 2000 the 1000SS (992 cc) was released, weighing 185 kg, with a 1395 mm wheelbase.
+
+In late 2003 the 620SS, 800SS, and 1000DS came on the market, still two valve, but with a narrower included valve angle.
+
+The Multistrada 1000DS was ostensibly a supermoto bike, but with a more upright seating position. The 1000DS was a two valve dual spark SuperSport. The 1000DS motor has a 992 cc air-cooled 90° V-Twin, based on Ducati's existing liquid and air-cooled engines, with twin-spark plug heads, pressure fed plain camshaft bearings, redesigned crankshaft, higher oil pressure and volume, and new alloy clutch basket, drive and driven plates. The Multistrada 1000DS uses Ducati's signature trellis frame with fully adjustable 160 mm travel Showa forks up front, and a single-sided swingarm, with an Öhlins fully adjustable rear shock coupled with a rising rate, height-adjustable suspension system at the rear. Brembo "Serie Oro" calipers used front and rear. Front 320 mm discs, Brembo four piston calipers, single 245 mm rear disc, and steel-braided brake lines front and rear. The discs are now mounted directly to oversized hubs, eliminating the disc carriers.
+

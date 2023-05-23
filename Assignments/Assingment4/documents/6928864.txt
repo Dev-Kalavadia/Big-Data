@@ -1,0 +1,49 @@
+Title: Ducati Desmoquattro engine
+The Ducati Desmoquattro are water-cooled, four-valve engines from Ducati. They have been produced since 1985 in capacities from .
+
+==Desmoquattro vs. Bipantah==
+Castiglioni brothers from Cagiva bought Ducati in May 1985 and decided to start new investments in order to compete with Japanese firms. To do this they needed a new powerful engine, so they had a look into different proposals from technical department. The two best solutions were the Bipantah, a stillborn 994 cc air-cooled V4 and the Desmoquattro, a liquid-cooled, multi-valve, fuel-injected evolution of 750 cc V-twin. After extensive technical discussions, they preferred Desmoquattro over Bipantah, because the first could be easily installed inside the cradle of the existing models.
+
+==The Early Desmoquattro (851 - 996S)==
+The water-cooled Ducati Desmoquattro engine that has dominated World Superbike racing was introduced in 1986 with the Ducati 748 IE racer ridden by Virginio Ferrari, Juan Garriga and Marco Lucchinelli at 1986 Bol d'Or and then transferred to series production in 1987 in Ducati 851 form, and despite subtle changes and increases in capacity, from 851, to 888, 916, and then 996 cc, remains true to the 851 motor designed by Massimo Bordi. That 851 was the first successful adaptation of Ducati's desmodromic valve actuation to a four valves per cylinder engine, and began production with a 40-degree included valve angle. This was also the introduction of liquid cooling and computerised fuel injection to the V-twin range.
+
+Fabio Taglioni, the designer of earlier Ducati v-twins, had experimented with four-valve heads, but stuck to his 80-degree included valve angle, not realizing that a much lower included valve angle was needed for the benefits of the layout to become apparent.
+
+In 1991 Ducati increased the capacity of the 851 to 888 cc, creating the Ducati 888.
+
+In 1994, the company introduced the Ducati 916 model designed by Massimo Tamburini, with striking new bodywork that had aggressive lines, under-seat exhausts, and a single-sided swingarm."Modern Ducati" magazine, Article: P61 - P71, "Desmoquattro", Author: Ian Falloon. Publisher: Federal Publishing Company NSW Australia.
+
+Introduced in 1999 The Ducati 996 competed against Honda's (VT1000) Firestorm ('SuperHawk' in the U.S.), Suzuki's TL1000S (and the later TL1000R) and the Aprilia RSV Mille (and the later Mille R).
+
+The 996 cc engine had larger  pistons, larger valves, a stronger crankshaft and crankcases from the 916 SPS. But the 916 camshaft gave a softer, less peaky power delivery and less top-end power: Output was  as against the SPS's 
+
+From 1999, there were three different 996 models: the first two being the 996 Biposto and the 996S (with Öhlins suspension and the engine of the 996SPS).
+
+==The Testastretta (996R - 999R)==
+The 2001 996R, last of the "996" models, had the 998 cc engine and new Testastretta ('Narrow Head') head, looking little different from a 996SPS, but producing  @ 10,200 rpm and 105 N·m (10.3 kgf·m, 74.5 ft·lbf) of torque at 8,000 rpm. It had a six-speed gearbox.
+
+The new Testastretta head's included valve angle was reduced from 40 degrees to 25 degrees which was more in line with current F1 four-valve theory. The bore and stroke dimensions changed from 98 mm x 66 mm to 100 mm x 63.5 mm, giving a true 998 cc and allowing even bigger valves.
+
+In 2002 the Ducati 998 appeared, and only lasted for one season. The basic SP model had a combination of items from the parts bins of higher specification versions of the 996, but unlike the 996, had the Testastretta engine in all 998 models. There were also some chassis and aerodynamic modifications.
+
+The 2003 Ducati 999 was designed by Pierre Terblanche, amid much controversy and criticism relating to the styling.
+
+The basic 999 produced  @ 9500 rpm. It was followed by the more powerful 999S producing ) @ 9750 rpm and 106 N·m (10.8 kgf·m or 78.2 ft·lbf) @ 8000 rpm, and then the 999R versions were introduced producing  and 11 kgf·m (108 N·m) @ 8000 rpm, capable of 0-62 mph in less than 3 seconds and with a top speed of over .
+
+In 2005 aerodynamic improvements as well as engine upgrades were standard. The base 999 was given a 140 bhp engine and outfitted with an adjustable Showa suspension, while the 999S model had  and a top-of-the-line Öhlins suspension. The 999R was the only 999 model to displace a true 999 cc (the others were 998 cc; the 2002 998R also displaced 999 cc) and the engine is good for .
+
+The Ducati 749 and its variants (including the 749R) are similar to the 999, but the 749 has a lower price, smaller, higher revving engine and slightly smaller rear tire.
+
+The Ducati 999R Xerox race replica was introduced in 2006.
+
+==Testastretta Evoluzione (1098)==
+The 2007 Ducati 1098 had a new engine called the Testastretta Evoluzione ('evolution'). It had larger displacement, larger valves, narrower included valve angle, better breathing through oval throttle bodies and butterfly valves, lighter weight (including magnesium valve covers), and higher output than its predecessors.  Ducati claim this to be the most powerful twin-cylinder production motorcycle engine in the world.
+
+==Desmotre==
+The liquid-cooled ST3 Desmotre engine has two 34 mm intake valves and one 40 mm exhaust valve and an included angle of 40°. The Desmotre develops  at 8,750 rpm and 9.5 kgf·m (93 N·m) of torque at 7,250 rpm. The design is aimed at meeting anti-pollution limits to be introduced.
+
+The bottom end is derived from the 1000 DS Desmodue, with the water pump in the alternator cover.
+
+==Desmosedici==
+The Ducati Desmosedici RR is a presold batch of V4 race replicas. The 989cc Desmosedici engine is unique among production Ducati models for its use of gear-driven camshafts.
+

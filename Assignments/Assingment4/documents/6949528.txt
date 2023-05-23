@@ -1,0 +1,27 @@
+Title: Radmind
+
+Radmind is a suite of Unix command-line tools and an application server designed to remotely administer the file systems of multiple client machines.
+
+For Mac OS X, there is a graphical user interface called Radmind Assistant, as well as a GUI for the Radmind server called Radmind Server Manager.
+
+Radmind was the 2003 Apple Design Awards runner-up for Best Mac OS X Server Solution.
+
+Radmind is developed by the Research Systems Unix Group at the University of Michigan.
+
+== How Radmind Works ==
+Radmind operates as a tripwire, detecting changes in a client's filesystem (and, in the case of Microsoft Windows, the registry) and reversing the changes. Radmind stores filesystem specifications in text files called transcripts, signified with a .T extension.  Transcripts are referenced from command files, signified with a .K extension, which specify which transcripts (and with what precedence) should be applied to a client machine's filesystem.
+
+== Suite of tools ==
+The radmind suite of tools comprises
+
+* ktcheck, which updates the locally stored command files and transcripts to match those on the server.
+* fsdiff, which checks the client filesystem against the transcripts on the local system without using network bandwidth.
+* lapply, which updates the client filesystem to match the transcripts, downloading files as needed.
+* lcreate, which uploads new transcripts to the server.
+* lcksum, which verifies uploaded transcripts.
+* lfdiff, which compares local files with copies on Radmind server.
+* lmerge, which combines transcripts on the server.
+* ra.sh , which automates the update process using ktcheck, fsdiff, and lapply.
+* twhich, which returns which transcript(s) a file is referenced in.
+* applefile, which allows Radmind to work with AppleSingle files.
+

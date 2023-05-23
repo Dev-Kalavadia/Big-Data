@@ -1,0 +1,33 @@
+Title: Hairy Head
+230px|thumb|right|Mǎo Xiù map
+The Hairy Head mansion (昴宿, pinyin: Mǎo Xiù) is one of the Twenty-eight mansions of the Chinese constellations.  It is one of the western mansions of the White Tiger.
+
+This mansion corresponds to the Pleiades in English.
+
+==Asterisms==
+{| class="wikitable"
+! English name !! Chinese name !! European constellation !! Number of stars !! Representing
+|- 
+| Hairy Head || 昴 || Taurus/Pleiades || 7||The maned head
+|- 
+| Celestial River || 天河 || Aries || 1||River in the sky
+|- 
+| Moon || 月 || Taurus || 1||Moon spirit
+|- 
+| Yin Force || 天陰 || Aries/Taurus  || 5||	Overcast sky force, or the shadows of north mountain, or that officials of the emperor which hunting together
+|- 
+| Hay || 芻蒿 || Cetus || 6||Hay and cattle food
+|- 
+| Celestial Meadows || 天苑 || Cetus/Eridanus || 16||Imperial family's ranch
+|- 
+| Rolled Tongue || 卷舌 || Perseus || 6||Shape of the curled tongue
+|- 
+| Celestial Slander || 天讒 || Perseus || 1|| The tongue which said slanderous
+|- 
+| Whetstone || 礪石 || Andromeda/Perseus/Taurus || 4||Grindstone
+|}
+
+
+
+
+Category:Chinese constellations

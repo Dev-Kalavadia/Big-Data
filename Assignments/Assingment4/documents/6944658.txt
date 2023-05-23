@@ -1,0 +1,11 @@
+Title: Hot tube engine
+The hot tube engine  is a primitive and long-obsolete type of combustion engine, not to be confused with the hot-bulb engine. The timing of a hot tube engine is controlled by means of varying the length of the hot-tube ignitor, that does the job that a spark plug does in a spark ignited engine. Length of the tube controls when the charge ignites, and the ignition timing can be optimized so as to allow different operating speeds to be selected, much like a spark advance control. It was mostly used as a stationary engine on farms but was also found in very early automobiles and motorcycles.
+
+Contrary to the aforementioned hot-bulb engine which only requires a heater to begin combustion but then self-sustains, the flame must be kept on the ignitor tube for the engine to keep working, because the byproduct heat from internal combustion is insufficient to maintain the required temperature for ignition. Modern recreations and restored engines are therefore built to run on propane, as it can easily be used both for the engine itself and for the heater flame.
+
+==See also==
+* Hot-tube ignitor
+
+Category:Engine technology
+
+

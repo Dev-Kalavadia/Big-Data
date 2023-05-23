@@ -1,0 +1,22 @@
+Title: Symphony No. 3 (Schubert)
+
+Franz Schubert's Symphony No. 3 in D major, D 200, was written between 24 May and 19 July 1815, a few months after his eighteenth birthday. Like  the other early symphonies (the six written before the "Unfinished" Symphony of 1822), it was not published during Schubert's lifetime. It appeared many years later, in the first Schubert complete works edition in 1884. It is scored for 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets, timpani and strings.
+
+The length of this symphony is approximately 21 to 23 minutes. It is in four movements:
+
+:
+\relative c' {
+  \tempo "Adagio maestoso"
+  \key d \major
+  d1\ff->\fermata | r2 d'8.->\p ( \times 2/3 {e32 fis g} a8) r | r2 a,8~-> a32 (b64 cis d e fis gis a8) r
+}
+
+
+The symphony opens with a broad introduction in a form which is reminiscent of the French overture in two parts, the first slow and dramatic, the second more lyrical. This leads into the Allegro con brio, which is remarkable for its charm and the interplay of solo clarinet with syncopated strings, which developed pp from within the bounds of the style of chamber music to the larger sphere of the symphonic form. This is an extremely dramatic movement in sonata form. It owes much, as Michael Trapp points out in the liner notes of Günter Wand's recording, to the influence of Rossini, whose music was quite popular at the time, particularly evident in the overture-like structure. According to Blair Johnston, this symphony also shows Haydn's  influence on the young Schubert, mainly in the introduction: "long-sustained octaves, complete with timpani roll, precede gradually shifting harmonies that, in true late Haydn fashion, migrate into a sullen D minor."
+
+A delightful Allegretto in ternary form follows, full of grace and humor. The tune that unfolds has the character of a peasant's dance and its rhythms spread to the subsidiary melody as well.
+
+Then comes a high-spirited Minuet, which, with its accented up-beats, suggests a scherzo and a popular flavor due to this low and popular gesture, and is contrasted by a graceful Ländler-like trio.
+
+The concluding Presto in tarantella rhythm is remarkable for its bold harmonic progressions and for its wealth of dynamic contrast. This movement is in sonata form with a looser conception. Some musicologists, such as Mosco Carner, cite a strong resemblance to the music of Rossini in terms of rhythm, dynamics and harmonic relationships among the different sections.
+

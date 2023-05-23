@@ -1,0 +1,32 @@
+Title: Value shopA value shop is an organization designed to solve customer or client problems, rather than creating value by producing output from an input of raw materials. The principles of value shops were first conceptualized by Thompson in 1967, and properly defined by Charles B. Stabell and Øystein D. Fjeldstad of the Norwegian School of Management in 1998, who also created the name. 
+
+Compared to Michael Porter's concept of the value chain, there is no sequential fixed set of activities or resources utilized to create value. Each problem is treated uniquely and activities and resources are allocated specifically to cater to the problem in question.
+
+According to the research of Stabell and Fjeldstad, the value configuration analysis (1998), five main generic activities are carried out in the organization:
+
+* Problem Finding and acquisition
+* Problem Solving
+* Choice of problem solution
+* Execution of solution
+* Control and evaluation
+
+Value is created in the shop by several mechanisms allowing the organization to solve problems better or faster than the client. These are variables such as:
+
+* The organization is in possession of more information about the problem than the client
+* The organization is specialized to deal with the problem at hand with specific methods to cover analysis
+* Strong expertise with expert professionals is available.
+
+Some of the classical examples of value shops include management consultancies such as Boston Consulting Group, Deloitte Touche Tohmatsu and McKinsey. The value shop concept has also been applied to a number of other activities including Norwegian police investigations (e.g. Gottschalk, 2007) and the knowledge-intensive energy exploration business (Woiceshyn and Falkenberg, 2008).
+
+== See also ==
+* Value network
+* Value network analysis
+
+== References ==
+* Gottschalk, P. (2007) "Predictors of Police Investigation Performance: An Empirical Study of Norwegian Police as Value Shop". International Journal of Information Management, 27, 36-48.
+* Stabell, C.B., and Fjeldstad, Ø.D. (1998) "Configuring Value for Competitive Advantage: On Chains, Shops, and Networks", Strategic Management Journal, 19, 413-437.
+* Thompson, J.D. (1967) Organizations in Action. McGraw Hill: New York.
+* Woiceshyn, J. and Falkenberg, L. (2008) "Value-creation in Knowledge Based Firms: Aligning Problems and Resources". Academy of Management Perspectives, 22, 2, 85-99.
+
+
+Category:Value proposition

@@ -1,0 +1,37 @@
+Title: Marie-Christine Cazier
+Marie-Christine Cazier-Ballo (born 23 August 1963 in Paris) is a retired French sprinter, who specialized in the 200 meters. She set three French records over the distance, the last being 22.32 seconds, when she won a silver medal at the 1986 European Championships. She competed in the women's 200 metres at the 1988 Summer Olympics.
+
+==Achievements==
+{| 
+|-
+!colspan="6"|Representing 
+|-
+|1984
+|European Indoor Championships 
+|Gothenburg, Sweden
+|bgcolor="silver" | 2nd
+|200 m
+|
+|-
+|1985
+|World Indoor Games 
+|Paris, France
+|bgcolor="silver" | 2nd
+|200 m
+|
+|-
+|1986
+|European Championships 
+|Stuttgart, West Germany
+|bgcolor="silver" | 2nd
+|200 m
+|22.32 NR
+|-
+|1987
+|European Indoor Championships 
+|Liévin, France
+|bgcolor="cc9966" | 3rd
+|200 m
+|
+|}
+

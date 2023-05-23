@@ -1,0 +1,144 @@
+Title: XL Airways Germany
+
+
+
+XL Airways Germany GmbH was a German charter airline headquartered in Mörfelden-Walldorf, Hesse, operating charter and ad-hoc lease services, mostly out of Frankfurt Airport. The airline belonged, together with now defunct XL Airways France, to ALMC hf (formerly Straumur Investment Bank) from Iceland.
+
+==History==
+The airline was founded as Star XL German Airlines by Eimskip from Iceland and received its air Operator's Certificate on 3 May 2006. On 30 October of the same year, the Avion leisure business was bought out and re-organized by the XL Leisure Group, resulting in the airline changing its name to XL Airways Germany.
+
+On 11 September 2008, BBC News Channel reported that XL Leisure Group had filed for administration due to rising fuel prices, although initially Simon Calder confirmed the group's website was still taking bookings, the group folded the next morning. Operations of the German and French airline subsidiaries were not affected, however. On 12 September 2008, Straumur Investment Bank acquired XL Airways Germany and its French sister company, XL Airways France.
+
+The company filed for bankruptcy on 27 December 2012; operations for the winter season had already been suspended on 14 December. The company officially closed on 3 January 2013.
+
+==Destinations==
+XL Airways Germany served the following destinations in December 2012:
+
+{| class="wikitable" style="margin:0.5em auto; text-align:center"
+|-
+!Country
+!City
+!IATA
+!ICAO
+!Airport
+!Notes
+!Refs
+|-
+|rowspan=2|||Hurghada||align=center|HRG||align=center|HEGN||Hurghada International Airport||||
+|-
+|Sharm el-Sheikh||align=center|SSH||align=center|HESH||Sharm El Sheikh International Airport||||
+|-
+|rowspan=14|||Cologne/Bonn||align=center|CGN||align=center|EDDK||Cologne Bonn Airport||align=center| ||
+|-
+|Düsseldorf||align=center|DUS||align=center|EDDL||Düsseldorf Airport||align=center| ||
+|-
+|Erfurt||align=center|ERG||align=center|EDDE||Erfurt–Weimar Airport||align=center| ||
+|-
+|Frankfurt||align=center|FRA||align=center|EDDF||Frankfurt Airport||||
+|-
+|Hahn||align=center|HHN||align=center|EDFH||Frankfurt–Hahn Airport||align=center| ||
+|-
+|Hamburg||align=center|HAM||align=center|EDDH||Hamburg Airport||align=center| ||
+|-
+|Hanover||align=center|HAJ||align=center|EDDV||Hannover Airport||||
+|-
+|Leipzig/Halle||align=center|LEJ||align=center|EDDP||Leipzig/Halle Airport||align=center| ||
+|-
+|Munich||align=center|MUC||align=center|EDDM||Munich Airport||align=center| ||
+|-
+|Münster/Osnabrück||align=center|FMO||align=center|EDDG||Münster Osnabrück Airport||align=center| ||
+|-
+|Nuremberg||align=center|NUE||align=center|EDDN||Nuremberg Airport||align=center| ||
+|-
+|Paderborn||align=center|PAD||align=center|EDLP||Paderborn Lippstadt Airport||align=center| ||
+|-
+|Saarbrücken||align=center|SCN||align=center|EDDR||Saarbrücken Airport||align=center| ||
+|-
+|Stuttgart||align=center|STR||align=center|EDDS||Stuttgart Airport||align=center| ||
+|-
+|||Heraklion||align=center|HER||align=center|LGIR||Heraklion International Airport||align=center| ||
+|-
+|||Pristina||align=center|PRN||align=center|BKPR||Pristina International Airport||align=center| ||
+|-
+|||Skopje||align=center|SKP||align=center|LWSK||Skopje International Airport||align=center| ||
+|-
+|||Marrakesh||align=center|RAK||align=center|GMMX||Marrakesh Menara Airport||align=center| ||
+|-
+|||Faro||align=center|FAO||align=center|LPFR||Faro Airport||align=center| ||
+|-
+|rowspan=2|||Fuerteventura||align=center|FUE||align=center|GCFV||Fuerteventura Airport||align=center| ||
+|-
+|Menorca||align=center|MAH||align=center|LEMH||Menorca Airport||align=center| ||
+|-
+|||Enfidha||align=center|NBE||align=center|DTNH||Enfidha–Hammamet International Airport||align=center| ||
+|-
+|rowspan=8|||Adana||align=center|ADA||align=center|LTAF||Adana Şakirpaşa Airport||align=center| ||
+|-
+|Antalya||align=center|AYT||align=center|LTAI||Antalya Airport||||
+|-
+|Elazığ||align=center|EZS||align=center|LTCA||Elazığ Airport||||
+|-
+|Gaziantep||align=center|GZT||align=center|LTAJ||Oğuzeli Airport||||
+|-
+|Kayseri||align=center|ASR||align=center|LTAU||Erkilet International Airport||align=center| ||
+|-
+|Malatya||align=center|MLX||align=center|LTAT||Malatya Erhaç Airport||align=center| ||
+|-
+|Samsun||align=center|SZF||align=center|LTFH||Samsun-Çarşamba Airport||align=center| ||
+|-
+|Trabzon||align=center|TZX||align=center|LTCG||Trabzon Airport||align=center| ||
+|}
+
+==Fleet==
+
+
+===Fleet at airline's closing===
+As of December 2012, the XL Airways Germany fleet consisted of the following aircraft:XL Airways fleet list at planespotters.net
+
+{| class="wikitable" style="margin:0.5em auto; text-align:center"
+|-
+!Aircraft
+!In  service
+!Orders
+!Passengers
+!Notes
+|-
+|Boeing 737-800
+|4
+|—
+|189
+|
+|-
+!Total
+!4
+!—
+!colspan=2|
+|}
+
+===Formerly operated===
+Previously, the fleet consisted of the following aircraft:
+
+{| class="wikitable" style="margin:0.5em auto; text-align:center"
+|-
+!Aircraft
+!Total
+!Introduced
+!Retired
+!Notes
+|-
+|Airbus A320-200
+|4
+|2006
+|2008
+|2 leased from USA3000 Airlines  1 leased from Air New Zealand
+|-
+|}
+
+==Accidents and incidents==
+
+
+*On 27 November 2008, while executing XL Airways Germany Flight 888T, an Airbus A320-200 registered to XL Airways Germany crashed into the Mediterranean Sea near Canet-en-Roussillon on the French coast. The plane was owned by Air New Zealand and leased to XL Airways Germany registered as D-AXLA (formerly ZK-OJL), and was undertaking a technical flight immediately prior to a scheduled handover back to Air New Zealand. At the time of the accident, the plane was painted in Air New Zealand livery. All seven people on board — two Germans (captain Norbert Kaeppel and first officer Theodore Ketzer from XL Airways) and five New Zealanders (one pilot, three aircraft engineers and one member of the Civil Aviation Authority of New Zealand) - were killed.
+
+==See also==
+*List of defunct airlines of Germany
+

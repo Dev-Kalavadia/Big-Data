@@ -1,0 +1,7 @@
+Title: Biceps reflex
+Biceps reflex is a reflex test that examines the function of the C5 reflex arc and the C6 reflex arc.  The test is performed by using a tendon hammer to quickly depress the biceps brachii tendon as it passes through the cubital fossa. Specifically, the test activates the stretch receptors inside the biceps brachii muscle which communicates mainly with the C5 spinal nerve and partially with the C6 spinal nerve to induce a reflex contraction of the biceps muscle and jerk of the forearm.
+
+A strong contraction indicates a "brisk" reflex, and a weak or absent reflex is known as "diminished". Brisk or absent reflexes are used as clues to the location of neurological disease. Typically, brisk reflexes are found in lesions of upper motor neurons, and absent or reduced reflexes are found in lower motor neuron lesions.
+
+A change in the biceps reflex indicates pathology at the level of musculocutaneous nerve, segment C5/6 or at some point above it in the spinal cord or brain.
+

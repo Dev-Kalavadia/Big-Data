@@ -1,0 +1,76 @@
+Title: Legislative districts of Caloocan
+
+The legislative districts of Caloocan are the representations of the highly urbanized city of Caloocan in the various national legislatures of the Philippines. The city is currently represented in the lower house of the Congress of the Philippines through its first,  second, and third congressional districts.
+
+== History ==
+
+Caloocan was initially represented as part of the at-large district of the province of Manila in the Malolos Congress from 1898 to 1899. The then-town was later incorporated to the province of Rizal, established in 1901, and was represented as part of the first district of Rizal from 1907 to 1941 and from 1945 to 1972. In the disruption caused by the World War II, it was incorporated to the City of Greater Manila and was represented as part of the at-large district of Manila in the National Assembly of the Second Philippine Republic from 1943 to 1944. Caloocan was separated from Rizal on November 7, 1975 by virtue of Presidential Decree No. 824 signed by President Ferdinand Marcos, and was represented in the Interim Batasang Pambansa along with other Metropolitan Manila municipalities and cities as part of Region IV from 1978 to 1984.
+
+Caloocan first gained separate representation in 1984, when it elected two assemblymen at-large to the Regular Batasang Pambansa from 1984 to 1986. It was later divided into two districts upon the restoration of the House of Representatives in 1987.
+
+Of the country’s 238 legislative districts, the first legislative district of Caloocan was the biggest in terms of population size, with 1.19 million persons as of 2015.
+
+In 2021, the Senate passed on third and final reading House Bill No. 7700, a bill creating the third legislative district of Caloocan. It divided the first district into two legislative districts. The first legislative district would be composed of Barangays 1 to 4, Barangays 77 to 85 and Barangays 132 to 177 while Barangays 178 to 188 would form the third legislative district. It was later approved by President Rodrigo Duterte on May 26, 2021 as he signed this law under Republic Act No. 11545.
+
+== Current districts ==
+{| class="wikitable sortable" style="margin: 1em auto; font-size:100%; line-height:20px; text-align:center"
+|+Legislative Districts and Congressional Representatives of Caloocan
+|-
+!District
+! colspan="3" |Current Representative
+!Party
+! Barangays
+!Population (2020)
+!Area
+|-
+!1st
+| style="background:;" |
+|150x150px
+| style="text-align:left;" |Oscar Malapitan(since 2022)
+|Nacionalista
+| 
+| 953,125
+|34.86 km2 
+|-
+!2nd
+| style="background:;" |
+|150x150px
+| style="text-align:left;" |Mitzi Cajayon-Uy(since 2022)
+|PDP-Laban
+|
+|381,690
+|8.40 km2
+|-
+!3rd
+| style="background:;" |
+|150x150px
+| style="text-align:left;" |Dean Asistio(since 2022)
+|Lakas-CMD
+|
+|327,769
+|12.54 km2
+|}
+
+== At-Large (defunct) ==
+{| class="wikitable" style="text-align:center; width:40%;"
+|-
+! width="40%"| Period
+! Representatives 
+|-
+| rowspan="2"| Regular Batasang Pambansa1984–1986
+| Antonio C. Martinez
+|-
+| Virgilio P. Robles
+|}
+
+== See also ==
+* Legislative districts of Rizal
+
+== References ==
+
+
+
+
+Caloocan
+Caloocan
+Category:Politics of Caloocan

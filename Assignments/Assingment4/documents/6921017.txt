@@ -1,0 +1,12 @@
+Title: Algebraic Geometry (book)
+Algebraic Geometry is an algebraic geometry textbook written by Robin Hartshorne and published by Springer-Verlag in 1977.MathSciNet lists more than 2500 citations of this book.
+
+==Importance==
+It was the first extended treatment of scheme theory written as a text intended to be accessible to graduate students.
+
+==Contents==
+The first chapter, titled "Varieties", deals with the classical algebraic geometry of varieties over algebraically closed fields. This chapter uses many classical results in commutative algebra, including Hilbert's Nullstellensatz, with the books by Atiyah–Macdonald, Matsumura, and Zariski–Samuel as usual references. The second and the third chapters, "Schemes" and "Cohomology", form the technical heart of the book. The last two chapters, "Curves" and "Surfaces", respectively explore the geometry of 1- and 2-dimensional objects, using the tools developed in the chapters 2 and 3.
+
+==Notes==
+
+

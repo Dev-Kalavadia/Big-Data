@@ -1,0 +1,501 @@
+Title: Cedar Creek Union order of battleThe following Union Army units and commanders fought in the Battle of Cedar Creek of the American Civil War. Order of battle compiled from the army organizationMultiple commander names indicate command succession of command during the battle or the campaign. during the campaign.Official Records, Series I, Volume XLIII, Part 1, pages 125-130 The Confederate order of battle is listed separately. 
+
+==Abbreviations used==
+
+===Military rank===
+* MG = Major General
+* BG = Brigadier General
+* Col = Colonel
+* Ltc = Lieutenant Colonel
+* Maj = Major
+* Cpt = Captain
+
+===Other===
+* w = wounded
+* mw = mortally wounded
+* k = killed
+
+==Army of the Shenandoah==
+
+MG Philip Sheridan, Commanding
+MG Horatio WrightCommanded during General Sheridan's temporary absence is the early part of the battle.
+
+
+Escort:
+* 17th Pennsylvania Cavalry (detachment): Maj Weidner H. Spera
+* 6th U. S. Cavalry: Cpt Ira W. Claffin
+
+===VI Corps===
+
+BG James B. Ricketts (w)
+ BG George W. Getty
+ MG Horatio Wright
+
+
+Escort:
+1st Michigan Cavalry, Company G: Lieutenant William H. Wheeler
+
+{| class="wikitable"
+! width=25% | Division
+! width=25% | Brigade
+! Regiments and Others
+|-
+| rowspan=3 |
+First Division
+
+    
+BG Frank Wheaton
+| 1st Brigade
+
+  
+Col William Henry Penrose (w)
+  
+Ltc Edward L. Campbell (w)
+  
+Cpt Baldwin Hufty
+|
+* 4th New Jersey: Cpt Baldwin Hufty
+* 10th New Jersey: Maj Lambert Boeman (k), Cpt Charles D. Claypool
+* 15th New Jersey: Ltc Edward L. Campbell, Cpt James W. Penrose
+|-
+| 2nd Brigade
+  
+Col Joseph Eldridge Hamblin (w)
+  
+Col Ranald S. Mackenzie (w)
+  
+Ltc Egbert Olcott
+
+|
+* 2nd Connecticut Heavy Artillery: Col Ranald S. Mackenzie, Maj Edward W. Jones
+* 65th New York: Ltc T. H. Higginbotham (k), Cpt Henry C. Fisk
+* 121st New York: Ltc Egbert Olcott, Cpt Daniel D. Jackson
+* 95th Pennsylvania: Cpt Dan Harper
+* 96th Pennsylvania: Cpt Dan Harper
+|-
+| 3rd BrigadeAt Winchester, Va., and not engaged in the battle.
+  
+Col Oliver Edwards
+|
+* 37th Massachusetts: Ltc George L. Montague
+* 49th Pennsylvania: Ltc Baynton J. Hickman
+* 82nd Pennsylvania: Col Isaac C. Bassett
+* 119th Pennsylvania: Ltc Gideon Clark
+* 2nd Rhode Island (battalion): Cpt Elisha Hunt Rhodes
+* 5th Wisconsin (battalion): Maj Charles W. Kempf
+* 17th Pennsylvania Cavalry: Maj Coe Durland
+|-
+| rowspan=3 |
+Second Division
+
+    
+BG George W. Getty
+    
+BG Lewis A. Grant
+    
+BG George W. Getty
+| 1st Brigade
+  
+Col James M. Warner
+|
+* 62nd New York: Ltc Theodore B. Hamilton
+* 93rd Pennsylvania: Cpt David C. Keller
+* 98th Pennsylvania: Ltc John B. Kohler (k), Cpt Gottfried Bauer.
+* 102nd Pennsylvania: Maj James H. Coleman (k), Cpt James Patchell (w)
+* 139th Pennsylvania: Ltc John G. Parr
+|-
+| 2nd Brigade
+  
+BG Lewis A. Grant
+  
+Ltc Amasa Tracy
+  
+BG Lewis A. Grant
+|
+* 2nd Vermont: Ltc Amasa Tracy, Cpt Elijah Wales, Ltc Amasa Tracy
+* 3rd Vermont, (battalion): Maj Horace W. Floyd
+* 4th Vermont: Maj Horace W. Floyd, Col George P. FosterCorps officer of the day at the beginning of the battle; later rejoined brigade and commanded the left of its line.
+* 5th Vermont: Maj Enoch E. Johnson
+* 6th Vermont, (battalion): Cpt Edwin R. Kinney (w), Cpt William J. Sperry.
+* 11th Vermont (1st Heavy Artillery): Ltc Charles Hunsdon
+
+|-
+| 3rd Brigade
+  
+BG Daniel D. Bidwell (k)
+  
+Ltc Winsor B. French
+|
+* 1st Maine Veterans: Maj Stephen C. Fletcher
+* 43rd New York (battalion): Maj Charles A. Milliken
+* 49th New York (battalion): Ltc Erastus D. Holt
+* 77th New York: Ltc Winsor B. French
+* 122d New York: Ltc Augustus W. Dwight (w), Maj Jabez M. Brower (w)
+* 61st Pennsylvania (battalion): Cpt David J. Taylor
+|-
+| rowspan=2 |
+Third Division
+
+    
+Col J. Warren Keifer
+| 1st Brigade
+  
+Col William Emerson
+|
+* 14th New Jersey: Cpt Jacob J. Janeway
+* 106th New York: Cpt Alvah W. Briggs (w), Cpt Peter Robertson
+* 151st New York: Cpt Browning N. Wiles (w), Cpt Hiram A. Kimball
+* 184th New York (battalion): Maj William D. Ferguson
+* 87th Pennsylvania (battalion): Cpt Edgar M. Ruhl (k), Cpt John A. Salsbury
+* 10th Vermont: Col William W. Henry (w), Cpt Henry H. Dewey
+|-
+| 2nd Brigade
+  
+Col William H. Ball
+|
+* 6th Maryland: Maj Joseph C. Hill
+* 9th New York Heavy Artillery: Maj James W. Snyder
+* 110th Ohio: Ltc Otho H. Binkley
+* 122nd Ohio: Ltc Moses M. Granger
+* 126th Ohio: Maj George W. Voorhes (w), Cpt George W. Hoge
+* 67th Pennsylvania: Lt John F. Young
+* 138th Pennsylvania: Maj Lewis A. May
+|-
+| Artillery Brigade
+  
+Col Charles H. Tompkins
+| 
+|
+* 5th Maine Light Artillery (Battery E): Cpt Greenlief T. Stevens
+* New York Light Artillery, 1st Battery: Lt Orsamus R. Van Etten
+* Battery C, 1st Rhode Island Light Artillery: Lt Jacob H. Lamb
+* Battery G, 1st Rhode Island Light Artillery: Cpt George W. Adams
+* Battery M, 5th U.S. Artillery: Cpt James McKnight
+|}
+
+===XIX Corps===
+
+BG William H. Emory
+
+{| class="wikitable"
+! width=25% | Division
+! width=25% | Brigade
+! Regiments and Others
+|-
+| rowspan=4 |
+First Division
+
+    
+BG James W. McMillan
+| 1st Brigade
+  
+Col Edwin P. Davis
+|
+* 29th Maine: Maj George H. Nye (w), Cpt Alfred L. Turner
+* 30th Massachusetts: Cpt Samuel D. Shipley
+* 90th New York: Ltc Nelson Shaurman (w), Cpt Honore De La Paturelle
+* 114th New York: Ltc Henry B. Morse
+* 116th New York: Col George M. Love
+* 153rd New York: Ltc Alexander Strain (w), Cpt George H. McLaughlin
+
+|-
+| 2nd Brigade
+  
+Col Stephen Thomas
+|
+* 12th Connecticut: Ltc George N. Lewis
+* 160th New York: Cpt Henry P. Underhill
+* 47th Pennsylvania: Maj J. P. Shindel Gobin
+* 8th Vermont: Maj John B. Mead (w), Cpt Moses McFarland
+|-
+| 3rd BrigadeGuarding wagon trains, and not engaged in the battle.
+  
+Col Leonard D. H. Currie
+|
+* 30th Maine: Col Thomas H. Hubbard
+* 133rd New York: Maj Anthony J. Allaire
+* 162nd New York: Col Justus W. Blanchard
+* 165th New York (six companies): Ltc Gouverneur Carr
+* 173rd New York: Majr George W. Rogers
+|-
+| Division Artillery
+|
+* New York Light Artillery, 5th Battery: Cpt Elijah D. Taft
+|-
+| rowspan=5 |
+Second Division
+
+    
+BG Cuvier Grover (w)
+    
+BG Henry W. Birge
+| 1st Brigade
+  
+BG Henry W. Birge
+  
+Col Thomas W. Porter
+|
+* 9th Connecticut (battalion): Cpt John G. Healy
+* 12th Maine: Ltc Edwin Ilsley
+* 14th Maine: Ltc Charles S. Bickmore (k), Cpt John K. Laing
+* 26th Massachusetts (battalion): Lt John S. Cooke
+* 14th New Hampshire: Cpt Theodore A. Ripley (c), Cpt Oliver H. Marston
+* 75th New York: Maj Benjamin F. Thurber
+|-
+| 2nd Brigade
+  
+Col Edward L. Molineux
+|
+* 13th Connecticut: Col Charles D. Blinn
+* 11th Indiana: Ltc William W. Darnall
+* 22nd Iowa: Col Harvey Graham
+* 3rd Massachusetts Cavalry (dismounted): Col Lorenzo D. Sargent
+* 131st New York: Col Nicholas W. Day
+* 159th New York: Ltc William Waltermire
+|-
+| 3rd Brigade
+  
+Col Daniel Macauley (w)
+  
+Ltc Alfred Neafie
+|
+* 38th Massachusetts: Maj Charles F. Allen
+* 128th New York: Cpt Charles R. Anderson
+* 156th New York: Ltc Alfred Neafie, Cpt Alfred Cooley
+* 175th New York (battalion): Cpt Charles McCarthey
+* 176th New York: Maj Charles Lewis
+|-
+| 4th Brigade
+  
+Col David Shunk
+|
+* 8th Indiana: Ltc Alexander J. Kenny (w), Maj John R. Polk
+* 18th Indiana: Ltc William S. Charles (w)
+* 24th Iowa: Ltc John Q. Wilds (mw), Maj Edward Wright (w), Cpt Leander Clark
+* 28th Iowa: Ltc Bartholomew W. Wilson (w), Maj John Meyer
+|-
+| Division Artillery
+|
+* 1st Battery (A), Maine Light Artillery: Lt Eben D. Haley (w)
+|-
+| Reserve Artillery
+  
+Maj Albert W. Bradbury
+|
+|
+* 17th Battery, Indiana Light Artillery: Lt Hezekiah Hinkson
+* Battery D, 1st Rhode Island Light Artillery: Lt Frederick Chase
+|}
+
+===Army of West Virginia (VIII Corps)===
+BG George CrookWelcher, The Union Army, 1861–1865 Organization and Operations. Vol. 1, p. 420 notes that Crook's army consisted in part of troops that formerly belonged to the VIII Corps, of the Middle Department, so that name was sometimes used because it was less cumbersome than Army of West Virginia. The official name of the organization, established by order on August 8, 1864, was Army of West Virginia. Lewis, The Guns of Cedar Creek, p. 107, notes that this grand title disguised the fact that the 4,000 men of the so-called army were the approximate size of a Union division, and their two constituent divisions were actually brigade-sized and led by colonels.
+
+{| class="wikitable"
+! width=25% | Division
+! width=25% | Brigade
+! Regiments and Others
+|-
+| rowspan=3 |
+First Division
+
+    
+Col Joseph Thoburn (k)
+    
+Col Thomas M. Harris
+| 1st Brigade
+  
+Ltc Thomas F. Wildes
+|
+* 34th Massachusetts: Cpt Andrew Potter
+* 2nd Battalion, 5th New York Heavy Artillery: Cpt Frederick C. Wilkie
+* 116th Ohio: Cpt Wilbert B. Teters (w), Cpt John Hull
+* 123rd Ohio: Maj Horace Kellog
+|-
+| 2nd Brigade
+  
+Colonel William B. Curtis
+|
+* 1st West Virginia: Ltc Jacob Weddle
+* 4th West Virginia: Cpt Benjamin D. Boswell
+* 12th West Virginia: Ltc Robert S. Northcott
+|-
+| 3rd Brigade
+  
+Col Thomas M. Harris
+  
+Col Milton Wells (w)
+|
+* 23rd Illinois: Cpt Samuel A. Simison
+* 54th Pennsylvania: Cpt John Suter
+* 10th West Virginia: Ltc Moses S. Hall (w), Maj Henry H. Withers
+* 11th West Virginia: Ltc Van H. Bukey
+* 15th West Virginia: Col Milton Wells, Maj John W. Holliday
+|-
+| rowspan=2 |
+Second Division
+
+    
+Col Rutherford B. Hayes
+| 1st Brigade
+  
+Col Hiram F. Devol
+|
+* 23rd Ohio: Ltc James M. Comly
+* 36th Ohio: Ltc William H. G. Adney
+* 5th West Virginia (battalion): Ltc William H. Enochs
+* 13th West Virginia: Col William R. Brown,Corps officer of the day. Ltc James R. Hall
+|-
+| 2nd Brigade
+  
+Ltc Benjamin F. Coates
+|
+* 34th Ohio (battalion): Ltc Luther Furney
+* 91st Ohio: Maj Lemuel Z. Cadot
+* 9th West Virginia: Cpt John S. P. Carroll
+* 14th West Virginia: Maj Shriver Moore
+|-
+| rowspan=1 |
+Artillery
+| Artillery Brigade
+  
+Cpt Henry A. du Pont
+|
+* Battery L, 1st Ohio Light Artillery: Cpt Frank C. Gibbs
+* Battery D, 1st Pennsylvania Light Artillery: Lt William Munk
+* Battery B, 5th U.S. Artillery: Lt Henry F. Brewerton (w), Lt Charles Holman
+|-
+| rowspan=2 |
+Provisional DivisionDyer page 410Only a small detachment from the First Brigade, and the 6th New York Heavy Artillery, from the Second Brigade, engaged in the battle
+
+    
+Col J. Howard Kitching (mw)    
+Col Wilhelm Heine
+| 1st Brigade
+  
+Col Wilhelm Heine  
+Ltc Thompson D. Hart
+|
+* 6th New York Heavy Artillery: Maj Edward Jones (mw)
+* 103rd New York Infantry: Maj Joseph Morrison
+* 104th Pennsylvania Infantry: Cpt Theophiles Kephart
+|-
+| 2nd Brigade
+  
+Ltc G. DePeyster Arden
+|
+* 41st New York Infantry: Ltc Detleo Von Einseidel
+* 10th New York Heavy Artillery: Ltc DePeyster Arden
+|}
+
+===Cavalry Corps===
+BG Alfred T. A. Torbert
+
+Escort:
+  
+1st Rhode Island: Maj William H. Turner, jr.
+
+{| class="wikitable"
+! width=25% | Division
+! width=25% | Brigade
+! Regiments and Others
+|-
+| rowspan=3 |
+First Division
+
+    
+BG Wesley Merritt
+| 1st Brigade
+  
+Col James H. Kidd
+|
+* 1st Michigan Cavalry: Cpt Andrew W. Duggan
+* 5th Michigan Cavalry: Maj Smith H. Hastings
+* 6th Michigan Cavalry: Maj Charles W. Deane
+* 7th Michigan Cavalry: Maj Daniel H. Darling
+* New York Light Artillery, 6th Battery: Cpt Joseph W. Martin
+|-
+| 2nd Brigade
+  
+Col Thomas C. Devin
+|
+* 4th New York Cavalry:Detailed for duty at General Sheridan's headquarters. Maj Edward Schwartz
+* 6th New York Cavalry: Cpt George E. Farmer
+* 9th New York Cavalry: Col George S. Nichols
+* 19th New York Cavalry (1st New York Dragoons): Col Alfred Gibbs
+* Batteries K & L, 1st US Artillery: Lt Franck E. Taylor
+|-
+| Reserve Brigade
+  
+Col Charles Russell Lowell (mw)
+  
+Ltc Caspar Crowninshield
+|
+* 2nd Massachusetts Cavalry: Ltc Caspar Crowninshield, Cpt Archibald McKendry
+* 1st U.S. Cavalry: Cpt Eugene M. Baker
+* 2nd U.S. Cavalry: Cpt Robert S. Smith
+* 5th U.S. Cavalry: Lt Gustavus Urban
+|-
+| rowspan=3 |
+Second DivisionFrom Department of West Virginia.
+
+    
+Col William H. Powell
+| 1st Brigade
+  
+Col Alpheus S. Moore
+|
+* 8th Ohio Cavalry (detachment): Col Samuel A. Gilbert
+* 14th Pennsylvania Cavalry: Maj Thomas Gibson
+* 22nd Pennsylvania Cavalry: Ltc Andrew J. Greenfield
+|-
+| 2nd Brigade
+  
+Col Henry Capehart
+|
+* 1st New York Cavalry: Maj Timothy Quinn
+* 1st West Virginia Cavalry: Maj Harvey Farabee
+* 2nd West Virginia Cavalry: Ltc John J. Hoffman
+* 3rd West Virginia Cavalry: Ltc John L. McGee
+|-
+| Division Artillery
+|
+* Battery L, 5th U.S. Artillery: Lt Gulian V. Weir
+|-
+| rowspan=2 |
+Third Division
+
+    
+BG George Armstrong Custer
+| 1st Brigade
+  
+Col Alexander Cummings McWhorter Pennington, Jr.
+|
+* 1st Connecticut Cavalry: Cpt Edwin W. French
+* 3rd New Jersey Cavalry: Ltc Charles C. Suydam
+* 2nd New York Cavalry: Cpt Andrew S. Glover
+* 5th New York Cavalry: Maj Abram H. KromAlthough Major Theodore A. Boice is listed as in command, he did not take command until October 20. According to a page 4 New York Herald article published November 11, 1864, Krom, who was supposed to muster out on October 19, continued to lead the regiment through the Battle of Cedar Creek.
+
+* 2nd Ohio Cavalry: Ltc George A. Purington
+* 18th Pennsylvania Cavalry: Maj John W. Phillips
+|-
+| 2nd Brigade
+  
+Col William Wells
+|
+* 3rd Indiana Cavalry (two companies): Lt Benjamin F. Gilbert
+* 1st New Hampshire Cavalry (battalion): Col John L. Thompson
+* 8th New York Cavalry: Ltc William H. Benjamin
+* 22nd New York Cavalry: Maj Charles C. Brown
+* 1st Vermont Cavalry: Ltc John W. Bennett
+|-
+| Horse Artillery
+|
+|
+* Batteries B & L, 2nd U.S. Artillery: Cpt Charles H. Peirce
+* Batteries C, F & K, 3rd U.S. Artillery: Cpt Dunbar R. Ransom
+|}
+
+==Notes==
+
+
+

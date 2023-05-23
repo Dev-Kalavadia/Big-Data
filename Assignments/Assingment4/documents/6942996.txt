@@ -1,0 +1,73 @@
+Title: Lubliniec County
+__NOTOC__
+Lubliniec County () is a unit of territorial administration and local government (powiat) in Silesian Voivodeship, southern Poland. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and largest town is Lubliniec, which lies  north-west of the regional capital Katowice. The only other town in the county is Woźniki, lying  north-east of Lubliniec.
+
+The county covers an area of . As of 2019 its total population is 76,470, out of which the population of Lubliniec is 23,784, that of Woźniki is 4,305, and the rural population is 48,381.
+
+==Neighbouring counties==
+Lubliniec County is bordered by Kłobuck County to the north-east, Częstochowa County and Myszków County to the east, Tarnowskie Góry County to the south, Strzelce County to the south-west, and Olesno County to the north-west.
+
+==Administrative division==
+The county is subdivided into eight gminas (one urban, one urban-rural and six rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km²)
+| style="text-align:center;"|Population(2019)
+| style="text-align:center;"|Seat
+|-
+|Lubliniec
+|urban
+| style="text-align:right;"|89.8
+| style="text-align:right;"|23,784
+| 
+|-
+|Gmina Koszęcin
+|rural
+| style="text-align:right;"|129.0
+| style="text-align:right;"|11,842
+|Koszęcin
+|-
+|Gmina Woźniki
+|urban-rural
+| style="text-align:right;"|127.0
+| style="text-align:right;"|9,598
+|Woźniki
+|-
+|Gmina Ciasna
+|rural
+| style="text-align:right;"|134.2
+| style="text-align:right;"|7,467
+|Ciasna
+|-
+|Gmina Kochanowice
+|rural
+| style="text-align:right;"|79.7
+| style="text-align:right;"|6,925
+|Kochanowice
+|-
+|Gmina Herby
+|rural
+| style="text-align:right;"|50.5
+| style="text-align:right;"|6,808
+|Herby
+|-
+|Gmina Pawonków
+|rural
+| style="text-align:right;"|118.7
+| style="text-align:right;"|6,630
+|Pawonków
+|-
+|Gmina Boronów
+|rural
+| style="text-align:right;"|56.0
+| style="text-align:right;"|3,416
+|Boronów
+|-
+|}
+
+==Twin regions==
+* Lörrach (district), Germany
+

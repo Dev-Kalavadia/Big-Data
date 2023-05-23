@@ -1,0 +1,619 @@
+Title: List of municipalities of the Province of Cosenza
+
+The following is a list of the 150 municipalities (comuni) of the Province of Cosenza, Calabria, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|078001
+|Acquaformosa
+| align="right" |1,261
+|-
+|078002
+|Acquappesa
+| align="right" |2,057
+|-
+|078003
+|Acri
+| align="right" |21,669
+|-
+|078004
+|Aiello Calabro
+| align="right" |2,283
+|-
+|078005
+|Aieta
+| align="right" |878
+|-
+|078006
+|Albidona
+| align="right" |1,732
+|-
+|078007
+|Alessandria del Carretto
+| align="right" |677
+|-
+|078008
+|Altilia
+| align="right" |786
+|-
+|078009
+|Altomonte
+| align="right" |4,591
+|-
+|078010
+|Amantea
+| align="right" |13,548
+|-
+|078011
+|Amendolara
+| align="right" |3,097
+|-
+|078012
+|Aprigliano
+| align="right" |2,862
+|-
+|078013
+|Belmonte Calabro
+| align="right" |2,878
+|-
+|078014
+|Belsito
+| align="right" |955
+|-
+|078015
+|Belvedere Marittimo
+| align="right" |9,304
+|-
+|078016
+|Bianchi
+| align="right" |1,487
+|-
+|078017
+|Bisignano
+| align="right" |10,840
+|-
+|078018
+|Bocchigliero
+| align="right" |1,818
+|-
+|078019
+|Bonifati
+| align="right" |3,318
+|-
+|078020
+|Buonvicino
+| align="right" |2,462
+|-
+|078021
+|Calopezzati
+| align="right" |1,281
+|-
+|078022
+|Caloveto
+| align="right" |1,407
+|-
+|078023
+|Campana
+| align="right" |2,282
+|-
+|078024
+|Canna
+| align="right" |855
+|-
+|078025
+|Cariati
+| align="right" |8,474
+|-
+|078026
+|Carolei
+| align="right" |3,588
+|-
+|078027
+|Carpanzano
+| align="right" |383
+|-
+|078156
+|Casali del Manco
+| align="right" |10,003 
+|-
+|078029
+|Cassano allo Ionio
+| align="right" |17,300
+|-
+|078030
+|Castiglione Cosentino
+| align="right" |3,071
+|-
+|078031
+|Castrolibero
+| align="right" |10,183
+|-
+|078032
+|Castroregio
+| align="right" |435
+|-
+|078033
+|Castrovillari
+| align="right" |22,616
+|-
+|078034
+|Celico
+| align="right" |3,157
+|-
+|078035
+|Cellara
+| align="right" |528
+|-
+|078036
+|Cerchiara di Calabria
+| align="right" |2,698
+|-
+|078037
+|Cerisano
+| align="right" |3,292
+|-
+|078038
+|Cervicati
+| align="right" |990
+|-
+|078039
+|Cerzeto
+| align="right" |1,395
+|-
+|078040
+|Cetraro
+| align="right" |10,251
+|-
+|078041
+|Civita
+| align="right" |1,106
+|-
+|078042
+|Cleto
+| align="right" |1,366
+|-
+|078043
+|Colosimi
+| align="right" |1,398
+|-
+|078044
+|Corigliano-Rossano
+| align="right" |77,001
+|-
+|078045
+|Cosenza
+| align="right" |70,680
+|-
+|078046
+|Cropalati
+| align="right" |1,237
+|-
+|078047
+|Crosia
+| align="right" |8,655
+|-
+|078048
+|Diamante
+| align="right" |5,373
+|-
+|078049
+|Dipignano
+| align="right" |4,301
+|-
+|078050
+|Domanico
+| align="right" |978
+|-
+|078051
+|Fagnano Castello
+| align="right" |4,077
+|-
+|078052
+|Falconara Albanese
+| align="right" |1,396
+|-
+|078053
+|Figline Vegliaturo
+| align="right" |1,028
+|-
+|078054
+|Firmo
+| align="right" |2,453
+|-
+|078055
+|Fiumefreddo Bruzio
+| align="right" |3,304
+|-
+|078056
+|Francavilla Marittima
+| align="right" |3,020
+|-
+|078057
+|Frascineto
+| align="right" |2,424
+|-
+|078058
+|Fuscaldo
+| align="right" |8,241
+|-
+|078059
+|Grimaldi
+| align="right" |1,854
+|-
+|078060
+|Grisolia
+| align="right" |2,393
+|-
+|078061
+|Guardia Piemontese
+| align="right" |1,558
+|-
+|078062
+|Lago
+| align="right" |2,967
+|-
+|078063
+|Laino Borgo
+| align="right" |2,184
+|-
+|078064
+|Laino Castello
+| align="right" |926
+|-
+|078065
+|Lappano
+| align="right" |985
+|-
+|078066
+|Lattarico
+| align="right" |4,314
+|-
+|078067
+|Longobardi
+| align="right" |2,310
+|-
+|078068
+|Longobucco
+| align="right" |4,154
+|-
+|078069
+|Lungro
+| align="right" |3,016
+|-
+|078070
+|Luzzi
+| align="right" |10,199
+|-
+|078071
+|Maierà
+| align="right" |1,303
+|-
+|078072
+|Malito
+| align="right" |865
+|-
+|078073
+|Malvito
+| align="right" |1,956
+|-
+|078074
+|Mandatoriccio
+| align="right" |3,012
+|-
+|078075
+|Mangone
+| align="right" |1,749
+|-
+|078076
+|Marano Marchesato
+| align="right" |2,819
+|-
+|078077
+|Marano Principato
+| align="right" |2,606
+|-
+|078078
+|Marzi
+| align="right" |997
+|-
+|078079
+|Mendicino
+| align="right" |8,560
+|-
+|078080
+|Mongrassano
+| align="right" |1,717
+|-
+|078081
+|Montalto Uffugo
+| align="right" |17,949
+|-
+|078082
+|Montegiordano
+| align="right" |2,099
+|-
+|078083
+|Morano Calabro
+| align="right" |4,885
+|-
+|078084
+|Mormanno
+| align="right" |3,644
+|-
+|078085
+|Mottafollone
+| align="right" |1,459
+|-
+|078086
+|Nocara
+| align="right" |521
+|-
+|078087
+|Oriolo
+| align="right" |2,849
+|-
+|078088
+|Orsomarso
+| align="right" |1,443
+|-
+|078089
+|Paludi
+| align="right" |1,865
+|-
+|078090
+|Panettieri
+| align="right" |357
+|-
+|078091
+|Paola
+| align="right" |17,142
+|-
+|078092
+|Papasidero
+| align="right" |960
+|-
+|078093
+|Parenti
+| align="right" |2,347
+|-
+|078094
+|Paterno Calabro
+| align="right" |1,389 
+|-
+|078096
+|Pedivigliano
+| align="right" |941
+|-
+|078097
+|Piane Crati
+| align="right" |1,454
+|-
+|078098
+|Pietrafitta
+| align="right" |1,444
+|-
+|078099
+|Pietrapaola
+| align="right" |1,208
+|-
+|078100
+|Plataci
+| align="right" |909
+|-
+|078101
+|Praia a Mare
+| align="right" |6,409
+|-
+|078102
+|Rende
+| align="right" |35,221
+|-
+|078103
+|Rocca Imperiale
+| align="right" |3,308
+|-
+|078104
+|Roggiano Gravina
+| align="right" |7,532
+|-
+|078105
+|Rogliano
+| align="right" |5,934
+|-
+|078106
+|Rose
+| align="right" |4,367
+|-
+|078107
+|Roseto Capo Spulico
+| align="right" |1,806
+|-
+|078109
+|Rota Greca
+| align="right" |1,253
+|-
+|078110
+|Rovito
+| align="right" |3,014
+|-
+|078111
+|San Basile
+| align="right" |1,245
+|-
+|078112
+|San Benedetto Ullano
+| align="right" |1,651
+|-
+|078113
+|San Cosmo Albanese
+| align="right" |666
+|-
+|078114
+|San Demetrio Corone
+| align="right" |3,822
+|-
+|078115
+|San Donato di Ninea
+| align="right" |1,716
+|-
+|078116
+|San Fili
+| align="right" |2,698
+|-
+|078117
+|Sangineto
+| align="right" |1,385
+|-
+|078118
+|San Giorgio Albanese
+| align="right" |1,699
+|-
+|078119
+|San Giovanni in Fiore
+| align="right" |18,525
+|-
+|078120
+|San Lorenzo Bellizzi
+| align="right" |862
+|-
+|078121
+|San Lorenzo del Vallo
+| align="right" |3,428
+|-
+|078122
+|San Lucido
+| align="right" |5,893
+|-
+|078123
+|San Marco Argentano
+| align="right" |7,590
+|-
+|078124
+|San Martino di Finita
+| align="right" |1,271
+|-
+|078125
+|San Nicola Arcella
+| align="right" |1,453
+|-
+|078126
+|San Pietro in Amantea
+| align="right" |593
+|-
+|078127
+|San Pietro in Guarano
+| align="right" |3,728
+|-
+|078128
+|San Sosti
+| align="right" |2,259
+|-
+|078129
+|Santa Caterina Albanese
+| align="right" |1,345
+|-
+|078130
+|Santa Domenica Talao
+| align="right" |1,318
+|-
+|078131
+|Sant'Agata di Esaro
+| align="right" |2,131
+|-
+|078132
+|Santa Maria del Cedro
+| align="right" |4,987
+|-
+|078133
+|Santa Sofia d'Epiro
+| align="right" |3,040
+|-
+|078134
+|Santo Stefano di Rogliano
+| align="right" |1,486
+|-
+|078135
+|San Vincenzo La Costa
+| align="right" |2,084
+|-
+|078136
+|Saracena
+| align="right" |4,226
+|-
+|078137
+|Scala Coeli
+| align="right" |1,306
+|-
+|078138
+|Scalea
+| align="right" |10,192
+|-
+|078139
+|Scigliano
+| align="right" |1,481
+|-
+|078140
+|Serra d'Aiello
+| align="right" |808 
+|-
+|078142
+|Spezzano Albanese
+| align="right" |7,199
+|-
+|078143
+|Spezzano della Sila
+| align="right" |4,782 
+|-
+|078145
+|Tarsia
+| align="right" |2,293
+|-
+|078146
+|Terranova da Sibari
+| align="right" |5,257
+|-
+|078147
+|Terravecchia
+| align="right" |990
+|-
+|078148
+|Torano Castello
+| align="right" |4,889
+|-
+|078149
+|Tortora
+| align="right" |6,000
+|-
+|078150
+|Trebisacce
+| align="right" |9,146 
+|-
+|078152
+|Vaccarizzo Albanese
+| align="right" |1,309
+|-
+|078153
+|Verbicaro
+| align="right" |3,410
+|-
+|078154
+|Villapiana
+| align="right" |5,060
+|-
+|078155
+|Zumpano
+| align="right" |1,922
+|-
+|
+|Total
+| align="right" |732,615
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

@@ -1,0 +1,56 @@
+Title: CD155
+
+CD155 (cluster of differentiation 155), also known as the poliovirus receptor, is a protein that in humans is encoded by the PVR gene. It is a transmembrane protein that is involved in forming junctions between neighboring cells. It is also the molecule that poliovirus uses to enter cells. The gene is specific to the primate lineage.
+
+== Function ==
+
+CD155 is a Type I transmembrane glycoprotein in the immunoglobulin superfamily. Its normal cellular function is in the establishment of intercellular adherens junctions between epithelial cells. 
+
+The external domain mediates cell attachment to the extracellular matrix molecule vitronectin, while its intracellular domain interacts with the dynein light chain Tctex-1/DYNLT1.
+
+The role of CD155 in the immune system is unclear, though it may be involved in intestinal humoral immune responses. Subsequent data has also suggested that CD155 may also be used to positively select MHC-independent T cells in the thymus.
+=== Polio ===
+Commonly known as Poliovirus Receptor (PVR), the protein serves as a cellular receptor for poliovirus in the first step of poliovirus replication. Transgenic mice that express the PVR gene have been constructed in order to study polio experimentally. 
+== Structure ==
+
+CD155 is a transmembrane protein with 3 extracellular immunoglobulin-like domains, D1-D3, where D1 is recognized by the virus.
+
+Low resolution structures of CD155 complexed with poliovirus have been obtained using electron microscopy;  while a high resolution structures of the ectodomain D1 and D2 of CD155 were solved by x-ray crystallography., , , ; 
+
+== References ==
+
+
+==External links==
+* 
+
+== Further reading ==
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
+
+
+
+
+Category:Clusters of differentiation
+Category:Glycoproteins
+Category:Polio
+
+

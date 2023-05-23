@@ -1,0 +1,17 @@
+Title: Cleavage and polyadenylation specificity factor
+
+Cleavage and polyadenylation specificity factor (CPSF) is involved in the cleavage of the 3' signaling region from a newly synthesized pre-messenger RNA (pre-mRNA) molecule in the process of gene transcription. It is the first protein to bind to the signaling region near the cleavage site of the pre-mRNA, to which the poly(A) tail will be added by polynucleotide adenylyltransferase. The upstream signaling region has the canonical nucleotide sequence AAUAAA, which is highly conserved across the vast majority of pre-mRNAs. A second downstream signaling region, located on the portion of the pre-mRNA that is cleaved before polyadenylation, consists of a GU-rich region required for efficient processing.
+
+==Structure==
+
+CPSF is a protein complex, consisting of four proteins: CPSF-73, CPSF-100, CPSF-30 and CPSF-160.
+
+CPSF-73 is a zinc-dependent hydrolase which cleaves the mRNA precursor just downstream the polyadenylation signal sequence AAUAAA.
+
+CPSF-160 is the largest subunit of CPSF and directly binds to the AAUAAA polyadenylation signal.
+
+CPSF recruits proteins to the 3' region. Identified proteins that are coordinated by CPSF activity include: cleavage stimulatory factor and the two poorly understood cleavage factors. The binding of the polynucleotide adenylyltransferase responsible for actually synthesizing the tail is a necessary prerequisite for cleavage, thus ensuring that cleavage and polyadenylation are tightly coupled processes.
+
+==Genes==
+* CPSF1, CPSF2, CPSF3, CPSF4, CPSF6
+

@@ -1,0 +1,2298 @@
+Title: 1985 World Sportscar Championship
+thumb|Richard Lloyd Racing Porsche 956 contesting the Le Mans round of the 1985 World Endurance Championship
+The 1985 World Sportscar Championship season was the 33rd season of FIA World Sportscar Championship motor racing.  It featured the 1985 World Endurance Championship which was contested over a series of races for Group C1 and Group C2 Prototypes, Group B GT Cars and IMSA GTP cars.  The series ran from 14 April 1985 to 1 December 1985 and was composed of 10 races.
+
+This year marked the introduction of Teams titles for outright, Group C2 and GT Cars, replacing the traditional Manufacturers awards. Outright and Group C2 Drivers titles were also awarded.
+
+==Schedule==
+{| class="wikitable" style="font-size: 90%;"
+|-
+! Rnd
+! Race
+! Circuit
+! Date
+|-
+! 1
+|  1000 km Mugello
+| Mugello Circuit
+| 14 April
+|-
+! 2
+|  Trofeo Filippo Caracciolo (1000km)†
+| Autodromo Nazionale Monza
+| 28 April
+|-
+! 3
+|  Silverstone 1000 Kilometres
+| Silverstone Circuit
+| 12 May
+|-
+! 4
+|  24 Hours of Le Mans
+| Circuit de la Sarthe
+| 15 June16 June
+|-
+! 5
+|  Duschfrish ADAC 1000 Kilometres
+| Hockenheimring
+| 14 July
+|-
+! 6
+|  Budweiser GT 1000 Kilometres
+| Mosport
+| 11 August
+|-
+! 7
+|  1000km of Spa
+| Circuit de Spa-Francorchamps
+| 1 September
+|-
+! 8
+|  1000 km of Brands Hatch†
+| Brands Hatch
+| 22 September
+|-
+! 9
+|  Fuji 1000 Kilometres
+| Fuji Speedway
+| 6 October
+|-
+! 10
+|  Malaysia 800 Selangor†
+| Shah Alam Circuit
+| 1 December
+|}
+
+† - Non-points races for teams.
+
+==Entries==
+===Group C1===
+{| class="wikitable" style="font-size: 85%"
+|-
+! Entrant
+! Car
+! Engine
+! Tyre
+! 
+! Drivers
+! Rounds
+|-
+|rowspan=11|  Rothmans Porsche
+|rowspan=11| Porsche 956Porsche 962C
+|rowspan=11| Porsche Type-935/76 2.6 L Turbo Flat-6
+|rowspan=11| 
+|rowspan=2| 1
+|  Jacky Ickx
+| All
+|-
+|  Jochen Mass
+| All
+|-
+|rowspan=2| 2
+|  Derek Bell
+| All
+|-
+|  Hans-Joachim Stuck
+| All
+|-
+|rowspan=5| 3
+|  Derek Bell
+| 2
+|-
+|  Hans-Joachim Stuck
+| 2
+|-
+|  Al Holbert
+| 4, 8
+|-
+|  Vern Schuppan
+| 4, 8
+|-
+|  John Watson
+| 4
+|-
+|rowspan=2| 69
+|  Vern Schuppan
+| 10
+|-
+|  James Weaver
+| 10
+|-
+|rowspan=11|  Martini Racing
+|rowspan=11| Lancia LC2/85
+|rowspan=11| Ferrari 308C 3.0 L Turbo V8
+|rowspan=11| 
+|rowspan=5| 4
+|  Alessandro Nannini
+| 1–5, 7–8
+|-
+|  Riccardo Patrese
+| 1–3, 5, 7–8
+|-
+|  Bob Wollek
+| 4
+|-
+|  Lucio Cesario
+| 4
+|-
+|  Mauro Baldi
+| 7
+|-
+|rowspan=6| 5
+|  Mauro Baldi
+| 1–5, 7–8
+|-
+|  Bob Wollek
+| 1–3, 5, 7–8
+|-
+|  Lucio Cesario
+| 1–2, 7
+|-
+|  Henri Pescarolo
+| 4
+|-
+|  Riccardo Patrese
+| 7
+|-
+|  Andrea de Cesaris
+| 8
+|-
+|rowspan=14|  New Man-Joest Racing
+|rowspan=14| Porsche 956B
+|rowspan=14| Porsche Type-935/76 2.6 L Turbo Flat-6
+|rowspan=14| 
+|rowspan=6| 7
+|  Paolo Barilla
+| 2–5, 7, 9
+|-
+|  Klaus Ludwig
+| 2–5, 7
+|-
+|  Hans Heyer
+| 2
+|-
+|  Paul Belmondo
+| 3
+|-
+|  "John Winter"
+| 4, 9
+|-
+|  Marc Duez
+| 9
+|-
+|rowspan=8| 8
+|  Mauricio DeNarvaez
+| 4, 9
+|-
+|  Paul Belmondo
+| 4, 9
+|-
+|  Kenper Miller
+| 4
+|-
+|  "John Winter"
+| 5, 7, 9–10
+|-
+|  Volker Weidler
+| 5, 7
+|-
+|  Franz Konrad
+| 5
+|-
+|  Paolo Barilla
+| 5, 10
+|-
+|  Marc Duez
+| 7
+|-
+|rowspan=21|  Porsche Kremer Racing
+|rowspan=21| Porsche 956BPorsche 962C
+|rowspan=21| Porsche Type-935/76 2.6 L Turbo Flat-6
+|rowspan=21| 
+|rowspan=2| 9
+|  Marc Surer
+| 5
+|-
+|  Manfred Winkelhock
+| 5
+|-
+|rowspan=7| 10
+|  Marc Surer
+| 1–3, 6–7
+|-
+|  Manfred Winkelhock
+| 1–3, 6
+|-
+|  Sarel van der Merwe
+| 4
+|-
+|  George Fouché
+| 4
+|-
+|  Mario Hytten
+| 4
+|-
+|  Kees Kroesemeijer
+| 5, 7
+|-
+|  Klaus Niedzwiedz
+| 5
+|-
+|rowspan=12| 11
+|  George Fouché
+| 1–3
+|-
+|  Klaus Ludwig
+| 1
+|-
+|  Gianni Mussato
+| 1
+|-
+|  Sarel van der Merwe
+| 2–3
+|-
+|  Bruno Giacomelli
+| 2
+|-
+|  Almo Coppelli
+| 3
+|-
+|  Jean-Pierre Jarier
+| 4
+|-
+|  Franz Konrad
+| 4
+|-
+|  Mike Thackwell
+| 4
+|-
+|  Ludwig Heimrath
+| 6
+|-
+|  Ludwig Heimrath Jr.
+| 6
+|-
+|  Kees Kroesemeijer
+| 6
+|-
+|rowspan=3|  Panasport Japan
+|rowspan=3| LM 05C
+|rowspan=3| Nissan FJ20 2.3 L Turbo I4
+|rowspan=3| 
+|rowspan=3| 12
+|  Emanuele Pirro
+| 9
+|-
+|  Osamu Nakako
+| 9
+|-
+|  Akio Morimoto
+| 9
+|-
+|rowspan=4|  Cougar Primagaz
+|rowspan=4| Cougar C12
+|rowspan=4| Porsche Type-935/76 2.6 L Turbo Flat-6
+|rowspan=4| 
+|rowspan=4| 13
+|  Yves Courage
+| 4, 7
+|-
+|  Jean-François Yvon
+| 4
+|-
+|  Alain de Cadenet
+| 4
+|-
+|  Henri Pescarolo
+| 7
+|-
+|rowspan=9|  Richard Lloyd Racing with Porsche
+|rowspan=9| Porsche 956
+|rowspan=9| Porsche Type-935/76 2.6 L Turbo Flat-6
+|rowspan=7| 
+|rowspan=7| 14
+|  Jonathan Palmer
+| 2–5, 7
+|-
+|  Jan Lammers
+| 2–3
+|-
+|  James Weaver
+| 4
+|-
+|  Richard Lloyd
+| 4
+|-
+|  David Hobbs
+| 5, 7
+|-
+|  Kenny Acheson
+| 9
+|-
+|  Johnny Dumfries
+| 9
+|-
+|rowspan=2| 
+|rowspan=2| 69
+|  Vern Schuppan
+| 3
+|-
+|  James Weaver
+| 3
+|-
+|rowspan=2|  RC Racing
+|rowspan=2| Kremer CK5
+|rowspan=2| Porsche Type-935 3.0 L Turbo Flat-6
+|rowspan=2| 
+|rowspan=2| 16
+|  Richard Cleare
+| 8
+|-
+|  David Leslie
+| 8
+|-
+|rowspan=17|  Brun Motorsport
+|rowspan=17| Porsche 956BPorsche 962C
+|rowspan=17| Porsche Type-935/76 2.6 L Turbo Flat-6
+|rowspan=17| 
+|rowspan=6| 18
+|  Oscar Larrauri
+| 1, 3–5, 7, 10
+|-
+|  Massimo Sigala
+| 1, 3–5, 7, 10
+|-
+|  Thierry Boutsen
+| 2
+|-
+|  Stefan Bellof
+| 2
+|-
+|  Gabriele Tarquini
+| 4
+|-
+|  Frank Jelinski
+| 10
+|-
+|rowspan=8| 19
+|  Thierry Boutsen
+| 1, 3, 5, 7
+|-
+|  Stefan Bellof
+| 1, 5, 7
+|-
+|  Oscar Larrauri
+| 2
+|-
+|  Massimo Sigala
+| 2
+|-
+|  Renzo Zorzi
+| 2
+|-
+|  Walter Brun
+| 3–4
+|-
+|  Didier Theys
+| 4
+|-
+|  Joël Gouhier
+| 4
+|-
+|rowspan=3| 20
+|  Walter Brun
+| 1, 5
+|-
+|  Leopold von Bayern
+| 1
+|-
+|  Gerhard Berger
+| 5
+|-
+|rowspan=3|  Bieri Racing
+|rowspan=3| Sauber C7
+|rowspan=3| Chevrolet 6.0 L V8
+|rowspan=3| 
+|rowspan=3| 18
+|  Guy Bieri
+| 6
+|-
+|  Matt Gysler
+| 6
+|-
+|  "Fomfor"
+| 6
+|-
+|rowspan=9|  Cheetah Automobiles Switzerland
+|rowspan=9| Cheetah G604
+|rowspan=9| Aston Martin 5.3 L V8
+|rowspan=9| 
+|rowspan=9| 2324
+|  Bernard de Dryver
+| 1–2, 4, 7–9
+|-
+|  Gianfranco Brancatelli
+| 1–2
+|-
+|  John Cooper
+| 3–5
+|-
+|  John Brindley
+| 3, 8
+|-
+|  Claude Bourgoignie
+| 4, 7
+|-
+|  Tiff Needell
+| 5
+|-
+|  Pierre Dieudonné
+| 7
+|-
+|  Hervé Regout
+| 8
+|-
+|  Laurent Ferrier
+| 9
+|-
+|rowspan=2|  Advan Sports Nova
+|rowspan=2| Porsche 962C
+|rowspan=4| Porsche Type-935/76 2.6 L Turbo Flat-6
+|rowspan=2| 
+|rowspan=2| 25
+|  Kunimitsu Takahashi
+| 9
+|-
+|  Kenji Takahashi
+| 9
+|-
+|rowspan=2|  From A Racing
+|rowspan=2| Porsche 956
+|rowspan=2| 
+|rowspan=2| 27
+|  Jirou Yoneyama
+| 9
+|-
+|  Hideki Okada
+| 9
+|-
+|rowspan=4|  Obermaier Racing
+|rowspan=4| Porsche 956
+|rowspan=4| Porsche Type-935/76 2.6 L Turbo Flat-6
+|rowspan=4| 
+|rowspan=4| 26
+|  Jürgen Lässig
+| 1–5, 7
+|-
+|  Hervé Regout
+| 1–5, 7
+|-
+|  Mike Thackwell
+| 1
+|-
+|  Jesús Pareja
+| 2–5, 7
+|-
+|rowspan=3|  Hoshino Racing
+|rowspan=3| March 85G
+|rowspan=3| Nissan VG30ET 3.0 L Turbo V6
+|rowspan=3| 
+|rowspan=3| 28
+|  Kazuyoshi Hoshino
+| 9
+|-
+|  Akira Hagiwara
+| 9
+|-
+|  Keiji Matsumoto
+| 9
+|-
+|rowspan=2|  Central 20 Racing Team
+|rowspan=2| Lola T810
+|rowspan=2| Nissan VG30ET 3.0 L Turbo V6
+|rowspan=2| 
+|rowspan=2| 30
+|  Aguri Suzuki
+| 9
+|-
+|  Haruhito Yanagida
+| 9
+|-
+|rowspan=4|  Primagaz
+|rowspan=4| Rondeau M382
+|rowspan=4| Ford Cosworth DFV 3.0 L V8
+|rowspan=4| 
+|rowspan=4| 31
+|  Pierre Yver
+| 3–4
+|-
+|  Pierre-François Rousselot
+| 3–4
+|-
+|  Jean Rondeau
+| 3
+|-
+|  François Servanin
+| 4
+|-
+|rowspan=12|  John Fitzpatrick Racing
+|rowspan=12| Porsche 956B
+|rowspan=12| Porsche Type-935/76 2.6 L Turbo Flat-6
+|rowspan=12| 
+|rowspan=7| 33
+|  Jo Gartner
+| 2–4, 9
+|-
+|  Kenny Acheson
+| 2
+|-
+|  David Hobbs
+| 3–4
+|-
+|  Guy Edwards
+| 4
+|-
+|  Michael Roe
+| 9
+|-
+|  Franz Konrad
+| 10
+|-
+|  Andrew Miedecke
+| 10
+|-
+|rowspan=5| 55
+|  Dudley Wood
+| 2–4
+|-
+|  Manuel López
+| 2–3
+|-
+|  Klaus Niedzwiedz
+| 2
+|-
+|  Guy Edwards
+| 3
+|-
+|  Kenny Acheson
+| 4
+|-
+|rowspan=9|  Kreepy Krauly Racing Cosmik Racing Promotions
+|rowspan=9| March 84G
+|rowspan=9| Porsche Type-935/76 2.6 L Turbo Flat-6
+|rowspan=9| 
+|rowspan=9| 34
+|  Christian Danner
+| 4–7, 10
+|-
+|  Graham Duxbury
+| 4
+|-
+|  Almo Coppelli
+| 4
+|-
+|  Costas Los
+| 5–8, 9–10
+|-
+|  Mikael Nabrink
+| 5–6
+|-
+|  Pascal Witmeur
+| 7
+|-
+|  Anders Olofsson
+| 8–9
+|-
+|  Divina Galica
+| 8
+|-
+|  Richard Cleare
+| 9
+|-
+|rowspan=3|  Misaki Speed
+|rowspan=3| Tom's 85C
+|rowspan=3| Toyota 4T-GT 2.1 L Turbo I4
+|rowspan=3| 
+|rowspan=3| 35
+|  Kiyoshi Misaki
+| 9
+|-
+|  Toshio Suzuki
+| 9
+|-
+|  Kaoru Hoshino
+| 9
+|-
+|rowspan=3|  Tom's Team
+|rowspan=3| Tom's 85C
+|rowspan=3| Toyota 4T-GT 2.1 L Turbo I4
+|rowspan=3| 
+|rowspan=3| 36
+|  Masanori Sekiya
+| 4, 9
+|-
+|  Satoru Nakajima
+| 4, 9
+|-
+|  Kaoru Hoshino
+| 4
+|-
+|rowspan=2|  Ikuzawa Racing
+|rowspan=2| Tom's 85C
+|rowspan=2| Toyota 4T-GT 2.1 L Turbo I4
+|rowspan=2| 
+|rowspan=2| 37
+|  Tiff Needell
+| 9
+|-
+|  James Weaver
+| 9
+|-
+|rowspan=3|  Dome Motorsport
+|rowspan=3| Dome 85C
+|rowspan=3| Toyota 4T-GT 2.1 L Turbo I4
+|rowspan=3| 
+|rowspan=3| 38
+|  Eje Elgh
+| 4, 9
+|-
+|  Geoff Lees
+| 4, 9
+|-
+|  Toshio Suzuki
+| 4
+|-
+|rowspan=6|  Bussi Racing
+|rowspan=3| Rondeau M382
+|rowspan=6| Ford Cosworth DFL 3.3 L V8
+|rowspan=3| 
+|rowspan=3| 39
+|  Jean-Claude Justice
+| 4
+|-
+|  Bruno Sotty
+| 4
+|-
+|  Patrick Oudet
+| 4
+|-
+|rowspan=3| Rondeau M482
+|rowspan=3| 
+|rowspan=3| 46
+|  Christian Bussi
+| 4
+|-
+|  Jack Griffin
+| 4
+|-
+|  M. L. Speer
+| 4
+|-
+|rowspan=9|  WM-Peugeot
+|rowspan=9| WM P83B
+|rowspan=9| Peugeot ZNS4 2.6 L Turbo V6
+|rowspan=9| 
+|rowspan=3| 41
+|  Pascal Pessiot
+| 4
+|-
+|  Patrick Gaillard
+| 4
+|-
+|  Dominique Fornage
+| 4
+|-
+|rowspan=3| 42
+|  Jean Rondeau
+| 4
+|-
+|  Michel Pignard
+| 4
+|-
+|  Jean-Daniel Raulet
+| 4
+|-
+|rowspan=3| 43
+|  Jean-Claude Andruet
+| 4
+|-
+|  Roger Dorchy
+| 4
+|-
+|  Claude Haldi
+| 4
+|-
+|rowspan=2|  Auto Beaurex Motorsport
+|rowspan=2| Tom's 84C
+|rowspan=2| Toyota 4T-GT 2.1 L Turbo I4
+|rowspan=2| 
+|rowspan=2| 45
+|  Naoki Nagasaka
+| 9
+|-
+|  Taku Akaike
+| 9
+|-
+|rowspan=2|  Kumsan Tiger Team
+|rowspan=2| Zakspeed C1/8
+|rowspan=2| Ford Cosworth DFL 4.0 L V8
+|rowspan=2| 
+|rowspan=2| 46
+|  Harald Becker
+| 5
+|-
+|  Jan Thoelke
+| 5
+|-
+|rowspan=2|  Garage Italya
+|rowspan=2| Lancia LC2/84
+|rowspan=2| Ferrari 308C 3.0 L Turbo V8
+|rowspan=2| 
+|rowspan=2| 47
+|  Henri Pescarolo
+| 9
+|-
+|  Lucio Cesario
+| 9
+|-
+|rowspan=2|  Alpha Cubic Racing Team
+|rowspan=2| Porsche 956B
+|rowspan=2| Porsche Type-935/76 2.6 L Turbo Flat-6
+|rowspan=2| 
+|rowspan=2| 48
+|  Noritake Takahara
+| 9
+|-
+|  Chiyomi Tatami
+| 9
+|-
+|rowspan=2|  Hasemi Motorsport
+|rowspan=2| March 85G
+|rowspan=2| Nissan VG30ET 3.0 L Turbo V6
+|rowspan=2| 
+|rowspan=2| 50
+|  Masahiro Hasemi
+| 9
+|-
+|  Takao Wada
+| 9
+|-
+|rowspan=14|  TWR Jaguar
+|rowspan=14| Jaguar XJR-6
+|rowspan=14| Jaguar 6.2 L V12
+|rowspan=14| 
+|rowspan=7| 51
+|  Mike Thackwell
+| 6–7, 9–10
+|-
+|  Martin Brundle
+| 6–7
+|-
+|  Jean-Louis Schlesser
+| 8
+|-
+|  Alan Jones
+| 8
+|-
+|  John Nielsen
+| 9–10
+|-
+|  Hans Heyer
+| 9
+|-
+|  Jan Lammers
+| 10
+|-
+|rowspan=7| 52
+|  Hans Heyer
+| 6–9
+|-
+|  Jean-Louis Schlesser
+| 6–7
+|-
+|  Mike Thackwell
+| 6–7, 9
+|-
+|  Martin Brundle
+| 6
+|-
+|  Jan Lammers
+| 8, 10
+|-
+|  Steve Soper
+| 9
+|-
+|  Gianfranco Brancatelli
+| 10
+|-
+|rowspan=2|  Rays Racing Division
+|rowspan=2| Tom's 84C
+|rowspan=2| Toyota 4T-GT 2.1 L Turbo I4
+|rowspan=2| 
+|rowspan=2| 57
+|  Hitoshi Ogawa
+| 9
+|-
+|  Tsunehisa Asai
+| 9
+|-
+|rowspan=3|  Trust Racing Team
+|rowspan=3| Porsche 956
+|rowspan=3| Porsche Type-935/76 2.6 L Turbo Flat-6
+|rowspan=3| 
+|rowspan=3| 60
+|  Vern Schuppan
+| 9
+|-
+|  George Fouché
+| 9
+|-
+|  Keiichi Suzuki
+| 9
+|-
+|rowspan=3|  Sauber
+|rowspan=3| Sauber C8
+|rowspan=3| Mercedes-Benz M117 5.0 L Turbo V8
+|rowspan=3| 
+|rowspan=3| 61
+|  Dieter Quester
+| 4
+|-
+|  John Nielsen
+| 4
+|-
+|  Max Welti
+| 4
+|-
+|rowspan=6|  EMKA Productions Ltd.
+|rowspan=6| EMKA C84
+|rowspan=6| Aston Martin 5.3 L V8
+|rowspan=6| 
+|rowspan=6| 66
+|  Tiff Needell
+| 3–4, 7–8
+|-
+|  Steve O'Rourke
+| 3–4, 7–8
+|-
+|  Bob Evans
+| 3
+|-
+|  Nick Faure
+| 4
+|-
+|  James Weaver
+| 7
+|-
+|  Mark Galvin
+| 8
+|-
+|rowspan=2|  Spice Engineering
+|rowspan=2| Tiga GC84
+|rowspan=2| Ford Cosworth DFL 4.0 L V8
+|rowspan=2| 
+|rowspan=2| 6754
+|  Tim Lee-Davey
+| 3, 8
+|-
+|  Neil Crang
+| 3, 8
+|-
+|rowspan=3|  Jean-Philippe Grand
+|rowspan=3| Rondeau M482
+|rowspan=3| Ford Cosworth DFL 3.3 L V8
+|rowspan=3| 
+|rowspan=3| 67
+|  Patrick Gonin
+| 4
+|-
+|  Pierre de Thoisy
+| 4
+|-
+|  Pascal Witmeur
+| 4
+|-
+|}
+
+===Group C2===
+{| class="wikitable" style="font-size: 85%"
+|-
+! Entrant
+! Car
+! Engine
+! Tyre
+! 
+! Drivers
+! Rounds
+|-
+|rowspan=6|  Spice Engineering
+|rowspan=3| Tiga GC85
+|rowspan=3| Ford Cosworth DFL 3.3 L V8
+|rowspan=3| 
+|rowspan=3| 70
+|  Ray Bellm
+| 1–8
+|-
+|  Gordon Spice
+| 1–8
+|-
+|  Mark Galvin
+| 4
+|-
+|rowspan=3| Tiga GC84
+|rowspan=3| Ford Cosworth DFV 3.0 L V8
+|rowspan=3| 
+|rowspan=3| 77
+|  Tom Lanfranchi
+| 4
+|-
+|  Tim Lee-Davey
+| 4
+|-
+|  Neil Crang
+| 4
+|-
+|rowspan=4|  Gebhardt Motorsport
+|rowspan=4| Gebhardt JC842Gebhardt JC843
+|rowspan=4| BMW M12/7 2.0 L I4Ford Cosworth DFV 3.0 L V8
+|rowspan=10| 
+|rowspan=4| 72
+|  Günther Gebhardt
+| 2, 5
+|-
+|  Walter Lechner
+| 2, 5
+|-
+|  Frank Jelinski
+| 2
+|-
+|  Miroslav Adámek
+| 5
+|-
+|rowspan=6|  Gebhardt Motorsport Team Labatt
+|rowspan=6| Gebhardt JC853
+|rowspan=6| Ford Cosworth DFL 3.3 L V8
+|rowspan=6| 74
+|  Frank Jelinski
+| 3–7, 9–10
+|-
+|  John Graham
+| 3–7, 9
+|-
+|  Nick Adams
+| 3–4
+|-
+|  Manuel Reuter
+| 5
+|-
+|  Stanley Dickens
+| 7, 9–10
+|-
+|  Walter Lechner
+| 10
+|-
+|rowspan=10|  ADA Engineering
+|rowspan=10| Gebhardt JC843
+|rowspan=10| Ford Cosworth DFL 3.3 L V8
+|rowspan=10| 
+|rowspan=10| 75
+|  Ian Harrower
+| 2–4, 8, 10
+|-
+|  Richard Jones
+| 2
+|-
+|  David Duffield
+| 2
+|-
+|  Steve Earle
+| 3–4
+|-
+|  Mark Galvin
+| 3
+|-
+|  John Sheldon
+| 4
+|-
+|  Nick Adams
+| 8
+|-
+|  Ian Taylor
+| 8
+|-
+|  Richard Piper
+| 10
+|-
+|  Evan Clements
+| 10
+|-
+|rowspan=3|  Ecurie Ecosse
+|rowspan=3| Ecosse C285
+|rowspan=3| Ford Cosworth DFV 3.0 L V8Ford Cosworth DFL 3.3 L V8
+|rowspan=3| 
+|rowspan=3| 79
+|  Mike Wilds
+| 2–5, 7–8
+|-
+|  Ray Mallock
+| 2–5, 7–8
+|-
+|  David Leslie
+| 2–5, 7
+|-
+|rowspan=13|  Carma FF
+|rowspan=7| Alba AR6
+|rowspan=13| Carma 1.9 L Turbo I4
+|rowspan=13| 
+|rowspan=7| 80
+|  Martino Finotto
+| 1–8
+|-
+|  Guido Daccò
+| 1–4
+|-
+|  Carlo Facetti
+| 1–3, 5–8
+|-
+|  Aldo Bertuzzi
+| 4
+|-
+|  Lucio Cesario
+| 5
+|-
+|  Jean-Pierre Frey
+| 6
+|-
+|  Almo Coppelli
+| 7–8
+|-
+|rowspan=6| Alba AR2
+|rowspan=6| 81
+|  Jean-Pierre Frey
+| 2–5
+|-
+|  Loris Kessel
+| 2–4
+|-
+|  Almo Coppelli
+| 2
+|-
+|  Aldo Bertuzzi
+| 4
+|-
+|  Ruggero Melgrati
+| 4
+|-
+|  Marco Vanoli
+| 5
+|-
+|rowspan=6|  Grifo Autoracing
+|rowspan=6| Alba AR3
+|rowspan=6| Ford Cosworth DFL 3.3 L V8
+|rowspan=6| 
+|rowspan=6| 82
+|  Pasquale Barberio
+| 3–8, 10
+|-
+|  Paolo Giangrossi
+| 3–5
+|-
+|  Maurizio Gellini
+| 3, 5–8
+|-
+|  Mario Radicella
+| 4
+|-
+|  Jean-Pierre Frey
+| 8, 10
+|-
+|  John Nicholson
+| 10
+|-
+|rowspan=2|  Auto Beaurex Motorsport
+|rowspan=2| Lotec M1C
+|rowspan=2| BMW M88 3.5 L I6
+|rowspan=2| 
+|rowspan=2| 84
+|  Kozuo Mogi
+| 9
+|-
+|  Toshio Motohashi
+| 9
+|-
+|rowspan=7|  Mazdaspeed Co. Ltd.
+|rowspan=7| Mazda 737C
+|rowspan=7| Mazda 13B 1.3 L 2-rotor
+|rowspan=7| 
+|rowspan=3| 85
+|  Yoshimi Katayama
+| 3–4, 9
+|-
+|  Takashi Yorino
+| 3–4, 9
+|-
+|  Yojiro Terada
+| 4
+|-
+|rowspan=4| 86
+|  David Kennedy
+| 3–4, 9
+|-
+|  Yojiro Terada
+| 3, 9
+|-
+|  Philippe Martin
+| 4
+|-
+|  Jean-Michel Martin
+| 4
+|-
+|rowspan=3|  Ark Racing Arthur Hough Pressings
+|rowspan=3| Ceekar 83J-1
+|rowspan=3| Ford Cosworth BDX 2.0 L I4
+|rowspan=3| 
+|rowspan=3| 88
+|  Max Payne
+| 1–3, 5–8, 10
+|-
+|  David Andrews
+| 1–3, 5–8, 10
+|-
+|  Chris Ashmore
+| 1–3, 5, 7–8
+|-
+|rowspan=5|  Jens Winther Castrol Denmark
+|rowspan=5| URD C83
+|rowspan=5| BMW M88 3.5 L I6
+|rowspan=5| 
+|rowspan=5| 90
+|  Jens Winther
+| 1–5, 7–8
+|-
+|  Lars-Viggo Jensen
+| 1
+|-
+|  David Mercer
+| 2–5, 7–8
+|-
+|  Margie Smith-Haas
+| 4
+|-
+|  Martin Birrane
+| 5
+|-
+|rowspan=3|  Automobiles Louis Descartes
+|rowspan=3| ALD 01
+|rowspan=3| BMW M88 3.5 L I6
+|rowspan=3| 
+|rowspan=3| 93
+|  Louis Descartes
+| 4–5, 7
+|-
+|  Jacques Heuclin
+| 4–5, 7
+|-
+|  Daniël Hubert
+| 4
+|-
+|rowspan=5|  Roland Bassaler
+|rowspan=5| Sauber SHS C6
+|rowspan=5| BMW M88 3.5 L I6
+|rowspan=5| 
+|rowspan=5| 95
+|  Dominique Lacaud
+| 4, 7–8
+|-
+|  Roland Bassaler
+| 4, 7–8
+|-
+|  Yvon Tapy
+| 4
+|-
+|  Gerard Brucelle
+| 7
+|-
+|  Gérard Tremblay
+| 7
+|-
+|rowspan=3|  Mr S Racing Product
+|rowspan=3| MCS Guppy
+|rowspan=3| BMW M12 2.0 L I4
+|rowspan=3| 
+|rowspan=3| 96
+|  Syuuji Fujii
+| 9
+|-
+|  Seiichi Sodeyama
+| 9
+|-
+|  Tooru Sawada
+| 9
+|-
+|rowspan=4|  Strandell Motors
+|rowspan=4| Strandell 85
+|rowspan=4| Porsche 3.3 L Turbo Flat-6
+|rowspan=4| 
+|rowspan=4| 97
+|  Stanley Dickens
+| 2–5
+|-
+|  Martin Schanche
+| 2–5
+|-
+|  Anders Olofsson
+| 7
+|-
+|  Tryggve Gronvall
+| 7
+|-
+|rowspan=25|  Roy Baker Promotions
+|rowspan=25| Tiga GC284Tiga GC285
+|rowspan=25| Ford Cosworth BDT 1.8 L Turbo I4
+|rowspan=25| 
+|rowspan=13| 98
+|  Paul Smith
+| 1–2, 5, 7–8
+|-
+|  Jeremy Rossiter
+| 1
+|-
+|  Dudley Wood
+| 1, 8
+|-
+|  Will Hoy
+| 2–3, 5
+|-
+|  Roy Baker
+| 2, 6, 9–10
+|-
+|  Thorkild Thyrring
+| 3, 5
+|-
+|  David Andrews
+| 4, 9
+|-
+|  Duncan Bain
+| 4, 10
+|-
+|  François Duret
+| 4
+|-
+|  Chuck Grantham
+| 6, 9
+|-
+|  Joe DeMarco
+| 6
+|-
+|  Mike Kimpton
+| 7–8
+|-
+|  Andy Wallace
+| 10
+|-
+|rowspan=12| 99
+|  Paul Smith
+| 4–5
+|-
+|  Will Hoy
+| 4, 8
+|-
+|  Nick Nicholson
+| 4
+|-
+|  Roy Baker
+| 5, 9–10
+|-
+|  Mike Kimpton
+| 5
+|-
+|  James Rossiter
+| 7
+|-
+|  Thorkild Thyrring
+| 7
+|-
+|  Duncan Bain
+| 8
+|-
+|  Mike Catlow
+| 8
+|-
+|  Bill Bean
+| 9
+|-
+|  David Palmer
+| 10
+|-
+|  Michael Hall
+| 10
+|-
+|rowspan=9|  Bartlett Chevron Racing with Goodmans Sound
+|rowspan=9| Chevron B62
+|rowspan=9| Ford Cosworth DFL 3.3 L V8
+|rowspan=9| 
+|rowspan=9| 100
+|  Max Cohen-Olivar
+| 4–8
+|-
+|  Robin Smith
+| 4–6, 9–10
+|-
+|  Richard Jones
+| 4–5, 7
+|-
+|  Stanley Dickens
+| 6, 8
+|-
+|  John Bartlett
+| 6
+|-
+|  Kenneth Leim
+| 7, 9–10
+|-
+|  John Watson
+| 8
+|-
+|  Martin Birrane
+| 9
+|-
+|  Robin Donovan
+| 10
+|-
+|rowspan=3|  Ecurie Blanchet-Locatop
+|rowspan=3| Rondeau M379C
+|rowspan=3| Ford Cosworth DFV 3.0 L V8
+|rowspan=3| 
+|rowspan=3| 104
+|  Michel Dubois
+| 4–5
+|-
+|  Hubert Striebig
+| 4–5
+|-
+|  Noël del Bello
+| 4–5
+|-
+|rowspan=2|  Jens Nykjaer
+|rowspan=2| Nykjaer
+|rowspan=2| BMW 3.2 L I6
+|rowspan=2| 
+|rowspan=2| 105
+|  Jens Nykjaer
+| 2, 5, 7
+|-
+|  Holger Knudsen
+| 2, 5, 7
+|-
+|rowspan=2|  Mario Fortina
+|rowspan=2| Fortina
+|rowspan=2| Lancia 1.4 L Turbo I4
+|rowspan=2| 
+|rowspan=2| 106
+|  Mario Fortina
+| 2
+|-
+|  "Gimax"
+| 2
+|-
+|rowspan=2|  Bruno Sotty Motorsportclub Wasserburg
+|rowspan=2| Lotec C302
+|rowspan=2| Ford Cosworth DFV 3.0 L V8
+|rowspan=2| 
+|rowspan=2| 106102
+|  Kurt Hild
+| 4–5
+|-
+|  Martin Wagenstetter
+| 4–5
+|-
+|rowspan=2|  Jean-Claude Ferrarin
+|rowspan=2| Isolia 001
+|rowspan=2| BMW M12/7 2.0 L I4
+|rowspan=2| 
+|rowspan=2| 107
+|  Jean-Claude Ferrarin
+| 7–8
+|-
+|  Lucien Rossiaud
+| 7–8
+|-
+|}
+
+==Season results==
+
+===Races===
+
+{| class="wikitable" style="font-size: 90%;"
+|-
+!rowspan=2| Rnd
+!rowspan=2| Circuit
+! C1 Winning Team
+! C2 Winning Team
+!rowspan=2| Results
+|-
+! C1 Winning Drivers
+! C2 Winning Drivers
+|-
+!rowspan=2| 1
+|rowspan=2| Mugello
+|  Rothmans Porsche
+|  Spice Engineering
+|rowspan=2| Results
+|-
+|  Jacky Ickx Jochen Mass
+|  Gordon Spice Ray Bellm
+|-
+!rowspan=2| 2
+|rowspan=2| Monza
+|  Porsche Kremer Racing
+|  Spice Engineering
+|rowspan=2| Results
+|-
+|  Manfred Winkelhock Marc Surer
+|  Gordon Spice Ray Bellm
+|-
+!rowspan=2| 3
+|rowspan=2| Silverstone
+|  Rothmans Porsche
+|  Ecurie Ecosse
+|rowspan=2| Results
+|-
+|  Jacky Ickx Jochen Mass
+|  Ray Mallock Mike Wilds
+|-
+!rowspan=2| 4
+|rowspan=2| La Sarthe
+|  Joest Racing
+|  Spice Engineering
+|rowspan=2| Results
+|-
+|  Klaus Ludwig "John Winter" Paolo Barilla
+|  Gordon Spice Ray Bellm Mark Galvin
+|-
+!rowspan=2| 5
+|rowspan=2| Hockenheimring
+|  Rothmans Porsche
+|  Ecurie Ecosse
+|rowspan=2| Results
+|-
+|  Derek Bell Hans-Joachim Stuck
+|  Ray Mallock David Leslie Mike Wilds
+|-
+!rowspan=2| 6
+|rowspan=2| Mosport
+|  Rothmans Porsche
+|  Spice Engineering
+|rowspan=2| Results
+|-
+|  Derek Bell Hans-Joachim Stuck
+|  Gordon Spice Ray Bellm
+|-
+!rowspan=2| 7
+|rowspan=2| Spa-Francorchamps
+|  Martini Racing
+|  Spice Engineering
+|rowspan=2| Results
+|-
+|  Bob Wollek Mauro Baldi
+|  Gordon Spice Ray Bellm
+|-
+!rowspan=2| 8
+|rowspan=2| Brands Hatch
+|  Rothmans Porsche
+|  Ecurie Ecosse
+|rowspan=2| Results
+|-
+|  Derek Bell Hans-Joachim Stuck
+|  Ray Mallock Mike Wilds
+|-
+!rowspan=2| 9
+|rowspan=2| Fuji
+|  Hoshino Racing
+|  Auto Beaurex Motorsport
+|rowspan=2| Results
+|-
+|  Kazuyoshi Hoshino Akira Hagiwara Kenji Matsumoto
+|  Kazuo Mogi Toshio Motohashi
+|-
+!rowspan=2| 10
+|rowspan=2| Shah Alam
+|  Rothmans Porsche
+|  ADA Engineering
+|rowspan=2| Results
+|-
+|  Jacky Ickx Jochen Mass
+|  Richard Piper Ian Harrower Evan Clements
+|}
+
+==Drivers Championship==
+Points were awarded to the drivers of the top 10 placed cars in the order of 20-15-12-10-8-6-4-3-2-1Peter Higham, The Guinness Guide To International Motor Racing, 1995, page 260 and drivers of C2 cars were also awarded 2 bonus points if they finished in any of the top ten outright positions.Michael Cotton, Directory of World Sportscars, 1988, page 14 However points were not awarded if a driver: 
+* drove more than one car in the raceAutosport, 30 January 1986
+* failed to drive the car for at least 30% of the distance
+* drove a car which did not complete 90% of the winner's distance
+
+All drivers were eligible to score points in the overall championship, but drivers of C2 class cars were also awarded points separately for their own title.
+
+Only half points were awarded at Round 9 due to the race being stopped with less than 50% distance having been covered.
+
+===World Endurance Championship for Drivers===
+
+The 1985 FIA World Endurance Championship for Drivers was awarded jointly to Rothmans Porsche teammates Hans-Joachim Stuck and Derek Bell who shared a Porsche 962C throughout the season
+
+===Group C2===
+
+The Group C2 title was awarded to Gordon Spice and Ray Bellm who shared a Tiga Ford entered by Spice Engineering.
+
+==Teams Championship==
+
+Points were awarded to the top 10 finishers in the order of 20-15-12-10-8-6-4-3-2-1, however 
+* Teams were only given points for their highest finishing car; any other team cars were merely skipped in the points allocation
+* Teams did not score points if the car did not complete 90% of the winner's distance.
+
+All cars were eligible to score for their team in the overall championship, but C2 class cars were also awarded points separately for their own title.
+
+Rounds 2, 8, and 10 were not part of the Teams Championship and counted only for the Drivers titles.
+
+Only half points were awarded at Round 9 due to the race being stopped with less than 50% distance having been covered.
+
+===World Endurance Championship for Teams===
+{| class="wikitable" style="font-size: 90%;"
+|-
+! Pos1986 FIA Yearbook, Red Section, pages 80-81
+! Team
+! Chassis
+! Engine
+! Mug
+! Sil
+! LeM
+! Hoc
+! Mos
+! Spa
+! Fuj
+! Total
+|-
+! 1
+|  Rothmans Porsche
+| Porsche 956BPorsche 962C
+| Porsche 2.6L Turbo Flat-6
+|align=center| 20
+|align=center| 20
+|align=center| 12
+|align=center| 20
+|align=center| 20
+|align=center| 15
+| 
+|align=center| 107
+|-
+! 2
+|  Martini Lancia
+| Lancia LC2
+| Ferrari 308C 3.0L Turbo V8
+|align=center| 10
+|align=center| 12
+|align=center| 6
+|align=center| 10
+| 
+|align=center| 20
+| 
+|align=center| 58
+|-
+! 3
+|  New-Man Joest Racing
+| Porsche 956B
+| Porsche 2.6L Turbo Flat-6
+| 
+|align=center| 6
+|align=center| 20
+|align=center| 12
+| 
+|align=center| 12
+| 
+|align=center| 50
+|-
+! 4
+|  Kremer Porsche Racing
+| Porsche 956BPorsche 962C
+| Porsche 2.6L Turbo Flat-6
+|align=center| 15
+|align=center| 10
+|align=center| 8
+| 
+|align=center| 10
+| 
+| 
+|align=center| 43
+|-
+! 5
+|  Richard Lloyd Racing with Porsche
+| Porsche 956BPorsche 956B GTi
+| Porsche 2.6L Turbo Flat-6
+| 
+|align=center| 8
+|align=center| 15
+|align=center| 8
+| 
+| 
+| 
+|align=center| 31
+|-
+! 6
+|  Brun Motorsport
+| Porsche 956BPorsche 962C
+| Porsche 2.6L Turbo Flat-6
+|align=center| 12
+|align=center| 1
+| 
+|align=center| 15
+| 
+| 
+| 
+|align=center| 28
+|-
+! 7
+|  Jaguar
+| Jaguar XJR-6
+| Jaguar 6.2L V12
+| 
+| 
+| 
+| 
+|align=center| 12
+|align=center| 8
+| 
+|align=center| 20
+|-
+! 8
+|  Obermaier Racing Team
+| Porsche 956B
+| Porsche 2.6L Turbo Flat-6
+|align=center| 6
+|align=center| 4
+|align=center| 3
+|align=center| 4
+| 
+|align=center| 3
+| 
+|align=center| 20
+|-
+! 9
+|  Spice Engineering
+| Tiga GC84Spice-Tiga GC85
+| Ford Cosworth DFV 3.0L V8Ford Cosworth DFL 3.3L V8
+|align=center| 4
+| 
+| 
+|align=center| 2
+|align=center| 8
+|align=center| 2
+| 
+|align=center| 16
+|-
+! 10
+|  John Fitzpatrick Racing
+| Porsche 956B
+| Porsche 2.6L Turbo Flat-6
+| 
+| 
+|align=center| 10
+| 
+| 
+| 
+| 
+|align=center| 10
+|-
+! 10
+|  Hoshino Racing
+| March 85G
+| Nissan 
+| 
+| 
+| 
+| 
+| 
+| 
+|align=center| 10
+|align=center| 10
+|-
+! 12
+|  Panasport Nissan
+| LM 05C
+| Nissan 
+| 
+| 
+| 
+| 
+| 
+| 
+|align=center| 7.5
+|align=center| 7.5
+|-
+! 13
+|  Team Labatts
+| Gebhardt JC843Gebhardt JC853
+| BMW 3.5L I6Ford Cosworth DFL 3.3L V8
+| 
+| 
+| 
+| 
+|align=center| 6
+| 
+| 
+|align=center| 6
+|-
+! 13
+|  Tom's Co Ltd
+| Tom's 85c
+| Toyota
+| 
+| 
+| 
+| 
+| 
+| 
+|align=center| 6
+|align=center| 6
+|-
+! 15
+| Auto Beaurex Motor Sport
+| Tom's 85c
+| Toyota
+| 
+| 
+| 
+| 
+| 
+| 
+|align=center| 5
+|align=center| 5
+|-
+! 16
+|  Ecurie Ecosse
+| Ecosse C285
+| Ford Cosworth DFV 3.0L V8Ford Cosworth DFL 3.3L V8
+| 
+| 
+|align=center| 2
+| 
+|align=center| 3
+| 
+| 
+|align=center| 5
+|-
+! 17
+| Bierl Racing
+| Sauber C7
+| Chevrolet
+| 
+| 
+| 
+| 
+|align=center| 4
+| 
+| 
+|align=center| 4
+|-
+! 17
+| Cosmik Racing Promotion
+| March 84G
+| Porsche
+| 
+| 
+| 
+| 
+| 
+|align=center| 4
+| 
+|align=center| 4
+|-
+! 17
+| Hasemi Motor Sport
+| March 85G
+| Nissan
+| 
+| 
+| 
+| 
+| 
+| 
+|align=center| 4
+|align=center| 4
+|-
+! 20
+|  Carma F.F.
+| Alba AR2Alba AR6
+| Carma FF 1.9L Turbo I4
+|align=center| 3
+| 
+| 
+|align=center|1
+| 
+| 
+| 
+|align=center| 4
+|-
+! 21
+|  Ark Racing / Arthur Houghs Pressing
+| Ceekar 83J
+| Ford Cosworth BDX 2.0L I4
+| 
+| 
+| 
+| 
+|align=center| 3
+| 
+| 
+|align=center| 3
+|-
+! 21
+|  Trust Racing Team
+| Porsche 956
+| Porsche 2.6L Turbo Flat-6
+| 
+| 
+| 
+| 
+| 
+| 
+|align=center| 3
+|align=center| 3
+|-
+! 23
+|  Jens Winther Danmark
+| URD C83
+| BMW 3.5L I6
+|align=center| 2
+| 
+| 
+| 
+| 
+| 
+| 
+|align=center| 2
+|-
+! 23
+| English Enterprises
+| Chevrolet Camaro
+| Chevrolet
+| 
+| 
+| 
+| 
+|align=center| 2
+| 
+| 
+|align=center| 2
+|-
+! 23
+| Misaki Speed
+| Tom's 85B
+| Toyota
+| 
+| 
+| 
+| 
+| 
+| 
+|align=center| 2
+|align=center| 2
+|-
+! 26
+| Central 20 Racing Team
+| Lola T810
+| Nissan
+| 
+| 
+| 
+| 
+| 
+| 
+|align=center| 1.5
+|align=center| 1.5
+|-
+! 27
+| "Victor" / V Coggiola
+| Porsche 935
+| Porsche
+|align=center| 1
+| 
+| 
+| 
+| 
+| 
+| 
+|align=center| 1
+|-
+! 27
+| Cheetah Automobiles
+| Cheetah G604
+| Aston Martin
+| 
+| 
+| 
+| 
+| 
+|align=center| 1
+| 
+|align=center| 1
+|-
+! 27
+| Dome Co Ltd
+| Dome 85C
+| Toyota
+| 
+| 
+| 
+| 
+| 
+| 
+|align=center| 1
+|align=center| 1
+|-
+! 30
+| Team Ikuzawa
+| Tom's 85C
+| Toyota
+| 
+| 
+| 
+| 
+| 
+| 
+|align=center| 0.5
+|align=center| 0.5
+|-
+|}
+
+===Group C2 Prototype FIA Cup===
+{| class="wikitable" style="font-size: 90%;"
+|-
+! Pos
+! Team
+! Chassis
+! Engine
+! Mug
+! Sil
+! LeM
+! Hoc
+! Mos
+! Spa
+! Fuj
+! Total
+|-
+! 1
+|  Spice Engineering
+| Tiga GC84Spice-Tiga GC85
+| Ford Cosworth DFV 3.0L V8Ford Cosworth DFL 3.3L V8
+|align=center| 20
+|align=center| 15
+|align=center| 20
+|align=center| 15
+|align=center| 20
+|align=center| 20
+| 
+|align=center| 110
+|-
+! 2
+|  Ecurie Ecosse
+| Ecosse C285
+| Ford Cosworth DFV 3.0L V8Ford Cosworth DFL 3.3L V8
+| 
+|align=center| 20
+| 
+|align=center| 20
+| 
+|align=center| 10
+| 
+|align=center| 50
+|-
+! 3
+|  Ark Racing / Arthur Houghs Pressing
+| Ceekar 83J
+| Ford Cosworth BDX 2.0L I4
+|align=center| 10
+|align=center| 8
+| 
+|align=center| 10
+|align=center| 12
+|align=center| 6
+| 
+|align=center| 46
+|-
+! 4
+|  Jens Winther Danmark
+| URD C83
+| BMW 3.5L I6
+|align=center| 12
+| 
+| 
+|align=center| 8
+| 
+|align=center| 12
+| 
+|align=center| 32
+|-
+! 5
+|  Carma F.F.
+| Alba AR2Alba AR6
+| Carma FF 1.9L Turbo I4
+|align=center| 15
+|align=center| 4
+| 
+|align=center| 12
+| 
+| 
+| 
+|align=center| 31
+|-
+! 6
+|  Team Labatts
+| Gebhardt JC843Gebhardt JC853
+| BMW 3.5L I6Ford Cosworth DFL 3.3L V8
+| 
+| 
+| 
+| 
+|align=center| 15
+|align=center| 15
+| 
+|align=center| 30
+|-
+! 7
+|  Roy Baker Promotions Ford
+| Tiga GC284Tiga GC285
+| Ford BDT 1.7L Turbo I4
+|align=center| 8
+| 
+|align=center| 10
+| 
+| 
+|align=center| 2
+| 
+|align=center| 20
+|-
+! 8
+|  Mazdaspeed 
+| Mazda 737C
+| Mazda 13B 1.3L 2-Rotor
+| 
+|align=center| 6
+|align=center| 12
+| 
+| 
+| 
+| 
+|align=center| 18
+|-
+! 9
+|  ADA Engineering
+| Gebhardt JC843
+| Ford Cosworth DFL 3.3L V8
+| 
+| 
+|align=center| 15
+| 
+| 
+| 
+| 
+|align=center| 15
+|-
+! 10
+|  Strandell Motors
+| Standell 85
+| Porsche 3.3L Turbo Flat-6
+| 
+|align=center| 12
+| 
+| 
+| 
+| 
+| 
+|align=center| 12
+|-
+! 11
+| Raymond Bassaler
+| Sauber SHS C6
+| BMW
+| 
+| 
+|align=center| 8
+| 
+| 
+|align=center| 4
+| 
+|align=center| 12
+|-
+! 12
+| Gebhardt Motorsport
+| Gebhardt JC853 
+| Ford
+| 
+|align=center| 10
+| 
+| 
+| 
+| 
+| 
+|align=center| 10
+|-
+! 12
+| Auto Beaurex Motor Sport
+| Lotec M1C 
+| BMW
+| 
+| 
+| 
+| 
+| 
+| 
+|align=center| 10
+|align=center| 10
+|-
+! 14
+| Grifo Autoracing
+| Alba AR3 
+| Ford
+| 
+| 
+| 
+| 
+| 
+|align=center| 8
+| 
+|align=center| 8
+|-
+! 15
+| MRS Racing Products
+| Mazda RX-7 254
+| Mazda
+| 
+| 
+| 
+| 
+| 
+|align=center| 7.5
+| 
+|align=center| 7.5
+|-
+! 16
+| Bartlett Chevron Racing with Goodmans Sound
+| Chevron B62 
+| Ford
+| 
+| 
+| 
+|align=center| 6
+| 
+| 
+| 
+|align=center| 6
+|-
+! 17
+| Jens Nykjaer
+| Nykjaer 
+| BMW
+| 
+| 
+| 
+| 
+| 
+|align=center| 3
+| 
+|align=center| 3
+|}
+
+===FIA Grand Touring Cup===
+{| class="wikitable" style="font-size: 90%;"
+|-
+! Pos
+! Team
+! Chassis
+! Engine
+! Mug
+! Sil
+! LeM
+! Hoc
+! Mos
+! Spa
+! Fuj
+! Total
+|-
+! 1
+|  Helmut Gall
+| BMW M1
+| BMW 3.5L I6
+|align=center| 20
+| 
+|align=center| 20
+|align=center| 20
+| 
+| 
+| 
+|align=center| 60
+|-
+! 2
+| English Enterprises
+| Chevrolet Camaro
+| Chevrolet
+| 
+| 
+| 
+|
+|  align="center" | 20
+| 
+| 
+|align=center| 20
+|-
+! 3
+| Bauerle Farben Team
+| BMW M1
+| BMW 3.5L I6
+| 
+| 
+| 
+|align=center| 15
+| 
+| 
+| 
+|align=center| 15
+|-
+! =
+| Zwiren Racing
+| Mazda RX-7
+| Mazda
+| 
+| 
+|
+|
+|align=center| 15
+| 
+| 
+|align=center| 15
+|-
+! 5
+| Vogelsang Autombil
+| BMW M1
+| BMW 3.5L I6
+| 
+| 
+| 
+|align=center| 12
+| 
+| 
+| 
+|align=center| 12
+|-
+! 6
+| Trust Racing Team
+| Toyota Celica
+| Toyota
+|
+| 
+| 
+| 
+| 
+| 
+|align=center| 10
+|align=center| 10
+|}
+

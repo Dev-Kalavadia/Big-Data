@@ -1,0 +1,429 @@
+Title: Central Coast Division Rugby League
+
+
+
+
+The Central Coast Division of Country Rugby League is a rugby league competition based on the Central Coast of New South Wales between Sydney and Newcastle. The competition was founded in 1947 as a junior competition for the Newcastle club, Lakes United. The competition rapidly expanded and grew, so much so that in 1967, it was upgraded to full membership of the Country Rugby League as Group 12. In 1981, it was upgraded and renamed Central Coast Division. The division covers the entire region of the Central Coast from Woy Woy and Umina in the south up to Budgewoi and Gwandalan in the north.
+
+== Current Clubs ==
+{| class="wikitable sortable collapsible"
+! colspan="2" style="text-align:center;" | Club
+! colspan="2" style="text-align:center;" | 2023
+! colspan="5" style="text-align:center;" | First Grade Years & Premierships
+!Other Senior Competitions
+|-
+! style="width: 155pt;" | Name
+! Est
+! Jnr
+! Snr
+! Span
+! style="font-size:75%;" | 1915–1936
+! style="font-size:75%;" | 1947–2019
+! style="font-size:75%;" | Other
+! style="font-size:75%;" | Total
+! Span
+|- valign="" top 
+|  Berkeley Vale Panthers || 1987 || Yes || 1st || 1995–2001, 2003–present || style="text-align:right;" | – || style="text-align:right;" | 2 || style="text-align:right;" | – || style="text-align:right;" | 2 || 2nd Division 1987–1994, 2nd Grade 2002; Sydney Women 2015-now
+|- valign="" top 
+| 16x16px Erina Eagles || 1949 || Yes || 1st || 1949–present (Predecessor 1915, 1919–26, 1930–34, 1936) || style="text-align:right;" | 2 || style="text-align:right;" | 4 || style="text-align:right;" | 0 || style="text-align:right;" | 6 || Jim Beam Cup 2003–2008
+|- valign="" top 
+| 16x16px Kincumber Colts || 1978 || Yes || 1st || 2004–present (Predecessor 1932–36) || style="text-align:right;" | 0 || style="text-align:right;" | 1 || style="text-align:right;" | – || style="text-align:right;" | 1 || 2nd Division 1978–2000; U17 2003
+|- valign="" top 
+| 16x16px Terrigal Sharks || 1975 || Yes || 1st || 1976–present (Predecessor 1921) || style="text-align:right;" | 0 || style="text-align:right;" | 2 || style="text-align:right;" | – || style="text-align:right;" | 2 || Predecessor 2nd Grade 1931–1932
+|- valign="" top 
+| 16x16px The Entrance Tigers || 1934 || Yes || 1st || 1947–present || style="text-align:right;" | – || style="text-align:right;" | 15 || style="text-align:right;" | 3 || style="text-align:right;" | 18 || Challenge Cups 1930s; Jim Beam Cup 2003–2007, Ron Massey Cup 2010–2014
+|- valign="" top 
+| 16x16px Toukley Hawks || 1976 || Yes || 1st || 1979–1994, 2006–2017, 2021–present || style="text-align:right;" | – || style="text-align:right;" | 0 || style="text-align:right;" | – || style="text-align:right;" | 0 || 2nd Division 1976–1978, 1995–2005.
+|- valign="" top 
+| 16x16px Woy Woy Roosters || 1915 || Yes || 1st || 1947–present (Predecessor 1930–1934)|| style="text-align:right;" | 0 || style="text-align:right;" | 18 || style="text-align:right;" | 0 || style="text-align:right;" | 18 || Challenge Cups 1935–1941; Jim Beam Cup 2003–2004
+|- valign="" top 
+| 16x16px Wyong Roos || 1910 || Yes || 1st || 1915, 1919–1924, 1926–1936, 1947–1957, 1960–2006, 2013–present || style="text-align:right;" | 7 || style="text-align:right;" | 13 || style="text-align:right;" | 1 || style="text-align:right;" | 21 || Newcastle: 2nd Grade 1912–1914, 3rd Grade 1945, Southern 1946, 1st Grade 2003–2012; NSW Cup 2013–2017
+|- valign="" top 
+| 16x16px Ourimbah Wyoming Magpies || 1913 || Yes || 2nd|| 1915, 1919–1936, 1947–2019 || style="text-align:right;" | 4 || style="text-align:right;" | 8 || style="text-align:right;" | 0 || style="text-align:right;" | 12 || Challenge Cups 1938–1941, 1946; Jim Beam Cup 2003–2005
+|- valign="" top 
+| 16x16px St Edwards Bears (Gosford) || 2013 || Yes || Open || Nil || style="text-align:right;" | – || style="text-align:right;" | – || style="text-align:right;" | – || style="text-align:right;" | – || U16 1971–1972, 1974; Open Age 2013-present
+|- valign="" top 
+| 16x16px Umina Beach Bunnies || 1964 || Yes || Open || 1964–1995, 1999–2002, 2004–2015 || style="text-align:right;" | – || style="text-align:right;" | 3 || style="text-align:right;" | – || style="text-align:right;" | 3 || Newcastle & Hunter A Grade 2017, Ladies League Tag 2016–2017
+|- valign="" top 
+| 16x16px Blue Haven Raiders || 2007 || Yes || No || Nil || style="text-align:right;" | – || style="text-align:right;" | – || style="text-align:right;" | – || style="text-align:right;" | – || Open Age 2011
+|- valign="" top 
+| 16x16px Budgewoi-Buff Point Bulldogs || 1978 || Yes || No || Nil || style="text-align:right;" | – || style="text-align:right;" | – || style="text-align:right;" | – || style="text-align:right;" | – || 2nd Division 1978–2002, 2005; 2nd Grade 2006
+|- valign="" top 
+| 16x16px Gosford Kariong Storm || 2000 || Yes || No || (Predecessors 1919–1934, 1936, 1948–1999) || style="text-align:right;" | 3 || style="text-align:right;" | 7 || style="text-align:right;" | 0 || style="text-align:right;" | 10 || 2nd Division 2000–2005; 2nd Grade 2006; Open Age 2010–2011, 2014, 2016, 2018. Predecessor North Sydney 1928
+|- valign="" top 
+| 16x16px Northern Lakes Warriors || 1976 || Yes || No || 1981–1982, 1992–1993 (as Munmorah), 1994–1997, 2004–2017. 2019 || style="text-align:right;" | – || style="text-align:right;" | 0 || style="text-align:right;" | – || style="text-align:right;" | 0 || 2nd Division 1976–1980, 1983–1990 (as Munmorah), 2000–2003, 2nd Grade 1991, U18 1999, 2nd Grade 2018.
+|- valign="" top 
+| 16x16px Warnervale Bulls || 2010 || Yes || No || Nil || style="text-align:right;" | – || style="text-align:right;" | – || style="text-align:right;" | – || style="text-align:right;" | – || Nil
+|}
+
+==Teams Timeline==
+This timeline indicates the highest grade played. 
+
+ImageSize = width:1000 height:4auto barincrement:20
+PlotArea = left:150 bottom:80 top:0 right:15
+Alignbars = justify
+DateFormat  = dd/mm/yyyy
+Period = from:01/01/1910 till:31/12/2020
+TimeAxis = orientation:horizontal format:yyyy
+Legend = position:bottom  columns:1
+ScaleMajor = unit:year increment:5 start:1910
+ScaleMinor = unit:year increment:5 start:2020
+
+Colors =
+  id:First  value:darkblue     legend:First_Grade
+  id:Lower  value:blue         legend:Lower_Grades_Only
+  id:Junior value:skyblue      legend:Juniors_Only
+  id:Women  value:purple       legend:Womens_Rugby_League
+  id:Ladies value:pink         legend:Ladies_League_Tag
+  id:NSWRL  value:red          legend:NSWRL
+  id:Pred   value:lavender     legend:Predecessor
+  id:Cup    value:orange       legend:Challenge_Cup
+  id:Newc   value:brightgreen  legend:Newcastle
+  id:Div2   value:yelloworange legend:Division_2
+
+BarData =
+  bar:BV     text:"Berkeley Vale"
+  bar:Eri    text:"Erina"
+  bar:Kin    text:"Kincumber"
+  bar:NL     text:"Northern Lakes"
+  bar:Our    text:"Ourimbah"
+  bar:Ter    text:"Terrigal"
+  bar:Ent    text:"The Entrance"
+  bar:Tky    text:"Toukley"
+  bar:Woy    text:"Woy Woy"
+  bar:Wyg    text:"Wyong"
+  bar:Gos    text:"Gosford"
+  bar:StE    text:"St Edwards"
+  bar:BH     text:"Blue Haven"
+  bar:Bud    text:"Budgewoi"
+  bar:War    text:"Warnervale"
+  bar:Umi    text:"Umina"
+  bar:CW     text:"Central Wyong"
+
+PlotData=
+  bar:BV     from: 01/01/1987 till:31/12/1994 color: yelloworange width: 8
+  bar:BV     from: 01/01/1995 till:31/12/2001 color: darkblue width: 14
+  bar:BV     from: 01/01/2002 till:31/12/2002 color: blue width: 14
+  bar:BV     from: 01/01/2003 till:31/12/2018 color: darkblue width: 14
+  bar:BV     from: 01/01/2015 till:31/12/2018 color: purple width: 8
+  bar:BV     from: 01/01/2015 till:31/12/2018 color: pink width: 6
+  bar:Eri    from: 01/01/1915 till:31/12/1915 color: lavender width: 14
+  bar:Eri    from: 01/01/1919 till:31/12/1926 color: lavender width: 14
+  bar:Eri    from: 01/01/1930 till:31/12/1934 color: lavender width: 14
+  bar:Eri    from: 01/01/1936 till:31/12/1936 color: lavender width: 14
+  bar:Eri    from: 01/01/1949 till:31/12/2018 color: darkblue width: 14
+  bar:Eri    from: 01/01/2015 till:31/12/2018 color: pink width: 6
+  bar:Kin    from: 01/01/1932 till:31/12/1936 color: lavender width: 14
+  bar:Kin    from: 01/01/1978 till:31/12/2000 color: yelloworange width: 8
+  bar:Kin    from: 01/01/2003 till:31/12/2003 color: blue width: 14
+  bar:Kin    from: 01/01/2004 till:31/12/2018 color: darkblue width: 14
+  bar:NL     from: 01/01/1976 till:31/12/1980 color: yelloworange width: 8
+  bar:NL     from: 01/01/1981 till:31/12/1982 color: darkblue width: 14
+  bar:NL     from: 01/01/1983 till:31/12/1990 color: yelloworange width: 8
+  bar:NL     from: 01/01/1987 till:31/12/1991 color: blue width: 14
+  bar:NL     from: 01/01/1992 till:31/12/1997 color: darkblue width: 14
+  bar:NL     from: 01/01/1999 till:31/12/2003 color: blue width: 14
+  bar:NL     from: 01/01/2000 till:31/12/2003 color: yelloworange width: 8
+  bar:NL     from: 01/01/2004 till:31/12/2017 color: darkblue width: 14
+  bar:NL     from: 01/01/2018 till:31/12/2018 color: blue width: 14
+  bar:Our    from: 01/01/1915 till:31/12/1915 color: darkblue width: 14
+  bar:Our    from: 01/01/1919 till:31/12/1925 color: darkblue width: 14
+  bar:Our    from: 01/01/1926 till:31/12/1926 color: blue width: 14
+  bar:Our    from: 01/01/1927 till:31/12/1936 color: darkblue width: 14
+  bar:Our    from: 01/01/1938 till:31/12/1941 color: orange width: 14
+  bar:Our    from: 01/01/1946 till:31/12/1946 color: orange width: 14
+  bar:Our    from: 01/01/1947 till:31/12/2018 color: darkblue width: 14
+  bar:Our    from: 01/01/2003 till:31/12/2005 color: red width: 10
+  bar:Our    from: 01/01/2015 till:31/12/2018 color: pink width: 6
+  bar:Ter    from: 01/01/1921 till:31/12/1922 color: lavender width: 14
+  bar:Ter    from: 01/01/1931 till:31/12/1932 color: lavender width: 14
+  bar:Ter    from: 01/01/1976 till:31/12/2018 color: darkblue width: 14
+  bar:Ter    from: 01/01/2015 till:31/12/2018 color: pink width: 6
+  bar:Ent    from: 01/01/1947 till:31/12/2018 color: darkblue width: 14
+  bar:Ent    from: 01/01/2003 till:31/12/2007 color: red width: 10
+  bar:Ent    from: 01/01/2010 till:31/12/2014 color: red width: 10
+  bar:Ent    from: 01/01/2015 till:31/12/2018 color: pink width: 6
+  bar:Tky    from: 01/01/1976 till:31/12/1978 color: yelloworange width: 8
+  bar:Tky    from: 01/01/1979 till:31/12/1994 color: darkblue width: 14
+  bar:Tky    from: 01/01/1995 till:31/12/2005 color: yelloworange width: 8
+  bar:Tky    from: 01/01/2006 till:31/12/2018 color: darkblue width: 14
+  bar:Tky    from: 01/01/2000 till:31/12/2001 color: blue width: 14
+  bar:Tky    from: 01/01/2003 till:31/12/2004 color: blue width: 14
+  bar:Tky    from: 01/01/2015 till:31/12/2018 color: pink width: 6
+  bar:Woy    from: 01/01/1930 till:31/12/1934 color: darkblue width: 14
+  bar:Woy    from: 01/01/1935 till:31/12/1935 color: orange width: 14
+  bar:Woy    from: 01/01/1936 till:31/12/1936 color: darkblue width: 14
+  bar:Woy    from: 01/01/1937 till:31/12/1938 color: orange width: 14
+  bar:Woy    from: 01/01/1941 till:31/12/1941 color: orange width: 14
+  bar:Woy    from: 01/01/1947 till:31/12/2018 color: darkblue width: 14
+  bar:Woy    from: 01/01/2003 till:31/12/2005 color: red width: 10
+  bar:Woy    from: 01/01/2015 till:31/12/2018 color: pink width: 6
+  bar:Wyg    from: 01/01/1912 till:31/12/1914 color: brightgreen width: 10
+  bar:Wyg    from: 01/01/1915 till:31/12/1915 color: darkblue width: 14
+  bar:Wyg    from: 01/01/1919 till:31/12/1928 color: darkblue width: 14
+  bar:Wyg    from: 01/01/1930 till:31/12/1936 color: darkblue width: 14
+  bar:Wyg    from: 01/01/1945 till:31/12/1946 color: brightgreen width: 10
+  bar:Wyg    from: 01/01/1947 till:31/12/2006 color: darkblue width: 14
+  bar:Wyg    from: 01/01/2003 till:31/12/2012 color: brightgreen width: 10
+  bar:Wyg    from: 01/01/2013 till:31/12/2018 color: darkblue width: 14
+  bar:Wyg    from: 01/01/2013 till:31/12/2018 color: red width: 10
+  bar:Wyg    from: 01/01/2015 till:31/12/2018 color: pink width: 6
+  bar:Gos    from: 01/01/1919 till:31/12/1934 color: darkblue width: 14
+  bar:Gos    from: 01/01/1936 till:31/12/1934 color: darkblue width: 14
+  bar:Gos    from: 01/01/1938 till:31/12/1940 color: orange width: 14
+  bar:Gos    from: 01/01/1946 till:31/12/1946 color: orange width: 14
+  bar:Gos    from: 01/01/1947 till:31/12/1999 color: darkblue width: 14
+  bar:Gos    from: 01/01/2000 till:31/12/2005 color: yelloworange width: 8
+  bar:Gos    from: 01/01/2006 till:31/12/2006 color: blue width: 14
+  bar:Gos    from: 01/01/2007 till:31/12/2009 color: skyblue width: 14
+  bar:Gos    from: 01/01/2010 till:31/12/2011 color: blue width: 14
+  bar:Gos    from: 01/01/2012 till:31/12/2013 color: skyblue width: 14
+  bar:Gos    from: 01/01/2014 till:31/12/2014 color: blue width: 14
+  bar:Gos    from: 01/01/2015 till:31/12/2015 color: skyblue width: 14
+  bar:Gos    from: 01/01/2016 till:31/12/2018 color: blue width: 14
+  bar:StE    from: 01/01/1971 till:31/12/2012 color: skyblue width: 14
+  bar:StE    from: 01/01/2013 till:31/12/2018 color: blue width: 14
+  bar:BH     from: 01/01/2007 till:31/12/2010 color: skyblue width: 14
+  bar:BH     from: 01/01/2011 till:31/12/2011 color: blue width: 14
+  bar:BH     from: 01/01/2012 till:31/12/2018 color: blue width: 14
+  bar:Bud    from: 01/01/1978 till:31/12/2002 color: yelloworange width: 8
+  bar:Bud    from: 01/01/2005 till:31/12/2005 color: yelloworange width: 8
+  bar:Bud    from: 01/01/2006 till:31/12/2006 color: blue width: 14
+  bar:Bud    from: 01/01/2009 till:31/12/2009 color: blue width: 14
+  bar:Bud    from: 01/01/2003 till:31/12/2004 color: skyblue width: 14
+  bar:Bud    from: 01/01/2007 till:31/12/2008 color: skyblue width: 14
+  bar:Bud    from: 01/01/2010 till:31/12/2018 color: skyblue width: 14
+  bar:War    from: 01/01/2010 till:31/12/2018 color: skyblue width: 14
+  bar:Umi    from: 01/01/1964 till:31/12/1995 color: darkblue width: 14
+  bar:Umi    from: 01/01/1996 till:31/12/1998 color: skyblue width: 14
+  bar:Umi    from: 01/01/1999 till:31/12/2002 color: darkblue width: 14
+  bar:Umi    from: 01/01/2003 till:31/12/2003 color: skyblue width: 14
+  bar:Umi    from: 01/01/2014 till:31/12/2015 color: darkblue width: 14
+  bar:Umi    from: 01/01/2015 till:31/12/2017 color: pink width: 6
+  bar:Umi    from: 01/01/2015 till:31/12/2016 color: skyblue width: 14
+  bar:Umi    from: 01/01/2017 till:31/12/2017 color: brightgreen width: 10
+  bar:Umi    from: 01/01/2018 till:31/12/2018 color: skyblue width: 14
+  bar:CW     from: 01/01/1977 till:31/12/2005 color: yelloworange width: 8
+  bar:CW     from: 01/01/2006 till:31/12/2006 color: darkblue width: 14
+  bar:CW     from: 01/01/2007 till:31/12/2008 color: blue width: 14
+  bar:CW     from: 01/01/2009 till:31/12/2009 color: skyblue width: 14
+  bar:CW     from: 01/01/2010 till:31/12/2011 color: blue width: 14
+  bar:CW     from: 01/01/2012 till:31/12/2012 color: brightgreen width: 10
+  bar:CW     from: 01/01/2013 till:31/12/2015 color: yelloworange width: 8
+
+
+==Team Numbers==
+
+Team numbers obtained and compiled from results published in the newspapers, Central Coast Express, Wyong Shire Advocate and Central Coast Express Advocate.
+
+==Previous Teams==
+
+=== First Grade ===
+Current clubs Ourimbah, Wyong and later Woy Woy participated in the Central Coast Rugby League competitions that were held in 1915 and between 1919 and 1936. Teams from Gosford, Erina, Kincumber and Terrigal also competed, predecessors to the current clubs. The following teams were also involved: 
+*Matcham (1915)
+*the Yarramalong Bunyips (1917-1923) 
+*Jilliby (1919–1921)
+*Narara (1920, 1923)
+*Dora Creek (1921, 1926–1928, 1931–1932)
+*Gosford Light Horse (1925)
+*Mooney (1926)
+*Wyong Creek (1928)
+*Tuggerah Kings (1930–1932)
+*Morisset (1932–1936)
+*Nord's Wharf (1932)
+*Dooralong (1933–1934).
+
+The following teams have participated in Central Coast First or 'A' Grade competitions since 1947: 
+*Central Wyong (2006, 2013–15)
+*Gosford Townies/Giants (1948-1999)
+*Kariong Kookaburras (??-1990s)
+*Morisset (1947–1948)
+*Toronto (1954–1959)
+*Rathmines (1955)
+*South Lakes (1958)
+
+Wyong and Morisset combined in 1957 to field teams in A, B, C and D grades. Mount Penang competed in Under 18s from 1969 to 1975. The Gosford Townies fielded grade teams from 1948 to 1999, and junior teams from the 1950s.
+
+=== Second Division/Open Age ===
+A Second Division competition ran from 1976 to 2005. Clubs that were promoted to First Division / Grade were Toukley, Northern Lakes (Munmorah), Berkeley Vale and Kincumber. Junior club Budgewoi-Buff Point ran Second Division teams from 1978 to 2002 and in 2005.
+
+Central Wyong competed in Second Division from 1977 to 2005, until 1988 as Grand Hotel. The club entered First Grade in 2006, dropped back to lower grades between 2007 and 2011, spent 2012 in the Newcastle & Hunter competition, and returned to Central Coast First Grade between 2013 and 2015. Central Wyong ran junior teams from 1994 to 2015. 
+
+This competition is now known as Open Age.
+
+The teams that competed in Second Division were:
+*Budgewoi-Buff Point Bulldogs (1978-02, 2005)
+*Central Wyong (1977-2005, 2007–11)
+*Davistown (1976)
+*Milson Island (1976–1979)
+*The Valley (1977–1978)
+*Gwandalan (1977–1978)
+*Doyalson-Wyee (1980–1983)
+*Terrigal Hotel (1981–1985)
+*Woy Woy Hotel (1982–1989)
+*Northlakes (1984–1986)
+*Northern Lakes Warriors (Promoted to 1st Division) 
+*Toukley Hawks (Promoted to 1st Division)
+*Berkeley Vale Panthers (Promoted to 1st Division)
+*Kincumber Colts (Promoted to 1st Division)
+*Mangrove Mountain (1988–1998)
+*Tall Timbers Hotel (1989–2005) 
+*Peninsula Raiders (1990–2001)
+*Terrigal Marlins (1996–1997)
+*Mannering Park Lions (1997-1998)  
+*Magenta Shores Stingrays (1997-2003)  
+*Bateau Bay Bees (1999-2005) 
+*Kulnura Bears (2000-2007)  
+*Wamberal Whales (2000–2005)
+*Long Jetty Jets (2001–2005) 
+*Glenworth Valley Dragons (2006-2010)
+
+==Central Coast teams in other competitions==
+In 2003 four Central Coast teams (Erina, Ourimbah, The Entrance and Woy Woy) decided to field teams in the then Jim Beam Cup, the third highest ranked NSW Competition (below NRL and NSW Cup) featuring mainly Sydney-based competition teams. All teams remained in the Central Coast first grade competition with effectively reserve grade teams. After three seasons, all apart from The Entrance withdrew from the competition. The Entrance Tigers entered teams in the competition until 2007 and again, under different competition names, between 2010 and 2014. The Entrance Tigers won the Jim Beam Cup in 2003 and 2007 and the Ron Massey Cup in 2014.
+
+Also in 2003, Wyong entered the Newcastle Rugby League Competition which was perceived to be a stronger league.http://www.sportingpulse.com.au/assoc_page.cgi?c=0-2366-0-41288-0&sID=19568 Wyong remained part of the Central Coast junior competition and up until 2006, also fielded senior teams locally. Wyong were runner's up in the Newcastle Rugby League in 2007 and First Grade Premiers in 2009. This was Wyong's third stint in Newcastle rugby league competitions, having previously competed in Second Grade in 1912, 1913 and 1914; in Third Grade in 1945 and in a Southern Newcastle competition in 1946.
+
+In 2013 Wyong left the Newcastle competition in a dispute over salary caps and instead entered a team in the NSW Cup, the second highest level of senior rugby league in NSW after the NRL. For two seasons, Wyong was the only team in that competition without a direct affiliation with an NRL club. At the same time Wyong returned to the Central Coast first grade competition after a six-year absence. In 2015, Wyong affiliated with the Sydney Roosters.
+
+The Berkeley Vale Panthers competed in the NSWRL Sydney Metropolitan Women's Rugby League competition in 2015, 2016 and 2017.
+
+==Senior Competition Premiers (2010-present)==
+The highest grade of senior rugby league in the Central Coast Division is the First Grade competition. In 2017 ten teams have entered the first grade competition; all ten also field teams in the Reserve Grade competition. Ten teams are competing the 2017 'Open Age' competition, a league for senior players at a standard below the first/reserve grade competition. A Ladies League tag competition began in 2015 and in 2017 involves ten teams and is sponsored by White Lady Funerals.
+
+The 2020 and 2021 seasons were incomplete after being abandoned due to the COVID-19 pandemic. For full lists click the top of the section for that grade.
+
+===First grade results===
+
+{| class="wikitable" width="100%" style="text-align:center; font-size:90%" 
+|- bgcolor="#D1D8E2"
+! Year !! Premiers !! Grand final score!! Runners up !! Minor premiers 
+|-
+| 2010 || 16x16px Ourimbah Wyoming || 22–10||  Berkeley Vale  || 16x16px Ourimbah Wyoming  
+|-
+| 2011 ||  Berkeley Vale || 38–18|| 16x16px Ourimbah Wyoming  || 16x16px Ourimbah Wyoming  
+|-
+| 2012 || 16x16px Kincumber || 12–10|| 16x16px Umina Beach  || 16x16px Terrigal  
+|-
+| 2013 ||  Berkeley Vale || 21–20|| 16x16px Erina  || 16x16px Terrigal  
+|-
+| 2014 || 16x16px Wyong || 8–6||  Berkeley Vale  ||  Berkeley Vale  
+|-
+| 2015 || 16x16px The Entrance || 22–14|| 16x16px Kincumber || 16x16px The Entrance 
+|-
+| 2016 || 16x16px Wyong || 20–0|| 16x16px Woy Woy || 16x16px Wyong 
+|-
+| 2017 || 16x16px Terrigal || 12–4|| 16x16px Wyong || 16x16px Wyong 
+|-
+| 2018 || 16x16px The Entrance || 30–24|| 16x16px Wyong || 16x16px The Entrance 
+|-
+| 2019 || 16x16px The Entrance || 16–14 || 16x16px Wyong || 16x16px Wyong 
+|-
+| 2022 || 16x16px Toukley || 20-10|| 16x16px Erina || 16x16px Erina 
+|}
+
+===Second grade results===
+
+
+{| class="wikitable" width="100%" style="text-align:center; font-size:90%"
+|- bgcolor="#D1D8E2"
+! Year !! Premiers !! Grand final score!! Runners up !! Minor premiers 
+|-
+| 2010 ||  Berkeley Vale || 36–12|| 16x16px Erina  || 16x16px Erina  
+|-
+| 2011 || 16x16px The Entrance || 16–4|| 16x16px Erina  || 16x16px The Entrance  
+|-
+| 2012 || 16x16px Umina Beach || 22–10|| 16x16px Ourimbah Wyoming  || 16x16px Umina Beach  
+|-
+| 2013 || 16x16px Wyong || 42–24||  Berkeley Vale  || 16x16px Wyong  
+|-
+| 2014 ||  Berkeley Vale || 26–20|| 16x16px Wyong  || 16x16px Wyong  
+|-
+| 2015 || 16x16px The Entrance || 32–14|| 16x16px Wyong  || 16x16px Wyong  
+|-
+| 2016 || 16x16px Kincumber || 22–14 || 16x16px The Entrance || 16x16px The Entrance 
+|- 
+| 2017 || 16x16px The Entrance || 23–22|| 16x16px Terrigal || 16x16px The Entrance 
+|-
+| 2018 || 16x16px The Entrance || 34–14|| 16x16px Wyong || 16x16px Wyong 
+|-
+| 2019 || 16x16px The Entrance || 16–8|| 16x16px Kincumber || 16x16px The Entrance 
+|-
+|2022
+|16x16px Erina
+|30–4
+|16x16px The Entrance
+|16x16px Erina
+|}
+
+===Open age results===
+{| class="wikitable" width="100%" style="text-align:center; font-size:90%"
+|- bgcolor="#D1D8E2"
+! Year !! Premiers !! Grand final score!! Runners up !! Minor premiers 
+|-
+| 2010 || 16x16px Erina || 24–16|| 16x16px Toukley  || 16x16px Erina  
+|-
+| 2011 || 16x16px Central Wyong || 24–18||  Berkeley Vale  || 16x16px Erina  
+|-
+| 2012 || 16x16px Terrigal || 24–22|| 16x16px Umina Beach  || 16x16px Umina Beach  
+|-
+| 2013 || 16x16px Northern Lakes || 32–6|| 16x16px Erina  || 16x16px Wyong  
+|-
+| 2014 || 16x16px Wyong || 26–12|| 16x16px Kincumber  || 16x16px Wyong  
+|-
+| 2015 || 16x16px Ourimbah Wyoming || 44–10|| 16x16px Wyong  || 16x16px Ourimbah Wyoming  
+|-
+| 2016 ||  Berkeley Vale || 15–14|| 16x16px St. Edwards || 16x16px St. Edwards 
+|-
+| 2017 || 16x16px Erina || 22–10|| 16x16px St. Edwards || 16x16px St. Edwards 
+|-
+| 2018 || 16x16px Woy Woy || 12–7|| 16x16px Erina || 16x16px Erina 
+|-
+| 2019 || 16x16px Wyong || 22–8|| 16x16px Kincumber || 16x16px Wyong 
+|-
+|2022
+|16x16px Erina
+|20–16
+|16x16px St. Edwards
+|16x16px St. Edwards
+|}
+
+===Ladies League tag results===
+{| class="wikitable" width="100%" style="text-align:center; font-size:90%" 
+|- bgcolor="#D1D8E2"
+! Year !! Premiers !! Grand final score!! Runners up !! Minor premiers 
+|-
+| 2015 || 16x16px Kincumber || 18–0|| 16x16px The Entrance || 16x16px Kincumber 
+|-
+| 2016 || 16x16px Erina || 11–10|| 16x16px The Entrance || 16x16px The Entrance 
+|-
+| 2017 || 16x16px Terrigal || 26–6|| 16x16px The Entrance || 16x16px The Entrance 
+|-
+| 2018 || 16x16px The Entrance  || 26–10|| 16x16px Terrigal || 16x16px The Entrance 
+|-
+| 2019 || 16x16px Wyong || 10–4|| 16x16px The Entrance || 16x16px The Entrance 
+|-
+|2022
+|16x16px The Entrance
+|8–0
+|16x16px Wyong
+|16x16px Wyong
+|}
+
+==Age-Based Competitions==
+===Under 19s Results===
+
+
+===Under 18s Results===
+
+
+===Under 17s Results===
+
+
+===Under 16s Results===
+
+
+==See also==
+
+*Rugby League Competitions in Australia
+*Rugby league in New South Wales
+

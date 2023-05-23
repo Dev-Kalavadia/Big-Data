@@ -1,0 +1,114 @@
+Title: Programmable thermostat
+thumb|Next Generation Lux Products TX9600TS Universal 7-Day Programmable Touch Screen Thermostat.
+
+
+
+A programmable thermostat is a thermostat which is designed to adjust the temperature according to a series of programmed settings that take effect at different times of the day. Programmable thermostats are also known as setback thermostats or clock thermostats.
+
+== Benefits ==
+
+Heating and cooling losses from a building (or any other container) become greater as the difference in temperature increases. A programmable thermostat allows reduction of these losses by allowing the temperature difference to be reduced at times when the reduced amount of heating or cooling would not be objectionable.
+
+For example, during cooling season, a programmable thermostat used in a home may be set to allow the temperature in the house to rise during the workday when no one will be at home. It may then be set to turn on the air conditioning before the arrival of occupants, allowing the house to be cool upon the arrival of the occupants while still having saved air conditioning energy during the peak outdoor temperatures. The reduced cooling required during the day also decreases the demands placed upon the electrical supply grid.
+
+Conversely, during the heating season, the programmable thermostat may be set to allow the temperature in the house to drop when the house is unoccupied during the day and also at night after all occupants have gone to bed, re-heating the house prior to the occupants arriving home in the evening or waking up in the morning. Since (as a matter of sleep hygiene) people sleep better when the bedroom is cool, and furthermore the temperature differential between the interior and exterior of a building is the greatest on a cold winter night, this reduces energy loss.
+
+Similar scenarios are available in commercial buildings, with due consideration of the building's occupancy patterns.
+
+According to Consumer Reports magazine, programmable thermostats can reduce energy bills by about $180 a year.
+
+== Controversy ==
+While programmable thermostats may be able to save energy when used correctly, little or no average energy savings has been demonstrated in residential field studies.  Difficulty with usability in residential environments appears to lead to lack of persistence of energy savings in homes.  According to the US EPA regarding residential programmable thermostat, "Available studies indicate no savings from programmable thermostat (PT) installation. Some studies indicate slight increased consumption."  This is supported with studies by Nevius and Pigg, Cross and Judd and others and Peffer et al. has a recent review of the topic.
+
+In addition to potential increased energy consumption, digital programmable thermostats have been criticised for their poor usability. Several studies have found that digital programmable thermostats are difficult for users to programme and older people in particular can struggle to use them (see Combe et al.). 
+
+It has been noted that the use of programmable thermostats is hampered by misconception about the setback feature, reducing the amount of heating or cooling in a building needs for a short time (e.g. at night or when it is unoccupied). The belief is that if the building is allowed to change temperature, its heating or cooling system has to "work harder" to bring it back to a comfortable temperature, counteracting or even exceeding the energy saved during reduced heating or cooling.  If set up correctly| If You Think Thermostat Setbacks Don't Save Energy, You're Wrong!| Program schedule and proposed energy saving the setback and recovery feature can result in energy savings of five to fifteen percent as the heat transfer between a structure and its environment is proportional to the temperature difference between the inside and outside of the structure.U.S. Department of Energy/energy.gov, Home » ThermostatsProgrammable thermostat myths: Know the facts and boost your profits, The Air Conditioning, Heating and Refrigeration NEWS/achrnews.com
+
+== Construction and features ==
+
+=== Clock thermostats ===
+
+The most basic clock thermostats may only implement one program with two periods (a hotter period and a colder period), and the same program is run day after day. More sophisticated clock thermostats may allow four or more hot and cold periods to be set per day. Usually, only two distinct temperatures (a hotter temperature and a colder temperature) can be set, even if multiple periods are permitted. The hotter and colder temperatures are usually established simply by sliding two levers along an analogue temperature scale, much the same as in a conventional (non-clock) thermostat.
+
+This design, while simple to manufacture and relatively easy to program, sacrifices comfort on weekends since the program is repeated each of the seven days of the week with no variation. To overcome this deficit, a push-button is sometimes provided to allow the user to explicitly switch (once) the current period from  hot period to a cold period or vice versa; the usual use of this button is to over-ride a "set back" that takes place during the workday when the home is normally unoccupied.
+
+The clock mechanism is electrical. Two methods have commonly been used to operate it:
+
+[1] A separate, continuous source of 24 volts alternating current (24 VAC) is provided to the thermostat.
+
+[2] A rechargeable battery in the thermostat operates the clock. This battery charges when the thermostat is not calling for heat and 24 VAC is available to it. It discharges to operate the clock when the thermostat is set for heating or cooling.
+
+=== Digital thermostats ===
+right|thumb|A touch-screen programmable thermostat in programming mode.
+Digital thermostats may implement the same functions, but most provide more versatility. For example, they commonly allow setting temperatures for two, four, or six periods each day, and rather than being limited to a single "hotter" temperature and a single "colder" temperature, digital thermostats usually allow each period to be set to a unique temperature. The periods are commonly labeled "Morning", "Day", "Evening", and "Night", although nothing constrains the time intervals involved. Digital thermostats usually allow the user to override the programmed temperature for the period, automatically resuming programmed temperatures when the next period begins. A function to "hold" (lock-in) the current temperature is usually provided as well; in this case, the override temperature is maintained until the user cancels the hold or a programmed event occurs to resume the normal program. More-sophisticated models will allow for the release of the hold to take place at a set time in the future.
+
+As with clock thermostats, basic digital thermostats may have just one cycle that is run every day of the week. More-sophisticated thermostats may have a weekday schedule and a separate weekend schedule (so-called "5-2" setting) or separate Saturday and Sunday schedules (so-called "5-1-1" settings), while other thermostats will offer a separate schedule for each day of the week ("7 day" settings).  The selection of which days are defined as the "weekend" is arbitrary, depending on the user's heating and cooling schedule requirements. Often, a manufacturer will sell three similar thermostats offering each of those levels of functionality, and there is no obvious difference in the thermostats other than the factory programming and the price.Operation as a 5-2, 5-1-1 or 7-day thermostat is fixed by design and cannot be altered by the end user.
+
+Most digital thermostats have separate programs for heating and cooling, and may feature a digital or manual switch to turn on the furnace blower for air circulation, even when the system isn't heating or cooling. More-sophisticated models may be programmed to run the circulating fan for a brief 5- to 10-minute period in the event a heating or cooling cycle has not taken place during the previous hour. This is particularly useful in buildings subject to stratification where without frequent air circulation, hot air rises and separates from the cooler air that falls.
+
+Digital thermostats may also have a user-programmable air filter change reminder; this counts the accumulated run-time of the heating/cooling system and reminds the user when it is time to change the filter. The feature often displays the accumulated run-time either as an aggregate of both heating and cooling or displaying each time separately.
+
+Some digital thermostats have the capability of being programmed using a touch-tone telephone or over the Internet, such as the Nest Learning Thermostat.
+
+Digital thermostats are usually powered one of three ways:
+* A sophisticated power circuit operates from the 24 VAC supply when the thermostat is not calling, and operates from the current flowing in the thermostat circuit when the thermostat is calling. A battery is used to provide back-up during power failures.
+* A rechargeable battery operates the thermostat just as in the clock thermostat, charging when the thermostat is not calling and discharging while the thermostat is calling.
+* A non-rechargeable battery always powers the thermostat. To limit the amount of power drawn from the battery, such thermostats use an impulse relay that does not require the continuous application of power to the relay's coil. These thermostats can be used on millivolt circuits, as well as conventional 24 VAC circuits.  Battery life is typically one to two years.
+
+===Digital thermostats with PID controller===
+More expensive models have a built-in PID controller, so that the thermostat "learns" via a feedback loop how the overall system (including the room itself) will react to its commands. Programming the morning temperature to be 21° C at 7:00 a.m., for instance, ensures that the temperature would then be 21 °C, whereas less sophisticated programmable thermostat would simply start working toward 21° at 7:00 a.m. Thus a PID controller sets the time at which the system should be activated in order to reach the desired temperature at the desired time, having processed the data of the room temperature regimen by comparing the past temperature status of the room and its current temperature for an optimal start.
+
+Process control or industrial thermostat also makes sure that the temperature is very stable(for instance, by reducing first overshoot and fluctuation at the end of the heating cycle) such that the comfort level is increased.
+
+=== Commercial thermostats ===
+
+In commercial applications, the thermostat may not contain any clock mechanism. Instead, another means may be used to select between the "hotter" and "colder" settings. For example, if the thermostat uses pneumatic controls, a change in the air pressure supplied to the thermostat may select between the "hotter" and "colder" settings, and this air pressure is determined by a central regulator. With electronic controls, a specific signal may indicate whether to operate at the "hotter" or "colder" setting.Thermostat With Adjustable Differential
+
+=== Terminal codes and colors ===
+{| class="wikitable"
+|-
+! Color
+! Terminal Code
+! Description
+|-
+| style="border-color:black; white-space:nowrap; background:salmon;" |Red
+| R
+| 24 volt
+|-
+| style="border-color:black; white-space:nowrap; background:salmon;" |Red
+| RH / RC
+| 24 volt HEAT / COOL load
+|-
+| style="border-color:black;|
+| C / X
+| 24 volt Common
+|-
+| style="border-color:black; white-space:nowrap; background:white;" |White
+| W / W1
+| Heat
+|-
+| style="border-color:black; white-space:nowrap; background:white;" |White
+| W2
+| Backup Heat
+|-
+| style="border-color:black; white-space:nowrap; background:yellow;" |Yellow
+| Y / Y1
+| Cool
+|-
+| style="border-color:black; white-space:nowrap; background:#a0e75a;" |Green
+| G
+| Fan
+|-
+| style="border-color:black; white-space:nowrap; background:orange;" |Orange
+| O / OB
+| Reversing valve (Heat Pump)
+|-
+| style="border-color:black;" |
+| E
+| Emergency Heat (Heat Pump)
+|}
+
+==See also==
+*Smart thermostat (and Wi-Fi thermostat)
+*OpenTherm
+

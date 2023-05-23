@@ -1,0 +1,29 @@
+Title: Violetear
+
+
+The violetears are hummingbirds of the genus Colibri. They are medium to large species found in Mexico, and Central and northern South America. The Mexican violetear occasionally wanders as far north as the United States and even Canada.
+
+Violetears have ample rounded tails and short or medium black bills. Three of the four species have a mainly green plumage. The males have a violet blue patch running back and down from the eye, which is erected when they are excited, and a glittering throat patch. The female plumage is generally like the male's, but the ear and throat patches are smaller.
+
+Violetears build substantial cup nests into which two white eggs are laid. They have loud persistent songs, often repetitions of double notes.
+
+These birds come readily to artificial nectar feeders, and show no fear of humans. They are aggressively territorial, and at feeders or flowering shrubs they spend much time chasing other hummingbirds, rather than feeding.
+
+==Species ==
+The genus contains five species:
+{| class="wikitable"
+|-
+! Image !! Scientific name !! Common Name !! Distribution
+|-
+|120px|| Colibri delphinae  || Brown violetear ||  Mexico to northern and western South America
+|-
+|120px|| Colibri thalassinus  || Mexican violetear || Mexico to northwestern Nicaragua
+|-
+|120px|| Colibri cyanotus  || Lesser violetear || Costa Rica, Panama, and the Andes (from Bolivia and northwards)
+|-
+|120px|| Colibri coruscans  || Sparkling violetear || The Andes (from Argentina and northwards)
+|-
+|120px|| Colibri serrirostris  || White-vented violetear ||  Argentina, Bolivia, Brazil, and Paraguay
+|-
+|}
+

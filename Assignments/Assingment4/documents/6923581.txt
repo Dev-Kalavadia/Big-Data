@@ -1,0 +1,224 @@
+Title: Vic Stasiuk
+Victor John Stasiuk (born May 23, 1929) is a Canadian former professional ice hockey left winger and a former NHL head coach.
+
+==Biography==
+Stasiuk played junior hockey in his native Lethbridge, Alberta before signing with the Chicago Black Hawks. He played sparingly in Chicago, and was traded to the Detroit Red Wings in 1951. He spent time in the minors with the Indianapolis Capitals and the Edmonton Flyers. He was part of three Stanley Cup teams in 1952, 1954, and 1955. In 1954, however, although Stasiuk played 42 regular season games for Detroit, because he spent the playoffs in the minors, his name was left off the Stanley Cup after the Wings captured the league crown.Vic Stasiuk at hockeyDB.com
+
+In 1955, Stasiuk was traded to the Boston Bruins and found chemistry with Johnny Bucyk and Bronco Horvath, a grouping dubbed "The Uke line" because of the Ukrainian ancestry of the three players. In 1957-58, this line became the first in NHL history to have all three participants reach the 20 goal mark. In 1960, Stasiuk scored a career high 68 points, and he was selected to play in the NHL All-Star Game. In 1961, he was traded back to Detroit, playing with this club until 1963, before finishing his career in the minors. He played for the Chicago Black Hawks, Detroit Red Wings, and Boston Bruins, He recorded 183 goals and 254 assists in 745 NHL games.Vic Stasiuk at Legends of Hockey
+
+After retiring, Stasiuk moved to coaching. He took over the Pittsburgh Hornets of the American Hockey League for two seasons and later led the same league's Quebec Aces to back-to-back losses in the Calder Cup finals. Immediately after coaching the EHL Jersey Devils from 1966-68,The EHL Stasiuk earned a job with the Philadelphia Flyers. His team finished out of the playoffs by a single point in 1969-70, and then were eliminated in the first round of the postseason the next year. Stasiuk was fired after the 1970-71 season; the Flyers offered him a scouting position, but he took a head coaching job three games into the NHL season with the California Golden Seals."Philadelphia Fires Stasiuk", The Leader Post, May 28, 1971 Stasiuk was fired after the season due to a stylistic conflict with management, and he then spent one year behind the bench of the Vancouver Canucks before settling into a career in junior hockey coaching."Vic Stasiuk, Canucks not talking - yet", The Sun, April 27, 1972
+
+==Career statistics==
+===Regular season and playoffs===
+{| border="0" cellpadding="1" cellspacing="0" style="text-align:center; width:60em"
+|- bgcolor="#e0e0e0"
+! colspan="3" bgcolor="#ffffff"|
+! rowspan="100" bgcolor="#ffffff"|
+! colspan="5"|Regular season
+! rowspan="100" bgcolor="#ffffff"|
+! colspan="5"|Playoffs
+|- bgcolor="#e0e0e0"
+! Season
+! Team
+! League
+! GP !! G !! A !! Pts !! PIM
+! GP !! G !! A !! Pts !! PIM
+|-
+| 1946–47
+| Lethbridge Native Sons
+| AJHL
+| 9 || 0 || 6 || 6 || 11
+| 1 || 1 || 1 || 2 || 0
+|- bgcolor="#f0f0f0"
+| 1947–48
+| Wetaskiwin Canadians
+| EJrHL
+| — || — || — || — || —
+| — || — || — || — || —
+|-
+| 1948–49
+| Kansas City Pla-Mors
+| USHL
+| 66 || 7 || 13 || 20 || 52
+| 2 || 0 || 0 || 0 || 0
+|- bgcolor="#f0f0f0"
+| 1949–50
+| Chicago Black Hawks
+| NHL
+| 17 || 1 || 1 || 2 || 2
+| — || — || — || — || —
+|-
+| 1949–50
+| Kansas City Pla-Mors
+| USHL
+| 39 || 10 || 13 || 23 || 27
+| — || — || — || — || —
+|- bgcolor="#f0f0f0"
+| 1950–51
+| Chicago Black Hawks
+| NHL
+| 20 || 5 || 3 || 8 || 6
+| — || — || — || — || —
+|-
+| 1950–51
+| Detroit Red Wings
+| NHL
+| 50 || 3 || 10 || 13 || 12
+| — || — || — || — || —
+|- bgcolor="#f0f0f0"
+| 1951–52
+| Detroit Red Wings
+| NHL
+| 58 || 5 || 9 || 14 || 19
+| 7 || 0 || 2 || 2 || 0
+|-  
+| 1951–52
+| Indianapolis Capitals
+| AHL
+| 8 || 7 || 1 || 8 || 6
+| — || — || — || — || —
+|- bgcolor="#f0f0f0"
+| 1952–53
+| Detroit Red Wings
+| NHL
+| 3 || 0 || 0 || 0 || 0
+| — || — || — || — || —
+|-  
+| 1952–53
+| Edmonton Flyers
+| WHL
+| 48 || 37 || 43 || 80 || 71
+| — || — || — || — || —
+|- bgcolor="#f0f0f0"
+| 1953–54
+| Detroit Red Wings
+| NHL
+| 42 || 5 || 2 || 7 || 4
+| — || — || — || — || —
+|-  
+| 1953–54
+| Edmonton Flyers
+| WHL
+| 21 || 6 || 12 || 18 || 37
+| 13 || 2 || 6 || 8 || 23
+|- bgcolor="#f0f0f0"
+| 1954–55
+| Detroit Red Wings
+| NHL
+| 59 || 8 || 11 || 19 || 67
+| 11 || 5 || 3 || 8 || 6
+|-  
+| 1954–55
+| Edmonton Flyers
+| WHL
+| 11 || 7 || 6 || 13 || 32
+| — || — || — || — || —
+|- bgcolor="#f0f0f0"
+| 1955–56
+| Boston Bruins
+| NHL
+| 59 || 19 || 18 || 37 || 118
+| — || — || — || — || —
+|-  
+| 1956–57
+| Boston Bruins
+| NHL
+| 64 || 24 || 16 || 40 || 69
+| 10 || 2 || 1 || 3 || 2
+|- bgcolor="#f0f0f0"
+| 1957–58
+| Boston Bruins
+| NHL
+| 70 || 21 || 35 || 56 || 55
+| 12 || 0 || 5 || 5 || 13
+|-  
+| 1958–59
+| Boston Bruins
+| NHL
+| 70 || 27 || 33 || 60 || 63
+| 7 || 4 || 2 || 6 || 11
+|- bgcolor="#f0f0f0"
+| 1959–60
+| Boston Bruins
+| NHL
+| 60 || 29 || 39 || 68 || 121
+| — || — || — || — || —
+|-  
+| 1960–61
+| Boston Bruins
+| NHL
+| 46 || 5 || 25 || 30 || 35
+| — || — || — || — || —
+|- bgcolor="#f0f0f0"
+| 1960–61
+| Detroit Red Wings
+| NHL
+| 23 || 10 || 13 || 23 || 16
+| 11 || 2 || 5 || 7 || 4
+|-  
+| 1961–62
+| Detroit Red Wings
+| NHL
+| 59 || 15 || 28 || 43 || 45
+| — || — || — || — || —
+|- bgcolor="#f0f0f0"
+| 1962–63
+| Detroit Red Wings
+| NHL
+| 36 || 6 || 11 || 17 || 37
+| 11 || 3 || 0 || 3 || 4
+|-  
+| 1962–63
+| Pittsburgh Hornets
+| AHL
+| 22 || 9 || 20 || 29 || 24
+| — || — || — || — || —
+|- bgcolor="#f0f0f0"  
+| 1963–64
+| Pittsburgh Hornets
+| AHL
+| 42 || 10 || 10 || 20 || 32
+| 5 || 0 || 0 || 0 || 4
+|-  
+| 1964–65
+| Pittsburgh Hornets
+| AHL
+| 63 || 14 || 21 || 35 || 58
+| 3 || 0 || 0 || 0 || 0
+|- bgcolor="#f0f0f0"  
+| 1965–66
+| Memphis Wings
+| CHL
+| 25 || 9 || 3 || 12 || 14
+| — || — || — || — || —
+|- bgcolor="#e0e0e0"
+! colspan="3" | NHL totals
+! 745 !! 183 !! 254 !! 437 !! 669
+! 69 !! 16 !! 18 !! 34 !! 40
+|}
+
+==Coaching record==
+{| class="wikitable" style="font-size:95%; text-align:center;"
+|-
+! rowspan="2"|Team !! rowspan="2"|Year !! colspan="6"|Regular season !! colspan="4"|Post season
+|-
+! G !! W !! L !! T !! Pts !!Finish !! W !! L !! Win % !! Result
+|-
+!PHI||1969–70
+|76||17||35||24||58||5th in West||-||-||-||Missed playoffs
+|- style="background:#fdd;"
+!PHI||1970–71
+|78||28||33||17||73||3rd in West||0||4||.000||Lost in Quarterfinals (CHI)
+|-
+!CAL||1971–72
+|75||21||38||16||58||6th in West||-||-||-||Missed playoffs
+|-
+!VAN||1972–73
+|78||22||47||9||53||7th in West||-||-||-||Missed playoffs
+|-
+! colspan="2"|NHL Total ||307||88||153||66||242|| ||0||4||.000|| 1 playoff appearance
+|}
+
+==See also==
+*List of ice hockey line nicknames
+

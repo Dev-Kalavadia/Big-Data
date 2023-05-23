@@ -1,0 +1,56 @@
+Title: Ebullioscopic constant
+
+
+In thermodynamics, the ebullioscopic constant  relates molality  to boiling point elevation. It is the ratio of the latter to the former:
+:\Delta T = iK_\text{b} b
+
+* is the van 't Hoff factor, the number of particles the solute splits into or forms when dissolved.
+* is the molality of the solution.
+
+A formula to compute the ebullioscopic constant is:
+
+:K_\text{b} = \frac{RT_\text{b}^2 M}{\Delta H_\text{vap}}
+
+* is the ideal gas constant.
+* is boiling point of the solvent.
+* is the molar mass of the solvent. 
+* is the molar enthalpy of vaporization.
+
+Through the procedure called ebullioscopy, a known constant can be used to calculate an unknown molar mass. The term ebullioscopy comes from the Latin language and means "boiling measurement". This is related to cryoscopy, which determines the same value from the cryoscopic constant (of freezing point depression).
+
+This property of elevation of boiling point is a colligative property. It means that the property, in this case , depends on the number of particles dissolved into the solvent and not the nature of those particles.
+
+==Values for some solvents==
+
+{| class="wikitable"
+|-
+! SolventP. W. Atkins, Physical Chemistry, 4th Ed., p. C17 (Table 7.2)
+!  (in K⋅kg/mol)
+|-
+| Acetic acid || 3.08
+|-
+| Benzene || 2.53
+|-
+| Camphor || 5.95
+|-
+| Carbon disulfide || 2.34
+|-
+| Carbon tetrachloride || 5.03
+|-
+| Chloroform || 3.63
+|-
+| Cyclohexane || 2.79
+|-
+| Diethyl ether || 2.02
+|-
+| Ethanol || 1.07
+|-
+| Water || 0.512
+|}
+
+==See also==
+* Ebullioscope
+* List of boiling and freezing information of solvents
+* Boiling-point elevation
+* Colligative properties
+

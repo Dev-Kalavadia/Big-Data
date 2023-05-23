@@ -1,0 +1,347 @@
+Title: IPod game
+
+
+An iPod click wheel game or iPod game is a video game playable on the various versions of the Apple portable media player, the iPod. The original iPod had the game Brick (originally invented by Apple co-founder Steve Wozniak) included as an easter egg hidden feature; later firmware versions added it as a menu option. Later revisions of the iPod added three more games in addition to Brick: Parachute, Solitaire, and Music Quiz. These games should not be confused with games for the iPod Touch, which require iOS and are only available on Apple's App Store on iTunes.
+
+==History==
+On 23rd December 2005, CoolGorilla, a new start-up, launched a trivia game for the iPod. It was titled “Rock and Pop Quiz”.
+
+In September 2006, the iTunes Store began to offer nine additional games for purchase with the launch of iTunes 7, compatible with the fifth-generation iPod with iPod software 1.2 or later. Those games were Bejeweled, Cubis 2, Mahjong, Mini Golf, Pac-Man, Tetris, Texas Hold 'Em, Vortex, and Zuma. These games were made available for purchase from the iTunes Store for US$4.99 each. In December 2006, two more games were released by EA Mobile at the same price: Royal Solitaire and Sudoku. In February 2007, Ms. Pac-Man was released, followed in April 2007 by iQuiz. Until this time, all the available games could be purchased in a package, with no discount.
+
+In May 2007, Apple released Lost: The Video Game by Gameloft, based on the television show. In June 2007, "SAT Prep 2008" by Kaplan was introduced as 3 separate educational games based on the subjects of writing, reading, and mathematics. In December 2007, Apple released a classic Sega game, Sonic the Hedgehog, which was originally packaged with the Sega Genesis system in the early 1990s.
+
+With third parties like Namco, Square Enix, EA, Sega, and Hudson Soft all making games for the iPod, Apple's dedicated MP3 player took great steps towards entering the video game handheld console market. Even video game magazines like GamePro and EGM have reviewed and rated most of their games.
+
+The games are in the form of  files (iPod game), which are actually .zip archives in disguise. When unzipped, they reveal executable files along with common audio and image files, leading to the possibility of third-party games, although this never eventuated (with the exception of superficial user-made tweaks). Apple never made a software development kit (SDK) available to the public for iPod-specific development."What's Inside an iPod Game?" bensinclair.com, September 14, 2006. The iOS SDK covers only iOS on the iPhone and iPod Touch, not traditional iPods.
+
+In October 2011, Apple removed all the click wheel–operated games from its store.
+
+==Games==
+This is a list of games that were made available for the newest iPods, excluding the iPod Touch. Each game (other than Reversi and Chinese Checkers) cost US$4.99 to buy prior to their discontinuation in 2011.
+
+The list contains  games that are known to exist. The list is always kept up to date by this script.
+
+{|class="wikitable sortable"
+|-
+! Title
+! Publisher
+! Release date
+! Game ID
+|-
+| Texas Hold'Em
+|Apple Inc.
+| 2006-09-12
+| 33333 (v 1.1 is 33353)
+|-
+| Zuma
+|PopCap Games
+| 2006-09-12
+| 44444
+|-
+| Pac-Man
+| Namco
+| 2006-09-12
+| AAAAA
+|-
+| Tetris
+| Electronic Arts
+| 2006-09-12
+| 66666
+|-
+| Mini Golf
+|Electronic Arts
+| 2006-09-12
+| 88888
+|-
+| Cubis 2
+| Fresh Games
+| 2006-09-12
+| 99999
+|-
+| Sudoku
+|Electronic Arts
+| 2006-12-19
+| 50513
+|-
+| Ms. Pac-Man
+|Namco
+| 2007-02-27
+| 14004 (v 1.1 is 14024)
+|-
+| SAT Prep 2008 (Math)
+| Kaplan
+| 2007-06-22
+| 11052
+|-
+| SAT Prep 2008 (Reading)
+| Kaplan
+| 2007-06-22
+| 11050
+|-
+| SAT Prep 2008 (Writing)
+| Kaplan
+| 2007-06-22
+| 11051
+|-
+| The Sims Bowling
+|Electronic Arts
+| 2007-07-17
+| 1500C
+|-
+| The Sims Pool
+|Electronic Arts
+| 2007-07-31
+| 1500E
+|-
+| Musika (Only Released in UK)
+| NanaOn-Sha, Ltd./Sony BMG
+| 2007-08-07
+| 1C300
+|-
+| Brain Challenge
+| Gameloft / Apple Inc.
+| 2007-09-05
+| 21000
+|-
+| Phase
+| Harmonix
+| 2007-11-06
+| 1D000
+|-
+| Sonic the Hedgehog
+| Sega
+| 2007-12-18
+| 18000
+|-
+| Peggle
+| PopCap Games
+| 2007-12-18
+| 12104
+|-
+| Bomberman
+| Hudson Soft
+| 2007-12-18
+| 20000
+|-
+| Block Breaker Deluxe
+|Gameloft / Apple Inc.
+| 2008-01-15
+| 21004
+|-
+| Pole Position Remix
+|Namco
+| 2008-01-21
+| 14003
+|-
+| Naval Battle
+|Gameloft
+| 2008-02-04
+| 21006
+|-
+| Chess & Backgammon
+|Gameloft
+| 2008-02-04
+| 21002
+|-
+| Yahtzee
+| Hasbro
+| 2008-02-11
+| 15014
+|-
+| Pirates of the Caribbean: Aegir's Fire
+| Disney
+| 2008-02-20
+| 22000
+|-
+| Bubble Bash
+|Gameloft
+| 2008-02-25
+| 21008
+|-
+| Scrabble 
+|Electronic Arts / Hasbro
+| 2008-03-03
+| 15012
+|-
+| Bejeweled
+|PopCap Games
+| 2008-04-15
+| 55555
+|-
+| Mahjong
+|Electronic Arts
+| 2008-04-22
+| 77777
+|-
+| Monopoly
+|Electronic Arts / Hasbro
+| 2008-06-03
+| 15040
+|-
+| The Sims DJ
+|Electronic Arts
+| 2008-06-09
+| 15036
+|-
+| Song Summoner: The Unsung Heroes
+| Square Enix
+| 2008-07-08
+| 24000
+|-
+| Uno
+|Gameloft
+| 2008-07
+| 22012
+|-
+| Mystery Mansion Pinball
+|Gameloft
+| 2008-08
+| 22010
+|-
+| Chalkboard Sports Baseball
+| D2C
+| 2008-08
+| 23000
+|-
+| Spore Origins
+|Electronic Arts
+| 2008-08-25
+| 15010
+|-
+| Star Trigon
+|Namco
+| 2008-09
+| 14006
+|-
+| CSI: Miami
+|Gameloft
+| 2008-09
+| 22014
+|-
+| Tamagotchi: 'Round the World
+|Namco
+| 2008-11
+| 14008
+|-
+| Asphalt 4: Elite Racing
+|Gameloft
+| 2008-08-28
+| 22020
+|-
+| Tiger Woods PGA Tour
+|Electronic Arts
+| 2008-12
+| 15038
+|-
+| Real Soccer '09
+|Gameloft
+| 2008-12
+| 22018
+|-
+| Slyder Adventures
+| Sandlot Games
+| 2008-12
+ |25000
+|-
+| Reversi
+|Apple Inc.
+| 2008-12
+| 11800
+|-
+| Wonder Blocks
+|Gameloft
+| 2008-12
+| 22022
+|-
+| Lode Runner
+|Hudson Soft
+| 2008-12
+| 20002
+|-
+| Crystal Defenders
+| Square Enix
+| 2008-12
+| 24002
+|-
+| Chinese Checkers
+|Apple Inc.
+| 2008-12
+| 11802
+|-
+| Trivial Pursuit
+|Electronic Arts / Hasbro
+| 2008-12
+| 15042
+|-
+| Cake Mania 3
+| Sandlot Games
+| 2009-02
+| 25002
+|-
+|Lost
+|Ubisoft
+|2007-05
+| 1B200
+|-
+|Vortex
+|Apple Inc.
+|2006-09-12
+| 12345
+|-
+|iQuiz
+|Apple Inc.
+|2007-04
+| 11002
+|-
+|Royal Solitaire
+|Electronic Arts
+|2006-12
+| 50514
+|}
+
+===Default games===
+These are the games that originally came with an iPod.
+
+{| class="wikitable"
+|-
+! iPod version
+! Titles
+! Publishers
+|-
+| iPod 1G, 2G
+| Brick (also called Game)
+| Apple Inc.
+|-
+| iPod 3G, 4G, 5G, and 5.5G; iPod Nano 1G and 2G; iPod Mini
+| Brick, Music Quiz, Parachute, Solitaire
+| Apple Inc.
+|-
+| iPod Nano 3G; iPod Classic 6G
+| iQuiz, Klondike, Vortex
+| Apple Inc.
+|-
+| iPod Nano 4G and 5G
+| Maze, Klondike, Vortex, Brick
+| Apple Inc.
+|}
+
+==Criticism==
+iTunes had come under much criticism due to the UK price of iPod games, GB£3.99 (about US$7.40). Many people from the UK had given the games 1-star ratings, stating that Apple was "ripping off" Britain.iTunes store
+
+A similar situation occurred in Australia, where the price was A$7.49, even though the Australian dollar was (at the time) worth more than the US dollar (A$7.49 = US$7.76).
+
+Developers had criticized Apple for not creating a software development kit (SDK) for software developers to create new iPod games; this was likely to keep the digital rights management of iPod games closed. Despite this, it did not prevent users from running an alternative OS on the iPod such as Linux, whereby, for example, there are ports of Doom that will run on fifth-generation iPods.  Running Linux on an iPod retains the music-playing functionality of the device while also adding features such as the ability to create voice memos through the headphones.
+
+When the iPod Classic and iPod Nano third generation were released, games which had previously been purchased could not be synced to the new iPods. Understandably, this made many consumers angry due to losing their investment.
+
+It is also notable that after a download had been made for a game, it couldn't have been downloaded again unless a separate purchase was made for the same item. This is different behavior than applications downloaded on the App Store, which can be downloaded an unlimited number of times. These issues were later fixed, however, making it possible to install any single game on any number of iPods registered under the same account.
+
+==Unofficial games==
+Some older iPod units are capable of using replacement firmware such as iPod Linux and Rockbox. These firmware projects can play many other games, including the aforementioned native port of Doom; and, via a native port of the Game Boy emulator Gnuboy, many other games could be played, including Super Mario Bros., Tomb Raider, Mega Man, Kirby, Metroid, The Legend of Zelda, Street Fighter, and hundreds more.
+
+==Games using the ″Notes″ feature==
+With the release of the third-generation iPod in 2003, Apple introduced a ″Notes″ feature to the iPod's firmware. This functionality provided the first opportunity for third-party developers to create simple text and audio games which could be installed and run on an iPod without users needing to replace the official firmware.
+
+With a limit of 1,000 individual .txt files, each with a maximum file size of 4kb, the Notes feature made use of a limited set of HTML tags. Hyperlinks could also be used to link to other .txt files or folders and play audio files stored on the device.
+ The limitation of available html tags meant that developers were restricted to Choose Your Own Adventure–style text-based games or multiple choice–style quizzes with narrated audio. Subsequently, very few developers used the Notes feature as a way of publishing games.
+

@@ -1,0 +1,414 @@
+Title: 2006–07 National League A season
+
+The 2006–07 NLA season was the 69th regular season of the Nationalliga A (NLA), the main professional ice hockey league in Switzerland.
+
+==New Rules==
+There are a few changes of rules for the new season.
+
+===3-Point System===
+For the first time an NLA season is run with a 3-point system. A team gets now 3 points for a win after 60 minutes, instead of 2.
+
+====Overtime====
+A tied game after 60 minutes results in an overtime of 5 minutes, which is played 4 vs. 4 (this is not a rule change). But now, if a team scores a goal it gets two points while the other team also gets a point.
+
+====Penalty Shootout====
+If the game still remains tied after the overtime, there will be a penalty shootout with 3 shots per team. The winner team will get two points and the other team one point.
+
+
+==Regular season==
+
+===Final standings===
+{| border="0" cellpadding="1" cellspacing="1" style="text-align: center;" 
+|- style="background:#DDDDFF;"
+! width="25px"  |
+! width="150px" | Team 
+! width="25px"  | GP 
+! width="25px"  | W
+! width="25px"  | L
+! width="25px"  | OTW
+! width="25px"  | OTL
+! width="25px"  | GF
+! width="25px"  | GA
+! width="30px"  | Pts
+|- style="background:#e6e6fa;"
+| 1.
+| style="text-align: left;" | HC Davos
+| 44 || 26 || 13 || 2 || 3 || 154 || 120 || 85
+|- style="background:#e6e6fa;"
+| 2.
+| style="text-align: left;" | SC Bern
+| 44 || 24 || 13 || 5 || 2 || 163 || 115 || 84
+|- style="background:#e6e6fa;"
+| 3.
+| style="text-align: left;" | EV Zug
+| 44 || 22 || 13 || 6 || 3 || 153 || 117 || 81
+|- style="background:#e6e6fa;"
+| 4.
+| style="text-align: left;" | HC Lugano
+| 44 || 25 || 15 || 1 || 3 || 143 || 123 || 80
+|- style="background:#e6e6fa;"
+| 5.
+| style="text-align: left;" | Kloten Flyers
+| 44 || 22 || 14 || 6 || 2 || 173 || 128 || 80
+|- style="background:#e6e6fa;"
+| 6.
+| style="text-align: left;" | Rapperswil-Jona Lakers
+| 44 || 19 || 17 || 5 || 3 || 149 || 141 || 70
+|- style="background:#e6e6fa;"
+| 7.
+| style="text-align: left;" | Genève-Servette HC
+| 44 || 19 || 19 || 2 || 4 || 147 || 140 || 65
+|- style="background:#e6e6fa;"
+| 8.
+| style="text-align: left;" | ZSC Lions
+| 44 || 13 || 19 || 9 || 3 || 111 || 127 || 60
+|- style="background:#ffcccc;"
+| 9.
+| style="text-align: left;" | HC Ambri-Piotta
+| 44 || 14 || 21 || 1 || 8 || 128 || 165 || 52
+|- style="background:#ffcccc;"
+| 10.
+| style="text-align: left;" | HC Fribourg-Gottéron
+| 44 || 12 || 19 || 1 || 12 || 134 || 167 || 50
+|- style="background:#ffcccc;"
+| 11.
+| style="text-align: left;" | SCL Tigers
+| 44 || 12 || 26 || 5 || 1 || 115 || 160 || 47
+|- style="background:#ffcccc;"
+| 12.
+| style="text-align: left;" | EHC Basel
+| 44 || 9 || 28 || 4 || 3 || 103 || 170 || 38
+|}
+
+===Scoring leaders===
+
+
+Note: GP = Games played; G = Goals; A = Assists; Pts = Points;  PIM = Penalty Minutes
+{| class="wikitable"
+|-
+! bgcolor="#DDDDFF" width="20%" | Player
+! bgcolor="#DDDDFF" width="30%" | Team
+! bgcolor="#DDDDFF" width="5%" | GP
+! bgcolor="#DDDDFF" width="5%" | G
+! bgcolor="#DDDDFF" width="5%" | A
+! bgcolor="#DDDDFF" width="5%" | Pts
+! bgcolor="#DDDDFF" width="5%" | PIM
+|-
+| Simon Gamache || SC Bern
+| 44 || 20 || 46 || 66 || 40
+|-
+| Alexandre Daigle || HC Davos
+| 44 || 22 || 39 || 61 ||44 
+|-
+| Kimmo Rintanen || Kloten Flyers
+| 41 || 24 || 34 || 58 || 16
+|-
+| Christian Dubé || SC Bern
+| 40 || 16 || 38 || 54 || 36
+|-
+| Jean-Guy Trudel || HC Ambri-Piotta
+| 44 || 27 || 26 || 53 || 38
+|-
+| Hnat Domenichelli || HC Ambri-Piotta
+| 44 || 21 || 31 || 52 || 50
+|-
+| Oleg Petrov || EV Zug
+| 42 || 12 || 40 || 52 || 95 
+|-
+| Michel Riesen || HC Davos
+| 44 || 37 || 14 || 51 || 70 
+|-
+| Domenico Pittis
+| Kloten Flyers
+| 40 || 17 || 34 || 51 || 75 
+|-
+| Serge Aubin || Genève-Servette HC
+| 40 || 21 || 29 || 50 || 50
+|}
+
+==Playoffs==
+
+===Quarterfinals===
+{| cellspacing="5" 
+ | valign="top" |
+  {| class="wikitable" width="325px" style="text-align:center;" 
+   ! style="background:#DDDDDD;" colspan="6" | HC Davos (1) vs. ZSC Lions (8)
+   |-
+   ! Date !! Away !! colspan="2" | Score !! Home !!
+   |-
+   | February 24 || style="background:#e6e6fa;" | Lions ||style="background:#e6e6fa;" | 3 || 2 || Davos || OT
+   |-
+   | February 27 || Davos || 1 || style="background:#e6e6fa;" |  3 || style="background:#e6e6fa;" |  Lions || 
+   |-
+   | March 1 || Lions || 1 || style="background:#e6e6fa;" |  3 || style="background:#e6e6fa;" |  Davos || 
+   |-
+   | March 3 || Davos || 2 || style="background:#e6e6fa;" |  5 || style="background:#e6e6fa;" |  Lions || 
+   |-
+   | March 6 || Lions || 2 || style="background:#e6e6fa;" |  4 || style="background:#e6e6fa;" | Davos || 
+   |-
+   | March 8 || style="background:#e6e6fa;" |  Davos || style="background:#e6e6fa;" |  3 || 1 || Lions || 
+   |-
+   | March 10 || Lions || 0 || style="background:#e6e6fa;" |  3 || style="background:#e6e6fa;" |  Davos || 
+   |- style="text-align:center;"
+   | colspan="6" | HC Davos wins series 4–3
+  |}
+|   
+| valign="top" |
+  {| class="wikitable" width="325px" style="text-align:center;" 
+   ! style="background:#DDDDDD;" colspan="6" | SC Bern (2) vs. Genève-Servette HC (7)
+   |-
+   ! Date !! Away !! colspan="2" | Score !! Home !!
+   |-
+   | February 24 || Genève || 1 || style="background:#e6e6fa;" |  2 || style="background:#e6e6fa;" |  Bern || 
+   |-
+   | February 27 || style="background:#e6e6fa;" |  Bern || style="background:#e6e6fa;" |  3 || 2 || Genève || 
+   |-
+   | March 1     || Genève || 2 || style="background:#e6e6fa;" |  4 || style="background:#e6e6fa;" |  Bern || 
+   |-
+   | March 3     || Bern || 1 || style="background:#e6e6fa;" |  2 || style="background:#e6e6fa;" |  Genève || 
+   |-
+   | March 6     || Genève || 3 || style="background:#e6e6fa;" |  7 || style="background:#e6e6fa;" |  Bern || 
+   |- style="text-align:center;"
+   | colspan="6" | SC Bern wins series 4–1
+  |}
+|-
+| valign="top" |
+  {| class="wikitable" width="325px" style="text-align:center;" 
+   ! style="background:#DDDDDD;" colspan="6" | EV Zug (3) vs. Rapperswil-Jona Lakers (6)
+   |-
+   ! Date !! Away !! colspan="2" | Score !! Home !!
+   |-
+   | February 24 || style="background:#e6e6fa;" |  Lakers || style="background:#e6e6fa;" |  3 || 2 || Zug ||  
+   |-
+   | February 27 || Zug || 3 || style="background:#e6e6fa;" |  4 || style="background:#e6e6fa;" |  Lakers || OT
+   |-
+   | March 1 || style="background:#e6e6fa;" |  Lakers || style="background:#e6e6fa;" |  4 || 1 || Zug ||  
+   |-
+   | March 3 || style="background:#e6e6fa;" |  Zug || style="background:#e6e6fa;" |  6 || 5 || Lakers || OT
+   |-
+   | March 6 || Lakers || 3 || style="background:#e6e6fa;" |  6 || style="background:#e6e6fa;" |  Zug ||  
+   |-
+   | March 8 || style="background:#e6e6fa;" |  Zug || style="background:#e6e6fa;" |  5 ||  1 || Lakers ||  
+   |-
+   | March 10 || Lakers || 2 || style="background:#e6e6fa;" |  6 || style="background:#e6e6fa;" |  Zug ||  
+   |- style="text-align:center;"
+   | colspan="6" | EV Zug wins series 4–3
+  |}
+|   
+| valign="top" |
+  {| class="wikitable" width="325px" style="text-align:center;" 
+   ! style="background:#DDDDDD;" colspan="6" | HC Lugano (4) vs. Kloten Flyers (5)
+   |-
+   ! Date !! Away !! colspan="2" | Score !! Home !!
+   |-
+   | February 24 || style="background:#e6e6fa;" |  Flyers || style="background:#e6e6fa;" |  6 || 3 || Lugano ||  
+   |-
+   | February 27 || Lugano || 2 || style="background:#e6e6fa;" |  3 || style="background:#e6e6fa;" |  Flyers || OT
+   |-
+   | March 1 || Flyers || 1 || style="background:#e6e6fa;" |  8 || style="background:#e6e6fa;" |  Lugano ||  
+   |-
+   | March 3 || Lugano || 1 || style="background:#e6e6fa;" |  3 || style="background:#e6e6fa;" |  Flyers ||  
+   |-
+   | March 6 || Flyers || 3 || style="background:#e6e6fa;" |  5 || style="background:#e6e6fa;" |  Lugano ||  
+   |-
+   | March 8 || Lugano || 1 || style="background:#e6e6fa;" |  3 || style="background:#e6e6fa;" |  Flyers ||  
+   |- style="text-align:center;"
+   | colspan="6" | Kloten Flyers wins series 4–2
+  |}
+|}
+
+===Semifinals===
+{| cellspacing="10" 
+| valign="top" |
+  {| class="wikitable" width="325px" style="text-align:center;" 
+   ! style="background:#DDDDDD;" colspan="6" | HC Davos (1) vs. Kloten Flyers (5)
+   |-
+   ! Date !! Away !! colspan="2" | Score !! Home !!
+   |-
+   | March 13 || Kloten || 0 || style="background:#e6e6fa;" | 5 || style="background:#e6e6fa;" | Davos ||  
+   |-
+   | March 15 || Davos || 3 || style="background:#e6e6fa;" | 4 || style="background:#e6e6fa;" | Kloten ||  
+   |-
+   | March 17 || Kloten || 3 || style="background:#e6e6fa;" | 4 || style="background:#e6e6fa;" | Davos ||  
+   |-
+   | March 20 || style="background:#e6e6fa;" | Davos || style="background:#e6e6fa;" | 6 || 3 || Kloten ||  
+   |-
+   | March 22 || Kloten || 1 || style="background:#e6e6fa;" | 3 || style="background:#e6e6fa;" | Davos ||  
+   |- style="text-align:center;"
+   | colspan="6" | HC Davos wins series 4–1
+  |}
+|   
+| valign="top" |
+  {| class="wikitable" width="325px" style="text-align:center;" 
+   ! style="background:#DDDDDD;" colspan="6" | SC Bern (2) vs. EV Zug (3)
+   |-
+   ! Date !! Away !! colspan="2" | Score !! Home !!
+   |-
+   | March 13 || Zug || 0 || style="background:#e6e6fa;" | 4 || style="background:#e6e6fa;" | Bern ||  
+   |-
+   | March 15 || style="background:#e6e6fa;" | Bern || style="background:#e6e6fa;" | 1 || 0 || Zug ||  
+   |-
+   | March 17 || Zug || 0 || style="background:#e6e6fa;" | 4 || style="background:#e6e6fa;" | Bern ||  
+   |-
+   | March 20 || Bern || 1 || style="background:#e6e6fa;" | 3 || style="background:#e6e6fa;" | Zug ||  
+   |-
+   | March 22 || Zug || 0 || style="background:#e6e6fa;" | 4 || style="background:#e6e6fa;" | Bern ||  
+   |- style="text-align:center;"
+   | colspan="6" | SC Bern wins series 4–1
+  |}
+|}
+
+===Finals===
+{| cellspacing="10" 
+| valign="top" |
+  {| class="wikitable" width="325px" style="text-align:center;" 
+   ! style="background:#DDDDDD;" colspan="6" | HC Davos (1) vs. SC Bern (2)
+   |-
+   ! Date !! Away !! colspan="2" | Score !! Home !!
+   |-
+   | March 27 || Bern || 2 || style="background:#e6e6fa;" | 3 || style="background:#e6e6fa;" | Davos || 
+   |-
+   | March 29 || Davos || 0 || style="background:#e6e6fa;" | 4 || style="background:#e6e6fa;" | Bern || 
+   |-
+   | March 31 || Bern || 1 || style="background:#e6e6fa;" | 3 || style="background:#e6e6fa;" | Davos || 
+   |-
+   | April 3 || Davos || 2 || style="background:#e6e6fa;" | 3 || style="background:#e6e6fa;" | Bern || 
+   |-
+   | April 5 || Bern || 1 || style="background:#e6e6fa;" | 3 || style="background:#e6e6fa;" | Davos || 
+   |-
+   | April 7 || Davos || 1 || style="background:#e6e6fa;" | 2 || style="background:#e6e6fa;" | Bern || 
+   |-
+   | April 9 || Bern || 0 || style="background:#e6e6fa;" | 1 || style="background:#e6e6fa;" | Davos || 
+   |- style="text-align:center;"
+   | colspan="6" | HC Davos wins series 4–3
+  |}
+|}
+
+===Scoring leaders===
+
+
+Note: GP = Games played; G = Goals; A = Assists; Pts = Points;  PIM = Penalty Minutes
+{| class="wikitable"
+|-
+! bgcolor="#DDDDFF" width="20%" | Player
+! bgcolor="#DDDDFF" width="30%" | Team
+! bgcolor="#DDDDFF" width="5%" | GP
+! bgcolor="#DDDDFF" width="5%" | G
+! bgcolor="#DDDDFF" width="5%" | A
+! bgcolor="#DDDDFF" width="5%" | Pts
+! bgcolor="#DDDDFF" width="5%" | PIM
+|-
+| Simon Gamache || SC Bern || 15 || 7 || 9 || 16 || 10
+|-
+| Christian Dubé || SC Bern || 16 || 0 || 16 || 16 || 24 
+|-
+| Josef Marha || HC Davos || 18 || 8 || 6 || 14 || 24
+|-
+| Kimmo Rintanen || Kloten Flyers || 11 || 6 || 7 || 13 || 2
+|-
+| Alexandre Daigle || HC Davos || 17 || 4 || 9 || 13 || 4
+|-
+| Zbynek Irgl || HC Davos || 15 || 8 || 4 || 12 || 20
+|-
+| Mariusz Czerkawski || Rapperswil-Jona Lakers || 7 || 6 || 6 || 12 || 16 
+|-
+| Peter Guggisberg || HC Davos || 18 || 6 || 5 || 11 || 4 
+|-
+| Radek Hamr || Kloten Flyers || 11 || 2 || 9 || 11 || 22 
+|-
+| Marc Reichert || SC Bern || 16 || 6 || 4 || 10 || 4
+|}
+
+==Relegation (Playout)==
+
+After the conclusion of the regular season, the bottom 4 teams will compete in a 4-team elimination playoff, with the losing team advancing to determine which team will face the champions of the National League B. The winner of the best-of-7 series will play in the National League A next season, while the losing team will play in the National League B.
+
+===Semifinals===
+{| cellspacing="5" 
+| valign="top" |
+  {| class="wikitable" width="325px" style="text-align:center;" 
+   ! style="background:#DDDDDD;" colspan="6" | HC Ambri-Piotta (9) vs. EHC Basel (12)
+   |-
+   ! Date !! Away !! colspan="2" | Score !! Home !!
+   |-
+   | February 24 ||  Basel || 2 || style="background:#e6e6fa;" | 3 || style="background:#e6e6fa;" | Ambrì-Piotta || 
+   |-
+   | February 27 || style="background:#e6e6fa;" | Ambrì-Piotta || style="background:#e6e6fa;" | 5 || 4 || Basel || OT
+   |-
+   | March 1 || Basel || 2 || style="background:#e6e6fa;" | 4 || style="background:#e6e6fa;" | Ambrì-Piotta || 
+   |-
+   | March 3 || Ambrì-Piotta || 2 || style="background:#e6e6fa;" | 3 || style="background:#e6e6fa;" | Basel || 
+   |-
+   | March 6 || style="background:#e6e6fa;" | Basel || style="background:#e6e6fa;" | 5 || 4 || Ambri-Piotta || OT
+   |-
+   | March 8 || Ambrì-Piotta || 2 || style="background:#e6e6fa;" | 3 || style="background:#e6e6fa;" | Basel || 
+   |-
+   | March 10 || Basel || 1 || style="background:#e6e6fa;" | 5 || style="background:#e6e6fa;" | Ambrì-Piotta || 
+   |- style="text-align:center;"
+   | colspan="6" | HC Ambri-Piotta wins series 4–3
+  |}
+|   
+| valign="top" |
+  {| class="wikitable" width="325px" style="text-align:center;" 
+   ! style="background:#DDDDDD;" colspan="6" | Fribourg-Gottéron HC (10) vs. SCL Tigers (11)
+   |-
+   ! Date !! Away !! colspan="2" | Score !! Home !!
+   |-
+   | February 24 || Tigers || 3 || style="background:#e6e6fa;" | 6 || style="background:#e6e6fa;" | Fribourg||  
+   |-
+   | February 27 || style="background:#e6e6fa;" | Fribourg || style="background:#e6e6fa;" | 3 || 2 || Tigers ||  
+   |-
+   | March 1 || Tigers || 3 || style="background:#e6e6fa;" | 4 || style="background:#e6e6fa;" | Fribourg || OT
+   |-
+   | March 3 || style="background:#e6e6fa;" | Fribourg || style="background:#e6e6fa;" | 4 || 3 || Tigers || OT
+   |- style="text-align:center;"
+   | colspan="6" | Fribourg-Gottéron HC wins series 4–0
+  |}
+|}
+
+===Finals===
+{| cellspacing="10" 
+| valign="top" |
+   {| class="wikitable" width="325px" style="text-align:center;" 
+   ! style="background:#DDDDDD;" colspan="6" | SCL Tigers vs. EHC Basel
+   |-
+   ! Date !! Away !! colspan="2" | Score !! Home !!
+   |-
+   | March 13 || Basel || 0 || style="background:#e6e6fa;" | 2 || style="background:#e6e6fa;" | Tigers || 
+   |-
+   | March 15 || Tigers || 3 || style="background:#e6e6fa;" | 4 || style="background:#e6e6fa;" | Basel || 
+   |-
+   | March 17 || Basel || 2 || style="background:#e6e6fa;" | 9 || style="background:#e6e6fa;" | Tigers || 
+   |-
+   | March 20 || Tigers || 0 || style="background:#e6e6fa;" | 4 || style="background:#e6e6fa;" | Basel || 
+   |-
+   | March 22 || style="background:#e6e6fa;" | Basel || style="background:#e6e6fa;" | 4 || 0 || Tigers || 
+   |-
+   | March 24 || Tigers || 2 || style="background:#e6e6fa;" | 3 || style="background:#e6e6fa;" | Basel || OT
+   |- style="text-align:center;"
+   | colspan="6" | EHC Basel wins series 4–2
+  |}
+|}
+
+==League Qualification==
+{| cellspacing="5" 
+| valign="top" |
+  {| class="wikitable" width="325px" style="text-align:center;" 
+   ! style="background:#DDDDDD;" colspan="6" | SCL Tigers vs. EHC Biel
+   |-
+   ! Date !! Away !! colspan="2" | Score !! Home !!
+   |-
+   | March 29 || EHC Biel || 1 || style="background:#e6e6fa;" | 4 || style="background:#e6e6fa;" | Tigers || 
+   |-
+   | March 31 || style="background:#e6e6fa;" | Tigers || style="background:#e6e6fa;" | 5 || 2 || Biel  || 
+   |-
+   | April 3 || style="background:#e6e6fa;" | Biel || style="background:#e6e6fa;" | 5 || 2  || Tigers  || 
+   |-
+   | April 5 || style="background:#e6e6fa;" | Tigers || style="background:#e6e6fa;" | 6 || 1  || Biel  || 
+   |-
+   | April 7 || Biel || 3 || style="background:#e6e6fa;" | 5 || style="background:#e6e6fa;" | Tigers  || 
+   |- style="text-align:center;"
+   | colspan="6" | SCL Tigers wins series 4–1
+  |}
+|}
+

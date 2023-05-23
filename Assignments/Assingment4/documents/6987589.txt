@@ -1,0 +1,106 @@
+Title: Takashi Shimoda
+
+
+ is a former Japanese football player. He who is the currently goalkeeper coach for Japan.
+
+==Club career==
+Shimoda was born in Hiroshima on 28 November 1975. After graduating from high school, he joined Sanfrecce Hiroshima in 1994. He did not play many matches until the mid 1990s, as he was behind Kazuya Maekawa and Kazumasa Kawano. Kawano left the club in 1997 and Maekawa was injured in 1998; Shimoda then became a regular goalkeeper in 1998. Although he played as the regular goalkeeper until 2007, he sustained a knee injury that same year. He did not play from 2008 and retired at the end of the 2010 season.
+
+==National team career==
+In April 1995, Shimoda was selected to the Japan U-20 national team for the 1995 World Youth Championship. He played two matches including the quarterfinal. In July 1996, he was also selected to the Japan U-23 national team for the 1996 Summer Olympics. However he did not play in any matches behind Yoshikatsu Kawaguchi. Although Japan won two matches, Japan exited in the first round. At this time, Japan beat Brazil in the first game. It was known as the "Miracle of Miami" (マイアミの奇跡) in Japan.
+
+On 31 March 1999, Shimoda debuted for the Japan national team against Brazil.Japan National Football Team Database He was also selected by Japan for the 2000 Asian Cup. Although he did not play in any matches, Japan won the tournament.
+
+==Club statistics==
+{| class="wikitable" style="text-align:center"
+|-
+! colspan=3 | Club performance
+! colspan=2 | League
+! colspan=2 | Cup
+! colspan=2 | League Cup
+! colspan=2 | Continental
+! colspan=2 | Total
+|-
+! Season !! Club !! League
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+|-
+|-
+! colspan=3 | Japan
+! colspan=2 | League
+! colspan=2 | Emperor's Cup
+! colspan=2 | League Cup
+! colspan=2 | Asia
+! colspan=2 | Total
+|-
+|1994||rowspan="17"|Sanfrecce Hiroshima||rowspan="9"|J1 League||0||0||0||0||0||0||colspan="2"|-||0||0
+|-
+|1995||5||0||0||0||colspan="2"|-||colspan="2"|-||5||0
+|-
+|1996||1||0||0||0||0||0||colspan="2"|-||1||0
+|-
+|1997||9||0||2||0||0||0||colspan="2"|-||11||0
+|-
+|1998||34||0||3||0||4||0||colspan="2"|-||41||0
+|-
+|1999||30||0||5||0||2||0||colspan="2"|-||37||0
+|-
+|2000||30||0||2||0||4||0||colspan="2"|-||36||0
+|-
+|2001||29||0||2||0||6||0||colspan="2"|-||37||0
+|-
+|2002||29||0||0||0||6||0||colspan="2"|-||35||0
+|-
+|2003||J2 League||43||0||4||0||colspan="2"|-||colspan="2"|-||47||0
+|-
+|2004||rowspan="4"|J1 League||30||0||1||0||5||0||colspan="2"|-||36||0
+|-
+|2005||27||0||0||0||6||0||colspan="2"|-||33||0
+|-
+|2006||33||0||2||0||5||0||colspan="2"|-||40||0
+|-
+|2007||31||0||5||0||8||0||colspan="2"|-||44||0
+|-
+|2008||J2 League||0||0||0||0||colspan="2"|-||colspan="2"|-||0||0
+|-
+|2009||rowspan="2"|J1 League||0||0||0||0||0||0||colspan="2"|-||0||0
+|-
+|2010||0||0||0||0||0||0||0||0||0||0
+|-
+! colspan=3 | Career total
+!331||0||26||0||46||0||0||0||403||0
+|}
+
+==National team statistics==
+
+{| class="wikitable" style="text-align:center"
+! colspan=3 | Japan national team
+|-
+!Year!!Apps!!Goals
+|-
+|1999||1||0
+|-
+!Total||1||0
+|}
+
+==National team==
+* 2000 Asian Cup (Champions)
+
+==National team Career Stats==
+===Appearances in Major Competitions===
+{| class="wikitable" style="text-align: center;"
+|-
+!rowspan="2"|Year!!rowspan="2"|Competition!!rowspan="2"|Category!!colspan="2"|Appearances!!rowspan="2"|Goals!!rowspan="2"|Team Record
+|-
+!Start!!Sub
+|-
+|1995||1995 FIFA World Youth Championship||U-20||?||0||0||Round of 16
+|-
+|1996||1996 Olympics||U-23||0||0||0||Round 1
+|-
+|2000||2000 AFC Asian Cup||Senior||0||0||0||Champion
+|}
+

@@ -1,0 +1,174 @@
+Title: Rotary vacuum-drum filter
+
+A Rotary Vacuum Filter Drum consists of a cylindrical filter membrane that is partly sub-merged in a slurry to be filtered. The inside of the drum is held lower than the ambient pressure. As the drum rotates through the slurry, the liquid is sucked through the membrane, leaving solids to cake on the membrane surface while the drum is submerged. A knife or blade is positioned to scrape the product from the surface.
+
+The technique is well suited to slurries, flocculated suspensions, and liquids with a high solid content, which could clog other forms of filter. It is common to pre-coated with a filter aid, typically of diatomaceous earth (DE) or Perlite. In some implementations, the knife also cuts off a small portion of the filter media to reveal a fresh media surface that will enter the liquid as the drum rotates. Such systems advance the knife automatically as the surface is removed.
+
+== Basic fundamentals ==
+
+=== Rotary vacuum drum filter ===
+
+Rotary vacuum drum filter (RVDF), patented in 1872, is one of the oldest filters used in the industrial liquid-solids separation. It offers a wide range of industrial processing flow sheets and provides a flexible application of dewatering, washing and/or clarification.
+
+A rotary vacuum filter consists of a large rotating drum covered by a cloth. The drum is suspended on an axial over a trough containing liquid or solids slurry with approximately 50-80% of the screen area immersed in the slurry.
+
+As the drum rotates into and out of the trough, the slurry is sucked on the surface of the cloth and rotated out of the liquid or solids suspension as a cake. When the cake is rotating out, it is dewatered in the drying zone. The cake is dry because the vacuum drum is continuously sucking the cake and taking the water out of it. At the final step of the separation, the cake is discharged as solids products and the drum rotates continuously to another separation cycle.
+
+== Range of application ==
+
+Applications:
+* The rotary filter is most suitable for continuous operation on large quantities of slurry.
+* If the slurry contains considerable amount of solids, that is, in the range of 15-30%.
+* Examples of pharmaceutical applications include the collection of calcium carbonate, magnesium carbonate and starch.
+* The separation of the mycelia from the fermentation liquor in the manufacture of antibiotics.
+* block and instant yeast production.
+
+=== Advantages and limitations ===
+
+The advantages and limitations of rotary vacuum drum filter compared to other separation methods are:
+
+==== Advantages ====
+
+* The rotary vacuum drum filter is a continuous and automatic operation, so the operating cost is low.
+* The variation of the drum speed rotating can be used to control the cake thickness.
+* The process can be easily modified (pre-coating filter process).
+* Can produce relatively clean product by adding a showering device.
+
+==== Disadvantages ====
+
+* Due to the structure, the pressure difference is theoretically limited to atmospheric pressure (1 bar), and in practice somewhat lower.
+* Besides the drum, other accessories, for example, agitators and vacuum pump, vacuum receivers, slurry pumps are required.
+* The discharge cake contains residual moisture.
+* The cake tends to crack due to their air drawn through by the vacuum system, so that washing and drying are not efficient. 
+* High energy consumption by the vacuum pump.
+
+== Designs available ==
+
+Basically there are five types of discharge that are used for the rotary vacuum drum filter such as belt, scraper, roll, string and pre coat discharge.
+
+=== Belt discharge ===
+
+The filter cloth is washed on both sides with each drum rotation while discharging filter cakes. The products for this mechanism are usually sticky, wet and thin thus, requiring the aid of a discharge roll. Belt discharge is used if slurry with moderate solid concentration is used or if the slurry is easy to filter to produce cake formation or if a longer wear resistance is desired for the separation of the mentioned slurry.....
+
+=== Scraper discharge ===
+
+This is the standard drum filter discharge. A scraper blade, which serves to redirect the filter cake into the discharge chute, removes the cake from the filter cloth just before re-entering the vat. Scraper discharge is used if the desired separation requires high filtration rate or if heavy solid slurry is used or if the slurry is easy to filter to produce cake formation or if a longer wear resistance is desired for the separation of the mentioned slurry.
+
+=== Roll discharge ===
+
+It is a suitable discharge option for cakes that are thin and have the tendency to stick with one another. Filter cakes on the drum and discharged roll are pressed against one another to ensure that the thin filter cake is peeled or pulled from the drum. Removal of solids from the discharge roll is done via a knife blade. Roll discharged is used if the desired separation requires high filtration rate, if high solid content slurry is used or if the slurry is easy to filter to produce cake formation or if the discharged solid is sticky or mud-like cake.
+
+=== String discharge ===
+
+The filtrate cakes that are thin and fragile are usually the end products of this discharge lie. The materials are capable of changing phases, from solid to liquid, due to instability and disturbance. Two rollers guide the strings back to drum surface and at the same time separation of the filtrate cake occurs as they pass the rollers. Application of the string discharge can be seen at the pharmaceutical and starch industries. String discharge is used if the high solid concentration slurry is used or if the slurry is easy to filter to produce cake formation or if the discharged solid is fibrous, stringy or pulpy or if a longer wear resistance is desired for the separation of the mentioned slurry.
+
+=== Pre coat discharge ===
+
+Application of this discharge are usually seen where production of filter cakes that blind the filter media thoroughly and processes that have low solid concentration slurry. Pre coat discharge is used if slurry with very low solid concentration slurry is used that resulted in difficult cake formation or if the slurry is difficult to filter to produce cake .
+
+== Main process characteristics and assessment ==
+
+Generally, the main process in a rotary vacuum drum filter is continuous filtration whereby solids are separated from liquids through a filter medium by a vacuum. The filter cloth is one of the most important components on a filter and is typically made of weaving polymer yarns. The best selection of cloth can increase the performance of filtration. Initially, slurry is pumped into the trough and as the drum rotates, it is partially submerged in the slurry. The vacuum draws liquid and air through the filter media and out the shaft hence forming a layer of cake. An agitator is used to regulate the slurry if the texture is coarse and it is settling rapidly. Solids that are trapped on the surface of the drum are washed and dried after 2/3 of revolution, removing all the free moisture.
+
+During the washing stage, the wash liquid can either be poured onto the drum or sprayed on the cake. Cake pressing is optional but its advantages are preventing cake cracking and removing more moisture. Cake discharge is when all the solids are removed from the surface of the cake by a scraper blade, leaving a clean surface as drum re-enters the slurry. There are a few types of discharge which are scraper, roller, string, endless belt and pre coat. The filtrate and air flow through internal pipes, valve and into the vacuum receiver where the separation of liquid and gas occurs producing a clear filtrate. Pre coat filtration is an ideal method to produce a high clarity of filtrate. Basically, the drum surface is pre coated with a filter aid such as diatomaceous earth (DE) or perlite to improve filtration and increase cake permeability. It then undergoes the same process cycle as the conventional rotary vacuum drum filter however, pre coat filtration uses a higher precision blade to scrape off the cake.
+
+The filter is assessed by the size of the drum or filter area and its possible output. Typically, the output is in the units of pounds per hour of dry solids per square foot of filter area. The size of the auxiliary parts depends on the area of the filter and the type of usage. Rotary vacuum filters are flexible in handling variety of materials therefore the estimated solids yield from 5 to 200 pounds per hour per square foot. For pre coat discharge, the solid output is approximately 2 to 40 gallons per hour per square foot. Filtration efficiencies can also be improved in terms dryness of filter cake by significantly preventing filtrate liquid from getting stuck in the filter drum during filtration phase. Usage of multiple filters for example, running 3 filter units instead of 2 units yields a thicker cake hence, producing a clearer filtrate. This becomes beneficial in terms of production cost and also quality.
+
+== Heuristics design process ==
+
+=== Basic operation parameters heuristics===
+
+Vat level and drum speed are the two basic operating parameters for any rotary vacuum drum filter. These parameters are adjusted dependently to each other to optimize the filtration performance.
+Valve level determines the proportion filter cycle in the filter. The filter cycle consist of the filter drum rotation, release of cake formation from slurry and the drying period for the cake formation shown in figure 1. By default, operate the vat at its maximum level to maximise the rate of filtration. Reduce vat level if discharged solid is in the form of thin and slimy cake or if the discharged solid is very thick.
+
+Decrease in the vat level eventually leads to a decrease in the portion of the drum being submerge under the slurry, more surface exposure for the cake dying surface hence, larger cake formation to dry time ratio. This result in less moisture content of formed solid and lessen the thickness of the form solid. In addition to operating at lower vat level, the flow rate per drum revolution decreases and ultimately thinner cake formation occurs. In the case of pre coat discharge the filter aid efficiency increases.	
+Drum speed is the driving factor for the filter output and its units is in the form of minutes per drum revolution. At steady operating conditions, adjusting the drum speed gives a proportional relationship with the filter throughput as shown as in figure 2.
+
+=== Discharge mechanism adjustment heuristics===
+
+==== Endless belt ====
+
+Select filter cloth to obtain a good surface for cake formation. Use twill weave variation in the construction pattern of the fabric for better wear resistance. The belt tension, de-mooning bar height, wash water quantity and discharge roll speed are carefully tuned to maintain a good path for the cake formation to prevent excessive wear of the filter cloth.
+
+==== Scraper ====
+
+Select filter cloth to obtain good wear and solid binding characteristics. Use moderate blowback pressure to avoid high wear. Adjust duration of blow back pressure short enough to remove the cake from the filter cloth. The tuning of valve body is important for the blow back to prevent the excess filtrated being force back out of the pipe to with the release cake solid as this minimises wear and filter media maintenance.
+
+==== Roll ====
+
+Select filter cloth to obtain solid binding resistance and good cake release. Use coated fabric for more effective cake release and have a longer-lasting cloth media due to solid binding filter cloth. Both the discharge roll speed and drum speed must be the same. Adjust the scraper knife to leave a significant heal on discharge roll to produce a continuous cake transfer.
+
+==== String ====
+
+Minimise the lateral pressure of the strings by adjusting the alignment tine bar to avoid the string being cut off. Have ceramic tube place over each aligning tine bar to act as bearing surface for the strings.
+
+==== Pre coat ====
+
+Select filter cloth based on the type filter aid used (refer Filter aid selection), adjust the advancing knife to optimize the knife advance rate per drum revolution. (Detail explained in Advance blade section)
+
+==== Pre coat filter operation heuristics ====
+
+Filter aid selection: filter aid are recoat cake that act as the actual filter media and there two different types which are diatomaceous earth or perlite.
+Important parameter to consider is the solid penetration into the pre coat cake and its limits 0.002 to 0.005 inch penetration thickness.
+Large amount of filter aid is used i.e. “open”, more filter aid is aid removed which lead to higher disposal cost. If little amount of filter aid is used i.e. “tight” will lead to no flow rate into the drum. This comparison can be illustrated in figure 5 as below.
+
+==== Advanced blade ====
+The approximate knife advance rate can be determined for a set of operating conditions using table 6 below. The table indicates the number of hours that the filter can operate in a one-inch pre coat cake; the required condition is that the advance blade must be at a constant position. This method can be used to check for optimum operation range.
+
+If the operating parameter is higher than the optimum range, the user can reduce the knife advance rate and use a tighter grade of filter aid. This will result in less filter aid used (lower capital cost) and less filter aid being removed (lower disposal cost). However, if the operating parameter is lower than the optimum range, the user can increase the knife advanced rate (more production) and decrease the drum speed for less filter air usage (reduced operating cost).
+
+== Necessary post treatment for waste stream for thicker ==
+
+=== Chlorination ===
+
+Most commonly used post treatment, where chlorine is dissolved in water to form and hydrochloric acid hypochlorous acid. The latter act as a disinfectant that is able to eliminate pathogens such as bacteria, viruses and protozoa by penetrating the cell walls.
+
+=== UV radiation ===
+
+The waste stream is irradiated with Ultraviolet radiation. The UV radiation disinfect by disrupting the pathogen cell to be mutated and prevent the cell from replicating. Eventually the mutated cell becomes extinct and this process eliminates odour.
+
+=== Ozonation===
+
+The stream is exposed to ozone and ozone is unstable at atmospheric condition. The ozone (O3) decomposes into oxygen (O2) and more oxygen is dissolved into the stream. The pathogen is oxidised to form carbon dioxide. This process eliminates the odour of the stream but result in slightly acidic product due to the effect of carbon dioxide present.
+
+== Necessary post treatment for waste stream for clarifier ==
+
+=== Land reclamation ===
+
+The waste discharge can be used as land stabilizer as dry bio-solids that can be distributed to the market. The land stabilizer is used in reclaiming marginal land such as mining waste land. This process will help to restore the land to its initial appearance.
+
+=== Incineration ===
+
+The waste discharge can be sent into incineration plant, where the organic solid undergoes combustion process. The combustion process produces heat that can be used to generate electricity.
+
+== New Development ==
+
+The rotary vacuum drum filter designs available vary in physical aspects and their characteristics. The filtration area ranges from 0.5 m2 to 125 m2. Disregarding the size of the design, filter cloth washing is a priority as it ensures efficiency of cake washing and acting vacuum. However, a smaller design would be more economical as the maintenance, energy usage and investment cost would be less than a bigger rotary vacuum drum filter.
+Over the years, the technology drive has pushed development to further heights revolving around rotary vacuum drum filter in terms of design, performance, maintenance and cost. This has also led to the development of smaller rotary drum vacuum filters, ranging from laboratory scale to pilot scale, both of which can be used for smaller applications (such as at a lab in a university)  High performance capacity, optimised filtrate drainage with low flow resistance and minimal pressure loss are just a few of the benefits. 
+With advanced control systems prompting automation, this has reduced the operation of attention needed hence, reducing the operational cost. Advancements in technology also means that precoat can be cut to 1/20th the thickness of human hair, thus making the use of precoat more efficient  Lowered operational and capital cost can also be achieved nowadays due to easier maintenance and cleaning. Complete cell emptying can be done quickly with the installation of leading and trailing pipes.
+Given that the filter cloth is usually one of the more expensive component in the rotary vacuum drum filter build up, priority on its maintenance must be kept quite high. A longer lifetime, protection from damage and consistent performance are the few criteria that must not be overlooked.
+Besides considering production cost and quality, cake washing and cake thickness are essential issues that are important in the process. Methods have been performed to ensure a minimal amount of cake moisture while undergoing good cake washing with large cake dewatering angle. An even thickness of filter cake besides having a complete cake discharge is also possible.
+
+==See also==
+*Vacuum ceramic filter
+*Dewatering
+
+== References ==
+
+
+==Further reading==
+*
+*
+* John J. McKetta, John J. McKetta Jr, "Unit Operations Handbook: Mechanical separations and materials handling", CRC Press, 1992, pp. 274–288. 
+* Hiroaki Masuda, Kō Higashitani, Hideto Yoshida, "Powder Technology: Handling and Operations, Process Instrumentation, and Working Hazards", CRC Press, 2006, pp. 194–195. 
+
+==External links==
+* Rotary drum filter, United States Patent 308143
+* Rotary drum filter, United States Patent 5006136
+* Luthi rotary drum filter
+* Filter, patent number 2362300
+Drum Filter Made in Viet Nam
+
+
+Category:Filters
+Category:Separation processes

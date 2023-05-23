@@ -1,0 +1,293 @@
+Title: List of level editors
+
+
+This is a list of level editors for video games. Level editors allow for the customization and modification of levels within games.
+
+== Official or single games ==
+{| class="sortable wikitable"
+!Editor !! Game(s) !! Notes !! Ref
+|-
+|3D Construction Kit|||| ||
+|-
+|3D Construction Kit II|||| ||
+|-
+|AA Toolset||Axis & Allies|| ||
+|-
+|Adventure Construction Set|||| ||
+|-
+|Age Of Empires||Age of Empires series|| ||
+|-
+|Anvil||Marathon 2: DurandalMarathon Infinity||Physics model editor||
+|-
+|Arcade Game Construction Kit|||| ||
+|-
+|Armadillo||Motocross MadnessMotocross Madness 2|| ||
+|-
+|Aurora toolset||Neverwinter NightsNeverwinter Nights: Hordes of the UnderdarkNeverwinter Nights: Shadows of UndrentideThe Witcher||For the Aurora Engine||
+|-
+|Bard's Tale Construction Set, The||The Bard's QuestThe Bard's Lore: The Warrior and The DragonNutilan|| ||
+|-
+|BF2 Editor||Battlefield 2|| ||
+|-
+|BFBuilder||Star Wars: Battlefront|| ||
+|-
+|Boulder Dash Construction Kit||Boulder Dash|| ||
+|-
+|Build||Duke Nukem 3DShadow WarriorBlood||For the Build engine||
+|-
+|Catrap||Catrap||Game Boy video game with built in level editor||
+|-
+|ChromEd||ChromeCall of Juarez||For the Chrome Engine||
+|-
+|CoD2Radiant||Call of Duty 2|| ||
+|-
+|CoD4Radiant||Call of Duty 4|| ||
+|-
+|CoDRadiant||Call of Duty|| ||
+|-
+|CoinKiller||New Super Mario Bros. 2|| || CoinKiller
+|-
+|Construction mode||Mega Man Powered Up|| ||
+|-
+|Commando Level Editor||Command & Conquer: Renegade|| ||
+|-
+|Creation Kit||The Elder Scrolls V: Skyrim||Based on the previous The Elder Scrolls Construction Set||
+|-
+|D3Radiant||Doom 3|| ||
+|-
+|Deus Ex SDK||Deus Ex||UnrealEd||
+|-
+|Dezaemon||Dezaemon (NES, 1991)Szczepaniak, John. Dezaemon. Hardcore Gamer 101. Pg.1. April 2011.Dezaemon 2 (Sega Saturn, 1997)Szczepaniak, John. Dezaemon. Hardcore Gamer 101. Pg.2. April 2011.Dezaemon 3D (Nintendo 64, 1998)Szczepaniak, John. Dezaemon. Hardcore Gamer 101. Pg.3. April 2011. (Satellaview, 1996) (Apr-Aug 1996)Sugoi STG-2: Crystal Guardian (May-Dec 1996) (Satellaview, Apr-Aug 1996)Dezaemon Kids! (PlayStation, 1998) (PlayStation, 1996)|| ||
+|-
+|DFBHDMED||Delta Force: Black Hawk Down|| ||
+|-
+|DFXMED||Delta Force Xtreme|| ||
+|-
+|DCS World||Digital Combat Simulator World|| ||
+|-
+|DinkEdit||Dink Smallwood|| ||
+|-
+|Doom Builder||DoomDoom IIsource ports such as ZDoom||Includes an ACS scripting editor||
+|-
+|Dragon Age Toolset||Dragon Age Origins|| ||Dragon Age Toolset
+|-
+|DromEd||Thief: The Dark ProjectThief 2: The Metal Age||For the Dark Engine||
+|-
+|Dynamite Jack editor||Dynamite Jack|| ||Dynamite Jack editor
+|-
+|Elder Scrolls Construction Set, The||The Elder Scrolls III: MorrowindOblivion|| ||
+|-
+|Electron toolset||Neverwinter Nights 2|| ||
+|-
+|Escape Simulator
+|Escape Simulator
+|
+|
+|-
+|Final Alert||Command & Conquer Red Alert 2|| ||
+|-
+|Forge||Marathon 2: DurandalMarathon Infinity|| ||
+|-
+|Fortnite: Creative
+|Fortnite
+|
+|
+|-
+|Foundry, The||Star Trek OnlineNeverwinter|| ||
+|-
+|FRED and FRED2 (later FRED2Open)||Descent: FreeSpace – The Great WarFreeSpace 2|| ||
+|-
+|G.E.C.K.||Fallout 3Fallout: New Vegas|| ||
+|-
+|Gem Editor||Call to Arms (video game)||Has two parts Map editor and Mission editor||
+|-
+|GenEd||Ground Control|| ||
+|-
+|Geometry Dash
+|Geometry Dash
+|
+|
+|-
+|GMEdit||Get Medieval|| ||
+|-
+|Graphics Adventure Game Builder||Graphics Adventure Game Builder||DOS game rpg maker||The Internet Archive - DCGAMES - Graphics Adventure Game Builder v1.30
+|-
+|Happy Wheels
+|Happy Wheels
+|
+|
+|-
+|HereticEd||Heretic II|| ||
+|-
+|IGOR||Tom Clancy's Ghost Recon|| ||
+|-
+|irrEdit|| ||For the Irrlicht Engine||
+|-
+|Jazz Creation Station||Jazz Jackrabbit 2Jazz Jackrabbit 2: The Secret Files|| ||
+|-
+|JED||Jedi Knight: Dark Forces II|| ||
+|-
+|Kaite Tsukutte Asoberu: Dezaemon||Kaite Tsukutte Asoberu: Dezaemon|| Super Famicom only||LaunchBox Games Database - Kaite Tsukutte Asoberu: Dezaemon
+|-
+|Lithtech WorldEdit||Blood 2No One Lives ForeverF.E.A.R.||For the Lithtech engine||
+|-
+|Ludicrous Development Kit||Rise of the Triad|| ||
+|-
+|Lunar Magic||Super Mario World|| ||
+|-
+|Maxed||Max Payne|| ||
+|-
+|Maxed2||Max Payne 2|| ||
+|-
+|Miyamoto! Level Editor||New Super Mario Bros. U|| ||Miyamoto! Level Editor
+|-
+|Miyamoto! Level Editor Deluxe|| New Super Mario Bros. U Deluxe|| ||Miyamoto! Level Editor
+|-
+|MohRadiant||Medal of Honor: Allied Assault|| ||
+|-
+|Ned||N|| ||
+|-
+|NILE||Joint Operations: Typhoon Rising|| ||
+|-
+|NSMBe||New Super Mario Bros.|| ||NSMBe
+|-
+|PAIN Editor||Painkiller||For the PAIN Engine||
+|-
+|Perpetual Testing Initiative||Portal 2|| ||
+|-
+|Pinball Construction Set|| || ||
+|-
+|Portal 2 Authoring Tools||Portal 2|| ||
+|-
+|PrismEd||Duke Nukem: Manhattan Project||For Prism3D||
+|-
+|Q3Radiant||Quake 3|| ||
+|-
+|Q4Radiant||Quake 4|| ||
+|-
+|QE4||Quake II|| ||
+|-
+|QERadiant|| ||For the id Tech 3||
+|-
+|QuakeEd||Quake||For NeXTSTEP||
+|-
+|Racing Destruction Set|||| ||
+|-
+|Rayman Designer||Rayman Gold|| ||
+|-
+|RED Editor||Red Faction|| ||
+|-
+|Reggie! Level Editor||New Super Mario Bros. Wii|| ||Reggie! Level Editor
+|-
+|Riot Engine Editor||Drakan: Order of the Flame||For the Riot engine||
+|-
+|Ryzom Ring Editor||The Saga of Ryzom|| ||
+|-
+|Sandbox||Far Cry|| ||
+|-
+|Sandbox 2||Crysis|| ||
+|-
+|ScenMaker||Airborne Assault: Red Devils Over Arnhem||Scenario editor||
+|-
+|SEED||The Settlers: Rise of an Empire|| ||
+|-
+|Serious Editor||Serious Sam||For the Serious Engine||
+|-
+|Serious Editor 2||Serious Sam 2||For the Serious Engine 2||
+|-
+|Shoot-'Em-Up Construction Kit||Monster Truck RallyWielder Of AtomsMulroney BlastSmurf HuntCiuffyAmadeus Revenge|| ||
+|-
+|Siege Editor||Dungeon Siege|| ||
+|-
+|Siege Editor 2||Dungeon Siege 2Dungeon Siege: Legends of Aranna|| ||
+|-
+|Soldat Map Maker||Soldat|| ||
+|-
+|Star Trek: Starship Creator||||Ship creator||
+|-
+|Star Trek: Starship Creator Warp II||||Ship creator||
+|-
+|StarEdit||StarCraft|| ||
+|-
+|Super Mario Maker||Super Mario Maker|| ||
+|-
+|Super Mario Maker 2||Super Mario Maker 2|| ||
+|-
+|Super Smash Bros. Brawl ||Super Smash Bros. Brawl||Stage builder||
+|-
+|Super Smash Bros. Ultimate ||Super Smash Bros. Ultimate||Stage builder||
+|-
+|SuperTux Editor||SuperTux|| ||
+|-
+|Thunder Force Construction||Thunder Force|| ||
+|-
+|Tomb Raider Level Editor||Tomb Raider: The Last Revelation|| ||
+|-
+|Total War Editor (TEd)||Total War: Shogun 2|| ||
+|-
+|Track Path Editor||Gran Turismo 6|| ||
+|-
+|UnrealEd||Unreal series, Deus Ex|| ||
+|-
+|UnrealEd 2||Thief: Deadly Shadows|| ||
+|-
+|V-Rally||Test Drive|| ||
+|-
+|Valve Hammer Editor||Half-Life 2Left 4 Dead 2Portaland other Valve games||For the Source Engine||
+|-
+|Vulcan||Marathon||Rewritten and became Forge||
+|-
+|War Engine, The|||| ||
+|-
+|War Game Construction Kit||||Released by ASCII on FM-78 in 1983||
+|-
+|Warcraft II Map Editor||Warcraft II|| ||
+|-
+|Warcraft III World Editor||Warcraft III: Reign of ChaosWarcraft III: Frozen Throne|| ||
+|-
+|Warcraft Map Editor||Warcraft|| ||
+|-
+|WarioWare D.I.Y.|||| ||
+|-
+|Warlords II Scenario Builder||Warlords IIWarlords II Deluxe|| ||
+|-
+|Warlords III Scenario Builder||Warlords III: Reign of HeroesWarlords III: Darklords Rising|| ||
+|-
+|World Builder||Command & Conquer: GeneralsCommand & Conquer: Generals – Zero HourBattle for Middle-EarthBattle for Middle-Earth 2Command & Conquer 3: Tiberium WarsCommand & Conquer 3: Kane's Wrath||For the SAGE engine||
+|-
+|WorldBuilder||Civilization IV|| ||
+|-
+|Worldcraft||Half-Life|| ||
+|-
+|WorldStudio 2000||Chaser|| ||
+|-
+|X-Ray Level Editor||S.T.A.L.K.E.R.: Shadow of Chernobyl||For the X-Ray Engine||
+|-
+|XEd||Ground Control II: Operation Exodus|| ||
+|-
+|Stormregion editor||Codename: PanzersRush for Berlin||Used for Gepard engine powered games
+|
+|-
+|Noggit
+|World of Warcraft: Wrath of the Lich King
+|Community made tool to modify Blizzard Entertainment's World of Warcraft: Wrath of the Lich King client.
+|
+|}
+
+== Generic ==
+*Gamestudio a commercial level editor for the gamestudio engine
+*Grome by Quad Software
+*GtkRadiant by id Software, Loki Software, Infinity Ward, and Treyarch
+*Future Pinball - A pinball editor.
+*QuArK, Quake Army Knife editor, for a variety of engines (such as Quake III Arena, Half-Life, Source engine games, Torque, etc.)
+*Quiver (level editor), a level editor for the original Quake engine developed solely for the Classic Macintosh Operating System by Scott Kevill, who is also the developer and administrator of GameRanger
+*Tile Studio general purpose sprite/level editor for game programmers
+*Visual Pinball
+*Stencyl includes a Scene Designer module which is used to place tiles, actors, and assign behaviors and settings.
+
+== References ==
+
+
+
+ 
+Level editors

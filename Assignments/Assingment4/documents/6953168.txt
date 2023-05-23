@@ -1,0 +1,84 @@
+Title: Municipality of the District of St. Mary's
+
+
+
+St. Mary's, officially named the Municipality of the District of St. Mary's, is a district municipality in Guysborough County, Nova Scotia, Canada. Statistics Canada classifies the district municipality as a municipal district.
+
+The district municipality occupies the western half of the county and its administrative seat is in the village of Sherbrooke.
+
+== Demographics ==
+In the 2021 Census of Population conducted by Statistics Canada, the Municipality of the District of St. Mary's had a population of  living in  of its  total private dwellings, a change of  from its 2016 population of . With a land area of , it had a population density of  in 2021.
+
+
+
+{| class="wikitable"
+|+ Population trendStatistics Canada: 1996, 2001, 2006, 2011 census
+|-
+! Census
+! Population
+! Change (%)
+|-
+| 2016
+| 2,233
+| 5.1%
+|-
+| 2011
+| 2,354
+| 9.0%
+|-
+| 2006
+|  2,587
+| 6.5%
+|-
+| 2001
+|  2,766
+| 6.3%
+|-
+| 1996
+|  2,952
+| 6.9%
+|-
+| 1991
+|  3,172
+| N/A
+|}
+
+{| class="wikitable"
+|+ Mother tongue language (2006)2006 Statistics Canada Community Profile: St. Mary's Municipal District, Nova Scotia
+|-
+! Language
+! Population
+! Pct (%)
+|-
+| English only
+|  2,475
+| 96.87%
+|-
+| Other languages
+|  70
+| 2.74%
+|-
+| French only
+|  10
+| 0.39%
+|-
+| Both English and French
+|  0
+| 0.00%
+|}
+
+
+==Electoral districts==
+The district municipality is divided into seven electoral districts for municipal representation:
+
+# Sherbrooke & Area
+# Ecum Secum & Area
+# Caledonia & Area
+# Sonora - Port Hilford 
+# Goshen & Area
+# Liscomb & Area
+# Port Bickerton & Area
+
+==See also==
+* List of municipalities in Nova Scotia
+

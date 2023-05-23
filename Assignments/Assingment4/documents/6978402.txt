@@ -1,0 +1,153 @@
+Title: Suzuki APV
+
+The Suzuki APV is a minivan/light commercial vehicle designed by Suzuki in Japan and manufactured in Indonesia by Suzuki Indomobil Motor. The abbreviation "APV" is short for All Purpose Vehicle. It is powered by either 1.5-liter or 1.6-liter inline-four G series engine delivering .
+
+The pickup truck version is called Suzuki Mega Carry in Indonesia, Super Carry Pro in Vietnam and APV Pickup elsewhere. It was discontinued in February 2019 in favour of the international version of the Carry 1.5.
+
+The APV is exported from Indonesia in April 2005 to more than 100 countries in Southeast Asia, Latin America, the Caribbean, Middle East, South Asia, North Africa and Oceania. Suzuki invested JP¥ 11.5 billion to produce a targeted 70,000 units per year in Indonesia.
+
+==Models==
+===APV===
+The original APV was launched in September 2004, initially it was available in three trim levels: A, L and X. It is still currently available in three trim levels with standard equipment as Blind Van, GA and GE. The car is only offered with 5-speed manual transmission, live axle rear suspension with leaf springs, 14" steel wheels and black colored interior.
+
+
+File:Suzuki APV (first generation) (front), Serdang.jpg|Suzuki APV GLX (pre-facelift, Malaysia)
+File:Suzuki APV (first generation) (rear), Serdang.jpg|Suzuki APV GLX (pre-facelift, Malaysia)
+File:2009 Suzuki APV (GD) van (front).jpg|Suzuki APV van (Australia)
+File:2009 Suzuki APV (GD) van (rear).jpg|Suzuki APV van (Australia)
+File:2022 Suzuki APV Blind Van in Solid White, front right side.jpg|Suzuki APV blind van
+File:Suzuki APV, Accra (P1090852).jpg|Suzuki APV blind van
+
+
+===APV Arena===
+In November 2007, Suzuki released the facelifted version in Indonesia named APV Arena (APV Type II in some countries). It offers more luxurious features with the SGX trim as the top-of-the-line variant (available with captain seat version). Interior is also changed as well and an improvement in engine performance. Available in three trim levels: GL, GX and SGX. Available in either 5-speed manual or 4-speed automatic transmission, live axle rear suspension with 3-link suspension plus coil springs, 15" alloy wheels and beige coloured interior.
+
+
+File:Suzuki APV Arena GX (front), Pandawa Beach (cropped).jpg|Suzuki APV Arena GX (facelift, Indonesia)
+File:Suzuki APV Arena GX (rear), Pandawa Beach (cropped).jpg|Suzuki APV Arena GX (facelift, Indonesia)
+
+
+===APV Arena Luxury===
+The Luxury variant of the APV Arena was launched in March 2009. It is based on the Arena SGX trim with several exterior makeover. It received a facelift in September 2014 with redesigned grille, bumpers and bigger 17" alloy wheels. Available in either 5-speed manual or 4-speed automatic transmission.
+
+
+File:2013 Suzuki APV Arena SGX Luxury 1.5 DN42V (20190623).jpg|Suzuki APV Arena SGX Luxury (pre-facelift, Indonesia)
+File:2019 Suzuki APV Arena Luxury, 2019 Jakarta Fair, Kemayoran, Central Jakarta (cropped).jpg|Suzuki APV Arena SGX Luxury (facelift, Indonesia)
+
+
+===Mega Carry===
+The pickup truck version of the original APV was launched in April 2005 for international market. It became available for its home market in Indonesia in February 2011 as the Mega Carry and was marketed alongside the smaller Carry. The truck is offered in three variants: Standard short deck, Xtra long deck and special order Box model. It is only offered with 5-speed manual transmission. The Carry, Mega Carry, and Carry Futura sales were discontinued in February 2019 and replaced by Carry 1.5.
+
+
+File:Suzuki APV 1.6 Pick up 2008.jpg|Suzuki Carry short deck (Chile)
+File:SMK Negeri 1 Amlapura (21218086740).jpg|Suzuki Mega Carry Xtra long deck (Indonesia)
+
+
+== Mitsubishi Maven ==
+The APV was also sold by Mitsubishi Motors in Indonesia from 2005 until 2009 as the Mitsubishi Maven."Mitsubishi Motors announces new multi-purpose vehicle for Indonesian market, OEM-supplied by Suzuki", Mitsubishi-Motors.com press release, September 15, 2005 It features minor exterior cosmetic changes, and was also built by Suzuki Indomobil Motor at their production plant.
+
+It was available in two trim levels, GLX and GLS; both powered by a 1,468 cc 4G15 SOHC four-cylinder petrol engine that produces  at 5,750 rpm and  of torque at 2,750 rpm. The engine was supplied by Mitsubishi's Indonesian engine production partner, PT Mitsubishi Krama Yudha Motors and Manufacturing. The engine was also used in the Colt T120SS, which in turn is a rebadged Carry Futura.
+
+
+File:2006 Mitsubishi Maven GLX 1.5 (20200228).jpg|2006 Mitsubishi Maven GLX
+File:Mitsubishi Maven GLS, Tuban.jpg|2006 Mitsubishi Maven GLS
+
+
+==Safety==
+From early 2017 onwards, the APV models in Indonesia were fitted with dual airbags. It is available as standard safety equipment in selected markets, but still lacks of ABS. For the Mega Carry version, it is only available with three-point seat belts.
+{| class="wikitable"
+|+ASEAN NCAP 2017 Suzuki Carry:
+!Vehicle Category
+! colspan="2" |SMALL TRUCK
+|-
+!Number Of Airbag
+! colspan="2" |0
+|-
+!
+!Score
+!Rating
+|-
+!Overall
+!17.14/100.00
+!
+|-
+!Adult Occupant Protection
+!9.25/36.00
+!
+|-
+|Frontal Impact
+|9.25/16.00
+| rowspan="3" |
+|-
+|Side Impact
+!-
+|-
+|Head Protection Technology
+!-
+|-
+!Child Occupant Protection
+!-
+!-
+|-
+|Frontal Impact
+!-
+! rowspan="2" |Not Assessed
+|-
+|Side Impact
+!-
+|-
+!Safety Assist
+!-
+!
+|-
+|Effective Braking & Avoidance
+!-
+| rowspan="4" |
+|-
+|Seatbelt Reminders
+!-
+|-
+|Blind Spot Technology
+!-
+|-
+|Advanced SATs
+!-
+|}
+
+{| class="wikitable" style="text-align:center"
+| colspan="2" |ANCAP 2008 Suzuki APV
+|-
+|ANCAP Safety Rating
+|
+|-
+|Frontal Offset
+|7.54/16
+|-
+|Side Impact
+|16.00/16
+|-
+|Pole
+|Not Assessed
+|-
+|Whiplash Protection
+|Not Assessed
+|- 
+|Pedestrian Protection
+|Marginal 
+|-
+|ESC
+|Not Available
+|-
+|Seat Belt Reminders
+|0.0/3
+|-
+|Overall Score
+|23.54/37
+|-
+|Rating Year/Datestamp:
+|2008
+|-
+|Airbags
+|Dual Frontal
+|}
+

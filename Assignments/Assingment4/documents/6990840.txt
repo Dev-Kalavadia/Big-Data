@@ -1,0 +1,76 @@
+Title: Hypercomplex manifold
+In differential geometry, a hypercomplex manifold is a manifold with the tangent bundle
+equipped with an action by the algebra of quaternions
+in such a way that the quaternions I, J, K
+define integrable almost complex structures.
+
+If the almost complex structures are instead not assumed to be integrable, the manifold is called quaternionic, or almost hypercomplex.
+
+== Examples ==
+
+Every hyperkähler manifold is also hypercomplex.
+The converse is not true. The Hopf surface
+:\bigg({\mathbb H}\backslash 0\bigg)/{\mathbb Z} 
+(with {\mathbb Z} acting
+as a multiplication by a quaternion q, |q|>1) is
+hypercomplex, but not Kähler,
+hence not hyperkähler either.
+To see that the Hopf surface is not Kähler,
+notice that it is diffeomorphic to a product
+S^1\times S^3, hence its odd cohomology
+group is odd-dimensional. By Hodge decomposition,
+odd cohomology of a compact Kähler manifold
+are always even-dimensional. In fact Hidekiyo Wakakuwa proved
+
+ . 
+ that on a compact hyperkähler manifold \ b_{2p+1}\equiv 0  \  mod \ 4. 
+Misha Verbitsky has shown that any compact
+hypercomplex manifold admitting a Kähler structure is also hyperkähler.
+
+In 1988, left-invariant hypercomplex structures on some compact Lie groups
+were constructed by the physicists Philippe Spindel, Alexander Sevrin, Walter Troost, and Antoine Van Proeyen. In 1992, Dominic Joyce 
+rediscovered this construction, and gave a complete classification of 
+left-invariant hypercomplex structures on compact Lie groups. 
+Here is the complete list.
+
+:
+T^4, SU(2l+1), T^1 \times SU(2l), T^l \times SO(2l+1),
+ 
+:T^{2l}\times SO(4l), T^l \times Sp(l), T^2 \times E_6, 
+:
+T^7\times E^7, T^8\times E^8, T^4\times F_4, T^2\times G_2
+
+
+where T^i denotes an i-dimensional compact torus.
+
+It is remarkable that any compact Lie group becomes
+hypercomplex after it is multiplied by a sufficiently
+big torus.
+
+== Basic properties ==
+
+Hypercomplex manifolds as such were studied by Charles Boyer in 1988. He also proved that in real dimension 4, the only compact hypercomplex
+manifolds are the complex torus T^4, the Hopf surface and 
+the K3 surface.
+
+Much earlier (in 1955) Morio Obata studied affine connection associated with almost hypercomplex structures (under the former terminology of Charles Ehresmann. of almost quaternionic structures). His construction leads to what Edmond Bonan called the Obata connection. which is torsion free, if and only if, "two" of the almost complex structures I, J, K are integrable and in this case the manifold is hypercomplex.
+
+== Twistor spaces ==
+There is a 2-dimensional sphere of quaternions
+L\in{\mathbb H} satisfying L^2=-1.
+Each of these quaternions gives a complex
+structure on a hypercomplex manifold M. This
+defines an almost complex structure on the manifold
+M\times S^2, which is fibered over
+{\mathbb C}P^1=S^2 with fibers identified with (M, L). 
+This complex structure is integrable, as follows
+from Obata's theorem (this was first explicitly proved by 
+Dmitry Kaledin). This complex manifold
+is called the twistor space of M.
+If M is {\mathbb H}, then its twistor space
+is isomorphic to {\mathbb C}P^3\backslash {\mathbb C}P^1.
+
+==See also==
+* Quaternionic manifold
+* Hyperkähler manifold
+

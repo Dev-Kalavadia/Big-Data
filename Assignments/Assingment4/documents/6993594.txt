@@ -1,0 +1,1143 @@
+Title: Cape Canaveral Space Launch Complex 40
+
+
+Space Launch Complex 40 (SLC-40), previously Launch Complex 40 (LC-40) is a launch pad for rockets located at the north end of Cape Canaveral Space Force Station, Florida.
+
+The launch pad was used by the United States Air Force for 55 Titan III and Titan IV launches between 1965 and 2005.  The facility underwent multiple upgrades including the design and construction of towers with retractable and foldable platforms for vehicle assembly, instrumentation and monitoring. Chalhoub, Michel S. (1989), Design and Dynamic Analysis of Retractable Platform Towers at PAD-40, ParsonsLIB-9812R03. 
+
+After 2007, the US Air Force leased the complex to SpaceX to launch the Falcon 9 rocket.
+As of August 2022, there have been  93 launches of the Falcon 9 from the complex. The site was heavily damaged following the September 2016 Falcon 9 flight 29 incident, due to a catastrophic failure during a static fire test. The complex was repaired and returned to operational status in December 2017 for the CRS-13 mission.
+
+== Launch history ==
+
+=== Rocket launches ===
+
+
+
+== Titan ==
+
+thumb|Launch Complex 40 with Titan rocket mobile service tower in 2007, prior to demolition to prepare for the construction of the SpaceX Falcon launch pad.
+
+The first launch from SLC-40 (initially named LC-40) was the maiden flight of the Titan IIIC (June 18, 1965), carrying two transtage upper stages to test the functionality of the vehicle.
+
+Two interplanetary missions were launched from the pad:
+* The failed Mars Observer spacecraft (September 25, 1992)
+* The Cassini–Huygens mission to Saturn (October 15, 1997)
+
+A total of 26 Titan IIICs, 8 Titan 34Ds, 4 Commercial Titan IIIs and 17 Titan IVs were launched between 1965 and 2005.  The final Titan launch from SLC-40 was the Lacrosse-5 reconnaissance satellite carried on a Titan IV-B on April 30, 2005.
+
+The tower was disassembled during late 2007 and early 2008. Demolition of the Mobile Service Structure (MSS), by means of a controlled explosion, occurred on April 27, 2008, by Controlled Demolition, Inc.
+
+
+== SpaceX - Falcon 9 ==
+
+
+
+
+On April 25, 2007, the US Air Force leased the complex to SpaceX to launch the Falcon 9 rocket.  During April 2008, construction started on the ground facilities necessary to support the launch of the SpaceX Falcon 9 rocket. Renovations included installation of new liquid oxygen and kerosene tanks and construction of a hangar for rocket and payload preparation. The spherical liquid oxygen (LOX) tank was acquired from NASA.  This LOX tank was previously used at LC-34.
+
+The first Falcon 9 rocket arrived at SLC-40 in late 2008, and was first erected on January 10, 2009. It successfully reached orbit on its maiden launch on June 4, 2010, carrying a dummy payload qualification unit.
+
+SLC-40 was the primary launch facility of the original SpaceX Dragon, a reusable automated cargo vehicle which was used to provide two-way logistics to and from the International Space Station; a role previously filled by the Space Shuttle until its retirement in 2011. SpaceX successfully launched the first test flight for the Dragon 1 from SLC-40 on December 8, 2010. Its first attempt to launch to and dock with the International Space Station successfully occurred on May 22, 2012, following an abort after engine ignition three days earlier. The upgraded SpaceX Dragon 2 launches from the nearby Kennedy Space Center LC-39A to allow for late loading of supplies through the Crew Access Arm.
+
+SpaceX modified the launch pad in 2013 in order to support launches of the Falcon 9 v1.1 launch vehicle, a 60% heavier rocket with 60% more thrust on realigned engines and 60% longer fuel tank than the v1.0 version of the Falcon 9, requiring a modified transporter/erector.
+
+In early 2023, SpaceX confirmed there were plans to have a crew access tower built and ready to handle crew and cargo missions by the third quarter of 2023.
+
+==Accidents and incidents==
+On September 1, 2016 a Falcon 9 rocket was destroyed by an explosion that originated around the rocket's second stage while preparing for a routine static fire test on the SLC-40 launch pad. The explosion occurred during loading of liquid oxygen eight minutes prior to igniting the first stage engine as part of the test.
+
+A static fire is a test performed prior to launch to verify that both the launch vehicle and the ground systems are ready for flight. The test is identical to a launch until the moment of liftoff but instead of releasing the vehicle shortly after first stage engine ignition, the engines fire for a few seconds and then shut down. The second stage is fueled to test the interaction with the first stage and ground systems but remains otherwise inactive. After completion of a static fire test, the propellant and oxidizer are unloaded, the launch vehicle is lowered and the launch vehicle is returned to the hangar pending review and analysis of the data from the static fire test.  SpaceX performs static fire tests to ensure that ground systems, as well as the launch vehicle, will perform nominally.
+
+The static fire explosion resulted in the total loss of the rocket. The rocket's payload, the AMOS-6 satellite, was on-board and was also destroyed. In addition, the explosion resulted in extensive damage to the launch pad. It was reported to have cracked nearby windows and to have been felt up to 40 miles away. There were no personnel on the pad and no injuries from the explosion were reported.
+
+Repairs to and modernization of the launch pad began in early 2017 following completion of accident investigation and environmental cleanup. SLC-40 returned to service with the launch of CRS-13 on 15 December 2017. The pad was reportedly in good condition after the launch.  The initial launch of a Falcon Heavy from pad 39A was contingent upon the successful reactivation of pad 40. Resumed launches from pad 40 freed up pad 39A for needed final modifications without affecting the SpaceX launch tempo.
+
+== List of launches==
+As of March 29, 2023
+
+=== Past launches ===
+{| class="wikitable"
+|- class="hintergrundfarbe8"
+! Date
+! Time (UTC)
+! Rocket Type
+! Serial Number
+! Mission / Payload
+|-
+| June 18, 1965
+| 14:00
+| Titan III
+| 3C-7
+| Transtage 5
+|-
+| October 15, 1965
+| 17:24
+| Titan III
+| 3C-4
+| OV-2
+|-
+| November 3, 1966
+| 13:50
+| Titan III
+| 3C-9
+| OV-4 / Gemini B
+|-
+| April 8, 1970
+| 10:50
+| Titan III
+| 3C-18
+| Vela 6A / Vela 6B
+|-
+| November 6, 1970
+| 10:35
+| Titan III
+| 3C-19
+| IMEWS 1
+|-
+| May 5, 1971
+| 07:43
+| Titan III
+| 3C-20
+| IMEWS 2
+|-
+| November 3, 1971
+| 03:09
+| Titan III
+| 3C-21
+| DSCS II F-1 / DSCS II F-2
+|-
+| March 1, 1972
+| 09:39
+| Titan III
+| 3C-22
+| IMEWS 3
+|-
+| June 13, 1973
+| 07:14
+| Titan III
+| 3C-24
+| IMEWS 4
+|-
+| December 13, 1973
+| 23:57
+| Titan III
+| 3C-26
+| DSCS II F-3 / DSCS II F-4
+|-
+| May 30, 1974
+| 13:00
+| Titan III
+| 3C-27
+| ATS 6
+|-
+| May 20, 1975
+| 14:03
+| Titan III
+| 3C-25
+| DSCS II F-5 / DSCS II F-6
+|-
+| December 14, 1975
+| 05:15
+| Titan III
+| 3C-29
+| IMEWS 5
+|-
+| March 15, 1975
+| 01:25
+| Titan III
+| 3C-30
+| LES 8 / LES 9 / Solrad 11A / Solrad 11B
+|-
+| June 26, 1976
+| 03:00
+| Titan III
+| 3C-28
+| IMEWS 6
+|-
+| February 6, 1977
+| 06:00
+| Titan III
+| 3C-23
+| IMEWS 7
+|-
+| May 12, 1977
+| 14:26
+| Titan III
+| 3C-32
+| DSCS II F-7 / DSCS II F-8
+|-
+| March 25, 1978
+| 18:09
+| Titan III
+| 3C-35
+| DSCS II F-9 / DSCS II F-10
+|-
+| June 10, 1978
+| 19:12
+| Titan III
+| 3C-33
+| Chalet 1
+|-
+| December 14, 1978
+| 00:43
+| Titan III
+| 3C-36
+| DSCS II F-11 / DSCS II F-12
+|-
+| June 10, 1979
+| 13:39
+| Titan III
+| 3C-31
+| IMEWS 10
+|-
+| October 1, 1979
+| 11:22
+| Titan III
+| 3C-34
+| Chalet 2
+|-
+| November 21, 1979
+| 21:36
+| Titan III
+| 3C-37
+| DSCS II F-13 / DSCS II F-14
+|-
+| March 16, 1981
+| 19:24
+| Titan III
+| 3C-40
+| IMEWS 11
+|-
+| October 31, 1981
+| 09:22
+| Titan III
+| 3C-39
+| Chalet 3
+|-
+| March 6, 1982
+| 19:25
+| Titan III
+| 3C-38
+| IMEWS 13
+|-
+| October 30, 1982
+| 03:05
+| Titan 34D
+| 34D-1 IUS
+| DSCS II F-15 / DSCS III F-1
+|-
+| January 31, 1984
+| 03:08
+| Titan 34D
+| 34D-10 Transtage
+| Chalet 4
+|-
+| April 14, 1984
+| 16:52
+| Titan 34D
+| 34D-11 Transtage
+| DSP MOS/PIM
+|-
+| December 22, 1984
+| 00:02
+| Titan 34D
+| 34D-13 Transtage
+| DSP Phase 2
+|-
+| November 29, 1987
+| 03:28
+| Titan 34D
+| 34D-8 Transtage
+| DSP Phase 2
+|-
+| September 2, 1988
+| 12:05
+| Titan 34D
+| 34D-3 Transtage
+| Chalet 5
+|-
+| May 10, 1989
+| 19:47
+| Titan 34D
+| 34D-16 Transtage
+| Chalet 6
+|-
+| September 4, 1989
+| 05:54
+| Titan 34D
+| 34D-2 Transtage
+| DSCS II F-16 / DSCS III F-4
+|-
+| January 1, 1990
+| 00:07
+| Commercial Titan
+| CT-1
+| Skynet 4A / JCSAT 2
+|-
+| March 14, 1990
+| 11:52
+| Commercial Titan
+| CT-2
+| Intelsat 6 F-3
+|-
+| June 23, 1990
+| 11:19
+| Commercial Titan
+| CT-3
+| Intelsat 6 F-4
+|-
+| September 25, 1992
+| 17:05
+| Commercial Titan
+| CT-4
+| Mars Observer
+|-
+| February 7, 1994
+| 21:47
+| Titan IV
+| 401A K-10 Centaur TC-12
+| Milstar 1-01
+|-
+| December 22, 1994
+| 22:19
+| Titan IV
+| 402A K-14 IUS
+| DSP-1 Block 14 F17
+|-
+| May 14, 1995
+| 13:45
+| Titan IV
+| 401A K-23 Centaur TC-17
+| Orion 1
+|-
+| November 6, 1995
+| 05:15
+| Titan IV
+| 401A K-21 Centaur TC-13
+| Milstar 2
+|-
+| July 3, 1996
+| 00:31
+| Titan IV
+| 405A K-2
+| SDS-B4
+|-
+| February 23, 1997
+| 20:20
+| Titan IV
+| 402B K-24 IUS
+| DSP-1 Block 18 F18
+|-
+| October 15, 1997
+| 08:43
+| Titan IV
+| 401B K-33 Centaur
+| Cassini-Huygens
+|-
+| May 9, 1998
+| 01:38
+| Titan IV
+| 401B K-25 Centaur TC-18
+| Orion 2
+|-
+| April 30, 1999
+| 16:30
+| Titan IV
+| 401B K-26 Centaur TC-14
+| Milstar 2 DFS-3
+|-
+| May 8, 2000
+| 16:01
+| Titan IV
+| 402B K-29 IUS
+| DSP-1 Block 18 F20
+|-
+| February 27, 2001
+| 21:20
+| Titan IV
+| 401B K-30 Centaur TC-22
+| Milstar 2 DFS-4
+|-
+| August 6, 2001
+| 07:28
+| Titan IV
+| 402B IUS
+| DSP-1 Block 18 F21
+|-
+| January 16, 2002
+| 00:30
+| Titan IV
+| 401B Centaur TC-19
+| Milstar 2 DFS-5
+|-
+| April 8, 2003
+| 13:43
+| Titan IV
+| 401B Centaur TC-23
+| Milstar 6
+|-
+| September 9, 2003
+| 04:29
+| Titan IV
+| 401B Centaur TC-20
+| NROL-19
+|-
+| February 24, 2004
+| 18:50
+| Titan IV
+| 402B IUS
+| DSP-1 Block 18 F22
+|-
+| April 30, 2005
+| 00:50
+| Titan IV
+| 405B IUS
+| USA 182
+|-
+| June 4, 2010
+| 18:45
+|nowrap| Falcon 9 v1.0
+| F9-1
+| Dragon Spacecraft Qualification Unit
+|-
+| December 8, 2010
+| 05:43
+| Falcon 9 v1.0
+| F9-2
+| Dragon COTS-1
+|-
+| May 22, 2012
+| 07:44
+| Falcon 9 v1.0
+| F9-3
+| Dragon COTS-2
+|-
+| October 8, 2012
+| 00:35
+| Falcon 9 v1.0
+| F9-4
+| Dragon CRS-1
+|-
+| March 1, 2013
+| 15:10
+| Falcon 9 v1.0
+| F9-5
+| Dragon CRS-2
+|-
+| December 3, 2013
+| 22:41
+| Falcon 9 v1.1
+| F9-7
+| SES 8
+|-
+| January 6, 2014
+| 22:06
+| Falcon 9 v1.1
+| F9-8
+| Thaicom 6
+|-
+| April 18, 2014
+| 19:25
+| Falcon 9 v1.1
+| F9-9
+| Dragon CRS-3
+|-
+| July 14, 2014
+| 15:15
+| Falcon 9 v1.1
+| F9-10
+| Six Telecommunication satellites for Orbcomm
+|-
+| August 5, 2014
+| 08:00
+| Falcon 9 v1.1
+| F9-11
+| AsiaSat 8
+|-
+| September 7, 2014
+| 05:00
+| Falcon 9 v1.1
+| F9-12
+| AsiaSat 6
+|-
+|nowrap| September 21, 2014
+| 05:52
+| Falcon 9 v1.1
+| F9-13
+| Dragon CRS-4
+|-
+| January 10, 2015
+| 09:47
+| Falcon 9 v1.1
+| F9-14
+| Dragon CRS-5
+|-
+| February 11, 2015
+| 23:03
+| Falcon 9 v1.1
+| F9-15
+| DSCOVR
+|-
+| March 2, 2015
+| 03:50
+| Falcon 9 v1.1
+| F9-16
+| Eutelsat 115 West B, ABS 3A
+|-
+| April 14, 2015
+| 20:10
+| Falcon 9 v1.1
+| F9-17
+| Dragon CRS-6
+|-
+| April 27, 2015
+| 23:03
+| Falcon 9 v1.1
+| F9-18
+| TurkmenAlem52E / MonacoSat 1
+|-
+| June 28, 2015
+| 14:21
+| Falcon 9 v1.1
+| F9-19
+| Dragon CRS-7 with IDA-1
+|-
+| December 22, 2015
+| 01:29
+| Falcon 9 FT
+| F9-20
+| Eleven Telecommunication satellites for Orbcomm
+|-
+| March 4, 2016
+| 23:35
+| Falcon 9 FT
+| F9-22
+| Communication satellite SES-9
+|-
+| April 8, 2016
+| 20:43
+| Falcon 9 FT
+| F9-23
+| Dragon CRS-8 with the inflatable ISS-Module BEAM in its unpressurized cargo section in the trunk
+|-
+| May 6, 2016
+| 05:21
+| Falcon 9 FT
+| F9-24
+| Japanese Communication satellite JCSAT-14
+|-
+| May 27, 2016
+| 21:39
+| Falcon 9 FT
+| F9-25
+| Communication satellite Thaicom 8
+|-
+| June 15, 2016
+| 14:29
+| Falcon 9 FT
+| F9-26
+| Communication satellites Eutelsat 117 West B and ABS 2A
+|-
+| July 18, 2016
+| 04:45
+| Falcon 9 FT
+| F9-27
+| Dragon CRS-9 with IDA-2
+|-
+| August 14, 2016
+| 05:26
+| Falcon 9 FT
+| F9-28
+| Japanese Communication satellite JCSAT-16
+|-
+| December 15, 2017
+| 15:36
+| Falcon 9 FT
+| F9-45
+| Dragon CRS-13
+|-
+| January 8, 2018
+| 01:00
+| Falcon 9 B4
+| F9-47
+| Zuma
+|-
+| January 31, 2018
+| 21:25
+| Falcon 9 FT
+| F9-48
+| GovSat-1
+|-
+| March 6, 2018
+| 05:33
+| Falcon 9 B4
+| F9-50
+| Hispasat 30W-6
+|-
+| April 2, 2018
+| 20:30
+| Falcon 9 B4
+| F9-52
+| Dragon CRS-14
+|-
+| April 18, 2018
+| 22:51
+| Falcon 9 B4
+| F9-53
+| TESS
+|-
+| June 4, 2018
+| 04:45
+| Falcon 9 B4
+| F9-56
+| SES-12
+|-
+| June 29, 2018
+| 09:42
+| Falcon 9 B4
+| F9-57
+| Dragon CRS-15
+|-
+| July 22, 2018
+| 05:50
+| Falcon 9 B5
+| F9-58
+| Telstar 19V
+|-
+| August 7, 2018
+| 05:18
+| Falcon 9 B5
+| F9-60
+| Telkom-4 (Merah Putih)
+|-
+| September 10, 2018
+| 04:45
+| Falcon 9 B5
+| F9-61
+| Telstar 18V
+|-
+| December 5, 2018
+| 18:16
+| Falcon 9 B5
+| F9-65
+| Dragon CRS-16
+|-
+| December 23, 2018
+| 13:51
+| Falcon 9 B5
+| F9-66
+| GPS III SV01
+|-
+| February 22, 2019
+| 01:45
+| Falcon 9 B5
+| F9-68
+| Nusantara Satu / S5 (Smallsat) / Beresheet
+|-
+| May 4, 2019
+| 06:48
+| Falcon 9 B5
+| F9-70
+| Dragon CRS-17
+|-
+| May 24, 2019
+| 02:30
+| Falcon 9 B5
+| F9-71
+| Starlink 1
+|-
+| July 25, 2019
+| 22:02
+| Falcon 9 B5
+| F9-73
+| Dragon CRS-18
+|-
+| August 6, 2019
+| 23:23
+| Falcon 9 B5
+| F9-74
+| AMOS 17
+|-
+| November 11, 2019
+| 14:56
+| Falcon 9 B5
+| F9-75
+| Starlink 1 (v1.0)
+|-
+| December 5, 2019
+| 17:29
+| Falcon 9 B5
+| F9-76
+| Dragon CRS-19
+|-
+| December 17, 2019
+| 00:10
+| Falcon 9 B5
+| F9-77
+| JCSAT-18 / Kacific 1
+|-
+| January 7, 2020
+| 02:19
+| Falcon 9 B5
+| F9-78
+| Starlink 2 (v1.0)
+|-
+| January 29, 2020
+| 14:06
+| Falcon 9 B5
+| F9-80
+| Starlink 3 (v1.0)
+|-
+| February 17, 2020
+| 15:05
+| Falcon 9 B5
+| F9-81
+| Starlink 4 (v1.0)
+|-
+| March 7, 2020
+| 04:50
+| Falcon 9 B5
+| F9-82
+| Dragon CRS-20
+|-
+| June 4, 2020
+| 01:25
+| Falcon 9 B5
+| F9-86
+| Starlink 7 (v1.0)
+|-
+| June 13, 2020
+| 09:21
+| Falcon 9 B5
+| F9-87
+| Starlink 8 (v1.0) / SkySat 16–18
+|-
+| June 30, 2020
+| 20:10
+| Falcon 9 B5
+| F9-88
+| GPS IIIA-03
+|-
+| July 20, 2020
+| 21:30
+| Falcon 9 B5
+| F9-89
+| Anasis-II
+|-
+| August 18, 2020
+| 14:31
+| Falcon 9 B5
+| F9-91
+| Starlink 10 (v1.0) / SkySat 19–21
+|-
+| August 30, 2020
+| 23:19
+| Falcon 9 B5
+| F9-92
+| SAOCOM 1B / GNOMES 1 / Tyvak 0172
+|-
+| October 24, 2020
+| 15:31
+| Falcon 9 B5
+| F9-96
+| Starlink 14 (v1.0)
+|-
+| November 5, 2020
+| 23:24
+| Falcon 9 B5
+| F9-97
+| GPS IIIA-4
+|-
+| November 25, 2020
+| 02:13
+| Falcon 9 B5
+| F9-100
+| Starlink 15 (v1.0)
+|-
+| December 13, 2020
+| 17:30
+| Falcon 9 B5
+| F9-102
+| SXM-7
+|-
+| January 8, 2021
+| 02:15
+| Falcon 9 B5
+| F9-104
+| Türksat 5A
+|-
+| January 24, 2021
+| 15:00
+| Falcon 9 B5
+| F9-106
+| Transporter-1
+|-
+| February 4, 2021
+| 06:19
+| Falcon 9 B5
+| F9-107
+| Starlink V1.0-L18
+|-
+| February 15, 2021
+| 03:59
+| Falcon 9 B5
+| F9-108
+| Starlink V1.0-L19
+|-
+| March 11, 2021
+| 08:13
+| Falcon 9 B5
+| F9-110
+| Starlink V1.0-L20
+|-
+| March 24, 2021
+| 08:28
+| Falcon 9 B5
+| F9-112
+| Starlink V1.0-L22
+|-
+| April 7, 2021
+| 16:34
+| Falcon 9 B5
+| F9-113
+| Starlink V1.0-L23
+|-
+| April 29, 2021
+| 03:44
+| Falcon 9 B5
+| F9-115
+| Starlink V1.0-L24
+|-
+| May 9, 2021
+| 07:42
+| Falcon 9 B5
+| F9-117
+| Starlink V1.0-L27
+|-
+| May 26, 2021
+| 18:59
+| Falcon 9 B5
+| F9-119
+| Starlink V1.0-L28
+|-
+| June 6, 2021
+| 04:26
+| Falcon 9 B5
+| F9-121
+| SXM-8
+|-
+| June 17, 2021
+| 16:09
+| Falcon 9 B5
+| F9-122
+| GPS IIIA-05
+|-
+| June 30, 2021
+| 19:31
+| Falcon 9 B5
+| F9-123
+| Transporter-2
+|-
+| November 13, 2021
+| 12:19
+| Falcon 9 B5
+| F9-128
+| Starlink Group 4-1
+|-
+| December 2, 2021
+| 23:12
+| Falcon 9 B5
+| F9-130
+| Starlink Group 4-3
+|-
+| December 19, 2021
+| 03:58
+| Falcon 9 B5
+| F9-133
+| Türksat 5B
+|-
+| January 13, 2022
+| 15:25
+| Falcon 9 B5
+| F9-136
+| Transporter-3
+|-
+|January 31, 2022
+|23:11
+|Falcon 9 B5
+|F9-138
+|CSG-2
+|-
+|February 21, 2022
+|14:44
+|Falcon 9 B5
+|F9-141
+|Starlink Group 4-8
+|-
+|March 9, 2022
+|13:45
+|Falcon 9 B5
+|F9-144
+|Starlink Group 4-10
+|-
+|March 19, 2022
+|04:22
+|Falcon 9 B5
+|F9-145
+|Starlink Group 4-12
+|-
+|April 1, 2022
+|12:47
+|Falcon 9 B5
+|F9-146
+|Transporter-4
+|-
+|April 21, 2022
+|17:51
+|Falcon 9 B5
+|F9-149
+|Starlink Group 4-14
+|-
+|April 29, 2022
+|21:27
+|Falcon 9 B5
+|F9-151
+|Starlink Group 4-16
+|-
+|May 14, 2022
+|20:40
+|Falcon 9 B5
+|F9-154
+|Starlink Group 4-15
+|-
+|May 25, 2022
+|18:35
+|Falcon 9 B5
+|F9-156
+|Transporter-5
+|-
+|June 8, 2022
+|21:04
+|Falcon 9 B5
+|F9-157
+|Nilesat-301
+|-
+|June 19, 2022
+|04:27
+|Falcon 9 B5
+|F9-160
+|Globalstar FM15
+|-
+|June 29, 2022
+|21:04
+|Falcon 9 B5
+|F9-161
+|SES-22
+|-
+|July 7, 2022
+|13:11
+|Falcon 9 B5
+|F9-162
+|Starlink Group 4-21
+|-
+|July 17, 2022
+|14:20
+|Falcon 9 B5
+|F9-165
+|Starlink Group 4-22
+|-
+|August 4, 2022
+|23:08
+|Falcon 9 B5
+|F9-168
+|KPLO
+|-
+|August 19, 2022
+|19:21
+|Falcon 9 B5
+|F9-171
+|Starlink Group 4-27
+|-
+|August 28, 2022
+|03:41
+|Falcon 9 B5
+|F9-172
+|Starlink Group 4-23
+|-
+|September 5, 2022
+|02:09
+|Falcon 9 B5
+|F9-174
+|Starlink Group 4-20
+|-
+|September 19, 2022
+|00:18
+|Falcon 9 B5
+|F9-176
+|Starlink Group 4-34
+|-
+|September 24, 2022
+|23:32
+|Falcon 9 B5
+|F9-177
+|Starlink Group 4-35
+|-
+|October 8, 2022
+|23:05
+|Falcon 9 B5
+|F9-180
+|Galaxy 33 & 34
+|-
+|October 15, 2022
+|05:22
+|Falcon 9 B5
+|F9-181
+|Hotbird 13F
+|-
+|October 20, 2022
+|14:50
+|Falcon 9 B5
+|F9-182
+|Starlink Group 4-36
+|-
+|November 3, 2022
+|05:22
+|Falcon 9 B5
+|F9-184
+|Hotbird 13G
+|-
+|November 12, 2022
+|16:06
+|Falcon 9 B5
+|F9-185
+|Galaxy 31 & 32
+|-
+|November 23, 2022
+|02:57
+|Falcon 9 B5
+|F9-186
+|Eutelsat 10B
+|-
+|December 11, 2022
+|07:38
+|Falcon 9 B5
+|F9-189
+|Hakuto-R Mission 1
+|-
+|December 16, 2022
+|22:48
+|Falcon 9 B5
+|F9-191
+|O3b mPOWER 1 & 2
+|-
+|December 28, 2022
+|09:34
+|Falcon 9 B5
+|F9-193
+|Starlink Group 5-1
+|-
+|January 3, 2023
+|14:56
+|Falcon 9 B5
+|F9-195
+|Transporter-6
+|-
+|January 10, 2023
+|04:50
+|Falcon 9 B5
+|F9-196
+|OneWeb L16
+|-
+|January 18, 2023
+|12:24
+|Falcon 9 B5
+|F9-197
+|GPS III-06
+|-
+|January 26, 2023
+|09:32
+|Falcon 9 B5
+|F9-199
+|Starlink Group 5-2
+|-
+|February 7, 2023
+|01:32
+|Falcon 9 B5
+|F9-202
+|Amazonas Nexus
+|-
+|February 12, 2023
+|05:10
+|Falcon 9 B5
+|F9-203
+|Starlink Group 5-4
+|-
+|February 18, 2023
+|03:59
+|Falcon 9 B5
+|F9-205
+|Inmarsat-6 F2
+|-
+|February 27, 2023
+|23:13
+|Falcon 9 B5
+|F9-206
+|Starlink Group 6-1
+|-
+|March 9, 2023
+|19:13
+|Falcon 9 B5
+|F9-209
+|OneWeb L17
+|-
+|March 17, 2023
+|23:38
+|Falcon 9 B5
+|F9-212
+|SES-18 & SES-19
+|-
+|March 24, 2023
+|15:43
+|Falcon 9 B5
+|F9-213
+|Starlink Group 5-5
+|-
+|March 29, 2023
+|20:01
+|Falcon 9 B5
+|F9-214
+|Starlink Group 5-10
+|}
+
+=== Upcoming launches ===
+{| class="wikitable"
+!Date
+!Rocket Type
+!Mission / Payload
+|-
+|April 7, 2023
+|Falcon 9 B5
+|Intelsat 40e/TEMPO
+|-
+|April, 2023
+|Falcon 9 B5
+|Starlink Group 6-2
+|-
+|May, 2023
+|Falcon 9 B5
+|Starlink Group 2-2
+|}
+
+== References ==
+
+
+
+
+
+
+
+Category:Cape Canaveral Space Force Station
+Category:Launch complexes of the United States Space Force
+Category:SpaceX facilities
+Category:1965 establishments in Florida

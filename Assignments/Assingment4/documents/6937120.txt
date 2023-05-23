@@ -1,0 +1,56 @@
+Title: Historic eruptions of Mount Fuji
+
+thumb|300px|Mount Fuji
+
+Mount Fuji is an active volcano which is the tallest peak in Japan. The latest eruption of Mount Fuji was triggered by an earthquake in 1707.
+The mountain as it appears now is known as the "New Fuji volcano", which began to erupt about 10,000 years ago. Under the "New Fuji volcano" lies the "Old Fuji volcano", which was active between 100,000 years ago and 10,000 years ago, and the "Komitake volcano", which became active 700,000 years ago.
+
+==Prehistory==
+=== Komitake and Old Fuji ===
+There has been volcanic activity in the vicinity of Mount Fuji for several million years. The earliest geologically known volcano was  that became active 700,000 years ago. Another volcano to the south-east of Mount Fuji—known as —was also highly active throughout the period. The peak of Komitake is about  above sea-level on the north face of Mount Fuji (at the fifth station).
+
+Komitake entered another period of activity around 100,000 years ago. This created a new volcano known as  that reached a height of . It created many explosive eruptions that threw out large amounts of scoria, volcanic ash and lava.
+
+== New Fuji ==
+Following the Old Fuji period, there were about 4,000 years of inactivity, ending at around 5,000 years ago, when Mount Fuji became active again; this period is known as , and continues to the present day. Eruptions of New Fuji exhibit phenomena such as lava flows, magma, scoria, volcanic ash, collapses and side eruptions, leading it to be called "a department store of eruptions". Ash from New Fuji is often black, and eruptions are new in terms of geological layers. Valuable data on the activity of Mount Fuji is recorded in Japanese historical documents dating from the 8th century onwards. It exhibits a range of representative eruptions.
+
+=== The Gotemba mud flow ===
+About 2,300 years ago the east face of the volcano collapsed and lahars flowed down to the Gotemba area as far as the Ashigara plain in the east and the Suruga bay across Mishima city in the south. This incident is now called the . Liquid mud piled up over an area as wide as the city area of Mishima.
+
+=== Jōgan eruption ===
+In 864 (the 6th year of the Jōgan era) there was an eruption on the north-east side of Mount Fuji, which produced a great amount of lava.
+* 864 (Jōgan 6, 5th month): Mount Fuji erupted for 10 days, and it ejected from its summit an immense quantity of cinders and ash which fell back to earth as far away as the ocean at lake. Many people perished and many homes were destroyed. The volcanic eruption began on the side of Fuji-san closest to Mount Asama, throwing cinders and ash as far away as Kai province. Some of the lava filled up a large lake  which existed at the time, dividing it into two lakes,  and . This is known as the , and at present is covered by the dense Aokigahara forest.
+
+=== Hōei eruption ===
+thumb|right|The Hoei Crater (on the peak's right) was the location of the 1707 eruption.
+The latest eruption, in 1707 (the 4th year of the Hōei era), was known as the great Hōei eruption. It followed several weeks after the Great Hōei earthquake, an 8.7 on the Richter scale. The earthquake severely damaged the city of Osaka, but more than that, it created enough seismic activity to compress the magma chamber 20 km deep in the inactive Mt. Fuji. Due to the compression of the magma chamber, basaltic lava rose from the bottom to the higher dacitic magma chamber at 8 km deep. The mixing of the two different types of magma caused a Plinian eruption to occur. Previous to the Hoei, another earthquake named Genroku had struck Japan in 1703. The earthquake affected both Kanagawa and Shizuoka prefectures, and was measured as an 8.2 on the Richter Scale. The Genroku earthquake had a similar effect on Mt. Fuji as Hoei but with less severity. It clamped the dike of the mountain at 8 km to the surface (where the dacitic magma resides), as well as the basaltic chamber at 20 km deep. Many articles found a correlation between the two earthquakes, arriving at the conclusion that without either earthquake the Hoei eruption would not have happened.
+
+* November 11, 1707 (Hōei 4, 14th day of the 10th month): The city of Osaka suffers tremendously because of a very violent earthquake.
+* December 16, 1707 (Hōei 4, 23rd day of the 11th month): An eruption of Mount Fuji; the cinders and ash fell in Izu, Kai, Sagami, and Musashi.Shikuoka University page; see Japanese Wikipedia.  This eruption was remarkable, as it spread a vast amount of volcanic ash and scoria over a region as far as Edo (now Tokyo), which was almost 100 km (62.137 miles) away.
+
+=== Records of eruption ===
+Sixteen eruptions of New Fuji have been recorded since 781. Many of the eruptions occurred in the Heian era, with twelve eruptions between 800 and 1083. Sometimes inactive periods between eruptions lasted for hundreds of years, as in the period between 1083 and 1511, when no eruptions were recorded for over 400 years. At present, there have been no eruptions since the Hoei eruption in 1707–1708, around 300 years ago.
+
+== Current eruptive danger ==
+Scientists study the activity of the magma rising by measuring CO2 emissions in the deeper parts of the volcano. Studies from before the 2011 Tohoku earthquake show the CO2 emissions below 5 gCO2/m3/day, which is the detection limit. If the emissions rise above 5 gCO2/m3/day then seismic activity is occurring and an eruption could possibly take place. According to a five-stage evolutionary model for the release of volcanic gas, Mt. Fuji would be considered stage I. Magma is at a considerable  depth and no emissions of gases can be observed regularly.
+
+Following the 2011 Tōhoku earthquake and tsunami, much attention was given to the volcanic reaction of Mount Fuji. Experts have found that the internal pressure of the Mount Fuji magma chamber has increased to an estimated 1.6 megapascals, raising speculation over the possibility of an eruption. The financial damage to Japan from a Fuji eruption is estimated at ¥2.5 trillion (about $25 billion).
+
+== See also ==
+* Hōei eruption of Mount Fuji
+* List of volcanoes in Japan
+
+==Notes==
+
+
+== References ==
+* , "Mount Fuji - All About Its Nature", written by  1992  
+* Titsingh, Isaac. (1834). [Siyun-sai Rin-siyo/Hayashi Gahō, 1652], Nipon o daï itsi ran; ou, Annales des empereurs du Japon.  Paris: Oriental Translation Fund of Great Britain and Ireland.
+
+==External links==
+*  - Japan Meteorological Agency
+* Fujisan (Mount Fuji) - Smithsonian Institution: Global Volcanism Program
+
+Category:Izu–Bonin–Mariana Arc
+Category:Volcanoes of Honshū
+Category:Mount Fuji

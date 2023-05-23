@@ -1,0 +1,70 @@
+Title: General Encyclopedia of the Yugoslav Lexicographical Institute
+
+The General Encyclopedia of the Yugoslav Lexicographical Institute () is a general encyclopedia published in eight volumes by the Yugoslav Lexicographical Institute in Zagreb between 1977 and 1982. It was the third edition of the encyclopedia, with the first two editions being published under the name Enciklopedija leksikografskog zavoda (). The first edition in seven volumes was published between 1955 and 1964, and the second edition in six volumes was published between 1966 and 1969.
+
+==Volumes==
+The third edition of the encyclopedia has 8 volumes:
+
+{| class="wikitable"
+|-
+! Vol.
+! Article span
+! Year ofpublishing
+! Number ofpages
+|-
+| 1
+| align="center" | A – Bzu
+| align="right" | 1977
+| align="right" | 748
+|-
+| 2
+| align="center" | C – Fob
+| align="right" | 1977
+| align="right" | 749
+|-
+| 3
+| align="center" | Foc – Iw
+| align="right" | 1977
+| align="right" | 719
+|-
+| 4
+| align="center" | Iz – Kzy
+| align="right" | 1978
+| align="right" | 703
+|-
+| 5
+| align="center" | L – Nigh
+| align="right" | 1979
+| align="right" | 750
+|-
+| 6
+| align="center" | Nih – Ras
+| align="right" | 1980
+| align="right" | 766
+|-
+| 7
+| align="center" | Raš – Szy
+| align="right" | 1981
+| align="right" | 780
+|-
+| 8
+| align="center" | Š – Žva
+| align="right" | 1982
+| align="right" | 791
+|}
+
+The third edition was amended with an additional volume (Dopunski svezak) published in 1988:
+
+{| class="wikitable"
+|-
+! Vol.
+! Article span
+! Year ofpublishing
+! Number ofpages
+|-
+| 9
+| align="center" | A – Ž
+| align="right" | 1988
+| align="right" | 752
+|}
+

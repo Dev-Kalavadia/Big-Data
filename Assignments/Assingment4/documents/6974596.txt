@@ -1,0 +1,205 @@
+Title: Land coverthumb|Land cover surrounding Madison, WI. Fields are colored yellow and brown, water is colored blue, and urban surfaces are colored red.
+
+Land cover is the physical material at the surface of Earth. Land covers include grass, asphalt, trees, bare ground, water, etc. Earth cover is the expression used by ecologist Frederick Edward Clements that has its closest modern equivalent being vegetation.Makers of American Botany, Harry Baker Humphrey, Ronald Press Company, Library of Congress Card Number 61-18435 The expression continues to be used by the United States Bureau of Land Management.
+
+There are two primary methods for capturing information on land cover: field survey and analysis of remotely sensed imagery. Land change models can be built from these types of data to assess changes in land cover over time.
+
+One of the major land cover issues (as with all natural resource inventories) is that every survey defines similarly named categories in different ways. For instance, there are many definitions of "forest"—sometimes within the same organisation—that may or may not incorporate a number of different forest features (e.g., stand height, canopy cover, strip width, inclusion of grasses, and rates of growth for timber production). Areas without trees may be classified as forest cover "if the intention is to re-plant" (UK and Ireland), while areas with many trees may not be labelled as forest "if the trees are not growing fast enough" (Norway and Finland).
+
+== Distinction from "land use" ==
+"Land cover" is distinct from "land use", despite the two terms often being used interchangeably. Land use is a description of how people utilize the land and of socio-economic activity. Urban and agricultural land uses are two of the most commonly known land use classes. At any one point or place, there may be multiple and alternate land uses, the specification of which may have a political dimension. The origins of the "land cover/land use" couplet and the implications of their confusion are discussed in Fisher et al. (2005).Fisher, P., Comber, A. and Wadsworth, R.. 2005. Land Use and Land Cover: Contradiction or Complement. In Fisher, P. and Unwin, D. (Eds.). Re-Presenting GIS. John Wiley & Sons. https://www.wiley.com/en-ca/Re+Presenting+GIS+-p-9780470848470
+
+== Types ==
+
+
+Following table is Land Cover statistics by Food and Agriculture Organization (FAO) with 14 classes.
+{|class="wikitable" style="text-align:center; margin:1em auto;"
+|+ Land CoverFAO Agri-Environmental Indicators / Land covervalues are from CCI_LC（Climate Change Initiative Land Cover） by European Space Agency (million ha = 10 000 km2)
+!FAO code
+!typeFAO Dataset Information: Land Cover Title Abstract Supplemental see Table 1. SEEA CF/AFF land cover classes and corresponding LCC classifiers, page 2,3,4
+!1992
+!2001
+!2015
+!share
+!change fm 92
+!note
+|-
+|[6970]
+|Artificial surfaces (including urban and associated areas)
+|26.04
+|34.33
+|55.40
+|0.37%
+|29.35
+|
+|-
+|[6971]
+|Herbaceous crops
+|1,716.22
+|1,749.58
+|1,712.15
+|11.50%
+| -4.06
+| Arable land
+|-
+|[6972]
+|Woody crops
+|162.86
+|181.32
+|199.90
+|1.34%
+|37.04
+|Arable land
+|-
+|[6973]
+|Multiple or layered crops
+|
+|
+|
+|
+|
+|Arable land
+|-
+|[6974]
+|Tree-covered areas
+|4,434.92
+|4,393.70
+|4,335.00
+|29.11%
+| -99.93
+|large decrease
+|-
+|[6975]
+|Mangroves
+|18.06
+|18.39
+|18.74
+|0.13%
+|0.67
+|
+|-
+|[6976]
+|Shrub-covered areas
+|1,685.00
+|1,669.65
+|1,627.34
+|10.93%
+| -57.66
+|large decrease
+|-
+|[6977]
+|Shrubs and/or herbaceous vegetation, aquatic or regularly flooded
+|202.61
+|194.77
+|185.39
+|1.24%
+| -17.23
+|
+|-
+|[6978]
+|Sparsely natural vegetated areas
+|891.78
+|878.69
+|868.07
+|5.83%
+| -23.71
+|
+|-
+|[6979]
+|Terrestrial barren land
+|2,001.25
+|2,000.87
+|1,884.00
+|12.65%
+| -117.25
+|large decrease
+|-
+|[6980]
+|Permanent snow and glaciers
+|78.59
+|84.32
+|84.29
+|0.57%
+|5.70
+|
+|-
+|[6981]
+|Inland water bodies
+|432.60
+|435.00
+|444.57
+|2.98%
+|11.97
+|
+|-
+|[6982]
+|Coastal water bodies and intertidal areas
+|
+|
+|
+|
+|
+|
+|-
+|[6983]
+|Grassland
+|1,793.65
+|1,806.50
+|1,801.14
+|12.09%
+|7.50
+|
+|-
+!
+!Total Land Mass
+!
+!
+!14,893.91
+!100%
+!
+!
+|-
+|}
+
+== Mapping ==
+
+
+Land cover change detection using remote sensing and geospatial data provides baseline information for assessing the climate change impacts on habitats and biodiversity, as well as natural resources, in the target areas. Land cover change detection and mapping is a key component of interdisciplinary land change science, which uses it to determine the consequences of land change on climate.
+
+;Application of land cover mapping
+* Local and regional planning
+* Disaster management
+* Vulnerability and Risk Assessments
+* Ecological management
+* Monitoring the effects of climate change
+* Wildlife management.
+* Alternative landscape futures and conservation
+* Environmental forecasting
+* Environmental impact assessment
+* Policy development
+
+== See also ==
+* Geo-Wiki
+* Land change modeling
+* Pedosphere
+* Cryosphere
+* Hydrosphere
+
+== References ==
+
+
+== Further reading ==
+* 
+* 
+* 
+* Ivan Balenovic; et al. (2015). "Quality assessment of high density digital surface model over different land cover classes".PERIODICUM BIOLOGORUM. VOL. 117, No 4, pp. 459–470, 2015
+
+== External links ==
+* Global land cover maps for 2015 with a spatial resolution of 100 metres based on data from the Copernicus programme
+* Annual Regional Land Cover Monitoring System or Hindu Kush Himalaya with a spatial resolution of 30 metres based on Landsat images
+
+
+
+Category:Biogeography
+Category:Geography
+Category:Natural resources

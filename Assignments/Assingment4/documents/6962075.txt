@@ -1,0 +1,39 @@
+Title: Ruedi Aebersold
+
+
+Rudolf Aebersold (better known as Ruedi Aebersold born September 12, 1954 ) is a Swiss biologist, regarded as a pioneer in the fields of proteomics and systems biology. He has primarily researched techniques for measuring proteins in complex samples, in many cases via mass spectrometry. Ruedi Aebersold is a professor of Systems biology at the Institute of Molecular Systems Biology (IMSB) in ETH Zurich. He was one of the founders of the Institute for Systems Biology in Seattle, Washington, where he previously had a research group.
+
+Ruedi Aebersold is known for the development and application of targeted proteomics techniques in the field of biomedical research, in order to understand the function, interaction and localization of each protein in the cell and its changes in disease states. To this end, Ruedi Abersold has made significant contributions in the development and application of targeted proteomics methods, including selected reaction monitoring and data-independent acquisition. Ruedi Aebersold is also recognized for its contributions in the development of standard formats and open source software for the analysis and storage of mass spectrometry and proteomics data, and he is one of the inventors of the Isotope-Coded Affinity Tag (ICAT) technique for quantitative proteomics, a technique that measures the relative quantities of proteins between two sample by using tags containing stable isotopes of different masses.
+
+He is co-founder and scientific advisor of the companies ProteoMediX and Biognosys.
+
+==Honors and awards==
+* 2005 – HUPO Award 
+* 2006 – Buchner Medal 
+* 2008 – In recognition of his contribution to the field of protein sciences and proteomics the Association of Biomolecular Resource Facilities (ABRF) selected him for the ABRF 2008 Award.
+* 2010 – Herbert A. Sober Lectureship 
+* 2010 – Otto Naegeli Prize
+* 2012 – Thomson Medal Award 
+*In 2014 he became a member of the German Academy of Sciences Leopoldina.
+* 2015 – ranked #1 on the 2015 list of "most influential people in the analytical sciences" (by the Analytical Scientist)  
+* 2018 – Bijvoet Medal of the Bijvoet Center for Biomolecular Research of Utrecht University
+* 2020 – Marcel Benoist PrizeMarcel Benoist Prize 2020
+
+== References ==
+
+
+
+
+
+
+
+Category:1954 births
+Category:Living people
+Category:Members of the European Molecular Biology Organization
+Category:Swiss biologists
+Category:Systems biologists
+Category:Academic staff of ETH Zurich
+Category:Mass spectrometrists
+Category:Bijvoet Medal recipients
+Category:Thomson Medal recipients
+Category:Members of the German Academy of Sciences Leopoldina

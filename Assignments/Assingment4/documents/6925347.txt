@@ -1,0 +1,10 @@
+Title: Na-Mi-Ba mineThe Na-Mi-Ba is a Czechoslovakian minimum metal bakelite cased anti-tank blast mine. The mine uses a horizontal lever fuze, with a very low operating pressure that breaks open a glass capsule containing acid, which initiates a flash composition. The mine has a small main charge, and is normally used as the initiator for larger charges. The low operating pressure means that the mine could be used as an anti-personnel mine.
+
+The mine is no longer in service with the Czechoslovakian armed forces.
+
+==Specifications==
+* Diameter: 200 mm
+* Height: 250 mm
+* Explosive content: 2.2 kg of TNT
+* Operating pressure: 2.2 kg
+

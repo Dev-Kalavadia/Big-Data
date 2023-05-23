@@ -1,0 +1,117 @@
+Title: Turkish motorcycle Grand Prix
+
+The Turkish Motorcycle Grand Prix was a motorcycling event that was part of the World Motorcycle Racing season.
+
+The races were held in Istanbul Park in Istanbul, İzmit Körfez Circuit in Kocaeli Province and Pınarbaşı Racing Circuit in İzmir.
+
+==History==
+The inaugural race was held in 2005 after the Rio de Janeiro Grand Prix was scrapped from the calendar. However, after only three years, the race was taken off the calendar due to financial troubles. The Istanbul Park circuit had problems raising the money to stage a MotoGP round every year, and the local authorities refused to help with the funding of the race, despite the boost it gave to the local economy. After the venue was taken over by now ex-Formula One chief executive Bernie Ecclestone and DORNA chairman Carmelo Ezpeleta said that no decision was taken about including the Turkish GP into the 2008 calendar, the race was dropped and replaced by the Portuguese Grand Prix, who was moved to the now empty Turkey slot after the Indianapolis Grand Prix was confirmed.
+
+==Official names and sponsors==
+*2005–2007: Grand Prix of Turkey (no official sponsor)
+
+==Spectator attendance==
+
+2006: 38.123
+==Winners of the Turkish Motorcycle Grand Prix==
+===Multiple winners (riders)===
+
+{| class="wikitable" style="font-size: 95%;"
+|-
+!rowspan=2| # Wins
+!rowspan=2| Rider
+!colspan=2| Wins
+|-
+! Category
+! Years won
+|-
+!rowspan=3| 2
+|  Marco Melandri
+| MotoGP
+| 2005, 2006
+|-
+|rowspan=2|  Casey Stoner
+| MotoGP
+| 2007
+|-
+| 250 cc
+| 2005
+|}
+
+===Multiple winners (manufacturers)===
+
+{| class="wikitable" style="font-size: 95%;"
+|-
+!rowspan=2| # Wins
+!rowspan=2| Manufacturer
+!colspan=2| Wins
+|-
+! Category
+! Years won
+|-
+!rowspan=3| 5
+|rowspan=3|  Honda
+| MotoGP
+| 2005, 2006
+|-
+| 250 cc
+| 2006, 2007
+|-
+| 125 cc
+| 2005
+|-
+!rowspan=2| 3
+|rowspan=2|  Aprilia
+| 250 cc
+| 2005
+|-
+| 125 cc
+| 2006, 2007
+|}
+
+===By year===
+{|class="wikitable" style="font-size: 95%;"
+|-
+!rowspan=2| Year
+!rowspan=2| Track 
+!colspan=2| 125 cc
+!colspan=2| 250 cc
+!colspan=2| MotoGP
+!rowspan=2| Report
+|-
+!Rider
+!Manufacturer
+!Rider
+!Manufacturer
+!Rider
+!Manufacturer
+|-
+! 2007
+| rowspan="3" | Istanbul Park
+|  Simone Corsi 
+| Aprilia
+|  Andrea Dovizioso 
+| Honda
+|  Casey Stoner 
+| Ducati
+| Report
+|-
+! 2006
+|  Héctor Faubel 
+| Aprilia
+|  Hiroshi Aoyama 
+| Honda
+|  Marco Melandri 
+| Honda
+| Report
+|-
+! 2005
+|  Mike di Meglio 
+| Honda
+|  Casey Stoner 
+| Aprilia
+|  Marco Melandri 
+| Honda
+| Report
+|}
+

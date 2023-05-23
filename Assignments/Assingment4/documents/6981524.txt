@@ -1,0 +1,77 @@
+Title: Pentax K10D
+
+The Pentax K10D and similar Samsung GX-10 are 10.2-megapixel digital single-lens reflex cameras launched in late 2006.  They were developed in a collaboration between Pentax of Japan and Samsung of South Korea.
+
+The K10D was announced on 13 September 2006, and released in mid-November 2006, while Samsung announced the GX-10 on 2006-09-21 and it became available on January 1, 2007.  The Pentax K20D, successor to the K10D, was officially announced on January 23, 2008.
+
+The K10D has been hailed by Popular Photography and Imaging magazine as "an all-star player," and was named as a finalist for their 2007 "Camera of the Year" award.
+
+== Technology and construction ==
+
+It combines a 10.2 effective megapixel CCD sensor, coupled with a 22-bit analog-to-digital converter (ADC) and a shake reduction system which also provides a dust removal feature to keep dust off the sensor surface. The K10D features a new image processor called PRIME (Pentax Real IMage Engine), which interfaces with DDR2 RAM, providing 800MB/s bandwidth. The camera body is dust and weather-resistant featuring 72 seals throughout the camera.
+
+Images can be saved in JPG, Pentax raw image format (PEF) or standard DNG format.  The Pentax K10D was among the first digital cameras to support the DNG format natively.
+
+== Competition and market segment ==
+The K10D's feature set does not match precisely any other camera on the market.  By sensor size and price it is a competitor to the Sony α 100, the Nikon D80, the Canon EOS 400D ("Digital Rebel XTi" in North America) and the Olympus E-400, all 10 megapixel DSLRs unveiled in mid to late 2006.  Of course, sensor size alone does not relate directly to any measure of quality or features, and the K10D can also be considered a competitor to higher priced cameras such as the Canon EOS 30D, and its weather sealing is only matched by the much more expensive Nikon D200, Fujifilm S5 Pro and the Canon EOS-1D Mark II N/1Ds Mark II in current production.
+
+== Lens mount and compatible lenses ==
+thumb|200px|left|Front, showing KAF2 mount.
+The K10D camera features the "crippled" KAF2 mount.   Like the full-featured KAF2 mount, this has power contacts for the lens and supports power zoom and MTF information transferred from the lens to the body, but lacks the mechanical stop-down coupler necessary for full compatibility with the oldest Pentax K-mount lenses.
+
+The K10D is typically sold in a bundle with Pentax's SMC-DA 18-55mm kit lens, which has received very favorable reviews compared to kit lenses from Canon and Nikon, because of its build-quality and quick-shift focus system.Klaus Schroiff of Photozone.de has largely panned the Canon and Nikon kit lenses for their poor build quality, while generally praising that of the Pentax kit lens:<br />
+<br />
+<br />
+
+
+
+In addition, the K10D supports in-lens ultrasonic focusing motors, branded SDM by Pentax.  Lenses thus equipped support quieter and faster autofocus operation.  Two weathersealed ultrasonic lenses, developed in co-operation with Tokina, have been released.
+
+Like the "crippled" KAF mount used on previous Pentax digital SLRs, the "crippled" KAF2 lacks the mechanism to mechanically sense a lens's aperture ring setting. For that reason, when using the manual aperture ring on K-mount lenses, it is necessary to set the 'Use aperture ring'Custom Menu Settings (part 4), PhotographyRulez, Dec 16, 2007 setting in the 'Custom Menu' to 'Permitted' and use stop-down metering mode (Pentax calls it optical preview) to ensure proper exposure.  KA and KAF lenses with aperture rings are fully compatible when the aperture ring is set to automatic ('A'), giving control over the aperture to the camera body.Pentax K10D Operating Manual, page 210
+
+==Samsung GX-10==
+thumb|Samsung's version of the K10D: the GX-10
+Under a partnership between Pentax and Samsung Techwin, the K10D is also available badged as the Samsung GX-10. The two cameras are virtually identical with a few small differences. The text labels for buttons are different, using a slightly smaller font, and the buttons themselves are slightly different. In addition, the hand grip is a slightly different shape, meaning the battery grip for the K10D is incompatible – however, a GX-10 battery grip is available. The firmware is quite different, using different menus and symbols, and providing no support for Pentax's PEF raw image format.
+
+== Awards ==
+The K10D has won a number of awards from the industry, the first being the TIPA 2007 award for the best "Expert Digital SLR". On 15 August, 2007, the K10D was announced as the winner of EISAs “European Camera of the Year 2007-2008” award.
+
+On 17 May, Pentax announced that it had won the Japanese Camera Grand Prix 2007. Pentax later announced on 14 June, 2007, the introduction of a limited edition K10D package in commemoration of winning of the Japanese Camera Grand Prix. The package features a dark brown K10D with gold lettering and a matching battery grip. A large leather camera strap is included with the words "CAMERA GRAND PRIX 2007".
+
+The K10D won American Photo's Editor's Choice 2007 for the Advanced Digital SLR category. (Volume 18, No. 4 July/August) 
+
+
+Image:Pentax_K10D_top.jpg|Top.
+Image:Pentax_K10D_left.jpg|Left.
+Image:Pentax_K10D_back.jpg|Rear.
+
+
+== References ==
+
+
+==External links==
+
+Pentax K10D:
+* Full review of the K10D at Digital Photography Review
+* Full review of the K10D at Imaging Resource
+* Full review of the K10D at DCRP Review
+* Full review of the K10D at Neocamera
+* Full review of the K10D at Cameralabs
+* Full review of the K10D at Photo.net
+* User reviews of the K10D at Pentax Forums
+* Customer reviews of the K10D at Amazon
+* Hands-on report of the K10D at Luminous Landscape
+* K10D Operating Manual
+
+Samsung GX-10:
+* Mini-review of the GX-10 at DCRP Review (a supplement to their K10D review, since the two cameras are identical in many respects)
+* Review of the GX-10 from Cnet
+
+Pentax Lenses
+* Pentax-DA Lens Operating Manual Including details of KAF, KAF2 and KAF3 mount contacts and couplers. Using the Quick-Shift Focus System, etc.
+
+
+
+K10D
+Category:Cameras introduced in 2006
+Category:Pentax K-mount cameras

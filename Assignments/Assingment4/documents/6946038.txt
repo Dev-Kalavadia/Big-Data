@@ -1,0 +1,59 @@
+Title: KBID-LP
+
+
+KBID-LD, virtual channel 31 (UHF digital channel 24), is a low-powered Al Jazeera-affiliated television station licensed to Fresno, California, United States. The station is owned by Ventura Broadcasting.
+
+== Digital television ==
+The station's digital signal is multiplexed:
+
+{| class="wikitable"
+! Channel
+! Video
+! Aspect
+! Short name
+! Programming
+|-
+| 31.1
+| rowspan=10|480i
+| rowspan=10|16:9
+| Jazeera
+| Al Jazeera
+|-
+| 31.2
+| DW News
+| Deutsche Welle
+|-
+| 31.3
+| Mayadin
+| Al Mayadeen (Arabic)
+|-
+| 31.4
+| JTV
+| JTV
+|-
+| 31.5
+| AMGA
+| Armenian Media Group of America (Armenian)
+|-
+| 31.6
+| Armenia
+| Armenia 1 (Armenian)
+|-
+| 31.7
+| Noor
+| Noor TV (US)
+|- 
+| 31.8
+| Deals
+| Deals
+|-
+| 31.9
+| JTV
+| JTV
+|-
+| 31.10
+| Ventana
+| Ventana TV
+
+|}
+

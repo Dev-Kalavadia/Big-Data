@@ -1,0 +1,407 @@
+Title: List of municipalities of the Province of Lecce
+
+The following is a list of the 97 municipalities (comuni) of the Province of Lecce, Apulia, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|075001
+|Acquarica del Capo
+| align="right" |4,918
+|-
+|075002
+|Alessano
+| align="right" |6,636
+|-
+|075003
+|Alezio
+| align="right" |5,212
+|-
+|075004
+|Alliste
+| align="right" |6,542
+|-
+|075005
+|Andrano
+| align="right" |5,153
+|-
+|075006
+|Aradeo
+| align="right" |9,725
+|-
+|075007
+|Arnesano
+| align="right" |3,682
+|-
+|075008
+|Bagnolo del Salento
+| align="right" |1,871
+|-
+|075009
+|Botrugno
+| align="right" |3,017
+|-
+|075010
+|Calimera
+| align="right" |7,336
+|-
+|075011
+|Campi Salentina
+| align="right" |11,056
+|-
+|075012
+|Cannole
+| align="right" |1,755
+|-
+|075013
+|Caprarica di Lecce
+| align="right" |2,679
+|-
+|075014
+|Carmiano
+| align="right" |12,277
+|-
+|075015
+|Carpignano Salentino
+| align="right" |3,863
+|-
+|075016
+|Casarano
+| align="right" |20,544
+|-
+|075017
+|Castri di Lecce
+| align="right" |3,073
+|-
+|075018
+|Castrignano de' Greci
+| align="right" |4,188
+|-
+|075019
+|Castrignano del Capo
+| align="right" |5,432
+|-
+|075020
+|Cavallino
+| align="right" |11,545
+|-
+|075021
+|Collepasso
+| align="right" |6,680
+|-
+|075022
+|Copertino
+| align="right" |24,247
+|-
+|075023
+|Corigliano d'Otranto
+| align="right" |5,750
+|-
+|075024
+|Corsano
+| align="right" |5,770
+|-
+|075025
+|Cursi
+| align="right" |4,165
+|-
+|075026
+|Cutrofiano
+| align="right" |9,308
+|-
+|075027
+|Diso
+| align="right" |3,207
+|-
+|075028
+|Gagliano del Capo
+| align="right" |5,527
+|-
+|075029
+|Galatina
+| align="right" |27,710
+|-
+|075030
+|Galatone
+| align="right" |15,982
+|-
+|075031
+|Gallipoli
+| align="right" |20,935
+|-
+|075032
+|Giuggianello
+| align="right" |1,239
+|-
+|075033
+|Giurdignano
+| align="right" |1,772
+|-
+|075034
+|Guagnano
+| align="right" |6,075
+|-
+|075035
+|Lecce
+| align="right" |91,570
+|-
+|075036
+|Lequile
+| align="right" |8,210
+|-
+|075037
+|Leverano
+| align="right" |13,981
+|-
+|075038
+|Lizzanello
+| align="right" |10,609
+|-
+|075039
+|Maglie
+| align="right" |15,252
+|-
+|075040
+|Martano
+| align="right" |9,573
+|-
+|075041
+|Martignano
+| align="right" |1,774
+|-
+|075042
+|Matino
+| align="right" |11,640
+|-
+|075043
+|Melendugno
+| align="right" |9,662
+|-
+|075044
+|Melissano
+| align="right" |7,495
+|-
+|075045
+|Melpignano
+| align="right" |2,224
+|-
+|075046
+|Miggiano
+| align="right" |3,667
+|-
+|075047
+|Minervino di Lecce
+| align="right" |3,899
+|-
+|075048
+|Monteroni di Lecce
+| align="right" |13,720
+|-
+|075049
+|Montesano Salentino
+| align="right" |2,759
+|-
+|075050
+|Morciano di Leuca
+| align="right" |3,499
+|-
+|075051
+|Muro Leccese
+| align="right" |5,169
+|-
+|075052
+|Nardò
+| align="right" |30,578
+|-
+|075053
+|Neviano
+| align="right" |5,720
+|-
+|075054
+|Nociglia
+| align="right" |2,617
+|-
+|075055
+|Novoli
+| align="right" |8,399
+|-
+|075056
+|Ortelle
+| align="right" |2,494
+|-
+|075057
+|Otranto
+| align="right" |5,487
+|-
+|075058
+|Palmariggi
+| align="right" |1,592
+|-
+|075059
+|Parabita
+| align="right" |9,346
+|-
+|075060
+|Patù
+| align="right" |1,715
+|-
+|075061
+|Poggiardo
+| align="right" |6,170
+|-
+|075062
+|Presicce
+| align="right" |5,739
+|-
+|075063
+|Racale
+| align="right" |10,657
+|-
+|075064
+|Ruffano
+| align="right" |9,600
+|-
+|075065
+|Salice Salentino
+| align="right" |8,872
+|-
+|075066
+|Salve
+| align="right" |4,592
+|-
+|075067
+|Sanarica
+| align="right" |1,469
+|-
+|075068
+|San Cesario di Lecce
+| align="right" |7,890
+|-
+|075069
+|San Donato di Lecce
+| align="right" |5,798
+|-
+|075070
+|Sannicola
+| align="right" |6,058
+|-
+|075071
+|San Pietro in Lama
+| align="right" |3,717
+|-
+|075072
+|Santa Cesarea Terme
+| align="right" |3,080
+|-
+|075073
+|Scorrano
+| align="right" |6,864
+|-
+|075074
+|Seclì
+| align="right" |1,928
+|-
+|075075
+|Sogliano Cavour
+| align="right" |4,133
+|-
+|075076
+|Soleto
+| align="right" |5,527
+|-
+|075077
+|Specchia
+| align="right" |4,994
+|-
+|075078
+|Spongano
+| align="right" |3,850
+|-
+|075079
+|Squinzano
+| align="right" |15,093
+|-
+|075080
+|Sternatia
+| align="right" |2,628
+|-
+|075081
+|Supersano
+| align="right" |4,480
+|-
+|075082
+|Surano
+| align="right" |1,771
+|-
+|075083
+|Surbo
+| align="right" |13,576
+|-
+|075084
+|Taurisano
+| align="right" |12,485
+|-
+|075085
+|Taviano
+| align="right" |12,632
+|-
+|075086
+|Tiggiano
+| align="right" |2,890
+|-
+|075087
+|Trepuzzi
+| align="right" |14,507
+|-
+|075088
+|Tricase
+| align="right" |17,870
+|-
+|075089
+|Tuglie
+| align="right" |5,279
+|-
+|075090
+|Ugento
+| align="right" |11,813
+|-
+|075091
+|Uggiano la Chiesa
+| align="right" |4,285
+|-
+|075092
+|Veglie
+| align="right" |14,227
+|-
+|075093
+|Vernole
+| align="right" |7,574
+|-
+|075094
+|Zollino
+| align="right" |2,148
+|-
+|075095
+|San Cassiano
+| align="right" |2,189
+|-
+|075096
+|Castro
+| align="right" |2,541
+|-
+|075097
+|Porto Cesareo
+| align="right" |4,949
+|-
+|
+|Total
+| align="right" |805,397
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

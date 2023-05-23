@@ -1,0 +1,12 @@
+Title: Arithmetic and geometric FrobeniusIn mathematics, the Frobenius endomorphism is defined in any commutative ring R that has characteristic p, where p is a prime number. Namely, the mapping φ that takes r in R to rp is a ring endomorphism of R.
+
+The image of φ is then Rp, the subring of R consisting of p-th powers. In some important cases, for example finite fields, φ is surjective. Otherwise φ is an endomorphism but not a ring automorphism.
+
+The terminology of geometric Frobenius arises by applying the spectrum of a ring construction to φ. This gives a mapping
+
+:φ*: Spec(Rp) → Spec(R)
+
+of affine schemes. Even in cases where Rp = R this is not the identity, unless R is the prime field. 
+
+Mappings created by fibre product with φ*, i.e. base changes, tend in scheme theory to be called geometric Frobenius. The reason for a careful terminology is that the Frobenius automorphism in Galois groups, or defined by transport of structure, is often the inverse mapping of the geometric Frobenius. As in the case of a cyclic group in which a generator is also the inverse of a generator, there are in many situations two possible definitions of Frobenius, and without a consistent convention some problem of a minus sign may appear.
+

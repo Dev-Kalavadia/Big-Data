@@ -1,0 +1,27 @@
+Title: Vernolic acid
+
+Vernolic acid (leukotoxin) is a long chain fatty acid that is monounsaturated and contains an epoxide. It is the R,R-cis epoxide derived from the C12–C13 alkene of linoleic acid. Vernolic acid was first definitively characterized in 1954.  It is a major component in vernonia oil, which is produced in abundance by the genera Vernonia and Euphorbia and is a potentially useful biofeedstock.
+
+==Occurrence==
+Vernonia oil is extracted from the seeds of the Vernonia galamensis (ironweed), a plant native to eastern Africa.  The seeds contain about 40 to 42% oil of which 73 to 80% is vernolic acid.  The best varieties of V. anthelmintica contain about 30% less vernolic acid.
+
+Vernolic acid is not commonly found in plants in significant quantities, but some plants which do contain it are Vernonia, Stokesia, Crepis (from the daisy family), and Euphorbia lagascae and Bernardia pulchella from the Euphorbiaceae.
+
+==Potential applications==
+Vernonia oil has been proposed as a precursor to adhesives, varnishes and paints, and industrial coatings. Its low viscosity recommends its use as a nonvolatile solvent in oil-based paints since it will become incorporated in the dry paint rather than evaporating into the air.
+
+In its application as an epoxy oil, vernonia oil competes with soybean or linseed oil, which supply most of the market for these applications. Its low viscosity makes it more desirable than fully epoxidized linseed or soybean oils. It is comparable to partially epoxidized linseed or soybean oil.
+
+==Toxicity==
+In a variety of mammalian species, vernolic acid is made by the metabolism of linoleic acid by cytochrome P450 epoxygenase enzymes; under these circumstances it is termed leukotoxin because of its toxic effects on leukocytes and other cell types and of its ability to produce multiple organ failure and respiratory distress when injected into rodent animal models of the acute respiratory distress syndrome.  These effects appear due to the conversion of vernolic acid to its dihydroxy counterparts, 12S,13R- and 12R,13S-dihydroxy-cis-9-octadecenoic acids by soluble epoxide hydrolase (this dihydroxy mixture has been termed leukotoxin diol).  Some studies suggest but have not yet proven that vernolic acid is responsible for or contributes to multiple organ failure, respiratory distress, and certain other cataclysmic diseases in humans (see epoxygenase subsection on linoleic acid).
+
+==Related compounds==
+* coronaric acid, C9-C10 epoxide of linoleic acid.
+
+== References ==
+
+
+Category:Vegetable oils
+Category:Fatty acids
+Category:Epoxides
+Category:Alkenoic acids

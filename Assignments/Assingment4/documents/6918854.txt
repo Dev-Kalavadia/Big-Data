@@ -1,0 +1,507 @@
+Title: List of places in Alaska (A)
+
+This list of cities, towns, unincorporated communities, counties, and other recognized places in the U.S. state of Alaska also includes information on the number and names of counties in which the place lies, and its lower and upper zip code bounds, if applicable.
+
+
+{| class="wikitable"
+!Name of place
+!Number of counties
+!Principal county
+!Lower zip code
+!Upper zip code
+|----
+|Abyss Lake
+|1
+|Skagway-Hoonah-Angoon Census Area
+| 
+| 
+|----
+|Adak
+|1
+|Aleutians West Census Area
+| 
+| 
+|----
+|Adak Island
+|1
+|Aleutians West Census Area
+| 
+| 
+|----
+|Adak Naval Security Group
+|1
+|Aleutians West Census Area
+|98777
+| 
+|----
+|Adak Naval Station/Mitchell Field
+|1
+|Aleutians West Census Area
+|98791
+| 
+|----
+|Afognak
+|1
+|Kodiak Island Borough
+| 
+| 
+|----
+|Agaligamute
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|Agivavik
+|1
+|Dillingham Census Area
+| 
+| 
+|----
+|Agowik
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Aguikchuk
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|Aguliagamiut
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|Ahtna
+|3
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Ahtna
+|3
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Ahtna
+|3
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Akhiok
+|1
+|Kodiak Island Borough
+|99615
+| 
+|----
+|Akiachak
+|1
+|Bethel Census Area
+|99551
+| 
+|----
+|Akiak
+|1
+|Bethel Census Area
+|99552
+| 
+|----
+|Akolmiut
+|1
+|Bethel Census Area
+|99640
+| 
+|----
+|Akulurak
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|Akumsuk
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Akutan
+|1
+|Aleutians East Borough
+|99553
+| 
+|----
+|Alaganik
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Alakanuk
+|1
+|Kusilvak Census Area
+|99554
+| 
+|----
+|Alaska Gateway Regional Educational Attendance Area
+|3
+|Southeast Fairbanks Census Area
+| 
+| 
+|----
+|Alaska Gateway Regional Educational Attendance Area
+|3
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Alaska Gateway Regional Educational Attendance Area
+|3
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Alatna
+|1
+|Yukon-Koyukuk Census Area
+|99720
+| 
+|----
+|Alcan
+|1
+|Southeast Fairbanks Census Area
+| 
+| 
+|----
+|Alcan Border
+|1
+|Southeast Fairbanks Census Area
+| 
+| 
+|----
+|Aleknagik
+|1
+|Dillingham Census Area
+|99555
+| 
+|----
+|Aleknagik Mission
+|1
+|Dillingham Census Area
+| 
+| 
+|----
+|Aleksashkina
+|1
+|Kodiak Island Borough
+| 
+| 
+|----
+|Aleneva
+|1
+|Kodiak Island Borough
+| 
+| 
+|----
+|Aleut
+|2
+|Aleutians East Borough
+| 
+| 
+|----
+|Aleut
+|2
+|Aleutians West Census Area
+| 
+| 
+|----
+|Aleutian Islands
+|1
+|undetermined borough/census area
+| 
+| 
+|----
+|Aleutian Region Regional Educational Attendance Area
+|1
+|Aleutians West Census Area
+| 
+| 
+|----
+|Aleutians East
+|1
+|Aleutians East Borough
+| 
+| 
+|----
+|Aleutians East Borough School District
+|1
+|Aleutians East Borough
+| 
+| 
+|----
+|Aleutians West
+|1
+|Aleutians West Census Area
+| 
+| 
+|----
+|Alexander
+|1
+|Matanuska-Susitna Borough
+|99501
+| 
+|----
+|Alexanders Village
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Algaacig
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Alitak
+|1
+|Kodiak Island Borough
+| 
+| 
+|----
+|Allakaket
+|1
+|Yukon-Koyukuk Census Area
+|99720
+| 
+|----
+|Alpine
+|1
+|North Slope Borough
+| 
+| 
+|----
+|Alyeska
+|1
+|Municipality of Anchorage
+| 
+| 
+|----
+|Ambler
+|1
+|Northwest Arctic Borough
+|99786
+| 
+|----
+|Amchitka
+|1
+|Aleutians West Census Area
+| 
+| 
+|----
+|Anaktuvuk Pass
+|1
+|North Slope Borough
+|99721
+| 
+|----
+|Anchorage
+|1
+|Municipality of Anchorage
+|99501
+|40
+|----
+|Anchorage International Airport
+|1
+|Municipality of Anchorage
+|99502
+| 
+|----
+|Anchorage School District
+|1
+|Municipality of Anchorage
+| 
+| 
+|----
+|Anchor Point
+|1
+|Kenai Peninsula Borough
+|99556
+| 
+|----
+|Anderson
+|1
+|Denali Borough
+|99744
+| 
+|----
+|Andreafsky
+|1
+|Kusilvak Census Area
+|99658
+| 
+|----
+|Angoon
+|1
+|Skagway-Hoonah-Angoon Census Area
+|99820
+| 
+|----
+|Aniak
+|1
+|Bethel Census Area
+|99557
+| 
+|----
+|Aniak Airport
+|1
+|Bethel Census Area
+|99557
+| 
+|----
+|Aniakchak National Monument and Preserve
+|1
+|Dillingham Census Area
+| 
+| 
+|----
+|Annette
+|1
+|Prince of Wales-Outer Census Area
+|99926
+| 
+|----
+|Annette Coast Guard Air Station
+|1
+|Prince of Wales-Outer Census Area
+|99920
+| 
+|----
+|Annette Island
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Annette Island Regional Educational Attendance Area
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Annette Islands Reserve
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Anogok
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|Anvik
+|1
+|Yukon-Koyukuk Census Area
+|99558
+| 
+|----
+|Arctic Slope
+|1
+|North Slope Borough
+| 
+| 
+|----
+|Arctic Village
+|1
+|Yukon-Koyukuk Census Area
+|99722
+| 
+|----
+|Arolik
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|Artesian Village
+|1
+|Municipality of Anchorage
+| 
+| 
+|----
+|Atka
+|1
+|Aleutians West Census Area
+|99547
+| 
+|----
+|Atka
+|1
+|Aleutians West Census Area
+|99502
+| 
+|----
+|Atkasook
+|1
+|North Slope Borough
+| 
+| 
+|----
+|Atmautluak
+|1
+|Bethel Census Area
+|99559
+| 
+|----
+|Atqasuk
+|1
+|North Slope Borough
+|99791
+| 
+|----
+|Attu
+|1
+|Aleutians West Census Area
+| 
+| 
+|----
+|Attu Island
+|1
+|Aleutians West Census Area
+| 
+| 
+|----
+|Attu Station
+|1
+|Aleutians West Census Area
+| 
+| 
+|----
+|Auke Bay
+|1
+|City and Borough of Juneau
+|99821
+| 
+|----
+|Aurora
+|1
+|Fairbanks North Star Borough
+|99709
+| 
+|----
+|Aurora Lodge
+|1
+|Fairbanks North Star Borough
+|99714
+| 
+|----
+|}
+
+ A

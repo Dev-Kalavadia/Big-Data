@@ -1,0 +1,113 @@
+Title: Voltage-gated potassium channel
+
+
+
+
+
+Voltage-gated potassium channels (VGKCs) are transmembrane channels specific for potassium and sensitive to voltage changes in the cell's membrane potential.  During action potentials, they play a crucial role in returning the depolarized cell to a resting state.
+
+==Classification==
+
+===Alpha subunits===
+Alpha subunits form the actual conductance pore. Based on sequence homology of the hydrophobic transmembrane cores, the alpha subunits of voltage-gated potassium channels are grouped into 12 classes. These are labeled Kvα1-12. The following is a list of the 40 known human voltage-gated potassium channel alpha subunits grouped first according to function and then subgrouped according to the Kv sequence homology classification scheme:
+
+====Delayed rectifier====
+slowly inactivating or non-inactivating
+*Kvα1.x - Shaker-related: Kv1.1 (KCNA1), Kv1.2 (KCNA2), Kv1.3 (KCNA3), Kv1.5 (KCNA5), Kv1.6 (KCNA6), Kv1.7 (KCNA7), Kv1.8 (KCNA10)
+*Kvα2.x - Shab-related: Kv2.1 (KCNB1), Kv2.2 (KCNB2)
+*Kvα3.x - Shaw-related: Kv3.1 (KCNC1), Kv3.2 (KCNC2)
+*Kvα7.x: Kv7.1 (KCNQ1) - KvLQT1, Kv7.2 (KCNQ2), Kv7.3 (KCNQ3), Kv7.4 (KCNQ4), Kv7.5 (KCNQ5) 
+*Kvα10.x: Kv10.1 (KCNH1)
+
+====A-type potassium channel====
+rapidly inactivating
+*Kvα1.x - Shaker-related: Kv1.4 (KCNA4)
+*Kvα4.x - Shal-related: Kv4.1 (KCND1), Kv4.2 (KCND2), Kv4.3 (KCND3)
+
+====Outward-rectifying====
+*Kvα10.x: Kv10.2 (KCNH5)
+
+====Inwardly-rectifying====
+Passes current more easily in the inward direction (into the cell, from outside).
+
+*Kvα11.x - ether-a-go-go potassium channels: Kv11.1 (KCNH2) - hERG, Kv11.2 (KCNH6), Kv11.3 (KCNH7)
+
+====Slowly activating====
+*Kvα12.x: Kv12.1 (KCNH8), Kv12.2 (KCNH3), Kv12.3 (KCNH4)
+
+====Modifier/silencer====
+Unable to form functional channels as homotetramers but instead heterotetramerize with Kvα2 family members to form conductive channels.
+*Kvα5.x: Kv5.1 (KCNF1)
+*Kvα6.x: Kv6.1 (KCNG1), Kv6.2 (KCNG2), Kv6.3 (KCNG3), Kv6.4 (KCNG4)
+*Kvα8.x: Kv8.1 (KCNV1), Kv8.2 (KCNV2)
+*Kvα9.x: Kv9.1 (KCNS1), Kv9.2 (KCNS2), Kv9.3 (KCNS3)
+
+===Beta subunits===
+Beta subunits are auxiliary proteins that associate with alpha subunits, sometimes in a α4β4 stoichiometry. These subunits do not conduct current on their own but rather modulate the activity of Kv channels.
+* Kvβ1 (KCNAB1)
+* Kvβ2 (KCNAB2)
+* Kvβ3 (KCNAB3)
+* minK (KCNE1)
+* MiRP1 (KCNE2)
+* MiRP2 (KCNE3)
+* MiRP3 (KCNE4)
+* KCNE1-like (KCNE1L)
+* KCNIP1 (KCNIP1)
+* KCNIP2 (KCNIP2)
+* KCNIP3 (KCNIP3)
+* KCNIP4 (KCNIP4)
+
+Proteins minK and MiRP1 are putative hERG beta subunits.
+
+==Animal research==
+The voltage-gated K+ channels that provide the outward currents of action potentials have similarities to bacterial K+ channels.
+
+These channels have been studied by X-ray diffraction, allowing determination of structural features at atomic resolution.
+
+The function of these channels is explored by electrophysiological studies.
+
+Genetic approaches include screening for behavioral changes in animals with mutations in K+ channel genes. Such genetic methods allowed the genetic identification of the "Shaker" K+ channel gene in Drosophila before ion channel gene sequences were well known.
+
+Study of the altered properties of voltage-gated K+ channel proteins produced by mutated genes has helped reveal the functional roles of  K+ channel protein domains and even individual amino acids within their structures.
+
+== Structure ==
+Typically, vertebrate voltage-gated K+ channels are tetramers of four identical subunits arranged as a ring, each contributing to the wall of the trans-membrane K+ pore. Each subunit is composed of six membrane spanning hydrophobic α-helical sequences, as well as a voltage sensor in S4. The intracellular side of the membrane contains both amino and carboxy termini. The high resolution crystallographic structure of the rat Kvα1.2/β2 channel has recently been solved (Protein Databank Accession Number ), and then refined in a lipid membrane-like environment ().
+
+==Selectivity==
+
+
+Voltage-gated K+ channels are selective for K+ over other cations such as Na+. There is a selectivity filter at the narrowest part of the transmembrane pore.
+
+Channel mutation studies have revealed the parts of the subunits that are essential for ion selectivity. They include the amino acid sequence (Thr-Val-Gly-Tyr-Gly) or (Thr-Val-Gly-Phe-Gly) typical to the selectivity filter of voltage-gated K+ channels. As K+ passes through the pore, interactions between potassium ions and water molecules are prevented and the K+ interacts with specific atomic components of the Thr-Val-Gly-[YF]-Gly sequences from the four channel subunits .
+
+It may seem counterintuitive that a channel should allow potassium ions but not the smaller sodium ions through. However in an aqueous environment, potassium and sodium cations are solvated by water molecules. When moving through the selectivity filter of the potassium channel, the water-K+ interactions are replaced by interactions between K+ and carbonyl groups of the channel protein. The diameter of the selectivity filter is ideal for the potassium cation, but too big for the smaller sodium cation. Hence the potassium cations are well "solvated" by the protein carbonyl groups, but these same carbonyl groups are too far apart to adequately solvate the sodium cation. Hence, the passage of potassium cations through this selectivity filter is strongly favored over sodium cations.
+
+==Open and closed conformations==
+The structure of the mammalian voltage-gated K+ channel has been used to explain its ability to respond to the voltage across the membrane. Upon opening of the channel, conformational changes in the voltage-sensor domains (VSD) result in the transfer of 12-13 elementary charges across the membrane electric field. This charge transfer is measured as a transient capacitive current that precedes opening of the channel. Several charged residues of the VSD, in particular four arginine residues located regularly at every third position on the S4 segment, are known to move across the transmembrane field and contribute to the gating charge. The position of these arginines, known as gating arginines, are highly conserved in all voltage-gated potassium, sodium, or calcium channels. However, the extent of their movement and their displacement across the transmembrane potential has been subject to extensive debate. Specific domains of the channel subunits have been identified that are responsible for voltage-sensing and converting between the open and closed conformations of the channel. There are at least two closed conformations. In the first, the channel can open if the membrane potential becomes more positive. This type of gating is mediated by a voltage-sensing domain that consists of the S4 alpha helix that contains 6–7 positive charges.  Changes in membrane potential cause this alpha helix to move in the lipid bilayer. This movement in turn results in a conformational change in the adjacent S5–S6 helices that form the channel pore and cause this pore to open or close. In the second, "N-type" inactivation, voltage-gated K+ channels inactivate after opening, entering a distinctive, closed conformation. In this inactivated conformation, the channel cannot open, even if the transmembrane voltage is favorable. The amino terminal domain of the K+ channel or an auxiliary protein can mediate "N-type" inactivation. The mechanism of this type of inactivation has been described as a "ball and chain" model, where the N-terminus of the protein forms a ball that is tethered to the rest of the protein through a loop (the chain). The tethered ball blocks the inner porehole, preventing ion movement through the channel.
+
+==Pharmacology==
+
+For blockers and activators of voltage gated potassium channels see: potassium channel blocker and potassium channel opener.
+
+== See also ==
+* Ion channel
+* Ion channel family
+* Potassium channel tetramerisation domain
+* Voltage-gated potassium channel database (2004)
+
+== References ==
+
+
+== External links ==
+* 
+* 
+* 
+* "Voltage-gated potassium channel database (VKCDB)" at ualberta.ca
+*  - Spatial positions of voltage gated potassium channels in membranes
+
+
+
+
+Category:Electrophysiology
+Category:Voltage-gated ion channels
+Category:Potassium channels

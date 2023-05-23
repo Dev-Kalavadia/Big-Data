@@ -1,0 +1,130 @@
+Title: Silver mining
+
+
+
+Silver mining is the extraction of silver from minerals, starting with mining. Because silver is often found in intimate combination with other metals, its extraction requires elaborate technologies. In 2008, ca.25,900 metric tons were consumed worldwide, most of which came from mining.
+
+== Silver sources ==
+thumb|upright|A photograph of silver ore
+Silver-bearing ore typically contains very little silver, with much higher percentages of copper and lead. Specific minerals include argentite (Ag2S), chlorargyrite ("horn silver," AgCl),  polybasite (Ag, Cu)16Sb2S11), and proustite (Ag3AsS3).Debnam, Andrew, 2021. Silver. Mindat.org https://www.mindat.org/min-3664.html Silver mainly occurs as a contaminant in chalcopyrite and galena, important ores of copper and lead, respectively.King, Hobart, 2013. Silver. Geology.com https://geology.com/minerals/silver.shtmlBevan, J., Clark, A., & Symes, R., The Illustrated Encyclopedia of the Mineral Kingdom: Chapter 5: The Mineral Kingdom. Hamlyn, Toronto, 1978. .Kassianidou, V. 2003. Early Extraction of Silver from Complex Polymetallic Ores, in Craddock, P.T. and Lang, J (eds) Mining and Metal production through the Ages. London, British Museum Press: 198–206 
+
+Some ores are actually mined explicitly for their silver value vs the silver being a byproduct of other metals.  However silver is only found rarely in a native form as nuggets, in placer deposits, and veins.Reddy, Rohan, 2019. Silver, Explained. Global X. https://www.globalxetfs.com/silver-explained/ 
+
+===Excavation===
+Methods for mining silver depend on the grade of the ore, its depth, host rock, and other economic factors. Commonly, silver ore is obtained from open pit mines, and underground drifts and shafts.Hilliard, Henry E., 2003. "Silver". USGS.  Explosives are frequently used to shatter veins into manageable pieces, which are transported via mine cars and then lifted to the surface. The process can be dangerous.Scott, D., & Williams, T, 1994. Investigation of a rock-burst site, SunshineMine, Kellogg, Idaho. Centers for Disease Control and Prevention https://www.cdc.gov/niosh/mining%5C/UserFiles/works/pdfs/irbs.pdf 
+thumb|upright|A large nugget of native silver, mined in Colorado U.S.
+
+===Ore processing===
+Once removed from the mine, silver-containing ore is crushed (comminution) into a fine powder to expose individual grains to chemical processing. As a byproduct of mining of lead and copper, silver ores are often purified by froth flotation.  After froth flotation, silver is extracted by a cyanide process, akin to technology used for gold extraction. In some cases, the ore is treated by smelting before cyanide treatment.  Silver is also produced during the electrolytic refining of copper and by application of the Parkes process on lead ores. Commercial grade fine silver is at least 99.9 percent pure silver, and purities greater than 99.999 percent are available.
+
+===Recycling===
+About 5000 tons of silver are annually recovered from scrap.  Jewelry, photographic film, silverware, coins, electronics are sources of recyclable silver.
+
+==Production areas==
+The principal sources of silver are copper, copper-nickel, gold, lead, and lead-zinc ores obtained from Canada, Mexico, Poland, Peru, Bolivia, AustraliaAustralia precious metals mining market (gold, silver, diamond) growth and forecasts to 2020. 2014. M2 Presswire, June 26, 2014.  and the United States.United States silver mining market overview and forecast to 2020: Trends, fiscal regime, major projects, and competitive landscape. 2012. M2 Presswire, November 20, 2012. 1171392860
+
+Mexico was the world's largest silver producer in 2014, producing 5,000 metric tons (161 million troy ounces), 18.7 percent of the 26,800 tonne (862 million troy ounce) production of the world.
+{| class="wikitable"
+|+Top 6 Production Stage Silver Mines (2011)
+!Mine
+!Country
+!2010 Production
+!2020 Production
+|-
+|Cannington Silver/Lead/Zinc Mine
+|Australia
+|38.6 Moz
+|11.792 Moz
+|-
+|Fresnillo Silver Mine
+|Mexico
+|38.6 Moz
+|13.055 Moz
+|-
+|San Cristobal Polymetallic Mine
+|Bolivia
+|19.4 Moz
+|
+|-
+|Antamina Copper/Zinc Mine
+|Peru
+|14.9 Moz
+|
+|-
+|Rudna Copper Mine
+|Poland
+|14.9 Moz
+|
+|-
+|Peñasquito Polymetallic Mine
+|Mexico
+|13.9 Moz
+|
+|}
+{| class="wikitable"
+|+Top 6 Near-Term Silver Mine Development Projects Through 2015
+!Project
+!Country
+!Anticipated Annual Production Capacity (due within five years)
+|-
+|Pascua Lama
+|Chile
+|25.0 Moz
+|-
+|Navidad
+|Argentina
+|15.0 Moz
+|-
+|Juanicipio
+|Mexico
+|14.0 Moz
+|-
+|Malku Khota
+|Bolivia
+|13.2 Moz
+|-
+|Hackett River
+|Canada
+|13.1 Moz
+|-
+|Corani
+|Peru
+|10.0 Moz
+|}
+
+==History==
+
+Silver mining has been undertaken since as early as the 5th century BCE. As silver is a precious metal often used for coins and bullion, its mining has historically often been lucrative. As with other precious metals such as gold or platinum, newly discovered deposits of silver ore have sparked silver rushes of miners seeking their fortunes. In recent centuries, large deposits were discovered and mined in the Americas, influencing the growth and development of Mexico, Andean countries such as Bolivia, Chile, Argentina and Peru, as well as Canada and the United States.
+
+Silver has been known since ancient times. Silver is mentioned in the Book of Genesis, and slag heaps found in Asia Minor and on the islands of the Aegean Sea indicate that silver was being separated from lead as early as the 4th millennium BC. The silver mines at Laurium were very rich and helped provide a currency for the economy of ancient Athens, where the process involved mining the ore in underground galleries, washing and then smelting it to produce the metal. Elaborate washing tables still exist at the site which used rain water held in cisterns and collected during the winter months.
+
+The Romans took over silver mining in Spain from Carthage after their acquisition of Carthaginian territories there following the Second Punic War. Extraction of silver from lead ore was widespread in Roman Britain very soon after the Roman conquest of the first century AD.
+
+One of the main aims of the Viking expansion throughout Europe was to acquire and trade silver.  Bergen and Dublin are still important centres of silver making.  An example of a collection of Viking-age silver for trading purposes is the Galloway Hoard.
+
+From the mid-15th century silver began to be extracted from copper ores in massive quantities using the liquation process creating a boost to the mining and metallurgy industries of Central Europe.
+
+===Americas===
+
+Vast amounts of silver were brought into the possession of the crowns of Europe after the conquest of the Americas from the now Mexican state of Zacatecas (discovered in 1546)Dan Oancea: Low Sulphidation Epithermal Vein Deposits http://technology.infomine.com/articles/1/546/silver.sulphidation.epithermal/silver.deposits.–.aspx and Potosí (Bolivia, also discovered in 1546), which triggered the Spanish Price Revolution in Europe. Silver mining required large amounts of mercury to extract the metal from ore. In the Andes, the source was the Huancavelica mercury mine; Mexico was dependent on mercury from the Almadén mercury mine in Spain. Mercury had a high adverse environmental impact.Nicholas A. Robins, Mercury, Mining, and Empire: The Human and Ecological Cost of Colonial Silver Mining in the Andes. Bloomington: Indiana University Press 2011. https://doi.org/10.1093/envhis/ems086 Silver was extremely valuable in China, and became a global commodity. Manila galleons carried Spanish dollars across the Pacific, contributing to the rise of the Spanish Empire. The rise and fall of its value affected the world market.In the first half of the 19th century Chilean mining revived due to a silver rush in the Norte Chico region, leading to an increased presence of Chileans in the Atacama desert and a shift away from an agriculture based economy. The country of Argentina was named after its silver resources by Spanish conquistadors; Argentina is a Spanish adjective meaning "silvery".
+
+Silver mining was a driving force in the settlement of western North America,Dan Oancea: Silver Deposits - Carbonate Replacement Deposits http://technology.infomine.com/articles/1/693/silver.deposits.crd/silver.deposits.carbonate.aspx with major booms for silver and associated minerals (lead, mostly) in the galena ore silver is most commonly found in. Notable silver rushes were in Colorado; Nevada; Cobalt, Ontario; California and the Kootenay region of British Columbia; notably in the Boundary and "Silvery" Slocan. A silver rush in Idaho produced mines in an area known as Silver Valley, a handful of which are still active today.Gillerman, Virginia (December 4, 2019). "Idaho Mining and Exploration, 2019"(PDF). Idaho Geological Survey. Retrieved April 23, 2020. The first major silver ore deposits in the United States were discovered at the Comstock Lode in Virginia City, Nevada, in 1859.
+
+===Environmental effects of historic silver mining===
+
+The amalgamation methods have proven problematic. It is estimated that 90% of the mercury consumed in the United States from 1850 to 1900 was used to extract silver and gold.Nriagu, Jerome, 1994.  Mercury pollution from the past mining of gold and silver in the Americas. Science of the Total Environment, Volume 149, Issue 3, Pages 167-181,ISSN 0048-9697, https://doi.org/10.1016/0048-9697(94)90177-5. An estimated 257,400 tonnes of mercury were lost to the environment in this process in the Americas since the patio process was first used. 60-65% of this is likely released into the atmosphere, being the single largest contributor to the global mercury cycle. 
+
+Contaminants are also known to enter drinking water in and around abandoned silver mines. Well water in South Morelos State, Mexico, was found to have high concentrations of toxic minerals including arsenic, iron, manganese, lead, and fluorine.Esteller, M.V., Domínguez-Mariani, E., Garrido, S.E. et al. Groundwater pollution by arsenic and other toxic elements in an abandoned silver mine, Mexico. Environ Earth Sci 74, 2893–2906 (2015).  This is attributed to the abandoned and flooded silver mine at Huautla. Groundwaters flooded the mine-shafts after they were abandoned in the early 1990s, which allowed for oxidation and mobilization of these dangerous contaminants.
+
+==See also==
+*Silver mining in the United States
+
+*Economic history of Spain
+** Global silver trade from the 16th to 19th centuries
+**Spanish Empire
+** Latin American economy
+** Spanish treasure fleet
+** Spanish Silver Train 
+** Royal fifth, 20% tax
+** Patio process, invented in Mexico
+

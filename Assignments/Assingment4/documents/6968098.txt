@@ -1,0 +1,105 @@
+Title: Ponte Capriasca
+Ponte Capriasca is a municipality in the district of Lugano in the canton of Ticino in Switzerland.
+
+==History==
+thumb|left|The Last Supper by Cesare da Sesto (a pupil of Leonardo da Vinci) in the Church of S. Ambrogio
+thumb|left|Aerial view (1964)
+Ponte Capriasca is first mentioned in 1335 as Ponte.  In 1491 it was mentioned as Ponte Criviascha.
+
+Historically, it was part of bailiwick of Lugano.  Under the rule of the Duchy of Milan as well as the Swiss Confederation, the village was an independent municipality with its own statutes and rights.  The rights and statutes were first documented in 1443 and were confirmed in 1648.  Early in the 16th century, the village was involved in the fierce fighting between the Guelphs and Ghibellines.
+
+In 1455, it separated from the Tesserete parish to form an independent parish.  The parish church of S. Ambrogio is first mentioned in 1356 but is built on a Roman era foundation.  Its present form dates from a rebuilding of 1835, in which the old bell tower and the nave were incorporated.  The Last Supper in the interior dates from the 16th century and was modeled on Leonardo da Vinci's Last Supper.  The painting was restored in 1951 and again in 1989–92.
+
+The local economy of the village was based on agriculture and the income from the seasonal migration, especially to northern Italy.  From the 1970s the village experienced a building boom and its population increased fivefold.  In 2005 slightly over half of the jobs are in the service sector and over three-quarters of the population are commuters.
+
+==Geography==
+Ponte Capriasca has an area, , of .  Of this area,  or 8.2% is used for agricultural purposes, while  or 64.0% is forested.   Of the rest of the land,  or 8.7% is settled (buildings or roads),  or 0.3% is either rivers or lakes and  or 13.1% is unproductive land.
+
+Of the built up area, housing and buildings made up 6.3% and transportation infrastructure made up 1.6%.  Out of the forested land, 44.5% of the total land area is heavily forested, while 17.3% is covered in small trees and shrubbery and 2.3% is covered with orchards or small clusters of trees.  Of the agricultural land, 1.8% is used for growing crops and 6.3% is used for alpine pastures.  All the water in the municipality is flowing water.  Of the unproductive areas, 11.0% is unproductive vegetation and 2.1% is too rocky for vegetation.Altitudine, superficie, secondo il genere di utilizzazione, rilevazione 1992/1997, e densità della popolazione, nel 2000   accessed 25 October 2010
+
+The municipality is located in the Lugano district, in the Valli di Lugano Region.
+
+==Coat of arms==
+The blazon of the municipal coat of arms is Per pale gules and argent two he-goats rampant combatant on a bridge counterchanged.  The he-goats () make this an example of canting.Flags of the World.com accessed 24-January-2011
+
+==Demographics==
+Ponte Capriasca has a population () of .  , 12.6% of the population are resident foreign nationals.Swiss Federal Statistical Office - Superweb database - Gemeinde Statistics 1981-2008  accessed 19 June 2010  Over the last 10 years (1997–2007) the population has changed at a rate of 13.4%.
+
+Most of the population () speaks Italian (81.3%), with German being second most common (13.4%) and French being third (2.2%).Swiss Federal Statistical Office accessed 24-January-2011  Of the Swiss national languages (), 198 speak German, 33 people speak French, 1,202 people speak Italian, and 1 person speaks Romansh.  The remainder (44 people) speak another language.Popolazione residente, secondo la lingua principale e la religione, nel 2000   accessed 23 November 2010
+
+, the gender distribution of the population was 49.0% male and 51.0% female.  The population was made up of 695 Swiss men (42.2% of the population), and 111 (6.7%) non-Swiss men.  There were 740 Swiss women (45.0%), and 99 (6.0%) non-Swiss women.
+
+In  there were 12 live births to Swiss citizens and 1 birth to non-Swiss citizens, and in same time span there were 6 deaths of Swiss citizens and 3 non-Swiss citizen deaths.  Ignoring immigration and emigration, the population of Swiss citizens increased by 6 while the foreign population decreased by 2.  There were 2 Swiss men and 6 Swiss women who emigrated from Switzerland.  At the same time, there was 1 non-Swiss man who emigrated from Switzerland to another country and 3 non-Swiss women who immigrated from another country to Switzerland.  The total Swiss population change in 2008 (from all sources, including moves across municipal borders) was an increase of 23 and the non-Swiss population change was a decrease of 11 people.  This represents a population growth rate of 0.7%.
+
+The age distribution, , in Ponte Capriasca is; 208 children or 12.6% of the population are between 0 and 9 years old and 202 teenagers or 12.3% are between 10 and 19.  Of the adult population, 115 people or 7.0% of the population are between 20 and 29 years old.  219 people or 13.3% are between 30 and 39, 320 people or 19.5% are between 40 and 49, and 215 people or 13.1% are between 50 and 59.  The senior population distribution is 209 people or 12.7% of the population are between 60 and 69 years old, 106 people or 6.4% are between 70 and 79, there are 51 people or 3.1% who are over 80.01.02.03 Popolazione residente permanente   accessed 23 November 2010
+
+, there were 594 private households in the municipality, and an average of 2.5 persons per household.   there were 303 single family homes (or 72.3% of the total) out of a total of 419 inhabited buildings.  There were 64 two family buildings (15.3%) and 41 multi-family buildings (9.8%).  There were also 11 buildings in the municipality that were multipurpose buildings (used for both housing and commercial or another purpose). 09.02.01 Edifici   accessed 23 November 2010
+
+The vacancy rate for the municipality, , was 0%.   there were 744 apartments in the municipality.  The most common apartment size was the 4 room apartment of which there were 268.  There were 19 single room apartments and 190 apartments with five or more rooms.  09.02.02 Abitazioni   accessed 23 November 2010  Of these apartments, a total of 592 apartments (79.6% of the total) were permanently occupied, while 150 apartments (20.2%) were seasonally occupied and 2 apartments (0.3%) were empty.  , the construction rate of new housing units was 1.2 new units per 1000 residents.
+
+The historical population is given in the following chart:Popolazione residente, dal 1850   accessed 23 November 2010
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.8)
+ImageSize  = width:1080 height:210
+PlotArea   = height:150 left:100 bottom:50 right:100
+AlignBars  = justify
+DateFormat = x.y
+Period     = from:0 till:1500
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:300 start:0
+ScaleMinor = gridcolor:lightgrey increment:60 start:0
+PlotData=
+  color:yellowgreen width:40   mark:(line,white) align:center
+  bar:1574 from:start till:164 text:"164"
+  bar:1638 from:start till:131 text:"131"
+  bar:1850 from:start till:252 text:"252"
+  bar:1860 from:start till:206 text:"206"
+  bar:1870 from:start till:230 text:"230"
+  bar:1880 from:start till:240 text:"240"
+  bar:1890 from:start till:209 text:"209"
+  bar:1900 from:start till:213 text:"213"
+  bar:1910 from:start till:193 text:"193"
+  bar:1920 from:start till:177 text:"177"
+  bar:1930 from:start till:172 text:"172"
+  bar:1941 from:start till:187 text:"187"
+  bar:1950 from:start till:194 text:"194"
+  bar:1960 from:start till:173 text:"173"
+  bar:1970 from:start till:353 text:"353"
+  bar:1980 from:start till:768 text:"768"
+  bar:1990 from:start till:1174 text:"1,174"
+  bar:2000 from:start till:1478 text:"1,478"
+
+
+==Heritage sites of national significance==
+thumb|Detail of the Last Supper by Cesare da Sesto in the Church of S. Ambrogio
+The Parish Church of S. Ambrogio is listed as a Swiss heritage site of national significance.
+
+==Politics==
+In the 2007 federal election the most popular party was the FDP which received 27.54% of the vote.  The next three most popular parties were the SP (19.99%), the Ticino League (17.33%) and the CVP (14.24%).  In the federal election, a total of 558 votes were cast, and the voter turnout was 50.1%.Swiss Federal Statistical Office, Nationalratswahlen 2007: Stärke der Parteien und Wahlbeteiligung, nach Gemeinden/Bezirk/Canton  accessed 28 May 2010
+
+In the  Gran Consiglio election, there were a total of 1,114 registered voters in Ponte Capriasca, of which 689 or 61.8% voted.  5 blank ballots and 5 null ballots were cast, leaving 679 valid ballots in the election.  The most popular party was the PLRT which received 177 or 26.1% of the vote.  The next three most popular parties were; the LEGA (with 136 or 20.0%), the SSI (with 123 or 18.1%) and the PS (with 104 or 15.3%). Elezioni cantonali: Gran Consiglio, Consiglio di Stato   accessed 23 November 2010
+
+In the  Consiglio di Stato election, 5 blank ballots and 3 null ballots were cast, leaving 681 valid ballots in the election.  The most popular party was the LEGA which received 193 or 28.3% of the vote.  The next three most popular parties were; the PLRT (with 156 or 22.9%), the PS (with 126 or 18.5%) and the SSI (with 103 or 15.1%).
+
+==Economy==
+, Ponte Capriasca had an unemployment rate of 3.18%.  , there were 11 people employed in the primary economic sector and about 3 businesses involved in this sector.  131 people were employed in the secondary sector and there were 10 businesses in this sector.  144 people were employed in the tertiary sector, with 41 businesses in this sector.  There were 743 residents of the municipality who were employed in some capacity, of which females made up 40.9% of the workforce.
+
+, there were 159 workers who commuted into the municipality and 588 workers who commuted away.  The municipality is a net exporter of workers, with about 3.7 workers leaving the municipality for every one entering.  About 22.0% of the workforce coming into Ponte Capriasca are coming from outside Switzerland.Swiss Federal Statistical Office - Statweb   accessed 24 June 2010  Of the working population, 9% used public transportation to get to work, and 70.3% used a private car.
+
+==Religion==
+From the , 1,095 or 74.1% were Roman Catholic, while 186 or 12.6% belonged to the Swiss Reformed Church.  There are 159 individuals (or about 10.76% of the population) who belong to another church (not listed on the census), and 38 individuals (or about 2.57% of the population) did not answer the question.
+
+==Education==
+In Ponte Capriasca about 82% of the population (between age 25 and 64) have completed either non-mandatory upper secondary education or additional higher education (either university or a Fachhochschule).
+
+In Ponte Capriasca there were a total of 340 students ().  The Ticino education system provides up to three years of non-mandatory kindergarten and in Ponte Capriasca there were 51 children in kindergarten.  The primary school program lasts for five years and includes both a standard school and a special school.  In the municipality, 122 students attended the standard primary schools and 1 student attended the special school.  In the lower secondary school system, students either attend a two-year middle school followed by a two-year pre-apprenticeship or they attend a four-year program to prepare for higher education.  There were 76 students in the two-year middle school and 2 in their pre-apprenticeship, while 39 students were in the four-year advanced program.
+
+The upper secondary school includes several options, but at the end of the upper secondary program, a student will be prepared to enter a trade or to continue on to a university or college.  In Ticino, vocational students may either attend school while working on their internship or apprenticeship (which takes three or four years) or may attend school followed by an internship or apprenticeship (which takes one year as a full-time student or one and a half to two years as a part-time student).  There were 17 vocational students who were attending school full-time and 28 who attend part-time.
+
+The professional program lasts three years and prepares a student for a job in engineering, nursing, computer science, business, tourism and similar fields.  There were 4 students in the professional program. Allievi e studenti, secondo il genere di scuola, anno scolastico 2009/2010   accessed 23 November 2010
+
+, there were 90 students in Ponte Capriasca who came from another municipality, while 144 residents attended schools outside the municipality.
+

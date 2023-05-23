@@ -1,0 +1,42 @@
+Title: Math Blaster Episode I: In Search of Spot
+
+
+Math Blaster Episode I: In Search of Spot is an edutainment game in the Blaster Learning System line of educational products created by Davidson & Associates. It is a remake of their earlier New Math Blaster Plus! from 1991. Versions of the game were released for the Super Nintendo Entertainment System and Sega Genesis, simply titled Math Blaster: Episode 1. The program was translated to Spanish and was published as Mates Blaster: En Busca de Positrón. A remake titled Mega Math Blaster was released in 1996. When Knowledge Adventure merged with Davidson & Associates in 1997, the game was rereleased in the following year under the title Math Blaster: Ages 6-9. It was later repackaged as Math Blaster: 3rd Grade in 1999.
+
+A sequel called Math Blaster Episode II: Secret of the Lost City was released in 1994.
+
+==Plot==
+Spot and Blasternaut are preparing for a journey aboard their spaceship, only to find that the ship is not functional. Blasternaut, jumping to conclusions, sends Spot to repair a mechanism known as the "polytronic combustion regulator" and the latter reluctantly begins repairs, while the former goes below deck. As Spot works, the Trash Alien flies by, captures Spot and departs, leaving garbage everywhere. Blasternaut, upon discovering this, contacts his superior officer, Galactic Commander, and notifies her of the situation. Galactic Commander immediately identifies the criminal and sends Blasternaut on a mission of four objectives.
+
+==Games==
+===Trash Zapper===
+Blasternaut uses math to generate the tractor beams needed to collect the trash. For every problem answered, a tractor beam is added and, after five problems, a noneducational firing session begins, in which the user tries to collect as much of the trash as possible. Once the firing session ends, the user is presented with more math problems and the process repeats until all the garbage has been collected. The setting of this level can be changed to one where the trash constantly floats in front of the spacecraft, and the user has to quickly solve the equation in order to capture the trash before it disappears from the screen. Notably, the mini-game uses the "Door Swoosh" sound effect from Star Trek: The Original Series as the sound effect for successfully collecting a piece of trash.
+
+===Number Recycler===
+
+Blasternaut goes down to the fuel chamber to recycle the trash. Here, the player completes equations, at which the machinery of the Number Recycler melts the garbage, freshens it to maximize energy and loads it into the fuel tanks. The player can adjust the numbers and symbols as needed.
+
+===Cave Runner===
+Having fueled the tanks, Blasternaut tracks the Trash Alien to a series of caves. By means of a jetpack, he must fly to the surface of the planet in order to reach the villain. Every level of the cave contains a gap with a number or a mathematical expression on both sides, which form a barrier that Blasternaut can only pass through if he bears a number that comes between the two numbers or the numbers that would be formed by solving the expressions (example: if the gap has "3" on one side and "6 + 3" on the other, Blasternaut's number would have to be between three and nine for him to pass through).
+
+Large drops of water, which contain an operation followed by a number, form on stalactites that will allow Blasternaut to change his number by implementing the drop's number, through the drop's operation, on his number (example: if the drop reads "+2" than his number will be increased by two). Unless the user is on level one, the caves also contain additional obstacles in the form of bats, spider webs, boulders, and large cave-dwelling aliens. In the corners of each such cave is a treasure chest. The user must answer a problem to open the chest and acquire a weapon to drive off the obstacle (example: a flashlight drives off the bat, scissors cut the spider-web, etc. A hammer breaks the boulder and bug spray makes the cave alien cough and disappear.
+
+===Math Blaster===
+Finally, it is Blasternaut's task to enter the Trash Alien's flying saucer and rescue Spot. In order to do this, he must fly through one of four openings in the flying saucer, which contain the answer to a particular problem. He must choose the right answer and reach it before being shot by the Trash Alien's weapons or being struck by flying garbage. In addition, he has only a limited time before the problem changes. If he is successful, Spot is freed and the Trash Alien's craft is destroyed, though the Trash Alien escapes.
+
+==Subjects and leveling==
+The game features eight different subjects, which are chosen at the start the game. All the problems encountered in the game, except in the "Cave Runner" exercise, will fall into the chosen subject. The subjects are as follows:
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Number patterns - instead of featuring traditional equations, "number patterns" provides the user with a series of numbers with one of the numbers missing. The user must identify the pattern to find the missing number (for example, if the problem presented is "5, 10, 15, _, 25", then the missing number is 20).
+* Estimation - the user must round numbers to estimate the answer.
+* Fractions/decimals/percents - the user must solve problems that involve fractions, decimals and percentages.
+* Review features a mix of problems from all the various subjects.
+
+There are also six levels of difficulty, which adjust how hard the problems of the chosen subject are. If the user attempts to change subjects or leveling during the course of a mission, then the game will restart the mission. The various games are available outside the mission for study purposes. However, when choosing a game for play outside the mission, the user cannot advance through the mission and, if the chosen game is "Math Blaster", then the user will not see Spot's rescue.
+
+==Reception==
+Math Blaster Episode I: In Search of Spot was rated as one of the top 100 CD-ROM games of 1994 in PC Magazine.
+

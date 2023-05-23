@@ -1,0 +1,37 @@
+Title: Mohawk Airlines Flight 405
+
+
+
+Mohawk Airlines Flight 405, a Fairchild Hiller FH-227 twin-engine turboprop airliner registered N7818M, was a domestic scheduled passenger flight operated by Mohawk Airlines that crashed into a house within the city limits of Albany, New York on March 3, 1972, on final approach to Albany County Airport (now Albany International Airport), New York, killing 17 people. The intended destination airport lies in the suburban Town of Colonie, about 4 miles north of the crash site.
+
+==Flight history==
+The flight, which originated in New York City, encountered problems during its final approach to runway 01 at Albany. The weather at the airport was reported to the flight crew as "ceiling indefinite, 1,200 feet obscured, 2 miles visibility in light snow, surface winds (from) 360 degrees (north) at 9 knots". As the Fairchild FH227B twin-engine turboprop reached 8.5 miles from the airport, the flight crew contacted Mohawk's operations center via radio and informed them that the left propeller was 'hung up' in the cruise pitch lock, which would prevent normal thrust reduction on that side, needed for landing. At about 5 miles out, the flight crew notified Albany Approach Control that they were trying to perform an emergency 'feathering' of the left propeller. As they continued to descend and struggle with the propeller, they advised the controller that they were going to "land short". The plane subsequently crashed into a house 3.5 miles south of the runway. Of the 3 crew members and 45 passengers, 2 crew members and 14 passengers were killed, as well as one occupant of the house.
+
+==Investigation==
+The National Transportation Safety Board (NTSB) launched a full investigation into the accident, which included a three-day public hearing in Albany on April 25 through April 27, 1972, and a deposition in Washington, D.C. on May 19, 1972. Both the flight data recorder and the cockpit voice recorder were recovered from the wreckage, and their recorded data was found to be intact and usable. The investigation revealed that as the flight crew attempted to reduce thrust on the left engine during the final approach, they were unable to remove the 'cruise pitch lock' mechanism that is used to maintain a cruise thrust setting. When they subsequently attempted to perform an emergency feathering and shutdown procedure on that engine, they were able to shut down the engine but unable to achieve a feathering of the propeller. This eventually resulted in the left propeller creating a high amount of asymmetric drag while windmilling; so much so, that the other engine operating at full power was not able to arrest the resulting uncontrollable descent.
+
+The NTSB, despite investing substantial investigative resources trying to uncover the reasons behind the two unusual and seemingly separate propeller-related malfunctions, was unable to shed light on either one. It was not able to replicate the 'pitch lock stuck' malfunction, nor adequately explain why the crew subsequently failed to effect the standard feathering procedure to properly shut down and reduce the thrust and drag on the left side.
+
+In effect, by not being able to properly secure the left engine, an unwanted asymmetric high thrust situation turned into an irreversible unwanted high asymmetric drag, which eventually resulted in an inevitable and premature descent and crash.
+
+In its final report, issued on April 11, 1973, the Board determined the following Probable Cause for the accident:
+
+The inability of the crew to feather the left propeller, in combination with the descent of the aircraft below the prescribed minimum altitudes for the approach. The Board is unable to determine why the left propeller could not be feathered.
+
+The Board also found the following Contributing Factors:
+
+Contributing causal factors for the nonstandard approach were the captain's preoccupation with a cruise pitch lock malfunction, the first officer's failure to adhere to company altitude awareness procedures, and the captain's failure to delegate any meaningful responsibilities to the copilot which resulted in a lack of effective task sharing during the emergency. Also, the Board was unable to determine why the propeller pitch lock malfunctioned during the descent.
+
+In subsequent correspondence between the NTSB and the Federal Aviation Administration (FAA), included in the final report, the NTSB questioned the then-available operating procedures and manuals for the aircraft. The NTSB found that there was insufficient guidance to pilots in the handling of "Cruise Pitch Lock Stuck" condition. For example, it was not clear based on existing instructions and guidelines whether a missed approach would be indicated and/or possible under these circumstances, and if so, what would be the recommended procedure to successfully execute the maneuver. Also, the condition of a shut down but unfeathered engine, i.e. windmilling propeller with high asymmetric drag and minimum control implications, which was encountered in this accident, was insufficiently covered, according to the NTSB.
+
+==Safety recommendations==
+As a result of its investigation into the accident and in light of its findings, the NTSB also issued the following safety recommendations:
+*That shoulder harnesses be provided to and worn by the flight crew
+*That flight attendant seats be designed for improved G-force tolerance
+*That emergency lighting switches be armed prior to every flight
+*That flight crew coordination procedures be reinforced during initial and recurrent training, so that especially during emergency situations, one crew member members to always fly the aircraft, and making appropriate altitude and airspeed callouts is always clearly assigned to one crew member
+
+==See also==
+*List of accidents and incidents involving commercial aircraft
+*Mohawk Airlines Flight 411
+

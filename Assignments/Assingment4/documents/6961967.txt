@@ -1,0 +1,66 @@
+Title: Tail code
+
+
+Tail codes are markings usually on the vertical stabilizer of U.S. military aircraft that help identify the aircraft's unit and/or base assignment. This is not the same as the serial number, bureau number, or aircraft registration which provide unique aircraft identification.
+
+== U.S. Air Force ==
+Since 1993, the U.S. Air Force (USAF), Air Force Reserve, and Air National Guard (ANG), except Air Mobility Command (AMC) aircraft, utilize this format in all tail codes: two large letters, followed by two digits printed in a smaller text size, followed by three more digits printed in a larger text size.
+
+The first two letters identify the home base, or in some organizations, a historic legacy, such as "FF" ("First Fighter") for the 1st Fighter WingThe FF code is also used by the co-located 192d Fighter Wing, a Virginia Air National Guard fighter unit co-located at Langley. or "WP" ("Wolf Pack") for the 8th Fighter Wing. ANG units usually use the two-letter state/territorial USPS mailing abbreviation as a tail code, though there are exceptions, such as the 110th Airlift Wing using "BC" ("Battle Creek") instead of the "MI" used for other Michigan Air National Guard units. The small digits indicate the fiscal year (FY) the aircraft was ordered.  The large digits are the last three digits of the aircraft's serial number.Globemaster.DE Tail CodesAeroSpaceWeb: US Air Force Tail Codes
+
+All aircraft assigned to a unit, or in the case of ANG units, the entire state, use a common code. Typically, units of different commands co-located at the same base use different codes. For example, the 509th Bomb Wing at Whiteman AFB uses "WM" while the 442nd Fighter Wing of the Air Force Reserve at the same base uses "KC."
+
+=== Air Mobility Command markings ===
+AMC aircraft do not use two-letter identification codes.US Air Force Aircraft Tail Markings (Jan 1998) They have the name of the base written inside the tail flash and a five-digit number in which all digits are printed in the same size. In most cases, the first digit represents the last digit of the fiscal year, and the remaining digits identify the four-digit sequence number. In cases where more than 10,000 aircraft were ordered in a single year (1964, for example), the complete 5-digit sequence number - without FY identification - is used.
+
+==U.S. Navy==
+The U. S. Navy's aircraft visual identification system uses tail codes and modex to visually identify the aircraft's purpose and organization. Carrier air wing (CVW) tail codes denote which fleet the air wing belongs; A for Atlantic Fleet and N for Pacific Fleet. All squadrons display their CVW's tail code as follows, regardless of aircraft type:
+
+*CVW-1: AB
+*CVW-2: NE
+*CVW-3: AC
+*CVW-5: NF
+*CVW-7: AG
+*CVW-8: AJ
+*CVW-9: NG
+*CVW-11: NH
+*CVW-17: NA
+
+Electronic Attack Squadrons (VAQ) of Electronic Attack Wing Pacific which are not assigned to a CVW but instead deploy to fixed land bases in support of joint tasking ("Expeditionary" VAQ Squadrons) use tail code NL. 
+
+Fleet Replacement Squadrons (FRS) for fixed wing carrier based aircraft use the CVW style tail code. Naval Air Force Pacific Fleet carrier based fixed wing aircraft FRS use tail code NJ and Naval Air Force Atlantic Fleet carrier based fixed wing aircraft FRSs display tail code AD. The FRS for carrier based helicopters do not follow this rule. 
+
+The US Navy Reserve's Tactical Support Wing (formerly Reserve Carrier Air Wing 20) uses tail code AF.  NW was the tail code for Helicopter Wing Reserve which has been disestablished, but the two reserve helicopter squadrons which still exist continue to use that code even though the wing no longer exists.
+
+Helicopter FRS and helicopter squadrons not assigned to CVW (except for reserve squadrons) and all land-based fixed-wing squadrons use two letter codes unique to each squadron. These codes are squadron specific and  identify neither the squadron's wing nor base air station.
+
+Training Command aircraft use a single-letter tail code which identifies the aircraft's training wing.
+*TW-1 NAS Meridian, MS: A
+*TW-2 NAS Kingsville, TX: B
+*TW-4 NAS Corpus Christi, TX: G
+*TW-5 NAS Whiting Field, FL: E
+*TW-6 NAS Pensacola, FL: F
+
+Search and rescue helicopters and light transport aircraft assigned to naval air stations or naval air facilities use a code consisting of a number (seven or eight), followed by a letter unique to each air station/facility.
+
+==U.S. Marine Corps==
+The U.S. Marine Corps and U. S. Navy share the same system. USMC squadrons use two letter codes unique to each squadron. The codes are squadron specific and do not identify either the Marine Air Group (MAG) nor the Marine Air Wing (MAW) to which the squadron belongs nor the air station at which it is based. The exception is those squadrons assigned to a Navy Carrier Air Wing which use the Carrier Air Wing's tail code.
+
+Light transport aircraft assigned to Marine Corps Air Stations use a two place tail code consisting of a number FIVE followed by a letter unique to each Marine Corps Air Station.
+
+== See also ==
+* Buzz number
+* United States military aircraft serials
+* United States Marine Corps Aviation
+* Full List of U.S. Navy and U.S. Marine Corps Aircraft Tail Codes
+
+== References ==
+* 2012 USAF Tail Codes (page 52-54)
+
+
+== Books ==
+*Tail Code - The Complete History of USAF Tactical Aircraft Tail Code Markings by Patrick Martin, Published 1994
+*Hook Code - United States Navy and Marine Corps Aviation Tail Code Markings 1963-1994 by Patrick Martin, Published 1994
+
+Category:United States military aircraft
+Category:Aircraft markings

@@ -1,0 +1,53 @@
+Title: Adempiere
+
+ADempiere   is an Enterprise Resource Planning  or ERP software package released under a free software license. The verb adempiere in Italian means "to fulfill a duty" or "to accomplish".Google Translation of ADempiere
+
+The software is licensed under the GNU General Public License.ADempiere follow GNU General Public License (GPL) 
+
+==History==
+The ADempiere project was created in September 2006.  Disagreement between the open-source developer community that formed around the Compiere open-source ERP From Compiere to ADempiere!  software and the project's corporate sponsor ultimately led to the creation of Adempiere as a fork of Compiere.
+Within weeks of the fork, ADempiere reached the top five of the SourceForge.net rankings. This ranking provides a measure of both the size of its developer community and also its impact on the open-source ERP software market.
+
+The project name comes from the Italian verb "adempiere", which means "fulfillment of a duty" but with the additional senses of "Complete, reach, practice, perform tasks, or release; also, give honor, respect", here which were considered appropriate to what the project aimed to achieve.
+
+==Goals of this project==
+The goal of the Adempiere project is the creation of a community-developed and supported open source business solution.Adempiere Community - Who we are?  The Adempiere community follows the open-source model of the Bazaar described in Eric Raymond's article The Cathedral and the Bazaar.
+
+==Business functionality==
+The following business areas are addressed by the Adempiere application:
+* Enterprise Resource Planning (ERP)
+* Supply Chain Management (SCM)
+* Customer Relationship Management (CRM)
+* Financial Performance Analysis
+* Integrated Point of sale (POS) solution
+* Cost Engine for different Cost types
+* Two different Productions (light and complex) which include Order batch and Material Requirements Planning (or Manufacturing Resource Planning).
+
+==Project structure==
+All community members are entitled to their say in the project discussion forums. For practical purposes, the project is governed by a council of contributors.ADempiere PMC  A leader is nominated from this council to act as overall project manager.  The role of the Adempiere Council is to:
+* Support decisions of the leader.
+* Accept contributions.
+* Define the roadmap.
+* Review and approve specifications.
+* Vote for new functionalities.
+* Approve changes to core.
+
+==Technology==
+Adempiere is developed with Java EE technology, specifically utilizing Apache Tomcat and the JBoss application server.  Currently database support is restricted to PostgreSQLTechnology  and Oracle.
+
+==Architecture==
+Adempiere inherited the Data Dictionary from the Compiere project.  ADempiere Data Dictionary Feature  This architecture extends the Data Dictionary concept into the application; thus the application's entities, their validation rules and screen layout can be controlled from within the application itself. In practice, this means that customization of the application can be done without new coding.
+A Workflow Management Coalition and Object Management Group standards based workflow engine is utilized to provide Business Process Management.  These features allow for the rapid customization of the application to a business's needs.ADempiere RAD Architecture 
+
+==See also==
+* Compiere, iDempiere, metasfresh, Openbravo (Compiere source code family)
+
+* List of ERP software packages
+* List of ERP vendors
+*List of free and open source software packages
+
+=== forks ===
+
+*iDempiere It modularized the code through the OSGi framework so it allows a plugin architecture.
+*metasfresh - originally based on ADempiere, developed in Germany.
+

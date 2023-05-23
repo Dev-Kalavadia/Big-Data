@@ -1,0 +1,35 @@
+Title: Ignicoccus
+
+
+Ignicoccus is a genus of hyperthermophillic Archaea living in marine hydrothermal vents. They were discovered in samples taken at the Kolbeinsey Ridge north of Iceland, as well as at the East Pacific Rise (at 9 degrees N, 104 degrees W) in 2000.
+
+==Systematics==
+According to the comparisons of 16S rRNA genes, Ignicoccus represents a new, deeply branching lineage within the family of the Desulfurococcaceae.
+Three species are known: I. islandicus, I. pacificus and I. hospitalis strain KIN4I.
+
+==Cell structure==
+The archaea of the genus Ignicoccus have tiny coccoid cells with a diameter of about 2 µm, that exhibit a smooth surface, an outer membrane and no S-layer.
+
+They have a previously unknown cell envelope structure—a cytoplasmic membrane, a periplasmic space (with a variable width of 20 to 400 nm, containing membrane-bound vesicles), and an outer membrane (approximately 10 nm wide, resembling the outer membrane of gram-negative bacteria). The latter contains  numerous tightly, irregularly packed single particles (about 8 nm in diameter) and pores with a diameter of 24 nm, surrounded by tiny particles, arranged in a ring (with a diameter of 130 nm) and clusters of up to eight particles 12 nm in diameter each.
+
+The two layers of membrane previously reported are actually a type of endomembrane system consisting of cytoplasmic protrusions. In I. hospitalis, these structures harbor the endosymbiotic archaeon Nanoarchaeum equitans.
+
+==Physiology==
+Ignicocci live in a temperature range of 70–98 °C (optimum around 90 °C). They gain energy by reduction of elemental sulfur to hydrogen sulfide using molecular hydrogen as the electron donor. A unique symbiosis with (or parasitism by) Nanoarchaeum equitans has also been reported.
+
+==Phylogeny==
+{| class="wikitable"
+|-
+! colspan=1 | 16S rRNA-based LTP_12_2021 by The All-Species Living Tree Project.
+! colspan=1 | GTDB 07-RS207 by Genome Taxonomy Database.
+|- 
+| style="vertical-align:top|
+
+|
+
+|}
+
+==See also==
+* List of bacteria genera
+* List of bacterial orders
+

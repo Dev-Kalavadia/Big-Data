@@ -1,0 +1,71 @@
+Title: Northern Subject Rule
+
+The Northern Subject Rule is a grammatical pattern that occurs in Northern English and Scots dialects. Present-tense verbs may take the verbal ‑s suffix, except when they are directly adjacent to one of the personal pronouns I, you, we, or they as their subject. As a result, they sing contrasts with the birds sings; they sing and dances; it's you that sings; I only sings. Various core areas for the rule have been proposed, including Yorkshire and southern Scotland.
+
+The Northern subject rule is also present in Newfoundland English, although a 2011 study by Philip Comeau argues that it differs from the Northen subject rule of British dialects, because it is a marker of habitual aspect or verb stativity.
+
+
+In several other dialects across England, occasional variations in agreement between subjects and verbs can be found.
+
+==Origin==
+The origin of the Northern Subject Rule is debated. Some linguists have proposed that it arose, in part, from contact with the British Celtic languages in the early phase of Anglo-Saxon settlement, or Old Norse during the Danelaw period. Others have argued that it was a language-internal development that became common during the Middle English period. The late attestation of the rule and the paucity of northern texts in Old English means that dating its formation, and explaining its origin, with any degree of certainty is difficult.
+Graham Shorrocks notes that a similar use of the historic present occurs in some dialects of north Germany, citing Gordon (1966) and Wakernagel-Jolles (1971).
+
+===Celtic origin theory===
+
+Due to similarities between the Northern Subject Rule and structures found in Welsh, Breton and Cornish, some linguists have proposed a Celtic origin for this feature. Linguists supporting this proposal include Eric Hamp, Hildegard Tristram, Juhani Klemola and David White. Michael Benskin states that both a Celtic origin and an internal development within Old English are plausible origins.
+
+The Northern Subject Rule has a close parallel in Welsh, where 3rd person plural verbs are conjugated as singular unless they are adjacent to nhw, the third person plural pronoun. The similarity is illustrated below, note that the verb precedes the subject in Welsh whereas the opposite is true in English:
+
+{| class="wikitable" style="margin-left: auto; margin-right: auto"
+|+ Welsh 3rd person plural conjugation with pronominal adjacency
+|-
+| colspan="6" style="text-align: center;" | Maen nhw yn bwyta'r caws."They eat the cheese." 
+|-
+| Maen || nhw || yn || bwyta || 'r || caws
+|-
+| 3p pl. pres. aux.|| 3p pl. pron. "they" || pres. marker || inf. "to eat"|| def. art. || noun "cheese"
+|}
+
+{| class="wikitable" style="margin-left: auto; margin-right: auto"
+|+ Northern Subject Rule 3rd person plural conjugation with pronominal adjacency
+|-
+| colspan="6" style="text-align: center;" | They eat the cheese. 
+|-
+| They|| eat || t' || cheese
+|-
+| 3p pl. pronoun|| 3p pl. pres. "eat"|| def. art. || noun "cheese"
+|}
+
+{| class="wikitable" style="margin-left: auto; margin-right: auto"
+|+ Welsh 3rd person plural conjugation without pronominal adjacency
+|-
+| colspan="6" style="text-align: center;" | Mae Sioned a Ryan yn bwyta'r caws."Sioned and Ryan eat the cheese." 
+|-
+| Mae || Sioned a Ryan|| yn || bwyta || 'r || caws
+|-
+| 3p s. pres. aux.|| proper nouns || pres. marker || inf. "to eat"|| def. art. || noun "cheese"
+|}
+
+{| class="wikitable" style="margin-left: auto; margin-right: auto"
+|+ Northern Subject Rule 3rd person plural conjugation without pronominal adjacency
+|-
+| colspan="6" style="text-align: center;" | Sioned and Ryan eats the cheese. 
+|-
+| Sioned and Ryan|| eats || t' || cheese
+|-
+| proper nouns|| 3p s. pres. "eat"|| def. art. || noun "cheese"
+|}
+
+====Old English-Brittonic language contact and the Northern Subject Rule====
+
+The Celtic theory presupposes a period of contact between speakers of dialects derived from Brittonic, the ancestor of Welsh, and speakers of Old English in the north of England and southern Scotland, with speakers of the former transmitting this feature into the latter through imperfect acquisition of Old English grammar.. This contact is suggested to have of taken place in the 6th and 7th centuries, with some scholars proposing a continuation of the process through the viking era. Among proponents of later dates, a trilingual contact situation is proposed between Cumbric, Old Norse and two Old English sociolects, a high status variety with little Brittonic influence and a low status variety with a Celtic substrate.
+.
+ Scholars who support this viewpoint generally group the Northern Subject Rule with other features of possible Celtic origin which together form the basis of the Celtic Hypothesis..
+
+====Criticism of Celtic origin theory====
+
+Critics of this theory point out that the Northern Subject Rule is not widely attested in the Old English period, the time when the supposed Celtic influence was most recent, becoming prominent only in the Middle English period. They also argue that contact with Celtic dialects was too limited to have influenced Old English grammar.
+
+Graham Isaac also argues that the Welsh accord system differs from the Northern Subject Rule in that, in Welsh, it is the presence of the pronoun which causes inflection of the verb, whereas in the Northern Subject Rule the absence of the pronoun causes the verb to be inflected. In Isaac's view this means the structures are not analogous, making a Celtic origin impossible. However, Michael Benskin argues that Isaac's analysis is incorrect, and that in dialects where the Northern Subject Rule is present the absence of the verb ending -s is a development of the Old English ending -e, rather than a truly uninflected form. In Benskin's view the Northern Subject Rule would therefore be a true analogue of Welsh inflection patterns.
+

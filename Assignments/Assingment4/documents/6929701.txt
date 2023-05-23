@@ -1,0 +1,14 @@
+Title: HTC Tornado
+
+
+The HTC Tornado is a smartphone model designed by High Tech Computer Corporation and powered by the Windows Mobile 5 operating system. It has QVGA display resolution.
+
+The Tornado is rebranded as at least 9 different models: the Dopod 586W, Qtek 8300, T-Mobile USA SDA (AKA SDA II), Cingular 2125, i-mate SP5 and Orange SPV C600. These individual companies customize the operating system and sell it as a consumer package.
+
+==Features==
+* 240 x 320 pixels TFT display (65k colors)
+* 1.3-megapixel camera
+* 64 MB SDRAM, 64 MB Flash ROM, miniSD card slot
+* TI OMAP 850, 200 MHz processor
+* EDGE, Wi-Fi, Bluetooth, Infrared
+

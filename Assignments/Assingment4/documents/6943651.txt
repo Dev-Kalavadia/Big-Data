@@ -1,0 +1,10 @@
+Title: MATS/1.4 mineThe MATS/1.4 is a scatterable Italian circular, plastic-cased minimum metal blast-resistant anti-tank blast mine. It uses a pneumatic fuze which is resistant to shock and blast. The mine's plastic case is waterproof, and the mine can be scattered from a helicopter travelling at up to 200 km/h. The mine is normally tan-colored. The mine's main charge is relatively small, so when hand-emplaced the mine can be stacked, to increase its effect.
+
+The mine is no longer in production.
+
+==Specifications==
+* Diameter: 220 mm
+* Height: 90 mm
+* Weight: 3.6 kg
+* Explosive content: 1.5 kg
+

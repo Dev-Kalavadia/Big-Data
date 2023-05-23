@@ -1,0 +1,66 @@
+Title: Recurrent airway obstruction
+
+
+Recurrent airway obstruction, also known as broken wind, heaves, wind-broke horse, or sometimes by the term usually reserved for humans, chronic obstructive pulmonary disease or disorder (COPD) – it is a respiratory disease or chronic condition of horses involving an allergic bronchitis characterised by wheezing, coughing and laboured breathing.
+
+==Signs and symptoms==
+Symptoms include, primarily, increased respiratory effort and dyspnea, especially in response to strenuous exercise. In some cases (secondarily), the horse may present with acute severe dyspnea, such that it really struggles to inspire sufficient air. This is a veterinary emergency.
+
+In addition, a soft, moist cough may be seen, most commonly in association with exercise or eating. This cough may be productive, with expectoration of thick, viscous sputum.
+
+There may also be an audible wheeze.
+
+In chronic cases, a "heave line" may be visible on the ventral abdomen. This is caused by hypertrophy of the extrinsic respiratory muscles.
+
+If any of these symptoms are observed, veterinary advice should be sought. The veterinarian will usually auscultate (listen to the horse's chest with a stethoscope) to attempt to detect adventitious lung sounds. If these are very quiet, a rebreathing bag may be used - a plastic bag over the nose to intensify the horse's respiratory effort and hence the sounds. This procedure can be dangerous and should not be attempted by non-professionals.
+
+Blood gas analysis may also be carried out, although it is rarely required.
+
+In some cases, a bronchoalveolar lavage may be carried out - an endoscope is used to look down the trachea, and mucus and cells are washed out of the lower airways for analysis. Typically, a BAL recovers an abnormally high percentage of neutrophils from an RAO horse - up to 50 or 70% in severe cases.RJ Rose & DR Hodgson, Manual of Equine Practice Copyright WB Saunders (2000)H. Sasse (2001), "Clinician's perspective of equine airway disease(Heaves)", in ""International Workshop on Equine Chronic Airway Disease", Equine Veterinary Journal 33(1) 5-19
+
+==Causes==
+An allergic reaction to certain otherwise innocuous substances - allergens, typically dust and mold spores (e.g. Aspergillus spp.). It is therefore most common in horses fed on hay and bedded on straw.Jackson, C.A.; Berney, C.; Jefcoat, A.M.; Robinson, N.E. (2000), "Environment and prednisone interactions in the treatment of recurrent airway obstruction (heaves)", Equine Veterinary Journal, Volume 32, Number 5, September 2000, pp. 432-438 Endotoxins from organisms in the bedding and feedstuffs may also play a role.N. E. Robinson, (2001) "Recurrent Airway Obstruction (Heaves)", Equine Respiratory Diseases, International Veterinary Information Service, New YorkR S Pirie, P M Dixon, B C McGorum (2003) "Endotoxin contamination contributes to the pulmonary inflammatory and functional response to Aspergillus fumigatus extract inhalation in heaves horses" Clin Exp Allery 33 (9):1289-96 12956737
+
+The condition is most common in the Northern Hemisphere - it is rare in the South.
+This is probably because northern horses are more likely to be overwintered in stables or barn, and therefore become sensitised more readily.
+In contrast to human asthma (which it otherwise resembles), RAO is associated primarily with neutrophil mediated inflammation, and IgE and mast cells are much less important in the pathophysiology.A. M. Jefcoat, J. A. Hotchkiss, V. Gerber, J. R. Harkema, C. B. Basbaum, and N. E. Robinson (2001) "Persistent mucin glycoprotein alterations in equine recurrent airway obstruction",Am J Physiol Lung Cell Mol Physiol 281: L704-L712
+
+In animals maintained in stable during several hours of the day, other causes, like inhalation of ammonia (mainly from urine), a gas that is potentially damaging to the lungs, should also be considered.Curtis, Liz, Susan Raymond, and Andrew Clarke. "Dust and ammonia in horse stalls with different ventilation rates and bedding." Aerobiologia 12.1 (1996): 239-247.Vandenput, Sandrine, et al. "Environmental control to maintain stabled COPD horses in clinical remission: effects on pulmonary function." Equine veterinary journal 30.2 (1998): 93-96.
+
+Another point to think, is about liver dysfunctions, which could lead and/ or be associated with the occurrence of allergies.Tsutsui, Hiroko, Xianbin Cai, and Shuhei Hayashi. "Interleukin-1 family cytokines in liver diseases." Mediators of inflammation 2015 (2015).Fowler, Ashley J., et al. "Liver X receptor activators display anti-inflammatory activity in irritant and allergic contact dermatitis models: liver-X-receptor-specific inhibition of inflammation and primary cytokine production." Journal of Investigative Dermatology 120.2 (2003): 246-255. Remembering that liver dysfunctions are commonly present in mold intoxications.Vesonder, Ronald, et al. "Aspergillus flavus and aflatoxins B 1, B 2, and M 1 in corn associated with equine death." Archives of environmental contamination and toxicology 20.1 (1991): 151-153.Caloni, Francesca, and Cristina Cortinovis. "Toxicological effects of aflatoxins in horses." The veterinary journal 188.3 (2011): 270-273.Bennett, Joan W., and Maren A. Klich, eds. Aspergillus: biology and industrial applications. Boston: Butterworth-Heinemann, 1992.Bergero, Domenico, and J. Nery. "Hepatic diseases in horses." Journal of animal physiology and animal nutrition 92.3 (2008): 345-355.
+
+NOTE: A similar condition, Summer Pasture Associated RAO also exists. In this case, the allergens are derived from fodder and pasture. This is more common is summer, and management is reversed: horses should be stabled in well ventilated areas.
+
+==Treatment==
+If a horse is severely dyspnoeic (that is, struggling to breathe), the most important measure to take is to remove it from the stable or barn into fresh air. This can be a life-saving measure in an acute attack.
+
+As RAO is primarily a management condition, primary treatment is managemental. Where possible, the horse should be turned out to pasture. When removed from the allergens in the stable, the symptoms will usually subside, although they will recur if the horse is stabled again at a later date.Jackson CA, Berney C, Jefcoat AM, Robinson NE (2000), "Environment and prednisone interactions in the treatment of recurrent airway obstruction (heaves)", Equine Vet J. 32(5):432-8
+
+If this is not practical, certain alterations to stable routine may be effective. The aim is to minimise dust and maximise air quality in the stable. This may be achieved by soaking hay or feeding a dust-free alternative (such as haylage). The length of time to soak hay for the maximum benefit is debated; however, approximately 30 minutes appears to be the current consensus.J M Clements, R S Pirie (2007) "Respirable dust concentrations in equine stables. Part 2: The benefits of soaking hay and optimising the environment in a neighbouring stable", Res Vet Sci 17467753Proceedings of the British Equine Veterinary Association Congress 2006, "Respiratory Health" Session
+ 
+Feeding from the ground is often thought to be more beneficial than in a hay net, as this allows any mucus to drain out of the lungs. Those horses that must continue to be stabled are normally bedded on paper, or a combination of rubber matting and paper. Straw and wood shavings contain dust and may irritate the condition further, although some modern "low dust" shavings are thought to be better than straw.N. E. Robinson (2001), "Recurrent Airway Obstruction (Heaves)" Equine Respiratory Diseases, Publisher: International Veterinary Information Service, Ithaca, New York (p. 5)
+
+Despite management changes, pharmacological intervention is often required, and almost invariably in severe cases.PT Colahan, IG Mayhew, AM Merrit & JN Moore, Manual of Equine Medicine and Surgery, Copyright Mosby Inc (1999) (p. 163-165) This breaks down into a number of categories:
+
+1)  Bronchodilators:
+Often, bronchodilators are the mainstay of therapy. One of the most common is clenbuterol, either as an oral medication administered twice daily in feed, or via the intravenous route. 
+Alternatively, aerosolised drugs, such as salbutamol or clenbuterol, may be used. Clenbuterol also has anti-inflammatory actions, and is therefore often preferred.T. T. J. M. Laan, S. Bull, R. A. van Nieuwstadt and J. Fink-Gremmels (2006) "The Effect of Aerosolized and Intravenously Administered Clenbuterol and Aerosolized Fluticasone Propionate on Horses Challenged with Aspergillus fumigatus Antigen", Veterinary Research Communications Volume 30, Number 6 (pp. 623-635)
+Other bronchodilators that may be used include aminophylline, although this may lead to excitation, and is only effective in 50% of cases,P Lekeux (2006) "Equine Respiratory Disease - How To Avoid Chroncity", European Companion Animal Health (p. 35)  or ipratropium (which is relatively short acting at 4–6 hours duration).Robinson NE, Derksen FJ, Berney C, Goossens L, (1993) "The airway response of horses with recurrent airway obstruction (heaves) to aerosol administration of ipratropium bromide", Equine Vet J. 25(4):299-303
+
+In an emergency, intravenous clenbuterol or atropine may be used, but care must be exercised with atropine, as it may predispose to adverse systemic side effects such as mydriasis, excitement, GI stasis and colic.JJ. Bertone, LJ. I. Horspool, Equine Clinical Pharmacology Published 2004, Elsevier Health Sciences
+
+2)  Corticosteroids:
+Oral steroids such as prednisolone are commonly used; however, side effects are common, and the horse may be predisposed to laminitis. Therefore, the use of aerosolised steroids via an equine inhaler are becoming more common. This route of administration reduces the dose required, and the risk of side effects. Originally, beclomethasone was used, but newer compounds are available now, such as fluticasone propionate.Tamarinde TJM Laan (2001), "Serum Cortisol Concentrations in Response to Fluticasone Propionate Inhalation Therapy in Horses" The 20th Symposium of the Veterinary Comparative Respiratory Society 
+
+3)  Mast cell stabilisers:
+Cromoglycate has been used, but this is may or may not be fully effective, as in RAO mast cells have only a peripheral role in the pathophysiology.Melissa R. Mazan & Andrew M. Hoffman (2003), "Clinical techniques for diagnosis of inflammatory airway disease in the horse", Clinical Techniques in Equine Practice Vol 2 Issue 3, 238-257
+
+Care should be taken with these drugs in competition horses, as many of them are forbidden substances under racing and FEI rules.
+
+4)  Hay Steamers:  A relatively new method of dealing with RAO with horses is to thoroughly Steam the Hay in a commercially available steamer.  Feedback from users is very encouraging on the relief factor obtained from RAO.  Consistency in feeding horses is important and the hay is just another feed component.  A great number of horses suffer from respiratory conditions that is a direct result of the hay they are feeding on. Stored hay contains dust and fungal spores that can cause irritation and inflammation, that can lead to COPD, airway and digestive conditions.
+
+5) Liver Function Monitoring: because mold may potentially cause liver damage, it is advisable to evaluate parameters related to liver health and, if possible, to adopt hepatoprotective foods or medicines, as well as other measures favorable to the reestablishment of liver functions
+
+==Prognosis==
+RAO often limits the horse's ability to work, and it may find strenuous activity difficult. However, with prompt diagnosis and treatment the condition can be managed successfully.
+

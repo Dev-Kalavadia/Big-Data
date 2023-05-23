@@ -1,0 +1,156 @@
+Title: Patrick Merrill
+
+Patrick Merrill (born February 22, 1979) is a former Canadian professional lacrosse player for the Toronto Rock in the National Lacrosse League and of the Toronto Nationals in Major League Lacrosse. He is currently the Head Coach and General Manager of the San Diego Seals.
+
+==Professional career==
+Merrill was a first-round draft choice of the Toronto Rock in 2002, and after four seasons with the Rock, was chosen first overall by the Boston Blazers in the 2008 expansion draft. However, following the cancellation and subsequent reinstatement of the 2008 season, the Blazers, along with the Arizona Sting, announced that they would not participate in the 2008 season. A dispersal draft was held, and Merrill was chosen second overall by the Titans.
+
+Merrill's brother Brodie Merrill also plays in the NLL for the San Diego Seals.
+
+==Player Statistics==
+===NLL===
+Reference:
+
+
+=== MLL ===
+Reference:
+
+=== MSL ===
+Reference:
+
+== Coaching Statistics ==
+
+=== NLL ===
+{| class="wikitable" style="text-align:center"
+! rowspan="2" |Team
+! rowspan="2" |Season
+! colspan="4" |Regular Season
+! colspan="4" |Playoffs
+|-
+!GC
+!W
+!L
+!W%
+!GC
+!W
+!L
+!W%
+|-
+| align="left" |San Diego Seals
+|2019
+|18
+|10
+|8
+|.556
+|1
+|0
+|1
+|.000
+|-
+|San Diego Seals
+|2020
+|12
+|6
+|6
+|.500
+|–
+|–
+|–
+|–
+|-
+|San Diego Seals
+|2022
+|18
+|10
+|8
+|.556
+|4
+|2
+|2
+|.500
+|-
+|San Diego Seals
+|2023
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|-
+!Totals:
+!3
+!30
+!16
+!14
+!.522
+!5
+!2
+!3
+!.400
+|}
+
+=== OJLL ===
+Reference: 
+{| class="wikitable" style="text-align:center"
+! rowspan="2" |Team
+! rowspan="2" |Season
+! colspan="4" |Regular Season
+! colspan="4" |Playoffs
+|-
+!GC
+!W
+!L
+!W%
+!GC
+!W
+!L
+!W%
+|-
+| align="left" |Six Nations Arrows
+|2015
+|20
+|17
+|3
+|.850
+|13
+|12
+|1
+|.923
+|-
+|Six Nations Arrows
+|2016
+|20
+|18
+|2
+|.900
+|11
+|7
+|4
+|.636
+|-
+|Six Nations Arrows
+|2017
+|20
+|18
+|2
+|.900
+|9
+|9
+|0
+|1.000
+|-
+!Totals:
+!3
+!60
+!53
+!7
+!.883
+!33
+!28
+!5
+!.848
+|}
+

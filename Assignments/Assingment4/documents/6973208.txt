@@ -1,0 +1,156 @@
+Title: Charge trap flash
+Charge trap flash (CTF) is a semiconductor memory technology used in creating non-volatile NOR and NAND flash memory. It is a type of floating-gate MOSFET memory technology, but differs from the conventional floating-gate technology in that it uses a silicon nitride film to store electrons rather than the doped polycrystalline silicon typical of a floating-gate structure. This approach allows memory manufacturers to reduce manufacturing costs five ways:
+# Fewer process steps are required to form a charge storage node
+# Smaller process geometries can be used (therefore reducing chip size and cost)
+# Multiple bits can be stored on a single flash memory cell
+# Improved reliability
+# Higher yield since the charge trap is less susceptible to point defects in the tunnel oxide layer
+
+While the charge-trapping concept was around earlier, it wasn't until 2002 that AMD and Fujitsu produced high-volume charge-trapping flash memory. They began the commercial production of charge-trapping flash memory with the introduction of the GL NOR flash memory family. The same business, now operating under the Spansion name, has produced charge trapping devices in high volume since that time.  Charge trapping flash accounted for 30% of 2008's $2.5 billion NOR flash market.  Saifun Semiconductors, who licensed a large charge trapping technology portfolio to several companies, was acquired by Spansion in March 2008. From the late 2000s, CTF became a core component of 3D V-NAND flash memory developed by Toshiba and Samsung Electronics.
+
+==Origins==
+The original MOSFET (metal–oxide–semiconductor field-effect transistor, or MOS transistor) was invented by Egyptian engineer Mohamed M. Atalla and Korean engineer Dawon Kahng at Bell Labs in 1959, and demonstrated in 1960. Kahng went on to invent the floating-gate MOSFET with Simon Min Sze at Bell Labs, and they proposed its use as a floating-gate (FG) memory cell, in 1967. This was the first form of non-volatile memory based on the injection and storage of charges in a floating-gate MOSFET, which later became the basis for EPROM (erasable PROM), EEPROM (electrically erasable PROM) and flash memory technologies.
+
+The charge-trapping concept was first presented by John Szedon and Ting L. Chu in 1967.
+
+In late 1967, a Sperry research team led by H.A. Richard Wegener invented the metal–nitride–oxide–semiconductor transistor (MNOS transistor), a type of MOSFET in which the oxide layer is replaced by a double layer of nitride and oxide. Nitride was used as a trapping layer instead of a floating gate, but its use was limited as it was considered inferior to a floating gate. The MNOS transistor device could be programmed through the application of a 50-volt forward or reverse bias between the gate and the channel to trap charges that would impact the threshold voltage of the transistor.
+
+Charge trap (CT) memory was introduced with MNOS devices in the late 1960s. It had a device structure and operating principles similar to floating-gate (FG) memory, but the main difference is that the charges are stored in a conducting material (typically a doped polysilicon layer) in FG memory, whereas CT memory stored charges in localized traps within a dielectric layer (typically made of silicon nitride).
+
+===Charge trap EEPROM===
+By 1974, charge trap technology was used as a storage mechanism in electrically erasable programmable read-only memory (EEPROM), and was an alternative to the standard floating-gate MOSFET technology. In 1977, P.C.Y. Chen of Fairchild Camera and Instrument published a paper detailing the invention of SONOS, a MOSFET technology with far less demanding program and erase conditions and longer charge storage. This improvement led to manufacturable EEPROM devices based on charge-trapping SONOS in the 1980s.
+
+===Charge trap flash experiments===
+In 1991, Japanese NEC researchers including N. Kodama, K. Oyama and Hiroki Shirai developed a type of flash memory that incorporated a charge trap method. In 1998, Israeli engineer Boaz Eitan of Saifun Semiconductors (later acquired by Spansion) patented a flash memory technology named NROM that took advantage of a charge trapping layer to replace the floating gate used in conventional flash memory designs. Two important innovations appear in this patent: the localization of the injected negative and positive charges close to the cell's drain/source terminals, and utilizing a reverse read concept to detect the cell's stored data on either end of the charge trap. These two new ideas enabled high cycling thus allowing reliable charge trap flash products to be produced for the first time since the charge trapping concept was invented 30 years earlier. Furthermore, using these concepts it is possible to create two separate physical bits per cell, doubling the capacity of stored data per cell.
+
+In 2000, an Advanced Micro Devices (AMD) research team led by Richard M. Fastow, Egyptian engineer Khaled Z. Ahmed and Jordanian engineer Sameer Haddad (who later joined Spansion) demonstrated a charge trap mechanism for NOR flash memory cells. These innovations were further improved at AMD and Fujitsu in 2002 (and later by Spansion), and first put into volume production by these companies in what was called “MirrorBit Flash memory.”
+
+===Spansion MirrorBit Flash memory===
+Charge trapping flash (CTF) was commercialized by AMD and Fujitsu in 2002. That year, AMD (in a division later spun off as Spansion) announced a new flash memory technology it called "MirrorBit". Spansion used this product to reduce manufacturing costs and extend the density range of NOR Flash memory past that of conventional NOR flash and to match the cost of the multi-level cell NOR flash being manufactured by Intel.
+
+thumb|Spansion MirrorBit cell
+The MirrorBit cell uses a charge trapping layer not only as a substitute for a conventional floating gate, but it also takes advantage of the non-conducting nature of the charge storage nitride to allow two bits to share the same memory cell.  Shown in Figure 1 the bits reside at opposite ends of the cell and can be read by running a current through the channel in different directions.
+
+Products have been successfully made to combine this approach with multilevel cell technology to contain four bits on a cell.
+
+==Charge trapping operation==
+Like the floating gate memory cell, a charge trapping cell uses a variable charge between the control gate and the channel to change the threshold voltage of the transistor. The mechanisms to modify this charge are relatively similar between the floating gate and the charge trap, and the read mechanisms are also very similar.
+
+===Charge trapping vs floating gate mechanisms===
+In a charge trapping flash, electrons are stored in a trapping layer just as they are stored in the floating gate in a standard flash memory, EEPROM, or EPROM. The key difference is that the charge trapping layer is an insulator, while the floating gate is a conductor.
+
+High write loads in a flash memory cause stress on the tunnel oxide layer creating small disruptions in the crystal lattice called "oxide defects". If a large number of such disruptions are created a short circuit develops between the floating gate and the transistor's channel and the floating gate can no longer hold a charge. This is the root cause of flash wear-out (see Flash memory#Memory wear), which is specified as the chip's “endurance.”  In order to reduce the occurrence of such short circuits, floating gate flash is manufactured using a thick tunnel oxide (~100Å), but this slows erase when Fowler-Nordheim tunneling is used and forces the design to use a higher tunneling voltage, which puts new burdens on other parts of the chip.
+
+A charge trapping cell is relatively immune to such difficulties, since the charge trapping layer is an insulator. A short circuit created by an oxide defect between the charge trapping layer and the channel will drain off only the electrons in immediate contact with the short, leaving the other electrons in place to continue to control the threshold voltage of the transistor. Since short circuits are less of a concern, a thinner tunnel oxide layer can be used (50-70Å) increasing the trapping layer's coupling to the channel and leading to a faster program speed (with localized trapped charges) and erasing with lower tunneling voltages. The lower tunneling voltages, in turn, place less stress on the tunnel oxide layer, leading to fewer lattice disruptions.
+
+Another important benefit of using a charge trapping cell is that the thin charge trapping layer reduces capacitive coupling between neighboring cells to improve performance and scalability.
+
+===Getting the charge onto the charge trapping layer===
+Electrons are moved onto the charge trapping layer similarly to the way that floating gate NOR flash is programmed, through channel hot electron (CHE) injection mechanism also known as Hot-carrier injection. In brief, a high voltage is placed between the control gate while a medium-high voltage is applied on the source and the drain while a current is induced from the source to the drain. Those electrons that have gained sufficient energy in traversing through the high-field region near the drain will boil off from the channel to be injected into the charge trapping layer where they come to rest.
+
+===Removing a charge from the charge trapping layer===
+Charge Trapping flash is erased via hot hole injection (see Hot-carrier injection) as opposed to the Fowler–Nordheim tunneling approach used in both NAND and NOR flash for erasure. This process uses a field, rather than the current used in FN, to move holes toward the charge trapping layer to remove the charge.
+
+==Manufacturing charge trapping flash==
+Charge trapping flash is similar in manufacture to floating gate flash with certain exceptions that serve to simplify manufacturing.
+
+===Materials differences from floating gate===
+Both floating gate flash and charge trapping flash use a stacked gate structure in which a floating gate or charge trapping layer lies immediately above the channel, and below a control gate. The floating gate or charge trapping layer is insulated from the channel by a tunnel oxide layer and from the control gate by a gate oxide layer. Materials for all of these layers are the same with the exception of the storage layer, which is conductive polysilicon for the floating gate structure and is typically silicon nitride for the charge trap.
+
+===Relationship of charge trapping to silicon nanocrystals===
+Freescale Semiconductor manufactures a somewhat similar technology the company calls "Thin Film Storage" in its microcontroller or MCU line. The Freescale approach uses silicon nanocrystals as conductive islands in a nonconductive layer of silicon oxide.
+
+Like the more conventional silicon nitride charge trap, electrons do not flow from one side of the floating gate to the other, extending the cell's wear.
+
+This nanocrystal approach is being manufactured in volume by Freescale and charge trapping storage in general is in development at ST Microelectronics, Philips, Renesas, Samsung, Toshiba, Atmel, and Spansion.
+
+===Process differences from Floating Gate===
+Since the nitride charge trapping layer is nonconductive, it does not need to be patterned – all the charge traps are already insulated from each other. This can be used to simplify manufacturing.
+
+Floating gate structures have required more elaborate gate dielectrics for the past few process generations and today commonly use an ONO (oxide-nitride-oxide) structure which is more complex to manufacture and is unnecessary in a charge-trapping flash.
+
+One advantage of the nitride layer is that it is less sensitive to high temperature fabrication processing than is the polysilicon used in a floating gate. This simplifies processing of the layers above the charge trap.
+
+In a marketing brochure Spansion has claimed that the processing cost of a MirrorBit NOR flash wafer is lower than that of a conventional floating gate wafer since there are 10% fewer photolithography mask steps, and 40% fewer "critical" steps (those requiring the finest resolution, and therefore the most expensive photolithographic equipment). Infineon's marketing materials showed that 15% fewer mask steps were required to make charge trapping NAND flash than to manufacture the equivalent floating gate product.
+
+==MirrorBit Flash memory==
+Spansion's MirrorBit Flash and Saifun's NROM are two flash memories that use a charge trapping mechanism in nitride to store two bits onto the same cell effectively doubling the memory capacity of a chip. This is done by placing charges on either side of the charge trap layer. The cell is read by using forward and reverse currents through the channel to read either side of the charge trap.
+
+===MirrorBit operation – getting 2 bits onto the cell===
+thumb|Figure 2. Programming adds electrons to the charge trap through hot electron injection.
+During CHE programming (figure 2) the hot electrons are injected from the channel into the charge trapping layer toward the biased drain end of the channel, but not from the floating source end of the channel. By allowing the transistor's source and drain to switch from one end of the channel to the other, charges can be injected and stored into the charge trapping layer over either end of the channel.
+
+thumb|Figure 3. Erasing removes electrons from the charge trap through hot hole injection.
+In a similar way, one end of the charge trapping cell can be erased by placing the erasing field at one end or the other of the channel, allowing the other end to float as shown in figure 3. Band-to-band Hot Hole Erase creates holes that are trapped locally some of which recombine with electrons to remove the charge from that end of the charge trap.
+
+===Reading 2 bits from the cell===
+The MirrorBit read is performed very simply by reversing the source and drain contacts. The junction depletion region extending from the drain side shields the channel from the charge on the side of the charge trapping cell that overlies the drain. The net result of this is that the drain-side charge has little effect on the current running through the channel, while the source-side charge determines the threshold of the transistor.
+
+When source and drain are reversed, the opposite side's charge determines the transistor's threshold.
+
+This way two different charge levels at either end of the charge trapping cell will cause two different currents to flow through the cell, depending on the direction of the current flow.
+
+==Later developments==
+
+===Charge trapping NAND – Samsung and others===
+Samsung Electronics in 2006 disclosed its research into the use of Charge Trapping Flash to allow continued scaling of NAND technology using cell structures similar to the planar structures in use at that time. The technology depends on a SONOS (silicon–oxide–nitride–oxide–silicon) or MONOS (metal-ONOS) capacitor structure, storing the information in charge traps in the nitride layer.
+
+Samsung disclosed two cell structures: TANOS (Titanium, Alumina, Nitride, Oxide, Silicon) for 40 nm, where researchers believed that the existing 3D cap structure (described in detail later in this article) could not be manufactured, and THNOS, in which the aluminum oxide would be replaced with an undisclosed high-k dielectric material.  The high-k material was expected to yield longer retention times than the aluminum oxide structure.
+
+In a cap structure the control gate is extended to form a barrier between adjacent floating gates in a conventional floating gate cell.
+
+Over the following five years many device designers found ways to push the cap structure to increasingly tighter process geometries, successfully producing NAND at the 30 nm node with this approach.
+
+Charge trapping is still viewed as a future technology for NAND flash, but it is being considered more for vertical structures than for planar cells.
+
+====Why NAND needs charge trapping technology====
+thumb|Figure 4. Process shrinks over time.
+NAND flash has been scaling very aggressively (figure 4). As processes migrate, the width of the interface of the control gate and the floating gate shrinks in proportion to the square of the shrink, and the spacing between floating gates shrinks in proportion to the process shrink, but the floating gate's thickness remains the same (the thinner the floating gate is made the less tolerant the cell becomes to electron loss). This means that the coupling between adjacent floating gates becomes larger than the coupling between the control gate and the floating gate, leading to data corruption between adjacent bits.
+
+As processes continue to shrink, this becomes increasingly problematic. For this reason the control gate in modern NAND flash has been reconfigured to cap the floating gate. In a cap structure the control gate is extended to form a barrier between adjacent floating gates in a conventional floating gate cell (see figure 5). This serves to reduce coupling to the adjacent floating gate while increasing the coupling between the floating gate and the control gate. One drawback is that the control gate couples to the channel, so measures must be taken to minimize this coupling.
+
+thumb|Figure 5. Capped cell structure to reduce capacitive coupling between adjacent floating gates.
+It was believed in 2006 that the existing floating gate cap structure could not be manufactured at processes smaller than the 50 nm node due to difficulties in producing the complex three-layer ONO gate oxide that these devices require.
+
+Samsung even announced in late 2006 that by 2008 it would put such a device into production at the 40 nm process node, but over the five years following this announcement many device designers found ways to push the cap structure to increasingly tighter process geometries, successfully producing NAND down to 20 nm node with this approach.
+
+The charge trapping approach is still viewed as a future for NAND flash for processes smaller than 20 nm and is being considered for both planar as well as vertical 3D structures.
+
+====When this change might occur====
+Today  SanDisk asserts that the company expects to continue to use conventional NAND structures into a second node in the 10–19 nm range. This implies that standard device structures could stay in place until the industry reaches 10 nm, however the challenges of producing a reliable floating gate become more severe with each process shrink.
+
+On the other hand, the International Technology Roadmap for Semiconductors (ITRS) process technology roadmap's 2010 Process Integration, Devices, and Structures (PIDS) tables show adoption of charge trapping starting at 22 nm in 2012, and becoming mainstream in 2014 with the 20 nm process.
+
+It is possible that a planar charge trapping cell will be used for future processes. No manufacturers have yet disclosed their processes for geometries smaller than 19 nm.
+
+===Charge trapping layers for vertical structures===
+Vertical structures are seen as a logical next step for NAND flash, once further horizontal scaling becomes inviable. Since vertical features cannot be etched sideways, a charge trapping layer becomes a very interesting way to build a vertical NAND flash string.
+
+Toshiba and Samsung Electronics have disclosed prototypes for vertical charge trapping NAND structures.
+
+====Toshiba's BiCS and Samsung's 3D NAND====
+Toshiba in 2007 and Samsung in 2009 announced the development of 3D V-NAND, a means of building a standard NAND flash bit string vertically rather than horizontally to increase the number of bits in a given area of silicon.
+
+thumb|Figure 6. Vertical NAND structure.
+A rough idea of the cross section of this is shown in figure 6. In this drawing the red portions represent conductive polysilicon, the blue is silicon dioxide insulating layers, and the yellow is the nitride charge trapping layer.
+
+The vertical structures (only one shown) are cylinders that implement a channel that is wrapped in alternating dielectric and charge trapping layers (blue and yellow). To manufacture such a device layers of conducting polysilicon and silicon dioxide dielectric are deposited first on top of a silicon substrate that contains standard CMOS logic elements. A trench is then etched and its walls are deposited first with silicon dioxide (blue), then silicon nitride (yellow), then another silicon dioxide (blue) layer, forming the gate dielectric, the charge trap, and the tunnel dielectric in that order. Finally the hole is filled with conducting polysilicon (red) which forms the channel. The alternating layers of conductive polysilicon function as the control gates in this structure.
+
+This structure takes advantage of the fact that the charge trap layer does not need to be insulated between each control gate, so it need not be etched in the vertical direction.
+
+===Charge trapping in embedded memories===
+One advantage that charge trapping flash has over other technologies is that it can be relatively easily embedded with a standard logic process. A standard logic process can be converted to a logic-plus-flash process through the addition of three more high voltage masks and three more core CTF masks, and none of these six masks is a critical layer (i.e. needs to use the most advanced part of the process). All other logic processes can be shared directly.
+
+==== Bandgap-Engineered Charge-Trapping Memory Devices ====
+
+In ITRS PIDS 2013, it was clearly mentioned that bandgap engineered charge-trapping devices are needed to resolve the retention and erase dilemma. SONOS using a simple tunnel oxide, however, is not suitable for NAND application-once electrons are trapped in deep SiN trap levels they are difficult to detrap even under high electric field. In order to erase the device quickly holes in the substrate are injected into the SiN to neutralize the electron charge. Since the hole barrier for SiO2 is high (~4.1 eV), hole injection efficiency is poor and sufficient hole current is only achievable by using very thin tunnel oxide (~ 2 nm). Such thin tunnel oxide, however, results in poor data retention because direct hole tunneling from the substrate under the weak built-in field caused by storage electrons cannot be stopped (the rate of direct tunneling is a strong function of the barrier thickness but only weakly depends on the electric field, thus the weak built-in field by charge storage is sufficient to cause direct hole tunneling from the substrate which ruins the data retention). Several variations of SONOS have been proposed. Tunnel dielectric engineering concepts are used to modify the tunneling barrier properties to create "variable thickness" tunnel dielectric. For example, triple ultra-thin (1–2 nm) layers of ONO are introduced to replace the single oxide (BE-SONOS) [H. T. Lue, et al, IEDM 2005]. Under high electric field, the upper two layers of oxide and nitride are offset above the Si valence band, and substrate holes readily tunnel through the bottom thin oxide and inject into the thick SiN trapping layer above. In data storage mode, the weak electric field does not offset the triple layer and both electrons in the SiN and holes in the substrate are blocked by the total thickness of the triple layer. Later BE-SONOS is added high-K (Al2O3) and metal gate to enhance the erase performances, the so-called BE-MANOS [S. C. Lai, et al, NVSMW 2007]. It is suggested to add a buffer oxide in between high-K Al2O3 and SiN to improve the retention. Right now the mass production 3D NAND adopts a similar structure of BE-MANOS, with some variations of detail recipe tuning by each individual companies. The concept of bandgap engineered for tunneling barrier is recognized as a necessary path for charge-trapping devices.
+
+Although charge trapping NAND can help the GCR and FG cross talk issues and thus promises scaling below 20nm it does not help the fundamental limitations such as word line breakdown and too few electrons. Therefore, in the
+roadmap trend it occupies a transition role between planar FG and 3D NAND. When charge trapping devices are used to build 3D NAND, the larger device size naturally solves the electron number and the word line breakdown issues.
+
+==Further reading==
+* 
+* 
+* 
+* 
+

@@ -1,0 +1,4693 @@
+Title: Historical population of Ireland
+
+
+The population of Ireland in 2021 was approximately seven million with 1,903,100 in Northern Ireland and 5,123,536 in the Republic of Ireland. In the 2022 census the population of the Republic of Ireland eclipsed five million for the first time since the 1851 census. The population of Ireland in 2016 was approximately 6.6 million (4.75 millionCensus of Ireland 2016 (Irish Central Statistics Office 2016) in the Republic of Ireland and 1.85 millionNorthern Ireland mid year population statistics 2016) in Northern Ireland). Although these figures demonstrate significant growth over recent years, the population of Ireland remains below the record high of 8,175,124 in the 1841 census.
+
+Between 1700 and 1840, Ireland experienced rapid population growth, rising from less than three million in 1700 to over eight million by the 1841 census.Ó Grada Cormac. The population of Ireland 1700–1900 : a survey. In: Annales de démographie historique, 1979. p. 283. In 1851, as the Great Famine was ending, the population of Ireland had dropped to 6.5 million people. The Famine and the resulting Irish diaspora had a dramatic effect on population; by 1891, Ireland's population had slipped under five million and by 1931, it had dropped to just over four million. It stayed around this level until the 1960s, when the population began to rise again.
+
+Below are some statistics to illustrate the rise, fall and rise again of the population since 1841. The statistics also illustrate a massive population shift from the west to the east of the country and increasing urbanisation. The areas around Dublin and Belfast have seen population growth, while Connacht has become depopulated.
+
+== Historical population ==
+
+{|class="wikitable"
+! style="background:silver;" | Year
+! style=":silver;" | Populationhttps://www.persee.fr/doc/adh_0066-2062_1979_num_1979_1_1425 Population figures from 1600 to 1926 from here unless otherwise noted.<br />Figures from 1931 to the present include data from NISRA.
+! style="background:silver;" | %Change
+! style="background:silver;" | Av % per year
+|- align="center"
+| 2022
+| 7.1m
+| 6.6
+| 1.1
+|- align="center"
+| 2016
+| 6.66m
+| 4.2
+| 0.84
+|- align="center"
+| 2011
+| 6.39m
+| 6.86
+| 1.37
+|- align="center"
+| 2006
+| 5.98m
+| 6.6
+| 1.32
+|- align="center"
+| 2001
+| 5.6m
+| 6.1
+| 1.21
+|- align="center"
+| 1996
+| 5.29m
+| 3.5
+| 0.7
+|- align="center"
+| 1991
+| 5.1m
+| 
+| 
+|- align="center"
+| 1986
+| 5.1m
+| 2.2
+| 0.44
+|- align="center"
+| 1981
+| 5m
+| 10.86
+| 1.09
+|- align="center"
+| 1971
+| 4.51m
+| 3.44
+| 0.69
+|- align="center"
+| 1966
+| 4.36m
+| 2.59
+| 0.52
+|- align="center"
+| 1961
+| 4.25m
+| 0.93
+| 0.19
+|- align="center"
+| 1956
+| 4.29m
+| 0.19
+| 0.1
+|- align="center"
+| 1951
+| 4.33m
+| 0.93
+| 1.86
+|- align="center"
+| 1946
+| 4.29m
+| 1.9
+| 0.1
+|- align="center"
+| 1931
+| 4.21m
+| 0.47
+| 0.09
+|- align="center"
+| 1926
+| 4.23m
+| 3.42
+| 0.23
+|- align="center"
+| 1911National Archives online
+| 4.38m
+| 1.79
+| 0.18
+|- align="center"
+| 1901
+| 4.46m
+| 5.11
+| 0.51
+|- align="center"
+| 1891LibraryIreland.com
+| 4.7m
+| 9.27
+| 0.93
+|- align="center"
+| 1881
+| 5.18m
+| 4.07
+| 0.4
+|- align="center"
+| 1871LibraryIreland.com
+| 5.4m
+| 6.9
+| 0.69
+|- align="center"
+| 1861
+| 5.8m
+| 11.45
+| 1.15
+|- align="center"
+| 1851
+| 6.55m
+| 19.93
+| 1.99
+|- align="center"
+| 1841
+| 8.18m
+| 2.89
+| 0.41
+|- align="center"
+| 1834
+| 7.95m
+| 2.32
+| 0.77
+|- align="center"
+| 1831
+| 7.77m
+| 14.26
+| 1.43
+|- align="center"
+| 1821
+| 6.8m
+| 22.08
+| 1.47
+|- align="center"
+| 1806LibraryIreland.com
+| 5.57m
+| 17.26
+| 1.15
+|- align="center"
+| 1791
+| 4.75m
+| 17.28
+| 1.73
+|- align="center"
+| 1781
+| 4.05m
+| 26.56
+| 0.98
+|- align="center"
+| 1754
+| 3.2m
+| 10.3
+| 0.29
+|- align="center"
+| 1718
+| 2.9m
+| 107
+| 0.907
+|- align="center"
+| 1600
+| 1.4m
+|
+|
+|}
+In 2016, the population of Ireland for the first time exceeded the population recorded in the Census of 1851, the first census immediately after the Great Famine, when the population of the island was recorded at 6,575,000.1851 in Ireland
+
+== County populations 2016 ==
+
+{| class="wikitable sortable" style="margin:1em auto;"
+!scope="col"| Rank
+!scope="col"| County
+!scope="col"| Population
+!scope="col"| Density (/ km²)
+!scope="col"| Province
+!scope="col"| Change since  previous census
+|-
+| align=right | 1
+| Dublin
+| align=right | 1,347,359
+| align=right | 1,459.2
+| Leinster
+|  5.7%
+|-
+| align=right | 2
+| Antrim
+| align=right | 618,108
+| align=right | 202.9
+| Ulster
+|  1.8%
+|-
+| align=right | 3
+| Cork
+| align=right | 542,868
+| align=right | 72.3
+| Munster
+|  4.5%
+|-
+| align=right | 4
+| Down
+| align=right | 531,665
+| align=right | 215.6
+| Ulster
+|  8.7%
+|- style="background:#f5f5d3;"
+| align=right |  -
+| Fingal
+| align=right | 296,020
+| align=right | 651.6
+| Leinster
+|  8.1%
+|- style="background:#f5f5d3;"
+| align=right | -
+| South Dublin
+| align=right | 278,767
+| align=right | 1,251.5
+| Leinster
+|  5.1%
+|-
+| align=right | 5
+| Galway
+| align=right | 258,058
+| align=right | 42.0
+| Connacht
+|  3.2%
+|-
+| align=right | 6
+| Londonderry
+| align=right | 247,132
+| align=right | 119.1
+| Ulster
+|  4.8%
+|-
+| align=right | 7
+| Kildare
+| align=right | 222,504
+| align=right | 131.0
+| Leinster
+|  5.6%
+|- style="background:#f5f5d3;"
+| align=right | -
+| Dún Laoghaire–Rathdown
+| align=right | 218,018
+| align=right | 1,706.7
+| Leinster
+|  5.3%
+|-
+| align=right | 8
+| Meath
+| align=right | 195,044
+| align=right | 83.2
+|Leinster
+|  5.9%
+|-
+| align=right | 9
+| Limerick
+| align=right | 194,899
+| align=right | 70.8
+| Munster
+|  1.8%
+|-
+| align=right | 10
+| Tyrone
+| align=right | 179,000
+| align=right | 54.5
+| Ulster
+|  8.4%
+|-
+| align=right | 11
+| Armagh
+| align=right | 174,792
+| align=right | 131.8
+| Ulster
+|  7.3%
+|-
+| align=right | 12
+| Tipperary
+| align=right | 159,553
+| align=right | 37.2
+| Munster
+|  1.1%
+|-
+| align=right | 13
+| Donegal
+| align=right | 159,192
+| align=right | 32.6
+| Ulster
+|  -1.5%
+|-
+| align=right | 14
+| Wexford
+| align=right | 149,722
+| align=right | 63.2
+|Leinster
+|  2.9%
+|-
+| align=right | 15
+| Kerry
+| align=right | 147,707
+| align=right | 30.7
+| Munster
+|  1.4%
+|-
+| align=right | 16
+| Wicklow
+| align=right | 142,425
+| align=right | 70.2
+|Leinster
+|  4.2%
+|-
+| align=right | 17
+| Mayo
+| align=right | 130,507
+| align=right | 23.3
+|Connacht
+|  -0.2%
+|-
+| align=right | 18
+| Louth
+|align=right | 128,884
+| align=right | 155.4
+|Leinster
+|  4.5%
+|-
+| align=right | 19
+| Clare
+| align=right | 118,817
+| align=right | 34.4
+| Munster
+|  1.2%
+|-
+| align=right | 20
+| Waterford
+| align=right | 116,176
+| align=right | 62.7
+| Munster
+|  2.3%
+|-
+| align=right | 21
+| Kilkenny
+| align=right | 99,232
+| align=right | 47.8
+|Leinster
+|  3.9%
+|-
+| align=right | 22
+| Westmeath
+| align=right | 88,770
+| align=right | 48.2
+|Leinster
+|  2.9%
+|-
+| align=right | 23
+| Laois
+| align=right | 84,697
+| align=right | 49.3
+|Leinster
+|  5.2%
+|-
+| align=right | 24
+| Offaly
+| align=right | 77,961
+| align=right | 38.9
+|Leinster
+|  1.7%
+|-
+| align=right | 25
+| Cavan
+| align=right | 76,176
+| align=right | 39.3
+| Ulster
+|  4.0%
+|-
+| align=right | 26
+| Sligo
+| align=right | 65,535
+| align=right | 35.5
+| Connacht
+|  -0.1%
+|-
+| align=right | 27
+| Roscommon
+| align=right | 64,544
+| align=right | 25.3
+| Connacht
+|  0.6%
+|-
+| align=right | 28
+| Monaghan
+| align=right | 61,386
+| align=right | 47.3
+| Ulster
+|  1.3%
+|-
+| align=right | 29
+| Fermanagh
+| align=right | 61,170
+| align=right | 36.1
+| Ulster
+|  6.3%
+|-
+| align=right | 30
+| Carlow
+| align=right | 56,932
+| align=right | 63.4
+| Leinster
+|  4.1%
+|-
+| align=right | 31
+| Longford
+| align=right | 40,873
+| align=right | 37.4
+| Leinster
+|  4.6%
+|-
+| align=right | 32
+| Leitrim
+| align=right | 32,044
+| align=right | 20.1
+| Connacht
+|  0.5%
+|-
+| align=right |
+| Average
+| align=right | 205,429
+| align=right |
+|
+|
+|-
+| align=right |
+| Northern Ireland total
+| align=right | 1,811,867
+| align=right |133
+|
+|
+|-
+| align=right |
+| Republic of Ireland total
+| align=right | 4,761,865
+| align=right |70
+|
+|
+|-
+| Total
+|
+| align=right | 6,573,732
+| align=right | 77.8
+|
+|
+|}
+
+== Historical populations per province ==
+(Measured in 1000s, rounded)
+
+=== Leinster ===
+
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2016
+! 2011
+
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 2,631
+| 2,501
+| 2,292
+| 2,103
+| 1,920
+| 1,858
+| 1,851
+| 1,789
+| 1,741
+| 1,495
+| 1,413
+| 1,330
+| 1,336
+| 1,336
+| 1,278
+| 1,217
+| 1,147
+| 1,160
+| 1,152
+| 1,186
+| 1,276
+| 1,336
+| 1,454
+| 1,668
+| 1,969
+|-  align="center"
+| style="background:grey;" | Rank
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 2
+| 2
+| 2
+| 2
+| 2
+|-  align="center"
+| style="background:grey;" | %Change
+| 5.2
+| 9
+| 9
+| 9.53
+| 3.34
+| 0.38
+| 3.47
+| 2.76
+| 16.45
+| 5.8
+| 6.24
+| -(0.45)
+| 0
+| 4.54
+| 5.01
+| 6.10
+| -(1.12)
+| 0.69
+| -(2.87)
+| -(7.05)
+| -(4.49)
+| -(8.12)
+| -(12.83)
+| -(15.29)
+|
+|}
+
+
+=== Munster ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 1,280
+| 1,244
+| 1,173
+| 1,098
+| 1,032
+| 1,004
+| 1,018
+| 996
+| 978
+| 879
+| 856
+| 847
+| 874
+| 897
+| 914
+| 940
+| 968
+| 1,033
+| 1,073
+| 1,169
+| 1,328
+| 1,390
+| 1,510
+| 1,856
+| 2,396
+|-  align="center"
+| style="background:grey;" | Rank
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 1
+| 1
+| 1
+| 1
+| 1
+|-  align="center"
+| style="background:grey;" | %Change
+| 2.9
+| 6.0
+| 6.83
+| 6.4
+| 2.79
+| -(1.38)
+| 2.21
+| 1.84
+| 11.26
+| 2.69
+| 1.06
+| -(3.09)
+| -(2.56)
+| -(1.86)
+| -(2.77)
+| -(2.89)
+| -(6.29)
+| -(3.73)
+| -(8.21)
+| -(11.97)
+| -(4.46)
+| -(7.95)
+| -(18.64)
+| -(22.47)
+|
+|}
+
+
+=== Connacht ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 551
+| 542
+| 504
+| 464
+| 431
+| 421
+| 431
+| 424
+| 418
+| 390
+| 401
+| 418
+| 446
+| 471
+| 493
+| 525
+| 552
+| 611
+| 646
+| 724
+| 820
+| 846
+| 911
+| 1,008
+| 1,419
+|-  align="center"
+| style="background:grey;" | Rank
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 4
+|-  align="center"
+| style="background:grey;" | %Change
+| 1.7
+| 7.5
+| 8.62
+| 7.66
+| 2.38
+| -(2.32)
+| 1.65
+| 1.44
+| 7.18
+| -(2.74)
+| -(4.07)
+| -(6.28)
+| -(5.31)
+| -(4.46)
+| -(6.10)
+| -(4.89)
+| -(9.66)
+| -(5.42)
+| -(10.77)
+| -(11.71)
+| -(3.07)
+| -(7.14)
+| -(9.62)
+| -(28.86)
+|
+|}
+
+
+=== Ulster ===
+Figures not in bold are for the Republic of Ireland counties of Ulster only. Figures in bold are for the whole of Ulster.
+
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+|
+| 2,106
+| 267
+| 247
+| 233
+| 232
+| 236
+| 230
+| 226
+| 207
+| 209
+| 218
+| 236
+| 253
+| 263
+| 280
+| 300
+| 331
+| 347
+| 385
+| 438
+| 474
+| 517
+| 571
+| 2,386
+|-  align="center"
+| style="background:grey;" | Rank
+|
+| 2
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 2
+|-  align="center"
+| style="background:grey;" | %Change
+|
+| 10.1
+| 8.1
+| 6.01
+| 0.43
+| -(1.69)
+| 2.61
+| 1.77
+| 9.18
+| -(0.96)
+| -(4.13)
+| -(7.63)
+| -(6.72)
+| -(3.80)
+| -(6.07)
+| -(6.67)
+| -(9.37)
+| -(4.61)
+| -(9.87)
+| -(12.10)
+| -(7.59)
+| -(8.32)
+| -(9.46)
+|
+|
+|}
+
+
+== Historical populations per county ==
+(Measured in 1000s)
+
+=== Dublin ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! ?1931
+! 1928
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 1,450
+| 1,345
+| 1,271
+| 1,186
+| 1,122
+| 1,058
+| 1,025
+| 1,021
+| 1,003
+| 983
+| 852
+| 795
+| 718
+| 705
+| 693
+| 636
+| 586
+| 505
+| 477
+| 448
+| 419
+| 418
+| 405
+| 410
+| 405
+| 372
+|-  align="center"
+| style="background:grey;" | Rank
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+| 2
+| 2
+| 2
+| 2
+| 2
+| 5
+|-  align="center"
+| style="background:grey;" | %Change
+| 7.8
+| 5.8
+| 7.0
+| 5.7
+| 6.05
+| 3.22
+| 0.39
+| 1.8
+| 2.04
+| 15.37
+| 7.17
+| 10.72
+| 1.84
+| 1.73
+| 8.96
+| 8.53
+| 16.04
+| 5.87
+| 6.47
+| 6.92
+| 0.24
+| 3.21
+|  - (1.22)
+| 1.23
+| 8.87
+|
+|}
+
+
+=== Antrim ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2021
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+|
+|
+| 618
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-  align="center"
+| style="background:grey;" | Rank
+|
+|
+| 2
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-  align="center"
+| style="background:grey;" | %Change
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|}
+
+
+=== Down ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2021
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+|
+|
+| 532
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-  align="center"
+| style="background:grey;" | Rank
+|
+|
+| 3
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-  align="center"
+| style="background:grey;" | %Change
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|}
+
+
+=== Cork ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 581
+| 542
+| 519
+| 481
+| 447
+| 420
+| 410
+| 412
+| 402
+| 396
+| 352
+| 339
+| 330
+| 336
+| 341
+| 343
+| 355
+| 365
+| 391
+| 404
+| 438
+| 495
+| 517
+| 544
+| 649
+| 854
+|-  align="center"
+| style="background:grey;" | Rank
+| 2
+| 2
+| 4
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 2
+| 1
+| 1
+| 1
+| 1
+| 1
+| 1
+|-  align="center"
+| style="background:grey;" | %Change
+| 7.2
+| 4.4
+| 7.7
+| 7.61
+| 6.43
+| 2.44
+| − (0.49)
+| 2.48
+| 1.52
+| 12.5
+| 3.84
+| 2.73
+| - (1.82)
+| - (1.49)
+| - (0.59)
+| - (3.5)
+| - (2.82)
+| - (7.12)
+| - (3.3)
+| - (8.42)
+| - (13.01)
+| − (4.26)
+| − (4.96)
+| − (16.18)
+| − (24)
+|
+|}
+
+
+=== Galway ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 276
+| 258
+| 251
+| 231
+| 209
+| 188
+| 180
+| 178
+| 172
+| 167
+| 149
+| 148
+| 149
+| 155
+| 160
+| 165
+| 168
+| 169
+| 182
+| 192
+| 214
+| 242
+| 248
+| 271
+| 321
+| 440
+|-  align="center"
+| style="background:grey;" | Rank]
+| 3
+| 3
+| 5
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 3
+| 4
+| 4
+| 4
+| 4
+| 4
+| 3
+| 3
+| 4
+| 2
+|-  align="center"
+| style="background:grey;" | %Change
+| 6.9
+| 2.8
+| 8.1
+| 10.53
+| 11.17
+| 4.44
+| 1.12
+| 3.49
+| 2.91
+| 12.08
+| 0.68
+| - (0.68)
+| - (4.03)
+| - (3.13)
+| - (3.13)
+| - (1.82)
+| - (0.6)
+| - (7.7)
+| - (5.5)
+| - (11.46)
+| - (14.15)
+| − (2.42)
+| − (8.49)
+| − (15.58)
+| − (27.05)
+|
+|}
+
+
+=== Derry ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2021
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+|
+|
+| 247
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-  align="center"
+| style="background:grey;" | Rank
+|
+|
+| 6
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-  align="center"
+| style="background:grey;" | %Change
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|}
+
+
+=== Kildare ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 247
+| 222
+| 210
+| 186
+| 163
+| 134
+| 122
+| 116
+| 104
+| 97
+| 71
+| 66
+| 64
+| 65
+| 66
+| 64
+| 57
+| 58
+| 66
+| 63
+| 70
+| 75
+| 83
+| 90
+| 95
+| 114
+|-  align="center"
+| style="background:grey;" | Rank
+| 4
+| 4
+| 7
+| 4
+| 5
+| 5
+| 7
+| 8
+| 9
+| 9
+| 13
+| 14
+| 14
+| 14
+| 14
+| 17
+| 20
+| 19
+| 17
+| 20
+| 20
+| 20
+| 20
+| 21
+| 24
+| 25
+|-  align="center"
+| style="background:grey;" | %Change
+| 11.3
+| 5.7
+| 12.7
+| 14.11
+| 21.64
+| 9.84
+| 5.17
+| 11.54
+| 7.22
+| 36.62
+| 7.58
+| 3.13
+| - (1.56)
+| - (1.56)
+| 3.13
+| 12.28
+| - (1.56)
+| - (13.79)
+| 4.76
+| - (11.11)
+| - (7.14)
+| − (9.64)
+| − (7.78)
+| − (5.26)
+| − (16.67)
+|
+|}
+
+
+=== Limerick ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 205
+| 195
+| 191
+| 184
+| 175
+| 165
+| 161
+| 164
+| 161
+| 157
+| 140
+| 137
+| 133
+| 137
+| 141
+| 142
+| 141
+| 140
+| 143
+| 146
+| 158
+| 180
+| 191
+| 217
+| 262
+| 330
+|-  align="center"
+| style="background:grey;" | Rank
+| 6
+| 5
+| 8
+| 5
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 5
+| 6
+| 7
+| 8
+| 8
+| 8
+| 8
+| 8
+| 7
+| 6
+| 6
+|-  align="center"
+| style="background:grey;" | %Change
+| 5.1
+| 2.1
+| 4.01
+| 5.14
+| 6.06
+| 2.48
+| − (1.83)
+| 1.86
+| 2.55
+| 12.14
+| 2.19
+| 3.01
+| - (3.01)
+| - (2.92)
+| - (0.71)
+| 0.71
+| 0.71
+| - (2.14)
+| - (2.10)
+| - (8.22)
+| - (13.92)
+| − (5.76)
+| − (11.98)
+| − (17.18)
+| − (20.61)
+|
+|}
+
+
+=== Meath ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 220
+| 194
+| 184
+| 163
+| 134
+| 109
+| 105
+| 103
+| 95
+| 90
+| 71
+| 67
+| 65
+| 66
+| 66
+| 66
+| 61
+| 62
+| 65
+| 67
+| 76
+| 87
+| 95
+| 110
+| 140
+| 183
+|-  align="center"
+| style="background:grey;" | Rank
+| 5
+| 6
+| 9
+| 6
+| 8
+| 10
+| 10
+| 10
+| 11
+| 11
+| 13
+| 13
+| 13
+| 13
+| 14
+| 14
+| 17
+| 18
+| 18
+| 18
+| 18
+| 18
+| 18
+| 17
+| 16
+| 16
+|-  align="center"
+| style="background:grey;" | %Change
+| 13.4
+| 5.4
+| 13.0
+| 21.6
+| 22.94
+| 3.81
+| 1.94
+| 8.42
+| 5.56
+| 26.76
+| 5.97
+| 3.08
+| - (1.54)
+| -
+| -
+| 8.2
+| - (1.64)
+| - (6.84)
+| - (3.08)
+| - (13.43)
+| - (11.84)
+| − (8.42)
+| − (13.64)
+| − (21.43)
+| − (23.5)
+|
+|}
+
+
+=== Tyrone ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2021
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+|
+|
+| 178
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-  align="center"
+| style="background:grey;" | Rank
+|
+|
+| 10
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-  align="center"
+| style="background:grey;" | %Change
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|}
+
+
+=== Armagh ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2021
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+|
+|
+| 175
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-  align="center"
+| style="background:grey;" | Rank
+|
+|
+| 11
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-  align="center"
+| style="background:grey;" | %Change
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|}
+
+
+=== Tipperary ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 167
+| 160
+| 159
+| 149
+| 140
+| 133
+| 131
+| 136
+| 134
+| 133
+| 123
+| 121
+| 123
+| 128
+| 133
+| 135
+| 137
+| 140
+| 151
+| 159
+| 172
+| 199
+| 216
+| 248
+| 331
+| 435
+|-  align="center"
+| style="background:grey;" | Rank
+| 7
+| 7
+| 12
+| 7
+| 6
+| 6
+| 5
+| 5
+| 5
+| 5
+| 5
+| 5
+| 5
+| 6
+| 6
+| 7
+| 8
+| 7
+| 7
+| 7
+| 7
+| 7
+| 6
+| 5
+| 3
+| 3
+|-  align="center"
+| style="background:grey;" | %Change
+| 4.4
+| 0.6
+| 6.4
+| 6.43
+| 5.26
+| 1.53
+| − (3.68)
+| 1.49
+| 0.75
+| 8.13
+| 1.65
+| - (1.65)
+| - (2.19)
+| - (2.19)
+| - (1.5)
+| - (1.5)
+| - (2.19)
+| - (7.86)
+| - (5.3)
+| - (8.18)
+| - (15.7)
+| − (8.87)
+| − (12.9)
+| − (25.08)
+| − (23.91)
+|
+|}
+
+
+=== Donegal ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 166
+| 158
+| 161
+| 147
+| 137
+| 129
+| 128
+| 130
+| 125
+| 122
+| 108
+| 109
+| 114
+| 122
+| 114
+| 136
+| 142
+| 153
+| 169
+| 174
+| 187
+| 206
+| 218
+| 237
+| 255
+| 296
+|-  align="center"
+| style="background:grey;" | Rank
+| 8
+| 8
+| 14
+| 8
+| 7
+| 7
+| 7
+| 6
+| 6
+| 6
+| 6
+| 8
+| 8
+| 8
+| 7
+| 6
+| 5
+| 5
+| 5
+| 5
+| 5
+| 5
+| 5
+| 6
+| 7
+| 7
+|-  align="center"
+| style="background:grey;" | %Change
+| 5.1
+| - (1.9)
+| 9.3
+| 7.3
+| 6.2
+| 0.78
+| − (1.54)
+| 4.0
+| 2.46
+| 12.96
+| - (0.93)
+| - (4.59)
+| - (7.02)
+| 7.02
+| - (19.02)
+| - (4.42)
+| - (7.75)
+| - (10.46)
+| - (4.59)
+| - (7.47)
+| - (10.16)
+| − (5.5)
+| − (8.02)
+| − (7.06)
+| − (13.85)
+|
+|}
+
+
+=== Wexford ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 163
+| 149
+| 145
+| 132
+| 116
+| 104
+| 102
+| 103
+| 99
+| 96
+| 86
+| 83
+| 83
+| 87
+| 90
+| 92
+| 94
+| 96
+| 102
+| 104
+| 112
+| 123
+| 132
+| 143
+| 180
+| 202
+|-  align="center"
+| style="background:grey;" | Rank
+| 9
+| 9
+| 15
+| 10
+| 11
+| 11
+| 11
+| 10
+| 10
+| 10
+| 9
+| 9
+| 9
+| 9
+| 9
+| 9
+| 9
+| 9
+| 10
+| 10
+| 11
+| 12
+| 12
+| 12
+| 10
+| 12
+|-  align="center"
+| style="background:grey;" | %Change
+| 8.1
+| 2.8
+| 10.3
+| 13.79
+| 11.54
+| 1.96
+| −0.97
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| −6.82
+| −7.69
+| −20.56
+| −10.89
+|
+|}
+
+
+=== Kerry ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 155
+| 147
+| 145
+| 140
+| 132
+| 126
+| 121
+| 124
+| 122
+| 120
+| 112
+| 112
+| 116
+| 122
+| 126
+| 133
+| 139
+| 149
+| 159
+| 165
+| 179
+| 201
+| 196
+| 201
+| 238
+| 293
+|-  align="center"
+| style="background:grey;" | Rank
+| 11
+| 10
+| 16
+| 9
+| 9
+| 8
+| 8
+| 7
+| 7
+| 7
+| 6
+| 7
+| 7
+| 7
+| 8
+| 8
+| 7
+| 6
+| 6
+| 6
+| 6
+| 6
+| 7
+| 8
+| 8
+| 8
+|-  align="center"
+| style="background:grey;" | %Change
+| 5.4
+| 1.4
+| 3.7
+| 6.06
+| 4.76
+| 4.13
+| −2.42
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| 2.55
+| −2.49
+| −15.55
+| −18.77
+|
+|}
+
+
+=== Wicklow ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 155
+| 142
+| 136
+| 126
+| 114
+| 102
+| 97
+| 95
+| 87
+| 84
+| 66
+| 60
+| 58
+| 60
+| 63
+| 60
+| 59
+| 58
+| 61
+| 61
+| 62
+| 70
+| 78
+| 86
+| 98
+| 126
+|-  align="center"
+| style="background:grey;" | Rank
+| 10
+| 11
+| 17
+| 11
+| 12
+| 12
+| 12
+| 12
+| 15
+| 15
+| 15
+| 15
+| 17
+| 18
+| 18
+| 19
+| 19
+| 19
+| 21
+| 22
+| 24
+| 24
+| 22
+| 24
+| 23
+| 23
+|-  align="center"
+| style="background:grey;" | %Change
+| 9.2
+| 4.4
+| 8.1
+| 10.53
+| 11.76
+| 5.15
+| 2.11
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| −10.26
+| −9.3
+| −12.24
+| −22.22
+|
+|}
+
+
+=== Mayo ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 137
+| 130
+| 131
+| 124
+| 117
+| 111
+| 110
+| 115
+| 114
+| 114
+| 109
+| 115
+| 123
+| 133
+| 141
+| 148
+| 161
+| 172
+| 192
+| 199
+| 219
+| 245
+| 246
+| 254
+| 274
+| 388
+|-  align="center"
+| style="background:grey;" | Rank
+| 13
+| 12
+| 18
+| 12
+| 10
+| 9
+| 9
+| 9
+| 8
+| 8
+| 7
+| 6
+| 5
+| 5
+| 4
+| 4
+| 4
+| 3
+| 3
+| 3
+| 3
+| 3
+| 4
+| 4
+| 5
+| 4
+|-  align="center"
+| style="background:grey;" | %Change
+| 5.4
+| - 0.8
+| 5.4
+| 7.09
+| 9.41
+| 0.91
+| −8.09
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| −0.41
+| −3.15
+| −7.3
+| −39.87
+|
+|}
+
+
+=== Louth ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 139
+| 128
+| 123
+| 111
+| 102
+| 92
+| 91
+| 92
+| 89
+| 86
+| 75
+| 70
+| 67
+| 69
+| 69
+| 66
+| 64
+| 63
+| 64
+| 66
+| 71
+| 78
+| 84
+| 91
+| 108
+| 128
+|-  align="center"
+| style="background:grey;" | Rank
+| 12
+| 13
+| 19
+| 13
+| 14
+| 15
+| 13
+| 13
+| 12
+| 13
+| 11
+| 12
+| 12
+| 12
+| 12
+| 14
+| 16
+| 17
+| 19
+| 19
+| 19
+| 19
+| 19
+| 19
+| 22
+| 22
+|-  align="center"
+| style="background:grey;" | %Change
+| 8.6
+| 4.06
+| 10.4
+| 8.82
+| 10.87
+| 1.1
+| −1.09
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| −7.14
+| −7.69
+| −15.74
+| −15.63
+|
+|}
+
+
+=== Clare ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 127
+| 118
+| 117
+| 111
+| 103
+| 94
+| 90
+| 91
+| 88
+| 85
+| 75
+| 74
+| 74
+| 77
+| 81
+| 85
+| 90
+| 95
+| 104
+| 112
+| 124
+| 141
+| 147
+| 166
+| 212
+| 286
+|-  align="center"
+| style="background:grey;" | Rank
+| 14
+| 14
+| 20
+| 13
+| 13
+| 13
+| 15
+| 14
+| 14
+| 14
+| 11
+| 10
+| 10
+| 10
+| 10
+| 10
+| 10
+| 10
+| 9
+| 9
+| 9
+| 9
+| 9
+| 9
+| 9
+| 9
+|-  align="center"
+| style="background:grey;" | %Change
+| 7.2
+| 0.9
+| 5.3
+| 7.77
+| 9.57
+| 4.44
+| −1.1
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| −4.08
+| −11.45
+| −21.7
+| −25.87
+|
+|}
+
+
+=== Waterford ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 127
+| 114
+| 108
+| 102
+
+| 94
+| 91
+| 91
+| 89
+| 87
+| 77
+| 73
+| 71
+| 74
+| 75
+| 76
+| 78
+| 79
+| 84
+| 87
+| 98
+| 112
+| 123
+| 134
+| 164
+| 196
+|-  align="center"
+| style="background:grey;" | Rank
+| 15
+| 15
+| 21
+| 15
+| 15
+| 13
+| 13
+| 14
+| 12
+| 12
+| 10
+| 11
+| 11
+| 11
+| 11
+| 11
+| 11
+| 13
+| 13
+| 13
+| 13
+| 13
+| 13
+| 13
+| 13
+| 15
+|-  align="center"
+| style="background:grey;" | %Change
+| 9.2
+| 1.8
+| 5.3
+| 6.93
+| 7.45
+| 3.3
+| 0
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| −8.94
+| −8.21
+| −18.29
+| −16.33
+|
+|}
+
+
+=== Kilkenny ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 103
+| 99
+| 95
+| 87
+| 80
+| 75
+| 73
+| 73
+| 70
+| 69
+| 61
+| 60
+| 61
+| 64
+| 65
+| 66
+| 68
+| 70
+| 74
+| 79
+| 87
+| 99
+| 109
+| 124
+| 158
+| 202
+|-  align="center"
+| style="background:grey;" | Rank
+| 16
+| 16
+| 22
+| 16
+| 16
+| 16
+| 16
+| 16
+| 16
+| 16
+| 16
+| 15
+| 15
+| 15
+| 17
+| 14
+| 14
+| 15
+| 15
+| 15
+| 15
+| 16
+| 16
+| 15
+| 14
+| 12
+|-  align="center"
+| style="background:grey;" | %Change
+| 4.5
+| 4.2
+| 8.9
+| 8.75
+| 6.67
+| 2.74
+| 0
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| −9.17
+| −12.1
+| −21.52
+| −21.78
+|
+|}
+
+
+=== Westmeath ===
+
+{| class="wikitable"
+!style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|- align="center"
+|style="background:grey;"|Population
+| 95
+| 88
+| 86
+| 79
+| 71
+| 63
+| 61
+| 63
+| 61
+| 59
+| 53
+| 52
+| 52
+| 54
+| 54
+| 54
+| 54
+| 56
+| 59
+| 61
+| 65
+| 71
+| 78
+| 90
+| 111
+| 141
+|- align="center"
+|style="background:grey;"|Rank
+|17
+|17
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|- align="center"
+|style="background:grey;"|%Change
+| 8
+|+3.0
+|+8.6
+|+10.4
+|+13.5
+|+2.3
+|
+|+3.0
+|+2.7
+|+11.8
+|+1.3
+|+0.1
+|
+|−2.3
+|−0.6
+|−0.9
+|+0.4
+|−3.7
+|−5.3
+|−2.7
+|−5.3
+|−9.3
+|−8.5
+|−13.7
+|−18.4
+|−21.2
+| +3.2
+|}
+
+=== Laois ===
+
+{| class="wikitable"
+! style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+!1871
+!1861
+!1851
+!1841
+|- align="center"
+| style="background:grey;" | Population
+| 91
+| 84
+| 80
+| 67
+| 58
+| 52
+| 52
+| 53
+| 51
+| 49
+| 45
+| 44
+| 45
+| 47
+| 48
+| 49
+| 50
+| 51
+| 54
+| 57
+| 64
+| 73
+|79
+|90
+|111
+|153
+|- align="center"
+| style="background:grey;" | Rank
+| 18
+| 18
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|- align="center"
+| style="background:grey;" | %Change
+| 8.2
+|+5.1
+|+20.1
+|+14.1
+|+11.0
+|+1.2
+|−1.8
+|+4.1
+|+2.5
+|+10.3
+|+1.5
+|−1.1
+|−4.3
+|−2.8
+|−2.5
+|−0.8
+|−2.8
+|−5.7
+|−4.9
+|−11.5
+|−11.3
+|−8.3
+|−12.0
+|−18.8
+|−27.5
+| +5.5
+|}
+
+=== Offaly ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 82
+| 78
+| 77
+| 71
+| 64
+| 59
+| 58
+| 60
+| 58
+| 57
+| 52
+| 52
+| 52
+| 52
+| 53
+| 54
+| 51
+| 53
+| 57
+| 60
+| 66
+| 73
+| 76
+| 90
+| 112
+| 147
+|-  align="center"
+| style="background:grey;" | Rank
+| 19
+| 19
+| 19
+| 18
+| 18
+| 18
+| 18
+| 18
+| 18
+| 18
+| 20
+| 20
+| 21
+| 21
+| 22
+| 22
+| 22
+| 23
+| 23
+| 23
+| 21
+| 21
+| 24
+| 21
+| 18
+| 20
+|-  align="center"
+| style="background:grey;" | %Change
+| 6
+| 1.3
+| 8.4
+| 10.94
+| 8.47
+| 1.72
+| −3.33
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| −3.95
+| −15.56
+| −19.64
+| −23.81
+|
+|}
+
+
+=== Cavan ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 81
+| 76
+| 73
+| 64
+| 57
+| 53
+| 53
+| 54
+| 54
+| 54
+| 53
+| 54
+| 57
+| 62
+| 66
+| 70
+| 77
+| 82
+| 91
+| 98
+| 112
+| 129
+| 141
+| 154
+| 174
+| 243
+|-  align="center"
+| style="background:grey;" | Rank
+| 20
+| 20
+| 20
+| 20
+| 21
+| 20
+| 20
+| 21
+| 21
+| 20
+| 19
+| 18
+| 18
+| 17
+| 14
+| 13
+| 13
+| 12
+| 12
+| 12
+| 11
+| 11
+| 10
+| 11
+| 11
+| 11
+|-  align="center"
+| style="background:grey;" | %Change
+| 6.6
+| 4.1
+| 13.9
+| 12.28
+| 7.55
+| 0
+| −1.85
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| −8.51
+| −8.44
+| −11.49
+| −28.4
+|
+|}
+
+
+=== Sligo ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 69
+| 65
+| 65
+| 61
+| 58
+| 55
+| 54
+| 56
+| 55
+| 55
+| 50
+| 51
+| 54
+| 57
+| 61
+| 62
+| 67
+| 71
+| 79
+| 84
+| 98
+| 111
+| 115
+| 124
+| 128
+| 180
+|-  align="center"
+| style="background:grey;" | Rank
+| 22
+| 21
+| 21
+| 21
+| 20
+| 19
+| 19
+| 19
+| 19
+| 19
+| 21
+| 21
+| 19
+| 19
+| 19
+| 18
+| 15
+| 14
+| 14
+| 14
+| 13
+| 14
+| 14
+| 15
+| 17
+| 17
+|-  align="center"
+| style="background:grey;" | %Change
+| 6.5
+| 0.0
+| 7.2
+| 5.17
+| 5.45
+| 1.85
+| −3.57
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| −3.48
+| −7.26
+| −3.13
+| −28.89
+|
+|}
+
+
+=== Roscommon ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 69
+| 64
+| 64
+| 59
+| 54
+| 52
+| 52
+| 55
+| 55
+| 54
+| 54
+| 56
+| 59
+| 64
+| 68
+| 73
+| 78
+| 84
+| 94
+| 102
+| 114
+| 132
+| 141
+| 157
+| 173
+| 254
+|-  align="center"
+| style="background:grey;" | Rank
+| 21
+| 22
+| 22
+| 22
+| 22
+| 21
+| 21
+| 20
+| 19
+| 20
+| 17
+| 17
+| 16
+| 15
+| 13
+| 12
+| 11
+| 11
+| 11
+| 11
+| 10
+| 10
+| 10
+| 10
+| 12
+| 10
+|-  align="center"
+| style="background:grey;" | %Change
+| 8.4
+| 0.0
+| 8.7
+| 9.26
+| 3.85
+| 0
+| −5.45
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| −6.38
+| −10.19
+| −9.25
+| −31.89
+|
+|}
+
+
+=== Fermanagh ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2021
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+|
+|
+| 62
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-  align="center"
+| style="background:grey;" | Rank
+|
+|
+| 28
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-  align="center"
+| style="background:grey;" | %Change
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|}
+
+
+=== Monaghan ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 64
+| 61
+| 60
+| 56
+| 53
+| 51
+| 51
+| 52
+| 51
+| 50
+| 46
+| 46
+| 47
+| 52
+| 55
+| 57
+| 61
+| 65
+| 71
+| 75
+| 86
+| 103
+| 115
+| 126
+| 142
+| 200
+|-  align="center"
+| style="background:grey;" | Rank
+| 23
+| 23
+| 23
+| 23
+| 23
+| 23
+| 23
+| 23
+| 22
+| 22
+| 22
+| 22
+| 22
+| 21
+| 20
+| 20
+| 17
+| 16
+| 16
+| 16
+| 16
+| 15
+| 14
+| 14
+| 15
+| 14
+|-  align="center"
+| style="background:grey;" | %Change
+| 5.6
+| 1.7
+| 8.0
+| 5.66
+| 3.92
+| 0
+| −1.92
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| −10.43
+| −8.73
+| −11.27
+| −29
+|
+|}
+
+
+=== Carlow ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 61
+| 56
+| 54
+| 50
+| 46
+| 42
+| 41
+| 41
+| 40
+| 39
+| 34
+| 34
+| 33
+| 34
+| 34
+| 34
+| 34
+| 34
+| 36
+| 38
+| 41
+| 47
+| 52
+| 57
+| 68
+| 86
+|-  align="center"
+| style="background:grey;" | Rank
+| 24
+| 24
+| 24
+| 24
+| 24
+| 24
+| 24
+| 24
+| 24
+| 24
+| 24
+| 24
+| 24
+| 25
+| 26
+| 26
+| 26
+| 26
+| 26
+| 26
+| 26
+| 26
+| 26
+| 26
+| 26
+| 26
+|-  align="center"
+| style="background:grey;" | %Change
+| 8.8
+| 3.7
+| 8.3
+| 8.7
+| 9.52
+| 2.44
+| 0
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| −9.62
+| −8.77
+| −16.18
+| −20.93
+|
+|}
+
+
+=== Longford ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 46
+| 40
+| 39
+| 34
+| 31
+| 30
+| 30
+| 31
+| 31
+| 31
+| 28
+| 29
+| 31
+| 33
+| 35
+| 36
+| 38
+| 40
+| 44
+| 47
+| 53
+| 61
+| 65
+| 72
+| 82
+| 115
+|-  align="center"
+| style="background:grey;" | Rank
+| 25
+| 25
+| 25
+| 25
+| 25
+| 25
+| 25
+| 25
+| 25
+| 25
+| 25
+| 26
+| 26
+| 26
+| 25
+| 25
+| 25
+| 25
+| 25
+| 25
+| 25
+| 25
+| 25
+| 25
+| 25
+| 24
+|-  align="center"
+| style="background:grey;" | %Change
+| 14.1
+| 2.6
+| 13.3
+| 9.68
+| 3.33
+| 0
+| −3.23
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| −6.15
+| −9.72
+| −12.2
+| −28.7
+|
+|}
+
+
+=== Leitrim ===
+
+{|class="wikitable"
+! style="background:grey;" | Year
+! 2022
+! 2016
+! 2011
+! 2006
+! 2002
+! 1996
+! 1991
+! 1986
+! 1981
+! 1979
+! 1971
+! 1966
+! 1961
+! 1956
+! 1951
+! 1946
+! 1936
+! 1926
+! 1911
+! 1901
+! 1891
+! 1881
+! 1871
+! 1861
+! 1851
+! 1841
+|-  align="center"
+| style="background:grey;" | Population
+| 35
+| 32
+| 32
+| 29
+| 26
+| 25
+| 25
+| 27
+| 28
+| 28
+| 28
+| 31
+| 33
+| 37
+| 41
+| 45
+| 51
+| 56
+| 64
+| 69
+| 79
+| 90
+| 96
+| 105
+| 112
+| 155
+|-  align="center"
+| style="background:grey;" | Rank
+| 26
+| 26
+| 26
+| 26
+| 26
+| 26
+| 26
+| 26
+| 26
+| 26
+| 25
+| 25
+| 24
+| 24
+| 24
+| 24
+| 22
+| 22
+| 19
+| 17
+| 17
+| 17
+| 17
+| 18
+| 18
+| 18
+|-  align="center"
+| style="background:grey;" | %Change
+| 9.5
+| 0.0
+| 9.8
+| 11.54
+| 4
+| 0
+| −7.41
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| −6.25
+| −8.57
+| −6.25
+| −27.74
+|
+|}
+
+
+== See also ==
+*Census of Ireland, 1911
+*Demographics of the Republic of Ireland
+*Demography of Northern Ireland
+*Republic of Ireland Census 2011
+*Irish diaspora
+
+== References ==
+
+
+== External links ==
+*Historical data at Irish census site
+
+
+Analysis
+

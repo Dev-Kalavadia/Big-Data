@@ -1,0 +1,51 @@
+Title: Band diagram
+
+
+
+
+
+
+In solid-state physics of semiconductors, a band diagram is a diagram plotting various key electron energy levels (Fermi level and nearby energy band edges) as a function of some spatial dimension, which is often denoted x. These diagrams help to explain the operation of many kinds of semiconductor devices and to visualize how bands change with position (band bending). The bands may be coloured to distinguish level filling.
+
+A band diagram should not be confused with a band structure plot. In both a band diagram and a band structure plot, the vertical axis corresponds to the energy of an electron. The difference is that in a band structure plot the horizontal axis represents the wave vector of an electron in an infinitely large, homogeneous material (a crystal or vacuum), whereas in a band diagram the horizontal axis represents position in space, usually passing through multiple materials.
+
+Because a band diagram shows the changes in the band structure from place to place, the resolution of a band diagram is limited by the Heisenberg uncertainty principle: the band structure relies on momentum, which is only precisely defined for large length scales. For this reason, the band diagram can only accurately depict evolution of band structures over long length scales, and has difficulty in showing the microscopic picture of sharp, atomic scale interfaces between different materials (or between a material and vacuum). Typically, an interface must be depicted as a "black box", though its long-distance effects can be shown in the band diagram as asymptotic band bending.
+
+==Anatomy==
+The vertical axis of the band diagram represents the energy of an electron, which includes both kinetic and potential energy. The horizontal axis represents position, often not being drawn to scale. Note that the Heisenberg uncertainty principle prevents the band diagram from being drawn with a high positional resolution, since the band diagram shows energy bands (as resulting from a momentum-dependent band structure).
+
+While a basic band diagram only shows electron energy levels, often a band diagram will be decorated with further features.
+It is common to see cartoon depictions of the motion in energy and position of an electron (or electron hole) as it drifts, is excited by a light source, or relaxes from an excited state.
+The band diagram may be shown connected to a circuit diagram showing how bias voltages are applied, how charges flow, etc.
+The bands may be colored to indicate filling of energy levels, or sometimes the band gaps will be colored instead.
+
+===Energy levels===
+Depending on the material and the degree of detail desired, a variety of energy levels will be plotted against position:
+* EF or μ: Although it is not a band quantity, the Fermi level (total chemical potential of electrons) is a crucial level in the band diagram. The Fermi level is set by the device's electrodes. For a device at equilibrium, the Fermi level is a constant and thus will be shown in the band diagram as a flat line. Out of equilibrium (e.g., when voltage differences are applied), the Fermi level will not be flat. Furthermore, in semiconductors out of equilibrium it may be necessary to indicate multiple quasi-Fermi levels for different energy bands, whereas in an out-of-equilibrium insulator or vacuum it may not be possible to give a quasi-equilibrium description, and no Fermi level can be defined.
+* EC: The conduction band edge should be indicated in situations where electrons might be transported at the bottom of the conduction band, such as in an n-type semiconductor. The conduction band edge may also be indicated in an insulator, simply to demonstrate band bending effects.
+* EV: The valence band edge likewise should be indicated in situations where electrons (or holes) are transported through the top of the valence band such as in a p-type semiconductor.
+* Ei: The intrinsic Fermi level may be included in a semiconductor, to show where the Fermi level would have to be for the material to be neutrally doped (i.e., an equal number of mobile electrons and holes).
+* Eimp: Impurity energy level. Many defects and dopants add states inside the band gap of a semiconductor or insulator. It can be useful to plot their energy level to see whether they are ionized or not.
+* Evac: In a vacuum, the vacuum level shows the energy -e\phi, where \phi is the electrostatic potential. The vacuum can be considered as a sort of insulator, with Evac playing the role of the conduction band edge. At a vacuum-material interface, the vacuum energy level is fixed by the sum of work function and Fermi level of the material.
+* Electron affinity level: Occasionally, a "vacuum level" is plotted even inside materials, at a fixed height above the conduction band, determined by the electron affinity. This "vacuum level" does not correspond to any actual energy band and is poorly defined (electron affinity strictly speaking is a surface, not bulk, property); however, it may be a helpful guide in the use of approximations such as Anderson's rule or the Schottky–Mott rule.
+
+==Band bending==
+
+When looking at a band diagram, the electron energy states (bands) in a material can curve up or down near a junction. This effect is known as band bending. It does not correspond to any physical (spatial) bending. Rather, band bending refers to the local changes in electronic structure, in the energy offset of a semiconductor's band structure near a junction, due to space charge effects.
+
+The primary principle underlying band bending inside a semiconductor is space charge: a local imbalance in charge neutrality. Poisson's equation gives a curvature to the bands wherever there is an imbalance in charge neutrality. The reason for the charge imbalance is that, although a homogeneous material is charge neutral everywhere (since it must be charge neutral on average), there is no such requirement for interfaces.
+Practically all types of interface develop a charge imbalance, though for different reasons:
+* At the junction of two different types of the same semiconductor (e.g., p-n junction) the bands vary continuously since the dopants are sparsely distributed and only perturb the system.
+* At the junction of two different semiconductors there is a sharp shift in band energies from one material to the other; the band alignment at the junction (e.g., the difference in conduction band energies) is fixed.
+* At the junction of a semiconductor and metal, the bands of the semiconductor are pinned to the metal's Fermi level.
+* At the junction of a conductor and vacuum, the vacuum level (from vacuum electrostatic potential) is set by the material's work function and Fermi level. This also (usually) applies for the junction of a conductor to an insulator.
+
+Knowing how bands will bend when two different types of materials are brought in contact is key to understanding whether the junction will be rectifying (Schottky) or ohmic. The degree of band bending depends on the relative Fermi levels and carrier concentrations of the materials forming the junction. In an n-type semiconductor the band bends upward, while in p-type the band bends downward. Note that band bending is due neither to magnetic field nor temperature gradient. Rather, it only arises in conjunction with the force of the electric field.
+
+==See also==
+* Anderson's rule – approximate rule for band alignment of heterojunctions based on vacuum electron affinity
+* Schottky–Mott rule – approximate rule for band alignment of metal–semiconductor junctions based on vacuum electron affinity and work function
+* Field effect (semiconductor) – band bending induced by an electric field at the vacuum (or insulator) surface of a semiconductor
+* Thomas–Fermi screening – rudimentary theory of the band bending that occurs around a charged defect
+* Quantum capacitance – special case of band bending in field effect, for a material system containing a two-dimensional electron gas
+

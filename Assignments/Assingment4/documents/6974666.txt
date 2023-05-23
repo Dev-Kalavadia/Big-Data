@@ -1,0 +1,543 @@
+Title: Redistribution (Australia)
+
+In Australia, a redistribution is the process of redrawing the boundaries of electoral divisions for the House of Representatives arising from changes in population and changes in the number of representatives. There is no redistribution for the Senate as each State constitutes a division, though with multiple members. The Australian Electoral Commission (AEC), an independent statutory authority, oversees the apportionment and redistribution process for federal divisions, taking into account a number of factors.AEC - Redistribution overview Politicians, political parties and the public may make submissions to the AEC on proposed new boundaries, but any interference with their deliberations is considered a serious offence.
+
+Section 24 of the Constitution of Australia specifies that the number of members of the House of Representatives in each state is to be calculated from their population, although each state is entitled to a minimum of five members regardless of population. This minimum condition currently only applies to Tasmania, the smallest state. Representation of territories has been specified by subsequent laws. After the number of members for each state and territory is determined, in a process called apportionment or determination, the state and territory is divided into that number of electoral divisions.
+
+A redistribution (sometimes called redrawing or "revision") of the geographic boundaries of divisions in a state or territory takes place when an apportionment determination results in a change in the number of seats to which a state or territory is entitled, at least once every seven years, or sooner when the AEC determines that population shifts within a state or territory have caused some seats to have too many or too few voters. The Commonwealth Electoral Act 1918 requires that all electoral divisions within a state or territory have approximately an equal numbers of enrolled voters. The Commonwealth Electoral Act (No. 2) 1973 reduced the allowed variation of electors in each division to 10% of the state or territory's average, down from 20%.Commonwealth Electoral Act (No. 2) 1973, s.4 New boundaries apply only to general elections held after the redistribution process has been completed, and by-elections are held on the previous electoral boundaries.
+
+Each state and territory has its own commission which follows similar but not identical processes and principles for determining electoral boundaries and conducting elections within their jurisdiction, and those of local governments.
+
+==Redistribution triggers==
+Under Section 59 of the Commonwealth Electoral Act 1918, a redistribution of State divisions is required or triggered in three circumstances:
+* if there has been a change in the number of parliamentary representatives to which a State or Territory is entitled, due to a change in population or an increase in the overall number of members, subject to the minimum number of divisions in original States
+* if the number of electors in more than one third of the divisions in a State or one of the divisions in the ACT or Northern Territory deviates from the average State divisional enrolment by more than 10% for a period of more than two months (malapportionment)
+* if seven years has elapsed since the previous redistribution
+
+==Total number of members==
+Section 24 of the Constitution specifies that the total number of members of the House of Representatives shall be "as nearly as practicable" twice as many as the number of members of the Senate. There is presently a total of 76 senators: 12 senators from each of the six states and two from each of the two autonomous internal territories (the Australian Capital Territory and the Northern Territory). Since the 2019 federal election, there have been 151 members of the House of Representatives.
+
+The total number of members of the House of Representatives, and consequently electorates, has increased from time to time. Every time there is an increase in the number of members, a redistribution is required to be undertaken, except in Tasmania which has always had the constitutional minimum number of five members. At the first federal election there were 65 members of the House of Representatives. In 1949, the number was increased from 74 to 121 (excluding the Australian Capital Territory and the Northern Territory), and in 1984 it was increased from 125 to 148.Representation Act 1983 Following the 2017 apportionment, the total number of members increased from 150 to 151.
+
+==Entitlement of states and territories==
+The AEC determines the number of members to which each state and territory is entitled, which is based on the population of each state and territory. The Australian Bureau of Statistics officially provides to the AEC its estimate of the population for each state and territory for a year after the first sitting day for a new House of Representatives, termed ascertainment. Based on these figures, the AEC makes its apportionment determination one year and one day after the first sitting day for a new House of Representatives.Commonwealth Electoral Act 1918, Section 46: Ascertainment of numbers of people of Commonwealth, States and Territories A redistribution is postponed if it would begin within one year of the expiration of the House of Representatives, to prevent a general election from occurring while a redistribution is in progress.
+
+Section 24 of the Constitution requires that electorates be apportioned among the states in proportion to their respective populations; provided that each Original State has at least 5 members. Section 29 of the Constitution forbids electorate boundaries from crossing state lines. The current apportionment method is now found in section 48 of the Commonwealth Electoral Act 1918.Australian Electoral Commission.Research Report 4 – Australian Federal Redistributions 1901–2003. Accessed 5 May 2008. 
+
+Under the current method, the AEC firstly calculates a quota, as follows:
+
+:  \mbox{Quota} = \frac{\mbox{Total population of the six states}}{\mbox{Number of senators for the states x 2} }
+
+===State entitlements===
+After the quota is calculated, the number of members to be chosen in each State is the number of people of the State divided by the quota, and if on such division there is a remainder greater than one-half of the quota, one more member shall be chosen in the State.Calculating representation entitlements of states and territories
+
+:  \mbox{Quotient of each state} = \frac{\mbox{Population of each state  }}{\mbox{Quota} }
+
+In simpler terms, the entitlement of each state is the quotient rounded to the nearest whole number. However, each Original State is entitled to a minimum of five members under the Australian Constitution, thus giving Tasmania two more seats than its population would normally justify.
+
+===Territory entitlements===
+Until 2020, the quotient and entitlement of each territory was obtained using a similar rounding method to the one used for the states. In 2003, a statistical error margin — equal to twice the standard error of the population estimate, as provided by the Australian Bureau of Statistics — was added to the quotient for each territory. The quotient and the error margin were added and rounded to the nearest whole number to determine the entitlement for each territory. 
+
+These provisions enabled the Northern Territory to retain its second seat at the 2004 federal election, and the Australian Capital Territory to gain a third seat at the 2019 federal election.
+
+The Electoral Amendment (Territory Representation) Act 2020, passed on 9 December 2020, amended the Commonwealth Electoral Act 1918 to additionally apply the harmonic mean method in calculating each territory's entitlement; the method is also known as Dean’s Method. The inclusion of the statistical error margin was also abolished.
+
+The calculation of the territory's quotient is first determined in the same way used for state entitlement:
+:  \mbox{Quotient of each territory} = \frac{\mbox{Population of each territory  }}{\mbox{Quota} }
+
+In accordance with Section 48 of the Commonwealth Electoral Act 1918, the calculation of the entitlement of each territory varies on the quotient calculated:
+* If the quotient is less than or equal to 0.5, then the territory is not entitled to have any members in the House of Representatives, except in the case of the Northern Territory and Australian Capital Territory (both are entitled to a minimum of one member each).
+* If the quotient is greater than 0.5, but less than or equal to 1, the territory is entitled to one member in the House of Representatives.
+* If the quotient is more than 3, then the entitlement of the territory is the quotient rounded to the nearest whole number (the same method as state entitlement).
+* If the quotient is more than 1, but less than or equal to 3, the entitlement is calculated via the harmonic mean method below. If the quotient is larger than its corresponding harmonic mean, then the entitlement is the quotient rounded up to the nearest whole number; otherwise, the entitlement is the quotient rounded down to the nearest whole number.
+
+:  \mbox{Minimum number of members} = \mbox{Quotient rounded down to the nearest whole number}
+
+:  \mbox{Harmonic mean} = \frac{\mbox{2 x Minimum number of members x (Minimum number of members + 1)}}{\mbox{Minimum number of members + (Minimum number of members + 1)} }
+
+:{| class="wikitable plainrowheaders" style="text-align:right;"
+! Quotient || Minimum numberof members || Harmonic mean || Seat Entitlement
+|-
+| 1 to 1.3332
+| rowspan="2" | 1
+| rowspan="2" | 1.3333
+| 1
+|-
+| 1.3333 to 2
+| 2
+|-
+| 2 to 2.39
+| rowspan="2" | 2
+| rowspan="2" | 2.4000
+| 2
+|-
+| 2.40 to 3
+| 3
+|}
+
+Under these new rules adopted in December 2020, the Northern Territory, with a quota of 1.4332, will retain two seats at the 2022 Australian federal election. It would have lost one of these seats under the AEC determination made in July 2020. Reshuffle leaves NT with one seat in federal parliament's lower house
+
+==Apportionments==
+===2020 apportionment=== 
+The latest apportionment determination was made in July 2020. On 18 June 2020, the Bureau of Statistics had provided the AEC with population figures for December 2019. In the 2020 apportionment, Western Australia lost a seat to 15 seats and Victoria gained a seat to 39. Under the determination, the Northern Territory would have lost one of its two seats. However, an amendment in December 2020 changed the method for determining the apportionment for the territories, which had the effect of reversing the loss of the seat for the Northern Territory. The number of seats by States in the House of Representatives arising from the 2020 determination, with the change in law relating to the territories, were as follows:
+
+{| class="wikitable"
+|-
+! State || Population June 2020('000)[https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population/latest-release States and territories
+Annual population change] || Seats || Change
+|-
+| New South Wales || 8,164.1 ||47 || 
+|-
+| Victoria || 6,694.9 ||39 ||  1
+|-
+| Queensland || 5,174.4 ||30 ||      
+|-
+| Western Australia || 2,661.9 ||15 ||  1    
+|-
+| South Australia || 1,769.3 ||10 || 
+|-
+| Tasmania || 540.6 ||5 ||   
+|-
+! State total || 25,005.2 || 146 ||    
+|-
+| Australian Capital Territory || 431.1 ||3|| 
+|-
+| Northern Territory || 246.0 ||2|| 
+|-
+| Other || 4.7 || - ||
+|-
+! Total || 25,687.0 ||151 || 
+|}
+
+The population quota is 173,647 (25,005,200 divided by 144). The resulting redistributions must take place by July 2021 for them to be in place in time for the 2022 federal election, due by May 2022.
+
+===2017 apportionment===
+The first sitting of the House of Representatives following the July 2016 election took place on 31 August 2016, and the three-year term was scheduled to expire on 29 August 2019. Following its timeline, the AEC on 31 August 2017 announced an apportionment determination following the completion of processing of the 2016 census. The determination resulted in a reduction of one seat in South Australia to 10, an increase of one seat in Victoria to 38 and an additional seat in the ACT to 3. The total number of seats in the House of Representatives increased from 150 to 151 at the 2019 federal election.Determination of membership entitlement to the House of Representatives The number of seats by States in the House of Representatives arising from the 2017 determination were as follows:
+
+{| class="wikitable"
+|-
+! State || Seats || Change
+|-
+| New South Wales || 47 || 
+|-
+| Victoria || 38 ||  1
+|-
+| Queensland ||  30 ||      
+|-
+| Western Australia ||  16 ||       
+|-
+| South Australia ||  10 ||  1
+|-
+| Tasmania ||  5 ||   
+|-
+| Australian Capital Territory ||  3||  1
+|-
+| Northern Territory || 2|| 
+|-
+! Total ||  151 ||  1
+|}
+
+A draft redistribution in Victoria was released on 6 April 2018, and the final distribution was released on 12 July.Victorian federal redistributionLabor could be sitting pretty after planned electoral boundary changes There were also three scheduled redistributions of electoral boundaries, as seven years had elapsed since the last time these boundaries were reviewed.
+
+===2014 apportionment===
+On 13 November 2014, the AEC made an apportionment determination that resulted in Western Australia's entitlement increasing from 15 to 16 seats, and New South Wales's decreasing from 48 to 47 seats. The number of seats by States in the House of Representatives arising from the 2014 determination were as follows:
+
+:{| class="wikitable"
+! State || Seats || Change
+|-
+| New South Wales ||47 ||  1
+|-
+| Victoria ||37 || 
+|-
+| Queensland ||30 ||      
+|-
+| Western Australia ||16  ||  1
+|-
+| South Australia ||11 ||        
+|-
+| Tasmania ||5 ||        
+|-
+| Australian Capital Territory ||2 ||        
+|-
+| Northern Territory ||2 ||       
+|-
+! Total ||150 ||       
+|}
+
+A redistribution of electoral boundaries in New South Wales and Western Australia was undertaken before the 2016 election.Redistributions The redistribution in New South Wales was announced on 16 October 2015, with the Labor-held Division of Hunter proposed to be abolished.The Age, 16 October 2015: Labor's Joel Fitzgibbon loses his seat in redistribution by Australian Electoral Commission The Division of Charlton was renamed Hunter to preserve the Hunter name used since federation. This effectively meant that the Division of Charlton was abolished and the Division of Hunter was retained. A redistribution also occurred in the Australian Capital Territory, as seven years had elapsed since the last time the ACT's boundaries were reviewed.
+
+===Historical entitlements===
+The historical apportionment entitlement of seats for the various states is:
+{| class="wikitable" style="text-align:center"
+|-
+!State
+!1984
+!1986
+!1988
+!1991
+!1994
+!1997
+!1999
+!2003
+!2005
+!2009
+!2011
+!2014
+!2017
+!2020
+|-
+|New South Wales
+|51.382
+|51.339
+|51.043
+|50.417
+|50.314
+|50.075
+|50.014
+|49.918
+|49.317
+|48.218
+|47.854
+|47.386
+|47.320
+|47.114
+|-
+|Victoria
+|38.727
+|38.652
+|38.176
+|37.895
+|37.279
+|36.734
+|36.757
+|36.652
+|36.544
+|36.662
+|36.755
+|36.777
+|37.892
+|38.549
+|-
+|Queensland
+|23.767
+|23.881
+|24.403
+|25.149
+|26.176
+|27.138
+|27.398
+|27.961
+|28.767
+|29.616
+|29.932
+|29.747
+|29.636
+|29.733
+|-
+|Western Australia
+|13.108
+|13.200
+|13.706
+|14.136
+|14.061
+|14.254
+|14.517
+|14.505
+|14.608
+|14.971
+|15.247
+|16.209
+|15.582
+|15.296
+|-
+|South Australia
+|12.867
+|12.782
+|12.635
+|12.451
+|12.226
+|11.965
+|11.646
+|11.415
+|11.229
+|11.086
+|10.860
+|10.630
+|10.419
+|10.196
+|-
+|Tasmania
+|4.150
+|4.146
+|4.038
+|3.951
+|3.944
+|3.829
+|3.668
+|3.549
+|3.534
+|3.448
+|3.351
+|3.252
+|3.150
+|3.112
+|-
+|Australian Capital Territory
+|2
+|2
+|2
+|2.466
+|2.504
+|2.495
+|2.425
+|2.421
+|2.375
+|2.386
+|2.389
+|2.439
+|2.469
+|2.480
+|-
+| Northern Territory
+|1
+|1
+|1
+|1.377
+|1.428
+|1.454
+|1.524
+|1.498
+|1.505
+|1.536
+|1.526
+|1.557
+|1.487
+|1.419
+|-
+!Total
+!148
+!148
+!148
+!147
+!148
+!148
+!150
+!149
+!150
+!150
+!150
+!150
+!151
+!151
+|-
+|}
+
+===Historical apportionments===
+The historical apportionment of seats for the various states is:
+{| class="wikitable" style="text-align:center"
+|-
+! State
+!'01
+!'03
+!'06
+!'13
+!'22
+!'34
+!'37
+!'49
+!'55
+!'68
+!'69
+!'74
+!'77
+!'80
+!'84
+!'89
+!'92
+!'94
+!'97
+!'99
+!'00
+!'03
+!'05
+!'06
+!'08
+!'09
+!'10
+!'11
+!'16
+!'17
+!'18
+!'21
+|-
+| New South Wales 
+|colspan = "2" | 26
+|colspan = "2" | 27
+|colspan = "3" | 28
+|47
+|colspan = "2" | 46
+|colspan = "2" | 45
+|colspan = "2" | 43
+|colspan = "2" | 51
+|colspan = "7" | 50
+|colspan = "2" | 49
+|colspan = "3" | 48
+|colspan = "4" | 47
+|-
+| Victoria
+|colspan = "2" | 23
+|22
+|21
+|colspan = "3" | 20
+|colspan = "3" | 33
+|colspan = "2" | 34
+|colspan = "2" | 33
+|39
+|colspan = "2" | 38
+|colspan = "13" | 37
+|38
+|39
+|-
+| Queensland
+|colspan = "3" | 9
+|colspan = "4" | 10
+|colspan = "6" | 18
+|19
+|colspan = "2" | 24
+|colspan = "2" | 25
+|26
+|colspan = "2"| 27
+|colspan = "2"| 28
+| colspan = "2"| 29
+| colspan = "7"| 30
+|-
+| Western Australia
+| colspan = "7"| 5
+|8
+|colspan = "3" | 9
+|10
+|colspan = "2" | 11
+|13
+|colspan = "5"| 14
+|colspan = "7"| 15
+| colspan = "4"| 16
+|15
+|-
+| South Australia
+|colspan = "5" | 7
+|colspan = "2" | 6
+|10
+|colspan = "2" | 11
+|colspan = "2" | 12
+|colspan = "2" | 11
+|colspan = "2" | 13
+|colspan = "5"| 12
+|colspan = "9"| 11
+| colspan = "2"| 10
+|-
+| Tasmania
+| colspan = "32" | 5
+|-
+| Australian Capital Territory
+|colspan = "9" | N/A
+|colspan = "2" | 1
+|colspan = "6" | 2
+|3
+|colspan = "12"| 2
+| colspan = "2"| 3
+|-
+| Northern Territory
+|colspan = "9" | N/A
+|colspan = "11" | 1
+| colspan = "12"| 2
+|-
+! Total
+! colspan = "5"| 75
+! colspan = "2"| 74
+!121
+!122
+!124
+!125
+!127
+!124
+!125
+! colspan = "2"| 148
+!147
+! colspan = "3"| 148
+! colspan = "10"| 150
+! colspan = "2"| 151
+|-
+|}
+
+==Recent redistributions==
+
+===Australian Capital Territory===
+The most recent redistribution of federal electoral divisions in the Australian Capital Territory commenced on 4 September 2017, due to changes in the territory's representation entitlement. The AEC released a proposed redistribution on 6 April 2018, and the final determination on 3 July 2018. The redistribution resulted in the creation of a third ACT electoral division named Bean (notionally fairly safe Labor), after historian Charles Bean.
+
+===New South Wales===
+
+New South Wales did not undergo a redistribution after the 2016 federal election.
+
+===Northern Territory===
+On 7 December 2016, the Electoral Commission for the Northern Territory announced the results of its deliberations into the boundaries of Lingiari and Solomon, the two federal electoral divisions in the Northern Territory. New boundaries gazetted from 7 February 2017 will see the remainder of the Litchfield Municipality and parts of Palmerston (the suburbs of Farrar, Johnston, Mitchell, Zuccoli and part of Yarrawonga) transferred from Solomon to Lingiari.
+
+===Queensland===
+A scheduled redistribution began in Queensland on 6 January 2017, and was finalised on 27 March 2018. Changes were made to the boundaries of 18 of Queensland's 30 electoral divisions, and no division names were changed.
+
+===South Australia===
+The redistribution in South Australia commenced on 4 September 2017. The proposed redistribution report was released on 13 April 2018, and the final determination on 26 June 2018. The AEC abolished the division of Port Adelaide. The hybrid urban-rural seat of Wakefield became the entirely urban seat of Spence, after Catherine Helen Spence. The more rural portions of Wakefield transferred to Grey and Barker.
+
+Port Adelaide was abolished due to population changes since the state's last redistribution in 2011. Although South Australia's population was still increasing, faster increases in other states saw a reduction in South Australia's representation from 11 to 10 seats. This was the third time South Australia lost a seat since the 1984 enlargement of the parliament, with Hawker abolished in 1993 and Bonython in 2004.
+
+===Tasmania===
+A scheduled redistribution began in Tasmania on 1 September 2016. The determinations were announced on 27 September 2017, involved boundary changes, and the Division of Denison was renamed the Division of Clark.
+
+===Western Australia===
+A redistribution of federal election divisions in Western Australia was undertaken in 2020, due to changes in the state's representation entitlement. The determinations were announced on 3 June 2021, and abolished the Division of Stirling.
+
+===Victoria===
+A redistribution of federal electoral divisions in Victoria commenced on 4 September 2017, due to changes in the state's representation entitlement. The determinations were announced on 20 June 2018, and created a 38th electoral division named Fraser (notionally a safe Labor).
+
+Several divisions were also renamed: Batman to Cooper (after William Cooper), McMillan to Monash (after Sir John Monash), Melbourne Ports to Macnamara (after Dame Jean Macnamara) and Murray to Nicholls (after Sir Douglas and Lady Nicholls). A proposal to rename Corangamite to Cox (after swimming instructor May Cox) did not proceed.
+
+The Coalition notionally lost the seat of Dunkley and Corangamite to Labor in the redistribution.
+
+Another redistribution in Victoria was finalised and gazetted on 26 July 2021, creating a 39th electoral division named Division of Hawke (notionally a safe Labor). None of the existing 38 divisions were notionally lost in the redistribution.
+
+==Redistribution process==
+A redistribution is undertaken on a State-by-State basis. After the redistribution process commences, a Redistribution Committee — consisting of the Electoral Commissioner, the Australian Electoral Officer for the State concerned (in the ACT, the senior Divisional Returning officer), the State Surveyor General and the State Auditor General — is formed. The Electoral Commissioner invites public suggestions on the redistribution which must be lodged within 30 days. A further period of 14 days is allowed for comments on the suggestions lodged. The Redistribution Committee then divides the State or Territory into divisions and publishes its proposed redistribution. A period of 28 days is allowed after publication of the proposed redistribution for written objections. A further period of 14 days is provided for comments on the objections lodged. These objections are considered by an augmented Electoral Commission — consisting of the four members of the Redistribution Committee and the two part-time members of the Electoral Commission.
+
+At the time of the redistribution the number of electors in the divisions may vary up to 10% from the 'quota' or average divisional figure but at a point 3.5 years after the expected completion of the redistribution, the figures should not vary from the average projected quota by more or less than 3.5%. Thus the most rapidly growing divisions are generally started with enrolments below the quota while those that are losing population are started above the quota.
+
+Neither the Government nor the Parliament can reject or amend the final determination of the augmented Electoral Commission.
+
+== Management ==
+
+Boundaries for the Australian House of Representatives and for the six state and two territorial legislatures are drawn up by independent authorities, at the federal level by the Australian Electoral Commission (AEC) and in the states and territories by their equivalent bodies. Politicians have no influence over the process, although they, along with any other citizen or organisation, can make submissions to the independent authorities suggesting changes.
+
+There is significantly less political interference in the redistribution process than is common in the United States. In 1978, federal Cabinet minister Reg Withers was forced to resign for suggesting to another minister that the name of a federal electorate be changed to suit a political ally. National Archives of Australia: Background to the 1978 Cabinet records. Retrieved 19 November 2014
+
+There have been examples of malapportionment of federal and state electoral districts in the past, often resulting in rural constituencies containing far fewer voters than urban ones and maintaining in power those parties that have rural support despite polling fewer popular votes. Past malapportionments in Queensland, Western Australia and the 'Playmander' in South Australia were notorious examples of the differences between urban and rural constituency sizes than their population would merit. The Playmander distorted electoral boundaries and policies that kept the Liberal and Country League in power for 32 years from 1936 to 1968.Labor and Liberal Parties, SA, Dean Jaensch, "A 2:1 ratio of enrolments in favour of the rural areas was in force from 1936." In extreme cases, rural areas had four times the voting value of metropolitan areas. Supporters of such arrangements claimed Australia's urban population dominates the countryside and that these practices gave fair representation to country people.
+
+==Naming of divisions==
+The redistribution, creation and abolition of divisions is the responsibility of the AEC. When new divisions are created, the AEC will select a name. Most divisions are named in honour of prominent historical people, such as former politicians (often Prime Ministers), explorers, artists and engineers, and rarely for geographic places.
+
+Some of the criteria the AEC uses when naming new divisions are:Australian Electoral Commission. Guideline for Naming Divisions. Updated 20 July 2011. Accessed 1 February 2012.
+* divisions are named after deceased Australians who have rendered outstanding service to their country, with consideration given to former Prime Ministers
+* the original names of Divisions proclaimed at Federation in 1901 are to be retained where possible
+* geographical place names are to be avoided
+* Aboriginal names can be used as appropriate
+* names that duplicate names of state electoral districts are not to be used.
+
+==Notional seat status==
+After a redistribution is carried out in a state or territory, the AEC calculates "notional" margins for the redistributed divisions by modelling the outcome of the previous election as if the new boundaries had been in place. These notional margins are used as the baseline for the electoral swings calculated and published in the AEC's virtual tally room at the following election. In some cases, the change in electoral boundaries can see the party which notionally holds the seat differ from the party which won it at the election.
+
+== References ==
+
+
+==External links==
+* Adam Carr's Electoral Archive: Index of House of Representatives Divisions 1901-2001
+
+Category:Voting theory
+Category:Elections in Australia
+Category:Electoral redistributions

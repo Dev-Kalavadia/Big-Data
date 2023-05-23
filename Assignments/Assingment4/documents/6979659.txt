@@ -1,0 +1,37 @@
+Title: System Service Processor
+The System Service Processor (often abbreviated as SSP) is a SPARC-based computer that is used to control the Sun Microsystems Enterprise 10000 platform.  The term SSP is often used to describe both the computer hardware and the software that are necessary to accomplish this task.
+
+==Functionality==
+The System Service Processor software provided for the following functionality:
+
+* Environmental monitoring and automated domain-shutdown in the event of an out-of-bounds condition, such as a CPU getting too hot.
+* The creation and destruction of domains
+* The ability to boot domains
+* Domain console device
+* Dynamic Reconfiguration of domains, in which CPU, memory, and/or Input-Output boards are added to or removed from a running domain.
+* Assign multiple paths to Input-Output devices for increased availability
+* Monitor and display platform environmental statistics, such as the temperatures, currents, and voltages present on System Boards
+* Monitor and control power flow to the platform components such as System Boards and Control Boards
+* Power On Self Test and similar platform diagnostics
+* Logging and Notification for various platform events
+* The creation and destruction of Inter Domain Networks (IDNs) which allow for TCP/IP connectivity between domains, across the platform's centerplane.
+* Support for a dual power-grid option
+
+Several utilities were provided with the SSP software packages, including  hostview, a program that provided an X Window System interface for platform maintenance, and several CLI programs.
+
+==Implementation==
+Normally, two System Service Processors were used per platform.  One was configured as Main and the other as Spare. Only the SSP in the role of Main could control the platform at any given time. Failover between Main and Spare was performed automatically by the SSP software.
+
+===Supported hardware platforms===
+The following systems were supported for use as System Service Processors:
+
+* Sun SPARCstation 5
+* Sun Ultra 5
+* Sun Enterprise 250
+* Sun Netra T1
+
+== See also ==
+* Baseboard Management Controller
+* IBM System Guard, a service processor on most RS/6000 machines
+* Intel Management Engine
+

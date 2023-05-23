@@ -1,0 +1,23 @@
+Title: Crosstrees
+thumb|Line art drawing of crosstrees.
+
+Crosstrees are the two horizontal spars at the upper ends of the topmasts  of sailing ships that are used to anchor the shrouds from the topgallant mast. They may also be mounted at the upper end of the topgallant to anchor the shrouds from the royal mast (if fitted). Similar transverse spars remain on steamship and motor vessel masts to secure wire antennae or signal flag halyards.
+
+==Explanation==
+Any vertical structure like a mast is subject to dynamic swaying stress from wind, which levers immense force at the base of the mast. Such stress is countered through  guy ropes which are diagonally supporting ropes from mast top to its base. These ropes share the load on the mast tops and communicate that force to the base structure.
+
+The taller the mast, the wider a base is required for the  guy wires so as to form an appropriate angular support against the sway the mast is exposed to. Yet, ships are fixed in their  beam (width) and hence only a limited angle is possible for the guy-ropes to support very high masts. Thereby, the taller the ship's mast, the more narrow and unfeasible would be the angle between its support wires and its top. This is where a simple innovation like the crosstree helps to overcome such limitation. 
+
+The Crosstree serves as a fresh base to spread the next level of supporting  guy ropes, thereby providing a stable height extension to the masts. Without the crosstree, the ship's mast would have been severely limited in height, in relation to the width  (beam) of the ship. 
+
+Each crosstree serves to spread another level of holding ropes on a fresh wider spar so as to provide support to the next mast top section. Effectively, the crosstree allows to extend the height, mount yet another layer of sail shrouds and option more wind power to the ships. The crosstree also serves to spread the shroud tops.
+
+See tops for the description of their purpose. On modern rigs the same function is provided by spreaders.
+
+==Sources==
+
+
+== External links ==
+* 
+
+Category:Sailing rigs and rigging

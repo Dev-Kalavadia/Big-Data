@@ -1,0 +1,23 @@
+Title: R v Hall
+
+R v Hall, [2002] 3 S.C.R. 309, 2002 SCC 64 is a leading case decided by the Supreme Court of Canada on the right not to be denied bail without just cause under section 11(e) of the Charter.
+
+==Background==
+David Scott Hall was charged with the murder of a woman in a high-profile case. He applied for bail pending trial. The judge denied the application—not for reasons of ensuring appearance in court or protecting the public—but in order "to maintain confidence in the administration of justice". Paragraph 515(10)(c) of the Criminal Code allows the denial of bail for this reason.
+
+Hall appealed the decision on the basis that section 515(10)(c) violated the right "not to be denied reasonable bail without just cause" under section 11(e) of the Charter.
+
+==Opinion of the Court==
+The Court held that the portion of section 515(10)(c) permitting detention "on any other just cause being shown”" was unconstitutional as it gave too much discretion to the judge to deny bail without just cause. The violation could not be upheld under section 1 due to proportionality.
+
+The Court however upheld the portion of section 515(10)(c), which allows the denial of bail "to maintain confidence in the administration of justice" as it was a valid and just reason to deny bail. The standard is based on the view that the reasonable member of the community would be satisfied that the denial of bail would be necessary to maintain confidence in the system.
+
+==External links==
+* 
+
+
+Category:Supreme Court of Canada cases
+Category:2002 in Canadian case law
+Category:Canadian criminal procedure case law
+
+

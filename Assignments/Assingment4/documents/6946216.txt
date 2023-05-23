@@ -1,0 +1,684 @@
+Title: FC Khimki
+
+
+FC Khimki () is a Russian professional football club based in Khimki. The club returned to the Russian Premier League in the 2020–21 season.
+
+==History==
+The team was formed in 1996 by merging two amateur clubs from Khimki, Rodina, and Novator. Khimki entered the amateur league and played their first official match on 17 May 1997. Of more than 150 amateur teams in the competition, only the champions would be promoted to the Third League. Khimki won the tournament, overcoming Energiya Ulyanovsk in the final match in a penalty shootout.
+
+On 30 January 1997, Khimki became a professional football club. In the Third League regional tournament, Khimki finished second and were promoted to the Second League.
+
+Khimki were promoted to the First Division after the 2000 season. They finished first in the Centre zone of the Second Division, but lost the promotion play-off to Severstal Cherepovets on away goals. After Severstal refused to play in the First Division, their place was given to Khimki.
+
+In 2005, Khimki had a very good run in the Russian Cup, reaching the final. They lost the final match 0–1 to CSKA. In the 2019–20 Russian Cup, they reached the final once again.
+
+On 15 May 2020, FNL season was abandoned due to the COVID-19 pandemic in Russia. As the club was in the 2nd position in the standings, they were promoted to the Russian Premier League for the 2020–21 season, returning to the top level after an 11-year break.
+
+===League history===
+:{| class="wikitable mw-collapsible mw-collapsed" align=center cellspacing="0" cellpadding="3" style="border:1px solid #AAAAAA;font-size:90%"
+|-bgcolor="#efefef"
+! Season
+! Div.
+! Pos.
+! Pl.
+! W
+! D
+! L
+! GS
+! GA
+! P
+!Cup
+!colspan=2|Europe
+!Top Scorer (League)
+!Head Coach
+|-
+|align=center|1997
+|align=center|4th, Zone 3
+|align=center bgcolor="lightgreen"|2
+|align=center|40
+|align=center|26
+|align=center|6
+|align=center|8
+|align=center|80
+|align=center|38
+|align=center|84
+|align=center|-
+|align=center colspan=2|—
+|align=left| Kravchuk – 17
+|align=left| Shtapov
+|-
+|align=center|1998
+|align=center|3rd, "West"
+|align=center|10
+|align=center|40
+|align=center|15
+|align=center|8
+|align=center|17
+|align=center|63
+|align=center|60
+|align=center|53
+|align=center|-
+|align=center colspan=2|—
+|align=left| Georgievsky – 11
+|align=left| Dementyev Bychkov Sabitov
+|-
+|align=center|1999
+|align=center rowspan="2"|3rd, "Centre"
+|align=center|6
+|align=center|36
+|align=center|17
+|align=center|11
+|align=center|8
+|align=center|51
+|align=center|35
+|align=center|62
+|align=center|R256
+|align=center colspan=2|—
+|align=left| Khamzin – 11
+|align=left| Sabitov Kots
+|-
+|align=center|2000
+|align=center bgcolor="lightgreen"|1
+|align=center|38
+|align=center|28
+|align=center|4
+|align=center|6
+|align=center|68
+|align=center|22
+|align=center|88
+|align=center|R64
+|align=center colspan=2|—
+|align=left| Genich – 18
+|align=left| Piskaryov Papaev
+|-
+|align=center|2001
+|align=center rowspan="6"|2nd
+|align=center|12
+|align=center|34
+|align=center|13
+|align=center|4
+|align=center|17
+|align=center|42
+|align=center|54
+|align=center|43
+|align=center|R32
+|align=center colspan=2|—
+|align=left| Shcheglov – 5 Voronkov – 5 Kovardayev – 5
+|align=left| Petrushin Sabitov
+|-
+|align=center|2002
+|align=center|7
+|align=center|34
+|align=center|14
+|align=center|10
+|align=center|10
+|align=center|38
+|align=center|27
+|align=center|52
+|align=center|R32
+|align=center colspan=2|—
+|align=left| Kovardayev – 6
+|align=left| Sabitov Derkach
+|-
+|align=center|2003
+|align=center|12
+|align=center|42
+|align=center|16
+|align=center|9
+|align=center|17
+|align=center|36
+|align=center|46
+|align=center|57
+|align=center|QF
+|align=center colspan=2|—
+|align=left| Kiselyov – 15
+|align=left| Derkach Galyamin
+|-
+|align=center|2004
+|align=center|5
+|align=center|42
+|align=center|17
+|align=center|10
+|align=center|15
+|align=center|39
+|align=center|33
+|align=center|61
+|align=center|R32
+|align=center colspan=2|—
+|align=left| Pogrebnyak – 6
+|align=left| Shevchuk Yakovenko
+|-
+|align=center|2005
+|align=center|4
+|align=center|42
+|align=center|23
+|align=center|13
+|align=center|6
+|align=center|75
+|align=center|36
+|align=center|82
+|align=center bgcolor="silver"|RU
+|align=center colspan=2|—
+|align=left| Tikhonov – 15
+|align=left| Yakovenko
+|-
+|align=center|2006
+|align=center bgcolor="lightgreen"|1
+|align=center|42
+|align=center|30
+|align=center|9
+|align=center|3
+|align=center|83
+|align=center|30
+|align=center|99
+|align=center|R64
+|align=center colspan=2|—
+|align=left| Tikhonov – 22
+|align=left| Kazachyonok
+|-
+|align=center|2007
+|align=center rowspan="3"|1st
+|align=center|9
+|align=center|30
+|align=center|9
+|align=center|10
+|align=center|11
+|align=center|32
+|align=center|33
+|align=center|37
+|align=center|R32
+|align=center colspan=2|—
+|align=left| Shirokov – 7
+|align=left| Muslin
+|-
+|align=center|2008
+|align=center|14
+|align=center|30
+|align=center|6
+|align=center|9
+|align=center|15
+|align=center|34
+|align=center|54
+|align=center|27
+|align=center|R16
+|align=center colspan=2|—
+|align=left| Nizamutdinov – 9
+|align=left| Yuran
+|-
+|align=center|2009
+|align=center bgcolor="pink"|16
+|align=center|30
+|align=center|2
+|align=center|4
+|align=center|24
+|align=center|20
+|align=center|64
+|align=center|10
+|align=center|R32
+|align=center colspan=2|—
+|align=left| Antipenko – 6
+|align=left| Sarsaniya Chugainov
+|-
+|align=center|2010
+|align=center rowspan="3"|2nd
+|align=center|13
+|align=center|38
+|align=center|11
+|align=center|17
+|align=center|10
+|align=center|39
+|align=center|38
+|align=center|50
+|align=center|R32
+|align=center colspan=2|—
+|align=left| Yusupov – 7 Dudchenko – 7
+|align=left| Tarkhanov Bushmanov
+|-
+|align=center|2011–12
+|align=center|13
+|align=center|48
+|align=center|16
+|align=center|11
+|align=center|21
+|align=center|54
+|align=center|74
+|align=center|59
+|align=center|R32
+|align=center colspan=2|—
+|align=left| Mamtov – 10
+|align=left| Grigoryan Dolmatov Tarkhanov
+|- align=center
+|2012–13
+|bgcolor=pink|16
+|32
+|6
+|10
+|16
+|23
+|40
+|28
+|R16
+|colspan=2|—
+|align=left| Komkov – 3 Khatazhyonkov – 3
+|align=left| Tarkhanov Tetradze Petrakov
+|- align=center
+|2013–14
+|rowspan=3|3rd, "West"
+|3
+|32
+|16
+|10
+|6
+|67
+|37
+|58
+|R64
+|colspan=2|—
+|align=left| Antonnikov – 9 Zemchenkov – 9
+|align=left| Tarkhanov Mukhanov Gridin
+|- align=center
+|2014–15
+|4
+|30
+|15
+|9
+|6
+|42
+|27
+|54
+|R256
+|colspan=2|—
+|align=left| Lipatkin – 6
+|align=left|  Maminov
+|- align=center
+|2015–16
+|bgcolor="lightgreen"|1
+|24
+|19
+|5
+|0
+|49
+|12
+|62
+|R16
+|colspan=2|—
+|align=left|  Markosov – 11
+|align=left| Khafizov
+|- align=center
+|align=center|2016–17
+|align=center rowspan="4"|2nd
+|align=center|11
+|align=center|38
+|align=center|11
+|align=center|16
+|align=center|11
+|align=center|40
+|align=center|47
+|align=center|49
+|align=center|R32
+|align=center colspan=2|—
+|align=left| Kazaev – 8
+|align=left| Irkhin
+|- align=center
+|align=center|2017–18
+|align=center|13
+|align=center|38
+|align=center|12
+|align=center|7
+|align=center|19
+|align=center|33
+|align=center|49
+|align=center|43
+|align=center|R64
+|align=center colspan=2|—
+|align=left| Kuzmichev – 7
+|align=left| Irkhin
+|- align=center
+|align=center|2018–19
+|align=center|9
+|align=center|38
+|align=center|14
+|align=center|11
+|align=center|13
+|align=center|47
+|align=center|49
+|align=center|53
+|align=center|R32
+|align=center colspan=2|—
+|align=left| Kukharchuk – 10
+|align=left| Shalimov
+|- align=center
+|align=center|2019–20
+|bgcolor="lightgreen"|2
+|align=center|27
+|align=center|16
+|align=center|6
+|align=center|5
+|align=center|50
+|align=center|19
+|align=center|54
+|align=center bgcolor="silver"|RU
+|align=center colspan=2|—
+|align=left|  Aliyev – 8
+|align=left| Yuran
+|-
+|align=center|2020–21
+|align=center|1st
+|align=center|8
+|align=center|30
+|align=center|13
+|align=center|6
+|align=center|11
+|align=center|35
+|align=center|39
+|align=center|45
+|align=center|R16
+|align=center colspan=2|—
+|align=left| Mirzov – 6
+|align=left| Yuran
+|-
+|align=center|2021–22
+|align=center|1st
+|align=center|13
+|align=center|30
+|align=center|7
+|align=center|11
+|align=center|12
+|align=center|34
+|align=center|47
+|align=center|32
+|align=center|GS
+|align=center colspan=2|—
+|align=left| Glushakov – 10
+|align=left| Cherevchenko
+|}
+
+==Current squad==
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===Out on loan===
+
+
+
+
+
+
+
+
+
+
+
+
+===Reserve team===
+
+
+==Notable players==
+Had international caps for their respective countries. Players whose name is listed in bold represented their countries while playing for Khimki.
+
+
+;Europe
+
+;Russia
+* Vladimir Beschastnykh
+* Viktor Budyanskiy
+* Aleksei Bugayev
+* Andrei Chichkin
+* Denis Davydov
+* Yuri Drozdov
+* Denis Glushakov
+* Maksim Glushenkov
+* Valeri Kleimyonov
+* Andrei Kondrashov
+* Fyodor Kudryashov
+* Arseniy Logashov
+* Ilya Maksimov
+* Pavel Mamayev
+* Pavel Mogilevets
+* Andrei Mostovoy
+* Elmir Nabiullin
+* Sergei Nekrasov
+* Pavel Pogrebnyak
+* Denis Popov
+* Igor Portnyagin
+* Aleksandr Ryazantsev
+* Roman Shirokov
+* Sergei Terekhov
+* Andrey Tikhonov
+* Yegor Titov
+* Roman Vorobyov
+* Renat Yanbayev
+* Andrey Yeshchenko
+* Artur Yusupov
+* Yuri Zhirkov
+
+;Armenia
+* Artak Aleksanyan
+* Roman Berezovsky
+* Barsegh Kirakosyan
+* Arshak Koryan
+* Artur Yedigaryan
+* Robert Zebelyan
+
+;Azerbaijan
+* Emin Agaev
+* Kamran Aliyev
+
+;Belarus
+* Dmitry Aliseiko
+* Timofei Kalachev
+* Dzyanis Kowba
+* Artsyom Radzkow
+* Maksim Romaschenko
+
+;Bosnia and Herzegovina
+* Dragan Blatnjak
+* Ricardo Santos Lago
+* Vule Trivunović
+* Zoran Amidžić
+
+;Czech Republic
+* Tomas Vychodil
+
+;Estonia
+* Andrei Stepanov
+* Vladimir Voskoboinikov
+
+;Finland
+* Boris Rotenberg
+
+;Georgia
+* Valeri Abramidze
+* Gogita Gogua
+* Giorgi Lomaia
+* Giorgi Navalovski
+* Edik Sadzhaya
+* Georgi Mikadze
+* Vladimir Gogberashvili
+
+;Kazakhstan
+* Islambek Kuat
+* Dmitriy Lyapkin
+* Roman Uzdenov
+
+;Latvia
+* Oskars Kļava
+
+;Lithuania
+* Darius Miceika
+* Mantas Samusiovas
+* Valdas Trakys
+
+;Moldova
+* Victor Golovatenco
+* Oleg Hromtov
+* Iurie Priganiuc
+* Radu Rebeja
+* Oleg Shishkin
+
+;Romania
+* Florin Costin Șoavă
+
+;Serbia
+* Dragan Mrđa
+
+;Slovakia
+* Martin Jakubko
+
+;Slovenia
+* Nastja Čeh
+
+;Sweden
+* Filip Dagerstål
+
+;Ukraine
+* Serhiy Danylovskyi
+* Dmytro Parfenov
+
+;Asia
+
+;Turkmenistan
+* Vladimir Bayramov
+
+;Uzbekistan
+* Igor Golban
+* Vladimir Shishelov
+* Ilya Telegin
+
+;Africa
+
+;Burkina Faso
+* Mohamed Konaté
+
+;Morocco
+* Abdelillah Bagui
+
+;Nigeria
+* Richard Eromoigbe
+* Brian Idowu
+* Chidi Osuchukwu
+
+;Senegal
+* Dame Diop
+
+
+==Club records==
+
+
+===Most league appearances for Khimki===
+# Miodrag Jovanović: 224
+# Roman Berezovsky: 175
+# Nikolai Barkalov: 164
+# Sergei Kravchuk: 145
+# Aleksandr Shulenin: 140
+# Andrey Tikhonov: 124
+# Aleksandr Makarov: 119
+# Aleksandr Shvetsov: 116
+# Igor Nekrasov: 115
+#  Sergei Shcheglov: 112
+
+===Most league goals for Khimki===
+#Sergei Kravchuk: 46
+#Andrey Tikhonov: 43
+#Yuri Georgiyevsky: 30
+#Konstantin Genich: 29
+#Nikolai Kovardayev: 27
+#Vadim Shatalin: 23
+#Aleksandr Antipenko: 20
+#Denis Kiselyov: 18
+#Anton Arkhipov: 16
+
+==Coaching staff==
+
+{| class="wikitable"
+|-
+!Position
+!Staff
+|-
+| First-Team Manager ||  Spartak Gogniyev
+|-
+| First-Team Assistant Manager ||  Dmitri Vyazmikin   Andrey Shatov
+|-
+| First-Team Coach ||  Branimir Petrović
+|-
+| Goalkeeper Coach ||  Aleksandr Guteev
+|-
+| Fitness Coach ||  Evgeniy Bondarenko
+|-
+| Doctor ||  Nikita Konovalov
+|-
+| Masseur  ||  Aleksey Lyashchenko
+|}
+
+==Managers==
+*Vladimir Shtapov (1996–97)
+*Igor Bychkov (1997, interim)
+*Ravil Sabitov (1997–99), (2001–02)
+*Alexandr Piskarev (2000)
+*Viktor Papayev (2000)
+*Aleksei Petrushin (2001)
+*Sergey Derkach (2002–03)
+*Dmitry Galyamin (2003)
+*Vasily Kulkov (2004)
+*Vladimir Shevchuk (2004)
+*Pavel Yakovenko (2004–05)
+*Vladimir Kazachyonok (2006–07)
+*Slavoljub Muslin (2007–08)
+*Sergei Yuran (2008)
+*Konstantin Sarsania (2009)
+*Igor Chugainov (2009)
+*Alexander Tarkhanov (2009–10)
+*Oleg Dolmatov (2011–12)
+*Alexander Tarkhanov (2012)
+*Valeriy Petrakov (2012–13)
+*Alexander Tarkhanov (2013)
+*Vladimir Mukhanov (2013–14)
+*Vladimir Maminov (2014–15)
+*Vadim Khafizov (2015–16)
+*Aleksandr Irkhin (2016–18)
+*Igor Shalimov (2018–19)
+*Andrei Talalayev (2019–20)
+*Sergei Yuran (2020)
+*Dmitri Gunko (2020)
+*Igor Cherevchenko (2020–Now)
+
+==Honours==
+*Russian National Football League
+::Winners: 2006
+*Russian Professional Football League
+::Winners: 2000 (Centre), 2015–16 (West)
+

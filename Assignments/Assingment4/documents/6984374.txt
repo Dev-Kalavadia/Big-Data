@@ -1,0 +1,1380 @@
+Title: List of threatened flora of Australia
+
+The list of threatened flora of Australia includes all plant species listed as critically endangered or endangered in Australia under the Environment Protection and Biodiversity Conservation Act 1999 (EPBC Act).
+
+== Critically endangered ==
+{| border="1" cellpadding="4" cellspacing="0" style="border:1px solid #aaa; border-collapse:collapse"
+|-
+!Species !!Common name!! Location(s)
+|-
+| Abutilon julianae||Norfolk Island abutilon||Norfolk Island
+|-
+| Acacia cochlocarpa subsp. velutinosa||Velvety spiral pod wattle||WA
+|-
+| Acacia equisetifolia||Graveside Gorge acacia||NT
+|-
+| Acacia leptoneura|| ||WA
+|-
+| Acacia purpureopetala|| ||QLD
+|-
+| Acacia unguicula|| ||VIC
+|-
+| Acanthocladium dockeri||Spiny everlasting||SA
+|-
+| Achyranthes arborescens||Chaff tree, soft-wood||Norfolk Island
+|-
+| Achyranthes margaretarum|| ||Norfolk Island (Phillip Island)
+|-
+| Caladenia actensis syn. Arachnorchis actensis||Canberra spider-orchid||ACT
+|-
+| Argentipallium spiceri||Spicer's everlasting||TAS
+|-
+| Arthrochilus huntianus subsp. nothofagicola||Myrtle elbow orchid||TAS
+|-
+| Asplenium listeri||Christmas Island spleenwort||Christmas Island
+|-
+| Atalaya brevialata||Elizabeth River whitewood ||NT
+|-
+| Azorella macquariensis||Macquarie cushions||Macquarie Island
+|-
+| Banksia anatona||Cactus dryandra||WA
+|-
+| Banksia aurantia||Orange dryandra||WA
+|-
+| Banksia fuscobractea||Dark-bract banksia||WA
+|-
+| Barbarea australis||Native wintercress||TAS
+|-
+| Boehmeria australis var. australis||Tree nettle, nettletree||Norfolk Island
+|-
+| Brachychiton sp. Ormeau||Ormeau bottle tree||QLD
+|-
+| Brachyscias verecundus||Ironstone brachyscias||WA
+|-
+| Caladenia anthracina||Black-tipped spider-orchid||TAS
+|-
+| Caladenia campbellii||Thick-stem spider-orchid||TAS
+|-
+| Caladenia dienema||Windswept spider-orchid||TAS
+|-
+| Caladenia lindleyana||Lindley's spider-orchid||TAS
+|-
+| Caladenia pallida||Rosy spider-orchid, pale spider-orchid, summer spider-orchid||TAS
+|-
+| Caladenia saggicola||Sagg spider-orchid||TAS
+|-
+| Caladenia sp. aff. venusta||Kilsyth South spider-orchid||VIC
+|-
+| Caladenia sylvicola||Forest fingers||TAS
+|-
+| Caladenia tonellii||Robust fingers||TAS
+|-
+| Callistemon megalongensis||Megalong Valley bottlebrush||NSW
+|-
+| Calystegia affinis||Creeping vine||Lord Howe Island, Norfolk Island
+|-
+| Clematis dubia||Mount Pitt clematis||Norfolk Island
+|-
+| Conostylis setigera subsp. dasys||Boscabel conostylis||WA
+|-
+| Corunastylis ectopa||Brindabella midge-orchid, ectopic midge-orchid||ACT
+|-
+| Corunastylis insignis||Variable midge-orchid||NSW
+|-
+| Corunastylis littoralis syn. Genoplesium littorale||Tuncurry midge-orchid||NSW
+|-
+| Corybas sulcatus syn. Nematoceras sulcatum||Grooved helmet-orchid||Macquarie Island
+|-
+| Darwinia foetida||Muchea bell||WA
+|-
+| Dasymalla axillaris||Native foxglove||WA
+|-
+| Daviesia glossosema||Maroon daviesia||WA
+|-
+| Diuris flavescens||Wingham doubletail||NSW
+|-
+| Duma horrida subsp. abdita||Remote thorny lignum||WA
+|-
+| Eidothea hardeniana||Nightcap oak||NSW
+|-
+| Elatostema montanum||Mountain procris||Norfolk Island
+|-
+| Elymus multiflorus var. kingianus||Phillip Island wheat-grass||Norfolk Island, Lord Howe Island
+|-
+| Epacris barbata||Bearded heath, Freycinet heath||TAS
+|-
+| Epacris graniticola||Mount Cameron heath||TAS
+|-
+| Epacris limbata||Border heath||TAS
+|-
+| Epacris stuartii||Stuart's heath||TAS
+|-
+| Eremophila koobabbiensis||Koobabbie poverty bush||WA
+|-
+| Eucalyptus recurva||Mongarlowe mallee||NSW
+|-
+| Euphorbia norfolkiana||Norfolk Island euphorbia||Norfolk Island
+|-
+| Euphrasia arguta||Nundle eyebright, pungent eyebright||NSW
+|-
+| Euphrasia fragosa||Shy eyebright, Southport eyebright||TAS
+|-
+| Euphrasia gibbsiae subsp. psilantherea||Swamp eyebright||TAS
+|-
+| Galium antarcticum||Antarctic bedstraw||Macquarie Island
+|-
+| Gastrolobium diabolophyllum||Bodallin poison||WA
+|-
+| Gastrolobium leuteifolium||Yellow-leafed poison||WA
+|-
+| Genoplesium firthii||Firth's midge-orchid||TAS
+|-
+| Grevillea brachystylis subsp. grandis||Large-flowered short-styled grevillea||WA
+|-
+| Guichenotia seorsiflora|| ||WA
+|-
+| Gyrostemon reticulatus||Net-veined gyrostemon||WA
+|-
+| Haloragis platycarpa||Broad-fruited haloragis||WA
+|-
+| Hemigenia ramosissima||Branched hemigenia||WA
+|-
+| Hibiscus insularis||Phillip Island hibiscus||Norfolk Island
+|-
+| Hibbertia priceana||Price's guinea-flower||WA
+|-
+| Hibbertia puberula subsp. glabrescens||Bankstown guinea-flower||NSW
+|-
+| Hibbertia tenuis|| ||SA
+|-
+| Hybanthus cymulosus||Ninghan violet||WA
+|-
+| Hydatella leptogyne||Few-flowered hydatella||WA
+|-
+| Isopogon robustus||Robust cone-flower||WA
+|-
+| Keraudrenia exastia||Fringed keraudrania||WA
+|-
+| Lepidorrhachis mooreana||Little Mountain palm||Lord Howe Island
+|-
+| Leucopogon spectabilis||Ironstone beard-heath||WA
+|-
+| Lomatia tasmanica||King's lomatia||TAS
+|-
+| Lysiosepalum abollatum||Woolly lysiosepalum||WA
+|-
+| Melicytus latifolius||Norfolk Island mahoe||Norfolk Island
+|-
+| Meryta latifolia||Shade tree, broad-leaved meryta||Norfolk Island
+|-
+| Muehlenbeckia horrida subsp. abdita ||Remote thorny lignum|| WA
+|-
+| Myoporum obscurum||Popwood, sandalwood, bastard ironwood||Norfolk Island
+|-
+| Notelaea ipsviciensis||Cooneana olive||QLD
+|-
+| Paragoodia crenulata|| ||WA
+|-
+| Persoonia pauciflora||North Rothbury geebung||NSW
+|-
+| Phebalium daviesii||Davies' waxflower, St Helens waxflower||TAS
+|-
+| Phebalium distans||Mount Berryman waxflower||QLD
+|-
+| Philotheca freyciana||Freycinet waxflower||TAS
+|-
+| Phlegmariurus squarrosus||Rock tassel-fern||QLD
+|-
+| Phreatia limenophylax||Norfolk Island phreatia||Norfolk Island
+|-
+| Pimelea spinescens subsp. pubiflora||Wimmera rice-flower||VIC
+|-
+| Pimelea spinescens subsp. spinescens||Plains rice-flower, spiny rice-flower, prickly pimelea||VIC
+|-
+| Pneumatopteris truncata||Christmas Island fern||Christmas Island
+|-
+| Prasophyllum atratum||Three Hummock leek-orchid||TAS (Three Hummock Island)
+|-
+| Prasophyllum bagoense||Bago leek-orchid||NSW
+|-
+| Prasophyllum castaneum||Chestnut leek-orchid||TAS
+|-
+| Prasophyllum favonium||Western leek-orchid||TAS
+|-
+| Prasophyllum incorrectum||Golfers leek-orchid||TAS
+|-
+| Prasophyllum innubum||Brandy Marys leek-orchid||NSW
+|-
+| Prasophyllum keltonii||Keltons leek-orchid||NSW
+|-
+| Prasophyllum laxum||Lax leek-orchid||SA
+|-
+| Prasophyllum limnetes||Marsh leek-orchid||TAS
+|-
+| Prasophyllum milfordense||Milford leek-orchid||TAS
+|-
+| Prasophyllum murfetii||Fleurieu leek-orchid||SA
+|-
+| Prasophyllum olidum||Pungent leek-orchid||TAS
+|-
+| Prasophyllum perangustum||Knocklofty leek-orchid||TAS
+|-
+| Prasophyllum pulchellum||Pretty leek-orchid||TAS
+|-
+| Prasophyllum robustum||Robust leek-orchid||TAS North Coast
+|-
+| Prasophyllum stellatum||Ben Lomond leek-orchid||TAS
+|-
+| Prasophyllum taphanyx||Graveside leek-orchid||TAS
+|-
+| Prostanthera albohirta|| ||QLD
+|-
+| Prostanthera clotteniana|| ||QLD
+|-
+| Prostanthera marifolia||Seaforth mintbush||NSW
+|-
+| Prostanthera staurophylla||Seaforth mintbush||NSW
+|-
+| Pterostylis bryophila||Hindmarsh Valley greenhood||SA
+|-
+| Pterostylis commutata||Midland greenhood||TAS
+|-
+| Pterostylis oreophila||Kiandra greenhood||NSW
+|-
+| Pterostylis valida||Robust greenhood||VIC
+|-
+| Pterostylis vernalis||Halbury rustyhood||NSW
+|-
+| Pterostylis wapstrarum||Fleshy greenhood||TAS
+|-
+| Ptilotus pyramidatus||Pyramid mulla-mulla||WA
+|-
+| Pultenaea sp. Genowlan Point||Genowlan Point pultenaea||NSW Central Tablelands
+|-
+| Reedia spathacea||Reedia||WA
+|-
+| Sagina diemensis||Pearlwort||TAS
+|-
+| Scaevola macrophylla||Cape Riche fan-flower, large-flowered scaevola ||WA
+|-
+| Synaphea selenae||Selena's synaphea||WA
+|-
+| Synaphea sp. Pinjarra||Club-leafed synaphea||WA
+|-
+| Tetratheca nephelioides|| ||WA
+|-
+| Thelymitra adorata||Wyong sun-orchid||NSW
+|-
+| Thelymitra cyanapicata||Blue top sun-orchid||SA
+|-
+| Thelymitra jonesii||Sky-blue sun-orchid||TAS
+|-
+| Thelymitra kangaloonica||Kangaloon sun-orchid||NSW
+|-
+| Veronica derwentiana subsp. homalodonta||Mount Lofty speedwell||SA
+|-
+| Verticordia apecta||Hay River featherflower||WA
+|-
+| Wikstroemia australis||Norfolk Island kurrajong||Norfolk Island
+|-
+|}
+
+==Endangered==
+{| border="1" cellpadding="4" cellspacing="0" style="border:1px solid #aaa; border-collapse:collapse"
+|-
+!Species !!Common name!! Location(s)
+|-
+| Acacia aprica || Blunt wattle || WA
+|-
+| Acacia aristulata || Watheroo wattle || WA
+|-
+| Acacia ataxiphylla subsp. magna || Large-fruited Tammin wattle || WA
+|-
+| Acacia auratiflora || Orange-flowered wattle || WA
+|-
+| Acacia brachypoda || Western Wheatbelt wattle || WA
+|-
+| Acacia cochlocarpa subsp. cochlocarpa || Spiral-fruited wattle || WA
+|-
+| Acacia cretacea || Chalky wattle || SA
+|-
+| Acacia enterocarpa || Jumping-jack wattle || SA, VIC
+|-
+| Acacia gordonii || Gordon's wattle || NSW
+|-
+| Acacia imitans||Gibson wattle||WA
+|-
+| Acacia insolita subsp. recurva || Yornaning wattle || WA
+|-
+| Acacia lanuginophylla || Woolly wattle || WA
+|-
+| Acacia leptalea || Chinocup wattle || WA
+|-
+| Acacia lobulata || Chiddarcooping wattle || WA
+|-
+| Acacia pharangites || Wongan gully wattle || WA
+|-
+| Acacia pinguifolia || Fat-leaved wattle || SA
+|-
+| Acacia porcata ||Toondahra wattle || QLD
+|-
+| Acacia pygmaea || Dwarf rock wattle || WA
+|-
+| Acacia recurvata || Recurved wattle || WA
+|-
+| Acacia rhamphophylla || Kundip wattle || WA
+|-
+| Acacia ruppii || Rupp's wattle || NSW
+|-
+| Acacia sciophanes || Wundowlin wattle, ghost wattle || WA
+|-
+| Acacia sp. Dandaragan (S. van Leeuwen 269) || Dandaragan wattle || WA
+|-
+| Acacia subflexuosa subsp. capillata || Hairy-stemmed zig-zag wattle || WA
+|-
+| Acacia terminalis subsp. terminalis || Sunshine wattle || NSW
+|-
+| Acacia vassalii || Vassal's wattle || WA
+|-
+| Acacia volubilis || Tangled wattle, tangle wattle || WA
+|-
+| Acacia whibleyana || Whibley wattle || SA
+|-
+| Acronychia littoralis || Scented acronychia || NSW, QLD
+|-
+| Adenanthos dobagii || Fitzgerald woollybush || WA
+|-
+| Adenanthos eyrei || Toolinna woollybush || WA
+|-
+| Adenanthos pungens subsp. effusus || Sprawling spiky woollybush || WA
+|-
+| Adenanthos velutinus || Velvet woollybush || WA
+|-
+| Agrostis adamsonii || Adamson's blown-grass || VIC
+|-
+| Alectryon ramiflorus ||Isis tamarind || QLD
+|-
+| Allocasuarina defungens || Dwarf heath sheoak || NSW
+|-
+| Allocasuarina emuina || Emu Mountain sheoak || QLD
+|-
+| Allocasuarina glareicola ||  || NSW
+|-
+| Allocasuarina portuensis || Nielsen Park sheoak || NSW
+|-
+| Allocasuarina robusta||Mount Compass oak-bush||SA
+|-
+| Allocasuarina thalassoscopica || Mount Coolum sheoak || QLD
+|-
+| Amyema plicatula ||  || NSW
+|-
+| Andersonia axilliflora || Giant andersonia || WA
+|-
+| Andersonia gracilis || Slender andersonia || WA
+|-
+| Androcalva rosea||Sandy Hollow commersonia||NSW
+|-
+| Anigozanthos bicolor subsp. minor || Small two-colour kangaroo paw || WA
+|-
+| Aponogeton bullosus ||  || QLD
+|-
+| Aponogeton proliferus || Aquatic herb || QLD
+|-
+| Archontophoenix myolensis || Myola archontophoenix || QLD
+|-
+| Aristida granitica ||  || QLD
+|-
+| Asterolasia elegans ||  || NSW
+|-
+| Astrotricha roddii ||  || NSW, QLD
+|-
+| Atalaya collina || Yarwun whitewood || QLD
+|-
+| Austromyrtus fragrantissima || Scale myrtle, sweet myrtle || NSW, QLD
+|-
+| Austromyrtus gonoclada || Angle-stemmed myrtle || QLD
+|-
+| Baeckea kandos || Kandos baeckea || NSW
+|-
+| Ballantinia antipoda || Southern shepherd's purse || VIC
+|-
+| Banksia brownii || Brown's banksia, feather-leaved banksia || WA
+|-
+| Banksia cuneata || Matchstick banksia, Quairading banksia || WA
+|-
+| Banksia ionthocarpa||Kamballup dryandra, Kamballup banksia||WA
+|-
+| Banksia oligantha || Wagin banksia || WA
+|-
+| Banksia pseudoplumosa||False-plumed banksia||WA
+|-
+| Barbarea australis||Riverbed wintercress||TAS
+|-
+| Bertya ingramii || Narrow-leaved bertya || NSW
+|-
+| Bertya tasmanica subsp. tasmanica || Tasmanian bertya || TAS
+|-
+| Beyeria lepidopetala || Short-petalled beyeria, small-petalled beyeria || WA
+|-
+| Billardiera mollis || Hairy-fruited billardiera || WA
+|-
+| Blechnum norfolkianum || Norfolk Island water-fern || Norfolk Island
+|-
+| Boronia capitata subsp. capitata || Tutanning boronia || WA
+|-
+| Boronia exilis || Scott River boronia || WA
+|-
+| Boronia granitica || Granite boronia || NSW, QLD
+|-
+| Boronia repanda || Repand boronia, border boronia || NSW, QLD
+|-
+| Boronia revoluta || Ironcap boronia || WA
+|-
+| Borya mirabilis || Grampians pincushion-lily || VIC
+|-
+| Brachyscome muelleri || Corunna daisy || SA
+|-
+| Brachysema papilio || Butterfly-leaved brachysema || WA
+|-
+| Burmannia sp. Melville Island (R. Fensham 1021) || Melville Island burmannia  || NT
+|-
+| Cajanus mareebensis ||  || QLD
+|-
+| Caladenia amoena || Charming spider-orchid || VIC
+|-
+| Caladenia arenaria || Sand-hill spider-orchid || NSW
+|-
+| Caladenia argocalla || White-beauty spider-orchid || SA
+|-
+| Caladenia atroclavia || Black-clubbed spider-orchid || QLD
+|-
+| Caladenia audasii || McIvor spider-orchid, Audas spider-orchid || VIC
+|-
+| Caladenia barbarella||Small dragon-orchid||WA
+|-
+| Caladenia behrii || Pink-lipped spider-orchid || SA
+|-
+| Caladenia bryceana subsp. bryceana || Dwarf spider-orchid || WA
+|-
+| Caladenia busselliana Hopper & A. P. Brown ms. || Bussell's spider-orchid  || WA
+|-
+| Caladenia caesarea subsp. maritima || Cape spider-orchid || WA
+|-
+| Caladenia carnea var. subulata || Striped pink fingers, striped spider-orchid || VIC
+|-
+| Caladenia colorata || Small western spider-orchid, coloured spider-orchid || SA, VIC
+|-
+| Caladenia conferta||Coast spider-orchid||SA
+|-
+| Caladenia dienema||Windswept spider-orchid||TAS
+|-
+| Caladenia dorrienii || Cossack spider-orchid || WA
+|-
+| Caladenia elegans Hopper & A. P. Brown ms. || Elegant spider-orchid  || WA
+|-
+| Caladenia excelsa Hopper & A. P. Brown ms. || Giant spider-orchid || WA
+|-
+| Caladenia fragrantissima subsp. orientalis || Cream spider-orchid || VIC
+|-
+| Caladenia fulva || Tawny spider-orchid || VIC
+|-
+| Caladenia gladiolata || Bayonet spider-orchid, clubbed spider-orchid || SA
+|-
+| Caladenia hastata || Melblom's spider-orchid || VIC
+|-
+| Caladenia hoffmanii Hopper & A. P. Brown ms. || Hoffman's spider-orchid || WA
+|-
+| Caladenia huegelii Hopper & A. P. Brown ms. || Grand spider-orchid, king spider-orchid || WA
+|-
+| Caladenia lowanensis || Wimmera spider-orchid || VIC
+|-
+| Caladenia macroclavia || Large-club spider-orchid || SA
+|-
+| Caladenia orientalis||Eastern spider orchid|| VIC
+|-
+| Caladenia richardsiorum || Little dip spider-orchid || SA
+|-
+| Caladenia rigida || Stiff white spider-orchid || SA
+|-
+| Caladenia robinsonii || Frankston spider-orchid || VIC
+|-
+| Caladenia rosella || Rosella spider-orchid, little pink spider-orchid || VIC
+|-
+| Caladenia tensa || Greencomb spider-orchid, rigid spider-orchid || NSW, SA, VIC
+|-
+| Caladenia thysanochila || Fringed spider-orchid || VIC
+|-
+| Caladenia viridescens Hopper & A. P. Brown ms. || Dunsborough spider-orchid || WA
+|-
+| Caladenia williamsiae||Williams spider-orchid||WA
+|-
+| Caladenia winfieldii Hopper & A. P. Brown ms. || Majestic spider-orchid || WA
+|-
+| Caladenia xanthochila || Yellow-lip spider-orchid || NSW, SA, VIC
+|-
+| Caladenia xantholeuca || White rabbits, Flinders Ranges white spider-orchid || SA
+|-
+| Callitris oblonga subsp. oblonga || South Esk pine || TAS
+|-
+| Calochilus psednus || Cardwell beard orchid || QLD
+|-
+| Calochilus richiae || Bald-tip beard-orchid || VIC
+|-
+| Calotis moorei || Moore's burr-daisy || NSW
+|-
+| Calytrix breviseta subsp. breviseta || Swamp starflower || WA
+|-
+| Carronia pedicellata ||  || QLD
+|-
+| Chamelaucium sp. Gingin (N. G. Marchant s.n. 4/11/1988) || Gingin wax || WA
+|-
+| Chingia australis ||  || QLD
+|-
+| Chordifex abortivus || Manypeaks rush || WA
+|-
+| Chorizema humile || Prostrate flame pea || WA
+|-
+| Chorizema varium || Limestone pea || WA
+|-
+| Conospermum densiflorum subsp. unicephalatum || One-headed smokebush || WA
+|-
+| Conospermum toddii || Victoria desert smokebush || WA
+|-
+| Conostylis dielsii subsp. teres || Irwin conostylis || WA
+|-
+| Conostylis drummondii || Drummond's conostylis || WA
+|-
+| Conostylis lepidospermoides || Sedge conostylis || WA
+|-
+| Conostylis micrantha || Small-flowered conostylis || WA
+|-
+| Conostylis misera || Grass conostylis || WA
+|-
+| Conostylis seorsiflora subsp. trichophylla || Hairy mat conostylis || WA
+|-
+| Conostylis setigera subsp. dasys || Boscabel conostylis || WA
+|-
+| Conostylis wonganensis || Wongan conostylis || WA
+|-
+| Coopernookia georgei || Mauve coopernookia || WA
+|-
+| Coprosma baueri || Coastal coprosma || Norfolk Island
+|-
+| Coprosma pilosa || Mountain coprosma || Norfolk Island
+|-
+| Corchorus cunninghamii || Native jute || NSW, QLD
+|-
+| Correa lawrenceana var. genoensis || Mountain correa || NSW, VIC
+|-
+| Corybas sp. Finniss (R. Bates 28794) || Finniss helmet-orchid || SA
+|-
+| Cossinia australiana || Cossinia || QLD
+|-
+| Craspedia preminghana || Preminghana billybutton || TAS
+|-
+| Crepidium lawleri ||  || QLD
+|-
+| Crepidomanes endlicherianum || Middle filmy fern || Norfolk Island
+|-
+| Cyathea exilis || Mann Creek tree-fern || QLD
+|-
+| Cycas megacarpa ||  || QLD
+|-
+| Cycas ophiolitica ||  || QLD
+|-
+| Cynanchum elegans || White-flowered wax plant || NSW
+|-
+| Cyperus cephalotes ||  || QLD
+|-
+| Cyphanthera odgersii subsp. occidentalis || Western woolly cyphanthera, western cyphanthera || WA
+|-
+| Danthonia popinensis || Blue wallaby grass|| TAS
+|-
+| Daphnandra johnsonii || Illawarra socketwood  || NSW
+|-
+| Darwinia acerosa || Fine-leaved bell, fine-leaved darwinia || WA
+|-
+| Darwinia apiculata || Scarp bell, scarp darwinia || WA
+|-
+| Darwinia carnea || Mogumber bell || WA
+|-
+| Darwinia chapmaniana Marchant & Keighery ms.  ||  || WA
+|-
+| Darwinia collina || Yellow mountain bell || WA
+|-
+| Darwinia ferricola N. G. Marchant & Keighery ms.|| Scott River bell || WA
+|-
+| Darwinia oxylepis || Gillham's bell || WA
+|-
+| Darwinia sp. Carnamah (J. Coleby-Williams 148) || Harlequin bell || WA
+|-
+| Darwinia sp. Williamson (G. J. Keighery 12717) || Abba bell || WA
+|-
+| Darwinia wittwerorum || Wittwer's mountain bell || WA
+|-
+| Davidsonia jerseyana  || Davidson's plum || NSW
+|-
+| Davidsonia sp. Mullumbimby-Currumbin Ck (A. G. Floyd 1595) || Smooth Davidson's plum || NSW, QLD
+|-
+| Daviesia bursarioides || Three Springs daviesia || WA
+|-
+| Daviesia cunderdin || Cunderdin daviesia || WA
+|-
+| Daviesia euphorbioides || Wongan cactus, Wongan daviesia || WA
+|-
+| Daviesia megacalyx || Long-sepalled naviesia || WA
+|-
+| Daviesia microcarpa || Norseman pea, Norseman daviesia || WA
+|-
+| Daviesia pseudaphylla || Stirling Range daviesia || WA
+|-
+| Daviesia speciosa || Beautiful daviesia || WA
+|-
+| Decaspermum sp. Mt Morgan (D. Hoy 71) || Mount Morgan silky myrtle || QLD
+|-
+| Dendrobium antennatum || Green antelope orchid || QLD
+|-
+| Dendrobium brachypus || Norfolk Island antler-orchid || Norfolk Island
+|-
+| Dendrobium lithocola ||  || QLD
+|-
+| Dendrobium mirbelianum || Dark-stemmed antler-orchid || QLD
+|-
+| Dendrobium nindii || Blue antler-orchid || QLD
+|-
+| Deyeuxia appressa ||  || NSW
+|-
+| Deyeuxia drummondii || Drummond's grass, Drummond grass || WA
+|-
+| Dianella amoena || Matted flax-lily || VIC
+|-
+| Digitaria porrecta || Finger panic grass || NSW, QLD
+|-
+| Diospyros mabacea || Red-fruited ebony, silky persimmon, ebony || NSW
+|-
+| Diplazium pallidum ||  || QLD
+|-
+| Diploglottis campbellii || Small-leaved tamarind || NSW, QLD
+|-
+| Dipodium pictum || Brittle climbing-orchid || QLD
+|-
+| Diuris basaltica D. L. Jones ined. || Small golden moths orchid || VIC
+|-
+| Diuris fragrantissima || Sunshine diuris, fragrant doubletail, white diuris || VIC
+|-
+| Diuris lanceolata || Snake orchid || TAS
+|-
+| Diuris pedunculata || Small snake orchid, two-leaved golden moths, golden moths, cowslip orchid, snake orchid || ACT, NSW, QLD
+|-
+| Diuris purdiei || Purdie's donkey-orchid || WA
+|-
+| Dodonaea subglandulifera || Peep Hill hop-bush || SA
+|-
+| Drakaea confluens Hopper & A. P. Brown ms. || Late hammer-orchid || WA
+|-
+| Drakaea elastica || Glossy-leaved hammer-orchid, praying virgin || WA
+|-
+| Drakaea isolata Hopper & A. P. Brown ms. || Lonely hammer-orchid || WA
+|-
+| Drakonorchis drakeoides Hopper & A. P. Brown ms.|| Hinged dragon orchid || WA
+|-
+| Drummondita ericoides || Moresby Range drummondita || WA
+|-
+| Dryandra anatona || Cactus dryandra, cactus honeypot || WA
+|-
+| Dryandra aurantia || Orange dryandra, orange honeypot || WA
+|-
+| Dryandra mimica || Summer honeypot || WA
+|-
+| Dryandra montana || Stirling Range dryandra || WA
+|-
+| Dryandra nivea subsp. uliginosa || Swamp honeypot || WA
+|-
+| Elaeocarpus sp. Rocky Creek  (G. Read AQ 562114) also known as Elaeocarpus sedentarius || Minyon quandong || NSW
+|-
+| Elaeocarpus williamsianus || Hairy quandong || NSW
+|-
+| Endiandra cooperana || Cape Tribulation walnut || QLD
+|-
+| Endiandra floydii || Floyd's walnut || NSW, QLD
+|-
+| Epacris apsleyensis || Apsley heath || TAS
+|-
+| Epacris exserta || South Esk heath || TAS
+|-
+| Epacris glabella || Funnel heath || TAS
+|-
+| Epacris grandis || Grand heath || TAS
+|-
+| Epacris hamiltonii || Hamilton's heath || NSW
+|-
+| Epacris sp. aff. virgata graniticola || Mt Cameron heath || TAS
+|-
+| Epacris virgata sensu stricto Beaconsfield || Pretty heath, Dan Hill heath || TAS
+|-
+| Epiblema grandiflorum var. cyanea K. Dixon ms. || Blue babe-in-the-cradle orchid || WA
+|-
+| Eremochloa muricata || Warty emu bush || QLD
+|-
+| Eremophila denticulata subsp. trisulcata Chinnock ms. || Cumquat emu bush || WA
+|-
+| Eremophila lactea || Milky emu bush || WA
+|-
+| Eremophila nivea || Silky eremophila || WA
+|-
+| Eremophila pinnatifida Chinnock ms. || Pinnate-leaf eremophila || WA
+|-
+| Eremophila resinosa || Resinous eremophila, resin emu bush || WA
+|-
+| Eremophila scaberula || Rough emu bush || WA
+|-
+| Eremophila subteretifolia Chinnock ms. || Lake King emu bush || WA
+|-
+| Eremophila ternifolia || Wongan emu bush || WA
+|-
+| Eremophila veneta Chinnock ms. || Metal-flowered emu bush || WA
+|-
+| Eremophila verticillata || Whorled emu bush || WA
+|-
+| Eremophila virens || Campion eremophila, green-flowered emu bush || WA
+|-
+| Eremophila viscida || Varnish bush || WA
+|-
+| Eriocaulon australasicum || Southern pipewort || SA, VIC
+|-
+| Eriocaulon carsonii || Salt pipewort, button grass || NSW, QLD, SA
+|-
+| Eryngium fontanum || Blue devil || QLD
+|-
+| Eucalyptus absita || Badgingarra box || WA
+|-
+| Eucalyptus alligatrix subsp. limaensis||Lima stringybark||VIC
+|-
+| Eucalyptus balanites || Cadda Road mallee, Cadda mallee || WA
+|-
+| Eucalyptus beardiana || Beard's mallee || WA
+|-
+| Eucalyptus brevipes || Mukinbudin mallee || WA
+|-
+| Eucalyptus burdettiana || Burdett gum || WA
+|-
+| Eucalyptus canabolensis||Silver-leaf candlebark||NSW
+|-
+| Eucalyptus conglomerata || Swamp stringybark || QLD
+|-
+| Eucalyptus copulans ||  || NSW
+|-
+| Eucalyptus crenulata || Silver gum, Buxton gum || VIC
+|-
+| Eucalyptus crucis subsp. praecipua || Paynes Find mallee || WA
+|-
+| Eucalyptus cuprea || Mallee box || WA
+|-
+| Eucalyptus dolorosa || Dandaragan mallee || WA
+|-
+| Eucalyptus gunnii subsp. divaricata || Miena cider gum || TAS
+|-
+| Eucalyptus imlayensis || Mount Imlay mallee  || NSW
+|-
+| Eucalyptus impensa || Eneabba mallee || WA
+|-
+| Eucalyptus insularis || Twin Peak Island mallee || WA
+|-
+| Eucalyptus leprophloia || Scaly butt mallee, scaly-butt mallee || WA
+|-
+| Eucalyptus morrisbyi || Morrisbys gum || TAS
+|-
+| Eucalyptus pachycalyx subsp. banyabba || Banyabba shiny-barked gum || NSW
+|-
+| Eucalyptus phylacis || Meelup mallee || WA
+|-
+| Eucalyptus pruiniramis || Midlands gum, Jingymia gum || WA
+|-
+| Eucalyptus recta||Silver mallet||WA
+|-
+| Eucalyptus sp. Howes Swamp Creek (M. Doherty 19/7/1985 NSW 207054) ||  || NSW
+|-
+| Euphrasia collina subsp. muelleri || Purple eyebright, Mueller's eyebright || VIC
+|-
+| Euphrasia collina subsp. osbornii || Osborn's eyebright || SA
+|-
+| Euphrasia semipicta || Peninsula eyebright || TAS
+|-
+| Euphrasia sp. fabula || Hairy cliff eyebright || TAS
+|-
+| Fimbristylis adjuncta ||  || QLD
+|-
+| Fontainea oraria || Coastal fontainea || NSW
+|-
+| Frankenia conferta||Silky frankenia||WA
+|-
+| Frankenia parvula || Short-leaved frankenia || WA
+|-
+| Frankenia plicata || Sea heath || SA
+|-
+| Gardenia actinocarpa || Daintree gardenia || QLD
+|-
+| Gastrolobium glaucum || Spike poison, Wongan poison || WA
+|-
+| Gastrolobium graniticum || Granite poison || WA
+|-
+| Gastrolobium hamulosum || Hook-point poison || WA
+|-
+| Gastrolobium papilio||Butterfly poison, butterfly-leaved gastrolobia||WA
+|-
+| Geniostoma huttonii|| ||Lord Howe Island
+|-
+| Genoplesium baueri||Yellow gnat-orchid||NSW
+|-
+| Genoplesium brachystachyum ||Short-spiked midge-orchid || TAS
+|-
+| Genoplesium plumosum || Plumed midge-orchid || NSW
+|-
+| Genoplesium rhyoliticum || Pambula midge-orchid || NSW
+|-
+| Genoplesium tectum || Cardwell midge-orchid || QLD
+|-
+| Gentiana baeuerlenii || Bauerlen's gentian || ACT, NSW
+|-
+| Gentiana wingecarribiensis || Wingecarribee gentian || NSW
+|-
+| Gingidia montana || Mountain carrot || NSW
+|-
+| Glyceria drummondii || Nangetty grass || WA
+|-
+| Gossia fragrantissima||Sweet myrtle||NSW, QLD
+|-
+| Gossia gonoclada||Angle-stemmed myrtle||QLD
+|-
+| Graptophyllum reticulatum || Veiny graptophyllum || QLD
+|-
+| Grevillea acanthifolia subsp. paludosa || Bog grevillea || NSW
+|-
+| Grevillea althoferorum || Split-leaved grevillea || WA
+|-
+| Grevillea batrachioides || Mt Lesueur grevillea || WA
+|-
+| Grevillea beadleana || Beadle's grevillea || NSW
+|-
+| Grevillea caleyi || Caley's grevillea || NSW
+|-
+| Grevillea calliantha || Foote's grevillea, Cataby grevillea, black magic grevillea || WA
+|-
+| Grevillea corrugata||Bindoon grevillea||WA
+|-
+| Grevillea christineae || Christine's grevillea || WA
+|-
+| Grevillea curviloba subsp. curviloba || Curved-leaf grevillea || WA
+|-
+| Grevillea curviloba subsp. incurva || Narrow curved-leaf grevillea || WA
+|-
+| Grevillea dryandroides subsp. dryandroides || Phalanx grevillea || WA
+|-
+| Grevillea dryandroides subsp. hirsuta || Hairy phalanx grevillea || WA
+|-
+| Grevillea guthrieana || Guthrie's grevillea || NSW
+|-
+| Grevillea humifusa || Spreading grevillea || WA
+|-
+| Grevillea iaspicula || Wee Jasper grevillea || NSW
+|-
+| Grevillea infundibularis || Fan-leaf grevillea || WA
+|-
+| Grevillea involucrata || Lake Varley grevillea || WA
+|-
+| Grevillea maccutcheonii || McCutcheon's grevillea || WA
+|-
+| Grevillea masonii || Mason's grevillea || NSW
+|-
+| Grevillea maxwellii || Maxwell's grevillea || WA
+|-
+| Grevillea mollis ||  || NSW
+|-
+| Grevillea molyneuxii || Molyneux' grevillea  || NSW
+|-
+| Grevillea murex ||  || WA
+|-
+| Grevillea obtusiflora || Grey grevillea || NSW
+|-
+| Grevillea pythara || Pythara grevillea || WA
+|-
+| Grevillea rara || Rare grevillea || WA
+|-
+| Grevillea rivularis || Carrington Falls grevillea || NSW
+|-
+| Grevillea scapigera || Corrigin grevillea || WA
+|-
+| Grevillea wilkinsonii || Tumut grevillea || NSW
+|-
+| Habenaria macraithii ||Whiskered rein-orchid  || QLD
+|-
+| Hakea dohertyi || Kowmung hakea || NSW
+|-
+| Hakea pulvinifera || Lake Keepit hakea || NSW
+|-
+| Haloragis eyreana || Prickly raspwort || SA
+|-
+| Haloragodendron lucasii || Hal || NSW
+|-
+| Helicteres macrothrix ||  || NT
+|-
+| Hemiandra gardneri || Red snakebush || WA
+|-
+| Hemiandra rutilans || Sargent's snakebush || WA
+|-
+| Hibbertia basaltica||Basalt guinea-flower, Rogerville guinea-flower||TAS
+|-
+| Homoranthus decumbens|| ||QLD
+|-
+| Huperzia carinata || Keeled tassel-fern || QLD
+|-
+| Huperzia dalhousieana || Blue tassel-fern || QLD
+|-
+| Huperzia filiformis || Rat's tail tassel-fern || QLD
+|-
+| Huperzia squarrosa || Rock tassel-fern, water tassel-fern || QLD
+|-
+| Hydatella dioica || One-sexed hydatella || WA
+|-
+| Hypocalymma longifolium || Long-leaved myrtle || WA
+|-
+| Hypolepis distans || Scrambling ground-fern || TAS
+|-
+| Indigofera efoliata || Leafless indigo || NSW
+|-
+| Irenepharsus trypherus || Delicate cress, Illawarra irene || NSW
+|-
+| Isoglossa eranthemoides ||  || NSW
+|-
+| Isopogon uncinatus || Hook-leaf isopogon || WA
+|-
+| Jacksonia pungens J. Chappill ms. || Pungent jacksonia, stinkwood || WA
+|-
+| Jacksonia quairading J. Chappill ms. || Quairading jacksonia, Quairading stinkwood || WA
+|-
+| Jacksonia sp. Collie (C. J. Koch 177) || Collie jacksonia || WA
+|-
+| Kennedia macrophylla || Augusta kennedia || WA
+|-
+| Lachangrostis adamsonii||Adamson's blowngrass||VIC
+|-
+| Lachnagrostis limitanea ||Spalding blowngrass|| SA
+|-
+| Lambertia echinata subsp. echinata || Prickly honeysuckle || WA
+|-
+| Lambertia echinata subsp. occidentalis || Western prickly honeysuckle || WA
+|-
+| Lambertia fairallii || Fairalls honeysuckle || WA
+|-
+| Lambertia orbifolia || Roundleaf honeysuckle || WA
+|-
+| Lasiopetalum pterocarpum E. M. Benn. & K. Shepherd ms. || Wing-fruited lasiopetalum || WA
+|-
+| Lasiopetalum rotundifolium || Round-leaf lasiopetalum || WA
+|-
+| Lastreopsis calantha || Shield-fern || Norfolk Island
+|-
+| Lechenaultia laricina || Scarlet lechenaultia || WA
+|-
+| Leionema equestre || Kangaroo Island leionema || Kangaroo Island SA
+|-
+| Leionema lachnaeoides ||  || NSW
+|-
+| Lepidium hyssopifolium || Basalt pepper-cress || NSW, QLD, TAS, VIC
+|-
+| Lepidium monoplocoides || Winged pepper-cress || NSW, VIC
+|-
+| Lepidium peregrinum || Wandering pepper-cress || NSW, QLD
+|-
+| Lepidosperma rostratum || Beaked lepidosperma || WA
+|-
+| Leucochrysum albicans var. tricolor || Hoary sunray || TAS, VIC
+|-
+| Leucopogon confertus || Torrington beard-heath || NSW
+|-
+| Leucopogon gnaphalioides || Stirling Range beard-heath || WA
+|-
+| Leucopogon marginatus || Thick-margined beard-heath || WA
+|-
+| Leucopogon obtectus || Hidden beard-heath || WA
+|-
+| Leucopogon sp. Coolmunda (D. Halford Q 1635) || Coolmunda beard-heath || QLD
+|-
+| Lychnothamnus barbatus ||  || QLD
+|-
+| Macadamia jansenii || Bulberin nut || QLD
+|-
+| Macarthuria keigheryi || Keighery's macarthuria || WA
+|-
+| Macrozamia cranei ||  || QLD
+|-
+| Macrozamia lomandroides ||  || QLD
+|-
+| Macrozamia pauli-guilielmi || Pineapple zamia || QLD
+|-
+| Macrozamia platyrhachis ||  || QLD
+|-
+| Marattia salicina || King fern, para, potato fern || Norfolk Island
+|-
+| Marianthus mollis||Hairy-fruited billardiera||WA
+|-
+| Melaleuca sciotostyla || Wongan welaleuca || WA
+|-
+| Melichrus hirsutus J. B. Williams ms.|| Hairy melichrus || NSW, SA
+|-
+| Melichrus sp. Gibberagee (A. S. Benwell & J. B. Williams 97239) || Narrow-leaf melichrus || NSW
+|-
+| Microcarpaea agonis ||  || QLD
+|-
+| Micromyrtus grandis ||  || NSW
+|-
+| Microstrobos fitzgeraldii || Dwarf mountain pine, Blue Mountains dwarf pine || NSW
+|-
+| Microtis angusii || Angus' onion-orchid || NSW
+|-
+| Muehlenbeckia australis || Shrubby creeper, pohuehue || Norfolk Island
+|-
+| Muehlenbeckia tuggeranong || Tuggeranong lignum || ACT
+|-
+| Mukia sp. Longreach (D. Davidson AQ279935) || Tobermorey melon || QLD
+|-
+| Myoporum turbinatum || Salt myoporum || WA
+|-
+| Myriophyllum lapidicola || Chiddarcooping myriophyllum || WA
+|-
+| Myrsine richmondensis||Lismore muttonwood||NSW
+|-
+| Ochrosia moorei || Southern ochrosia || NSW, QLD
+|-
+| Olearia flocktoniae || Dorrigo daisy-bush || NSW
+|-
+| Olearia hygrophila || Swamp daisy, water daisy || QLD
+|-
+| Olearia microdisca || Small-flowered daisy-bush || SA
+|-
+| Orthrosanthus muelleri || South Stirling morning iris || WA
+|-
+| Pandanus spiralis var. flammeus || Edgar Range pandanus || WA
+|-
+| Paracaleana dixonii Hopper & A. P. Brown ms. || Sandplain duck orchid || WA
+|-
+| Parsonsia dorrigoensis || Milky silkpod || NSW
+|-
+| Patersonia spirafolia || Spiral-leaved patersonia || WA
+|-
+| Pennantia endlicheri || Pennantia, Norfolk Island brown beech || Norfolk Island
+|-
+| Persoonia hirsuta || Hairy geebung || NSW
+|-
+| Persoonia micranthera || Small-flowered snottygobble || WA
+|-
+| Persoonia mollis subsp. maxima || Calna Creek geebung || NSW
+|-
+| Persoonia nutans || Nodding geebung || NSW
+|-
+| Petrophile latericola Keighery ms. ||  || WA
+|-
+| Phaius australis || Lesser swamp-orchid || NSW, QLD
+|-
+| Phaius bernaysii || Yellow swamp-orchid || QLD
+|-
+| Phaius tancarvilleae || Swamp lily, greater swamp-orchid || QLD
+|-
+| Phalaenopsis rosenstromii || Native moth orchid || QLD
+|-
+| Pherosphaera fitzgeraldii||Dwarf mountain pine||NSW
+|-
+| Philotheca basistyla || White-flowered philotheca, white waxflower || WA
+|-
+| Philotheca wonganensis || Wongan eriostemon || WA
+|-
+| Phlegmariurus carinatus|| Keeled tassel-fern||QLD
+|-
+| Phlegmariurus dalhousieanus||Blue tassel-fern||QLD
+|-
+| Phlegmariurus filiformus|| Rat's tail tassel-fern||QLD
+|-
+| Phreatia paleata syn. Eria paleata || An orchid || Norfolk Island
+|-
+| Pimelea spicata || Spiked rice-flower || NSW
+|-
+| Pimelea venosa || Bolivia Hill rice-flower || NSW
+|-
+| Pityrodia scabra || Wyalkatchem foxglove || WA
+|-
+| Plectranthus habrophyllus ||  || QLD
+|-
+| Plectranthus nitidus || Nightcap plectranthus || NSW, QLD
+|-
+| Plectranthus omissus ||  || QLD
+|-
+| Plectranthus torrenticola ||  || QLD
+|-
+| Plesioneuron tuberculatum ||  || QLD
+|-
+| Polystychum moorei||Rock Shield fern||Lord Howe Island
+|-
+| Pomaderris cotoneaster || Cotoneaster pomaderris || NSW, VIC
+|-
+| Pouteria costata || Bastard ironwood || Norfolk Island
+|-
+| Pouteria eerwah || Shiny-leaved condoo, black plum, wild apple || QLD
+|-
+| Prasophyllum affine || Culburra leek-orchid, Kinghorn Point leek-orchid, Jervis Bay leek orchid || NSW
+|-
+| Prasophyllum amoenum || Dainty leek-orchid || TAS
+|-
+| Prasophyllum apoxychilum || Tapered leek-orchid || TAS
+|-
+| Prasophyllum correctum || Gaping leek-orchid || TAS, VIC
+|-
+| Prasophyllum crebiflorum||Crowded leek-orchid||TAS
+|-
+| Prasophyllum diversiflorum || Gorae leek-orchid || VIC
+|-
+| Prasophyllum frenchii || Maroon leek-orchid, slaty leek-orchid, stout leek-orchid, French's leek-orchid || SA, VIC
+|-
+| Prasophyllum goldsackii||Goldsack's leek-orchid||SA
+|-
+| Prasophyllum petilum || Tarengo leek-orchid || ACT, NSW
+|-
+| Prasophyllum pruinosum||Plum leek-orchid||SA
+|-
+| Prasophyllum secutum || Northern leek-orchid || TAS
+|-
+| Prasophyllum suaveolens || Fragrant leek-orchid || VIC
+|-
+| Prasophyllum subbisectum || Pomonal leek-orchid || VIC
+|-
+| Prasophyllum tunbridgense || Tunbridge leek-orchid || TAS
+|-
+| Prasophyllum uroglossum || Wingecarribee leek-orchid, dark leek-orchid || NSW
+|-
+| Prostanthera askania || Tranquility mintbush || NSW
+|-
+| Prostanthera eurybioides || Monarto mintbush || SA
+|-
+| Prostanthera junonis || Somersby mintbush || NSW
+|-
+| Pteris kingiana || King's brakefern || Norfolk Island
+|-
+| Pteris zahlbruckneriana || Netted brakefern || Norfolk Island
+|-
+| Pterostylis aenigma || Enigmatic greenhood || VIC
+|-
+| Pterostylis atriola || Snug greenhood || TAS
+|-
+| Pterostylis basaltica || Basalt greenhood || VIC
+|-
+| Pterostylis despectans || Lowly greenhood || SA, VIC
+|-
+| Pterostylis gibbosa || Illawarra greenhood, rufa greenhood, pouched greenhood || NSW
+|-
+| Pterostylis lepida||Halbury greenhood||SA
+|-
+| Pterostylis rubenachii || Arthur River greenhood || TAS
+|-
+| Pterostylis saxicola || Sydney Plains greenhood || NSW
+|-
+| Pterostylis sinuata||Western Swan greenhood, Northampton midget greenhood||WA
+|-
+| Pterostylis sp. Botany Bay (A. Bishop J221/1-13) || Botany Bay bearded greenhood || NSW
+|-
+| Pterostylis sp. Hale (R. Bates 21725) || Hale dwarf greenhood || SA
+|-
+| Pterostylis ziegeleri || Cape Portland greenhood || TAS
+|-
+| Ptilotus fasciculatus || Fitzgerald's mulla-mulla || WA
+|-
+| Ptychosperma bleeseri || Darwin palm || NT
+|-
+| Pultenaea elusa|| Elusive bush-pea || NSW
+|-
+| Pultenaea selaginoides || Clubmoss bush-pea || TAS
+|-
+| Pultanea trichophylla||Tufted bush-pea||SA (Eyre Peninsula)
+|-
+| Randia moorei || Spiny gardenia || NSW, QLD
+|-
+| Ranunculus prasinus || Tunbridge buttercup || TAS
+|-
+| Rhizanthella gardneri || Underground orchid, western underground orchid || WA
+|-
+| Rhizanthella slaterii||Eastern underground orchid||NSW
+|-
+| Ricinocarpos trichophorus || Barrens wedding bush || WA
+|-
+| Roycea pycnophylloides || Saltmat || WA
+|-
+| Commersonia prostrata || Dwarf kerrawang || NSW, VIC
+|-
+| Commersonia erythrogyna  || Trigwell's rulingia || WA
+|-
+| Rutidosis leptorrhynchoides || Button wrinklewort || ACT, NSW, VIC
+|-
+| Sagina diemensis||Pearlwort||TAS
+|-
+| Samadera sp. Moonee Creek (J. King s.n. 1949) || Moonee Creek quassia  || NSW
+|-
+| Sankowskya stipularis ||  || QLD
+|-
+| Schoenia filifolia subsp. subulifolia||Mingenew everlasting||WA
+|-
+| Sclerolaena napiformis || Turnip copperbur || NSW, VIC
+|-
+| Senecio behrianus || Stiff groundsel || VIC
+|-
+| Senecio evansianus ||  || Norfolk Island
+|-
+| Sphenotoma drummondii || Mountain paper heath || WA
+|-
+| Spirogardnera rubescens || Spiral bush || WA
+|-
+| Spyridium microphyllum || Small-leafed spyridium || TAS
+|-
+| Spyridium sp. (Little Desert) || Forked spyridium || VIC
+|-
+| Stemodia haegii W. R. Barker ms. ||  || SA
+|-
+| Stenanthemum pimeleoides || Spreading stenanthemum || TAS
+|-
+| Stipa wakoolica || Wakool spear-grass || NSW, VIC
+|-
+| Stockwellia quadrifida||Vic Stockwell's puzzle|| QLD
+|-
+| Stonesiella selaginoides||Clubmoss push-pea||TAS East Coast
+|-
+| Streblus pendulinus || Siah's backbone, Sia's backbone, Isaac wood || Norfolk Island
+|-
+| Stylidium coroniforme || Wongan Hills triggerplant, Wongan triggerplant || WA
+|-
+| Swainsona recta || Small purple-pea, mountain Swainson-pea || ACT, NSW, VIC
+|-
+| Symonanthus bancroftii || Bancrofts symonanthus || WA
+|-
+| Synaphea quartzitica || Quartz-loving synaphea || WA
+|-
+| Synaphea stenoloba||Dwellingup synaphea||WA
+|-
+| Tectaria devexa || Cave fern || Christmas Island, QLD
+|-
+| Tetratheca deltoidea || Granite tetratheca || WA
+|-
+| Tetratheca paynterae || Paynter's tetratheca || WA
+|-
+| Thelymitra epipactoides || Metallic sun-orchid || SA, VIC
+|-
+| Thelymitra manginii K. Dixon & Batty ms. || Cinnamon sun-orchid || WA
+|-
+| Thelymitra stellata || Star sun-orchid || WA
+|-
+| Thomasia sp. Green Hill (S. Paust 1322) || Green Hill thomasia || WA
+|-
+| Toechima pterocarpum || Orange tamarind || QLD
+|-
+| Toechima sp. East Alligator (J. Russell-Smith 8418) NT Herbarium || Steelwood || NT
+|-
+| Trachymene scapigera || Mountain trachymene || NSW
+|-
+| Triplarina imbricata || Creek heath-myrtle || NSW
+|-
+| Triplarina nowraensis || Nowra heath-myrtle || NSW
+|-
+| Trithuria occidentalis||Swan hydatella||WA
+|-
+| Triunia robusta || Glossy spice-bush || QLD
+|-
+| Typhonium jonesii || A herb || NT
+|-
+| Typhonium mirabile || A herb || NT
+|-
+| Typhonium taylorii || A herb || NT
+|-
+| Uromyrtus australis || Peach myrtle || NSW
+|-
+| Verticordia albida || White featherflower || WA
+|-
+| Verticordia densiflora var. pedunculata || Long-stalked featherflower || WA
+|-
+| Verticordia fimbrilepis var. fimbrilepis || Shy featherflower || WA
+|-
+| Verticordia hughanii || Hughan's featherflower || WA
+|-
+| Verticordia pityrhops || Pine featherflower || WA
+|-
+| Verticordia plumosa var. ananeotes || Tuft-plumed featherflower || WA
+|-
+| Verticordia plumosa var. pleiobotrya  || Narrow-petalled featherflower || WA
+|-
+| Verticordia plumosa var. vassensis || Vasse featherflower || WA
+|-
+| Verticordia spicata subsp. squamosa ||Scaly-leaved featherflower || WA
+|-
+| Verticordia staminosa subsp. cylindracea || Granite featherflower || WA
+|-
+| Villarsia calthifolia || Mountain villarsia || WA
+|-
+| Vincetoxicum forsteri, syn. Tylophora linearis ||  || NSW, QLD
+|-
+| Vincetoxicum rupicola, syn. Tylophora rupicola ||  || QLD
+|-
+| Vincetoxicum woollsii, syn. Tylophora woollsii ||  || NSW, QLD
+|-
+| Vrydagzynea paludosa || Tonsil orchid || QLD
+|-
+| Westringia crassifolia || Whipstick westringia || VIC
+|-
+| Westringia kydrensis || Kydra westringia || NSW
+|-
+| Wollemia nobilis || Wollemi pine || NSW
+|-
+| Wurmbea calcicola || Naturaliste Nancy || WA
+|-
+| Wurmbea tubulosa || Long-flowered Nancy || WA
+|-
+| Xanthorrhoea bracteata || Shiny grasstree || TAS
+|-
+| Xanthostemon formosus ||  || QLD
+|-
+| Xerothamnella herbacea ||  || QLD
+|-
+| Xylopia sp. Melville Island (J. Russell-Smith 2148) NT Herbarium || A shrub || NT
+|-
+| Xylosma parvifolia||Mountain xylosma ||Lord Howe Island
+|-
+| Zehneria baueriana || Native cucumber, giant cucumber || AET (Norfolk Is)
+|-
+| Zieria adenophora || Araluen zieria || NSW
+|-
+| Zieria baeuerlenii J. A. Armstrong ms. || Bomaderry Creek zieria || NSW
+|-
+| Zieria bifida||Brolga Park zieria||QLD (Triunia NP)
+|-
+| Zieria buxijugum J. Briggs & J. A. Armstrong ms. || Box Range zieria || NSW
+|-
+| Zieria covenyi J. A. Armstrong ms. || Coveny's zieria || NSW
+|-
+| Zieria floydii J. A. Armstrong ms. || Floyd's zieria || NSW
+|-
+| Zieria formosa J. Briggs & J. A. Armstrong ms. || Shapely zieria || NSW
+|-
+| Zieria granulata || Hill zieria, Illawarra zieria || NSW
+|-
+| Zieria ingramii J. A. Armstrong ms. || Ingram's zieria || NSW
+|-
+| Zieria lasiocaulis J. A. Armstrong ms. || Willi willi zieria || NSW
+|-
+| Zieria obcordata ||  || NSW
+|-
+| Zieria parrisiae J. Briggs & J. A. Armstrong ms. || Parris' zieria || NSW
+|-
+| Zieria prostrata J. A. Armstrong ms. || Headland zieria || NSW
+|-
+|}
+
+==See also==
+*Flora of Australia
+*List of extinct flora of Australia
+*ROTAP
+*Threatened fauna of Australia
+

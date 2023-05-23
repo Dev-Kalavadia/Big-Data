@@ -1,0 +1,119 @@
+Title: D3 motorway (Slovakia)
+
+
+
+The Motorway D3 (formerly D18), sometimes called the Kysuce Motorway, is a motorway in northern Slovakia. Initially, it is supposed to be only a two lane motorway in the Svrčinovec - Slovak/Polish border section, and four lane motorway in the remaining section Hričovské Podhradie - Čadca.
+It lies on these E-roads: E50, E75 and E442.
+
+It starts at the motorway junction with the D1, bypassing Žilina, then gqoes to the north around Kysucké Nové Mesto and Čadca, having an interchange with the R5, and ends near the village of Skalité, where it crosses the Polish border and connects to Expressway S1.This is one of the most important motorways in Slovakia and an e-vignette is required to use this motorway. The whole motorway has 2 lanes on each side.  
+
+==Sections of the motorway==
+{| class="wikitable sortable"
+!Section order
+!Section designation
+!Section length in km
+!Start of construction
+section
+!Introduction of section to
+operations
+!Exits and intersections
+|-
+|1.
+|Hričovské Podhradie – Žilina, Strážov
+|6.9
+|2005
+|2008
+|1. Crossroad D3xD1, Hričovské Podhradie
+2. Žilina, Strážov
+|-
+|2.
+|Žilina, Strážov – Žilina, Brodno
+|4.3
+|2014
+|2017
+|3. Žilina, Brodno
+|- style="background-color: #e56262"
+|3.
+|Žilina, Brodno – Kysucké Nové Mesto
+|11.2
+|2025
+|2028
+|4. Kysucké Nové Mesto
+|- style="background-color: #e56262"
+|4.
+|Kysucké Nové Mesto – Oščadnica
+|10.8
+|2024
+|2027
+|5. Beautiful above Kysuca
+|-
+|5.
+|Oščadnica – Čadca, Bukov
+|4.8
+|Left half, 1996
+|Left half, 2004
+|901. Temporary connection to road I/11
+|- style="background-color: #e56262"
+|5.
+|Oščadnica – Čadca, Bukov
+|4.8
+|The right half
+2024
+|The right half
+2027
+|section without exits
+|-
+|6.
+|Čadca, Bukov – Svrčinovec
+|5,7
+|2016
+|2020
+|6. Čadca, Bukov
+7. Čadca, Podzávoz
+|-
+|7.
+|Svrčinovec – Skalite
+|12.3
+|Right half, 2013
+|Right half, 2017
+|8. Svrčinovec
+|- style="background-color: #e56262"
+|7.
+|Svrčinovec – Skalite
+|12.3
+|Left half, after 2040
+|Left half, after 2040
+|8. Construction of the intersection D3xR5, Svrčinovec instead of the Svrčinovec exit
+|-
+|8.
+|Skalité - state border SK/PL
+|3.1
+|Right half, 1997
+|Right half, 2017
+|9. Skalite
+|- style="background-color: #e56262"
+|8.
+|Skalité - state border SK/PL
+|3.1
+|Left half, after 2040
+|Left half, after 2040
+|9. Skalite
+|}-
+
+==See also==
+
+* D3 motorway (Czech Republic)
+* Horelica Tunnel
+* Highways in Slovakia
+
+==External links==
+* Exits of Motorway D3
+* Interactive map of motorways
+* https://ww-w.ndsas.sk/narodna-dialnicna-spolocnost
+
+
+
+Category:Highways in Slovakia
+
+
+

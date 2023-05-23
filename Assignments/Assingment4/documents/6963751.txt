@@ -1,0 +1,68 @@
+Title: Iława County
+__NOTOC__
+Iława County () is a unit of territorial administration and local government (powiat) in Warmian-Masurian Voivodeship, northern Poland. 
+
+In the years 1945-1958 it existed under the name Susz County (), subsequently renamed Iława County and abolished along with all powiats of Poland in 1975. Its current incarnation has been reestablished on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and largest town is Iława, which lies  west of the regional capital Olsztyn. The county contains four other towns: Lubawa,  south of Iława, Susz,  north-west of Iława, Kisielice,  west of Iława, and Zalewo,  north of Iława.
+
+The county covers an area of . As of 2006 its total population is 89,960, out of which the population of Iława is 32,326, that of Lubawa is 9,328, that of Susz is 5,610, that of Kisielice is 2,208, that of Zalewo is 2,152, and the rural population is 38,336.
+
+==Neighbouring counties==
+Iława County is bordered by Ostróda County to the east, Działdowo County to the south-east, Nowe Miasto County to the south, Grudziądz County and Kwidzyn County to the west, and Sztum County to the north-west.
+
+==Administrative division==
+The county is subdivided into seven gminas (two urban, three urban-rural and two rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km²)
+| style="text-align:center;"|Population(2006)
+| style="text-align:center;"|Seat
+|-
+|Iława
+|urban
+| style="text-align:right;"|21.9
+| style="text-align:right;"|32,326
+| 
+|-
+|Gmina Susz
+|urban-rural
+| style="text-align:right;"|259.0
+| style="text-align:right;"|12,825
+|Susz
+|-
+|Gmina Iława
+|rural
+| style="text-align:right;"|423.6
+| style="text-align:right;"|11,828
+|Iława *
+|-
+|Gmina Lubawa
+|rural
+| style="text-align:right;"|236.6
+| style="text-align:right;"|10,435
+|Lubawa *
+|-
+|Lubawa
+|urban
+| style="text-align:right;"|16.8
+| style="text-align:right;"|9,328
+| 
+|-
+|Gmina Zalewo
+|urban-rural
+| style="text-align:right;"|254.3
+| style="text-align:right;"|6,986
+|Zalewo
+|-
+|Gmina Kisielice
+|urban-rural
+| style="text-align:right;"|172.8
+| style="text-align:right;"|6,232
+|Kisielice
+|-
+|colspan=5 style="text-align:right;font-size:90%"|* seat not part of the gmina
+|-
+|}
+

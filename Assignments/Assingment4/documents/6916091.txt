@@ -1,0 +1,74 @@
+Title: Moog Prodigy
+
+
+The Moog Prodigy was a monophonic analogue synthesizer produced by Moog Music from 1979 to 1984. Of the 11,000 produced, versions released after 1981 included a control voltage/gate input on the back that allowed the VCF to be triggered and controlled by an external source.
+These later versions began at serial number 4610.
+The official model number of the instrument is 336. 
+336A would indicate a domestic (US) model, while a 336BX would indicate an export unit.
+
+The housing is all metal except for the wooden side panels. The power supply is inside the instrument and the mains cable is detachable.
+
+The Prodigy featured two Voltage Controlled Oscillators (VCOs), one with a sawtooth waveform, a triangle waveform, and a pulse waveform, the second with a sawtooth, a triangle, and a square waveform. These waveforms could be detuned up or down by more than a fifth, allowing for the creation of thick pads as well as atonal sounds. The two oscillators could be synchronized as well, then altered using the pitch wheel (in sync mode, the pitch wheel would alter the tonality of the sound, not the pitch. Roaring synth leads were made possible using this feature.) The Prodigy did not feature a white noise or pink noise generator.
+
+The voltage controlled 4-pole low-pass filter uses the typical Moog transistor ladder filter design. There is a dedicated 3-stage ADR envelope controller (ADR short for Attack Decay Release).
+
+The Prodigy was capable of a full range of synthetic sounds, from a gentle whistle or flute in the upper ranges, to sub-sonic bass. The voltage controlled amplifier (VCA) was controllable only via a second 3-stage ADR envelope controller.
+
+The low frequency oscillator (LFO) of the Prodigy featured a triangle and square waveform, which could be routed to the VCO or VCF to create pitch or filter modulation effects. 
+
+The Moog Source, which began production in 1981, featured internal workings very similar to the Prodigy in a much sleeker physical design that featured programmability, arpeggiator / sequencer and white noise.
+
+It inspired the name of British electronic band The Prodigy whilst recording their first album. The band's frontman, Liam Howlett, is known to have used the synthesizer in some of the songs he made in the early 1990s.
+
+==Users==
+It has been used by many artists such as:
+
+*Joy Electric
+*Elias Dris
+*Massive Attack
+*The Prodigy (named after the Moog Prodigy)
+*Howard Jones
+*Depeche Mode
+*Blur
+*The Album Leaf
+*Fatboy Slim
+*Kontour (Some Bizzare Records)
+*808 State
+*Sturm Cafe
+*The New Deal (band)
+*The Get Up Kids
+*Reggie and the Full Effect
+*Nine Inch Nails
+*Tycho
+*The Anniversary
+*The Hippos
+*History of Guns
+*Moloko
+*Tegan and Sara
+*Adem K
+*Rammstein (Christian Lorenz)
+*Snap! (Luca Anzilotti a.k.a. John VIRGO Garrett III)
+*Offlaga Disco Pax
+*Der Blutharsch
+*The Rentals
+*Shout Out Louds (Bebban Stenborg)
+*Rubblebucket
+*Miguel Mateos
+*Solaris
+*Zigmars Liepins (album "Journey")
+*Dopapod
+*Junip
+*Hillsong United (band)
+*Snarky Puppy
+*Dopapod (Eli Winderman)
+
+== References ==
+
+
+
+
+
+Prodigy
+Category:Monophonic synthesizers
+Category:Analog synthesizers
+

@@ -1,0 +1,302 @@
+Title: List of places in Alaska (D)
+
+This list of cities, towns, unincorporated communities, counties, and other recognized places in the U.S. state of Alaska also includes information on the number and names of counties in which the place lies, and its lower and upper zip code bounds, if applicable.
+
+
+{| class="wikitable"
+!Name of place
+!Number of counties
+!Principal county
+!Lower zip code
+!Upper zip code
+|----
+|Dahl
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Dairy
+|1
+|Ketchikan Gateway Borough
+| 
+| 
+|----
+|Davidsons Landing
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Deadhorse
+|1
+|North Slope Borough
+|99734
+| 
+|----
+|Deadhorse Airport
+|1
+|North Slope Borough
+|99740
+| 
+|----
+|DeBarr Vista
+|1
+|Municipality of Anchorage
+| 
+| 
+|----
+|Deering
+|1
+|Northwest Arctic Borough
+|99736
+| 
+|----
+|Delta-Greely Regional Educational Attendance Area
+|1
+|Southeast Fairbanks Census Area
+| 
+| 
+|----
+|Delta Junction
+|1
+|Southeast Fairbanks Census Area
+|99737
+| 
+|----
+|Deltana
+|1
+|Southeast Fairbanks Census Area
+| 
+| 
+|----
+|Denali
+|1
+|Denali Borough
+| 
+| 
+|----
+|Denali Borough School District
+|1
+|Denali Borough
+| 
+| 
+|----
+|Denali National Park
+|2
+|Matanuska-Susitna Borough
+|99755
+| 
+|----
+|Denali National Park
+|2
+|Yukon-Koyukuk Census Area
+|99755
+| 
+|----
+|Denali Park
+|1
+|Yukon-Koyukuk Census Area
+|99755
+| 
+|----
+|Dennis Manor
+|1
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Derby Tract
+|1
+|Fairbanks North Star Borough
+|99701
+| 
+|----
+|Diamond
+|1
+|Denali Borough
+| 
+| 
+|----
+|Diamond Ridge
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Dillingham
+|1
+|Dillingham Census Area
+|99576
+| 
+|----
+|Dillingham
+|1
+|Dillingham Census Area
+| 
+| 
+|----
+|Dillingham Airport
+|1
+|Dillingham Census Area
+|99576
+| 
+|----
+|Dillingham City School District
+|1
+|Dillingham Census Area
+| 
+| 
+|----
+|Dime Landing
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Diomede
+|1
+|Nome Census Area
+|99762
+| 
+|----
+|Discovery
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Divide
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Dobson Landing
+|1
+|City and Borough of Juneau
+| 
+| 
+|----
+|Dogpatch
+|1
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Dolomi
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Dome
+|1
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Donnelly
+|1
+|Southeast Fairbanks Census Area
+|99737
+| 
+|----
+|Dora Bay
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Dot Lake
+|1
+|Southeast Fairbanks Census Area
+|99737
+| 
+|----
+|Dot Lake Village
+|1
+|Southeast Fairbanks Census Area
+| 
+| 
+|----
+|Douglas
+|1
+|City and Borough of Juneau
+|99824
+| 
+|----
+|Downtown
+|1
+|Municipality of Anchorage
+|99501
+| 
+|----
+|Downtown
+|1
+|Fairbanks North Star Borough
+|99707
+| 
+|----
+|Doyon
+|4
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Doyon
+|4
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Doyon
+|4
+|Southeast Fairbanks Census Area
+| 
+| 
+|----
+|Doyon
+|4
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Dry Creek
+|1
+|Southeast Fairbanks Census Area
+| 
+| 
+|----
+|Dunbar
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Duncan Canal
+|1
+|Wrangell-Petersburg Census Area
+|99833
+| 
+|----
+|Dutch Harbor
+|1
+|Aleutians West Census Area
+|99692
+| 
+|----
+|Dutch Harbor Airport
+|1
+|Aleutians West Census Area
+|99685
+| 
+|----
+|Dyea
+|1
+|Municipality of Skagway Borough
+|
+| 
+|}
+
+ D

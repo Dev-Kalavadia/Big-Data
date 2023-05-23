@@ -1,0 +1,331 @@
+Title: List of municipalities of the Province of Benevento
+
+The following is a list of the 78 municipalities (comuni) of the Province of Benevento, Campania, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|
+|Airola
+| align="right" |8,770
+|-
+|
+|Amorosi
+| align="right" |2,931
+|-
+|
+|Apice
+| align="right" |7,685
+|-
+|
+|Apollosa
+| align="right" |2,734
+|-
+|
+|Arpaia
+| align="right" |1,920
+|-
+|
+|Arpaise
+| align="right" |886
+|-
+|
+|Baselice
+| align="right" |2,720
+|-
+|
+|Benevento
+| align="right" |65,086
+|-
+|
+|Bonea
+| align="right" |1,457
+|-
+|
+|Bucciano
+| align="right" |1,950
+|-
+|
+|Buonalbergo
+| align="right" |1,891
+|-
+|
+|Calvi
+| align="right" |2,378
+|-
+|
+|Campolattaro
+| align="right" |1,109
+|-
+|
+|Campoli del Monte Taburno
+| align="right" |1,515
+|-
+|
+|Casalduni
+| align="right" |1,522
+|-
+|
+|Castelfranco in Miscano
+| align="right" |1,043
+|-
+|
+|Castelpagano
+| align="right" |1,649
+|-
+|
+|Castelpoto
+| align="right" |1,450
+|-
+|
+|Castelvenere
+| align="right" |2,586
+|-
+|
+|Castelvetere in Val Fortore
+| align="right" |1,665
+|-
+|
+|Cautano
+| align="right" |2,191
+|-
+|
+|Ceppaloni
+| align="right" |3,422
+|-
+|
+|Cerreto Sannita
+| align="right" |4,200
+|-
+|
+|Circello
+| align="right" |2,637
+|-
+|
+|Colle Sannita
+| align="right" |2,982
+|-
+|
+|Cusano Mutri
+| align="right" |4,296
+|-
+|
+|Dugenta
+| align="right" |2,669
+|-
+|
+|Durazzano
+| align="right" |2,130
+|-
+|
+|Faicchio
+| align="right" |3,867
+|-
+|
+|Foglianise
+| align="right" |3,555
+|-
+|
+|Foiano di Val Fortore
+| align="right" |1,539
+|-
+|
+|Forchia
+| align="right" |1,162
+|-
+|
+|Fragneto l'Abate
+| align="right" |1,176
+|-
+|
+|Fragneto Monforte
+| align="right" |1,935
+|-
+|
+|Frasso Telesino
+| align="right" |2,626
+|-
+|
+|Ginestra degli Schiavoni
+| align="right" |565
+|-
+|
+|Guardia Sanframondi
+| align="right" |5,520
+|-
+|
+|Limatola
+| align="right" |3,725
+|-
+|
+|Melizzano
+| align="right" |1,876
+|-
+|
+|Moiano
+| align="right" |4,115
+|-
+|
+|Molinara
+| align="right" |1,907
+|-
+|
+|Montefalcone di Val Fortore
+| align="right" |1,766
+|-
+|
+|Montesarchio
+| align="right" |16,472
+|-
+|
+|Morcone
+| align="right" |5,166
+|-
+|
+|Paduli
+| align="right" |4,213
+|-
+|
+|Pago Veiano
+| align="right" |2,617
+|-
+|
+|Pannarano
+| align="right" |2,079
+|-
+|
+|Paolisi
+| align="right" |1,847
+|-
+|
+|Paupisi
+| align="right" |1,500
+|-
+|
+|Pesco Sannita
+| align="right" |2,156
+|-
+|
+|Pietraroja
+| align="right" |658
+|-
+|
+|Pietrelcina
+| align="right" |3,066
+|-
+|
+|Ponte
+| align="right" |2,618
+|-
+|
+|Pontelandolfo
+| align="right" |2,500
+|-
+|
+|Puglianello
+| align="right" |1,406
+|-
+|
+|Reino
+| align="right" |1,344
+|-
+|
+|San Bartolomeo in Galdo
+| align="right" |5,535
+|-
+|
+|San Giorgio del Sannio
+| align="right" |11,785
+|-
+|
+|San Giorgio La Molara
+| align="right" |3,218
+|-
+|
+|San Leucio del Sannio
+| align="right" |3,269
+|-
+|
+|San Lorenzello
+| align="right" |2,328
+|-
+|
+|San Lorenzo Maggiore
+| align="right" |2,258
+|-
+|
+|San Lupo
+| align="right" |874
+|-
+|
+|San Marco dei Cavoti
+| align="right" |3,768
+|-
+|
+|San Martino Sannita
+| align="right" |1,247
+|-
+|
+|San Nazzaro
+| align="right" |849
+|-
+|
+|San Nicola Manfredi
+| align="right" |3,424
+|-
+|
+|San Salvatore Telesino
+| align="right" |3,892
+|-
+|
+|Santa Croce del Sannio
+| align="right" |1,021
+|-
+|
+|Sant'Agata de' Goti
+| align="right" |14,541
+|-
+|
+|Sant'Angelo a Cupolo
+| align="right" |4,262
+|-
+|
+|Sassinoro
+| align="right" |635
+|-
+|
+|Solopaca
+| align="right" |4,134
+|-
+|
+|Telese Terme
+| align="right" |8,144
+|-
+|
+|Tocco Caudio
+| align="right" |1,602
+|-
+|
+|Torrecuso
+| align="right" |3,549
+|-
+|
+|Vitulano
+| align="right" |3,030
+|-
+|
+|Sant'Arcangelo Trimonte
+| align="right" |640
+|-
+|
+|Total
+| align="right" |316,455
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

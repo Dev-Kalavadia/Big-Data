@@ -1,0 +1,48 @@
+Title: Benjamin scaleThe Sex Orientation Scale (SOS) was Harry Benjamin's attempt to classify and understand various forms and subtypes of transvestism and transsexualism in biological males, published in 1966.Benjamin, Harry (1966). The Transsexual Phenomenon. The Julian Press,  It was a seven-point scale (with three types of transvestism, three types of transsexualism, and one category for typical males); it was analogous to the Kinsey Scale as it relates to sexual orientation, which also had seven categories.Pomeroy, Wardell (1975). The diagnosis and treatment of transvestites and transsexuals. Journal of Sex & Marital Therapy Volume 1, Issue 3, 1975 doi:10.1080/00926237508405291 Much like Kinsey's understanding of sexual orientation, Benjamin understood the nature of gender identity and gender expression not as a discrete scale, but as a spectrum, a continuum with many variations.  However the Benjamin scale does not reflect a modern understanding of gender identity and is not useful as a contemporary diagnostic tool, especially due to its conflation of gender identity with sexual orientation.
+
+Benjamin feared legal consequences for surgeons who performed sex reassignment surgery, and focused on the patients being able to pass and unlikely to regret their decision when deciding whether to recommend someone for an operation—in addition to possessing an unchanging gender identity.
+
+==Sex Orientation Scale (S.O.S.)==
+Sex and Gender Role Disorientation and Indecision (Males)
+{| class="wikitable"
+|-
+! Group !! Type !! Name !! Kinsey scale !! Conversion operation?
+|- 
+|1 || I || Transvestite (Pseudo) || 0–6 || Not considered in reality
+|-
+| 1 || II || Transvestite (Fetishistic) || 0–2 || Rejected
+|-
+| 1 || III || Transvestite (True) || 0–2 || Actually rejected, but idea can be attractive
+|-
+| 2 || IV || Transsexual (Nonsurgical) || 1–4 || Attractive but not requested or attraction not admitted
+|-
+| 3 || V || Transsexual (Moderate intensity) || 4–6 || Requested, usually indicated
+|-
+| 3 || VI || Transsexual (High intensity) || 6 || Urgently requested and usually attained; indicated
+|-
+|}
+
+Benjamin noted, "It must be emphasized again that the remaining six types are not and never can be sharply separated."
+Benjamin added a caveat: "It has been the intention here to point out the possibility of several conceptions and classifications of the transvestitic and the transsexual phenomenon. Future studies and observations may decide which one is likely to come closest to the truth and in this way a possible understanding of the etiology may be gained."
+
+Benjamin's Scale references and uses Alfred Kinsey's sexual orientation scale to distinguish between "true transsexualism" and "transvestism".
+
+== Modern views ==
+Contemporary views on gender identity and classification differ markedly from Harry Benjamin's original opinions.Ekins, Richard (2005). Science, politics and clinical intervention: Harry Benjamin, transsexualism and the problem of heteronormativity Sexualities July 2005 vol. 8 no. 3 306-328 doi: 10.1177/1363460705049578 Sexual orientation is no longer regarded a criterion for diagnosis, or for distinction between transsexuality, transvestism and other forms of gender variant behavior and expression.  Modern views also exclude fetishistic transvestism from the spectrum of transsexual identity/classification, this type of transvestism is not related to gender expression or identity but is a distinctly sexual phenomenon most commonly practised by people who are neither transsexual nor homosexual. Benjamin's scale was designed for use with heterosexual trans women, and trans men's identities do not align with these categories.Hansbury, Griffin (2008). The Middle Men: An Introduction to the Transmasculine Identities. Studies in Gender and Sexuality  Volume 6, Issue 3, 2005 doi:10.1080/15240650609349276
+
+== See also ==
+* Classification of transsexual people
+* Harry Benjamin International Gender Dysphoria Association
+* Transgender
+
+== References ==
+
+
+== External links ==
+* Harry Benjamin's Gender Scale
+* The Scale in the Harry Benjamin's book "The Transsexual Phenomenon"
+
+Category:Transgender studies
+Category:Scales
+Category:Sexology
+Category:Cross-dressing

@@ -1,0 +1,101 @@
+Title: Claro, Switzerland
+
+
+
+Claro is a former municipality in the district of Riviera in the canton of Ticino in Switzerland.
+
+On 2 April 2017 the former municipalities of Camorino, Giubiasco, Gnosca, Gorduno, Gudo, Moleno, Monte Carasso, Pianezzo, Preonzo, Sant'Antonio and Sementina merged into the municipality of Bellinzona.
+
+==Geography==
+thumb|Claro
+
+Claro has an area, , of .  Of this area,  or 11.5% is used for agricultural purposes, while  or 72.1% is forested.   Of the rest of the land,  or 5.8% is settled (buildings or roads),  or 1.3% is either rivers or lakes and  or 7.0% is unproductive land.
+
+Of the built up area, housing and buildings made up 3.3% and transportation infrastructure made up 1.6%.  Out of the forested land, 66.5% of the total land area is heavily forested and 1.9% is covered with orchards or small clusters of trees.  Of the agricultural land, 7.5% is used for growing crops and 3.3% is used for alpine pastures.  All the water in the municipality is flowing water.  Of the unproductive areas, 4.9% is unproductive vegetation and 2.1% is too rocky for vegetation.Altitudine, superficie, secondo il genere di utilizzazione, rilevazione 1992/1997, e densità della popolazione, nel 2000  accessed 25 October 2010
+
+The municipality is located in the Riviera district.  It consists of the village of Claro and a number of scattered, small settlements along the left side of the Riviera valley.
+
+==Coat of arms==
+The blazon of the municipal coat of arms is Argent a crown rising croma coupeaux vert.Flags of the World.com accessed 8 February 2011
+
+==Demographics==
+Claro has a population () of .  , 16.7% of the population are resident foreign nationals.Swiss Federal Statistical Office - Superweb database - Gemeinde Statistics 1981-2008   accessed 19 June 2010  Over the last 10 years (1997–2007) the population has changed at a rate of 22.7%.Swiss Federal Statistical Office  accessed 8 February 2011  Most of the population () speaks Italian language (1,917 or 88.8%), with German being second most common (127 or 5.9%) and Serbo-Croatian being third (35 or 1.6%).  There are 23 people who speak French and 1 people who speak Romansh.
+
+, the gender distribution of the population was 49.1% male and 50.9% female.  The population was made up of 1,010 Swiss men (39.3% of the population), and 251 (9.8%) non-Swiss men.  There were 1,134 Swiss women (44.1%), and 175 (6.8%) non-Swiss women.  Of the population in the municipality 751 or about 34.8% were born in Claro and lived there in 2000.  There were 700 or 32.4% who were born in the same canton, while 247 or 11.4% were born somewhere else in Switzerland, and 387 or 17.9% were born outside of Switzerland.
+
+In  there were 14 live births to Swiss citizens and 3 births to non-Swiss citizens, and in same time span there were 17 deaths of Swiss citizens and 2 non-Swiss citizen deaths.  Ignoring immigration and emigration, the population of Swiss citizens decreased by 3 while the foreign population increased by 1.  There were 2 Swiss men and 4 Swiss women who immigrated back to Switzerland.  At the same time, there were 6 non-Swiss men who immigrated from another country to Switzerland and 4 non-Swiss women who emigrated from Switzerland to another country.  The total Swiss population change in 2008 (from all sources, including moves across municipal borders) was an increase of 33 and the non-Swiss population change was an increase of 9 people.  This represents a population growth rate of 1.7%.
+
+The age distribution, , in Claro is; 313 children or 12.2% of the population are between 0 and 9 years old and 338 teenagers or 13.2% are between 10 and 19.  Of the adult population, 261 people or 10.2% of the population are between 20 and 29 years old.  360 people or 14.0% are between 30 and 39, 477 people or 18.6% are between 40 and 49, and 331 people or 12.9% are between 50 and 59.  The senior population distribution is 234 people or 9.1% of the population are between 60 and 69 years old, 154 people or 6.0% are between 70 and 79, there are 102 people or 4.0% who are over 80.01.02.03 Popolazione residente permanente   accessed 23 November 2010
+
+, there were 955 people who were single and never married in the municipality.  There were 990 married individuals, 118 widows or widowers and 96 individuals who are divorced.STAT-TAB Datenwürfel für Thema 40.3 - 2000    accessed 2 February 2011
+
+, there were 797 private households in the municipality, and an average of 2.5 persons per household.  There were 202 households that consist of only one person and 50 households with five or more people.  Out of a total of 803 households that answered this question, 25.2% were households made up of just one person and 15 were adults who lived with their parents.  Of the rest of the households,  there are 188 married couples without children, 325 married couples with children  There were 47 single parents with a child or children.  There were 20 households that were made up unrelated people and 6 households that were made some sort of institution or another collective housing.
+
+ there were 752 single family homes (or 83.6% of the total) out of a total of 899 inhabited buildings.  There were 124 multi-family buildings (13.8%), along with 8 multi-purpose buildings that were mostly used for housing (0.9%) and 15 other use buildings (commercial or industrial) that also had some housing (1.7%).  Of the single family homes 23 were built before 1919, while 98 were built between 1990 and 2000.  The greatest number of single family homes (212) were built between 1946 and 1960.Federal Statistical Office STAT-TAB - Datenwürfel für Thema 09.2 - Gebäude und Wohnungen   accessed 28 January 2011
+
+ there were 1,133 apartments in the municipality.  The most common apartment size was 4 rooms of which there were 425.  There were 66 single room apartments and 273 apartments with five or more rooms.  Of these apartments, a total of 796 apartments (70.3% of the total) were permanently occupied, while 318 apartments (28.1%) were seasonally occupied and 19 apartments (1.7%) were empty.  , the construction rate of new housing units was 3.2 new units per 1000 residents.  The vacancy rate for the municipality, , was 0.08%.
+
+The historical population is given in the following chart:Swiss Federal Statistical Office STAT-TAB Bevölkerungsentwicklung nach Region, 1850-2000   accessed 29 January 2011
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.8)
+ImageSize  = width:1080 height:210
+PlotArea   = height:150 left:100 bottom:50 right:100
+AlignBars  = justify
+DateFormat = x.y
+Period     = from:0 till:2200
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:400 start:0
+ScaleMinor = gridcolor:lightgrey increment:80 start:0
+PlotData=
+  color:yellowgreen width:40   mark:(line,white) align:center
+  bar:1567 from:start till:800 text:"800"
+  bar:1801 from:start till:829 text:"829"
+  bar:1850 from:start till:962 text:"962"
+  bar:1860 from:start till:899 text:"899"
+  bar:1870 from:start till:993 text:"993"
+  bar:1880 from:start till:1121 text:"1,121"
+  bar:1888 from:start till:986 text:"986"
+  bar:1900 from:start till:920 text:"920"
+  bar:1910 from:start till:912 text:"912"
+  bar:1920 from:start till:872 text:"872"
+  bar:1930 from:start till:889 text:"889"
+  bar:1941 from:start till:859 text:"859"
+  bar:1950 from:start till:934 text:"934"
+  bar:1960 from:start till:963 text:"963"
+  bar:1970 from:start till:1143 text:"1,143"
+  bar:1980 from:start till:1287 text:"1,287"
+  bar:1990 from:start till:1550 text:"1,550"
+  bar:2000 from:start till:2159 text:"2,159"
+
+
+==Politics==
+In the 2007 federal election the most popular party was the FDP which received 26% of the vote.  The next three most popular parties were the CVP (25.59%), the SP (18.89%) and the Ticino League (15.4%).  In the federal election, a total of 734 votes were cast, and the voter turnout was 47.0%.Swiss Federal Statistical Office, Nationalratswahlen 2007: Stärke der Parteien und Wahlbeteiligung, nach Gemeinden/Bezirk/Canton   accessed 28 May 2010
+
+In the  Gran Consiglio election, there were a total of 1,590 registered voters in Claro, of which 1,050 or 66.0% voted.  18 blank ballots and 3 null ballots were cast, leaving 1,029 valid ballots in the election.  The most popular party was the PLRT which received 228 or 22.2% of the vote.  The next three most popular parties were; the PPD+GenGiova (with 201 or 19.5%), the SSI (with 186 or 18.1%) and the LEGA (with 164 or 15.9%). Elezioni cantonali: Gran Consiglio, Consiglio di Stato   accessed 23 November 2010
+
+In the  Consiglio di Stato election, 7 blank ballots and 3 null ballots were cast, leaving 1,041 valid ballots in the election.  The most popular party was the LEGA which received 229 or 22.0% of the vote.  The next three most popular parties were; the PLRT (with 210 or 20.2%), the PPD (with 209 or 20.1%) and the PS (with 186 or 17.9%).
+
+==Economy==
+, Claro had an unemployment rate of 2.83%.  , there were 28 people employed in the primary economic sector and about 12 businesses involved in this sector.  125 people were employed in the secondary sector and there were 24 businesses in this sector.  238 people were employed in the tertiary sector, with 49 businesses in this sector.  There were 970 residents of the municipality who were employed in some capacity, of which females made up 41.0% of the workforce.
+
+ the total number of full-time equivalent jobs was 318.  The number of jobs in the primary sector was 18,  of which 16 were in agriculture and 2 were in forestry or lumber production.  The number of jobs in the secondary sector was 90, of which 49 or (54.4%) were in manufacturing and 41 (45.6%) were in construction.  The number of jobs in the tertiary sector was 210.  In the tertiary sector; 20 or 9.5% were in wholesale or retail sales or the repair of motor vehicles, 14 or 6.7% were in the movement and storage of goods, 16 or 7.6% were in a hotel or restaurant, 2 or 1.0% were in the information industry, 4 or 1.9% were the insurance or financial industry, 8 or 3.8% were technical professionals or scientists, 16 or 7.6% were in education and 91 or 43.3% were in health care.Swiss Federal Statistical Office STAT-TAB Betriebszählung: Arbeitsstätten nach Gemeinde und NOGA 2008 (Abschnitte), Sektoren 1-3   accessed 28 January 2011
+
+, there were 205 workers who commuted into the municipality and 699 workers who commuted away.  The municipality is a net exporter of workers, with about 3.4 workers leaving the municipality for every one entering.  About 3.4% of the workforce coming into Claro are coming from outside Switzerland.Swiss Federal Statistical Office - Statweb  accessed 24 June 2010  Of the working population, 6.3% used public transportation to get to work, and 72.1% used a private car.
+
+==Religion==
+From the , 1,720 or 79.7% were Roman Catholic, while 74 or 3.4% belonged to the Swiss Reformed Church.  Of the rest of the population, there were 14 members of an Orthodox church (or about 0.65% of the population), and there were 55 individuals (or about 2.55% of the population) who belonged to another Christian church.  There was 1 individual who was Jewish, and 17 (or about 0.79% of the population) who were Islamic.  183 (or about 8.48% of the population) belonged to no church, are agnostic or atheist, and 95 individuals (or about 4.40% of the population) did not answer the question.
+
+==Education==
+In Claro about 806 or (37.3%) of the population have completed non-mandatory upper secondary education, and 195 or (9.0%) have completed additional higher education (either university or a Fachhochschule).  Of the 195 who completed tertiary schooling, 58.5% were Swiss men, 29.2% were Swiss women, 8.2% were non-Swiss men and 4.1% were non-Swiss women.
+
+In Claro there were a total of 510 students ().  The Ticino education system provides up to three years of non-mandatory kindergarten and in Claro there were 73 children in kindergarten.  The primary school program lasts for five years and includes both a standard school and a special school.  In the municipality, 147 students attended the standard primary schools and 4 students attended the special school.  In the lower secondary school system, students either attend a two-year middle school followed by a two-year pre-apprenticeship or they attend a four-year program to prepare for higher education.  There were 133 students in the two-year middle school, while 65 students were in the four-year advanced program.
+
+The upper secondary school includes several options, but at the end of the upper secondary program, a student will be prepared to enter a trade or to continue on to a university or college.  In Ticino, vocational students may either attend school while working on their internship or apprenticeship (which takes three or four years) or may attend school followed by an internship or apprenticeship (which takes one year as a full-time student or one and a half to two years as a part-time student).  There were 29 vocational students who were attending school full-time and 52 who attend part-time.
+
+The professional program lasts three years and prepares a student for a job in engineering, nursing, computer science, business, tourism and similar fields.  There were 7 students in the professional program. Allievi e studenti, secondo il genere di scuola, anno scolastico 2009/2010   accessed 23 November 2010
+
+, there were 3 students in Claro who came from another municipality, while 154 residents attended schools outside the municipality.
+

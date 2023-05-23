@@ -1,0 +1,158 @@
+Title: Korean decimal classification
+The Korean Decimal Classification (KDC) is a system of library classification used in South Korea. The structure and main level classes of the KDC are based on the Dewey Decimal Classification. The KDC is maintained and published by the Classification Committee of the Korean Library Association. The first edition of the classification was published in 1964; the most recent edition is the sixth edition published in 2013. Almost all school and public libraries in South Korea use the KDC to organize their collections, as well as the National Library of Korea and some university libraries.
+
+==History==
+Multiple library classification systems had been developed for Korean libraries before the publication of the KDC. These included the Railway Bureau Library Classification (1920), the Korean Decimal Classification edited by Bong-Suk Park (known as KDCP, 1947), the Han-Un Decimal Classification (1954), and the Kuk-Yeon Decimal Classification (1958).After the disappearance of editor Bong-Suk Park in the 1950s, the KDCP system decreased in use. Korean librarians considered adopting the Dewey Decimal Classification (DDC), especially after it was implemented at Yonsei University in 1957, but struggled to apply it to East Asian and Korean-focused works in their collections.
+
+In February 1963, members of the Korean Library Association's Classification were appointed to create a national classification; they decided to make revisions to the order of the main classes of the DDC, for example bringing together the class Language (700) together with the class for Literature (800). Committee members prepared draft classes and indexes and the first edition of the KDC was published in May 1964.Both the text and the index were written in Korean Hangul characters and Chinese characters. The second edition was published just two years later, in 1966, correcting errors and omissions found in the first edition. The third edition was published in 1980, maintaining the basic framework of the previous editions while expanding significantly.
+
+The fourth edition, published in 1996, made considerable changes, including increasing the number of representatives on the Classification Committee. The committee sought feedback from the library community and implemented revisions included in the recently published edition 20 of the DDC and edition 9 of the Nippon Decimal Classification. New policies applied to the fourth edition included principles suggesting the main classes should remain as static as possible, with focus shown to expanding classes devoted to technology and science. Likewise, many subject specialists were consulted for the publication of the fifth edition in 2009. The publication of the 23rd edition of the DDC in 2011 provided opportunity for a new revision of the KDC, and the sixth edition was published in July 2013. Greater numbers of classes provided number building capacity in the sixth edition, allowing for more specificity.
+
+{| class="wikitable"
+|-
+! Edition !! Publication year !! Number of pages !! Editor
+|-
+| 1st || 1964 || 642 || Hye-Bong Chun
+|-
+| 2nd || 1966 || 686 || Hye-Bong Chun
+|-
+| 3rd || 1980 || 1,027 || Byung-Su Lee
+|-
+| 4th || 1996 || 1,516 || Ki-Won Kwon
+|-
+| 5th || 2009 || 1,529 || Tae-Woo Nam
+|-
+| 6th || 2013 ||  || 
+|}
+
+==Description==
+
+The KDC classifies resources primarily by discipline, though some classes are collocated by subject. There are eight auxiliary mnemonic tables used to expand class numbers.
+
+The main classes of the KDC are the same as the main classes of the Dewey Decimal Classification, but four of those main classes are in a different order: Natural sciences (400), Technology and engineering (500), Arts (600), and Language 700. Though the structure is heavily influenced by the DDC, aspects of multiple library classifications have been invoked in the creation of the KDC, including the Library of Congress Classification for the arrangement of the social sciences (300), the Universal Decimal Classification for medical sciences (510), the KDCP for Korean and Oriental subjects, the Nippon Decimal Classification for those of Japan and Oriental subjects.
+
+===Classes of the KDC 6th edition===
+* 000  General works
+** 000  General works
+** 010  Books, Bibliography
+** 020  Library & information science
+** 030  General encyclopedias
+** 040  General collected essays
+** 050  General serial publications
+** 060  General societies
+** 070  Newspapers, journalism
+** 080  General collected works
+** 090  Materials of province
+* 100  Philosophy
+** 100  Philosophy
+** 110  Metaphysics
+** 120  Epistemology, etc.
+** 130  Systems of philosophy
+** 140  Chinese classics
+** 150  Oriental philosophy and thought
+** 160  Western philosophy
+** 170  Logic
+** 180  Psychology
+** 190  Ethics, moral philosophy
+* 200  Religion
+** 200  Religion
+** 210  Comparative religion
+** 220  Buddhism
+** 230  Christian religion
+** 240  Taoism
+** 250  Chondoism
+** 260  [Unassigned]
+** 270  Hinduism, Brahmanism
+** 280  Islam, Mohammedianism
+** 290  Other religions
+* 300  Social sciences
+** 300  Social sciences
+** 310  Statistics
+** 320  Economics
+** 330  Sociology and social problems
+** 340  Political sciences
+** 350  Public administration
+** 360  Law
+** 370  Education
+** 380  Customs, Etiquette, Folklore
+** 390  Military science
+* 400  Natural sciences
+** 400  Natural sciences
+** 410  Mathematics
+** 420  Physics
+** 430  Chemistry
+** 440  Astronomy
+** 450  Earth science
+** 460  Mineralogy
+** 470  Life science
+** 480  Botany
+** 490  Zoological science
+* 500  Technology
+** 500  Technology
+** 510  Medical science
+** 520  Agriculture
+** 530  Engineering, technology, etc.
+** 540  Construction and architecture
+** 550  Mechanical engineering
+** 560  Electrical, comm. & electric engineering
+** 570  Chemical engineering
+** 580  Manufactures
+** 590  Human ecology
+* 600  Arts
+** 600  Arts
+** 610  [Unassigned]
+** 620  Sculpture, plastic art
+** 630  Crafts
+** 640  Calligraphy
+** 650  Painting, design
+** 660  Photography
+** 670  Music
+** 680  Stage performance, museum arts
+** 690  Amusements, sports & physical training
+* 700  Language
+** 700  Language
+** 710  Korean language
+** 720  Chinese language
+** 730  Japanese & other Asian languages
+** 740  English
+** 750  German
+** 760  French languages
+** 770  Spanish languages & Portuguese language
+** 780  Italian languages
+** 790  Other languages
+* 800  Literature
+** 800  Literature
+** 810  Korean literature
+** 820  Chinese literature
+** 830  Japanese & other Asian literature
+** 840  English & American literature
+** 850  German literature
+** 860  French literature
+** 870  Spanish & Portuguese literature
+** 880  Italian literature
+** 890  Other literatures
+* 900  History
+** 900  History
+** 910  Asia
+** 920  Europe
+** 930  Africa
+** 940  North America
+** 950  South America
+** 960  Oceania and Polar regions
+** 970  [Unassigned]
+** 980  Geography
+** 990  Biography
+
+===Expansion tables===
+* Table 1. Standard subdivisions
+* Table 2. Geographic Areas
+* Table 3. Korean geographic areas
+* Table 4. Korean historical period
+* Table 5. Languages
+* Table 6. Subdivisions of individual languages
+* Table 7. Subdivisions of individual literatures
+* Table 8. Subdivisions of individual religions
+
+==Usage==
+KDC is used by a wide range of libraries within Korea, including by the National Library of Korea and most school and public libraries in the country, along with some university libraries, such as the one at Youngnam University.
+

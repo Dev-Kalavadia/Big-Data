@@ -1,0 +1,7 @@
+Title: Cleavage stimulation factorCleavage stimulatory factor or cleavage stimulation factor (CstF or CStF) is a heterotrimeric protein, made up of the proteins CSTF1 (55kDa), CSTF2 (64kDa) and CSTF3 (77kDa), totalling about 200 kDa. It is involved in the cleavage of the 3' signaling region from a newly synthesized pre-messenger RNA (mRNA) molecule. CstF is recruited by cleavage and polyadenylation specificity factor (CPSF) and assembles into a protein complex on the 3' end to promote the synthesis of a functional polyadenine tail, which results in a mature mRNA molecule ready to be exported from the cell nucleus to the cytosol for translation.
+
+The amount of CstF in a cell is dependent on the phase of the cell cycle, increasing significantly during the transition from G0 phase to S phase in mouse fibroblast and human splenic B cells.
+
+==Genes==
+* CSTF1, CSTF2 or CSTF2T, CSTF3
+

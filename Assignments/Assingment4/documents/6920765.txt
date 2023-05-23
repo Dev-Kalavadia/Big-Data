@@ -1,0 +1,526 @@
+Title: World Grand Prix (darts)
+
+
+The BoyleSports World Grand Prix is a PDC darts tournament traditionally held in Dublin, Ireland every October, but has taken place in Leicester, England in since 2021. Its original venue was the Casino Rooms in Rochester, Kent in 1998 and 1999, and then for one year only in 2000 at the Crosbie Cedars Hotel in Rosslare, County Wexford. In 2001, the tournament moved further north to the Citywest in Dublin. In 2009, the tournament moved from the Reception Hall at the main Citywest Hotel, to the newly completed bigger venue on site, the Citywest Hotel Convention Centre. In 2012, the tournament moved back to the Reception Hall for that year, before returning to the Convention Centre in 2013. 
+Due to the COVID-19 pandemic, the 2020 tournament was held at the Ricoh Arena, Coventry, and since 2021, it has been held at the Morningside Arena, Leicester. When the World Grand Prix was founded in 1998, it replaced the earlier World Pairs tournament which ran from 1995 to 1997.
+
+The World Grand Prix was sponsored by bookmakers Paddy Power from 2001 to 2003, before Sky Bet took over in 2004. The subsidiary Sky Poker was the tournament's sponsor in 2008. In 2010, online gambling company Bodog became the event's title sponsor, while PartyPoker.com took over as the main sponsor in 2011. In 2016, Unibet took over as sponsor, with BoyleSports sponsoring the event since 2019.
+
+Although he has dominated the event with eleven title wins, Phil Taylor has been knocked out of the World Grand Prix five times in the first round. In 2001, he lost 2–1 to qualifier Kevin Painter. in 2004, he was beaten  2–0 by Andy Callaby. in 2007, he lost 2–0 to Adrian Gray. in 2015, he was beaten 2–0 by Vincent van der Voort, and in 2016, he was beaten 2–1 by Steve West.
+
+The current champion is Michael van Gerwen, who defeated Nathan Aspinall, by a margin of 5–3, in the 2022 final to win his sixth World Grand Prix title.
+
+==Tournament format==
+The tournament is unusual in that it is the only televised event in which players must commence and finish each leg on a double (including the bullseye).
+
+There have been several different formats for the tournament. The first event in 1998 was a straight knock-out tournament played in a setplay format with each set being contested over the best of three legs. The following year this changed to the best of five legs per set. Furthermore, a group stage was introduced in 1999, with there only being four seeded players for the event, all of whom reached the semi-finals. In 2000, the tournament reverted to being a straight knock-out and has remained so ever since.
+
+The double-start format also makes landing a perfect nine-dart finish even more difficult, as it limits the number of combinations and guarantees that a player must finish on the bullseye (unless they start with one). There were two famous near misses in the first two years, the first with Phil Taylor in the 1998 final against Rod Harrington, when Taylor was distracted by loud commentary from Sid Waddell just before throwing the eighth dart (which Taylor hit) before he missed the bullseye; and the second in the 1999 semi final, when Harrington missed the bullseye against Taylor. The first nine-darter in Grand Prix history was eventually completed by Brendan Dolan in the 2011 semi-final against James Wade. In 2014, James Wade and Robert Thornton both hit perfect legs in the same match, the first time this happened in any televised event. On all three occasions, the leg started with a score of 160 (starting on double 20), followed by 180, followed by finishing 161 with treble 20, treble 17, and bullseye.
+
+==World Grand Prix Finals==
+{| class="wikitable"
+! rowspan=2 | Year
+! rowspan=2 | Champion (average in final)
+! rowspan=2 | Score
+! rowspan=2 | Runner-up (average in final)
+! colspan=3 | Prize money
+! rowspan=2 | Sponsor
+! rowspan=2 | Venue
+|-
+! Total
+! Champion
+! Runner-up
+|-
+| 1998
+|  Phil Taylor 
+| 13–8
+|  Rod Harrington 
+| rowspan=2 align="center" | £38,000 
+| rowspan=2 align="center" | £9,000 
+| rowspan=2 align="center" | £5,000
+| rowspan=3|PDC
+| rowspan=2|
+|-
+| 1999
+| 
+| align=center|6–1
+| 
+|-
+| 2000
+|  Phil Taylor 
+| align=center|6–1
+|  Shayne Burgess 
+| rowspan=1 align="center" | £70,000
+| rowspan=2 align="center" | £15,000 
+| rowspan=2 align="center" | £7,500
+| Crosbie Cedars Hotel, Rosslare
+|-
+| 2001
+| 
+| align=center|8–2
+|  Roland Scholten 
+| rowspan=1 align="center" | £78,000
+| rowspan=3|Paddy Power
+| rowspan=19|Citywest Hotel, Dublin
+|-
+| 2002
+|  Phil Taylor 
+| align=center|7–3
+|  John Part 
+| rowspan=1 align="center" | £70,000
+| rowspan=1 align="center" | £14,000 
+| rowspan=1 align="center" | £7,000
+|-
+| 2003
+|  Phil Taylor 
+| align=center|7–2
+|  John Part 
+| rowspan=1 align="center" | £76,000 
+| rowspan=1 align="center" | £15,000 
+| rowspan=1 align="center" | £7,500
+|-
+| 2004
+|  Colin Lloyd 
+| align=center|7–3
+|  Alan Warriner 
+| rowspan=2 align="center" | £100,000 
+| rowspan=2 align="center" | £20,000
+| rowspan=2 align="center" | £10,000
+| rowspan=4|Sky Bet
+|-
+| 2005
+|  Phil Taylor 
+| align=center|7–1
+|  Colin Lloyd 
+|-
+| 2006
+|  Phil Taylor 
+| align=center|7–4
+|  Terry Jenkins 
+| align="center" | £130,000
+| align="center" | £25,000
+| align="center" | £12,500 
+|-
+| 2007
+|  James Wade 
+| align=center|6–3
+|  Terry Jenkins 
+| align="center" | £200,000
+| rowspan=2 align="center" | £50,000
+| align="center" | £20,000
+|-
+| 2008
+|  Phil Taylor 
+| align=center|6–2
+| 
+| align="center" | £250,000
+| align="center" | £25,000
+| Sky Poker
+|-
+| 2009
+|  Phil Taylor 
+| align=center|6–3
+|  Raymond van Barneveld 
+| align="center" rowspan=5|£350,000
+| align="center" rowspan=5|£100,000
+| align="center" rowspan=5|£40,000 
+| Sky Bet
+|-
+| 2010
+|  James Wade 
+| align=center|6–3
+|  Adrian Lewis 
+| Bodog
+|-
+| 2011
+|  Phil Taylor  
+| align=center|6–3
+|  Brendan Dolan 
+| rowspan=5|PartyPoker.com
+|-
+| 2012
+| 
+| align=center|6–4
+|  Mervyn King 
+|-
+| 2013
+|  Phil Taylor  
+| align=center|6–0
+|  Dave Chisnall 
+|-
+| 2014
+|  Michael van Gerwen  
+| align=center|5–3
+|  James Wade  
+| align="center" rowspan=5|£400,000
+| align="center" rowspan=5|£100,000
+| align="center" rowspan=5|£45,000
+|-
+| 2015
+|  Robert Thornton 
+| align=center|5–4
+| 
+|-
+| 2016
+| 
+| align=center|5–2
+|  Gary Anderson 
+| rowspan=3|Unibet
+|-
+| 2017
+| 
+| align=center|5–4
+|  Simon Whitlock 
+|-
+| 2018
+| 
+| align=center|5–2
+|  Peter Wright 
+|-
+| 2019
+| 
+| align=center|5–2
+|  Dave Chisnall 
+| align="center" rowspan=3| £450,000 
+| align="center" rowspan=3| £110,000
+| align="center" rowspan=3| £50,000
+| rowspan=4|BoyleSports
+|-
+| 2020
+|  Gerwyn Price 
+| align=center|5–2
+|  Dirk van Duijvenbode 
+| Ricoh Arena, Coventry
+|-
+| 2021
+|  Jonny Clayton 
+| align=center|5–1
+|  Gerwyn Price 
+| rowspan=2| Morningside Arena, Leicester
+|-
+| 2022
+| 
+| align=center|5–3
+|  Nathan Aspinall 
+| align="center"| £600,000
+| align="center"| £120,000
+| align="center"| £60,000
+|}
+
+==Records and statistics==
+
+
+===Total finalist appearances===
+{| class="wikitable sortable"
+|-
+!Rank
+!Player
+!Nationality
+!Won
+!Runner-up
+!Finals
+!Appearances
+|-
+|1
+|Phil Taylor|| England||align=center|11||align=center|0||align=center|11||align=center|19
+|-
+|2
+|Michael van Gerwen|| Netherlands||align=center|6||align=center|1||align=center|7||align=center|12
+|-
+|3
+|James Wade|| England||align=center|2||align=center|1||align=center|3||align=center|17
+|-
+| rowspan="3" |4
+|Colin Lloyd|| England||align=center|1||align=center|1||align=center|2||align=center|14
+|-
+|Alan Warriner|| England||align=center|1||align=center|1||align=center|2||align=center|9
+|-
+|Gerwyn Price|| Wales||align=center|1||align=center|1||align=center|2||align=center|7
+|-
+| rowspan="3" |7
+|Robert Thornton|| Scotland||align=center|1||align=center|0||align=center|1||align=center|8
+|-
+|Daryl Gurney|| Northern Ireland||align=center|1||align=center|0||align=center|1||align=center|8
+|-
+|Jonny Clayton|| Wales||align=center|1||align=center|0||align=center|1||align=center|4
+|-
+| rowspan="5" |10
+|John Part|| Canada||align=center|0||align=center|2||align=center|2||align=center|14
+|-
+|Raymond van Barneveld|| Netherlands||align=center|0||align=center|2||align=center|2||align=center|13
+|-
+|Terry Jenkins|| England||align=center|0||align=center|2||align=center|2||align=center|12
+|-
+|Dave Chisnall|| England||align=center|0||align=center|2||align=center|2||align=center|10
+|-
+|Shayne Burgess|| England||align=center|0||align=center|2||align=center|2||align=center|4
+|-
+| rowspan="9" |15
+|Adrian Lewis|| England||align=center|0||align=center|1||align=center|1||align=center|15
+|-
+|Mervyn King|| England||align=center|0||align=center|1||align=center|1||align=center|15
+|-
+|Brendan Dolan|| Northern Ireland||align=center|0||align=center|1||align=center|1||align=center|12
+|-
+|Gary Anderson|| Scotland||align=center|0||align=center|1||align=center|1||align=center|12
+|-
+|Simon Whitlock|| Australia||align=center|0||align=center|1||align=center|1||align=center|12
+|-
+|Peter Wright|| Scotland||align=center|0||align=center|1||align=center|1||align=center|10
+|-
+|Roland Scholten|| Netherlands||align=center|0||align=center|1||align=center|1||align=center|9
+|-
+|Rod Harrington|| England||align=center|0||align=center|1||align=center|1||align=center|5
+|-
+|Dirk van Duijvenbode|| Netherlands||align=center|0||align=center|1||align=center|1||align=center|2
+|}
+
+===Nine-dart finishes===
+Three nine-darters have been thrown at the World Grand Prix. The first one was in 2011, the other two happened in the same game in 2014, notable as being the only televised match which has had nine-darters from both players.
+{| class="wikitable sortable"
+|-
+!Player
+!Year (+ Round)
+!Method (double-in double-out)
+!Opponent
+!Result
+|-
+| Brendan Dolan
+|2011, Semi-Final
+|D20, 2 x T20; 3 x T20; T20, T17, Bull
+| James Wade
+|5–2
+|-
+| James Wade
+|2014, 2nd Round
+|D20, 2 x T20; 3 x T20; T20, T17, Bull
+| Robert Thornton
+|3–2
+|-
+| Robert Thornton
+|2014, 2nd Round
+|D20, 2 x T20; 3 x T20; T20, T17, Bull
+| James Wade
+|2–3
+|-
+|}
+
+===High averages===
+
+An average over 100 in a match in the World Grand Prix has been achieved 20 times, of which Phil Taylor is responsible for 9.
+
+{| class="wikitable sortable"
+!colspan=5|Ten highest World Grand Prix one-match averages
+|-
+!Average
+!Player
+!Year (+ Round)
+!Opponent
+!Result
+|-
+|106.45
+| Alan Warriner
+|2001, 1st Round
+| Andy Jenkins
+|2–0
+|-
+|104.86
+| Gary Anderson
+|2013, 1st Round
+| Jelle Klaasen
+|2–0
+|-
+|104.47
+| Michael van Gerwen
+|2013, 1st Round
+| John Part
+|2–0
+|-
+|103.09
+| Michael van Gerwen
+|2016, Quarter-Final
+| Simon Whitlock
+|3–1
+|-
+|103.02
+| Phil Taylor
+|2011, Semi-Final
+| Richie Burnett
+|5–2
+|-
+|102.85
+| Dave Chisnall
+|2020, 1st Round
+| Glen Durrant
+|2–0
+|-
+|102.48
+| Phil Taylor
+|2010, 1st Round
+| Brendan Dolan
+|2–0
+|-
+|102.26
+| Phil Taylor
+|2011, 1st Round
+| Peter Wright
+|2–1
+|-
+|101.75
+| Phil Taylor
+|2010, 2nd Round
+| Andy Smith
+|3–0
+|-
+|101.71
+| Phil Taylor
+|1999, Quarter-Final
+| Peter Evison
+|3–0
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan=5|Five highest losing averages
+|-
+!Average
+!Player
+!Year (+ Round)
+!Opponent
+!Result
+|-
+|97.78
+| Dave Chisnall
+|2018, Quarter-Final
+| Michael van Gerwen
+|1–3
+|-
+|97.20
+| Gary Anderson
+|2015, 2nd Round
+| Ian White
+|1–3
+|-
+|97.03
+| Phil Taylor
+|2015, 1st Round
+| Vincent van der Voort
+|0–2
+|-
+|96.84
+| Michael van Gerwen
+|2020, Quarter-Final
+| Simon Whitlock
+|0–3
+|-
+|96.79
+| Michael van Gerwen
+|2015, Final
+| Robert Thornton
+|4–5
+|}
+
+{| class="wikitable sortable"
+!colspan=4|Different players with a 100+ match average – updated 03/10/21
+|-
+!Player
+!Total
+!Highest Av.
+!Year (+ Round)
+|-
+| Phil Taylor
+|9
+|103.02
+|2011, Semi-Final
+|-
+| Michael van Gerwen
+|4
+|104.47
+|2013, 1st Round
+|-
+| Dave Chisnall
+|2
+|102.85
+|2020, 1st Round
+|-
+| Simon Whitlock
+|2
+|101.12
+|2020, 1st Round
+|-
+| Alan Warriner
+|1
+|106.45
+|2001, 1st Round
+|-
+| Gary Anderson
+|1
+|104.86
+|2013, 1st Round
+|-
+| Gerwyn Price
+|1
+|100.82
+|2021, 1st Round
+|}
+
+{| class="wikitable sortable"
+!colspan=5|Five highest tournament averages
+|-
+!Average
+!Player
+!Year
+
+|-
+|99.46
+| Michael van Gerwen
+|2016
+|-
+|99.23
+| Phil Taylor
+|2010
+|-
+|98.62
+| Phil Taylor
+|2009
+|-
+|98.50
+| Phil Taylor
+|2008
+|-
+|98.22
+| Phil Taylor
+|2012
+|}
+
+==World Team Championship==
+The World Team Championship event which preceded the introduction of this event was held between 1995 and 1997.
+{| class="wikitable sortable"
+!Year
+!Winners
+!Score
+!Runners Up
+!Venue
+|-
+! 1995
+|  Eric Bristow Dennis Priestley
+| 14–9 (legs)
+|  Keith Deller Jamie Harvey
+| Butlin's Wonder West World, Ayr
+|-
+! 1996
+|  Bob Anderson Phil Taylor
+| 18–15 (legs)
+|  Chris Mason Steve Raw
+| Willows Variety Centre, Salford
+|-
+! 1997
+|  Raymond van Barneveld Roland Scholten
+| 18–15 (legs)
+|  Richie Burnett Rod Harrington
+| Butlin's South Coast World, Bognor Regis
+|}
+
+==Media coverage==
+The World Grand Prix has been broadcast in the UK by Sky Sports since the first tournament.
+

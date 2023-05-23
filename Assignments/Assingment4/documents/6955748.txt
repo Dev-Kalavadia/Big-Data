@@ -1,0 +1,43 @@
+Title: BASDAI
+The BASDAI or Bath Ankylosing Spondylitis Disease Activity Index is a validated diagnostic test which allows a physician, usually a rheumatologist, to determine the effectiveness of a current drug therapy, or the need to institute a new drug therapy for the treatment of Ankylosing spondylitis (AS). The BASDAI is one of a group of classification criteria for spondyloarthropathies.
+
+==Bath Index measures==
+The BASDAI consists of a 0 - 10 scale measuring discomfort, pain, and fatigue (0 being no problem and 10 being the worst problem) in response to six questions asked of the patient  pertaining to the five major symptoms of AS:
+#Fatigue 
+#Spinal pain 
+#Arthralgia (joint pain) or swelling 
+#Enthesitis, or inflammation of tendons and ligaments (areas of localized tenderness where connective tissues insert into bone) 
+#Morning stiffness duration 
+#Morning stiffness severity
+
+To give each symptom equal weighting, the average of the two scores relating to morning stiffness is taken. The resulting 0 to 50 score is divided by 5 to give a final 0 – 10 BASDAI score. Scores of 4 or greater suggest suboptimal control of disease, and those patients are usually good candidates for a change in their medical therapy, may benefit by treatment with biologic therapies, or may be candidates for enrollment in clinical trials evaluating new drug therapies directed at treating the AS disease process.
+
+== History ==
+In 1994, a research team consisting of rheumatologists, physiotherapists, and others with a special interest in Ankylosing Spondylitis, developed the index in Bath, England (hence the reason for "Bath" in the name), describing a self-administered 6-question measurement tool that later become the gold standard for measuring and evaluating AS disease activity.
+
+== Validity and Reliability ==
+BASDAI is a quick and simple measure taking between 30 seconds and 2 minutes to complete. BASDAI demonstrates statistically significant (p<0.001) reliability and incorporates a reasonable scale. The individual symptoms and the index as a whole demonstrated good score distribution, using 95% of the scale. BASDAI demonstrates a sensitivity to change within a short period of time. Following a 3-week physiotherapy course, the BASDAI showed a significant (p=0.009) 16.4% score improvement. Because the BASDAI reflects ongoing inflammatory disease, patients with advanced or "burned out" disease may score well on the test despite their advanced disease.Khan, Muhammad Asim, Ankylosing Spondylitis, asim44.com. Accessed 2012-5-6.
+
+==Related tests==
+Other tests include the
+* Bath Ankylosing Spondylitis Functional Index (BASFI) a test reflecting functional limitations in patients with more advanced disease, 
+* Ankylosing Spondylitis Disease Activity Score (ASDAS), 
+* Modified New York Criteria (mNY), 
+* Ankylosing Spondylitis Quality of Life Scale (ASQoL), 
+* Bath Ankylosing Spondylitis Global Score (BAS-G), 
+* Bath Ankylosing Spondylitis Metrology Index (BASMI), 
+* Dougados Functional Index (DFI), and the
+* Health Assessment Questionnaire for the Spondylarthropathies (HAQ-S).Ankylosing Spondylitis Disease Activity Score , ASDAS, asas-group.org. Accessed 2012-5-6.
+
+==See also==
+*Patient-reported outcome
+
+== References ==
+
+
+== External tools ==
+* ASDAS Calculator
+* Online BASDAI Calculator
+
+Category:Medical tests
+Category:Rheumatology

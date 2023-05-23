@@ -1,0 +1,46 @@
+Title: Kluczbork County
+__NOTOC__
+Kluczbork County () is a unit of territorial administration and local government (powiat) in Opole Voivodeship, south-western Poland. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and largest town is Kluczbork, which lies  north-east of the regional capital Opole. The county also contains the towns of Wołczyn, lying  west of Kluczbork, and Byczyna,  north of Kluczbork.
+
+The county covers an area of . As of 2019 its total population is 65,644, out of which the population of Kluczbork is 23,554, that of Wołczyn is 5,907, that of Byczyna is 3,582, and the rural population is 32,601.
+
+==Neighbouring counties==
+Kluczbork County is bordered by Kępno County and Wieruszów County to the north, Olesno County to the south-east, Opole County to the south, and Namysłów County to the west.
+
+==Administrative division==
+The county is subdivided into four gminas (three urban-rural and one rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km2)
+| style="text-align:center;"|Population(2019)
+| style="text-align:center;"|Seat
+|-
+|Gmina Kluczbork
+|urban-rural
+| style="text-align:right;"|217.0
+| style="text-align:right;"|35,896
+|Kluczbork
+|-
+|Gmina Wołczyn
+|urban-rural
+| style="text-align:right;"|240.9
+| style="text-align:right;"|13,579
+|Wołczyn
+|-
+|Gmina Byczyna
+|urban-rural
+| style="text-align:right;"|182.9
+| style="text-align:right;"|9,305
+|Byczyna
+|-
+|Gmina Lasowice Wielkie
+|rural
+| style="text-align:right;"|210.8
+| style="text-align:right;"|6,864
+|Lasowice Wielkie
+|-
+|}
+

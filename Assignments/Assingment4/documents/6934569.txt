@@ -1,0 +1,46 @@
+Title: Vijay P. Bhatkar
+
+
+
+
+
+Vijay Pandurang Bhatkar  is an Indian computer scientist, IT leader and educationalist. He is best known as the architect of India's national initiative in supercomputing where he led the development of Param supercomputers. He is a Padma Shri,  Padma Bhushan,  and Maharashtra Bhushan awardee. Indian computer magazine Dataquest placed him among the pioneers of India's IT industry. He was the founder executive director of Centre for Development of Advanced Computing (C-DAC) and is currently working on developing exascale supercomputing for India.
+
+Bhatkar has been chancellor of Nalanda University, India since January 2017.  Prior to that, he served as the Chairman of Board of Governors of IIT Delhi from 2012 to 2017. Currently he is serving as the Chairman of Vijnana Bharati, a non profit organization of Indian scientists.
+
+== Career ==
+Bhatkar was born in Muramba, Taluka Murtijapur, District Akola Maharashtra, India. He received B.E. degree in Electrical Engineering from Nagpur University, Nagpur; ME degree from MS University of Baroda, Vadodara and PhD from IIT Delhi.
+
+Bhatkar is best known as the architect of India's national initiative in supercomputing where he led the development of Param supercomputers. He developed the first Indian supercomputer, the PARAM 8000, in 1991 and later the PARAM 10000 in 1998. Based on the PARAM series of supercomputers, he built the National Param Supercomputing Facility (NPSF) which is now made available as a grid computing facility through the Garuda grid on the National Knowledge Network (NKN) providing nationwide access to High Performance Computing (HPC) infrastructure. Currently, Bhatkar is working on exascale supercomputing via the capability, capacity and infrastructure on NKN. 
+
+Bhatkar has played a significant role in forming several national institutions and research centers including Centre for Development of Advanced Computing (C-DAC), the Electronics Research and Development Centre (ER&DC) in Thiruvananthapuram, Indian Institute of Information Technology and Management, Kerala (IIITM-K), the ETH Research Laboratory and International Institute of Information Technology (I2IT) in Pune, Maharashtra Knowledge Corporation (MKCL) and the India International Multiversity. He has served as a member of the Scientific Advisory Committee to the government of India, CSIR governing body, IT Task Force, and eGovernance committee chairman of the governments of Maharashtra and Goa. He also serves as the president of Vijnana Bharati.
+
+In 2016, Bhatkar was appointed as the Chairperson of the Science & Engineering Research Body (SERB).Reconstitution of Oversight Committee - SERB. 30 May 2016 In January 2017, Bhatkar was appointed as the Chancellor of the Nalanda University. He is also the Founder Chancellor and Chief Mentor of Multiversity. Dr. Vijay Bhatkar has served as the Chairman of Board of the Governors of IIT-Delhi (2012-2017), Chairman of the ETH (Education To Home) Research Lab, Chairman of the Board of Management of Government College of Engineering, Amravati, Chancellor of D. Y. Patil University, and National President of Vijnana Bharati, a People's Science Movement of over 6,000 scientists across India.
+
+Bhatkar has authored and edited over 12 books and 80 technical and research papers and addressed several university convocations, international and national conferences and conventions and public functions.
+
+== Honorary doctorates ==
+
+In 2011, Bhatkar received an honorary doctorate from DY Patil University. In 2014, he was awarded an honorary Ph.D from Gujarat Technological University and a D.Litt. degree from Nagpur University.
+
+== References ==
+
+
+== External links ==
+*Personal website
+
+
+
+
+
+
+Category:Living people
+Category:Maharaja Sayajirao University of Baroda alumni
+Category:Scientists from Maharashtra
+Category:Recipients of the Padma Shri in science & engineering
+Category:Senior Members of the IEEE
+Category:People from Akola district
+Category:Recipients of the Maharashtra Bhushan Award
+Category:Fellows of the Association for Computing Machinery
+Category:Recipients of the Padma Bhushan in science & engineering
+Category:1946 births

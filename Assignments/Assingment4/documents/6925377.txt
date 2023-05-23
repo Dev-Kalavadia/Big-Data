@@ -1,0 +1,108 @@
+Title: Ampang–Kuala Lumpur Elevated Highway
+
+
+
+300px|right|thumb|The Ampang–Kuala Lumpur Elevated Highway stretch between Jalan Tun Razak and Jalan Sultan Ismail exits with Kampung Baru in the background
+Ampang–Kuala Lumpur Elevated Highway (AKLEH),  (Malay: Lebuhraya Bertingkat Ampang–Kuala Lumpur), is the first elevated highway in Malaysia. The  elevated highway connects Ampang (Selangor) and Kuala Lumpur. This highway was built to reduce traffic jams at Jalan Ampang and make access to the city more convenient. Motorcycles and other vehicles with two wheels or fewer were banned from using this highway for safety reasons; however, the ban on motorcycles was lifted on 19 June 2008 because of escalating fuel prices. This highway connects Kuala Lumpur and Selangor state.
+
+==Route background==
+The Kilometre Zero is located at the entrance from Jalan Raja Abdullah at Jalan Sultan Ismail Interchange,  Kuala Lumpur.
+
+==History==
+The construction of the Ampang–Kuala Lumpur Elevated Highway was approved on 16 May 1996 when Prolintas was awarded the concession of the highway, which will end in 2029. Construction began in the same year at the banks of the Klang River and was completed in 2001. The highway was opened to traffic on 17 May 2001 after numerous delays, and the toll collection started on 1 June 2001.
+
+===Plans===
+The highway was designed to accommodate future expansion of the Jelatek–Kuala Lumpur Middle Ring Road 2 section from the current four-lane carriageway to six-lane carriageways. The expansion will take place along the northern bank of the Klang River and Ampang River. According to the concessionaire agreement between Prolintas and the federal government, Prolintas is required to expand the highway once the average daily traffic exceeds 93,000 vehicles daily. As a result, a chicane was formed right after the Exit 1203 Jelatek Interchange for Ampang-bound traffic. Prolintas will only be allowed to raise the toll rate once the upgrading works of the Jelatek–MRR2 section to six-lane carriageway begins.
+
+On 5 November 2015, the upgrading works (called AKLEH Phase 2) of the AKLEH (Ampang-bound traffic) from Jelatek to Ampang-MRR2 was opened to traffic.
+
+==Features==
+*Tunnel to Suria KLCC parking
+*Smooth access to Ampang and Kuala Lumpur
+*Spectacular scenery of Kuala Lumpur skyline from Ampang
+
+==Tolls==
+The Ampang–Kuala Lumpur Elevated Highway (AKLEH) uses open toll collection systems. Since 2015 all toll transactions at the highway's sole toll plaza have been conducted electronically via Touch 'n Go cards or SmartTAGs. Cash payments are no longer accepted. In October 2022, it was one of the four expressways maintained by PROLINTAS to have its toll rates deducted between 8% to 15%.
+
+===Toll rates===
+(Starting 20 October 2022)
+{|class=wikitable
+|-
+!Class||Type of vehicles||Rate(in Malaysian Ringgit (RM))
+|-
+|0||Motorcycles||Free
+|-
+|1||Vehicles with 2 axles and 3 or 4 wheels excluding taxis||RM 2.13
+|-
+|2||Vehicles with 2 axles and 5 or 6 wheels excluding buses||RM 7.00
+|-
+|3||Vehicles with 3 or more axles||RM 10.50
+|-
+|4||Taxis||RM 1.53
+|-
+|5||Buses||RM 1.28
+|}
+
+
+==List of interchanges==
+
+{|class=wikitable
+|-
+!km||Exit||Interchange||To||Remarks
+|-
+|0||||Jalan Raja Abdullah Ramp||||Enter only
+|-
+|style="width:600px" colspan="6" style="text-align:center; background:blue;"|DBKL border limit
+|-
+|style="width:600px" colspan="6" style="text-align:center; background:green;"| Ampang–Kuala Lumpur Elevated HighwayStart/End of expressway(, MyRFID and  ETC only)PROLINTAS border limit
+|-
+|0||1201B||Jalan Sultan Ismail InterchangeJalan Ampang ramp||East Jalan AmpangJalan Sultan Ismail (KLIRR)||Exit only
+|-
+|||1201A||Jalan Sultan Ismail InterchangeJalan Sultan Ismail ramp||Kuala Lumpur Inner Ring RoadSouthJalan Sultan Ismail (Jalan Treacher)Jalan P. Ramlee (Jalan Parry)Jalan Raja Chulan (Jalan Weld)Jalan Bukit BintangJalan Imbi||Interchange with KL Monorail truss girder bridgeFrom/To Ampang only
+|-
+|1|| || || ||
+|-
+||||| KLCC Car Park||TunnelKLCC Car ParkSuria KLCCPetronas Twin Towers||Westbound only
+|-
+|||1202A||Jalan Tun Razak Interchange||Kuala Lumpur Middle Ring Road 1NorthJalan Tun Razak (Jalan Pekeliling)Jalan Sultan Yahya Petra (Jalan Semarak)Jalan Raja Muda Abdul Aziz (Princes Road)SentulPetaling Jaya||Expressway interchange
+|-
+|||1202B||Jalan Tun Razak Interchange||Kuala Lumpur Middle Ring Road 1SouthJalan Tun Razak (Jalan Pekeliling)Jalan Yap Kwan Seng Jalan AmpangCherasSerembanJohor Bahru||Expressway interchange
+|-
+|style="width:600px" colspan="6" style="text-align:center; background:green;"|Keramat toll plazaKERMyRFID        Opened toll systemsPay toll(Accepts electronic toll payment (, MyRFID and ) only)
+|-
+||||| Keramat toll plazaKER||  Prolintas operation office||Ampang bound
+|-
+|||1203||Jelatek Interchange||NorthJalan JelatekKampung Datuk KeramatSetiawangsaWangsa MajuSetapakSeri Maya Condominium||InterchangeFrom/to Kuala Lumpur only 
+|-
+|style="width:600px" colspan="6" style="text-align:center; background:green;"|Federal Territory of Kuala Lumpur
+|-
+|style="width:600px" colspan="6" style="text-align:center; background:yellow;"|FT Kuala Lumpur–Selangor border
+|-
+|style="width:600px" colspan="6" style="text-align:center; background:green;"|Selangor Darul EhsanHulu Langat district border
+|-
+|--|| || || ||
+|-
+||| ||Sungai Klang bridge|| ||Ampang bound
+|-
+|--|| || || ||
+|-
+|||1204B||Ampang-MRR2 & SUKE (North) Interchange|| Kuala Lumpur Middle Ring Road 2NorthUlu KlangTaman MelawatiGombak Genting Highlands Kuantan||InterchangeFrom/To Kuala Lumpur only
+|-
+|||1204A||Jalan Kerja Ayer Lama Interchange||East Jalan Kerja Ayer LamaTaman Tun RazakKelab Darul Ehsan||Ramp off 
+|-
+|||1204C||SUKE (South) Interchange|| Sungai Besi-Ulu Klang Expressway (SUKE)KosasPermai Hulu LangatCheras Kajang||InterchangeFrom/To Kuala Lumpur only
+|-
+|7.9 || || || ||
+|-
+|8 || || || ||
+|-
+|style="width:600px" colspan="6" style="text-align:center; background:green;"| Ampang–Kuala Lumpur Elevated HighwayStart/End of expressway(, MyRFID and  ETC only)PROLINTAS border limit
+|-
+|style="width:600px" colspan="6" style="text-align:center; background:blue;"| Jalan AmpangJKR and MPAJ border limit
+|-
+|||1206||Jalan Memanda Interchange||NorthJalan MemandaPekan AmpangAmpang Putri Specialist Hospital East Jalan AmpangLembah Jaya Hulu LangatPandan Indah||
+|}
+
+==See also==
+*Jalan Ampang
+

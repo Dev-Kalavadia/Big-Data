@@ -1,0 +1,181 @@
+Title: Guruceta Trophy
+In Spanish football, the Guruceta trophy is awarded by Spanish sports newspaper MARCA to the best referee for each season. It is named in honour of the famous Spanish referee, Emilio Guruceta.
+
+==Rules==
+After every match the MARCA journalist covering the match will evaluate the referees performance with a score out of 3 - 3 being the best and 0 the worst. At the end of the season a coefficient will be calculated between the number of matches refereed and the number of points awarded. The referee with the highest coefficient wins the trophy.
+
+==Winners==
+===La Liga===
+
+
+
+{| class="wikitable"
+|-
+!Season
+!Referee(s)
+|-
+|1986–87
+|Jiménez Moreno and Soriano Aladrén
+|-
+|1987–88
+|Martín Navarrete
+|-
+|1988–89
+|Ramos Marcos
+|-
+|1989–90
+|Ramos Marcos
+|-
+|1990–91
+|Andújar Oliver
+|-
+|1991–92
+|Díaz Vega
+|-
+|1992–93
+|Andújar Oliver
+|-
+|1993–94
+|López Nieto
+|-
+|1994–95
+|López Nieto
+|-
+|1995–96
+|López Nieto
+|-
+|1996–97
+|López Nieto
+|-
+|1997–98
+|Díaz Vega
+|-
+|1998–99
+|Prados García
+|-
+|1999–2000
+|López Nieto
+|-
+|2000–01
+|García Aranda
+|-
+|2001–02
+|Iturralde González and Mejuto González
+|-
+|2002–03
+|Mejuto González
+|-
+|2003–04
+|Mejuto González
+|-
+|2004–05
+|Losantos Omar
+|-
+|2005–06
+|Esquinas Torres
+|-
+|2006–07
+|Undiano Mallenco
+|-
+|2007–08
+|Megía Dávila
+|-
+|2008–09
+|Megía Dávila
+|-
+|2009–10
+|Undiano Mallenco
+|-
+|2010–11
+|Mateu Lahoz
+|-
+|2011–12
+|Delgado Ferreiro
+|-
+|2012–13
+|Velasco Carballo
+|-
+|2013–14
+|Mateu Lahoz
+|-
+|2014–15
+|Hernández Hernández
+|-
+|2015–16
+|Velasco Carballo
+|-
+|2016–17
+|Juan Martínez Munuera
+|-
+|2017–18
+|Del Cerro Grande
+|-
+|2018–19
+|Del Cerro Grande
+|-
+|2019-20
+|Valentín Pizarro Gómez
+|-
+|2020-21
+|Javier Alberola Rojas
+|}
+
+=== Segunda División ===
+{| class="wikitable"
+|-
+!Season
+!Referee
+|-
+!1993–94
+|Antoñana Moraza
+|-
+!1994–95
+|Puentes Leira
+|-
+!1995–96
+|Medina Cantalejo
+|-
+!1996–97
+|Román González
+|-
+!1997–98
+|Román González
+|-
+!1998–99
+|Muñiz Fernández
+|-
+!1999–2000
+|Amilburu Santamaría
+|-
+!2000–01
+|Román González
+|-
+!2001–02
+|Román González
+|-
+!2002–03
+|Delgado Ferreiro
+|-
+!2003–04
+|Fernández Hinijosa
+|-
+!2004–05
+|Fernández Hinijosa
+|-
+!2005–06
+|González González
+|-
+!2006–07
+|Cerro Grande
+|- 
+!2007–08
+|Perez Lima
+|}
+
+==External links==
+*MARCA website
+
+
+Category:La Liga trophies and awards
+Category:Segunda División trophies and awards
+Category:Spanish football trophies and awards

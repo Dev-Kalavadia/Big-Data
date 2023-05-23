@@ -1,0 +1,79 @@
+Title: Folded unipole antenna
+
+The folded unipole antenna is a type of monopole mast radiator antenna used as a transmitting antenna mainly in the medium wave band for AM radio broadcasting stations.  It consists of a vertical metal rod or mast mounted over and connected at its base to a grounding system consisting of buried wires. The mast is surrounded by a "skirt" of vertical wires electrically attached at or near the top of the mast. The skirt wires are connected by a metal ring near the mast base, and the feedline feeding power from the transmitter is connected between the ring and the ground.
+
+It has seen much use for refurbishing medium wave AM broadcasting station towers in the United States and other countries. When an AM radio station shares a tower with other antennas such as FM broadcasting antennas, the folded unipole is often a good choice. Since the base of the tower connects to the ground system, unlike in an ordinary mast radiator tower in which the base is at high voltage, the transmission lines to any antennas mounted on the tower, as well as aircraft lighting power lines, can be run up the side of the tower without requiring isolators.
+
+thumb|right|350px| Modern folded unipole antenna with six skirt wires surrounding a round solid metal mast. The skirt wires are held away from the mast by stand-off posts with insulated ends.
+
+==Invention==
+The folded unipole antenna was first devised for broadcast use by John H. Mullaney, an American radio broadcast pioneer, and consulting engineer.  It was designed to solve some difficult problems with existing medium wave (MW), frequency modulation (FM), and amplitude modulation (AM) broadcast antenna installations.
+
+==Typical installation==
+
+thumb|350px|Folded unipole with only three skirt wires mounted off the corners of a standard triangular frame mast. (The close-in wire on the left side of the image is an incidental guy wire in the foreground.)
+Since folded unipoles are most often used for refurbishing old broadcast antennas, the first subsection below describes a typical monopole antenna used as a starting point. The subsection that follows next describes how surrounding skirt wires are added to convert an ordinary broadcast tower into a folded unipole.
+
+The picture at the right shows a small folded unipole antenna constructed from an existing triangular monopole tower; it has only three vertical wires comprising its "skirt".
+
+===Conventional monopole antennas===
+
+A typical monopole transmitting antenna for an AM radio station is a series-fed mast radiator; a vertical steel lattice mast which is energized and radiates radio waves.  One side of the feedline which feeds power from the transmitter to the antenna is connected to the mast, the other side to a ground (electricity) system consisting of buried wires radiating from a terminal next to the base of the mast.  The mast is supported on a thick ceramic insulator which isolates it electrically from the ground.  US FCC regulations require the ground system to have 120 buried copper or phosphor bronze radial wires at least one-quarter wavelength long; there is usually a ground-screen in the immediate vicinity of the tower. To minimize corrosion, all the ground system components are bonded together, usually by using brazing or coin silver solder.
+
+The mast has diagonal guy cables attached to it, anchored to concrete anchors in the ground, to support it.  The guy lines have strain insulators in them to isolate them electrically from the mast, to prevent the high voltage from reaching the ground.  To prevent the conductive guy lines from disturbing the radiation pattern of the antenna, additional strain insulators are sometimes inserted in the lines to divide them into a series of short, electrically separate segments, to ensure all segments are too short to resonate at the operating frequency.
+
+In the U.S., the Federal Communications Commission (FCC) requires that the transmitter power measurements for a single series-fed tower calculated at this feed point as the current squared multiplied by the resistive part of the feed-point impedance.
+
+::\ P = I^2\ R\ 
+
+Electrically short monopole antennas have low resistance and high capacitive (negative) reactance. Depending on desired recipients and the surrounding terrain, and particularly depending on locations of spacious expanses of open water, a longer antenna may tend to send signals out in directions that are increasingly more advantageous, up to the point that the antenna's electrical height exceeds about  wavelengths tall.
+
+Reactance is zero only for towers slightly shorter than  wavelength, but the reactance will in any case rise or fall depending on humidity, dust, salty spume, or ice collecting on the tower or its feedline.
+Regardless of its height, the antenna feed system has an impedance matching system housed in a small shed at the tower's base (called a "tuning hut" or "coupling hut" or "helix hut"). The matching network is adjusted to join the antenna's impedance to the characteristic impedance of the feedline joining it to the transmitter. If the tower is too short (or too tall) for the frequency, the antenna's capacitive (or inductive) reactance will be counteracted the opposite reactance by the matching network, as well as raising or lowering the feedpoint resistance of the antenna to match the feedline's characteristic impedance. The combined limitations of the matching network, ground wires, and tower can cause the system to have a narrow bandwidth; in extreme cases the effects of narrow bandwidth can be severe enough to detract from the audio fidelity of the radio broadcast.
+
+Electrically short antennas have low radiation resistance, which makes normal loss in other parts of the system relatively more costly in terms of lost broadcast power. The losses in the ground system, matching network(s), feedline wires, and structure of the tower all are in series with the antenna feed current, and each wastes a share of the broadcast power heating the soil or metal in the tower.
+
+===Folded unipole antennas===
+
+Heuristically, the unipole's outer skirt wires can be thought of as attached segments of several tall, narrow, loop antennas, with the central mast completing the final side of each loop. Equivalently, each skirt wire makes a parallel wire stub, with the mast being the other parallel "wire"; the closed end at the top of the stub, where the skirt connects to the mast, makes a transmission line stub inductor. Either way of looking at it, the effect of the skirt wires is to add inductive reactance to the antenna mast, which helps neutralize a short mast's capacitive reactance.
+
+
+For the normal case of a short monopole, the inductive reactance introduced by the skirt wires increases as the frequency decreases and the bare mast's reactance becomes more capacitive. (With increasing frequency both the inductive reactance and capacitive reactance drop.) When carefully configured, the two contrary reactances can be made to cancel each other, at least in part, and to rise and fall by approximately the same amount. Approximate balance between the opposing reactances adds up to reduce the total reactance of the whole antenna at the decreased (and increased) frequencies, thus widening the antenna's low-reactance bandwidth.
+
+If the greater part of the unbalanced radio current can be made to flow in the skirt wires, instead of in the mast, the outer ring of skirt wires will also effectively add electrical width to the mast, which also will improve bandwidth by turning the unipole into a "cage antenna".
+
+thumb|300px|Modern folded unipole feed point, where the radio frequency excitation current will be measured. The connection ring that attaches to the skirt wires is a simple loop of fairly thin wire cutting across the top edge of the image. The stout vertical bars tighten the skirt: Near the top of the picture, the bars' connections to the skirt wires are insulated; their other ends fasten to the support truss anchored on the ground, near the bottom of the image.
+Usually folded-unipoles are constructed by modifying an existing monopole antenna, and not all possible unipole improvements can be achieved on every monopole.
+* First one connects the base of the tower directly to the ground system by shorting out the base insulator.
+* Then a series of vertical wires – typically four to eight – are installed from an attachment at or near the top of the tower; these wires surround the tower and are called a "skirt".
+* The skirt wires are kept a constant distance from the tower by insulated "stand-off" structural members, and joined to an electrically isolated conductor ring that surrounds the base of the tower, also mounted on insulated stand-offs.
+* The new antenna feed connects between the common point of the ground system and the ring at the bottom of the skirt wires.
+
+The resulting skirt enveloping the mast connects only at the tower top, or some midpoint near the top, and to the isolated conducting ring that surrounds the tower base; the skirt wires remain insulated from the mast at every other point along its entire length.
+
+==Performance comparisons==
+When a well-made folded-unipole replaces a decrepit antenna, or one with a poor original design, there will of course be an improvement in performance; the sudden improvement may be cause for mistakenly inferred superiority in the design.
+
+Experiments show that folded-unipole performance is the same as other monopole designs: Direct comparisons between folded unipoles and more conventional vertical antennas of the same height, all well-made, show essentially no difference in radiation pattern in actual measurements by Rackley, Cox, Moser, & King (1996) and by Cox & Moser (2002).
+
+The expected wider bandwidth was also not found during antenna range tests of several folded unipoles.
+
+===Replaced shunt-fed antenna ===
+Most commonly, folded-unipole designs were used to replace a shunt-fed antenna – a different broadcast antenna design that also has a grounded base. A “shunt-fed” (or “slant-wire”) antenna comprises a grounded tower with the top of a sloping single-wire feed-line attached at a point on the mast that results in an approximate match to the impedance desired at the other end of the sloping feed-wire.
+
+When the well-made folded-unipole antenna replaced the aged-out slant-fed antenna, a marked improvement of performance was often noticed. This improvement gave rise to the supposition that folded-unipole antennas had power gains, or other wonderful characteristics, not supported by radio engineering calculations.
+
+===Ground system maintenance===
+Sites of ground-mounted monopole antennas require landscape maintenance: Keeping weeds and grass covering the antenna's ground plane wires as short as possible, since green plants in between the antenna tower and the antenna ground system will dissipate power of the radio waves passing through them, reducing antenna efficiency. Folded-unipole antenna sites were alleged to be less affected by weeds and long grass on top of the ground wires that cause attenuation in other monopole antenna designs, but measurements show no such advantage.
+
+==Self-resonant unipole patents==
+A possible improvement over the basic folded-unipole antenna is the “self resonant” unipole antenna, described in .
+
+Another possible improvement to the folded unipole is described in , which concerns a more carefully designed form of ground plane for use with all monopole types (only incidentally including folded unipoles).
+
+==See also==
+* Driven element
+
+==Footnotes==
+
+

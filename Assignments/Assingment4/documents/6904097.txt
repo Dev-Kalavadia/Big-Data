@@ -1,0 +1,47 @@
+Title: Murasame-class destroyer (1958)
+
+{|
+
+
+
+|}
+The Murasame-class destroyer was a destroyer class built for the Japan Maritime Self-Defense Force (JMSDF) in the late 1950s as a successor to the  destroyers. Like its predecessor, its main task was anti-submarine warfare, but its improved weaponry also enabled it to perform better in the anti-air role, so this class was classified as "DDA" (anti-air destroyer or all purpose destroyer) unofficially.
+
+Like its predecessor, the , this class adopted a "long forecastle" design with inclined afterdeck called "Holland Slope", named after the scenic sloping street in Nagasaki City. The propulsion system was almost the same as the one of the .
+
+The sensor suite and weapon system was almost the same as the one of the latter batch of the Ayanami class, but three 5-inch/54 caliber Mark 16 guns (with Mark 39 single mounts) were added to extend effective range against air and surface threats in addition to four 3-inch/50 caliber Mark 22 guns (with Mark 33 dual mounts). The 5-inch guns were controlled by one Mark 57 GFCS, and the 3-inch guns were done by one Mark 63 controller. The main air-search radar was an OPS-1, the Japanese version of the American AN/SPS-6.
+
+==Ships==
+{| class="wikitable" width=50%
+|-
+! Hull No.
+! Name
+! Launched
+! Struck
+|-
+| DD-107
+| 
+| 31 July 1958
+| 23 March 1988
+|-
+| DD-108
+| 
+| 31 July 1958
+| 1987
+|-
+| DD-109
+| 
+| 18 June 1959
+| May 1989
+|}
+
+== References ==
+
+ 
+
+
+
+
+Category:Destroyer classes
+ 
+

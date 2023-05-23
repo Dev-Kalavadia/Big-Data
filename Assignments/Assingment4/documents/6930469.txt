@@ -1,0 +1,75 @@
+Title: Public holidays in Cameroon
+:This is a list of holidays in Cameroon
+
+==Fixed==
+{| class="wikitable"
+! Date
+! English Name
+!French Name 
+!Notes
+|----
+|January 1
+|New Year's Day
+|Nouvel An
+|
+|----
+|February 11
+|Youth Day
+|Journée de la jeunesse
+|Commemorates the unification in 1961 and honors young people.
+|----
+|May 1
+|Labour Day
+|Fête du Travail
+|
+|----
+|May 20
+|National Day
+|Fête Nationale
+|Cameroon replaced its federal structure on May 20, 1972.
+|----
+|August 15
+|Assumption Day
+|Assomption
+|
+|----
+|December 25
+|Christmas Day
+|Noël
+|
+|----
+|}
+
+==Movable holidays==
+The following holidays are public holidays but the date on which each occurs varies, according to its corresponding calendar, and thus has no set date.
+
+{| class="wikitable"
+! English Name
+! Date
+! Description
+|----
+|Good Friday
+| Friday before Easter
+| Crucifixion of Jesus
+|----
+|Ascension Day
+|39 days after Easter
+|Ascension of Jesus into Heaven
+|----
+|Eid al-Fitr
+|1 Shawwal
+|Celebrates end of Ramadan
+|----
+|Eid al-Adha
+|10 Dhu al-Hijjah
+|Feast of Sacrifice
+|----
+|Mawlid
+|12 Rabi' al-awwal
+|The Prophet's Birthday
+|----
+|}
+
+==See also==
+*Nigeria
+

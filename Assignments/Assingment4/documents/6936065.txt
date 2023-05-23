@@ -1,0 +1,56 @@
+Title: Octopodiformes
+
+
+Octopodiformes is a superorder of the subclass Coleoidea, comprising the octopuses and the vampire squid. All living members of Octopodiformes have eight arms, either lacking the two tentacles of squid (as is the case in octopuses) or modifying the tentacles into thin filaments (as in vampire squid). Octopodiformes is often considered the crown group of octopuses and vampire squids, including all descendants of their common ancestor. Some authors use the term Vampyropoda for the same general category, though others use "Vampyropoda" to refer to the total group (all cephalopods closer to octopods than to true squid). Another term is Octobranchia, referring to cephalopods without prominent tentacles.
+
+Pohlsepia, originally described as earliest octopod is considered as dubious for this group in later study. The oldest unambiguous vampyropod is Syllipsimopodi, a squid-like cephalopod from the Mississippian-age Bear Gulch Lagerstätte of Montana. Syllipsimopodi has a combination of squid-like features (like 10 arms) and octopod-like features (like biserial suckers and a simplified internal shell).
+
+==Classification==
+*Class Cephalopoda
+**Subclass Nautiloidea: nautilus
+**Subclass †Ammonoidea: ammonites
+**Subclass Coleoidea
+***Superorder Decapodiformes: squid, cuttlefish
+***Clade Vampyropoda
+****Genus †Syllipsimopodi
+****Genus †Proteroctopus
+****Superorder Octopodiformes / Octobranchia
+*****Family †Trachyteuthididae (incertae sedis)
+*****Order Vampyromorphida: vampire squid
+*****Clade: Muensterelloidea
+******Family: †Muensterellidae
+******Family: †Patelloctopodidae
+******Order Octopoda
+******* Genus †Keuppia (incertae sedis)
+******* Genus †Palaeoctopus (incertae sedis)
+******* Genus †Paleocirroteuthis (incertae sedis)
+******* Genus †Proteroctopus (incertae sedis)
+******* Genus †Styletoctopus (incertae sedis)
+*******Suborder Cirrina: finned deep-sea octopus
+********Family Opisthoteuthidae: umbrella octopus
+********Family Cirroteuthidae
+********Family Stauroteuthidae
+*******Suborder Incirrina
+********Family Amphitretidae: telescope octopus
+********Family Bolitaenidae: gelatinous octopus
+********Family Octopodidae: benthic octopus
+********Family Vitreledonellidae: glass octopus
+********Superfamily Argonautoidea
+*********Family Alloposidae: seven-arm octopus
+*********Family Argonautidae: argonauts
+*********Family Ocythoidae: tuberculate pelagic octopus
+*********Family Tremoctopodidae: blanket octopus
+
+== References ==
+
+
+==External links==
+
+* Tree of Life web project: Octopodiformes
+
+
+
+ 
+Category:Protostome superorders
+Category:Extant Pennsylvanian first appearances
+

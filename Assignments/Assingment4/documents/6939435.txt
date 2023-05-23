@@ -1,0 +1,95 @@
+Title: List of municipalities of the Province of Ragusa
+
+The following is a list of the 12 municipalities (comuni) of the Province of Ragusa, Sicily, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Area (km2)
+!Population (2005)
+!Map
+|-
+|088001
+|Acate
+|101.4
+| align="right" |8,328
+|frameless|50x50px
+|-
+|088002
+|Chiaramonte Gulfi
+|126
+| align="right" |8,090
+|frameless|50x50px
+|-
+|088003
+|Comiso
+|65.4
+| align="right" |29,402
+|frameless|50x50px
+|-
+|088004
+|Giarratana
+|43.47
+| align="right" |3,269
+|frameless|50x50px
+|-
+|088005
+|Ispica
+|100
+| align="right" |14,758
+|frameless|50x50px
+|-
+|088006
+|Modica
+|290.77
+| align="right" |53,380
+|frameless|50x50px
+|-
+|088007
+|Monterosso Almo
+|56.55
+| align="right" |3,368
+|frameless|50x50px
+|-
+|088008
+|Pozzallo
+|15.38
+| align="right" |18,377
+|frameless|50x50px
+|-
+|088009
+|Ragusa
+|442.6
+| align="right" |71,765
+|frameless|50x50px
+|-
+|088010
+|Santa Croce Camerina
+|41.09
+| align="right" |9,331
+|frameless|50x50px
+|-
+|088011
+|Scicli
+|138.72
+| align="right" |25,832
+|frameless|50x50px
+|-
+|088012
+|Vittoria
+|181.31
+| align="right" |60,841
+|frameless|50x50px
+|-
+|
+|Total
+|1,623.89
+| align="right" |306,741
+|frameless|50x50px
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

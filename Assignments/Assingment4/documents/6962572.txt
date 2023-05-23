@@ -1,0 +1,97 @@
+Title: South Foreland Lighthouses
+
+
+
+
+South Foreland Lighthouses are a pair of Victorian lighthouses on the South Foreland in St. Margaret's Bay, Dover, Kent, England, used to warn ships approaching the nearby Goodwin Sands. There has been a pair of lighthouses at South Foreland since at least the 1630s. Even after the decommissioning of the Lower Lighthouse the pair continued to be used as leading marks, with Admiralty charts into the 20th century indicating that the 'Lighthouses in line lead south of the Goodwin Sands'.
+
+South Foreland Upper Lighthouse was built in 1843. It went out of service in 1988 and is currently owned by the National Trust. It was the first lighthouse to use an electric light, and was the site chosen by Guglielmo Marconi for his pioneering experiments in wireless radio transmissions.
+
+South Foreland Lower Lighthouse was built at the same time further down the cliff, to the east, where it still stands; decommissioned in 1904, it is now in private ownership.
+
+==History==
+The dangers posed to shipping by the Goodwin Sands have long been recognised and the earliest record of a warning light being used on the Foreland relates to a Brother Nicholas de Legh, who hung a white light from cliffs near St Margaret-at-Cliffe a little to the north.
+
+===17th and 18th century===
+thumb|left|South Foreland as seen from the sea.
+The first pair of lighthouses at South Foreland was built in 1635 by Sir John Meldrum. (He also built the first North Foreland Lighthouse, 15 miles to the north, the following year.) The light at this time was provided by an open fire burning in a brazier on the roof. Responsibility for the lighthouses (and rights to the associated light dues) were passed to a Robert Osboldston in 1643, and then in 1715 to Greenwich Hospital.
+
+In 1730 one William Knott began a period of service as lighthouse keeper at the Lower Lighthouse. Over the next 175 years five generations of the Knott family would serve as lighthouse keepers at South Foreland, making them 'probably the longest dynasty of keepers anywhere in the world'.
+
+In 1793 the Upper Lighthouse was rebuilt with an oil lamp and parabolic reflectors in place of the brazier; the Lower Lighthouse was similarly rebuilt two years later (as a two-storey building, whereas the Upper Lighthouse was three storeys). John Yenn was the architect.
+
+===19th century===
+thumb|left|South Foreland Lower Lighthouse in 2012
+In 1832 the Corporation of Trinity House purchased the lease for the South Foreland lights from Greenwich Hospital. Ten years later the Upper Lighthouse was heightened and refurbished with a multi-wick oil lamp and a first-order fixed dioptric optic, manufactured by Henry-Lepaute of Paris. Then, the Lower Lighthouse was entirely rebuilt, in 1846, and provided with a fixed array of fifteen Argand lamps and reflectors. The architect and engineer for both these projects was James Walker. At the same time new accommodation for the keepers was built alongside each tower.
+
+====Electric light====
+thumb|right|upright|1875 illustration of the fixed optic newly installed in the two lighthouses.
+In the 1850s Michael Faraday, scientific adviser to Trinity House, was exploring the feasibility of electric light being used in lighthouses; several different solutions were proposed. In 1857 Frederick Hale Holmes demonstrated his magneto-electric apparatus to Faraday, proposing its use in conjunction with carbon arc lamps. The initial trial was conducted at South Foreland Upper Light,  which thus became the first lighthouse to use electric light. The South Foreland trial began in December 1858 and continued until early 1860; afterwards Holmes's equipment was installed on a more permanent basis in Dungeness Lighthouse, in 1862. (Meanwhile, at South Foreland that year, experimental use was being made of a Drummond light at the high lighthouse; however, 'the results were not satisfactory' with regard to its potential for lighthouse illumination.)
+
+thumb|left|Map showing the power station positioned between the two lighthouses
+In 1871 Souter Lighthouse became the first to be designed and built for electric operation, and the following year South Foreland received its own permanent electric installation. A power station was built, mid-way between the two lighthouses, containing four magneto generators driven by a pair of steam engines with coke-fuelled boilers. The building also included additional accommodation for the attendants. At the same time, the two lighthouses were each provided with a medium-sized (third-order) catadioptric fixed optic designed by  James Chance.
+
+====Experiments undertaken by John Tyndall====
+In 1865 John Tyndall had succeeded Faraday as scientific adviser to Trinity House, remaining in post until 1883.
+
+In 1873 Professor Tyndall was engaged by Trinity House to conduct a series of experiments on the relative effectiveness of different types of fog signal. South Foreland, with its recently installed steam power plant, was chosen as the location and a variety of acoustic instruments were set up at the top and bottom of the cliff, to be monitored from a Trinity House vessel offshore. At first three systems were tested: a steam whistle, an air whistle and a pair of air-powered brass trumpets with reeds (designed by Frederick Hale Holmes). Later, other designs of whistle were trialled, as well as a steam 'syren' (provided by Joseph Henry) and three types of gun (operated by gunners from Dover Castle). Tyndall's recommendation was that the siren should provide the standard fog signal at major landfall stations, with reeds judged suitable  at some sites; by 1884 sirens were in use at 22 coastal stations and on 16 lightships. Tyndall presented wider conclusions on the acoustic effects of different atmospheric conditions in a paper delivered to the Royal Society the following year.
+
+In 1876 Tyndall was again engaged to make a comparative study at South Foreland, this time of two different types of electric generator: the magneto and the dynamo. (In 1869 Holmes had speculatively constructed a pair of dynamos and suggested them for the permanent South Foreland installation, but at the time they were not considered sufficiently tried and tested.) The trial took place over the winter of 1876–77, and the dynamo was demonstrated to be both mechanically and electrically superior. A set of Siemens dynamos was shortly afterwards installed at Lizard Lighthouse when it was converted to electrical operation in 1878.
+
+Later, in 1884, Professor Tyndall again conducted experiments for Trinity House at South Foreland, this time on the relative merits of gas lamps, oil lamps and electric lamps. For this purpose three temporary lighthouses were built, at the top of the cliff alongside the Upper Lighthouse, one powered by oil, one by gas and the third by electricity. Each provided space for different configurations of lamps or burners and optics to be tried. More than 6,000 observations were taken, from stations both on and offshore, and it was concluded that electric light was the most powerful under all conditions.
+
+====Marconi====
+In 1898 South Foreland Lighthouse was used by Guglielmo Marconi during his work on radio waves, receiving the first ship-to-shore message from the East Goodwin lightship on Christmas Eve that year. The system was used over the following winter to avert several shipwrecks. In 1899, the first international transmission was made between the lighthouse and Wimereux in France.
+
+===20th century===
+thumb|left|The Lower Lighthouse around the time it was decommissioned (1904).
+thumb|right|The optic: installed in 1904 and modified in 1922 (previously used at St Catherine's Lighthouse, 1888-1904).
+In 1904 the Lower Lighthouse was taken out of commission; the tower was sold and the attached cottage demolished soon afterwards. At the same time a 16-sided second-order rotating optic was installed in the High Lighthouse (it had previously been in use in St. Catherine's Lighthouse). It displayed a single flash every 2.5 seconds with a visible range of .
+
+The lighthouse was connected to mains electricity in 1922, whereupon South Foreland Lighthouse became the first to use an incandescent lightbulb as its light source. At around the same timeAdmiralty Chart 2675c, corrected to Feb. 1925. the 16-sided optic was adapted to give the lighthouse a new group-flashing characteristic (three flashes every twenty seconds). The Holmes generators, which had provided power for fifty years, were then disconnected, and the Holmes arc lamp was given to the Science Museum.Catalogue entry (1923-169) and photo. The subsequent reduction of required maintenance, and provision of automatic electric equipment (including an electric winder for the clockwork mechanism to turn the lens), led to a reduction in staff numbers from one engineer and four keepers to just a single keeper. In the event of a bulb failure, an automatic lamp changer was activated (and an alarm notified the keeper); if the reserve bulb then failed, the lamp changer caused an acetylene burner to be brought into position and lit.
+
+thumb|right|The lighthouse from the back, showing the keepers' dwellings. 
+In 1969 the light became fully automated and the keepers' cottages (being no longer required) were sold.
+
+In the mid-1980s it was decided that modern navigational aids had rendered the South Foreland light obsolete. It was decommissioned on 30 September 1988.
+
+==Present day==
+thumb|left|Approaching the lighthouse from the pathway from Dover.
+The lighthouse has been in the ownership of the National Trust since 1989. As such it is open to the public. There is no vehicle access to the site; visitors are advised to walk either from Dover or from St Margaret's village, or else to use the nearby cycle route.
+
+The lighthouse had remained unlit since 1988, but in June 2012 the light was reactivated to mark the Diamond Jubilee of Elizabeth II. (The clockwork mechanism which turns the optic was restored to working order in 2004 to mark the centenary of its installation). The light was again reactivated on 2 June 2022 to mark the Queen's Platinum Jubilee.
+
+== In popular culture ==
+*The South Foreland Lighthouse is one of the landmarks mentioned in the British sea shanty "Spanish Ladies".
+*The ChuckleVision episode "Finders Keepers" was filmed here.
+*The Doomwatch episode "The Red Sky" was filmed here.
+*The Lower Lighthouse was featured in the 1967 film The Shuttered Room, which starred Gig Young, Carol Lynley, Flora Robson and Oliver Reed.
+
+==See also==
+
+* North Foreland Lighthouse
+* List of lighthouses in England
+
+== References ==
+
+
+== External links ==
+
+* South Foreland Lighthouse information at the National Trust
+* Video: South Foreland Lighthouse relit for Queen's Diamond Jubilee
+* Video: South Foreland Lighthouse relit for Queen's Platinum Jubilee
+* Video: Lighthouses of England - South Foreland, Kent, early 1990's (filmed by P. Halil)
+
+
+
+
+Category:Lighthouses completed in 1840
+Category:Grade II listed buildings in Kent
+Category:Grade II listed lighthouses
+Category:Guglielmo Marconi
+Category:Lighthouse museums in England
+Category:Lighthouses in Kent
+Category:Lighthouses of the English Channel
+Category:Museums in Dover District
+Category:National Trust properties in Kent
+Category:Port of Dover, Kent

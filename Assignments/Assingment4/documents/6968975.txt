@@ -1,0 +1,36 @@
+Title: Kirkwood approximationThe Kirkwood superposition approximation was introduced in 1935 by John G. Kirkwood as a means of representing a discrete probability distribution.  The Kirkwood approximation for a discrete probability density function P(x_{1},x_{2},\ldots ,x_{n}) is given by
+
+:
+P^{\prime }(x_1,x_2,\ldots ,x_n)
+= \prod_{i = 1}^{n -1}\left[\prod_{\mathcal{T}_i\subseteq \mathcal{V}}p(\mathcal{T}_i)\right]^{(-1)^{n-1-i}}
+=
+\frac{\prod_{\mathcal{T}
+_{n-1}\subseteq \mathcal{V}}p(\mathcal{T}_{n-1})}{\frac{\prod_{\mathcal{T}
+_{n-2}\subseteq \mathcal{V}}p(\mathcal{T}_{n-2})}{\frac{\vdots }{\prod_{\mathcal{
+T}_1\subseteq \mathcal{V}}p(\mathcal{T}_1)}}}  
+
+
+where
+
+: \prod_{\mathcal{T}_i\subseteq \mathcal{V}}p(\mathcal{T}_i)
+
+is the product of probabilities over all subsets of variables of size i in variable set \scriptstyle\mathcal{V}. This kind of formula has been considered by Watanabe (1960) and, according to Watanabe, also by Robert Fano. For the three-variable case, it reduces to simply
+
+:
+P^\prime(x_1,x_2,x_3)=\frac{p(x_1,x_2)p(x_2,x_3)p(x_1,x_3)}{p(x_1)p(x_{2})p(x_3)}
+
+ 
+The Kirkwood approximation does not generally produce a valid probability distribution (the normalization condition is violated). Watanabe claims that for this reason informational expressions of this type are not meaningful, and indeed there has been very little written about the properties of this measure. The Kirkwood approximation is the probabilistic counterpart of the interaction information.
+
+Judea Pearl (1988 §3.2.4) indicates that an expression of this type can be exact in the case of a decomposable model, that is, a probability distribution that admits a graph structure whose cliques form a tree. In such cases, the numerator contains the product of the intra-clique joint distributions and the denominator contains the product of the clique intersection distributions.
+
+== References ==
+
+
+* Jakulin, A. & Bratko, I. (2004), Quantifying and visualizing attribute interactions: An approach based on entropy, Journal of Machine Learning Research, (submitted) pp. 38–43.
+* 
+* 
+* 
+
+Category:Discrete distributions
+Category:Statistical approximations

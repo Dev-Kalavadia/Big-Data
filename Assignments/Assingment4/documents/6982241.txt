@@ -1,0 +1,64 @@
+Title: Olesno County
+__NOTOC__
+Olesno County () is a unit of territorial administration and local government (powiat) in Opole Voivodeship, south-western Poland. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and largest town is Olesno, which lies  north-east of the regional capital Opole. The county contains three other towns: Praszka,  north of Olesno, Dobrodzień,  south of Olesno, and Gorzów Śląski,  north of Olesno.
+
+The county covers an area of . As of 2019 its total population is 64,411. The most populated towns are Olesno with 9,374 inhabitants and Praszka with 7,655 inhabitants.
+
+==Neighbouring counties==
+Olesno County is bordered by Wieruszów County and Wieluń County to the north, Kłobuck County to the east, Lubliniec County to the south-east, Strzelce County to the south, Opole County to the south-west, and Kluczbork County to the west.
+
+==Administrative division==
+The county is subdivided into seven gminas (four urban-rural and three rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km²)
+| style="text-align:center;"|Population(2019)
+| style="text-align:center;"|Seat
+|-
+|Gmina Olesno
+|urban-rural
+| style="text-align:right;"|240.8
+| style="text-align:right;"|17,726
+|Olesno
+|-
+|Gmina Praszka
+|urban-rural
+| style="text-align:right;"|102.8
+| style="text-align:right;"|13,537
+|Praszka
+|-
+|Gmina Dobrodzień
+|urban-rural
+| style="text-align:right;"|162.8
+| style="text-align:right;"|9,877
+|Dobrodzień
+|-
+|Gmina Rudniki
+|rural
+| style="text-align:right;"|100.5
+| style="text-align:right;"|8,180
+|Rudniki
+|-
+|Gmina Gorzów Śląski
+|urban-rural
+| style="text-align:right;"|154.1
+| style="text-align:right;"|7,131
+|Gorzów Śląski
+|-
+|Gmina Radłów
+|rural
+| style="text-align:right;"|86.0
+| style="text-align:right;"|4,308
+|Radłów
+|-
+|Gmina Zębowice
+|rural
+| style="text-align:right;"|95.8
+| style="text-align:right;"|3,652
+|Zębowice
+|-
+|}
+

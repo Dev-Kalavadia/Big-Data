@@ -1,0 +1,30 @@
+Title: Liocichla
+
+
+The liocichlas are a group of birds in the genus of the same name, Liocichla, from the family Leiothrichidae. They are found in Asia from India to China. They belong to a clade also containing at least the Leiothrix, the barwings, the minlas and the sibias. Among these, they are an early offshoot, or basal lineage.
+
+==Taxonomy==
+Speciation in the group is thought to have begun with the ancestral species originating somewhere in southern China, making L. steerii the basal species. The lineage consisting of L. ripponi and L. phoenicea are thought to have had a split in the Pleistocene (0.07–1.88 Ma) with a similar split of the other lineage leading to L. bugunorum and L. omeiensis separated by the Hengduan mountains.
+
+
+===Species===
+The genus contains five species:
+{| class="wikitable "
+|-
+! Image !! Scientific name !! Common Name !! Distribution
+|-
+| ||Liocichla phoenicea || Red-faced liocichla|| Bangladesh, Bhutan, Myanmar, Northeast India, Nepal and western Yunnan.
+|-
+|120px ||Liocichla ripponi || Scarlet-faced liocichla|| Myanmar, Thailand, Vietnam, and southern China.
+|-
+| ||Liocichla omeiensis|| Emei Shan liocichla|| Sichuan, China.
+|-
+| ||Liocichla bugunorum || Bugun liocichla|| Arunachal Pradesh, India
+|-
+|120px ||Liocichla steerii || Steere's liocichla||Taiwan. 
+|-
+|}
+
+==See also==
+* Bird species new to science described in the 2000s
+

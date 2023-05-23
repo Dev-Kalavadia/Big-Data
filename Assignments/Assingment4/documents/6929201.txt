@@ -1,0 +1,209 @@
+Title: Imperial Royal Austrian State Railways
+
+The Imperial-Royal State Railways () abbr. kkStB) or Imperial-Royal Austrian State Railways (k.k. österreichische Staatsbahnen,The name incorporating "Austrian" appears, for example, in the 1907 official state handbook (Staatshandbuch) and on the title page of the Imperial-Royal Railway Ministry publication: Die neuen österr(eichischen) Alpenbahnen. Maass’ Söhne, Vienna, 1908.) was the state railway organisation in the Cisleithanian (Austrian) part of the Austro-Hungarian Monarchy.
+
+==History==
+
+The introduction of railway traffic in the Austrian Empire had been pushed by pioneers like physicist Franz Josef Gerstner (1756–1832), who advocated a railway connection from the Vltava basin across the Bohemian Massif to the Danube river. After in 1810 a first  long horse-drawn railway line was built at the Eisenerz mine in Styria for the transport of iron stones, in 1832 a wagonway between Austrian Linz and České Budějovice (Budweis) in Bohemia opened. It was  long and was the second interurban railway in continental Europe (after the French Saint-Étienne to Andrézieux Railway line opened in 1827). The southern continuation from Linz to Gmunden was finished in 1836.
+
+The first section of a new steam locomotive railway from the Austrian capital Vienna to Kraków in the Kingdom of Galicia and Lodomeria operated by the Emperor Ferdinand Northern Railway company opened in 1837. Designed by Franz Xaver Riepl, it was financed by the banker Salomon Mayer von Rothschild. The line then was the second solely steam-powered railway on the continent, after the inauguration of the Belgian Brussels–Mechelen railway line in 1835.
+
+===1841 railway programme===
+While the Northern Railway prospered, private investors held back on financing further railroad constructions and the expansion of the Austrian network came to a standstill. Nevertheless, after initial hesitation, the Austrian government took a keen interest in railways, and launched a public investment programme in 1841.
+
+The Northern Railway in Lower Austria was completed up to the Bohemian border at Bernhardsthal, a branch-off from Olmütz (Olomouc) and Brünn (Brno) to Prague was opened in 1845/49. In 1851, construction works reached the northern imperial border with Saxony at Bodenbach, where the Northern Railway received access to the Royal Saxon State Railways.
+
+Beside the extension of the Northern Railway, plans for the construction of a Southern Railway (Südbahn) from Vienna to the Adriatic seaport at Trieste via Semmering Pass and Graz were finally carried out. Opened in 1857, it was then operated by the private Austrian Southern Railway company. In the Kingdom of Lombardy–Venetia, the first section of the Milan–Venice railway was opened in 1842. Plans for a connection to Trieste became obsolete upon the loss of Lombardy after the Second Italian War of Independence in 1859. First construction works on the projected Western Railway (Westbahn) line to the border with Bavaria via Linz and Salzburg got stuck in the beginning.
+
+By late 1854,  out of  of Austrian railway lines were state owned (almost 70%). After 1854, however, because of financial crisis in the Empire, the railways were sold at prices cut to the bone, many of them to French investors. Concessions for new private companies, like the Imperial Royal Privileged Austrian State Railway Company, were granted.
+
+===Austrian state railways===
+
+After the Austro-Hungarian Compromise of 1867, the Transleithanian (Hungarian) lines of the Dual Monarchy were nationalized as the Hungarian State Railways (MÁV). Already in 1866, the Austrian trade minister Bernhard von Wüllerstorf-Urbair had urged for a greater government commitment. A re-evaluation started in the Long Depression, sparked by the Panic of 1873. The Vienna stock market crash resulted in the bankruptcy of several Austrian railway companies, and the state took them over.
+
+With effect from 1 January 1884, the k.k. Generaldirektion der Staatsbahnen ("Imperial-Royal General Directorate of the State Railways") was founded, situated at the Austrian Ministry of Trade; this was the birth of the Imperial-Royal State Railways. Operations Divisions were established in Vienna, Linz, Innsbruck, Villach, Budweis, Pilsen, Prague, Cracow, Lemberg, Pola, and Spalato. By the end of 1884 the state railway network covered 5,103 km.
+
+On 15 January 1896, Emperor Franz Joseph I, at the suggestion of Minister President Count Kasimir Felix Badeni, approved the establishment of the k.k. Eisenbahnministerium ("Imperial-Royal Rail Ministry"). Further divisions were founded in Triest, Olmütz and Stanislau. Minister Heinrich von Wittek promoted the expansion of the Wiener Stadtbahn network and the Neue Alpenbahnen project providing the Alps with major rail crossings, including the Tauern Railway and the Bohinj Railway, realised upon a 1901 resolution passed by the Imperial Council legislature.
+
+By nationalizing other companies or taking over their traffic, the State Railways obtained a practical monopoly in rail transport. After the acquisition of the Emperor Ferdinand Northern Railway Company in 1906, followed by the Imperial Royal Privileged Austrian State Railway Company and the Austrian Northwestern Railway in 1909, the Southern Railway was the only major company that remained private until the end of Empire. In 1914, of a total of 22,981 km of railway tracks on Austrian territory, 18,859 (82%) were state owned.
+
+===Dissolution===
+After the end of the World War I and the dissolution of Austria-Hungary, the Imperial-Royal Rail Ministry was disestablished on 12 November 1918 by resolution of the Provisional Assembly of German-Austria. The vehicle fleet and infrastructure of former kkStB were divided among state railway companies of the successor states of the Dual Monarchy: 
+*Austria: Deutschösterreichische Staatsbahnen (DÖStB), renamed Österreichische Staatsbahnen (ÖStB) in 1919 and Österreichische Bundesbahnen (BBÖ) in 1923
+*Poland: Polskie Koleje Państwowe (PKP)
+*Czechoslovakia: Československé státní dráhy (ČSD) 
+*Yugoslavia: Jugoslovenske Železnice (JŽ)
+*Italy: Ferrovie dello Stato (FS)
+*Romania: Căile Ferate Române (CFR).
+
+With the promulgation of the Austrian Federal Constitutional Law on 10 November 1920, the supervision of the national railway system passed to the newly established Ministry of Transport. 
+
+==Timeline==
+
+ImageSize  = width:1100 height:1080
+PlotArea   = width:1080 height:1060 left:0 bottom:20
+TimeAxis  = orientation:horizontal # dummy, required
+Period    = from:1825 till:1920 # dummy, required
+Define $s = fontsize:M
+Colors =
+  id:red        value:coral
+  id:blue       value:skyblue
+  id:green      value:limegreen
+  id:yellow     value:yellow
+  id:lightgrey  value:gray(0.9)
+BackgroundColors = bars:lightgrey canvas:lightgrey
+AlignBars=justify
+DateFormat = yyyy
+ScaleMajor = gridcolor:black unit:year increment:5 start:1830
+PlotData=
+  bar:MM        from:1839       till:1852 color:green
+                at:1840         text:"[[Milano-Monza]]"
+                from:1852       till:1858 color:blue
+                from:1858       till:1918 color:red
+  bar:LVF       from:1844       till:1858 color:orange
+                at:1845         text:"[[Lombardisch-Venetianische Ferdinands Eisenbahn-Gesellschaft|LVF]]"
+                from:1851       till:1858 color:blue
+                at:1854         text:"[[Lombardisch-Venetianische Staatsbahn|LVStB]]"
+                from:1858       till:1918 color:red
+  bar:Ti        from:1857       till:1858 color:green
+                from:1858       till:1918 color:red
+                at:1857         text:"[[Tiroler Staatsbahn|Ti]]"
+                at:1890         text:"[[Südbahn-Gesellschaft|Südbahn (SB)]]"
+  bar:SStB      from:1844       till:1858 color:blue
+                from:1858       till:1918 color:red
+                at:1845         text:"[[Südliche Staatsbahn]]"
+  bar:OStB      from:1846       till:1850 color:green
+                from:1850       till:1858 color:orange
+                from:1858       till:1892 color:blue
+                from:1892       till:1918 color:yellow
+                at:1847         text:"[[Krakau-Obersleschische Bahn|Kr.-Ob.]]"
+                at:1851         text:"[[Östliche Staatsbahn|Östl. Staatsbahn]]"
+                at:1859         text:"[[Carl Ludwig-Bahn]]"
+  bar:NStB      from:1845       till:1855 color:blue
+                from:1855       till:1909 color:red
+                from:1909       till:1918 color:yellow
+                at:1846         text:"[[Nördliche Staatsbahn]]"
+  bar:SOStB     from:1845       till:1850 color:orange
+                from:1850       till:1855 color:green
+                from:1855       till:1909 color:red
+                from:1909       till:1918 color:yellow
+                at:1846         text:"[[Ungarische Zentralbahn|Ung.Zentr.]]"
+                at:1851         text:"[[Südöstliche Staatsbahn|SöStB]]"
+                at:1886         text:"[[Staats-Eisenbahn-Gesellschaft]] (StEG)"
+  bar:Raaber    from:1841       till:1855 color:blue
+                from:1855       till:1909 color:red
+                from:1909       till:1918 color:yellow
+                at:1845         text:"[[Österreichische Ostbahn|Wien-Raaber-Bahn]]"
+  bar:BrünnR    from:1856       till:1879 color:green
+                from:1879       till:1909 color:red
+                from:1909       till:1918 color:yellow
+                at:1857         text:"[[Brünn-Rossitzer Eisenbahn]]"
+  bar:KFNB      from:1837       till:1906 color:blue
+                from:1906       till:1918 color:yellow
+                at:1865         text:"[[Österreichische Nordbahn|Kaiser-Ferdinands-Nordbahn]] (KFNB)"
+  bar:Pferd     from:1827       till:1859 color:green
+                from:1859       till:1884 color:red
+                from:1884       till:1918 color:yellow
+                at:1835         text:"[[Pferdeeisenbahn Budweis-Linz-Gmunden|Erste Eisenbahn-Gesellschaft]]"
+                at:1865         text:"[[Österreichische Westbahn|Kaiserin Elisabeth Bahn]]
+  bar:Dalm      from:1877       till:1884 color:blue
+                from:1884       till:1918 color:yellow
+                at:1878         text:"[[Dalmatiner Staatsbahn|Dalm.Stb.]]"
+  bar:Dnie      from:1872       till:1884 color:green
+                from:1884       till:1918 color:yellow
+                at:1878         text:"[[Dniester Bahn]]"
+  bar:Istr      from:1876       till:1884 color:blue
+                from:1884       till:1918 color:yellow
+                at:1877         text:"[[Istrianer Staatsbahn|Istr.Stb.]]"
+  bar:Rakonitz  from:1872       till:1884 color:green
+                from:1884       till:1918 color:yellow
+                at:1873         text:"[[Rakonitz-Protiviner Bahn]]"
+  bar:BCB       from:1881       till:1910 color:blue
+                from:1910       till:1918 color:yellow
+                at:1890         text:"[[Böhmische Commerzialbahnen]]"
+  bar:BNB       from:1865       till:1867 color:blue
+                from:1867       till:1883 color:green
+                from:1883       till:1908 color:red
+                from:1908       till:1918 color:yellow
+                at:1865         text:"[[Turnau-Kralup-Prag|TKP]]"
+                at:1868         text:"[[Böhmische Nordbahn|Turnau-Kralup-Prag & BNB]]"
+                at:1890         text:"[[Böhmische Nordbahn]]"
+  bar:BWB       from:1867       till:1894 color:orange
+                from:1894       till:1918 color:yellow
+                at:1875         text:"[[Böhmische Westbahn]]"
+  bar:BozMer    from:1881       till:1906 color:blue
+                from:1906       till:1918 color:yellow
+                at:1890         text:"[[Bozen-Meraner Bahn]]"
+  bar:DuxB      from:1871       till:1892 color:green
+                from:1892       till:1918 color:yellow
+                at:1875         text:"[[Dux-Bodenbacher Eisenbahn]] (DBE)"
+  bar:EPPK      from:1872       till:1884 color:blue
+                from:1884       till:1918 color:yellow
+                at:1873         text:"[[Eisenbahn Pilsen-Priesen-Komotau|Pilsen-Priesen(-Komotau)]]"
+                at:1900         text:"[[kkStB|kaiserlich-königliche]]"
+  bar:EUGE      from:1872       till:1889 color:green
+                from:1889       till:1918 color:yellow
+                at:1873         text:"[[Erste Ungarisch-Galizische Eisenbahn]]"
+                at:1900         text:"österreichische"
+  bar:EAB       from:1873       till:1892 color:blue
+                from:1892       till:1918 color:yellow
+                at:1880         text:"[[Erzherzog Albrecht-Bahn]]"
+                at:1900         text:"[[kkStB|Staatsbahnen]]"
+  bar:KFJB      from:1868       till:1884 color:green
+                from:1884       till:1918 color:yellow
+                at:1870         text:"[[Franz-Josefs-Bahn|Kaiser Franz Josefs-Bahn]]"
+                at:1900         text:"kkStB"
+  bar:KTB       from:1881       till:1906 color:orange
+                from:1906       till:1918 color:yellow
+                at:1890         text:"[[Kremstalbahn]]"
+  bar:KRB       from:1868       till:1884 color:blue
+                from:1884       till:1918 color:yellow
+                at:1873         text:"[[Rudolfsbahn|Kronprinz Rudolf-Bahn]]"
+  bar:LCJE      from:1866       till:1889 color:green
+                from:1889       till:1918 color:yellow2
+                at:1871         text:"[[Lemberg-Czernowitz-Jassy Eisenbahn-Gesellschaft|Lemberg-Czernowitz-Jassy Eisenbahn]]"
+  bar:MGB       from:1871       till:1895 color:blue
+                from:1895       till:1918 color:yellow
+                at:1880         text:"[[Mährische Grenzbahn]] (MGB)"
+  bar:MSCB      from:1872       till:1895 color:green
+                from:1895       till:1918 color:yellow
+                at:1873         text:"[[Mährisch-Schlesische Centralbahn]] (MSCB)"
+  bar:Mühl      from:1888       till:1900 color:green
+                from:1900       till:1918 color:yellow2
+                at:1889         text:"[[Mühlkreisbahn]]"
+  bar:NÖSWB     from:1877       till:1882 color:blue
+                from:1882       till:1918 color:yellow
+                at:1878         text:"[[Niderösterreichische Südwestbahnen|NÖSWB]]"
+  bar:ÖLEG      from:1880       till:1894 color:green
+                from:1894       till:1918 color:yellow
+                at:1882         text:"[[Österreichische Lokaleisenbahngesellschaft|ÖLEG]]"
+  bar:ÖNWB      from:1868       till:1908 color:red
+                from:1908       till:1918 color:yellow
+                at:1869         text:"[[Österreichische Nordwestbahn|Österreichische Nordwestbahn (ÖNWB) & Süd-Norddeutsche Verbindungsbahn]]"
+  bar:PD        from:1872       till:1892 color:blue
+                from:1892       till:1918 color:yellow
+                at:1880         text:"[[Prag-Duxer Eisenbahn]] (PD)"
+  bar:TL        from:1873       till:1884 color:green
+                from:1884       till:1918 color:yellow
+                at:1874         text:"[[Tarnow-Leluchower Staatsbahn|Tarnow-Leluchow Stb.]]"
+  bar:UWB       from:1871       till:1889 color:blue
+                from:1889       till:1918 color:yellow
+                at:1874         text:"[[Ungarische Westbahn]] (UWB)"
+  bar:VB        from:1872       till:1885 color:green
+                from:1885       till:1918 color:yellow
+                at:1874         text:"[[Vorarlberger Bahn]] (VB)"
+  bar:ATE       from:1858       till:1918 color:orange
+                at:1884         text:"[[Aussig-Teplitzer Eisenbahn]] (A.T.E.)"
+  bar:BEB       from:1855       till:1918 color:red
+                at:1864         text:"[[Buschtiehrader Eisenbahn]] (BEB)"
+  bar:NLB       from:1880       till:1918 color:orange
+                at:1884         text:"[[Neutitscheiner Lokalbahn]] (NLB)"
+  bar:StStB     from:1881       till:1918 color:red
+                at:1884         text:"[[Stauding-Stramberger Eisenbahn]] (StStB)"
+  bar:KsOd      from:1869       till:1918 color:orange
+                at:1874         text:"[[Kaschau-Oderberger Bahn]] (Ks.Od.)"
+
+
+== See also ==
+* List of locomotives and railbuses of the Imperial Royal Austrian State Railways
+

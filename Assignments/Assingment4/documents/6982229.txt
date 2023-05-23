@@ -1,0 +1,76 @@
+Title: Nysa County
+__NOTOC__
+Nysa County () is a unit of territorial administration and local government (powiat) in Opole Voivodeship, south-western Poland, on the Czech border. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and largest town is Nysa, which lies  south-west of the regional capital Opole. The county contains four other towns: Głuchołazy,  south of Nysa, Paczków,  west of Nysa, Otmuchów,  west of Nysa, and Korfantów,  east of Nysa.
+
+The county covers an area of . As of 2019 its total population is 136,393. The most populated towns are Nysa with 43,849 inhabitants, Głuchołazy with 13,534 inhabitants, and Paczków with 7,460 inhabitants.
+
+==Neighbouring counties==
+Nysa County is bordered by Ząbkowice Śląskie County to the west, Strzelin County and Brzeg County to the north, Opole County to the north-east, and Prudnik County to the south-east. It also borders the Czech Republic to the south-west.
+
+==Administrative division==
+The county is subdivided into nine gminas (five urban-rural and four rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" class="wikitable"
+|-
+! Gmina
+! Type
+! Area(km2)
+! Population(2019)
+! Seat
+|-
+|Gmina Nysa
+|urban-rural
+| style="text-align:right;"|217.6
+| style="text-align:right;"|57,077
+|Nysa
+|-
+|Gmina Głuchołazy
+|urban-rural
+| style="text-align:right;"|168.0
+| style="text-align:right;"|23,707
+|Głuchołazy
+|-
+|Gmina Otmuchów
+|urban-rural
+| style="text-align:right;"|187.4
+| style="text-align:right;"|13,559
+|Otmuchów
+|-
+|Gmina Paczków
+|urban-rural
+| style="text-align:right;"|79.7
+| style="text-align:right;"|12,560
+|Paczków
+|-
+|Gmina Korfantów
+|urban-rural
+| style="text-align:right;"|179.8
+| style="text-align:right;"|8,803
+|Korfantów
+|-
+|Gmina Łambinowice
+|rural
+| style="text-align:right;"|123.7
+| style="text-align:right;"|7,494
+|Łambinowice
+|-
+|Gmina Skoroszyce
+|rural
+| style="text-align:right;"|103.6
+| style="text-align:right;"|6,219
+|Skoroszyce
+|-
+|Gmina Pakosławice
+|rural
+| style="text-align:right;"|74.0
+| style="text-align:right;"|3,508
+|Pakosławice
+|-
+|Gmina Kamiennik
+|rural
+| style="text-align:right;"|89.2
+| style="text-align:right;"|3,466
+|Kamiennik
+|-
+|}
+

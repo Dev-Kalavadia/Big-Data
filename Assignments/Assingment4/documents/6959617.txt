@@ -1,0 +1,35 @@
+Title: Nominal level
+
+
+Nominal level is the operating level at which an electronic signal processing device is designed to operate. The electronic circuits that make up such equipment are limited in the maximum signal they can handle and the low-level internally generated electronic noise they add to the signal. The difference between the internal noise and the maximum level is the device's dynamic range. The nominal level is the level that these devices were designed to operate at, for best dynamic range and adequate headroom. When a signal is chained with improper gain staging through many devices, clipping may occur or the system may operate with reduced dynamic range. 
+
+In audio, a related measurement, signal-to-noise ratio, is usually defined as the difference between the nominal level and the noise floor, leaving the headroom as the difference between nominal and maximum output.AES Pro Audio Reference definition of signal-to-noise ratioAES Pro Audio Reference definition of headroom It is important to realize that the measured level is a time average, meaning that the peaks of audio signals regularly exceed the measured average level. The headroom measurement defines how far the peak levels can stray from the nominal measured level before clipping. The difference between the peaks and the average for a given signal is the crest factor.
+
+== Standards ==
+
+VU meters are designed to represent the perceived loudness of a passage of music, or other audio content, measuring in volume units. Devices are designed so that the best signal quality is obtained when the meter rarely goes above nominal. The markings are often in dB instead of "VU", and the reference level should be defined in the device's manual. In most professional recording and sound reinforcement equipment, the nominal level is  . In semi-professional and domestic equipment, the nominal level is usually −10 dBV. This difference is due to the cost required to create larger power supplies and output higher levels.
+
+In broadcasting equipment, this is termed the Maximum Permitted Level, which is defined by European Broadcasting Union standards. These devices use peak programme meters instead of VU meters, which gives the reading a different meaning.
+
+"Mic level" is sometimes defined as −60 dBV, though levels from microphones vary widely.Extron Electronics Glossary of Terms definition of nominal level
+
+In video systems, nominal levels are 1 VP-P for synched systems, such as baseband composite video, and 0.7 VP-P for systems without sync.TRV900 Technical Measurements - "The nominal baseband composite video signal has an amplitude of 1.0 Vpp." Video Signal Standards and Conversion Page - "The Y signal has a nominal level of 1Vpp and C signal a level of around 0.5V.", "The nominal signal level is 1Vpp on a 75 ohm terminated line."  Note that these levels are measured peak-to-peak, while audio levels are time averages.
+
+== See also ==
+
+* Alignment level
+* Programme levels
+* Transmission level point
+
+== References ==
+
+
+
+== External links ==
+
+* Nominal Level — Sweetwater glossary
+* Level Headed — Nominal Level (explained) plus an SV-3700 modification
+
+
+Category:Signal processing
+Category:Sound

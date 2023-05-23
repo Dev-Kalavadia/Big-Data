@@ -1,0 +1,220 @@
+Title: Geography of Ontario
+
+Ontario is located in East/Central Canada. It is Canada's second largest province by land area. Its physical features vary greatly from the Mixedwood Plains in the southeast to the boreal forests and tundra in the north. Ontario borders Manitoba to the west, Hudson Bay and James Bay to the north, Quebec to the east, and the Great Lakes and the United States to the south. The province is named for Great Lake Ontario, an adaptation of the Iroquois word Onitariio, meaning "beautiful lake", or Kanadario, variously translated as "beautiful water". There are approximately 250,000 lakes and over  of rivers in the province.
+
+Almost 94% of the population is concentrated within Southern Ontario, where the population was over 12,850,000 in the 2011 census. The Golden Horseshoe is the most populous part of Southern Ontario, with a population of 9,765,188 in the 2021 census.The population of communities in the Golden Horseshoe. 
+
+==Population==
+
+Ontario is the most populous province in Canada. Southern Ontario is one of the densest regions in the country. The north is vast and sparse compared to the south. The national capital Ottawa is located in Ontario bordering Quebec. Located within the Golden Horseshoe, Toronto is the capital of Ontario, the financial centre of Canada, and the country's most populous city.
+
+Ontario is the second-most urbanized province after British Columbia, with 85.9% of the population living in urban areas.Canada's rural population since 1851
+
+{| class="wikitable"
+|+ Population by Statistical Area ClassificationPopulation and dwelling counts, for Canada, provinces and territories by the Statistical Area Classification, 2011 and 2006 censuses
+|-
+! rowspan = "2" |Statistical Area Classification
+! colspan = "2" | 2011 Census
+! colspan = "2" | 2006 Census
+! rowspan = "2" | Change
+|-
+! Population
+! % of total
+! Population
+! % of total
+|-
+|Within CMAs  ||10,270,006 ||79.9% ||9,591,529 ||78.9% || 7.1%
+|-
+|Within CAs  ||1,133,127 ||8.8% ||1,128,614 ||9.3% || 0.4%
+|- style="background: lightblue" 
+| Total CMA/CA  ||11,403,133 ||88.7% ||10,720,143 ||88.2% || 6.4%
+|-
+|Strongly influenced  ||644,299 ||5.0% ||631,410 ||5.2% || 2.0%
+|-
+|Moderately influenced  ||555,931 ||4.3% ||554,062 ||4.5% || 0.3%
+|-
+|Weakly influenced  ||225,197 ||1.8% ||232,107 ||1.9% || 3.0%
+|-
+|Not influenced  ||23,261 ||0.2% ||22,560 ||0.2% || 3.1%
+|-  style="background: lightblue" 
+|Outside CMA/CA  ||1,448,688 ||11.3% ||1,440,139 ||11.8% || 0.6%
+|-
+|Total  ||12,851,821 ||100.0% ||12,160,282 ||100.0% ||5.7%
+|}
+
+{| class="wikitable"
+|+ Census Metropolitan Areas (CMAs) by population
+!City
+!2016
+!2011
+!2006
+!2001 
+!1996
+!1991
+|-
+|Toronto ||5,928,040|| 5,583,064 ||5,113,149 ||4,682,897 || 4,263,757 || 3,898,933 	
+|-
+|Ottawa-Gatineau ||1,323,783|| 1,236,324 || 1,130,761 ||1,063,664 || 1,010,498 || 941,814
+|-
+|Hamilton ||747,545|| 721,053 ||692,911 ||662,401 ||624,360 || 599,760
+|-
+|Kitchener-Cambridge-Waterloo ||523,894|| 477,160 ||451,235 ||414,284||382,940 ||356,421		
+|-
+|London ||494,069|| 474,786 ||457,720 ||432,451 ||398,616 || 381,522
+|-
+|St. Catharines-Niagara ||406,074|| 392,184 ||390,317 ||377,009 	||372,406 || 364,552 		
+|-
+|Oshawa ||379,848|| 356,177 ||330,594 ||296,298 ||268,773 || 240,104 
+|-
+|Windsor ||329,144|| 319,246 ||323,342 ||307,877 ||278,685 || 262,075
+|-
+|Barrie ||197,059|| 187,013 ||177,061 ||148,480 || 118,695 || 97,150
+|-
+|Greater Sudbury ||164,689|| 160,770 ||158,258 ||155,601|| 160,488 || 157,613
+|-
+|Kingston ||161,175|| 159,561 || 152,358 || 146,838 || 143,416 || 136,401 
+|-
+|Guelph ||151,984|| 141,097 || 127,009 || 117,344 || 105,420 || 97,667
+|-
+|Brantford ||134,203|| 135,501 || 124,607 ||  86,417 || 100,238 || 97,106
+|-
+|Peterborough||121,721|| 118,975 ||116,570 | |102,423 || 100,193 || 98,060 || -
+|-
+|Thunder Bay ||121,621|| 121,596 ||122,907 || 121,986 || 125,562 || 124,925
+|-
+|Belleville ||103,472 || 101,668 || 91,518 || 87,395 || 87,871 || -
+|}
+
+{| class="wikitable"
+|+ 10 largest municipalities by population
+|- bgcolor="#CCCCCC"
+!City
+!2011Population and dwelling counts, for Canada, provinces and territories, and census subdivisions (municipalities), 2011 and 2006 censuses - Ontario
+!2006
+!2001
+|-
+|Toronto (provincial capital)
+|2,615,060
+|2,503,281
+|2,481,494
+|-
+|Ottawa (national capital)
+|883,391
+|812,129
+|808,391
+|-
+|Mississauga
+|713,443
+|668,549
+|612,925
+|-
+|Brampton
+|523,911
+|433,806
+|325,428
+|-
+|Hamilton
+|519,949
+|504,559
+|499,268
+|-
+|London
+|366,151
+|352,395
+|336,539
+|-
+|Markham
+|301,709
+|261,573
+|208,615
+|-
+|Vaughan
+|288,301
+|238,866
+|182,022
+|-
+|Kitchener
+|219,153
+|204,668
+|190,399
+|-
+|Windsor
+|210,891
+|216,473
+|208,402
+|}
+
+==Physical geography==
+right|300px|thumb|Relief of Ontario
+
+Southwestern Ontario and a narrow strip along the coast of the Saint Lawrence River are in the Mixedwood Plains, a fertile and productive ecozone that is typically flat with rolling hills, and was once covered by forest before its use for agriculture, and later urbanization, resulted in deforestation of vast swaths of the area. To its north is the Boreal Shield, the largest provincial ecozone, extending from south-central Ontario to cover most of northern Ontario, where it abuts the Hudson Plains. The Northwestern Ontario portion of this area is part of the Midwestern Canadian Shield forests ecoregion of boreal forest that spreads west through Manitoba and Saskatchewan. The plains that cover the heartland of Ontario are a transitional ecozone characterized by boreal features in the south and tundra landscapes in the north. This extends the entire range of the northern coast of Ontario with Hudson Bay and James Bay, at which numerous wetlands act as staging and nesting grounds for migratory birds. The waters of the two bays are in the Arctic Archipelago Marine ecozone, forming its southern, subarctic extent.
+
+===Geology===
+
+Ontario, owing to its size, has diverse geology that varies in structure, age, and lithology. About 61% of the province is covered by the Canadian Shield, mostly with Precambrian rock. These rocks contain large mineral deposits that are vital to the economy of northern Ontario. The shield can further be divided into three sections. The northwestern parts of the Shield, located roughly north and west of Sudbury, are known as the Superior Province;  this is the largest of the three sections, covering about 70% of the Shield portion in Ontario. This region is more than 2.5 billion years old and is composed of felsic intrusive rocks. In the northernmost parts of the Superior Province, the geology of the region is dominated by granite and gneiss rocks. The central region of the Shield, known as the Grenville Province and located south of Sudbury, is 1.0 to 1.6 billion years old and is dominated by sedimentary rocks showing evidence of being subjected to metamorphism. It makes up about 20% of the Canadian Shield in Ontario. These rocks were metamorphosed between 990 million years ago and 1.08 billion years ago. The third region, known as the Southern province which is a narrow region from Sault Ste. Marie to Kirkland Lake, is made of rocks dating 1.8 to 2.4 billion years ago.  The Hudson Bay lowlands, located north of the Canadian Shield, are mainly made of sedimentary rocks from the Silurian Period, although some parts date from the Ordovician and Devonian periods. This area covers 25% of the province. Most of the bedrock in the Hudson Bay lowlands is composed of limestone and carbonate-dominated sedimentary rock.
+
+===Boundaries===
+
+The longest border is with the Canadian province of Manitoba to the west for approximately  along a line defined as the Northwesternmost point of the Lake of the Woods to latitude 52°50' N then a diagonal line to the point where the shore of Hudson Bay meets the 89th meridian west of Greenwich.  The boundary of Ontario on Hudson and James Bay does not extend beyond the shoreline, as all islands within the bays belong to Nunavut. The border with Quebec is defined by a line due north of the head of Lake Timiskaming to James Bay, and southeast from there, the Ottawa River for about . The boundary follows a small portion of land south of the Ottawa River until it meets the Saint Lawrence River near Cornwall.
+
+Ontario also shares borders with several U.S. states. From west to east, the Minnesota border consists of the Lake of the Woods, Rainy River, Rainy Lake and its tributaries. The border then includes the only 1 km of land of its entire 2,700 km U.S. border, the Height of Land Portage, which divides the Arctic Ocean and Nelson River watershed from that of the St Lawrence River and the Atlantic Ocean. The U.S./Minnesota border then follows tributaries of the Pigeon River to its mouth at Lake Superior. Ontario borders Michigan across Lake Superior, the Saint Mary's River, Lake Huron, the St. Clair River, Lake St. Clair, the Detroit River, and Lake Erie. The province also borders Ohio and Pennsylvania across Lake Erie. The 309 km boundary with New York includes Lake Ontario, the St. Lawrence and Niagara rivers.
+
+===Elevation===
+
+An extensive amount of land along the south and west shores of James Bay and Hudson Bay is low and covered with wetlands. The land in the North-east and North-west, generally north of Lake Superior, is the Canadian Shield where most of Ontario's highest points are found.
+
+Further south, many hilltops of the Algonquin, Haliburton and Madawaska Highlands, which are also part of the shield that covers much of the north, surpass altitudes of 500 m (1640').
+
+The Municipality of Temagami is located on the northeast arm of Lake Temagami, 100 km north of North Bay. Ontario's highest point, Ishpatina Ridge (693 metres), is within the municipality's boundaries. The next highest points are in Dufferin, Grey and the western side of Simcoe counties, where the elevation ranges from 430 m (1,400') to 540 m (1,750'). Much of the higher land sits atop the Niagara Escarpment in a generally flat area known as the Dundalk Highlands. Just to the south, in Wellington County and Waterloo Region, general elevations are from 300 m (1,000') to 400 m (1,300'). A striking topographical feature of the Niagara Escarpment is its limestone cliff face, in general between 80 m (250') and 100 m (330') above the surrounding land, extending from the Niagara peninsula northwest to the Bruce Peninsula.Book: A conspectus of the Province of Ontario
+
+The flattest areas of the province can be found in the lowlands of the far north, and in southwestern and eastern Ontario.
+
+===Water===
+
+Ontario is known for the large number of lakes and rivers it contains. About one-fifth of the world's fresh water can be found in Ontario.Water Geography information. Ontario is also known for being the only province in Canada that touches the Great Lakes. Ontario touches four of the Great Lakes: Huron, Lake Ontario (the province is named after the lake), Erie and Superior.
+
+Ontario's vast rivers and lakes originally opened the province for exploration and have made possible hydroelectric power, mills and various forms of industrialization. Most of Ontario is fed by rainfall, and in most parts snow is relied on. Precipitation is most common in the southern and central parts of Ontario where variations among the seasons are not especially great; but winter and spring are less aqueous than in northern and northwestern Ontario. The Canadian Encyclopedia, Geography information of Ontario.
+
+==Climate==
+thumb|351x351px|Köppen climate types of Ontario
+The climate of Ontario varies by season and location. It is affected by three air sources: cold, dry, arctic air from the north (dominant factor during the winter months, and for a longer part of the year in far northern Ontario); Pacific polar air crossing in from the western Canadian Prairies/US Northern Plains; and warm, moist air from the Gulf of Mexico and the Atlantic Ocean. The effects of these major air masses on temperature and precipitation depend mainly on latitude, proximity to major bodies of water and to a small extent, terrain relief. The surrounding Great Lakes greatly influence the climatic region of southern Ontario. During the fall and winter months, heat stored from the lakes is released, moderating the climate near the shores of the lakes. This gives some parts of southern Ontario milder winters than mid-continental areas at lower latitudes. In general, most of Ontario's climate is classified as humid continental. Ontario has four main climatic regions:
+
+===Southern Ontario===
+
+Almost all of southern Ontario is Köppen climate classification Dfb, including the cities of Toronto, Ottawa, London, Kitchener and Kingston. The region has warm, humid summers and cold, usually moist winters. Extreme heat and cold usually occur for short periods. It is considered a temperate climate when compared with the remainder of continental Canada.  In the fall and winter, temperatures are moderated by the delayed cooling of the Great Lakes; this effect is reversed in spring and summer when afternoon warming is tempered. The lakes' moderating effects allow for a longer growing season than areas at similar latitudes in the continent's interior; some areas exceed 200 frost-free days and have an annual mean temperature of 10 °C (50 °F). Both spring and fall generally consist of mild days and cool nights but are prone to drastic temperature changes over a short timespan. Annual precipitation ranges from 75 to 110 cm (30–43 in) and is well distributed throughout the year with a usual summer peak. Upland areas in this region have cooler conditions, generally more precipitation (especially snowfall), putting them into the Dfb climate scheme. Most of this region lies in the lee of the Great Lakes, making for abundant snow in some areas (London, Goderich for example) receive an average of over 2 m (80"), while some other areas are not in the direct snowbelt and receive closer to an average of 1 m (40") of snow per year. Also included in the Dfb climate are the southern reaches of Northern Ontario, including the cities of Sudbury and North Bay, which have a more severe humid continental climate. This region has warm and sometimes hot summers with cold, longer winters with roughly equal annual precipitation to the south. Along the eastern shores of Lake Superior and Lake Huron (including Georgian Bay), frequent heavy lake-effect snow squalls increase seasonal snowfall totals upwards of 3 m (120 in). Such conditions and the absence of long stretches of brutal cold make for excellent winter recreation. Köppen climate Dfa is represented in the southwestern tip of Ontario including the city of Windsor and a small area of the Golden Horseshoe region. This regions climate has similarities to that of the lower Great Lakes portion of the Midwestern United States. Köppen climate Cfa makes up the most extreme northeastern portion of the Niagara Peninsula, due to moderation from Lake Ontario and other geographical features, such as the Niagara River and its location in the convergence of varying airmass. This is the only temperate zone in the province.
+
+===Northern Ontario===
+
+Köppen climate classification Dfc: The northernmost parts of Ontario—primarily north of 50°N and with no major cities in the area—have a subarctic climate (Köppen) with long, severely cold winters and short summers, with dramatic temperature changes possible in all seasons. In summer, hot weather occasionally reaches even the northernmost parts of Ontario for brief periods, although humidity is generally lower than in the south. With no major mountain ranges blocking sinking Arctic air masses, temperatures of  are not uncommon. The snow stays on the ground much longer here than in other regions of Ontario; snow cover is usually present to some extent between October and May. Surprisingly warm temperatures sometimes occur in Northern Ontario communities when there is a long flow of wind from the south, as happened on 10 May 2022 when Moosonee recorded Canada's first 30C (86F) reading of the year.
+
+===Severe weather===
+
+Severe and non-severe thunderstorms peak in frequency from June through August but can occur at any time. Thunderstorms form from daytime convective heating and frontal activity; in the south, lake breeze convergences also intensify storms. Another severe type of thunderstorm is known as a Mesocyclonic Convective Complex or Derecho, which is a larger cluster-type thunderstorm mass with a more or less circular shape, often with a pronounced bow shape at its front or leading edge. During periods of hot weather in summer, they often develop in the afternoon west of the Great Lakes then strike Southern and Central Ontario at night with great forward motion, bringing severe straight-line winds over wide areas resulting in damage to forests, power interruption and infrastructure damage. The areas with the highest severe weather frequency in the province are Southwestern (Windsor, Chatham, Stratford corridor) and Central Ontario (Simcoe County including the city of Barrie, Lake Simcoe and the Kawartha Lakes region), both areas often getting amplified storms resulting from the Lake Breeze Front convergence. London has the most lightning strikes per year in Canada, averaging 34 days of thunderstorm activity per year. In a typical year, Ontario averages 15 confirmed tornado touchdowns, but this number has recently been increasing. These tornadoes, however, are rarely destructive (the vast majority are classified as EF0 or EF1 on the Enhanced Fujita scale). In Northern Ontario, some tornadoes go undetected by ground spotters because of the sparse population and remote landscape; they are often discovered after the fact by aircraft pilots, where aerial observations of damaged forest confirm occurrences. All of Northern Ontario north of a line from Lake Nipigon to Timmins has no weather radar coverage by Environment Canada making it difficult to detect tornadoes in far northern Ontario when they occur. Tropical depression remnants can cause copious rains and winds in the south, but are rarely deadly. A notable exception was Hurricane Hazel in October 1954.
+
+===Climate charts===
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==See also==
+
+*Geology of Ontario
+*Geography of Canada
+*Demographics of Ontario
+*List of islands of Ontario
+*Southern Ontario
+*Ontario Peninsula
+*Northern Ontario
+

@@ -1,0 +1,292 @@
+Title: Three-level diamond interchange
+
+frame|Three-level diamond diagram. Arrows are for traffic driving on the right.
+A three-level diamond interchange is a type of highway interchange where through traffic on both main roads is grade-separated from intersections which handle transferring traffic.Indiana Department of Transportation,  , pages 21 and 22 It is similar in design to a three-level stacked roundabout except for its use of (usually signalled) conventional intersections, and can be thought of as two diamond interchanges fused together.
+
+Road enthusiasts sometimes use the terms volleyball interchange or split-level diamond interchange to refer to these interchanges.
+
+==Description==
+In a three-level diamond interchange, the two main roads are on separate levels, and on a third level, usually in the middle, there is a square of one-way roads.  The square circulates clockwise where traffic drives on the left, or anticlockwise where it drives on the right.  At each corner of the square is the terminal of an exit ramp from one main road and an entrance ramp to the other main road.
+
+Traffic transferring from one road to the other to make an overall right turn only passes through one corner of the square, at which point a right turn is made.  Transfer traffic making an overall left turn must proceed straight through the first intersection it encounters, turn left at the next, and then proceed straight through a third intersection to enter the other main roadway.
+
+Its two-level variant is the split diamond interchange.
+
+Its at-grade variant is the town center intersection (TCI).
+
+==Examples==
+
+{| class="wikitable"
+|-
+!width="20%"|Location
+!width="25%"|First Route
+!width="25%"|Second Route
+!width="30%"|Notes
+|-
+| Phoenix, Arizona, United States
+| Indian School Road
+| 
+| Proposed three-level diamond interchange, will include I-17's frontage roads and Texas U-turns for Indian School Road traffic.
+|-
+| Doral, Florida, United States
+| MIA Cargo Viaduct
+| 
+| Northwest 25th Street serves as a frontage road for the MIA Cargo Viaduct.  A flyover ramp was added to allow westbound MIA Cargo Viaduct traffic to join SR 826 north.
+|-
+| Cedar Rapids, Iowa, United States
+| 
+| 
+| Collector/distributor roads intersect.
+|-
+|rowspan=3| Detroit, Michigan, United States
+| 
+| 
+| I-75 uses frontage roads
+|-
+| 
+| 
+|
+|-
+| 
+| 
+| Includes slip ramps from northbound M-10 to westbound M-102, eastbound M-102 to southbound M-10, and westbound M-102 to northbound M-10. M-10 uses frontage roads
+|-
+| Redford Township, Wayne County, Michigan, United States
+| 
+| 
+| I-96 uses frontage roads
+|-
+| Jefferson City, Missouri, United States
+| 
+| 
+| A flyover ramp has been added to allow westbound US 54 traffic to join US 50 east, bypassing one intersection. This addition necessitates the use of a nearby city street to transfer from westbound US 50 to westbound US 54.
+|-
+| Asheville, North Carolina, United States
+| 
+| 
+| I-240 exit 7
+|-
+| High Point, North Carolina, United States
+| 
+| 
+| I-74 exit 71B
+|-
+| Oklahoma City, Oklahoma, United States
+| 
+| 
+| Includes frontage roads at-grade with interchange (signed as Portland Avenue and West Memorial Road, respectively, for the first and second routes).  Two flyover ramps, one from westbound Kilpatrick Turnpike to southbound OK-74 and the other from northbound OK-74 to eastbound Kilpatrick Turnpike, are included with the interchange.
+|-
+| Marple Township, Delaware County, Pennsylvania, United States
+| 
+| 
+| I-476 exit 5
+|-
+| Robinson Township, Washington County, Pennsylvania, United States
+| 
+| 
+| PA 576 exit 6
+|-
+| Austin, Texas, United States
+| 
+| 
+| Includes frontage roads at-grade with interchange
+|-
+| Big Spring, Texas, United States
+| 
+| 
+| Includes frontage roads at-grade with interchange
+|-
+| Dallas, Texas, United States
+| 
+| 
+| Includes frontage roads at-grade with interchange
+|-
+| Del Valle, Texas, United States
+| 
+| 
+| Includes frontage roads at-grade with interchange.  A flyover ramp was added to allow eastbound SH 71 traffic to join SH 130 north.
+|-
+| El Paso, Texas, United States
+| 
+| 
+| Includes frontage roads at-grade with interchange
+|-
+|rowspan=3| Frisco, Texas, United States
+| 
+| 
+| Includes frontage roads at-grade with interchange (signed as SH 121 for the first route)
+|-
+| 
+| 
+| Includes frontage roads at-grade with interchange (signed as Dallas Parkway for the first route)
+|-
+| 
+| 
+| Includes frontage roads at-grade with interchange.
+|-
+|rowspan=13| Houston, Texas, United States
+| 
+| 
+| Includes frontage roads at-grade with interchange.  A flyover ramp was added to allow northbound SH 6 traffic to join U.S. 290 east.
+|-
+| 
+| 
+| Includes frontage roads at-grade with interchange.
+|-
+| 
+| 
+| Includes frontage roads at-grade with interchange.  A flyover ramp was added to allow eastbound Beltway 8 traffic to join Hardy Toll Road north.
+|-
+| 
+| 
+| Includes frontage roads at-grade with interchange.
+|-
+| 
+| 
+| Includes frontage roads at-grade with interchange (signed as Hillcroft Avenue and Beltway 8, respectively, for the first and second routes).
+|-
+| Fort Bend Parkway Toll Road
+| 
+| Includes frontage roads at-grade with interchange.
+|-
+| Grand Parkway Toll Road
+| Fort Bend Westpark Tollway
+| Includes frontage roads at-grade with interchange (signed as SH 99 and F.M. 1093, respectively, for the first and second routes).  A flyover ramp was added to allow southbound Grand Parkway traffic to join Westpark Tollway east.
+|-
+| 
+| 
+| Includes frontage roads at-grade with interchange.
+|-
+| 
+| Greens Road
+| Includes frontage roads at-grade with interchange.
+|-
+| Memorial Drive
+| Houston Avenue
+| Includes frontage roads at-grade with interchange.
+|-
+| 
+| 
+| Includes frontage roads at-grade with interchange (signed as Beltway 8 for the first route).
+|-
+| 
+| 
+| Includes frontage roads at-grade with interchange (signed as Beltway 8 for the first route).
+|-
+| 
+| 
+| Includes frontage roads at-grade with interchange.
+|-
+|rowspan=4| Lubbock, Texas, United States
+| 
+| 
+|rowspan=4| Includes frontage roads at-grade with interchanges.  
+|-
+| 
+| 
+|-
+| 
+| 
+|-
+| 
+| 
+|-
+| Mont Belvieu, Texas, United States
+| 
+| 
+| Includes frontage roads at-grade with interchange.
+|- 
+| New Caney, Texas, United States
+| 
+| 
+| Includes frontage roads at-grade with interchange.  Two flyover ramps, one from eastbound SH 99 to northbound I-69/US 59 and the other from northbound I-69/US 59 to westbound SH 99, are included with the interchange.
+|-
+| Pasadena, Texas, United States
+| 
+| 
+| Includes frontage roads at-grade with interchange (signed as Beltway 8 for the first route).
+|-
+| Richardson, Texas, United States
+| 
+| Spring Valley Road
+| Includes frontage roads at-grade with interchange
+|-
+| Round Rock, Texas, United States
+| 
+| 
+| Includes frontage roads at-grade with interchange
+|-
+| Sherman, Texas, United States
+| 
+| 
+| Includes frontage roads at-grade with interchange
+|- 
+| Spring, Texas, United States
+| 
+| 
+| Includes frontage roads at-grade with interchange.  Two flyover ramps, one from eastbound SH 99 to northbound I-45 and the other from southbound I-45 to westbound SH 99, are included with the interchange.
+|- 
+| Sugar Land, Texas, United States
+| 
+| 
+| Includes frontage roads at-grade with interchange
+|- 
+| Tomball, Texas, United States
+| 
+| 
+| Includes frontage roads at-grade with interchange (signed as SH 249 for the second route).  The southern half of the interchange has four flyover ramps: two from northbound Tomball Tollway to east and westbound SH 99 and the other two from SH 99 (west and eastbound) to Tomball Tollway southbound
+|-
+| Tyler, Texas, United States
+| 
+| 
+| Includes frontage roads at-grade with interchange.
+|-
+|rowspan=3| Waco, Texas, United States
+| 
+| 
+|rowspan=3| Includes frontage roads at-grade with interchange
+|-
+| 
+| 
+|-
+| 
+| 
+|-
+| Alexandria, Virginia, United States
+| 
+| Seminary Road
+| I-395 exit 4
+|-
+| Fairfax County, Virginia, United States
+| 
+| 
+| The south end of West Ox Road also meets this interchange.
+|- 
+| Welch, West Virginia, United States
+| 
+| 
+| As of 2011, grading has been completed for interchange but interchange itself has not been constructed.
+|-
+| Wheeling, West Virginia, United States
+| 
+| 
+| Entire interchange is elevated above city streets.
+|-
+| Wauwatosa, Wisconsin, United States
+| 
+| 
+| An access road for the adjacent Harley-Davidson plant is also part of the interchange.
+|-
+| Belmont, Queensland, Australia
+| 
+| 
+| Two of the ramps are two-way for a short distance to allow access from the interchange to and from local streets.
+|-
+| Düsseldorf-Stockum, Germany
+| Autobahn 44
+| Bundesstraße 8
+| At ; rare design in Germany
+|}
+
+Many examples of this interchange type can also be found in Texas; however, the interchanges almost always include the frontage roads as well. If the traffic amounts increase, the interchange is usually converted into a stack interchange, also as the second level of the High Five Interchange.
+

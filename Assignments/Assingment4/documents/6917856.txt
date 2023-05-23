@@ -1,0 +1,37 @@
+Title: Cambridge Broadband
+
+
+
+Cambridge Broadband Networks Limited (CBNL) is a telecommunications company which develops and manufactures point-to-multipoint (PMP) wireless backhaul and access solutions, providing services to telecommunication customers in more than 30 countries.
+
+The company is a privately held backed by institutional investors: Amadeus Capital Partners,Amedeus Capital website - CBNL investment summary  Accel Partners,Accel website - investment companies listing page TVM Capital GmbH,TVM website - companies portfolio page Adara Venture PartnersAdara website - CBNL investor information and Samsung Ventures Europe.Samsung Ventures Europe website
+
+== Leadership ==
+
+* Jonathan McKay (Chairman)
+* Lionel Chmilewsky  (Chief Executive Officer)
+
+== Locations ==
+
+The company's headquarters are in Cambridge, as part of the Cambridge technology cluster (Silicon Fen). CBNL also has offices in South Africa, Nigeria and Kenya.
+
+== Products and services ==
+
+The company's VectaStar product uses its PMP topology to share wireless backhaul and access resource between several cell sites, each generating voice and packet traffic. This technology means spectrum can be managed dynamically and efficiently, reducing capital and operating costs. VectaStar is used by telecommunications network providers across the globe to build a variety of wireless backhaul and access networks. This includes new packet networks; mobile broadband network upgrades; ethernet enterprise networks and 2G - 3G IP backhaul migration. VectaStar delivers up to and over 300Mbit/s full duplex per sector and is deployable in 2G, 3G, 4G, small cell and Long Term Evolution (LTE) backhaul networks.
+
+The company offers services including network planning and design; network deployment; network operation; customer training; 24-hour customer support and WEEE recycling.
+
+== History ==
+
+The company  was founded in 2000 by ten engineers from Cambridge University who secured private equity funding to develop an innovative solution to the increased demand for mobile communications. Soon after the company started, the earliest variant of VectaStar was launched and shipped to the first customers. Over the following years CBNL identified new market opportunities and developed product variants to address those, featuring new frequencies and a move into the backhaul space.
+
+The period of 2005-10 saw the Company grow 864 per cent - growth which ranked the Company in the top 200 on the Deloitte Technology Fast 500 EMEA 2010, a ranking of the 500 fastest growing technology companies in EMEA, and reaching number 38 in the Sunday Times Microsoft Tech Track 100 in 2011.
+
+In November 2011 the Company supplied microwave radio equipment to backhaul Telefónica UK's O2 4G trial network in London, UK.O2 press release: O2 brings superfast 4G to London
+
+== Small cells ==
+
+In April 2012 CBNL announced that it had been accepted as a member of the Small Cell Forum,CBNL brings its backhaul expertise to the Small Cell Forum a not-for-profit membership organization that seeks to enable and promote small cell technology worldwide. CBNL has since been appointed Vice Chair of Small Cell Forum Backhaul Special Interest group.
+
+As a member of Next Generation Mobile Networks (NGMN) Alliance, CBNL recently led a mixed group of both operators and vendors to generate consensus around the specific needs for Small Cell backhaul technology. Results from this work were published in July 2012 in the NGMN Alliance's white paper ‘Small Cell Backhaul Requirements’.NGMN outlines requirements for small cell backhaul
+

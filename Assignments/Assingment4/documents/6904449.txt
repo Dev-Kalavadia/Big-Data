@@ -1,0 +1,143 @@
+Title: List of municipalities of the Province of Matera
+
+The following is a list of the 31 municipalities (comuni) of the Province of Matera, Basilicata, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|077001
+|Accettura
+| align="right" |2,237
+|-
+|077002
+|Aliano
+| align="right" |1,244
+|-
+|077003
+|Bernalda
+| align="right" |12,056
+|-
+|077004
+|Calciano
+| align="right" |845
+|-
+|077005
+|Cirigliano
+| align="right" |430
+|-
+|077006
+|Colobraro
+| align="right" |1,505
+|-
+|077007
+|Craco
+| align="right" |800
+|-
+|077008
+|Ferrandina
+| align="right" |9,329
+|-
+|077009
+|Garaguso
+| align="right" |1,193
+|-
+|077010
+|Gorgoglione
+| align="right" |1,119
+|-
+|077011
+|Grassano
+| align="right" |5,623
+|-
+|077012
+|Grottole
+| align="right" |2,547
+|-
+|077013
+|Irsina
+| align="right" |5,564
+|-
+|077014
+|Matera
+| align="right" |59,144
+|-
+|077015
+|Miglionico
+| align="right" |2,592
+|-
+|077016
+|Montalbano Jonico
+| align="right" |7,880
+|-
+|077017
+|Montescaglioso
+| align="right" |10,112
+|-
+|077018
+|Nova Siri
+| align="right" |6,578
+|-
+|077019
+|Oliveto Lucano
+| align="right" |563
+|-
+|077020
+|Pisticci
+| align="right" |17,855
+|-
+|077021
+|Policoro
+| align="right" |15,422
+|-
+|077022
+|Pomarico
+| align="right" |4,438
+|-
+|077023
+|Rotondella
+| align="right" |3,133
+|-
+|077024
+|Salandra
+| align="right" |3,075
+|-
+|077025
+|San Giorgio Lucano
+| align="right" |1,446
+|-
+|077026
+|San Mauro Forte
+| align="right" |2,042
+|-
+|077027
+|Stigliano
+| align="right" |5,345
+|-
+|077028
+|Tricarico
+| align="right" |6,115
+|-
+|077029
+|Tursi
+| align="right" |5,390
+|-
+|077030
+|Valsinni
+| align="right" |1,760
+|-
+|077031
+|Scanzano Jonico
+| align="right" |6,946
+|-
+|
+|Total
+| align="right" |204,328
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

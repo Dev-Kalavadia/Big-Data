@@ -1,0 +1,31 @@
+Title: AMAX
+AMAX is a certification program for AM radio broadcasting standards, created in the United States beginning in 1991 by the Electronic Industries Association (EIA) and the National Association of Broadcasters (NAB). It was developed with the intention of helping AM stations, especially ones with musical formats, become more competitive with FM broadcasters. The standards cover both consumer radio receivers and broadcasting station transmission chains. 
+
+Although the Federal Communications Commission (FCC) endorsed the AMAX proposal, the agency never made it into a formal requirement, leaving its adoption as voluntary. Ultimately few receiver manufacturers and radio stations adhered to the standard, thus it has done little to stem the continued decline in AM station listenership.
+
+==Standards==
+
+===Receiver===
+thumb|200px|right|Receivers meeting the AMAX standards could display a certification logo, with the "stereo" notation reserved for those capable of AM stereo reception
+AMAX radio receivers are divided into three categories: home, automotive and portable. Receiver certification requirements include:
+
+* Wide audio bandwidth, with a minimum of 7,500 hertz for home and automotive radios, and 6,500 hertz for portables.
+* Bandwidth control, either manual or automatic, including at least two settings, such as "narrow" and "wide".
+* Meet receiver standards for low total harmonic distortion and proper NRSC-1 audio de-emphasis curve.
+* Attenuation of the 10,000 hertz "whistle" heterodyne. (In the U.S., 10 kHz is the standard separation of adjacent transmitting frequencies.)
+* Provision for connecting an external AM antenna.
+* Ability to receive stations broadcasting on the 1610 to 1700 kHz expanded AM band frequencies.
+* Effective noise blanking, for home and automotive receivers."What is AMAX?", Motorola Engineering Document: MC13027 / MC13122 AMAX Stereo IC Chipset, 1996, page 6.
+
+===Transmission===
+
+For AM broadcasting stations, the AMAX qualifications specified "a unified standard for pre–emphasis and distortion" for broadcasting station transmission chains.
+
+==Implementation==
+
+From a technical standpoint, the AMAX standards met with approval, with one reviewer noting that "The AMAX standard is a last-ditch effort by broadcasters and radio makers to save AM by reviving a long-forgotten tactic: quality" and "With a good station (often hard to find), their AM sections sound so good you could easily be fooled into thinking they were FM.""AM Radio's Reprieve" by Ivan Berger, January 1, 1995 (wired.com) A review of an AMAX-certified mono portable receiver, the GE Superadio III, reported that the radio "reproduces sound with the clarity and dynamics of FM. Its audio response is more than two octaves greater than a standard AM radio.""GE Superadio III Gives You an AM Sound Matching That FM Quality" by Kevin Hunt, Hartford Courant, March 9, 1995.   
+
+However, absent a mandate by the FCC, few receiver manufacturers were interested in incurring the cost of improving the AM sections of their receivers. A 1992 review of a high-end consumer audio catalog found that of 80 listings only three were AM stereo capable, and there were no references to the AMAX standard."Open Mike: AM Receiver Problem" (correspondence from Robert H. Coddington), Broadcasting, October 26, 1992, page 78. A 1996 report stated that "At a recent Consumer Electronics Show in Las Vegas, consumer audio companies also demonstrated apathy toward improved super set AM radios, few of which could be found on the exhibit floor. The prevailing attitude among manufacturer reps was, 'Who cares?'""Whither (Or Wither) AM?" by Michael C. Keith, Radio—The Forgotten Medium, 1996, page 106. Also, stations with low-fidelity spoken-word formats saw little need to upgrade their transmissions for better audio quality.
+
+A 2015 review concluded that "Initially the consumer manufacturers made a concerted attempt to specify performance of AM receivers through the 1993 AMAX standard, a joint effort of the EIA and the NAB, with FCC backing...  The FCC rapidly followed up on this with codification of the CQUAM AM stereo standard, also in 1993. At this point, the stage appeared to be set for rejuvenation of the AM band. Nevertheless, with the legacy of confusion and disappointment in the rollout of the multiple incompatible AM stereo systems, and failure of the manufacturers (including the auto makers) to effectively promote AMAX radios, coupled with the ever-increasing background of noise in the band, the general public soon lost interest and moved on to other media.""Smart AM Receivers for the 21st Century" by Stephen F. Smith and Thomas F. King, Proceedings of the National Association of Broadcasters Engineering Conference, Las Vegas, Nevada, April 12, 2015, pages 1-2.
+

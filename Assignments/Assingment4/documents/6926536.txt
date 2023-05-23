@@ -1,0 +1,9 @@
+Title: Model 52 mineThe Model 52 mine is a Swedish circular plywood cased anti-tank blast mine. It is in service with the Swedish army. The mine can be fitted with a number of different fuzes and pressure plates including a three pronged plate and a pentagonal pressure spider and a tilt-rod fuze.
+
+==Specifications==
+* Diameter: 345 mm
+* Height: 77 mm
+* Weight: 8.98 kg
+* Explosive content: 7.48 kg of TNT
+* Operating pressure: 250 kg or 14.5 kg tilt
+

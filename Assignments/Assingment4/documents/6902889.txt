@@ -1,0 +1,355 @@
+Title: List of municipalities of the Province of Campobasso
+
+The following is a list of the 84 municipalities (comuni) of the Province of Campobasso, Molise, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|070001
+|Acquaviva Collecroce
+| align="right" |765
+|-
+|070002
+|Baranello
+| align="right" |2,715
+|-
+|070003
+|Bojano
+| align="right" |8,273
+|-
+|070004
+|Bonefro
+| align="right" |1,791
+|-
+|070005
+|Busso
+| align="right" |1,445
+|-
+|070006
+|Campobasso
+| align="right" |51,633
+|-
+|070007
+|Campochiaro
+| align="right" |624
+|-
+|070008
+|Campodipietra
+| align="right" |2,269
+|-
+|070009
+|Campolieto
+| align="right" |1,024
+|-
+|070010
+|Campomarino
+| align="right" |6,658
+|-
+|070011
+|Casacalenda
+| align="right" |2,367
+|-
+|070012
+|Casalciprano
+| align="right" |613
+|-
+|070013
+|Castelbottaccio
+| align="right" |392
+|-
+|070014
+|Castellino del Biferno
+| align="right" |660
+|-
+|070015
+|Castelmauro
+| align="right" |1,825
+|-
+|070016
+|Castropignano
+| align="right" |1,107
+|-
+|070017
+|Cercemaggiore
+| align="right" |4,158
+|-
+|070018
+|Cercepiccola
+| align="right" |712
+|-
+|070019
+|Civitacampomarano
+| align="right" |638
+|-
+|070020
+|Colle d'Anchise
+| align="right" |809
+|-
+|070021
+|Colletorto
+| align="right" |2,347
+|-
+|070022
+|Duronia
+| align="right" |473
+|-
+|070023
+|Ferrazzano
+| align="right" |3,289
+|-
+|070024
+|Fossalto
+| align="right" |1,603
+|-
+|070025
+|Gambatesa
+| align="right" |1,654
+|-
+|070026
+|Gildone
+| align="right" |863
+|-
+|070027
+|Guardialfiera
+| align="right" |1,185
+|-
+|070028
+|Guardiaregia
+| align="right" |787
+|-
+|070029
+|Guglionesi
+| align="right" |5,315
+|-
+|070030
+|Jelsi
+| align="right" |1,866
+|-
+|070031
+|Larino
+| align="right" |7,230
+|-
+|070032
+|Limosano
+| align="right" |900
+|-
+|070033
+|Lucito
+| align="right" |904
+|-
+|070034
+|Lupara
+| align="right" |620
+|-
+|070035
+|Macchia Valfortore
+| align="right" |709
+|-
+|070036
+|Mafalda
+| align="right" |1,308
+|-
+|070037
+|Matrice
+| align="right" |1,081
+|-
+|070038
+|Mirabello Sannitico
+| align="right" |1,867
+|-
+|070039
+|Molise
+| align="right" |179
+|-
+|070040
+|Monacilioni
+| align="right" |674
+|-
+|070041
+|Montagano
+| align="right" |1,207
+|-
+|070042
+|Montecilfone
+| align="right" |1,552
+|-
+|070043
+|Montefalcone nel Sannio
+| align="right" |1,800
+|-
+|070044
+|Montelongo
+| align="right" |456
+|-
+|070045
+|Montemitro
+| align="right" |488
+|-
+|070046
+|Montenero di Bisaccia
+| align="right" |6,658
+|-
+|070047
+|Montorio nei Frentani
+| align="right" |521
+|-
+|070048
+|Morrone del Sannio
+| align="right" |721
+|-
+|070049
+|Oratino
+| align="right" |1,326
+|-
+|070050
+|Palata
+| align="right" |1,914
+|-
+|070051
+|Petacciato
+| align="right" |3,550
+|-
+|070052
+|Petrella Tifernina
+| align="right" |1,280
+|-
+|070053
+|Pietracatella
+| align="right" |1,543
+|-
+|070054
+|Pietracupa
+| align="right" |246
+|-
+|070055
+|Portocannone
+| align="right" |2,564
+|-
+|070056
+|Provvidenti
+| align="right" |150
+|-
+|070057
+|Riccia
+| align="right" |5,649
+|-
+|070058
+|Ripabottoni
+| align="right" |644
+|-
+|070059
+|Ripalimosani
+| align="right" |2,685
+|-
+|070060
+|Roccavivara
+| align="right" |979
+|-
+|070061
+|Rotello
+| align="right" |1,322
+|-
+|070062
+|Salcito
+| align="right" |690
+|-
+|070063
+|San Biase
+| align="right" |252
+|-
+|070064
+|San Felice del Molise
+| align="right" |748
+|-
+|070065
+|San Giacomo degli Schiavoni
+| align="right" |1,176
+|-
+|070066
+|San Giovanni in Galdo
+| align="right" |708
+|-
+|070067
+|San Giuliano del Sannio
+| align="right" |1,081
+|-
+|070068
+|San Giuliano di Puglia
+| align="right" |1,148
+|-
+|070069
+|San Martino in Pensilis
+| align="right" |4,836
+|-
+|070070
+|San Massimo
+| align="right" |736
+|-
+|070071
+|San Polo Matese
+| align="right" |465
+|-
+|070072
+|Santa Croce di Magliano
+| align="right" |4,863
+|-
+|070073
+|Sant'Elia a Pianisi
+| align="right" |380
+|-
+|070074
+|Sant'Angelo Limosano
+| align="right" |2,178
+|-
+|070075
+|Sepino
+| align="right" |2,127
+|-
+|070076
+|Spinete
+| align="right" |1,437
+|-
+|070077
+|Tavenna
+| align="right" |924
+|-
+|070078
+|Termoli
+| align="right" |31,006
+|-
+|070079
+|Torella del Sannio
+| align="right" |844
+|-
+|070080
+|Toro
+| align="right" |1,507
+|-
+|070081
+|Trivento
+| align="right" |5,200
+|-
+|070082
+|Tufara
+| align="right" |1,071
+|-
+|070083
+|Ururi
+| align="right" |2,979
+|-
+|070084
+|Vinchiaturo
+| align="right" |2,924
+|-
+|
+|Total
+| align="right" |231,867
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

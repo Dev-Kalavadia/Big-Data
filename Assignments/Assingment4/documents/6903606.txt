@@ -1,0 +1,451 @@
+Title: List of municipalities of the Province of L'Aquila
+
+The following is a list of the 108 municipalities (comuni) of the Province of L'Aquila, Abruzzo, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|066001
+|Acciano
+| align="right" |398
+|-
+|066002
+|Aielli
+| align="right" |1,517
+|-
+|066003
+|Alfedena
+| align="right" |768
+|-
+|066004
+|Anversa degli Abruzzi
+| align="right" |413
+|-
+|066005
+|Ateleta
+| align="right" |1,223
+|-
+|066006
+|Avezzano
+| align="right" |39,376
+|-
+|066007
+|Balsorano
+| align="right" |3,705
+|-
+|066008
+|Barete
+| align="right" |649
+|-
+|066009
+|Barisciano
+| align="right" |1,771
+|-
+|066010
+|Barrea
+| align="right" |777
+|-
+|066011
+|Bisegna
+| align="right" |356
+|-
+|066012
+|Bugnara
+| align="right" |1,085
+|-
+|066013
+|Cagnano Amiterno
+| align="right" |1,459
+|-
+|066014
+|Calascio
+| align="right" |163
+|-
+|066015
+|Campo di Giove
+| align="right" |916
+|-
+|066016
+|Campotosto
+| align="right" |742
+|-
+|066017
+|Canistro
+| align="right" |1,044
+|-
+|066018
+|Cansano
+| align="right" |272
+|-
+|066019
+|Capestrano
+| align="right" |977
+|-
+|066020
+|Capistrello
+| align="right" |5,490
+|-
+|066021
+|Capitignano
+| align="right" |680
+|-
+|066022
+|Caporciano
+| align="right" |261
+|-
+|066023
+|Cappadocia
+| align="right" |564
+|-
+|066024
+|Carapelle Calvisio
+| align="right" |98
+|-
+|066025
+|Carsoli
+| align="right" |5,235
+|-
+|066026
+|Castel del Monte
+| align="right" |511
+|-
+|066027
+|Castel di Ieri
+| align="right" |367
+|-
+|066028
+|Castel di Sangro
+| align="right" |5,749
+|-
+|066029
+|Castellafiume
+| align="right" |1,075
+|-
+|066030
+|Castelvecchio Calvisio
+| align="right" |195
+|-
+|066031
+|Castelvecchio Subequo
+| align="right" |1,187
+|-
+|066032
+|Celano
+| align="right" |10,979
+|-
+|066033
+|Cerchio
+| align="right" |1,719
+|-
+|066034
+|Civita d'Antino
+| align="right" |1,089
+|-
+|066035
+|Civitella Alfedena
+| align="right" |304
+|-
+|066036
+|Civitella Roveto
+| align="right" |3,387
+|-
+|066037
+|Cocullo
+| align="right" |282
+|-
+|066038
+|Collarmele
+| align="right" |1,032
+|-
+|066039
+|Collelongo
+| align="right" |1,470
+|-
+|066040
+|Collepietro
+| align="right" |259
+|-
+|066041
+|Corfinio
+| align="right" |1,001
+|-
+|066042
+|Fagnano Alto
+| align="right" |442
+|-
+|066043
+|Fontecchio
+| align="right" |440
+|-
+|066044
+|Fossa
+| align="right" |663
+|-
+|066045
+|Gagliano Aterno
+| align="right" |310
+|-
+|066046
+|Gioia dei Marsi
+| align="right" |2,283
+|-
+|066047
+|Goriano Sicoli
+| align="right" |599
+|-
+|066048
+|Introdacqua
+| align="right" |1,994
+|-
+|066049
+|L'Aquila
+| align="right" |71,472
+|-
+|066050
+|Lecce nei Marsi
+| align="right" |1,731
+|-
+|066051
+|Luco dei Marsi
+| align="right" |5,793
+|-
+|066052
+|Lucoli
+| align="right" |945
+|-
+|066053
+|Magliano de' Marsi
+| align="right" |3,809
+|-
+|066054
+|Massa d'Albe
+| align="right" |1,553
+|-
+|066055
+|Molina Aterno
+| align="right" |440
+|-
+|066056
+|Montereale
+| align="right" |2,826
+|-
+|066057
+|Morino
+| align="right" |1,530
+|-
+|066058
+|Navelli
+| align="right" |604
+|-
+|066059
+|Ocre
+| align="right" |1,043
+|-
+|066060
+|Ofena
+| align="right" |608
+|-
+|066061
+|Opi
+| align="right" |471
+|-
+|066062
+|Oricola
+| align="right" |1,031
+|-
+|066063
+|Ortona dei Marsi
+| align="right" |745
+|-
+|066064
+|Ortucchio
+| align="right" |1,983
+|-
+|066065
+|Ovindoli
+| align="right" |1,264
+|-
+|066066
+|Pacentro
+| align="right" |1,290
+|-
+|066067
+|Pereto
+| align="right" |717
+|-
+|066068
+|Pescasseroli
+| align="right" |2,208
+|-
+|066069
+|Pescina
+| align="right" |4,515
+|-
+|066070
+|Pescocostanzo
+| align="right" |1,208
+|-
+|066071
+|Pettorano sul Gizio
+| align="right" |1,287
+|-
+|066072
+|Pizzoli
+| align="right" |3,280
+|-
+|066073
+|Poggio Picenze
+| align="right" |1,027
+|-
+|066074
+|Prata d'Ansidonia
+| align="right" |549
+|-
+|066075
+|Pratola Peligna
+| align="right" |7,894
+|-
+|066076
+|Prezza
+| align="right" |1,059
+|-
+|066077
+|Raiano
+| align="right" |2,982
+|-
+|066078
+|Rivisondoli
+| align="right" |715
+|-
+|066079
+|Rocca Pia
+| align="right" |730
+|-
+|066080
+|Rocca di Botte
+| align="right" |639
+|-
+|066081
+|Rocca di Cambio
+| align="right" |485
+|-
+|066082
+|Rocca di Mezzo
+| align="right" |1,530
+|-
+|066083
+|Roccacasale
+| align="right" |189
+|-
+|066084
+|Roccaraso
+| align="right" |1,684
+|-
+|066085
+|San Benedetto dei Marsi
+| align="right" |4,061
+|-
+|066086
+|San Benedetto in Perillis
+| align="right" |137
+|-
+|066087
+|San Demetrio ne' Vestini
+| align="right" |1,694
+|-
+|066088
+|San Pio delle Camere
+| align="right" |579
+|-
+|066089
+|Sante Marie
+| align="right" |1,310
+|-
+|066090
+|Sant'Eusanio Forconese
+| align="right" |425
+|-
+|066091
+|Santo Stefano di Sessanio
+| align="right" |116
+|-
+|066092
+|San Vincenzo Valle Roveto
+| align="right" |2,579
+|-
+|066093
+|Scanno
+| align="right" |2,073
+|-
+|066094
+|Scontrone
+| align="right" |601
+|-
+|066095
+|Scoppito
+| align="right" |2,825
+|-
+|066096
+|Scurcola Marsicana
+| align="right" |2,625
+|-
+|066097
+|Secinaro
+| align="right" |452
+|-
+|066098
+|Sulmona
+| align="right" |25,419
+|-
+|066099
+|Tagliacozzo
+| align="right" |6,753
+|-
+|066100
+|Tione degli Abruzzi
+| align="right" |369
+|-
+|066101
+|Tornimparte
+| align="right" |2,970
+|-
+|066102
+|Trasacco
+| align="right" |6,120
+|-
+|066103
+|Villalago
+| align="right" |621
+|-
+|066104
+|Villa Santa Lucia degli Abruzzi
+| align="right" |193
+|-
+|066105
+|Villa Sant'Angelo
+| align="right" |441
+|-
+|066106
+|Villavallelonga
+| align="right" |971
+|-
+|066107
+|Villetta Barrea
+| align="right" |642
+|-
+|066108
+|Vittorito
+| align="right" |980
+|-
+|
+|Total
+| align="right" |304,068
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

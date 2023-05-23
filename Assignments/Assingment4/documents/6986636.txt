@@ -1,0 +1,83 @@
+Title: Tangara (bird)
+
+Tangara  is a large genus of birds of the tanager family. It includes 27 species. All are from the Neotropics, and while most are fairly widespread, some have  small distributions and are threatened. They are fairly small, ranging in size from . This genus includes some of the most spectacularly colored birds of the world.
+
+==Taxonomy and species list==
+The genus Tangara was introduced by the French zoologist Mathurin Jacques Brisson in 1760 with the paradise tanager (Tangara chilensis) as the type species. The name means "dancer" in the extinct Tupi language.
+
+The genus formerly included additional species. A molecular phylogenetic study published in 2014 found that many of the members of Thraupis was embedded within Tangara. In the reorganization to create monophyletic genera, rather than merging Thraupis into Tangara to create an unusually large genus with around 58 species, taxonomists chose to split off species from Tangara into four other genera. Two of these genera were newly erected (Stilpnia, Poecilostreptus) and two were resurrected: they had been introduced earlier but were not in use (Ixothraupis, Chalcothraupis).
+
+The genus now contains 28 species:
+
+{| class="wikitable"
+|-
+! Image !! Common Name !! Scientific name !! Distribution
+|- 
+|150px || Blue-and-black tanager || Tangara vassorii||Bolivia, Colombia, Ecuador, Peru and Venezuela
+|-
+|150px || Beryl-spangled tanager || Tangara nigroviridis||Colombia through Ecuador and Peru to Bolivia
+|-
+|150px || Spangle-cheeked tanager || Tangara dowii|| Costa Rica and western Panama
+|-
+| || Green-naped tanager || Tangara fucosa||  Colombia and Panama
+|- 
+| 150px || Blue-browed tanager || Tangara cyanotis||  Bolivia, Colombia, Ecuador, and Peru
+|-
+| || Rufous-cheeked tanager || Tangara rufigenis|| Venezuela
+|-
+| 150px || Metallic-green tanager || Tangara labradorides|| Colombia, Ecuador, and Peru
+|-
+|150px || Bay-headed tanager || Tangara gyrola|| Ecuador, Bolivia and southern Brazil, and on Trinidad
+|-
+|150px || Rufous-winged tanager || Tangara lavinia||  Colombia, Costa Rica, Ecuador, Honduras, Nicaragua, and Panama
+|- 
+|150px || Golden-eared tanager || Tangara chrysotis||  eastern Andes of Bolivia, Colombia, Ecuador and Peru
+|- 
+|150px || Saffron-crowned tanager || Tangara xanthocephala||northern Andes of Bolivia, Colombia, Ecuador, Peru, and Venezuela.
+|-
+|150px || Flame-faced tanager || Tangara parzudakii|| eastern Andes of Colombia, Ecuador, Peru and Venezuela
+|-
+||| Blue-whiskered tanager || Tangara johannae|| Colombia and Ecuador
+|-
+|150px || Green-and-gold tanager || Tangara schrankii|| eastern Venezuela, Colombia, Ecuador, Peru, central Bolivia, and northwestern Brazil
+|-
+|150px || Golden tanager || Tangara arthus|| Andes (from Bolivia and northwards) and Venezuelan Coastal Range in north-western South America
+|-
+|150px || Emerald tanager || Tangara florida||  Colombia, Costa Rica, Ecuador, and Panama
+|-
+|150px || Silver-throated tanager || Tangara icterocephala||Costa Rica, through Panama and western Colombia, to western Ecuador.
+|-
+|150px || Seven-colored tanager || Tangara fastuosa|| north-eastern Brazil
+|-
+|150px || Green-headed tanager || Tangara seledon|| south-eastern Brazil, far eastern Paraguay, and far north-eastern Argentina
+|-
+|150px || Red-necked tanager || Tangara cyanocephala||  Argentina, Brazil, and Paraguay
+|-
+|150px || Brassy-breasted tanager || Tangara desmaresti||Brazil
+|- 
+|150px || Gilt-edged tanager || Tangara cyanoventris||  Brazil
+|-
+|150px || Plain-colored tanager || Tangara inornata|| Colombia, Costa Rica, and Panama
+|-
+|150px || Turquoise tanager || Tangara mexicana|| Trinidad, Colombia and Venezuela south to Bolivia and much of Brazil
+|-
+|150px || White-bellied tanager || Tangara brasiliensis|| east Brazil
+|-
+|150px || Paradise tanager|| Tangara chilensis|| western and northern Amazon Basin in South America, it occurs in Venezuela, Peru, Colombia, Ecuador, Bolivia, Brazil and the Guianas
+|-
+| 150px || Opal-crowned tanager || Tangara callophrys||  southern Colombia, eastern Ecuador and Peru and a region of northwestern Bolivia; for Brazil 
+|-
+|150px || Opal-rumped tanager || Tangara velia||  Amazon and Atlantic Forest of South America
+|-
+|}
+
+==Distribution and habitat==
+These tanagers are mainly found high in forest canopies, but some occupy more open habitat. They are found at all elevations below tree line but are most diverse in the Andean subtropical and foothill forests of Colombia, Ecuador and Peru.
+
+==Behaviour and ecology==
+===Breeding===
+The female builds a usually well concealed cup nest and lays two brown- or lilac-speckled white eggs. These hatch in 13–14 days and the chicks fledge in a further 15–16 days. The male and female feed the nestlings on insects and fruit, and may be assisted by helpers.
+
+===Food and feeding===
+Tangara tanagers pick insects from leaves, or sometimes in flight, but fruit is a major dietary item, accounting for 53-86% of food items in those species which have been studied.
+

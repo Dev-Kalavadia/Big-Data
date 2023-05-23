@@ -1,0 +1,61 @@
+Title: Szczecinek County
+__NOTOC__
+
+Szczecinek County () is a unit of territorial administration and local government (powiat) in West Pomeranian Voivodeship, north-western Poland. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and largest town is Szczecinek, which lies  east of the regional capital Szczecin. The county contains three other towns: Borne Sulinowo,  south-west of Szczecinek, Barwice,  west of Szczecinek, and Biały Bór,  north-east of Szczecinek.
+
+The county covers an area of . As of 2006 its total population is 77,232, out of which the population of Szczecinek is 38,756, that of Borne Sulinowo is 4,224, that of Barwice is 3,838, that of Biały Bór is 2,127, and the rural population is 28,287.
+
+==Neighbouring counties==
+Szczecinek County is bordered by Koszalin County to the north, Bytów County to the north-east, Człuchów County to the east, Złotów County to the south, Drawsko County and Świdwin County to the west, and Białogard County to the north-west.
+
+==Administrative division==
+The county is subdivided into six gminas (one urban, three urban-rural and two rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km²)
+| style="text-align:center;"|Population(2006)
+| style="text-align:center;"|Seat
+|-
+|Szczecinek
+|urban
+| style="text-align:right;"|37.2
+| style="text-align:right;"|38,756
+| 
+|-
+|Gmina Szczecinek
+|rural
+| style="text-align:right;"|510.2
+| style="text-align:right;"|10,171
+|Szczecinek *
+|-
+|Gmina Borne Sulinowo
+|urban-rural
+| style="text-align:right;"|484.2
+| style="text-align:right;"|9,230
+|Borne Sulinowo
+|-
+|Gmina Barwice
+|urban-rural
+| style="text-align:right;"|258.9
+| style="text-align:right;"|8,897
+|Barwice
+|-
+|Gmina Biały Bór
+|urban-rural
+| style="text-align:right;"|270.2
+| style="text-align:right;"|5,166
+|Biały Bór
+|-
+|Gmina Grzmiąca
+|rural
+| style="text-align:right;"|204.5
+| style="text-align:right;"|5,012
+|Grzmiąca
+|-
+|colspan=5 style="text-align:right;font-size:90%"|* seat not part of the gmina
+|-
+|}
+

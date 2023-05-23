@@ -1,0 +1,207 @@
+Title: List of places in Alaska (E)
+
+This list of cities, towns, unincorporated communities, counties, and other recognized places in the U.S. state of Alaska also includes information on the number and names of counties in which the place lies, and its lower and upper zip code bounds, if applicable.
+
+
+{| class="wikitable"
+!Name of place
+!Number of counties
+!Principal county
+!Lower zip code
+!Upper zip code
+|----
+|Eagle
+|1
+|Southeast Fairbanks Census Area
+|99738
+| 
+|----
+|Eagle River
+|1
+|Municipality of Anchorage
+|99577
+| 
+|----
+|Eagle Village
+|1
+|Southeast Fairbanks Census Area
+|99738
+| 
+|----
+|Eastchester
+|1
+|Municipality of Anchorage
+|99501
+| 
+|----
+|East Fork
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Edna Bay
+|1
+|Prince of Wales-Outer Census Area
+|99901
+| 
+|----
+|Eek
+|1
+|Bethel Census Area
+|99578
+| 
+|----
+|Egavik
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Egegik
+|1
+|Lake and Peninsula Borough
+|99579
+| 
+|----
+|Eielson
+|1
+|Fairbanks North Star Borough
+|99702
+| 
+|----
+|Eielson Reservation
+|1
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Eklutna
+|1
+|Municipality of Anchorage
+|99567
+| 
+|----
+|Ekuk
+|1
+|Dillingham Census Area
+|99576
+| 
+|----
+|Ekwok
+|1
+|Dillingham Census Area
+|99580
+| 
+|----
+|Elephant Point
+|1
+|Northwest Arctic Borough
+| 
+| 
+|----
+|Elfin Cove
+|1
+|Skagway-Hoonah-Angoon Census Area
+|99825
+| 
+|----
+|Elim
+|1
+|Nome Census Area
+|99739
+| 
+|----
+|Ellamar
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Elmendorf Air Force Base
+|1
+|Municipality of Anchorage
+|99506
+| 
+|----
+|Emanguk
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Emmonak
+|1
+|Kusilvak Census Area
+|99581
+| 
+|----
+|English Bay
+|1
+|Kenai Peninsula Borough
+|99603
+| 
+|----
+|Eska
+|1
+|Matanuska-Susitna Borough
+|99674
+| 
+|----
+|Espenberg
+|1
+|Northwest Arctic Borough
+| 
+| 
+|----
+|Ester
+|1
+|Fairbanks North Star Borough
+|99725
+| 
+|----
+|Eureka
+|1
+|Matanuska-Susitna Borough
+|99645
+| 
+|----
+|Eureka
+|1
+|Yukon-Koyukuk Census Area
+|99756
+| 
+|----
+|Eureka Roadhouse
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Evansville
+|1
+|Yukon-Koyukuk Census Area
+|99726
+| 
+|----
+|Excursion Inlet
+|1
+|Haines Borough
+|99826
+| 
+|----
+|Eyak
+|1
+|Valdez-Cordova Census Area
+|99574
+| 
+|----
+|Eyak
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|}
+
+ E

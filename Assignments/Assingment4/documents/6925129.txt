@@ -1,0 +1,11 @@
+Title: NR 26 mineThe NR 26 is a Dutch circular minimum metal anti-tank blast mine similar to the French M51 MACI. The mine uses an NR 26 friction pressure fuze with a sheer collar designed to give way at a load of 350 kg. Two secondary fuze wells for anti-handling devices are fitted to the side and base of the mine, and carrying handle is fitted to the side of the mine.
+
+The mine is currently in service with the Royal Netherlands Army
+
+==Specifications==
+* Diameter: 300 mm
+* Height: 120 mm
+* Weight: 9 kg
+* Explosive content: 8.9 kg of TNT
+* Operating pressure: 350 kg
+

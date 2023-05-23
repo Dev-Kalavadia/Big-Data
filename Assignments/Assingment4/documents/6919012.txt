@@ -1,0 +1,254 @@
+Title: List of places in Alaska (G)
+This list of cities, towns, unincorporated communities, counties, and other recognized places in the U.S. state of Alaska also includes information on the number and names of counties in which the place lies, and its lower and upper zip code bounds, if applicable.
+
+
+{| class="wikitable"
+!Name of place
+!Number of counties
+!Principal county
+!Lower zip code
+!Upper zip code
+|----
+|Gakona
+|1
+|Valdez-Cordova Census Area
+|99586
+| 
+|----
+|Gakona Junction
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Galena
+|1
+|Yukon-Koyukuk Census Area
+|99741
+| 
+|----
+|Galena Airport
+|1
+|Yukon-Koyukuk Census Area
+|98741
+| 
+|----
+|Galena City School District
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Gambell
+|1
+|Nome Census Area
+|99742
+| 
+|----
+|Game Creek
+|1
+|Skagway-Hoonah-Angoon Census Area
+| 
+| 
+|----
+|Ganes Creek
+|1
+|Yukon-Koyukuk Census Area
+|99675
+| 
+|----
+|Garden Island
+|1
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Garner
+|1
+|Denali Borough
+| 
+| 
+|----
+|Gates of the Arctic National Park
+|3
+|North Slope Borough
+|99501
+| 
+|----
+|Gates of the Arctic National Park
+|3
+|Northwest Arctic Borough
+|99501
+| 
+|----
+|Gates of the Arctic National Park
+|3
+|Yukon-Koyukuk Census Area
+|99501
+| 
+|----
+|Gateway
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Georgetown
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|Gildersleeve Float
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Gilpatricks
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Girdwood
+|1
+|Municipality of Anchorage
+|99587
+| 
+|----
+|Glacier
+|1
+|Municipality of Skagway Borough
+| 
+| 
+|----
+|Glacier Bay National Park
+|2
+|Skagway-Hoonah-Angoon Census Area
+|99501
+| 
+|----
+|Glacier Bay National Park
+|2
+|City and Borough of Yakutat
+|99501
+| 
+|----
+|Glacier View
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Glen Alps
+|1
+|Municipality of Anchorage
+|99501
+| 
+|----
+|Glennallen
+|1
+|Valdez-Cordova Census Area
+|99588
+| 
+|----
+|Goddard
+|1
+|City and Borough of Sitka
+| 
+| 
+|----
+|Gold Creek
+|1
+|Matanuska-Susitna Borough
+|99676
+| 
+|----
+|Golden
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Golovin
+|1
+|Nome Census Area
+|99762
+| 
+|----
+|Goodnews Bay
+|1
+|Bethel Census Area
+|99589
+| 
+|----
+|Goodnews Mining Camp
+|1
+|Bethel Census Area
+|99651
+| 
+|----
+|Gordon
+|1
+|North Slope Borough
+| 
+| 
+|----
+|Gost Creek
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Graehl
+|1
+|Fairbanks North Star Borough
+|99701
+| 
+|----
+|Grandview
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Granite Mountain
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Grant Creek
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Grayling
+|1
+|Yukon-Koyukuk Census Area
+|99590
+| 
+|----
+|Grouse Creek Group
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Gulkana
+|1
+|Valdez-Cordova Census Area
+|99586
+| 
+|----
+|Gustavus
+|1
+|Skagway-Hoonah-Angoon Census Area
+|99826
+| 
+|----
+|}
+
+ G

@@ -1,0 +1,84 @@
+Title: Structuralism (biology)
+
+
+
+
+Biological or process structuralism is a school of biological thought that objects to an exclusively Darwinian or adaptationist explanation of natural selection such as is described in the 20th century's modern synthesis. It proposes instead that evolution is guided differently, basically by more or less physical forces which shape the development of an animal's body, and sometimes implies that these forces supersede selection altogether.
+
+Structuralists have proposed different mechanisms that might have guided the formation of body plans. Before Darwin, Étienne Geoffroy Saint-Hilaire argued that animals shared  homologous parts, and that if one was enlarged, the others would be reduced in compensation. After Darwin, D'Arcy Thompson hinted at vitalism and offered geometric explanations in his classic 1917 book On Growth and Form. Adolf Seilacher suggested mechanical inflation for "pneu" structures in Ediacaran biota fossils such as Dickinsonia. Günter P. Wagner argued for developmental bias, structural constraints on embryonic development. Stuart Kauffman favoured self-organisation, the idea that complex structure emerges holistically and spontaneously from the dynamic interaction of all parts of an organism. Michael Denton argued for laws of form by which Platonic universals or "Types" are self-organised. Stephen J. Gould and Richard Lewontin proposed biological "spandrels", features created as a byproduct of the adaptation of nearby structures. Gerd B. Müller and Stuart A. Newman argued that the appearance in the fossil record of most of the current phyla in the Cambrian explosion was "pre-Mendelian" evolution caused by physical factors. Brian Goodwin, described by Wagner as part of "a fringe movement in evolutionary biology", denies that biological complexity can be reduced to natural selection, and argues that pattern formation is driven by morphogenetic fields.
+
+Darwinian biologists have criticised structuralism, emphasising that there is plentiful evidence both that natural selection is effective and, from deep homology, that genes have been involved in shaping organisms throughout evolutionary history. They accept that some structures such as the cell membrane self-assemble, but deny the ability of self-organisation to drive large-scale evolution.
+
+==History==
+
+
+
+
+
+===Geoffroy's law of compensation===
+
+
+In 1830, Étienne Geoffroy Saint-Hilaire argued a structuralist case against the functionalist (teleological) position of Georges Cuvier. Geoffroy believed that homologies of structure between animals indicated that they shared an ideal pattern; these did not imply evolution but a unity of plan, a law of nature. He further believed that if one part was more developed within a structure, the other parts would necessarily be reduced in compensation, as nature always used the same materials: if more of them were used for one feature, less was available for the others.
+
+===D'Arcy Thompson's morphology===
+
+
+In his "eccentric, beautiful" 1917 book On Growth and Form, D'Arcy Wentworth Thompson revisited the old idea of "universal laws of form" to explain the observed forms of living organisms. The science writer Philip Ball states that Thompson "presents mathematical principles as a shaping agency that may supersede natural selection, showing how the structures of the living world often echo those in inorganic nature", and notes his "frustration at the 'Just So' explanations of morphology offered by Darwinians." Instead, Ball writes, Thompson elaborates on how not heredity but physical forces govern biological form. The philosopher of biology Michael Ruse similarly wrote that Thompson "had little time for natural selection", certainly preferring "mechanical explanations" and possibly straying into vitalism.
+
+
+
+===Seilacher's pneu structures===
+
+
+Like Thompson, the palaeontologist Adolf Seilacher emphasised fabricational constraints on form. He interpreted fossils such as Dickinsonia in the Ediacaran biota as "pneu" structures determined by mechanical inflation like a quilted air mattress, rather than having been driven by natural selection.
+
+===Wagner's constraints on development===
+
+In his 2014 book Homology, Genes, and Evolutionary Innovation, the evolutionary biologist Günter P. Wagner argues for "the study of novelty as distinct from adaptation." He defines novelty as occurring when some part of the body develops an individual and quasi-independent existence, in other words as a distinct and recognisable structure, which he implies might occur before natural selection begins to adapt the structure for some function.Wagner, Günter P., Homology, Genes, and Evolutionary Innovation.  Princeton University Press. 2014. . Pages 7–38, 125 He forms a structuralist picture of evolutionary developmental biology, using empirical evidence, arguing that homology and biological novelty are key aspects requiring explanation, and that developmental bias (i.e. structural constraints on embryonic development) is a key explanation for these.
+
+===Kauffman's self-organisation===
+
+
+The mathematical biologist Stuart Kauffman suggested in 1993 that self-organization may play a role alongside natural selection in three areas of evolutionary biology, namely population dynamics, molecular evolution, and morphogenesis. With respect to molecular biology, Kauffman has been criticised for ignoring the role of energy in driving biochemical reactions in cells, which can fairly be called self-catalysing but which do not simply self-organise.
+
+===Denton's 'Types'===
+The biochemist Michael Denton has argued a structuralist case for self-organization. In a 2013 paper, he claimed that "the basic forms of the natural world—the Types—are immanent in nature, and determined by a set of special natural biological laws, the so called 'laws of form'." He asserts that these "recurring patterns and forms" are "genuine universals". Form is in this view not shaped by natural selection, but by "self-organizing properties of particular categories of matter" and by "cosmic fine-tuning of the laws of nature". Denton has been criticised by the biochemist Laurence A. Moran as anti-Darwinian and favouring creationism.
+
+===Gould and Lewontin's spandrels===
+
+
+
+
+In 1979, influenced by Seilacher among others, the paleontologist Stephen J. Gould and the population geneticist Richard Lewontin wrote what Wagner called "the most influential structuralist manifesto", "The Spandrels of San Marco and the Panglossian Paradigm". They pointed out that biological features (like architectural spandrels) did not necessarily have adaptation as their direct cause. Instead, architects couldn't help creating small triangular areas between arches and pillars, as arches need (evolve) to be curved, and pillars need to be vertical. The resulting spandrels are exaptations, consequences of other evolutionary changes. Evolution, they argued, did not select for a protruding human chin: instead, reducing the length of the tooth row left the jaw protruding.
+
+===Müller and Newman's pre-Mendelian evolution===
+
+Extreme structuralists like Gerd B. Müller and Stuart A. Newman, inheriting the viewpoint of D'Arcy Thompson, have proposed that physical laws of structure, not genetics, govern major diversifications such as the Cambrian explosion, followed later by co-opted genetic mechanisms. They argued further that there was a "pre-Mendelian" phase of the evolution of animals, involving physical forces, before genes took over. Darwinian biologists freely admit that physical factors such as surface tension can cause self-assembly, but insist that genes play a crucial role. They note for example that deep homologies between widely separated groups of organisms, such as the signalling pathways and transcription factors of choanoflagellates and metazoans, demonstrate that genes have been involved throughout evolutionary history.
+
+===Goodwin's morphogenetic fields===
+
+
+
+What Wagner calls "a fringe movement in evolutionary biology", the form of structuralism exemplified by Brian Goodwin, effectively denies that natural selection is important, or at least that biological complexity could be reduced to natural selection. This led to conflict with Darwinists such as Richard Dawkins.Brian Goodwin obituary - The Guardian, 9 August 2009 Goodwin related the old concept of a morphogenetic field to the spatial distribution of chemical signals in a developing embryo. He demonstrated with a mathematical model that a variety of patterns could be formed by choosing parameter values to set up either static geometric patterns or dynamic oscillations, implying that the signalling system involved was somehow an alternative to natural selection. Dawkins commented "He thinks he's anti-Darwinian, although he can't be, because he has no alternative explanation."
+
+==Criticism==
+
+
+While agreeing that pattern formation mechanisms such as those described by Goodwin exist, the biologists Richard Dawkins, Stephen J. Gould, Lynn Margulis, and Steve Jones have criticised Goodwin for suggesting that chemical signalling forms an alternative to natural selection.
+
+Moran, a "skeptical biochemist", comments that 'structuralism' is a "new buzzword ... guaranteed to impress the creationist crowd because nobody understands what it means but it sounds very 'sciency' and philosophical." The philosopher of science Paul E. Griffiths writes that structuralists "view this structuring of the space of biological possibility as part of the fundamental physical structure of nature. But the phenomena of phylogenetic inertia and developmental constraint do not support this interpretation. These phenomena show that the evolutionary pathways available to an organism are a function of the developmental structure of the organism."
+
+Moran summarizes: "There's nothing in science that supports the views of the structuralists. We have perfectly good explanations for why bumblebees are different than mushrooms and why all vertebrates have vertebrae and not exoskeletons. There's no evidence to support the idea that if you replay the tape of life it will come out looking anything like what we see today. You can be confident that when you visit another planet you will not find vertebrates."
+
+The evolutionary developmental biologist Lewis Held wrote that "The notion that aspects of anatomy can be explained by physical forces (like expansion cracking) was advocated ~ 100 years earlier in D'Arcy Thompson's 1917 On Growth and Form and in Theodore Cook's 1914 book The Curves of Life. Over the intervening century, various traits have been proposed to arise mechanically rather than genetically: brain convolutions, cartilage condensations, flower corrugations, tooth cusps, and fish otoliths. To this kooky list we can now add the crooked smile of the crocodile, or at least the cracked skin that surrounds it."
+
+==See also==
+
+* Alternatives to Darwinism
+* Eclipse of Darwinism
+* Extended evolutionary synthesis
+* Orthogenesis
+
+==Notes==
+
+

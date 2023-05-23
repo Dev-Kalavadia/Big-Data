@@ -1,0 +1,19 @@
+Title: 440 (number)
+
+440 (four hundred [and] forty) is the natural number following 439 and preceding 441.
+
+==In mathematics==
+440 has the factorization 
+
+440 is:
+* Even
+* The sum of the first 17 prime numbers
+* A harshad number
+* An abundant number
+* A happy number
+
+== References ==
+
+
+
+Category:Integers

@@ -1,0 +1,385 @@
+Title: Thai and Lao Braille
+
+
+Thai Braille () and Lao Braille () are the braille alphabets of the Thai language and Lao language. Thai Braille was adapted by Genevieve Caulfield, who knew both English and Japanese Braille. Unlike the print Thai alphabet, which is an abugida, Thai and Lao Braille have full letters rather than diacritics for vowels. However, traces of the abugida remain: Only the consonants are based on the international English and French standard, while the vowels are reassigned and the five vowels transcribed a e i o u are taken from Japanese Braille.
+
+==Braille charts==
+Thai and Lao Braille run as follows:คู่มือการอ่าน การเขียน และการผลิตเอกสารอักษรเบรลล์ขั้นพื้นฐาน (Parked Domain)UNESCO (2013) World Braille Usage, 3rd edition.
+
+===Consonants===
+Consonants follow English and international conventions except where, as in b and f, there is interference from the Japanese-derived vowels. Low-tone-class kh, ng, ch, s, th, f are derived from English Braille k, g, st, s, th, f by adding dot 6. B and low ph are derived from high ph through reflection; p is a superposition of b and ph; the three consonants had been transcribed b, bp, p in Caulfield's day.
+
+{| class="wikitable"
+
+	
+		|- align=center
+		!Thai
+		|style="background-color: #888; color: #fff"|ก k
+		|style="background-color: #fff; color: #000"|ข kh
+		|style="background-color: #fff; color: #000"|ฃ *kh
+		|style="background-color: #000; color: #fff"|ค kh
+		|style="background-color: #000; color: #fff"|ฅ *kh
+		|style="background-color: #000; color: #fff"|ฆ kh
+		|style="background-color: #000; color: #fff"|ง ng
+	
+	
+		|- align=center
+		!Lao
+		|style="background-color: #888; color: #fff"|ກ k
+		|style="background-color: #fff; color: #000"|ຂ kh
+		| |
+		|style="background-color: #000; color: #fff"|ຄ kh
+		| |
+		| |
+		|style="background-color: #000; color: #fff"|ງ ng
+	
+	
+		|- align=center
+		!Braille
+		|
+		|
+		|
+		|
+		|
+		|
+		|
+	
+
+|-
+|colspan=8|
+
+	
+		|- align=center
+		|rowspan=3|
+		|style="background-color: #888; color: #fff"|จ c
+		|style="background-color: #fff; color: #000"|ฉ ch
+		|rowspan=3|
+		|style="background-color: #000; color: #fff"|ช ch
+		|style="background-color: #000; color: #fff"|ซ s
+		|style="background-color: #000; color: #fff"|ฌ ch
+		|style="background-color: #000; color: #fff"|ญ y
+	
+	
+		|- align=center
+		|style="background-color: #888; color: #fff"|ຈ ch
+		| |
+		| |
+		|style="background-color: #000; color: #fff"|ຊ s
+		| |
+		|style="background-color: #888; color: #fff"|ຢ y
+	
+	
+		|- align=center
+		|
+		|
+		|
+		|
+		|
+		|
+	
+
+|-
+|colspan=8|
+
+	
+		|- align=center
+		|style="background-color: #888; color: #fff"|ฎ d
+		|style="background-color: #888; color: #fff"|ฏ t
+		|style="background-color: #fff; color: #000"|ฐ th
+		|rowspan=3|
+		|style="background-color: #000; color: #fff"|ฑ th
+		|style="background-color: #000; color: #fff"|ฒ th
+		|rowspan=3|
+		|style="background-color: #000; color: #fff"|ณ n
+	
+	
+		|- align=center
+		| |
+		| |
+		| |
+		| |
+		| |
+		| |
+	
+	
+		|- align=center
+		|
+		|
+		|
+		|
+		|
+		|
+	
+
+|-
+|colspan=8|
+
+	
+		|- align=center
+		|style="background-color: #888; color: #fff"|ด d
+		|style="background-color: #888; color: #fff"|ต t
+		|style="background-color: #fff; color: #000"|ถ th
+		|rowspan=3|
+		|style="background-color: #000; color: #fff"|ท th
+		|style="background-color: #000; color: #fff"|ธ th
+		|rowspan=3|
+		|style="background-color: #000; color: #fff"|น n
+	
+	
+		|- align=center
+		|style="background-color: #888; color: #fff"|ດ d
+		|style="background-color: #888; color: #fff"|ຕ t
+		|style="background-color: #fff; color: #000"|ຖ th
+		|style="background-color: #000; color: #fff"|ທ th
+		| |
+		|style="background-color: #000; color: #fff"|ນ n
+	
+	
+		|- align=center
+		|
+		|
+		|
+		|
+		|
+		|
+	
+
+|-
+|colspan=8|
+
+	
+		|- align=center
+		|style="background-color: #888; color: #fff"|บ b
+		|style="background-color: #888; color: #fff"|ป p
+		|style="background-color: #fff; color: #000"|ผ ph
+		|style="background-color: #fff; color: #000"|ฝ f
+		|style="background-color: #000; color: #fff"|พ ph
+		|style="background-color: #000; color: #fff"|ฟ f
+		|style="background-color: #000; color: #fff"|ภ ph
+		|style="background-color: #000; color: #fff"|ม m
+	
+	
+		|- align=center
+		|style="background-color: #888; color: #fff"|ບ b
+		|style="background-color: #888; color: #fff"|ປ p
+		|style="background-color: #fff; color: #000"|ຜ ph
+		|style="background-color: #fff; color: #000"|ຝ f
+		|style="background-color: #000; color: #fff"|ພ ph
+		|style="background-color: #000; color: #fff"|ຟ f
+		| |
+		|style="background-color: #000; color: #fff"|ມ m
+	
+	
+		|- align=center
+		|
+		|
+		|
+		|
+		|
+		|
+		|
+		|
+	
+
+|-
+|colspan=8|
+
+	
+		|- align=center
+		|style="background-color: #000; color: #fff"|ย y
+		|style="background-color: #000; color: #fff"|ร r
+		|style="background-color: #000; color: #fff"|ล l
+		|style="background-color: #000; color: #fff"|ว w
+		|style="background-color: #fff; color: #000"|ศ s
+		|style="background-color: #fff; color: #000"|ษ s
+		|style="background-color: #fff; color: #000"|ส s
+		|style="background-color: #fff; color: #000"|ห h
+	
+	
+		|- align=center
+		|style="background-color: #000; color: #fff"|ຍ ⁿy
+		|style="background-color: #000; color: #fff"|ຣ r
+		|style="background-color: #000; color: #fff"|ລ l
+		|style="background-color: #000; color: #fff"|ວ w
+		| |
+		| |
+		|style="background-color: #fff; color: #000"|ສ s
+		|style="background-color: #fff; color: #000"|ຫ h
+	
+	
+		|- align=center
+		|
+		|
+		|
+		|
+		|
+		|
+		|
+		|
+	
+
+|-
+|colspan=8|
+
+	
+		|- align=center
+		|rowspan=3|
+		|style="background-color: #888; color: #fff"|อ '
+		|style="background-color: #000; color: #fff"|ฬ l
+		|style="background-color: #000; color: #fff"|ฮ h
+	
+	
+		|- align=center
+		|style="background-color: #888; color: #fff"|ອ '
+		| |
+		|style="background-color: #000; color: #fff"|ຮ h
+	
+	
+		|- align=center
+		|
+		|
+		|
+	
+
+|}
+Letters with asterisks are obsolete. Light cells are high tone-class letters in Thai, medium cells mid tone class, and dark cells low tone class. Consonants of different tone classes have distinct braille letters; complete homonyms, found in Thai only, are distinguished by prefixes. The one prefix in Lao is found in  (ຢ  y), which corresponds to Thai ying (ญ  y) in Braille but corresponds to Thai yak (ย  y) in alphabetic (non-Braille) position. Lao  (ຍ  ny) corresponds to Thai yak (ย  y) in Braille and looks but corresponds to Thai ying (ญ  y) in alphabetic position.
+
+In Thai,  h is prefixed to low-class nasal stops and non-plosives  ng y n m r l w to move them to the high-tone class. Lao has the same system for similar characters  ng ny n m l w.
+
+===Vowels===
+The short vowels transcribed a e i o u are taken from Japanese Braille, and the long vowels ā ē ī ō ū are derived from these.  ǫ () is French and international o, and  eu/ue is French œ. The other vowels have little recognizable connection to other braille alphabets.
+
+All vowels are written after the consonant in braille, regardless of their order in print. Although the vowels have different forms in print, depending on their environment, they have a single form in braille with few exceptions (short a and in Lao short o).
+
+{| class="wikitable"
+|- align=center
+|◌ะ a◌ະ ||◌า ā◌າ ||ิ i◌ິ ||ี ī◌ີ ||ึ eu◌ຶ ||ื e͞u◌ື ||ุ u*||ู ū◌ູ 
+|- align=center
+|  ||  ||  ||  ||  ||  ||  || 
+|- align=center
+|ั a◌ັ ||แ◌ a͞eແ◌ ||เ◌ ēເ◌ ||โ◌ ōໂ◌ ||◌อ ǭ◌ໍ ||colspan=2|เ◌าะ ǫເ◌າະ ||เ◌อ o͞eເ◌ີ 
+|- align=center
+|  ||  ||  ||  ||  || colspan=2| ||  
+|- align=center
+| ำ am◌ໍາ ||ไ◌ aiໄ◌ ||colspan=2|ใ◌ aiໃ◌ ||เ◌า aoເ◌ົາ || ัว ūa◌ົວ ||เีย īaເ◌ຍ ||เือ e͞uaເ◌ືອ 
+|- align=center
+|  ||  || colspan=2| ||  ||  ||  ||  
+|- align=center
+| colspan=2|ฤ rue ||colspan=2|ฦ lue ||*◌ຸ u||*◌ົ o|| ◌ຽ oi
+|- align=center
+| colspan=2| || colspan=2| || || || 
+|}
+
+*Lao has reassigned  to ◌ົ o and moved ◌ຸ u to .
+
+When  is used in print to indicate a short vowel,  is appended to the vowel in braille. ฤๅ and ฦๅ are written as ฤ or ฦ plus า in braille. The one irregularity in Thai, also found in Lao, is  for  short ǫ, written in braille though not in print as the short variant of  –อ long ǭ.  Lao has additional, similar regularization of print conventions:  for short ເ◌ິ oe, and similarly the braille short sign for a different print diacritic in short ເ◌ຶອ eua and ເ◌ັຍ ia.
+
+===Tone letters===
+
+{| class="wikitable"
+|- align=center
+| ่  ◌່  ¹|| ้  ◌້  ² || ๊  ◌໊  ³ || ๋  ◌໋  ⁴
+|- align=center
+|  
+|  
+|  
+|  
+|}
+
+===Other symbols ===
+
+{| class="wikitable"
+|- align=center
+| ์ || ๆ ||	็   ฺ || ฯ || ฯลฯ || ◌̊
+|- align=center
+|  || ໆ ||  ||  ||  || 
+|- align=center
+| silent characters || reduplication || denotes short vowel || abbreviation || etc. || anusvara
+|- align=center
+|  ||  ||   
+|  ||  
+|  
+|}
+
+The short sign ( ็) is also used for the rarer virama ( ฺ).
+
+==Numbers==
+Numbers are the same as in other braille alphabets, though dot six  is prefixed to the  to specify that they're Thai or Lao digits. Thus, a sequence of numbers begins with .
+
+{| class="wikitable"
+|- align=center
+| prefix denoting numbers
+|- align=center
+| 
+|}
+
+{| class=wikitable
+|- align=center
+!
+! 1 !! 2 !! 3 !! 4 !! 5
+! 6 !! 7 !! 8 !! 9 !! 0
+|- align=center
+!Thai Numerals
+| ๑ || ๒ || ๓ || ๔ || ๕ 
+| ๖ || ๗ || ๘ || ๙ || ๐ 
+|- align=center
+!Lao Numerals
+| ໑ || ໒ || ໓ || ໔ || ໕ 
+| ໖ || ໗ || ໘ || ໙ || ໐ 
+|- align=center
+!Braille
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|}
+
+==Punctuation==
+
+Single (though not paired) clause-final punctuation may introduced with , but is otherwise as in English Braille.
+
+{| class="wikitable"
+|- align=center
+| . || ? || ! || ; || : || / 
+|- align=center
+|  ||  
+|  ||  ||  
+|  
+|}
+
+There is some variability in the use of the  to mark stop/period, comma, and the exclamation point.  Thai Braille seems to use  for the comma, while Lao Braille uses , unless the latter is a copy error in Unesco (2013).
+
+{| class="wikitable"
+|- align=center
+| - || = || ″ || % 
+|- align=center
+|  ||  ||  ||  
+|}
+
+{| class="wikitable"
+|- align=center
+| “ ... ” || ( ... ) || ........ || -----
+|- align=center
+| ... || ... ||  
+|  
+|}
+
+==Example==
+:{|
+|- align=center
+!Braille
+|||||||
+|- align=center
+!Thai
+|style="font-size:220%"|||style="font-size:220%"|||style="font-size:220%"|||style="font-size:220%"|
+|- align=center
+!Lao
+|style="font-size:220%"|||style="font-size:220%"|||style="font-size:220%"|||style="font-size:220%"|
+|}
+

@@ -1,0 +1,996 @@
+Title: Timeline of the American Old West
+thumb|1882 hand-colored map depicting the western half of the continental United States
+
+This timeline of the American Old West is a chronologically ordered list of events significant to the development of the American West as a region of the continental United States. The term "American Old West" refers to a vast geographical area and lengthy-time period of imprecise boundaries, and historians' definitions vary. The events in this timeline occurred primarily in the portion of the modern continental United States west of the Mississippi River, and mostly in the period between the Louisiana Purchase in 1803 and the admission of the last western territories as states in 1912 where most of the frontier was already settled and became urbanized; a few typical frontier episodes happened after that, such as the admission of Alaska into the Union in 1959. A brief section summarizing early exploration and settlement prior to 1803 is included to provide a foundation for later developments. Rarely, events significant to the history of the West but which occurred within the modern boundaries of Canada and Mexico are included as well.
+
+Western North America was inhabited for millennia by various groups of Native Americans and later served as a frontier to the Spanish Empire, which began colonizing the region starting in the 16th century. British, French, and Russian claims followed in the 18th and 19th centuries, though these did not result in settlement and the region remained in Spanish hands. After the American Revolution, the newly independent United States began securing its own frontier from the Appalachian Mountains westward for settlement and economic investment by American pioneers. The long history of American expansion into these lands has played a central role in shaping American culture, iconography, and the modern national identity, and remains a popular topic for study by scholars and historians.
+
+Events listed below are notable developments for the region as a whole, not just for a particular state or smaller subdivision of the region; as historians Hine and Faragher put it, they "tell the story of the creation and defense of communities, the use of the lands, the development of markets, and the formation of states.... It is a tale of conquest, but also one of survival, persistence, and the merging of peoples and cultures."
+
+==Early exploration and settlement==
+
+
+
+For almost three centuries after Columbus' voyages to the New World, much of western North America remained unsettled by white colonists, despite various territorial claims made by European colonial powers. European interest in the vast territory was initially motivated by the search for precious metals, especially gold, and the fur trade, with miners, trappers, and hunters among the first people of European descent to permanently settle in the West. The early years were also a period of scientific exploration and survey, such that by 1830 the rough outline of the western half of the continent had been mapped to the Pacific Ocean.Robert M. Utley, ed. (2003) The Story of The West DK Publishing, New York .
+
+{|class=wikitable
+!Year
+!width=55|Date
+!Event
+|-
+|rowspan=1|1540||Feb 23||Spanish conquistador Francisco Vázquez de Coronado embarks on an expedition into the unexplored territory north of colonized Mexico to search for the fabled Seven Cities of Gold. The voyage lasts more than two years, during which Coronado travels through much of the American Southwest and as far north as present-day Kansas. His party is the first to document the geography and indigenous peoples of significant portions of the West.Winship, George Parker, translator and editor. The Journey of Coronado 1540–1542. Golden, CO: Fulcrum Publishing, 1990. Introduction by Donald C. Cutter. 
+|-
+|rowspan=1|1579||Jun 17||English explorer Francis Drake lands his expedition on the Pacific coast of North America in present-day Drakes Bay, California, claiming all of the land not already under Spanish control for the English Crown.
+|-
+|rowspan=1|1598||Apr||Spanish explorer Juan de Oñate establishes Nuevo México in the region around the upper Rio Grande as the northernmost province of New Spain, serving as its first colonial governor.
+|-
+|rowspan=1|1607|| ||Spanish colonists establish the city of Santa Fe in the province of Santa Fe de Nuevo México.
+|-
+|rowspan=1|1610|| ||The Palace of the Governors is built in Santa Fe, the new capital of Nuevo México. Today it is the oldest continuously occupied public building in the United States.
+|-
+|rowspan=1|1680||Aug 10||An alliance of Puebloans coordinated by Popé initiates a mass revolt against Spanish colonists occupying what is now northern New Mexico in an effort to abolish European influence in the area. More than 400 people are killed and the Spanish are unable to reconquer Santa Fe for another 12 years.
+|-
+|rowspan=1|1692|| ||Santa Fe is formally repossessed by the Spanish after Diego de Vargas negotiates a peace with the Pueblo Indians. The following six years witness a difficult reinstatement of Spanish and Franciscan rule over the Pueblos, including another revolt in 1696, which is successfully countered by De Vargas and his forces.
+|-
+|rowspan=1|1718||May 1||The Misión San Antonio de Valero, later known as The Alamo, is founded in Spanish Texas to undermine French claims in the area. Four days later, the Presidio San Antonio de Béxar is established nearby to protect the new town of San Antonio de Béxar.
+|-
+|rowspan=1|1743||Mar 30||François and Louis-Joseph Gaultier de La Vérendrye, on expedition west from Quebec, bury an inscribed lead plate near present-day Fort Pierre, South Dakota, claiming the area for France.
+|-
+|rowspan=1|1759||Oct 7||A Spanish attack on a fortified Indian village along the Red River in what is now Texas is repulsed and defeated by allied Wichita, Comanche, and Tonkawa tribes.Allen, Henry Easton. "The Parrilla Expedition to the Red River in 1759". The Southwestern Historical Quarterly, Vol. 43, No. 1 (July 1939), p. 65.
+|-
+|rowspan=1|1762||Nov 13||France transfers all of its territory west of the Appalachian Mountains to Spain in a secret treaty just months prior to the negotiations that end the French and Indian War.
+|-
+|rowspan=1|1769||Jul 16||Spanish Franciscans, led by friar Junípero Serra, establish Mission San Diego de Alcalá in Las Californias. By 1823, the missionaries successfully plant a series of 20 more missions along the coast of what becomes the Spanish province of Alta California. These missions bring European culture to the indigenous peoples of California, but also enable a serious decline of from one-third to one-half of the indigenous population there during the Mission period.
+|-
+|rowspan=1|1775||Aug 20||A company of Spanish soldiers establishes a site for the Presidio San Agustín del Tucsón in what is now Tucson, Arizona.
+|-
+|rowspan=1|1776||Jul 29||Two Franciscan priests lead the Domínguez–Escalante expedition west from Santa Fe in an attempt to find an overland route to the Spanish Catholic mission in Monterey. Though they fail to reach Las Californias, they explore previously unknown areas of the Colorado Plateau, become the first Europeans to enter the Great Basin, and establish the eastern section of what will later become the Old Spanish Trail. cites: 
+|-
+|rowspan=1|1779||Sep 3||Comanche Indian leader Cuerno Verde is killed in combat with Spanish forces led by Juan Bautista de Anza in what is now Pueblo County, Colorado.
+|-
+|rowspan=1|1783||Sep 3||The Treaty of Paris is signed by Great Britain and the United States of America, ending the American Revolutionary War and establishing the United States as an independent country.
+|-
+|rowspan=1|1792||May 19||Captain George Vancouver's expedition drops anchor near present-day Seattle and proceeds to name Puget Sound, Mount Rainier, Vashon Island, and Restoration Point. Vancouver and his expedition are the first Europeans to explore the area, claiming it for the British Crown, along with much of the Pacific Northwest coast, including Vancouver Island and the Columbia River.
+|}
+
+
+==1800s==
+right|thumb|"Louisiana" and the Louisiana Purchase (Government Printing Office, 1912 Map No. 4)
+
+{|class=wikitable
+!Year
+!width=55|Date
+!Event
+|-
+|rowspan=1|1800||Oct 1||Under pressure from Napoléon Bonaparte, the Kingdom of Spain transfers the colony of Louisiana back to the French Republic with the secret Third Treaty of San Ildefonso.
+|-
+|rowspan=2|1803||Apr 1||The United States agrees to buy the colony of La Louisiane from the French Republic for the price of $15 million.
+|-
+|Dec 20||The United States officially takes control of Louisiana, an enormous area of imprecise boundaries extending from the Mississippi River west to the Rocky Mountains, more than doubling the land area of the new nation.
+|-
+|rowspan=1|1804||May 14||The Lewis and Clark Expedition sets out to explore and chart the territory acquired in the Louisiana Purchase. Officially titled the Corps of Discovery, the party canoes up the Missouri River from Saint Charles, spending the winter at Fort Mandan on Indian territory in what is now North Dakota.
+|-
+|rowspan=1|1805||Nov 7||Lewis and Clark sight the Pacific Ocean for the first time, near the mouth of the Columbia River. The expedition winters at Fort Clatsop on the south side of the river, near present-day Astoria, Oregon.
+|-
+|rowspan=2|1806||Jul 15||A U.S. Army reconnaissance expedition under the command of Lieutenant Zebulon Pike departs Fort Bellefontaine near Saint Louis to explore the southern Louisiana Territory.
+|-
+|Sep 23||Lewis and Clark return to Saint Louis after a journey of nearly 6,000 total miles; in the past two and a half years, the party has made contact with over 70 Indian tribes and produced 140 maps, as well as documented more than 200 new plant and animal species.
+|-
+|rowspan=1|1807||Feb 26||Spanish cavalrymen arrest the Pike Expedition in the province of Santa Fe de Nuevo México (now southern Colorado).
+|-
+|rowspan=2|1808||Apr 6||German immigrant John Jacob Astor incorporates his American Fur Company.
+|-
+|Nov 10||The Treaty of Fort Clark is signed, in which the Osage Nation cedes all of its territory east of Fort Clark and north of the Arkansas River to the United States.
+|-
+|rowspan=1|1809||Nov 9||Welsh-Canadian explorer David Thompson establishes Saleesh House as a fur-trading post of the North West Company in what is now Montana.
+|}
+
+
+==1810s==
+
+
+{|class=wikitable
+!Year
+!width=55|Date
+!Event
+|-
+|rowspan=1|1810||Sep 16||Mexican priest Miguel Hidalgo y Costilla proclaims the independence of Mexico from the Kingdom of Spain.
+|-
+|rowspan=2|1811||May||Fort Astoria is established by John Jacob Astor's Pacific Fur Company at the mouth of the Columbia River. It is the first American settlement on the Pacific coast.
+|-
+|Jun 15–16||Most of the crew of the Tonquin, one of Astor's ships trading on Vancouver Island, are massacred by Tla-o-qui-aht Indians after the captain insults a chief. The ship is scuttled the following day in a magazine explosion that kills at least 100 natives.Franchère, Gabriel (1851). "Narrative of a voyage to the Northwest coast of America, in the years 1811, 1812, 1813, and 1814, or, The first American settlement on the Pacific". Early Canadiana Online. http://www.canadiana.org/ECO/mtq?id=526827c58b&doc=35175. Retrieved 2017-09-05.
+|-
+|rowspan=4|1812||Mar||Fort Ross is established by Russian traders on the California coast as the hub of the southernmost colony in Russian America.
+|-
+|Apr 30||Louisiana is admitted as the 18th U.S. state, and the first to include land west of the Mississippi River. It is also the first state organized from the Louisiana Purchase territory, the rest of which is soon renamed the Missouri Territory.
+|-
+|Sep 4||Scottish and Irish settlers led by Miles Macdonell formally take possession of the Red River Colony. They construct Fort Daer near present-day Pembina, North Dakota, which becomes the first permanent European-American settlement in the Dakotas.
+|-
+|Oct 21||Carrying word of the fate of the Tonquin to Saint Louis, seven men of the Pacific Fur Company, led by Robert Stuart, become the first European Americans to cross the Continental Divide at South Pass, in present-day Wyoming. Later in the century, the pass will be used by half a million westward migrants as part of the main route of several emigrant trails.Robert Stuart, Kenneth A. Spaulding (Ed.), On The Oregon Trail: Robert Stuart's Journey of Discovery. University of Oklahoma Press (1953).
+|-
+|rowspan=1|1813||Mar 29||During the Mexican War of Independence, a joint expedition of Mexican and American filibusters penetrates deep into Spanish Texas and defeats a Royalist army outside San Antonio de Béxar at the Battle of Rosillo Creek. Provincial governor Manuel María de Salcedo is executed five days later.Walker, Henry P. (1962–1963) William McLane's narrative of the Magee-Gutierrez expedition, 1812-1813. Austin, TX: Texas State Historical Association. .
+|-
+|rowspan=1|1817||Dec 25||Construction begins on a frontier military post known as Fort Smith in what is now Arkansas.
+|-
+|rowspan=1|1818||Oct 20||The Treaty of 1818 establishes the 49th parallel from Lake of the Woods west to the Rocky Mountains as the boundary between the United States and British North America.
+|-
+|rowspan=2|1819||Mar 2||The Arkansas Territory is organized.
+|-
+||Sep 17||Intending to build forts along the Missouri River, a U.S. Army expedition led by Colonel Henry Atkinson and Major Stephen Harriman Long arrives by paddle steamer at Council Bluff on the river's west bank, in present-day Nebraska. It establishes what later becomes Fort Atkinson, the first Army outpost in the region, but the expedition stalls there over the winter and collapses entirely in the spring.
+|}
+
+
+==1820s==
+
+
+{|class=wikitable
+!Year
+!width=55|Date
+!Event
+|-
+|rowspan=2|1820||Mar 5||Congress passes the Missouri Compromise, prohibiting slavery in the unorganized territory north of 36.5° latitude and west of the Mississippi River, except within the boundaries of the proposed state of Missouri, while permitting the admission of Maine as a free state. Largely devised by Henry Clay, it is a landmark agreement in the debate over slavery in the West.
+|-
+|May||Major Stephen H. Long leads a scientific expedition up the Platte River, along the Front Range of the Rocky Mountains, south to the Arkansas and Canadian rivers, and finally east to present-day Fort Smith, Arkansas. Among the first expeditions to bring American artists and scientists into the West, the party includes painter Samuel Seymour, artist-naturalist Titian Peale, and physician Edwin James, who leads the first recorded ascent of Pikes Peak. Long's report, published in 1823, promotes the idea of the Great Plains as the "Great American Desert".
+|-
+|rowspan=4|1821||Feb 22||The Adams–Onís Treaty takes effect exactly two years after its initial signing, defining a new border between the territory of New Spain and the United States and further securing American claims to the Louisiana Purchase and the Oregon Country.
+|-
+|Aug 10||Missouri is admitted as the 24th U.S. state.
+|-
+|Aug 24||The Kingdom of Spain finally recognizes the independence of Mexico with the signing of the Treaty of Córdoba, ending the Mexican War of Independence.
+|-
+|Sep 1||William Becknell and a party of frontier traders leave New Franklin, Missouri bound for Santa Fe. The Becknell route will become the Santa Fe Trail.
+|-
+|rowspan=1|1822||Mar 6||William Henry Ashley and Andrew Henry place an advertisement in the Missouri Republican for one hundred "enterprising young men" to join a trapping expedition to the upper Missouri River. The respondents comprise "Ashley's Hundred", many of whom, including Jedediah Smith, Jim Bridger, Hugh Glass, and Jim Beckwourth, earn reputations as famous explorers and mountain men."Notes on General Ashley, the Overland Trail, and South Pass" Proceedings of the American Antiquarian Society 54(2): 161–312. 1944
+|-
+|rowspan=1|1823||Jun 2||Arikara warriors attack trappers working for Ashley's Rocky Mountain Fur Company on the banks of the Missouri River in what is now South Dakota, beginning the Arikara War. An expedition of American soldiers and their Sioux allies led by Lieutenant Colonel Henry Leavenworth retaliates against the Arikara several weeks later, marking the first armed conflict between the U.S. Army and Native Americans in the West.Roger L. Nichols, "Backdrop for Disaster: Causes of the Arikara War of 1823", South Dakota History, vol. 14, no. 2, pp. 93–113, Summer 1984, South Dakota State Historical Society.<p>Reprinted as ch. 9 in, Roger L. Nichols (ed), The American Indian: Past and Present, University of Oklahoma Press, 2014 .
+|-
+|rowspan=3|1824||Apr 17||The Russo-American Treaty of 1824 is signed, formally transferring Russian claims in the Pacific Northwest south of 54°40′ N latitude to the United States.Text of Russo-American Treaty of 1824
+|-
+|Apr 21||Fort Gibson is established near the confluence of the Grand River and the Arkansas River in present-day Oklahoma.Brad Agnew, "Fort Gibson" , Encyclopedia of Oklahoma History and Culture.
+|-
+|Jul 7||The first of 297 pioneer families and partnerships known as the "Old Three Hundred" are granted land titles in American empresario Stephen F. Austin's colony in Coahuila y Tejas. They are the first American settlers of Mexican Texas under a recently reformed Mexican law.Bugbee, Lester G. “The Old Three Hundred: A List of Settlers in Austin's First Colony.” The Quarterly of the Texas State Historical Association, Vol. 1, No. 2, 1897, pp. 108–117. JSTOR, https://www.jstor.org/stable/30242636?seq=1#page_scan_tab_contents
+|-
+|rowspan=2|1827||Mar 29||The town of Independence, Missouri is founded. In later years it becomes a common point of departure for pioneers journeying west on the emigrant trails.
+|-
+|May 8||Colonel Henry Leavenworth founds a U.S. Army cantonment later known as Fort Leavenworth above the confluence of the Little Platte and the Missouri River in present-day Kansas.A Brief History of Fort Leavenworth – John W. Partin .
+|-
+|rowspan=1|1828||Jul 14||Trapper, explorer, and mountain man Jedediah Smith and his party are attacked by Umpqua Indians in the Oregon Country. Smith and three others are the only survivors.
+|-
+|rowspan=1|1829||Nov 7||A merchant caravan led by Antonio Armijo embarks from Abiquiú, New Mexico and successfully reaches San Gabriel, California 86 days later, becoming the first to travel the length of the Old Spanish Trail.
+|}
+
+
+==1830s==
+
+
+{|class=wikitable
+!Year
+!width=55|Date
+!Event
+|-
+|rowspan=2|1830||Apr 6||The Law of April 6, 1830 is passed by the Mexican government, which increases tariffs on American goods entering Mexico, cancels unfulfilled colonization contracts, and bans any further immigration from the United States to Mexican Texas.
+|-
+|May 28||The Indian Removal Act is signed into law by President Andrew Jackson, authorizing the U.S. government to negotiate the removal of Native American tribes of the southeastern United States to federal territory in what is now Oklahoma.
+|-
+|rowspan=1|1831|| ||Mexico ratifies the boundaries with the United States originally established by the Adams–Onís Treaty.
+|-
+|rowspan=3|1832||May||The Bonneville Expedition departs Missouri with 110 men. Over the next two years, the party explores several major river systems in present-day Wyoming, Idaho, Oregon, and Washington, and establishes an overland route to California that will later become the California Trail.
+|-
+|Jun 25–26||Texian insurgents under John Austin capture Fort Velasco from Mexican infantry under Colonel Domingo de Ugartechea at the Battle of Velasco, the first true military conflict between Anglo-American settlers of Mexican Texas and the Mexican federal government.
+|-
+|Jul 17||Attendees of the annual fur trapper's rendezvous, the largest yet of its kind, clash with local Indians at the Battle of Pierre's Hole.
+|-
+|rowspan=1|1833||Spring||Frontier trader William Bent establishes Bent's Fort on the north bank of the Arkansas River, along the Santa Fe Trail.
+|-
+|rowspan=2|1834|| ||Fort Laramie is founded by William Sublette in what is now eastern Wyoming as a private fur-trading post named Fort William. 
+|-
+|Jul 31||Fort Hall is established on the Snake River in present-day Idaho.
+|-
+|rowspan=4|1835||Spring||Frontier traders Louis Vasquez and Andrew Sublette establish Fort Vasquez on the South Platte River, 35 miles northeast of present-day Denver, Colorado.
+|-
+|Oct 2||The Texas Revolution begins when a Texian militia successfully defends against the confiscation of a cannon by Mexican soldiers at the Battle of Gonzales.
+|-
+|Oct 23||The Mexican Constitution of 1824 is repealed, abolishing the former federalist system of government and replacing it with a provisional centralist system under President-General Antonio López de Santa Anna. The move further alienates Anglo-American settlers in Mexican Texas.
+|-
+|Dec 10||The two-month Siege of Béxar culminates in the surrender of the last remaining Mexican garrison in Texas, under Martín Perfecto de Cos, to the Texian Army under Edward Burleson. Santa Anna immediately prepares to march overland to recapture San Antonio.
+|-
+|rowspan=6|1836||Feb 25||Samuel Colt is granted a patent for his invention of a "revolving gun". Colt firearms eventually become widely used in the West.
+|-
+|Mar 6||Following a 13-day siege, Mexican troops under Santa Anna storm the Alamo Mission in San Antonio, killing all but a handful of its more than 200 Texian defenders, including Jim Bowie and Davy Crockett.
+|-
+|Mar 27||More than 450 captured Texian soldiers are executed by the Mexican army at the Goliad massacre.Harbert Davenport and Craig H. Roell, "GOLIAD MASSACRE," Handbook of Texas Online (http://www.tshaonline.org/handbook/online/articles/qeg02), accessed February 02, 2012. Published by the Texas State Historical Association.
+|-
+|Apr 21||Texians under General Sam Houston surprise and defeat the Mexican army at the Battle of San Jacinto, ending the Texas Revolution.
+|-
+|May 2||Texians declare the independence of the Republic of Texas from Mexico. On May 14, they force captured General Antonio López de Santa Anna to sign the Treaties of Velasco, though Mexico never ratifies these treaties.
+|-
+|Jun 15||Arkansas is admitted as the 25th U.S. state.
+|-
+|rowspan=2|1837||Feb 15||The Platte Purchase is approved, adding more than 3,000 square miles of former Indian lands to the northwest corner of the state of Missouri in direct violation of the Missouri Compromise.
+|-
+|Apr–May||A steamboat traveling up the Missouri River to Fort Union triggers an epidemic of smallpox that kills at least 17,000 indigenous people across the Great Plains over the next three years, dramatically reducing the populations of numerous tribes in the United States and Canada, including the Arikara, Assiniboine, and Pawnee, and causing the near-total extinction of the Mandan.
+|-
+|rowspan=1|1838||Aug–Nov||Rural landowners clash with immigrant Mormons near Kansas City, Missouri in a series of violent episodes later called the Mormon War, eventually forcing their complete expulsion from the state.
+|-
+|rowspan=1|1839||Jul 15–16||Militia forces of the Republic of Texas win a decisive victory over Cherokee and Delaware Indians at the Battle of the Neches, the main engagement of the Cherokee War of 1838–1839.Wilbarger, J.W. Indian Depredations in Texas. Op.cit. "Cherokee War & Battle of the Neches." Fort Tours website. Retrieved 18 Feb 2010.
+|}
+
+
+==1840s==
+
+
+
+{|class=wikitable
+!Year
+!width=55|Date
+!Event
+|-
+|rowspan=2|1840||Mar 19||In the Council House Fight, a delegation of 33 Comanche chiefs and warriors is slaughtered by Texan militiamen while attempting to negotiate the return of captive white settlers at a peace conference in San Antonio.
+|- this Aalto started the real Wild West due to because of the existence of rifles, a thing that was used in the late 1800s
+|Apr 1||Political rivalries in the river town of Bellevue, Iowa Territory culminate in a shootout in front of the town hotel that leaves seven people dead.
+|-
+|rowspan=2|1841||Jun 18||Swiss pioneer John Sutter receives title to nearly 50,000 acres of land surrounding the confluence of the Sacramento and American rivers in the Mexican province of Alta California, upon which he founds a colony he names "New Helvetia". In December, Sutter purchases the Russian settlement at Fort Ross and uses its building materials to construct a fort on the site of present-day Sacramento.Dillion, Richard. Fool's Gold, the Decline and Fall of Captain John Sutter of California. New York City: Coward-McCann. 1967, p. 66.
+|-
+|Sep 24||At the request of Catholic Salish Indians, Jesuit priests led by Father Pierre-Jean DeSmet establish St. Mary's Mission in the Bitterroot Valley, the first permanent settlement built by Europeans in what is now Montana.
+|-
+|rowspan=4|1842||Mar 5||Mexican troops led by Ráfael Vásquez invade Texas and occupy San Antonio, but are chased back across the Rio Grande two days later.
+|-
+|Sep 17||After a five-day journey down the coast, pioneers from the Oregon Country sail the Star of Oregon, a hand-built wooden schooner, into San Francisco Bay, where they trade the ship for cattle to drive overland back to the Willamette Valley.
+|-
+|Sep 18||Texas Rangers under Matthew Caldwell repulse the final Mexican invasion of the Republic of Texas, under Adrián Woll, in the Battle of Salado Creek. Simultaneously, a separate Texian company approaching Woll's army from the rear is overwhelmed and massacred.SALADO CREEK, BATTLE OF | The Handbook of Texas Online| Texas State Historical Association (TSHA)
+|-
+|Dec 25–26||The Battle of Mier results when a Texan militia invades the Mexican border town of Ciudad Mier, Tamaulipas. The heavily outnumbered Texans are forced to surrender and more than 200 men are taken prisoner.
+|-
+|rowspan=3|1843||Mar 25||Seventeen Texan prisoners of war are executed by the Mexican army after drawing beans in a random lottery, as punishment for their participation in a raid on the town of Ciudad Mier several months earlier.Black bean episode -Handbook of Texas Online published by the Texas State Historical Association; Retrieved May 02, 2011
+|-
+|May 2||The Champoeg Meetings culminate with a motion to organize what will become the Provisional Government of Oregon, the first locally administered European-American body of government in the Oregon Country.
+|-
+|Aug–Nov||Missionary Marcus Whitman accompanies the first major wagon train west along the final leg of the Oregon Trail, establishing the viability of the route for later immigrants.
+|-
+|rowspan=2|1844|| ||Oregon City, the western terminus of the Oregon Trail, becomes the first incorporated U.S. city west of the Rocky Mountains.The Oregon Trail: Oregon City 
+|-
+|Nov 25||The Stephens-Townsend-Murphy Party pioneers the first wagon route across the Sierra Nevada on the California Trail.
+|-
+|rowspan=5|1845||Jun 1||John C. Frémont's third expedition with 55 men and Kit Carson as guide leaves St. Louis to "map the source of the Arkansas River" but continues to the Sacramento Valley.
+|-
+|Jun 23||The Republic of Texas accepts a joint resolution of the U.S. Congress to annex Texas to the United States. Mexico does not recognize the annexation.
+|-
+|Jul||The phrase "manifest destiny" first appears in the Democratic Review in an essay by John L. O'Sullivan urging the annexation of Texas. The concept does not become widely popular until O'Sullivan later uses the same phrase while addressing the subject of the Oregon Country.
+|-
+|Dec 19||The "Lash Law" bans blacks from living in the Oregon Territory.
+|-
+|Dec 29||The United States admits the Republic of Texas to the Union as the slave State of Texas. The boundaries of the state remain undefined.
+|-
+|rowspan=9|1846||Feb 5||The Oregon Spectator becomes the first American newspaper published west of the Rocky Mountains.
+|-
+|Apr 25||The first skirmish of the Mexican–American War takes place on the Rio Grande near present-day Brownsville, Texas.
+|-
+|May 13||The United States under President James K. Polk declares war on Mexico, formally commencing the Mexican–American War.
+|-
+|Jun 14||In the Bear Flag Revolt, American insurgents led by William B. Ide seize the Sonoma Barracks from Mexican officers and declare their intention to found an independent republic in northern Alta California. The so-called "Bear Flag Republic" lasts just 25 days, after which it is subsumed into American military efforts to control California.
+|-
+|Jun 15||The Oregon Treaty resolves a decades-long dispute over possession of the Oregon Country by extending the original boundary between the United States and British North America further west to the Pacific Ocean, with Vancouver Island being retained in its entirety by the British.
+|-
+|Aug 15||Troops under the command of General Stephen W. Kearny seize the territorial capital of Santa Fe for the United States with little resistance.
+|-
+|Dec 6–7||Kearny's Army of the West engages Mexican lancers east of San Diego at the Battle of San Pasqual.
+|-
+|Dec 25||American forces under Colonel Alexander W. Doniphan defeat Mexican regulars at the Battle of El Brazito.Bauer, K.J., 1974, The Mexican War, 1846-1848, New York:Macmillan, 
+|-
+|Dec 28||Iowa is admitted as the 29th U.S. state.
+|-
+|rowspan=4|1847||Jan 19||Governor Charles Bent of the New Mexico Territory is assassinated and scalped during the Taos Revolt.The Yarmouth Herald (Apr 8, 1847) From New Mexico Retrieved 4 May 2010
+|-
+|Feb||The first of three relief missions arrives to rescue survivors of the Donner Party, who have been snowbound in California's Sierra Nevada mountains for more than three months.
+|-
+|Jul 24||Brigham Young and his vanguard company of Mormons first arrive in the Salt Lake Valley in present-day Utah.
+|-
+|Nov 29||Fifteen Oregon missionaries, including mission founders Marcus and Narcissa Whitman, are murdered and 54 others taken hostage by a party of Cayuse Indians who accuse Whitman of deliberately poisoning Indians in his medical care during an outbreak of measles. The massacre sparks the Cayuse War.Drury, Clifford M. "Marcus and Narcissa Whitman and the Opening of Old Oregon." Volume 1, Chapter 8. Seattle: Northwest Interpretive Association, 2005.
+|-
+|rowspan=2|1848||Jan 24||James W. Marshall discovers gold at Sutter's Mill near Coloma, California, precipitating the California Gold Rush.The Deseret News (Feb 11, 1898) First Found California Gold
+|-
+|Feb 2||The United States and Mexico sign the Treaty of Guadalupe Hidalgo, ending the Mexican–American War. The agreement results in the cession of nearly all of the present-day Southwest, including California, to the U.S., as well as the designation of the Rio Grande as the boundary between Texas and Mexico.
+|-
+|rowspan=1|1849||Feb 28||Regular steamboat service between the east and west coasts of the United States begins with the arrival of the SS California in San Francisco.
+|}
+
+
+==1850s==
+
+
+
+
+
+thumb|Map of western military departments, circa 1858
+
+{|class=wikitable
+!Year
+!width=55|Date
+!Event
+|-
+|rowspan=11|1850||Jan 29||Responding to questions of how to accommodate slavery in the western territories, Henry Clay proposes a series of measures to preserve the Union that come to be called the Compromise of 1850.
+|-
+|Feb||The Pinkerton National Detective Agency is founded.Morn, Frank (1982). The Eye That Never Sleeps: A History of the Pinkerton National Detective Agency. Bloomington: Indiana University Press. .  p. 18
+|-
+|Feb 8–10||The Nauvoo Legion, under orders from Brigham Young, attacks Timpanogos Indians over land disputes near Fort Utah.
+|-
+|Apr 4||The city of Los Angeles, California is incorporated.
+|-
+|Apr 15||The city of San Francisco, California is incorporated.
+|-
+|Apr 16||The California territorial government sends a military expedition to attack hostile Yuma Indians along the Colorado River in retaliation for the Glanton Massacre earlier in the year, sparking the Yuma War.
+|-
+|Jun 3||Five Cayuse tribesmen are hanged in Oregon City for their participation in the Whitman massacre.Whitman Murders Trial Oregon Encyclopedia. Retrieved May 5, 2021.
+|-
+|rowspan=2|Sep 9||California is admitted as the 31st U.S. state.
+|-
+|The New Mexico Territory and Utah Territory are organized by order of Congress.
+|-
+|Sep 27||The Donation Land Claim Act takes effect to promote homestead settlement in the Oregon Territory.
+|-
+|Sep 29||President Millard Fillmore appoints Brigham Young the first governor of the Utah Territory.
+|-
+|rowspan=9|1851|| ||The phrase "Go West, young man" first appears in an editorial by Indiana newspaper writer John B.L. Soule in the Terre Haute Express. The saying is later popularized by Horace Greeley, editor of the New-York Tribune.
+|-
+| ||Western Union is founded as The New York and Mississippi Valley Printing Telegraph Company.
+|-
+|Jan 23||The flip of a coin determines whether a new city in Oregon is named after Boston, Massachusetts, or Portland, Maine, with Portland winning.
+|-
+|Feb 18||A family of Brewsterite pioneers traveling a southern route to California is massacred by Indians on the banks of the Gila River in what is now Arizona. Thirteen-year-old Olive Oatman and her eight-year-old sister Mary Ann are abducted and enslaved.
+|-
+|Feb 27||Congress passes the Appropriation Bill for Indian Affairs, which allocates funds to move western Native American tribes on to permanent reservations enclosed and protected by the federal government. The act sets the precedent for modern reservations in the United States.
+|-
+|Mar 27||Mariposa Battalion, led by James D. Savage, are the first reported non-natives to enter California's Yosemite Valley.
+|-
+|Jul 26||Fort Union is established in the New Mexico Territory.
+|-
+|Sep 17||The Treaty of Fort Laramie (1851) is negotiated between the United States government and representatives of ten Native American tribes of the Great Plains, including the Lakota, Crow, and Cheyenne. The tribes agree to provide safe passage for westward migrants and permit the construction of roads and forts in their territories in return for an annuity of $50,000 for fifty years.
+|-
+|Nov 13||The Denny Party lands at Alki Point, the first settlers of what will become Seattle, Washington.
+|-
+|rowspan=1|1852||Mar 18||The Wells Fargo company is founded to provide express and banking services to California.
+|-
+|rowspan=6|1853||Mar||Levi Strauss arrives in San Francisco and opens a store supplying goods and clothing to Gold Rush miners.
+|-
+|Mar 2||The Washington Territory is organized from a portion of the Oregon Territory.
+|-
+|Jun 27||Fort Riley is established in what is now Kansas.
+|-
+|Jul 13||In the case of Holmes v. Ford, a decision of the Oregon Territorial Supreme Court reaffirms that slavery is illegal in the Oregon Territory, concluding the last challenge of abolitionist law by pro-slavery elements living in Oregon.
+|-
+|Oct 26||Paiute Indians attack U.S. Army Captain John W. Gunnison and his party of 37 soldiers and railroad surveyors near Sevier Lake, Utah.
+|-
+|Dec 30||The United States and Mexico agree to the Gadsden Purchase, transferring portions of southern Arizona and New Mexico to the U.S.
+|-
+|rowspan=6|1854||Feb 13||The Mexican army forces would-be conqueror William Walker and his mercenary troops to retreat to Sonora.
+|-
+|Feb 14||Texas is linked by telegraph with the rest of the country when a connection between New Orleans and Marshall, Texas is completed.
+|-
+|May 30||The Kansas–Nebraska Act becomes law, creating the Kansas Territory and Nebraska Territory. A provision that settlers will vote on the legality of slavery in the new territories effectively rescinds the Missouri Compromise of 1820 and touches off an epidemic of violence and electoral fraud beginning the next year.
+|-
+|Jul 4||Omaha City is founded in the Nebraska Territory.
+|-
+|Aug 19||An argument over a stray cow precipitates the Grattan massacre, in which 30 U.S. Army soldiers and an interpreter are killed in retaliation for the shooting of Chief Conquering Bear of the Lakota Sioux.Paul Norman Beck, The First Sioux War: The Grattan Fight and Blue Water Creek, 1854–1856, University Press of America, 2004, pp. 40–41, accessed 7 Dec 2010
+|-
+|Dec 19||Jonathan R. Davis, a veteran of the Mexican–American War and a gold rush prospector, single-handedly kills eleven armed immigrant outlaws near Sacramento, California using two revolvers and a Bowie knife.Fournier, Richard.  "Mexican War Vet Wages Deadliest Gunfight in American History", VFW Magazine (January 2012), p. 30.
+|-
+|rowspan=2|1855||Jan 23||The first permanent bridge across the Mississippi River opens for traffic in Minneapolis, Minnesota.
+|-
+|Sep 23||U.S. Army detachments under Brigadier General William S. Harney defeat a band of Brulé Lakota led by Little Thunder at the Battle of Ash Hollow in present-day Garden County, Nebraska, a punitive expedition for the Grattan massacre.
+|-
+|rowspan=6|1856||Jan 26||In the Puget Sound War, the Battle of Seattle is fought when an alliance of local Indians attacks pioneer settlements in the Washington Territory.Phelps, T.S. Reminiscences of Seattle: Washington Territory and the U. S. Sloop-of-War Decatur During the Indian War of 1855-56. Originally published by The Alice Harriman Company, Seattle, 1908.
+|-
+|Feb 2||The city of Dallas is incorporated in Texas.
+|-
+|May 14||James King of William, editor of the Daily Evening Bulletin, is shot in the streets of San Francisco by James P. Casey, editor of The Sunday Times and a member of the city's Board of Supervisors, whose corruption and criminal record King had criticized in an editorial. King dies six days later.Assassination of James King of Wm by James P. Casey, San Francisco, May 14th, 1856, Britton & Rey.
+|-
+|May 21||The predominantly abolitionist town of Lawrence, Kansas is ransacked and looted by a pro-slavery militia.
+|-
+|May 22||The assassination of James King of William incites the re-establishment of the San Francisco Committee of Vigilance, which storms the city jail and publicly hangs James P. Casey along with convicted murderer Charles Cora.
+|-
+|May 24–25||Outraged at the sacking of Lawrence, abolitionist John Brown and a party of Free-Staters murder five pro-slavery activists in rural Kansas Territory in the Pottawatomie massacre. In the three months of retaliatory raids and murders that follow, more than two dozen people are killed, marking the bloodiest episode of the Bleeding Kansas era.Reynolds, David S. John Brown, Abolitionist: The Man Who Killed Slavery, Sparked the Civil War, and Seeded Civil Rights. New York: Vintage, 2005. 
+|-
+|rowspan=3|1857||Apr 1–8||In the midst of Mexico's Reform War, former California Senator Henry A. Crabb leads a filibustering expedition into Sonora to aid Mexican rebels fighting government forces. The rebels turn on the Americans after they cross the border and Crabb's entire army is executed.
+|-
+|Sep 1||The Battle of Pima Butte, in what is now Arizona, is the last major battle fought solely between indigenous peoples in North America.
+|-
+|Sep 11||Nearly 120 emigrants passing through the Utah Territory are massacred by a combined force of Mormon militiamen and Paiute Indians during the hysteria of the Utah War.
+|-
+|rowspan=5|1858||Feb 19||Chief Leschi, a leader of the Nisqually people, is hanged by the territorial government of Washington after being wrongfully convicted of killing a colonel during the Puget Sound War.
+|-
+|Apr 19||The Yankton Treaty, signed by the Yankton Sioux, cedes most of what is now eastern South Dakota to the United States.Indian Affairs: Laws and Treaties. Compiled and edited by Charles J. Kappler, Oklahoma State University (OSU) Library Electronic Publishing Center.
+|-
+|May 11||Minnesota is admitted as the 32nd U.S. state.
+|-
+|May 12||An army of Texas Rangers and Indian allies under the command of John Salmon Ford engages Comanche warriors in a series of battles after attacking villages in the Canadian River valley, the final actions of the Antelope Hills expedition.Fehrenbach, Theodore Reed The Comanches: The Destruction of a People. New York: Knopf, 1974. .
+|-
+|Jul||Gold is discovered in the Front Range of the Rocky Mountains. The resulting gold rush draws nearly 100,000 people to the Pike's Peak Country of present-day Colorado over the next three years.
+|-
+|rowspan=3|1859||Spring||The Comstock Lode, the first major discovery of silver ore in the country, provokes a silver rush in present-day Nevada that funds boomtowns including Virginia City and Gold Hill. Over the next 30 years, hundreds of mines extract more than $320 million in gold and silver from the region, making millionaires of investors such as George Hearst and the Bonanza Kings.Smith, G.H., 1943, The History of the Comstock Lode, 1850–1997, Reno: University of Nevada Press, 
+|-
+|Feb 14||Oregon is admitted as the 33rd U.S. state.
+|-
+|Sep 28–30||Mexican folk hero Juan Cortina and a large posse seize control of Brownsville, Texas in one of the major actions of the First Cortina War. His motivation is the legal abuses perpetrated by Texan authorities against ethnic Mexicans. The occupation only lasts two days, but the Cortina Troubles continue for another two years.
+|}
+
+
+==1860s==
+
+
+
+
+
+
+
+{|class=wikitable
+!Year
+!width=55|Date
+!Event
+|-
+|rowspan=3|1860||Feb 26||Hundreds of Wiyot people are massacred by white settlers along the coast of what is now Humboldt County, California.
+|-
+|Apr 14||The Pony Express completes its first westbound and eastbound deliveries between St. Joseph, Missouri and San Francisco, California.
+|-
+|Dec 18||Texas Rangers under Lawrence Sullivan "Sul" Ross attack a Comanche camp at the Battle of Pease River, where they discover Cynthia Ann Parker 24 years after her kidnapping.Wallace, Ernest, and E. Adamson Hoebel (1952). The Comanches: Lords of the Southern Plains. Norman: University of Oklahoma Press.
+|-
+|rowspan=10|1861||Jan 29||Kansas is admitted to the Union as the 34th U.S. state, and a free state.
+|-
+|Feb||A series of hostilities involving U.S. Army Lt. George Nicholas Bascom and Chiricahua Apache chief Cochise triggers the Chiricahua Wars, which remain a central conflict in Arizona and New Mexico for the next 25 years.
+|-
+|Feb 1||A convention of the Texas legislature votes to secede from the Union.
+|-
+|Feb 28||Colorado is organized as a U.S. territory.
+|-
+|Mar 2||The Nevada Territory and Dakota Territory are organized.
+|-
+|Mar 16||Governor of Texas Sam Houston is evicted from office for refusing to take an oath of loyalty to the Confederate States of America.Houston, Samuel in the Handbook of Texas Online.
+|-
+|Mar 28||The southern half of the New Mexico Territory nominally joins the Confederacy as the Provisional Confederate Territory of Arizona.
+|-
+|Jul 25||250 Confederate troops led by John R. Baylor engage Union forces under Isaac Lynde at Mesilla, New Mexico, resulting in Lynde's troops retreating into the Organ Mountains, toward Fort Stanton. Lynde is relieved of duty after abandoning his post.
+|-
+|Sep 2||A small Confederate patrol from Fort Stanton is ambushed by Mescalero Apache warriors in New Mexico's Gallinas Mountains.
+|-
+|Oct 24||The first transcontinental telegraph line is completed near Fort Bridger in present-day Wyoming, the result of an effort by Hiram Sibley and Western Union to connect California to the telegraph networks of the east. The ability to instantaneously send messages from coast to coast immediately makes the Pony Express obsolete.
+|-
+|rowspan=13|1862||Winter||Months of record precipitation in the far west culminate in the Great Flood of 1862, which turns California's Central Valley into an inland sea and causes millions of dollars in property damage.William H. Brewer, Up and down California in 1860–1864, New Haven, Yale University Press, 1930, p. 243 Retrieved 23 October 2010.
+|-
+|Feb–Apr||Confederate forces under Brigadier General Henry Hopkins Sibley and Colonel Thomas Green undertake one of the most ambitious military operations of the American Civil War when they begin the New Mexico Campaign. Their goals include seizing the Colorado gold fields and securing roads by which to invade California and Mexico.
+|-
+|Feb 20–21||The Battle of Valverde is fought at a ford of Valverde Creek in present-day New Mexico, resulting in a Confederate victory.
+|-
+|Mar 26–28||The Battle of Glorieta Pass is fought in the Sangre de Cristo Mountains between Confederate cavalry forces and Union volunteers from Colorado and New Mexico. It marks a turning point in the New Mexico Campaign in favor of the Union.
+|-
+|Mar 30||The Battle of Stanwix Station is fought at a Butterfield Overland Mail stagecoach stop 80 miles east of Yuma, Arizona between Capt. William P. Calloway of the California Column and Confederate 2nd Lt. Jack Swilling.
+|-
+|Apr 15||The Battle of Picacho Pass is fought between the 1st California Cavalry under Union Lt. James Barrett and a detachment of Arizona Confederates led by Sgt. Henry Holmes. It is often cited as the westernmost battle of the American Civil War, occurring 50 miles northwest of Tucson.
+|-
+|May 5||Confederate Sgt. Sam Ford and his men are ambushed by Apache warriors led by Cochise in the Dragoon Mountains, near present-day Benson, Arizona, at the First Battle of Dragoon Springs.
+|-
+|May 9||The Second Battle of Dragoon Springs is fought in retaliation for the deaths of the four Confederates killed at the Apache ambush four days earlier. Rebels under Capt. Sherod Hunter take back the cattle stolen by Cochise and his warriors and kill five Apaches.
+|-
+|May 20||The Homestead Act of 1862 is signed into law by President Abraham Lincoln. It aims to encourage settlement in the West by simplifying the process of land acquisition: homesteaders need only claim, occupy for five years, and improve a minimum of 160 acres of unappropriated land to be granted full ownership. Alternatively, settlers have the option of purchasing the land outright after six months of residency.
+|-
+|Jul 15–16||140 Union troops from the California Column are ambushed by 500 Apaches under Mangas Coloradas and Cochise at the Battle of Apache Pass in Arizona's Chiricahua Mountains. It is one of the first battles in which the United States Army is able to effectively use artillery against Indians. Fort Bowie is built near the site following the battle.
+|-
+|Aug 10||More than 30 people are killed when a group of Unionist German Texan settlers fleeing the Texas Hill Country for Mexico is attacked by a Confederate detachment along the Nueces River.
+|-
+|Aug 17||The Dakota War of 1862 begins when a Sioux hunting party slaughters five white settlers and the tribal council decides to attack white settlements throughout the Minnesota River valley.
+|-
+|Nov 5||More than 300 Santee Sioux in Minnesota are sentenced to hang for the rape and murder of white settlers.
+|-
+|rowspan=7|1863||Jan 1||Daniel Freeman submits the first claim under the Homestead Act of 1862 for land near Beatrice, Nebraska.
+|-
+|Jan 18||Chiricahua Apache leader Mangas Coloradas is captured, tortured, and killed by U.S. Army sentries after meeting with Brigadier General Joseph Rodman West to call for peace.
+|-
+|Jan 29||Colonel Patrick Edward Connor leads his troops to fight Shoshone Indians in present-day Idaho, resulting in the Bear River Massacre.
+|-
+|Feb 24||The Arizona Territory is organized from a portion of the New Mexico Territory.
+|-
+|Mar 4||Idaho is organized as a U.S. territory.
+|-
+|Aug 21||Confederate guerrillas led by William Quantrill set fire to the pro-Union town of Lawrence, Kansas and kill nearly 200 civilians in the Lawrence massacre. Quantrill claims his motive was revenge for the Sacking of Osceola several years earlier.
+|-
+|Aug 25||In the aftermath of the Lawrence massacre, Union General Thomas Ewing Jr. issues General Order No. 11, which forces the expulsion of all residents who cannot prove their allegiance to the Union from four counties in rural western Missouri.
+|-
+|rowspan=10|1864|| ||John Bozeman leads a group of about 2,000 settlers along the Bozeman Trail, a new cutoff route connecting the Oregon Trail with the gold fields of southwestern Montana, which he and John Jacobs had blazed the previous year.
+|-
+|Jan||Colonel Kit Carson accepts the surrender of most of the Navajo nation after the final two years of the bloody Navajo Wars.
+|-
+|Jan 10||Henry Plummer, the elected sheriff of Bannack, Montana, is arrested and summarily hanged by a vigilance committee on charges of leading a gang of road agents preying on traders from Virginia City.
+|-
+|May 26||Montana is organized as a U.S. territory.
+|-
+|Jul||Outlaw Jim Reynolds and his gang plunder and rob settlements in the South Park Basin of the Colorado Territory in an attempt to loot the gold mines of the region to support the fledgling Confederacy.
+|-
+|Sep 27||Pro-Confederate bushwhackers led by William "Bloody Bill" Anderson capture and execute 24 unarmed Union soldiers at a rail depot in Centralia, Missouri.
+|-
+|Oct 23||Union General Samuel R. Curtis' Army of the Border decisively defeats Confederate General Sterling Price's Army of Missouri at the Battle of Westport, near Kansas City. The battle ends the last major Confederate offensive west of the Mississippi River. The largest engagement in the Trans-Mississippi Theater, with over 30,000 men involved, it is sometimes called the "Gettysburg of the West".Castel, Albert E. General Sterling Price and the Civil War in the West. Baton Rouge: Louisiana State University Press, 1993. .
+|-
+|Oct 25||In consecutive engagements only hours apart, Union cavalry under Alfred Pleasonton pursue and defeat Confederate forces under Sterling Price at Marais des Cygnes, Mine Creek, and Marmiton River as they retreat through Kansas and Missouri.
+|-
+|Oct 31||Nevada is admitted as the 36th U.S. state.
+|-
+|Nov 29||Colonel John Chivington and his volunteer militia massacre a peaceful Cheyenne village near Sand Creek in the Colorado Territory, in what is later called the Sand Creek massacre.
+|-
+|rowspan=4|1865||Feb 17||Fort Buchanan is overrun and destroyed by Chiricahua warriors in the Arizona Territory.
+|-
+|May 12–13||The Battle of Palmito Ranch is fought near Brownsville, Texas. It is the final armed engagement of the American Civil War.
+|-
+|Jun 23||Stand Watie, a Cherokee cavalry commander in the Confederate Army, becomes the last Confederate general to surrender to Union forces, at Doaksville in the Indian Territory.
+|-
+|Jul 21||"Wild Bill" Hickok kills gambler Davis Tutt in a shootout in Springfield, Missouri. The confrontation is sensationalized in Harper's Magazine, making Hickok a household name. It is often considered the archetypal one-on-one quick-draw duel, which later becomes a popular image of the Old West.
+|-
+|rowspan=3|1866||Feb 13||Ex-Confederate bushwhackers Frank and Jesse James rob their first bank, the Clay County Savings Association in Liberty, Missouri.
+|-
+|Spring||The period of the great cattle drives begins when Texas ranchers drive more than 260,000 head of cattle to assorted markets. Some travel east to Louisiana, where the animals are shipped to Cairo, Illinois and St. Louis; others travel west to Fort Sumner, New Mexico and Denver, inaugurating the Goodnight-Loving Trail. But the vast majority follow the Shawnee Trail north to Kansas City or Sedalia, Missouri."The History of Cattle Drives" on the Genealogy Trails website
+|-
+|Dec 21||Captain William J. Fetterman and 80 soldiers of the U.S. 2nd Cavalry and 18th Infantry regiments are ambushed and wiped out by Lakota, Cheyenne, and Arapaho warriors near Fort Phil Kearny, Wyoming. A fort built the next year, Fort Fetterman, is named in his honor.
+|-
+|rowspan=6|1867||Mar 1||Nebraska is admitted as the 37th U.S. state.
+|-
+|Mar 30||The United States purchases Alaska from the Russian Empire for $7.2 million.
+|-
+|Jun 25||Lucien B. Smith of Kent, Ohio is issued the first patent for barbed wire fencing, an invention which revolutionizes cattle ranching on the open prairies of the West.
+|-
+|Aug 2||In the Wagon Box Fight, a small party of U.S. Army soldiers and civilians near Fort Phil Kearny, armed with new rapid-fire breech-loading rifles and encircled by a wall of wagon boxes, manages to hold off hundreds of Lakota warriors led by Red Cloud and Crazy Horse.Keenan, Jerry. The Wagon Box Fight. Boulder, CO: Lightning Tree Press, 1990, p. 22.
+|-
+|Oct 18||At a ceremony in Sitka, Alaska, Russian soldiers officially transfer Alaska to the U.S. Army on Castle Hill. It is organized on the same day into the Department of Alaska, to be administered by the Army.
+|-
+|Oct 21–28||The Medicine Lodge Treaty is signed between the U.S. government and several southern Plains Indian tribes, requiring that the tribes relocate to the Indian Territory."Treaty with the Kiowa and Comanche, 1867" (Medicine Lodge Treaty), 15 Stats. 581, Oct. 21, 1867."Treaty with the Kiowa, Comanche, and Apache, 1867" (Medicine Lodge Treaty), 15 Stats. 589, Oct. 21, 1867."Treaty with the Cheyenne and Arapaho, 1867" (Medicine Lodge Treaty), 15 Stats. 593, Oct. 28, 1867.
+|-
+|rowspan=3|1868||Apr 29||The Treaty of Fort Laramie (1868) is signed between the United States and several bands of Lakota, Dakota, and Arapaho Indians. It results in the abandonment of U.S. military outposts along the Bozeman Trail, the indefinite closure of the Powder River Country and western South Dakota to white settlement, and the end of Red Cloud's War."Fort Laramie Treaty, 1868." Archives of the West. (retrieved 19 Dec 2010)
+|-
+|Jul 25||Wyoming is organized as a U.S. territory.
+|-
+|Nov 27||The Battle of Washita River is fought when Lt. Col. George Armstrong Custer's 7th Cavalry Regiment attacks a winter encampment of Southern Cheyenne Indians on the Washita River in what is now western Oklahoma. Chief Black Kettle, leader of the Cheyenne, is killed.
+|-
+|rowspan=6|1869||Jan 8||Fort Sill is established by General Philip H. Sheridan in the Indian Territory, near present-day Lawton, Oklahoma.
+|-
+|May 10||Leland Stanford drives the Golden Spike to join the rails of the Central Pacific and Union Pacific railroads at a special ceremony in Promontory Summit, Utah Territory, completing the First transcontinental railroad.
+|-
+|May 24||John Wesley Powell and nine others embark on a scientific expedition that charts more than  of the Green River and Colorado River through the canyon country of Wyoming, Colorado, Utah, and Arizona. Powell and his crew become the first recorded white men to travel the length of the Grand Canyon. They reach the mouth of the Virgin River in present-day Nevada on August 30.
+|-
+|Jul 4||The world's first documented competitive rodeo is held in the town of Deer Trail in the Colorado Territory.
+|-
+|Jul 11||The Battle of Summit Springs is fought in the Colorado Territory between elements of the U.S. Army under Colonel Eugene A. Carr and a band of Cheyenne Dog Soldiers led by Chief Tall Bull.
+|-
+|Dec 10||Wyoming becomes the first U.S. territory to grant women the right to vote.
+|}
+
+
+==1870s==
+
+
+
+
+
+
+
+
+
+{|class=wikitable
+!Year
+!width=55|Date
+!Event
+|-
+|rowspan=11|1870|| ||Bret Harte's The Luck of Roaring Camp and Other Sketches, a collection of stories based on his years as a San Francisco journalist, is published.
+|-
+| ||William "Hurricane Bill" Martin, a notorious outlaw in Kansas, begins rustling cattle southeast of Abilene before he and his gang are driven off by a posse from Marion.Rosa, Joseph G. Gunfighter: Man Or Myth?. Norman: University of Oklahoma Press, 1969. (pg. 47)
+|-
+| ||Settling in the New Mexico Territory, gunfighter Robert Clay Allison purchases a ranch in Colfax County. According to local newspapers, Allison is reported to have killed as many as fifteen men in gunfights during this time.Wexler, Bruce. The Wild, Wild West Of Louis L'amour: The Illustrated Guide to Cowboys, Indians, Gunslingers, Outlaws and Texas Rangers. Philadelphia: Running Press, 2005. (pg. 78) 
+|-
+| ||With the growing railroad industry and cattle boom, buffalo hunters begin moving onto the Great Plains. In less than ten years, the buffalo population is dramatically reduced, and the animal remains an endangered species for much of the next century.
+|-
+| ||The Utah Territorial Assembly, supported by Brigham Young, grants women the right to vote. Over the next several decades, this provides Mormons with an added margin of political power.
+|-
+|Jan||Shortly after leaving the post of sheriff of Ellis County, Kansas, "Wild Bill" Hickok travels to Missouri and eventually resumes his duties as a U.S. Marshal.Rosa, Joseph G. Wild Bill Hickok, Gunfighter: An Account of Hickok's Gunfights. Norman: University of Oklahoma Press, 2003. (pg. 17) 
+|-
+|Jan 23||More than 200 men, women, and children belonging to a friendly band of Piegan Blackfeet Indians are mistakenly attacked and massacred by a U.S. Army command on the Marias River in the Montana Territory.
+|-
+|Mar 30||Texas is readmitted to the Union following the Civil War.
+|-
+|Spring||With the emergence of Abilene, Kansas as a major stopover for cattle ranchers, the town trustees attempt to curb the violence brought by the beginning of the cattle season by banning guns within town limits. This proves extremely unpopular and unenforceable, as Texas cowboys make a habit of shooting up ordinance posters and tear down the city's first jailhouse; violence continues in the city until the appointment of Tom "Bear River" Smith as city marshal on June 4.Rosa, Joseph G. Gunfighter: Man Or Myth?. Norman: University of Oklahoma Press, 1969. (pg. 196)
+|-
+|Jul 17–18||"Wild Bill" Hickok is involved in a shootout with several members of the U.S. 7th Cavalry Regiment in Hays City after killing one trooper and wounding another.
+|-
+|Nov 2||Abilene City Marshal Tom "Bear River" Smith is killed while serving an arrest warrant near the town.
+|-
+|rowspan=11|1871|| ||John K. "King" Fisher is hired by settlers of the Pendencia River country in Dimmit County, Texas to protect their livestock and other property. It is during this time that Fisher becomes known as a skilled gunfighter.Thrapp, Dan L. Encyclopedia of Frontier Biography: In Three Volumes, Volume I (A-F). Lincoln: University of Nebraska Press, 1988. 
+|-
+|Jan 1||After a long illness, U.S. Army Captain John Barry is forced into retirement. While stationed at Fort Ord, Barry attempts to improve relations between the United States and the Apaches, as well as encourages the enlistment of scouts to combat renegade Apaches.
+|-
+|Feb 16||John Younger kills Captain S.W. Nichols in a gunfight in Dallas, Texas.Wellman, Paul Iselin. A Dynasty of Western Outlaws. Lincoln: University of Nebraska Press, 1986. 
+|-
+|Feb 23||While heading an Apache-hunting force near present-day Clifton, Arizona, John M. Bullard is shot and killed when he approaches a wounded Apache warrior.
+|-
+|Feb 28||"Handsome Jack" John Ledford, an outlaw-turned-hotel-owner involved in counterfeiting and horse theft in Kansas and the Indian Territory, is killed in a shootout with a group of U.S. Army soldiers led by scout Lee Stewart and U.S. Marshal Jack Bridges, who claimed to have a warrant for his arrest.Wallis, Michael. Billy the Kid: The Endless Ride. New York: W.W. Norton & Co., 2007. 
+|-
+|Mar 16||Death of Navajo chieftain Barboncito (Hastin Daagii).
+|-
+|Apr 15||"Wild Bill" Hickok succeeds Tom "Bear River" Smith as city marshal of Abilene, Kansas and remains in the position until December 13.Patterson, Richard M. Historical Atlas of the Outlaw West. Boulder: Johnson Publishing Company, 1985. 
+|-
+|Apr 28||In what becomes known as the Camp Grant Massacre, over 100 Apache women and children are killed by a mob of Mexicans and Papago Indians led by several Tucson businessmen, including D.A. Bennett and Sam Hughes. Bennett and several others are indicted in December, though all are acquitted.
+|-
+|Jun 14||Thomas Carson, reportedly a nephew of Kit Carson, is appointed to the Abilene police force under City Marshal "Wild Bill" Hickok. After an incident with gunfighter John Wesley Hardin over Hardin's insistence on wearing his gun in public, Carson is hired briefly as deputy in Newton, Kansas before returning to Abilene in November. Carson and Deputy John W. "Brocky Jack" Norton are fired from the police force on November 27 after assaulting a bartender.
+|-
+|Jun 30||Shortly after robbing a nearby bank, Jesse James addresses a crowd at a political rally in Corydon, Iowa.
+|-
+|Oct 5||Professional gambler Phil Coe is involved in a shootout with Abilene City Marshal "Wild Bill" Hickok after Hickok attempts to censor a painting of a bull with abnormally large genitals in Coe's saloon. Deputy Mike Williams is killed when Hickok accidentally shoots him, and Coe dies from his wounds four days later.Kohn, George C. Dictionary of Culprits and Criminals. Metuchen, New Jersey: Scarecrow Press, 1986.
+|-
+|rowspan=6|1872|| ||William F. "Buffalo Bill" Cody, a scout for the U.S. 5th Cavalry Regiment, is awarded the Medal of Honor. Later that year, he and fellow scout John "Texas Jack" Omohundro appear on stage for the first time, portraying themselves in "Scouts of the Prairie".
+|-
+| ||Ellsworth, Kansas succeeds Abilene as the northern stopping point on the Old Texas cattle trail.
+|-
+| ||Following the completion of the Santa Fe Railroad across the border of the Colorado Territory, the use of the Santa Fe Trail begins to decline, although Dodge City remains a major cattle town for the next decade. The Santa Fe Railroad also completes a rail line at Wichita, Kansas, causing a major population boom in the town over the next several years.
+|-
+|Mar 1||Yellowstone is designated America's first national park by President Ulysses S. Grant.
+|-
+|Nov 29||The Battle of Lost River results when the U.S. 1st Cavalry Regiment tries to force a band of Modoc Indians under Captain Jack to return to the Klamath Reservation in southern Oregon. In the subsequent Modoc War, a party of 53 Modoc warriors entrenched in the Lava Beds of northern California manages to hold off hundreds of U.S. soldiers for more than five months.
+|-
+|Dec 28||U.S. Army cavalry under George Crook begin a campaign into Arizona's Tonto Basin by defeating the occupants of a Yavapai stronghold at the Battle of Salt River Canyon, part of the Yavapai War.
+|-
+|rowspan=7|1873|| ||The Colt Single Action Army revolver is first manufactured. It later becomes known as "The Gun That Won the West".
+|-
+|Mar 3||Designed to encourage the cultivation of timber on the treeless Great Plains, the Timber Culture Act is signed into law by President Ulysses S. Grant. A follow-up to the Homestead Act of 1862, it permits homesteaders to claim 160 acres of public land on which they have planted and maintained at least 40 acres of timber for a minimum of 10 years.U.S. Statutes at Large, vol. 17, p. 605. Forty-second Congress Sess. II. Ch. 274-277, 1873.
+|-
+|Mar 27||A combined force of U.S. Army soldiers and Apache Scouts wins another major victory over Yavapai and Tonto Apache warriors at the Battle of Turret Peak in central Arizona.
+|-
+|Apr 1||The Coinage Act of 1873 takes effect, prohibiting the minting of silver bullion into legal tender and establishing a federal gold standard by default. The controversial law provokes a debate about national monetary policy that lasts the rest of the century, with proponents of "free silver" and bimetallism, including many silver-mining interests in the West, arguing for the unlimited coinage of silver into money.
+|-
+|Jul 21||The James–Younger Gang commits the first train robbery in the history of the West by derailing a locomotive of the Rock Island Line west of Adair, Iowa and stealing $3,000 from the express safe and passengers on board.
+|-
+|Dec||"My Western Home", a poem by Dr. Brewster M. Higley, is first published in an issue of the Smith County Pioneer. It is set to music by Daniel E. Kelley and evolves into the classic western folk song "Home on the Range", which is later adopted as the state song of Kansas.
+|-
+|Dec 26||Californio bandido Tiburcio Vásquez and his gang loot the town of Kingston in Fresno County, California.
+|-
+|rowspan=7|1874|| ||Outlaws Ceberiano and Reymundo Aguilar are killed during the Harrold War of Lincoln County, New Mexico.
+|-
+|Mar 17||John Younger is killed when he and his brother Jim assault two undercover Pinkerton detectives and a local sheriff in St. Clair County, Missouri.
+|-
+|Jun 27||While occupying an old trading post in the Texas panhandle, 28 bison hunters including 21-year-old Bat Masterson are besieged by 700 Comanche warriors at the Second Battle of Adobe Walls.
+|-
+|Jul–Aug||An expedition led by Lt. Col. George Armstrong Custer embarks from Fort Abraham Lincoln to explore the previously uncharted Black Hills of present-day South Dakota. The expedition discovers placer gold, prompting a gold rush which draws thousands of settlers to the region over the next few years and thereby antagonizes the native Sioux inhabitants.Cozzens, P. Eyewitnesses to the Indian Wars, 1865-1890 (Stackpole Books, 2004) 
+|-
+|Sep 28||The 4th U.S. Cavalry under Col. Ranald S. Mackenzie routs a large camp of Cheyenne, Comanche, and Kiowa Indians taking refuge in Palo Duro Canyon in the Texas panhandle.Carter, R.G., 1935, On the Border with Mackenzie, Washington D.C.: Eynon Printing Co.
+|-
+|Nov 24||Joseph Glidden patents a type of barbed wire he calls "The Winner", which becomes one of the most popular types in the country. His design is modified from a version patented by Henry B. Rose that was displayed at a county fair in Glidden's hometown of DeKalb, Illinois., Devil's Rope Museum
+|-
+|Dec 8||The James–Younger Gang robs a train on the Kansas Pacific Railroad near Muncie, Kansas, stealing $30,000.
+|-
+|rowspan=4|1875||Jan 5||The city of Fargo is incorporated in the Dakota Territory.
+|-
+|Jan 25||Pinkerton agents throw an incendiary device into Jesse James' family home in Kearney, Missouri, killing James' 9-year-old half-brother and badly wounding his mother.
+|-
+|Aug 8||Jermin Aguirre is killed near the San Augin Ranch in the New Mexico Territory.
+|-
+|Nov 19–21||The Las Cuevas War is fought when Texas Rangers commanded by Leander McNelly engage Mexican militia in Tamaulipas in an attempt to return stolen cattle to U.S. territory.
+|-
+|rowspan=8|1876|| ||After being wounded in the hip during a gunfight in Sweetwater, Texas, Bat Masterson agrees to become assistant city marshal of Dodge City, Kansas.
+|-
+|Mar 17||When Sioux leaders Sitting Bull and Crazy Horse refuse to comply with the United States government's order to leave the Black Hills of the Dakota Territory, an expeditionary force commanded by General George Crook directs Colonel Joseph J. Reynolds to attack a Cheyenne encampment at the Battle of Powder River, thereby beginning the Great Sioux War.
+|-
+|Jun 17||General George Crook's forces are defeated by Crazy Horse at the Battle of the Rosebud. The defeat convinces Crook to withdraw from his planned offensive and await reinforcements.
+|-
+|Jun 25||While leading an attack into a Sioux village in the Montana Territory, the U.S. 7th Cavalry Regiment under Brig. Gen. George Armstrong Custer is ambushed and massacred by over 2,000 Lakota and Cheyenne warriors led by Sitting Bull and Crazy Horse at the Battle of the Little Bighorn.The Deseret News (Jul 8, 1876) Headquarters, Departm't of Dakotah (General Terry's report) Retrieved 6 May 2010 
+|-
+|Aug 1||Colorado is admitted as the 38th U.S. state.
+|-
+|Aug 2||"Wild Bill" Hickok is shot and killed by Jack McCall during a poker game in Deadwood, Dakota Territory.
+|-
+|Sep 7||Several members of the James–Younger Gang, including Cole Younger, are captured after the failed robbery of the First National Bank leads to a gunfight with bank employees and local residents in Northfield, Minnesota.
+|-
+|Sep 9–10||In the first U.S. Army victory since the disaster at the Little Bighorn, a punitive expedition led by George Crook destroys an Oglala Lakota village led by Chief American Horse at the Battle of Slim Buttes in present-day South Dakota.Jerome A. Greene, “Slim Buttes, 1876: An Episode of the Great Sioux War” (1982), pp. xiii–xiv. Vestal
+|-
+|rowspan=10|1877||Apr||The Homestake lode is discovered in the Black Hills of the Dakota Territory. The claim is later sold to George Hearst, who expands and develops it into the largest and most productive gold mine in North America.
+|-
+|May 5||Crazy Horse surrenders to the U.S. Army at the Red Cloud Agency near Fort Robinson, Nebraska."The William Garnett Interview", in The Surrender and Death of Crazy Horse: A Source Book, Ed. Richard G Hardoff, 1998. p. 43
+|-
+|Jun 17||Anticipating retaliation for recent crimes against white settlers and reluctant to move to a reservation, about 600 Nez Perce Indians led by Chief Joseph, Ollokot, and White Bird begin a long retreat from western Idaho with the U.S. Army in pursuit. They defeat their pursuers at the Battle of White Bird Canyon, and the Nez Perce War begins.
+|-
+|Aug 9–10||The Battle of the Big Hole is fought in the Montana Territory between the Nez Perce and U.S. soldiers under Col. John Gibbon.
+|-
+|Aug 17||At 17 years old, Henry McCarty, later known as "Billy the Kid", shoots his first man, Frank "Windy" Cahill, after Cahill wrestles him to the ground at a saloon near Fort Grant, Arizona. Cahill dies the following day.
+|-
+|Sep 5||Four months after his surrender, Oglala war leader Crazy Horse is fatally stabbed with a bayonet by a U.S. Army soldier while allegedly resisting imprisonment at Fort Robinson.
+|-
+|Sep 18||A gang led by Sam Bass robs a Union Pacific train of more than $60,000 while it is stopped at a remote water station near present-day Big Springs, Nebraska.
+|-
+|Sep 21||Prospector Ed Schieffelin files his first mining claim after discovering silver ore on a high plateau between the San Pedro River and the Dragoon Mountains in southeastern Arizona Territory. He names his stake "Tombstone".
+|-
+|Oct 5||Cornered at the Battle of Bear Paw, just 40 miles south of the Canadian border in the Montana Territory, Chief Joseph and his dwindling band of Nez Perce surrender to the U.S. Army under Generals Oliver O. Howard and Nelson A. Miles, ending the Nez Perce War.
+|-
+|Dec 17||In the San Elizario Salt War, years of legal conflict over the application of individual mineral rights to traditionally community-held salt lakes near the Guadalupe Mountains reach a climax when a detachment of Texas Rangers surrenders to a popular army of Tejano citizens following a four-day siege in the town of San Elizario, Texas. More than a dozen people are killed in the exchange.The El Paso Salt War of 1877, C. L. Sonnichsen, 1961, Carl Hertzog and the Texas Western Press.
+|-
+|rowspan=5|1878||Jan 22||A gang of outlaws led by Dave Rudabaugh, Mike Roarke, and Dan Dement attempt unsuccessfully to rob a train near Kinsley, Kansas. Rudabaugh is captured the next day by Bat Masterson and a posse including John Joshua Webb.
+|-
+|rowspan=2|Feb 18||New Mexico rancher John Tunstall is killed by a posse led by Lincoln County Sheriff William J. Brady, sent to seize attached property after Tunstall fails to pay a debt to rival cattlemen, beginning the Lincoln County War.
+|-
+||The town of Leadville is incorporated in Colorado.
+|-
+|Jun 18||Nick Worthington, a well-known outlaw throughout New Mexico and Colorado, is killed by residents of Cimarron, New Mexico after killing several men and stealing horses.
+|-
+|Jul 15–19||The Battle of Lincoln takes place over five days in Lincoln, New Mexico. Alexander McSween, former partner of John Tunstall, is shot and killed on July 19, along with gunman Francisco Zamora.
+|-
+|rowspan=8|1879|| ||Ike and Billy Clanton enlist William "Curly Bill" Brocius and Johnny Ringo as they begin cattle rustling in the New Mexico and Arizona Territories.
+|-
+|Jan||Captain Marcus Reno, the highest-ranking officer to have survived the Battle of the Little Bighorn, is brought before a general court-martial but is acquitted of cowardice.
+|-
+|Feb 18||Outlaw Jesse Evans allegedly holds Billy the Kid and Tom O'Folliard at gunpoint as he murders attorney Huston Chapman in Lincoln, New Mexico.
+|-
+|Mar 17||New Mexico Territorial Governor Lew Wallace meets with Billy the Kid in Lincoln, promising him amnesty for his previous crimes in exchange for his testimony regarding Chapman's murder. The Kid is taken into custody on March 21 and later testifies as agreed, but is not released from jail.
+|-
+|Apr 5||Gambler Frank Loving kills Levi Richardson in a gunfight at the Long Branch Saloon in Dodge City, Kansas.
+|-
+|Jun 17||Concluding that Governor Wallace has deceived him, Billy the Kid escapes from jail in Lincoln, New Mexico.
+|-
+|Sep 26||A fire devastates Deadwood, South Dakota, destroying most of the town's original buildings.
+|-
+|Sep 29||In the White River War, Nathan Meeker and ten employees of the White River Indian Agency in western Colorado are massacred by Ute Indians when Meeker wires for military assistance in suppressing a perceived uprising. The Utes besiege a U.S. Army detachment in the Battle of Milk Creek until it is relieved by troops under Col. Wesley Merritt on October 5.Sprague, Marshall, Massacre: The Tragedy At White River, University of Nebraska Press, 1957, p. 176
+|}
+
+
+==1880s==
+
+
+
+
+{|class=wikitable
+!Year
+!width=55|Date
+!Event
+|-
+|rowspan=7|1880|| ||George Alford is sentenced to five years imprisonment for murdering a sheriff in Fort Worth, Texas.
+|-
+|Mar 2||James Allen kills James Moorehead after ordering eggs in a tavern in Las Vegas, New Mexico and, after escaping from prison for Moorehead's murder, is killed by a posse.
+|-
+|May 1||The Tombstone Epitaph prints its first issue in Tombstone, Arizona. It remains the oldest continuously published newspaper in the state.Tombstoneepitaph.com . Accessed 22 December 2015.
+|-
+|May 11||A dispute over land titles between settlers of California's San Joaquin Valley and the Southern Pacific Railroad leaves seven people dead in what is later called the Mussel Slough Tragedy.
+|-
+|Dec 19||Tom O'Folliard, best friend of Billy the Kid, is shot and killed by members of Pat Garrett's posse in Fort Sumner, New Mexico.
+|-
+|Dec 23||Charlie Bowdre, a member of Billy the Kid's gang, is shot and killed by members of Pat Garrett's posse at Stinking Springs, New Mexico.
+|-
+|Dec 24||Abran Baca kills A.M. Conklin in Socorro, New Mexico with several other outlaws, though he is acquitted the following year.
+|-
+|rowspan=6|1881||Feb 5||The city of Phoenix is incorporated in the Arizona Territory.
+|-
+|Apr 14||A gunfight involving El Paso, Texas Marshal Dallas Stoudenmire results in what witnesses recall as "four dead in five seconds".
+|-
+|Jul 14||Billy the Kid is shot and killed by Sheriff Pat Garrett in Fort Sumner, New Mexico. He is buried the next day between his friends Tom O'Folliard and Charlie Bowdre in the town's old military cemetery.
+|-
+|Aug 5||Crow Dog, a Lakota subchief on the Great Sioux Reservation, shoots and kills Chief Spotted Tail. Though the matter is settled by tribal custom, Crow Dog is sentenced to death under the laws of the Dakota Territory, only to be freed by a decision of the U.S. Supreme Court.Sidney L. Harring (1994). Crow Dog's Case: American Indian Sovereignty, Tribal Law, and United States Law in the Nineteenth Century, 3.
+|-
+|Oct 26||The Gunfight at the O.K. Corral takes place in the street behind a saloon in Tombstone, Arizona, pitting the Earps and Doc Holliday against Ike and Billy Clanton, Frank and Tom McLaury, and Billy Claiborne. Billy Clanton and the McLaurys are killed, and Virgil and Morgan Earp, along with Holliday, are wounded.
+|-
+|Dec 13||San Jose, California becomes the first city west of the Rocky Mountains with civic electric lighting when a 237-foot-tall moonlight tower is illuminated downtown.
+|-
+|rowspan=8|1882||Mar 18||Morgan Earp is shot and killed while playing billiards in Tombstone, Arizona. His assassination is linked to his involvement in the Gunfight at the O.K. Corral.
+|-
+|Mar 24||Outlaw William "Curly Bill" Brocius is shot and killed by Wyatt Earp at Iron Springs in southeastern Arizona.
+|-
+|Apr 3||Jesse James is shot in the back of the head by Robert Ford, a new recruit to his gang, at his home in St. Joseph, Missouri.The Modesto Bee (Apr 4, 1982) The outlaw Jesse James: His legend lives on 100 years later Retrieved 3 May 2010
+|-
+|Apr 16||John Allen mortally wounds Frank Loving during a shootout in Trinidad, Colorado.
+|-
+|May 6||President Chester A. Arthur signs the Chinese Exclusion Act, which effects a near-complete ban on Chinese immigration and naturalization in the United States. The law is especially significant for the burgeoning railroad and mining industries in the West, which had previously relied largely on low-wage Chinese labor. Though the original act is set to expire in ten years, it is renewed in 1892 and again in 1902.
+|-
+|Jun 20||A band of Teton Lakota travels east from Fort Yates to begin a three-day hunt of a large herd of bison on reservation lands near what is now Hettinger, North Dakota, in what is later called the "Last Great Buffalo Hunt".
+|-
+|Jul 17||U.S. cavalry under Adna R. Chaffee and Andrew W. Evans pursue and defeat warriors of the White Mountain Apache tribe at the Battle of Big Dry Wash in the Arizona Territory.
+|-
+|Nov 14||"Buckskin" Frank Leslie shoots and kills outlaw Billy Claiborne while bartending at the Oriental Saloon in Tombstone, Arizona.Tombstone Epitaph, Saturday, November 18, 1882.
+|-
+|rowspan=3|1883||Jan 12||The Southern section of the second transcontinental railroad line is completed.
+|-
+|Sep 8||The Northern Pacific Railroad is completed near Independence Creek in western Montana Territory, connecting St. Paul, Minnesota with the Washington Territory.
+|-
+|Dec 8||In the Bisbee massacre, five outlaws rob a general store in Bisbee, Arizona and kill four people in the process.
+|-
+|rowspan=4|1884||Mar 11||Former lawmen Ben Thompson and John King Fisher are ambushed and killed by enemies of Thompson at the Jack Harris Vaudeville Saloon and Theater in San Antonio, Texas.
+|-
+|Apr 10||Lawman William "Bill" Tilghman is appointed city marshal of Dodge City, Kansas.Dodge City Times, April 17, 1884.
+|-
+|May 17||The Department of Alaska is organized into the District of Alaska.
+|-
+|Dec 1||A 36-hour standoff begins in the town of Reserve, New Mexico when a posse of Texan cowboys confronts lawman Elfego Baca for having arrested an intoxicated cowboy.
+|-
+|rowspan=1|1885||Sep 2||Years of racial tension, aggravated by labor unrest over the preferential hiring of Chinese immigrants for very low wages, come to a head in the Rock Springs massacre, which leaves at least 28 Chinese coal miners dead at the hands of white miners in the town of Rock Springs, Wyoming. The riot touches off a wave of anti-Chinese violence across the country.Carroll, Murray L. "Governor Francis E. Warren, The United States Army and the Chinese Massacre at Rock Springs," Annals of Wyoming, 1987, Vol. 59 No. 2, pp. 16–27, ()
+|-
+|rowspan=8|1886|| ||Jack Langrishe, a popular western entertainer, is elected justice in Coeur d’Alene, Idaho.
+|-
+|Feb 18||Dave Rudabaugh, a former member of Billy the Kid's Dodge City Gang, is reportedly captured and decapitated by townspeople after terrorizing the village of Parral, Mexico.
+|-
+|Mar 21||The "Big Fight" takes place in Tascosa, Texas, when three ex-members of Pat Garrett's "Home Rangers" are killed by rival ranch hands and gunmen.
+|-
+|Aug 7||Fort Fred Steele, used to protect railroads from local Native American tribes in the Wyoming Territory, is closed.
+|-
+|Aug 20||Fort Duchesne is officially opened by Major Frederick William Benteen in the Utah Territory.
+|-
+|Sep 4||Apache renegade Geronimo surrenders to forces under General Nelson Miles and is taken into custody at Fort Grant, Arizona. His surrender is often considered the end of the Apache Wars.Capps, Benjamin (1975). The Great Chiefs. Time-Life Education. pp. 240. 
+|-
+|Winter||The extremely harsh winter of 1886–87 devastates the American cattle industry, leading to the end of the open range era. As a result, cattle ranching is completely reorganized and the period of the great cattle drives is over.
+|-
+|Dec 1||Brothers Jim and Rube Burrow rob their first train in Bellevue, Texas.
+|-
+|rowspan=3|1887||rowspan=2|Feb 8||The Dawes Act is signed into law by President Grover Cleveland, permitting the federal government to divide communal Native American lands into privately owned allotments and to grant United States citizenship to individual allottees. Intended as a way to modernize the reservation system and assimilate Native Americans into mainstream society, the act forces the sale and redistribution of nearly 90 million acres of Indian lands in the West to white settlers and commercial interests over the next five decades.
+|-
+|Luke Short kills former Fort Worth, Texas Marshal Jim Courtright in a gunfight on the streets of Fort Worth. The shooting is ruled self-defense, since Courtright drew his pistol first.
+|-
+|Apr 4||Susanna M. Salter becomes mayor of Argonia, Kansas, the first woman to be elected to mayoral office anywhere in the United States.
+|-
+|rowspan=2|1888||Jan 12–13||A severe winter storm known as the Schoolhouse Blizzard kills more than 235 people across a vast area of the Great Plains including the Dakota Territory, Nebraska, and Kansas.
+|-
+|Dec 18||Richard Wetherill and his brother-in-law discover the Cliff Palace of Mesa Verde in southwestern Colorado.Wenger, Gilbert R. (1991) [1980]. The Story of Mesa Verde National Park. Mesa Verde Museum Park, Colorado: Mesa Verde Museum Association. pp. 79–80. .
+|-
+|rowspan=10|1889||Jan 12||During the Gray County War, a shootout erupts in Cimarron, Kansas when a party led by Bill Tilghman raids the Old Gray County Courthouse in an attempt to bring the county records to the neighboring town of Ingalls.
+|-
+|Feb 3||Belle Starr is murdered in Oklahoma.Toledo Blade (Feb 19, 1954) Belle Starr, Sweetheart of Outlaws Retrieved 6 May 2010
+|-
+|Apr 22||An estimated 50,000 homesteaders rush to claim nearly two million acres of unoccupied land appropriated for public settlement from ceded Native American territory in what is now central Oklahoma. It is the first of several major land runs in the region.
+|-
+|May 11||U.S. Army paymaster Joseph W. Wham and his escort of eleven Buffalo Soldiers are ambushed and robbed of more than $28,000 in gold and silver coins by a posse of bandits on the road to Fort Thomas, Arizona Territory. The bandits are never captured.
+|-
+|Jun 6||The Great Seattle Fire destroys the entire central business district in Seattle, Washington Territory, eventually burning 25 city blocks and costing the city nearly $20 million.
+|-
+|Jun 24||Outlaw Butch Cassidy robs his first bank in Telluride, Colorado before fleeing to the remote hideout of Robbers Roost.
+|-
+|rowspan=2|Nov 2||North Dakota and South Dakota are admitted as the 39th and 40th U.S. states.
+|-
+||Eight imprisoned Apache renegades, including the Apache Kid, murder two sheriffs and escape into the desert during a prisoner transfer near Globe, Arizona.
+|-
+|Nov 8||Montana is admitted as the 41st U.S. state.
+|-
+|Nov 11||Washington is admitted as the 42nd U.S. state.
+|}
+
+
+==1890s==
+
+
+
+
+{|class=wikitable
+!Year
+!width=55|Date
+!Event
+|-
+|rowspan=5|1890||Jun||Data collected for the Eleventh United States Census indicate that the spread of the population into unsettled areas has resulted in the disappearance of the American frontier. The U.S. Census Bureau declares that it will no longer monitor westward migration in the country.
+|-
+|Jul 3||Idaho is admitted as the 43rd U.S. state.
+|-
+|Jul 10||Wyoming is admitted as the 44th U.S. state.
+|-
+|Oct 1||Yosemite and Sequoia are established as the second and third U.S. National Parks.
+|-
+|Dec 29||More than 200 men, women, and children of the Lakota Sioux are killed at Wounded Knee Creek on the Pine Ridge Indian Reservation in South Dakota when the U.S. 7th Cavalry Regiment under Colonel James W. Forsyth attempts to confiscate their weapons.
+|-
+|rowspan=1|1891||Mar 3||The Forest Reserve Act is signed into law by President Benjamin Harrison, repealing previous policies such as the Timber Culture Act of 1873 and authorizing the creation of the nation's first "forest reserves" in an effort to protect timber and mineral resources from overexploitation. The law serves as a catalyst to a series of federal land reform legislation over the next three decades which greatly expand government-administered public lands and restrict private development. It also heralds changing attitudes toward land management in the West, with federal priorities gradually shifting from selling public land to conserving public resources, and federal regulations becoming a permanent fixture on the once unregulated frontier.
+|-
+|rowspan=3|1892||Apr 8–13||In the most violent episode of the Johnson County War, wealthy cattle barons of the Wyoming Stock Growers Association and hired mercenaries invade the Powder River Country to persecute local ranchers on allegations of cattle rustling. A series of deadly stand-offs ensues before President Benjamin Harrison orders the 6th Cavalry Regiment to intervene. The conflict forces a reorganization of the cattle industry in Wyoming and becomes one of the most well-known range wars in the history of the West.
+|-
+|Aug 2||Tom Graham, the last male member of the Graham family, is killed by Edwin Tewksbury in Tempe, Arizona, concluding the Pleasant Valley War.
+|-
+|Oct 5||Four members of the Dalton Gang are killed in a shootout with the townspeople while trying to rob two banks at the same time in Coffeyville, Kansas.
+|-
+|rowspan=5|1893||May 15||Provoked by the previous year's strike in Coeur d'Alene, coal miners establish the Western Federation of Miners in Butte, Montana.Smith, Robert Michael. (2003). From Blackjacks To Briefcases—A History of Commercialized Strikebreaking and Unionbusting in the United States. p. 78–79.
+|-
+|Jun 11–12||Following a ten-month manhunt, local train robbers John Sontag and Chris Evans are wounded during a shootout with a posse of lawmen on a ranch north of Visalia, California. Both outlaws are eventually captured, and Sontag dies of his wounds three weeks later.
+|-
+|Jun 30||Captain Frank Jones is killed when he and a party of Texas Rangers searching for a gang of Mexican cattle rustlers are ambushed near the border town of Tres Jacales.
+|-
+|Sep 1||Three deputy U.S. Marshals and two civilians are killed in a shootout with members of the Doolin–Dalton Gang in the town of Ingalls, Oklahoma Territory. All of the outlaws manage to escape.
+|-
+|Nov 7||Women in Colorado are granted the right to vote.
+|-
+|rowspan=2|1894||Feb 7||When mine owners in Cripple Creek, Colorado extend the standard workday from eight hours to ten hours without a corresponding raise in wages, newly unionized miners of the Western Federation of Miners go on strike, setting off a labor dispute that immediately stymies mining operations throughout the region.
+|-
+|Nov 1||The Southern Pacific passenger train Sunset Limited begins regular service on the second transcontinental railroad route.
+|-
+|rowspan=1|1895||Aug 19||Outlaw John Wesley Hardin is shot and killed by John Selman at the Acme Saloon in El Paso, Texas.
+|-
+|rowspan=5|1896||Jan 4||Utah is admitted as the 45th U.S. state.
+|-
+|Jan 15||Bill Tilghman single-handedly captures wanted gang leader Bill Doolin at a bathhouse in Eureka Springs, Arkansas and returns him to the Oklahoma Territory. Doolin escapes from prison on July 5.
+|-
+|Aug 12||An uprising of Yaqui Indians and Mexican revolutionaries, angered by the policies of Mexican President Porfirio Díaz, storms the customhouse in Nogales, Sonora on the U.S.–Mexico border. Detachments of both federal armies manage to disperse the rebels over the next several days.
+|-
+|Aug 13||Butch Cassidy, Elzy Lay, Harvey "Kid Curry" Logan, and Bob Meeks rob a bank in Montpelier, Idaho.Idaho State Historical Society: Public Archives and Research Library, inmate files: Henry "Bob" Meeks, #574
+|-
+|Sep 15||A staged train wreck designed as a publicity stunt for the Missouri-Kansas-Texas Railroad unexpectedly causes simultaneous boiler explosions that kill at least two spectators and result in numerous other injuries.
+|-
+|rowspan=1|1897||Apr 15||Crude oil is discovered for the first time in the Indian Territory, near present-day Bartlesville, Oklahoma.
+|-
+|rowspan=2|1898||Jul 8||The Shootout on Juneau Wharf occurs in Skagway, District of Alaska when crime boss Soapy Smith and Frank H. Reid are shot during an argument. Smith is killed immediately and Reid dies 12 days later.
+|-
+|Aug–Oct||At least 500 members of 35 different American Indian tribes attend the Indian Congress in Omaha, Nebraska, the largest gathering of its kind to date."Indian Congress" , Omaha Public Library. Retrieved 8/20/07.
+|-
+|rowspan=2|1899||May 30||Pearl Hart and a companion rob a stagecoach traveling between Globe and Florence in the Arizona Territory. The pair is tracked down and arrested a few days later.
+|-
+|Jun 2||Butch Cassidy and his Wild Bunch rob an Overland Flyer passenger train near Wilcox, Wyoming, resulting in a massive but ultimately futile manhunt.
+|}
+
+
+==1900s==
+
+{|class=wikitable
+!Year
+!width=55|Date
+!Event
+|-
+|rowspan=3|1900||May 1||A dust explosion at the Winter Quarters Mine near Scofield, Utah kills at least 200 coal miners in the Scofield Mine disaster, the deadliest mining accident in American history to date.
+|-
+|May 19||Jim Butler discovers silver near what will soon become the town of Tonopah, Nevada.
+|-
+|Sep 19||The First National Bank of Winnemucca, Nevada is robbed by three men of more than $30,000 in gold coins. The robbers are never captured or identified.
+|-
+|rowspan=2|1901||Jan 10||An oil well on the Spindletop dome near Beaumont, Texas strikes crude oil, becoming the first major gusher in the state and triggering the Texas oil boom., Texas State Historical Association
+|-
+|Feb 20||Butch Cassidy, Harry Longabaugh, and Etta Place depart the United States for Buenos Aires, Argentina aboard a British steamer.Richard M. Patterson (1998). Butch Cassidy: A Biography. University of Nebraska Press, p. 316.
+|-
+|rowspan=2|1903||May 23||Horatio Nelson Jackson and Sewall K. Crocker depart San Francisco in a two-cylinder Winton motor car. They arrive in New York City on July 26, becoming the first people to cross the continent in an automobile.
+|-
+|Nov 20||Legendary gunman Tom Horn is hung in Cheyenne, Wyoming for the disputed killing of 14-year-old sheepherder Willie Nickell in 1901. His trial and hanging mark the waning of the power of the cattle barons in Wyoming.
+|-
+|rowspan=2|1905||May 15||The city of Las Vegas is founded in Nevada.
+|-
+|Dec 30||Former Idaho Governor Frank Steunenberg is wounded by a bomb in his home in Caldwell, Idaho and dies a short time later. An investigation suggests the assassination was motivated by prior labor unrest in Idaho's mining communities.
+|-
+|rowspan=1|1906||Apr 18||An earthquake and resulting fires devastate the city of San Francisco and neighboring communities, killing at least 3,000 people and leaving nearly three-fourths of the Bay Area's population homeless.Timeline of the San Francisco Earthquake April 18 – 23, 1906, The Virtual Museum of the City of San Francisco
+|-
+|rowspan=1|1907||Nov 16||Oklahoma is admitted as the 46th U.S. state.
+|-
+|rowspan=2|1908||Feb 29||Pat Garrett is murdered under mysterious circumstances near Las Cruces, New Mexico Territory.Metz, Leon C. Pat Garrett: The Story of a Western Lawman. pp. 285–286.Gardner, Mark Lee. To Hell on a Fast Horse, p. 229
+|-
+|Nov 7||Butch Cassidy and the Sundance Kid are reportedly found dead following a shootout with police in the town of San Vicente, Bolivia.
+|}
+
+
+==1910s==
+
+{|class=wikitable
+!Year
+!width=55|Date
+!Event
+|-
+|rowspan=1|1911||Aug 28||Ishi, called "the last wild Indian", surrenders near Oroville, California.
+|-
+|rowspan=3|1912||Jan 6||New Mexico is admitted as the 47th U.S. state.
+|-
+|Feb 14||Arizona is admitted as the 48th U.S. state. It is the last state to be admitted to the Union during the Old West era.
+|-
+|Aug 24||The District of Alaska is organized into the Territory of Alaska.
+|-
+|rowspan=1|1916||Dec 5||The last stagecoach robbery in American history occurs at Jarbidge Canyon, Nevada, when three robbers hold up a U.S. Post Office Department stagecoach, shoot the driver, and steal $4,000 in cash. The criminals are captured without incident soon after.
+|}
+
+
+==1950s==
+{|class=wikitable
+!Year
+!width=55|Date
+!Event
+|-
+|rowspan=1|1959||Jan 6||Alaska is admitted as the 49th U.S. state, marking the complete political incorporation of continental U.S. western territorial acquisitions.
+|}
+
+
+==See also==
+
+
+*Historic regions of the United States
+*Territorial evolution of the United States
+*List of Old West gunfights
+*Western United States
+**Mountain States
+**Northwestern United States
+**Southwestern United States
+**Pacific States
+**Great Plains
+**Rocky Mountains
+**Great Basin
+**Sierra Nevada
+**Cascade Range
+
+

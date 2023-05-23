@@ -1,0 +1,106 @@
+Title: Ducati singles
+thumb|upright=1.35|Ducati Scrambler 450cc
+The Ducati singles were single cylinder motorcycles, made by Ducati from 1950 to 1974. Chief Engineer Fabio Taglioni developed a desmodromic valve system in these years, a system that opens and closes the valves using the camshaft, without the need for valve springs. This valve system has become a trademark feature of Ducati motorcycles.
+
+In 1926, the brothers Adriano and Marcello Ducati founded Societa Scientifica Radio Brevetti Ducati, a company in Bologna producing tubes, condensers and other radio components. On June 1, 1935, the cornerstone of a factory in Borgo Panigale was laid. By 1940, the company was engaged in the manufacture of electronic equipment for the military, making the factory a target for Allied bombing. The Ducati factory at Borgo Panigale was hit badly more than once, but maintained production.
+
+==Cucciolo==
+thumb|1950 Ducati Vilar Cucciolo
+
+During World War II, Aldo Farinelli, a lawyer from Turin, developed with SIATA a small engine to be mounted on a bicycle, called the Cucciolo ("little puppy") and in 1950 Ducati began producing its own complete 98-pound motorcycle with the same name.
+
+==Ducati 65 TS and Cruiser ==
+The market was moving though, towards bigger motorcycles and Ducati's IRI management felt diversification was the only answer. Ducati made an impression at the early 1952 Milan Show, introducing the Ducati 65 TS cycle and the Cruiser, the world's first four-stroke scooter. Despite being described as the most interesting new machine at the 1952 show, the Cruiser was not a great success. A couple of thousand were made over a two-year period before being withdrawn from production.
+
+In 1953, management decided to split the operation into two separate entities, Ducati Meccanica SpA, and Ducati Elettronica SpA, under separate management. Dr. Giuseppe Montano took over as head of Ducati Meccanica SpA and the old Borgo Panigale factory was modernized, with government assistance.
+
+By 1954, Ducati Meccanica SpA was producing 120 bikes a day, but cheap cars were entering the markets, and sales for many motorcycle manufacturers would decline.
+
+==OHV pushrod singles==
+From the mid-1950s through mid-1960s Ducati produced non-Taglioni-designed OHV singles with conventional pushrod valve operation, such as the 125 Bronco.
+
+==Two-strokes==
+Ducati was manufacturing a 50 cc two stroke, with power outputs from 0.92 hp at 4,600 rpm to 4.2 at 8,600 rpm. Some attempts were made to race these 50 cc Ducati two-strokes in Europe, but the 3 speed gearbox and lack of power compared to makes such as Itom meant that there was no success. They also failed to sell in America, their target market, as the US demand just did not exist. Fairly large quantities were sold in Europe and for some years it was the sales of two-strokes that kept the company afloat. In hindsight, Ducati probably would have done better by focussing on its well-developed line of sporting four-strokes, but the company persisted with 50 cc, 80, 90, and finally 100 cc versions of the same two-stroke bikes, despite falling sales. These small 2 strokes were built in all sorts of versions, from mini-racers through trail and scrambler type models even to scooters. Early versions had 3-speed hand change gears but this later became 4-speed foot change. Some versions had fan-cooled engines. While sufficient members of management wished to persist in production, some engineers were already refusing to work on them, and pursuing other company projects with more promise for the company future.
+
+In 1977, Ducati made their last significant attempt to provide a competitive 'off-road' two stroke motorcycle. The 125 'Regolarita' was a 6 speed enduro model based on an ISDT factory prototype from 1975. While the bike proved viable enough overall, gearbox problems plagued it during development and the project was terminated in 1978. Ducati were sufficiently serious about this project to explore MX versions. However like the parallel twins developed and produced at that time, they were sidelined in favour of Ducati's focus on evolutions of their now established and popular V twins.
+
+==OHC singles==
+
+===Engines===
+The Taglioni designed single cylinder bevel drive OHC engines were of a vertically spilt unit construction and had alloy head and alloy barrels with austenitic liners. Ball bearings were used in the main bearings and roller bearings for the big end. Hairspring valve springs were used to close the valves except on the 239 cc models. Wet sump lubrication was used.
+
+====Narrow case====
+The earlier engines were retrospectively known as 'narrow case' after the introduction of the revised 'wide case' engines.
+
+=====Type A=====
+First shown at the Milan Motorcycle Show  in late 1956, the OHC singles were available in 100, 125, 175 and 200 cc variants. Production of the Type A continued until 1961.
+
+=====Type B=====
+With the introduction of the 250 cc Monza and Diana, the engines were revised with improvements to the crankshaft, cylinder head and clutch housings. The Type B engines were available in 125, 160, 200, 250 and 350 cc displacements. In 1964 5 speed gearboxes were fitted.
+
+====Wide case====
+In 1968, an improved engine was introduced based on the engines used in the 250SCD and 350SCD racers. It featured rear engine mountings that were three times wider than the front engine mount. Internally the engine had stronger main bearings and big ends, an improved kickstart mechanism and larger capacity sump. The engine continued until production of the OHC stopped in 1974 and was available in 239, 250, 350 and 450 cc versions.
+
+=====Desmo=====
+The wide case engines were also available in desmo versions. Unlike the racing models, the road versions used a single camshaft and used helper valve springs to improve starting and low speed running. Apart from the cylinder head assembly, the demo and non-demo engines are the same.
+
+===OHC 98 cc Gran Sport===
+Ducati's single overhead-cam 98 cc Gran Sport, designed by Taglioni, became the blueprint for all future Ducati singles. It had an air-cooled cylinder inclined forward 10 degrees from vertical, gear primary drive, wet-sump lubrication, battery ignition and camshaft drive by vertical shaft and bevel gears. This bike came to dominate its class in Italian racing. In 1956 there was a DOHC 125 cc version of the Gran Sport.
+
+In spite of being a government appointed director, Montano was a motorcycle enthusiast and under his direction, Ducati's competitive activities grew. Fabio Taglioni was chief designer and technical director of Ducati from 1954 to 1989, serving longer than many of the managements that were to follow. The company soon developed a full-fledged racing team. Italians were avid racing fans and would buy bikes built by winners. To acquire a competitive image Ducati needed to race successfully. Taglioni’s usual development procedure was to test a motorcycle on the racetrack before releasing it to the public.
+
+===125 Desmo Ducati===
+The high RPMs needed to produce competitive power in a small engine generated valve float, which Taglioni believed could be overcome with desmodromic valve actuation. The 125 Grand Prix could produce 16 hp at 11,500 rpm, its true rev limit, while the Desmo could crank out 19 hp at 12,500 rpm and could “safely” (bottom end permitting) rev further to 15,000. Big-end life was short at these sorts of revs and new crankshaft bearings were put in for every race.
+
+Desmodromics, were used in the W196 Mercedes-Benz straight-eight Desmo engines that dominated early formula 1 racing. When Mercedes retired from racing, it retired the Mercedes desmo technology, never using it in production models. Taglioni applied it successfully to Ducati motorcycles. As usual, Desmo technology was used first in racing Ducatis and then in Ducati street machines.
+
+The 125 Desmo Ducati won its first race at the 1956 Swedish G.P. at Hedemora, lapping all the other cycles, but then its rider, Gianni Degli Antoni, died during the practice for the next race, the Italian G.P. of Monza. That death dealt a severe blow to the Ducati racing program and it was not until 1958 that their team was able to mount a serious challenge to Italy’s MV Agusta, and their top rider, former 125 cc world champion, Carlo Ubbiali.
+
+In 1958 the Ducati Desmo dominated the racing season and the racing team was soon headed for the World Championship. Unfortunately a mid-season injury to winning Ducati rider Bruno Spaggiani spoilt their run, allowing Ubbiali to narrowly take the title again. Nevertheless, in that season the Desmodromic engine had proved its quality and reliability, in terms of maximizing engine power and as insurance against over-revving damage. These characteristics proved attractive to motorcycle buyers.
+
+The 125 Sport became the 125 Monza. There was also the Monza Super, a further improved version with high-compression piston, modified camshaft, a slightly larger SS1 Dell'Orto racing carburettor, and a straight-through exhaust. The Monza Super was British market only. Oxford’s Ducati dealer, Kings, was pushing Ducati for a 250 cc machine to compete against British and Japanese motorcycles.
+Ducati began by building a 250 cc racer. The prototype won most of its races in America, many running in conjunction with 500 cc events.
+
+In 1959 Ducati introduced the 200cc Elite and 200SS, which were derived from the very successful 175cc single cylinder shaft driven ohc machine.
+
+===Diana===
+
+The first production Ducati 250 debuted at the Milan Fair in April 1961. It was called the Diana but for some unknown reason was renamed as Daytona in the UK. The 250 was so popular that in 1963 Ducati introduced the Diana Mark 3 Super Sport.
+
+===Scrambler===
+
+The Scrambler series of singles were made for the US market from 1962 until 1974, at the behest of Ducati's American importer, the Berliner Motor Corporation.
+
+===Diana Mark 3 Super Sport===
+
+thumb|1970 Ducati Mach I 250 cc
+This machine first appeared in 1962. It was derived from the production 250s but was considerably tuned and had 5 gears instead of the 4 of its predecessors. Several European magazines tested it and were able to exceed 100 mph, making it by far the fastest production 250 on the market. It was later introduced to the American market where, under the name of Diana Mark 3 Super Sport, it proved again to be the fastest 250 street bike in the world that year. In a carefully monitored Cycle World track test, the Mark 3 did a standing 1/4 mile in 16.5 seconds with a final speed of 79.5 mph. Its top speed was 104 mph. Even a TD-1 Yamaha racer, tested by Cycle World that same year, was unable to match the Ducati's top speed and no other comparably sized registrable production bike that year could compete with its performance.
+
+Ducati motorcycles were selling well in North America and other export markets such as Britain, Australia and Germany. In Italy Ducati was doing well, and not just building motorcycles. By 1965, Ducati Meccanica SpA had become the Italian distributor for Standard-Triumph cars and Leyland vans and trucks.
+
+===1965 Ducati 350 Sebring===
+
+thumb|Ducati 350cc
+In 1965, the first new concept bike arrived. The 350 Sebring was the largest Ducati of the day. Typically, Ducati built a racing 350 first. The 350 class was not common in the United States, so when Ducati team rider Franco Farne went to America to race at Sebring race, he had to race in an event catering to 251-700 cc machines. Despite the larger capacity opposition, he finished 11th overall and, more importantly, won his own class outright. In honour of Farne's victory the new model became the 350 Sebring. (Footnote: It was common for Italian manufacturers of competition cars or motorcycles to attach to the name their products events they have won.)
+
+By the mid-1960s, production techniques had advanced to the extent that a road Desmo was now possible. Farne's appeared at the April 1966 Modena meeting, riding a prototype 250 cc machine fitted with an experimental Desmodromic head. In 1967 Roberto Gallina and Gilberto Parlotti raced at Modena on 250 and 350 versions.
+
+===Production desmo===
+In 1967, after eight years of development, Ducati introduced its first production Desmodromic engine, a machine that drew as much from the race track as it did from the drawing board, epitomising the engineering concept that “form follows function”.
+
+In January, 1968, Ducati announced plans to build and market the 450 cc Mark 3D. The D was for Desmodromic.
+
+Early in 1969 the long-awaited Desmo production machine began appearing. The Desmo design in the new engine, had all four closing and opening lobes mounted on the same shaft, similar to the arrangement used in the late fifties W196 Mercedes-Benz Formula 1 cars. The bike was available in Europe in 250 and 350 versions as well as the 450. In 1971, Ducati released a variant for off-road use called the R/T and another street version, the Mark 3 Special, colloquially named the 'Silver Shotgun'.
+
+The motorcycling public seemed to feel that it should have been a “real” 500, and it did not sell well in the US, despite the fact that it outperformed many larger capacity motorcycles of its time. Berliner seemed unable to “hit a winner” in its choice of models, or in selling them to a “cubic inch” market.
+
+In Britain Vic Camp had recognized that Ducati was an enthusiast’s motorcycle and concentrated on a relatively narrow performance-oriented line.
+
+By 1967 Berliner was at the brink of financial ruin - and Ducati with it. The 160 Monza Junior was another flop in the U.S. market. The US was buying larger capacity two cylinder motorcycles, and it came to the point where Berliner refused a shipment, citing market saturation, but the grim reality was, they did not have the funds to pay. This shipment was purchased by a speculator named Bill Hannah and the bikes were sold on the UK market at prices that undercut Vic Camp's official imports.
+
+In the financial tragedy that followed Montano retired. The only out on offer was a takeover by EFIM, a government holding company. This meant direct government control over day-to-day factory operations via a government-appointed administrator whose independent powers were limited.
+
+Ducati's last real off-road, four stroke, competition motorcycles were the 1971 450 R/T and 450 R/S. The RT had a Seeley-style frame that looked stylish, especially when compared to the old style frames on other Ducati singles, but 1971 was a few years too late. Fewer than 400 were made.
+
+For many British car and motorcycle companies of the era, government intervention was the guarantee of a lingering death. This did not prove to be so for Ducati. Unlike British manufacturers of the time, Italy’s Ducati was successful in re-inventing itself. It did this with a line of larger capacity V-twins, but first it went racing, on 500 cc Desmo GP bikes and the Ducati 750 Imola Desmo.
+

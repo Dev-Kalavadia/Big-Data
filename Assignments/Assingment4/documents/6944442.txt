@@ -1,0 +1,30 @@
+Title: Pterandra
+
+
+Pterandra is a genus in the Malpighiaceae, a family of about 75 genera of flowering plants in the order Malpighiales. Pterandra comprises 15 species of trees, shrubs, and subshrubs, all but two native to South America, principally Colombia, Venezuela, and Brazil; the exceptions (P. mcphersonii, P. isthmica) are from Panama.Anderson, C. 1997. Revision of Pterandra (Malpighiaceae). Contributions from the University of Michigan Herbarium 21: 1–27.Anderson, C. 2005. Pterandra viridiflora (Malpighiaceae), a new species from Brazil. Contributions from the University of Michigan Herbarium 24: 21–23.
+There are only some ornamental plants introduced in China, and there are no native varieties.
+
+==Species==
+{|
+|- align=top
+|
+*Pterandra andersonii C.E.Anderson
+*Pterandra arborea Ducke
+*Pterandra colombiana C.E.Anderson
+*Pterandra egleri W.R.Anderson
+*Pterandra evansii Cuatrec.
+*Pterandra flavescens Maguire
+*Pterandra guianensis W.R.Anderson
+*Pterandra hatschbachii W.R.Anderson
+|
+*Pterandra hirsuta C.E.Anderson
+*Pterandra isthmica Cuatrec. & Croat
+*Pterandra mcphersonii C.E.Anderson
+*Pterandra pyroidea A.Juss.
+*Pterandra sericea W.R.Anderson
+*Pterandra ultramontana Cuatrec.
+*Pterandra viridiflora C.E.Anderson
+|}
+
+These three names in Pterandra are synonyms and not accepted (Anderson 1997): Pterandra latifolia A.Juss. is synonym for Acmanthera latifolia (A.Juss.) Griseb.; Pterandra opulifolia Rusby is a synonym for Hiraea opulifolia (Rusby) Nied.; Pterandra psidiifolia A.Juss. is a synonym for Pterandra pyroidea A.Juss.
+

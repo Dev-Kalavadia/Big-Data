@@ -1,0 +1,126 @@
+Title: D4 motorway (Slovakia)
+
+
+
+D4 is a motorway in southwestern Slovakia. The planned highway is commonly referred to as the Bratislava bypass. For decades, there was only a short stretch from Austrian border at Jarovce to the junction with D2 (part of the former D61), construction of which started in 1996 and was opened in 1998. Construction of various other parts started in the late 2010s, with several openings throughout 2020 and 2021. The extension to the motorway D1 between Bratislava and Senec is underway, in order to connect the southern bypass of Bratislava to the country's main traffic artery. The bypass also intersects with expressway R7, parts of which are already open as well.
+
+== History ==
+The connecting motorway on the Austrian side, Nordost Autobahn A6 was opened on 19 November 2007. The highway connects the border with Slovakia to the Ost Autobahn A4. It provided connection to 3rd of its 5 neighboring country, until 2007 Slovakia was connected by motorway only to the Czech Republic and Hungary.http://www.bratislavskenoviny.sk/56332/doprava/o-mesiac-budu-bratislava-a-vieden-blizsie (Slovak)
+
+In 2016, the construction of the 27 km long motorway section from the D2xD4 junction near Jarovce to Bratislava, Rača began. All of the section was set to open in 2020, which was delayed due to construction problems. Therefore, only the Bratislava, South - Bratislava, Podunajské Biskupice and the Bratislava, Podunajské Biskupice - Bratislava, Vrakuňa sections were opened in 2020. The rest of the section was opened to the public in the fall of 2021. However, the D1xD4 junction is delayed all the way to the year 2026. https://ekonomika.pravda.sk/krajina/clanok/607021-posledny-usek-na-dialnicnom-obchvate-bratislavy-na-d4-medzi-vajnormi-a-ivankou-pri-dunaji-je-uz-otvoreny/ (Slovak) https://auto.pravda.sk/doprava/clanok/599992-konzorcium-d4r7-krizovatku-d1-d4-sme-chceli-postavit-aj-my-nikoho-to-nezaujimalo/ (Slovak)
+
+== Sections of the motorway ==
+{| class="wikitable sortable"
+!Section number
+!Section name
+!Section length in km
+!Year of commencement of works on the section
+!Year of section completion (dd/mm/yy)
+!Exits and junctions (x) with other motorways
+|-
+|1.
+|SK/AT border – Bratislava, Jarovce
+|2,0
+|1996
+|1999
+|D4xD2 junction, Bratislava-Jarovce
+|-
+|2.
+|Bratislava, Jarovce – Bratislava, Petržalka
+|2,5
+|2016
+|3.10.2021
+|Bratislava-Petržalka
+|-
+|3.
+|Bratislava, Petržalka – Bratislava, juh (Bratislava, South)
+|4,5
+|2016
+|26.9.2021
+|D4xR7 junction, Bratislava-juh (South)
+|-
+|4.
+|Bratislava, juh (Bratislava, South) – Bratislava, Podunajské Biskupice
+|4,0
+|2016
+|19.7.2020
+|Bratislava-Podunajské Biskupice
+|- 
+|5.
+|Bratislava, Podunajské Biskupice – Bratislava, Vrakuňa
+|3,6
+|2016
+|8.11.2020
+|Bratislava-Vrakuňa
+|-
+|6.
+|Bratislava, Vrakuňa – Bratislava, východ I (Bratislava, East I)
+|7,5
+|2016
+|11.2.2021
+|Bratislava-východ I (East I)
+|- 
+|7.
+|Bratislava, východ I (Bratislava, East I) – D4xD1 Bratislava, východ II, (Bratislava, East II) junction
+|1,0
+|2016
+|12.11.2021
+|Section without exits
+|- style="background-color: #ebbd41"
+|7.
+|D4xD1 Bratislava, východ II (Bratislava, East II) junction
+|0,0
+|2016
+|2025
+|Bratislava-východ II (East II), D4xD1 junction
+|-
+|8.
+|Bratislava, východ II (Bratislava, East II) – Bratislava, Vajnory
+|2,0
+|2016
+|12.11.2021
+|Bratislava-Vajnory
+|-
+|9.
+|Bratislava, Vajnory – Bratislava, Rača
+|2,4
+|2016
+|5.9.2021
+|Bratislava-Rača
+|- style="background-color: #e56262"
+|10.
+|Bratislava, Rača – Bratislava, Záhorská Bystrica
+|12,4
+|2028
+|?
+|Bratislava-Záhorská Bystrica, dostavba
+|-
+|11.
+|Bratislava, Záhorská Bystrica – Bratislava, Devinska Nová Ves, left half
+|3,0
+|2009
+|2011
+|Bratislava-Záhorská Bystrica, 
+temporary connection
+D4xD2 junction, Stupava
+
+Bratislava-Devínska Nová Ves, temporary connection
+|- style="background-color: #e56262"
+|11.
+|Bratislava, Záhorská Bystrica – Bratislava, Devinska Nová Ves, right half
+|3,0
+|2028
+|?
+|Bratislava-Devínska Nová Ves, 
+|- style="background-color: #e56262"
+|12.
+|Bratislava, Devínska Nová Ves – SK/AT border
+|3,6
+|2028
+|?
+|Section without exits, connection to an Austrian expressway at the border
+|}
+
+== See also ==
+* Transport in Bratislava
+

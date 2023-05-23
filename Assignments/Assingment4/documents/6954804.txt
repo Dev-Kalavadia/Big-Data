@@ -1,0 +1,57 @@
+Title: Indian Association for Medical Informatics
+
+right|thumb|225px|IAMI logo Created By Dr KB Reddy
+The Indian Association for Medical Informatics (IAMI) is a professional society that plays a role in promoting and furthering the application of informatics in the fields of healthcare, bioscience and medicine in India. It was established in  Feb 1993 by Prof. Dr. Nanduri Gajanana Rao BSc, MBBS, MNAMS, PhD (Computer Aided Medicine) at Nizam's Institute of Medical Sciences, Hyderabad. Registered at District Registrar of Societies on 18 Sep 1993 - Regn No. 3774/93
+
+== Goals and objectives ==
+The objectives of the IAMI are to sensitize the Indian medical community to the benefits of Information Technology (IT), bring about awareness and ensure greater utilization of IT in healthcare facilities across the length and breadth of India. The IAMI also aims to bring together the computer professionals and medical professionals and to provide necessary assistance and guidance to other organizations to implement and reap the benefits of IT for a high quality health care. It supports introduction of computer literacy along with medical education, development of computerized clinical records as well as medical digital libraries, access to information and creation of databases and Knowledge Bases for AI applications. IAMI emphasizes organized research and development of medical informatics as an independent discipline. It provides various communication and interaction channels among its members by means of e-groups and through publication of a scholarly journal (IJMI).
+
+alt=Prof. Dr. NG Rao (Founder , IAMI)|thumb|Prof Dr NG Rao, Founder IAMI
+
+== Affiliation ==
+It is the Indian National Member at IMIA.  Affiliated to ICHA, Telemedicine Society of India AHHA  and AHA
+
+== History ==
+IAMI was registered in September 1993 with its Registered Office being the Department of Clinical Pharmacology, Nizam's Institute of Medical Sciences, in Hyderabad, India by the Founder Prof (Dr) N G Rao.  The first President (Honorary) was Dr RD Lele, Professor of Nuclear Medicine and Director, Jaslok Hospital, Bombay.
+
+It has been organising a conference every two years on roles and applications of informatics in medicine, health and allied fields in various states of India.
+
+The first biennial conference was held in 1995 at Hyderabad by the Founder Prof Dr NG Rao.
+
+The second conference was held in 1997 at Indian Institute of Science, Bangalore by Dr Lazar Mathew, Director of DEBEL under the Presidentship of Dr RD Lele.
+
+The third conference in 1999 in Hyderabad was postponed due to natural calamities. A workshop was held at NIMS in lieu of the conference by the Then President, Dr N G Rao.
+
+The third conference was held in 2001 in New Delhi by Dr Ajit Bal, Atul Bal and Dr Naval Kishore under the presidentship of Prof NG Rao.
+
+The fourth conference was held in 2003 at PGIMER, Chandigarh by Dr OP Sharma, the President Elect under the guidance of the then President Dr N G Rao.
+
+A mid-conference was held in 2004 at the South-Eastern Railways Hospital, Kolkata by the then President, Dr OP Sharma and Dr AS Sanyal of Indian Railways.
+
+The fifth conference was held in 2005 at Sri Guru Ram Das Institute of Medical Sciences in Amritsar by the then President Dr OP Sharma and Prof Sanjay Bedi.
+
+The sixth conference, IAMI-2007, was an International Conference organized at Amtita Institute of Medical Sciences, Kochi by the then President Dr SB Gogia and Dr Ajit N Babu of the Institute.
+
+The seventh conference, IAMI-2009 was held at Hyderabad by Dr Bhudeb Chakrabarty under the Presidentship of Dr SB Bhattacharyya.
+
+The eighth conference IAMI-2012 was organized in Jaipur in collaboration with Telemedicine Society of India by the then President Prof Sanjay Bedi and Dr (Maj Gen) AK Singh of Telemedicine Society.
+
+The ninth conference IAMI-2014 was an International Conference organized by the then President Dr Sushil Meher in AIIMS, New Delhi along with Dr SB Gogia as Chairman.
+
+The tenth conference IAMI-2016 was organized in AIIMS, Bhubaneswar by the then President Dr Sushil Meher and Dr Saroj K Das as Chairman.
+
+IAMI has conducted many beginners' courses in Computer Aided Medicine for doctors, nurses, paramedical personnel and computer professionals also. This enabled the association in enrolling many hospitals and medical institutes; and few computer organizations as Institutional Life Members. IAMI made many hospitals and nursing homes purchase computers and start automation of Hospital Information Services. Since 1999 until 2020, IAMI was conducting every alternate year seminars and workshops for medical professionals. It is now aiming at making Medical Informatics as one of the elective subjects in the UG curriculum for all medical colleges in India and to get academic credits from the Medical Council of India and other autonomous bodies under the Ministry of Health and Family Welfare (India), Government of India for all the delegates participating in the conferences, seminars and workshops organized by the association.
+
+In 2001, it started a discussion group for medical informatics. Which has now grown into the de facto information source for medical informatics-related activities in India for its members as well as non-members. Its active members include almost everyone in the medical informatics scene of India. IAMI started its own website in 2002 in a small way and in 2018, it was redeveloped on a large scale. (URL- https://www.iami-new.org.in. Its Indian Journal of Medical Informatics (IJMI, ) was started in May 2004.
+
+== Membership ==
+IAMI membership consists of Personal, Institutional and Honorary Members. In 2018, there are 27 Institutional Members and about 700 Individual Members. Major institutes and hospitals are AIIMS, New Delhi, NIMS, Hyderabad, MNJ Institute of Oncology, Hyderabad, Mahavir Hospital, Hyderabad, Apollo Health Street, Hyderabad, Mahatma Gandhi Institute of Medical Sciences, Sevagram, Guru Ramdas Institute of Medical Sciences, Amritsar, Lucknow Medical College, Lucknow and Amrita Institute of Medical Sciences, Kochi.
+
+Many of its old and present office bearers are part of several Government of India (GOI) initiatives in the areas of telemedicine, especially in the area of development of standards and guidelines for the practice of telemedicine, online medical education and electronic medical records or electronic health records.
+
+== Journal ==
+It produces the scientific journal called Indian Journal of Medical Informatics.http://www.medicalinformatics.org.in/ojs/index.php/ijmi/index 
+
+==Discussion group==
+Members of the association have an active discussion grouphttps://groups.google.com/group/iami_gen where healthcare IT enthusiasts discuss topics of their interest. Several discussion threads run in parallel. There is also a "topic of the month" which is the main focus of the discussion.
+

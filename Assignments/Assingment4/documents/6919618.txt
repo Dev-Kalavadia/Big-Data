@@ -1,0 +1,94 @@
+Title: List of places in Alaska (Y)
+
+This list of cities, towns, unincorporated communities, counties, and other recognized places in the U.S. state of Alaska also includes information on the number and names of counties in which the place lies, and its lower and upper zip code bounds, if applicable.
+
+
+{| class="wikitable"
+!Name of place
+!Number of counties
+!Principal county
+!Lower zip code
+!Upper zip code
+|----
+|Yakataga
+|1
+|Valdez-Cordova Census Area
+|99574 
+| 
+|----
+|Yakutat
+|1
+|City and Borough of Yakutat
+|99689
+| 
+
+|----
+|Yakutat Airport
+|1
+|City and Borough of Yakutat
+|99689
+| 
+|----
+|Yakutat City and Borough School District
+|1
+|City and Borough of Yakutat
+| 
+| 
+|----
+|Yistletaw
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|York
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Yukon Flats Regional Educational Attendance Area
+|2
+|Southeast Fairbanks Census Area
+| 
+| 
+|----
+|Yukon Flats Regional Educational Attendance Area
+|2
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Yukon Koyukuk Regional Educational Attendance Area
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Yukon-Charley Rivers National Preserve
+|2
+|Southeast Fairbanks Census Area
+|99501
+| 
+|----
+|Yukon-Charley Rivers National Preserve
+|2
+|Yukon-Koyukuk Census Area
+|99501
+| 
+|----
+|Yukon Flats
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Yupiit Regional Educational Attendance Area
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|}
+
+ Y

@@ -1,0 +1,67 @@
+Title: Goleniów County
+__NOTOC__
+Goleniów County () is a unit of territorial administration and local government (powiat) in West Pomeranian Voivodeship, north-western Poland. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and largest town is Goleniów, which lies  north-east of the regional capital Szczecin. The county also contains the towns of Nowogard, lying  north-east of Goleniów, and Maszewo,  south-east of Goleniów.
+
+The county covers an area of . As of 2006 its total population is 78,738, out of which the population of Goleniów is 22,448, that of Nowogard is 16,745, that of Maszewo is 3,073, and the rural population is 36,472.
+
+== Neighbouring counties ==
+Goleniów County is bordered by Kamień County and Gryfice County to the north, Łobez County to the east, Stargard County to the south, the city of Szczecin to the south-west, Police County to the west, and the city of Świnoujście (across the Szczecin Lagoon) to the north-west.
+
+== Administrative division ==
+The county is subdivided into six gminas (three urban-rural and three rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km2)
+| style="text-align:center;"|Population(2006)
+| style="text-align:center;"|Seat
+|-
+|Gmina Goleniów
+|urban-rural
+| style="text-align:right;"|443.1
+| style="text-align:right;"|33,137
+|Goleniów
+|-
+|Gmina Nowogard
+|urban-rural
+| style="text-align:right;"|338.7
+| style="text-align:right;"|24,510
+|Nowogard
+|-
+|Gmina Maszewo
+|urban-rural
+| style="text-align:right;"|210.5
+| style="text-align:right;"|8,312
+|Maszewo
+|-
+|Gmina Przybiernów
+|rural
+| style="text-align:right;"|228.7
+| style="text-align:right;"|5,194
+|Przybiernów
+|-
+|Gmina Stepnica
+|rural
+| style="text-align:right;"|294.2
+| style="text-align:right;"|4,693
+|Stepnica
+|-
+|Gmina Osina
+|rural
+| style="text-align:right;"|101.9
+| style="text-align:right;"|2,892
+|Osina
+|-
+|}
+
+== References ==
+* Polish official population figures 2006
+
+
+
+
+
+ 
+Category:Land counties of West Pomeranian Voivodeship

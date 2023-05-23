@@ -1,0 +1,58 @@
+Title: Ayanami-class destroyer
+{|
+
+
+
+|}
+The Ayanami class was a destroyer class built for the Japan Maritime Self-Defense Force (JMSDF) in the late 1950s. The primary purpose was anti-submarine warfare, so this class was classified as "DDK" (hunter-killer anti-submarine destroyer) unofficially.
+
+==Design==
+This class adopted a "long forecastle" design with inclined afterdeck called "Holland Slope", named after the scenic sloping street in Nagasaki City. Their steam turbine propulsion systems were similar to the ones of the , but they varied between each ship in the class as part of the JMSDF's attempt to find the best propulsion system for its future surface combatants.
+
+The Ayanami class were the first JMSDF vessels equipped with six 3-inch/50 caliber Mark 22 guns with Mark 33 dual mounts and Mark 32 lightweight torpedoes with two Mark 2 over-the-side launchers. 3-inch guns were controlled by two Mark 63 GFCSs.
+
+All seven vessels names had previously been borne by ships of the World War II-era  and  classes. 
+
+{|class=wikitable
+|+ Ships in the class
+! Pennant no. || Name ||Builder || Laid downGardiner and Chumbley 1995, p. 223.|| Launched || Commissioned || Decommissioned
+|-
+| DD-103/ASU-7004
+| 
+| Mitsubishi Zosen, Nagasaki
+| 20 November 1956 || 1 June 1957 || 12 February 1958 || 25 December 1986
+|-
+| DD-104/TV-3502
+| 
+|Shin-Mitsubishi, Kobe
+| 14 December 1956 || 30 September 1957 || 14 March 1958 || 1 July 1987
+|-
+| DD-105/ASU-7005
+| 
+|Kawasaki, Tokyo
+| 1 February 1957 || 29 August 1957 || 27 February 1958 || 25 December 1986
+|-
+| DD-106/TV-3503
+| 
+| Mitsui Zosen, Tamano
+| 14 December 1956 || 25 September 1957 || 15 March 1958 || 1 July 1987
+|-
+| DD-110/ASU-7009
+| Takanami
+| Mitsui Zosen, Tamano
+| 8 November 1958 || 8 August 1959 || 30 January 1960 || 1 March 1989
+|-
+| DD-111/ASU-7013
+| Ōnami or OonamiSometimes Oonami depending on romanization 
+| Ishikawajima HI, Kobe
+| 20 March 1959 || 13 February 1960 || 29 August 1960 || 1 March 1990
+|-
+| DD-112/ASU-7014
+| Makinami
+|Iono HI, Maizuru
+| 20 March 1959 || 25 April 1960 || 28 October 1960 || 1 March 1990
+|}
+
+==Notes==
+
+

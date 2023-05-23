@@ -1,0 +1,60 @@
+Title: Schlage
+
+
+
+Schlage ( )"Schlage LiNK allows you to remotely manage access to your home video 2 of 4", Commercial by the Schlage company, uploaded by the YouTube user "SecureLocks"in 2009. Retrieved 2011-04-08. is an American lock manufacturer founded in 1920 by Walter Schlage. Schlage was headquartered in San Francisco from its inception until it relocated to Colorado Springs, Colorado in 1997. Schlage also produces high-security key and cylinder lines Primus, Everest, and Everest Primus XP. Schlage is one of the most popular brands of consumer and commercial locks in the United States.
+
+== History ==
+
+
+
+The Schlage Manufacturing Company was founded by inventor Walter Schlage (d. 1946) in 1920 with the help of three businessmen who each contributed $10 to become equal partners. Walter Schlage had already secured several patents dating back to 1909, when he patented a doorknob that would also complete an electrical circuit so that, for instance, the lights would turn on when the door was opened. However, Schlage's key invention was the bored cylindrical lock, which evolved through several iterations, including a 1917 filing for a mortise mechanism which locked when the knob was tilted; two filings in 1920 (in April for a lock requiring one hole and a surface rabbet rather than a complex mortise pocket and October for a mortise with the lock mechanism activated by a button coaxial to the knob). This series would ultimately culminate in , filed in 1923, which was sold commercially as the Schlage "A" series lock. Schlage would later make a 1925 filing for a push button cylindrical lock fusing the two 1920 patents with the 1923 patent.
+
+Schlage's first shop was at 229 Minna Street, and he moved to 461 Bush Street, where many of his key patents were developed. The first factory (in 1923) was at 49 Shotwell Street. Because the bored cylindrical lock had a decided ease of installation advantage over the contemporary mortise lock, demand for the Schlage-designed lock rose and the company would purchase land in Visitacion Valley in 1925, which would eventually become the company's Bayshore factory and administration complex. Eight buildings were eventually erected at the Bayshore complex, the first two of which (the Old Office and Plant 1) were dedicated in a ceremony on June 25, 1926 attended by dignitaries including Mayor James "Sunny Jim" Rolph.
+
+Charles Kendrick took over as Chief Executive after making a sizable investment in the company, and served as Chief through his retirement in 1969. During World War II, Schlage Lock manufactured shell casings and bomb rail fuses. After the war, the company supplied lock hardware to the Pan Am Building (1964) and the Bank of America Headquarters (1969) skyscrapers. The company was also busy post-war acquiring smaller hardware manufacturers, including the California Lock Company, Peabody Company, LCN Closers, the Von Duprin Factory, and the General Lock Company (Pontiac, Michigan). In 1974, the year the company was acquired by Ingersoll Rand, Schlage employed 1,600 and was the largest manufacturer in San Francisco. Schlage had just completed a move from the Old Office building to a three-story New Office located nearby, at the corner of Bayshore and Leland. Schlage remained an Ingersoll Rand subsidiary for nearly 40 years, until Schlage and other security hardware companies were spun off as part of Allegion, formed in December 2013.
+
+After 73 years of operation, the Schlage Lock Co. Bayshore factory was closed in 1999. To settle an environmental lawsuit, the  Bayshore factory site was transferred to Universal Paragon Corporation (UPC) from Ingersoll Rand in 2008. UPC owned an adjacent parcel on which it had intended to develop housing, but the groundwater had been contaminated by the Schlage Lock factory, and UPC filed suit seeking to make Ingersoll Rand responsible for cleanup. In May 2009, demolition began on the Schlage Bayshore site; though the original 1926 Spanish Colonial "Old Office", designed by local architect William Peyton Day will remain, the rest of the site is planned to become affordable, green housing.
+
+== Keyway types==
+
+Like many lock manufacturers, Schlage uses milled complex keyway shapes to mechanically prevent some non-OEM keys from entering or operating a lock. New keyway designs may be protected for a limited time by patent protection, which expires after a set number of years.
+
+There is no law against duplicating the reverse, numbered or quad-key blanks, which are not patented and are not protected against third-party manufacturing.Schlage 
+
+As of 2008, Primus keys are no longer protected by patents; therefore, anyone is free to duplicate them. The Everest patents expired in 2014.Everest FAQs – Everest Primus by Schlage 
+
+===Primus/Primus XP===
+In addition to six cuts for standard locking mechanism, there are five side finger pins to operate the secondary sidebar lock. Primus keys will operate non-Primus locks within the same system. Primus blanks and keyways are slightly thinner to prevent the entry of non-Primus keys; however, even if a standard key is altered to allow entry, it will not operate Primus locks. This design was protected until 2007 under . The current generation Primus, called the Primus XP, is a slight modification to the original design and is protected until 2024 under . Schlage did not invent, nor do they hold the patents on, Primus or Primus XP. The design is licensed to Schlage by Bo Widen of Torshälla, Sweden, the inventor and patent holder.
+
+===Everest===
+This design features a patented under groove in the keyway design, and was legally protected against cloning by utility patents until 2014. Relevant patents are:  (December 2, 2016) and . Just like the classic series, Everest Primus keys can operate Everest non-Primus locks, but not the other way around. Everest Primus XP is an extension to Primus Everest and the XP design is protected until 2024 under . Schlage also offers an Everest 29 SL Cylinder, the only seven pin lock they make, along with their Everest 29 Family/Primus (6 pins).Everest 29 SL | US Schlage did not invent, nor do they hold the patents on, the Everest keys, which were designed and patented by Bo Widen and licensed to Schlage.
+
+thumb|right|
+A demonstration of the checkpin for a Schlage Everest cylinder. When the key is inserted (left), the checkpin is retracted, allowing the lock to turn. When the key is not inserted (right), the checkpin is extended, preventing the lock from turning.
+
+===Obverse===
+There are seven different keyways: C, CE, E, EF, F, FG, and G. There is also a special P keyway designed to accept any of the seven sectional keys and a special L key blank (35-101 L) designed to be accepted into all seven keyways. OEM L section blanks are made of stainless steel.
+
+The older type, the common residential keyway, is known as 35-100C, which is a five-pin, C section.
+
+===Reverse (restricted)===
+This variation was a horizontal mirror image of obverse keyways, no longer offered in new key system, and not available with a Primus option.
+
+===Numbered or Paracentric (restricted)===
+This is a large family of keyways expressed as four numbers. Except for zeros, digits in the keyway designation cannot repeat; i.e. 3578, 1358 and 1200 are valid, but 1244 and 3300 are not. Primus cannot be implemented on this series. The digit 9 is not used. Each digit represents the presence of a notch in the keyway and a corresponding protrusion along the blade of the key. The odd digits 1, 3, 5, and 7 extend along the left side of the keyway as observed from the lock face from bottom to top. The even digits are likewise, on the right side. Generally, keyways are identified by four non-zero digits in ascending order. In a large master key system, keys with fewer than four protrusions can be used to enter more than one keyway. For example, key blank 1460 will fit lock cylinder 1246, 1346, 1467, etc.
+
+===Quad (restricted)===
+Expressed in four characters, such as WSTP, VTQP, etc. This is a very large family, available in Primus.
+
+==Key copying==
+At the 2013 DEF CON conference, MIT students David Lawrence and Eric Van Albert released a piece of code that allows anyone to create a 3D-printable software model of any Primus key. With just a flatbed scanner and their software tool, they were able to produce precise models that they uploaded to the 3D-printing services Shapeways and , who mailed them working copies of the keys in materials ranging from nylon to titanium.
+
+==Nexia Home Intelligence==
+Nexia Home Intelligence is a home automation system that was launched by Schlage and Ingersoll Rand that allows users to remotely control and monitor home automation devices. A wireless network is created within the home and connects the wireless door lock to the internet. Using a smart-phone or a web-enabled computer, users can monitor and send commands to the Schlage Bridge, which communicates with Z-Wave enabled wireless locks, thermostats, lights, cameras, and other components within the home.
+
+There is a monthly fee associated with the Nexia Home Intelligence service.
+
+Nexia Home Intelligence is no longer maintained by Schlage. It remained with Ingersoll Rand during the IR-Allegion spin-off process. Ingersoll Rand solely maintains the Nexia platform.
+One of its key features is "depth control" which senses if someone else is using your assigned PIN: it then enhances its security by proceeding to lock out that same PIN number. All Schlage products that were designed for the Nexia platform work with major smart home platforms. All security features such as "depth control" work under certain conditions such as "HomeKit".
+

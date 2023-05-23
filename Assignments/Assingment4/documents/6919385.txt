@@ -1,0 +1,165 @@
+Title: List of places in Alaska (U)
+
+This list of cities, towns, unincorporated communities, counties, and other recognized places in the U.S. state of Alaska also includes information on the number and names of counties in which the place lies, and its lower and upper zip code bounds, if applicable.
+
+
+{| class="wikitable"
+!Name of place
+!Number of counties
+!Principal county
+!Lower zip code
+!Upper zip code
+|----
+|Uganik
+|1
+|Kodiak Island Borough
+|99697
+| 
+|----
+|Ugashik
+|1
+|Lake and Peninsula Borough
+|99683
+| 
+|----
+|Ugashik
+|1
+|Lake and Peninsula Borough
+| 
+| 
+|----
+|Ukak
+|1
+|Bethel Census Area
+| 
+| 
+|----
+|Ukivok
+|1
+|Nome Census Area
+| 
+| 
+|----
+|Umiat
+|1
+|North Slope Borough
+| 
+| 
+|----
+|Umkumiut
+|1
+|Bethel Census Area
+|99637
+| 
+|----
+|Unalakleet
+|1
+|Nome Census Area
+|99684
+| 
+|----
+|Unalakleet Airport
+|1
+|Nome Census Area
+|99684
+| 
+|----
+|Unalaska
+|1
+|Aleutians West Census Area
+|99685
+| 
+|----
+|Unalaska Airport
+|1
+|Aleutians West Census Area
+| 
+| 
+|----
+|Unalaska City School District
+|1
+|Aleutians West Census Area
+| 
+| 
+|----
+|Unga
+|1
+|Aleutians East Borough
+| 
+| 
+|----
+|Ungalik
+|1
+|Nome Census Area
+|99684
+| 
+|----
+|Ungalikthluk
+|1
+|Dillingham Census Area
+| 
+| 
+|----
+|Unimak
+|1
+|Aleutians East Borough
+| 
+| 
+|----
+|Upper Kalskag
+|1
+|Bethel Census Area
+|99607
+| 
+|----
+|Upper Mendenhall Valley
+|1
+|City and Borough of Juneau
+|99801
+| 
+|----
+|Upper Nickeyville
+|1
+|Ketchikan Gateway Borough
+|99901
+| 
+|----
+|Usibelli
+|1
+|Denali Borough
+|99787
+| 
+|----
+|Usibelli Mine
+|1
+|Yukon-Koyukuk Census Area
+|99787
+| 
+|----
+|Utica
+|1
+|Northwest Arctic Borough
+| 
+| 
+|----
+|Utopia
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Uyak
+|1
+|Kodiak Island Borough
+| 
+| 
+|----
+|Uzinki
+|1
+|Kodiak Island Borough
+| 
+| 
+|----
+|}
+
+ U

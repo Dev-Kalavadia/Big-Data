@@ -1,0 +1,201 @@
+Title: Haplogroup O-M268
+
+
+
+In human genetics, Haplogroup O-M268, also known as O1b (formerly Haplogroup O2), is a Y-chromosome DNA haplogroup. Haplogroup O-M268 is a primary subclade of haplogroup O-F265, itself a primary descendant branch of Haplogroup O-M175.
+
+== Origin ==
+In a paper published in 2011 by a group of Chinese researchers affiliated with Fudan University, it has been suggested that China is the origin of the expansion of haplogroup O-P31 (therein called Haplogroup O2-M268).Shi Yan, Chuan-Chao Wang, Hui Li, Shi-Lin Li, Li Jin, and The Genographic Consortium, "An updated tree of Y-chromosome Haplogroup O and revised phylogenetic positions of mutations P164 and PK4." European Journal of Human Genetics (2011) 19, 1013–1015; doi:10.1038/ejhg.2011.64
+
+== Distribution ==
+Haplogroup O-P31 is notable for the peculiarities of its geographical distribution. Like all clades of Haplogroup O-M175, Haplogroup O-P31 is found only among the males of modern Eastern Eurasian populations. However, Haplogroup O-P31 is generally found with high frequency only among certain populations, such as the Austroasiatic peoples of India, Bangladesh and Southeast Asia, the Nicobarese of the Nicobar Islands in the Indian Ocean, Koreans, and Japanese.
+
+Besides its widespread and patchy distribution, Haplogroup O1b-P31 is also notable for the fact that it can be divided into three major subclades that show almost completely disjunct distribution. One of these subclades, O1B1-K18 can be mainly divided into two subclades O1b1a1-PK4 (formerly O2a) and O1b1a2-PAGE59 (formerly O2*(xM95,M176)). O1b1a1-PK4 is found among some (mostly tribal) populations of South and Southeast Asia, as well as among the Japanese of Japan, the  Javanese, Sundanese, and Balinese of Indonesia and some Zhurong related Chinese. O1b1a2-PAGE59 is relatively rare and mainly distributed in East Asia, especially in some Yue, Baiyue related Chinese. Another subclade, Haplogroup O1b2-M176 (formerly O2b), is found almost exclusively among the Japanese, some Buyeo Koreans and Jin Manchurians.
+
+== Phylogenetics ==
+
+=== Phylogenetic History ===
+
+
+Prior to 2002, there were in academic literature at least seven naming systems for the Y-Chromosome Phylogenetic tree. This led to considerable confusion. In 2002, the major research groups came together and formed the Y-Chromosome Consortium (YCC). They published a joint paper that created a single new tree that all agreed to use. Later, a group of citizen scientists with an interest in population genetics and genetic genealogy formed a working group to create an amateur tree aiming at being above all timely.  The table below brings together all of these works at the point of the landmark 2002 YCC Tree. This allows a researcher reviewing older published literature to quickly move between nomenclatures.
+
+{| class="wikitable"
+! align="center" style="background:#c63;"|YCC 2002/2008 (Shorthand)
+! align="center" style="background:#f96;"|(α)
+! align="center" style="background:#f96;"|(β)
+! align="center" style="background:#f96;"|(γ)
+| align="center" style="background:#f96;"|(δ)
+| align="center" style="background:#f96;"|(ε)
+| align="center" style="background:#f96;"|(ζ)
+| align="center" style="background:#f96"|(η)
+| align="center" style="background:#f96"|YCC 2002 (Longhand)
+| align="center" style="background:#c96;"|YCC 2005 (Longhand)
+| align="center" style="background:#c96;"|YCC 2008 (Longhand)
+| align="center" style="background:#c96;"|YCC 2010r (Longhand)
+| align="center" style="background:#ff9;"|ISOGG 2006
+| align="center" style="background:#ff9;"|ISOGG 2007
+| align="center" style="background:#ff9;"|ISOGG 2008
+| align="center" style="background:#ff9;"|ISOGG 2009
+| align="center" style="background:#ff9;"|ISOGG 2010
+| align="center" style="background:#ff9;"|ISOGG 2011
+| align="center" style="background:#ff9;"|ISOGG 2012
+|-
+| O-M175||26||VII||1U||28||Eu16||H9||I||O*||O||O||O||O||O||O||O||O||O||O
+|-
+| O-M119||26||VII||1U||32||Eu16||H9||H||O1*||O1a||O1a||O1a||O1a||O1a||O1a||O1a||O1a||O1a||O1a
+|-
+| O-M101||26||VII||1U||32||Eu16||H9||H||O1a||O1a1||O1a1a||O1a1a||O1a1||O1a1||O1a1a||O1a1a||O1a1a||O1a1a||O1a1a
+|-
+| O-M50||26||VII||1U||32||Eu16||H10||H||O1b||O1a2||O1a2||O1a2||O1a2||O1a2||O1a2||O1a2||O1a2||O1a2||O1a2
+|-
+| O-P31||26||VII||1U||33||Eu16||H5||I||O2*||O2||O2||O2||O2||O2||O2||O2||O2||O2||O2
+|-
+| O-M95||26||VII||1U||34||Eu16||H11||G||O2a*||O2a||O2a||O2a||O2a||O2a||O2a||O2a||O2a||O2a1||O2a1
+|-
+| O-M88||26||VII||1U||34||Eu16||H12||G||O2a1||O2a1||O2a1||O2a1||O2a1||O2a1||O2a1||O2a1||O2a1||O2a1a||O2a1a
+|-
+| O-SRY465||20||VII||1U||35||Eu16||H5||I||O2b*||O2b||O2b||O2b||O2b||O2b||O2b||O2b||O2b||O2b||O2b
+|-
+| O-47z||5||VII||1U||26||Eu16||H5||I||O2b1||O2b1a||O2b1||O2b1||O2b1a||O2b1a||O2b1||O2b1||O2b1||O2b1||O2b1
+|-
+| O-M122||26||VII||1U||29||Eu16||H6||L||O3*||O3||O3||O3||O3||O3||O3||O3||O3||O3||O3
+|-
+| O-M121||26||VII||1U||29||Eu16||H6||L||O3a||O3a||O3a1||O3a1||O3a1||O3a1||O3a1||O3a1||O3a1||O3a1a||O3a1a
+|-
+| O-M164||26||VII||1U||29||Eu16||H6||L||O3b||O3b||O3a2||O3a2||O3a2||O3a2||O3a2||O3a2||O3a2||O3a1b||O3a1b
+|-
+| O-M159||13||VII||1U||31||Eu16||H6||L||O3c||O3c||O3a3a||O3a3a||O3a3||O3a3||O3a3a||O3a3a||O3a3a||O3a3a||O3a3a
+|-
+| O-M7||26||VII||1U||29||Eu16||H7||L||O3d*||O3c||O3a3b||O3a3b||O3a4||O3a4||O3a3b||O3a3b||O3a3b||O3a2b||O3a2b
+|-
+| O-M113||26||VII||1U||29||Eu16||H7||L||O3d1||O3c1||O3a3b1||O3a3b1||-||O3a4a||O3a3b1||O3a3b1||O3a3b1||O3a2b1||O3a2b1
+|-
+| O-M134||26||VII||1U||30||Eu16||H8||L||O3e*||O3d||O3a3c||O3a3c||O3a5||O3a5||O3a3c||O3a3c||O3a3c||O3a2c1||O3a2c1
+|-
+| O-M117||26||VII||1U||30||Eu16||H8||L||O3e1*||O3d1||O3a3c1||O3a3c1||O3a5a||O3a5a||O3a3c1||O3a3c1||O3a3c1||O3a2c1a||O3a2c1a
+|-
+| O-M162||26||VII||1U||30||Eu16||H8||L||O3e1a||O3d1a||O3a3c1a||O3a3c1a||O3a5a1||O3a5a1||O3a3c1a||O3a3c1a||O3a3c1a||O3a2c1a1||O3a2c1a1
+|-
+|}
+
+==== Original Research Publications ====
+The following research teams per their publications were represented in the creation of the YCC Tree.
+
+
+=== Phylogenetic Trees ===
+This phylogenetic tree of haplogroup O subclades is based on the YCC 2008 tree  and subsequent published research.
+* O-P31 (P31, M268)
+**O-K18
+*** O-CTS10887/PAGE59 Mainly found in Han Chinese and occasionally found in Chinese (Dai), Manchu, Thailand (Phuan, Tai Yuan, Thai), Vietnam, the Philippines, West Kalimantan, Qatar, Hazara, Japan, Korea
+*** O-PK4
+**** O-F838 Found in Han ChineseJean A Trejaut, Estella S Poloni, Ju-Chen Yen, et al. (2014), "Taiwan Y-chromosomal DNA variation and its relationship with Island Southeast Asia." BMC Genetics 2014, 15:77. http://www.biomedcentral.com/1471-2156/15/77 and in a specimen from medieval South Kazakhstan ascribed to the Turks;Peter de Barros Damgaard, Nina Marchi, Simon Rasmussen, et al. (2018), "137 ancient human genomes from across the Eurasian steppes." Nature volume 557, pages 369–374 (2018). https://doi.org/10.1038/s41586-018-0094-2 probably also present in Thailand (Kaleun, Phuan, Thai),Wibhu Kutanan, Jatupol Kampuansai, Metawee Srikummool, Andrea Brunelli, Silvia Ghirotto, Leonardo Arias, Enrico Macholdt, Alexander Hübner, Roland Schröder, and Mark Stoneking, "Contrasting Paternal and Maternal Genetic Histories of Thai and Lao Populations." Mol. Biol. Evol. Advance Access publication April 12, 2019.   Hanoi, Ambon, Ayeyarwady Region,Min-Sheng Peng, Jun-Dong He, Long Fan, et al. (2013), "Retrieving Y chromosomal haplogroup trees using GWAS data." European Journal of Human Genetics (2013), 1–5. doi:10.1038/ejhg.2013.272 and Xinlong CountyWang C-C, Wang L-X, Shrestha R, Zhang M, Huang X-Y, et al. (2014), "Genetic Structure of Qiangic Populations Residing in the Western Sichuan Corridor." PLoS ONE 9(8): e103772. doi:10.1371/journal.pone.0103772
+**** O-M95 (M95)
+***** O-CTS350
+****** O-CTS350* Found in Japan
+****** O-CTS10007 Found in Han Chinese in Hunan
+***** O-M1310
+****** O-F1252
+******* O-SK1630/F5504 China (Shaanxi), Russia (Ryazan Oblast)
+******** O-SK1636
+******* O-F2924
+******** O-CTS5854 Found in China (Han, Dai), Laos, Thailand, Japan, and the Philippines
+******** O-M88 (M88, M111) Found in Vietnam, Laos, Thailand, Cambodia, Myanmar, China (Dai, Buyi, Zhuang, Li, Shui, She, Miao, Yao, De'ang, Bulang, Qiang, Tujia, Lisu, Achang, Nu, Lahu, Jinuo, Hani, Yi, Bai, Han), Taiwan (Han, Bunun, Yami), Java, Borneo, Malaysia, the Philippines
+****** O-F789/M1283 Found in China, Vietnam, Cambodia, Singapore (Malay), Indonesia, Laos, Thailand, Myanmar, Bhutan,Pille Hallast, Chiara Batini, Daniel Zadik, et al. (2015), "The Y-Chromosome Tree Bursts into Leaf: 13,000 High-Confidence SNPs Covering the Majority of Known Clades." Molecular Biology and Evolution 2015 Mar;32(3):661-73. doi:10.1093/molbev/msu327 Bangladesh, and India
+** O-P49 (M176, SRY465, P49, 022454) Japan, South Korea, China, Mongolia, Vietnam, Micronesia
+*** O-P49*(xPage92) Japan, South Korea
+*** O-Page92
+**** O-Page90 Japan (Hiroshima), Jilin
+**** O-CTS9259
+***** O-CTS562 Beijing (Han), South Korea,O Y-Haplogroup Project at Family Tree DNA Japan (Fukushima)
+***** O-K10/F1204
+****** O-K10* Japan (Tokyo)
+****** O-CTS10687 Japan, Mongolia
+****** O-K7/CTS11723/47z Found in approximately 24% of Japanese males and with lower frequency in Korea and China
+******* O-BY130355 Sichuan
+******* O-K2/CTS713
+******** O-K2* Japan (Tokyo, Aomori), South Korea
+******** O-CTS203 Japan (Tokyo, Miyagi), Henan
+******** O-K14
+********* O-K14* Shanxi
+********* O-M776 Japan (Tokyo)
+********* O-Z24594
+********** O-Z24594* South Korea
+********** O-CTS56 Japan (Tokyo, Kumamoto)
+******** O-Y178266 Japan (Tokyo), Beijing
+******** O-Z24599
+********* O-Z24599* Japan (Tokyo, Yamaguchi)
+********* O-K473 Japan (Tokyo)
+********* O-Y181118 South Korea (Busan), Hebei
+****** O-K4
+******* O-K3/F940 Hunan (Han), Jiangxi, Henan (Han)
+******** O-F940* Hunan, Jiangxi
+******** O-K481 Hunan (Han)
+******* O-L682 Found in approximately 19% of South Korean malesSo Yeun Kwon, Hwan Young Lee, Eun Young Lee, Woo Ick Yang, and Kyoung-Jin Shin, "Confirmation of Y haplogroup tree topologies with newly suggested Y-SNPs for the C2, O2b and O3a subhaplogroups." Forensic Science International: Genetics 19 (2015) 42–46. https://dx.doi.org/10.1016/j.fsigen.2015.06.003 and with lower frequency in Japan and China
+******** O-L682* Shanxi
+******** O-K485
+********* O-K485* Japan (Tokyo)
+********* O-CTS723
+********** O-CTS723* South Korea
+********** O-A23652
+*********** O-A23652* Japanese
+*********** O-A23653
+************ O-A23653* Japanese, South Korea
+************ O-A23658
+************* O-A23658* South Korea
+************* O-Y165475 South Korea
+********** O-Y24057
+*********** O-Y24057* Shandong
+*********** O-A12448
+************ O-A12448* South Korea (incl. Daegu)
+************ O-PH40 Beijing (Han), Shandong, South Korea, JapanY-DNA Haplotree at Family Tree DNA
+*********** O-MF14220 South Korea
+*********** O-Y26376/CTS7620 Japan, South Korea
+************ O-MF14346 South Korea
+************ O-Y26377
+************* O-Y26377* Japan (Okayama), Hezhen
+************* O-CTS1175 Japan (Kochi, Tokyo)
+
+== See also ==
+
+=== Genetics ===
+
+
+=== Y-DNA O Subclades ===
+
+
+=== Y-DNA Backbone Tree ===
+
+
+== References ==
+
+
+=== Footnotes ===
+
+
+=== Works Cited===
+Journals
+* 
+Websites
+* 
+
+===Sources for conversion tables===
+
+* 
+* 
+*
+* 
+* 
+*
+* 
+* 
+
+
+=== Further reading ===
+* 
+* 
+* 
+* 
+* 
+* 
+
+O-P31

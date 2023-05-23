@@ -1,0 +1,91 @@
+Title: List of municipalities of the Province of Ravenna
+
+The following is a list of the 18 municipalities (comuni) of the Province of Ravenna, Emilia-Romagna, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|039001
+|Alfonsine
+| align="right" |11,739
+|-
+|039002
+|Bagnacavallo
+| align="right" |16,169
+|-
+|039003
+|Bagnara di Romagna
+| align="right" |1,849
+|-
+|039004
+|Brisighella
+| align="right" |7,740
+|-
+|039005
+|Casola Valsenio
+| align="right" |2,843
+|-
+|039006
+|Castel Bolognese
+| align="right" |8,659
+|-
+|039007
+|Cervia
+| align="right" |26,858
+|-
+|039008
+|Conselice
+| align="right" |9,207
+|-
+|039009
+|Cotignola
+| align="right" |6,952
+|-
+|039010
+|Faenza
+| align="right" |54,749
+|-
+|039011
+|Fusignano
+| align="right" |7,919
+|-
+|039012
+|Lugo
+| align="right" |31,927
+|-
+|039013
+|Massa Lombarda
+| align="right" |9,065
+|-
+|039014
+|Ravenna
+| align="right" |146,989
+|-
+|039015
+|Riolo Terme
+| align="right" |5,441
+|-
+|039016
+|Russi
+| align="right" |10,723
+|-
+|039017
+|Sant'Agata sul Santerno
+| align="right" |2,284
+|-
+|039018
+|Solarolo
+| align="right" |4,256
+|-
+|
+|Total
+| align="right" |365,369
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

@@ -1,0 +1,41 @@
+Title: EMD GP49
+An EMD GP49 is a 4-axle diesel locomotive built by General Motors Electro-Motive Division.  Power was provided by an EMD 645F3B 12-cylinder engine which generated . The GP49 was marketed as one of four models in the 50 series introduced in 1979. The 50 series includes GP/SD49 and GP/SD50. Both the GP and SD50 was relatively popular with a total of 278 GP50s and 427 SD50s built. The SD49 was advertised but never built and a total of 9 GP49s were built.
+
+Alaska Railroad was the sole customer that ordered the GP49. In two orders, the company first bought locomotives 2801-2804 in September 1983, locomotives 2805-2809 were subsequently built in May 1985. Six GP39Xs were built in November 1980 for the Southern Railway and upgraded to GP49s shortly thereafter.
+
+== Performance ==
+
+While possessing a fairly high power rating (total of ), the traction horsepower was rated at  while  was used to run the onboard appliances. The GP49 is known for its slow acceleration, this was due to the radar unit that is mounted under the front pilot to monitor the actual ground speed when the engine is moving to prevent wheel slip. This system is known as EMD's Super Series wheel slip control that was introduced on the GP40X. It tells the engine's computer to slow the speed of the motors to prevent wheel slip. The GP49 is equipped with a 12-645F3B engine with an AR15 alternator rated at 4680 amperes and has four D87 traction motors. Externally the GP49 looks like a GP50 but has two 48" fans above the radiator instead of three as on the GP50, and the engine-room has eight access doors on each side under the Dynamic Brake blister for engine and turbocharger maintenance, while the GP50 has ten.
+
+== Use ==
+
+In December 2006, the Alaska Railroad auctioned five units (numbers 2801, 2803, 2804, 2806, and 2807) plus parts;Alaska Railroad Corporation invitation to bid Helm Leasing was the winning bidder with a bid of $1.3 million. The Alaska Railroad's four remaining units (2802, 2805, 2808, and 2809) are still in service as of March, 2007.Combs, John. Alaska Railroad at a Glance, John's Alaska Railroad Web Page. March 8, 2007, retrieved March 20, 2007.Combs, John. Alaska Railroad Locomotive Roster, John's Alaska Railroad Web Page. December 15, 2006, accessed March 20, 2006. As of July 2014, units 2803, 2806, and 2807 had been acquired by Frontier Rail and assigned to the new Cincinnati East Terminal Railway in Southwestern Ohio.
+
+The units 2805 and 2808 are now part of the fleet of one of the biggest Chilean freight operators, Ferronor S.A (Empresa de Transporte Ferroviario S.A)FERRONOR, Chilean Freight Operation Concession on the meter gauge lines in the north and were modified into 6-axle units. They are based out of the Llanos de Soto Workshops of Ferronor S.A, where they operate in Ferronor Vallenar iron ore trains from Los Colorados Mine to the Guacolda Port in Huasco, Chile. Both work with slugs rebuilt from General Electric U9C engines. 2801 and 2802 are now part of the locomotive fleet of TRANSAP, a Chilean railway. They were refitted with A1A bogies, to reduce weight.
+
+Columbia Rail has four: Columbia-Walla Walla Railway operates three GP49s (2806,2807,2809) on the former Blue Mountain Railroad lines in and around Walla Walla,WA as of January 2021 and Rainier Rail has one (2802) on ex-MILW lines in Western Washington.
+
+Tri-Rail in Florida has since bought Norfolk Southern's six GP49 variants (ex-GP39X units) for use on commuter trains in Florida. The locomotives have since been rebuilt with HEP, and have been de-rated to  from .Destination: Freedom. Alaska Railroad buys eight locomotives. July 21, 2003, retrieved September 8, 2006. They were also given the designation GP49H-3. As of March 2022, four remain in service.
+
+== References ==
+* Combs, John. GP-49 Specifications, locomotives 2801-2804 and locomotives 2805-2809, John's Alaska Railroad Web Page. September 24, 1998, retrieved September 8, 2006.
+* Foster, Gerald. (1996).  A Field Guide to Trains.  Houghton Mifflin Company, New York, NY.  
+* 
+
+* Sanders, Dale (1998) "EMD GP49; Diesel Data Series-Number 8" Hundman Publishing Company, Mukilteo, WA
+
+==External links==
+
+* http://www.trainweb.org/emdloco/gp40-2.htm
+* http://crcyc.railfan.net/locos/emd/gp402/gp402proto.html
+* https://web.archive.org/web/20070222021331/http://trainiax.net/mescalelocophase.htm
+* Sarberenyi, Robert. EMD GP39X, GP49, and GP50 Original Owners
+
+
+
+GP49
+Category:B-B locomotives
+Category:Standard gauge locomotives of the United States
+Category:Metre gauge diesel locomotives
+Category:Railway locomotives introduced in 1979
+Category:Diesel-electric locomotives of the United States

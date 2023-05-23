@@ -1,0 +1,311 @@
+Title: List of municipalities of the Province of Rieti
+
+The following is a list of the 73 municipalities (comuni) of the Province of Rieti, Lazio, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|057001
+|Accumoli
+| align="right" |710
+|-
+|057002
+|Amatrice
+| align="right" |2,781
+|-
+|057003
+|Antrodoco
+| align="right" |2,820
+|-
+|057004
+|Ascrea
+| align="right" |264
+|-
+|057005
+|Belmonte in Sabina
+| align="right" |645
+|-
+|057006
+|Borbona
+| align="right" |694
+|-
+|057007
+|Borgorose
+| align="right" |4,541
+|-
+|057008
+|Borgo Velino
+| align="right" |949
+|-
+|057009
+|Cantalice
+| align="right" |2,808
+|-
+|057010
+|Cantalupo in Sabina
+| align="right" |1,691
+|-
+|057011
+|Casaprota
+| align="right" |699
+|-
+|057012
+|Casperia
+| align="right" |1,164
+|-
+|057013
+|Castel di Tora
+| align="right" |303
+|-
+|057014
+|Castelnuovo di Farfa
+| align="right" |950
+|-
+|057015
+|Castel Sant'Angelo
+| align="right" |1,249
+|-
+|057016
+|Cittaducale
+| align="right" |6,799
+|-
+|057017
+|Cittareale
+| align="right" |460
+|-
+|057018
+|Collalto Sabino
+| align="right" |488
+|-
+|057019
+|Colle di Tora
+| align="right" |373
+|-
+|057020
+|Collegiove
+| align="right" |179
+|-
+|057021
+|Collevecchio
+| align="right" |1,540
+|-
+|057022
+|Colli sul Velino
+| align="right" |494
+|-
+|057023
+|Concerviano
+| align="right" |372
+|-
+|057024
+|Configni
+| align="right" |736
+|-
+|057025
+|Contigliano
+| align="right" |3,432
+|-
+|057026
+|Cottanello
+| align="right" |558
+|-
+|057027
+|Fara in Sabina
+| align="right" |11,737
+|-
+|057028
+|Fiamignano
+| align="right" |1,579
+|-
+|057029
+|Forano
+| align="right" |2,697
+|-
+|057030
+|Frasso Sabino
+| align="right" |645
+|-
+|057031
+|Greccio
+| align="right" |1,488
+|-
+|057032
+|Labro
+| align="right" |374
+|-
+|057033
+|Leonessa
+| align="right" |2,658
+|-
+|057034
+|Longone Sabino
+| align="right" |695
+|-
+|057035
+|Magliano Sabina
+| align="right" |3,829
+|-
+|057036
+|Marcetelli
+| align="right" |126
+|-
+|057037
+|Micigliano
+| align="right" |146
+|-
+|057038
+|Mompeo
+| align="right" |553
+|-
+|057039
+|Montasola
+| align="right" |379
+|-
+|057040
+|Montebuono
+| align="right" |944
+|-
+|057041
+|Monteleone Sabino
+| align="right" |1,252
+|-
+|057042
+|Montenero Sabino
+| align="right" |319
+|-
+|057043
+|Monte San Giovanni in Sabina
+| align="right" |756
+|-
+|057044
+|Montopoli di Sabina
+| align="right" |3,829
+|-
+|057045
+|Morro Reatino
+| align="right" |358
+|-
+|057046
+|Nespolo
+| align="right" |240
+|-
+|057047
+|Orvinio
+| align="right" |452
+|-
+|057048
+|Paganico Sabino
+| align="right" |196
+|-
+|057049
+|Pescorocchiano
+| align="right" |2,447
+|-
+|057050
+|Petrella Salto
+| align="right" |1,332
+|-
+|057051
+|Poggio Bustone
+| align="right" |2,162
+|-
+|057052
+|Poggio Catino
+| align="right" |1,288
+|-
+|057053
+|Poggio Mirteto
+| align="right" |5,440
+|-
+|057054
+|Poggio Moiano
+| align="right" |2,603
+|-
+|057055
+|Poggio Nativo
+| align="right" |2,150
+|-
+|057056
+|Poggio San Lorenzo
+| align="right" |538
+|-
+|057057
+|Posta
+| align="right" |819
+|-
+|057058
+|Pozzaglia Sabina
+| align="right" |393
+|-
+|057059
+|Rieti
+| align="right" |46,834
+|-
+|057060
+|Rivodutri
+| align="right" |1,294
+|-
+|057061
+|Roccantica
+| align="right" |625
+|-
+|057062
+|Rocca Sinibalda
+| align="right" |815
+|-
+|057063
+|Salisano
+| align="right" |543
+|-
+|057064
+|Scandriglia
+| align="right" |2,662
+|-
+|057065
+|Selci
+| align="right" |1,038
+|-
+|057066
+|Stimigliano
+| align="right" |1,828
+|-
+|057067
+|Tarano
+| align="right" |1,296
+|-
+|057068
+|Toffia
+| align="right" |948
+|-
+|057069
+|Torricella in Sabina
+| align="right" |1,282
+|-
+|057070
+|Torri in Sabina
+| align="right" |1,200
+|-
+|057071
+|Turania
+| align="right" |260
+|-
+|057072
+|Vacone
+| align="right" |264
+|-
+|057073
+|Varco Sabino
+| align="right" |246
+|-
+|
+|Total
+| align="right" |153,258
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

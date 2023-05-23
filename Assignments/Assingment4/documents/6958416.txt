@@ -1,0 +1,47 @@
+Title: Kaufman oculocerebrofacial syndrome
+
+Kaufman oculocerebrofacial syndrome is an autosomal recessive congenital disorder characterized by mental retardation, brachycephaly, upslanting palpebral fissures, eye abnormalities, and highly arched palate.update 2016 It was characterized in 1971; eight cases had been identified as of 1995.
+
+==Symptoms and signs==
+The signs and symptoms of Kaufman oculocerebrofacial syndrome are consistent with the following:
+* High palate
+* Microcephaly
+* Constipation
+* Intellectual disability
+* Muscular hypotonia
+* Nystagmus
+
+==Cause==
+The cause of this condition is apparently due to mutation in the UBE3B gene and is inherited via autosomal recessive manner. This gene is located at molecular location- base pairs 109,477,410 to 109,543,628 and position 24.11 on chromosome 12.
+
+==Genetics==
+thumb|left|70 px|Ubiquitin protein
+The mechanism (or pathogenesis) of Kaufman oculocerebrofacial syndrome appears to begin due to a mutation in the E3 ubiquitin protein ligase. (UBE3B).
+
+
+One finds that the normal mechanism of UBE3B gene is important in the ubiquitin-proteasome system. The aforementioned system helps to remove proteins that have degraded.
+
+However, when not working properly due to the mutation in the UBE3B gene(at least 15 mutations) results in an unstable UBE3B protein which has a negative effect on the ubiquitin-proteasome system.
+
+
+==Diagnosis==
+thumb|230 px|Smith–Lemli–Opitz syndrome(or 7-dehydrocholesterol reductase deficiency)
+The diagnosis of Kaufman oculocerebrofacial syndrome can be achieved via molecular testing approaches. Additionally to ascertain if the individual has the condition:
+* Growth assessment
+* Thyroid function evaluation
+* Kidney ultrasound
+* Echocardiogram
+
+===Differential diagnosis===
+Kaufman oculocerebrofacial syndrome differential diagnosis consists of:
+
+
+==Management==
+Treatment for this condition entails surveillance of growth and contractures. Furthermore, the following are treatment options:
+* Thyroid hormone replacement
+* Speech therapy
+* Hearing aids
+
+==See also==
+* Ubiquitin
+

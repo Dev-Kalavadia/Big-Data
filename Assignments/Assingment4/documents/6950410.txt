@@ -1,0 +1,199 @@
+Title: List of municipalities of the Province of Parma
+
+The following is a list of the 45 municipalities (comuni) of the Province of Parma, Emilia-Romagna, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|034001
+|Albareto
+| align="right" |2,265
+|-
+|034002
+|Bardi
+| align="right" |2,550
+|-
+|034003
+|Bedonia
+| align="right" |3,806
+|-
+|034004
+|Berceto
+| align="right" |2,385
+|-
+|034005
+|Bore
+| align="right" |869
+|-
+|034006
+|Borgo Val di Taro
+| align="right" |7,162
+|-
+|034007
+|Busseto
+| align="right" |6,890
+|-
+|034008
+|Calestano
+| align="right" |1,931
+|-
+|034009
+|Collecchio
+| align="right" |12,309
+|-
+|034010
+|Colorno
+| align="right" |8,593
+|-
+|034011
+|Compiano
+| align="right" |1,074
+|-
+|034012
+|Corniglio
+| align="right" |2,200
+|-
+|034013
+|Felino
+| align="right" |7,573
+|-
+|034014
+|Fidenza
+| align="right" |23,957
+|-
+|034015
+|Fontanellato
+| align="right" |6,477
+|-
+|034016
+|Fontevivo
+| align="right" |5,337
+|-
+|034017
+|Fornovo di Taro
+| align="right" |6,065
+|-
+|034018
+|Langhirano
+| align="right" |8,934
+|-
+|034019
+|Lesignano de' Bagni
+| align="right" |4,039
+|-
+|034020
+|Medesano
+| align="right" |9,637
+|-
+|034021
+|Mezzani
+| align="right" |3,053
+|-
+|034022
+|Monchio delle Corti
+| align="right" |1,149
+|-
+|034023
+|Montechiarugolo
+| align="right" |9,590
+|-
+|034024
+|Neviano degli Arduini
+| align="right" |3,734
+|-
+|034025
+|Noceto
+| align="right" |11,300
+|-
+|034026
+|Palanzano
+| align="right" |1,331
+|-
+|034027
+|Parma
+| align="right" |174,471
+|-
+|034028
+|Pellegrino Parmense
+| align="right" |1,255
+|-
+|034029
+|Polesine Zibello
+| align="right" |3,232
+|-
+|034030
+|Roccabianca
+| align="right" |3,154
+|-
+|034031
+|Sala Baganza
+| align="right" |4,766
+|-
+|034032
+|Salsomaggiore Terme
+| align="right" |19,328
+|-
+|034033
+|San Secondo Parmense
+| align="right" |5,172
+|-
+|034049
+|Sissa Trecasali
+| align="right" |4,024
+|-
+|034035
+|Solignano
+| align="right" |1,964
+|-
+|034036
+|Soragna
+| align="right" |4,499
+|-
+|034037
+|Sorbolo
+| align="right" |9,211
+|-
+|034038
+|Terenzo
+| align="right" |1,250
+|-
+|034039
+|Tizzano Val Parma
+| align="right" |2,142
+|-
+|034040
+|Tornolo
+| align="right" |1,240
+|-
+|034041
+|Torrile
+| align="right" |6,693
+|-
+|034042
+|Traversetolo
+| align="right" |8,546 
+|-
+|034044
+|Valmozzola
+| align="right" |680
+|-
+|034045
+|Varano de' Melegari
+| align="right" |2,488
+|-
+|034046
+|Varsi
+| align="right" |1,423 
+|-
+|
+|Total
+| align="right" |413,198
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

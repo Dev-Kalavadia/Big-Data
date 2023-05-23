@@ -1,0 +1,127 @@
+Title: List of municipalities of the Province of Crotone
+
+The following is a list of the 27 municipalities (comuni) of the Province of Crotone, Calabria, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|101001
+|Belvedere di Spinello
+| align="right" |2,416
+|-
+|101002
+|Caccuri
+| align="right" |1,792
+|-
+|101003
+|Carfizzi
+| align="right" |804
+|-
+|101004
+|Casabona
+| align="right" |3,040
+|-
+|101005
+|Castelsilano
+| align="right" |1,210
+|-
+|101006
+|Cerenzia
+| align="right" |1,305
+|-
+|101007
+|Cirò
+| align="right" |3,523
+|-
+|101008
+|Cirò Marina
+| align="right" |14,372
+|-
+|101009
+|Cotronei
+| align="right" |5,525
+|-
+|101010
+|Crotone
+| align="right" |60,517
+|-
+|101011
+|Crucoli
+| align="right" |3,276
+|-
+|101012
+|Cutro
+| align="right" |10,474
+|-
+|101013
+|Isola di Capo Rizzuto
+| align="right" |14,705
+|-
+|101014
+|Melissa
+| align="right" |3,347
+|-
+|101015
+|Mesoraca
+| align="right" |6,885
+|-
+|101016
+|Pallagorio
+| align="right" |1,520
+|-
+|101017
+|Petilia Policastro
+| align="right" |9,544
+|-
+|101018
+|Roccabernarda
+| align="right" |3,363
+|-
+|101019
+|Rocca di Neto
+| align="right" |5,622
+|-
+|101020
+|San Mauro Marchesato
+| align="right" |2,371
+|-
+|101021
+|San Nicola dell'Alto
+| align="right" |1,034
+|-
+|101022
+|Santa Severina
+| align="right" |2,292
+|-
+|101023
+|Savelli
+| align="right" |1,524
+|-
+|101024
+|Scandale
+| align="right" |3,164
+|-
+|101025
+|Strongoli
+| align="right" |6,160
+|-
+|101026
+|Umbriatico
+| align="right" |958
+|-
+|101027
+|Verzino
+| align="right" |2,227
+|-
+|
+|Total
+| align="right" |172,970
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

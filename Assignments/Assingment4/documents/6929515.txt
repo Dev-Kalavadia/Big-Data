@@ -1,0 +1,218 @@
+Title: 1993 Little League World Series
+The 1993 Little League World Series took place between August 23 and August 28 in Williamsport, Pennsylvania. The United States was represented by the defending series champion and West Region winner, the Long Beach, California Little League. The Latin American Region winner, the David Doleguita Little League of David, Chiriqui, Panama, won the International Championship.
+
+Long Beach defeated Panama 3–2 in the championship game and retained its world championship. Long Beach became the first American team to repeat as champion and joined the teams from Monterrey, Mexico (in  and ) and Seoul, South Korea (in  and ) as the only teams to do so. Since then, only the Pabao Little League of Willemstad, Curaçao has had the opportunity to repeat; they won the 2004 series but were defeated by the team representing the West Oahu Little League of Ewa Beach, Hawaii in the 2005 championship game.
+
+The Taiwanese winners of the Far East series, and the Dominican winners of the Latin American series were disqualified before the Little League World Series; the Taiwanese for fielding a team that was the only one competing at a school of 2,100 students, in contravention of the rule that requires schools of over 1,000 to field at least four teams per age group if they are to be represented in the Little League World Series, and the Dominicans for using players who failed residency and age requirements.Little League Won't Be Embarrassed Again, San Bernardino Sun, 15 August 1993.  The Taiwanese team was replaced by the Saipan team from the Northern Mariana Islands and the Dominican squad was replaced by the aforementioned David Doleguita team that was the series runner-up. Jeremy Hess hit a long-drive winning RBI to clinch the title for Long Beach.
+
+==Teams==
+{| class="wikitable"
+|-
+! United States
+! International
+|- 
+|  Hamilton, OhioCentral RegionWestside American Little League
+|  North Vancouver, British Columbia Canada RegionLynn Valley Little League
+|- 
+|  Bedford, New HampshireEast RegionBedford Little League
+|  Kaiserslautern, GermanyEurope RegionKaiserslautern Little League
+|-
+|  Richmond, VirginiaSouth RegionTuckahoe American Little League
+|  Garapan City, SaipanFar East RegionCNMI  Little League
+|-
+|  Long Beach, CaliforniaWest RegionLong Beach Little League
+|  David, PanamaLatin America RegionDavid Doleguita Little League
+|}
+
+==Pool play==
+{| class="wikitable"
+|+United States
+|-
+! Rank
+! State
+! Record
+|- bgcolor="bbffbb"
+|align=center| 1
+|align="left" width="120" |   California
+|align=center| 3–0
+|- bgcolor="bbffbb"
+|align=center| 2
+|align="left" width="120" |   New Hampshire
+|align=center| 2–1
+|-
+|align=center| 3
+|align="left" width="120" |   Ohio
+|align=center| 1–2
+|-
+|align=center| 4
+|align="left" width="120" |   Virginia
+|align=center| 0–3
+|}
+
+{| class="wikitable"
+|+International
+|-
+! Rank
+! Country
+! Record
+|- bgcolor="bbffbb"
+|align=center| 1
+|align="left" width="160" |   Germany
+|align=center| 2–1
+|- bgcolor="bbffbb"
+|align=center| 2
+|align="left" width="120" |   Panama
+|align=center| 2–1
+|-
+|align=center| 3
+|align="left" width="120" |   Saipan
+|align=center| 1–2
+|-
+|align=center| 4
+|align="left" width="120" |   Canada
+|align=center| 1–2
+|}
+
+{| class="wikitable"
+|-
+!Pool
+!width="160" |Team 1
+!Score
+!width="160" |Team 2
+!Score
+|-
+! colspan="6" | August 23
+|-
+|align=center|US
+|align=center| Virginia
+|align=center|0
+|align=center| New Hampshire
+|align=center|1
+|-
+|align=center|INT
+|align=center| Canada
+|align=center|0
+|align=center| Panama
+|align=center|6
+|-
+|align=center|INT
+|align=center| Germany
+|align=center|7
+|align=center| Saipan
+|align=center|3
+|-
+|align=center|US
+|align=center| California
+|align=center|8
+|align=center| Ohio
+|align=center|0
+|-
+! colspan="6" | August 24
+|-
+|align=center|INT
+|align=center| Saipan
+|align=center|1
+|align=center| Panama
+|align=center|4
+|-
+|align=center|US
+|align=center| California 
+|align=center|12
+|align=center| Virginia
+|align=center|8
+|-
+|align=center|US
+|align=center| Ohio
+|align=center|0
+|align=center| New Hampshire
+|align=center|1
+|-
+|align=center|INT
+|align=center| Canada
+|align=center|8
+|align=center| Germany
+|align=center|1
+|-
+! colspan="6" | August 25
+|-
+|align=center|US
+|align=center| California
+|align=center|21
+|align=center| New Hampshire
+|align=center|2
+|-
+|align=center|INT
+|align=center| Canada
+|align=center|3
+|align=center| Saipan
+|align=center|4
+|-
+|align=center|INT
+|align=center| Germany
+|align=center|5
+|align=center| Panama
+|align=center|1
+|-
+|align=center|US
+|align=center| Ohio
+|align=center|1
+|align=center| Virginia
+|align=center|0
+|}
+
+==Elimination round==
+
+
+{| class="wikitable" style="text-align: center; margin: 0 auto;"
+|-
+!1993 Little League World Series Champions
+|-
+|100px|United States100px|CaliforniaLong Beach Little LeagueLong Beach, California
+|}
+
+==Notable players==
+*Sean Burroughs (Long Beach, California) - MLB player from 2002–2012
+
+==Champions Path==
+The Long Beach LL won 15 matches and lost only one match to reach the LLWS. In total their record was 20-1, their only loss coming against Thousand Oaks LL (from California).
+{| class="wikitable"
+|-
+!Round!!Opposition!!Result
+|-
+!colspan=3|Section 4
+|- style="background:#cfc;"
+|Section 4 Winner's Bracket|| La Palma Continental LL ||14–0
+|- style="background:#cfc;"
+|Section 4 Winner's Bracket|| Westminster LL ||16–1
+|- style="background:#cfc;"
+|Section 4 Championship|| Puente Hills LL ||1–0
+|-
+!colspan=3|South California Divisional
+|- style="background:#cfc;"
+|Winner's Bracket Opening Round|| Santana National LL ||13–2
+|- style="background:#fcc;"
+|Winner's Bracket Semifinals|| Thousand Oaks LL||1–16
+|- style="background:#cfc;"
+|Loser's Bracket Quarterfinals|| South Mission Viejo LL||2–1
+|- style="background:#cfc;"
+|Loser's Bracket Semifinals|| West Covina American LL||6–2
+|- style="background:#cfc;"
+|Loser's Bracket Finals|| Thousand Oaks LL||5–1
+|- style="background:#cfc;"
+|South Championship|| Woodland Hills Sunrise LL||13–4
+|- style="background:#cfc;"
+|South Championship|| Woodland Hills Sunrise LL||14–5
+|-
+!colspan=3|West Regional
+|- style="background:#cfc;"
+|Round 1|| Deer Valley LL||13–4
+|- style="background:#cfc;"
+|Quarterfinals|| Spring Valley LL||3–0
+|- style="background:#cfc;"
+|Semifinals|| Noon Optimist LL ||4–0
+|- style="background:#cfc;"
+|Finals|| San Ramon Valley LL||2–0
+|- style="background:#cfc;"
+|Finals|| Danville San Ramon Valley LL||5–2
+|}
+

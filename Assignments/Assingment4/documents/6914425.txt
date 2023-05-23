@@ -1,0 +1,12 @@
+Title: Telefunken Kompass Sender
+The Telefunken Kompass Sender was one of the earliest radio navigation systems to be deployed. It was developed in 1908 by the German electronics firm Telefunken. It was used primarily for long-distance navigation by Zeppelins, and was taken out of service around 1918.
+
+The system consisted of a series of 32 individual 60 m long cables supported in the center by a single mast and reaching the ground at their ends, forming a sort of umbrella-shaped device. Pairs of cables were wired to each other to form a series of sixteen 120 m long dipole antennas, now known as inverted-V antennas. The transmitter was first connected to all sixteen antennas and sent the morse code identifier for the station. After the identifier was sent and a specific time interval had passed, the system started switching on individual dipoles in order around the station.
+
+An aircraft located at some distance from the station would first listen for the identifier, and then when the time delay expired, start a stopwatch. Since the pattern broadcast from the dipoles was highly directional, they would hear the signal grow in strength as the powered antennas "approached" them, the strongest signal being when the powered set was at right angles. It was later discovered that the minimum point was much easier to distinguish, with the signal dropping almost to zero when they were aligned directly off the end of the powered dipole.
+
+Like many radio navigation schemes, the Kompass Sender produced identical patterns along the selected path, as well as the 180 degree reciprocal course. This ambiguity had to be eliminated by taking a second measurement using some other navigation system. For this purpose, two Kompass Sender stations were built, at Kleve near the Dutch border, and at the German Zeppelin base at Tønder in today's Denmark. Together the stations offered service over the North Sea and English Channel areas.
+
+==See also==
+* The Orfordness Beacon operated on similar principles but was smaller and more accurate.
+

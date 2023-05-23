@@ -1,0 +1,54 @@
+Title: Hayashio-class submarine
+{|
+
+
+
+|}
+
+The Hayashio-class submarine was the successor design to the , and the predecessor of the  with the Japan Maritime Self-Defense Force. Ordered in 1959, the boats were small with limited capability but were successful. Constructed in Japan from 1960 to 1962, they remained in service until 1979 when they were discarded.
+
+==Design and description==
+The Hayashio class were based on the United States Navy Barracuda-class submarines. They were small with limited capability and were shorter and wider than the preceding Japanese . The main mission of the class was for operations in coastal waters. They were air conditioned and provided quality habitability for their crews and were considered a successful submarine design. They measured  long overall with a beam of  and a draft of . They had a surfaced displacement of  and  submerged. Part of the design was to reduce hull resistance and to do this, external framing was used to improve internal space and create a better double hull. They had a crew of 43.
+
+The submarines were propelled by two propeller shafts powered by a diesel-electric system composed of two Sulzer-Mitsubishi diesel engines creating  and two electric motors creating . The main storage batteries were water-cooled. This gave the vessels a maximum speed of  surfaced and  submerged.  To improve underwater maneuverability, a joystick was installed instead of the traditional wheel at the helm position. The submarines mounted three torpedo tubes in the bow for  torpedoes. The class used a water pressure system to launch torpedoes that eliminated the creation of water bubbles.
+
+==Boats==
+{| class="wikitable" style="font-size:95%;"
+|-
+! colspan="7"| Hayashio class construction data
+|-
+! scope="col"| Pennant no. 
+! scope="col"| Name
+! scope="col"| Builder
+! scope="col"| Laid down 
+! scope="col"| Launched 
+! scope="col"| Commissioned 
+! scope="col"| Fate 
+|-
+| scope="row"| SS-521 
+| 
+| Shin Mitusbishi, Kobe 
+| 6 June 1960 
+| 31 July 1961 
+| 30 June 1962 
+| Decommissioned 25 July 1977
+|-
+| scope="row"| SS-522 
+|  
+| Kawasaki, Kobe
+| 7 June 1960 
+| 28 August 1961 
+| 17 August 1962 
+| Decommissioned 23 March 1979
+|-
+|}
+
+==Construction and career==
+Both submarines were ordered in 1959 from Japanese shipyards. Both Hayashio and Wakashio entered service in 1962. On 20 May 1970, Hayashio collided with a merchant vessel damaging the submarine's periscope. They were both stricken from the naval vessel register in 1979, with Wakashio on 23 July 1979.
+
+==Notes==
+
+
+==Citations==
+
+

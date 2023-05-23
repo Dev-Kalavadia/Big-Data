@@ -1,0 +1,139 @@
+Title: List of municipalities of the Province of Forlì-Cesena
+
+The following is a list of the 30 municipalities (comuni) of the Province of Forlì-Cesena, Emilia-Romagna, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|040001
+|Bagno di Romagna
+| align="right" |6,093
+|-
+|040003
+|Bertinoro
+| align="right" |9,501
+|-
+|040004
+|Borghi
+| align="right" |2,183
+|-
+|040005
+|Castrocaro Terme e Terra del Sole
+| align="right" |6,303
+|-
+|040007
+|Cesena
+| align="right" |93,498
+|-
+|040008
+|Cesenatico
+| align="right" |23,009
+|-
+|040009
+|Civitella di Romagna
+| align="right" |3,808
+|-
+|040011
+|Dovadola
+| align="right" |1,691
+|-
+|040012
+|Forlì
+| align="right" |111,495
+|-
+|040013
+|Forlimpopoli
+| align="right" |11,994
+|-
+|040014
+|Galeata
+| align="right" |2,477
+|-
+|040015
+|Gambettola
+| align="right" |9,748
+|-
+|040016
+|Gatteo
+| align="right" |7,252
+|-
+|040018
+|Longiano
+| align="right" |6,042
+|-
+|040019
+|Meldola
+| align="right" |9,686
+|-
+|040020
+|Mercato Saraceno
+| align="right" |6,442
+|-
+|040022
+|Modigliana
+| align="right" |4,795
+|-
+|040028
+|Montiano
+| align="right" |1,573
+|-
+|040031
+|Portico e San Benedetto
+| align="right" |829
+|-
+|040032
+|Predappio
+| align="right" |6,352
+|-
+|040033
+|Premilcuore
+| align="right" |889
+|-
+|040036
+|Rocca San Casciano
+| align="right" |2,103
+|-
+|040037
+|Roncofreddo
+| align="right" |3,040
+|-
+|040041
+|San Mauro Pascoli
+| align="right" |10,272
+|-
+|040043
+|Santa Sofia
+| align="right" |4,223
+|-
+|040044
+|Sarsina
+| align="right" |3,744
+|-
+|040045
+|Savignano sul Rubicone
+| align="right" |15,952
+|-
+|040046
+|Sogliano al Rubicone
+| align="right" |2,992
+|-
+|040049
+|Tredozio
+| align="right" |1,315
+|-
+|040050
+|Verghereto
+| align="right" |2,017
+|-
+|
+|Total
+| align="right" |371,318
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

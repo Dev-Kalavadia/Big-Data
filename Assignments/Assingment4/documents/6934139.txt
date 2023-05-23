@@ -1,0 +1,58 @@
+Title: Gley Lancer
+
+
+ is a 1992 scrolling shooter video game originally developed by NCS Corporation, published in Japan by Masaya and in South Korea by Samsung for the Sega Mega Drive/Genesis. It was re-released in 2019 by Japanese publisher Columbus Circle. A port was also released in 2021 for  Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, and Xbox Series X/S. It follows Lucia Cabrock, daughter of Earth Federation Navy admiral Ken, who disappeared while fighting in a war between humans and an unknown alien race that possess the ability to teleport, joined by her friend Teim on a journey to save her father by stealing a starfighter. Controlling the titular fighter ship, the player must fight waves of enemies and bosses, while avoiding collision with their projectiles and other obstacles. The Gley Lancer ship is equipped with two satellites options, whose positions and formations are determined by the player.
+
+Gley Lancer was produced by Toshiro Tsuchida, who left Masaya in 1993 to found G-Craft, a company known for creating the Front Mission and Arc the Lad franchises. Noriyuki Iwadare, best known for his work on the Langrisser, Lunar, and Grandia franchises, was involved in the soundtrack as one of four composers under the music production company Cube. The game garnered mixed reception from critics upon release, most of which reviewed it as an import title. The original Mega Drive version was re-released through download services for other platforms. The Nintendo Switch port received generally favorable response from reviewers.
+
+== Gameplay ==
+thumb|left|Gameplay screenshot of the original Sega Mega Drive version
+Gley Lancer is a scrolling shooter game. The plot revolves around Lucia Cabrock, daughter of Earth Federation Navy admiral Ken, who disappeared while fighting in a war between humans and an unknown alien race that possess the ability to teleport. Upon hearing about the disappearance of her father, Lucia is joined by her friend Teim and steals the titular starfighter to save him. The player takes control of the Gley Lancer space fighter craft through nine stages over a constantly scrolling background, populated with an assortment of enemies and obstacles, and the scenery never stops moving until a boss is reached, which must be fought in order to progress further.
+
+A key gameplay mechanic to Gley Lancer are satellite options called "Gunners", which are activated by shooting silver and blue pods in order to pick up various types of weapons. The player can have up to two Gunners and both will always have the same weapon, with subsequent power-ups overwriting them both. In addition, at the beginning of the game, the player chooses one of seven formations to use for the Movers that the Gunners are mounted on. During gameplay, the Gley Lancer can toggle through four different speeds. This is always done in a 1-2-3-4-3-2-repeat order, although the starting point can be chosen in the game options.
+
+== Development and release ==
+Gley Lancer was developed by NCS Corporation, a Japanese computer software developer founded in 1980 by Masaya Fujita, which entered the video game industry in 1985 under the brand Masaya. They are best known for series such as Assault Suit, Langrisser, Kaizō Chōjin Shubibinman, and Cho Aniki. It was produced by Toshiro Tsuchida, who created the Front Mission and Arc the Lad franchises at G-Craft, a company he founded in 1993 after leaving Masaya. (Ending screens by VGMuseum (The Video Games Museum). ). Hikaru Satō acted as planner, with Yukihiro Higuchi serving as main programmer, while Hiroshi Aizawa was responsible for the character illustrations. Noriyuki Iwadare, best known for his work on the Langrisser, Lunar, and Grandia franchises, was involved in the soundtrack as one of four composers under the music production company Cube. Several staff members within NCS also collaborated in the game's development process.
+
+Gley Lancer was first published for the Sega Mega Drive/Genesis in Japan by Masaya on July 17, 1992. It was also published in South Korea by Samsung. The game's title is engrish, which was common of many shooting games of that era. The "r" from "grey" was substituted with "l" resulting in the game's title. In 2006, an unofficial English fan translation was released by the group M.I.J.E.T. The game was re-released internationally for the Wii's Virtual Console; first in Japan on February 26, 2008, then in Europe on May 16, and later in North America on July 21. It was also re-released in digital form for Microsoft Windows through D4 Enterprise's Project EGG service. In 2019, the original Mega Drive version was re-released by Columbus Circle on June 6 as a limited run of 2500 copies, featuring a new cover art illustrated by Hiroshi Aizawa. The game received a port for Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, and Xbox Series X/S by Ratalaika Games on October 6, 2021, featuring save states and rewind functions, the ability to switch between satellite types and aim them via an analogue stick, and translated text. In 2022, Columbus Circle released a "30th annyversary" edition for the Mega Drive on October 28, bundled with a CD album containing arranged songs by two of the game's composers. That same year, publisher Retro-Bit also announced a release of the game for Genesis outside Japan.
+
+== Reception ==
+
+
+Gley Lancer garnered mixed reception from critics upon release, most of which reviewed it as an import title. Mega Drive Advanced Gamings John Davison praised the graphics, use of sound samples, and large levels, but noted that the game was occasionally frustrating and expressed disappointment for the lack of an official release outside Japan. MegaTechs Thomas Guise and Paul Glancey highlighted the game's presentation for its story introduction and cutscenes. While they found the sound aspect to be okay, both Guise and Glancey criticized the uninteresting sprites and overall longevity, recommending Thunder Force IV and Twinkle Tale instead. Sega Forces Mat Yeo and Adrian Pitt concurred with Davison, Guise, and Glancey about the presentation and difficulty. However, both Yeo and Pitt disagreed with Guise and Glancey in regards to the game's visuals, giving positive remarks to its colorful bosses and detailed sprites, while also commending the audio. 
+
+Sega Pros James Scullion lauded the game's visuals for its fast scrolling and introduction sequence, soundtrack, voice samples, gameplay options, controls, and difficulty, but criticized the bosses for being easy. In contrast to the other reviewers, Mean Machines Segas Julian Rignall and Radion Automatic commended the presentation and controls, but were critical of the "poor" sprites and graphical effects as well as backgrounds for their inconsistent quality. Both Rignall and Atomatic also criticized the game's sound, unoriginal gameplay, and overall duration. Megas Andy Dyer gave positive remarks to the visuals, but felt mixed regarding its length and gameplay, while criticizing the audio. Nevertheless, Dyer found it to be a decent shooter. Sega Powers Dean Mortlock shared similar thoughts as Davison and Scullion, regarding the title to be a fairly standard but fun shoot 'em up. Readers of the Japanese Sega Saturn Magazine voted to give Gley Lancer a 7.4341 out of 10 score, ranking among Mega Drive games at the number 215 spot in a 1995 public poll.
+
+Reviews of the game's Virtual Console re-release on Wii were mostly positive. Nintendo Lifes Damien McFerran found the game to be graphically impressive due to its anime-style introduction reminiscent of a Sega Mega-CD title, detailed sprites and parallax scrolling, while noting the wide array of gameplay options for the player. In contrast, Eurogamers Dan Whitehead stated that "there's not much here to distinguish it from the multitude of similar shooters already available cheaper on the VC." IGNs Lucas M. Thomas commended its presentation, visuals, audio, gameplay, and overall lasting appeal. In a retrospective coverage, Hardcore Gaming 101s Kurt Kalata wrote that "While the level design lacks polish, the ability to aim your weapons really opens up new doors for shooter gameplay – after playing Gleylancer, every other game seems so strict, with just the ability to shoot in pre-determined directions. That’s the trademark of an excellent game, and Gleylancer sits nicely next to Thunder Force IV and MUSHA as one of the best shooters on the Mega Drive."
+
+The Nintendo Switch port of Gley Lancer received "generally favorable reviews", according to review aggregator Metacritic. Kerry Brunskill of Nintendo Life lauded the number of options for flexibility but saw the inability to play the original version without the English translation to be a negative aspect of the port. TouchArcades Shaun Musgrave commended the release for its number of features, emulation quality, and minimal input lag, stating "Whether you want to experience a heretofore hard-to-obtain classic or just like quality shoot-em-ups, Gleylancer is an excellent choice." Push Squares Jamie O'Neill also gave the PlayStation 5 version an overall positive outlook.
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+
+* Gley Lancer at GameFAQs
+* Gley Lancer at Giant Bomb
+* Gley Lancer at MobyGames
+
+
+
+
+Category:1992 video games
+Category:Masaya Games games
+Category:Horizontally scrolling shooters
+Category:Sega Genesis games
+Category:Video games developed in Japan
+Category:Video games featuring female protagonists
+Category:Video games scored by Noriyuki Iwadare
+Category:Virtual Console games
+Category:Nintendo Switch games
+Category:PlayStation 4 games
+Category:PlayStation 5 games
+Category:Xbox One games
+Category:Xbox Series X and Series S games

@@ -1,0 +1,909 @@
+Title: Cavan Senior Football Championship
+
+
+
+The Cavan Senior Football Championship is an annual Gaelic Athletic Association club competition between the top Cavan Gaelic football clubs. It was first competed for in 1888. The winners get the Oliver Plunkett Cup and qualifies to represent their county in the Ulster Club Championship and in turn, go on to the All-Ireland Senior Club Football Championship. Cornafean have won the most titles, having been victorious 20 times. The current Senior football champions are Gowna after beating Killygarry in the final of 2022.
+
+==Format==
+12 teams will contest the Hotel Kilmore Senior Football Championship.
+
+The championship shall be run on a league basis up to the Quarter-Final stage and Knock-out thereafter. Each team will play 4 rounds in the league phase against different opponents with the fixtures decided by a random draw at the conclusion of each round. Placings in the league stage shall be decided in accordance with rule 6.21 of the GAA Official Guide 2016 as amended below:
+
+6.21 (4) If a Championship is partly organised on a League basis, the following Regulations shall apply:
+(a) League Results shall be credited as follows: 2 points for a win, and one for a draw.
+(b) If a Team is Disqualified or Retires during the course of a League Stage, its played games shall stand and its un-played games shall be awarded to the opposing teams..
+
+The top 8 teams in the league progress to the Quarter-Finals while the bottom 4 placed teams in the league enter a Relegation Playoff with 1 team to be relegated to the Cavan Intermediate Football Championship.
+
+==Winners listed by club==
+{|class="wikitable"
+! style="background:blue;color:white;" | #
+! style="background:blue;color:white;" | Club
+! style="background:blue;color:white;" | Wins
+! style="background:blue;color:white;" | Years won
+|-
+| 1
+| Cornafean
+| 20
+| 1909, 1910, 1912, 1913, 1914, 1915, 1918, 1920, 1928, 1929, 1932, 1933, 1934, 1936, 1937, 1938, 1939, 1940, 1943, 1956
+|-
+| 2
+| Cavan Gaels
+| 14
+| 1965, 1975, 1977, 1978, 2001, 2003, 2004, 2005, 2007, 2008, 2009, 2011, 2014, 2017
+|-
+| 3
+| Mullahoran 
+| 12
+| 1935, 1942, 1944, 1945, 1947, 1948, 1949, 1950, 1963, 1998, 2006, 2012
+|-
+| 4
+| Kingscourt Stars
+| 11
+| 1921, 1980, 1981, 1986, 1987, 1989, 1990, 1991, 1993, 2010, 2015
+|-
+| 5
+| Crosserlough
+| 10
+| 1958, 1961, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 2020
+|-
+| 6
+| Cavan Slashers
+| 9
+| 1890, 1917, 1922, 1924, 1925, 1927, 1930, 1931, 1941
+|-
+| 7
+| Gowna
+| 8
+| 1988, 1994, 1996, 1997, 1999, 2000, 2002, 2022
+|-
+| rowspan=2 | 8
+| Bailieboro Shamrocks
+| 5
+| 1911, 1952, 1957, 1964, 1995
+|-
+| Ramor United
+| 5
+| 1974, 1985, 1992, 2016, 2021
+|-
+| rowspan=3 | 10
+| Drumlane
+| 4
+| 1903, 1904, 1905, 1907
+|-
+| Virginia Blues
+| 4
+| 1916, 1919, 1959, 1962
+|-
+| Laragh United
+| 4
+| 1979, 1982, 1983, 1984
+|-
+| 13
+| Cootehill
+| 3
+| 1953, 1954, 1955
+|-
+| rowspan=2 | 14
+| Maghera MacFinns
+| 2
+| 1888, 1926
+|-
+| Castlerahan
+| 2
+| 2018, 2019
+|-
+| rowspan=7 | 16
+| Lacken
+| 1
+| 1908
+|-
+| Templeport
+| 1
+| 1923
+|-
+| Mountnugent
+| 1
+| 1946
+|-
+| Lavey
+| 1
+| 1951
+|-
+| Annagh
+| 1
+| 1973
+|-
+| St. Mary's 
+| 1
+| 1976
+|-
+| Ballinagh
+| 1
+| 2013
+|}
+
+==Finals listed by year==
+{| class="wikitable"
+|-
+|style="background-color:#C0FFC0"|
+|Ulster Finalists
+|}
+{|class="wikitable" style="text-align:center;"
+|-
+! style="background:blue;color:white;" | Year
+! style="background:blue;color:white;" | Winner
+! style="background:blue;color:white;" | Score
+! style="background:blue;color:white;" | Opponent
+! style="background:blue;color:white;" | Score
+
+|-
+| 2022
+| Gowna
+| 2-13
+| Killygarry
+| 1-09
+|-
+| 2021
+| Ramor United
+| 0-10, 
+| Gowna
+| 0-10, 
+|-
+| 2020
+| Crosserlough
+| 2-12, 
+| Kingscourt Stars
+| 2-12, 
+|-
+| 2019
+| Castlerahan
+| 1-09
+| Ramor United
+| 0-10
+|-
+| 2018
+| Castlerahan
+| 2-11
+| Crosserlough
+| 1-13
+|-
+| 2017
+|style="background-color:#C0FFC0"|Cavan Gaels
+| 0-13
+| Castlerahan
+| 0-08
+|- 
+| 2016
+| Ramor United
+| 2-11, 
+| Castlerahan
+| 3-08, 
+|- 
+| 2015
+| Kingscourt Stars
+| 1-09
+| Castlerahan
+| 0-11
+|-
+| 2014
+| Cavan Gaels
+| 0-16
+| Kingscourt Stars
+| 0-15
+|-
+| 2013
+| Ballinagh
+| 0-12
+| Cavan Gaels
+| 0-11
+|-
+| 2012
+| Mullahoran
+| 1-08, 
+| Kingscourt Stars
+| 1-08, 
+|-
+| 2011
+| Cavan Gaels
+| 4-11
+| Castlerahan
+| 0-07
+|-
+| 2010
+| Kingscourt Stars
+| 1-13
+| Cavan Gaels
+| 1-09
+|-
+| 2009
+| Cavan Gaels
+| 1-20
+| Denn
+| 2-11
+|-
+| 2008
+| Cavan Gaels
+| 0-15
+| Denn
+| 0-07
+|-
+| 2007
+| Cavan Gaels
+| 0-15
+| Gowna
+| 0-11
+|-
+| 2006
+| Mullahoran
+| 2-10
+| Cavan Gaels
+| 0-10
+|-
+| 2005
+| Cavan Gaels
+| 0-12
+| Mullahoran
+| 1-06
+|-
+| 2004
+| Cavan Gaels
+| 1-09
+| Mullahoran
+| 0-07
+|-
+| 2003
+| Cavan Gaels
+| 3-06
+| Mullahoran
+| 1-08
+|-
+| 2002
+| Gowna
+| 1-17
+| Cavan Gaels
+| 0-08
+|-
+| 2001
+| Cavan Gaels
+| 0-15
+| Gowna
+| 0-07
+|-
+| 2000
+| Gowna
+| 2-10
+| Cavan Gaels
+| 0-11
+|-
+| 1999
+| Gowna
+| 0-11
+| Kingscourt Stars
+| 1-07
+|-
+| 1998
+| Mullahoran
+| 2-05
+| Cavan Gaels
+| 0-04
+|-
+| 1997
+| Gowna
+| 3-12
+| Crosserlough
+| 2-06
+|-
+| 1996
+| Gowna
+| 1-14
+| Mullahoran
+| 1-08
+|-
+| 1995
+|style="background-color:#C0FFC0"|Bailieboro Shamrocks
+| 0-13
+| Gowna
+| 1-08
+|-
+| 1994
+| Gowna
+| 1-08
+| Mullahoran
+| 0-09
+|-
+| 1993
+| Kingscourt Stars
+| 2-08
+| Gowna
+| 0-08
+|-
+| 1992
+| Ramor United
+| 1-09
+| Bailieboro Shamrocks
+| 0-11
+|-
+| 1991
+| Kingscourt Stars
+| 3-11
+| Crosserlough
+| 0-10
+|-
+| 1990
+|style="background-color:#C0FFC0"|Kingscourt Stars
+| 1-12
+| Mullahoran
+| 0-09
+|-
+| 1989
+| Kingscourt Stars
+| 1-11
+| Ramor United
+| 0-08
+|-
+| 1988
+| Gowna
+| 1-06
+| Laragh United
+| 0-03
+|-
+| 1987
+|style="background-color:#C0FFC0"|Kingscourt Stars
+| 1-08
+| Ramor United
+| 0-06
+|-
+| 1986
+| Kingscourt Stars
+| 2-12
+| Ballinagh
+| 0-04
+|-
+| 1985
+| Ramor United
+| 3-10
+| Kingscourt Stars
+| 0-07
+|-
+| 1984
+| Laragh United
+| 0-16
+| Drumalee
+| 2-07
+|-
+| 1983
+| Laragh United
+| 1-15
+| Cavan Gaels
+| 2-06
+|-
+| 1982
+| Laragh United
+| 1-10
+| Bailieboro Shamrocks
+| 1-03
+|-
+| 1981
+| Kingscourt Stars
+| 0-11 (d)
+| Drumalee
+| 0-11
+|-
+| 1980
+| Kingscourt Stars
+| 0-10
+| Crosserlough
+| 0-09
+|-
+| 1979
+| Laragh United
+| 3-14
+| Crosserlough
+| 1-07
+|-
+| 1978
+| Cavan Gaels
+| 1-10
+| Ballyhaise
+| 0-06
+|-
+| 1977
+|style="background-color:#C0FFC0"|Cavan Gaels
+| 3-13
+| St. Mary's
+| 1-06
+|-
+| 1976
+| St. Mary's
+| 0-12
+| Ballyhaise
+| 0-09
+|-
+| 1975
+| Cavan Gaels
+| 0-11
+| Crosserlough
+| 0-08
+|-
+| 1974
+| Ramor United
+|
+| Woodford Gaels
+|
+|-
+| 1973
+| Annagh
+| 4-11
+| Ramor United
+| 3-08
+|-
+| 1972
+| Crosserlough
+| 3-08
+| St. Brigid's (Laragh/Stradone)
+| 2-06
+|-
+| 1971
+| Crosserlough
+| 1-12
+| Killygarry
+| 1-04
+|-
+| 1970
+| Crosserlough
+| 1-12
+| Cavan Gaels
+| 0-05
+|-
+| 1969
+|style="background-color:#C0FFC0"|Crosserlough
+| 1-09
+| St Joseph's
+| 0-04
+|-
+| 1968
+| Crosserlough
+| 2-06
+| Castlerahan
+| 0-08
+|-
+| 1967
+| Crosserlough
+|
+| Cavan Gaels
+|
+|-
+| 1966
+| Crosserlough
+| 3-13
+| Ballyconnell
+| 0-00
+|-
+| 1965
+| Cavan Gaels
+| 3-05
+| Bailieboro Shamrocks
+| 1-10
+|-
+| 1964
+| Bailieboro Shamrocks
+|
+|
+|
+|-
+| 1963
+| Mullahoran
+| 1-06, 
+| Bailieboro Shamrocks
+| 1-06, 
+|-
+| 1962
+| Virginia Blues
+| 0-09, 
+| Bailieboro Shamrocks
+| 1-06, 
+|-
+| 1961
+| Crosserlough
+| 2-03
+| Ballinagh
+| 2-02
+|-
+| 1960
+! colspan=4 align=center | Final not played
+|-
+| 1959
+| Virginia Blues
+| 3-03
+| Crosserlough
+| 1-06
+|-
+| 1958
+| Crosserlough
+| 3-07
+| Cavan Gaels
+| 3-04
+|-
+| 1957
+| Bailieboro Shamrocks
+|
+|
+|
+|-
+| 1956Anglo-Celt 1846-current, Saturday, 8 September 1956; Page: 8
+| Cornafean
+| 4-02
+| Bailieboro Shamrocks
+| 1-07
+|-
+| 1955Anglo-Celt 1846-current, Saturday, 3 September 1955; Page: 5
+| Cootehill
+| 3-09
+| Kingscourt
+| 1-05
+|-
+| 1954Anglo-Celt 1846-current, Saturday, 4 September 1954; Page: 5
+| Cootehill
+| 1-13
+| Mullahoran
+| 1-03
+|-
+| 1953Anglo-Celt 1846-current, Saturday, 26 September 1953; Page: 5
+| Cootehill
+| 3-05
+| Cornafean
+| 0-03
+|-
+| 1952
+| Bailieboro Shamrocks
+|
+|
+|
+|-
+| 1951Anglo-Celt 1846-current, Saturday, 1 September 1951; Page: 5
+| Lavey
+| 0-09
+| Mullagh
+| 0-07
+|-
+| 1950
+| Mullahoran
+|
+|
+|
+|-
+| 1949
+| Mullahoran
+|
+|
+|
+|-
+| 1948
+| Mullahoran
+|
+|
+|
+|-
+| 1947
+| Mullahoran
+|
+|
+|
+|-
+| 1946
+| Mountnugent
+|
+|
+|
+|-
+| 1945
+| Mullahoran
+| 3-08
+| Bailieboro Shamrocks
+| 1-04
+|-
+| 1944
+| Mullahoran
+|
+| Mountnugent
+|
+|-
+| 1943
+| Cornafean
+| 3-07
+| Mullahoran
+| 2-04
+|-
+| 1942
+| Mullahoran
+|
+|
+|
+|-
+| 1941
+| Cavan Slashers
+| 1-04
+| Cornafean
+| 1-02
+|-
+| 1940
+| Cornafean
+|
+| Killinkere
+|
+|-
+| 1939
+| Cornafean
+|
+| Killinkere
+|
+|-
+| 1938
+| Cornafean
+|
+| Gowna
+|
+|-
+| 1937
+| Cornafean
+|
+|
+|
+|-
+| 1936
+| Cornafean
+|
+|
+|
+|-
+| 1935
+| Mullahoran
+|
+|
+|
+|-
+| 1934
+| Cornafean
+|
+|
+|
+|-
+| 1933
+| Cornafean
+|
+|
+|
+|-
+| 1932
+| Cornafean
+|
+| Bailieboro Shamrocks
+|
+|-
+| 1931
+| Cavan Slashers
+|
+|
+|
+|-
+| 1930
+| Cavan Slashers
+|
+| Bailieboro Shamrocks
+|
+|-
+| 1929
+| Cornafean
+|
+| Cavan Slashers
+|
+|-
+| 1928
+| Cornafean
+|
+| Maghera MacFinns
+|
+|-
+| 1927
+| Cavan Slashers
+|
+|
+|
+|-
+| 1926
+| Maghera MacFinns
+|
+| Drumgoon Éire Óg
+|
+|-
+| 1925
+| Cavan Slashers
+|
+|
+|
+|-
+| 1924
+| Cavan Slashers
+|
+|
+|
+|-
+| 1923
+| Templeport
+|
+|
+|
+|-
+| 1922
+| Cavan Slashers
+|
+|
+|
+|-
+| 1921
+| Kingscourt Stars
+|
+| Bruskey
+|
+|-
+| 1920
+| Cornafean
+|
+|
+|
+|-
+| 1919
+| Virginia Blues
+|
+|
+|
+|-
+| 1918
+| Cornafean
+|
+| Crosserlough
+|
+|-
+| 1917
+| Cavan Slashers
+|
+|
+|
+|-
+| 1916
+| Virginia Blues
+|
+|
+|
+|-
+| 1915
+| Cornafean
+|
+|
+|
+|-
+| 1914
+| Cornafean
+|
+|
+|
+|-
+| 1913
+| Cornafean
+|
+|
+|
+|-
+| 1912
+| Cornafean
+|
+|
+|
+|-
+| 1911
+| Bailieboro Shamrocks
+|
+|
+|
+|-
+| 1910
+| Cornafean
+|
+|
+|
+|-
+| 1909
+| Cornafean
+|
+| Crosserlough
+|
+|-
+| 1908
+| Lacken
+| 0-07
+| Lavey
+| 0-03
+|-
+| 1907
+| Drumlane
+|
+|
+|
+|-
+| 1906
+! colspan=4 align=center | No Championship
+|-
+| 1905
+| Drumlane
+|
+|
+|
+|-
+| 1904
+| Drumlane
+|
+|
+|
+|-
+| 1903
+| Drumlane
+|
+|
+|
+|-
+| 1902
+| Cavan Slashers
+|
+|
+|
+|-
+| 1901
+! colspan=4 align=center | No Championship
+|-
+| 1900
+! colspan=4 align=center | No Championship
+|-
+| 1899
+! colspan=4 align=center | No Championship
+|-
+| 1898
+! colspan=4 align=center | No Championship
+|-
+| 1897
+! colspan=4 align=center | No Championship
+|-
+| 1896
+! colspan=4 align=center | No Championship
+|-
+| 1895
+! colspan=4 align=center | No Championship
+|-
+| 1894
+! colspan=4 align=center | No Championship
+|-
+| 1893
+! colspan=4 align=center | No Championship
+|-
+| 1892
+! colspan=4 align=center | No Championship
+|-
+| 1891
+! colspan=4 align=center | No Championship
+|-
+| 1890
+| Cavan Slashers
+|
+|
+|
+|-
+| 1889
+! colspan=4 align=center | No Championship
+|-
+| 1888
+| Maghera MacFinns
+| 1-04
+| Ballyconnell
+| 0-01
+|}
+

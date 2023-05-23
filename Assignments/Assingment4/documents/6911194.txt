@@ -1,0 +1,1413 @@
+Title: List of commercial video games released as freeware
+
+
+This is a list of commercial video games released as freeware; games that, in their original license, were not considered freeware, but were re-released at a later date with a freeware license, sometimes as publicity for a forthcoming sequel or compilation release.
+
+Some of the following games are not freely redistributable software, as they have only been made available as a free download as freeware, but may only be downloaded from certain websites and with the explicit permission of the copyright owner. Consult the software license agreement.
+
+For games that were originally released as freeware, see List of freeware video games. For free and open-source games, and proprietary games re-released as FLOSS, see List of open source video games. For proprietary games with released source code (and proprietary or freeware content), see List of commercial video games with available source code.
+
+==Available games==
+The following formerly paid games have been made available as freeware, and are still in that status:
+
+{| class="wikitable sortable"
+|-
+!   Title   
+!First release
+!Freeware release
+!Genre
+!Platform(s)
+!Publisher
+!Additional information
+|-
+|3 in Three
+|1989
+|
+|Puzzle
+|Mac OS
+|Cliff Johnson
+|
+|-
+|Adventure Fun-Pak
+|1989
+|2004
+|Adventure, Action
+|DOS
+|Apogee Software
+|
+|-
+|Adventureland
+|1978
+|1993 The Adventureland game is bundled within a compilation of other Scott Adams adventure video games also re-released as freeware.
+|Adventure, interactive fiction
+|TRS-80, Apple II, Atari 8-bit, TI-99/4A, Commodore PET, Commodore 64, IBM PC, VIC-20, ZX Spectrum, BBC Micro/Electron
+|Scott Adams
+|
+|-
+|The Adventures of Fatman
+|2003
+|2003
+|A point-and-click adventure
+|Windows
+|Michael Doak 
+|Released on studio's closing as CC-ND-NC "abandonware"
+|-
+|Adventures of Maddog Williams in the Dungeons of Duridian, The
+|1992
+|1996
+|Adventure
+|Amiga, Atari ST, DOS
+|Game Crafters
+|
+|-
+|Adventures of Robbo
+|1994
+|2006
+|Puzzle
+|DOS
+|Epic MegaGames
+|
+|-
+|Adventures of Robby Roto!, The
+|1981
+|1999
+|Maze (Puzzle)
+|Arcade
+|Bally Midway
+|
+|-
+|Alien Cabal
+|1997
+|2000
+|First-person shooter
+|DOS, Windows
+|QASoft
+|
+|-
+|Alien Carnage (a.k.a. Halloween Harry)
+|1994
+|2007
+|Side-scrolling platformer
+|DOS
+|Apogee Software
+|
+|-
+|Allegiance
+|2000
+|2004
+|Space simulation/Real-time strategy/Action
+|Windows
+|Microsoft Research
+|Source code released as freeware; gaming enthusiasts developed Free Allegiance from the released code.
+|-
+|Amulets & Armor
+|1997
+|2013
+|Action/Role-playing video game
+|DOS
+|United Software Artists
+|
+|-
+|Anacreon: Reconstruction 4021
+|1987
+|2004
+|Strategy
+|DOS
+|Thinking Machine Associates
+|Updated in 2004 by George Moromisato to run natively on Windows.
+|-
+|Antheads: It Came from the Desert 2
+|1990
+|
+|Adventure
+|Amiga
+|Cinemaware
+|Expansion pack to It Came from the Desert.
+|-
+|Arctic Adventure
+|1991
+|2009
+|Platformer
+|DOS
+|Apogee Software
+|
+|-
+|Ares
+|1996
+|2008
+|Space simulation/Real-time strategy
+|Mac OS
+|Ambrosia Software
+|Source code has been released under GPLv3, much of the media released under creative commons, Antares, a straight port, and Xsera, a derivative project were created.
+|-
+|At the Carnival
+|1989
+|
+|Puzzle
+|Mac OS, DOS
+|Cliff Johnson
+|
+|-
+|Baseball Mogul 2006
+|2005
+|2006
+|Sports management
+|Windows
+|Sports Mogul
+|
+|-
+|Battlecruiser 3000AD
+|1996
+|2001
+|Space simulator
+|Windows
+|Derek Smart
+|
+|-
+|Battlecruiser Millennium
+|2003
+|2005
+|Space simulator
+|Windows
+|Derek Smart
+|
+|-
+|Battle of Britain
+|2001
+|
+|Flight simulator
+|Windows
+|Empire Interactive
+|Only source code available.
+|-
+|Battle of the Eras
+|1995
+|2013
+|Fighting
+|DOS
+|Procryon
+|
+|-
+|BC Kid
+|1992
+|
+|Platform game
+|Amiga
+|Factor 5
+|
+|-
+|Beneath a Steel Sky
+|1994
+|2003
+|Adventure
+|Amiga, DOS
+|Virgin Interactive
+|Released to support the ScummVM Project.
+|-
+|Beyond Castle Wolfenstein
+|1984Mobygames: Castle Wolfenstein Accessed: 5/9/2012
+|
+|Stealth game
+|DOS
+|Muse Software
+|
+|-
+|Beyond the Titanic
+|1986
+|1998
+|Text adventure game
+|DOS
+|Apogee Software
+|
+|-
+|Bio Menace
+|1993
+|2005
+|Side-scrolling platform game
+|DOS
+|Apogee Software
+|
+|-
+|Blackthorne
+|1994
+|2013
+|Cinematic platformer
+|DOS
+|Interplay Productions
+|
+|-
+|Blades of Exile
+|1997
+|2007
+|Role-playing video game
+|Macintosh, Windows
+|Jeff Vogel of Spiderweb Software
+|The source code has also been released; the game is still being sold on CD, but the open source version contains the full game content.
+|-
+|Boppin'
+|1994
+|2005
+|Puzzle
+|Amiga, DOS
+|Apogee Software
+|
+|-
+|Castle Infinity
+|1996
+|2000
+|MMOG
+|Windows
+|Starwave
+|
+|-
+|Castle of the Winds
+|1989
+|1998
+|Role-playing video game
+|Windows 3.x
+|Epic MegaGames
+|
+|-
+|Caves of Thor
+|1989
+|2005
+|Adventure
+|DOS
+|Apogee Software
+|
+|-
+|Championship Manager: Season 01/02
+|2001
+|2009
+|Sports management
+|Windows, Mac OS, Xbox
+|Eidos Interactive
+|
+|-
+|Clonk Endeavour
+|2004
+|2008
+|Platform game/Real-time strategy
+|Windows, Mac OS X, Linux
+|RedWolf Design
+|Only Windows version was released as freeware.
+|-
+|Clyde's Adventure
+|1992
+|2005
+|Platform game
+|DOS
+|Moonlite Software
+|
+|-
+|Clyde's Revenge
+|1995
+|2005
+|Platform game
+|DOS
+|Moonlite Software
+|
+|-
+|Command & Conquer
+|1995
+|2007
+|Real-time strategy
+|Windows, Mac OS
+|Virgin Interactive
+|
+|-
+|Command & Conquer: Red Alert
+|1996
+|2008
+|Real-time strategy
+|Windows, Mac OS
+|Virgin Interactive
+|Made freeware in 2008 to promote the release of Command & Conquer: Red Alert 3.
+|-
+|Command & Conquer: Tiberian Sun
+|1999
+|2010
+|Real-time strategy
+|Windows
+|Electronic Arts
+|Made freeware (along with its expansion pack Firestorm) on February 12, 2010 to promote the release of Command & Conquer 4: Tiberian Twilight.
+|-
+|Cybersphere
+|1996
+|2006
+|Arkanoid-style game
+|DOS
+|Psycon Software
+|
+|-
+|Cybersphere Plus
+|1997
+|2006
+|Arkanoid-style game
+|DOS
+|Psycon Software
+|
+|-
+|Dark Ages
+|1991
+|2009
+|Platform game
+|DOS
+|Apogee Software
+|
+|-
+|Dark Horizons Lore: Invasion
+|2005
+|2007
+|Mech simulation
+|Linux, Windows, Mac OS
+|GarageGames
+|
+|-
+|Death Rally
+|1996
+|2009
+|Racing game
+|DOS, Windows
+|Apogee Software
+|
+|-
+|Defender of the Crown
+|1986
+|
+|Strategy game
+|Amiga, Amstrad CPC, Apple II, Atari ST, Commodore 64, DOS, Game Boy Advance, Macintosh, NES, ZX Spectrum
+|Cinemaware
+|
+|-
+|Dink Smallwood
+|1997
+|1999
+|Role-playing video game
+|Windows, Linux, Mac OS
+|Iridon Interactive
+|
+|-
+|Dreamweb
+|1992
+|2012
+|Adventure
+|Amiga, DOS
+|Empire Interactive Entertainment
+|
+|-
+|The Elder Scrolls: Arena
+|1994
+|2004
+|Role-playing video game
+|DOS
+|Bethesda Softworks
+|Floppy disk version released as freeware in 2004 to mark the 10th anniversary of the TES series, and as publicity release prior to the 4th installment, Oblivion.
+|-
+|The Elder Scrolls II: Daggerfall
+|1996
+|2009Joystiq: Bethesda's classic The Elder Scrolls II: Daggerfall Goes Free Accessed: 5/9/2012
+|Role-playing video game
+|DOS
+|Bethesda Softworks
+|Sequel to the aforementioned Arena. Released as freeware on July 9, 2009 to mark the 15th anniversary of the TES series.
+|-
+|Electro Man
+|1993
+|2006
+|Sidescroller
+|DOS
+|Created by xLand Games and published by Epic MegaGames
+|
+|-
+|Enemy Nations
+|1997
+|2001
+|Real-time strategy
+|Windows
+|Windward Studios
+|
+|-
+|Executioners
+|1992
+|2005
+|Beat 'em up
+|DOS
+|Bloodlust Software
+|
+|-
+|F.E.A.R. Combat
+|2005
+|2006
+|First-person shooter, horror
+|Windows
+|Monolith Productions
+|Originally released as the multiplayer portion of F.E.A.R.
+|-
+|Fish Fillets
+|1998
+|2002
+|Puzzle
+|Linux, Mac OS X, Windows, and others
+|Altar Games
+|The original Fish Fillets was released under the GPL in 2002. Subsequently, the Fish Fillets NG project has recoded the engine to enable multi-platform release.
+|-
+|Flight of the Amazon Queen
+|1995
+|2004
+|Adventure
+|Amiga, DOS
+|Renegade Software
+|Released to support the ScummVM Project.
+|-
+|The Fool's Errand
+|1987
+|
+|Puzzle
+|Mac OS, MS-DOS, Amiga, Atari ST
+|Miles Computing
+|
+|-
+|Full Spectrum Warrior
+|2004
+|2008
+|Real-time tactics
+|Windows
+|Pandemic Studios
+|Released as a free ad-supported download.
+|-
+|FS One 2022
+|2003
+|2022
+|RC Flight Sim
+|Windows
+|InertiaSoft
+|Dr. Michael Selig felt that dealing with sales was a distraction from his research and development. Game is still being developed.
+|-
+|Glider PRO
+|1991
+|
+|
+|Mac OS, Mac OS X
+|Casady & Greene
+|When Casady & Greene went bankrupt, the rights to the series reverted to the author, John Calhoun, who opted to give a few versions of the game away for free on his website.
+|-
+|God of Thunder
+|1993
+|
+|Puzzle, Action
+|DOS
+|Adept Software
+|
+|-
+|Gridlee
+|1983
+|
+|
+|Arcade
+|Videa
+|
+|-
+|Gridrunner
+|1982
+|
+|Scrolling shooter
+|Atari 2600, VIC-20, ZX Spectrum, Commodore 64
+|Llamasoft
+|
+|-
+|Ground Control
+|2000
+|2004
+|Real-time tactics
+|Windows
+|Massive Entertainment
+|Registerware freeware released on July 1, 2004 to serve as promotion for its sequel, Ground Control II: Operation Exodus.
+|-
+|Hades 2
+|2001
+|2009
+|First-person shooter
+|Windows
+|Espaço Informática
+|
+|-
+|Hardwired (a pre-release version of Red Zone)
+|1994
+|
+|Shooter
+|Sega Mega Drive/Genesis
+|Zyrinx
+|
+|-
+|Heartlight PC
+|1994
+|2006
+|Puzzle game
+|8-bit Atari, DOS
+|Janusz Pelc (Atari), Epic MegaGames (DOS port)
+|
+|-
+|Heros: The Sanguine Seven
+|1993
+|2005
+|Platformer
+|DOS
+|Jeffrey Fullerton
+|Originally published in cooperation with Safari Software and Epic MegaGames.
+|-
+|Hidden & Dangerous Deluxe
+|1999
+|2003
+|Action game with tactical elements
+|Windows
+|Illusion Softworks
+|Released as freeware to serve as promotion for its sequel, Hidden & Dangerous 2.
+|-
+|Hitchhiker's Guide to the Galaxy
+|1984
+|2004
+|Adventure
+|Flash
+|Infocom
+|Made publicly available as a web-based game by the BBC.
+|-
+|Infantry Online
+|1999
+|2007
+|2D MMORPG
+|Windows
+|Sony Online Entertainment
+|Similar to PlanetSide.
+|-
+|Inner Worlds
+|1996
+|2001
+|Platform game
+|DOS, Linux
+|Sleepless Software
+|Similar to Jill of the Jungle.
+|-
+|Ironseed
+|1994
+|2007
+|Space trading and combat simulator
+|DOS
+|Softdisk
+|Released as freeware by the author to promote a remake of the game.
+|-
+|It Came From The Desert
+|1989
+|
+|Adventure
+|Amiga, Atari ST, DOS, Sega Genesis/Mega Drive, Turbo Grafx 16
+|Cinemaware
+|
+|-
+|Jetpack
+|1993
+|
+|Platformer
+|DOS
+|Software Creations (US)
+|
+|-
+|Katakis
+|1988
+|
+|Side-scrolling shoot-em-up
+|Amiga
+|Factor 5
+|
+|-
+|Ken's Labyrinth
+|1993
+|1999
+|First-person shooter
+|DOS
+|Epic MegaGames
+|
+|-
+|Kiloblaster
+|1992
+|2008
+|Space shooter
+|DOS
+|Epic MegaGames
+|
+|-
+|King of Chicago
+|1987
+|
+|Action, adventure, strategy game
+|Amiga, Apple II, Atari ST, DOS, Macintosh
+|Cinemaware
+|
+|-
+|Kroz
+|1987
+|2009
+|Adventure
+|DOS
+|Apogee Software
+|
+|-
+|Kye
+|1992
+|2008
+|Puzzle
+|Windows 3.x
+|Colin Garbutt
+|
+|-
+|Lode Runner Online: Mad Monks' Revenge
+|1995
+|
+|Side-scrolling game
+|Windows, Mac OS
+|Sierra Entertainment
+|Based on the game Lode Runner.
+|-
+|Lords of the Rising Sun
+|1989
+|
+|Arcade
+|Amiga, PC-Engine
+|Cinemaware
+|
+|-
+|Lure of the Temptress
+|1992
+|2003
+|Graphic adventure
+|Amiga, Atari ST, DOS
+|Virgin Interactive
+|
+|-
+|The Lost Vikings
+|1993
+|2014
+|Puzzle, platformer
+|DOS
+|Interplay Productions
+|
+|-
+|Mad TV
+|1991
+|
+|Management simulation game
+|DOS, Amiga
+|Rainbow Arts
+|
+|-
+|Major Stryker
+|1993
+|2006
+|Scrolling shooter
+|DOS
+|Apogee Software
+|
+|-
+|Marathon Trilogy
+|1994
+|2005
+|First-person shooter
+|Mac OS, Windows, Linux
+|Bungie
+|Source code to Marathon 2 was released in 2000, and code for Marathon Infinity was released in 2011.
+|-
+|MechWarrior 4: Mercenaries
+|2002
+|2010
+|Robotic simulation
+|Windows
+|FASA Interactive
+|
+|-
+|Monuments of Mars
+|1990
+|2009
+|Platform
+|DOS
+|Apogee Software
+|
+|-
+|Mystery House
+|1980
+|1987
+|Adventure
+|Apple II
+|On-Line Systems
+|Released into the Public Domain in 1987 to celebrate Sierra's 7th anniversary.
+|-
+|Nogginknockers
+|1993
+|2005
+|Sports
+|DOS
+|Bloodlust Software
+|
+|-
+|Nogginknockers 2
+|1996
+|2005
+|Sports
+|DOS
+|Bloodlust Software
+|
+|-
+|NoGravity
+|1998
+|
+|Space combat simulator
+|Windows, Mac OS, Linux
+|realtech VR
+|
+|-
+|One Must Fall: 2097
+|1994
+|1999
+|Fighting
+|DOS
+|Epic MegaGames
+|
+|-
+|onEscapee
+|1997
+|2006
+|Action-adventure game
+|Windows, Amiga
+|Invictus Games, Ltd.
+|
+|-
+|Oo-topos
+|1987
+|
+|Interactive fiction
+|Apple II, DOS
+|Polarware
+|
+|-
+| Out of the Park Baseball
+|1999
+|2002
+|Sports management
+|Windows, Mac OS X, Linux
+|Out of the Park Developments
+|
+|-
+|Overkill
+|1992
+|2008
+|Vertical scrolling-shooter
+|DOS
+|Precision Software Publishing / Epic MegaGames
+|
+|-
+|Pharaoh's Tomb
+|1990
+|2009
+|Platform
+|DOS
+|Apogee Software
+|
+|-
+|Postal
+|1997
+|2020
+|Top-down shooter
+|Windows
+|Running with Scissors
+|
+|-
+|Psi-Ops: The Mindgate Conspiracy
+|2005
+|
+|Third-person shooter
+|Windows
+|Midway Games
+|Released through FilePlanet as ad-supported freeware.
+|-
+|Purge
+|2003
+|
+|Online first-person shooter
+|Windows
+|Freeform Interactive
+|
+|-
+|Puzzle Fun-Pak
+|1989
+|2004
+|Puzzle, Action
+|DOS
+|Apogee Software
+|
+|-
+|Railroad Tycoon Deluxe
+|1993
+|2006
+|Business simulator
+|DOS, ...
+|MicroProse
+|
+|-
+|Riftspace
+|2000
+|2008
+|Space simulation
+|Windows
+|Starwraith 3D Games
+|
+|-
+|Rock n' Roll Racing
+|1993
+|2014
+|Racing
+|DOS
+|Interplay Productions
+|'Lite' version of the original Super NES game with just three playable tracks. This version has all rock music tracks changed to simple MIDI music, because the music license expired.
+|-
+|Rocket Ranger
+|1988
+|
+|Action game
+||Amiga, Apple II, Atari ST, Commodore 64, DOS, NES
+|Cinemaware
+|
+|-
+|R-Type
+|1989
+|
+|Side-scrolling shoot-em-up
+|Amiga
+|Factor 5
+|
+|-
+|Sango Fighter
+|1993
+|2009
+|Fighting
+|DOS
+|Panda Entertainment
+|Released as freeware by current copyright holder Super Fighter Team.
+|-
+|Savage: The Battle for Newerth
+|2004
+|
+|A blend of FPS and RTS gameplay
+|Windows, Linux, Mac OS X
+|S2 Games
+|
+|-
+|Savage 2: A Tortured Soul
+|2008
+|2008
+|
+|Windows, Linux, Mac OS X
+|
+|
+|-
+|S.D.I
+|1986
+|
+|Action adventure
+||Amiga, Atari ST, Commodore 64, DOS, Macintosh
+|Cinemaware
+|
+|-
+|SimCity
+|1989
+|2008 (as OLPC SimCity)
+|City-building game
+|Windows, DOS, ...
+|
+|Was released under the GPLv3 for the One Laptop per Child project, and as Micropolis to the general public (the original title of the game).
+|-
+|Sinbad and the Throne of the Falcon
+|1987
+|
+|Action
+|Amiga, Apple II, Atari ST, Commodore 64, DOS
+|Cinemaware
+|
+|-
+|SkiFree
+|1991
+|
+|Arcade
+|Windows 3.0
+|Chris Pirih
+|
+|-
+|SkyRoads
+|1993
+|
+|Driving
+|DOS
+|Bluemoon Interactive
+|
+|-
+|Söldner: Secret Wars
+|2004
+|2011
+|Tactical shooter
+|Windows
+|JoWood Productions
+|
+|-
+|Sołtys
+|1995
+|2011
+|Adventure game
+|DOS
+|LK Avalon
+|
+|-
+|Spheres of Chaos
+|1992
+|2007
+|Shooter game
+|Windows, Linux, RISC OS
+|Iain McLeod
+|
+|-
+|The Spirit Engine 2
+|2008
+|2010
+|A 2-D side-scrolling indie RPG
+|Windows
+|Mark Pay
+|
+|-
+|StarCraft
+|1998
+|2017
+|Real-time strategy
+|Windows, Mac OS
+|Blizzard Entertainment
+|Made freeware (along with its expansion pack Brood War) on April 19, 2017 to promote the release of StarCraft: Remastered. Accessible on Battlenet.
+|-
+|-
+|Starshatter: The Gathering Storm
+|2004
+|2011
+|Space combat simulator
+|Windows
+|Destroyer Studios
+|Source code also released, content Freeware.
+|-
+|Stargunner
+|1996
+|2005
+|Side-scrolling shooter
+|DOS
+|3D Realms
+|
+|-
+|Starsiege: Tribes
+|1998
+|2004
+|First-person shooter
+|Windows
+|Dynamix/Sierra On-Line
+|Released as publicity for the release of Tribes: Vengeance.
+|-
+|Star Control II
+|1992
+|2002
+|Action adventure
+|DOS, Mac OS
+|Toys For Bob
+|Released as The Ur-Quan Masters.
+|-
+|Star Fleet I: The War Begins
+|1985
+|  
+||Strategy
+|DOS
+|Interstel
+|
+|-
+|Star Fleet II: Krellan Commander
+|1989
+|
+||Strategy
+|DOS
+|Interstel
+|
+|-
+|Star Legions
+|1992
+|
+||Strategy
+|DOS
+|Interstel
+|
+|-
+|Star Wraith II
+|2000
+|
+|Space military simulation game
+|
+|Starwraith 3D Games
+|
+|-
+| Star Wraith III: Shadows of Orion
+|2000
+|
+|A space military simulation featuring multiplayer capabilities
+|
+|Starwraith 3D Games
+|
+|-
+|Star Wraith IV: Reviction
+|2000
+|2008
+|
+|Windows
+|Starwraith 3D Games
+|
+|-
+|Strange Adventures in Infinite Space
+|2002
+|2009
+|
+|
+|by Digital Eel
+|
+|-
+|Supaplex
+|1991
+|
+|Boulder Dash-like puzzle game
+|
+|Michael Stopp and Philip Jespersen
+|
+|-
+|Supernova
+|1987
+|1998
+|Text adventure
+|DOS
+|Apogee Software
+|
+|-
+|Super Fighter
+|1993
+|2001
+|Fighting
+|DOS
+|C&E, Inc.
+|Released as freeware by current copyright holder Super Fighter Team.
+|-
+|Super ZZT
+|1992
+|
+|Adventure
+|DOS
+|Epic MegaGames
+|
+|-
+|S.W.I.N.E.
+|2001
+|2005
+|Real-time tactics game
+|DOS
+|StormRegion
+|Released as S.W.I.N.E. Free Christmas Edition.
+|-
+|Teen Agent
+|1995
+|
+|Graphic adventure
+|DOS
+|
+|
+|-
+|Telengard
+|1982
+|
+|Dungeon crawl
+|DOS
+|Daniel Lawrence
+|
+|-
+|TerraFire
+|1997
+|2005
+|Space shooter
+|DOS
+|ORT Software
+|
+|-
+|The Three Stooges
+|1987
+|
+|Action
+|Amiga, Apple II, Commodore 64, DOS, NES
+|Cinemaware
+|
+|-
+|Timeslaughter
+|1996
+|2005
+|Fighting
+|DOS
+|Bloodlust Software
+|Timeslaughter Lost, a prototype version of Timeslaughter, was also released in 2005 as freeware after a fan realized the version he had was different from the retail release and sent it to Bloodlust Software.
+|-
+|Total Extreme Wrestling 2005
+|2005
+|2009
+|Booking simulator
+|Windows
+|Greydog Software
+|
+|-
+|Traffic Department 2192
+|1994
+|2007
+|Top-down shooter
+|DOS
+|Epic MegaGames
+|
+|-
+|Transylvania I,II,III
+|
+|
+|Adventure
+|Apple II, Commodore 64, DOS
+|Polarware
+|
+|-
+|Treasure Island Dizzy
+|1987
+|
+|Puzzle game
+|
+|Oliver twins
+|
+|-
+|Tribes 2
+|2001
+|2004
+|First-person shooter
+|Windows, Linux
+|Dynamix/Sierra On-Line
+| Released as publicity for the release of Tribes: Vengeance.
+|-
+|Trivia Whiz
+|1988
+|2005
+|Trivia game
+|DOS
+|Apogee Software
+|
+|-
+| Turboraketti
+|1993
+|
+|Cavern-flying game
+|Amiga
+|Heikki Kosola
+|
+|-
+|TV Sports Baseball
+|1990
+|
+|Sports
+|Amiga, DOS, NES
+|Cinemaware
+|
+|-
+|TV Sports Basketball
+|1989
+|
+|Sports
+|Amiga, DOS, PC-Engine
+|Cinemaware
+|
+|-
+|TV Sports Boxing
+|1991
+|
+|Sports
+|Amiga, DOS
+|Cinemaware
+|
+|-
+|Tyrian
+|1995
+|2004
+|Scrolling shooter
+|DOS
+|Epic MegaGames
+|
+|-
+|Ultima IV: Quest of the Avatar
+|1985
+|1997
+|CRPG
+|DOS
+|Origin Systems
+|Re-released again in 2011 to promote Ultima Forever: Quest for the Avatar.
+|-
+|Ultima: Worlds of Adventure 2: Martian Dreams
+|1991
+|2012
+|CRPG
+|DOS
+|Origin Systems
+|Released by Electronic Arts exclusively through GOG.com.
+|-
+|Universal Combat
+|2004
+|2008
+|Space simulator
+|Windows
+|Derek Smart
+|
+|-
+| Vantage Master Online
+|1998
+|2002
+|Tactical RPG
+|Windows
+|Nihon Falcom
+|
+|-
+|Victory: The Age of Racing
+|2014
+|2016
+|Racing game
+|Windows
+|Vae Victis
+|
+|-
+|War Wind
+|1996
+|2020
+|Strategy
+|Windows
+|Strategic Simulations
+|
+|-
+|Warzone 2100
+|1999
+|2004
+|
+|Windows, Mac OS X, Linux, FreeBSD, AmigaOS 4, PlayStation
+|Eidos Interactive
+|
+|-
+|WingNuts: Temporal Navigator
+|2001
+|2006
+|Shooter
+|Mac OS X
+|Freeverse Software
+|
+|-
+|Wings
+|1990
+|
+|Flight simulator
+|Amiga
+|Cinemaware
+|
+|-
+|Wings
+|1996
+|
+|Cavern-flying game
+|
+|Miika Virpioja
+|
+|-
+|Wing Commander: Secret Ops
+|1998
+|1998
+|Space simulator
+|Windows
+|
+|The full version was released by Origin as freeware on 27th of Aug 1998
+|-
+|Wolfenstein 3D
+|1992
+|2012
+|First-person shooter
+|Browser-based
+|id software
+|
+|-
+|Word Whiz
+|1988
+|2005
+|Trivia
+|DOS
+|Apogee Software
+|
+|-
+|Worlds of Ultima: The Savage Empire
+|1990
+|2012
+|CRPG
+|DOS
+|Origin Systems
+|Released by Electronic Arts exclusively through GOG.com.
+|-
+|X-Men: The Ravages of Apocalypse
+|1997
+|2006
+|First-person shooter
+|DOS, Linux, Macintosh, Windows
+|WizardWorks
+|The freeware release includes a walkthrough and a pre-installed patch (pak4.pak) to fix bugs and add additional gameplay features.
+|-
+|Xargon
+|1993
+|2008
+|Platform game
+|DOS
+|Epic MegaGames
+|
+|-
+|Xenophage: Alien Bloodsport
+|1995
+|2006
+|Fighting game
+|DOS
+|Apogee Software
+|
+|-
+|ZZT
+|1991
+|
+|Adventure
+|DOS
+|Epic MegaGames
+|
+|}
+
+==Games no longer freely distributed==
+The following are commercial games that were once released as free downloads but were not freely redistributable software.
+* Airborne Ranger (1988), a stealth 2D game by MicroProse. It was released as freeware by Atari to promote Airborne Rangers. A free registration was required to download the game. After Airborne Rangers wasn't released, the Airborne Ranger page and the download link were removed. The game is still mentioned as freeware and many forums and sites have the now dead link to the game page. The legal situation now is unclear because the installer has no disclaimer.
+* Area 51 (2005), a first person shooter by Midway Games. Its free release was sponsored by the US Air Force. It later changed hands and its freeware status was removed.
+* B-17 Flying Fortress (1992), a flight simulator by MicroProse.
+* Battlefield 1942 (2002), a first person shooter by Electronic Arts, was available on Origin until it was removed, due to GameSpy shutting down.
+* Betrayal at Krondor (1993), a role-playing game by Dynamix.
+* Caesar (1992), a city-building game by Sierra.
+* Dragonsphere (1994), a point-and-click graphic adventure game developed and published by MicroProse. Released as freeware by Atari in 2011 on GOG.com. The rights were brought by Tommo in 2015 and, after the expiration of the deal with Atari, began to charge for it.
+* Gateway (1992), an adventure game by Legend Entertainment.
+* Grand Theft Auto (1997)
+* Grand Theft Auto 2 (1999)
+* Red Baron 3D (1998), a flight game by Sierra.
+* Rise and Fall: Civilizations at War (2006), a real-time strategy/third-person shooter by Stainless Steel Studios and Midway Games. Re-released as ad-supported freeware, sponsored by the US Air Force.
+* The Sims 2 (2004), a life simulation game by Maxis and Electronic Arts. It was released as freeware for a limited time on Origin on July 16, 2014 to celebrate the 10th anniversary of The Sims 2. It was removed from Origin on July 31, 2014.
+* The Suffering (2004), a horror third/first person shooter developed by Surreal Software and published by Midway Games. It was released free in September 2008 sponsored by the US Air Force, but is no longer available due to a new copyright holder.
+* Tom Clancy's Ghost Recon (2001), a tactical shooter by Ubisoft. Released in an ad-supported free download version in 2007 for a limited time; available to US residents only.
+*Wild Metal Country (1999), was released as freeware in 2004 but is no longer available on the download page.
+* Zero Tolerance (1994), a first person shooter developed by Technopop for Sega Mega Drive/Genesis. The ROMs of the game and its sequel were formerly offered by the owner Randel Reiss for free download. In 2021, however, the rights to both games were purchased by Piko Interactive, leding the download links for the ROMs to disappear from Technopop's website.
+* Zork I, Zork II, Zork III, text adventure games by Infocom.
+

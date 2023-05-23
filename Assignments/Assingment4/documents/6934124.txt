@@ -1,0 +1,135 @@
+Title: Department for Communities
+
+
+
+
+
+The Department for Communities (DfC, Irish: An Roinn Pobal, Ulster Scots: Depairtment fur Commonities) is a devolved Northern Ireland government department in the Northern Ireland Executive.  The minister with overall responsibility for the department is the Minister for Communities. The department was previously created in May 2016 following the Fresh Start Agreement and the dissolution of several departments, such as the Department for Social Development, the Department of the Environment, the Department of Culture, Arts and Leisure and the Department for Employment and Learning from which several functions have amalgamated.
+
+==Aim==
+DfC's overall aim is "tackling disadvantage and building sustainable communities".Northern Ireland Budget 2011–15, page 99
+
+==Responsibilities==
+The department's main responsibilities are as follows:
+* housing (through the Northern Ireland Housing Executive)
+* social security and welfare
+* employment services
+* culture, sports and leisure
+* historic and cultural affairs
+
+Northern Ireland has parity with Great Britain in three areas:
+* social security
+* child support
+* pensions
+
+Policy in these areas is technically devolved but, in practice, follows policy set by Parliament to provide consistency across the United Kingdom.Northern Ireland Act 1998, Part VIII, Social security, child support and pensions
+
+The department is also responsible for the following public bodies:
+* Northern Ireland Housing Executive
+* Charity Commission for Northern Ireland
+* Disability Living Allowance Advisory Board for Northern Ireland
+* Rent Assessment Panel
+* Vaughan Charity
+
+It also oversees the Office of the Social Fund Commissioner.
+
+DfC's main counterparts in the United Kingdom Government are:
+* the Department for Work and Pensions (on social security);
+* the Department for Communities and Local Government (on housing and urban regeneration);
+* the Cabinet Office (on the voluntary and community sector);
+* the Department for Culture, Media and Sport (on gambling and alcohol licensing).
+
+In the Irish Government, its main counterparts are:
+* the Department of Social Protection
+* the Department of Housing, Local Government and Heritage (on housing)
+* the Department of Justice (on gambling)
+
+==History==
+Housing policy in Northern Ireland was originally a responsibility of local government and the Ministry of Home Affairs, which (similarly to the Home Office) retained responsibility for policy areas not delegated to other ministries.
+
+A separate Ministry of Health and Local Government was established in June 1944, as part of the welfare state.  In January 1965, that department was divided between the Ministry of Development (including housing policy) and the Ministry of Health and Social Services (including social security).
+
+The two ministries were, respectively, renamed as the Department of the Environment and Department of Health and Social Services (DHSS) under direct rule, introduced in March 1972.  Health and social services and environment ministries were also included in the Northern Ireland Executive briefly established in 1974.
+
+DfC mainly combined housing and social security policy from those departments.
+The initials DHSS are still used locally to describe benefits and benefit claimants.
+
+Following a referendum on the Belfast Agreement on 23 May 1998 and the granting of royal assent to the Northern Ireland Act 1998 on 19 November 1998, a Northern Ireland Assembly and Northern Ireland Executive were established by the United Kingdom Government under Prime Minister Tony Blair. The process was known as devolution and was set up to return devolved legislative powers to Northern Ireland.
+
+DfC (then DSD) was one of five new devolved Northern Ireland departments created in December 1999 by the Northern Ireland Act 1998 and The Departments (Northern Ireland) Order 1999.
+
+A devolved minister first took office on 2 December 1999.  Devolution was suspended for four periods, during which the department came under the responsibility of direct rule ministers from the Northern Ireland Office:
+* between 12 February 2000Article 2, Northern Ireland Act 2000 (Commencement) Order 2000 and 30 May 2000;Article 2, Northern Ireland Act 2000 (Restoration of Devolved Government) Order 2000
+* on 11 August 2001;Article 1, Northern Ireland Act 2000 (Suspension of Devolved Government) Order 2001Article 2, Northern Ireland Act 2000 (Restoration of Devolved Government) Order 2001
+* on 22 September 2001;Article 1, Northern Ireland Act 2000 (Suspension of Devolved Government) (No.2) Order 2001Article 2, Northern Ireland Act 2000 (Restoration of Devolved Government) (No.2) Order 2001
+* between 15 October 2002Article 1, Northern Ireland Act 2000 (Suspension of Devolved Government) Order 2002 and 8 May 2007.Article 2, Northern Ireland Act 2000 (Restoration of Devolved Government) Order 2007
+
+Since 8 May 2007, devolution has operated without interruption, however it was not operating in practice from 2017 to 2020.
+
+== Ministers for Communities ==
+{| class="wikitable" style="margin: 1em auto 1em auto"
+|- style="background:#ccc;"
+!  !!Minister!!Image!!Party!!Start!!End
+|-
+| colspan="6" align="center"| Office established as Minister of Social Development
+|-
+| style="background:" |     || Nigel Dodds || 60px ||   || 29 November 1999  || 11 February 2000
+|-
+| colspan="6" style="text-align:center;"| Office suspended
+|-
+| style="background:" |     || Nigel Dodds|| 60px||   || 30 May 2000  || 26 July 2000
+|-
+| style="background:" |     || Maurice Morrow|| 60px ||  || 27 July 2000 || 18 October 2001Office suspended for 24 hours on 11 August 2001 and 22 September 2001
+|-
+| style="background:" |     || Nigel Dodds ||60px||   || 25 October 2001 || 11 October 2002
+|-
+| colspan="6" style="text-align:center;"| Office suspended
+|-
+| style="background:" |    
+|| Margaret Ritchie|| 60px ||   || 14 May 2007 || 23 May 2010
+|-
+| style="background:" |    
+|| Alex Attwood||60px ||   || 24 May 2010||4 May 2011
+|-
+| style="background:" |     || Nelson McCausland ||60px ||   || 14 May 2011 || 23 September 2014
+|-
+| style="background:" |     || Mervyn Storey ||60px ||   || 24 September 2014 || 12 January 2016Resigned on 10 September 2015, re-entered office on 16 Sept. till 17 Sept., then on 23 Sept.-24 Sept, then 28 Sept.-29 Sept., then 30 Sept.-1 Oct. 2015. Following 20 October he permanently occupies the office
+|-
+| style="background:" |     || Lord Morrow|| 60px ||  || 13 January 2016|| 30 March 2016
+|-
+| colspan="6" align="center"| Office renamed Minister of Communities
+|-
+| style="background:" |    
+|| Paul Givan || 60px ||  || 25 May 2016 || 2 March 2017
+|-
+| colspan="6" align="center"| Office suspended
+|-
+| style="background:" |    
+|| Deirdre Hargey ||60px|| || 11 January 2020|| 14 June 2020
+|-
+| style="background:" |    
+|| Carál Ní Chuilín ||60px || || 15 June 2020|| 15 December 2020
+|-
+| style="background:" |    
+|Deirdre Hargey
+|60px
+|Sinn Féin
+|16 December 2020
+|27 October 2022
+|-
+|}
+
+===Direct rule ministers===
+During the periods of suspension, the following ministers of the Northern Ireland Office were responsible for the department:
+* George Howarth (2000)
+* Des Browne (2002–03)
+* John Spellar (2003–05)
+* David Hanson (2005–07)
+
+==See also==
+* Committee for Communities
+* Líofa
+
+==Notes==
+
+

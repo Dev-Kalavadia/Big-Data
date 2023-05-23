@@ -1,0 +1,40 @@
+Title: Rich Catton
+
+
+Rich Catton (born September 1, 1971 in New Westminster, British Columbia) is a player for the Colorado Mammoth in the National Lacrosse League.http://stats.nll.com/stats/player.php?id=228 Nll In the summer he played for the Victoria Shamrocks of the Western Lacrosse Association until being traded to Coquitlam in June 2007.http://www.adanaclacrosse.com/Rich_Catton.php adanaclorosse
+
+==Statistics==
+===NLL===
+{| BORDER="0" CELLPADDING="3" CELLSPACING="0"
+|- ALIGN="center" bgcolor="#e0e0e0"
+! colspan="2" bgcolor="#ffffff" |  
+! rowspan="99" bgcolor="#ffffff" |  
+! colspan="6" | Regular Season
+! rowspan="99" bgcolor="#ffffff" |  
+! colspan="6" | Playoffs
+|- ALIGN="center" bgcolor="#e0e0e0"
+! Season !! Team !! GP !! G !! A !! Pts !! LB !! PIM !! GP !! G !! A !! Pts !! LB !! PIM
+|- ALIGN="center" bgcolor="#f0f0f0"
+| 2000 || Buffalo || 7 || 2 || 3 || 5 || 17 || 4|| 1 || 0 || 0 || 0 || 4 || 2
+|- ALIGN="center"
+| 2001 || Buffalo || 14 || 2 || 5 || 7 || 44 || 30|| -- || -- || -- || -- || -- || --
+|- ALIGN="center" bgcolor="#f0f0f0"
+| 2002 || Vancouver || 16 || 3 || 8 || 11 || 63 || 37|| 1 || 0 || 0 || 0 || 5 || 0
+|- ALIGN="center"
+| 2003 || Vancouver || 16 || 0 || 7 || 7 || 75 || 51|| 1 || 0 || 0 || 0 || 6 || 0
+|- ALIGN="center" bgcolor="#f0f0f0"
+| 2004 || Vancouver || 16 || 1 || 5 || 6 || 57 || 35|| -- || -- || -- || -- || -- || --
+|- ALIGN="center"
+| 2005 || Calgary || 9 || 0 || 4 || 4 || 35 || 8|| 1 || 1 || 0 || 1 || 8 || 2
+|- ALIGN="center" bgcolor="#f0f0f0"
+| 2006 || Colorado || 16 || 1 || 6 || 7 || 68 || 24|| 3 || 0 || 2 || 2 || 15 || 2
+|- ALIGN="center"
+| 2007 || Colorado || 16 || 0 || 8 || 8 || 63 || 33|| 1 || 0 || 1 || 1 || 8 || 2
+|- ALIGN="center" bgcolor="#f0f0f0"
+| 2008 || Colorado || 16 || 1 || 2 || 3 || 54 || 55|| 1 || 0 || 0 || 0 || 1 || 0
+|- ALIGN="center"
+| 2009 || Colorado || 15 || 0 || 5 || 5 || 57 || 48|| 0 || 0 || 0 || 0 || 0 || 0
+|- ALIGN="center" bgcolor="#e0e0e0"
+! colspan="2" | NLL Totals !! 141 || 10 || 53 || 63|| 533 || 325 || 9 || 1 || 3 || 4|| 47 || 8
+|}
+

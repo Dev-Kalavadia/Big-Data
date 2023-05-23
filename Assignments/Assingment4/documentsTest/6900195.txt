@@ -1,0 +1,41 @@
+Title: Port of Tanjung Pelepas Highway
+
+
+Port of Tanjung Pelepas Highway, Federal Route 177, is a highway that connects the Port of Tanjung Pelepas interchange on the Second Link Expressway E3 to Port of Tanjung Pelepas, Johor, Malaysia. This 6.6 km (4.1 mi) highway has a motorcycle lane. The Kilometre Zero of the Federal Route 177 starts at Port of Tanjung Pelepas.
+
+At most sections, the Federal Route 177 was built under the JKR R5 road standard, with a speed limit of 90 km/h.
+
+
+
+==List of interchanges==
+
+{|class="wikitable" 
+|-
+!Km||Exit||Interchange||To||Remarks
+|-
+|6.6 ||17701 ||Likedua Interchange||  Second Link ExpresswayNorth  Kuala Lumpur Senai Johor Bahru Iskandar Puteri Gelang PatahSouthMalaysia–Singapore Second Crossing (2 km)  Tuas (Singapore) Tanjung Kupang Toll Plaza (,MyRFID  and  ETC only) (1 km)Sultan Abu Bakar CIQ Checkpoint (1.3 km) Gelang Patah Rest and Service Area (Singapore bound) (500 m)||Trumpet interchange
+|-
+|style="width:600px" colspan="6" style="text-align:center; background:green;"|  Second Link ExpresswayStart/end of toll expressways(, MyRFID and  ETC only)PLUS Expressways border limit
+|-
+|style="width:600px" colspan="6" style="text-align:center; background:blue;"| Port of Tanjung Pelepas HighwayJKR border limit
+|-
+| || ||Sungai Tiram Duku bridge|| ||
+|-
+| ||17702 ||Forest City Interchange||SouthForest City HighwayForest City||T-junctions
+|-
+| ||17703 ||Jalan Cabang Interchange||Northwest Jalan CabangMuara Sungai PulaiPangkalan Marin Syahbandar Jalan Gelang Patah–SkudaiPendasTanjung KupangGelang PatahSouthPTP Industrial Area||Junctions
+|-
+| || ||Port of Tanjung Pelepas bridge|| ||Start/end of bridge
+|-
+| || ||Port of Tanjung Pelepas bridgeSungai Perpal bridge|| ||
+|-
+| || ||Port of Tanjung Pelepas bridge|| ||Start/end of bridge
+|-
+|style="width:600px" colspan="6" style="text-align:center; background:blue;"| Port of Tanjung Pelepas HighwayStart/end of highwayJKR border limit
+|-
+|style="width:600px" colspan="6" style="text-align:center; background:white;"|Port of Tanjung Pelepas (PTP) PTP border limit
+|-
+|0 || ||Port of Tanjung Pelepas ||Port of Tanjung Pelepas Main terminalHeadquarters and control centreRoyal Malaysian Customs office||Junctions
+|-
+|}
+

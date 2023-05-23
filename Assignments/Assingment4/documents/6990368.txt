@@ -1,0 +1,33 @@
+Title: MPLS local protection
+MPLS Fast Reroute (also called MPLS local restoration or MPLS local protection) is a local restoration network resiliency mechanism. It is actually a feature of resource reservation protocol (RSVP) traffic engineering (RSVP-TE). In MPLS local protection each label switched path (LSP) passing through a facilityThe term facility is usually referred to a link or node. is protected by a backup path which originates at the node immediately upstream to that facility.
+
+This node which redirects the traffic onto the preset backup path is called the Point of Local Repair (PLR), and the node where a backup LSP merges with the primary LSP is called Merge Point (MP). This mechanism (local protection) provides faster recovery because the decision of recovery is strictly local. For comparison, when recovery mechanisms are employed at the IP layer, restoration may take several seconds which is unacceptable for real-time applications (such as VoIP). In contrast, MPLS local protection meets the requirements of real-time applications with recovery times comparable to those of shortest path bridging networks or SONET rings (< 50 ms).
+
+== Local protection approaches ==
+There are two distinct approaches to local protection: (1) one-to-one local protection (detour) (2) many-to-one local protection (facility backup).
+
+=== One-to-one local protection ===
+
+In one-to-one backup approach, the PLRs maintain separate backup paths for each LSP passing through a facility. The backup path terminates by merging back with the primary path at a node called the Merge Point (MP). In one-to-one backup approach, the MP can be any node downstream from the protected facility. Maintaining state information for backup paths protecting individual LSPs, as in the one-to-one approach, is a significant resource burden for the PLR. Moreover, periodic refresh messagesLocal protection primarily uses RSVP-TE extensions, which is a soft-state protocol and requires periodic refresh messages to maintain its states. sent by the PLR, in order to maintain each backup path, may become a network bottleneck.
+
+=== Many-to-one local protection ===
+In many-to-one approach, a PLR maintains a single backup path to protect a set of primary LSPs traversing the triplet (PLR, facility, MP). Thus, fewer states need to be maintained and refreshed which results in a scalable solution. The many-to-one backup approach is also called facility backup. Note that in this approach, the MP should be the node immediately downstream to the facility.
+
+== Example ==
+thumb|500px|Fig.1 Fast Reroute operation
+
+In Fig.1 (right), there is a primary path (Label Switched Path, or LSP) from A to E via B and D. The traffic of customers connected to A and E will take this path in normal operation. There is also a secondary path (LSP) from A to E via C. This path can be either pre-signaled or not. For the primary LSP, FRR (Fast ReRoute) is enabled. Once enabled, the other network elements on the LSP will know that FRR is enabled. Let's assume there is a break between D and E. D will immediately know this and will inform B and A. For A to know that there is a failure between D and E takes a while, but since D knows about the failure immediately and FRR is enabled on the LSP, it uses the detour path D-C-E to get rid of the failure immediately and traffic will continue to flow along that new path. This takes less than 50ms. Once the secondary LSP is up, traffic is switched to the secondary LSP and the temporary detour path is disabled.
+
+== Local protection fault-models ==
+
+thumb|400px|An illustration of MPLS local protection Faults Modes. Note that complete network is not shown only primary and backup paths are shown. Furthermore, nodes traversed by a backup path are not shown.
+
+=== Link protection ===
+In a link protection model each link (or subset links) used by an LSP is provided protection by pre-establishedbackup paths are establish before the failure backup paths.
+
+=== Node protection ===
+In a node protection model each node (or subset of nodes) used by an LSP is provided protection by pre-established backup paths.
+
+=== Element protection ===
+In an element protection model, protection is provided against the failure of links as well as nodes along the LSP.
+

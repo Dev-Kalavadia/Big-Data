@@ -1,0 +1,4 @@
+Title: Fundamental physical constantFundamental physical constant may refer to:
+* A dimensionless physical constant, one that is independent of the system of units used
+* A physical constant that is a member of a set of universal constants containing the minimum number of such constants needed to define a physical theory
+

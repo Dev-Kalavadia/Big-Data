@@ -1,0 +1,164 @@
+Title: Ili Turki language
+
+
+
+Ili Turki is an endangered Turkic language spoken primarily in China. In 2007, it was reported that there were around 30 families using it in China.
+
+==Classification==
+Ili Turki appears to belong to the Chagatay group of Turkic languages, although it exhibits a number of features that suggest a Kipchak substratum.
+
+A comparison of Ili Turki's Chagatay and Kipchak features is shown below:
+
+{| class="wikitable"
+|+Kipchak & Chagatay features in Ili Turki
+!   !!Kazakh (Kipchak)!!Ili Turki!!Uzbek (Chagatay)!!English
+|-
+!*G > w after low vowels
+|bgcolor="silver"|
+|bgcolor="silver"|
+|
+|mountain
+|-
+!Genitive assimilation
+|bgcolor="silver"| / 
+|bgcolor="silver"| / 
+| / 
+|of the camel / of the meat
+|-
+!*G > w > Ø after high vowels
+|
+|bgcolor="silver"|
+|bgcolor="silver"|
+|yellow
+|-
+!Loss of geminate consonants
+|
+|bgcolor="silver"|
+|bgcolor="silver"|
+|eight
+|}
+
+==Geographic distribution==
+Ili Turki is spoken in China's Ili Kazakh Autonomous Prefecture along the Ili River and its tributaries and in Yining. There may be some speakers in Kazakhstan. Ili Turki has no official status in either country.
+
+==Phonology==
+
+===Consonants===
+{| class="wikitable"
+|+Consonants of Ili Turki 
+|-
+!
+! colspan="2" | Bilabial
+! colspan="2" | Alveolar
+! colspan="2" | Palatal
+! colspan="2" | Velar
+! colspan="2" | Uvular
+! colspan="1" | Glottal
+|- align=center
+!Nasal
+| colspan="2" | 
+| colspan="2" | 
+| colspan="2" |
+| colspan="2" | 
+| colspan="2" | 
+|  
+|- align=center
+!Plosive
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|  
+|  
+|- align=center
+!Fricative
+| colspan="2" |
+| 
+| 
+| 
+|
+| colspan="2" |
+| 
+| 
+| 
+|- align=center
+!Tap
+| colspan="2" |
+| colspan="2" | 
+| colspan="2" | 
+| colspan="2" |
+| colspan="2" |
+| colspan="2" |
+|- align=center
+!Approximant
+| colspan="2" | 
+| colspan="2" | 
+| colspan="2" | 
+| colspan="2" | 
+| colspan="2" |
+| colspan="2" |
+|- align=center
+|}
+
+===Vowels===
+{| class="wikitable"
+|+Vowel Sounds of Ili Turki
+!rowspan="2"|
+!rowspan="2"|Front
+!colspan="2"|Central/back
+|- align=center
+!Rounded!!Unrounded
+|- align=center
+!Close
+|
+|
+|
+|- align=center
+!Mid
+|
+|
+|
+|- align=center
+!Open
+|
+|
+|
+|}
+
+==Vocabulary==
+
+{| class="wikitable sortable"
+! No. !! Ili Turki
+|-
+| 1 || bir
+|-
+| 2 || ekki
+|-
+| 3 || ʉtʃ
+|-
+| 4 || trt
+|-
+| 5 || beʃ
+|-
+| 6 || altə
+|-
+| 7 || jetti
+|- 
+| 8 || sekkiz
+|-
+| 9 || tɵqqʉz
+|-
+| 10 || ɵn
+|}
+
+==See also==
+* Taranchi
+
+==Notes==
+
+

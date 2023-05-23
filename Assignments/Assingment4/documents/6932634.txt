@@ -1,0 +1,388 @@
+Title: Gregori Aminoff Prize
+The Gregori Aminoff Prize is an international prize awarded since 1979 by the Royal Swedish Academy of Sciences in the field of crystallography, rewarding "a documented, individual contribution in the field of crystallography, including areas concerned with the dynamics of the formation and dissolution of crystal structures. Some preference should be shown for work evincing elegance in the approach to the problem."
+
+The prize, which is named in memory of the Swedish scientist and artist Gregori Aminoff (1883–1947), Professor of Mineralogy at the Swedish Museum of Natural History from 1923, was endowed through a bequest by his widow Birgit Broomé-Aminoff. The prize can be shared by several winners. It is considered the Nobel prize for crystallography.
+
+==Recipients of the Prize==
+Source: Royal Swedish Academy of Science
+
+{| class = "wikitable plainrowheaders sortable"
+|-
+! scope = col| Year
+! scope = col| Laureate
+! scope = col style = "width: 100pt;"| Country
+! scope = col| Institute
+! scope = col class = unsortable| Rationale
+! scope = col class = unsortable| Ref
+|-
+|1979
+|Paul Peter Ewald
+|
+|Not Listed
+|"For his fundamental contributions to the development of the science of crystallography."
+|
+|-
+|1980
+|(No prize awarded) 
+|
+|-
+|1981
+|Charles Frank 
+| 
+|Not Listed
+|"For your fundamental contributions to the development of the science of crystallography."
+|
+|-
+|1982
+|Gunnar Hägg
+| 
+|Not Listed
+|"For his pioneering application of x-ray crystallography in inorganic chemistry."
+|
+|-
+|1983
+|J. M. Robertson 
+| 
+|Not Listed
+|"For your fundamental contributions to the development of the science of crystallography."
+|
+|-
+|1984
+|David Harker
+| 
+|Not Listed
+|"For your fundamental contributions to the development of methods in X-ray crystallography."
+|
+|-
+|1985
+|André Guinier
+| 
+|Not Listed
+|"For your fundamental experimental and theoretical studies of the dispersion of X-rays with application to the study of structures of condensed systems."
+|
+|-
+|1986
+|
+| 
+|Not Listed
+|"Pour vos ouvrages eminents en cristallographie théorique et expérimentale, en particulier concernant les structures magnétiques."
+|
+|-
+|1987
+|Otto Kratky
+| 
+|Not Listed
+|"Für die Entwicklung der Kleinwinkelmethode bei Röntgen Studien der Struktur von Makromolekülen."
+|
+|-
+|1988
+|Isabella L. Karle
+| 
+|Not Listed
+|"For her eminent crystallographic investigations of complicated natural products."
+|
+|-
+|1989
+|Arne Magnéli
+| 
+|Not Listed
+|"For his epoch-making crystallographic studies of the building principles oxide compounds, which decisively have changed the view of the relations between stoichiometry and structure in inorganic chemistry."
+|
+|-
+|1990
+|Jack Dunitz
+| 
+|Not Listed
+|"For your eminent way of using structure analysis as a tool for studying different chemical problems."
+|
+|-
+|1991
+|David Phillips
+| 
+|Not Listed
+|"For his fundamental results on the catalytic mechanism of enzymes."
+|
+|-
+|1992
+|Michael Mark Woolfson
+| 
+|Not Listed
+|"For your development of direct methods for statistical phase determination of crystal structures."
+|
+|-
+|1993
+|Clifford G. Shull
+| 
+|Not Listed
+|"For your development and application of neutron diffraction methods for studies of atomic and magnetic structures of solids."
+|
+|-
+|1994
+|Michael G. Rossmann
+| 
+|Not Listed
+|"For your fundamental methodological work on the utilization of non-crystallographic symmetry, with its especially important applications within protein and virus crystallography."
+|
+|-
+|1995
+|Hugo M. Rietveld
+| 
+|Not Listed
+|"In recognition of his development of profile refinement methods for the analysis of powder diffraction data."
+|
+|-
+|1996
+|Philip Coppens
+| 
+|Not Listed
+|"In recognition of your outstanding methodological and structure chemical achievements in Crystallography, especially the studies of electron distribution in different types of chemical bonds."
+|
+|-
+|1997
+|Wayne A. Hendrickson
+| 
+|Not Listed
+|"For your contributions to phase angle determination of macromolecular crystals using anomalous dispersion and measurements at multiple wavelengths."
+|
+|-
+| rowspan = "3"| 1998
+|Pietro Marten De Wolff 
+| rowspan = "2"| 
+| rowspan = "3"| Not Listed
+| rowspan = "3"| "For your contributions to the theory and practise of modulated structure refinements."
+| rowspan = "3"|
+|-
+|Ted Janssen
+|-
+|
+|
+|-
+| rowspan = "2"| 1999
+|Richard Henderson
+|rowspan = "2"|
+|rowspan = "2"|Not Listed
+| rowspan = "2"|"For your development of methods for structure determination of biological macromolecules using electron diffraction."
+| rowspan = "2"|
+|-
+|Nigel Unwin
+|-
+|2000
+|Dan Shechtman
+| 
+|Not Listed
+|"For your discovery of quasicrystals."
+|
+|-
+|2001
+|Kenneth C. Holmes
+| 
+|Not Listed
+|"For his pioneering development of methods to study biological macromolecules, in particular muscle proteins, by synchrotron radiation."
+|
+|-
+|rowspan = "2"|2002
+|Leslie Leiserowitz 
+|rowspan = "2"|
+|rowspan = "2"|Weizmann Institute of Science
+| rowspan = "2"|"for your fundamental studies of crystal growth and application to separation of enantiomers and for your studies of surface structures by synchrotron radiation"
+| rowspan = "2"|
+|-
+|Meir Lahav
+|-
+|rowspan = "2"|2003
+|Axel Brunger 
+|
+|Stanford University
+|"for his development of refinement techniques for macromolecules"
+| rowspan = "2"|
+|-
+|T. Alwyn Jones
+|
+|Uppsala Universitet
+|"for his pioneering development of methods to interpret electron density maps and to build models of biological macromolecules with the aid of computer graphics"
+|-
+|2004
+|(No prize awarded) 
+|-
+|2005
+|Ho-Kwang Mao
+|
+|Geophysical Laboratory
+|"for his pioneering research of solid materials at ultrahigh pressures and temperatures"
+||
+|-
+|rowspan = "2"|2006
+|Stephen Harrison
+|
+|Harvard University
+| rowspan = "2"|"for their remarkable contributions in virus crystallography"
+| rowspan = "2"|
+|-
+|David Stuart
+|
+|Oxford University
+|-
+|2007
+|Sumio Iijima
+|
+|Meijo University
+|"for his structural studies of carbon nanotubes"
+|
+|-
+|2008
+|Hans Eklund
+|
+|Swedish University of Agricultural Sciences
+|"for his crystallographic studies of ribonucleotide reductase. The studies contribute to a detailed understanding of function and activity of an enzyme with a central biological role"
+|
+|-
+|rowspan = "2"|2009
+|George M. Sheldrick
+|
+|University of Göttingen
+|rowspan = "2"|"for their contributions to theoretical development and methodological implementation in crystallography"
+| rowspan = "2"|
+|-
+|Gérard Bricogne
+|
+|Global Phasing Ltd
+|-
+|2010
+|So Iwata
+|
+|Imperial College London
+|"for his seminal crystallographic studies of membrane proteins. Using state-of-the-art crystallographic methods, he has elucidated vital biological functions within the fields of cellular respiration, photosynthesis and molecular transport"
+|
+|-
+|rowspan = "2"|2011
+|Lia Addadi
+|rowspan = "2"|
+|rowspan = "2"|Weizmann Institute of Science
+|rowspan = "2"|"for their crystallographic studies of biomineralization processes, which have led to an understanding of mechanisms of mineral formation"
+|rowspan = "2"|
+|-
+|Stephen Weiner
+|-
+|rowspan = "3"|2012
+|
+|rowspan = "2"|
+|rowspan = "2"|Institut de Génétique et de Biologie Moléculaire et Cellulaire
+|rowspan = "3"|"for their crystallographic studies on ribosomes, translators of the code of life"
+|rowspan = "3"|
+|-
+|
+|-
+|Harry F. Noller
+|
+|University of California, Santa Cruz
+|-
+|rowspan = "2"|2013
+|Carlo Gatti
+|
+|Institute of Molecular Sciences and Technology, Italian National Research Council (CNR-ISTM)
+|rowspan = "2"|"for developing experimental and theoretical methods to study electron density in crystals, and using them to determine molecular and crystalline properties"
+|rowspan = "2"|
+|-
+|Mark Spackman
+| 
+|University of Western Australia
+|-
+|2014
+|Yigong Shi
+|
+| Tsinghua University
+|"for his groundbreaking crystallographic studies of proteins and protein complexes that regulate programmed cell death"
+|
+|-
+|2015
+|Ian Robinson
+|
+|London Centre for Nanotechnology
+|"for his development of diffraction methods for studying surfaces and nanomaterials"
+|
+|-
+|rowspan = "2"|2016
+|Poul Nissen
+|
+|Aarhus University
+|rowspan = "2"|"for their fundamental contributions to understanding the structural basis for ATP-driven translocation of ions across membranes"
+|rowspan = "2"|
+|-
+|Chikashi Toyoshima
+|
+|University of Tokyo
+|-
+|rowspan = "2"|2017
+|Natalia Dubrovinskaia
+|rowspan = "2"|
+|rowspan = "2"|University of Bayreuth
+|rowspan = "2"|"for their development of new methodology for in-situ experimental determination of crystal structures under extreme conditions of high temperature and pressure"
+|rowspan = "2"|
+|-
+|Leonid Dubrovinsky
+|-
+|2018
+|Piet Gros
+|
+|Utrecht University
+|"for his fundamental contributions to understanding the structural basis for the complement system-mediated innate immune response"
+|
+|-
+|rowspan = "2"|2019
+|Michael O'Keeffe
+|
+|Arizona State University
+|rowspan = "2"|"for their fundamental contributions to the development of reticular chemistry"
+|rowspan = "2"|
+|-
+|Omar M. Yaghi
+|
+|University of California, Berkeley
+|-
+|rowspan = "2"|2020
+|Jian-Ren Shen
+|
+|Okayama University
+|rowspan = "2"|“for their fundamental contributions to the understanding of biological redox metal clusters”
+|rowspan = "2"|
+|-
+|Douglas Rees
+|
+|California Institute of Technology
+|-
+|rowspan = "3"|2021
+|Henry Chapman
+|
+|DESY, University of Hamburg
+|rowspan = "3"|“for their fundamental contributions to the development of X-ray free electron laser based structural biology”
+|rowspan = "3"|
+|-
+|Janos Hajdu
+|
+|Uppsala University
+|-
+|John Spence
+|
+|Arizona State University
+|-
+|rowspan = "3"|2022
+|Elena Conti
+|
+|rowspan = "2"|Max Planck Institute of Biochemistry
+|rowspan = "3"|“for structural studies of synthesis and regulated degradation of RNA”
+|rowspan = "3"|
+|-
+| Patrick Cramer
+|
+|-
+|Seth Darst
+|
+|Rockefeller University
+|-
+|}
+
+==See also==
+
+* List of chemistry awards
+* List of physics awards
+

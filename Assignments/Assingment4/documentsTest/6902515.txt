@@ -1,0 +1,47 @@
+Title: Sigtrygg Runestones
+The two Sigtrygg Runestones, designated as DR 2 and DR 4 in the Rundata catalog, are two of the Hedeby stones that were found in Schleswig-Holstein, Germany, which during the Viking Age was part of Denmark. The runestones were raised after the Danish king Sigtrygg Gnupasson by his mother Ásfriðr. Together with the account of Adam of Bremen, the two inscriptions constitute evidence for the House of Olaf on the Danish throne.
+
+The stones are dated as being carved after 934 C.E. as the historian Widukind of Corvey recorded that King Gnupa, who is mentioned in both inscriptions, was forced to pay a tribute to the German king in that year.
+
+==DR 2==
+250px|right|thumb|The runestone DR 4 was raised after Sigtrygg by his mother.
+DR 2 was found at Haddeby in Schleswig-Holstein in 1797. At one time, scholars considered the word and rune selection on this runestone, when compared with the inscription on DR 4, along with other inscriptions as evidence of Swedish influence in Denmark during the 10th century. For example, although both DR 2 and DR 4 use the Younger Futhark, DR 2 uses "short twig" style runes for the n- and a-runes. However, in recent years this has been downplayed after it was shown that part of the evidence was actually due to a misdating of another runestone and the possible misspellings of some words in the inscriptions.
+
+===Inscription===
+====Transliteration of the runes into Latin characters====  
+:A osfriþr : karþi : kum bl ' þaun oft : siktriku :
+:B sun (:) (s)in : oui : knubu
+
+====Transcription into Old Norse====
+:A Asfriþr gærþi kumbl þøn æft Sigtryg,
+:B sun sin ok Gnupu.
+
+====Translation in English====
+:A Ásfriðr made the memorial after Sigtrygg
+:B her son together with Gnupa
+
+==DR 4==
+thumb|DR 4
+DR 4 was discovered in 1887 on the ramparts of Gottorf Castle. Prior to the recognition of the historical significance of runestones, they were often used as construction materials for roads, walls, and buildings.
+
+===Inscription===
+====Transliteration of the runes into Latin characters====
+:A osfriþr ÷ karþi kubl ÷ þausi ÷ tutiʀ ÷ uþinkaurs ÷ oft ÷ siktriuk ÷ kunuk ÷
+:B ÷ sun ÷ sin ÷ ÷ auk ÷ knubu ÷
+:C kurmʀ (÷) raist (÷) run(a)(ʀ) (÷)
+
+====Transcription into Old Norse====
+:A Asfriþr gærþi kumbl þøsi, dottiR Oþinkors, æft Sigtryg kunung,
+:B sun sin ok Gnupu.
+:C Gormʀ rest runaʀ.
+
+====Translation in English====
+:A Ásfriðr made the memorial, the daughter of Odinkar, after King Sigtrygg,
+:B her son together with Gnupa.
+:C Gorm made the runes.
+
+==See also==
+*List of runestones
+*Sædinge Runestone
+*Stone of Eric
+

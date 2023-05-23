@@ -1,0 +1,61 @@
+Title: Étude Op. 10, No. 5 (Chopin)thumb|300px|Excerpt from the Étude Op. 10, No. 5 (opening)
+
+
+Étude Op. 10, No. 5 in G major is a study for solo piano composed by Frédéric Chopin in 1830. It was first published in 1833 in France, Germany, and England as the fifth piece of his Études Op. 10. This work is characterized by the rapid triplet figuration played by the right hand exclusively on black keys, except for one note, a F natural in measure 66. This melodic figuration is accompanied by the left hand in staccato chords and octaves.
+
+== Significance ==
+The so-called "Black Key Étude" is one of the composer's most popular. It has been a repertoire piece of pianists since Chopin's time and has inspired numerous exercises, arrangements and paraphrases. Chopin himself did not believe the study to be his most interesting one, and in a letter to his pianist friend and musical executor Julian Fontana he comments on Clara Wieck’s performance:
+
+
+
+Hans von Bülow (1830–1894) spoke rather disdainfully of Op. 10, No. 5 as a "Damen-Salon Etüde" ("ladies' salon étude").
+
+== Structure and stylistic traits ==
+The piece is marked Vivace and written in 2/4 meter. Like all of Chopin's other études, this work is in ternary form ABA. The two eight-bar periods of the A section are characterized by frequent dynamic contrasts. Each reentry of the first bar, occurring every four bars, is marked by a forte, followed in the second bar by a piano restatement in a lower register. This capricious opening in the tonic is replied by an upward movement and a syncopated accompaniment in the third and fourth bar. This pattern is repeated four times. The harmonic scheme of the A section is relatively simple, featuring tonic (first two bars) versus dominant (third and fourth bars), but the consequent of the first period shifts to B major (poco rallentando, ), while the consequent of the second one modulates to the dominant key D major.
+
+D major is also the key of the middle section which is exactly twice as long as the A section. Its 32 bars though do not subdivide into four eight-bar periods but into sections of  bars with six motivically distinct modifications of the original semiquaver triplet figure, thus offering an attractive break from the symmetry. An effective dynamic increase begins in bar 23 but does not end in a climax as the crescendo does not lead to fortissimo but eases off in diminuendos (bars 36 and 40). Harmonically the section (bars 23–41) may be interpreted as an extended and ornamented D-flat major cadence. Musicologist Hugo Leichtentritt (1874–1951) compares the left hand of bars 33–48 to horn signals. These "announce" the recapitulation of the A part which begins as a literal restatement in bar 49, seems to approach a climax and eases off with a sudden delicatissimo pianissimo smorzando passage, leading via a cadence to the coda. The coda consists of two periods, the last one stretched by three bars. The first one is a restatement of the middle section's opening transposed to the tonic G major. The consequent of the second period contains a brilliantly swooshing, widely positioned arpeggio for both hands (bars 79(83) and is pianistically attractive. Its effect is based on the accent enforced by a third at the beginning of each triplet, as well as on the tenth and eleventh stretches of the left hand and the ascending bass line covering the entire range of the keyboard. The piece ends with a rapid octave passage,  and staccato, played by both hands on black keys, in a G major pentatonic scale. Some prominent performers, including Horowitz and Rosenthal, choose to perform the final octave passage glissando.
+
+== Black keys ==
+
+Étude Op. 10, No. 5 is known as the "Black Key Étude" as its right-hand part is entirely on black keys, except for one note. Leichtentritt states that the melodic character resulting from the use of black keys is "based on the pentatonic scale to which the piece owes its strangely playful, attractively primitive tint." He presents a melodic reduction of the right hand part which, played in octaves by piccolo and flute, resembles a frolicsome Scottish jig.
+
+thumb|100px|Bar 66: F () represents the only white key on the right-hand staff (in revised editions).
+The cadence to the coda (bar 66) contains the only white key, F, to be played by the right hand. But in the original editions the two thirds (G–E and D–F) are placed on the left hand staff, though editors like Jan Ekier recommend them to be (partially) played by the right hand.
+
+== Character ==
+Chopin gave the tempo/character indications vivace (lively, vivid) and (in small print) brillante. German pianist and composer Theodor Kullak (1818–1882) says that the piece is "full of Polish elegance." American music critic James Huneker (1857–1921) calls it "graceful, delicately witty, a trifle naughty, arch and roguish and […] delightfully invented." Leichtentritt states "the piece shall glisten and sparkle, giggle and whisper, entice and flatter, have charming, occasionally coquettish, accents, bubble over with lively agility, enchant with amiable elegance". Chopin scholar Robert Collet believes that it "needs to be played with real gaiety and wit, though not without tenderness."
+
+== Technical difficulties ==
+In Robert Schumann’s 1836 Neue Zeitschrift für Musik article on piano études, the study is classified under the category "speed and lightness" ("Schnelligkeit und Leichtigkeit"). Huneker states "it requires smooth, velvet-tipped fingers and a supple wrist." Chopin's original indication concerning articulation of the right hand is legato. A sempre legatissimo indication is given at bar 33. Nevertheless, Austrian pianist and composer Gottfried Galston (1879–1950) questions these indications and calls them "completely incomprehensible." He argues for a "leggierissimo with tossed fingers" ("mit geworfenen Fingern") and is backed up in this opinion by Leichtentritt. French pianist Alfred Cortot (1877–1962) modifies the legato indication and talks about a "brilliant and delicate legato—so-called ‘jeu perlé’ ["pearly" play]." He believes the main difficulty, among others, to concern "suppleness while shifting the hand in order to facilitate even action of the fingers in disjunct positions."
+
+Preliminary exercises are given by both Galston and Cortot. Hungarian pianist and composer Rafael Joseffy (1852–1915) introduces exercises in his instructive edition including numerous "octave-exercises on black keys."
+
+== Paraphrases and arrangements ==
+
+In the Studienbuch (1922) Galston published his complete arrangement in double notes which was first recorded by Artur Cimirro in 2017. Seven versions can be found in Leopold Godowsky’s 53 Studies on Chopin's Études. They include a version for both hands reversed, a transposition to C major for the white keys, a Tarantella in A minor, a Capriccio "on the white and black keys," an inversion for the left hand, an inversion for the right hand and a version for the left hand alone. Besides these, there is a combination of Op. 10, No. 5 and Op. 25, No. 9 ("Butterfly"), called Badinage (banter), which Canadian pianist Marc-André Hamelin calls a "brilliant jeu d’esprit" and a "fantastically clever feat of combinatorial wizardry." German pianist Friedrich Wührer's version for both hands reversed resembles Godowsky's first one.
+
+
+== Notes and references ==
+
+
+== External links ==
+* 
+* Étude Op. 10 No. 5 performed by Beau Pluto
+*Sheet music available in .pdf or LilyPond format, from Mutopia.
+*  played by Vladimir de Pachmann (1927: with commentary, mistakes and changes)
+*  played by Ignaz Friedman (1928)
+*  played by Alfred Cortot
+*  played by Raul Koczalski
+*  played by Arthur Rubinstein
+*  played by Claudio Arrau
+*  played by Vladimir Horowitz
+*  played by Byron Janis
+*  played by Vladimir Ashkenazy
+*  played by Maurizio Pollini
+
+
+
+
+10 05
+Category:1830 compositions
+Category:Compositions in G-flat major

@@ -1,0 +1,94 @@
+Title: Luma (video)
+In video, luma represents the brightness in an image (the "black-and-white" or achromatic portion of the image). Luma is typically paired with chrominance. Luma represents the achromatic image, while the chroma components represent the color information. Converting R′G′B′ sources (such as the output of a three-CCD camera) into luma and chroma allows for chroma subsampling: because human vision has finer spatial sensitivity to luminance ("black and white") differences than chromatic differences, video systems can store and transmit chromatic information at lower resolution, optimizing perceived detail at a particular bandwidth. 
+
+==Luma versus relative luminance==
+
+{|class="floatright" cellpadding="3" style="border: 1px solid black; max-width: 50%;"
+|-
+| style="background-color:#ff93ff;color:#000;"| 255, 147, 255 || style="background-color:#ffaaaa;color:#000;"| 255, 170, 170 || style="background-color:#d3d300;color:#000;"| 211, 211, 0 || 
+|-
+| style="background-color:#c0c0ff;color:#000;"| 192, 192, 255 || style="background-color:#c8c8c8;color:#000;"| 200, 200, 200|| style="background-color:#7af400;color:#000;"| 122, 244, 0 ||
+|-
+| style="background-color:#00ebeb;color:#000;"| 0, 235, 235 || style="background-color:#00fa7d;color:#000;"| 0, 250, 125 || style="background-color:#00ff00;color:#000;"| 0, 255, 0 ||
+|-
+| colspan="3" style="text-align: center;" | RGB values of example colors with the same relative luminance as the lightest primary color (green) using original NTSC (1953) primaries for ' (gamma correction) = 2.2
+|}
+
+{|class="floatright" cellpadding="3" style="border: 1px solid black; max-width: 50%;"
+|-
+| style="background-color:#ffcbff;color:#000;"| 255, 203, 255 || style="background-color:#ffd0d0;color:#000;"| 255, 208, 208 || style="background-color:#e3e300;color:#000;"| 227, 227,0 || 
+|-
+| style="background-color:#d8d8ff;color:#000;"| 216, 216, 255 || style="background-color:#dbdbdb;color:#000;"| 219, 219, 219|| style="background-color:#7cf800;color:#000;"| 124, 248, 0 ||
+|-
+| style="background-color:#00f4f4;color:#000;"| 0, 244, 244 || style="background-color:#00fc7e;color:#000;"| 0, 252, 126 || style="background-color:#00ff00;color:#000;"| 0, 255, 0 ||
+|-
+| colspan="3" style="text-align: center;" | RGB values of example colors with the same relative luminance as the lightest primary color (green) using  BT. 709 primaries for ' (gamma correction) = 2.2
+|}
+
+Luma is the weighted sum of gamma-compressed R′G′B′ components of a color video—the prime symbols ′ denote gamma compression. The word was proposed to prevent confusion between luma as implemented in video engineering and relative luminance as used in color science (i.e. as defined by CIE). Relative luminance is formed as a weighted sum of linear RGB components, not gamma-compressed ones. Even so, luma is sometimes erroneously called luminance.Charles Poynton, "YUV and luminance considered harmful: a plea for precise terminology in video," PDF SMPTE EG 28 recommends the symbol Y′ to denote luma and the symbol Y to denote relative luminance.Engineering Guideline EG 28, "Annotated Glossary of Essential Terms for Electronic Production," SMPTE, 1993.
+
+===Use of relative luminance===
+While luma is more often encountered, relative luminance is sometimes used in video engineering when referring to the brightness of a monitor. The formula used to calculate relative luminance uses coefficients based on the CIE color matching functions and the relevant standard chromaticities of red, green, and blue (e.g., the original NTSC primaries, SMPTE C, or Rec. 709). For the Rec. 709 (and sRGB) primaries, the linear combination, based on pure colorimetric considerations and the definition of relative luminance is:
+: Y = 0.2126 R + 0.7152 G + 0.0722 B
+
+The formula used to calculate luma in the Rec. 709 spec arbitrarily also uses these same coefficients, but with gamma-compressed components:
+: Y' = 0.2126 R' + 0.7152 G' + 0.0722 B',
+where the prime symbol ′ denotes gamma compression.
+
+==Rec. 601 luma versus Rec. 709 luma coefficients==
+
+{|class="floatright" cellpadding="3" style="border: 1px solid black; color: #ffffff; max-width: 50%;"
+|-
+| style="background-color:#9e004f"| 158, 0, 79 || style="background-color:#a50000"| 165, 0, 0 || style="background-color:#8c4600"| 140, 70, 0 || 
+|-
+| style="background-color:#8e008e"| 142, 0, 142 || style="background-color:#5f5f5f" rowspan="3" | 95, 95, 95 || style="background-color:#646400"| 100, 100, 0 ||
+|-
+| style="background-color:#6800d0"| 104, 0, 208 || style="background-color:#3a7400"| 58, 116, 0 ||
+|-
+| style="background-color:#0000ff"| 0, 0, 255 || style="background-color:#007700"| 0, 119, 0 ||
+|-
+| style="background-color:#005bb6"| 0,91,182 || style="background-color:#007070"| 0, 112, 112 || style="background-color:#00763b"| 0, 118, 59 ||
+|-
+| colspan="3" style="text-align: center;" |  RGB values of example colors with the same relative luminance as the darkest primary color (blue) using original NTSC (1953) primaries for gamma correction equal to 2.2. 
+|}
+
+{|class="floatright" cellpadding="3" style="border: 1px solid black; color: #ffffff;  max-width: 50%;"
+|-
+| style="background-color:#98004c"| 152, 0, 76 || style="background-color:#9c0000"| 156, 0, 0 || style="background-color:#7a3d00"| 122, 61, 0 ||
+|-
+| style="background-color:#890089"| 137, 0, 137 || style="background-color:#4d4d4d" rowspan="3"| 77, 77, 77 || style="background-color:#505000"| 80, 80, 0 ||
+|-
+| style="background-color:#6600cc"| 102, 0, 204 || style="background-color:#2c5800"| 44, 88, 0 ||
+|-
+| style="background-color:#0000ff"| 0, 0, 255 || style="background-color:#005a00"| 0, 90, 0 ||
+|-
+| style="background-color:#004c98"| 0, 76, 152 || style="background-color:#005656"| 0, 86, 86 || style="background-color:#005a2d"| 0, 90, 45 ||
+|-
+| colspan="3" style="text-align: center;" |  RGB values of example colors with the same relative luminance as the darkest primary color (blue) using BT. 709 primaries for gamma correction equal to 2.2. 
+|}
+
+For digital formats following CCIR 601 (i.e. most digital standard definition formats), luma is calculated with this formula:
+
+: Y'_\text{601} = 0.299 R' + 0.587 G' + 0.114 B'
+
+Formats following ITU-R Recommendation BT. 709 use a different formula:
+
+: Y'_\text{709} = 0.2126 R' + 0.7152 G' + 0.0722 B'
+
+Modern HDTV systems use the 709 coefficients, while transitional 1035i HDTV (MUSE) formats may use the SMPTE 240M coefficients:
+
+: Y'_\text{240} = 0.212 R' + 0.701 G' + 0.087 B' = Y'_\text{145}
+
+These coefficients correspond to the SMPTE RP 145 primaries (also known as "SMPTE C") in use at the time the standard was created.Charles A. Poynton, Digital Video and HDTV: Algorithms and Interfaces, Morgan–Kaufmann, 2003. online
+
+The change in the luma coefficients is to provide the "theoretically correct" coefficients that reflect the corresponding standard chromaticities ('colors') of the primaries red, green, and blue. However, there is some controversy regarding this decision.Luminance, luma, and the migration to DTV The difference in luma coefficients requires that component signals must be converted between Rec. 601 and Rec. 709 to provide accurate colors. In consumer equipment, the matrix required to perform this conversion may be omitted (to reduce cost), resulting in inaccurate color. 
+
+As well, the Rec. 709 luma coefficients may not necessarily provide better performance. Because of the difference between luma and relative luminance, luma does not exactly represent the luminance in an image. As a result, errors in chroma can affect luminance. Luma alone does not perfectly represent luminance; accurate luminance requires both accurate luma and chroma. Hence, errors in chroma "bleed" into the luminance of an image.
+
+Due to the widespread usage of chroma subsampling, errors in chroma typically occur when it is lowered in resolution/bandwidth. This lowered bandwidth, coupled with high frequency chroma components, can cause visible errors in luminance. An example of a high frequency chroma component would be the line between the green and magenta bars of the SMPTE color bars test pattern. Error in luminance can be seen as a dark band that occurs in this area.Constant Luminance
+
+==See also==
+* Chroma subsampling
+* Chrominance
+* Gamma correction
+

@@ -1,0 +1,69 @@
+Title: National parks of Austria
+Austria has six national parks, all of them internationally accepted according to the IUCN standard. The first national park, Hohe Tauern, was established in 1981. They include each of Austria's most important natural landscape types — alluvial forest, Alpine massif, Pannonian steppe and rocky valleys.
+
+==Development==
+thumb|Outline map
+First plans for the protection of the Hohe Tauern mountain range were evolved by Austrian Alpine Club, which in 1915-18 acquired large mountainous areas. However, the national park project was abandoned in the late 1930s and not resumed until 1971, when the federal states of Salzburg, Tyrol and Carinthia signed the Heiligenblut Agreement, followed by similar initiatives in Lower and Upper Austria.
+
+The establishment of each national park took several years; as conflicts of use and the question of funding had to be resolved. The parks are managed by contracts between one or more of the federal states and the Federal Government, with the financing shared equally between the Austrian government and the respective province. The national park administrations offer more than 300 green jobs. The park centres provide the public with educational services on ecology and environmental protection, information and leisure activities. With about 400,000 visitors a year, they play an important role in Austrian tourism.
+
+==National Parks==
+Of the seven national parks, four are protecting Austrian Alpine regions and three are covering waters. The largest park by far is Hohe Tauern; at , it is also the largest national park in Central Europe. The Neusiedler See–Seewinkel and Thayatal national parks stretch across the border with Hungary and the Czech Republic respectively.
+
+{| class="wikitable sortable plainrowheaders" style="width:98%"
+!scope="col" | Name
+!scope="col" class="unsortable"| Photo
+!scope="col" | Location
+!scope="col" | Date established
+!scope="col" | Area
+!scope="col" class="unsortable" | Description
+|-
+!scope="row" | Hohe Tauern
+|150px
+|Salzburg, Tyrol, Carinthia
+| (Carinthia) (Salzburg) (Tyrol)
+|
+|Covering large parts of the East Alpine crest between the sources of the Möll, Mur and Salzach rivers, stretching about  from east to west and about  from north to south. The park features extended glacier fields, glacial valleys and large alluvial fans, as well as Alpine pastures and extensive larch, spruce and pine forests.
+|-
+!scope="row" | Neusiedler See–Seewinkel
+|150px
+|Burgenland
+|
+|
+|Covering Lake Neusiedl, its shoreline and lakeside locations. Together with the adjacent Hungarian Fertő-Hanság National Park it forms the Fertö / Neusiedlersee Cultural Landscape, a UNESCO World Heritage Site since 2001.
+|-
+!scope="row" | Danube-Auen
+|150px
+|Lower Austria, Vienna
+|
+|
+|Stretching along the Danube from the City of Vienna (Lobau) to the mouth of the March (Morava) river near the border with Slovakia and the Dunajské luhy Protected Landscape Area; both are wetlands of international importance according to the Ramsar Convention. With a length of , the national park covers one of the largest untouched floodplains in Central Europe, accessible by the EuroVelo 6 long-distance cycling route.
+|-
+!scope="row" | Kalkalpen
+|150px
+|Upper Austria
+|
+|
+|Covering the Sengsengebirge and Reichraminger Hintergebirge ranges of the Upper Austrian Prealps.
+|-
+!scope="row" | Thayatal
+|150px
+|Lower Austria
+|
+|
+|Centered around a meander cutoff of the Thaya river, on the border with the Czech Republic and the adjacent Podyjí National Park. The steep gneiss slopes along the river form one of Austria's most picturesque water gaps.
+|-
+!scope="row" | Gesäuse
+|150px
+|Styria
+|
+|
+|Covering the Gesäuse range of the northeastern Ennstal Alps in Upper Styria with the water gap of the Enns river.
+|}
+
+All of Austria's national parks meet IUCN Category II standards. The Nock Mountains (formerly also one of Austria's National Parks) had been classified as a Protected Landscape (Category V), and in 2012 it was converted into the core zone of a UNESCO Biosphere Reserve.
+
+==See also==
+*List of national parks
+*Geography of Austria
+

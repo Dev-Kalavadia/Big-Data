@@ -1,0 +1,261 @@
+Title: Beyer Speed Figure
+The Beyer Speed Figure is a system for rating the performance of Thoroughbred racehorses in North America designed in the early 1970s by Andrew Beyer, the syndicated horse racing columnist for The Washington Post. First published in book form in 1975, the Daily Racing Form began incorporating Beyer Speed Figures in a horse's past performances in 1992 and the system now assigns a Beyer number for each horse race. On the Beyer scale, the top stakes horses in the United States and Canada typically earn numbers in the 100s, while extremely strong performances can rate in the 120s. In Europe, Timeform has a similar rating scale that yields a number, but with a different value. The popular rule of thumb for a rough equivalent of the Timeform score is to deduct 12-14 points to achieve the Beyer figure. For American Quarter Horse racing, the Speed index rating system is used.
+
+The Beyer Speed Figure is calculated by looking at the final time and distance of the race, adjusted by the track variant, which is a measure of the inherent speed of the racetrack in question. The track variant considers both the historical average time at the racetrack for the distance in question, called the "par time", and the average speed for the day in particular. The latter calculation compensates for a racetrack running faster or slower than usual. The Beyer Speed Figure specifically does not consider other variables such as the early pace or traffic problems a horse may have faced during a given race. The figure may however be adjusted if the raw numbers are unusual based on the field's previous performances. The figures are generally less reliable in turf races, which often have a slow early pace resulting in slow final times that do not reflect the horse's true speed.
+
+==Records==
+The record for the highest Beyer Speed figure is held by Groovy, the 1987 American Champion Sprint Horse who earned 133 and 132 in back-to-back races, in the Roseben and True North Handicaps at six furlongs in 1987. (Note that this speed figure was assigned before the numbers were published in the Daily Racing Form, so may not be included in some listings of the top speed figures.) Beyer, Andrew Beyer on Speed: New Strategies for Racetrack Betting, p.57 (1995) Houghton Mifflin   In 2004, Ghostzapper earned the highest Beyer Speed Figure for the year at 128 while winning the Philip H. Iselin Stakes.  Formal Gold ran successive numbers of 126, 124 and 125 in 1997 in the Whitney Handicap (actually losing by a nose to Will's Way), Iselin Handicap and Woodward Stakes.  These were three of the eight highest figures earned in the 1990s.   Flightline earned a 126 speed figure in winning the 2022 Pacific Classic Stakes at Del Mar Racetrack in 2022.   Easy Goer and Sunday Silence both earned 124 speed figures in the 1989 Breeders' Cup Classic, which tied for the fastest speed figure earned in any Breeders' Cup race.   Easy Goer also routinely ran in the 120 Beyer Speed Figure range on a regular basis in his races, while arch-rival Sunday Silence did so rarely and only when it was required for him to prevail.   It is noteworthy that Easy Goer's overall speed figures were substantially superior to principal rival Sunday Silence, despite Sunday Silence's slight three to one edge in their head-to-head races.    Easy Goer ran a 122 in  winning the 1989 Belmont Stakes, the best Beyer Speed Figure in any Triple Crown race since these ratings were first published in 1987.  Easy Goer also ran 121, 120 and 119 speed figures in the 1989 Travers Stakes, Jockey Club Gold Cup and Whitney Handicap.  In 2007 the highest Beyer Speed Figure was 124 assigned to Midnight Lute in the 7 furlong Forego Handicap at Saratoga Race Course.   Commentator, who once ran a 123 in his career, scored a 120 as a 7-year-old, possibly a record for a horse that old.   Alysheba ran a 122 speed figure in his career. Holy Bull earned a 121 in his career.   Easy Goer is also the record-holder for a two-year-old, earning a 116 Beyer Speed Figure in the 1988 Champagne Stakes.
+
+==Top Beyer Speed Figures earned==
+
+{|cellspacing="0" cellpadding="3" border="1"
+|-
+|Horse
+|Year earned
+|Speed Figure
+|Ref
+|-
+|Groovy
+|1987
+|133
+|
+|-
+|Groovy
+|1987
+|132
+|
+|-
+|Ghostzapper
+|2004
+|128
+|
+|-
+|Flightline
+|2022
+|126
+|
+|-
+|Will's Way
+|1997
+|126
+|
+|-
+|Formal Gold
+|1997
+|126
+|
+|-
+|Gentlemen
+|1997
+|126
+|
+|-
+|Formal Gold
+|1997
+|125
+|
+|-
+|Skip Away
+|1997
+|125
+|
+|-
+|Bertrando
+|1993
+|125
+|
+|-
+|Sunday Silence
+|1989
+|124
+|
+|-
+|Easy Goer
+|1989
+|124
+|
+|-
+|Formal Gold
+|1997
+|124
+|
+|-
+|Artax
+|1999
+|124
+|
+|-
+|Ghostzapper
+|2004
+|124
+|
+|-
+|Midnight Lute
+|2007
+|124
+|
+|-
+|Easy Goer
+|1989
+|123
+|
+|-
+|Saint Liam
+|2005
+|123
+|
+|-
+|Midway Road
+|2004
+|123
+|
+|-
+|Candy Ride
+|2003
+|123
+|
+|-
+|Aptitude
+|2001
+|123
+|
+|-
+|Silver Charm
+|1998
+|123
+|
+|-
+|Wild Rush
+|2001
+|123
+|
+|-
+|Tejano Run
+|1997
+|123
+|
+|-
+|Frosted
+|2016
+|123
+|
+|-
+|Commentator
+|2005
+|123
+|
+|-
+|Artax
+|1999
+|123
+|
+|-
+|Artax
+|1999
+|123
+|
+|-
+|Kona Gold
+|1999
+|123
+|
+|-
+|Prospect Bay
+|1999
+|123
+|
+|-
+|Swept Overboard
+|1999
+|123
+|
+|-
+|Elusive Quality
+|1999
+|122
+|
+|-
+|Easy Goer
+|1989
+|122
+|
+|-
+|Alysheba
+|1988
+|122
+|
+|-
+|Arrogate
+|2016
+|122
+|
+|-
+|Easy Goer
+|1989
+|121
+|
+|-
+|Holy Bull
+|1994
+|121
+|
+|-
+|Cigar
+|1995
+|121
+|
+|-
+|Quality Road
+|2011
+|121
+|
+|-
+|Commentator
+|2005
+|121
+|
+|-
+|Easy Goer
+|1989
+|120
+|
+|-
+|Arrogate
+|2016
+|120
+|
+|-
+|American Pharoah
+|2015
+|120
+|
+|-
+|Bellamy Road
+|2005
+|120
+|
+|-
+|Commentator
+|2008
+|120
+|
+|-
+|Gun Runner (horse)
+|2017
+|120
+|
+|}
+
+Beyer speculated that had his figures existed in 1973, Secretariat would have scored 139 in his classic 1973 win at the Belmont Stakes. This implies that Secretariat would have had the highest ever Beyer speed figure. However, Beyer also acknowledged that by some calculations, Count Fleet's Beyer speed figures might have reached 150.
+
+As Beyer has noted, a speed figure is a numerical expression of a horse's final time, universalized for distance, track surface, and the daily variant on that surface.  While Beyer has also noted that "speed figures tell you how fast a horse ran in the past; they do not necessarily predict how it will run today," their use as a handicapping tool is premised on their ability to shed light on how a horse is likely to run in its next start. In Betting Thoroughbreds, Steve Davidowitz claimed that (in 1974), "the top-figure horse wins 35 percent of the time, at a slight loss for every $2.00 wagered."  This is an example of using the top figure as a "power rating," or singular measure of a horse's ability. In horse racing, power ratings are generally called class ratings. Because multiple horses are in each race, as opposed to two teams (binary) in a sport (or chess, which uses the Elo rating system to make power ratings), the task of adjusting power ratings is much more complex. Several other companies produce and sell power ratings, but most do not reveal their precise methodology.
+
+==History==
+
+
+The first published work on creating speed-figures was E.W. Donaldson's Consistent Handicapping Profits (1936), which was cited by Jerry Brown as the method on which the Ragozin and Brown "sheet" figures are based.  The Beyer numbers trace their roots back to the work of Ray Taulbot's parallel-time chart (1959), with Beyer pointing out the flaw of adding a fixed amount of time to slow or fast times at other distances, driving the numbers out of proportion.  In 1963, Taulbot sent his parallel-time chart to Beyer's Harvard classmate, Sheldon Kovitz, who adjusted it to account for velocity (e.g., a horse who runs six furlongs in 1:09 will run its seventh furlong faster than one who runs 1:13, and so forth).  From this work, using the same principle, Kovitz derived the beaten-lengths chart which Beyer published in Picking Winners. 
+ 	
+Beyer's subsequent research added the last piece of the puzzle.  In Picking Winners, Beyer claimed a breakthrough when a study of claiming races at Calder Race Course showed Beyer that 1:13 for six furlongs was equally fast to 1:26.1 at seven; from there, Kovitz's math was used to generate perfectly accurate parallel-time and beaten-lengths charts, which Beyer then used to make par times for classes, against which each race is measured to determine if the track is faster or slower than normal.  Each day's races are compared to their pars, with the variant representing the average deviation, and then added to the raw speed rating to yield the par-time based figure.  Once horses have built a figure history, Beyer projects a figure based on the figures earned by the horses in the race, in place of the par, making the numbers much more accurate.  For example, a horse who earns three consecutive figures of 102, and defeats a horse with three consecutive figures of 92, would indicate a projected figure of 102 for that race is accurate.  Sometimes, variants are split during the day if the surface changes drastically enough.
+ 	
+In 1992, Beyer began making turf figures, which were made more accurate by his adjustment of the beaten-lengths chart, in which he uses the six-and-a-half furlong beaten-lengths chart for all races at that distance or longer, to reflect the nature of turf racing, where horses jockey for position most of the way, and then sprint home with almost all of their energy in reserve, making the competitive part of the race more akin to a sprint than to the race's actual distance.
+

@@ -1,0 +1,454 @@
+Title: Comparison of browser synchronizers
+
+The following tables compare general and technical information for a number of web-based browser synchronizers.  Please see the individual products' articles for further information. Unless otherwise specified in footnotes, comparisons are based on the stable versions.
+
+==General==
+{| class="wikitable sortable" style="width: auto; text-align: center; table-layout: fixed;"
+! Client
+! Creator
+! Software license
+! Latest release
+
+|-
+! BookmarkSync
+| Jack Dean
+| Proprietary
+| 
+BookmarkSync was discontinued some time around 2006.
+
+|-
+! Opera
+| Opera Software
+| Proprietary
+| Opera: Opera Mini: 
+
+|-
+! SiteBar
+| Ondrej Brablc
+| GPL
+| 3.4 
+
+|-
+! Firefox Sync
+| Mozilla Foundation
+| Mozilla Public License
+| 
+
+|-
+! Google Chrome
+| Google
+| Freeware under Google Chrome Terms of Service
+| 
+
+|-
+! Pale Moon Sync
+| M.C. Straver
+| Mozilla Public License
+| N/A (part of Pale Moon)
+
+|-
+! colspan="4" |
+
+|-
+! Eversync
+| Nimbus Web Inc
+| Proprietary
+| 
+
+|-
+! floccus
+| Open Source, Marcel Klehr
+| Freeware Mozilla Public License 2.0
+| https://github.com/marcelklehr/floccus/releases
+
+|-class="sortbottom"
+! Client
+! Creator
+! Software license
+! Latest release
+|}
+
+==Operating system support==
+{| class="wikitable sortable" style="width: auto; text-align: center; table-layout: fixed;"
+!!! colspan="4" | PC operating system !! colspan="5" | Mobile operating system !!
+|-
+! Client
+! Windows
+! OS X
+! Linux
+! FreeBSD
+! iOS
+! Android
+! BlackBerry OS
+! Symbian
+! Windows Phone
+! other
+|-
+! BookmarkSync
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|-
+! Opera Link
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|-
+! Firefox Sync
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|-
+! colspan="11" | 
+|-
+! Eversync
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|-
+! floccus
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|-class="sortbottom"
+! Client
+! Windows
+! OS X
+! Linux
+! FreeBSD
+! iOS
+! Android
+! BlackBerry OS
+! Symbian
+! Windows Phone
+! other
+|}
+
+==Syncable browsers==
+{| class="wikitable sortable" style="width: auto; text-align: center; table-layout: fixed;"
+! Client
+! Internet Explorer
+! Microsoft Edge
+! Mozilla Firefox
+! Opera
+! Safari
+! Google Chrome
+! other
+|-
+! BookmarkSync
+| 
+| 
+| 
+| 
+|  (Mac Only)
+| 
+| 
+|-
+! Opera Link
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|-
+! Firefox Sync
+| 
+| 
+| 
+| 
+| 
+| 
+| , SeaMonkey,
+Gnome Web
+|-
+! colspan="8" | 
+|-
+! Eversync
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|-
+! floccus
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|-class="sortbottom"
+! Client
+! Internet Explorer
+! Microsoft Edge
+! Mozilla Firefox
+! Opera
+! Safari
+! Google Chrome
+! other
+|}
+
+==Syncable items==
+
+{| class="wikitable sortable" style="width: auto; text-align: center; table-layout: fixed;"
+! Client
+! Bookmarks
+! Passwords
+! Favicons
+! Browsing history
+! Form history
+!add-ons
+!open tabs
+! Search engine plugins
+! Web feed subscriptions
+! Dictionary
+! Other
+|-
+! BookmarkSync
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|-
+!Brave Sync 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|Extensions, Apps, Themes, Settings
+|-
+! Opera Link
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|-
+! Firefox Sync
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|-
+! Google Chrome
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|-
+!Vivaldi Sync 
+| 
+| 
+|
+| 
+| 
+| 
+|
+|
+|
+|open tabs?, some Settings
+|-
+! colspan="12" |
+|-
+! Eversync
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|-
+! floccus
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|- class="sortbottom"
+! Client
+! Bookmarks
+! Passwords
+! Favicons
+! Browsing history
+! Form history
+!add-ons
+!
+! Search engine plugins
+! Web feed subscriptions
+! Dictionary
+! Other
+|}
+
+==Features==
+{| class="wikitable sortable" style="width: auto; text-align: center; table-layout: fixed;"
+! Client
+! Encrypted transfer
+! Encrypted storage
+! Server changing
+! Web-based UI
+! Exporting
+! Link verification
+! Duplicate link checker
+! Notes
+|-
+! BookmarkSync
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|  Feb 12, 2012: Sync doesn't work properly.
+|-
+! Opera Link
+| 
+| 
+| 
+| 
+| 
+| 
+|  (only webbased)
+|
+|-
+! Firefox Sync
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| Data is encrypted on the client and not accessible even to Mozilla server operators.
+|-
+! colspan="9" | 
+|-
+! Eversync
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|-
+! floccus
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| Adapters are available
+|-class="sortbottom"
+! Client
+! Encrypted transfer
+! Encrypted storage
+! Server changing
+! Web-based UI
+! Exporting
+! Link verification
+! Duplicate link checker
+! Notes
+|}
+
+== History ==
+History of bookmarks (favorites) sync:
+* 2020 - Maxthon 1.3
+* 2020 - Google Browser Sync (extension for Firefox)
+* 2020 - Opera
+* 2020 - Firefox
+* 2020 - Google Chrome
+* 2020 - Eversync (extension for Firefox)
+
+== See also ==
+*Comparison of online backup services
+*Comparison of file hosting services
+*Comparison of version-control software
+*Comparison of file synchronization software
+

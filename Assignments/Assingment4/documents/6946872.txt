@@ -1,0 +1,239 @@
+Title: List of municipalities of the Province of Macerata
+
+The following is a list of the 55 municipalities (comuni) of the Province of Macerata, Marche, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|043002
+|Apiro
+| align="right" |2,430
+|-
+|043003
+|Appignano
+| align="right" |4,043
+|-
+|043004
+|Belforte del Chienti
+| align="right" |1,660
+|-
+|043005
+|Bolognola
+| align="right" |152
+|-
+|043006
+|Caldarola
+| align="right" |1,789
+|-
+|043007
+|Camerino
+| align="right" |7,065
+|-
+|043008
+|Camporotondo di Fiastrone
+| align="right" |606
+|-
+|043009
+|Castelraimondo
+| align="right" |4,733
+|-
+|043010
+|Castelsantangelo sul Nera
+| align="right" |357
+|-
+|043011
+|Cessapalombo
+| align="right" |568
+|-
+|043012
+|Cingoli
+| align="right" |10,554
+|-
+|043013
+|Civitanova Marche
+| align="right" |39,545
+|-
+|043014
+|Colmurano
+| align="right" |1,255
+|-
+|043015
+|Corridonia
+| align="right" |14,317
+|-
+|043016
+|Esanatoglia
+| align="right" |2,162
+|-
+|043017
+|Fiastra
+| align="right" |602
+|-
+|043019
+|Fiuminata
+| align="right" |1,660
+|-
+|043020
+|Gagliole
+| align="right" |632
+|-
+|043021
+|Gualdo
+| align="right" |924
+|-
+|043022
+|Loro Piceno
+| align="right" |2,501
+|-
+|043023
+|Macerata
+| align="right" |42,361
+|-
+|043024
+|Matelica
+| align="right" |10,300
+|-
+|043025
+|Mogliano
+| align="right" |4,919
+|-
+|043026
+|Montecassiano
+| align="right" |6,830
+|-
+|043027
+|Monte Cavallo
+| align="right" |160
+|-
+|043028
+|Montecosaro
+| align="right" |5,435
+|-
+|043029
+|Montefano
+| align="right" |3,365
+|-
+|043030
+|Montelupone
+| align="right" |3,335
+|-
+|043031
+|Monte San Giusto
+| align="right" |7,579
+|-
+|043032
+|Monte San Martino
+| align="right" |821
+|-
+|043033
+|Morrovalle
+| align="right" |9,534
+|-
+|043034
+|Muccia
+| align="right" |925
+|-
+|043035
+|Penna San Giovanni
+| align="right" |1,239
+|-
+|043036
+|Petriolo
+| align="right" |2,063
+|-
+|043038
+|Pieve Torina
+| align="right" |1,395
+|-
+|043039
+|Pioraco
+| align="right" |1,252
+|-
+|043040
+|Poggio San Vicino
+| align="right" |299
+|-
+|043041
+|Pollenza
+| align="right" |6,086
+|-
+|043042
+|Porto Recanati
+| align="right" |11,230
+|-
+|043043
+|Potenza Picena
+| align="right" |15,217
+|-
+|043044
+|Recanati
+| align="right" |20,817
+|-
+|043045
+|Ripe San Ginesio
+| align="right" |817
+|-
+|043046
+|San Ginesio
+| align="right" |3,872
+|-
+|043047
+|San Severino Marche
+| align="right" |13,241
+|-
+|043048
+|Sant'Angelo in Pontano
+| align="right" |1,516
+|-
+|043049
+|Sarnano
+| align="right" |3,389
+|-
+|043050
+|Sefro
+| align="right" |453
+|-
+|043051
+|Serrapetrona
+| align="right" |964
+|-
+|043052
+|Serravalle di Chienti
+| align="right" |1,162
+|-
+|043053
+|Tolentino
+| align="right" |19,772
+|-
+|043054
+|Treia
+| align="right" |9,606
+|-
+|043055
+|Urbisaglia
+| align="right" |2,820
+|-
+|043058
+|Valfornace
+| align="right" |1,026
+|-
+|043056
+|Ussita
+| align="right" |434
+|-
+|043057
+|Visso
+| align="right" |1,215
+|-
+|
+|Total
+| align="right" |313,225
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

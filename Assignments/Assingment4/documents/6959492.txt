@@ -1,0 +1,29 @@
+Title: Prothrombin complex concentrate
+
+
+
+
+Prothrombin complex concentrate (PCC), also known as factor IX complex, is a medication made up of blood clotting factors II, IX, and X. Some versions also contain factor VII. It is used to treat and prevent bleeding in hemophilia B if pure factor IX is not available. It may also be used for reversal of warfarin therapy. It is given by slow injection into a vein.
+
+
+Common side effects include allergic reactions, headache, vomiting, and sleepiness. Other serious side effects include blood clots which may result in a heart attack, stroke, pulmonary embolism, or deep vein thrombosis. Antibodies may form after long term use such that future doses are less effective.
+
+
+Prothrombin complex concentrate came into medical use in the 1960s. It is on the World Health Organization's List of Essential Medicines. It is made from human plasma. Recombinant factor IX is also available in a stand-alone preparation. In the United States a dose of PCC costs about US$900. A number of different formulations are available globally.
+
+==Medical uses==
+Prothrombin complex concentrate reverses the effects of warfarin and other vitamin K antagonist anti-coagulants and is used in cases of significant bleeding in people with a coagulopathy. It is also used when such a person must undergo an emergency operation. Other uses include a deficiency of one of the included clotting factors, either congenital or due to liver disease, and hemophilia. Several guidelines, including those from the American College of Chest Physicians, recommend prothrombin complex concentrate for warfarin reversal in people with serious bleeding.Haemostasis and Thrombosis Task Force for the British Committee for Standards in Haematology. Guidelines on oral anticoagulation: 3rd edition. Br J Haematol. 1998;101:374-387.
+
+For rapid anticoagulation reversal for surgery, four-factor prothrombin complex concentrate reduces international normalized ratio (INR) and decreases bleeding during surgery when compared with administration of fresh frozen plasma. No differences in thromboembolic event was found.
+
+==Contraindications==
+
+
+The package insert states that prothrombin complex concentrate is contraindicated in patients with disseminated intravascular coagulation, a pathological activation of coagulation, because giving clotting factors would only further fuel this process. However, if the PCC is given because factor levels are low, it can restore normal coagulation.  As PCC products contain heparin, they are contraindicated in patients with heparin-induced thrombocytopenia.
+
+==Chemistry==
+Prothrombin complex concentrate contains a number of blood clotting factors. Typically this includes factor II, IX, and X. Some versions also contain factor VII, protein C, and protein S. Heparin may be added to stop early activation of the factors.
+
+==History==
+The U.S. Food and Drug Administration (FDA) announced its approval in 2013. The FDA approved Kcentra's orphan drug status in December 2012.
+

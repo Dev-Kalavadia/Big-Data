@@ -1,0 +1,110 @@
+Title: Melano
+
+Melano is a former municipality in the district of Lugano in the canton of Ticino in Switzerland. On 10 April 2022, the former municipalities of Maroggia, Melano and Rovio merged to form the new municipality of Val Mara.
+
+==History==
+A Roman era necropolis was discovered in the municipality.  The modern village of Melano is first mentioned in 799 as Mellani.  In 1192 it was mentioned as Melano.  In 847, the Benedictine Abbey of Sant'Ambrogio of Milan owned land in Melano.  In the Middle Ages the city of Como, controlled the port of Melano.  During their wars against Milan in the early 12th Century, the port was of strategic importance.  In the Late Middle Ages there was a wall between Melano and Capolago (first mentioned in 1449) that led down to the lake from Monte Generoso.  In 1798, Melano belonged to the short-lived Republic of Riva San Vitale.
+
+Melano was part of the parish of Riva San Vitale until 1591 when it became an independent parish.  The Parish Church of St. Andrew was built in the 15th Century, totally rebuilt in 1846-50 and restored in 1992–94.  In 1634-37 the Sanctuary of the Madonna del Castelletto was built on a previous, 14th Century building.  It was restored in 1985-87 and is one of the most popular pilgrimage sites in the Ticino.
+
+Agriculture, livestock, forestry and seasonal migrations have long been the main sources of income.  In 1840 Giovanni Battista Fogliardi opened one of the first silk mills in Ticino in Melano.  At the beginning of the 21st Century much of the economy is based around tourism.
+
+==Geography==
+thumb|Melano from Monte San Salvatore
+thumb|Aerial view (1946)
+Melano has an area, (as of the 2004/09 survey) of .  Of this area, about 4.0% is used for agricultural purposes, while 73.9% is forested. Of the rest of the land, 16.3% is settled (buildings or roads) and 5.7% is unproductive land.  In the 2004/09 survey a total of  or about 6.8% of the total area was covered with buildings, an increase of  over the 1983 amount.  Over the same time period, the amount of recreational space in the municipality increased by  and is now about 1.75% of the total area.  Of the agricultural land,  is used for orchards and vineyards,  is fields and grasslands and  consists of alpine grazing areas.  Since 1983 the amount of agricultural land has decreased by . Rivers and lakes cover  in the municipality.Regionalporträts 2018: Swiss Federal Statistical Office  accessed 17 September 2018
+
+The municipality is located in the Lugano district, on the eastern shore of Lake Lugano at the foot of Monte Generoso.
+
+==Coat of arms==
+The blazon of the municipal coat of arms is Gules a hazel dormouse or the chief embatteled argent and in base also argent three bendlets wavy azure.Flags of the World.com accessed 13-January-2011
+
+==Demographics==
+Melano has a population () of .  , 23.0% of the population are resident foreign nationals.Swiss Federal Statistical Office - Superweb database - Gemeinde Statistics 1981-2008   accessed 19 June 2010  Over the last 10 years (1997–2007) the population has changed at a rate of 18.2%.
+
+Most of the population () speaks Italian (84.9%), with German being second most common (8.1%) and Spanish being third (1.5%).Swiss Federal Statistical Office  accessed 13-January-2011  Of the Swiss national languages (), 89 speak German, 10 people speak French, 936 people speak Italian.  The remainder (67 people) speak another language.Popolazione residente, secondo la lingua principale e la religione, nel 2000   accessed 23 November 2010
+
+, the gender distribution of the population was 50.7% male and 49.3% female.  The population was made up of 485 Swiss men (37.4% of the population), and 173 (13.3%) non-Swiss men.  There were 511 Swiss women (39.4%), and 128 (9.9%) non-Swiss women.
+
+In  there were 5 live births to Swiss citizens and 2 births to non-Swiss citizens, and in same time span there were 4 deaths of Swiss citizens.  Ignoring immigration and emigration, the population of Swiss citizens increased by 1 while the foreign population increased by 2.  There was 1 Swiss man who immigrated back to Switzerland and 2 Swiss women who emigrated from Switzerland.  At the same time, there were 9 non-Swiss men and 7 non-Swiss women who immigrated from another country to Switzerland.  The total Swiss population change in 2008 (from all sources, including moves across municipal borders) was an increase of 14 and the non-Swiss population change was a decrease of 5 people.  This represents a population growth rate of 0.7%.
+
+The age distribution, , in Melano is; 141 children or 10.9% of the population are between 0 and 9 years old and 121 teenagers or 9.3% are between 10 and 19.  Of the adult population, 148 people or 11.4% of the population are between 20 and 29 years old.  233 people or 18.0% are between 30 and 39, 230 people or 17.7% are between 40 and 49, and 157 people or 12.1% are between 50 and 59.  The senior population distribution is 125 people or 9.6% of the population are between 60 and 69 years old, 93 people or 7.2% are between 70 and 79, there are 49 people or 3.8% who are over 80.01.02.03 Popolazione residente permanente   accessed 23 November 2010
+
+, there were 500 private households in the municipality, and an average of 2.1 persons per household.   there were 199 single family homes (or 59.6% of the total) out of a total of 334 inhabited buildings.  There were 73 two family buildings (21.9%) and 41 multi-family buildings (12.3%).  There were also 21 buildings in the municipality that were multipurpose buildings (used for both housing and commercial or another purpose). 09.02.01 Edifici   accessed 23 November 2010
+
+The vacancy rate for the municipality, , was 0.91%.   there were 605 apartments in the municipality.  The most common apartment size was the 4 room apartment of which there were 193.  There were 24 single room apartments and 159 apartments with five or more rooms.  09.02.02 Abitazioni   accessed 23 November 2010  Of these apartments, a total of 497 apartments (82.1% of the total) were permanently occupied, while 99 apartments (16.4%) were seasonally occupied and 9 apartments (1.5%) were empty.  , the construction rate of new housing units was 3.2 new units per 1000 residents.
+
+The historical population is given in the following chart:Popolazione residente, dal 1850   accessed 23 November 2010
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.8)
+ImageSize  = width:1200 height:210
+PlotArea   = height:150 left:100 bottom:50 right:100
+AlignBars  = justify
+DateFormat = x.y
+Period     = from:0 till:1200
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:200 start:0
+ScaleMinor = gridcolor:lightgrey increment:40 start:0
+PlotData=
+  color:yellowgreen width:40   mark:(line,white) align:center
+  bar:1591 from:start till:100 text:"100"
+  bar:1702 from:start till:193 text:"193"
+  bar:1769 from:start till:205 text:"205"
+  bar:1801 from:start till:351 text:"351"
+  bar:1850 from:start till:368 text:"368"
+  bar:1860 from:start till:454 text:"454"
+  bar:1870 from:start till:508 text:"508"
+  bar:1880 from:start till:533 text:"533"
+  bar:1890 from:start till:583 text:"583"
+  bar:1900 from:start till:584 text:"584"
+  bar:1910 from:start till:619 text:"619"
+  bar:1920 from:start till:464 text:"464"
+  bar:1930 from:start till:472 text:"472"
+  bar:1941 from:start till:490 text:"490"
+  bar:1950 from:start till:529 text:"529"
+  bar:1960 from:start till:661 text:"661"
+  bar:1970 from:start till:893 text:"893"
+  bar:1980 from:start till:856 text:"856"
+  bar:1990 from:start till:907 text:"907"
+  bar:2000 from:start till:1102 text:"1,102"
+
+
+
+==Heritage sites of national significance==
+The Della Madonna Del Castelletto Church is listed as a Swiss heritage site of national significance.  The entire village of Melano is part of the Inventory of Swiss Heritage Sites.
+
+==Politics==
+In the 2015 federal election the most popular party was the FDP with 25.2% of the vote.  The next three most popular parties were the Ticino League (23.3%), the CVP (17.1%) and the SP (15.4%).  In the federal election, a total of 408 votes were cast, and the voter turnout was 48.6%.
+
+In the 2007 federal election the most popular party was the FDP which received 33.47% of the vote.  The next three most popular parties were the CVP (18.09%), the SP (16.49%) and the Ticino League (12.25%).  In the federal election, a total of 317 votes were cast, and the voter turnout was 41.1%.Swiss Federal Statistical Office, Nationalratswahlen 2007: Stärke der Parteien und Wahlbeteiligung, nach Gemeinden/Bezirk/Canton   accessed 28 May 2010
+
+In the  Gran Consiglio election, there were a total of 780 registered voters in Melano, of which 432 or 55.4% voted.  13 blank ballots and 1 null ballot were cast, leaving 418 valid ballots in the election.  The most popular party was the PLRT which received 106 or 25.4% of the vote.  The next three most popular parties were; the PS (with 81 or 19.4%), the PPD+GenGiova (with 64 or 15.3%) and the SSI (with 62 or 14.8%). Elezioni cantonali: Gran Consiglio, Consiglio di Stato   accessed 23 November 2010
+
+In the  Consiglio di Stato election, 9 blank ballots and 1 null ballot were cast, leaving 422 valid ballots in the election.  The most popular party was the PLRT which received 107 or 25.4% of the vote.  The next three most popular parties were; the PS (with 94 or 22.3%), the LEGA (with 70 or 16.6%) and the PPD (with 64 or 15.2%).
+
+==Economy==
+, Melano had an unemployment rate of 2.57%.  , there were 12 people employed in the primary economic sector and about 4 businesses involved in this sector.  73 people were employed in the secondary sector and there were 9 businesses in this sector.  185 people were employed in the tertiary sector, with 42 businesses in this sector.  There were 522 residents of the municipality who were employed in some capacity, of which females made up 40.6% of the workforce.
+
+, there were 251 workers who commuted into the municipality and 393 workers who commuted away.  The municipality is a net exporter of workers, with about 1.6 workers leaving the municipality for every one entering.  About 25.1% of the workforce coming into Melano are coming from outside Switzerland, while 1.0% of the locals commute out of Switzerland for work.Swiss Federal Statistical Office - Statweb   accessed 24 June 2010  Of the working population, 6.7% used public transportation to get to work, and 68.4% used a private car.
+
+==Religion==
+thumb|Sant'Andrea Church in Melano
+From the , 905 or 82.1% were Roman Catholic, while 55 or 5.0% belonged to the Swiss Reformed Church.  There are 125 individuals (or about 11.34% of the population) who belong to another church (not listed on the census), and 17 individuals (or about 1.54% of the population) did not answer the question.
+
+==Education==
+In Melano about 72% of the population (between age 25–64) have completed either non-mandatory upper secondary education or additional higher education (either university or a Fachhochschule).
+
+In Melano there were a total of 216 students ().  The Ticino education system provides up to three years of non-mandatory kindergarten and in Melano there were 38 children in kindergarten.  The primary school program lasts for five years and includes both a standard school and a special school.  In the municipality, 66 students attended the standard primary schools and 1 student attended the special school.  In the lower secondary school system, students either attend a two-year middle school followed by a two-year pre-apprenticeship or they attend a four-year program to prepare for higher education.  There were 54 students in the two-year middle school, while 16 students were in the four-year advanced program.
+
+The upper secondary school includes several options, but at the end of the upper secondary program, a student will be prepared to enter a trade or to continue on to a university or college.  In Ticino, vocational students may either attend school while working on their internship or apprenticeship (which takes three or four years) or may attend school followed by an internship or apprenticeship (which takes one year as a full-time student or one and a half to two years as a part-time student).  There were 13 vocational students who were attending school full-time and 26 who attend part-time.
+
+The professional program lasts three years and prepares a student for a job in engineering, nursing, computer science, business, tourism and similar fields.  There were 2 students in the professional program. Allievi e studenti, secondo il genere di scuola, anno scolastico 2009/2010   accessed 23 November 2010
+
+, there was 1 student in Melano who came from another municipality, while 191 residents attended schools outside the municipality.
+
+==Transport==
+Melano is served by the Maroggia-Melano station, situated on the border with the adjoining municipality of Maroggia, which is on the Gotthard railway.
+

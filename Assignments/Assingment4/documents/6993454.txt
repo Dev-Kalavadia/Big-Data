@@ -1,0 +1,78 @@
+Title: Darts world rankings
+
+Darts World Rankings is a system designed to determine a list of the best darts players in the world based on their performances in tournaments. However, in 1993, a group of former world champions and other high-profile players separated from the British Darts Organisation, meaning there are now two major governing bodies.
+
+Each organization has its own players, and each has its own ranking system. The ranking systems are used to arrange tournament seedings, which are so arranged, that the number one player in the world will not face the number two player until the final of a tournament, providing they both reach that final
+
+==PDC World rankings==
+
+The Professional Darts Corporation's Ranking is based on the amount of prize money won in ranking tournaments over the past two years.
+
+
+
+==WDF World rankings==
+The rankings are based on a cumulative points system, calculated on a rolling one-year basis. When a tournament is played, the previous year's results are removed from the rankings and the new tournament scores are used. This list is used to determine seeds for some of the WDF Opens. The World Darts Federation ranking system is designed to provide a measure of the global activities of darts players in every WDF recognized darts event. It used to be very similar to the BDO system but was revised in January 2007 to include categories by country and by events, and the distribution of ranking points reflect the levels of prize money on offer and the numbers of entries in a tournament. Players gain points in six levels of categorized events and prize money and at the end of the season the leading players receive monetary bonus rewards from the WDF.
+
+===Current points distribution===
+Points are currently awarded as follows:
+
+===Current rankings===
+
+
+
+
+
+
+==Previous World Number Ones (Men's, WDF)==
+The following is a list of players who ended the year ranked number one in the WDF.WDF Roll of Honour (previous world number ones) 
+
+
+
+==BDO rankings==
+The BDO Invitational Table relates only to registered playing members of the BDO, who comply with BDO and World Darts Federation (WDF) eligibility rules, including terms and conditions of the 1997 Tomlin Order.
+
+The BDO awards points depending on a player's performances within each of its events and other BDO-recognised qualifying events. Forty-nine points are awarded to the champion of each of its three Major Events – The Lakeside World Professional Championship, The Bavaria World Darts Trophy and the Winmau World Masters and A+ events. Lower points are awarded for each round of the tournament reached. Other events are placed into Category A, B, C, and D based on the prize pool and number of payouts, with points for placings slowly decreasing. Only the best 12 placings are added for a player's ranking.
+
+===Current points distribution===
+Points are currently awarded as follows:
+
+{| class="wikitable"
+|- style="background:#c7dcf6;"
+|- style="text-align:center;"
+| style="background:#efefef;"| Tournament category||  style="width:40px; background:lime;"|||  style="width:40px; background:thistle;"|||  style="width:40px; background:#ff0;"|||  style="width:40px; background:#ffebcd;"|||  style="width:40px; background:#afeeee;"|||  style="width:40px; background:#afeeee;"|||  style="width:40px; background:#afeeee;"||| style="width:40px; background:#afeeee;"|
+|- style="background-color:#F3E6D7;"
+|BDO Major tournaments || 49 || 42 || 35 || 28 || 21 || 14 || 7 || 4   
+|- style="background-color:#FFFFCC;"
+|BDO Category A+ tournaments || 49 || 42 || 35 || 28 || 21 || 14 || 7 || 4    
+|- style="background-color:#E9E9E9;"
+|BDO Category A tournaments || 35 || 30 || 25 || 20 || 15 || 10 || 5
+|- style="background-color:#FFEA5C;"
+|BDO Category B tournaments || 24 || 20 || 16 || 12 || 8 || 4 
+|- style="background-color:#D4F1C5;"
+|BDO Category C tournaments || 18 || 15|| 12|| 9|| 6
+|-
+|BDO Category D tournaments || 14 || 12 || 10 || 8 || 6 
+|}
+
+===Final rankings===
+Following a cease in tournaments due to the COVID-19 pandemic, the BDO stopped publishing rankings on 18 March 2020. The BDO having entered liquidation in September of that year, what follows are the final published rankings by the organisation.
+
+
+
+
+
+
+
+== Notes and references ==
+
+
+==External links==
+* Tables : World Darts Federation
+* https://web.archive.org/web/20160125183750/http://www.bdodarts.com/images/bdo-content/rules/gd/BDO_Invitation_Rules.pdf
+
+
+
+
+Category:Darts
+Category:Sports world rankings
+Category:Lists of darts players

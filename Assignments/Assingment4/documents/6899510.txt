@@ -1,0 +1,24 @@
+Title: Dmitry Chernov
+frame|right|Dmitry Chernov
+
+Dmitry Konstantinovich Chernov (or Tchernov, ;  Saint-Petersburg - January 2, 1921 Yalta) was a Russian metallurgist.Biography and major works Biography  He is known by his discovery of polymorphous transformations in steel and the iron-carbon phase diagram. This discovery is the beginning of scientific metallography.A. F. Golovin The centennial of D. K. Chernov's discovery of polymorphous transformations in steel (1868–1968), Metal Science and Heat Treatment, Volume 10, Number 5 / May, 1968 
+
+==Biography==
+Chernov was born to a family of a feldsher (registered nurse). In 1858 he graduated from the Petersburg Practical Technological Institute and worked for the Saint Petersburg Mint. In 1859-1865 he was a lecturer and the museum keeper of the Petersburg Practical Technological Institute. From 1866 he was an engineer of the Obukhovsky Steel Foundry in Saint Petersburg. In 1880–1884 he explored the salt deposit near Bakhmach (currently Ukraine). From 1884 he was with the Government Naval Committee (морской комитет). From 1886 he was the Chief Inspector of the Rail Road Department. From 1889 he was a Professor of the Mikhailovskaya Artillery Academy in Saint Petersburg.Biography 
+
+==Works==
+thumb|right|250px|Iron-carbon phase diagram with the Chernov's points a,b,c,d (shown in red)
+
+Chernov obtained his major result in 1866-1868 after studying the rejects of heavy guns production as well as during analysis of practical works by Pavel Anosov, P. Obukhov, Alexander Lavrov, Nikolay Kalkutsky. At that time he was the curator of the small museum of the Petersburg Technological Institute. He found that steel is not the same material at all temperatures but instead has polymorphic transformations at different temperatures. He introduced different points known as Chernov's points:Chernov's points 
+* Point a at around 700 °C is the minimum temperature the steel should be heated to so it can be quenched. By the modern theory it is the temperature of austenite eutectoid transformation (see the picture on the right).
+* Point b at around 900 °C is the temperature the steel should be heated to so to correct its crystalline structure. By the modern theory it is the maximal temperature when the ferrite is stable.
+* Point c corresponds to the melting point of steel
+* Point d at around 200 °C is the temperature needed to cool the steel to quench it. In modern theory it is known as the martensite transformation.
+Chernov was able to correctly identify the reason for these points as polymorphic transformations in the steel and even draw the first sketch of what the phase diagram for the carbon-iron system may look like.  Chernov published his results in the Notes of the Russian Technical Society of 1868. His article was named "Критический обзор статей гг. Лаврова и Калакуцкого о стали и стальных орудиях и собственные Д. К. Чернова исследования по этому же предмету" (Critical review of articles by Mr. Lavrov and Mr Kalkutzky about the steel and steel guns as well as own D.K. Chernov's research on this subject). Many authors consider the publication of this article as the date of transformation of metallurgy from an art into a science.
+
+Ten years later in 1879 Chernov published a monograph named Research into the structure of the steel slabs where he described the major crystalline structures in steel and their effect on the properties of the slab. One type of steel crystal (dendrite) was named after Chernov.
+
+Chernov contributed to the theory of the Siemens-Martin process. He was one of the first to suggest usage of pure oxygen in steel-making. He also did research into the usage of direct reduced iron as well as contributed to the development of steel gun barrels, armor-piercing shells and emerging aviation.
+
+He was one of the recognized leaders of steel manufacturing at the time. He was Chairman of the Russian Metallurgical Society, vice-president of the British Institute for Iron and Steel, an honorary member of the American Society of Mining Engineers, etc.
+

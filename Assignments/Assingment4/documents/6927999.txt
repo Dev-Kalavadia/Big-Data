@@ -1,0 +1,11 @@
+Title: ATM-72 minethumbnail|left|Image and info from a US Marines training manual.
+The ATM-72 is a steel cased circular North Korean anti-tank mine. It is similar to the Russian TM-46, with a thick wire carrying handle and a filling plug. The mine uses a four pronged fuze, downward pressure on any of the levers will trigger the mine. The lever action of the mine makes it resistant to overpressure and blast.
+
+The mine is found in Sudan and Korea.
+
+==Specifications==
+* Diameter: 340 mm
+* Height: 180 mm (with fuze)
+* Weight: 13 kg
+* Explosive content: 9 kg of Composition B
+

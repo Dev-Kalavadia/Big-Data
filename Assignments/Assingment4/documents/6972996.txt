@@ -1,0 +1,64 @@
+Title: Surveillance and target acquisition
+
+
+
+Surveillance and target acquisition (STA) is a military role assigned to units and/or their equipment. It involves watching an area to see what changes (surveillance) and then the acquisition of targets based on that information.
+
+==Artillery STA==
+The role of STA artillery is to locate, track, assess and where appropriate cue the attack of hostile artillery, mortars, units and formation.  
+
+It provides commanders with surveillance and targeting information across the battle space and is always linked by a robust command-and-control (C2) system to offensive support (OS) systems. 
+
+thumb|right|Special Observer Badge, worn by Soldiers of the HAC or 4/73 Battery RA who have passed STA Patrol Training and successfully completed a probationary period
+
+==Units==
+===British Army===
+====Regular army====
+*4/73 (Sphinx) Special Observation Post Battery RA
+*5th Regiment Royal Artillery
+
+====Army Reserve====
+*Honourable Artillery Company 
+*204 (Tyneside Scottish) Battery Royal Artillery
+*269 (West Riding) Battery Royal Artillery
+
+===French Army===
+*61e régiment d'artillerie
+
+===German Army===
+*Artillerieaufklärungsbataillon 131, Mühlhausen
+
+===Australian Army===
+*20th Regiment, Royal Australian Artillery
+
+===Italian Army===
+01.09.2004 - today
+* Com.F.O.Ter. Comando delle Forze Operative Terrestri (Verona)
+** Co.T.I.E. Comando Trasmissioni ed Informazioni dell'Esercito (Anzio - Caserma “Santa Barbara”)
+*** Brg.R.I.S.T.A.-I.E.W. Brigata Reconnaissance, Intelligence, Surveillance, Target Acquisition – Intelligence and Electronic Warfare (Anzio - Caserma “Santa Barbara”)
+**** 41° Rgt.A.Ter.Sor.A.O. Reggimento Artiglieria Terrestre Sorveglianza ed Aquisizione Obiettivi (Casarsa della Delizia - Caserma “Trieste”)
+***** 2° Gr.Sor.A.O. Gruppo Sorveglianza ed Aquisizione Obiettivi (Sora - Caserma “Simone Simoni”)
+****** B.A.T. Batteria Aerei Teleguidati
+
+* Com.F.O.Ter. Comando delle Forze Operative Terrestri (Verona)
+** Com.F.O.S.E. Comando delle Forze Speciali dell'Esercito
+**** 185° Reggimento Paracadutisti Ricognizione Acquisizione Obiettivi "Folgore"
+
+===United States Marine Corps===
+*Target Acquisition Platoon (TAP)
+
+==Equipment==
+*Counter-battery radar (CoBRa)
+*Mobile Artillery Monitoring Battlefield Asset (MAMBA)
+*Advanced Sound-ranging Programme (ASP)
+*Unmanned aerial vehicles (UAVs)
+
+==See also==
+* C4ISTAR
+* RSTA (U.S. Army)
+* CARVER matrix
+
+
+Category:Targeting (warfare)
+Category:Artillery operation
+Category:Military intelligence collection

@@ -1,0 +1,57 @@
+Title: Kerry Tramway
+
+
+The Kerry Tramway was a  narrow gauge railway built in 1887 to serve the timber workings and slab quarry to the south of the village of Kerry, near Newtown in mid Wales.
+
+==Route==
+The railway ran from the Cambrian Railways Kerry railway station at Glanmule to the Brynllywarch estate owned by Christopher Naylor. The line served the timber forests on the estate, as well as a slab quarry and general estate traffic. It was worked by the Bagnall locomotive Excelsior.
+
+==Closure==
+In 1895 Naylor inherited Haggerston Castle and left Brynllywarch; the rolling stock of the railway was sold and the track was lifted.
+
+==Reopening==
+During the First World War there was a great demand for timber. In 1917 the government Timber Supply Department (which later became the Forestry Commission) relaid much of the tramway to serve the sawmill on the estate. The railway and timber felling operations were mainly manned by German prisoners of war under military control. During the war, the line was worked by the Kerr Stuart locomotive Diana. After hostilities ceased the tramway continued to operate. In early 1919 a petrol locomotive arrived from Baguely and in 1922 a third locomotive, the Haig class Kashmir arrived.
+
+==Final closure==
+The line closed again in 1922 and all the tracks lifted except the Lower Rhos to Pentre section. This last remaining section was worked using an unknown 0-4-0 side tank locomotive for several more years.
+
+== Locomotives ==
+
+{|class="wikitable"
+!Name
+!Builder
+!Type
+!Works
+Number
+!Built
+!Notes
+|-
+|Excelsior
+|W.G. Bagnall
+|
+|970
+|1888
+|Small 3½ ton wing tank locomotive; sold in 1895 and used during the construction of the Lynton and Barnstaple Railway, later scrapped
+|-
+|Diana (named after it left the Kerry Tramway)
+|Kerr Stuart
+|Sirdar class
+|1158
+|1917
+|Used on the tramway during the First World War; sold to Oakeley Slate Quarry in 1925. Then to the Pen-yr-Orsedd Quarry in the 1940. Now privately owned and based at the Amerton Railway
+|-
+|Kashmir (named after it left the Kerry Tramway)
+|Kerr Stuart
+|Haig class
+|3118
+|1918
+|Sold to the Cliffe Hill Mineral Railway in 1925; scrapped in 1957
+|-
+|
+|Baguley
+|
+|777
+|1918
+|Sold to the Oakeley Slate Quarry in 1925, scrapped at Oakeley in 1937 after a fire.
+|}
+

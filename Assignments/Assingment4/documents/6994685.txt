@@ -1,0 +1,198 @@
+Title: West Chadic languages
+
+
+
+thumb|right|200px|Main Chadic-speaking peoples in Nigeria
+thumb|200px|Hausa-speaking areas in Nigeria and Niger
+
+
+The West Chadic languages of the Afro-Asiatic family are spoken principally in Niger and Nigeria. They include Hausa, the most populous Chadic language and a major language of West Africa.
+
+==Languages==
+The branches of West Chadic go either by names or by letters and numbers in an outline format.Blench, Roger. 2006. The Afro-Asiatic Languages: Classification and Reference List (ms)
+
+*Hausa–Gwandara (A.1): Hausa, Gwandara
+*Bole–Angas (?)
+**Bole–Tangale (A.2)
+***North (Bole proper): Bure, Karekare, Bole, Gera, Geruma, Deno, Galambu, Giiwo, Kubi, Ngamo, Maaka (Maagha), Ɓeele, Daza (Dazawa), ?Pali
+***South (Tangale): Kwaami, Pero, Piya-Kwonci, Kholok, Nyam, Kushi (Goji), Kutto (Kupto), Tangale, Dera (Kanakuru)
+**Angas (Central West Chadic) (A.3)Blench, Roger. 2017. Current research on the A3 West Chadic languages.
+***Ngasic: Ngas (Angas), Belnəng
+***Mwaghavulic: Mwaghavul, Mupun (Mapun), Takas (Toos); Cakfem-Mushere
+***Miship (Chip)
+***Pan cluster
+****Chakato/Jorto
+****Jipal, Mernyang (Mirriam), Kwagallak, Kofyar (Doemak), Bwol, Goram, Jibyal
+***Nteng
+***Tel (Tɛɛl, Montol)
+***Talic: Tal, Pyapun, Koenoem
+***Goemaic: Goemai
+***Yiwom (Ywom, Gerka)
+**Ron (A.4):Blench, Roger. Comparative Ron wordlist. Fyer, Tambas, Ron (Bokkos, Daffo-Butura, Mangar, Monguna), Shagawu, Duhwa (Karfa), Kulere (Tof, Richa, Kamwai-Marhai), Mundat, Sha
+*Bade–Warji (?)
+**Bade (B.1): Duwai; Bade, Shira (†), Ngizim, Teshenawa (†), Auyokawa (†)
+**Warji (North BauchiBlench, Roger. 2012. Linguistic and cultural background to the North Bauchi region and the Wiihə people.) (B.2): Pa'a; Warji, Diri, Ciwogai, Kariya (Vinahə), Mburku, Miya, Siri, Zumbun (Jimbin), Ajawa (†)
+*Barawa (South Bauchi) (B.3)
+**Zaar: Dass; Geji, Polci (Polchi), Saya, Zari, Zeem
+**Guruntum: Guruntum-Mbaaru, Ju, Tala, Zangwal
+**Boghom: Jimi, Jum; Boghom, Kir-Balar, Mangas
+
+In addition, Poki is unclassified within West Chadic.
+
+==Internal structure==
+George Starostin's (2010) internal classification of West ChadicStarostin, George. 2010. Afroasiatic classification: preliminary results of the modified glottochronological test. Manuscript. as presented in Blažek (2010):
+*West Chadic
+**West Chadic A
+***Hausa–Gwandara
+***(branch)
+****Ron
+****Bole-Angas
+*****Bole–Tangale
+*****Angas–Sura
+**West Chadic B
+***Bade–Ngizim
+***Bauchi
+****North Bauchi
+****South Bauchi
+
+Roger Blench's (2021) internal classification of West Chadic:Blench, Roger. 2021. The erosion of number marking in West Chadic Roger Blench. WOCAL, Leiden.
+
+*West Chadic
+**Hausa–Gwandara
+**Core West Chadic
+***Ron
+***Bole–Tangale
+***Bade–Ngizim
+***North Bauchi
+***South Bauchi, A3 (Central-West)
+
+==Distribution==
+Distributions of West Chadic branches:
+
+{| class="wikitable"
+! Branch !! Code !! Primary locations
+|+ Distributions of West Chadic branches
+|-
+| Hausa–Gwandara || A1 || Northern Nigeria and Niger
+|-
+| Bole–Tangale || A2 || Darazo LGA, Bauchi State; Yobe, Taraba, Gombe, Borno states
+|-
+| Angas || A3 || Shendam and Mangu LGAs, Plateau State
+|-
+| Ron || A4 || Mangu LGA, Plateau State
+|-
+| Bade || B1 || Bade LGA, Borno State
+|-
+| South Bauchi || B2 || Darazo and Ningi LGAs, Bauchi State
+|-
+| North Bauchi || B3 || Bauchi State (Toro, Dass, Tafawa Balewa, Bauchi LGAs)
+|}
+
+==History of dispersal==
+Roger Blench (2022) suggests that West Chadic languages may have spread via a gradual agricultural dispersal in Central Nigeria, starting from 3,000-4,000 years ago. Blench notes that West Chadic morphology has been heavily influenced by Plateau languages, likely as a result of long-term intermarriage that occurred as West Chadic incomers took local wives who spoke Plateau languages.Blench, Roger (2022). Contact between West Chadic and Plateau languages: new evidence languages: new evidence. 11-12 November 2022, presentation given at Universität Wien.
+
+==Reconstruction==
+Although no full reconstruction of West Chadic has been published, reconstructions of numerals for West Chadic and its subgroups have been proposed by Václav Blažek (2018).Blažek, Václav. 2018. The numerals of West Chadic. Topics in Chadic Linguistics IX. Papers from the 8th Biennial International Colloquium on the Chadic Languages, Bayreuth, February 4-5, 2016.
+
+==Phonology==
+The labial–velar consonants /kp/ and /gb/, widespread in Plateau and other Niger-Congo languages but uncommon in Chadic languages, can be found in Ron languages and in certain West Chadic A3 and Bole-Tangale languages. These consonants were borrowed from Plateau languages due to intensive long-term contact. However, other phonological features typical of Plateau and Niger-Congo languages such as ATR and vowel harmony are not found in West Chadic languages.
+
+==Numerals==
+Comparison of numerals in individual languages:
+
+{| class="wikitable sortable"  style="font-size: 85%"
+! Classification !! Language !! 1 !! 2 !! 3 !! 4 !! 5 !! 6 !! 7 !! 8 !! 9 !! 10
+|-
+| A, A.1 || Gwandara || da || bi || úkù / úɡú (Nimbia dialect) || huru / furu  (Nimbia dialect) || bìyàri / bìyàr (Nimbia dialect) || ʃídà / ʃídə́ (Nimbia dialect) || bákwè / boʔo (Nimbia dialect) || tákùʃì / táɡə́r (Nimbia dialect) || tárà / tãrã (Nimbia dialect) || ɡóm̀ / ɡóŋ̀ / ɡwóm (Nim. dialect)
+|-
+| A, A.1 || Hausa || ɗájá || bíjú || ʔúkù / ʔúkkù (West Hausa) || fúɗú || bìjár || ʃídà / ʃíddà (West Hausa) || bákwài || tákwàs || tárà || ɡóːmà
+|-
+| A, A.2, Bole || Bele || móoɗì || bòló || kùnú || fòɗɗó || bàaɗì || bàccímóoɗì || báawùló || ɓóorùɗó (2 x 4) || ɓòowùnò || bìmbáɗí
+|-
+| A, A.2, Bole, Karekare || Karekare || wáɗí || bèːlú || kúːnùː || fèːɗú || bàːɗú || bàcóːɗì (5 + 1) || bàcíbèːlú  (5 + 2) || fífèːɗú (2 x 4) || ɓànnù || mbáɗ
+|-
+| A, A.2, Bole, Bole Proper || Bole || móoɗì || bòláu || kúnùm || pòɗɗó || bàɗì || bàššimóoɗì || báawúló || póorɗó (2 x 4) || ɓòonùm || bìmbáɗí
+|-
+| A, A.2, Bole, Bole Proper || Bure (Bubure) || móɗé || máló || kúnú || ʄóɗó || báɗé || básúmé || básùmáló  (5+ 2) || ʄórʄóɗó (2 x 4) || ɓárdzìmóɗé (10 - 1) || bárbáɗè
+|-
+| A, A.2, Bole, Bole Proper || Galambu || múuri || m̀bàál || kúun || páryá || bòorí || bɪ́címɪ́n || bùcù m̀bàl (5+ 2) || hórró || bàryà múuri (10 - 1) || bár
+|-
+| A, A.2, Bole, Bole Proper || Gera || móóyi || mbùlú || kúnú || fúɗú || bàaɗì || bèeshím || bìccìmbùlú (5+ 2) || húrɗú || ɓànìnjà / barija || bàrɗí / barr
+|-
+| A, A.2, Bole, Bole Proper || Geruma || mô / mon || m̀bàalú / mbàalúŋ || kúnú / kúnúŋ || fúɗú / húɗúŋ || bàaɗì / bàalí || bècə́m || bàzə̀mbàalú  (5+ 2) || húrɗú / úrɗúŋ || ɓár jà || ɓáráɗì / ɓárári
+|-
+| A, A.2, Bole, Bole Proper || Kholok (Widala) || ɗók || pèlòw || bùnùm || pèeròw || faàt / faàr || foòròmìnì || paàlìlàw || bìrbìròw / pìrpìròw || kómbóy || ɓùmmò
+|-
+| A, A.2, Bole, Bole Proper || Kirfi (Giiwo) || móoɗì || mbàlú || kúnú || fáɗáu || bòoɗ || bìccúuni || bìcímbàlu (5+ 2) || fórfáɗó (2 x 4) || bàr jà móoɗi (10 - 1) || pàtà
+|-
+| A, A.2, Bole, Bole Proper || Maaka || mōɗì || bòllu || kūǹ || paɗɗu || bà || bìnkinù || nɡā̀nù or bákwài (< Hausa) || jìlai || kwàlak || bìmba
+|-
+| A, A.2, Bole, Bole Proper || Ngamo || mòɗi || bòlò || kùnû || hɔ̀ɗò || bât || bàʔàʃìmòɗi (5 + 1) || babìlò  (5 + 2) || hɔɔrɗò (2 x 4) || ɓònù || bimbaɗ  (2 x 5) ?
+|-
+| A, A.2, Bole, Bole Proper || Nyam || mɔ̀dɔ́ || fùllúk || kùnúŋ || hɔ̀dúk || hwàt || fármé || fáró fùllúk (5 + 2) || húrú ɡùdùk (2 x 4) || láɡó mɔ̀dɔ́  (10 - 1)  ? || kùumò (litː ' kumo ' = ear)
+|-
+| A, A.2, Tangale, Dera || Dera (Kanakuru) || ɗuwey || rap || kunu || paraw || bât || byême || bwelà || torìmen || wanɗumwe  (10 - 1) || ɡûm
+|-
+| A, A.2, Tangale, Tangale Proper || Kupto (Kutto) || ɗékkíré || fáláw/ páláw || kùnùŋ || fàɗàw / pàɗàw || fáat / páat || fáyɗìn / páyɗìn || fáyláw / páyláw || fàrfìɗòw || lèbìɗà || kómó
+|-
+| A, A.2, Tangale, Tangale Proper || Kushi || ɗòk || pə̀llòw || tàat || péeròw || fwàt / fúwàt || fàràɡbànàŋ || fàrlów || pìdiɗòw || fɔ̀jèràw || kpèmù
+|-
+| A, A.2, Tangale, Tangale Proper || Kwaami || múndí || póllów / fóllów || kúnúm || póɗòw / fóɗòw || páaɗí / fáaɗí || páyíndì / fáyíndì (5 + 1) || pópíllów / fófíllów  (5 + 2) || pówùrɗòw / fówùrɗòw (2 x 4) ? || làmbáɗà || kúmó
+|-
+| A, A.2, Tangale, Tangale Proper || Pero (Pipero) || ɗók || bélòw || ɡ͡bónòŋ || béeɗòw || púat / fwát || páttira múndi || páttira bélòw || bídìdow || kómpòy / kómvòy || kó / k͡púmmò
+|-
+| A, A.2, Tangale, Tangale Proper || Piya || mùndí || pèelów || ɡbùnùm || pèeɗòw || fàat || pàtìrà mùndí (5 + 1) || pàtìrà pèelów (5 + 2) || pèdìpìɗów (2 x 4) ??? || kòmbòy || kùmmó
+|-
+| A, A.2, Tangale, Tangale Proper || Po Tangale (1) || dɔk || ràp || kúnuŋ || pàdàó || fùwàt || pàíndì || pèláù || pàpádà (2 x 4) || làmbùdà || ɡ͡bɔmɔ
+|-
+| A, A.2, Tangale, Tangale Proper || Tangale (Shongom) (2) || dɔ́k || ráp || kúnúŋ || sɛ́rɛɪ̀ || pʊ́wàd || páyɪ̀nɗɪ́ || péelòu || párpàɗá (2 x 4) || lámɓɗà || ɡ͡bɔ́mɔ́
+|-
+| A, A.3, Angas Proper, 1 || Angas (Ngas) || ɡàk || báp || kʷán || fír || pɛ̀t || pìmí  (5 + 1) || pòbáp  (5 + 2) || pòkʷún (5 + 3) || pòfár (5 + 4) || sàr
+|-
+| A, A.3, Angas Proper, 1 || Kofyar || mé || vəl || kún || féer || paàt || pèmə  (5 + 1) || pòɡòvəl  (5 + 2) || pòɡòkun (5 + 3) || pòɡòfár (5 + 4) || sàr
+|-
+| A, A.3, Angas Proper, 1 || Miship (Chip) (1) || kəme || vəl || kun || feer || baat || pemee   (5+ 1) || pokvəl (5+ 2) || pokkun  (5+ 3) || pokfaar  (5+ 4) || sár
+|-
+| A, A.3, Angas Proper, 1 || Miship (Chip) (2) || me || vɨl || kun || fɛr || paàt || pemɛ   (5+ 1) || pɔ̀ɡɔ̀vɨl (5+ 2) || pɔ̀ɡɔ̀kun (5+ 3) || pɔ̀ɡɔ̀far (5+ 4) || sə̀r
+|-
+| A, A.3, Angas Proper, 1 || Cakfem-Mushere || kume || vel || kun || feer || paat || peemee   (5+ 1) || feermeekum (4+ 3) ?? || feertiit  (4 x 2) ?? || paatmeefeer  (5+ 4) || kakapaat (5 x 2) ??
+|-
+| A, A.3, Angas Proper, 1 || Mwaghavul (Mupun / Sura) || mə́ndòŋ || və́l || kún || féer || páat || péemè  (5 + 1) || póvə̀l  (5 + 2) || pòkún (5 + 3) || pòféer (5 + 4) || kàapàt və́l (5 x 2)  ???
+|-
+| A, A.3, Angas Proper, 2 || Goemai (Ankwe) || mée, ɡə̀mée  || və́l || kún || fə́r || pʰá:t || pʰə̀mə́  (5 + 1) || pʰə̀və́l  (5 + 2) || pʰùkún (5 + 3) || pʰə̀fár (5 + 4) || sár
+|-
+| A, A.3, Angas Proper, 2 || Tal || [mɛ́nɛ] || [vɨ́ɛ́l] || [kún] || [fɛi] || [pàːt] || [pɨ̀mɛ́] || [mɛ́fɛ́imɛ́kúːn] || [pàːfɛ́i] || [mɛ́ːpàː] || [sár]
+|-
+| A, A.4, Ron Proper || Ron (Daffo) || ɗaŋɡât || ful / fulál  || yuhún || púʔ || hárá || makoŋ || melok || mafwaráʔ || yèlâm || hùrè
+|-
+| B, B.1, Duwai || Duwai || ɡùɗìyò || ʃirì || kô || fə̀ɗú || vā̀ɗ || ə̀jdə̀ɡərma || sə̀və̀sə̀ri / tlə̀və̀sə̀ri || ə̀jldàakò || wā̀rìyà || ɡùumà
+|-
+| B, B.1, Bade Proper || Bade || ɡàɗi || sərən || kwan || fəɗu || vàɗì || ə̀zdù || ɡatkasà || ɬədàakwà || warayà || ɡuumà
+|-
+| B, B.1, Bade Proper || Ngizim || kə́ɗə́n (counting), ɡàyí (enumat.)  || ʃírín || kwán || fə́ɗú || vàaɗ || zə̀dù || ɡátkásà || dándàfə́ɗú (2 x 4) || kúɗkûvdà || ɡúmà
+|-
+| B, B.2 || Dira (Diri) || num || rɔp || mɪyaxkən || wupsɛ || nəmtəm || mukkə̀ || ŋyɪniŋɡì || wùzupsè (2 x 4) ? || vwanùm (10 - 1) ? || kwuɬ
+|-
+| B, B.2 || Miya || wútə̀ || tsə̀r || kìdi || fə̀ɗə || vàaɬə || màaha  (5+1) ? || mààtsə̀r (5+2) || fə́rfəɗə (2 x 4) || kùcìyà || də́rɓitim
+|-
+| B, B.3 || Dass (of Dott) || nə̀m || rwáp || mààɣí || wùupsí || nàmtám || màamaɣ / muumáɣ || wúsúrmàɣè || wúsúpsì  (2 x 4) || nàturə́psi / nàtàrə́psi || zùp
+|-
+| B, B.3, Boghom || Boghom || nyìm || ɓáap / pā́p / ɡbwàap || mói || múpsí || ndàuní / ndóoní || màak || nyàŋɡí || ɓóopsí || ʔáamsóyìm  (10 -1) || ŋəmàs / wuur nyìm
+|-
+| B, B.3, Boghom || Mangas || nim || ɓíin || mween || ùpsi || tùun || màɣà || nyíŋɡi || ɡàamzi || kúrúmsa || zúp
+|-
+| B, B.3, Eastern || Jimi || nintóo || rwá || mwaikán / mwenkán || ihyú || namtáŋ / namtám || máakoo || inkóo || ɡuhyú (2 x 4) || kə́skəníntoo / kə́zə̀kə̀níntò (10 -1) || ndəɓóo / ɗúbó
+|-
+| B, B.3, Guruntum || Guruntum || ʃàak || raap || miyaŋ || ooso || kʸuwun || môon || nʸeene || ɡèesau || ɗáar || zùp
+|-
+| B, B.3, Guruntum || Zangwal (Zangur) || nə́m || kwáap || màyà || wúusù || nàmtàm || màaɡa || nyínìɡì || ʔáasuʔáasù  (2 x 4) || áatə̀nə̀n || súp
+|-
+| B, B.3, Zaar Proper || Geji (Gyazi) (1) || nə̀m || lôp || mèkan || wupsì || nàmtan || mukkà || nitɡi || wùsupsì (2 x 4) ? || topsi || kuɬ
+|-
+| B, B.3, Zaar Proper || Geji (Gezawa) (2) || nɨ̀m || lôp || mèkən || wupsì || nə̀mtəŋ || mukkə̀ || nininɡi || wùsupsì (2 x 4) ? || nə̀topsi || kuɬ
+|-
+| B, B.3, Zaar Proper || Polci (Palci) || nɨ̀m || rǒp || miyèn || wupsɨ̀ || nə̀mtəm || maɣà || wusɨ̀rmìyen  (4 + 3) ? || wɨsɨpsɨ̀ (2 x 4) ? || nàtoropsɨ̀ || zup
+|-
+| B, B.3, Zaar Proper || Saya || nàmbə́ŋ || mbə̀ɬíŋ || máajìi || wúpsə̀ || nândə̀m || lîim || wátsə̀maí || tántán || tɔ́knándə́m || zúp
+|}
+

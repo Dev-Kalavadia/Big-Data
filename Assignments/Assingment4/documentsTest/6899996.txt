@@ -1,0 +1,57 @@
+Title: JDS Ōshio
+
+{|
+
+
+
+
+|}
+
+JDS Ōshio (SS-561) was a submarine in service with Japanese Maritime Self Defense Force. Ōshio was planned and built to replace the aging JDS Kuroshio.
+
+==Background==
+In 1955, the Maritime Self-Defense Force received a loan from the US Navy for the Gato-class submarine USS Mingo and recommissioned it as the first JDS Kuroshio to begin the development (reconstruction) of the submarine force. Subsequently, by building the first Oyashio in the 1956 plan, domestic construction of submarines was resumed. In the subsequent First Defense Build-up Plan, from the perspective of arranging the numbers, the development of a small submarine (SSK) for local defense, which was modeled after the Barracuda class of the US Navy, will be promoted, and the plan for 1959. Then, the Yashio type, the Natsushio type was built in the 1960 plan.
+
+However, these small submarines have serious restrictions on their snorkeling and surface navigation capabilities, especially in stormy weather, which has become a serious problem in submarine operations in the waters near Japan. In addition, since the US Navy had changed its policy to develop a large submarine such as the Tang-class submarine, the Maritime Self-Defense Force also decided to build a larger submarine (SSL) with excellent seakeeping. Based on this, first, as a substitute ship for JDS Kuroshio, only one ship was built in the plan of 1958.
+
+== Design ==
+The design of this ship uses the same technology as SSK, and is expanded to almost the same size as the original Kuroshio.
+
+Her ship type is an underwater high-speed nautical submarine similar to SSK. The hull structure is also based on the same double-shell type as SSK, but for slimming down, the rear part is a single-shell type and is a partial single-shell type. As for the material of the pressure hull, NS46 tempered high-strength steel (yield strength 46 kgf / mm2 / 451MPa), which was limited only to the frame in 35SSK, was fully adopted.
+
+The propulsion system was a diesel-electric system, the propulsion device was a two-axis system, and the basic configuration was the system since 31SS. As a diesel engine, two V-type 16-cylinder Kawasaki / MAN V8V 24 / 30m MAL were installed. This is based on the 31SS V8V 22 / 30m MAL, with the bore (piston diameter) expanded to increase the output, and has since been followed up to the Yuushio type (50SS). [6].
+
+For electric propulsion, two Fuji Electric SG-3 traction motors (1,200 kW) and two Fuji Electric SM-3 traction motors (1,450 horsepower on water / 3,150 horsepower underwater), and 480 SCB-47W main storage batteries (120). Group x 4 groups) was installed. The SCB-47W main storage battery is a water-cooled agitated fiber-clad lead battery similar to SSK (excluding Natsushio), but its life is longer and its discharge capacity is lower than before.
+
+The propeller is the same 5-sho screw propeller (453 rpm) as before, but the airfoil has been improved and the material has been changed to aluminum bronze.
+
+== Equipment ==
+The sonar arrangement is similar to the Natsushio-class, but for the hearing device (passive sonar), the JQO-3 is located at the bottom of the bow and the JQO-4 is located inside the dome at the front end of the sail. ing. As an active sonar, the JQS-3 was mounted on the bottom of the ship below the command post in a hanging manner, similar to the 35SSK. The periscope used to be a 10-meter type, but has been increased to a 13-meter type since the ship.
+
+Six torpedo tubes were placed on the bow and two on the stern. All of these have a 533mm caliber, but the one on the bow side is the hydraulically fired HU-601, while the one on the stern side is the swimout type HU-201, which is used to protect the ship when evacuating. It was envisioned to launch a Mk.37 mod.0-N short torpedo (483mm diameter). However, this equipment method was evaluated as having limited effectiveness, and it is said that it was never used. The number of torpedoes installed was 18 for Mk.54 torpedoes and Mk.37 mod.0-N, and 6 torpedoes were installed at the rear.
+
+== Construction and career ==
+Ōshio was laid down on 29 June 1963 and launched on 30 April 1964 by Mitsubishi Heavy Industries Kobe Shipyard. She was commissioned on 31 March 1965 and incorporated into the 1st Submarine Group 2nd Submarine.
+
+On 8 April 1967, while moored in Kure, a short circuit occurred in the rear control panel room while charging the storage battery, and a fire broke out from a large discharge. At this time, the inner shell was partially melted and after that, it was operated with a limit on the dive depth.
+
+From 25 January to 14 April 1969, she participated in Hawaii dispatch training.
+
+On 26 January 1970, while she was surfacing in Hiroshima Bay, she came into contact with a small tanker (186 tonnes) and broke two propeller shafts.
+
+From 22 September to 10 December 1971, she participated in Hawaii dispatch training.
+
+She was decommissioned on 20 August 1981 and dismantled in March 1982. She allowed the media to film her inside the ship before dismantling.
+
+==See also==
+* 
+
+== Citations ==
+
+
+
+
+
+Category:Submarines of the Japan Maritime Self-Defense Force
+Category:Ships built by Mitsubishi Heavy Industries
+Category:1964 ships

@@ -1,0 +1,29 @@
+Title: GeoPDF
+GeoPDF refers to map and imagery products created by TerraGo software applications. GeoPDF products use geospatial PDF as a container for maps, imagery, and other data used to deliver an enhanced user experience in TerraGo applications. However, GeoPDF products conform to published specifications including both the OGC best practice for PDF georegistration as well as Adobe's proposed geospatial extensions to ISO 32000, making them readable by applications such as Adobe Acrobat, Adobe Reader, Avenza PDF Maps, Global Mapper, and others. GeoPDF products often include other advanced PDF features such as layers and object data which can add significant GIS functionality to the file, particularly when used with the TerraGo Technologies plugin to Adobe Reader or other TerraGo clients.
+
+== Distribution ==
+GeoPDF products are used to deliver maps and imagery from multiple US government agencies.  Quadrangles of The National Map are available from the USGS store in as GeoPDF products and are free to download. The US Army Corps of Engineers distributes GeoPDF maps through the U.S. Army Corps of Engineers Topographic Engineering Center. These include Country DVDs of standard National Geospatial-Intelligence Agency (NGA) maps. 
+
+== Naming ==
+The GeoPDF trademark should not be confused with georeferencing techniques such as the OGC best practice or Adobe's geospatial extensions to ISO 32000 or with geospatial PDF files in general. Nothing about the georeferencing metadata in a GeoPDF product is proprietary; these metadata are embedded in conformance with published specifications and best practices. GeoPDF is best thought of as a branded instance of geospatial PDF.
+
+== See also ==
+*Geospatial PDF
+*The National Map
+
+== Further reading ==
+* 
+*US Topo
+
+== External links ==
+*TerraGo Technologies website 
+*Adobe Geospatial PDF
+*USGS map store
+*U.S. Army Corps of Engineers Topographic Engineering Center
+*National Spatial Data Infrastructure: Federal Geographic Data Committee
+* Avenza Systems Geospatial PDF Creator Software
+*Avenza PDF Maps
+
+Category:Adobe Inc.
+Category:Vector graphics
+Category:GIS file formats

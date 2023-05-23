@@ -1,0 +1,102 @@
+Title: Department for Infrastructure (Northern Ireland)
+
+
+
+
+The Department for Infrastructure (DfI, ; Ulster-Scots: Depairment fur Infrastructure) is a devolved Northern Ireland government department in the Northern Ireland Executive. 
+
+Up until May 2016, the department was called the Department for Regional Development.
+
+==Aim==
+DfI's overall aim is to "improve quality of life by securing transport and water infrastructure and shaping the region's long-term strategic development".Northern Ireland Budget 2011–15, page 91
+
+== Responsibilities ==
+The department's main responsibilities include 
+* regional strategic planning and development;
+* transport strategy and sustainable transport;
+* public roads;
+* public transport;
+* air and sea ports;
+* water and sewerage services.
+
+Two transport matters are reserved to Westminster and are therefore not devolved: 
+
+* navigation (including merchant shipping)
+* civil aviation
+
+DfI's main counterparts in the United Kingdom Government are:
+* the Department for Transport;
+* the Department for Environment, Food and Rural Affairs (on water);Defra: Water 
+* the Department for Communities and Local Government (on planning).
+
+In the Irish Government, its main counterparts are:
+* the Department of Transport;Department of Transport, Tourism and Sport: About Us 
+* the Department of Housing, Local Government and Heritage (on water and planning).
+
+==Agencies==
+* DfI Roads: Responsible for ensuring that measures are taken to implement the roads aspects of the Regional Transportation Strategy for Northern Ireland 2002–12 and that the public road network is managed, maintained and developed.  Roads Service is responsible for just over 25,000 kilometres of public roads, approximately 9,000 kilometres of footways, 5,800 bridges, 257,700 streetlights and 370 public car parks.
+* Driver and Vehicle Agency: Responsible for vehicle MOT testing, driver testing and driver licensing.
+
+==History==
+The Ministry of Home Affairs was established on the formation of Northern Ireland in June 1921 and was responsible for a range of non-economic domestic matters, including local government.  A separate Ministry of Health and Local Government was formed in 1944 and was subsequently split in 1965, to create the Ministry of Development.  An environment ministry existed in the 1974 Northern Ireland Executive and the ministry was known as the Department of the Environment under direct rule.
+
+The DoE is still a phrase used in everyday language in Northern Ireland to describe the Roads Service, which was once run by the department but is currently an agency of the Department for Infrastructure.
+
+Following a referendum on the Belfast Agreement on 23 May 1998 and the granting of royal assent to the Northern Ireland Act 1998 on 19 November 1998, a Northern Ireland Assembly and Northern Ireland Executive were established by the United Kingdom Government under Prime Minister Tony Blair. The process was known as devolution and was set up to return devolved legislative powers to Northern Ireland. DRD was one of five new devolved Northern Ireland departments created in December 1999 by the Northern Ireland Act 1998 and The Departments (Northern Ireland) Order 1999.
+
+A devolved minister first took office on 2 December 1999.  Devolution was suspended for four periods, during which the department came under the responsibility of direct rule ministers from the Northern Ireland Office:
+* between 12 February 2000Article 2, Northern Ireland Act 2000 (Commencement) Order 2000 and 30 May 2000;Article 2, Northern Ireland Act 2000 (Restoration of Devolved Government) Order 2000
+* on 11 August 2001;Article 1, Northern Ireland Act 2000 (Suspension of Devolved Government) Order 2001Article 2, Northern Ireland Act 2000 (Restoration of Devolved Government) Order 2001
+* on 22 September 2001;Article 1, Northern Ireland Act 2000 (Suspension of Devolved Government) (No.2) Order 2001Article 2, Northern Ireland Act 2000 (Restoration of Devolved Government) (No.2) Order 2001
+* between 15 October 2002Article 1, Northern Ireland Act 2000 (Suspension of Devolved Government) Order 2002 and 8 May 2007.Article 2, Northern Ireland Act 2000 (Restoration of Devolved Government) Order 2007
+
+Since 8 May 2007, devolution has operated without interruption.
+
+== Ministers for Infrastructure==
+{| class="wikitable" style="margin: 1em auto 1em auto"
+|- bgcolor=cccccc
+!  !!Minister!!Image!!Party!!Took office!!Left office
+|-
+| style="background:" |     || Peter Robinson || 60px ||   || 29 November 1999  || 11 February 2000
+|-
+| colspan="6" align="center"| Office suspended 
+|-
+| style="background:" |     || Peter Robinson || 60px ||   || 30 May 2000 || 26 July 2000
+|-
+| style="background:" |     || Gregory Campbell || 60px ||   || 27 July 2000||18 October 2001Office suspended for 24 hours on 11 August 2001 and 22 September 2001
+|-
+| style="background:" |     || Peter Robinson || 60px ||   || 25 October 2001||11 October 2002
+|-
+| colspan="6" align="center"| Office suspended
+|-
+| style="background:" |     || Conor Murphy || 60px||   || 14 May 2007 || 4 May 2011
+|-
+| style="background:" |     || Danny Kennedy || 60px ||   || 16 May 2011 || 2 September 2015
+|-
+| style="background:" |     || Michelle McIlveen|| 60px ||   || 21 September 2015 || 30 March 2016Resigned on 21 September 2015, re-entered office on 23 Sept. till 24 Sept., then 30 Sept.-1 Oct. 2015. Following the 20 October she permanently occupies the office
+|-
+| colspan="6" align="center"| Office renamed Minister for Infrastructure 
+|-
+| style="background:" |     || Chris Hazzard || 60px ||   || 25 May 2016 || 26 January 2017 
+|-
+| colspan="6" align="center"| Office suspended 
+|-
+| style="background:" |    
+|| Nichola Mallon || 60px ||   || 11 January 2020 || 5 May 2022
+|-
+| style="background:" |    
+|| John O'Dowd || 60px ||   || 16 May 2022 ||27 October 2022
+|}
+
+===Direct rule ministers===
+During the periods of suspension, the following ministers of the Northern Ireland Office were responsible for the department:
+
+*Adam Ingram (2000)
+*Angela Smith (2002–03)
+*John Spellar (2003–05)
+*Shaun Woodward (2005–06)
+*David Cairns (2006–07)
+
+==See also==
+* Committee for Infrastructure
+

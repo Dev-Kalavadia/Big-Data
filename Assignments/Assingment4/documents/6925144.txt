@@ -1,0 +1,34 @@
+Title: Pseudobulweria
+__NOTOC__
+
+
+Pseudobulweria is a genus of seabirds in the family Procellariidae. They have long been retained with the gadfly petrel genus Pterodroma despite morphological differences. Mitochondrial DNA cytochrome b sequence analysis has confirmed the split out of Pterodroma and places the genus closer to shearwaters. They thus represent either a plesiomorphic lineage still sharing some traits of the ancestral Procellariidae with the gadfly petrels, or convergent evolution of a shearwater to the ecological niche of gadfly petrels.
+
+They are a poorly known and highly endangered group: 3 of the 4 extant species are listed by the IUCN as critically endangered.  The Tahiti petrel (Pseudobulweria rostrata) is the most familiar and the best studied.
+
+==Description and ecology==
+They are generally largish darkish petrels, but may have white undersides. They are long-winged and fly about with rather leisurely wingbeats and soar a lot. Though they are attracted by chum, Pseudobulweria petrels are not particularly prone to following ships. They often approach floating prey from downwind, picking it up without landing on the water or during a brief landing in which the wings are kept raised.
+
+The breeding range of Pseudobulweria is limited essentially by the Equator and the Tropic of Capricorn, and possibly always has been. Non-breeding birds range more widely, but in general they are rarely met with in the Northern Hemisphere or outside tropical regions. Today, the genus inhabits only the Indo-Pacific region; formerly it was also found in the Atlantic. Three of the four extant Pseudobulweria species are listed as critically endangered. All three of these species are poorly known: the Fiji petrel (P. macgillivrayi), Beck's petrel (P. becki) and the Mascarene petrel (P. aterrima) are among the least well known seabird species on Earth, with the breeding colonies of all three species still a matter of speculation and awaiting confirmation. Both the former species have been seen very seldom since their discovery by science, although the Mascarene petrel is encountered on Réunion island as a result of light-induced fallout. Only the Tahiti petrel (P. rostrata) is more common across the Pacific Ocean, but it is still listed as near threatened. One species of Pseudobulweria has gone extinct in recent history; it has been described from subfossil remains found on Saint Helena.
+
+==Taxonomy==
+The genus Pseudobulweria was introduced in 1936 by the Australian born ornithologist Gregory Mathews with the Fiji petrel as the type species. Mathews suggested that petrels in his new genus Pseudobulweria had longer wings than those in Bulweria: "In Bulweria the wing measurement is less than twice the tail measurement; in Pseudobulweria the wing measurement is more than twice that of the tail."
+
+===Species===
+The genus contains five species of which one is now extinct.
+{| class="wikitable"
+|-
+! Image !! Scientific name !! Common Name !! Distribution
+|-
+| ||Pseudobulweria macgillivrayi || Fiji petrel ||    Gau Island, Fiji 
+|-
+|120px ||Pseudobulweria rostrata|| Tahiti petrel|| American Samoa, Australia, Fiji, French Polynesia, Mexico, New Caledonia, New Zealand, the Solomon Islands, Tonga, Vanuatu, and possibly the Cook Islands.
+|-
+| ||Pseudobulweria becki || Beck's petrel||   Melanesia
+|-
+|120px ||Pseudobulweria aterrima|| Mascarene petrel ||   Réunion
+|-
+| ||Pseudobulweria rupinarum || Saint Helena petrel ||  Saint Helena (became extinct in the early 16th century)
+|-
+|}
+

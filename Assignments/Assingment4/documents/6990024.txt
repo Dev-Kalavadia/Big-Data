@@ -1,0 +1,144 @@
+Title: Bhilwara Lok Sabha constituency
+
+
+
+Bhilwara Lok Sabha constituency is one of the 25 Lok Sabha (parliamentary) constituencies in Rajasthan state in India.
+
+==Assembly segments==
+Presently, Bhilwara Lok Sabha constituency comprises eight Vidhan Sabha (legislative assembly) segments. These are:
+{| class="wikitable" width="500px"
+! width="50px" style="font-size:75%" |Constituency number
+! width="200px" |Name
+! width="100px" style="font-size:75%" |Reserved for (SC/ST/None)
+! width="150px" |District
+|-
+|177
+|Asind
+|None
+|Bhilwara
+|-
+|178
+|Mandal
+|None
+|Bhilwara
+|-
+|179
+|Sahara
+|None
+|Bhilwara
+|-
+|180
+|Bhilwara
+|None
+|Bhilwara
+|-
+|181
+|Shahpura
+|SC
+|Bhilwara
+|-
+|182
+|Jahazpur
+|None
+|Bhilwara
+|-
+|183
+|Mandalgarh
+|None
+|Bhilwara
+|-
+|184
+|Hindoli
+|None
+|Bundi
+|-
+|}
+
+==Members of Parliament==
+{| class="wikitable"
+|-
+! Lok Sabha!!Duration!!Name of M.P.!!Party Affiliation
+|-
+| First||1952-57||Hari Ram Nathany||Ram Rajya Parishad
+|-
+| Second||1957-62||Ramesh Chandra Vyas|| rowspan="3" |Indian National Congress
+|-
+| Third||1962-67||K. L. Shrimali
+|-
+| Fourth||1967-71||Ramesh Chandra Vyas
+|-
+| Fifth||1971-77||Hemendra Singh Banera||Bharatiya Jana Sangh
+|-
+| Sixth||1977-80||Rooplal Somani||Janata Party
+|-
+| Seventh||1980-84|| rowspan="2" |Girdhari Lal Vyas||Indian National Congress (I)
+|-
+| Eighth||1984-89||Indian National Congress
+|-
+| Ninth||1989-91||Hemendra Singh Banera||Janata Dal
+|-
+| Tenth||1991-96||Shiv Charan Mathur||Indian National Congress
+|-
+| Eleventh||1996-98||Subhash Chandra Baheria||Bharatiya Janata Party
+|-
+| Twelfth||1998-99||Rampal Upadhyay||Indian National Congress
+|-
+| Thirteenth||1999-04|| rowspan="2" |Vijayendrapal Singh|| rowspan="2" |Bharatiya Janata Party
+|-
+| Fourteenth||2004-09
+|-
+| Fifteenth||2009-14||Dr. C. P. Joshi||Indian National Congress
+|-
+| Sixteenth||2014-19|| rowspan="2" |Subhash Chandra Baheria|| rowspan="2" |Bharatiya Janata Party
+|-
+| Seventeenth||2019-Incumbent
+|}
+
+==Election results==
+===2019===
+
+
+
+
+
+
+
+
+
+
+===2014===
+
+
+
+
+
+
+
+
+
+===2009===
+
+
+
+
+
+
+
+
+
+
+===2004===
+
+
+
+
+
+
+
+
+
+
+==See also==
+* Bhilwara district
+* List of Constituencies of the Lok Sabha
+

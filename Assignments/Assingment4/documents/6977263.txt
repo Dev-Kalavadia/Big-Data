@@ -1,0 +1,86 @@
+Title: Final Fantasy XII: Revenant Wings
+
+
+ is a real-time tactical role-playing game developed by Think & Feel and Square Enix and published by Square Enix for the Nintendo DS. It is a stand-alone title related to the 2006 PlayStation 2 role-playing video game Final Fantasy XII.
+
+One year after the events of Final Fantasy XII, the protagonist Vaan is a sky pirate, possessing his own airship. He is joined in a quest by his friend and navigator Penelo, other returning characters from the original title, along with new characters such as Llyud, a member of the Aegyl race who have wings protruding from their backs. Their treasure-hunting adventures take them to the purvama (floating continent) of Lemurés and the ground below, where the story begins.
+
+Revenant Wings is the first title announced in the Ivalice Alliance series of video games. The North American release of the game was rebalanced to be more difficult than the Japanese version, and was released on November 20, 2007.
+
+== Gameplay ==
+After completing a prologue sequence, the player starts the game with an airship, named after their clan (with a default name of Galbana, or  in the Japanese version). The airship is used as a base where the player can check on their current mission and view other tasks, customize equipment in the synthesis shop, or travel between the four islands of Lemurés. The airship's interior can also be customized by the player.
+
+=== Battle system ===
+Revenant Wings is a real-time strategy game, but with elements reminiscent of the turn-based Final Fantasy Tactics and Tactics Advance. It can be played entirely with the Nintendo DS stylus. Battles are initiated when the player begins a mission or chooses to fight a melee battle in a particular area. The characters attack automatically once the enemy is within range. The player is given the option to give commands to the characters by tapping on them with the stylus. Possible commands include changing the character's target, setting their gambit, or using various abilities.
+
+Each character is distinguished according to three types: melee, ranged and flying. Melee characters attack at a close range, and ranged from afar, while flying are able to travel unbound to terrain. The types oppose each other in the manner where melee wins over ranged, ranged wins over flying and flying wins over melee.
+
+=== Summoning ===
+Summoning magic returns from Final Fantasy XII in Revenant Wings and has a larger role; director Motomu Toriyama said that Revenant Wings has more summons, or Espers, than any previous Final Fantasy game. Summon abilities are learned via the new Ring of Pacts system, which is used to allow the summoning of Espers. Each slot in the Ring of Pacts is placed with an Auracite to create a pact with the Esper. The number of summons available to the player is fifty-one, and they are classified in different categories, with each character able to summon a large number depending on the party's combined capacity.
+
+Summoning Espers to aid in battle is accomplished by using a Summon Gate located in the play field area. The ability to summon the different creatures depend on the Affinity of the player characters. Additionally, two Espers per character are automatically summoned at the beginning of each battle where Espers are allowed. Espers can be linked to battle groups using a system reminiscent of the earlier Square game Bahamut Lagoon. Summons are ranked from 1 to 3, with Rank 1 and 2 able to manifest in large numbers, as opposed to Rank 3 which summons only one entity. Before the battle begins, players can select up to five Espers to possibly summon through Esper Gates in the upcoming battle (Esper Troupes); one Rank 3 Esper, two Rank 2 Espers, and two Rank 1 Espers. Summons are also differentiated by varying elements, which are fire, water, earth, and lightning. Recovery and non-elemental are two other types.
+
+=== Synthesizing ===
+An element of alchemy and synthesizing is used in the game, where the player obtains recipes and materials necessary for the synthesis process. Only leader characters can obtain the materials, of which can be synthesized into weapons and armor and the stats of being dependent on the materials' grade.
+
+== Plot ==
+=== Setting ===
+
+A few locations in the Ivalice of Final Fantasy XII and Final Fantasy Tactics Advance return in Revenant Wings, along with a new setting: Lemurés, described in the official website as a legendary purvama (floating continent) raised into the skies by the god Feolthanos long before the events of the game. Because of the effect of Cloudstones or "Auraliths", magical stones used to erect barriers, this purvama is shielded from the rest of the world. In time, the "Legend of the Floating Land" became an ambition for sky pirates who seek the island and what riches are on it. The ruins of Lemurés are where the Aegyl reside; the Aegyl are a human-like race with wings sprouting from their backs and a life-span of forty years. Due to being shielded within Lemurés, the Aegyl have no knowledge of the outside world but what they learn from intruding sky pirates.
+
+The magicite in Lemurés are known as Auracite. Fragments of Auralith, Auracites are used in the Ring of Pacts to summon beasts known as the Yarhi, referred by others of Ivalice as Espers. However, extended use of Auracite can purge the user of his or her anima, which becomes a new Yarhi and continues the cycle until the user becomes a soulless shell.
+
+=== Characters ===
+
+thumb|Ryoma Itō's design for Vaan
+Revenant Wings adds four main playable characters to the six in Final Fantasy XII: Kytes and Filo, two orphans from Rabanastre; Llyud, a resident of Lemures; and Ba'Gamnan, a sinister bounty hunter who has a grudge against Vaan and company for having involved themselves in his affairs during the first game. Kytes and Filo appeared as a NPCs in XII, while Ba'Gamnan had been a recurring antagonist. All three characters gain larger roles in this game.
+
+Summon designs have also been changed. The lizard design of Salamander, for example, was changed to be boar-like to ensure the designs would come out well and distinguishable within the DS' graphical capabilities. Each summon has three Ranks, and the designs of each Rank are so that there are relations between one Rank and another.
+
+=== Story ===
+Revenant Wings begins a year after the events of Final Fantasy XII, with Vaan flying his own airship with Penelo after Balthier and Fran "stole" the Strahl. The foursome is revisited in Bervenia and decide to accompany each other inside to obtain the Cache of Glabados.Balthier's note: Something more valuable: the Cache of Glabados. I await in Bervenia.
+
+While obtaining a treasure, two strange crystals, the building begins to collapse on itself. In the ensuing chaos, Vaan loses his airship and are forced to flee the site on Balthier's airship. Balthier soon drops Vaan and Penelo back in Rabanastre where they, along with Kytes and Filo, witness a strange object flying overhead: a derelict airship. After sneaking aboard the airship and defeating the Bangaa headhunter Ba'Gamnan, Vaan and company christen the airship whatever the player decides (default Galbana) and find themselves on the purvama Lemurés by accident. While looking around the unknown ruins, they meet Llyud of the Aegyl race and learn his people are locked in battle with sky pirates who are raiding the island for treasure. Lemurés is said to possess summoning crystals called Auracite. Deciding to aid the Aegyl in defending Lemurés, Vaan's group learns the pirates were recruited by the mysterious Judge of Wings, who seeks out the three Auraliths, grand masses of Auracite that protect Lemurés from the outside world.
+
+When the group confronts the Judge of Wings at the site of the first auralith, the Judge of Wings destroys the auralith, leading Vaan and his friends to have visions of Balthier confronting the Judge of Wings and losing, after which they hear sky pirates are gathering at the Skysea, and they go there to find Rikken, a friend of Vaan's. He says he may know something about the Judge of Wings, but to get answers, Vaan must compete in Rikken's tournament.
+
+After saving Rikken, it is revealed that Rikken knows nothing about the Judge, but Tomaj discovers there is an auracite shrine beneath the Skysea. When venturing there, the group encounters Ba'Gamnan who kidnaps Filo, taking her deeper within the shrine. When the group catches up with him, Rikken agrees to help rescue Filo, and once she is rescued, the party moves on to confront the esper Belias, the Gigas, that was summoned by the Judge of Wings. Once defeated, the Judge summons the massive esper Bahamut, who destroys the Skysea, and the party becomes island-trapped.
+
+While stranded, the group meets Velis, a man who was at Nalbina and got lost while searching for his lover, Mydia. After a lot of character development, it is discovered Velis is, in fact, dead, and actually an esper that the group must battle when the Judge of Wings comes and controls him. After Velis is defeated (as the esper Odin), it is discovered the Judge of Wings is Mydia, but she then flees the island. Tomaj runs to the group, tells them the airship is fixed, and that he has spotted the Strahl, Balthier's ship.
+
+When the group finds the ship, they find Fran, who says Balthier is within a mountain on the island they are now on. Once inside, the group discovers an auralith, and the group plus Fran must defeat Mydia and the esper Mateus while protecting Balthier. Once defeated, Mydia flees without destroying the auralith, but Balthier then turns on the group and destroys the auralith, which sends the party into an illusion.
+
+While within the illusion, the team discovers the Aegyl are so emotionless because they are deprived of anima, which is harvested by their god, Feolthanos, and stored in the auraliths. This illusion is the world of the espers, and they find Velis, who makes everything clear: Mydia is a body, stripped of its anima, controlled by Feolthanos to reap anima for him, and if the auraliths are destroyed, the Aegyl's anima will return and as such, they must destroy the auraliths.
+
+Once awoken from the illusion, Vaan confronts Balthier, who already knew these newly discovered facts, and Balthier and Fran join the team. The group then finds the Leviathan, the ship of Queen Ashe and Judge Magister Basch, who join the team as they venture through Ivalice, Emperor Larsa also joining. Mydia, as it turns out, is a Feol Viera, more commonly known as an Exiled, of which have white skin and shorter ears and hair as compared to the normal Viera who are darker-skinned and longer-haired. While in Roda Volcano, the team battles Mydia and the esper Chaos, and, as Mydia takes her dying breath, requests the team go to Feolthanos' palace above Lemurés and kill him. Her anima guides them up as they prepare to open the final chapter of their story.
+
+Above Lemurés, the team battles reincarnations of dead Aegyl, and then battle the reincarnated form of Mydia's anima, while discovering Feolthanos, the god, is, himself, the last auralith. When the team ventures all the way to the seat of Feolthanos' power, they battle him and the anima-stripped Aegyl he commands. When he is almost defeated, he summons Bahamut to do battle with the team. After his giant shrine is destroyed, there is a one-on-one battle between Vaan and Feolthanos in which Feolthanos is apparently stronger, but as Vaan begins to lose, his friends come to back him up: first Ashe and Basch, Balthier and Fran, then Filo and Kytes, Llyud, and finally Penelo---the only battle in the game where every group leader is involved. In the end, Llyud deals the final blow to Feolthanos, releasing all the remaining stored anima.
+
+After the end of the battle with Feolthanos, the game ends, and the characters are shown going their separate ways as the credits roll. If 100% game completion is reached there is an extended ending which shows Vaan and Penelo leaving together as a couple on a new adventure only to be interrupted by Filo, Kytes and Tomaj with some Yarhi and Cuit Sith in tow.
+
+== Development ==
+The game was directed and its story written by Motomu Toriyama, who also directed Final Fantasy X-2 and XIII. According to Toriyama, the game is aimed at Nintendo DS owners who are not experienced with Final Fantasy games, and removes overly complicated elements from the battle system, allowing the player to defeat the enemies with minimal controls. The game was the second and currently last game developed by Think & Feel, their first game being The Con on the PlayStation Portable.
+
+The game features a sprite-based graphics engine with 3D backgrounds and character designs by Ryoma Itō (Final Fantasy Tactics Advance). Producer Eisuke Yokoyama cited Warcraft and Age of Empires as sources of inspiration and expressed a desire to "extract the pure 'fun' of those games" and bring it to Final Fantasy. Itō based some of his designs on those of Final Fantasy XII character designer Akihiko Yoshida. Itō "traded secrets" with him, with the confidence he gained from Final Fantasy XII creator Yasumi Matsuno's praise on his tampering with Final Fantasy Tactics Advances Moogle designs.
+
+For the North American localization, Revenant Wings was rebalanced to make it more difficult because the North American market is judged as "more familiar" with the real-time strategy genre. They also added a dungeon and a boss from Final Fantasy XII.
+
+== Audio ==
+Revenant Wings was scored by Final Fantasy XII composer Hitoshi Sakimoto, joined by Kenichiro Fukui, who had arranged the English version of "Kiss Me Good-Bye". Most of the music for the game is arrangements from the previous title. While the Nintendo DS has more technical limitations than the PlayStation 2, Sakimoto considers it not particularly noticeable in practice.
+
+Unlike in Final Fantasy XII, the music is entirely dynamic and context-dependent. Each track possesses different parts, ranging from musical themes of peaceful moments to frantic battle cries, which are activated when the actions of the players require it and are looped until the context is changed again.
+
+== Reception ==
+
+
+As of August 2008, Revenant Wings has sold 1.04 million units worldwide, with 540,000 units sold in Japan, 220,000 units in North America, and 280,000 in Europe. It was the best-selling Japanese console game in the week of its release, then the second best-selling in the following week.
+
+The Japanese version of the game scored 32/40 in the Japanese gaming magazine Famitsu. The game also received praise from reviewers of Dengeki DS & Wii Style. Praise was given to the mission-based storyline and battles for being "simple and more involved". The large number of characters who can enter the fray at one given time gives a sense of involvement for the player as if they were "close to the action", and the game's difficulty may appeal even to those who "do not normally play role-playing games". The only criticism found was with the usage of the stylus, as its usage in selecting areas on the battlefield can be difficult.
+
+The North American version of the game scored mainly positive reviews. Nintendo Power gave it a 7.5/10, IGN gave it an 8.3/10, 1UP.com gave it a B+, GameSpot and GameZone both gave it an 8.5/10.
+
+Electronic Gaming Monthly also gave it generally favorable reviews, with staff giving it scores of 8, 7.5, and 6 (all out of 10). The reviewers praised the game's combination of role-playing and strategy, but criticized the screen size relative to the amount of action. IGN named it Nintendo DS Game of the Month for November 2007.
+
+==Notes==
+
+

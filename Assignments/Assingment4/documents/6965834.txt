@@ -1,0 +1,29 @@
+Title: Yelena Vinogradova
+Yelena Vinogradova (, born 28 March 1964) is a female track and field athlete who represented the Soviet Union. She specialized in the 200 metres and often ran relay races, winning the silver medal in the 4 × 100 metres relay and placing eighth in the 200 m at the 1991 World Championships.Women 200m World Championship 1991 Tokyo (JPN) - Friday 30.08 . She won a gold medal in the women's 4 × 400 metres relay at the 1990 Goodwill Games.Athletics results. Goodwill Games. Retrieved on 2010-06-24.
+
+==International competitions==
+{| 
+|-
+!colspan="5"|Representing 
+|-
+|rowspan=2|1990
+|European Championships 
+|Split, Yugoslavia
+|bgcolor="silver" | 2nd
+|4 × 400 m relayXV CAMPEONATOS DE EUROPA DE ATLETISMO .
+|-
+|Goodwill Games
+|Seattle, United States
+|bgcolor="gold" | 1st
+|4 × 400 m relay
+|-
+|rowspan=2|1991
+|rowspan=2|World Championships 
+|rowspan=2|Tokyo, Japan
+|8th
+|200 m
+|-
+|bgcolor="silver" | 2nd
+|4 × 100 m relay
+|}
+

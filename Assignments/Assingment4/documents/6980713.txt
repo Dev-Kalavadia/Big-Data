@@ -1,0 +1,219 @@
+Title: Bai language
+
+
+
+The Bai language (Bai: ; ) is a language spoken in China, primarily in Yunnan Province, by the Bai people. The language has over a million speakers and is divided into three or four main dialects. Bai syllables are always open, with a rich set of vowels and eight tones. The tones are divided into two groups with modal and non-modal (tense, harsh or breathy) phonation. There is a small amount of traditional literature written with Chinese characters, Bowen (), as well as a number of recent publications printed with a recently standardized system of romanisation using the Latin alphabet.
+
+The origins of Bai have been obscured by intensive Chinese influence of an extended period. Different scholars have proposed that it is an early offshoot or sister language of Chinese, part of the Loloish branch or a separate group within the Sino-Tibetan family.
+
+==Varieties==
+
+Xu and Zhao (1984) divided Bai into three dialects, which may actually be distinct languages: Jianchuan (Central), Dali (Southern) and Bijiang (Northern). Bijiang County has since been renamed as Lushui County. Jianchuan and Dali are closely related and speakers are reported to be able to understand one another after living together for a month.
+
+The more divergent Northern dialects are spoken by about 15,000 Laemae (, Lemei, Lama), a clan numbering about 50,000 people who are partly submerged within the Lisu. They are now designated as two languages by ISO 639-3:
+* Panyi, spoken by people called Lemo () on the Nu River (upper Salween) in Lushui County.
+* Lama, spoken by people called Lama () on the Lancang River (upper Mekong) in Lanping County and Weixi County.
+
+Wang Feng (2012) provides the following classification for nine Bai dialects:
+
+;Bai 
+*Western
+**Gongxing (), Lanping County
+**(core branch)
+***Enqi (), Lanping County; Jinman (金满), Lushui County
+***Tuoluo (), Weixi County
+***Ega (), Lushui County
+*Eastern
+**Mazhelong (), Qiubei County
+**(core branch)
+***Jinxing (), Jianchuan County
+***Dashi (), Heqing County
+***Zhoucheng (), Dali City
+
+Wang (2012) also documents a Bai dialect in Xicun, Dacun Village, Shalang Township, Kunming City (昆明市沙朗乡大村西村).
+
+==Classification==
+The affiliation of Bai is obscured by over two millennia of influence from varieties of Chinese, leaving most of its lexicon related to Chinese etyma of various periods. To determine its origin, researchers must first identify and remove from consideration the various layers of loanwords and then examine the residue. In his survey of the field, Wang (2006) notes that early work was hampered by a lack of data on Bai and uncertainties in the reconstruction of early forms of Chinese.  Recent authors have suggested that Bai is an early offshoot from Chinese, a sister language to Chinese, or more distantly related (though usually still Sino-Tibetan).
+
+There are different tonal correspondences in the various layers. Many words can be identified as later Chinese loans because they display Chinese sound changes from the last two millennia:
+* labiodental fricatives, which developed from earlier labial stops in certain environments.
+* palatal affricates from earlier velar stops in palatal environments.
+* aspirated stops from earlier voiced stops in words having the Middle Chinese level tone.
+* the initial , which developed from Old Chinese *r-.
+Some of these changes date back to the first centuries AD.
+
+The oldest layer of Bai vocabulary with Chinese cognates, of which Wang lists some 250 words, includes common Bai words that were also common in Classical Chinese, but are not used in modern varieties of Chinese. Its features have been compared with current ideas on Old Chinese phonology:
+* The voiceless nasals and lateral postulated for Old Chinese are absent, though in some cases the reflexes match those in western dialects of Han Chinese, rather than those of eastern dialects from which Middle Chinese and most modern varieties are descended.
+* Where Middle Chinese has l-, believed to be a reflex of Old Chinese *r, Bai varieties have  before ,  before a nasal final, and  elsewhere. However, in words where Middle Chinese l- corresponds to  in inland Min dialects, Bai often has a stop initial, providing support for Baxter and Sagart's suggestion that such initials derive from clusters.
+* Old Chinese *l- generally has similar palatal and dental reflexes in Bai and Middle Chinese, but seems to be preserved in a few Bai words.
+* The Old Chinese finals *-aw and *-u merged in Middle Chinese syllables without a palatal medial by the 4th century AD, but are still distinguished in Bai.
+* Several words with Old Chinese *-ts, which developed to -j with the departing tone in Middle Chinese, produce tonal reflexes in Bai corresponding to an original stop coda.
+Sergei Starostin suggests that these facts indicate a split from mainstream Chinese around the 2nd century BC, corresponding to the Western Han period.  Wang argues that a few of the correspondences between his reconstructed Proto-Bai and Old Chinese cannot be explained by the Old Chinese forms, and that Chinese and Bai therefore form a Sino-Bai group.  However, Gong suggests that at least some of these cases can be accounted for by refining the Proto-Bai reconstruction to take account of complementary distribution within Bai.
+
+Starostin and Zhengzhang Shangfang have separately argued that the oldest Chinese layer accounts for all but an insignificant residue of Bai vocabulary, and that Bai is therefore an early branching from Chinese.
+
+On the other hand, Lee and Sagart (1998) argued that the various layers of Chinese vocabulary are loans, and that when they are removed, a significant non-Chinese residue remains, including 15 entries from the 100-word Swadesh list of basic vocabulary. They suggest that this residue shows similarities with Proto-Loloish. James Matisoff (2001) argued that the comparison with Loloish is less persuasive when considering other Bai varieties than the Jianchuan dialect used by Lee and Sagart, and that it is safer to consider Bai as an independent branch of Sino-Tibetan, though perhaps close to the neighbouring Loloish. Lee and Sagart (2008) refined their analysis, presenting the residue as a non-Chinese form of Sino-Tibetan, though not necessarily Loloish. They also note that this residue includes the Bai vocabulary relating to pig rearing and rice agriculture.
+
+Lee and Sagart's analysis has been further discussed by List (2009). Gong (2015) suggests that the residual layer may be Qiangic, pointing out that the Bai, like the Qiang, call themselves "white", whereas the Lolo use "black".
+
+==Phonology==
+The Jianchuan dialect has the following consonants, all of which are restricted to syllable-initial position:
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="2" |
+! Labial
+! Alveolar
+! Palatal
+! Velar
+|-
+! rowspan="2" | Stop
+! unaspirated
+|  ||  || || 
+|-
+! aspirated
+|  ||  || || 
+|-
+! rowspan="2" | Affricate
+! unaspirated
+| ||  ||  ||
+|-
+! aspirated
+| ||  ||  ||
+|-
+! rowspan="2" | Fricative
+! voiceless
+|  ||  ||  || 
+|-
+! voiced
+|  || || || 
+|-
+! colspan="2"| Nasal
+|  ||  || || 
+|-
+! colspan="2"| Approximant
+| ||  ||  ||
+|}
+
+The Gongxing and Tuolou dialects retain an older 3-way distinction for stop and affricate initials between voiceless unaspirated, voiceless aspirated and voiced. In the core eastern group, including the standard form of Dali, the voiced initials have become voiceless unaspirated, while other dialects show partial loss of voicing, conditioned by tone in different ways. Some varieties also have an additional uvular nasal  that contrasts phonemically with .
+
+Jianchuan finals comprise:
+* pure vowels:        
+* diphthongs:        
+* triphthong: 
+All but ,  and  have contrasting nasalized variants.
+Dali Bai lacks nasal vowels. Some other varieties retain nasal codas instead of nasalization, though only the Gongxing and Tuolou dialects have a contrast between  and .
+
+Jianchuan has eight tones, divided between those with modal and non-modal phonation. Some of the western varieties have fewer tones.
+
+==Syntax==
+Bai has a basic subject–verb–object (SVO) order. However, SOV can be found in interrogative and negative sentences.
+
+==Writing system==
+===Latin script===
+The old Bai script used modified Chinese characters, but its use was limited. A new script based on the Latin alphabet was designed in 1958, based on the speech of the urban centre of Xiaguan, even though it was not a typical Southern dialect. The idea of romanization was controversial among Bai elites and the system saw little use. In a renewed attempt in 1982, language planners used the Jianchuan dialect as a base, because it represented an area with a significant population, almost all of whom spoke Bai.  The new script was popular in the Jianchuan area, but was rejected in the more economically advanced area of Dali, which also had the largest number of speakers, albeit living alongside a large number of speakers of Chinese. The script was revised extensively in 1993 to define two variants, representing Jianchuan and Dali respectively and has since been more widely used.
+
+{| class="wikitable"
+|+ Initials of the Bai writing system (1982, 1993)
+|-
+! colspan=2 |
+! Labial
+! Alveolar
+! Retroflex
+! Palatal
+! Velar
+|-
+! rowspan=2 | Stop
+! 
+| b  || d  || || || g 
+|-
+! 
+| p  || t  || || || k 
+|-
+! colspan=2 | Nasal
+| m  || n  || || ni  || ng 
+|-
+! rowspan=2 | Affricate
+! 
+| || z  || zh  || j  ||
+|-
+! 
+| || c  || ch  || q  ||
+|-
+! rowspan=2 | Fricative
+! 
+| f  || s  || sh  || x  || h 
+|-
+! 
+| v  || ss  || r  || || hh 
+|-
+! colspan=2 | Lateral and semivowel
+| || l  || || y  ||
+|}
+
+The retroflex initials zh, ch, sh and r are used only in recent loanwords from Standard Chinese or for other Bai varieties.
+
+{| class="wikitable"
+|+ Vowels of the revised Bai writing system (1993)
+|-
+| i [i] || ei [e] || ai/er [ɛ]/[əɹ] || a [ɑ] || ao [ɔ] || o [o] || ou [ou] || u [u] || e [ɯ] || v [v̩]
+|-
+|  || || iai/ier [iɛ]/[iəɹ] || ia [iɑ] || iao [iao] || io [io] || iou [iou] || || ie [iɯ] ||
+|-
+| u [ui] || || uai/uer [uɛ]/[uəɹ] || ua [uɑ] || || uo [uo] || || || || 
+|}
+
+The 1993 revision introduced variants ai/er etc, with the former to be used for Jianchuan Bai and the latter for Dali Bai. In Jianchuan, all vowels but ao, iao, uo, ou and iou have nasalized counterparts, denoted by a suffixed n. Dali Bai lacks nasalized vowels.
+
+Suffixed letters indicate tone contours and modal or non-modal phonation. This was the most radical aspect of the 1993 revision:
+{| class="wikitable"
+|+ 
+Tone marking in the 1982 and 1993 systems
+|-
+! Pitch contour and phonation !! 1982 spelling !! 1993 spelling !! Notes
+|-
+| high level (55), modal || -l || -l ||
+|-
+| mid level (33), modal || -x || -x ||
+|-
+| mid falling (31), breathy || -t || -t ||
+|-
+| mid rising (35), modal || -f || -f ||
+|-
+| mid-low falling (21), harsh || (unmarked) || -d ||
+|-
+| high level (55), tense || -rl || -b || Jianchuan only
+|-
+| mid-high level (44), tense || -rx || (unmarked) ||
+|-
+| mid-high falling (42), tense || rowspan="2" | -rt || -p ||
+|-
+| mid falling (32), modal || -p/-z || distinguished in Dali only
+|}
+===Bowen script===
+thumb|Shanhua tablet (山花碑), written in Bowen script.
+Bowen script (), also known as Square Bai Script (), Hanzi Bai Script (), Hanzi-style Bai Script (), or Ancient Bai Script (), was a logographic script formerly used by the Bai people, adapted from Hanzi to fit the Bai language. The script was used from the Nanzhao period to the beginning of the Ming dynasty.
+
+The Shanhua tablet (山花碑), from Dali Town in Yunnan, contains a poem written using Bowen text from the Ming dynasty by the Bai poet Yang fu (杨黼),  《詞記山花·詠蒼洱境》.
+
+==Examples==
+Nge, no – I
+Ne, no – you
+
+Cai ho – red flower
+Gei bo – rooster
+A de gei bo – a rooster
+
+Ne mian e ain hain? – What's your name?
+Ngo mian e A Lu Gai. – My name is A Lu Gai.
+Ngo ze ne san se yin a biu. – I don't recognize you.
+
+Ngo ye can. – I'm eating.
+Ne can ye la ma? – Have you eaten?
+Ne ze a ma yin? – Who are you?
+Ne ze nge mo a bio. – You are not my mother.
+Ngo zei pi ne gan. – I'm taller than you.
+Ne nge no hha si bei. – You won't let me go.
+
+==Notes==
+
+

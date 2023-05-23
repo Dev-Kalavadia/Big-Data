@@ -1,0 +1,125 @@
+Title: Locally connected space
+right|thumb|In this topological space, V is a neighbourhood of p and it contains a connected open set (the dark green disk) that contains p.
+
+In topology and other branches of mathematics, a topological space X is
+locally connected if every point admits a neighbourhood basis consisting entirely of open, connected sets.
+
+==Background==
+Throughout the history of topology, connectedness and compactness have been two of the most
+widely studied topological properties.  Indeed, the study of these properties even among subsets of Euclidean space, and the recognition of their independence from the particular form of the Euclidean metric, played a large role in clarifying the notion of a topological property and thus a topological space.  However, whereas the structure of compact subsets of Euclidean space was understood quite early on via the Heine–Borel theorem, connected subsets of \R^n (for n > 1) proved to be much more complicated.  Indeed, while any compact Hausdorff space is locally compact, a connected space—and even a connected subset of the Euclidean plane—need not be locally connected (see below).
+
+This led to a rich vein of research in the first half of the twentieth century, in which topologists studied the implications between increasingly subtle and complex variations on the notion of a locally connected space.  As an example, the notion of weak local connectedness at a point and its relation to local connectedness will be considered later on in the article.
+
+In the latter part of the twentieth century, research trends shifted to more intense study of spaces like manifolds, which are locally well understood (being locally homeomorphic to Euclidean space) but have complicated global behavior. By this it is meant that although the basic point-set topology of manifolds is relatively simple (as manifolds are essentially metrizable according to most definitions of the concept), their algebraic topology is far more complex. From this modern perspective, the stronger property of local path connectedness turns out to be more important: for instance, in order for a space to admit a universal cover it must be connected and locally path connected. Local path connectedness will be discussed as well.
+
+A space is locally connected if and only if for every open set U, the connected components of U (in the subspace topology) are open.  It follows, for instance, that a continuous function from a locally connected space to a totally disconnected space must be locally constant.  In fact the openness of components is so natural that one must be sure to keep in mind that it is not true in general: for instance Cantor space is totally disconnected but not discrete.
+
+==Definitions==
+
+Let X be a topological space, and let x be a point of X.
+
+A space X is called locally connected at xMunkres, p. 161 if every neighborhood of x contains a connected open neighborhood of x, that is, if the point x has a neighborhood base consisting of connected open sets.  A locally connected spaceWillard, Definition 27.7, p. 199 is a space that is locally connected at each of its points.
+
+Local connectedness does not imply connectedness (consider two disjoint open intervals in \R for example); and connectedness does not imply local connectedness (see the topologist's sine curve).
+
+A space X is called locally path connected at x if every neighborhood of x contains a path connected open neighborhood of x, that is, if the point x has a neighborhood base consisting of path connected open sets.  A locally path connected spaceWillard, Definition 27.4, p.199 is a space that is locally path connected at each of its points.
+
+Locally path connected spaces are locally connected.  The converse does not hold (see the lexicographic order topology on the unit square).
+
+===Connectedness im kleinen===
+
+A space X is called connected im kleinen at xWillard, Definition 27.14, p. 201 or weakly locally connected at xMunkres, exercise 6, p. 162 if every neighborhood of x contains a connected neighborhood of x, that is, if the point x has a neighborhood base consisting of connected sets.  A space is called weakly locally connected if it is weakly locally connected at each of its points; as indicated below, this concept is in fact the same as being locally connected.
+
+A space that is locally connected at x is connected im kleinen at x.  The converse does not hold, as shown for example by a certain infinite union of decreasing broom spaces, that is connected im kleinen at a particular point, but not locally connected at that point.Steen & Seebach, example 119.4, p. 139Munkres, exercise 7, p. 162  However, if a space is connected im kleinen at each of its points, it is locally connected.Willard, Theorem 27.16, p. 201
+
+A space X is said to be path connected im kleinen at x, section 2 if every neighborhood of x contains a path connected neighborhood of x, that is, if the point x has a neighborhood base consisting of path connected sets.
+
+A space that is locally path connected at x is path connected im kleinen at x.  The converse does not hold, as shown by the same infinite union of decreasing broom spaces as above.  However, if a space is path connected im kleinen at each of its points, it is locally path connected.
+
+==First examples==
+
+# For any positive integer n, the Euclidean space \R^n is locally path connected, thus locally connected; it is also connected.
+# More generally, every locally convex topological vector space is locally connected, since each point has a local base of convex (and hence connected) neighborhoods.
+# The subspace S = [0,1] \cup [2,3] of the real line \R^1 is locally path connected but not connected.
+# The topologist's sine curve is a subspace of the Euclidean plane that is connected, but not locally connected.Steen & Seebach, pp. 137–138
+# The space \Q of rational numbers endowed with the standard Euclidean topology, is neither connected nor locally connected. 
+# The comb space is path connected but not locally path connected, and not even locally connected.
+# A countably infinite set endowed with the cofinite topology is locally connected (indeed, hyperconnected) but not locally path connected.Steen & Seebach, pp. 49–50
+# The lexicographic order topology on the unit square is connected and locally connected, but not path connected, nor locally path connected.Steen & Seebach, example 48, p. 73
+# The Kirch space is connected and locally connected, but not path connected, and not path connected im kleinen at any point.  It is in fact totally path disconnected.
+
+A first-countable Hausdorff space (X, \tau) is locally path-connected if and only if \tau is equal to the final topology on X induced by the set C([0, 1]; X) of all continuous paths [0, 1] \to (X, \tau).
+
+==Properties==
+
+
+
+
+For the non-trivial direction, assume X is weakly locally connected.  To show it is locally connected, it is enough to show that the connected components of open sets are open.
+
+Let U be open in X and let C be a connected component of U. Let x be an element of C. Then U is a neighborhood of x so that there is a connected neighborhood V of x contained in U.  Since V is connected and contains x, V must be a subset of C (the connected component containing x). Therefore x is an interior point of C.  Since x was an arbitrary point of C, C is open in X. Therefore, X is locally connected.
+
+
+# Local connectedness is, by definition, a local property of topological spaces, i.e., a topological property P such that a space X possesses property P if and only if each point x in X admits a neighborhood base of sets that have property P.  Accordingly, all the "metaproperties" held by a local property hold for local connectedness. In particular:
+# A space is locally connected if and only if it admits a base of (open) connected subsets. 
+# The disjoint union \coprod_i X_i of a family \{X_i\} of spaces is locally connected if and only if each X_i is locally connected.  In particular, since a single point is certainly locally connected, it follows that any discrete space is locally connected.  On the other hand, a discrete space is totally disconnected, so is connected only if it has at most one point.
+# Conversely, a totally disconnected space is locally connected if and only if it is discrete.  This can be used to explain the aforementioned fact that the rational numbers are not locally connected.
+# A nonempty product space \prod_i X_i is locally connected if and only if each X_i is locally connected and all but finitely many of the X_i are connected.Willard, theorem 27.13, p. 201
+# Every hyperconnected space is locally connected, and connected.
+
+==Components and path components==
+
+The following result follows almost immediately from the definitions but will be quite useful:
+
+Lemma: Let X be a space, and \{Y_i\} a family of subsets of X.  Suppose that  \bigcap_i Y_i  is nonempty.  Then, if each Y_i is connected (respectively, path connected) then the union \bigcup_i Y_i is connected (respectively, path connected).Willard, Theorem 26.7a, p. 192
+
+Now consider two relations on a topological space X: for x,y \in X, write:
+:x \equiv_c y if there is a connected subset of X containing both x and y; and
+: x \equiv_{pc} y  if there is a path connected subset of X containing both x and y.
+
+Evidently both relations are reflexive and symmetric.  Moreover, if x and y are contained in a connected (respectively, path connected) subset A and y and z are connected in a connected (respectively, path connected) subset B, then the Lemma implies that A \cup B is a connected (respectively, path connected) subset containing x, y and z.  Thus each relation is an equivalence relation, and defines a partition of X into equivalence classes.  We consider these two partitions in turn.
+
+For x in X, the set C_x of all points y such that y \equiv_c x is called the connected component of x.Willard, Definition 26.11, p.194  The Lemma implies that C_x is the unique maximal connected subset of X containing x.Willard, Problem 26B, pp. 195–196  Since
+the closure of C_x is also a connected subset containing x,Kelley, Theorem 20, p. 54; Willard, Theorem 26.8, p.193 it follows that C_x is closed.Willard, Theorem 26.12, p. 194
+
+If X has only finitely many connected components, then each component is the complement of a finite union of closed sets and therefore open.  In general, the connected components need not be open, since, e.g., there exist totally disconnected spaces (i.e., C_x = \{x\} for all points x) that are not discrete, like Cantor space.  However, the connected components of a locally connected space are also open, and thus are clopen sets.Willard, Corollary 27.10, p. 200  It follows that a locally connected space X is a topological disjoint union \coprod C_x of its distinct connected components.  Conversely, if for every open subset U of X, the connected components of U are open, then X admits a base of connected sets and is therefore locally connected.Willard, Theorem 27.9, p. 200
+
+Similarly x in X, the set PC_x of all points y such that y \equiv_{pc} x is called the path component of x.Willard, Problem 27D, p. 202  As above, PC_x is also the union of all path connected subsets of X that contain x, so by the Lemma is itself path connected.  Because path connected sets are connected, we have PC_x \subseteq C_x for all x \in X.
+
+However the closure of a path connected set need not be path connected: for instance, the topologist's sine curve is the closure of the open subset U consisting of all points (x,y) with x > 0, and U, being homeomorphic to an interval on the real line, is certainly path connected.  Moreover, the path components of the topologist's sine curve C are U, which is open but not closed, and C \setminus U, which is closed but not open.
+
+A space is locally path connected if and only if for all open subsets U, the path components of U are open.  Therefore the path components of a locally path connected space give a partition of X into pairwise disjoint open sets.  It follows that an open connected subspace of a locally path connected space is necessarily path connected.Willard, Theorem 27.5, p. 199  Moreover, if a space is locally path connected, then it is also locally connected, so for all x \in X, C_x is connected and open, hence path connected, that is, C_x = PC_x.  That is, for a locally path connected space the components and path components coincide.
+
+===Examples===
+
+# The set I \times I  (where I = [0, 1]) in the dictionary order topology has exactly one component (because it is connected) but has uncountably many path components. Indeed, any set of the form \{a\} \times I is a path component for each a belonging to I.
+# Let f : \R \to \R_{\ell} be a continuous map from \R to \R_{\ell} (which is \R in the lower limit topology). Since \R  is connected, and the image of a connected space under a continuous map must be connected, the image of \R under f must be connected. Therefore, the image of \R under f must be a subset of a component of \R_{\ell}/ Since this image is nonempty, the only continuous maps from '\R to \R_{\ell}, are the constant maps. In fact, any continuous map from a connected space to a totally disconnected space must be constant.
+
+==Quasicomponents==
+
+Let X be a topological space.  We define a third relation on X: x \equiv_{qc} y if there is no separation of X into open sets A and B such that x is an element of A and y is an element of B.   This is an equivalence relation on X and the equivalence class QC_x containing x is called the quasicomponent of x.
+
+QC_x can also be characterized as the intersection of all clopen subsets of X that contain x. Accordingly QC_x is closed; in general it need not be open.
+
+Evidently C_x \subseteq QC_x for all x \in X.  Overall we have the following containments among path components, components and quasicomponents at x:
+PC_x \subseteq C_x \subseteq QC_x.
+
+If X is locally connected, then, as above, C_x is a clopen set containing x, so QC_x \subseteq C_x and thus QC_x = C_x.  Since local path connectedness implies local connectedness, it follows that at all points x of a locally path connected space we have
+PC_x = C_x = QC_x.
+
+Another class of spaces for which the quasicomponents agree with the components is the class of compact Hausdorff spaces.Engelking, Theorem 6.1.23, p. 357
+
+===Examples===
+
+# An example of a space whose quasicomponents are not equal to its components is a sequence with a double limit point. This space is totally disconnected, but both limit points lie in the same quasicomponent, because any clopen set containing one of them must contain a tail of the sequence, and thus the other point too.
+# The space (\{0\}\cup\{\frac{1}{n} : n \in \Z^+\}) \times [-1,1] \setminus \{(0,0)\} is locally compact and Hausdorff but the sets \{0\} \times [-1,0) and \{0\} \times (0,1] are two different components which lie in the same quasicomponent.
+# The Arens–Fort space is not locally connected, but nevertheless the components and the quasicomponents coincide: indeed QC_x = C_x = \{x\} for all points x.Steen & Seebach, pp. 54-55
+
+==See also==
+* 
+* 
+* It is conjectured that the Mandelbrot set is locally connected
+
+==Notes==
+
+

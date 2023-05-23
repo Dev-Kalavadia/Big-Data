@@ -1,0 +1,105 @@
+Title: D2 motorway (Slovakia)
+
+
+D2 is a motorway () in Slovakia.
+It connects the Czech border at Kúty with the Hungarian border at Čunovo, passing through (ordered north to south) Malacky, Bratislava and Jarovce. It is part of the European routes E65 and E75 and of the Pan-European Corridor IV. The construction of the  highway started in 1969 and it was finished in 2007. It is the only complete highway in Slovakia.
+
+==History==
+The first plans on D2 motorway/freeway appeared in the 1960s, from the Czechoslovak government act in 1963 to build 117 km long motorway from Brno to Bratislava, with 58.4 km in today's Slovakia. The construction started in April 1969, with the first section from Bratislava to Malacky, which was open in November 1973. In 1974, construction also started on the Czech side from Brno, with the two ends of the motorways joining on 8 November 1980, a day, when also the D1 motorway in the Czech part of Czechoslovakia was completed, joining the three most important cities in the country (Prague, Brno and Bratislava). A new planned segment from Bratislava to the Hungarian border was added in 1987. Construction continued with the building of the Lafranconi Bridge in Bratislava and the junction with D1 motorway junction and temporary end in Petržalka in the years 1985 - 1991 and after its opening, construction stopped for five years.
+
+Construction resumed only in 1996, with the sections from the temporary end to Hungary and Austria, with all being opened in 1998 and with the 8.5 km segment from D4 junction to the Hungarian border being widened in 2002. Today, the motorway is complete, with the last 3 km in Bratislava opened on 24 June 2007. This section contained the only tunnel in its entire length, the Sitina Tunnel.
+
+As of 2012, part of the D2 highway is still not officially finished as it was put into temporary use 12 years ago and the paperwork to legalize the section of the highway near Jarovce is unobtainable due to excessive noise levels.There are plans to widen the motorway to a six lane motorway with 3 lanes going one way and this is to be done by 2033.
+
+==Sections of the motorway==
+{| class="wikitable sortable"
+!Section order
+!Section designation
+!Section length in km
+!Start of construction of section
+!Opening of section 
+!Exits and intersections
+|-
+|1.
+|state border Czech Republic/Slovakia - Kúty
+|5
+|1976
+|1978 (right half)1979 (left half)
+|1. Corners
+|-
+|2.
+|Kúty - Malacky
+|24.3
+|1973
+|1978
+|2. Malacca
+|-
+|3.
+|Malacky - Lozorno
+|11.5
+|1969
+|1973
+|3. Lozorno
+|-
+|4.
+|Lozorno - Stupava
+|8.8
+|1969
+|1973
+|4. Intersection D2xD4, Stupava
+|- style="background-color: #e56262"
+|4.
+|Lozorno - Stupava, extension to 3 + 3 lanes
+|8.8
+|2030
+|2033
+|4. Intersection D2xD4, Stupava, reconstruction
+|-
+|5.
+|Stupava - Bratislava, Lamač
+|9.2
+|1969
+|1973
+|5. Bratislava - Lamač
+6. Bratislava - Harmincova
+|- style="background-color: #e56262"
+|5.
+|Stupava - Bratislava, Lamač, extension of the section to the Bratislava - Lamač exit, to 3 + 3 lanes
+|5.4
+|2030
+|2033
+|5. Bratislava - Lamač, reconstruction
+|-
+|6.
+|Bratislava, Lamač - Bratislava, Staré Grunty
+|3,3
+|2003
+|2007
+|Section without exits
+|-
+|7.
+|Bratislava, Staré Grunty - Bratislava, Viedenská
+|2.8
+|1985
+|1990 (right half)1991 (left half)
+|7. Bratislava - Mlynská dolina
+8. Intersection D2xD1, Bratislava - Pečňa
+|-
+|8.
+|Bratislava, Vienna - Bratislava, Jarovce
+|6.3
+|1996
+|1998
+|9. Intersection D2xD4, Bratislava - Jarovce
+|-
+|9.
+|Bratislava, Jarovce - state border Slovakia/Hungary
+|9.3
+|1996 (right half)2001 (left half)
+|1998 (right half)2002 (left half)
+|Section without exits
+|}
+
+==See also==
+* D2 motorway (Czech Republic)
+

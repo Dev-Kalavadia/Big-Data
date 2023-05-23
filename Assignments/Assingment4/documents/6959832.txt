@@ -1,0 +1,33 @@
+Title: Cation channels of sperm
+
+
+
+
+
+
+The cation channels of sperm also known as Catsper channels or CatSper, are ion channels that are related to the two-pore channels and distantly related to TRP channels. The four members of this family form voltage-gated Ca2+ channels that seem to be specific to sperm. As sperm encounter the more alkaline environment of the female reproductive tract, CatSper channels become activated by the altered ion concentration. These channels are required for proper fertilization. The study of these channels has been slow because they do not traffic to the cell membrane in many heterologous systems.
+
+There are several factors that can activate the CatSper calcium channel, depending on species. In the human, the channel is activated by progesterone released by the oocyte. Progesterone binds to the protein ABHD2 which is present in the sperm plasma membrane, which causes ABHD2 to cleave an inhibitor of CatSper (2-arachidonoylglycerol) into arachidonic acid and glycerol. The human CatSper channel is pH-sensitive, and requires a high-pH environment. CatSper plays a key role in mediating hyperactive motility – prior to fertilization, sperm become entrapped within the fingerlike projections of the microvilli of the oviduct. In order for the sperm to fertilize the oocyte, CatSper must be present in order to initiate hyperactive motility, allowing the sperm to escape the microvilli and reach the oocyte for fertilization.
+
+Certain substances act as agonist or inhibitor of CatSper (e. g. Pregnenolone sulfate is an agonist, pristimerin and lupeol are inhibitors).
+
+Of the four members of the Catsper family, Catsper1 is found in the primary piece of sperm. Catsper1 plays an important role in evoked Ca2+ entry and regulation of hyperactivation in sperm. Catsper2 is localized in the sperm tail and is responsible for regulation of hyperactivation. Catsper3 and Catsper4 are found in both, the testes and sperm and play an important role in the motility of hyperactivated sperm. In humans, CatSper is distributed in quadrilateral nanodomains along the principal piece. Although Catsper seems to play an important role in sperm function, Catspers1-4 null mice have been found to have normal testicular histology, sperm counts and morphology, which is indicative of normal progression of spermatogenesis. 
+
+== See also ==
+* Acrosome reaction
+
+== References ==
+
+
+== External links ==
+* 
+* GeneReviews/NCBI/NIH/UW entry on CATSPER-Related Male Infertility
+* 
+
+
+
+Category:Ion channels
+Category:Voltage-gated ion channels
+Category:Transmembrane proteins
+Category:Electrophysiology
+Category:Calcium channels

@@ -1,0 +1,61 @@
+Title: Shear band
+A shear band (or, more generally, a 'strain localization') is a narrow zone of intense shearing strain, usually of plastic nature, developing during severe deformation of ductile materials.
+As an example, a soil (overconsolidated silty-clay) specimen is shown in Fig. 1, after an axialsymmetric compression test. Initially the sample was cylindrical in shape and, since symmetry was tried to be preserved during the test, the cylindrical shape was maintained for a while during the test and the deformation was homogeneous, but at extreme loading two X-shaped shear bands had formed and the subsequent deformation was strongly localized (see also the sketch on the right of Fig. 1).
+
+right|thumb|300px|Fig. 1: An initially cylindrical soil sample has been deformed in a setting designed to maintain symmetry (lubricated top and bottom heads have been used). Despite the attempt of preserving symmetry, two X-shaped shear bands are clearly visible (see also the sketch on the right, where initial vertical scratches on the external surface help understanding the shear deformation).
+
+==Materials in which shear bands are observed==
+
+Although not observable in brittle materials (for instance glass at room temperature), shear bands or, more generally, ‘localized deformations’ usually develop within a broad range of ductile materials (alloys, metals, granular materials, plastics, polymers, and soils) and even in quasi-brittle materials (concrete, ice, rock, and some ceramics).
+The relevance of the shear banding phenomena is that they precede failure, since extreme deformations occurring within shear bands lead to intense damage and fracture. Therefore, the formation of shear bands is the key to the understanding of failure in ductile materials, a research topic of great importance for the design of new materials and for the exploiting of existing materials in extreme conditions. As a consequence, localization of deformation has been the focus of an intense research activity since the middle of the 20th century.
+
+==Mathematical modeling==
+
+Shear band formation is an example of a material instability, corresponding to an abrupt loss of homogeneity of deformation occurring in a solid sample subject to a loading path compatible with continued uniform deformation. In this sense, it may be interpreted as a deformation mechanism ‘alternative’ to a trivial one and therefore a bifurcation or loss of uniqueness of a ‘perfect’ equilibrium path. The distinctive character of this bifurcation is that it may occur even in an infinite body (or under the extreme constraint of smooth contact with a rigid constraint).
+
+Consider an infinite body made up of a nonlinear material, quasi-statically deformed in a way that stress and strain may remain homogeneous. The incremental response of this nonlinear material is assumed for simplicity linear, so that it can be expressed as a relation between a stress increment \dot\sigma and a strain increment \dot\varepsilon , through a fourth-order constitutive tensor \Complex  as
+
+where the fourth-order constitutive tensor \Complex depends on the current state, i.e. the current stress, the current strain and, possibly, other constitutive parameters (for instance, hardening variables for metals, or density for granular materials).
+
+Conditions are sought for the emergence of a surface of discontinuity (of unit normal vector \mathbf{n}) in the incremental stress and strain. These conditions are identified with the conditions for the occurrence of localization of deformation. In particular, incremental equilibrium requires that the incremental tractions (not the stresses!) remain continuous
+
+(where + and - denote the two sides of the surface) and geometrical compatibility imposes a strain compatibility restriction on the form of incremental strain:
+
+where the symbol \otimes  denotes tensor product and \mathbf{g} is a vector defining the deformation discontinuity mode (orthogonal to \mathbf{n} for incompressible materials). A substitution of the incremental constitutive law (1) and of the strain compatibility () into the continuity of incremental tractions () yields the necessary condition for strain localization:
+
+
+Since the second-order tensor \mathbb{A} (\mathbf{n}) defined for every vector \textbf{g} as
+\mathbb{A} (\textbf{n}) \textbf{g}=\Complex\left(\textbf{g}\otimes\textbf{n}\right) \textbf{n}
+
+is the so-called 'acoustic tensor', defining the condition of propagation of acceleration waves, we can conclude that the condition for strain localization coincides with the condition of singularity (propagation at null speed) of an acceleration wave. This condition represents the so-called 'loss of ellipticity' of the differential equations governing the rate equilibrium.
+
+==State-of-the-art ==
+The state-of-the-art of the research on shear bands is that the phenomenon is well understood from the theoretical Bigoni, D. Nonlinear Solid Mechanics: Bifurcation Theory and Material Instability. Cambridge University Press, 2012. .Biot, M.A. (1965) Mechanics of incremental deformations. New York, Wiley.Mandel, J. (1962) Ondes plastiques dans un milieu indéfini à trois dimensions. J. de Mécanique 1, 3-30.Nadai, A. (1950) Theory of flow and fracture of solids. McGraw-Hill, New York. Rice, J. R. (1977) The localization of plastic deformation. In Koiter, W.T., ed., Theoretical and Applied Mechanics. Amsterdam, North-Holland. 207-220.Thomas, T.Y. (1961) Plastic flows and fracture of solids. Academic Press, New York. and experimental  point of view and available constitutive models give nice qualitative predictions, although quantitative predictions are often poor.Gajo, A., Bigoni, D. and Muir Wood, D. (2004) Multiple shear band development and related instabilities in granular materials. J. Mech. Phys. Solids 52, 2683-2724. Moreover, great progresses have been made on numerical simulations, so that shear band nucleation and propagation in relatively complex situations can be traced numerically with finite element models, although still at the cost of a great computational effort. Of further interest are simulations that reveal the crystallographic orientation dependence of shear banding in single crystal and polycrystals. These simulations show that certain orientations are much more prone to undergo shear localization than others.
+
+== Shear banding and crystallographic texture ==
+
+Most polycrystalline metals and alloys usually deform via shear caused by dislocations, twins, and / or shear bands. This leads to pronounced plastic anisotropy at the grain scale and to preferred grain orientation distributions, i.e. crystallographic textures. Cold rolling textures of most face centered cubic metals and alloys for instance range between two types, i.e. the brass-type texture and the copper-type texture. The stacking fault energy plays an important role for the prevailing mechanisms of plastic deformation and the resultant textures. For aluminum and other fcc materials with high SFE, dislocation glide is the main mechanism during cold rolling and the {112}<111> (copper) and {123}<634> (S) texture components (copper-type textures) are developed. In contrast, in Cu–30 wt.% Zn (alpha-brass) and related metals and alloys with low SFE, mechanical twinning and shear banding occur together with dislocation glide as main deformation carriers, particularly at large plastic deformations. The resulting rolling textures are characterized by the {011}<211> (brass) and {01 1}<100> (Goss) texture components (brass-type texture). In either case non-crystallographic shear banding plays an essential role for the specific type of deformation texture evolved.
+
+==A perturbative approach to analyze shear band emergence==
+
+Closed-form solutions disclosing the shear band emergence can be obtained through the perturbative approach,Bigoni, D. and Capuani, D. (2002) Green's function for incremental nonlinear elasticity: shear bands and boundary integral formulation.  Journ. Mech. Phys. Sol. 50, 471-500.Bigoni, D. and Capuani, D. (2005) Time-harmonic Green's function and boundary integral formulation for incremental nonlinear elasticity: dynamics of wave patterns and shear bands.  Journ. Mech. Phys. Sol. 53, 1163-1187. consisting in the superimposition of a perturbation field upon an unperturbed deformed state.
+In particular, an infinite, incompressible, nonlinear elastic material, homogeneously deformed under the plane strain condition can be perturbed through superposition of concentrated forces or by the presence of cracks  or rigid line inclusions.
+
+It has been shown that, when the unperturbed state is taken close to the localization condition (4), the perturbed fields self-arrange in the form of localized fields, taking extreme values in the neighbourhood of the introduced perturbation and focussed along the shear bands directions. In particular, in the case of cracks  and rigid line inclusions such shear bands emerge from the linear inclusion tips.Dal Corso F. and Bigoni D. (2009) The interactions between shear bands and rigid lamellar inclusions in a ductile metal matrix. Proc. R. Soc. Lond. A, 465, 143-163.
+
+Within the perturbative approach, an incremental model for a shear band of finite length has been introducedBigoni, D. and Dal Corso, F. (2008)  The unrestrainable growth of a shear band in a prestressed material. Proc. R. Soc. Lond. A,  464, 2365-2390. prescribing the following conditions along its surface:
+* null incremental nominal shearing tractions;
+* continuity of the incremental nominal normal traction;
+* continuity of normal incremental displacement.
+
+Employing this model, the following main features of shear banding have been demonstrated:
+# similarly to fracture mechanics, a square-root singularity in the stress/deformation fields develops at the shear band tips;
+# in presence of a shear band, the strain field is localized and strongly focussed in the direction aligned parallel to the shear band;
+# since the energy release rate associated to the shear band growth blows up to infinity near the localization condition (4), shear bands represent preferential failure modes.
+
+==See also==
+* Amorphous metal
+* Deformation (engineering)
+* Triaxial shear test
+* Adiabatic shear band
+

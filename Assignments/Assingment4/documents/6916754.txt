@@ -1,0 +1,36 @@
+Title: Ottar Gjermundshaug
+
+
+
+
+
+
+Ottar Gjermundshaug (29 January 1925, Alvdal – 10 April 1963) was a Norwegian nordic combined skier who competed in the early 1950s. He won a silver medal in the individual event at the 1950 FIS Nordic World Ski Championships in Lake Placid, New York.
+
+Gjermundshaug also finished sixth in the individual event and 18th in the 18 km cross-country skiing event at the 1952 Winter Olympics in Oslo.
+
+He represented Alvdal IL.
+==Cross-country skiing results==
+===Olympic Games===
+{| class="wikitable" style="font-size:95%; text-align:center; border:grey solid 1px; border-collapse:collapse; background:#ffffff;"
+! style="background-color:#369; color:white; width:60px;"| Year  
+! style="background-color:#369; color:white; width:40px;"| Age  
+! style="background-color:#4180be; color:white; width:75px;"|  18 km 
+! style="background-color:#4180be; color:white; width:75px;"|  50 km 
+! style="background-color:#4180be; color:white; width:75px;"| 4 × 10 km  relay 
+|-
+| 1952 || 27 ||   17  || — || — 
+|-
+|}
+===World Championships===
+{| class="wikitable" style="font-size:95%; text-align:center; border:grey solid 1px; border-collapse:collapse; background:#ffffff;"
+! style="background-color:#369; color:white; width:60px;"| Year  
+! style="background-color:#369; color:white; width:40px;"| Age  
+! style="background-color:#4180be; color:white; width:75px;"|  18 km 
+! style="background-color:#4180be; color:white; width:75px;"|  50 km 
+! style="background-color:#4180be; color:white; width:75px;"| 4 × 10 km  relay 
+|-
+| 1950 || 25 ||— || ||— 
+|-
+|}
+

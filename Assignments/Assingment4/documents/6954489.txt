@@ -1,0 +1,882 @@
+Title: Minnesota Vikings statisticsThe Minnesota Vikings is an American football franchise based in Minneapolis, Minnesota. The team was established in 1961 and is part of the National Football League's NFC North division. Since then, the team has taken part in the NFL playoffs 31 times, reaching four Super Bowls in 1970, 1974, 1975 and 1977.
+
+This list encompasses the major records set by the team, its coaches and its players. The players section of this page lists the individual records for passing, rushing and receiving, as well as selected defensive records. The team has had three full-time home stadiums since its establishment – Metropolitan Stadium, Hubert H. Humphrey Metrodome, and U.S. Bank Stadium; attendance records, both home and away, are included on this page.
+
+==All-time series==
+The Vikings have played against every other team in the NFL at least five times each in the regular season. They have a winning record against 20 teams, a losing record against 10 and an even record against one: the Cincinnati Bengals, whom they have played 14 times, winning seven each. The Vikings' best record is against the Houston Texans – they have won each of the five meetings between the two teams – and their worst record is against the New York Jets, whom they have beaten just three times in 11 meetings for a win percentage of .273; that is a team record for the fewest wins against another franchise, tied with their three wins in seven meetings with the Baltimore Ravens (.429). The Vikings have recorded the most wins in their history against the Detroit Lions (80), as well as the most points (2,690). The Vikings have conceded the most points to the Green Bay Packers (2,689), who are also the team against whom they have suffered the most losses (63) and ties (3).
+
+In the postseason, the Vikings have faced 18 different opponents, but they only have a win percentage of .500 or higher against six of them. The Vikings' best postseason win percentage is against the Arizona Cardinals and the Cleveland Browns, whom they have beaten every time they have met – the Cardinals twice and the Browns once; meanwhile, they have faced eight teams without recording a single win, the worst being against the Philadelphia Eagles, whom they have met four times without winning. The Vikings have recorded their most postseason wins against the Los Angeles Rams, whom they have beaten five times in seven meetings, and their most losses against the San Francisco 49ers, to whom they have lost five times in six meetings. The Vikings have also conceded their most postseason points against the 49ers (181), and scored their most against the New Orleans Saints (161). As well as meeting the Rams seven times in the postseason, the Vikings have also met the Dallas Cowboys seven times, recording three wins and four losses.
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+!rowspan="2" width="150px"|Team
+!width="30px"|W!!width="30px"|L!!width="30px"|T!!width="30px"|Win%!!width="100px"|Points scored!!width="100px"|Points allowed
+!width="30px"|W!!width="30px"|L!!width="30px"|Win%!!width="100px"|Points scored!!width="100px"|Points allowed
+|-
+!colspan="6"|Regular season
+!colspan="5"|Playoffs
+|-
+!Arizona
+|16||12||0||0.571||689||636
+|2||0||1.000||71||35
+|-
+!Atlanta
+|19||11||0||0.633||708||513
+|1||1||0.500||57||54
+|-
+!Baltimore
+|3||4||0||0.429||178||187
+|0||0||—||—||—
+|-
+!Buffalo
+|9||6||0||0.600||353||279
+|0||0||—||—||— 
+|-
+!Carolina
+|10||6||0||0.625||322||340
+|0||0||—||—||—
+|-
+!Chicago
+|65||56||2||0.537||2,591||2,374
+|0||1||0.000||18||35
+|-
+!Cincinnati
+|7||7||0||0.500||311||270
+|0||0||—||—||—
+|-
+!Cleveland
+|11||5||0||0.688||417||254
+|1||0||1.000||27||7
+|-
+!Dallas
+|12||15||0||0.444||624||647
+|3||4||0.429||135||123
+|-
+!Denver
+|8||7||0||0.533||332||339
+|0||0||—||—||—
+|-
+!Detroit
+|80||41||2||0.659||2,713||2,313
+|0||0||—||—||—
+|-
+!Green Bay
+|56||64||3||0.467||2,414||2,730
+|1||1||0.500||41||41
+|-
+!Houston
+|5||0||0||1.000||147||91
+|0||0||—||—||—
+|-
+!Indianapolis
+|8||17||1||0.327||538||683
+|0||1||0.000||14||24
+|-
+!Jacksonville
+|6||1||0||0.857||188||134
+|0||0||—||—||—
+|-
+!Kansas City
+|5||7||0||0.417||264||212
+|0||1||0.000||7||23
+|-
+!Las Vegas
+|6||9||0||0.400||314||349
+|0||1||0.000||14||32
+|-
+!LA Chargers
+|8||6||0||0.571||345||330
+|0||0||—||—||—
+|-
+!LA Rams
+|22||16||2||0.575||922||888
+|5||2||0.714||150||150
+|-
+!Miami
+|6||7||0||0.462||277||263
+|0||1||0.000||7||24
+|-
+!New England
+|5||9||0||0.357||287||310
+|0||0||—||—||—
+|-
+!New Orleans
+|20||12||0||0.625||813||638
+|4||1||0.800||161||101
+|-
+!NY Giants
+|17||10||0||0.630||657||493
+|1||3||0.250||57||111
+|-
+!NY Jets
+|4||8||0||0.333||236||289
+|0||0||—||—||—
+|-
+!Philadelphia
+|15||11||0||0.577||611||593
+|0||4||0.000||51||122
+|-
+!Pittsburgh
+|10||8||0||0.556||425||364
+|0||1||0.000||6||16
+|-
+!San Francisco
+|22||20||1||0.523||955||975
+|1||5||0.167||104||181
+|-
+!Seattle
+|6||12||0||0.333||417||476
+|0||1||0.000||9||10
+|-
+!Tampa Bay
+|33||23||0||0.589||1,197||1,026
+|0||0||—||—||—
+|-
+!Tennessee
+|9||5||0||0.643||375||235
+|0||0||—||—||—
+|-
+!Washington
+|13||10||0||0.565||577||507
+|2||3||0.400||86||102
+|-
+!Totals
+!516!!425!!11!!0.548!!21,197!!19,738
+!21!!31!!0.404!!1,015!!1,191
+|}
+Last updated: As of the end of the 2022 NFL season
+
+==Team records==
+
+===Firsts===
+*First home game: Chicago Bears 13–37 Minnesota Vikings, September 17, 1961
+*First road game: Minnesota Vikings 7–21 Dallas Cowboys, September 24, 1961
+*First postseason game: Minnesota Vikings 14–24 Baltimore Colts, Divisional Round, December 22, 1968
+*First postseason win: Los Angeles Rams 20–23 Minnesota Vikings, Divisional Round, December 27, 1969
+*First Super Bowl: Minnesota Vikings 7–23 Kansas City Chiefs, Super Bowl IV, January 11, 1970
+*First game at the Hubert H. Humphrey Metrodome: Seattle Seahawks 3–7 Minnesota Vikings, August 21, 1982
+*First regular season game at the Metrodome: Tampa Bay Buccaneers 10–17 Minnesota Vikings, September 12, 1982
+*First game at U.S. Bank Stadium: San Diego Chargers 10–23 Minnesota Vikings, August 28, 2016
+*First regular season game at U.S. Bank Stadium: Green Bay Packers 14–17 Minnesota Vikings, September 18, 2016
+
+===Biggest results===
+*Largest margin of victory (home): 48, Cleveland Browns 3–51 Minnesota Vikings, November 9, 1969
+*Largest margin of victory (road): 40, Minnesota Vikings 43–3 Dallas Cowboys, November 13, 1988
+*Largest margin of defeat (home): 37, Dallas Cowboys 40–3 Minnesota Vikings, November 20, 2022
+*Largest margin of defeat (road): 44, Minnesota Vikings 7–51 San Francisco 49ers, December 8, 1984
+*Biggest comeback: 33, Minnesota Vikings 39-36 Indianapolis Colts, December 17, 2022 (NFL Record)
+*Most points scored in a game: 54, Dallas Cowboys 13–54 Minnesota Vikings, October 18, 1970
+*Most points allowed in a game: 56, St. Louis Cardinals 56–14 Minnesota Vikings, October 6, 1963
+*Most points in a game (both teams): 89, Minnesota Vikings 41–48 Chicago Bears, October 19, 2008
+
+===Wins/losses in a season===
+*Most games won in a season (regular season): 15, 1998
+*Most games won in a season (including postseason): 16, 1998
+*Most games lost in a season: 13
+**1984
+**2011
+
+===Streaks===
+*Most consecutive games won (regular season): 13, 1974–1975
+*Most consecutive games won (including postseason): 12, 1969
+*Most consecutive home games won: 15, 1974–1976
+*Most consecutive road games won: 7
+**1970–1971
+**1973–1974
+*Most consecutive games lost: 8, 2001–2002
+*Most consecutive home games lost: 5
+**1966–1967
+**2011
+*Most consecutive road games lost: 16, 2000–2002
+*Most consecutive games scoring: 260, 1991–2007
+*Most consecutive games with a touchdown: 97, 1995–2001
+*Most consecutive games with a field goal: 31, 1968–1970
+
+===Points===
+*Most points scored in a season: 556, 1998
+*Fewest points scored in a season: 187, 1982 (season reduced to 9 games)
+*Fewest points scored in a 16-game season: 259, 1979
+*Most points allowed in a season: 484, 1984
+*Fewest points allowed in a season: 133, 1969
+*Fewest points allowed in a 16-game season: 233, 1988
+
+===Touchdowns===
+*Most touchdowns scored in a season: 64, 1998
+*Fewest touchdowns scored in a season: 23, 1982 (season reduced to 9 games)
+*Fewest touchdowns scored in a 16-game season: 28, 1993
+*Most touchdowns allowed in a season: 59, 1984
+*Fewest touchdowns allowed in a season: 14
+**1970
+**1971
+*Most touchdowns scored in a game: 7
+**vs. Baltimore Colts, September 28, 1969
+**vs. Pittsburgh Steelers, November 23, 1969
+**at Tampa Bay Buccaneers, October 23, 1988
+*Most touchdowns allowed in a game: 8, vs. St. Louis Cardinals, October 6, 1963
+*Most touchdowns in a game (both teams): 12, at Chicago Bears, December 17, 1961
+
+===Field goals===
+*Most field goals made in a season: 35
+**1998 (Gary Anderson)
+**2012 (Blair Walsh)
+*Most field goals made by opponents in a season: 34, 2006
+*Fewest field goals made in a season: 8
+**1977
+**1982 (season reduced to 9 games)
+*Most field goals made in a game: 7, vs. Los Angeles Rams, November 5, 1989
+*Most field goals made by an opponent in a game: 6
+**vs. Detroit Lions, November 13, 1966
+**at Detroit Lions, October 17, 1999
+
+===Defensive===
+*Most sacks in a game: 10, November 4, 2018
+*Most sacks allowed in a game: 11, October 28, 1984
+
+===Attendances===
+*Largest home attendance (regular season): 67,157, vs. Green Bay Packers, December 23, 2019
+*Largest home attendance (postseason): 66,612, vs. New Orleans Saints, NFC Divisional Playoff Game, January 14, 2018
+*Largest road attendance (regular season): 90,608, at Washington Redskins, September 11, 2006
+*Largest road attendance (postseason): 103,438, vs. Oakland Raiders, Super Bowl XI, Rose Bowl, Pasadena, January 9, 1977
+*Largest total home attendance in a season: 534,804, 2019 (8 games)
+*Smallest home attendance (regular season): 0, vs. Green Bay Packers, September 13, 2020, Tennessee Titans, September 27, 2020, Atlanta Falcons, October 18, 2020, Detroit Lions, November 8, 2020, Dallas Cowboys, November 22, 2020, Carolina Panthers, November 29, 2020, Jacksonville Jaguars, December 6, 2020, and Chicago Bears, December 20, 2020.
+**Restricted fan attendance due to COVID-19 pandemic.
+*Smallest home attendance without restrictions (regular season): 13,911, vs. Green Bay Packers, October 4, 1987
+*Smallest home attendance (postseason): 44,626, vs. St. Louis Cardinals, Divisional Round, December 21, 1974
+*Smallest home attendance at the Metrodome (postseason): 57,353, vs. Washington Redskins, Wildcard Round, January 2, 1993
+*Smallest road attendance (regular season): 0, at Seattle Seahawks, October 11, 2020, at Green Bay Packers, November 1, 2020, and at Chicago Bears, November 16, 2020.
+**Restricted fan attendance due to COVID-19 pandemic.
+*Smallest road attendance without restrictions (regular season): 12,992, at Dallas Cowboys, September 24, 1961
+*Smallest road attendance (postseason): 54,593, at Washington Redskins, Divisional Round, January 15, 1983
+
+==Individual records==
+:Note: Bold indicates the record is still active as of the end of the 2022 NFL season.
+
+
+
+===Most career passing yards===
+{| class="wikitable" style="text-align:center"
+|-
+!width=40px style="background:#3b0160;color:#ffc322"|Rank
+!width=140px style="background:#3b0160;color:#ffc322"|Player
+!width=90px style="background:#3b0160;color:#ffc322"|Total yards
+|-
+|1
+|Fran Tarkenton
+|33,098
+|-
+|2
+|Tommy Kramer
+|24,775
+|-
+|3
+|Kirk Cousins
+|20,934
+|-
+|4
+|Daunte Culpepper
+|20,162
+|-
+|5
+|Wade Wilson
+|12,135
+|-
+|6
+|Brad Johnson
+|11,098
+|-
+|7
+|Warren Moon
+|10,102
+|-
+|8
+|Brett Favre
+|6,711
+|-
+|9
+|Christian Ponder
+|6,658
+|-
+|10
+|Rich Gannon
+|6,457
+|}
+
+
+===Most career passing touchdowns===
+{| class="wikitable" style="text-align:center"
+|-
+!width=40px style="background:#3b0160;color:#ffc322"|Rank
+!width=140px style="background:#3b0160;color:#ffc322"|Player
+!width=90px style="background:#3b0160;color:#ffc322"|Touchdowns
+|-
+|1
+|Fran Tarkenton
+|239
+|-
+|2
+|Tommy Kramer
+|159
+|-
+|3
+|Kirk Cousins	
+|153
+|-
+|4
+|Daunte Culpepper
+|135
+|-
+|5
+|Wade Wilson
+|66
+|-
+|6
+|Brad Johnson
+|65
+|-
+|7
+|Warren Moon
+|58
+|-
+|8
+|Randall Cunningham
+|48
+|-
+|9
+|Brett Favre
+|44
+|-
+|10
+|Rich Gannon
+|40
+|}
+
+
+
+
+
+===Most career rushing yards===
+{| class="wikitable" style="text-align:center"
+|-
+!width=40px style="background:#3b0160;color:#ffc322"|Rank
+!width=140px style="background:#3b0160;color:#ffc322"|Player
+!width=90px style="background:#3b0160;color:#ffc322"|Total yards
+|-
+|1
+|Adrian Peterson
+|11,747
+|-
+|2
+|Robert Smith
+|6,818
+|-
+|3
+|Dalvin Cook
+|5,993
+|-
+|4
+|Chuck Foreman
+|5,879
+|-
+|5
+|Bill Brown
+|5,757
+|-
+|6
+|Ted Brown
+|4,546
+|-
+|7
+|Dave Osborn
+|4,320
+|-
+|8
+|Darrin Nelson
+|4,231
+|-
+|9
+|Tommy Mason
+|3,252
+|-
+|10
+|Michael Bennett
+|3,174
+|}
+
+
+===Most career rushing touchdowns===
+{| class="wikitable" style="text-align:center"
+|-
+!width=40px style="background:#3b0160;color:#ffc322"|Rank
+!width=140px style="background:#3b0160;color:#ffc322"|Player
+!width=90px style="background:#3b0160;color:#ffc322"|Touchdowns
+|-
+|1
+|Adrian Peterson
+|97
+|-
+|rowspan="2"|2
+|Chuck Foreman
+|52
+|-
+|Bill Brown
+|52
+|-
+|4
+|Dalvin Cook
+|47
+|-
+|5
+|Ted Brown
+|40
+|-
+|6
+|Robert Smith
+|32
+|-
+|rowspan="2"|7
+|Daunte Culpepper	
+|29
+|-
+|Dave Osborn
+|29
+|-
+|9
+|Tommy Mason
+|28
+|-
+|10
+|Leroy Hoard
+|26
+|}
+
+
+
+
+
+===Most career receiving yards===
+{| class="wikitable" style="text-align:center"
+|-
+!width=40px style="background:#3b0160;color:#ffc322"|Rank
+!width=140px style="background:#3b0160;color:#ffc322"|Player
+!width=90px style="background:#3b0160;color:#ffc322"|Total yards
+|-
+|1
+|Cris Carter	
+|12,383
+|-
+|2
+|Randy Moss	
+|9,316
+|-
+|3
+|Anthony Carter	
+|7,635
+|-
+|4
+|Adam Thielen
+|6,682
+|-
+|5
+|Jake Reed
+|6,433
+|-
+|6
+|Sammy White	
+|6,400
+|-
+|7
+|Steve Jordan	
+|6,307
+|-
+|8
+|Ahmad Rashad	
+|5,489
+|-
+|9
+|Justin Jefferson
+|4,825
+|-
+|10
+|Stefon Diggs
+|4,623
+|}
+
+
+===Most career receiving touchdowns===
+{| class="wikitable" style="text-align:center"
+|-
+!width=40px style="background:#3b0160;color:#ffc322"|Rank
+!width=140px style="background:#3b0160;color:#ffc322"|Player
+!width=90px style="background:#3b0160;color:#ffc322"|Touchdowns
+|-
+|1
+|Cris Carter	
+|110
+|-
+|2
+|Randy Moss	
+|92
+|-
+|3
+|Adam Thielen
+|55
+|-
+|4
+|Anthony Carter	
+|52
+|-
+|5
+|Sammy White	
+|50
+|-
+|6
+|Kyle Rudolph
+|48
+|-
+|7
+|Ahmad Rashad
+|34
+|-
+|8
+|Jake Reed
+|33
+|-
+|9
+|Stefon Diggs	
+|30
+|-
+|10
+|Steve Jordan
+|28
+|}
+
+
+
+
+
+===Most career points===
+{| class="wikitable" style="text-align:center"
+|-
+!width=40px style="background:#3b0160;color:#ffc322"|Rank
+!width=140px style="background:#3b0160;color:#ffc322"|Player
+!width=90px style="background:#3b0160;color:#ffc322"|Points
+|-
+|1
+|Fred Cox
+|1,365
+|-
+|2
+|Cris Carter
+|670
+|-
+|3
+|Ryan Longwell
+|633
+|-
+|4
+|Adrian Peterson
+|614
+|-
+|5
+|Fuad Reveiz
+|598
+|-
+|6
+|Randy Moss
+|564
+|-
+|7
+|Blair Walsh	
+|555
+|-
+|8
+|Gary Anderson	
+|542
+|-
+|9
+|Bill Brown
+|456
+|-
+|10
+|Chuck Foreman
+|450
+|}
+
+
+===Most career interceptions===
+{| class="wikitable" style="text-align:center"
+|-
+!width=40px style="background:#3b0160;color:#ffc322"|Rank
+!width=140px style="background:#3b0160;color:#ffc322"|Player
+!width=90px style="background:#3b0160;color:#ffc322"|Interceptions
+|-
+|1
+|Paul Krause
+|53
+|-
+|2
+|Bobby Bryant
+|51
+|-
+|3
+|Ed Sharockman
+|40
+|-
+|4
+|Joey Browner
+|37
+|-
+|5
+|Harrison Smith
+|34
+|-
+|6
+|Nate Wright
+|31
+|-
+|7
+|Carl Lee
+|29
+|-
+|rowspan=2|8
+|John Turner
+|22
+|-
+|Orlando Thomas
+|22
+|-
+|10
+|Antoine Winfield
+|21
+|}
+
+
+
+
+
+===Most career sacks===
+{| class="wikitable" style="text-align:center"
+|-
+!width=40px style="background:#3b0160;color:#ffc322"|Rank
+!width=140px style="background:#3b0160;color:#ffc322"|Player
+!width=90px style="background:#3b0160;color:#ffc322"|Sacks
+|-
+|1
+|Carl Eller
+|130
+|-
+|2
+|Jim Marshall
+|127
+|-
+|3
+|John Randle
+|114
+|-
+|4
+|Alan Page
+|108
+|-
+|5
+|Chris Doleman
+|96.5
+|-
+|6
+|Jared Allen
+|85.5
+|-
+|7
+|Everson Griffen
+|79.5
+|-
+|8
+|Danielle Hunter
+|71
+|-
+|rowspan=2|9
+|Brian Robison
+|60
+|-
+|Kevin Williams
+|60
+|-
+|colspan="3"|*Sacks were not official until 1982
+|}
+
+
+===Most career tackles===
+{| class="wikitable" style="text-align:center"
+|-
+!width=40px style="background:#3b0160;color:#ffc322"|Rank
+!width=140px style="background:#3b0160;color:#ffc322"|Player
+!width=90px style="background:#3b0160;color:#ffc322"|Tackles
+|-
+|1
+|Scott Studwell	
+|1,981
+|-
+|2
+|Matt Blair	
+|1,452
+|-
+|3
+|Jeff Siemon	
+|1,382
+|-
+|4
+|Chad Greenway
+|1,350
+|-
+|5
+|Alan Page	
+|1,120
+|-
+|colspan="3"|*Tackles were not official until 2001*Totals are defensive and special teams
+|}
+
+
+===Scoring===
+*Most touchdowns in a season: 41, Daunte Culpepper (2004)
+*Most touchdowns in a season (non-QB): 22, Chuck Foreman (1975)
+*Most rushing touchdowns in a season: 18, Adrian Peterson (2009)
+*Most rushing touchdowns in a rookie season: 12, Adrian Peterson (2007)
+*Most rushing touchdowns in a game: 3, 19 times 
+
+:*Tommy Mason
+:*Clinton Jones
+:*Chuck Foreman ×2
+*D. J. Dozier
+*Herschel Walker
+*Daunte Culpepper
+*Onterrio Smith
+*Artose Pinner
+*Adrian Peterson ×5
+*Chester Taylor
+*Matt Asiata ×3
+*Dalvin Cook
+
+*Most consecutive games with a rushing TD: 7
+**Moe Williams (2002)
+**Dalvin Cook (2020)
+*Most passing touchdowns in a season: 39, Daunte Culpepper (2004)
+*Most passing touchdowns in a rookie season: 18, Fran Tarkenton (1961)
+*Most passing touchdowns in a game: 7, Joe Kapp (September 28, 1969) – NFL record
+*Most consecutive games with a passing TD: 39, Kirk Cousins (2020–2022)
+*Most receiving touchdowns in a season: 17
+**Cris Carter (1995)
+**Randy Moss (twice: 1998, 2003)
+*Most receiving touchdowns in a rookie season: 17, Randy Moss (1998)
+*Most receiving touchdowns in a game: 4, Ahmad Rashad (September 2, 1979)
+*Most consecutive games with a receiving TD: 10, Randy Moss (2003–2004)
+*Most points scored in a season: 164, Gary Anderson (1998)
+*Most points scored in a rookie season: 141, Blair Walsh (2012)
+
+===Rushing===
+*Most rushing attempts in a career: 2,418, Adrian Peterson (2007–2016)
+*Most rushing attempts in a season: 363, Adrian Peterson (2008)
+*Most rushing attempts in a rookie season: 238, Adrian Peterson (2007)
+*Most rushing attempts in a game: 35, Adrian Peterson (December 1, 2013)
+*Most consecutive attempts without a fumble: 478, Robert Smith (1996–1998)
+*Most rushing yards in a season: 2,097, Adrian Peterson (2012)
+*Most rushing yards in a rookie season: 1,341, Adrian Peterson (2007)
+*Most rushing yards in a game: 296, Adrian Peterson (November 4, 2007) – NFL record
+*Longest run: 95, Chester Taylor (October 22, 2006)
+*Most seasons with 1,000+ yards rushing: 7, Adrian Peterson (2007–2010, 2012–2013, 2015)
+*Most consecutive seasons with 1,000+ yards rushing: 4
+**Robert Smith (1997–2000)
+**Adrian Peterson (2007–2010)
+**Dalvin Cook (2019-2022)
+*Most games with 100+ yards rushing: 49, Adrian Peterson (2007–2016)
+*Most games with 200+ yards rushing: 6, Adrian Peterson (2007–2016) – NFL record
+*Most consecutive games with 100+ yards rushing: 8, Adrian Peterson (October 21, 2012–December 16, 2012)
+*Most games with 100+ yards rushing in a season: 10, Adrian Peterson (twice: 2008, 2012)
+
+===Passing===
+*Most passing attempts in a career: 4,569, Fran Tarkenton (1961–1966, 1972–1978)
+*Most passing attempts in a season: 643, Kirk Cousins (2022)
+*Most passing attempts in a rookie season: 402, Teddy Bridgewater (2014)
+*Most passing attempts in a game: 63, Rich Gannon (October 20, 1991)
+*Most completions in a career: 2,635, Fran Tarkenton (1961–1966, 1972–1978)
+*Most completions in a season: 425, Kirk Cousins (2018)
+*Most completions in a rookie season: 259, Teddy Bridgewater (2014)
+*Most completions in a game: 45, Kirk Cousins (2018)
+*Most consecutive completions: 17, Kirk Cousins (October 9, 2022)
+*Most passing yards in a season: 4,717, Daunte Culpepper (2004)
+*Most passing yards in a rookie season: 2,919, Teddy Bridgewater (2014)
+*Most passing yards in a game: 490, Tommy Kramer (November 2, 1986 OT) 
+*Longest pass completion: 99 yards, Gus Frerotte (to Bernard Berrian) (November 30, 2008)
+*Longest pass completion by a rookie: 87 yards, Teddy Bridgewater (December 7, 2014)
+*Most seasons with 3,000+ yards passing: 5, Tommy Kramer (1979–1981, 1985–1986)
+*Most games with 300+ yards passing: 20, Kirk Cousins (2018-present)
+*Most consecutive games with 300+ yards passing: 4, Daunte Culpepper (September 20, 2004–October 17, 2004)
+*Most consecutive attempts without an interception: 193, Warren Moon (1995)
+
+===Receiving===
+*Most receptions in a career: 1,004, Cris Carter (1990–2001)
+*Most receptions in a season: 128, Justin Jefferson (2022)
+*Most receptions in a rookie season: 88, Justin Jefferson (2020)
+*Most receptions in a game: 15, Rickey Young (December 16, 1979) 
+*Most consecutive games with a reception: 111, Cris Carter (1991–1998)
+*Most seasons with 50+ receptions: 11, Cris Carter (1991–2001)
+*Most receiving yards in a season: 1,809, Justin  Jefferson (2022)
+*Most receiving yards in a rookie season: 1,400, Justin Jefferson (2020)
+*Most receiving yards in a game: 223, Justin Jefferson ( December 11, 2022) 
+*Longest reception: 99 yards, Bernard Berrian (from Gus Frerotte) (November 30, 2008)
+*Most seasons with 1,000+ yards receiving: 8, Cris Carter (1993–2000)
+*Most games with 100+ yards receiving in a career: 41, Randy Moss (1998–2004)
+*Most games with 100+ yards receiving in a season: 10, Justin Jefferson (2022)
+*Most consecutive games with 100+ yards receiving: 8, Adam Thielen (2018) – NFL record
+
+===Defense===
+*Most tackles in a season: 230, Scott Studwell (1981)
+*Most tackles in a game: 24, Scott Studwell (November 17, 1985)
+*Most sacks in a season: 22, Jared Allen (2011)
+*Most sacks in a game: 5.0, Randy Holloway (September 16, 1984)
+*Most consecutive games with a sack: 11, Jared Allen (December 28, 2010 – November 14, 2011)
+*Most fumble recoveries in a career: 29, Jim Marshall (1961–1979)
+*Most fumble recoveries in a season: 9, Don Hultz (1963) – NFL record
+*Most fumble recoveries in a game: 3, Joey Browner (September 8, 1985)
+*Longest fumble recovery: 94, Dwayne Rudd (December 6, 1998)
+*Most interceptions in a season: 10, Paul Krause (1975)
+*Most interceptions in a rookie season: 9, Orlando Thomas (1995)
+*Most consecutive games with an interception: 6
+**Paul Krause (1968)
+**Brian Russell (2003)
+*Longest interception return: 100, Xavier Rhodes (November 20, 2016)
+
+===Special teams===
+*Most punts in a career: 720, Greg Coleman (1978–1987)
+*Most punts in a season: 93, Chris Kluwe (2006) 
+*Most punts in a rookie season: 75, Jeff Locke (2013)
+*Most punts in a game: 12, Greg Coleman (November 21, 1982)
+*Most punts in a game by an opponent: 12, Tom Blanchard (New Orleans Saints – November 21, 1982)
+*Longest punt: 84 yards Harry Newsome (December 20, 1992)
+*Longest average gross punt in a career (200 punts minimum): 44.4, Chris Kluwe (2005–2012)
+*Longest average net punt in a career (200 punts minimum): 38.8, Jeff Locke (2013–2016)
+*Most punts inside the 20 in a career: 198, Chris Kluwe (2005–2011)
+*Most punt returns in a career: 237, Marcus Sherels (2011–2019)
+*Most punt returns in a season: 58, Leo Lewis (1988)
+*Most punt returns in a rookie season: 48, Kevin Miller (1978)
+*Most punt returns in a game: 8, Kevin Miller (December 2, 1979)
+*Most punt return yards in a career: 2,480, Marcus Sherels (2011–2019)
+*Most punt return yards in a season: 550, Leo Lewis (1988)
+*Most punt return yards in a rookie season: 247, Keenan Howry (2003)
+*Most punt return yards in a game: 119, Marcus Sherels (October 21, 2013)
+*Longest punt return: 98 yards, Charlie West (November 3, 1968)
+*Longest average punt return in a career (minimum 50): 10.46, Marcus Sherels (2011–2019)
+*Most punt return touchdowns in a career: 5, Marcus Sherels (2011–2019)
+*Most kickoff returns in a career: 159, Darrin Nelson (1982–1989, 1991–1992)
+*Most kickoff returns in a season: 53
+**Eddie Payton (1980)
+**Buster Rhymes (1985)
+*Most kickoff returns in a rookie season: 53, Buster Rhymes (1985)
+*Most kickoff returns in a game: 9, Nate Jacquet (November 11, 2001)
+*Most kickoff return yards in a career: 4,075, Cordarrelle Patterson (2013–2016)
+*Most kickoff return yards in a season: 1,393, Cordarrelle Patterson (2013)
+*Most kickoff return yards in a rookie season: 1,393, Cordarrelle Patterson (2013)
+*Most kickoff return yards in a game: 237 yards, Nate Jacquet (November 11, 2001)
+*Longest kickoff return: 109 yards, Cordarrelle Patterson (October 27, 2013) – NFL record
+*Longest average kickoff return in a season (minimum 20): 32.4, Cordarrelle Patterson (2013)
+*Longest average kickoff return in a career (minimum 75): 30.4, Cordarrelle Patterson (2013–2016)
+*Most kickoff return touchdowns in a career: 5, Percy Harvin (2009–2012) and Cordarrelle Patterson (2013–2016)
+

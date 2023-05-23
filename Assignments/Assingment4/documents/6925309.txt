@@ -1,0 +1,20 @@
+Title: ChromeffectsMicrosoft announced Chromeffects as an add-on for Windows 98 to play 3D graphics and video through a web browser or in separate player software, for ads with flashing text and other animation, or to generate user interface enhancements for Web-based applications.
+
+Chromeffects promised to deliver complex multimedia over low-bandwidth connections. Using HTML, XML, C++, VBScript, and Jscript, developers would turn a web browser into a rippling, 3D space with audio and video playback. Later versions of Chromeffects were planned to have the ability to be used for representing databases in 3D.
+
+A MacWeek article from August 1998 quoted David Card, an analyst at Jupiter Communications as saying, "Chromeffects is cool software, and it's not often I say Microsoft has cool software. Apple doesn't have anything comparable".
+
+Chromeffects had problems with its business model, it was not intended to be a freely distributed technology, rather OEM PC manufacturers or other commercial entities would license the technology to provide to their customers as an IE add-on.  However, despite a hard marketing push in mid-1998, OEM interests never materialized and Microsoft canceled the project as part of a major internal reorganization in November 1998. The different components of Chromeffects were separated and integrated into other Microsoft products, such as DirectAnimation in Internet Explorer.
+
+The Microsoft Liquid Motion technology used Chromeffects "under the hood".
+
+A similar newer modern initiative by Microsoft is Silverlight.
+
+== References ==
+
+
+== External links ==
+* 
+
+Category:Uncompleted Microsoft initiatives
+Category:Windows 98

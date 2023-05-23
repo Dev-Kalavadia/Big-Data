@@ -1,0 +1,54 @@
+Title: Wałcz County
+__NOTOC__
+Wałcz County () is a unit of territorial administration and local government (powiat) in West Pomeranian Voivodeship, north-western Poland. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and largest town is Wałcz, which lies  east of the regional capital Szczecin. The county contains three other towns: Mirosławiec,  west of Wałcz, Człopa,  south-west of Wałcz, and Tuczno,  south-west of Wałcz.
+
+The county covers an area of . As of 2006 its total population is 54,639, out of which the population of Wałcz is 26,140, that of Mirosławiec is 2,633, that of Człopa is 2,390, that of Tuczno is 1,965, and the rural population is 21,511.
+
+==Neighbouring counties==
+Wałcz County is bordered by Złotów County to the east, Piła County to the south-east, Czarnków-Trzcianka County to the south, Strzelce-Drezdenko County to the south-west, Choszczno County to the west and Drawsko County to the north-west.
+
+==Administrative division==
+The county is subdivided into five gminas (one urban, three urban-rural and one rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km²)
+| style="text-align:center;"|Population(2006)
+| style="text-align:center;"|Seat
+|-
+|Wałcz
+|urban
+| style="text-align:right;"|38.2
+| style="text-align:right;"|26,140
+| 
+|-
+|Gmina Wałcz
+|rural
+| style="text-align:right;"|575.1
+| style="text-align:right;"|12,424
+|Wałcz *
+|-
+|Gmina Mirosławiec
+|urban-rural
+| style="text-align:right;"|203.3
+| style="text-align:right;"|6,026
+|Mirosławiec
+|-
+|Gmina Człopa
+|urban-rural
+| style="text-align:right;"|348.4
+| style="text-align:right;"|5,124
+|Człopa
+|-
+|Gmina Tuczno
+|urban-rural
+| style="text-align:right;"|249.9
+| style="text-align:right;"|4,925
+|Tuczno
+|-
+|colspan=5 style="text-align:right;font-size:90%"|* seat not part of the gmina
+|-
+|}
+

@@ -1,0 +1,38 @@
+Title: Quaternary carbon{| class="wikitable floatright" style="text-align: center; font-size: 90%; margin-bottom: 10px;" width="20%"
+! quaternary carbon
+|-
+| 150x150px
+|-
+| Structural formula of neopentane (quaternary carbon is highlighted red)
+|}
+
+A quaternary carbon is a carbon atom bound to four other carbon atoms. For this reason, quaternary carbon atoms are found only in hydrocarbons having at least five carbon atoms. Quaternary carbon atoms can occur in branched alkanes, but not in linear alkanes. 
+
+{| class="wikitable centered" style="text-align: center; font-size: 90%; margin-bottom: 10px;"
+|-
+| 
+| style="background-color:#7A91FF" | primary carbon
+| style="background-color:#7A91FF" | secondary carbon
+| style="background-color:#7A91FF" | tertiary carbon
+| style="background-color:#AAC1FF" | quaternary carbon
+|-
+| align="center" style="background-color:#CAE1FF; height:80px; width:20%" | General structure  (R = Organyl group)
+| style="background-color:#BFBFBF" | frameless=1.0|85x85px
+| style="background-color:#BFBFBF" | frameless=1.0|85x85px
+| style="background-color:#BFBFBF" | frameless=1.0|85x85px
+| style="background-color:#FFFFFF" | frameless=1.0|85x85px
+|-
+| align="center" style="background-color:#CAE1FF; height:80px; width:20%" | Partial  Structural formula
+| style="background-color:#BFBFBF" | frameless=1.0|96x96px
+| style="background-color:#BFBFBF" | frameless=1.0|102x102px
+| style="background-color:#BFBFBF" | frameless=1.0|98x98px
+| style="background-color:#FFFFFF" | frameless=1.0|105x105px
+|}
+== Synthesis ==
+The formation of chiral quaternary carbon centers has been a synthetic challenge. Chemists have developed asymmetric Diels–Alder reactions, Nicolaou, K. C.; Vassilikogiannakis, G.; Mägerlein, W.; Kranich, R Angew. Chem. Int. Ed. Volume 2001, Issue 40 , Pages 2482–2486 {{DOI: 10.1002/1521-3773(20010702)40:13<2482::AID-ANIE2482>3.0.CO;2-A}} Heck reaction, Enyne cyclization, cycloaddition reactions, Quasdorf, K.W.; Overman, L. E. Nature Volume 2014, Volume 516, Pages 181  C–H activation, Allylic substitution,  Pauson–Khand reaction,  Ishizaki, M.; Niimi, Y.; Hoshino, O.; Hara, H.; Takahashi, T. Tetrahedron Volume 2001, Issue 61, Pages 4053–4065  etc. to construct asymmetric quaternary carbon atoms.
+
+== References ==
+
+
+Category:Chemical nomenclature
+Category:Organic chemistry

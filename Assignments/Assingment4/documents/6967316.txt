@@ -1,0 +1,47 @@
+Title: Semaphorin
+
+Semaphorins are a class of secreted and membrane proteins that were originally identified as axonal growth cone guidance molecules. They primarily act as short-range inhibitory signals and signal through multimeric receptor complexes. Semaphorins are usually cues to deflect axons from inappropriate regions, especially important in the neural system development.  The major class of proteins that act as their receptors are called plexins, with neuropilins as their co-receptors in many cases. The main receptors for semaphorins are plexins, which have established roles in regulating Rho-family GTPases. Recent work shows that plexins can also influence R-Ras, which, in turn, can regulate integrins. Such regulation is probably a common feature of semaphorin signalling and contributes substantially to our understanding of semaphorin biology.
+
+Every semaphorin is characterised by the expression of a specific region of about 500 amino acids called the sema domain.
+
+Semaphorins were named after the English word Semaphore, which originated from Greek, meaning sign-bearer.
+
+== Classes ==
+The Semaphorins are grouped into eight major classes based on structure and phylogenetic tree analyses. The first seven are ordered by number, from class 1 to class 7.  The eighth group is class V, where V stands for virus.  Classes 1 and 2 are found in invertebrates only, whilst classes 3, 4, 6, and 7 are found in vertebrates only. Class 5 is found in both vertebrates and invertebrates, and class V is specific to viruses.
+
+Classes 1 and 6 are considered to be homologues of each other; they are each membrane bound in invertebrates and vertebrates, respectively.  The same applies to classes 2 and 3; they are both secreted proteins specific to their respective taxa.
+
+Each class of Semaphorin has many subgroups of different molecules that share similar characteristics.  For example, Class 3 Semaphorins range from SEMA3A to SEMA3G.
+
+In humans, the genes are: 
+* SEMA3A, SEMA3B, SEMA3C, , , SEMA3F, 
+* SEMA4A, SEMA4B, SEMA4C ("SEMAF"), SEMA4D, SEMA4F, SEMA4G
+* SEMA5A, 
+* SEMA6A, , SEMA6C, 
+* SEMA7A
+
+== Semaphorin receptors ==
+Different semaphorins use different types of receptors:
+
+* Most Semaphorins use receptors in the group of proteins known as plexins.
+* Class 3 semaphorins signal through heterocomplexes of neuropilins, Class A Plexins, and cell adhesion molecules, and the makeup of these complexes likely provides specificity for binding and transducing signals from different Class 3 Semaphorins.
+* Class 7 Semaphorin are thought to use integrins as their receptors.
+
+== Functions ==
+
+thumb|Class III semaphorins regulate multiple processes after spinal cord injury by influencing neuronal and non-neuronal cells. Copyright © 2014 Mecollari, Nieuwenhuis and Verhaagen. A perspective on the role of class III semaphorin signaling in central nervous system trauma. 1–17. doi: 10.3389/fncel.2014.00328
+
+Semaphorins are very versatile.  Their discovery was in regards to axon guidance in the limb buds of grasshoppers in 1992, but since then, it has been discovered that semaphorins have a role in many processes.  They not only guide axons in development, but also have major roles in immune function (classes 4, 6, and 7) and the development of bones. Class 3 semaphorins are one of the most versatile semaphorin classes, in which Sema3a is the most studied.
+
+During development, semaphorins and their receptors may be involved in the sorting of pools of motor neurons and the modulation of pathfinding for afferent and efferent axons from and to these pools. For instance, Sema3a repels axons from the dorsal root ganglia, facial nerves, vagal nerves, olfactory-sensory, cortical nerves, hippocampal nerves and cerebellar nerves.
+
+Class 3 semaphorins have an important function after traumatic central nervous system injuries, such as spinal cord injury.  They regulate neuronal and non-neuronal cells associated with the traumatic injury due to their presence in the scar tissue. Class 3 semaphorins modulate axonal regrowth, re-vascularisation, re-myelination and the immune response after central nervous system trauma.
+
+==Notes==
+
+
+== External links ==
+* 
+
+
+Category:Single-pass transmembrane proteins

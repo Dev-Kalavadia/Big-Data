@@ -1,0 +1,821 @@
+Title: EHF European League
+
+
+
+
+The EHF European League is an annual men's handball club competition organised by the European Handball Federation (EHF) since 1981. It is the second-tier competition of European club handball, ranking only below the EHF Champions League. Previously called the EHF Cup, the competition will be known as the EHF European League from the season 2020–21. Portuguese side Benfica are the current holders.
+
+==History==
+It was formerly known as the IHF Cup until 1993. Also, starting from the 2012–13 season the competition has been merged with the EHF Cup Winners' Cup. The EHF coefficient rank decides, which teams have access and in which stage they enter.
+
+
+==Winners==
+
+===IHF Cup===
+
+{| class="wikitable" style="font-size: 97%; text-align: center;"
+|-
+!rowspan=2 width="10%" |Year
+| rowspan="14" width="1%" |
+!colspan=3|Final
+| rowspan="14" width="1%" |
+! colspan="3" rowspan="2" width="40%"  |Semifinal losers
+|-
+!width="20%"|Champion
+!width="10%"|Score
+!width="20%"|Second place
+|-
+|1981–82Details
+|  VfL Gummersbach
+|23–14
+| Željezničar Sarajevo 
+| colspan="2" | Slavia Prague
+| Pfadi Winterthur
+|-
+|1982–83Details
+|  ZTR Zaporizhzhia
+|23–16  22–20
+| IFK Karlskrona
+| colspan="2" | Füchse Berlin
+| BK-46 Karis
+|-
+|1983–84Details
+|  TV Grosswallstadt
+|16–15  20–19 
+| HG Gladsaxe
+| colspan="2" | Bányász Tatabánya
+| TK Lokomotiva Trnava
+|-
+|1984–85Details
+|  HC Minaur Baia Mare
+|22–17  14–18
+| ZTR Zaporizhzhia
+| colspan="2" | Tecnisa Alicante
+| WAT Margareten Wien
+|-
+|1985–86Details
+|  Raba Vasas ETO Györ
+|23–17  20–24
+| Tecnisa Alicante
+| colspan="2" | Proleter Zrenjanin
+| Lugi Lund
+|-
+|1986–87Details
+|  Granitas Kaunas
+|23–23  18–18
+| Atlético Madrid BM
+| colspan="2" | VfL Gummersbach
+| Urædd Porsgrun
+|-
+|1987–88Details
+|  HC Minaur Baia Mare
+|20–21  23–20
+| Granitas Kaunas
+| colspan="2" | FC Barcelona
+| TSV St. Otmar St. Gallen
+|-
+|1988–89Details
+|  TURU Düsseldorf
+|17–12  15–18
+| ASK Vorwärts Frankfurt
+| colspan="2" | CD Cajamadrid
+| SKIF Krasnodar
+|-
+|1989–90Details
+|  SKIF Krasnodar
+|25–27  29–13
+| Proleter Zrenjanin
+| colspan="2" | CD Cajamadrid
+| Dukla Prague
+|-
+|1990–91Details
+|  Borac Banja Luka 
+|20–15  23–24
+| CSKA Moscow
+| colspan="2" | TUSEM Essen
+| SKP Bratislava
+|-
+|1991–92Details
+|  SG Wallau-Massenheim
+|23–25  22–20
+| SKA Minsk
+| colspan="2" | Alzira Avidesa
+| Proleter Zrenjanin
+|-
+|1992–93Details
+|  Cantabria
+|24–20  26–20
+| Bayer Dormagen
+| colspan="2" | Steaua Bucuresti
+| SG Leutershausen
+|}
+
+=== EHF Cup ===
+
+{| class="wikitable" style="font-size: 97%; text-align: center; background-color:#e4eff8; color:black"
+|-
+!rowspan=2 width="10%" style="background-color:#0077d1; color:white" |Year
+| rowspan="44" width="1%" style="background-color:#0092ff; color:white" |
+!colspan=3 style="background-color:#0077d1; color:white" |Final
+| rowspan="21" width="1%" style="background-color:#0092ff; color:white" |
+! colspan="3" rowspan="2" width="40%" style="background-color:#0077d1; color:white" |Semifinal losers
+|-
+!width="20%" style="background-color:#9ed3fa; color:black" |Champion
+!width="10%" style="background-color:#9ed3fa; color:black"|Score
+!width="20%" style="background-color:#9ed3fa; color:black"|Second place
+|-
+|1993–94Details
+|  Alzira Avidesa
+|23–19  21–22
+| ASKÖ Linde Linz
+| colspan="2" |  Elgorriaga Bidasoa
+| Steaua Bucuresti
+|-
+|1994–95Details
+|  Granollers
+|26–24  23–21
+| Polyot Cheljabinsk
+| colspan="2" | Gorenje Velenje
+| SG Vfl BHW Hameln
+|-
+|1995–96Details
+|  Granollers
+|28–18  28–27
+| Shakhtar-Academiya
+|  colspan="2" | Zadar Gortan
+|  SG Flensburg-Handewitt
+|-
+|1996–97Details
+|  SG Flensburg-Handewitt
+|22–25  30–17
+| Virum Sorgenfri
+| colspan="2" | Academia Octavio Vigo
+| Granollers
+|-
+|1997–98Details
+|  THW Kiel
+|23–25  26–21
+| SG Flensburg-Handewitt
+| colspan="2" | CSKA Moscow
+| Brodomerkur 
+|-
+|1998–99Details
+|  SC Magdeburg
+|22–30  31–22
+| BM Valladolid
+|colspan="2" | TBV Lemgo
+|  Sandefjord TIF
+|-
+|1999–00Details
+| RK Metković Jambo
+|24–22  23–25
+| SG Flensburg-Handewitt
+| colspan="2" | ABC Braga
+| Prevent
+|-
+|2000–01Details
+| SC Magdeburg
+|27–27  26–22
+| RK Metković Jambo
+|colspan="2" | Bidasoa Irun
+|  Haukar
+|-
+|2001–02Details
+|  THW Kiel
+|36–29  24–28
+| FC Barcelona
+| colspan="2" |  SG Wallau-Massenheim
+| Gáldar
+|-
+|2002–03Details
+|  FC Barcelona
+|35–23  33–26
+| Lukoil-Dynamo Astrakhan
+| colspan="2" | Dunaferr SE
+| Altea
+|-
+|2003–04Details
+|  THW Kiel
+|32–28  27–19
+| Altea
+| colspan="2" | Dinamo-Romc. Bucuresti
+| Lukoil-Dynamo Astrakhan
+|-
+|2004–05Details
+|  TUSEM Essen
+|22–30  31–22
+| SC Magdeburg
+|colspan="2" | VfL Gummersbach
+|  Lukoil-Dynamo Astrakhan
+|-
+|2005–06Details
+| TBV Lemgo
+|30–29  25–22
+| Frisch Auf Göppingen
+| colspan="2" | US Créteil Handball
+| VfL Gummersbach
+|-
+|2006–07Details
+| SC Magdeburg
+|30–30  31–28
+| CAI Aragón
+| colspan="2" | Grasshopper Club Zürich
+| Skjern Handball
+|-
+|2007–08Details
+| HSG Nordhorn
+|31–27  29–30
+| FCK Handball
+|colspan="2" | CAI Aragón
+|  Cimos Koper
+|-
+|2008–09Details
+| VfL Gummersbach
+|29–28  26–22
+| Gorenje
+|colspan="2" | TSV St. Otmar St. Gallen
+|  CAI Aragón
+|-
+|2009–10Details
+| TBV Lemgo
+|24–18  28–30
+| Kadetten SH Handball
+| colspan="2" | Naturhouse La Rioja
+| SG Flensburg-Handewitt
+|-
+|2010–11Details
+| Frisch Auf Göppingen
+|23–21  30–26
+| TV Grosswallstadt
+|colspan="2" | Naturhouse La Rioja
+|  TBV Lemgo
+|-
+|2011–12Details
+| Frisch Auf Göppingen
+|34–28  26–26
+| Dunkerque HB
+| colspan="2" | Rhein-Neckar Löwen
+|  SC Magdeburg
+|-
+! rowspan="2" style="background-color:#0077d1; color:white" |Year
+! colspan="7" style="background-color:#0077d1; color:white" |Final – Four
+|-
+! width="20%" style="background-color:#9ed3fa; color:black" |Champion
+! width="10%" style="background-color:#9ed3fa; color:black" |Score
+! width="20%" style="background-color:#9ed3fa; color:black" |Second place
+| rowspan="8" width="1%" style="background-color:#0092ff; color:white" |
+! width="15%" style="background-color:#9ed3fa; color:black" |Third place
+! width="7" style="background-color:#9ed3fa; color:black" | Score
+! width="18%" style="background-color:#9ed3fa; color:black" |Fourth place
+|-
+|2012–13Details
+| Rhein-Neckar Löwen
+|26–24
+| HBC Nantes
+| Tvis Holstebro
+|28–27
+| Frisch Auf Göppingen
+|-
+|2013–14Details
+| Pick Szeged
+|29–28
+| Montpellier AHB
+| Füchse Berlin
+|29–28
+| HCM Constanța
+|-
+|2014–15Details
+| Füchse Berlin
+|30–27
+| Hamburg
+| Skjern Håndbold
+|27–22
+| Gorenje Velenje
+|-
+|2015–16Details
+| Frisch Auf Göppingen
+|32–26
+|  Nantes
+| Fraikin Granollers
+|25–21
+| Chambéry Savoie
+|-
+|2016–17Details
+| Frisch Auf Göppingen
+|30–22
+| Füchse Berlin
+| SC Magdeburg
+|32–31
+| Saint-Raphaël Var Handball
+|-
+|2017–18Details
+| Füchse Berlin
+|28–25
+| Saint-Raphaël Var Handball
+| SC Magdeburg
+|35–25
+| Frisch Auf Göppingen
+|-
+|2018–19Details
+| THW Kiel
+|26–22
+| Füchse Berlin
+| FC Porto
+|28–26
+| TTH Holstebro
+|-
+|2019–20  Details
+|colspan=7| Cancelled due to COVID-19 pandemic
+|}
+
+=== EHF European League ===
+
+{| class="wikitable" style="font-size: 97%; text-align: center; background-color:#fae4db; color:black""
+|-
+! rowspan="2" width="10%" style="background-color:#d94109; color:white" |Year
+! colspan="8" style="background-color:#d94109; color:white" |Final – Four (2012/13 to present)
+|-
+! rowspan="8" width="1%" style="background-color:#ff4500; color:black" |
+!width="19%" style="background-color:#fa926c; color:black" | Champion
+!width="10%" style="background-color:#fa926c; color:black" |Score
+!width="19%" style="background-color:#fa926c; color:black" |Second place
+| rowspan="8" width="1%" style="background-color:#ff4500; color:black" |
+!width="14%" style="background-color:#fa926c; color:black" |Third place
+!width="9%" style="background-color:#fa926c; color:black" |Score
+!width="14%" style="background-color:#fa926c; color:black" |Fourth place
+|-
+|2020–21  Details
+| SC Magdeburg
+|28–25
+| Füchse Berlin
+| Rhein-Neckar Löwen
+|32–27
+|  Orlen Wisła Płock
+|-
+|2021–22  Details
+| SL Benfica
+|40–39
+| SC Magdeburg
+|  Orlen Wisła Płock
+|27–22
+|  RK Nexe
+|-
+|2022–23Details
+|
+|
+|
+|
+|
+|
+|}
+
+== Statistics ==
+
+===Winning clubs===
+{| class="wikitable plainrowheaders sortable"
+|+ Performance in the EHF Cup/European League by club
+|-
+!scope=col|Club
+!scope=col|Winners
+!scope=col|Runners-up
+!scope=col|Years won
+!scope=col|Years runner-up
+|-
+!scope=row| SC Magdeburg
+| style="text-align:center;" |4
+| style="text-align:center;" |2
+| 1999, 2001, 2007, 2021
+| 2005, 2022
+|-
+!scope=row| Frisch Auf Göppingen
+| style="text-align:center;" |4
+| style="text-align:center;" |1
+| 2011, 2012, 2016, 2017
+| 2006
+|-
+!scope=row| THW Kiel
+| style="text-align:center;" |4
+| style="text-align:center;" |0
+| 1998, 2002, 2004, 2019
+| 
+|-
+!scope=row| Füchse Berlin
+| style="text-align:center;" |2
+| style="text-align:center;" |3
+| 2015, 2018
+| 2017, 2019, 2021
+|-
+!scope=row| HC Minaur Baia Mare
+| style="text-align:center;" |2
+| style="text-align:center;" |0
+| 1985, 1988
+| 
+|-
+!scope=row| BM Granollers
+| style="text-align:center;" |2
+| style="text-align:center;" |0
+| 1995, 1996
+| 
+|-
+!scope=row| VfL Gummersbach
+| style="text-align:center;" |2
+| style="text-align:center;" |0
+| 1982, 2009
+| 
+|-
+!scope=row| TBV Lemgo
+| style="text-align:center;" |2
+| style="text-align:center;" |0
+| 2006, 2010
+| 
+|-
+!scope=row| SG Flensburg-Handewitt
+| style="text-align:center;" |1
+| style="text-align:center;" |2
+| 1997
+| 1998, 2000
+|-
+!scope=row| ZTR Zaporizhzhia
+| style="text-align:center;" |1
+| style="text-align:center;" |1
+| 1983
+| 1985
+|-
+!scope=row| Granitas Kaunas
+| style="text-align:center;" |1
+| style="text-align:center;" |1
+| 1987
+| 1988
+|-
+!scope=row| RK Metković
+| style="text-align:center;" |1
+| style="text-align:center;" |1
+| 2000
+| 2001
+|-
+!scope=row| FC Barcelona
+| style="text-align:center;" |1
+| style="text-align:center;" |1
+| 2003
+| 2002
+|-
+!scope=row| TV Grosswallstadt
+| style="text-align:center;" |1
+| style="text-align:center;" |1
+| 1984
+| 2011
+|-
+!scope=row| Raba Vasas ETO Györ
+| style="text-align:center;" |1
+| style="text-align:center;" |0
+| 1986
+| 
+|-
+!scope=row| TuRU Düsseldorf
+| style="text-align:center;" |1
+| style="text-align:center;" |0
+| 1989
+| 
+|-
+!scope=row| SKIF Krasnodar
+| style="text-align:center;" |1
+| style="text-align:center;" |0
+| 1990
+| 
+|-
+!scope=row| RK Borac Banja Luka
+| style="text-align:center;" |1
+| style="text-align:center;" |0
+| 1991
+| 
+|-
+!scope=row| SG Wallau-Massenheim
+| style="text-align:center;" |1
+| style="text-align:center;" |0
+| 1992
+| 
+|-
+!scope=row| CB Cantabria
+| style="text-align:center;" |1
+| style="text-align:center;" |0
+| 1993
+| 
+|-
+!scope=row| Alzira Avidesa
+| style="text-align:center;" |1
+| style="text-align:center;" |0
+| 1994
+| 
+|-
+!scope=row| TUSEM Essen
+| style="text-align:center;" |1
+| style="text-align:center;" |0
+| 2005
+| 
+|-
+!scope=row| HSG Nordhorn-Lingen
+| style="text-align:center;" |1
+| style="text-align:center;" |0
+| 2008
+| 
+|-
+!scope=row| Rhein-Neckar Löwen
+| style="text-align:center;" |1
+| style="text-align:center;" |0
+| 2013
+| 
+|-
+!scope=row| SC Pick Szeged
+| style="text-align:center;" |1
+| style="text-align:center;" |0
+| 2014
+| 
+|-
+!scope=row| SL Benfica
+| style="text-align:center;" |1
+| style="text-align:center;" |0
+| 2022
+| 
+|-
+!scope=row| HBC Nantes
+| style="text-align:center;" |0
+| style="text-align:center;" |2
+| 
+| 2013, 2016
+|-
+!scope=row| RK Željezničar
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| 
+| 1982
+|-
+!scope=row| IFK Karlskrona
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| 
+| 1983
+|-
+!scope=row| HG Gladsaxe
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| 
+| 1984
+|-
+!scope=row| Tecnisa Alicante
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| 
+| 1986
+|-
+!scope=row| Atlético Madrid BM
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| 
+| 1987
+|-
+!scope=row| ASK Vorwärts Frankfurt
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| 
+| 1989
+|-
+!scope=row| RK Proleter Zrenjanin
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| 
+| 1990
+|-
+!scope=row| CSKA Moscow
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| 
+| 1991
+|-
+!scope=row| SKA Minsk
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| 
+| 1992
+|-
+!scope=row| Bayer Dormagen
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| 
+| 1993
+|-
+!scope=row| ASKÖ Linde Linz
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| 
+| 1994
+|-
+!scope=row| Polyot Cheljabinsk
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| 
+| 1995
+|-
+!scope=row| Shakhtar-Academiya
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| 
+| 1996
+|-
+!scope=row| Virum Sorgenfri
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| 
+| 1997
+|-
+!scope=row| BM Valladolid
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| 
+| 1999
+|-
+!scope=row| Dynamo Astrakhan
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| 
+| 2003
+|-
+!scope=row| BM Altea
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| 
+| 2004
+|-
+!scope=row| CAI Aragón
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| 
+| 2007
+|-
+!scope=row| FCK Håndbold
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| 
+| 2008
+|-
+!scope=row| RK Gorenje
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| 
+| 2009
+|-
+!scope=row| Kadetten Schaffhausen
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| 
+| 2010
+|-
+!scope=row| Dunkerque HB
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| 
+| 2012
+|-
+!scope=row| Montpellier Handball
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| 
+| 2014
+|-
+!scope=row| HSV Hamburg
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| 
+| 2015
+|-
+!scope=row| Saint-Raphaël Var Handball
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| 
+| 2018
+|}
+
+=== Titles by country ===
+{| class="wikitable" style="text-align:center"
+!width=50|Rank
+!Country
+!width=80|Winners
+!width=80|Runners-up
+!width=80|Total finals
+|-
+|1
+|align=left| 
+|
+|
+|
+|-
+|2
+|align=left| 
+| 
+| 
+| 
+|-
+|3
+|align=left|  
+| 
+| 
+|
+|-
+|4
+|align=left| 
+|
+|
+| 
+|-
+|5
+|align=left| 
+|
+|
+| 
+|-
+|6
+|align=left|  
+| 
+| 
+| 
+|-
+|7
+|align=left| 
+|
+|
+| 
+|-
+|8
+|align=left| 
+|
+|
+| 
+|-
+|9
+|align=left| 
+| 
+| 
+| 
+|-
+|10
+|align=left| 
+| 
+| 
+| 
+|-
+|11
+|align=left| 
+| 
+| 
+| 
+|-
+|12
+|align=left| 
+| 
+| 
+| 
+|-
+|13
+|align=left| 
+| 
+| 
+| 
+|-
+|14
+|align=left| 
+| 
+| 
+| 
+|-
+|15
+|align=left| 
+| 
+| 
+| 
+|-
+|16
+|align=left| 
+| 
+| 
+| 
+|-
+|17
+|align=left| 
+| 
+| 
+| 
+|-
+|18
+|align=left| 
+| 
+| 
+| 
+|}
+
+====Notes====
+*Results until the Dissolution of the Soviet Union in 1991. One club from present day Ukraine won the title once and was runner-up another time, one club from present day Lithuania also won the title once and was runner-up another time, while one title and an additional one time runner-up were achieved by two clubs from present day Russia.
+*Results until the Breakup of Yugoslavia in the early 1990s. One Club from present day Bosnia and Herzegovina won the title once and another was runner-up  one time, while a club from present day Serbia was also runner-up one time.
+
+==See also==
+*EHF Champions League
+*EHF European Cup
+

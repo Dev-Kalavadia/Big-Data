@@ -1,0 +1,50 @@
+Title: 1018 Arnolda
+
+1018 Arnolda, provisional designation , is a stony asteroid from the central regions of the asteroid belt, approximately 16 kilometers in diameter. It was discovered on 3 March 1924, by German astronomer Karl Reinmuth at the Heidelberg-Königstuhl State Observatory in southwest Germany. The asteroid was named after physicist Arnold Berliner.
+
+== Classification and orbit ==
+
+Arnolda is not a member of any known asteroid family. It orbits the Sun in the central main belt at a distance of 1.9–3.2 AU once every 4 years and 1 month (1,480 days). Its orbit has an eccentricity of 0.25 and an inclination of 8° with respect to the ecliptic. The body's observation arc begins nine days prior to its official discovery observation at Heidelberg.
+
+== Physical characteristics ==
+
+Arnolda is an assumed stony S-type asteroid, a very common type in the inner and in parts of the central asteroid belt.
+
+=== Lightcurves ===
+
+In May 2005, the best-rated rotational lightcurve of Arnolda was obtained from photometric observations by Australian astronomers at the Oakley Southern Sky Observatory (). Lightcurve analysis gave a rotation period of 14.617 hours with a brightness variation of 0.33 magnitude (). Several other astronomers obtained number of lesser-rated lightcurves with a shorter period ().
+
+=== Diameter and albedo ===
+
+According to the surveys carried out by the Infrared Astronomical Satellite IRAS, the Japanese Akari satellite and the NEOWISE mission of NASA's Wide-field Infrared Survey Explorer, Arnolda measures between 13.68 and 16.557 kilometers in diameter  and its surface has an albedo between 0.29 and 0.439.
+
+The Collaborative Asteroid Lightcurve Link derives a high albedo of 0.3760 and a diameter of 16.44 kilometers based on an absolute magnitude of 10.60.
+
+== Naming ==
+
+This minor planet was named after physicist Arnold Berliner (1862–1942), on the occasion of his 70th birthday in 1933. Berliner was the editor of the prominent German periodical scientific magazine Naturwissenschaften ().
+
+== Notes ==
+
+ 
+
+== References ==
+ 
+
+== External links ==
+* Asteroid Lightcurve Database (LCDB), query form (info )
+* Dictionary of Minor Planet Names, Google books
+* Asteroids and comets rotation curves, CdR – Observatoire de Genève, Raoul Behrend
+* Discovery Circumstances: Numbered Minor Planets (1)-(5000) – Minor Planet Center
+* 
+* 
+
+
+
+
+
+
+001018
+Category:Discoveries by Karl Wilhelm Reinmuth
+Category:Named minor planets
+19240303

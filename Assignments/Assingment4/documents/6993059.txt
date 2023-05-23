@@ -1,0 +1,101 @@
+Title: Opole County, Opole Voivodeship
+
+__NOTOC__
+Opole County () is a unit of territorial administration and local government (powiat) in Opole Voivodeship, south-western Poland. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat is the city of Opole, although the city is not part of the county (it constitutes a separate city county). The county contains four towns: Ozimek,  east of Opole, Niemodlin,  west of Opole, Prószków,  south-west of Opole, and Tułowice,  south-west of Opole.
+
+The county covers an area of . As of 2019 its total population is 123,487, out of which the population of Ozimek is 8,657, that of Niemodlin is 6,315, that of Tułowice is 4,011, that of Prószków is 2,570, and the rural population is 101,934.
+
+==Neighbouring counties==
+Apart from the city of Opole, Opole County is also bordered by Namysłów County and Kluczbork County to the north, Olesno County to the north-east, Strzelce County to the south-east, Krapkowice County and Prudnik County to the south, Nysa County to the south-west, and Brzeg County to the north-west.
+
+==Administrative division==
+The county is subdivided into 13 gminas (4 urban-rural and 9 rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km2)
+| style="text-align:center;"|Population(2019)
+| style="text-align:center;"|Seat
+|-
+|Gmina Ozimek
+|urban-rural
+| style="text-align:right;"|126.5
+| style="text-align:right;"|19,594
+|Ozimek
+|-
+|Gmina Niemodlin
+|urban-rural
+| style="text-align:right;"|183.2
+| style="text-align:right;"|13,191
+|Niemodlin
+|-
+|Gmina Turawa
+|rural
+| style="text-align:right;"|171.5
+| style="text-align:right;"|9,990
+|Turawa
+|-
+|Gmina Łubniany
+|rural
+| style="text-align:right;"|125.4
+| style="text-align:right;"|9,830
+|Łubniany
+|-
+|Gmina Tarnów Opolski
+|rural
+| style="text-align:right;"|81.6
+| style="text-align:right;"|9,580
+|Tarnów Opolski
+|-
+|Gmina Dobrzeń Wielki
+|rural
+| style="text-align:right;"|91.4
+| style="text-align:right;"|9,457
+|Dobrzeń Wielki
+|-
+|Gmina Komprachcice
+|rural
+| style="text-align:right;"|55.9
+| style="text-align:right;"|9,108
+|Komprachcice
+|-
+|Gmina Prószków
+|urban-rural
+| style="text-align:right;"|121.2
+| style="text-align:right;"|9,029
+|Prószków
+|-
+|Gmina Dąbrowa
+|rural
+| style="text-align:right;"|130.8
+| style="text-align:right;"|8,231
+|Dąbrowa
+|-
+|Gmina Popielów
+|rural
+| style="text-align:right;"|175.6
+| style="text-align:right;"|8,051
+|Popielów
+|-
+|Gmina Chrząstowice
+|rural
+| style="text-align:right;"|82.3
+| style="text-align:right;"|6,948
+|Chrząstowice
+|-
+|Gmina Murów
+|rural
+| style="text-align:right;"|159.7
+| style="text-align:right;"|5,306
+|Murów
+|-
+|Gmina Tułowice
+|urban-rural
+| style="text-align:right;"|81.1
+| style="text-align:right;"|5,172
+|Tułowice
+|-
+|}
+

@@ -1,0 +1,57 @@
+Title: Rolling (video game)
+
+
+Rolling is an extreme sports video game released in 2003 for PlayStation 2 and Xbox.  Subsequent Game Boy Advance and GameCube versions were cancelled due to a declining interest in extreme sports titles. To date, it is one of the few other games depicting aggressive inline skating apart from Aggressive Inline and the Jet Set Radio series. It was originally developed by the now defunct Rage Software, who were aiming to create a more authentic recreation of the sport (the box art claims the game features 250 tricks), unlike Aggressive Inline which focused on exaggerated, fantasy-themed levels and high scoring, fairly unrealistic tricks.
+
+Players can choose to skate as one of the twenty available skaters (excluding the twenty first, and hidden skater) and work their way through a progressively difficult "career mode" featuring a total of fourteen levels, gaining reputation, sponsorship deals, as well as unlocking new 'tricks' and videos of the pro skaters.
+
+==Development==
+Rage Software announced the game just prior to the May 2001 E3 show, with the working title of Cesar and Fabiola's Inline Skate. Rage continued with development of the game throughout 2002, releasing more previews and screenshots of the game as it came to fruition under the new title of Rolling (Sk8). However, Rage Software began to suffer financial problems that year, and were forced to close in January 2003, before the game was released.
+
+Following Rage Software's demise, SCi purchased the rights to publish Rolling, Darren Barnet of SCi stating that they were "extremely impressed by it and thought it would be an ideal title to add to our portfolio". SCi acquired a "very complete" version of the game and hired previous developers from Rage to add the finishing touches.  The game was eventually released in October.
+
+==Gameplay==
+The game plays similar to the Tony Hawk's Pro Skater series of video games, in that the user holds a button to increase their speed, and releases it to jump. Also, much like Tony Hawk's Pro Skater, various "tricks" can be performed by pressing one of the face buttons, including grabs, flips and grinds, while in the air or near edges of objects. While skating normally, the user can also "cess slide" by using the shoulder buttons, and 'manual' by pressing the Up and Down directional buttons in quick succession. The choice of a similar layout is most likely due to the immense popularity of the Tony Hawk's Pro Skater games, whose control setup is almost becoming de facto within the genre (one of the few games to challenge this is Thrasher: Skate and Destroy). Similarly, the player can also change the button combinations of their skater's tricks to their liking.
+
+===Career mode===
+Players pick a professional skater (or create their own using the editor) and work their way up to the top of the rankings by completing objectives within each of the 14 levels (10 street, 4 competition) in a succession of three minute "runs". In each of the street levels, the player must always get a certain number of points (which increases with each level), a VideoGroove logo and Rolling logo, and a certain point amount for a cameraman. In some of the levels, the player may participate in a "photoshoot", where a specific trick must be performed for a photographer.
+
+
+The competition levels work in a similar way as Tony Hawk's Pro Skater. The player has three one-minute runs to perform tricks in and is then judged on overall point score, variation and linking of tricks, difficulty of tricks and avoidance of "bails", i.e. not performing the trick correctly. Unlike Tony Hawk's Pro Skater, however, the first run is a qualifier where the player has to score at least 50%. The second and third runs are judged on the above criteria.
+
+As the player progresses, he or she will unlock several items. Completing objectives in the levels gains reputation, which in turn unlocks more levels, sponsors and tricks. Simply doing tricks within the levels will boost one of the skater's 10 statistics (grinding repeatedly will increase the "grind" statistic, for example).
+
+===Practice mode===
+Once levels have been unlocked in the career mode, the player can skate in them freely in this mode. There is no time limit, so the player can explore the levels without hindrance in order to find the best 'lines' (to perform high scoring point combos). The only downside to this mode is that statistics cannot be increased, tricks cannot be mastered (when a trick is done enough times to 'master it', which then increases its point scoring by 25%) and there are no objectives to complete.
+
+===Multiplayer===
+The game features several different multiplayer modes that can be played simultaneously with 2 human players. Any unlocked or created level can be played in these modes, including the competition parks. The different games are as follows:
+
+High Score - The players compete to get the highest overall score within the set time limit.
+
+Stealing Scores - When tricks are performed, pickups are placed at the location. These are first only allowed to be picked up by the opponent, but after a certain amount of time they turn green and are available to any player.
+
+Time Bomb - One person has a time bomb which must be passed to the other player by physical contact. The person who is holding the bomb when the timer reaches zero loses the game.
+
+Close Up - When 'follow' appears on the screen, getting close to the opponent will gain points. When 'lead' appears, moving away will do the same.
+
+In the Zone - The players must beat the opponent by doing a specific trick in a certain area of the level before they are able to. The player with the most points gained by doing so in the time limit wins.
+
+Tagging - Similar to the Graffiti game mode in the Tony Hawk's Pro Skater series, the players spray their logo on as many of the 30 zones in the level as possible - the most tags in the time limit wins.
+
+===Skater editor===
+Another feature similar to Tony Hawk's Pro Skater, the game features a fairly powerful editor that allows the player to assign biographical details, different hair, skin, tattoos and clothing (unlocked in career mode), among others.
+
+===Park editor===
+An editor that allows the player to create their own skatepark that can be used in the Practice and Multiplayer modes.
+
+==Critical reception==
+The only reviews available are:
+* Game Power AU: 6.5/10, 65%
+* Gamesmaster: 55/100
+* Official Xbox Magazine: 59/100
+* Play: 48/100, 48%
+* Playstation 2 Max UK : 76/100, 76%
+
+According to GameRankings, the average score for the Playstation 2 version was 63% (from three reviews) whereas the score for the Xbox version was 57% (from two reviews).
+

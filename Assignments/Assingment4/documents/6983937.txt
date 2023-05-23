@@ -1,0 +1,74 @@
+Title: Primary immunodeficiency
+Primary immunodeficiencies are disorders in which part of the body's immune system is missing or does not function normally. To be considered a primary immunodeficiency (PID), the immune deficiency must be inborn, not caused by secondary factors such as other disease, drug treatment, or environmental exposure to toxins. Most primary immunodeficiencies are genetic disorders; the majority are diagnosed in children under the age of one, although milder forms may not be recognized until adulthood. While there are over 430 recognized inborn errors of immunity (IEIs) as of 2019, the vast majority of which are PIDs, most are very rare.  About 1 in 500 people in the United States are born with a primary immunodeficiency.  Immune deficiencies can result in persistent or recurring infections, auto-inflammatory disorders, tumors, and disorders of various organs.  There are currently limited treatments available for these conditions; most are specific to a particular type of PID. Research is currently evaluating the use of stem cell transplants (HSCT) and experimental gene therapies as avenues for treatment in limited subsets of PIDs.
+
+==Signs and symptoms==
+The precise symptoms of a primary immunodeficiency depend on the type of defect. Generally, the symptoms and signs that lead to the diagnosis of an immunodeficiency include recurrent or persistent infections or developmental delay as a result of infection. Particular organ problems (e.g. diseases involving the skin, heart, facial development and skeletal system) may be present in certain conditions. Others predispose to autoimmune disease, where the immune system attacks the body's own tissues, or tumours (sometimes specific forms of cancer, such as lymphoma). The nature of the infections, as well as the additional features, may provide clues as to the exact nature of the immune defect.
+
+==Causes==
+By definition, primary immune deficiencies are due to genetic causes. They may result from a single genetic defect, but most are multifactorial.  They may be caused by recessive or dominant inheritance.  Some are latent, and require a certain environmental trigger to become manifest, like the presence in the environment of a reactive allergen.  Other problems become apparent due to aging of bodily and cellular maintenance processes.
+
+==Diagnosis==
+The basic tests performed when an immunodeficiency is suspected should include a full blood count (including accurate lymphocyte and granulocyte counts) and immunoglobulin levels (the three most important types of antibodies: IgG, IgA and IgM).
+
+Other tests are performed depending on the suspected disorder:
+* Quantification of the different types of mononuclear cells in the blood (i.e. lymphocytes and monocytes): different groups of T lymphocytes (dependent on their cell surface markers, e.g. CD4+, CD8+, CD3+, TCRαβ and TCRγδ), groups of B lymphocytes (CD19, CD20, CD21 and immunoglobulin), natural killer cells and monocytes (CD14+), as well as activation markers: HLA-DR, CD25, CD80 (B cells).
+* Tests for T cell function: skin tests for delayed-type hypersensitivity, cell responses to mitogens and allogeneic cells, cytokine production by cells
+* Tests for B cell function: antibodies to routine immunisations and commonly acquired infections, quantification of IgG subclasses
+* Tests for phagocyte function: reduction of nitro blue tetrazolium chloride, assays of chemotaxis, bactericidal activity.
+
+Due to the rarity of many primary immunodeficiencies, many of the above tests are highly specialised and tend to be performed in research laboratories.
+
+Criteria for diagnosis were agreed in 1999. For instance, an antibody deficiency can be diagnosed in the presence of low immunoglobulins, recurrent infections and failure of the development of antibodies on exposure to antigens. The 1999 criteria also distinguish between "definitive", "probable" and "possible" in the diagnosis of primary immunodeficiency. "Definitive" diagnosis is made when it is likely that in 20 years, the patient has a >98% chance of the same diagnosis being made; this level of diagnosis is achievable with the detection of a genetic mutation or very specific circumstantial abnormalities. "Probable" diagnosis is made when no genetic diagnosis can be made, but the patient has all other characteristics of a particular disease; the chance of the same diagnosis being made 20 years later is estimated to be 85-97%. Finally, a "possible" diagnosis is made when the patient has only some of the characteristics of a disease which are present, but not all.
+
+===Classifications===
+
+
+There are many forms of PID. The International Union of Immunological Societies recognizes nine classes of primary immunodeficiencies, totaling over 120 conditions. A 2014 update of the classification guide added a 9th category and added 30 new gene defects from the prior 2009 version. , there are approximately 430 forms of PID that have been identified.
+
+Different forms of PID have different mechanisms. Rough categorizations of conditions divide them into humoral immunity disorders, T-cell and B-cell disorders, phagocytic disorders, and complement disorders.
+
+Most forms of PID are very rare. IgA deficiency is an exception, and is present in 1 in 500 people. Some of the more frequently seen forms of PID include common variable immunodeficiency, severe combined immunodeficiency, X-linked agammaglobulinemia, Wiskott–Aldrich syndrome, DiGeorge syndrome, ataxia–telangiectasia,
+
+==Treatment==
+The treatment of primary immunodeficiencies depends foremost on the nature of the abnormality. Somatic treatment of primarily genetic defects is in its infancy.  Most treatment is therefore passive and palliative, and falls into two modalities: managing infections and boosting the immune system.
+
+Reduction of exposure to pathogens may be recommended, and in many situations prophylactic antibiotics or antivirals may be advised.
+
+In the case of humoral immune deficiency, immunoglobulin replacement therapy in the form of intravenous immunoglobulin (IVIG) or subcutaneous immunoglobulin (SCIG) may be available. Antibiotic prophylaxis is also commonly used to prevent respiratory tract infections in these patients.
+
+In cases of autoimmune disorders, immunosuppression therapies like corticosteroids may be prescribed.
+
+For primary immunodeficiencies that are caused by genetic mutation does not exist a causal therapy that would "repair" the mutation. Although there is a  therapeutic option, gene therapy which has been in a trial for few immune deficiencies affecting the hematopoietic system. Over the past two decades there were some successful treatments of patients with specific primary immunodeficiencies (PID), including X-linked severe combined immunodeficiency (SCID), Wiskott–Aldrich syndrome and metabolic conditions such as leukodystrophy.
+
+Gene therapy evolved in the 90s from using of gammaretroviral vectors to more specific self-inactivating vector platforms around 2006. The viral vectors randomly insert their sequences into the genomes. However, it is rarely used because of a risk of developing post-treatment T-cell leukemia as a result of interfering tumor-suppressor genes  and because of ethical issues. But the progress in gene therapy is promising for the future of treating primary immunodeficiencies.
+
+==Epidemiology==
+A survey of 10,000 American households revealed that the prevalence of diagnosed primary immunodeficiency approaches 1 in 1200. This figure does not take into account people with mild immune system defects who have not received a formal diagnosis.
+
+Milder forms of primary immunodeficiency, such as selective immunoglobulin A deficiency, are fairly common, with random groups of people (such as otherwise healthy blood donors) having a rate of 1:600. Other disorders are distinctly more uncommon, with incidences between 1:100,000 and 1:2,000,000 being reported.
+
+==Research==
+Bone marrow transplant  may be possible for Severe Combined Immune Deficiency and other severe immunodeficiences.
+
+Virus-specific T-lymphocytes (VST) therapy is used for patients who have received hematopoietic stem cell transplantation that has proven to be unsuccessful.  It is a treatment that has been effective in preventing and treating viral infections after HSCT. VST therapy uses active donor T-cells that are isolated from alloreactive T-cells which have proven immunity against one or more viruses. Such donor T-cells often cause acute graft-versus-host disease (GVHD), a subject of ongoing investigation. VSTs have been produced primarily by ex-vivo cultures and by the expansion of T-lymphocytes after stimulation with viral antigens. This is carried out by using donor-derived antigen-presenting cells.  These new methods have reduced culture time to 10–12 days by using specific cytokines from adult donors or virus-naive cord blood.  This treatment is far quicker and with a substantially higher success rate than the 3–6 months it takes to carry out HSCT on a patient diagnosed with a primary immunodeficiency. T-lymphocyte therapies are still in the experimental stage; few are even in clinical trials, none have been FDA approved, and availability in clinical practice may be years or even a decade or more away.
+
+Induced pluripotent stem cells obtained reprogramming patients' cells, for example leukocytes, are a promising tool to study these pathologies and develop personalized therapies.
+
+== History ==
+X-linked agammaglobulinemia was one of the first described primary immunodeficiencies, discovered by Ogden Bruton in 1952. Primary immunodeficiencies were initially classified in 1970 by a committee of the World Health Organization. At the time, they identified 16 immunodeficiencies. By 1998, the number had reached 50.
+
+Discovery of novel genetic causes of innate immunodeficiencies accelerated greatly in the 2010s due to high-throughput DNA sequencing technologies. As of 2019, more than 430 have been categorized.
+
+== See also ==
+* Immunodeficiency
+* Inborn errors of immunity
+
+== References ==
+
+
+== External links ==
+* International Union of Immunological societies (IUIS)
+
+
+
+Category:Immunodeficiency

@@ -1,0 +1,74 @@
+Title: NordBalt
+
+
+NordBalt (also formerly known as SwedLit) is a submarine power cable between Klaipėda in Lithuania and Nybro in Sweden.  The purpose of the cable is to facilitate the trading of power between the Baltic and Nordic electricity markets, and to increase the supply and energy security in both markets.
+
+==History==
+The project was originally suggested in 2004. Original project Swindlit  was aimed at construction of the wind farm in the Baltic Sea and ensuring the electricity transmission to Sweden and Lithuania. The participants of this project were interested also in Kruonis Pumped Storage Plant as an accumulator of variable wind energy.
+
+In August 2006, the Lithuanian and Swedish transmission grid operators Lietuvos Energija and Svenska kraftnät agreed to launch a feasibility study of a possible interconnector.
+
+ In February 2007, Lietuvos Energija and Svenska Kraftnät signed an agreement with Swedish consulting company SWECO International on preparation of feasibility study. The study was completed in March 2008 with positive conclusions for the implementation of the project.
+
+
+
+On 9 July 2009, Lietuvos Energija, Latvenergo and Svenska Kraftnät signed a memorandum of understanding on the NordBalt project.
+
+ Invitation for pre-qualification for NordBalt converters' and cable procurement was launched in December 2009.
+
+ The sea bottom survey was conducted by Marin Mätteknik by 13 December 2009.
+
+ On 17 December 2010, Litgrid, a newly established transmission system operator of Lithuania who took the project over from Lietuvos Energija, and Svenska kraftnät, signed a €270 million contract with ABB according to which ABB manufactured the cable.
+
+ According to another contract, signed on 20 December 2010, ABB supplied two converter stations.
+
+
+
+In March 2013 the government of Lithuania approved construction plans for the coastal area.
+
+ On 18 April 2013 the Swedish government gave its final approval of the construction of a power cable.
+
+ Cable laying started on 11 April 2014. It was laid by using C/S Lewek Connector. The cable laying was disrupted several times by the Russian Navy
+
+
+
+ within the Exclusive Economic Zone of Lithuania
+
+ causing the Lithuanian prime minister to summon the Russian ambassador and protest against Russia's violation of the United Nations' Convention on the Law of the Sea (UNCLOS). On 9 June 2015, the cable laying works were completed.
+
+
+
+The cable was officially inaugurated on 14 December 2015.
+
+ However, due to fire near the Nybro substation, test transmission with a capacity of 30 MW started only on 1 February 2016.
+
+
+
+
+
+ On 17 February 2016, electricity transmitted via Nordbalt was traded first time at Nord Pool Spot.
+
+   the interconnector is in a test phase.
+
+==Technical features==
+The interconnector uses high-voltage direct current (HVDC). The length of the cable is , of which  is the submarine cable,  is the land cable in Sweden, and  is the land cable in Lithuania.  Its maximum capacity is 700 MW with a ramping restriction of 600 MW,
+
+
+where the 700 MW capacity corresponds to an annual transmission capacity of 6.1 TWh.
+
+==Economy==
+The interconnector cost €580 million, of which the submarine cable cost €270 million.  €175 million was paid by the European Commission.
+
+It connects the Nord Pool Spot bidding areas southern Sweden (SE4) and Lithuania (LT).
+
+==See also==
+* Energy in Lithuania
+* Electricity sector in Sweden
+* Baltic Cable, cable between Germany and Sweden
+* Konti-Skan, cable between Denmark and Sweden
+* Estlink, cable between Estonia and Finland
+* Fenno-Skan, cable between Finland and Sweden
+* LitPol Link, cable between Lithuania and Poland
+* Harmony Link, subsea cable between Lithuania and Poland
+* SwePol, cable between Poland and Sweden
+

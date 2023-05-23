@@ -1,0 +1,281 @@
+Title: Collar number
+
+
+A collar number, also known as a shoulder number, force identification number (FIN)  or occasionally as force number (although this can also refer to the ID number of a force itself), identifies police officers, police community support officers (PCSO), special constables (SC or SPC) and some police staff in UK police forces - other law enforcement agencies, such as HM Prison Service, have also adopted identification numbers. Although now displayed on epaulettes (i.e. on the shoulder), it is still commonly referred to as a collar number. Although most forces issue a collar number to all warranted officers regardless of role, only uniformed officers of the ranks constable and sergeant actually display the numbers.
+
+In most forces it is simply a one- to five-digit number, but in larger forces a letter code (also known as a division call sign) may be added to indicate the officer's base area or unit. In some forces different types of staff (paid ('regular') police officers, special constables, PCSOs and other police staff) are assigned different ranges of numbers, so a person's role can be deduced from the number, but these systems are force specific and there is no national standard.
+
+==France==
+In France, the wearing of the collar number is compulsory, save a few exceptions, from 1 January 2014.
+
+==United Kingdom==
+
+===City of London===
+Until recently, collar numbers consisted of a number followed by a single letter to indicate the division (e.g. "PC 123A").
+
+In 1914, the force was reorganised into four divisions, each named after its police station:
+
+:{| class="wikitable"
+|-
+! Divisional letter !! Division
+|-
+|A || Moor Lane
+|-
+|B || Snow Hill
+|-
+|C || Bishopsgate
+|-
+|D || Cloak Lane
+|}
+
+Moor Lane Police Station was destroyed in the Blitz in 1940, and A Division was abolished and distributed amongst the three remaining divisions. Cloak Lane Police Station was closed down in 1946, and D Division was transferred to the new Wood Street Police Station. The divisions after 1946 therefore stood at:
+
+:{| class="wikitable"
+|-
+! Divisional letter !! Division
+|-
+|B || Snow Hill
+|-
+|C || Bishopsgate
+|-
+|D || Wood Street
+|}
+
+In 1984, the force was reduced to two territorial divisions, based at Snow Hill Police Station and Bishopsgate Police Station (still B and C Divisions), together with support divisions, and the divisions subsequently stood at:
+
+:{| class="wikitable"
+|-
+! Divisional letter !! Division
+|-
+|A || Anti-Terrorism & Public Order
+|-
+|B || Snow Hill
+|-
+|C || Bishopsgate
+|-
+|D || Specialist Crime Operations
+|-
+|E || Professional Development Unit
+|-
+|F || Economic Crime Department
+|}
+
+In February 2009, all the divisions were abolished and the force was divided into directorates (with all patrol officers falling within the new Territorial Policing Directorate, subsequently incorporating certain specialist units and becoming the Uniformed Policing Directorate). All officers' collar numbers were then suffixed by the letters "CP" rather than a divisional letter. In a fashion similar to the Metropolitan police,some units such as Traffic and the Support Group, have their collar number supplemented by either the T or U respectively in order to differentiate their additional training and skill set.  
+
+Collar numbers are allocated as follows:
+
+:{| class="wikitable"
+|-
+! Range !! Officers
+|-
+|1–149 || Sergeants
+|-
+|150–999 || Constables
+|-
+|1000–1099 || Special Sergeants
+|-
+|1100–1299 || Special Constables
+|-
+|2000–2099 || PCSOs
+|}
+
+===Metropolitan Police===
+
+A number, followed by one or two letters indicating the station/sector, borough, or unit. Current practice favours use of borough codes rather than station codes (with the borough code generally taken from one of the borough's stations—see below—which can cause confusion).
+
+Divisional area codes are still used to identify the areas themselves, together with the police station and vehicles (if any) nominally covering them, but not officers.
+
+A one, two or three digit number denotes a Sergeant, a three or four digit number denotes a Constable, a four digit number beginning with 5 denotes an officer of the Metropolitan Special Constabulary, unless they're attached to a 'Roads & Transport Policing Command' (RTPC) team, in which case the number will begin with an 8 and a four digit number beginning with 7 denotes a PCSO again unless they are attached to RTPC and they will start with a 6. Confusingly, MPS epaulettes display the  letters over the digits, i.e. 81FH (a Sergeant based at Hammersmith) would show FH over 81 on their shoulder, which reads more like FH81 (the call sign of a panda car based there). Ranks above Sergeant do not have collar numbers - officers are identified by name (e.g. Inspector Smith, who may once have been PC 123 kg Smith).
+
+An exception to the above was the City of Westminster borough. Westminster had over 1,500 officers therefore a three digit number system was too small. Until late 2009 constables and sergeants had four digit shoulder numbers beginning 1, 2, 3 or 4 (with the leading number signifying which part of the borough you were attached to - 1 Westminster North, 2 Westminster Central, 3 Westminster South or 4 Westminster HQ). With the amalgamation of Westminster Central and South in late 2009 the decision was taken to amalgamate all the shoulder numbers into one numbering system. All new officers joining the borough were given the first available number and cross division moves no longer resulted in the need for a new shoulder number.
+
+==== Central and Specialist Units ====
+
+:{| class="wikitable"
+|-
+!Code !! Specialist unit
+|-
+|CC || Central Communications Command (MO12)
+|-
+|CJ || Met Detention (Custody)
+|-
+|CO || Specialist Crime & Operations (includes Specialist Firearms Command, Mounted Branch, Marine Policing Unit etc.)
+|-
+|FRT || Forensic Retrieval Team
+|-
+|R || Royalty Protection Group (SO14)
+|-
+|RO || Royal Parks Operational Command Unit
+|-
+|MxC || Specialist Crime Directorate
+|-
+|SO || Specialist Operations & Aviation Security SO18 (Heathrow Airport & London City Airport) 
+|-
+|V|| Vehicle Recovery Examination Services (VRES)
+|-
+|VF|| Violent Crime Task Force (VCTF)
+|-
+|VE|| Operation Venice
+|-
+|P || Units based at Parliament  (Parliamentary and Diplomatic Protection) 
+|-
+|D || Units supporting diplomats and senior ministers (Parliamentary and Diplomatic Protection)
+|-
+|L || Learning Directorate (Training)
+|-
+|TP|| Frontline Policing Headquarters
+|-
+|T|| Roads and Transport Policing Command - Merger of ST (Safer Transport) and TD (Traffic)
+|-
+|U || Territorial Support Group (MO7)
+|}
+
+==== Frontline Policing ====
+
+From 2017 to 2019 the Metropolitan Police Service reformed the organisational structure of Frontline Policing from the existing 32 Borough Operational Command Units (BOCUs) into 12 new Basic Command Units.
+
+
+:{| class="wikitable"
+! Basic Command Unit || Sectors (Former BOCUs) || Station Codes
+|-
+! rowspan="2" | CN Central North
+|EK Camden
+||
+EO Holborn
+EK Kentish Town
+EW West Hampstead
+
+|-
+|NI Islington
+||
+NH Holloway, 
+NI Islington
+|-
+! rowspan="2" | CE Central East
+|GD Hackney
+||
+GH Hackney (closed), 
+GD Shoreditch (closed), 
+GN Stoke Newington
+|-
+|HT Tower Hamlets
+||HW Bow, HT Bethnal Green / Whitechapel, HR Brick Lane, HI Isle of Dogs (closed), HH Limehouse, HP Poplar
+|-
+! rowspan="2" | AS Central South
+|LX Lambeth
+||LD Brixton, LC Cavendish (closed), LN/LM† Clapham (closed), LG Gipsy Hill (closed), LK Kennington, LS Streatham (closed)
+|-
+|MD Southwark
+||MC Camberwell (closed), MM Peckham, MR Rotherhithe (closed), MD Southwark, MS Walworth
+|-
+! rowspan="3" | AW Central West
+|BS Kensington & Chelsea
+||BC Chelsea (closed), BD Kensington, BH Notting Hill (closed), BN Notting Dale (closed)
+|-
+|CW Westminster
+||AD Belgravia, CX Charing Cross, DP Paddington, CD West End Central, DM Marylebone, DR Harrow Road, DS St John's Wood
+|-
+|FH Hammersmith & Fulham
+||FF Fulham (closed), FH Hammersmith, FS Shepherds Bush (closed)
+|-
+! rowspan="2" | NA North Area
+|YE Enfield
+|| YE Edmonton, YF Enfield North Cluster (closed), YB Enfield Patrol Base, YS Southgate West Cluster (closed), YP Edmonton South Cluster (Formerly Ponders end Cluster)
+|-
+|YR Haringey
+|| YR Hornsey (closed), YM Muswell Hill (closed), YDQ Quicksilver Patrol Base, YA St Ann's (closed), YT Tottenham, YD Wood Green
+|-
+! rowspan="2" | NE North East
+|JC   Waltham Forest
+|| JC Chingford, JL Leyton (closed), JS Leytonstone (closed), JW Walthamstow (closed), JK Walthamstow Market, JP Leyton Custody Centre, JA Waltham Abbey (closed, now in Essex)
+|-
+|KF Newham
+|| KE East Ham (closed), KF Forest Gate, KW Fresh Wharf, KN North Woolwich, KO Plaistow (closed), KS Stratford
+|-
+! rowspan="3" | EA East Area
+|JI Redbridge
+|| JB Barkingside, JI Ilford, JN Wanstead, JF Woodford
+|-
+|KD Havering
+|| KL Collier Row, KA Harold Hill, KC Hornchurch, KM Rainham, KD Romford, KU Upminster, KH Harold Hill Patrol Base
+|-
+|KG Barking & Dagenham
+|| KB Barking, KG Dagenham, KK Marks Gate, KW Freshwharf,
+|-
+! rowspan="3" | SE South East
+|PL Lewisham
+||PK Brockley (closed), PD Catford, PP Deptford, PL Lewisham, PS Sydenham (closed)
+|-
+|RG Greenwich
+||RM Eltham, RG Greenwich (closed), RA Plumstead, RT Thamesmead (closed), RK Westcombe Park (closed), RW Woolwich (closed), RH Shooters Hill (closed)
+|-
+|RY Bexley
+||RB Belvedere (closed), RY Bexleyheath, RS Sidcup (closed)
+|-
+! rowspan="3" | SN South Area
+|PY  Bromley
+||PB Beckenham (closed), PH Biggin Hill (closed), PC Chislehurst (closed), PY Bromley, PN Orpington (closed), PG Penge, PW West Wickham
+|-
+|ZD Croydon
+||ZD Croydon, ZN South Norwood (closed), ZY Norbury (closed), ZK Kenley (closed), ZA Addington, ZC Windmill Road Custody
+|-
+|ZT Sutton
+||ZT Sutton, ZW Wallington (closed), ZR Worcester Park
+|-
+! rowspan="4" | SW South West
+|TW Richmond Upon Thames
+||TR Richmond, TT Teddington, TW Twickenham
+|-
+|VK Kingston upon Thames
+||VK Kingston, VN New Malden, VS Surbiton, VE Esher (Obsolete, previously Metropolitan Police now within Surrey Police Jurisdiction)
+|-
+|VW Merton
+||VM Mitcham, VR Morden (closed), VW Wimbledon
+|-
+|WW Wandsworth
+||WA Battersea (closed), WL Lavender Hill, WD Tooting, WF Earlsfield (closed), WH Wandsworth (also includes the Putney Sector Office which replaced the previous Putney station which had the code WP †)
+|-
+! rowspan="3" | WA West Area
+|TX Hounslow
+||TB Brentford, TC Chiswick, TF Feltham, TD Hounslow
+|-
+|XB Ealing
+||XA Acton, XD Ealing, XS Southall, XG Greenford, XN Norwood Green, XI Hanwell
+|-
+|XH Hillingdon
+||XF Harefield, XY Hayes, XU Uxbridge, XN Northwood, XR Ruislip, XE West Drayton
+|-
+! rowspan="3" | NW North West
+|SX Barnet
+||SA Barnet, SC Colindale, SF Finchley (closed), SG Golders Green, ST Whetstone (closed)
+|-
+|QA Harrow
+||QE Edgware, QA Harrow, QP Pinner, QW Wealdstone, QS West Street
+|-
+|QK Brent
+||QC Chalkhill (closed), QH Harlesden, QK Kilburn, QD Wembley, QL Willesden Green (closed), QY Kingsbury (closed)
+|}
+
+† Some authoritative sources (e.g. Police and Constabulary Almanac) are self-contradictory and incomplete.
+
+Not all of these stations are currently operational.
+
+Further to this; letters on shoulders will denote borough or newly formed basic command units and not the police station an officer is based from. An example of this would be a PC working from East Ham Police Station in the borough of Newham; the PC would have KF (Newham) on their shoulder and not KE (East Ham station). Similarly in newly merged boroughs a PC working from Holloway Police Station would have CN (Central North BCU) on their shoulder.
+
+===Sussex Police===
+
+All officers will be provided with a collar number which is also their warrant number. Prior to September 2018, this was deemed by gender for example CS123 would represent a male officer whose surname started with S, a female would being with a D, DS123 for example.
+
+The second letter would be the first initial of the officer, followed by a three digit number. In September 2018, this changed and all new officers warrant numbers start EA followed by a three digit number. Following the full use of the EA numbers from 1-999, they now start EB.
+
+=== PNC codes and collar numbers ===
+
+When a police officer or a member of staff is in a collaborative (multi-constabulary) unit or department (such as the Bedfordshire, Cambridgeshire and Hertfordshire Road Policing Unit), the PNC code, which is a force identification number, is added to the collar number to prevent confusion between officers; e.g., 41-9999 would indicate a Hertfordshire officer. These numbers are only used in paperwork and are not seen on the officer's epaulettes.
+
+===HM Prison Service===
+
+Operational Support Staff and sworn Prison Officers in His Majesty's Prison Service bear collar numbers to aid in accountability in the service. Collar numbers bear two letters indicating which establishment the officer is based at and three random numerical digits.
+
+==Notes==
+
+

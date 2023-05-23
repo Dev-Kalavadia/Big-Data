@@ -1,0 +1,59 @@
+Title: Brzeg County
+
+__NOTOC__
+Brzeg County ( ) is a unit of territorial administration and local government (powiat) in Opole Voivodeship, south-western Poland. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and largest town is Brzeg, which lies  north-west of the regional capital Opole. The county also contains the towns of Grodków, lying  south of Brzeg, and Lewin Brzeski,  south-east of Brzeg.
+
+The county covers an area of . As of 2019 its total population is 90,054, out of which the population of Brzeg is 35,890, that of Grodków is 8,595, that of Lewin Brzeski is 5,736, and the rural population is 39,833.
+
+==Neighbouring counties==
+Brzeg County is bordered by Namysłów County to the north-east, Opole County to the south-east, Nysa County to the south, and Strzelin County and Oława County to the west.
+
+==Administrative division==
+The county is subdivided into six gminas (one urban, two urban-rural and three rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km2)
+| style="text-align:center;"|Population(2019)
+| style="text-align:center;"|Seat
+|-
+|Brzeg
+|urban
+| style="text-align:right;"|14.7
+| style="text-align:right;"|35,890
+| 
+|-
+|Gmina Grodków
+|urban-rural
+| style="text-align:right;"|286.4
+| style="text-align:right;"|19,149
+|Grodków
+|-
+|Gmina Lewin Brzeski
+|urban-rural
+| style="text-align:right;"|159.7
+| style="text-align:right;"|12,968
+|Lewin Brzeski
+|-
+|Gmina Lubsza
+|rural
+| style="text-align:right;"|212.7
+| style="text-align:right;"|8,992
+|Lubsza
+|-
+|Gmina Skarbimierz
+|rural
+| style="text-align:right;"|110.5
+| style="text-align:right;"|8,149
+|Skarbimierz Osiedle
+|-
+|Gmina Olszanka
+|rural
+| style="text-align:right;"|92.6
+| style="text-align:right;"|4,906
+|Olszanka
+|-
+|}
+

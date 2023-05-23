@@ -1,0 +1,416 @@
+Title: List of municipalities of the Province of Potenza
+
+The following is a list of the 100 municipalities (comuni) of the Province of Potenza, Basilicata, Italy. The comuni of the Province of Potenza (provincial website)
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|076001
+|Abriola
+| align="right" |1,732
+|-
+|076002
+|Acerenza
+| align="right" |2,854
+|-
+|076003
+|Albano di Lucania
+| align="right" |1,583
+|-
+|076004
+|Anzi
+| align="right" |1,940
+|-
+|076005
+|Armento
+| align="right" |751
+|-
+|076006
+|Atella
+| align="right" |3,845
+|-
+|076007
+|Avigliano
+| align="right" |12,032
+|-
+|076008
+|Balvano
+| align="right" |1,960
+|-
+|076009
+|Banzi
+| align="right" |1,503
+|-
+|076010
+|Baragiano
+| align="right" |2,744
+|-
+|076011
+|Barile
+| align="right" |3,250
+|-
+|076012
+|Bella
+| align="right" |5,396
+|-
+|076013
+|Brienza
+| align="right" |4,165
+|-
+|076014
+|Brindisi Montagna
+| align="right" |932
+|-
+|076015
+|Calvello
+| align="right" |2,148
+|-
+|076016
+|Calvera
+| align="right" |542
+|-
+|076017
+|Campomaggiore
+| align="right" |926
+|-
+|076018
+|Cancellara
+| align="right" |1,551
+|-
+|076019
+|Carbone
+| align="right" |785
+|-
+|076020
+|San Paolo Albanese
+| align="right" |378
+|-
+|076021
+|Castelgrande
+| align="right" |1,240
+|-
+|076022
+|Castelluccio Inferiore
+| align="right" |2,280
+|-
+|076023
+|Castelluccio Superiore
+| align="right" |928
+|-
+|076024
+|Castelmezzano
+| align="right" |946
+|-
+|076025
+|Castelsaraceno
+| align="right" |1,647
+|-
+|076026
+|Castronuovo di Sant'Andrea
+| align="right" |1,341
+|-
+|076027
+|Cersosimo
+| align="right" |831
+|-
+|076028
+|Chiaromonte
+| align="right" |2,148
+|-
+|076029
+|Corleto Perticara
+| align="right" |2,890
+|-
+|076030
+|Episcopia
+| align="right" |1,585
+|-
+|076031
+|Fardella
+| align="right" |716
+|-
+|076032
+|Filiano
+| align="right" |3,224
+|-
+|076033
+|Forenza
+| align="right" |2,474
+|-
+|076034
+|Francavilla in Sinni
+| align="right" |4,318
+|-
+|076035
+|Gallicchio
+| align="right" |988
+|-
+|076036
+|Genzano di Lucania
+| align="right" |6,128
+|-
+|076037
+|Grumento Nova
+| align="right" |1,820
+|-
+|076038
+|Guardia Perticara
+| align="right" |739
+|-
+|076039
+|Lagonegro
+| align="right" |6,005
+|-
+|076040
+|Latronico
+| align="right" |5,094
+|-
+|076041
+|Laurenzana
+| align="right" |2,166
+|-
+|076042
+|Lauria
+| align="right" |13,708
+|-
+|076043
+|Lavello
+| align="right" |13,658
+|-
+|076044
+|Maratea
+| align="right" |5,287
+|-
+|076045
+|Marsico Nuovo
+| align="right" |4,991
+|-
+|076046
+|Marsicovetere
+| align="right" |5,017
+|-
+|076047
+|Maschito
+| align="right" |1,824
+|-
+|076048
+|Melfi
+| align="right" |17,138
+|-
+|076049
+|Missanello
+| align="right" |599
+|-
+|076050
+|Moliterno
+| align="right" |4,568
+|-
+|076051
+|Montemilone
+| align="right" |1,879
+|-
+|076052
+|Montemurro
+| align="right" |1,514
+|-
+|076053
+|Muro Lucano
+| align="right" |6,015
+|-
+|076054
+|Nemoli
+| align="right" |1,589
+|-
+|076055
+|Noepoli
+| align="right" |1,130
+|-
+|076056
+|Oppido Lucano
+| align="right" |3,991
+|-
+|076057
+|Palazzo San Gervasio
+| align="right" |5,134
+|-
+|076058
+|Pescopagano
+| align="right" |2,122
+|-
+|076059
+|Picerno
+| align="right" |6,223
+|-
+|076060
+|Pietragalla
+| align="right" |4,462
+|-
+|076061
+|Pietrapertosa
+| align="right" |1,252
+|-
+|076062
+|Pignola
+| align="right" |5,824
+|-
+|076063
+|Potenza
+| align="right" |68,839
+|-
+|076064
+|Rapolla
+| align="right" |4,617
+|-
+|076065
+|Rapone
+| align="right" |1,198
+|-
+|076066
+|Rionero in Vulture
+| align="right" |13,413
+|-
+|076067
+|Ripacandida
+| align="right" |1,698
+|-
+|076068
+|Rivello
+| align="right" |2,950
+|-
+|076069
+|Roccanova
+| align="right" |1,728
+|-
+|076070
+|Rotonda
+| align="right" |3,814
+|-
+|076071
+|Ruoti
+| align="right" |3,659
+|-
+|076072
+|Ruvo del Monte
+| align="right" |1,192
+|-
+|076073
+|San Chirico Nuovo
+| align="right" |1,607
+|-
+|076074
+|San Chirico Raparo
+| align="right" |1,270
+|-
+|076075
+|San Costantino Albanese
+| align="right" |886
+|-
+|076076
+|San Fele
+| align="right" |3,728
+|-
+|076077
+|San Martino d'Agri
+| align="right" |927
+|-
+|076078
+|San Severino Lucano
+| align="right" |1,855
+|-
+|076079
+|Sant'Angelo Le Fratte
+| align="right" |1,466
+|-
+|076080
+|Sant'Arcangelo
+| align="right" |6,553
+|-
+|076081
+|Sarconi
+| align="right" |1,403
+|-
+|076082
+|Sasso di Castalda
+| align="right" |907
+|-
+|076083
+|Satriano di Lucania
+| align="right" |2,387
+|-
+|076084
+|Savoia di Lucania
+| align="right" |1,227
+|-
+|076085
+|Senise
+| align="right" |7,236
+|-
+|076086
+|Spinoso
+| align="right" |1,744
+|-
+|076087
+|Teana
+| align="right" |727
+|-
+|076088
+|Terranova di Pollino
+| align="right" |1,612
+|-
+|076089
+|Tito
+| align="right" |6,637
+|-
+|076090
+|Tolve
+| align="right" |3,590
+|-
+|076091
+|Tramutola
+| align="right" |3,255
+|-
+|076092
+|Trecchina
+| align="right" |2,419
+|-
+|076093
+|Trivigno
+| align="right" |774
+|-
+|076094
+|Vaglio Basilicata
+| align="right" |2,196
+|-
+|076095
+|Venosa
+| align="right" |12,147
+|-
+|076096
+|Vietri di Potenza
+| align="right" |3,049
+|-
+|076097
+|Viggianello
+| align="right" |3,396
+|-
+|076098
+|Viggiano
+| align="right" |3,166
+|-
+|076099
+|Ginestra
+| align="right" |768
+|-
+|076100
+|Paterno
+| align="right" |3,728
+|-
+|
+|Total
+| align="right" |392,218
+|-
+|}
+

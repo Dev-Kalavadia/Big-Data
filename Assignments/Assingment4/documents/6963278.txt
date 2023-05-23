@@ -1,0 +1,23 @@
+Title: Further and better particulars
+In pleading, further and better particulars refers to additional information required to provide sufficient accuracy with respect to a set of pleaded facts in an earlier document.  The party who believes that the facts are insufficiently pleaded will issue a request for further and better particulars or a more particular statement of the relevant document.  An insufficiently pleaded allegation would otherwise cause difficulty to reply to.
+
+An example of an insufficiently particularised allegation in a pleading might be:
+*"Between the months of June and August, the Plaintiff repeatedly complained to members of the Defendant's family that the Defendant's family's dogs were trespassing on his property."
+
+If the Defendant was aware of only two complaints that the Plaintiff had made to his wife, which related to a dog otherwise unconnected with the lawsuit, the Defendant would be very unwise to admit the allegation.  Similarly, to either "not admit" or deny the allegation would invite a finding against himself on that point, and may lead to an award of costs.  Accordingly, the Defendant could reasonably ask for the allegation to be better particularised so that he may plead to it properly.
+
+A request for further and better particulars of the example above might read:
+*"Of "Between the months of June and August, the Plaintiff repeatedly complained to members of the Defendant's family that the Defendant's family's dogs were trespassing on his property", please state:
+:# On how many occasions the Plaintiff alleges he complained as aforesaid;
+:# When, during the months of June, July and August, the complaints were alleged to have been made;
+:# Whether the complaints alleged to have been made were made orally, in writing or otherwise;
+:# To which members of the Plaintiff's family the complaints are alleged to have been made; and
+:# Whether the Plaintiff avers that the complaints (or any of them) were made with respect to the dog which the Plaintiff alleges bit him.
+
+If the respondent to the request believes that the allegation was sufficiently particularised, and that the requesting party is simply fishing for more information or just being difficult, they would issue a short reply: "Not entitled" or "Sufficiently pleaded".
+
+Requests for further and better particulars are sometimes confused with interrogatories.  However, requests for further and better particulars relate to pleadings (which define the issues), and interrogatories relate to evidence (which proves or disproves pleaded allegations).
+
+
+Category:Civil procedure
+Category:Civil procedure legal terminology

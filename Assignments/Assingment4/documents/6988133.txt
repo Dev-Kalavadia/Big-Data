@@ -1,0 +1,31 @@
+Title: TrekStor Vibez
+
+The TrekStor Vibez is a microdrive digital audio player released on November 15, 2006.  It is available in 8 GB and 12 GB capacities.
+
+Flash versions of the Vibez player with 4 and 8 GB capacity were announced in 2007, but did not materialize for a while. A 16-gigabyte Vibez with flash memory was reviewed by German computer magazine c't in early July 2008.c't 16/2008, p. 136   The cancellation of the flash-based units has been confirmed by Trekstor in e-mail messages to customers.
+
+== Features ==
+The Vibez's chipset, the SigmaTel 3600 SoC, natively supports almost all features originally included in the Rio Karma (with the exception of the Karma's networking features), as well as some new and/or improved features, including:
+
+* Gapless playback and 5sec. cross-fading for all supported codecs, including WMA DRM.
+* Custom five-band parametric equalizer with savable presets.
+* True on-the-fly playlisting.
+* DJ mode (formerly known as "Rio DJ")
+* Line-in recording (.WAV format)
+* Voice recording (.WAV format)
+* MSC/MTP modes (no software dependency)
+* ID3 tag and file tree browsing
+* Pitch bend (50% +/-)
+* Codecs supported: MP3, Ogg Vorbis, FLAC, WAV, WMA-DRM9, WMA-DRM10 (Janus)
+* Album art (embedded supported in MP3 and WMA only)
+* Replaceable battery.
+* Optional radio tuner. (sold separately)
+* Pressing both [Select]+[Power] locks buttons.
+
+== References ==
+
+
+Category:Digital audio players
+Category:Audiovisual introductions in 2006
+
+

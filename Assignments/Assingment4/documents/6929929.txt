@@ -1,0 +1,28 @@
+Title: Mohawk Airlines Flight 411
+
+Mohawk Airlines Flight 411, a Fairchild FH-227B twin-engine turboprop, registered N7811M, was a scheduled domestic passenger service operated by Mohawk Airlines, between Albany and Glens Falls, New York. On November 19, 1969, it crashed into Pilot Knob Mountain, killing all 14 passengers and crew on board.
+
+The National Transportation Safety Board (NTSB) concluded that the crash was caused by the captain's improper execution of an instrument approach, combined with a severe downdraft at a low altitude, which resulted in the aircraft descending uncontrollably into terrain.
+
+==History of flight==
+On the evening of November 19, 1969, at about 20:03 EST, Mohawk Airlines Flight 411, a twin engine Fairchild FH-227B turboprop, departed from Albany International Airport near Albany, New York. It was operating as a scheduled passenger/cargo flight  on an instrument flight rules (IFR) flight plan to its destination of Warren County Airport in Glens Falls, New York,  northeast, with an estimated flight time of about 15 minutes.
+
+At 20:07:32 EST, just 4 minutes after takeoff, Flight 411 was cleared by air traffic control (ATC) for "a VOR approach to runway 19". The aircraft overflew the Glens Falls airport and proceeded northbound, subsequently reversing course. Shortly after course reversal, at about 20:20 EST, the aircraft hit trees on the northwest slope of the Pilot Knob Mountain, then impacted a rock cliff from which it fell  and became lodged between trees and caught fire. Of the 11 passengers and 3 crew on board, there were no survivors.
+
+==Investigation and final report==
+thumb|right|upright=1.4|Diagram depicting final flight path of Mohawk 411, NTSB Report
+
+The accident was investigated by the National Transportation Safety Board (NTSB). The Flight Data Recorder was recovered intact from the wreckage, but the Cockpit Voice Recorder had been damaged in the post-crash fire and was unusable.
+
+The weather at Glens Falls at the time of the accident was reported as "2,100 (feet) overcast, visibility 7 (miles) in light rain, wind 180 (degrees) at 12 (knots), peak gusts 22 (knots), altimeter 2980, runway 19 in use". The surface temperature was 54 degrees Fahrenheit (12 degrees Celsius).
+
+The investigation revealed that ATC cleared the flight to "the VOR approach", without actually specifying which specific VOR approach procedure was to be used, possibly leaving it to the flight crew's discretion. According to the radio communication transcript, the flight crew did not inquire as to which specific approach was in effect. There were two published VOR approaches at the time, one from the north and one from the south. The northern approach, called "VOR/DME 19", was not legally available to the crew under these circumstances, as Mohawk company policy prohibited reliance on DME as a primary navigational instrument. The other VOR approach, called "VOR 1", was the only one legally available to the flight, and would have required descending while approaching the airport from the south during the final approach segment, followed by a "circle to land" maneuver, landing to the south on runway 19.
+
+Despite this, possibly due to their concerns with passenger comfort (the VOR 1 approach would have required performing the "circle to land" maneuver at a relatively low altitude over the airport to land on runway 19), or possibly by simply being late to set up for the recommended VOR 1 approach (the flight time was only about 8 minutes from takeoff at Albany to the Glens Falls area, with a significant tailwind component of approximately 50 knots), the crew did not execute the VOR 1 approach. Instead, the crew appeared to select an improvised and unauthorized modified version of the VOR/DME 19 approach, which included flying outbound followed by a course reversal at about  north of the airport, over Lake George. As the crew performed what appeared to be an unpublished and unauthorized procedure turn for course reversal on the VOR/DME 19 approach path, they descended prematurely and hit the side of a mountain. It was subsequently determined that a  southerly wind created a downdraft effect which, coupled with the aircraft's low altitude over the terrain, contributed to the crash.
+
+In their final report, issued on June 25, 1970, the NTSB determined the following official Probable Cause for the accident:
+
+==See also==
+*List of accidents and incidents involving commercial aircraft
+*Mohawk Airlines Flight 405
+

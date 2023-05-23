@@ -1,0 +1,13 @@
+Title: Switched communication networkIn computer networking and telecommunications, a switched communication network is a communication network which uses switching for connection of two non-adjacent nodes.
+
+Switched communication networks are divided into circuit switched networks, message switched networks, and packet switched networks.
+
+==See also==
+* Broadcast communication network
+* Fully connected network
+
+Category:Network architecture
+
+
+
+

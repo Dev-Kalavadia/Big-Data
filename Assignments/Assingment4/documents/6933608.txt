@@ -1,0 +1,12 @@
+Title: Septimal diatonic semitone
+
+In music, a septimal diatonic semitone (or major diatonic semitoneHaluska, Jan (2003). The Mathematical Theory of Tone Systems, p.xxiv & 25. .) is the interval 15:14 .  It is about 119.44 cents. The septimal diatonic semitone may be derived from the harmonic series as the interval between the fourteenth and fifteenth harmonics (B7b and B).
+
+The septimal diatonic semitone equals a just diatonic semitone  (16:15, or 111.73 cents) plus a septimal kleisma (the interval 225:224, or 7.71 cents).
+
+thumb|Septimal diatonic semitone (15/14) on C 
+
+==See also==
+*Major diatonic semitone (5-limit, 16:15)
+*Minor diatonic semitone (or septendecimal diatonic semitone, 17:16).
+

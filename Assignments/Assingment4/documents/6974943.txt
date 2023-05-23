@@ -1,0 +1,299 @@
+Title: M postcode area
+
+
+
+The M postcode area, also known as the Manchester postcode area,Royal Mail Address Management Guide Edition 4, (2004) is a group of postcode districts in the North West of England.  
+
+The districts are subdivisions of three post towns: Manchester, Salford and Sale and cover parts of all ten boroughs of Greater Manchester, primarily the cities of Manchester and Salford and the majority of the borough of Trafford. The M postcode area is one of six with a population above 1 million.
+
+__TOC__
+
+
+==Coverage==
+The approximate coverage of the postcode districts:
+
+
+|-
+! M1
+|MANCHESTER
+|Piccadilly, City Centre, Market Street
+|Manchester
+|-
+! M2
+|MANCHESTER
+|Deansgate, City Centre
+|Manchester
+|-
+! M3(Sectors 1, 2, 3, 4 and 9)
+|MANCHESTER
+|City Centre, Deansgate, Castlefield
+|Manchester
+|-
+! M3(Sectors 5, 6 and 7)
+|SALFORD
+|Blackfriars, Greengate, Trinity
+|Salford
+|-
+! M4
+|MANCHESTER
+|Ancoats, Northern Quarter, Strangeways
+|Manchester
+|-
+! M5
+|SALFORD
+|Ordsall, Seedley, Weaste, University
+|Salford
+|-
+! M6
+|SALFORD
+|Pendleton, Irlams o' th' Height, Langworthy, Seedley, Charlestown
+|Salford
+|-
+! M7
+|SALFORD
+|Higher Broughton, Cheetwood, Lower Broughton, Kersal
+|Salford
+|-
+! M8
+|MANCHESTER
+|Crumpsall, Cheetham Hill
+|Manchester
+|-
+! M9
+|MANCHESTER
+|Harpurhey, Blackley
+|Manchester
+|-
+! M11
+|MANCHESTER
+|Clayton, Openshaw, Beswick
+|Manchester
+|-
+! M12
+|MANCHESTER
+|Ardwick, Longsight, Chorlton-on-Medlock
+|Manchester
+|-
+! M13
+|MANCHESTER
+|Ardwick, Longsight, Chorlton-on-Medlock
+|Manchester
+|-
+! M14
+|MANCHESTER
+|Fallowfield, Moss Side, Ladybarn, Rusholme, Victoria Park, Longsight
+|Manchester
+|-
+! M15
+|MANCHESTER
+|Hulme, Manchester Science Park, Old Trafford
+|Manchester, Trafford
+|-
+! M16
+|MANCHESTER
+|Firswood, Old Trafford, Whalley Range, Moss Side
+|Manchester, Trafford
+|-
+! M17
+|MANCHESTER
+|Trafford Park, The Trafford Centre
+|Trafford
+|-
+! M18
+|MANCHESTER
+|Abbey Hey, Gorton
+|Manchester
+|-
+! M19
+|MANCHESTER
+|Levenshulme, Burnage
+|Manchester, Stockport
+|-
+! M20
+|MANCHESTER
+|Didsbury, Withington
+|Manchester
+|-
+! M21
+|MANCHESTER
+|Chorlton-cum-Hardy,  Barlow Moor
+|Manchester
+|-
+! M22
+|MANCHESTER
+|Wythenshawe, Northenden, Sharston Industrial Area
+|Manchester
+|-
+! M23
+|MANCHESTER
+|Baguley, Brooklands, Roundthorn Industrial Estate
+|Manchester, Trafford
+|-
+! M24
+|MANCHESTER
+|Middleton, Alkrington, Chadderton
+|Rochdale, Oldham
+|-
+! M25
+|MANCHESTER
+|Prestwich, Sedgley Park, Simister
+|Bury
+|-
+! M26
+|MANCHESTER
+|Radcliffe, Stoneclough
+|Bury, Bolton
+|-
+! M27
+|MANCHESTER
+|Swinton, Clifton, Pendlebury, Wardley, Agecroft
+|Salford
+|-
+! M28
+|MANCHESTER
+|Worsley, Walkden, Boothstown, Mosley Common, Wardley Industrial Estate
+|Salford, Wigan
+|-
+! M29
+|MANCHESTER
+|Tyldesley, Astley
+|Wigan
+|-
+! M30
+|MANCHESTER
+|Eccles, Monton, Peel Green, Winton, Patricroft, Barton-upon-Irwell, Ellesmere Park
+|Salford
+|-
+! M31
+|MANCHESTER
+|Carrington, Partington
+|Trafford
+|-
+! M32
+|MANCHESTER
+|Stretford
+|Trafford
+|-
+! M33
+|SALE
+|Sale, Brooklands
+|Trafford, Manchester
+|-
+! M34
+|MANCHESTER
+|Denton, Audenshaw
+|Tameside
+|-
+! M35
+|MANCHESTER
+|Failsworth
+|Oldham
+|-
+! M38
+|MANCHESTER
+|Little Hulton
+|Salford
+|-
+! M40
+|MANCHESTER
+|Collyhurst, Miles Platting, Moston, New Moston, Newton Heath
+|Manchester
+|-
+! M41
+|MANCHESTER
+|Urmston, Davyhulme, Flixton, Trafford Park
+|Trafford
+|-
+! M43
+|MANCHESTER
+|Droylsden
+|Tameside
+|-
+! M44
+|MANCHESTER
+|Irlam, Cadishead
+|Salford
+|-
+! M45
+|MANCHESTER
+|Whitefield
+|Bury
+|-
+! M46
+|MANCHESTER
+|Atherton
+|Wigan, Bolton
+|-
+! M50
+|SALFORD
+|Salford Quays, MediaCityUK
+|Salford
+|-
+! M60(Sectors 1 and 7)
+|MANCHESTER
+|Large user and PO Box (located geographically in M1)
+|Manchester
+|-
+! M60(Sectors 2 and 8)
+|MANCHESTER
+|Large user and PO Box (located geographically in M2)
+|Manchester
+|-
+! M60(Sectors 3 and 9)
+|MANCHESTER
+|Large user and PO Box (located geographically in M3)
+|Manchester
+|-
+! M60(Sectors 4 and 0)
+|MANCHESTER
+|Large user and PO Box (located geographically in M4)
+|Manchester
+|-
+! M60(Sectors 5 and 6)
+|MANCHESTER
+|Manchester X
+|Manchester
+|-
+! M60(Sector 9)
+|SALFORD
+|Large user and PO Box
+|Salford
+|-
+! M61
+|MANCHESTER
+|Manchester X
+|Manchester
+|-
+! M90
+|MANCHESTER
+|Manchester Airport
+|Manchester
+|-
+! M99
+|MANCHESTER
+|Manchester X; JD Williams (located geographically in M1 and M3)
+|Manchester
+|}
+
+==Changes==
+*M10 was recoded to M40 in 1993. Today, M10 is the postcode district for the fictional town of Weatherfield in the ITV soap opera Coronation Street, with the eponymous street having the postcode M10 9KC.
+*Part of M30 was recoded to M44 in 1994 including Cadishead and Irlam.
+*Part of M31 was recoded to M41 in 1994 including Davyhulme, Flixton and Urmston.
+*The Trafford Centre was allocated the sector M17 8 (it is surrounded by the M41 district).
+*The M90 designation has served Manchester Airport since 1994.
+
+The M50 district of Salford was formed out of west of M5 in 2002.
+
+==Map==
+
+
+
+== Former scheme ==
+Before the introduction of postcodes in the 1960s, Manchester along with other major cities like Birmingham, Liverpool and Sheffield was divided into numbered postcode districts. With a few exceptions these numbers made up the outcode (the first part of the postcode). The districts were based on Manchester and Salford together and districts outside the city boundaries were also included.
+
+For example, the City Centre had postcode districts 1 - 4 (north-east, south, west and north-west respectively: Manchester 1 was around Piccadilly and 4 was around Victoria). 5, 6, 7 and 8 were in Salford and then the sequence continued across north Manchester and so round to M17 (Trafford Park). M18 onwards were further out still.
+
+==See also==
+*Postcode Address File
+*List of postcode areas in the United Kingdom
+

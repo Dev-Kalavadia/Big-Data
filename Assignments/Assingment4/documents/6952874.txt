@@ -1,0 +1,139 @@
+Title: National Vaccine Injury Compensation Program
+
+
+thumb|200px|Cases before the Vaccine Court are heard in the U.S. Court of Federal Claims.
+The Office of Special Masters of the U.S. Court of Federal Claims, popularly known as "vaccine court", administers a no-fault system for litigating vaccine injury claims. These claims against vaccine manufacturers cannot normally be filed in state or federal civil courts, but instead must be heard in the U.S. Court of Federal Claims, sitting without a jury.
+
+The National Vaccine Injury Compensation Program (VICP or NVICP) was established by the 1986 National Childhood Vaccine Injury Act (NCVIA), passed by the United States Congress in response to a threat to the vaccine supply due to a 1980s scare over the DPT vaccine. Despite the belief of most public health officials that claims of side effects were unfounded, large jury awards had been given to some plaintiffs, most DPT vaccine makers had ceased production, and officials feared the loss of herd immunity.
+
+==National Childhood Vaccine Injury Act==
+
+The U.S. Department of Health and Human Services set up the National Vaccine Injury Compensation Program (VICP) in 1988 to compensate individuals and families of individuals injured by covered childhood vaccines. The VICP was adopted in response to concerns over the pertussis portion of the DPT vaccine. Several U.S. lawsuits against vaccine makers won substantial awards. Most makers ceased production, and the last remaining major manufacturer threatened to do so. The VICP uses a no-fault system for resolving vaccine injury claims. Compensation covers medical and legal expenses, loss of future earning capacity, and up to $250,000 for pain and suffering; a death benefit of up to $250,000 is available. If certain minimal requirements are met, legal expenses are compensated even for unsuccessful claims. Since 1988, the program has been funded by an excise tax of 75 cents on every purchased dose of covered vaccine. To win an award, a claimant must have experienced an injury that is named as a vaccine injury in a table included in the law within the required time period or show a causal connection. The burden of proof is the civil law preponderance-of-the-evidence standard, in other words a showing that causation was more likely than not. Denied claims can be pursued in civil courts, though this is rare.
+
+The VICP covers all vaccines listed on the Vaccine Injury Table maintained by the Secretary of Health and Human Services; in 2007 the list included vaccines against diphtheria, tetanus, pertussis (whooping cough), measles, mumps, rubella (German measles), polio, hepatitis B, varicella (chicken pox), Haemophilus influenzae type b, rotavirus, and pneumonia. From 1988 until January 8, 2008, 5,263 claims relating to autism, and 2,865 non-autism claims, were made to the VICP. Of these claims, 925 (see previous rulings), were compensated, with 1,158 non-autism and 350 autism claims dismissed, and one autism-like claim compensated; awards (including attorney's fees) totaled $847 million. The VICP also applies to claims for injuries suffered before 1988; there were 4,264 of these claims of which 1,189 were compensated with awards totaling $903 million. As of October 2019, $4.2 Billion in compensation (not including attorneys fees and costs) has been awarded.
+
+, filing a claim with the Court of Federal Claims requires a $402.00 filing fee, which can be waived for those unable to pay. Medical records such as prenatal, birth, pre-vaccination, vaccination, and post-vaccination records are strongly suggested, as medical review and claim processing may be delayed without them. Because this is a legal process most people use a lawyer, though this is not required. By 1999 the average claim took two years to resolve, and 42% of resolved claims were awarded compensation, as compared with 23% for medical malpractice claims through the tort system. There is a three-year statute of limitations for filing a claim, timed from the first manifestation of the medical problem.
+
+==Autism claims==
+More than 5,300 petitions alleging autism caused by vaccines have been filed in the vaccine court. In 2002, the court instituted the Omnibus Autism Proceeding in which plaintiffs were allowed to proceed with the three cases they considered to be the strongest before a panel of special masters. In each of the cases, the panel found that the plaintiffs had failed to demonstrate a causal effect between the MMR vaccine and autism.Brian Dean Abramson, Vaccine, Vaccination, and Immunization Law (2018), p. 9-22 to 9–23. Following this determination, the vaccine court has routinely dismissed such suits, finding no causal effect between the MMR vaccine and autism.
+
+Many studies have failed to conclude that there is a causal link between autism spectrum disorders and vaccines, and the current scientific consensus is that routine childhood vaccines are not linked to the development of autism.
+
+Several claimants have attempted to bypass the VICP process with claims that thimerosal in vaccines had caused autism, but these were ultimately not successful. They have demanded medical monitoring for vaccinated children who do not show signs of autism and have filed class-action suits on behalf of parents. In March 2006, the U.S. Fifth Circuit Court of Appeals ruled that plaintiffs suing three manufacturers of thimerosal could bypass the vaccine court and litigate in either state or federal court using the ordinary channels for recovery in tort.Holder v. Abbott Laboratories Inc., 444 F.3d 383 This is the first instance where a federal appeals court has held that a suit of this nature may bypass the vaccine court. The argument was that thimerosal is a preservative, not a vaccine, so it does not fall under the provisions of the vaccine act. The claims that vaccines (or thimerosal in vaccines) caused autism eventually had to be filed in the vaccine court as part of the Omnibus Autism Proceeding.
+
+The scientific consensus, developed from substantial medical and scientific research, states that there is no evidence supporting these claims, and the rate of autism continues to climb despite elimination of thimerosal from routine childhood vaccines. Major scientific and medical bodies such as the Institute of Medicine and World Health Organization, as well as governmental agencies such as the Food and Drug Administration and the CDC reject any role for thimerosal in autism or other neurodevelopmental disorders.
+
+==Compensations==
+The following table shows the awards by main classes of vaccines made to victims in the years 2006-2017.
+ This shows that on average 1.2 awards were made per million applications of vaccines. It also shows that multiple vaccines such as MMR do not have an abnormal award rate.
+{| class="wikitable sortable" style="text-align: right;"
+! style="text-align: left;"| Disease !! Vaccinations !! Compensations !! Comp/m vacc
+|-
+| style="text-align: left;"| Diphtheria+Tetanus+A.pertussis *  || 503,068,145 || 601 || 1.2
+|-
+| style="text-align: left;"| DTaP-Hep B-IPV  || 68,764,777 || 42 || 0.6
+|-
+| style="text-align: left;"| HepA+HepB, HepB+HIB || 20,614,142 || 21 || 1.0
+|-
+| style="text-align: left;"| Hepatitis A || 176,194,118 || 55 || 0.3
+|-
+| style="text-align: left;"| Hepatitis B || 185,428,393 || 81 || 0.4
+|-
+| style="text-align: left;"| HIB (Haemophilus influenzae) || 119,947,400 || 12 || 0.1
+|-
+| style="text-align: left;"| HPV || 111,677,552 || 134 || 1.2
+|-
+| style="text-align: left;"| Influenza || 1,518,400,000 || 2,833 || 1.9
+|-
+| style="text-align: left;"| IPV (Inactivated poliovirus vaccine) || 72,962,512 || 4 || 0.1
+|-
+| style="text-align: left;"| Measles || 135,660 || 1 || 7.4
+|-
+| style="text-align: left;"| Meningococcal  || 94,113,218 || 43 || 0.5
+|-
+| style="text-align: left;"| MMR (Measles, mumps, rubella) || 101,501,714 || 120 || 1.2
+|-
+| style="text-align: left;"| MMR-Varicella || 24,798,297 || 20 || 0.8
+|-
+| style="text-align: left;"| Mumps || 110,749 || 0 || 0.0
+|-
+| style="text-align: left;"| Pneumococcal Conjugate || 228,588,846 || 48 || 0.2
+|-
+| style="text-align: left;"| Rotavirus || 107,678,219 || 40 || 0.4
+|-
+| style="text-align: left;"| Rubella || 422,548 || 1 || 2.4
+|-
+| style="text-align: left;"| Tetanus || 3,836,052 || 52 || 13.6
+|-
+| style="text-align: left;"| Varicella || 116,063,014 || 45 || 0.4
+|- class="sortbottom"
+| style="text-align: left;"| Total || 3,454,305,356 || 4,153 || 1.2
+|}
+* This covers the vaccinations known by the abbreviations DT, DTaP, DTaP-HIB, DTaP-IPV, DTap-IPV-HIB, Td, Tdap
+
+{| class="wikitable" style="text-align: right;"
+|+Annual awards
+! Fiscal year !! Number of awards !! Petitioners’ award !! Average amount
+|-
+| 2006 || 68 || $48,746,162.74 || $716,855.33
+|-
+| 2007 || 82 || $91,449,433.89 || $1,115,237.00
+|-
+| 2008 || 141 || $75,716,552.06 || $536,996.82
+|-
+| 2009 || 131 || $74,142,490.58 || $565,973.21
+|-
+| 2010 || 173 || $179,387,341.30 || $1,036,921.05
+|-
+| 2011 || 251 || $216,319,428.47 || $861,830.39
+|-
+| 2012 || 249 || $163,491,998.82 || $656,594.37
+|-
+| 2013 || 375 || $254,666,326.70 || $679,110.20
+|-
+| 2014 || 365 || $202,084,196.12 || $553,655.33
+|-
+| 2015 || 508 || $204,137,880.22 || $401,846.22
+|-
+| 2016 || 689 || $230,140,251.20 || $334,020.68
+|-
+| 2017 || 706 || $252,245,932.78 || $357,288.86
+|-
+| 2018 || 521 || $199,588,007.04 || $383,086.39
+|-
+| 2019 || 653 || $196,217,707.64 || $300,486.54
+|-
+| 2020 || 734 || $186,885,677.55 || $254,612.64
+|-
+! Total !! 5,646 !! $2,575,219,387.11 !! $456,113.95
+|}
+
+As of November 2020, over $4.4 Billion has been awarded.
+
+== Attorneys fees and costs ==
+Self representation is permitted, although the NVICP also pays attorneys fees out of the fund, separate from any compensation given to the petitioner. This is "to ensure that vaccine claimants have readily available a competent bar to prosecute their claims".
+
+==Homeland Security Act==
+
+The Homeland Security Act of 2002 provides another exception to the exclusive jurisdiction of the vaccine court. If smallpox vaccine were to be widely administered by public health authorities in response to a terrorist or other biological warfare attack, persons administering or producing the vaccine would be deemed federal employees and claims would be subject to the Federal Tort Claims Act, in which case claimants would sue the U.S. Government in the U.S. district courts, and would have the burden of proving the defendants' negligence, a much more difficult standard.
+
+==Petitioner's burden of proof==
+In the vaccine court, as in civil tort cases, the burden of proof is a preponderance of evidence, but while in tort cases this is met by expert testimony establishing a rigorous scientific case, in the vaccine court, the burden is met with a three prong test: the petitioner must present a biological theory of harm, demonstrate a logical sequence of events connecting the vaccine to the injury, and establish an appropriate time frame in which injury occurred. The petitioner must also show that there is not another biologically plausible explanation for the injury.
+
+A 2005 United States Court of Appeals for the Federal Circuit ruling This decision, which is binding upon the United States Court of Federal Claims, clarified the standing for proving "causation in fact" absent a "Table Injury" under 42 U.S.C. 300aa-11(c)(1)(C) held that an award should be granted if a petitioner either establishes a "Table Injury" or proves "causation in fact" by proving the following three prongs:
+# a medical theory causally connecting the vaccination and the injury;
+# a logical sequence of cause and effect showing that the vaccination was the reason for the injury; and
+# a showing of a proximate temporal relationship between vaccination and injury.
+
+This ruling held that tetanus vaccine caused a particular case of optic neuritis even though no scientific evidence supported the petitioner's claim. Other rulings have allowed petitioners to gain awards for claims that the MMR vaccine causes fibromyalgia, that the Hib vaccine causes transverse myelitis, and that the hepatitis B vaccine causes Guillain–Barré syndrome, chronic demyelinating polyneuropathy, and multiple sclerosis. In the most extreme of these cases, a 2006 petitioner successfully claimed that a hepatitis B vaccine caused her multiple sclerosis despite several studies showing that the vaccine neither causes nor worsens the disease, and despite a conclusion by the Institute of Medicine that evidence favors rejection of a causal relationship.
+
+In 2008 the federal government settled a case brought to the vaccine court by the family of Hannah Poling, a girl who developed autistic-like symptoms after receiving a series of vaccines in a single day. The vaccines given were DTaP, Hib, MMR, varicella, and inactivated polio. Poling was diagnosed months later with encephalopathy (brain disease) caused by a mitochondrial enzyme deficit, a mitochondrial disorder; it is not unusual for children with such deficits to develop neurologic signs between their first and second years. There is little scientific research in the area: no scientific studies show whether childhood vaccines can cause or contribute to mitochondrial disease, and there is no scientific evidence that vaccinations damage the brains of children with mitochondrial disorders. Although many parents view this ruling as confirming that vaccines cause regressive autism, most children with autism do not seem to have mitochondrial disorders, and the case was settled without proof of causation.
+
+With the commencement of hearings in the case of Cedillo v. Secretary of Health and Human Services (Case #98-916V), the argument over whether autism is a vaccine injury moved into the vaccine court.  A panel of three special masters began hearing the first cases of the historic Omnibus Autism Proceedings in June 2007. There were six test cases in all, and the entire record of the cases is publicly available. The lead petitioners, the parents of Michelle Cedillo, claimed that Michelle's autism was caused by a vaccine. Theresa and Michael Cedillo contended that thimerosal seriously weakened Michelle's immune system and prevented her body from clearing the measles virus after her vaccination at the age of fifteen months. At the outset Special Master George Hastings, Jr. said "Clearly the story of Michelle's life is a tragic one," while pledging to listen carefully to the evidence. On February 12, 2009, the court ruled in three test cases that the combination of the MMR vaccine and thimerosal-containing vaccines were not to blame for autism. Hastings concluded in his decision, "Unfortunately, the Cedillos have been misled by physicians who are guilty, in my view, of gross medical misjudgment." The ruling was appealed to the U.S. Court of Appeals, and upheld.
+
+On March 13, 2010, the court ruled in three test cases that thimerosal-containing vaccines do not cause autism. Special Master Hastings concluded, "The overall weight of the evidence is overwhelmingly contrary to the petitioners' causation theories."
+
+==See also==
+* Vaccine Damage Payment
+* National Childhood Vaccine Injury Act
+

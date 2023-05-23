@@ -1,0 +1,16 @@
+Title: High-dimensional model representation
+
+High-dimensional model representation is a finite expansion for a given multivariable function. The expansion was first described by Ilya M. Sobol as
+
+: f(\mathbf{x}) = f_0+
+\sum_{i=1}^nf_i(x_i)+
+\sum_{i,j=1 \atop i<j}^n
+f_{ij}(x_{i},x_{j})+ \cdots +
+f_{12\ldots n}(x_1,\ldots,x_n).
+
+The method, used to determine the right hand side functions, is given in Sobol's paper.  A review can be found here: High Dimensional Model Representation (HDMR): Concepts and Applications.
+
+==See also==
+*Variance-based sensitivity analysis
+*Volterra series
+

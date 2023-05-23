@@ -1,0 +1,9 @@
+Title: MAT/5 mineThe MAT/5 is an Italian circular, plastic-cased minimum metal blast resistant anti-tank blast mine. It uses a pneumatic fuze which is resistant to shock and blast, and is also claimed to be resistant to mine flails and mine rollers. The mine's plastic case is waterproof, and it can be laid in shallow water. Additionally the mine will function upside down. The mine can be fitted with anti-handling devices. The mine is no longer in production.
+
+==Specifications==
+* Diameter: 290 mm
+* Height: 108 mm
+* Weight: 7 kg
+* Explosive content: 5 kg of Composition B
+* Operating pressure: 180 to 310 kg
+

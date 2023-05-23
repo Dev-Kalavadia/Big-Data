@@ -1,0 +1,102 @@
+Title: Muzzano, Ticino
+Muzzano is a municipality in the district of Lugano, in the canton of Ticino, Switzerland.
+
+==History==
+thumb|Aerial view (1950)
+Muzzano is first mentioned in 1189 as Muciano.  Agnuzzo was the center of a large manor farm, which was given in 819 by Emperor Louis the Pious to the clergy of Como.  In the course of the 11th century, the property passed to the Abbey of S. Abbondio in Como.  In 1579, the property and rights of the Abbey were leased to the municipality and to private individuals.
+
+It belonged to the Pieve of Agno until it became an independent parish in 1735.  The parish church of S. Maria dell'Annunciazione probably dates to the 16th century.  The Chapel of  S. Andrea in Agnuzzo is mentioned for the first time in 1208.
+
+The village was home to many construction workers, especially plasterers, who emigrated to other countries for work.  The local economy was based on silk farming, viticulture and agriculture.  In the flat land on the left bank of the Vedeggio river, the Mulini Tues Biogno industrial zone developed in the last decades of the 20th century.  The hilly area above the valley is dominated by residential buildings.  The small lake of Muzzano is a protected habitat, and has, since 1945, been part of Pro Natura.  Two important pedagogical research schools were built in Muzzano.  The first was the school of Alberto Lamoni in 1827 and the Scuola Serena of Maria Boschetti-Alberti in 1917–24.  In 2000, about three-quarters of the workforce were commuters.
+
+==Geography==
+Muzzano has an area, , of .  Of this area,  or 33.8% is used for agricultural purposes, while  or 23.6% is forested.   Of the rest of the land,  or 40.8% is settled (buildings or roads),  or 15.3% is either rivers or lakes and  or 0.6% is unproductive land.
+
+Of the built up area, industrial buildings made up 8.3% of the total area while housing and buildings made up 14.6% and transportation infrastructure made up 15.9%. while parks, green belts and sports fields made up 1.9%.  Out of the forested land, 14.6% of the total land area is heavily forested and 8.9% is covered with orchards or small clusters of trees.  Of the agricultural land, 14.6% is used for growing crops, while 4.5% is used for orchards or vine crops and 14.6% is used for alpine pastures.  Of the water in the municipality, 13.4% is in lakes and 1.9% is in rivers and streams.Altitudine, superficie, secondo il genere di utilizzazione, rilevazione 1992/1997, e densità della popolazione, nel 2000   accessed 25 October 2010
+
+The municipality is located in the Lugano district, above Lago di Muzzano.  It consists of the village of Muzzano and the settlement of Agnuzzo.
+
+==Coat of arms==
+The blazon of the municipal coat of arms is Per fess or and azure.Flags of the World.com accessed 24-January-2011
+
+==Demographics==
+Muzzano has a population () of .  , 18.8% of the population are resident foreign nationals.Swiss Federal Statistical Office - Superweb database - Gemeinde Statistics 1981-2008  accessed 19 June 2010  Over the last 10 years (1997–2007) the population has changed at a rate of 6.3%.
+
+Most of the population () speaks Italian (83.0%), with German being second most common (10.3%) and French being third (2.3%).Swiss Federal Statistical Office accessed 24-January-2011  Of the Swiss national languages (), 76 speak German, 17 people speak French, 611 people speak Italian.  The remainder (32 people) speak another language.Popolazione residente, secondo la lingua principale e la religione, nel 2000   accessed 23 November 2010
+
+, the gender distribution of the population was 45.8% male and 54.2% female.  The population was made up of 303 Swiss men (35.2% of the population), and 91 (10.6%) non-Swiss men.  There were 391 Swiss women (45.5%), and 75 (8.7%) non-Swiss women.
+
+In  there were 4 live births to Swiss citizens and 3 births to non-Swiss citizens, and in same time span there were 11 deaths of Swiss citizens and 2 non-Swiss citizen deaths.  Ignoring immigration and emigration, the population of Swiss citizens decreased by 7 while the foreign population increased by 1.  There was 1 Swiss man who immigrated back to Switzerland and 1 Swiss woman who emigrated from Switzerland.  At the same time, there were 3 non-Swiss men and 4 non-Swiss women who immigrated from another country to Switzerland.  The total Swiss population change in 2008 (from all sources, including moves across municipal borders) was an increase of 23 and the non-Swiss population change was a decrease of 0 people.  This represents a population growth rate of 2.7%.
+
+The age distribution, , in Muzzano is; 73 children or 8.5% of the population are between 0 and 9 years old and 87 teenagers or 10.1% are between 10 and 19.  Of the adult population, 109 people or 12.7% of the population are between 20 and 29 years old.  102 people or 11.9% are between 30 and 39, 132 people or 15.3% are between 40 and 49, and 129 people or 15.0% are between 50 and 59.  The senior population distribution is 127 people or 14.8% of the population are between 60 and 69 years old, 63 people or 7.3% are between 70 and 79, there are 38 people or 4.4% who are over 80.01.02.03 Popolazione residente permanente   accessed 23 November 2010
+
+, there were 322 private households in the municipality, and an average of 2.3 persons per household.   there were 186 single family homes (or 69.7% of the total) out of a total of 267 inhabited buildings.  There were 49 two family buildings (18.4%) and 23 multi-family buildings (8.6%).  There were also 9 buildings in the municipality that were multipurpose buildings (used for both housing and commercial or another purpose). 09.02.01 Edifici   accessed 23 November 2010
+
+The vacancy rate for the municipality, , was 0%.   there were 369 apartments in the municipality.  The most common apartment size was the 5 room apartment of which there were 139.  There were 18 single room apartments and 139 apartments with five or more rooms.  09.02.02 Abitazioni   accessed 23 November 2010  Of these apartments, a total of 319 apartments (86.4% of the total) were permanently occupied, while 48 apartments (13.0%) were seasonally occupied and 2 apartments (0.5%) were empty.  , the construction rate of new housing units was 9.5 new units per 1000 residents.
+
+The historical population is given in the following chart:Popolazione residente, dal 1850   accessed 23 November 2010
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.8)
+ImageSize  = width:1020 height:210
+PlotArea   = height:150 left:100 bottom:50 right:100
+AlignBars  = justify
+DateFormat = x.y
+Period     = from:0 till:760
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:200 start:0
+ScaleMinor = gridcolor:lightgrey increment:40 start:0
+PlotData=
+  color:yellowgreen width:40   mark:(line,white) align:center
+  bar:1769 from:start till:122 text:"122"
+  bar:1850 from:start till:287 text:"287"
+  bar:1860 from:start till:264 text:"264"
+  bar:1870 from:start till:257 text:"257"
+  bar:1880 from:start till:259 text:"259"
+  bar:1890 from:start till:261 text:"261"
+  bar:1900 from:start till:345 text:"345"
+  bar:1910 from:start till:416 text:"416"
+  bar:1920 from:start till:353 text:"353"
+  bar:1930 from:start till:388 text:"388"
+  bar:1941 from:start till:371 text:"371"
+  bar:1950 from:start till:416 text:"416"
+  bar:1960 from:start till:448 text:"448"
+  bar:1970 from:start till:509 text:"509"
+  bar:1980 from:start till:565 text:"565"
+  bar:1990 from:start till:753 text:"753"
+  bar:2000 from:start till:736 text:"736"
+
+
+==Sights==
+The entire villaggio of Muzzano is designated as part of the Inventory of Swiss Heritage Sites.
+
+==Politics==
+In the 2007 federal election the most popular party was the FDP which received 30.23% of the vote.  The next three most popular parties were the SP (20.23%), the CVP (19.39%) and the Ticino League (12.02%).  In the federal election, a total of 275 votes were cast, and the voter turnout was 49.2%.Swiss Federal Statistical Office, Nationalratswahlen 2007: Stärke der Parteien und Wahlbeteiligung, nach Gemeinden/Bezirk/Canton  accessed 28 May 2010
+
+In the  Gran Consiglio election, there were a total of 540 registered voters in Muzzano, of which 344 or 63.7% voted.  4 blank ballots were cast, leaving 340 valid ballots in the election.  The most popular party was the PLRT which received 88 or 25.9% of the vote.  The next three most popular parties were; the PS (with 62 or 18.2%), the PPD+GenGiova (with 53 or 15.6%) and the LEGA (with 47 or 13.8%). Elezioni cantonali: Gran Consiglio, Consiglio di Stato   accessed 23 November 2010
+
+In the  Consiglio di Stato election, 2 blank ballots and 1 null ballot were cast, leaving 342 valid ballots in the election.  The most popular party was the PLRT which received 80 or 23.4% of the vote.  The next three most popular parties were; the PS (with 70 or 20.5%), the LEGA (with 64 or 18.7%) and the PPD (with 54 or 15.8%).
+
+==Economy==
+, Muzzano had an unemployment rate of 4.61%.  , there were 63 people employed in the primary economic sector and about 5 businesses involved in this sector.  560 people were employed in the secondary sector and there were 16 businesses in this sector.  141 people were employed in the tertiary sector, with 32 businesses in this sector.  There were 366 residents of the municipality who were employed in some capacity, of which females made up 40.7% of the workforce.
+
+, there were 842 workers who commuted into the municipality and 271 workers who commuted away.  The municipality is a net importer of workers, with about 3.1 workers entering the municipality for every one leaving.  About 21.5% of the workforce coming into Muzzano are coming from outside Switzerland.Swiss Federal Statistical Office - Statweb   accessed 24 June 2010  Of the working population, 7.7% used public transportation to get to work, and 65.6% used a private car.
+
+, there was one hotel in Muzzano. Settori alberghiero e paralberghiero   accessed 23 November 2010
+
+==Religion==
+From the , 584 or 79.3% were Roman Catholic, while 68 or 9.2% belonged to the Swiss Reformed Church.  There are 72 individuals (or about 9.78% of the population) who belong to another church (not listed on the census), and 12 individuals (or about 1.63% of the population) did not answer the question.
+
+==Education==
+In Muzzano about 76.1% of the population (between age 25–64) have completed either non-mandatory upper secondary education or additional higher education (either university or a Fachhochschule).
+
+In Muzzano there were a total of 124 students ().  The Ticino education system provides up to three years of non-mandatory kindergarten and in Muzzano there were 22 children in kindergarten.  The primary school program lasts for five years.  In the municipality, 38 students attended the standard primary schools.  In the lower secondary school system, students either attend a two-year middle school followed by a two-year pre-apprenticeship or they attend a four-year program to prepare for higher education.  There were 32 students in the two-year middle school, while 14 students were in the four-year advanced program.
+
+The upper secondary school includes several options, but at the end of the upper secondary program, a student will be prepared to enter a trade or to continue on to a university or college.  In Ticino, vocational students may either attend school while working on their internship or apprenticeship (which takes three or four years) or may attend school followed by an internship or apprenticeship (which takes one year as a full-time student or one and a half to two years as a part-time student).  There were 8 vocational students who were attending school full-time and 8 who attend part-time.
+
+The professional program lasts three years and prepares a student for a job in engineering, nursing, computer science, business, tourism and similar fields.  There were 2 students in the professional program. Allievi e studenti, secondo il genere di scuola, anno scolastico 2009/2010   accessed 23 November 2010
+
+, there were 8 students in Muzzano who came from another municipality, while 83 residents attended schools outside the municipality.
+

@@ -1,0 +1,18 @@
+Title: Product sabotage
+In marketing and retail, product sabotage is a practice used to encourage the customer to purchase a more profitable product or service as opposed to cheaper alternatives. It is also the practice where a company attempts to aim different prices at different types of customer. There are several methods used in achieving this:
+
+==Cheap packaging==
+This method is commonly used in supermarkets, where the cheapest products are packaged in cheap and basic packaging. These products are normally displayed alongside the more attractively packaged and expensive items, in an attempt to persuade customers to buy the more expensive alternative instead.
+
+For example, the Tesco supermarket chain sells a "value" range of products in garish (red, blue, and white) packaging to make them appear unappealing and inferior to their regular brand.
+
+==Omitting products from menus==
+Not promoting cheaper alternatives. An example of this method is coffee companies who hide or downplay cheaper drinks in the hope that customers will buy something pricier. Starbucks and Coffee Republic, who both have a product called "short cappuccino", are known to use this practice. The staff know the product, the tills have a button for it, but the product is not listed on the menu boards. Customers who are not aware of it are likely to purchase one of the more profitable items listed on the menu.
+
+==Duplicate manufacture==
+Manufacturing two versions of the same product at different prices. In the hi-tech world it is common for companies to produce a high-specification product, sold at a premium price, and then sell the same product more cheaply with some of the functions disabled. IBM did this with a printer in the 1990s, where an economy version for a home user was the top-of-the-range model with a microchip in it to slow it down. 
+
+All versions of Microsoft Vista and Microsoft Windows 7 shipped on an identical DVD and installs the same software regardless of the version purchased by the consumer. However, certain features are hidden or unusable by the user depending on the installation code entered. Upon attempting to use such features, the software will offer an "upgrade" and take an immediate payment from the customer before the features are instantly unlocked without any further installation being required.
+
+The Intel 486DX CPU came with a floating point calculation unit. The 486SX was exactly the same chip with the electrical connections to the floating point unit cut. (Officially this was done to chips where the floating point unit was not working properly, but the CPU was fine. If this was the case it can't be said to be product sabotage.)
+

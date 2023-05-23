@@ -1,0 +1,151 @@
+Title: List of municipalities of the Province of Latina
+
+The following is a list of the 33 municipalities (comuni) of the Province of Latina, Lazio, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|059001
+|Aprilia
+| align="right" |62,471
+|-
+|059002
+|Bassiano
+| align="right" |1,664
+|-
+|059003
+|Campodimele
+| align="right" |703
+|-
+|059004
+|Castelforte
+| align="right" |4,484
+|-
+|059005
+|Cisterna di Latina
+| align="right" |33,035
+|-
+|059006
+|Cori
+| align="right" |10,802
+|-
+|059007
+|Fondi
+| align="right" |34,910
+|-
+|059008
+|Formia
+| align="right" |36,688
+|-
+|059009
+|Gaeta
+| align="right" |21,522
+|-
+|059010
+|Itri
+| align="right" |9,198
+|-
+|059011
+|Latina
+| align="right" |111,946
+|-
+|059012
+|Lenola
+| align="right" |4,130
+|-
+|059013
+|Maenza
+| align="right" |3,055
+|-
+|059014
+|Minturno
+| align="right" |18,288
+|-
+|059015
+|Monte San Biagio
+| align="right" |6,117
+|-
+|059016
+|Norma
+| align="right" |3,851
+|-
+|059017
+|Pontinia
+| align="right" |13,476
+|-
+|059018
+|Ponza
+| align="right" |3,242
+|-
+|059019
+|Priverno
+| align="right" |13,744
+|-
+|059020
+|Prossedi
+| align="right" |1,253
+|-
+|059021
+|Roccagorga
+| align="right" |4,471
+|-
+|059022
+|Rocca Massima
+| align="right" |1,096
+|-
+|059023
+|Roccasecca dei Volsci
+| align="right" |1,186
+|-
+|059024
+|Sabaudia
+| align="right" |17,463
+|-
+|059025
+|San Felice Circeo
+| align="right" |8,218
+|-
+|059026
+|Santi Cosma e Damiano
+| align="right" |6,667
+|-
+|059027
+|Sermoneta
+| align="right" |7,073
+|-
+|059028
+|Sezze
+| align="right" |22,835
+|-
+|059029
+|Sonnino
+| align="right" |7,070
+|-
+|059030
+|Sperlonga
+| align="right" |3,219
+|-
+|059031
+|Spigno Saturnia
+| align="right" |2,810
+|-
+|059032
+|Terracina
+| align="right" |42,475
+|-
+|059033
+|Ventotene
+| align="right" |688
+|-
+|
+|Total
+| align="right" |519,850
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

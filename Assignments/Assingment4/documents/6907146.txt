@@ -1,0 +1,23 @@
+Title: Packet Layer Protocol
+Packet Layer Protocol or PLP is the Network Layer protocol for the X.25 protocol suite. PLP manages the packet exchanges between DTE (data terminal) devices across VCs (virtual calls). PLP also can be used on ISDN using Link Access Procedures, D channel (LAPD).
+
+There are 5 modes of PLP: call setup, data transfer, idle, call clearing, and restarting. 
+
+* Call setup mode is used to create VCs (virtual calls) between DTE devices. A PLP uses the 14-digit X.121 addressing scheme to set up the virtual call.
+* Data transfer mode is used to send data between DTE devices across a virtual call. At this level PLP handles segmentation and reassembly, bit padding, error control and flow control.
+* Idle mode is used when a virtual call is established but there is no data transfer happening.
+* Call clearing mode is used to end sessions between DTE devices and to terminate VCs.
+* Restarting mode is used to synchronize the transmission between a DTE device and its locally connected DCE (data communications) device.
+
+There are 4 types of PLP packet fields: 
+
+* General Format Identifier (GFI): Identifies packet parameters (whether it is data or control information), what type of windowing is being used, and whether delivery confirmation is needed.
+* Logical Channel Identifier (LCI): Identifies the virtual call across the local DTE/DCE interface.
+* Packet Type Identifier (PTI): Identifies the PLP packet type (17 different types).
+* User Data—Contains encapsulated upper-layer information when there is user data present, otherwise additional fields containing control information are added.
+
+== External links==
+* 
+
+Category:ITU-T recommendations
+Category:X.25

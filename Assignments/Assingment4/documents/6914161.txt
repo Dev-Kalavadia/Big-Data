@@ -1,0 +1,102 @@
+Title: Faculty of Electrical Engineering and Computing, University of Zagreb
+
+
+The Faculty of Electrical Engineering and Computing (, abbr: FER) is a faculty of the University of Zagreb. It is the largest technical faculty and the leading educational as well as research-and-development institution in the fields of electrical engineering and computing in Croatia.
+
+FER owns four buildings situated in the Zagreb neighbourhood of Martinovka, Trnje. The total area of the site is . , the Faculty employs more than 160 professors and 210 teaching and research assistants. In the academic year 2010/2011, the total number of students was about 3,800 in the undergraduate and graduate level, and about 450 in the PhD program.
+
+As of academic year 2004./2005., when the implementation of the Bologna process started at the University of Zagreb, the faculty has two baccalaureus programmes (each lasting 3 years):
+* Electrical engineering and information technology
+* Computing
+After receiving a bachelor's degree, students can take part in one of three master's programmes:
+* Electrical engineering and information technology, with the following profiles:
+** Audio Technologies and Electroacoustics
+** Electrical Power Engineering
+** Electronic and Computer Engineering
+** Electronics 
+** Electric Machines, Drives and Automation
+
+* Information and communication technology, with the following profiles:
+** Control System and Robotics
+** Information and Communication Engineering
+** Communication and Space Technologies
+
+* Computing, with the following profiles
+** Software Engineering and Information Systems
+** Computer Engineering
+** Computational Modelling in Engineering
+** Computer Science
+** Network Science
+** Data Science
+
+==Organisation==
+
+The Faculty comprises 12 academic departments:
+* Applied Physics
+* Applied Computing
+* Applied Mathematics
+* Fundamentals of Electrical Engineering and Measurements
+* Electric Machines, Drives and Automation
+* Energy and Power Systems
+* Telecommunications
+* Electronic Systems and Information Processing
+* Control and Computer Engineering in Automation
+* Electroacoustics
+* Electronics, Microelectronics, Computer and Intelligent Systems
+* Communication and Space Technologies
+
+==History==
+The Faculty of Electrical Engineering (, abbr: ETF) was formed on 1 July 1956 when the College of Engineering of the University of Zagreb was divided into ETF and three other new faculties. The faculty existed under this name until 7 February 1995 when it was renamed to its current name.
+
+In 1956, the first curriculum was formed, offering students programme called "Study of Electrical Engineering". The faculty was divided into two departments, one for weak current (Odjel za slabu struju) and another for the strong current (Odjel za jaku struju). This was later referred to as the ETF-1 programme. The Faculty changed its curriculum in 1967, when the ETF-2 curriculum introduced a division of studies into electrical power systems, electronics, electrical machinery and automation. In 1970, the ETF-3 curriculum introduced further specializations, such as nuclear power systems and computing. There was also an ETF-4 curriculum later.
+
+thumb|200px|Official logo used between 1994 and 2020
+
+In 1994 name of the faculty changed, and the curriculum was changed from ETF-4 to FER-1. A separate study called "Study of Computing" was formed, so the faculty from then on offered two different degrees - one was the existing diplomirani inženjer elektrotehnike, or graduate engineer of electrical engineering, and the new one was diplomirani inženjer računarstva, or graduate engineer of computing. In 2004 FER-1 was transformed to FER-2, to conform to the Bologna process. This involved, among other things, changing the length of the essential course set from four semesters to two semesters, the renaming of the first study program to include the term information technology, and the reworking of the program subdivisions so that they each include five specialized modules. Starting with the academic year 2018./2019. the curriculum was changed from FER-2 to FER-3 and is mandatory for new students.
+
+==Deans==
+* Anton Dolenc (1956–1957)
+* Danilo Blanuša (1957–1958)
+* Božidar Stefanini (1958–1959)
+* Vatroslav Lopašić (1959–1960)
+* Hrvoje Požar (1960–1962)
+* Vladimir Matković (1962–1964)
+* Radenko Wolf (1964–1966)
+* Vladimir Muljević (1966–1968)
+* Hrvoje Požar (1968–1970)
+* Vojislav Bego (1970–1972)
+* Zlatko Smrkić (1972–1974)
+* Zvonimir Sirotić (1974–1976)
+* Uroš Peruško (1976–1978)
+* Ante Šantić (1978–1980)
+* Berislav Jurković (1980–1982)
+* Milan Šodan (1982–1984)
+* Nedžat Pašalić (1984–1986)
+* Leo Budin (1986–1988)
+* Vladimir Naglić (1988–1990)
+* Ivan Ilić (1990–1992)
+* Danilo Feretić (1992–1994)
+* Stanko Tonković (1994–1996)
+* Stanko Tonković (1996–1998)
+* Slavko Krajcar (1998–2000)
+* Slavko Krajcar (2000–2002)
+* Mladen Kos (2002–2004)
+* Mladen Kos (2004–2006)
+* Vedran Mornar (2006–2010)
+* Nedjeljko Perić (2010–2014)
+* Mislav Grgić (2014–2018)
+* Gordan Gledec (2018–2022)
+* Vedran Bilas (2022-current)
+
+==Notable alumni==
+* Ante Marković, last prime minister of SFRJ
+* Branko Jeren, Croatian minister of Science and Technology 1993-1995
+* Damir Boras, Rector of University of Zagreb since 2014-
+* Vedran Mornar, Croatian minister of Science, Education and Sport 2013-2015
+
+==Notable professors==
+* Danilo Blanuša, a mathematician, inventor of second and third known snark (was dean of FER 1957-1958)
+
+==KSET==
+The Electrical Engineering Student Club (Croatian: Klub studenata elektrotehnike, abbr: KSET) is a student association founded by students of the Croatian Faculty of Electrical Engineering, and plays an active role in the social life of the University of Zagreb and Zagreb in general. The club is part of a larger building complex of its native faculty.
+

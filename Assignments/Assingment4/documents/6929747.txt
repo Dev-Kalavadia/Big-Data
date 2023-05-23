@@ -1,0 +1,42 @@
+Title: C57BL/6thumb|C57BL/6, female, 22 weeks old
+
+C57BL/6, often referred to as "C57 black 6", "C57" or "black 6", is a common inbred strain of laboratory mouse.
+
+It is the most widely used "genetic background" for genetically modified mice for use as models of human disease. They are the most widely used and best-selling mouse strain, due to the availability of congenic strains, easy breeding, and robustness.
+
+== Origin ==
+The inbred strain of C57BL mice was created in 1921 by C. C. Little at the Bussey Institute for Research in Applied Biology. The substrain "6" was the most popular of the surviving substrains. Little's supervisor William E. Castle had obtained the predecessor strain of C57BL/6, "mouse number 57", from Abbie Lathrop who was breeding inbred strains for mammary tumor research in collaboration with Leo Loeb at the time.
+
+== Appearance and behavior ==
+C57BL/6 mice have a dark brown, nearly black coat.  They are more sensitive to noise and odours and are more likely to bite than the more docile laboratory strains such as BALB/c. They are good breeders.
+
+Group-housed B6 male mice display barbering behavior, in which the dominant mouse in a cage selectively removes hair from its subordinate cage mates. Mice that have been barbered have large bald patches on their bodies, commonly around the head, snout, and shoulders, although barbering may appear anywhere on the body. Both hair and whiskers may be removed.
+
+C57BL/6 has many unusual characteristics that make it useful for some work and inappropriate for others: It is unusually sensitive to pain and to cold, and analgesic medications are less effective in it. Unlike most mouse strains, it drinks alcoholic beverages voluntarily. It is more susceptible than average to morphine addiction, atherosclerosis, and age-related hearing loss.
+
+== Genetics ==
+The C57BL/6 mouse was the second-ever mammalian species to have its entire genome published.
+
+The dark coat make the mice strain convenient for creating transgenic mice: it is crossed with a light-furred 129 mouse, and the desirable crosses can be easily identified by their mixed coat colors.
+
+There now exist colonies of mice derived from the original C57BL/6 colony that have been bred in isolation from one another for many hundreds of generations. Owing to genetic drift these colonies differ widely from one another (and, it goes without saying, from the original mice isolated at the Bussey Institute). Responsible scientists, including those at accredited repositories, are careful to point out this fact and take pains to distinguish sublines such as C57BL/6J (the established subline at The Jackson Laboratory) from C57BL/6N, etc. But even within these sublines, the potential for drift exists in colonies maintained by individual laboratories who do not have a systematic practice of reestablishing breeders from a centralized, vetted stock.
+The mice (as well as NOD and SJL) are known to have IgG2c allele.
+
+== Popularity ==
+By far the most popular laboratory rodent, the C57BL/6 mouse accounts for half to five-sixths of all rodents shipped to research laboratories from American suppliers. Its overwhelming popularity is due largely to inertia: it has been widely used and widely studied, and therefore it is used even more.
+
+In 1993 the first C57BL/6 gene targeted knockout mouse was published by Frank Koentgen.
+
+In 2013 C57BL/6 mice were flown into space aboard Bion-M No.1.
+
+In 2015 C57BL/6NTac females provided by Taconic Biosciences were sent to the International Space Station on SpaceX CRS-6.
+
+== References ==
+
+
+
+
+
+
+Category:Laboratory mouse strains
+Category:Space-flown life

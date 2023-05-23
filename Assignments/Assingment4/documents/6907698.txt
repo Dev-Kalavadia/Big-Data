@@ -1,0 +1,231 @@
+Title: 1998 Little League World Series
+The 1998 Little League World Series took place from August 23–29 in Williamsport, Pennsylvania. Toms River, New Jersey, defeated Kashima, Ibaraki, Japan in the championship game of the 52nd Little League World Series. The title game was punctuated by a standout performance by future MLB Home Run Derby champion Todd Frazier, who went 4-for-4 with a lead-off home run, and was also the winning pitcher. Rain plagued this LLWS, pushing out sponsors making the 1998 Honda pin one of the most rare as they left after only 3 days at the series.
+
+==Teams==
+{| class="wikitable"
+|-
+! colspan="2" |  United States
+! colspan="2" | International
+|-
+! width="120px" | Region
+! Team
+! width="120px" | Region
+! Team
+|-
+! Central
+|  Jenison, MichiganGeorgetown National Little League
+! Canada
+|  Langley, British ColumbiaLangley Little League
+|-
+! East
+|  Toms River, New JerseyToms River East American Little League
+! Europe
+|  Dhahran, Saudi ArabiaArabian American Little League
+|-
+! South
+|  Greenville, North CarolinaTar Heel Little League
+! Far East
+|  Kashima, Ibaraki, JapanKashima Little League
+|-
+! West
+|  Cypress, CaliforniaCypress Little League
+! Latin America
+|  Guadalupe, Nuevo León, MexicoGuadalupe Linda Vista Little League
+|}
+
+==Pool play==
+===Standings===
+
+
+{| class="wikitable"
+|+United States
+|-
+! Region
+! Team
+! Record
+|- bgcolor=#bbffbb
+| East
+|
+| 3-0
+|- bgcolor=#bbffbb
+| South
+|
+| 2-1
+|-
+| West
+|
+| 1-2
+|-
+| Central
+|
+| 0-3
+|}
+
+
+
+{| class="wikitable"
+|+International
+|-
+! Region
+! Team
+! Record
+|- bgcolor=#bbffbb
+| Canada
+| 
+| 3-0
+|- bgcolor=#bbffbb
+| Far East
+| 
+| 2-1
+|-
+| Europe
+| 
+| 1-2
+|-
+| Latin America
+| 
+| 0-3
+|}
+
+
+===Results===
+
+
+{| class="wikitable"
+|+ August 23
+|align=center|
+|align=center|1-6
+|align=center|
+|-
+|align=center|
+|align=center|9-13(11 innings)
+|align=center|
+|}
+
+{| class="wikitable"
+|+ August 24
+|align=center|
+|align=center|3-4
+|align=center|
+|-
+|align=center|
+|align=center|1-3
+|align=center|
+|-
+|align=center|
+|align=center|3-10
+|align=center|
+|-
+|align=center|
+|align=center|2-4
+|align=center|
+|}
+
+{| class="wikitable"
+|+ August 25
+|align=center|
+|align=center|10-5
+|align=center|
+|-
+|align=center|
+|align=center|3-5
+|align=center|
+|-
+|align=center|
+|align=center|8-7
+|align=center|
+|-
+|align=center|
+|align=center|4-1
+|align=center|
+|}
+
+{| class="wikitable"
+|+ August 26
+|align=center|
+|align=center|9-3
+|align=center|
+|-
+|align=center|
+|align=center|4-6
+|align=center|
+|}
+
+
+==Elimination round==
+
+
+{| class="wikitable" style="text-align: center; margin: 0 auto;"
+|-
+!1998 Little League World Series Champions
+|-
+|-
+|100px|United States100pxToms River East American Little LeagueToms River, New Jersey
+|}
+
+==Notable players==
+*Todd Frazier (Toms River, New Jersey) was drafted 34th overall by the Cincinnati Reds in the 2007 MLB Draft and played in 11 MLB seasons as an infielder for the Reds, Chicago White Sox, New York Yankees, New York Mets, Texas Rangers and Pittsburgh Pirates. 2015 Home Run Derby champion, 2-time All-Star (2014 and 2015) and 2020 Olympic silver medalist.
+*Jordan Lennerton (Langley, British Columbia) played first base in the Detroit Tigers and Atlanta Braves organizations. Won the CWS title with Oregon State in 2007.
+
+==Champions Path==
+The Toms River East American LL lost five games before reaching the LLWS, losing once each in district, section, and state tournaments and twice in the East Region tournament. 
+{| class="wikitable"
+!Round!!Opposition!!Result
+|-
+!colspan=3|New Jersey District 18 Tournament
+|-
+!colspan=3|results unavailable
+|-
+!colspan=3|New Jersey Section 3 Tournament
+|- bgcolor=ccffcc
+|Opening Round|| North Wall LL ||9-1
+|- bgcolor=ccffcc
+|Winners' Bracket Semifinals|| Woodbridge LL ||4-1
+|- bgcolor=ffcccc
+|Winners' Bracket Final|| HTRBA LL||3-4 (9 inn.)
+|- bgcolor=ccffcc
+|Losers' Bracket Final|| Woodbridge LL||15-3
+|- bgcolor=ccffcc
+|Championship|| HTRBA LL||17-3 (4 inn.)
+|- bgcolor=ccffcc
+|Championship|| HTRBA LL||4-3
+|-
+!colspan=3|New Jersey State Tournament
+|- bgcolor=ccffcc
+|Opening Round|| Cherry Hill National LL ||4-2 (7 inn.)
+|- bgcolor=ccffcc
+|Winners' Bracket Final|| Randolph LL||13-7
+|- bgcolor=ffcccc
+|Championship|| Randolph LL||2-3
+|- bgcolor=ccffcc
+|Championship|| Randolph LL||7-4
+|-
+!colspan=3|East Regional
+|- bgcolor=ffcccc
+|Group Stage|| South Shore American LL ||0-1
+|- bgcolor=ccffcc
+|Group Stage|| Cranston Western LL||6-2
+|- bgcolor=ccffcc
+|Group Stage|| Goffstown LL||11-4
+|- bgcolor=ccffcc
+|Group Stage|| Cranston Western LL||7-1
+|- bgcolor=ffcccc
+|Group Stage|| Brattleboro LL||2-5
+|- bgcolor=ccffcc
+|Semifinals|| Simsbury National LL||1-0
+|- bgcolor=ccffcc
+|Championship|| Georgetown LL||2-0
+|-
+!colspan=3|Little League World Series
+|- bgcolor=ccffcc
+|Group Stage|| Georgetown National LL||13-9 (11 inn.)
+|- bgcolor=ccffcc
+|Group Stage|| Cypress LL||4-2
+|- bgcolor=ccffcc
+|Group Stage|| Tar Heel LL||5-3
+|- bgcolor=ccffcc
+|U.S. Championship|| Tar Heel LL||5-2
+|- bgcolor=ccffcc
+|World Championship|| Kashima LL||12-9
+|}
+

@@ -1,0 +1,279 @@
+Title: List of places in Alaska (W)
+
+This list of cities, towns, unincorporated communities, counties, and other recognized places in the U.S. state of Alaska also includes information on the number and names of counties in which the place lies, and its lower and upper zip code bounds, if applicable.
+
+
+{| class="wikitable"
+!Name of place
+!Number of counties
+!Principal county
+!Lower zip code
+!Upper zip code
+|----
+|Wacker
+|1
+|Ketchikan Gateway Borough
+| 
+| 
+|----
+|Wade Hampton
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Wainwright
+|1
+|North Slope Borough
+|99782
+| 
+|----
+|Wales
+|1
+|Nome Census Area
+|99783
+| 
+|----
+|Ward Cove
+|1
+|Ketchikan Gateway Borough
+|99928
+| 
+|----
+|Warm Chuck
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|Wasilla
+|1
+|Matanuska-Susitna Borough
+|99687
+| 
+|----
+|Waterfall
+|1
+|Prince of Wales-Outer Census Area
+|99901
+| 
+|----
+|Wells
+|1
+|Haines Borough
+| 
+| 
+|----
+|Westgate
+|1
+|Fairbanks North Star Borough
+|99701
+| 
+|----
+|West Juneau
+|1
+|City and Borough of Juneau
+|99801
+| 
+|----
+|West Petersburg
+|1
+|Wrangell-Petersburg Census Area
+| 
+| 
+|----
+|Wevok
+|1
+|North Slope Borough
+| 
+| 
+|----
+|Whale Pass
+|1
+|Prince of Wales-Outer Census Area
+| 
+| 
+|----
+|White Mountain
+|1
+|Nome Census Area
+|99784
+| 
+|----
+|Whitestone Logging Camp
+|1
+|Skagway-Hoonah-Angoon Census Area
+| 
+| 
+|----
+|Whitney
+|1
+|Municipality of Anchorage
+|99506
+| 
+|----
+|Whittier
+|1
+|Valdez-Cordova Census Area
+|99693
+| 
+|----
+|Wildwood Air Force Station
+|1
+|Kenai Peninsula Borough
+|98728
+| 
+|----
+|Wildwood Station
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Wiley Post-Will Rogers Memorial Airport
+|1
+|North Slope Borough
+|99723
+| 
+|----
+|Willow
+|1
+|Matanuska-Susitna Borough
+|99688
+| 
+|----
+|Willow Creek
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Willow Lake
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Wilson Village
+|1
+|Municipality of Anchorage
+| 
+| 
+|----
+|Windham Post Office
+|1
+|Skagway-Hoonah-Angoon Census Area
+| 
+| 
+|----
+|Windy
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Wiseman
+|1
+|Yukon-Koyukuk Census Area
+|99726
+| 
+|----
+|Wiseman
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Womens Bay
+|1
+|Kodiak Island Borough
+| 
+| 
+|----
+|Woodchopper
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Wood River
+|1
+|Dillingham Census Area
+|99576
+| 
+|----
+|Woodrow
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Woody Island
+|1
+|Kodiak Island Borough
+|99615
+| 
+|----
+|Wortmanns
+|1
+|Valdez-Cordova Census Area
+| 
+| 
+|----
+|Wrangell
+|1
+|Wrangell-Petersburg Census Area
+|99929
+| 
+|----
+|Wrangell
+|1
+|Wrangell-Petersburg Census Area
+| 
+| 
+|----
+|Wrangell Airport
+|1
+|Wrangell-Petersburg Census Area
+|99929
+| 
+|----
+|Wrangell City School District
+|1
+|Wrangell-Petersburg Census Area
+| 
+| 
+|----
+|Wrangell Narrows
+|1
+|Wrangell-Petersburg Census Area
+| 
+| 
+|----
+|Wrangell-Petersburg
+|1
+|Wrangell-Petersburg Census Area
+| 
+| 
+|----
+|Wrangell – St. Elias National Park and Preserve
+|3
+|Southeast Fairbanks Census Area
+|99501
+| 
+|----
+|Wrangell – St. Elias National Park and Preserve
+|3
+|Valdez-Cordova Census Area
+|99501
+| 
+|----
+|Wrangell – St. Elias National Park and Preserve
+|3
+|City and Borough of Yakutat
+|99501
+| 
+|----
+|}
+
+ W

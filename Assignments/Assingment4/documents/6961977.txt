@@ -1,0 +1,55 @@
+Title: Titanichthys
+
+Titanichthys is an extinct genus of giant, aberrant marine placoderm from shallow seas of the Late Devonian of Morocco, Eastern North America, and possibly Europe.  Many of the species approached Dunkleosteus in size and build.  Unlike its relative, however, the various species of Titanichthys had small, ineffective-looking mouth-plates that lacked a sharp cutting edge.  It is assumed that Titanichthys was a filter feeder that used its capacious mouth to swallow or inhale schools of small, anchovy-like fish, or possibly krill-like zooplankton, and that the mouth-plates retained the prey while allowing the water to escape as it closed its mouth. A study has since confirmed this assumption as its jaws are functionally closer to that of filter feeders like baleen whales and basking sharks, and it appears to have developed from benthic durophagists that became pelagic suspension feeders. This would make it the first (known) large-sized vertebrate filter feeder. Titanichthys was estimated to have reached a length of , but Engelman (2023) suggested that Titanichthys was comparable in size to Dunkleosteus, likely measuring about or just over  in length.
+
+== Phylogeny ==
+Titanichthys is thought to have been a basal aspinothoracid, closest related to Bungartius and Tafilalichthys.
+
+
+==Species==
+The genus shows a great diversity in the Famennian-aged Cleveland Shale, though species are also found in similarly aged strata in Morocco and possibly the Holy Cross Mountains in Poland.
+
+===T. agassizi===
+This is the type species, from the Cleveland Shale. Its infrognathals are strongly recurved medially, and is elongated with a spatula-like process at the anterior end. The headshield averages about  in length.
+
+===T. attenuatus===
+This Cleveland Shale species is based on an infragnathal bone more than  in length. May possibly be a synonym of T. agassizi.
+
+===T. clarkii===
+This Cleveland Shale species has infragnathals that are not as recurved as T. agassizi's.  The cranial roof is comparatively narrower and more rounded.  It is the largest known species in the genus, and possibly one of the largest Devonian vertebrates known.  The head is about  in length.
+alt=Fossil Head Shield of Titanichthys clarkii|thumb|Fossil head shield of Titanichthys clarkii
+
+===T. hussakofi===
+This Cleveland Shale species is known from a badly preserved, incomplete infragnathal.  It was originally described by Claypole as "Brontichthys clarki" in 1894.  As "Brontichthys" is a junior synonym of Titanichthys, it should not be confused with another, similarly-named arthrodire, Bruntonichthys of Dunkleosteidae.
+
+===T. rectus===
+This Cleveland Shale species has an infragnathal as large as that of T. clarkii, though T. rectus' infragnathal is much straighter, and does not have a spatula-like process on its anterior end.
+
+===T. kozlowskii===
+This species placement within the genus is in doubt.  It is based on incomplete nuchal and central plates found in Upper Famennian-aged marine strata of the Holy Cross Mountains in Poland.
+===T. termieri===
+This species is found in Lower Famennian-aged marine strata of Tafilalet, Southern Morocco.  The fossil material of this species strongly suggests it is as large as the Cleveland Shale' T. clarkii.  The average combined length of the head and trunk shields for T. termieri is estimated to be   When the first fossils of T. termieri were found by geologist Henri Termier, the specimens were originally placed within the genus Gorgonichthys - that is, after Termier was able to convince his colleagues that the bone scraps were of a placoderm, and not a dinosaur.See Janvier (1998) p.323 for details.
+
+== References ==
+
+
+=== Bibliography ===
+*  (1998): Early Vertebrates. Oxford University Press,  Oxford, New York. 
+
+== Further reading ==
+*  (2018) "New information on Titanichthys (Placodermi, Arthrodira) from the Cleveland Shale (Upper Devonian) of Ohio, USA"
+*  (1996): The Rise of Fishes: 500 Million Years of Evolution. Johns Hopkins University Press, Baltimore. 
+
+
+
+
+Category:Arthrodires
+Category:Arthrodire genera
+Category:Placoderms of North America
+Category:Paleontology in Ohio
+Category:Placoderms of Africa
+Category:Fossils of Morocco
+Category:Famennian life
+Category:Famennian genus first appearances
+Category:Famennian genus extinctions
+Category:Fossil taxa described in 1885

@@ -1,0 +1,363 @@
+Title: VCON
+
+VCON is a fan run fantasy, gaming, and science fiction convention held annually in the metro Vancouver area of British Columbia, Canada. It has been hosted by the West Coast Science Fiction Association (WCSFA) since 1993, and by the Western Canadian Science Fiction Convention Committee Association (WCSFCCA) before that.
+
+==History==
+VCON is the oldest fan run science fiction convention across Canada and in the Pacific Northwest,  spawning other fan run conventions in these regions (especially the Pacific Northwest) including Norwescon, OryCon, Con-Version and KeyCon. The first "VCON" (which was actually called the Vancouver SF Convention) was held April 9 and 10, 1971 at the Hotel Georgia in Vancouver with Ursula K. LeGuin as Guest of Honour. Its sponsoring organisations included the University of British Columbia Science Fiction Society (UBC SFFEN), the B.C. Science Fiction Association (an offshoot of the UBC club) and the Simon Fraser University Science Fiction Society (SF3).
+
+Although 2011 was the 40th anniversary of the first VCON event, the event held in that year was VCON 37. This oddity in numbering occurred as a result of two things:
+
+# For several years in the mid-1990s no official VCON event was held (though it was sometimes replaced by another WCSFA sponsored event without the VCON name, such as "The Science of Murder" in 1994 and "The Science of Survival" in 1995) 
+# Due to various time and resource constraints there were two VCON events that were deliberately organized to be smaller and more intimate and which were given the "half numbers" of 18.5 and 19.5.
+
+VCON has hosted Canvention, Canada's national science fiction convention several times: VCON 14/Canvention 6 in 1986, VCON 26/Canvention 21 in 2001, VCON 32/Canvention 27 in 2007, and VCON 39/Canvention 34 in 2014. VCON has also hosted two Westercon, the travelling science fiction convention for Western North America, with Westercon 30/VCON 7 in 1977 and Westercon 44/VCON 19 in 1991.
+
+== Schedule ==
+VCON is held on the Canadian Thanksgiving long weekend (the observed Canadian Thanksgiving holiday is always the second Monday in October). The registration desk and the member hospitality room opens at noon on Friday, with programming starting in the mid-afternoon, and the event continues until early Sunday evening.
+
+== Features ==
+
+Highlights include discussion panels, an art show, dealers’ tables, authors’ readings, game room, book launches, workshops, crafts, and a costume contest.  
+
+VCON features a large art show, with original 2-D and 3-D work and prints by both professional and fan artists, as well as workshops and demonstrations by featured artists.  Since the 1990s, there have also been two or more rooms devoted to tabletop and console (video) gaming.
+
+The VCON spoof award, the Elron, is presented and selected passages of science fiction are publicly read.  R. Graeme Cameron, president of the British Columbia Science Fiction Association (BCSFA), has stated that the name "Elron" is not an allusion to science-fiction writer L. Ron Hubbard.  The awards are reported each year in the BCSFA's science fiction fanzine BCSFAzine. 
+
+During the Turkey Readings, panelists read selections from the worst published science fiction and fantasy fiction. Volunteers act out the story being read, and artists make a poster. Audience members can bid to make the reading stop or bid higher for the reading to continue. Funds raised go to CUFF, the Canadian Unity Fan Fund.
+
+VCON has hosted the Aurora Awards ceremony six times, most recently in 2018. 
+
+VCON has a hospitality bar, room parties, and a Dead Dog party to celebrate the end of the convention.
+
+== Guests of Honour ==
+
+{| class="wikitable sortable"
+|+ VCON Guests of Honour 
+|-
+! scope="col" style="white-space:nowrap" | Last Name 
+! scope="col" style="white-space:nowrap" | First Name 
+! scope="col" class="unsortable" style="white-space:nowrap" | Guest Type 
+! scope="col" data-sort-type="number" style="white-space:nowrap" | VCON # 
+! scope="col" style="white-space:nowrap" | VCON Date 
+! scope="col" class="unsortable" style="white-space:nowrap" | More Info
+|-
+| Abbey || Lynn || GoH || 26 (Canvention 21) || 2001-05-05 || Lynn Abbey
+|-
+| Ackerman || Forrest J || Fan GoH || 15 || 1987-05-23 || Forrest J Ackerman
+|-
+| Alexander || Rob || Artist GoH || 20 || 1993-05-29 || Rob Alexander 
+|- 
+| Anderson || Jamie || Supermarionation GoH || 41 ||2016-09-30 || Jamie Anderson
+|-
+| Armstrong || Kelley || Author GoH || 33 ||2008-10-03 ||Kelley Armstrong
+|-
+| Barr || Donna || Artist GoH || 17 || 1989-05-27 ||Donna Barr
+|-
+| Beagle || Peter S. || Author GoH || 32 || 2007-08-20 ||Peter S. Beagle
+|-
+| Benford || Gregory || Science GoH || 37 ||2012-09-29 ||Gregory Benford
+|-
+| Berry || John D. || GoH || 13 || 1985-05-25 || John D. Berry
+|-
+| Betz || Al "Mr. Science" || ToastmasterFan GoH || 2526 (Canvention 21) || 2000-05-272001-05-05 || Al Betz
+|-
+| Beveridge || James || Artist GoH || 35 ||2010-10-01 || James Beveridge
+|-
+| Bigelow || Betty || Fan GoHCostuming GoH || 2226 (Canvention 21) || 1997-05-262001-05-05 || Betty Bigelow
+|-
+| Bigelow || David || Costuming GoH || 26 (Canvention 21) || 2001-05-05 ||David Bigelow 
+|-
+| Blaylock || James P. || Author GoH || 27 || 2002-10-12 ||James P. Blaylock
+|-
+| Bloch || Robert || Author GoH || 13 ||1985-05-25 ||Robert Bloch
+|-
+| Bova || Ben || Author GoH || 10 ||1982-05-22 ||Ben Bova
+|-
+| Brom || Gerald || Artist GoH || 27 ||2002 -10-12 ||Gerald Brom
+|-
+| Brust || Steven || Author GoH || 22 ||1997-05-26 ||Steven Brust
+|-
+| Byrne || John || Author GoH || 08 || 1980-05-24 ||John Byrne (comics)
+|-
+| Cameron || R. Graeme || ToastmasterFan GoH || 2141.5 || 1996-05-172017-10-27 || Cameron R. Graeme
+|-
+| Carr || Terry || GoH || 05 || 1976-05-21 ||Terry Carr
+|-
+| Charish || Kristi || Author GoH || 41.5 ||2017-10-27 ||Kristi Charish, Author
+|-
+| Cherryh || C.J. || Author GoH || 19 (Westercon 44) ||1991-07-07 || C. J. Cherryh
+|-
+| Choi || Eric || Editor GoH || 40 ||2015-10-02 ||Eric Choi
+|-
+| Chu || Eric || Film Design GoH || 41 ||2016-09-30 || Eric Chu
+|-
+| Clement || Hal || Author GoH || 16 || 1988-05-28|| Hal Clement
+|-
+| Coney || Michael || Toastmaster || 20 || 1993-05-29|| Michael Coney
+|-
+| Cook || Monte || Game Design Special Guest || 27 ||2002-08-12 || Monte Cook
+|-
+| Cramer || John G. || Science GoH || 16 || 1988-05-28|| John G. Cramer
+|-
+| Crispin || A.C. || Author GoH || 24 || 1999-05-22|| A.C. Crispin
+|-
+| Dale || Heather || Music GoH || 35 ||2010-10-01 ||Heather Dale
+|-
+| de Lint || Charles || Author GoH || 20 || 1993-05-29|| Charles de Lint
+|-
+| DeBrandt || Don || Author GoH || 19.5 || 1992-05-23|| Don DeBrandt
+|-
+| Delany || Samuel R. || Author GoH || 12 || 1984-05-26|| Samuel R. Delany
+|-
+| Desjardins || Shane || GoH || 25 ||2000-05-27 || Shane Desjardins 
+|-
+| deSouza || Lar || Webcomic GoH || 34 ||2009-10-02 ||Lar deSouza
+|-
+| Dick || Philip K. || GoH || 02 || 1972-02-19 ||Philip K. Dick
+|-
+| Dockrey || Michelle "vixy" || Music GoH || 32 ||2007-08-20 || Michelle Dockrey
+|-
+| Dorsey || Candas Jane || Canvention GoH || 26 (Canvention 21) ||2001-05-05 ||Candas Jane Dorsey
+|-
+| Duncan || Dave || Author GoHAuthor GoH || 1829 ||1990-05-262004-10-08 ||Dave Duncan (writer)
+|-
+| Duncan || Melissa Mary || Canvention Artist GoH || 39 (Canvention 34) ||2014-10-03 ||Melissa Mary Duncan
+|-
+| Dyson || George || Science GoH || 26 (Canvention 21) || 2001-05-05|| George Dyson (science historian)
+|-
+|El-Mohtar ||Amal ||Canvention Author GoH ||42 (Canvention 38) ||2018-10-05 ||Amal El-Mohtar
+|-
+| Ernest || James || Gaming GoHGame Design Special Guest || 26 (Canvention 21) 27 || 2001-05-04202-10-11 || James Ernest
+|-
+| Fabris || Tony || Music GoH || 32 || 2007-08-20|| Tony Fabris
+|-
+| Fahnestalk || Lynne Taylor || Artist GoH || 30 || 2005-08-08|| Lynne Taylor Fahnestalk
+|-
+| Fahnestalk || Steve || ToastmasterToastmaster || 19 (Westercon 44)36 || 1991-07-052011-09-30 || Steve Fahnestalk
+|-
+| Finkbiner || Beth || GoH || 14 (Canvention 6) || 1986-05-24|| Beth Finkbiner
+|-
+| Finkbiner || Mike || GoH || 14 (Canvention 6) || 1986-05-24|| Mike Finkbiner
+|- 
+| Forty || Steve || Fan GoH || 40 ||2015-10-02 || Steve Forty
+|- 
+| Friesner || Esther || Author GoH || 28 ||2003-10-11 ||Esther Friesner
+|-
+| Gajdecki || John || Media GoH || 27 ||2002-10-12 || Gajdecki Visual Effects
+|-
+| Gerrold || David || Author GoH || 23 ||1998-05-16 || David Gerrold
+|-
+| Gibson || William || Author GoHFan GoH || 19 (Westercon 44)21 ||1991-07-051996-05-18 || William Gibson
+|-
+| Giguère || Georges || Toastmaster || 11 ||1983-05-20 || Georges Giguère
+|-
+| Green || Nancie || Artist GoH || 41.5 ||2017-10-27 ||Nancie Green
+|-
+| Greenwood || Ed || Game Design GoH || 40 ||2015-10-02 ||Ed Greenwood
+|-
+| Gustafson || Jon || Author GoH || 09 || 1981-05-23 || Jon Gustafson 
+|-
+| Haber || Karen || Author GoH || 30 || 2005-10-08|| Karen Haber
+|-
+| Haldeman || Joe || Author GoH || 40 ||2015-10-02 ||Joe_Haldeman
+|-
+| Hambly || Barbara || Author GoH || 30 ||2005-10-08 || Barbara Hambly
+|-
+| Hiebner || Constantine || GoH || 18.5 || 1991-02-16|| Constantine Hiebner
+|-
+| Hendricks || Aaron || Podcasting Special Guest || 34 ||2009-10-02 ||Hendricks 
+|-
+| Heard || Bruce || Game Design GoH || 39 (Canvention 34) ||2014-10-03 ||Bruce Heard
+|-
+| Herbert || Frank || GoHGoHGoH || 030711 || 1973-02-221979-05-251983-05-20 || Frank Herbert
+|-
+| Hogan || James P. || Author GoH || 16 || 1988-05-27 || James P. Hogan (writer)
+|-
+| Hopkinson || Nalo || Author GoH || 28 || 2003-10-11|| Nalo Hopkinson
+|-
+| Howes || Katherine || GoH || 14 (Canvention 6) ||1986-05-24 || Katherine Howes
+|-
+| Huff || Tanya || Author GoH || 33 ||2008-10-03 ||Tanya Huff
+|-
+| Hughes || Matt || Author GoH || 32 ||2007-10-20 || Matt Hughes (writer)
+|-
+| Hunt || Tarol || — || — ||— ||see Stephens, Ellipsis
+|-
+| Hyde || Stan || Artist GoHGodzilla Fan GoH || 2241  || 1997-05-262016-09-30 || Stan Hyde
+|-
+| Jackson || Michael || Media GoH || 23 || 1998-05-16 || Michael Jackson (actor)
+|-
+| Jackson || Steve || Gaming GoH || 19 (Westercon 44) ||1991-07-05 || Steve Jackson (US game designer)
+|-
+| Johanson || Karl || Editor GoH || 41 ||2016-09-30 ||Karl Johanson
+|-
+| Johanson || Stephanie || Art Director GoH || 41 ||2016-09-30 ||Stephanie Johanson
+|-
+| Kare || Jordin || Science GoH || 28 || || Jordin Kare
+|-
+| Kaufmann || Jerry || GoH || 19 (Westercon 44) ||1991-07-05 || 
+|-
+| Kernaghan || Eileen || Special GuestAuthor GoH || 14 (Canvention 6)18.5 || || Eileen Kernaghan
+|-
+|King ||Matt Yang ||Podcasting Special Guest ||34 ||2009-10-02 ||Matthew Yang King
+|-
+| Kleinbergen || Adrian || Artist GoH || 28 || || Adrian Kleinbergen
+|-
+| Kovalic || John || Artist GoH || 38 ||2013-10-04 ||John Kovalic
+|-
+| Lafferty || Mur || Author/Podcasting GoH || 38 ||2013-10-04 ||Mur Lafferty
+|-
+| Lassek || Lisa || Media GoH || 36 ||2011-09-30 ||Lisa Lassek
+|-
+| Le Guin || Ursula K. || GoH || 01 || 1971-10-3 || Ursula K. Le Guin
+|-
+| Lockwood || Todd || Artist GoHSpecial Guest || 2930 || || Todd Lockwood
+|-
+| Lynn || Elizabeth A. || Author GoH || 18 || || Elizabeth A. Lynn
+|-
+|Mackenzie ||Ashley ||Artist GoH ||42 (Canvention 38) ||2018-10-05 ||Ashley Mackenzie
+|-
+| McCharles || Randy || Fan GoH || 30 || || 
+|-
+| McIntyre || Vonda || GoH || 09 ||  || Vonda McIntyre
+|-
+| Marshall || Don || Podcasting Special Guest || 34 ||2009-10-02 ||GeeksOn Podcast
+|-
+| Matthews || Jaymie || Science GoHScience GoH || 2933 || 2008-10-03 || MOST SatelliteGoodwill Moon Rock History
+|-
+| Mattingly || David B. || Artist GoH || 39 (Canvention 34) ||2014-10-03 ||David Burroughs Mattingly
+|-
+| Metzger || George || Artist GoH || 08 ||  || George Metzger (artist)
+|-
+| Moskowitz || Sam || Fan GoH || 15 || || Sam Moskowitz
+|-
+| Ng || James || Artist GoH || 37 ||2012-09-29 ||James Ng Art
+|-
+| Nicholson || Ryan || Media GoH || 27 || || Ryan Nicholson 
+|-
+| Nielsen Hayden || Patrick || Editor GoH || 19 (Westercon 44) ||1991-07-05 || Patrick Nielsen Hayden
+|-
+| Nielsen Hayden || Teresa || Editor GoH || 19 (Westercon 44) ||1991-07-05 || Teresa Nielsen Hayden
+|-
+| Niven || Larry || GoHAuthor GoH || 0536 || 1976-05-212011-09-30 || Larry Niven
+|-
+| Normand || Jean-Pierre || Artist GoH || 36 ||2011-09-30 || 
+|-
+| Notkin || Debbie || GoH || 12 || || 
+|-
+| Oddsson || Warren || Artist GoH || 19 (Westercon 44) ||1991-07-05 || 
+|-
+| Penney || Lloyd || Filk GoH || 25 || || 
+|-
+| Penney || Yvonne || Filk GoH || 25 || || 
+|-
+| Pohl || Frederik || Author GoH || 14 (Canvention 6) || || Frederik Pohl
+|-
+| Powers || Tim || Author GoH || 27 || || Tim Powers
+|-
+| Priest || Cherie || Author GoH || 35 ||2010-10-01 ||Cherie Priest
+|-
+| Raupp || Roger || Artist GoH || 18 || || Roger Raupp
+|-
+| Reichardt || Randy || GoH || 14 (Canvention 6) || || 
+|-
+| Robinson || Frank M. || Author GoH || 12 || || Frank M. Robinson
+|-
+| Robinson || Jeanne || Author GoH || 17 || || Jeanne Robinson
+|-
+| Robinson || Kim Stanley || Author GoH || 21 || || Kim Stanley Robinson
+|-
+| Robinson || Peter || Podcasting Special Guest || 34 ||2009-10-02 ||GeeksOn Podcast
+|-
+| Robinson || Spider || Author GoHToastmaster || 1741 || 2016-09-30 ||Spider Robinson
+|-
+| Rothfuss || Patrick || Author GoH || 33 ||2008-10-03 ||Patrick Rothfuss
+|-
+| Runté || Robert || GoH || 10 || || 
+|-
+| Sawyer || Robert J. || Author GoHToastmasterAuthor GoH || 2526 (Canvention 21)41 || 2016-09-30 ||Robert J. Sawyer
+|-
+| Scarborough || Elizabeth Ann || Author GoH || 18 || || Elizabeth Ann Scarborough
+|-
+| Schomburg || Alex || Artist GoH || 15 || || Alex Schomburg
+|-
+| Shaw || Bob || Author GoH || 17 || || Bob Shaw
+|-
+| Sheckley || Robert || Author GoH || 17 || || Robert Sheckley
+|-
+| Silverberg || Robert || GoHAuthor GoH || 0430 || 1972-02-212005-09-30 || Robert Silverberg
+|-
+| Singer || Jon || GoH || 09 ||  || 
+|-
+| Sledge || Sharree || GoH || 13 || || 
+|-
+| Smedman || Lisa || Gaming GoHGaming Special Guest || 2932 || || Lisa Smedman
+|-
+| Smith Trestrail || Verna || GoH || 19 (Westercon 44) ||1991-07-05 || 
+|-
+| Snellings || Lisa || Artist GoH || 33 ||2008-10-03 || 
+|-
+| Sohmer || Ryan || Webcomic GoH || 34 ||2009-10-02 ||Ryan Sohmer
+|-
+| Springett || Martin || Artist GoH || 32 || || Martin Springett
+|-
+| Stephens || Ellipsis || Canvention Author GoH || 39 (Canvention 34) ||2014-10-03 ||Goblins (webcomic) (as Tarol Hunt)
+|-
+| Sternback || Rick || Artist GoH || 40 ||2015-10-02 ||Rick_Sternbach
+|-
+|Stross ||Charles ||Author GoH ||42 (Canvention 38) ||2018-10-05 ||Charles Stross
+|-
+| Teves || Miles || Artist GoH || 34 ||2009-10-02 ||Miles Teves
+|-
+| Tompkins || Suzanne || GoH || 19 (Westercon 44) ||1991-07-05 || 
+|-
+| Turner || Pat || Artist GoH || 26 (Canvention 21) || || Pat Turner Art & Illustration Studios
+|-
+| Tweet || Jonathan || Game Design Special Guest || 27 || || Jonathan Tweet
+|-
+| van Vogt || A. E. || GoH || 06 ||  || A. E. van Vogt
+|-
+| Vance || Jack || GoH || 07 ||  || Jack Vance
+|-
+| Walsh || Michael || ToastmasterToastmasterToastmasterToastmasterFan GoHToastmaster || 101315303132 || || Michael Walsh (film critic)
+|-
+| Warren || Bill || Fan GoH || 11 || || Bill Warren (film historian and critic)
+|-
+| Warren || Elizabeth || Fan GoH || 11 || || 
+|-
+| Weber || David || Author GoH || 39 (Canvention 34) ||2014-10-03 ||David Weber
+|-
+| Wells || Dan || Author/Podcaster GoH || 38 ||2013-10-04 ||Dan Wells (author)
+|-
+| White || Ted || GoH || 08 ||  || Ted White (author)
+|-
+| Wickham || Sandra || Toastmaster || 39 (Canvention 34) ||2014-10-03 ||Sandra Wickham, Author
+|-
+| Willes || Christine || Media GoH || 34 ||2009-10-02 ||Christine Willes
+|-
+| Willis || Connie || Author GoH || 37 ||2012-09-29 ||Connie Willis
+|-
+| Wood || Susan || Fan GoH || 06 ||  || Susan Wood (science fiction)
+|- 
+| Zelazny || Roger || GoH || 08 ||  || Roger Zelazny
+|}
+
+==See also==
+*Science fiction fandom
+*Fantasy fandom
+*Fan convention
+*Gaming convention
+*List of science fiction conventions
+*Canadian science fiction
+
+== References ==
+
+
+== External links ==
+*VCON Website
+*WCSFA Website
+
+
+
+Category:Science fiction conventions in Canada
+Category:Multigenre conventions

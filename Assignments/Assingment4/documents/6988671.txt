@@ -1,0 +1,49 @@
+Title: Kodak Picture KioskKodak Picture Kiosk (previously known as Kodak Picture Maker) is a line of self service photo printing kiosks manufactured by the Eastman Kodak company.
+
+
+
+The units typically consist of an order station connected to one or more dye-sublimation printer(s) in a single unit. These stations are typically installed in a retail location such as Kodak Express stores, supermarkets and drugstores offering both instant print and behind the counter services. The kiosks allow printing digital photos from digital media (such as a CD or a digital memory card), as well as the ability to scan existing photos and perform simple edits and photo-enhancements via the touch screen interface. Some systems are set up as "order stations" that print to a digital minilab in addition to (or instead of) printing the pictures instantly.
+
+The first Kiosk, named the Kodak Picture Maker was introduced in the late 1990s, followed by second, third (G3) and fourth generation (G4) picture kiosks. The most recent model is the Kodak Picture Kiosk G4XE, introduced in 2009.
+
+==Application software==
+
+===Connectivity===
+
+The kiosk uses a range of direct inputs and online image hosting services  to allow the user to upload their photos for printing. Input options vary on the kiosk generation and the location. Mac formatted USB Drives are not recognized. A list of inputs is shown below:
+*Most major memory cards, including SmartMedia, CompactFlash (CF), Memory Stick, MultiMediaCard, Secure Digital Card (SD), and xD-Picture Cards
+*USB Flash Drives
+*Bluetooth
+*Facebook
+*Kodak Gallery
+*Picasa Web Albums
+*Infrared (IrDA)
+*KODAK Picture CD
+*KODAK Picture Disk
+*Floppy disks
+*Rapid Print Scanner
+*CDs
+*DVDs
+
+The kiosk accepts picture files in JPEG, Bitmap or TIFF formats.
+
+===Enhancements===
+
+The kiosk uses a variety of picture enhancement tools to allow the user to make their photos better. These include:
+*Red-eye and Pet Eye reduction
+*Sepia and black and white effect
+*Zoom and Crop
+*Photo restoration
+*Facial Retouch
+*Addition of text, borders (including special borders for holiday seasons and festive days).
+
+==Developing==
+
+The kiosk prints photos in multiple sizes and enlargements, dependent on the retailer and equipment available. Alongside the photo packages available, a user may also choose between individual sizes, including 4×6 in. (10×15 cm), 5×7 in. (13×18 cm), 6×8 in. (15×20 cm), 8×10 in. (20×25 cm), and 8×12 in. (20×30 cm)
+The kiosk can also print photo IDs suitable for driving licenses, passports and ID cards, as well as automatically generated collages, monthly & yearly calendars, greeting cards, pages for bound photo albums, and other products.
+Newer kiosks are also capable of burning Picture CDs and/or DVDs.
+
+==External links==
+*Information about the Kodak Picture Kiosk at the Kodak website
+*Kodak Picture Kiosk G4 press release
+

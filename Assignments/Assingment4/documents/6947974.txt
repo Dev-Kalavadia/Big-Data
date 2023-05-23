@@ -1,0 +1,2788 @@
+Title: 1962 Grand Prix motorcycle racing season
+
+
+
+
+The 1962 Grand Prix motorcycle racing season was the 14th F.I.M. Road Racing World Championship Grand Prix season. The season consisted of eleven Grand Prix races in six classes: 500cc, 350cc, 250cc, 125cc, 50cc and Sidecars 500cc. It began on 6 May, with Spanish Grand Prix and ended with Argentine Grand Prix on 14 October. Defending 350cc and 500cc world champion Gary Hocking was deeply affected by the death of his friend, Tom Phillis at the 1962 Isle of Man TT and, announced his retirement from motorcycle racing after winning the 1962 Senior TT. Hocking's MV Agusta teammate, Mike Hailwood went on to win his first 500cc world championship.
+
+==1962 Grand Prix season calendar==
+{| class="wikitable" style="font-size: 85%"
+|-
+! Round
+! Date
+! Grand Prix
+! Circuit
+! 50cc winner
+! 125cc winner
+! 250cc winner
+! 350cc winner
+! 500cc winner
+! Sidecars 500cc winner
+! Report
+|-
+! 1
+| 6 May
+|  Spanish Grand Prix
+| Montjuïc circuit
+|  Hans-Georg Anscheidt
+|  Kunimitsu Takahashi
+|  Jim Redman
+| 
+|
+|  Deubel / Hörner
+| Report
+|-
+! 2
+| 13 May
+|  French Grand Prix
+| Charade Circuit
+|  Jan Huberts
+|  Kunimitsu Takahashi
+|  Jim Redman
+| 
+|
+|  Deubel / Hörner
+| Report
+|-
+! 3
+| 6 June
+|  Isle of Man TT
+| Snaefell Mountain
+|  Ernst Degner
+|  Luigi Taveri
+|  Derek Minter
+|  Mike Hailwood
+|  Gary Hocking
+|  Vincent / Bliss
+| Report
+|-
+! 4
+| 30 June
+|  Dutch TT
+| TT Circuit Assen
+|  Ernst Degner
+|  Luigi Taveri
+|  Jim Redman
+|  Jim Redman
+|  Mike Hailwood
+|   Scheidegger / Robinson
+| Report
+|-
+! 5
+| 8 July
+|  Belgian Grand Prix
+| Spa-Francorchamps
+|  Ernst Degner
+|  Luigi Taveri
+|  Bob McIntyre
+|
+|  Mike Hailwood
+|   Camathias / Winter
+| Report
+|-
+! 6
+| 15 July
+|  West German Grand Prix
+| Solitude
+|  Ernst Degner
+|  Luigi Taveri
+|  Jim Redman
+| 
+|
+|  Deubel / Hörner
+| Report
+|-
+! 7
+| 11 August
+|  Ulster Grand Prix
+| Dundrod Circuit
+|
+|  Luigi Taveri
+|  Tommy Robb
+|  Jim Redman
+|  Mike Hailwood
+|
+| Report
+|-
+! 8
+| 19 August
+|  East German Grand Prix
+| Sachsenring
+|  Jan Huberts
+|  Luigi Taveri
+|  Jim Redman
+|  Jim Redman
+|  Mike Hailwood
+|
+| Report
+|-
+! 9
+| 9 September
+|  Nations Grand Prix
+| Monza
+|  Hans-Georg Anscheidt
+|  Teisuke Tanaka
+|  Jim Redman
+|  Jim Redman
+|  Mike Hailwood
+|
+| Report
+|-
+! 10
+| 23 September
+|  Finnish Grand Prix
+| Tampere Circuit
+|  Luigi Taveri
+|  Jim Redman
+| 
+|  Tommy Robb
+|  Alan Shepherd
+|
+| Report
+|-
+! 11
+| 14 October
+|  Argentine Grand Prix
+| Buenos Aires
+|  Hugh Anderson
+|  Hugh Anderson
+|  Arthur Wheeler
+|
+|  Benedicto Caldarella
+|
+| Report
+|}
+
+==Standings==
+
+===Scoring system===
+Points were awarded to the top six finishers in each race. Only the best of six races were counted in 50cc, 125cc, 250cc championships, best of five in 350cc and 500cc championships, while in the Sidecars, the best of four races were counted.
+
+{| class="wikitable" style="font-size:85%; text-align:center"
+|-
+! Position
+!  1st 
+!  2nd 
+!  3rd 
+!  4th 
+!  5th 
+!  6th 
+|-
+! Points
+|style="background:#ffffbf;"| 8
+|style="background:#dfdfdf;"| 6
+|style="background:#ffdf9f;"| 4
+|style="background:#dfffdf;"| 3
+|style="background:#dfffdf;"| 2
+|style="background:#dfffdf;"| 1
+|}
+
+====500cc final standings====
+
+{|
+|
+{| class="wikitable" style="font-size: 85%; text-align:center"
+|- valign="top"
+!valign="middle"| Pos
+!valign="middle"| Rider
+!valign="middle"| Machine
+! MAN
+! HOL
+! BEL
+! ULS
+! DDR
+! NAC
+! FIN
+! ARG
+!valign="middle"| Pts
+|-
+! 1
+|align="left"|  Mike Hailwood
+| MV Agusta
+|style="background:#cfcfff;"| 12
+|style="background:#ffffbf;"| 1
+|style="background:#ffffbf;"| 1
+|style="background:#ffffbf;"| 1
+|style="background:#ffffbf;"| 1
+|style="background:#ffffbf;"| 1
+|
+|
+| 40
+|-
+! 2
+|align="left"|  Alan Shepherd
+| Matchless
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 4
+|style="background:#dfdfdf;"| 2
+|style="background:#dfdfdf;"| 2
+|style="background:#dfdfdf;"| 2
+|style="background:#cfcfff;"| 9
+|style="background:#ffffbf;"| 1
+|
+| 29
+|-
+! 3
+|align="left"|  Phil Read
+| Norton
+|style="background:#efcfff;"| Ret
+|style="background:#ffdf9f;"| 3
+|
+|style="background:#ffdf9f;"| 3
+|
+|style="background:#dfffdf;"| 4
+|
+|
+| 11
+|-
+! 4
+|align="left"|  Bert Schneider
+| Norton
+|style="background:#dfffdf;"| 4
+|style="background:#dfffdf;"| 5
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#ffdf9f;"| 3
+|style="background:#dfffdf;"| 6
+|
+|style="background:#efcfff;"| Ret
+| 10
+|-
+! 5
+|align="left"|  Benedicto Caldarella
+| Matchless
+|
+|
+|
+|
+|
+|
+|
+|style="background:#ffffbf;"| 1
+| 8
+|-
+! =
+|align="left"|  Gary Hocking
+| MV Agusta
+|style="background:#ffffbf;"| 1
+|
+|
+|
+|
+|
+|
+|
+| 8
+|-
+! 7
+|align="left"|  František Šťastný
+| Jawa
+|
+|style="background:#cfcfff;"| 8
+|
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 4
+|style="background:#efcfff;"| Ret
+|style="background:#ffdf9f;"| 3
+|
+| 7
+|-
+! 8
+|align="left"|    Tony Godfrey
+| Norton
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 6
+|style="background:#ffdf9f;"| 3
+|style="background:#dfffdf;"| 5
+|
+|
+|
+|
+| 7
+|-
+! 9
+|align="left"|  Paddy Driver
+| Norton
+|
+|style="background:#cfcfff;"| 10
+|style="background:#dfffdf;"| 4
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 5
+|style="background:#dfffdf;"| 5
+|
+|
+| 7
+|-
+! 10
+|align="left"|  Sven-Olof Gunnarsson
+| Norton
+|style="background:#cfcfff;"| 17
+|
+|
+|
+|
+|
+|style="background:#dfdfdf;"| 2
+|
+| 6
+|-
+! 11
+|align="left"|  Derek Minter
+| Norton
+|style="background:#efcfff;"| Ret
+|style="background:#dfdfdf;"| 2
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 6
+|-
+! 12
+|align="left"|  Ellis Boyce
+| Norton / Matchless
+|style="background:#dfdfdf;"| 2
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 6
+|-
+! 13
+|align="left"|  Juan Carlos Salatino
+| Norton
+|
+|
+|
+|
+|
+|
+|
+|style="background:#dfdfdf;"| 2
+| 6
+|-
+! =
+|align="left"|  Remo Venturi
+| MV Agusta
+|
+|
+|
+|
+|
+|style="background:#dfdfdf;"| 2
+|
+|
+| 6
+|-
+! 15
+|align="left"|  Fred Stevens
+| Norton
+|style="background:#ffdf9f;"| 3
+|
+|style="background:#dfffdf;"| 6
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 5
+|-
+! 16
+|align="left"|  Silvio Grassetti
+| Bianchi
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|style="background:#ffdf9f;"| 3
+|
+|
+| 4
+|-
+! 17
+|align="left"|  Eduardo Salatino
+| Norton
+|
+|
+|
+|
+|
+|
+|
+|style="background:#ffdf9f;"| 3
+| 4
+|-
+! 18
+|align="left"|  Ron Langston
+| Norton
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 4
+|
+|
+|
+|
+| 3
+|-
+! 19
+|align="left"|  Pablo Gamberini
+| Matchless
+|
+|
+|
+|
+|
+|
+|
+|style="background:#dfffdf;"| 4
+| 3
+|-
+! =
+|align="left"|  Anssi Resko
+| Matchless
+|
+|
+|
+|
+|
+|
+|style="background:#dfffdf;"| 4
+|
+| 3
+|-
+! 21
+|align="left"|  Roy Ingram
+| Norton
+|style="background:#dfffdf;"| 5
+|style="background:#cfcfff;"| 9
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 8
+|style="background:#cfcfff;"| 7
+|
+|
+|
+| 2
+|-
+! 22
+|align="left"|  Jack Findlay
+| Norton
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 12
+|style="background:#dfffdf;"| 5
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|
+|
+| 2
+|-
+! 23
+|align="left"|  Harald Karlsson
+| Norton
+|
+|
+|
+|
+|
+|
+|style="background:#dfffdf;"| 5
+|
+| 2
+|-
+! =
+|align="left"|  Amleto Pomesano
+| Norton
+|
+|
+|
+|
+|
+|
+|
+|style="background:#dfffdf;"| 5
+| 2
+|-
+! 25
+|align="left"|  Roland Föll
+| Matchless
+|style="background:#cfcfff;"| 18
+|
+|style="background:#efcfff;"| Ret
+|
+|style="background:#dfffdf;"| 6
+|style="background:#cfcfff;"| 8
+|style="background:#dfffdf;"| 6
+|
+| 2
+|-
+! 26
+|align="left"|  Brian Setchell
+| Norton
+|style="background:#dfffdf;"| 6
+|
+|
+|
+|
+|
+|
+|
+| 1
+|-
+! =
+|align="left"|  Manuel Soler
+| Norton
+|
+|
+|
+|
+|
+|
+|
+|style="background:#dfffdf;"| 6
+| 1
+|-
+! =
+|align="left"|  Ray Spence
+| Norton
+|
+|
+|
+|style="background:#dfffdf;"| 6
+|
+|
+|
+|
+| 1
+|-
+! 29
+|align="left"|  Jack Ahearn
+| Norton
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 7
+|style="background:#cfcfff;"| 8
+|style="background:#cfcfff;"| 12
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 10
+|
+|
+| 0
+|-
+! 30
+|align="left"|  Gyula Marsovszky
+| Norton
+|style="background:#cfcfff;"| 23
+|
+|style="background:#cfcfff;"| 9
+|
+|
+|style="background:#cfcfff;"| 7
+|
+|
+| 0
+|-
+! 31
+|align="left"|  Rudolf Gläser
+| Norton
+|
+|
+|style="background:#cfcfff;"| 11
+|
+|
+|
+|style="background:#cfcfff;"| 7
+|
+| 0
+|-
+! =
+|align="left"|  Ernst Hiller
+| Matchless
+|
+|style="background:#cfcfff;"| 11
+|style="background:#cfcfff;"| 7
+|
+|
+|
+|
+|
+| 0
+|-
+! =
+|align="left"|  Tom Thorp
+| Norton
+|style="background:#cfcfff;"| 7
+|
+|
+|style="background:#cfcfff;"| 11
+|
+|
+|
+|
+| 0
+|-
+! 33
+|align="left"|  Peter Middleton
+| Norton
+|style="background:#efcfff;"| Ret
+|
+|
+|style="background:#cfcfff;"| 7
+|
+|
+|
+|
+| 0
+|-
+! 34
+|align="left"|  Mike Duff
+| Matchless
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 8
+|
+|style="background:#efcfff;"| Ret
+|
+| 0
+|-
+! 35
+|align="left"|  Chris Conn
+| Norton
+|style="background:#cfcfff;"| 8
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! =
+|align="left"|  Tauno Nurmi
+| Norton
+|
+|
+|
+|
+|
+|
+|style="background:#cfcfff;"| 8
+|
+| 0
+|-
+! 37
+|align="left"|  Syd Mizen
+| Matchless
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 15
+|
+|style="background:#cfcfff;"| 9
+|
+|
+|
+|
+| 0
+|-
+! 38
+|align="left"|  William Van Leeuwen
+| Norton
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 9
+|
+|
+|
+| 0
+|-
+! 39
+|align="left"|  Derek Powell
+| Matchless
+|style="background:#cfcfff;"| 9
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! =
+|align="left"|  Antero Ventoniemi
+| Norton
+|
+|
+|
+|
+|
+|
+|style="background:#cfcfff;"| 9
+|
+| 0
+|-
+! 41
+|align="left"|  Raymond Bogaerdt
+| Norton
+|
+|style="background:#cfcfff;"| 16
+|style="background:#cfcfff;"| 10
+|
+|
+|
+|
+|
+| 0
+|-
+! 42
+|align="left"|  Derek Woodman
+| Matchless
+|style="background:#cfcfff;"| 10
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 0
+|-
+! 43
+|align="left"|  Ralph Bryans
+| Norton
+|
+|
+|
+|style="background:#cfcfff;"| 10
+|
+|
+|
+|
+| 0
+|-
+! =
+|align="left"|  Vijlo Heino
+| Norton
+|
+|
+|
+|
+|
+|
+|style="background:#cfcfff;"| 10
+|
+| 0
+|-
+! =
+|align="left"|  György Kurucz
+| Norton
+|
+|
+|
+|
+|style="background:#cfcfff;"| 10
+|
+|
+|
+| 0
+|-
+! 46
+|align="left"|  Vernon Cottle
+| Norton
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|style="background:#cfcfff;"| 11
+|
+|
+|
+| 0
+|-
+! 47
+|align="left"|  Billy McCosh
+| Matchless
+|style="background:#cfcfff;"| 11
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! =
+|align="left"|  Raine Lampinen
+| Norton
+|
+|
+|
+|
+|
+|
+|style="background:#cfcfff;"| 11
+|
+| 0
+|-
+! =
+|align="left"|  Vasco Loro
+| Norton
+|
+|
+|
+|
+|
+|style="background:#cfcfff;"| 11
+|
+|
+| 0
+|-
+! 50
+|align="left"|  Renzo Rossi
+| Gilera
+|
+|
+|
+|
+|
+|style="background:#cfcfff;"| 12
+|
+|
+| 0
+|-
+! =
+|align="left"|  Graham Smith
+| Norton
+|
+|
+|
+|
+|style="background:#cfcfff;"| 12
+|
+|
+|
+| 0
+|-
+! 52
+|align="left"|  Alf Shaw
+| Norton
+|style="background:#cfcfff;"| 28
+|
+|
+|style="background:#cfcfff;"| 13
+|
+|
+|
+|
+| 0
+|-
+! 53
+|align="left"|  Bo Granath
+| Norton
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 13
+|
+|
+|
+| 0
+|-
+! =
+|align="left"|  Walter Scheimann
+| Norton
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 13
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! 55
+|align="left"|  Peter Evans
+| Matchless
+|style="background:#cfcfff;"| 13
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! =
+|align="left"|  Benedetto Zambotti
+| Norton
+|
+|
+|
+|
+|
+|style="background:#cfcfff;"| 13
+|
+|
+| 0
+|-
+! 57
+|align="left"|  Karl Recktenwald
+| Norton
+|
+|style="background:#cfcfff;"| 14
+|
+|style="background:#cfcfff;"| 14
+|
+|
+|
+|
+| 0
+|-
+! 58
+|align="left"|  George Purvis
+| Matchless
+|style="background:#cfcfff;"| 14
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 0
+|-
+! 59
+|align="left"|  Giuseppe Dardanello
+| Norton
+|
+|
+|
+|
+|
+|style="background:#cfcfff;"| 14
+|
+|
+| 0
+|-
+! =
+|align="left"|  Alfred Worel
+| BSA
+|
+|
+|
+|
+|style="background:#cfcfff;"| 14
+|
+|
+|
+| 0
+|-
+! 61
+|align="left"|  Dennis Fry
+| Norton
+|style="background:#cfcfff;"| 27
+|
+|
+|style="background:#cfcfff;"| 15
+|style="background:#efcfff;"| Ret
+|
+|
+|
+| 0
+|-
+! 62
+|align="left"|  Emanuele Maugliani
+| Gilera
+|
+|
+|
+|
+|
+|style="background:#cfcfff;"| 15
+|
+|
+| 0
+|-
+! =
+|align="left"|  John Simmonds
+| Matchless
+|style="background:#cfcfff;"| 15
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! 64
+|align="left"|  Brian Hornby
+| Norton
+|style="background:#cfcfff;"| 16
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! =
+|align="left"|  Giuseppe Mantelli
+| Gilera
+|
+|
+|
+|
+|
+|style="background:#cfcfff;"| 16
+|
+|
+| 0
+|-
+! =
+|align="left"|  Patrick Plunkett
+| Matchless
+|
+|
+|
+|style="background:#cfcfff;"| 16
+|
+|
+|
+|
+| 0
+|-
+! 67
+|align="left"|  Ladislaus Richter
+| Norton
+|
+|style="background:#cfcfff;"| 17
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+| 0
+|-
+! 68
+|align="left"|  Tommy Holmes
+| Matchless
+|
+|
+|
+|style="background:#cfcfff;"| 17
+|
+|
+|
+|
+| 0
+|-
+! 69
+|align="left"|  Jimmy Jones
+| Norton
+|
+|
+|
+|style="background:#cfcfff;"| 18
+|
+|
+|
+|
+| 0
+|-
+! 70
+|align="left"|  Louis Carr
+| Matchless
+|style="background:#cfcfff;"| 19
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! 71
+|align="left"|  Derek Lee
+| Matchless
+|style="background:#cfcfff;"| 20
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! 72
+|align="left"|  Douglas Smith
+| AJS
+|style="background:#cfcfff;"| 21
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! 73
+|align="left"|  George Bell
+| Norton
+|style="background:#cfcfff;"| 22
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! 74
+|align="left"|  Chris Anderson
+| BSA / Norton
+|style="background:#cfcfff;"| 24
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 0
+|-
+! 75
+|align="left"|  Jimmy Morton
+| Matchless
+|style="background:#cfcfff;"| 25
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 0
+|-
+! 76
+|align="left"|  Ted Whiteside
+| Matchless
+|style="background:#cfcfff;"| 26
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! 77
+|align="left"|  Frank Reynolds
+| Norton
+|style="background:#cfcfff;"| 29
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  John Gabites
+| Norton
+|style="background:#efcfff;"| Ret
+|
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Jacques Insermini
+| Norton
+|
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|
+|
+| 0
+|-
+! -
+|align="left"|  Hugh Anderson
+| Matchless
+|style="background:#efcfff;"| Ret
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Bob Coulter
+| AJS / Norton
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Robin Fitton
+| Norton
+|
+|style="background:#efcfff;"| Ret
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Harry Grant
+| BSA
+|style="background:#efcfff;"| Ret
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Alistair King
+| Matchless
+|style="background:#efcfff;"| Ret
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Stephen Murray
+| Matchless
+|
+|style="background:#efcfff;"| Ret
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Dan Shorey
+| Norton
+|style="background:#efcfff;"| Ret
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Joop Vogelzang
+| Norton
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Arthur Wheeler
+| Moto Guzzi
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+| 0
+|-
+! -
+|align="left"|  Billy Andersson
+| AJS
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Rudolf Bergsleithner
+| Norton
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Ernesto Brambilla
+| Bianchi
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  John Brown
+| Norton
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Jack Bullock
+| Norton
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Agne Carlsson
+| Norton
+|
+|
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+| 0
+|-
+! -
+|align="left"|  Graham Chatterton
+| Norton
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Horacio Costas
+| Matchless
+|
+|
+|
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+| 0
+|-
+! -
+|align="left"|  Dick Creith
+| Norton
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  James Cripps
+| Norton
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Terry Dennehy
+| Norton
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Alan Dugalde
+| Matchless
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Don Ellis
+| Matchless
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Jack Gow
+| Triumph
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Gustav Havel
+| Jawa
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Karl Hoppe
+| Norton
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Hannu Kuparinen
+| Norton
+|
+|
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+| 0
+|-
+! -
+|align="left"|  Len Ireland
+| Norton
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Pentti Lehtelä
+| Norton
+|
+|
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+| 0
+|-
+! -
+|align="left"|  Edy Lenz
+| Norton
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Colin Lyster
+| Norton
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Jorge Kissling
+| Matchless
+|
+|
+|
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+| 0
+|-
+! -
+|align="left"|  Mark McCausland
+| Matchless
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Robert McCracken
+| Norton
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Michael McStay
+| Norton
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Ned Minihan
+| Norton
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Albert Montagne
+| Norton
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Billie Nelson
+| Norton
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Eric Oliver
+| AJS
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Juan Carlos Perkins
+| Norton
+|
+|
+|
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+| 0
+|-
+! -
+|align="left"|  Morgan Radberg
+| Norton
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Johnny Rae
+| Norton
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Harold Riley
+| BSA
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Bill Robertson
+| AJS
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Frank Rutherford
+| Matchless
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Jack Shannon
+| Matchless
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Bill Smith
+| Matchless
+|
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+| 0
+|-
+! -
+|align="left"|  Werner Spinnler
+| Norton
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Vagn Stevnhoved
+| Norton
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Veikko Sulasaari
+| Norton
+|
+|
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+| 0
+|-
+! -
+|align="left"|  Brian Taggart
+| AJS
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Rudi Thalhammer
+| Norton
+|
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+| 0
+|-
+! -
+|align="left"|  Pete Tomlinson
+| Norton
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Martinus Van Son
+| Norton
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+| 0
+|-
+! -
+|align="left"|  Raûl Villaveiran
+| Norton
+|
+|
+|
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+| 0
+|-
+! -
+|align="left"|  Dave Wildman
+| Matchless
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+| 0
+|- valign="top"
+!valign="middle"| Pos
+!valign="middle"| Rider
+!valign="middle"| Bike
+! MAN
+! HOL
+! BEL
+! ULS
+! DDR
+! NAC
+! FIN
+! ARG
+!valign="middle"| Pts
+|}
+|valign="top"|
+
+Bold – Pole
+Italics – Fastest Lap
+|}
+
+===350cc standings===
+{| class="wikitable" style="font-size: 95%;"
+|-
+! Place
+! Rider
+! Number
+! Country
+! Machine
+! Points
+! Wins
+|-
+| 1
+|  Jim Redman
+| 
+| Rhodesia
+| Honda
+| 32
+| 4
+|-
+| 2
+|  Tommy Robb
+| 
+| United Kingdom
+| Honda
+| 22
+| 1
+|-
+| 3
+|  Mike Hailwood
+| 
+| United Kingdom
+| MV Agusta
+| 20
+| 1
+|-
+| 4
+|  Frantisek Stastny
+| 
+| Czechoslovakia
+| Jawa
+| 16
+| 0
+|-
+| 5
+|  Silvio Grassetti
+| 
+| Italy
+| Bianchi
+| 8
+| 0
+|-
+| 6
+|  Alan Shepherd
+| 
+| United Kingdom
+| AJS / MZ
+| 7
+| 0
+|-
+| 7
+|  Gustav Havel
+| 
+| Czechoslovakia
+| Jawa
+| 7
+| 0
+|-
+| 8
+|  Gary Hocking
+| 
+| Rhodesia
+| MV Agusta
+| 6
+| 0
+|-
+| 9
+|  Mike Duff
+| 
+| Canada
+| AJS
+| 5
+| 0
+|-
+| 10
+|  Roy Ingram
+| 
+| United Kingdom
+| Norton
+| 3
+| 0
+|-
+| =
+|  Sven-Olof Gunnarsson
+| 
+| Sweden
+| Norton
+| 3
+| 0
+|-
+| 12
+|  Derek Minter
+| 
+| United Kingdom
+| Norton
+| 2
+| 0
+|-
+| =
+|  Taneli Lepo
+| 
+| Finland
+| AJS
+| 2
+| 0
+|-
+| 14
+|  Hugh Anderson
+| 
+| New Zealand
+| AJS
+| 1
+| 0
+|-
+| =
+|  Phil Read
+| 
+| United Kingdom
+| Norton
+| 1
+| 0
+|-
+| =
+|  Nicolaï Sevostianov
+| 
+| USSR
+| CKEB C360
+| 1
+| 0
+|-
+| =
+|  Arthur Wheeler
+| 
+| United Kingdom
+| Moto Guzzi
+| 1
+| 0
+|-
+| =
+|  Moto Kitano
+| 
+| Japan
+| Honda
+| 1
+| 0
+|}
+
+===250cc standings===
+{| class="wikitable" style="font-size: 95%;"
+|-
+! Place
+! Rider
+! Number
+! Country
+! Machine
+! Points
+! Wins
+|-
+| 1
+|  Jim Redman
+| 
+| Rhodesia
+| Honda
+| 48
+| 6
+|-
+| 2
+|  Bob McIntyre
+| 
+| United Kingdom
+| Honda
+| 32
+| 1
+|-
+| 3
+|  Arthur Wheeler
+| 
+| United Kingdom
+| Moto Guzzi
+| 19
+| 1
+|-
+| 4
+|  Tom Phillis
+| 
+| Australia
+| Honda
+| 12
+| 0
+|-
+| 5
+|  Tarquinio Provini
+| 
+| Italy
+| Morini
+| 10
+| 0
+|-
+| 6
+|  Derek Minter
+| 
+| United Kingdom
+| Honda
+| 8
+| 1
+|-
+| =
+|  Tommy Robb
+| 
+| United Kingdom
+| Honda
+| 8
+| 1
+|-
+| 8
+|  Luigi Taveri
+| 
+| Switzerland
+| Honda
+| 8
+| 0
+|-
+| 9
+|  Alberto Pagani
+| 
+| Italy
+| Aermacchi
+| 8
+| 0
+|-
+| 10
+|  Dan Shorey
+| 
+| United Kingdom
+| Bultaco
+| 8
+| 0
+|-
+| 11
+|  Mike Hailwood
+| 
+| United Kingdom
+| MZ
+| 6
+| 0
+|-
+| =
+|  Umberto Masetti
+| 
+| Italy
+| Morini
+| 6
+| 0
+|-
+| 13
+|  Günter Beer
+| 
+| West Germany
+| Adler
+| 6
+| 0
+|-
+| =
+|  Moto Kitano
+| 
+| Japan
+| Honda
+| 6
+| 0
+|-
+| 15
+|  Teisuke Tanaka
+| 
+| Japan
+| Honda
+| 4
+| 0
+|-
+| =
+|  Werner Musiol
+| 
+| East Germany
+| MZ
+| 4
+| 0
+|-
+| =
+|  Rudolph Kaiser
+| 
+| Argentina
+| NSU
+| 4
+| 0
+|-
+| 18
+|  Cas Swart
+| 
+| Netherlands
+| Honda
+| 3
+| 0
+|-
+| =
+|  Jorge Ternengo
+| 
+| Argentina
+| Ducati
+| 3
+| 0
+|-
+| 20
+|  Jean-Pierre Beltoise
+| 
+| France
+| Morini
+| 2
+| 0
+|-
+| =
+|  Frank Perris
+| 
+| United Kingdom
+| Suzuki
+| 2
+| 0
+|-
+| =
+|  Campbell Donaghy
+| 
+| United Kingdom
+| Ducati
+| 2
+| 0
+|-
+| =
+|  Nicolaï Sevostianov
+| 
+| USSR
+| CKEB C259
+| 2
+| 0
+|-
+| =
+|  Gilberto Milani
+| 
+| Italy
+| Aermacchi
+| 2
+| 0
+|-
+| =
+|  Carlos Marfetan
+| 
+| Uruguay
+| Parilla
+| 2
+| 0
+|-
+| 26
+|  Marcel Toussaint
+| 
+| Belgium
+| Benelli
+| 1
+| 0
+|-
+| =
+|  Benjamin Savoye
+| 
+| France
+| FB-Mondial
+| 1
+| 0
+|-
+| =
+|  Pierrot Vervroegen
+| 
+| Belgium
+| Aermacchi
+| 1
+| 0
+|-
+| =
+|  Michael Schneider
+| 
+| West Germany
+| NSU
+| 1
+| 0
+|-
+| =
+|  Stuart Graham
+| 
+| United Kingdom
+| Aermacchi
+| 1
+| 0
+|-
+| =
+|  Paolo Campanelli
+| 
+| Italy
+| Benelli
+| 1
+| 0
+|-
+| =
+|  Enrique Dietrich
+| 
+| Argentina
+| Aermacchi
+| 1
+| 0
+|}
+
+===125cc standings===
+{| class="wikitable" style="font-size: 95%;"
+|-
+! Place
+! Rider
+! Number
+! Country
+! Machine
+! Points
+! Wins
+|-
+| 1
+|  Luigi Taveri
+| 
+| Switzerland
+| Honda
+| 48
+| 6
+|-
+| 2
+|  Jim Redman
+| 
+| Rhodesia
+| Honda
+| 38
+| 1
+|-
+| 3
+|  Tommy Robb
+| 
+| United Kingdom
+| Honda
+| 30
+| 0
+|-
+| 4
+|  Kunimitsu Takahashi
+| 
+| Japan
+| Honda
+| 16
+| 2
+|-
+| 5
+|  Mike Hailwood
+| 
+| United Kingdom
+| EMC
+| 12
+| 0
+|-
+| 6
+|  Teisuke Tanaka
+| 
+| Japan
+| Honda
+| 11
+| 1
+|-
+| 7
+|  Hugh Anderson
+| 
+| New Zealand
+| Suzuki
+| 11
+| 1
+|-
+| 8
+|  Hans Fischer
+| 
+| East Germany
+| MZ
+| 7
+| 0
+|-
+| 9
+|  Raúl Kissling
+| 
+| Argentina
+| DKW
+| 6
+| 0
+|-
+| 10
+|  Paddy Driver
+| 
+| South Africa
+| EMC
+| 6
+| 0
+|-
+| 11
+|  Ernst Degner
+| 
+| West Germany
+| Suzuki
+| 5
+| 0
+|-
+| 12
+|  Rex Avery
+| 
+| United Kingdom
+| EMC
+| 5
+| 0
+|-
+| 13
+|  Tom Phillis
+| 
+| Australia
+| Honda
+| 4
+| 0
+|-
+| =
+|  Alan Shepherd
+| 
+| United Kingdom
+| MZ
+| 4
+| 0
+|-
+| =
+|  Mitsuo Itoh
+| 
+| Japan
+| Suzuki
+| 4
+| 0
+|-
+| 16
+|  Derek Minter
+| 
+| United Kingdom
+| Honda
+| 3
+| 0
+|-
+| =
+|  Bob McIntyre
+| 
+| United Kingdom
+| Honda
+| 3
+| 0
+|-
+| =
+|  Limburg Moreira
+| 
+| Argentina
+| Bultaco
+| 3
+| 0
+|-
+| 19
+|  John Grace
+| 
+| Gibraltar
+| Bultaco
+| 2
+| 0
+|-
+| =
+|  Klaus Enderlein
+| 
+| East Germany
+| MZ
+| 2
+| 0
+|-
+| =
+|  Alberto Pagani
+| 
+| Italy
+| Honda
+| 2
+| 0
+|-
+| =
+|  Frank Perris
+| 
+| United Kingdom
+| Suzuki
+| 2
+| 0
+|-
+| =
+|  Marzillo Chizzini
+| 
+| Argentina
+| Bultaco
+| 2
+| 0
+|-
+| 24
+|  Francesco Villa
+| 
+| Italy
+| FB-Mondial
+| 1
+| 0
+|-
+| =
+|  Jorge Kissling
+| 
+| Argentina
+| Bultaco
+| 1
+| 0
+|-
+| =
+|  Stanislav Malina
+| 
+| Czechoslovakia
+| ČZ
+| 1
+| 0
+|-
+| =
+|  Giuseppe Visenzi
+| 
+| Italy
+| Ducati
+| 1
+| 0
+|-
+| =
+|  Werner Musiol
+| 
+| East Germany
+| MZ
+| 1
+| 0
+|-
+| =
+|  Jukka Petäjä
+| 
+| Finland
+| MZ
+| 1
+| 0
+|-
+| =
+|  Pedro Rosenthal
+| 
+| Argentina
+| Tohatsu
+| 1
+| 0
+|}
+
+===50cc standings===
+{| class="wikitable" style="font-size: 95%;"
+|-
+! Place
+! Rider
+! Number
+! Country
+! Machine
+! Points
+! Wins
+|-
+| 1
+|  Ernst Degner
+| 
+| West Germany
+| Suzuki
+| 41
+| 4
+|-
+| 2
+|  Hans-Georg Anscheidt
+| 
+| West Germany
+| Kreidler
+| 36
+| 2
+|-
+| 3
+|  Luigi Taveri
+| 
+| Switzerland
+| Honda
+| 29
+| 1
+|-
+| 4
+|  Jan Huberts
+| 
+| Netherlands
+| Kreidler
+| 29
+| 2
+|-
+| 5
+|  Mitsuo Itoh
+| 
+| Japan
+| Suzuki
+| 23
+| 0
+|-
+| 6
+|  Tommy Robb
+| 
+| United Kingdom
+| Honda
+| 17
+| 0
+|-
+| 7
+|  Hugh Anderson
+| 
+| New Zealand
+| Suzuki
+| 16
+| 1
+|-
+| 8
+|  Seiichi Suzuki
+| 
+| Japan
+| Suzuki
+| 10
+| 0
+|-
+| 9
+|  Kunimitsu Takahashi
+| 
+| Japan
+| Honda
+| 7
+| 0
+|-
+| 10
+|  José Busquets
+| 
+| Spain
+| Derbi
+| 6
+| 0
+|-
+| 11
+|  Wolfgang Gedlich
+| 
+| West Germany
+| Kreidler
+| 6
+| 0
+|-
+| 12
+|  Isao Morishita
+| 
+| Japan
+| Suzuki
+| 2
+| 0
+|-
+| =
+|  Teisuke Tanaka
+| 
+| Japan
+| Honda
+| 2
+| 0
+|-
+| 14
+|  Michio Ichino
+| 
+| Japan
+| Suzuki
+| 2
+| 0
+|-
+| 15
+|  Dan Shorey
+| 
+| United Kingdom
+| Kreidler
+| 1
+| 0
+|-
+| =
+|  Günter Beer
+| 
+| West Germany
+| Kreidler
+| 1
+| 0
+|}
+

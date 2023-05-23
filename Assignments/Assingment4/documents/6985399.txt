@@ -1,0 +1,920 @@
+Title: List of Aramaic place names
+
+
+This is a list of Aramaic place names; list of the names of places as they exist in the Aramaic language.
+
+
+
+==Names==
+
+======
+{| class="wikitable" width="100%"
+|-
+! Aramaic
+! Transliteration
+! IPA
+! English; Modern name
+|-
+|ܐܘܪܗܝ
+|
+|
+|Edessa
+|-
+|ܐܘܿܪ
+|
+|
+|Ur
+|-
+| ܐܘܿܪܘܿܟ
+|
+|
+|Uruk
+|-
+|ܐܘܪܡܝܐ
+|
+|
+|Urmia
+|-
+|ܐܘܪܫܠܡ
+|
+|
+|Jerusalem
+|-
+|ܐܝܛܠܝܐ
+|
+|
+|Italy
+|-
+|ܐܝܛܠܝܐ
+|
+|
+|Attalia
+|-
+|ܐܝܣܪܐܝܠ
+|
+|
+|Israel
+|-
+|ܐܝܩܢܘܢ
+|
+|
+|Iconium; Konya
+|-
+|ܐܝܪܝܚܘ
+|
+|
+|Jericho
+|-
+|ܐܟܐܝܐ
+|
+|
+|Achaea
+|-
+|ܐܠܟܣܢܕܪܝܐ
+|
+|
+|Alexandria
+|-
+|ܐܠܩܘܫ
+|
+|
+|Alqosh
+|-
+|ܐܡܝܕ
+|
+|
+|Amida
+|-
+|ܐܣܝܐ
+|
+|
+|Asia
+|-
+|ܐܣܦܢܝܐ
+|
+|
+|Hispania; Spain
+|-
+|ܐܦܣܘܣ
+|
+|
+|Ephesus
+|-
+|ܐܪܒܝܐ
+|
+|
+|Arabia
+|-
+|ܐܪܒܠܐ
+|'Arbelā
+|
+|Arbil
+|-
+|ܐܪܥܕܢ
+|
+|
+|Araden
+|-
+|ܐܪܡ
+|
+|
+|Aram; Syria
+|-
+|ܐܪܡܘܬܐ
+|'Arm'ūṭā
+|
+|Armota
+|-
+|ܐܪܦܗܐ
+|'Arraphā 
+|
+|Kirkuk
+|-
+|ܐܫܘܪ
+|
+|
+|Assur
+|-
+|ܐܬܘܪ
+|
+|
+|Assyria
+|- 
+|ܐܝܪܢ
+|
+|
+|Iran
+|-
+|ܐܬܢܘܣ
+|
+|
+|Athens
+|-
+|ܐܣܛܗܪ
+|
+|
+|Istakhr
+|-
+|ܐܣܦܗܢ
+|
+|
+|Isfahan
+|}
+
+======
+{| class="wikitable" width="100%"
+|-
+! Aramaic
+! Transliteration
+! IPA
+! English; Modern Name
+|-
+|ܒܒܠ
+|
+|
+|Babylon
+|-
+|ܒܓܕܕ
+|
+|
+|Baghdad
+|-
+|ܒܝܬ ܕܪ̈ܐ
+|
+|
+|Bedare
+|-
+|ܒܝܬ ܠܚܡ
+|
+|
+|Bethlehem
+|-
+|ܒܝܬ ܢܗܪ̈ܝܢ
+|
+|
+|Beth Nahrain, Mesopotamia
+|-
+|ܒܝܬ ܩܛܖ̈ܝܐ
+|
+|
+|Qatar
+|-
+|ܒܝܬ ܡܙܘܢܝ̈ܐ
+|
+|
+|Oman
+|-
+|ܒܝܬ ܦܖ̈ܣܝܐ
+|
+|
+|Fars Province
+|-
+|ܒܝܬ ܗܘܙ̈ܝܐ
+|
+|
+|Khuzistan
+|-
+|ܒܝܬ ܢܘܗܕܪܐ
+|
+|
+|Dohuk
+|-
+|ܒܝܬ ܙܒܕܝ̈
+|
+|
+|Cizre
+|-
+|ܒܝܬ ܙܠܝ̈ܢ
+|
+|
+|Qamishli
+|-
+|ܒܝܬ ܪ̈ܙܝܩܝܐ
+|
+|
+|Rey 
+|-
+|ܒܝܬ ܐܝܠ
+|
+|
+|Bedial
+|-
+|ܒܝܬ ܥܢܝܐ
+|
+|
+|Bethany
+|-
+|ܒܝܬ ܠܦܛ
+|
+|
+|Gundeshapur
+|}
+
+======
+{| class="wikitable" width="100%"
+|-
+! Aramaic
+! Transliteration
+! IPA
+! English; Modern Name
+|-
+|ܓܙܪܬܐ
+|
+|
+|Cizre
+|-
+|ܓܓܘܠܬܐ
+|
+|
+|Golgotha
+|-
+|ܓܕܣܡܢ
+|
+|
+|Gethsemane
+|-
+|ܓܗܢܐ
+|
+|
+|Gehenna, Hell
+|-
+|ܓܙܐ
+|
+|
+|Gaza
+|-
+|ܓܝܚܘܢ
+|
+|
+|Gihon
+|-
+|ܓܠܛܝܐ
+|
+|
+|Galatia
+|-
+|ܓܠܝܠܐ
+|
+|
+|Galilee
+|-
+|ܓܦܝܦܬܐ
+|
+|
+|Gabbatha
+|}
+
+======
+{| class="wikitable" width="100%"
+|-
+! Aramaic
+! Transliteration
+! IPA
+! English; Modern Name
+|-
+|ܕܩܠܬ
+|
+|
+|Tigris
+|-
+|ܕܪܒܐ
+|
+|
+|Derbe
+|-
+|ܕܪܡܣܘܩ
+|
+|
+|Damascus
+|}
+
+======
+{| class="wikitable" width="100%"
+|-
+! Aramaic
+! Transliteration
+! IPA
+! English; Modern Name
+|-
+|ܗܘܪܡܝܙܕ ܐܪܕܫܝܪ
+|
+|
+|Ahvaz
+|-
+|ܗܢܕܘ
+|
+|
+|India
+|-
+|ܗܢܕܝܐ
+|
+|
+|India
+|}
+
+======
+{| class="wikitable" width="100%"
+|-
+! Aramaic
+! Transliteration
+! IPA
+! English; Modern Name
+|-
+|ܙܒܐ
+|
+|
+|Zab; may refer to the Great Zab or the Little Zab
+|-
+|ܙܒܐ ܥܠܝܐ
+|
+|
+|Great Zab
+|-
+|ܙܒܐ ܬܚܬܝܐ
+|
+|
+|Little Zab
+|-
+|ܙܡܘܪܢܐ
+|
+|
+|Smyrna
+|}
+
+======
+{| class="wikitable" width="100%"
+|-
+! Aramaic
+! Transliteration
+! IPA
+! English; Modern Name
+
+|-
+|ܚܛܪܐ
+|
+|
+|Hatra
+|-
+|ܚܛܐ
+|
+|
+|Hatta
+|-
+|ܚܒܪܘܢ
+|
+|
+|Hebron
+|-
+|ܚܩܠ ܕܡܐ
+|
+|
+|Akeldama
+|}
+
+======
+{| class="wikitable" width="100%"
+|-
+! Aramaic
+! Transliteration
+! IPA
+! English; Modern Name
+|-
+|ܛܗܪܢ
+|
+|
+|Tehran
+|-
+|ܛܘܪ ܥܒܕܝܢ
+|
+|
+|Tur Abdin
+|-
+|ܛܪܘܐܘܣ
+|
+|
+|Troas
+|-
+|ܛܪܣܘܣ
+|
+|
+|Tarsus
+|}
+
+======
+{| class="wikitable" width="100%"
+|-
+! Aramaic
+! Transliteration
+! IPA
+! English; Modern Name
+|-
+|ܝܘܢܢ
+|
+|
+|Greece
+|-
+|ܝܘܢ
+|
+|
+|Greece
+|-
+|ܝܗܘܕ
+|
+|
+|Judea
+|-
+|ܝܘܿܪܕܢܵܢ
+|
+|
+|Jordan River
+|}
+
+======
+{| class="wikitable" width="100%"
+|-
+! Aramaic
+! Transliteration
+! IPA
+! English; Modern Name
+|-
+|ܟܘܫ
+|
+|
+|Cush; Ethiopia
+|-
+|ܟܢܥܢ
+|
+|
+|Canaan
+|-
+|ܟܪܟܐ ܕܒܝܬ ܣܠܘܟ
+|
+|
+|Kirkuk
+|-
+|ܟܦܪܢܚܘܡ
+|
+|
+|Capernaum
+|}
+
+======
+{| class="wikitable" width="100%"
+|-
+! Aramaic
+! Transliteration
+! IPA
+! English; Modern Name
+|-
+|ܠܒܢܢ
+|
+|
+|Lebanon
+|-
+|-
+|ܠܘܒܐ
+|
+|
+|Libya
+|-
+|ܠܘܣܛܪܐ
+|
+|
+|Lystra
+|-
+|ܠܘܩܝܐ
+|
+|
+|Lycia
+|-
+|ܠܘܩܢܝܐ
+|
+|
+|Lycaonia
+|}
+
+======
+{| class="wikitable" width="100%"
+|-
+! Aramaic
+! Transliteration
+! IPA
+! English; Modern Name
+|-
+|ܡܕܝܕ
+|
+|
+|Midian
+|-
+|ܡܘܣܝܐ
+|
+|
+|Mysia
+|-
+|ܡܝܠܝܛܘܣ
+|
+|
+|Miletus
+|-
+|ܡܨܪܝܢ
+|
+|
+|Egypt
+|-
+|ܡܩܕܘܢܝܐ
+|
+|
+|Macedonia
+|-
+|ܡܚܘܙ̈ܐ ܚܕܬܐ
+|
+|
+|Wēh-Andiok Ḵosrow
+|-
+|ܡܪܕܐ
+|
+|
+|Mardin
+|}
+
+======
+{| class="wikitable" width="100%"
+|-
+! Aramaic
+! Transliteration
+! IPA
+! English; Modern Name
+|-
+|ܢܘܗܕܪܐ
+|
+|
+|Dahuk
+|-
+|ܢܝܠܘܣ
+|
+|
+|Nile
+|-
+|ܢܡܪܘܕ
+|
+|
+|Nimrud
+|-
+|ܢܝܢܘܐ
+|
+|
+|Nineveh
+|-
+|ܢܨܝܒܝܢ
+|
+|
+|Nisibis
+|-
+|ܢܨܪܬ
+|
+|
+|Nazareth
+|}
+
+======
+{| class="wikitable" width="100%"
+|-
+! Aramaic
+! Transliteration
+! IPA
+! English; Modern Name
+|-
+|ܣܠܝܩ
+|
+|
+|Seleucia-on-Tigris
+|-
+|ܣܕܘܡ
+|
+|
+|Sodom
+|-
+|ܣܘܪܝܐ
+|
+|
+|Syria
+|-
+|ܣܪܘܓ
+|
+|
+|Suruç
+|-
+|ܣܝܢܐ
+|
+|
+|China
+|-
+|ܣܝܢܝ
+|
+|
+|Sinai
+|-
+|ܣܠܡܢܐ
+|
+|
+|Salamis
+|}
+
+======
+{| class="wikitable" width="100%"
+|-
+! Aramaic
+! Transliteration
+! IPA
+! English; Modern Name
+|-
+|ܥܕܢ
+|
+|
+|Eden
+|-
+|ܥܡܘܪܐ
+|
+|
+|Gomorrah
+|}
+
+======
+{| class="wikitable" width="100%"
+|-
+! Aramaic
+! Transliteration
+! IPA
+! English; Modern Name
+|-
+|ܦܪܬ
+|
+|
+|Euphrates
+|-
+|ܦܪܬ ܕܡܝܫܢ
+|
+|
+|Basra
+|-
+|ܦܪܣ
+|
+|
+|Persia
+|-
+|ܦܘܢܝܩܐ
+|
+|
+|Phoenicia
+|-
+|ܦܝܠܕܠܦܝܐ
+|
+|
+|Philadelphia
+|-
+|ܦܝܣܝܕܝܐ
+|
+|
+|Pisidia
+|-
+|ܦܡܦܘܠܝܐ
+|
+|
+|Pamphylia
+|-
+|ܦܢܛܘܣ
+|
+|
+|Pontus
+|-
+|ܦܪܓܐ
+|
+|
+|Perga
+|-
+|ܦܪܘܓܝܐ
+|
+|
+|Phrygia
+|}
+
+======
+{| class="wikitable" width="100%"
+|-
+! Aramaic
+! Transliteration
+! IPA
+! English; Modern Name
+|-
+|ܨܗܝܘܢ
+|
+|
+|Zion
+|-
+|ܨܘܒܐ
+|
+|
+|Nisibis
+|-
+|ܨܘܪ
+|
+|
+|Tyre
+|-
+|ܨܝܕܢ
+|
+|
+|Sidon
+|-
+|ܨܪܦܬ
+|
+|
+|Sarepta
+|}
+
+======
+{| class="wikitable" width="100%"
+|-
+! Aramaic
+! Transliteration
+! IPA
+! English; Modern Name
+|-
+|ܩܛܝܣܦܘܢ
+|
+|
+|Ctesiphon
+|-
+|ܩܘܦܪܘܣ
+|
+|
+|Cyprus
+|-
+|ܩܘܪܝܢܐ
+|
+|
+|Cyrene
+|-
+|ܩܘܪܝܢܬܘܣ
+|
+|
+|Corinth
+|-
+|ܩܛܢܐ
+|
+|
+|Cana
+|-
+|ܩܝܠܝܩܝܐ
+|
+|
+|Cilicia
+|-
+|ܩܦܕܘܩܝܐ
+|
+|
+|Cappadocia
+|-
+|ܩܪܛܐ
+|
+|
+|Crete
+|}
+
+======
+{| class="wikitable" width="100%"
+|-
+! Aramaic
+! Transliteration
+! IPA
+! English; Modern Name
+|-
+|ܪܗܘܡܐ
+|
+|
+|Rome
+|-
+|ܪܘܕܘܣ
+|
+|
+|Rhodes
+|-
+|ܪܡܬܐ
+|
+|
+|Arimathaea
+|}
+
+======
+{| class="wikitable" width="100%"
+|-
+! Aramaic
+! Transliteration
+! IPA
+! English; Modern Name
+|-
+|ܫܘܫܬܪܝܢ
+|
+|
+|Shushtar
+|-
+|ܫܘܫ
+|
+|
+|Susa
+|-
+|ܫܝܘܠ
+|
+|
+|Sheol
+|-
+|ܫܡܝܐ
+|
+|
+|Heaven
+|-
+|ܫܡܪܝܢ
+|
+|
+|Samaria
+|}
+
+======
+{| class="wikitable" width="100%"
+|-
+! Aramaic
+! Transliteration
+! IPA
+! English; Modern Name
+|-
+|ܬܕܡܘܪ
+|
+|
+|Palmyra
+|-
+|ܬܠ ܙܩܝܦܐ
+|
+|
+|Tesqopa
+|-
+|ܬܠ ܟܐܦܐ
+|
+|
+|Tel Keppe
+|-
+|ܬܣܠܘܢܝܩܐ
+|
+|
+|Thessalonica
+|-
+|ܬܐܘܛܝܪܐ
+|
+|
+|Thyatira
+|}
+
+
+
+
+Aramaic Placename
+Category:Lists of place names

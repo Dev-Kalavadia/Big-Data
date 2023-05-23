@@ -1,0 +1,857 @@
+Title: S-class destroyer (1917)
+
+
+{|
+
+
+
+|}
+
+The S class (initially known as the Modified Trenchant classMarch, op. cit. p.215.) was a class of 67 destroyers ordered for the Royal Navy in 1917 under the 11th and 12th Emergency War Programmes. They saw active service in the last months of the First World War and in the Russian and Irish Civil Wars during the early 1920s.  Most were relegated to the reserve by the mid-1920s and subsequently scrapped under the terms of the London Naval Treaty. Eleven survivors saw much action during the Second World War.
+
+==Background==
+In early 1917, the First World War had been going on for two and a half years.  Despite the disappointing outcome of the Battle of Jutland the previous year, the British Grand Fleet, consisting of battleships, cruisers, and destroyers and based in northern Scotland, was successfully confining the German surface navy to the German Bight, while enforcing a blockade of German maritime trade with the wider world. In southern North Sea, the Harwich Force and the Dover Patrol, both consisting of cruisers and destroyers, maintained control of the eastern approaches to the English Channel and the Thames Estuary and safeguarded British communications with France. German submarine attacks on British trade became increasingly effective during the autumn of 1916, and unrestricted submarine warfare was soon to begin; finding effective countermeasures was increasingly taxing for the Admiralty. In the Mediterranean, the Royal Navy provided support to the French and Italian Fleets countering the threat posed by the Austro-Hungarian and Turkish fleets.  All of these diverse naval commitments placed huge demands on the Royal Navy's resources; in particular, the need for large numbers of destroyers was pressing.
+
+Since mid-1916, destroyer production had concentrated on the large and powerful V and W classes, intended to match large German destroyers reported to be under construction.  However, the Admiralty had come to appreciate that these intelligence reports had been overstated, thus the next orders could revert to the smaller destroyers of the Modified R class of March 1916, which could be built in large numbers quickly and cheaply. The resultant design, formulated in February 1917, incorporated some wartime lessons and suggestions from destroyer officers serving with the fleet, thus was identified as a new class.
+
+==Design and construction==
+The new class had two funnels, a long forecastle and a tall bridge, which unusually, was located behind the break in the main deck. Following consultations with sea-going officers, several novel features were included, principally to enhance sea-keeping capabilities in rough weather and battle-worthiness in night action.  Consideration was given to having a well deck forward of the bridge with an additional pair of torpedo tubes, in the fashion of contemporary German ocean-going torpedo boats, but this arrangement was rejected because it would be detrimental to ship handling in rough weather.  The design had a heavily raked stem and sheer forward, a slight turtleback on the fo'c's'le deck,Brown, The Grand Fleet, p.73. and a rounded bridge front, intended to deflect waves.  Two single 18-inch (450 mm) torpedo tubes were fitted under the bridge on single rotating mounts port and starboard, intended to be fired directly by the commanding officer with toggle ropes during night actions, and the searchlight was relocated aft, mounted on top of the aft torpedo tubes (this to avoid the bridge officers being blinded by its glare during night actions). The single 18-inch torpedo tubes proved to be of little use, and were soon removed in the majority of vessels as a weight-saving measure (only Tara, Tintagel, and Trojan retained theirs).March, op. cit., p.221.
+
+The S class was built in two batches, the first 33 ordered on 9 April 1917 and the second batch of 36 in June 1917, respectively.
+Most were built to the design prepared by the Admiralty ("Admiralty S class"), finalized on 3 July 1917. As was common practice during the First World War, the Admiralty allowed two specialist destroyer builders, Thornycrofts and Yarrows a free hand to develop their own designs based on the current Admiralty designs, which other yards were contracted to build.  Generally, these "specials" had considerably higher speeds; this performance enhancement stemmed largely from the higher quality of workmanship practiced by these specialist builders, rather than due to deficiencies of the Admiralty designs.Brown, op. cit., p. 194. Thus the seven vessels ordered from Yarrow were built to a distinct design ("Yarrow S class"); similarly the five ordered from Thornycroft were the "Thornycroft S class".
+
+===Engineering===
+Most of the Admiralty S class had Brown-Curtis single-reduction geared turbines; seven vessels (Steadfast, Sterling, Stonehenge, Stormcloud, Tilbury, Tintagel, and Strenuous) had Parsons Impulse-Reaction turbines, instead. Three Yarrow boilers (maximum pressure ) were fitted in all except the vessels built by Whites (which had White-Forster boilers).  The highest trial speed or the Admiralty S class was  recorded by Senator (with , 360.1 rpm) at a displacement of 1,019 tons.
+
+===Aircraft===
+Senator conducted trials in June 1918 to test the feasibility of a flying off platform aft, with the intent of launching an aircraft with the ship proceeding full speed astern; however, the amount of spray rendered this proposal unworkable. Later (c. 1927–28) both Stronghold and Thanet were fitted with a cordite catapult for launching aircraft from their fo'c's'le (the forward gun was removed); they were used to test the Larynx, an early experimental type of cruise missile.
+
+Various S-class destroyers were used at different times during the 1920s and 1930s as attendant vessels for aircraft carriers: Searcher in the Mediterranean Fleet and Tyrian, Sesame, Sturdy, and Stronghold in the Home Fleet. Their armament was removed (in order to lighten the ship for maximum speed), and a davit installed on the fo'c's'le for recovery of ditched aircraft.
+
+===Target ship control vessel===
+thumb|Shikari, 1929, showing her configuration as a control ship for radio-controlled targets
+Shikari was completed in 1924 with the special role as a control vessel for the fleet's target ships (initially , replaced by  in 1926).  All armament was removed and a radio transmitter antenna added.  She served in this role until the outbreak of the Second World War, when she was refitted as an operational unit.
+
+===Naming===
+The class, initially referred to as the "Modified Trenchant class", was officially named the "S class" by the Admiralty Board in November 1917 (even though 26 out of 67 vessels had names beginning with T). Some of the R class also had names beginning with S or T, which can be a source of confusion.
+
+Some had rather obscure names:
+Sardonyx is a red onyx gemstone;
+Seabear (incorrectly spelt Sea Bear in some sources) is an archaic term for polar bear;
+Seafire is a term for marine bioluminescence;
+Seawolf is an archaic term for various species of voracious fish (such as the wolffish) or marine mammals (such as the elephant seal or sea lion);
+Sepoy was an infantryman of the Indian army;
+Seraph is a type of angel;
+Serapis was an ancient Graeco-Egyptian god;
+Shikari is an Urdu term for a big game hunter or hunting guide in British India;
+Simoom (incorrectly spelt Simoon in some sources) is a dry desert wind in the Sahara (there was also an R Class destroyer of this name, sunk on 23 January 1917);
+Sirdar in a Persian title of nobility used to denote princes, noblemen, and other aristocrats; it was used as the title for the commander of the Anglo-Egyptian Army;
+Tara was the traditional seat of the High King of Ireland;
+Tryphon (Τρύφων) is a Greek given name, meaning 'gentle' or 'sweet' (famous historical figures bearing the name include a Seleucid Emperor of the second Century BCE, a Greek grammarian in the first century BCE, and a 3rd Century Christian Saint);
+Tyrian is a precious type of purple dye used in regal robes in antiquity.
+
+Sterling was originally ordered with the name Stirling, apparently due to a typing error.
+
+==Ships in the class==
+Abbreviations: BU:broken up for scrap; RAN: Royal Australian Navy; RCN: Royal Canadian Navy; IJN: Imperial Japanese Navy.
+
+===Admiralty S class===
+{| class="wikitable sortable plainrowheaders"
+|+ Admiralty S-classParkes & Pendergast, Jane's Fighting Ships 1919, pp.102–103; p.153.March, op. cit., pp 215–16.Dittmar & Colledge, British Warships 1914–1919, pp. 74–75.Gardiner & Gray, Conway's 1906–1921, pp. 84–85.Friedman, op. cit., p.311.Lenton, British and Empire Warships, p. 137.Bryce, Ships Pennant Numbers.Smith, Royal Navy warship histories of World War 2. 
+|-
+! scope="col" rowspan="2" | Name
+! scope="col" colspan="2" | Pendant
+! scope="col" rowspan="2" | Ordered
+! scope="col" rowspan="2" | Builder
+! scope="col" rowspan="2" | Laid down
+! scope="col" rowspan="2" | Launched
+! scope="col" rowspan="2" | Completed
+! scope="col" rowspan="2" | Fate
+|-
+! scope="col" | WWI
+! scope="col" | >1922
+|-
+! scope="row" | 
+| G.44
+| H.53
+| rowspan=24  | 7 Apr 1917
+| Clydebank
+| 30 May 1917
+| 26 Jan 1918
+| Mar 1918
+| Sold 8 Jan 1931; BU, Metal Ind., Charlestown.
+|-
+! scope="row" | 
+| G.41
+| H.21
+| Clydebank
+| 30 May 1917
+| 27 Feb 1918
+| 13 Apr 1918
+| Sold 1947; BU Ward, Briton Ferry.
+|-
+! scope="row" | 
+| G.30
+| H.52
+| Clydebank
+| 10 Dec 1917
+| 30 Mar 1918
+| 21 May 1918
+| to Ward, 13 Jul 1937; BU Briton Ferry.
+|-
+! scope="row" | 
+| G.35
+| H.51
+| Clydebank
+| 25 Oct 1917
+| 27 Apr 1918
+| 15 Jun 1918
+| Sold 11 Feb 1946; BU Ward, Briton Ferry.
+|-
+! scope="row" | 
+| G.36
+| D.02
+| Denny
+| 10 Jul 1917
+| 2 Apr 1918
+| 7 Jun 1918
+| to Ward, 7 Sep 1936; BU Briton Ferry.
+|-
+! scope="row" | 
+| G.26
+| D.03
+| Denny
+| 6 Aug 1917
+| 22 May 1918
+| 6 Aug 1918
+| Sold 2 Jul 1932; BU Cashmore, Newport.
+|-
+! scope="row" | 
+| G.60
+| D.04
+| Denny
+| 4 Oct 1917
+| 8 Jul 1918
+| 25 Dec 1918
+| Sold May 1934; BU Ward, Pembroke Dock
+|-
+! scope="row" | 
+| F.50
+| H.06
+| Doxford
+| Nov 1917
+| 26 Aug 1918
+| 16 Sep 1919
+| to Ward, 23 Nov 1936; BU Milford Haven.
+|-
+! scope="row" | 
+| –
+| D.85
+| Doxford
+| 15 Jan 1918
+| 14 Jul 1919
+| Apr 1924
+| Sold 13 Sep 1945; BU Cashmore, Newport.
+|-
+! scope="row" | 
+| F.1A
+| H.5A
+| Doxford
+| 1917
+| 29 Jun 1918
+| Apr 1919
+| to RAN, Apr 1919. Sold, 4 Jun 1937; BU.
+|-
+! scope="row" | 
+| H.94
+| D.06
+| Fairfield
+| Aug 1917
+| 7 May 1918
+| 29 Jun 1918
+| Sold 26 Jul 1927; BU Granton S. Bkg. Co.
+|-
+! scope="row" | 
+| G.27
+| D.59
+| Fairfield
+| Aug 1917
+| 6 Jul 1918
+| 6 Sep 1918
+| Sold 4 May 1934; BU Cashmore, Newport.
+|-
+! scope="row" | 
+| G.52
+| D.07
+| Fairfield
+| Nov 1917
+| 10 Sep 1918
+| 4 Nov 1918
+| Sold 25 Aug 1932; BU Ward, Pembroke Dock.
+|-
+! scope="row" | 
+| F.99
+| H.37
+| Palmers
+| Sep 1917
+| 8 Aug 1918
+| Mar 1919
+| Sold 28 Jul 1934; BU Metal Ind., Charlestown.
+|-
+! scope="row" | 
+| F.A3
+| H.31
+| Palmers
+| Oct 1917
+| 8 Oct 1918
+| Mar 1919
+| Sold for breaking up 25 Aug 1932.
+|-
+! scope="row" | 
+| F.73
+| D.14
+| Scott
+| Sep 1917
+| 1 Aug 1918
+| 27 Sep 1918
+| to Ward, 24 Sep 1936; BU Inverkeithing.
+|-
+! scope="row" | 
+| F.3A
+| H.8A
+| Scott
+| 1917
+| 28 Dec 1918
+| Mar 1919
+| to RAN, Apr 1919. Scuttled, 8 Feb 1939.
+|-
+! scope="row" | 
+| G.56
+| H.18
+| Stephen
+| 10 Sep 1917
+| 23 Sep 1918
+| 9 Nov 1918
+| Sold Nov 1945; BU Brunton, Grangemouth.
+|-
+! scope="row" | 
+| F.0A
+| H.54
+| Stephen
+| 10 Sep 1917
+| 17 Feb 1919
+| 11 Apr 1919
+| Sold 29 Jun 1947; BU Rees, Llanelli.
+|-
+! scope="row" | 
+| F.A1
+| D.05
+| Swan Hunter
+| Sep 1917
+| 9 Apr 1918
+| 10 Jul 1918
+| Sold 5 Feb 1931; BU Ward, Inverkeithing.
+|-
+! scope="row" | 
+| G.53
+| D.08
+| Swan Hunter
+| Sep 1917
+| 14 May 1918
+| 4 Sep 1918
+| Sold 5 Feb 1931; BU Ward, Grays.
+|-
+! scope="row" | 
+| G.57
+| D.11
+| Swan Hunter
+| Sep 1917
+| 10 Jul 1918
+| Oct 1918
+| Sold 8 Jan 1931; BU Metal Ind., Charlestown.
+|-
+! scope="row" | 
+| F.9A
+| D.16
+| White
+| 21 Aug 1917
+| 28 Mar 1918
+| 16 Jul 1918
+| Sold 17 Dec 1931, BU Cashmore, Newport.
+|-
+! scope="row" | 
+| G.38
+| D.17
+| White
+| 15 Sep 1917
+| 8 Apr 1918
+| 9 Sep 1918
+| Sold 16 Feb 1932, BU Ward, Inverkeithing.
+|-
+! scope="row" | 
+| G.54
+| H.99
+| rowspan=33 | Jun 1917
+| Beardmore
+| 21 Nov 1917
+| 7 Aug 1918
+| 23 Oct 1918
+| Sold Feb 1931; BU Metal Ind., Charlestown.
+|-
+! scope="row" | 
+| G.62
+| H.92
+| Beardmore
+| 21 Nov 1917
+| 12 Oct 1918
+| 9 Dec 1918
+| Sold 17 Dec 1931; BU Rees, Llanelli.
+|-
+! scope="row" | 
+| G.97
+| H.7A
+| Beardmore
+| 18 Dec 1917
+| 22 Nov 1918
+| 29 Jan 1919
+| to RAN, Apr 1919. Sold 4 Jun 1937; BU.
+|-
+! scope="row" | 
+| F.2A
+| H.6A
+| Beardmore
+| 21 Dec 1917
+| 28 Dec 1918
+| 7 Apr 1919
+| to RAN, Apr 1919. Sold 4 Jun 1937; BU.
+|-
+! scope="row" | 
+| G.32
+| H.22
+| Clydebank
+| 14 Jan 1918
+| 25 May 1918
+| 8 Jul 1918
+| Sold 28 Nov 1931; BU Cashmore.
+|-
+! scope="row" | 
+| G.29
+| H.23
+| Clydebank
+| 13 Dec 1917
+| 6 Jul 1918
+| Sep 1918
+| Sold, 5 Feb 1931; BU Ward, Grays.
+|-
+! scope="row" | 
+| G.68
+| H.19
+| Clydebank
+| 27 Feb 1918
+| 10 Aug 1918
+| Nov 1918
+| to Ward, 14 Sep 1936; BU Inverkeithing.
+|-
+! scope="row" | 
+| G.72
+| H.20
+| Clydebank
+| 30 Mar 1918
+| 11 Sep 1918
+| Nov 1918
+| Sold 25 Mar 1936; BU Ward, Barrow.
+|-
+! scope="row" | 
+| G.47
+| H.07
+| Clydebank
+| 30 Apr 1918
+| 2 Nov 1918
+| Jan 1919
+Guardship Cork Harbour 1923
+| Sold 23 Feb 1931; BU Cashmore.
+|-
+! scope="row" | 
+| F.21
+| D.58
+| Denny
+| 4 Dec 1917
+| 17 Sep 1918
+| 21 Mar 1919
+| Sold 25 Jan 1934; BU Rees, Llanelli.
+|-
+! scope="row" | 
+| F.7A
+| H.25
+| Denny
+| 2 Feb 1918
+| 30 Nov 1918
+| 30 Apr 1919
+| to Ward, 14 Sep 1936; BU Inverkeithing.
+|-
+! scope="row" | 
+| F.5A
+| H.35
+| Denny
+| 13 Mar 1918
+| 30 Dec 1918
+| 28 Mar 1919
+| Sold 4 May 1934; BU Cashmore.
+|-
+! scope="row" | 
+| G.55
+| D.09
+| Fairfield
+| Mar 1918
+| 9 Nov 1918
+| 17 Dec 1918
+| Sold 13 Jul 1926; BU Alloa, Charlestown.
+|-
+! scope="row" | 
+| G.21
+| H.57
+| Fairfield
+| Apr 1918
+| 30 Dec 1918
+| 2 Apr 1919
+| Sold Jul 1936; BU Ward, Inverkeithing.
+|-
+! scope="row" | 
+| F.A4
+| H.04
+| Hawthorn
+| 6 Dec 1917
+| 21 Oct 1918
+| 11 Jun 1919
+| Lost, Colombo, Ceylon, 5 Apr 1942; BU 1944.
+|-
+! scope="row" | 
+| G.24
+| H.29
+| Hawthorn
+| 13 Dec 1917
+| 5 Nov 1918
+| 30 Aug 1919
+| Lost off Endau, Malaya, 27 Jan 1942.
+|-
+! scope="row" | 
+| G.A4
+| D.86
+| Hawthorn
+| 17 Jan 1918
+| 5 Mar 1920
+| 21 Apr 1920
+| IJN, Oct 1942 – Sep 1945; Sold Feb 46; BU.
+|-
+! scope="row" | 
+| F.55
+| H.34
+| Hawthorn
+| 14 Nov 1917
+| 29 May 1919
+| 10 Oct 1919
+| to Ward, 25 Aug 1936; BU Inverkeithing.
+|-
+! scope="row" | 
+| G.99
+| –
+| Palmers
+| Mar 1918
+| 19 Mar 1919
+| Sep 1919
+| Wrecked near Smyrna 6 Nov 1920.
+|-
+! scope="row" | 
+| D.89
+| H.05
+| Palmers
+| May 1918
+| 30 May 1919
+| 28 Jan 1920
+| Sold 28 Jul 1934; BU Metal Ind., Charlestown.
+|-
+! scope="row" | 
+| G.64
+| H.03
+| Scott
+| Mar 1918
+| 9 Nov 1918
+| Jan 1919
+| Sold 25 Aug 1932; BU Alloa, Charlestown.
+|-
+! scope="row" | 
+| F.8A
+| H.50
+| Scott
+| Mar 1918
+| 6 May 1919
+| 2 Jul 1919
+| Lost, south of Java, 4 Mar 1942.
+|-
+! scope="row" | 
+| F.96
+| H.28
+| Scott
+| Apr 1918
+| 26 Jun 1919
+| 15 Oct 1919
+| Wrecked off Tiree, 30 Oct 1940.
+|-
+! scope="row" | 
+| F.34
+| H.26
+| Stephen
+| 25 Mar 1918
+| 27 May 1919
+| 12 Jul 1919
+| Sold 1945; BU Ward, Preston, Sep 1945.
+|-
+! scope="row" | Saturn
+| 
+| 
+| Stephen
+| 
+| 
+| 
+| order cancelled 1919.
+|-
+! scope="row" | Sycamore
+| 
+| 
+| Stephen
+| 
+| 
+| 
+| order cancelled 1919.
+|-
+! scope="row" | 
+| G.48
+| D.12
+| Swan Hunter
+| Feb 1918
+| 19 Sep 1918
+| Dec 1918
+| to Ward, 25 Sep 1936; BU Inverkeithing.
+|-
+! scope="row" | 
+| F.4A
+| H.4A
+| Swan Hunter
+| Apr 1918
+| 23 Oct 1918
+| Apr 1919
+| to RAN, Apr 1919. Scuttled, 22 Jul 1939.
+|-
+! scope="row" | 
+| G.37
+| H.38
+| Swan Hunter
+| Nov 1917
+| 13 Jun 1918
+| 17 Sep 1918
+| Sold Feb 1931; BU Rees, Llanelli.
+|-
+! scope="row" | 
+| G.51
+| H.89
+| Swan Hunter
+| Dec 1917
+| 9 Aug 1918
+| Dec 1918
+| Sold 16 Feb 1932; Castle, Plymouth
+|-
+! scope="row" | 
+| G.66
+| H.44
+| White
+| 3 Jan 1918
+| 20 Jul 1918
+| 6 Dec 1918
+| to Ward, 24 Sep 1936; BU Inverkeithing.
+|-
+! scope="row" | 
+| G.23
+| H.98
+| White
+| 14 Feb 1918
+| 18 Sep 1918
+| 17 Mar 1919
+| Sold 28 Nov 1931; BU Rees, Llanelli.
+|-
+! scope="row" | 
+| F.A2
+| H.56
+| White
+| 11 Apr 1918
+| 6 Nov 1918
+| 9 May 1919
+| to Ward, 25 Sep 1936; BU Inverkeithing.
+|}
+
+===Thornycroft S class===
+{|
+
+|}
+John I. Thornycroft & Company Limited, based at Woolston, Southampton, was a shipbuilding firm specializing in construction of destroyers and other fast vessels. These five vessels were built to Thornycroft's own design, based on a modified version of their R-class destroyer .March, op. cit., p.217. Thornycrofts emphasized improved performance via larger, more powerful machinery.  In order to incorporate larger boilers, the beam was increased by  (with a metacentric height .March, op. cit., p.220) The increased stability allowed a higher mounting for the forward gun, which was placed on a superstructure that acted as a breakwater.
+They had a designed power of ; on trials, Tobago made  with , on a displacement of 979 tons. The first two were ordered in April 1917 and the last three in June 1917. The 18-inch torpedoes under the bridge were fixed athwartship, rather than being rotating mounts as was the case in the Admiralty S-class.Friedman, British Destroyers, p.163.
+
+{| class="wikitable sortable plainrowheaders"
+|-
+|+Thornycroft S-class 
+|-
+! scope="col" rowspan="2" | Name
+! scope="colgroup" colspan="2" | Pendant
+! scope="col" rowspan="2" | Ordered
+! scope="col" rowspan="2" | Builder
+! scope="col" rowspan="2" | Laid down
+! scope="col" rowspan="2" | Launched
+! scope="col" rowspan="2" | Completed
+! scope="col" rowspan="2" |Fate
+|-
+! scope="col" | WWI
+! scope="col" | >1922
+|-
+! scope="row" | 
+| G.36
+| –
+| rowspan=2 | 7 Apr 1917
+| Thornycroft
+| May 1917
+| 1 Jun 1918
+| 14 Aug 1918
+| Sunk in collision, 24 Sep 1922.
+|-
+! scope="row" | 
+| G.61
+| –
+| Thornycroft
+| May 1917
+| 15 Jul 1918
+| 2 Oct 1918
+| Mined 12 Nov 1920; BU 1922
+|-
+! scope="row" | 
+| F.35
+| H.24
+| rowspan=3 | Jun 1917
+| Thornycroft
+| Nov 1917
+| 6 Mar 1919
+| 17 Jul 1919
+| to RCN, Mar 1928 as Champlain. BU 1937.
+|-
+! scope="row" | 
+| F.6A
+| H.55
+| Thornycroft
+| Nov 1917
+| 7 Dec 1918
+| Apr 1919
+|  to RCN, Mar 1928 as Vancouver. BU 1937.
+|-
+! scope="row" | 
+| D.83
+| D.10
+| Thornycroft
+| Jan 1918
+| 12 Apr 1919
+| Dec 1919
+| Sold 28 Nov 1931, BU Ward, Grays.
+|}
+
+===Yarrow S class===
+{|
+
+|}
+
+Yarrow & Company, Limited, based at Scotstoun in the west of Glasgow, were another firm specializing in construction of destroyers and similar vessels. These seven vessels were built to Yarrow's own design, based on a modified version of Ulleswater (Yarrow R class). By reducing the weights of both hull and machinery, Yarrows were able to produce much faster vessels. In order to save weight, they had direct-dive Brown-Curtis turbines rated at only ; however on trials Tyrian made  with  on 786 tons displacement.
+
+Initially five were to be ordered in April 1917, however two more (Torch and Tomahawk) were added, replacing previous orders for two W-class destroyers (Wayfarer and Woodpecker).  This change was made at the request of Sir Alfred Yarrow to streamline production; otherwise, his yard would have had three different designs under construction at the same time.
+
+{| class="wikitable plainrowheaders"
+|+Yarrow S-class
+|-
+! scope="col" rowspan="2" | Name
+! scope="colgroup" colspan="2" | Pennant
+! scope="col" rowspan="2" | Builder
+! scope="col" rowspan="2" | Laid down
+! scope="col" rowspan="2" | Launched
+! scope="col" rowspan="2" | Completed
+! scope="col" rowspan="2" | Fate
+|-
+! scope="col" | WWI
+! scope="col" | >1922
+|-
+! scope="row" |  ()
+| G.33
+| D.15
+| Yarrow
+| Apr 1917
+| 16 Mar 1918
+| 11 May 1918
+| Sold 19 Nov 1929, BU J. J. King, Troon.
+|-
+! scope="row" |  ()
+| G.34
+| D.79
+| Yarrow
+| Apr 1917
+| 11 May 1918
+| 8 Jul 1918
+| BU J. J. King, Troon.
+|-
+! scope="row" | 
+| G.42
+| –
+| Yarrow
+| Apr 1917
+| 22 Jun 1918
+| Sep 1918
+| Stranded, 4 May 1919; Sold 27 Sep 1920, BU.
+|-
+! scope="row" | 
+| G.58
+| D.18
+| Yarrow
+| Jun 1917
+| 17 Sep 1918
+| Dec 1918
+| Sold 3 Oct 1928; BU Alloa, Charlestown.
+|-
+! scope="row" | 
+| G.22
+| H.02
+| Yarrow
+| Jun 1917
+| 9 Nov 1918
+| Mar 1919
+| Sold Jan 1932; BU Alloa, Charlestown.
+|-
+! scope="row" | 
+| F.A5
+| D.80
+| Yarrow
+| Jun 1917
+| 1 Mar 1919
+| 24 Jun 1919
+| Sold 25 Aug 1932; BU Metal Ind., Charlestown.
+|-
+! scope="row" | 
+| D.84
+| H.01
+| Yarrow
+| Jun 1917
+| 2 Jul 1919
+| 23 Dec 1919
+| Sold Feb 1930; BU Metal Ind., Charlestown.
+|}
+
+==Operational service==
+These vessels saw comparatively little action, most being completed in the closing stages or after the end of the First World War, and scrapped before the start of Second World War.
+
+===First World War===
+The first S-class destroyer to be completed, Simoom, joined the Grand Fleet in April 1918. The Commodore(F) commanding the Grand Fleet destroyer flotillas did not approve of the design, largely because of the 18-inch torpedoes, which were considered useless.  The C-in-C, Admiral David Beatty, concurred; he had only consented to the design on the understanding that they would be employed at Harwich or Dover, while the Grand Fleet got W-class ships with six 21-inch torpedo tubes. However, despite his wishes, most of them were allocated to the Grand Fleet on completion.  Senator and Sikh were with the Dover Patrol from June–August 1918, before going to the Mediterranean, where Shark, Tilbury and Tribune followed. At the time of the armistice in November 1918, there were 27 vessels were in commission, allocated as follows
+
+* 5th Destroyer Flotilla (Mudros): Senator, Sikh, Shark, Tilbury, Tribune.
+* 10th Destroyer Flotilla (Harwich Force): Swallow.
+* 12th Destroyer Flotilla (Grand Fleet): Scimitar, Scotsman, Scout, Scythe, Seabear, Sepoy, Simoom, Sirdar, Speedy, Tomahawk, Torch, Trinidad, Tryphon.
+* 14th Destroyer Flotilla (Grand Fleet): Sabre, Seafire, Seraph, Somme, Sparrowhawk, Splendid, Tactician, Tobago (to join: Searcher, Sportive, Tara, Trojan, Tumult).
+
+===Post-war service, 1919–1932===
+The Royal Navy was re-organized in March and April 1919 into three principal fleets: the Atlantic Fleet (comprising the newest battleships and battlecruisers, with supporting cruisers and destroyers in home waters), the Home Fleet (which comprised slightly less modern ships at lower complement; it was renamed the Reserve Fleet on 1 November 1919) and the Mediterranean Fleet; In addition, there were various overseas squadrons for policing the Empire (Africa Station, East Indies Station, China Station and North America and West Indies Station), the Dominion Naval Forces, and commands based at the principal naval bases in the United Kingdom (i.e. Portsmouth, Plymouth, Chatham (The Nore) and Rosyth), which included large numbers of decommissioned vessels held in reserve with skeleton crews. Under this scheme, the destroyer flotillas were completely re-organized, with a standard composition of two leaders and 16 destroyers. The 1st, 2nd and 3rd flotillas (V/W-class destroyers), were in the Atlantic Fleet; The Home Fleet had two flotillas (4th and 5th) of R-class vessels; The 6th Flotilla, comprising S-class destroyers, was sent to the Mediterranean Fleet, while the 7th Flotilla, also of S-class destroyers, formed a ready reserve at Rosyth.
+
+Organization, July 1919:The Admiralty, The Navy List, July 1919
+* 6th Destroyer Flotilla (Mediterranean Fleet, all in full commission): Senator, Seraph, Shark, Sikh, Spear, Speedy, Sportive, Steadfast, Swallow, Tilbury, Tobago, Tomahawk, Torch, Tribune, Tryphon, Tumult.
+* 7th Destroyer Flotilla (Rosyth reserve): in full commission: Scout, Seabear, Seafire, Somme, Sparrowhawk; in reserve: Sabre, Scimitar, Scotsman, Scythe, Searcher, Sepoy, Serapis, Simoom, Sirdar, Splendid, Trinidad.
+* Attached to other flotillas (all in full commission): Tactician, Trojan (both with 3rd DF, Atlantic Fleet); Sterling (temporarily with 4th D.F., Home Fleet).
+* other duties: Seawolf (tender to , Devonport), Strenuous (tender to , Portsmouth), Truant (tender to , Portsmouth).
+* In Reserve: at the Nore: Stalwart, Success, Tara, Tasmania, Tattoo, Tenedos, Tintagel; at Portsmouth: Saladin, Stronghold, Swordsman, Torbay, Toreador, Trusty, Turquoise, Tuscan; at Plymouth: Sardonyx, Serene, Sesame, Spindrift.
+* building: Shamrock, Shikari, Stonehenge, Stormcloud, Sturdy, Thanet, Thracian, Tourmaline, Turbulent, Tyrian.
+
+====Russian Civil War====
+A destroyer division consisting of four of these ships, Seafire, Scotsman, Scout and Seabear (under Commander A. B. Cunningham in Seafire), was part of Admiral Walter Cowan's squadron March–May 1919 during the British campaign in the Baltic (1918–19). Among other duties, they were involved in the Latvian War of Independence, foiling an attempted coup by German troops in the port of Libau.Cunningham, A sailor's odyssey, pp.99–106.
+
+During 1919–20 the S-class destroyers in the Mediterranean participated in the British intervention in southern Russia, giving military aid to the White Russian forces under Generals Denikin and Wrangel. In particular, Tomahawk and Tribune helped defend the Perekop line in January 1920; Sportive look part in the evacuation of White Troops from Odessa in February 1920; Steadfast, Sikh and Seraph were involved in the evacuation of Novorossik in March 1920; and Seraph and Shamrock in the final evacuation from the Crimea in November 1920, while Tourmaline and Tobago patrolled off Novorossisk and Tuapse to intercept any Soviet attempts to interfere (Tobago hit a mine during these operations, and was consequently scrapped).Halpern, The Mediterranean Fleet, 1919–29.
+
+====Irish Civil War====
+After the Irish Free State came into being on 6 December 1922, the Royal Navy retained the right to base ships at three Treaty Ports: Berehaven, Queenstown/Cobh and Lough Swilly.  In order to maintain a naval presence in these ports, Seawolf, Scythe and Sesame were commissioned at reduced complement as independent commands in Irish waters during the 1920s. Scythe had a minor involvement in the Irish Civil War when machine gun fire was directed at her while moored at Spike Island (Queenstown harbour) on 21 March 1924.Rolls-Royce Armoured Cars The S class serving in Irish waters had all been replaced with more modern vessels by 1931.
+
+====Mediterranean, Atlantic Fleet and China====
+In 1921 British destroyer flotillas were re-organized into formations consisting of one leader plus eight destroyers. The S-class destroyers, which formed the Mediterranean Fleet's destroyer force at that time, became the 7th and 8th Flotillas.
+
+Organization, January 1923:The Admiralty, The Navy List, January 1923
+* 7th Destroyer Flotilla (Mediterranean Fleet): leader ; Shark, Sikh, Sepoy, Trinidad, Tribune, Spear, Sparrowhawk, Senator.
+* 8th Destroyer Flotilla (Mediterranean Fleet): leader ; Sidar, Sportive, Splendid, Tourmaline, Seraph, Serapis, Somme, Swallow.
+* Queenstown Command: Seawolf, Tilbury.
+* Royal Australian Navy: Tasmania, Stalwart; in reserve: Success, Swordsman, Tattoo.
+* other duties: Tara (tender to , Devonport), Truant (tender to Victory, Portsmouth).
+* In Reserve: at The Nore: Thracian, Shamrock, Steadfast, Sabre, Tenedos, Thanet, Turbulent, Tintagel; at Portsmouth: Saladin, Turquoise, Tyrian, Stronghold, Sturdy, Trojan, Trusty, Torbay, Toreador; at Plymouth: Sterling, Stormcloud, Strenuous, Scimitar, Scotsman, Scout, Simoom, Scythe, Seabear, Seafire, Searcher, Serene, Sesame, Spindrift, Sardonyx, Tactician; at Malta: Tomahawk, Torch, Tumult, Tuscan.
+* building: Shikari.
+
+thumb|HMS Sepoy serving with the 8th Destroyer Flotilla on the China Station, c. 1930
+The 7th Flotilla returned to Home Waters to become part of the Atlantic Fleet in July 1923; it was re-designed as the 9th Flotilla in 1925 before being reduced to reserve by February 1926. The 8th Flotilla followed in October 1923, remaining in commission (with 40% complements) as part of the Atlantic Fleet until 1927.  The flotilla was then deployed to the China Station during the period of tension precipitated by the threat to British concessions at Shanghai (see Shanghai Defence Force).Watson,  "Royal Navy Organization and Ship Deployment, Inter-War Years 1919–39".
+
+Organization, October 1930:The Admiralty, The Navy List, October 1930
+* 8th Destroyer Flotilla (China Station): leader ; Sepoy, Seraph, Sirdar, Somme, Serapis, Sterling, Stormcloud, Thracian,
+* overseas guard ships: at Gibraltar: Splendid, Tourmaline; in Irish Treaty Ports: Seawolf, Scythe.
+* Royal Canadian Navy: Champlain, Vancouver.
+* other duties: Shikari (Fleet target service), Tara (tender to Vernon, Devonport),Truant (tender to Victory, Portsmouth), Sesame (attached to Home Fleet Aircraft Carriers)
+* In Reserve: at Plymouth: Steadfast, Thanet, Tintagel; at The Nore: Trinidad; at Portsmouth: Tribune, Tilbury, Shamrock; at Rosyth: Tuscan, Senator, Shark, Sparrowhawk, Swallow, Sportive, Strenuous, Scimitar, Scotsman, Simoom, Seabear, Seafire, Searcher, Serene, Spindrift, Sardonyx, Tactician, Sabre, Tenedos, Turbulent, Saladin, Turquoise, Stronghold, Sturdy, Trojan, Trusty, Scout; in Australia: Tasmania, Success, Swordsman, Stalwart, Tattoo.
+
+The S-class destroyers of the 8th Flotilla remained in China until 1931, when they were replaced by V/W-class ships, and came home to pay off. By 1933 only five remained active in British service: Shamrock and Searcher as Gibraltar guard ships, Shikari in the fleet target service, and Stronghold and Sardonyx as tenders at Portsmouth.
+
+===Service in Dominion navies===
+
+Australia
+Five of the Admiralty S class, Stalwart, Success, Swordsman, Tasmania and Tattoo, along with the leader , were presented to the Royal Australian Navy in June 1919. The ships were all commissioned on 27 January 1920 in U.K., and sailed for Australia the following month, arriving in Sydney on 29 April 1920.  They spent much of their careers in reserve or operating close to Sydney; Stalwart visited New Guinea in June–July 1924. and Tattoo made a trip to New Guinea and the Solomon Islands in September 1932. All were sold for scrapping on 4 June 1937 and were broken up at Penguin Ltd., of Balmain; the hulks of Swordsman and Stalwart were scuttled off Sydney in 1939.
+
+Canada
+thumb|Champlain (ex-Torbay), c.1932, showing the raised gun platform forward, characteristic of the Thornycroft S class
+Two of the Thornycroft S class, Torbay and Toreador, were loaned to the Royal Canadian Navy in 1927 and commissioned on 1 March 1928. They were renamed Champlain and Vancouver respectively. Champlain served on the east coast, Vancouver on the west, both mostly being engaged in sea training. They paid off on 25 November 1936 and were scrapped in 1937 in Canada.
+
+===Reserve and disposals, 1926–1938===
+Of 67 vessels completed, four were lost or scrapped as a result of damage on active service during 1919–22; five (Fairfield's Spear and Sikh, and the Yarrow Specials Tomahawk, Tumult and Torch) were scrapped in the late 1920s.
+
+On 31 December 1930 the London Naval Treaty came into force, limiting RN destroyers to a total of 150,000 tons by 31 December 1936. As new construction joined the fleet, the S class, being less capable than the contemporary V/W-class ships (which had only slightly higher displacement), were sold for scrap: 13 in 1931, 9 in 1932, 6 in 1934 and 10 in 1935.  The terms of the London treaty expired at the end of 1936, nevertheless 8 more were scrapped in 1937 (all but one being RCN/RAN vessels) and 1 in 1938. 
+
+Eleven vessels survived to see service during the Second World War, six in European waters, five in the Far East.
+
+===Second World War service, European waters===
+Following the outbreak of war both Shikari (the disarmed remote control vessel for target ships) and Sabre (which had been disarmed as an aircraft bombing target ship) were refitted for active service as escort vessels. Sturdy, which had been refitted as a minelayer, sailed for Hong Kong in 1939 but was retained in the Mediterranean as attendant destroyer to the aircraft carrier , which operated as a training carrier based at Toulon between November 1939 and the French collapse in June 1940, after which she returned to home waters. Sabre was damaged by an accident early in the war and was under repair until spring 1940. At the time of the Dunkirk evacuation in May 1940, Sabre, Scimitar and Shikari were with the 16th Destroyer Flotilla at Harwich and Saladin with the 11th Destroyer Flotilla at Devonport; all participated in the evacuation, carrying over 12,000 troops between them.Tactical and Staff Duties Division, Naval Staff Battle Summary No.41, The Evacuation from Dunkirk (September 1947), p.130. Saladin was severely damaged by air attack on 28 May 1940, while Shikari was the last ship to leave Dunkirk, (at 0340 hrs, 4 June 1940), with enemy troops only  away. thumb|HMS Saladin underway serving as an escort vessel during the Second World War  
+By June 1940 Sabre, Shikari, Sturdy, Scimitar, Saladin and Sardonyx (together with the last R-class destroyer, ) had formed the 22nd Destroyer Flotilla at Portsmouth; they remained there in readiness to repel a German invasion, until the autumn, when they started being allocated as escorts to Atlantic convoys. Sturdy was lost on 30 October 40 while on such duty. In 1941–42 they were refitted as escort vessels: the forward 4-inch gun was retained, but the other guns and torpedo tubes were landed; in their place, two quadruple 0.5-inch anti-aircraft (AA) guns were mounted between the funnels; a single a 12-pounder AA gun replaced the forward bank of tubes, and eight depth charge throwers plus two stern racks were added (40–70 depth charges were carried). Later four single 20 mm AA replaced the 0.5-inch machine guns, and the number of depth charge throwers was reduced to four. Type 291 radar was added. Deep load displacement rose to 1385–1400 tons; Their over-loading caused them to roll terribly in rough North Atlantic weather.March, op. cit., p.223. By January 1941 they were all allocated to Atlantic convoy escort groups based at Derry, and later the 21st Escort Group based in Iceland, 1942–44. Their sole success against German U-boats was on 29 June 1941 when Scimitar was escorting Convoy HX 133 and participated in the destruction of U.651 south of Iceland. As more modern ships reached the fleet in numbers, they transferred to coastal convoy work in Home Waters in late 1943-mid 1944.  Scimitar and Saladin were involved in the Exercise Tiger debacle in April 1944.  Most of them were paid off as training ships or to reserve in late 1944, although Sabre was still active as a coastal escort on VE Day.
+
+===Second World War service, Far East===
+
+Thanet, Thracian, Scout, Tenedos and Stronghold were refitted for service in the Far East as local defense destroyers (Sturdy, Scimitar and Sardonyx were intended to join them in 1939–40, thereby creating a full flotilla). Scout, Tenedos and Stronghold were refitted as minelayers, their torpedo tubes and aft guns were replaced by stowage for 40 mines.Lenton, p.137. Tenedos and Stronghold laid defensive minefields around Singapore and Malaya, 1939–41. 
+
+At the outbreak of war with Japan, on 7 December 1941, Tenedos and Stronghold were at Singapore, while Thanet, Thracian and Scout were at Hong Kong. Scout and Thanet were ordered to Singapore on 8 December 1941, while Thracian remained to take part in the defense of Hong Kong, and was scuttled on 19 December 1941. 
+
+Tenedos formed part of Force Z during the ill-fated sortie 8–10 December 1941 in which  and  were sunk.  Thanet and Stronghold were sunk during the fall of the Malay Barrier, January–March 1942, while Scout and Tenedos were assigned to the ABDA Western Striking Force, and escaped to Ceylon in March 1942 following the Japanese invasion of Java. Tenedos was later sunk by Japanese carrier aircraft at Colombo, 5 April 1942, while Scout remained in service in the Indian Ocean until December 1943; her refit at Bombay was abandoned as uneconomic and she was laid up at Trincomalee in June 1944 as an accommodation hulk; she was returned to UK in December 1945 and scrapped.
+
+thumb|Thracian in Japanese service as IJN Patrol Boat No. 101 in 1942
+Thracian was salved by the Japanese and used as Patrol Vessel No.101 (第101号哨戒艇) (refloated 10 July 1942, in service 25 November 1942); she was assigned to the Yokosuka Naval District as a coastal escort in Japanese waters for most of 1943, before becoming a radar training vessel at Yokosuka in March 1944; she was returned to RN control at Hong Kong in October 1945 and scrapped locally in February 1946.
+
+===Losses WWI===
+* Tryphon was stranded on rocks off Mudros in the Aegean on 4 May 1919, laying on her port side for three weeks until salved by Melita in June 1919;March, op. cit., p.222. she was towed to Malta and declared a total loss; her wreck was sold on 27 September 1920 to Agius Bros of Malta, and scrapped.
+* Stonehenge, newly arrived in the Mediterranean from the Atlantic, was wrecked near Smyrna on 6 November 1920
+* Tobago struck a mine on 12 November 1920 about  northeast of Trebizond in the Black Sea. She sustained serious damage, with a  hole on the port side of her engine room; she was towed by the light cruiser  from Trebizond to Istanbul; after temporary repairs, she was towed to Malta by the battleship , but was found to be beyond economic repair; she was subsequently sold on 9 February 1922 for scrapping at Malta.
+* Speedy was sunk in collision with a tug in the Sea of Marmara on 24 September 1922, during the time of the Chanak Crisis (10 killed).
+
+===Losses WWII===
+
+* Sturdy was wrecked on the rocks at Sandaig on the west coast of Tiree () during a storm on 30 October 1940, while escorting convoy SC.8 (5 lives lost).
+* Thracian was damaged by air attack during the battle of Hong Kong and was scuttled by deliberate grounding on Round Island in Repulse Bay () on 16 December 1941; her crew subsequently took part in the land fighting (17 killed or died of wounds).
+* Thanet was sunk in action by gunfire of Japanese cruiser  and destroyers , , , ,  and  during the night action off Endau, Malaya (), 04:18 hrs, 27 January 1942; 38 killed in action (or executed by the Japanese).
+* Stronghold:  following the Japanese invasion of Java, Stronghold was carrying evacuees en route from Tjilatjap, Java to Australia, when she was intercepted and sunk by the Japanese cruiser , and destroyers  and , 1858 hours 2 March 1942 at position  (c. 300 miles due south of Tulungagung, Java).  About fifty survivors were picked up by the (captured) small Dutch merchant Bintoehan that later transferred them to Maya.; 83 were killed in action, including the commanding officer, Lt.Cdr. Giles Robert Pretor-Pinney. 
+* Tenedos was sunk during the Japanese carrier aircraft attack at Colombo, Ceylon 5 April 1942; she was hit by two direct bomb hits aft, after two near misses (one astern, the other abreast her fore-funnel); 33 were killed in action.Training and Staff Duties Division, The Admiralty (1943), Battle Summary No.15: Naval Operations off Ceylon 29 March to 10 April 1942, TSD 365/43. The wreck was removed in 1944.
+
+==Opinion==
+Admiral Cunningham, the Royal Navy's most famous Admiral of the Second World War, had a high opinion of this class:
+
+
+
+==Notes==
+
+Notes to tables of ships
+
+

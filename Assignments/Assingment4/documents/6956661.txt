@@ -1,0 +1,650 @@
+Title: Group 2 Rugby League
+
+
+Group 2 is a rugby league competition on the north coast of New South Wales Since 1966, run under the auspices of the Country Rugby League. The Group 2 area runs from Grafton in the north to Macksville in the south. Group 2 teams played for many decades before 1966 when some redistribution, amalgamation or control mechanism presumably changed. Teams on the Nambucca River, namely Bowraville, Macksville and Nambucca Heads played in a southern division against Kempsey, Smithtown, Port Macquarie and Wauchope before 1966.
+
+==Teams==
+
+===Clubs in 2022 Group 2 Competitions===
+
+{|class="wikitable sortable"
+|-
+! Clubs || City/Town 
+!Home Ground|| Seniors || Juniors
+|-
+! colspan="5" |Senior Clubs
+|-
+|  Bellingen Dorrigo Magpies || Bellingen/Dorrigo 
+|Bellingen Park|| Yes || Yes
+|-
+|  Coffs Harbour Comets || Coffs Harbour 
+|Geoff King Motors Oval|| Yes || Yes
+|-
+|  Grafton Ghosts || Grafton 
+|Frank McGuren Field|| Yes || Yes
+|-
+|  Macksville Sea Eagles || Macksville 
+|Allan Gillett Oval|| Yes || Yes
+|-
+|  Nambucca Heads Roosters || Nambucca Heads 
+|Coronation Park|| Yes || Yes
+|-
+|  Sawtell Panthers || Coffs Harbour (Sawtell)
+|Rex Hardaker Oval|| Yes || Yes
+|-
+|  South Grafton Rebels || Grafton 
+|McKittrick Park|| Yes || Yes
+|-
+|  Woolgoolga Seahorses || Woolgoolga
+|Woolgoolga Sports Ground|| Yes || Yes
+|-
+|  Orara Valley Axemen || Coffs Harbour (Coramba) 
+|Coramba Sportsground|| Recess 2023 || Yes
+|-
+! colspan="5" |Junior Clubs
+|-
+|  Bowraville Tigers || Bowraville 
+|Bowraville Sports Hub|| No || Yes
+|-
+|  Kempsey Dragons || Kempsey 
+|Verge Street Oval|| No* || Yes
+|-
+|  Smithtown Tigers || Smithtown 
+|Smithtown Oval|| No‡ || Yes
+|}
+*Kempsey Dragons no longer field a senior team, but remain a member of Group 2. Kempsey's modern senior side, the Macleay Valley Mustangs, play in the Group 3 Rugby League Premiership.
+
+‡Smithtown's senior team is Lower Macleay Magpies, in Hastings League.
+
+==== Former Clubs ====
+{| class="wikitable sortable"
+|-
+! Former clubs
+|-
+|  Coffs Harbour Raiders
+|-
+|  Coffs Jetty Park Beach
+|-
+|  Central Kempsey
+|-
+|  Gimbisi Valley Warriors
+|-
+|  Dunghutti Broncos
+|-
+|  Kempsey Kowboys
+|-
+|  Kempsey Dragons
+|-
+|  Macleay Valley Mustangs
+|-
+|  Ngaku Warriors (Kempsey)
+|-
+| Port City Breakers
+|-
+|  Port Macquarie Sharks
+|-
+|  Smithtown
+|}
+
+== First Grade Grand Final Results 1966 – present ==
+{| border="1" style="border-collapse:collapse; font-size:90%;" cellpadding="3" cellspacing="0" width="68%" 
+|- bgcolor="#C1D8FF"
+! rowspan="2" width="10%" |Season
+! colspan="4" rowspan="1" |Grand Final Information
+! rowspan="2" width="23%" |Minor Premiers
+|- bgcolor="#EFEFEF" 
+! rowspan="1" width="23%" |Premiers
+! rowspan="1" width="9%" |Score
+! rowspan="1" width="23%" |Runners-up
+! rowspan="1" width="12%" |Report
+|- align="center" bgcolor="#F5FAFF" 
+|1966
+| align="left" |  Smithtown Tigers
+| 3–2
+| align="left" |  Macksville Sea Eagles
+|
+| align="left" |
+|- align="center" bgcolor="#F5FAFF" 
+|1967
+| align="left" |  Ngaku Warriors (Kempsey)
+| 80–16
+| align="left" |  Smithtown Tigers
+|
+| align="left" |
+|- align="center" bgcolor="#F5FAFF" 
+|1968
+| align="left" |  Smithtown Tigers
+| 7–4
+| align="left" |  Coffs Harbour Comets
+|
+| align="left" |
+|- align="center" bgcolor="#F5FAFF" 
+|1969
+| align="left" |  Nambucca Heads Roosters
+| 10–6
+| align="left" |  Central Kempsey
+|
+| align="left" |
+|- align="center" bgcolor="#F5FAFF" 
+|1970
+| align="left" |   Coffs Harbour Comets
+| –
+| align="left" |  Central Kempsey
+|
+| align="left" |
+|- align="center" bgcolor="#F5FAFF" 
+|1971
+| align="left" |   Coffs Harbour Comets
+| 20–9
+| align="left" |  Nambucca Heads Roosters
+|
+| align="left" |
+|- align="center" bgcolor="#F5FAFF" 
+|1972
+| align="left" |   Nambucca Heads Roosters
+| 15–10
+| align="left" |  Coffs Harbour Comets
+|
+| align="left" |
+|- align="center" bgcolor="#F5FAFF" 
+|1973
+| align="left" |  Coffs Harbour Comets
+| 20–13
+| align="left" |  Nambucca Heads Roosters
+|
+| align="left" |
+|- align="center" bgcolor="#F5FAFF" 
+|1974
+| align="left" |  Coffs Harbour Comets
+| 6–2
+| align="left" |  Bellingen Magpies
+|
+| align="left" |
+|- align="center" bgcolor="#F5FAFF" 
+|1975
+| align="left" |  Nambucca Heads Roosters
+| 19–4
+| align="left" |  Kempsey Dragons
+|
+| align="left" |
+|- align="center" bgcolor="#F5FAFF" 
+|1976
+| align="left" |  Nambucca Heads Roosters
+| 19–2
+| align="left" |  Bellingen Magpies
+|
+| align="left" |
+|- align="center" bgcolor="#F5FAFF" 
+|1977
+| align="left" |  Smithtown Tigers
+| –
+| align="left" |  Nambucca Heads Roosters
+|
+| align="left" |
+|- align="center" bgcolor="#F5FAFF" 
+|1978
+| align="left" |  Sawtell Panthers
+| 14–13
+| align="left" |  Smithtown Tigers
+|
+| align="left" |  Sawtell (Clayton Cup)
+|- align="center" bgcolor="#F5FAFF" 
+|1979
+| align="left" |  Macksville Sea Eagles
+| 24–7
+| align="left" |  Smithtown Tigers
+|
+| align="left" |
+|- align="center" bgcolor="#F5FAFF" 
+|1980
+| align="left" |  Bellingen Magpies
+| 19–10
+| align="left" |  Sawtell Panthers
+|
+| align="left" |
+|- align="center" bgcolor="#F5FAFF" 
+|1981
+| align="left" |  Bellingen Magpies
+| 44–0
+| align="left" |  Macksville Sea Eagles
+|
+| align="left" |  Bellingen Magpies
+|- align="center" bgcolor="#F5FAFF" 
+|1982
+| align="left" |  Bellingen Magpies 
+|21-12
+| align="left" |  Ngaku Warriors (Kempsey)
+|
+| align="left" |  Sawtell Panthers
+|- align="center" bgcolor="#F5FAFF" 
+|1983
+| align="left" |  Coffs Harbour Comets
+| 28–16
+| align="left" |  Woolgoolga Seahorses
+|
+| align="left" |  Coffs Harbour Comets
+|- align="center" bgcolor="#F5FAFF" 
+|1984
+| align="left" |  Bellingen Magpies
+| 4–1
+| align="left" |  Coffs Harbour Comets
+|
+| align="left" |  Bellingen Magpies
+|- align="center" bgcolor="#F5FAFF" 
+|1985
+| align="left" |  Coffs Harbour Comets
+| 18–10
+| align="left" |  Nambucca Heads Roosters
+|
+| align="left" |  Nambucca Heads Roosters
+|- align="center" bgcolor="#F5FAFF" 
+|1986
+| align="left" |  Nambucca Heads Roosters
+| 18–16
+| align="left" |  Kempsey Dragons
+|
+| align="left" |  Kempsey Dragons
+|- align="center" bgcolor="#F5FAFF" 
+|1987
+| align="left" |  Bellingen Magpies
+| 23–6
+| align="left" |  Nambucca Heads Roosters
+|
+| align="left" |  Bellingen Magpies
+|- align="center" bgcolor="#F5FAFF" 
+|1988
+| align="left" |  Bellingen Magpies
+| 50–24
+| align="left" |  Kempsey Dragons
+|
+| align="left" |  Nambucca Heads Roosters
+|- align="center" bgcolor="#F5FAFF" 
+|1989
+| align="left" |  Bellingen Magpies
+| 39–6
+| align="left" |  Coffs Harbour Comets
+|
+| align="left" |  Bellingen Magpies
+|- align="center" bgcolor="#F5FAFF" 
+|1990
+| align="left" |  Bellingen Magpies
+| 22–20
+| align="left" |  Orara Valley Axemen
+|
+| align="left" |  Smithtown Tigers
+|- align="center" bgcolor="#F5FAFF" 
+|1991
+| align="left" |  Macksville Sea Eagles
+| 26–26
+| align="left" |  Coffs Harbour Comets
+|
+| align="left" |  Macksville Sea Eagles
+|- align="center" bgcolor="#F5FAFF" 
+|1992
+| align="left" |  Nambucca Heads Roosters
+| 40–6
+| align="left" |  Woolgoolga Seahorses
+|
+| align="left" |  Nambucca Heads Roosters
+|- align="center" bgcolor="#F5FAFF" 
+|1993
+| align="left" |  Nambucca Heads Roosters
+| 26–10
+| align="left" |  Macksville Sea Eagles
+|
+| align="left" |  Macksville Sea Eagles
+|- align="center" bgcolor="#F5FAFF" 
+|1994
+| align="left" |  Orara Valley Axemen
+| 30–18
+| align="left" |  Nambucca Heads Roosters
+|
+| align="left" |  Macksville Sea Eagles
+|- align="center" bgcolor="#F5FAFF" 
+|1995
+| align="left" |  Macksville Sea Eagles
+| 24–16
+| align="left" |  Coffs Harbour Comets
+|
+| align="left" |  Macksville Sea Eagles
+|- align="center" bgcolor="#F5FAFF" 
+|1996
+| align="left" |  Nambucca Heads Roosters
+| 36–34
+| align="left" |  Orara Valley Axemen
+|
+| align="left" |  Nambucca Heads Roosters
+|- align="center" bgcolor="#F5FAFF" 
+|1997
+| align="left" |  Orara Valley Axemen
+| 40–32
+| align="left" |  Coffs Harbour Comets
+|
+| align="left" |  Coffs Harbour Comets
+|- align="center" bgcolor="#F5FAFF" 
+|1998
+| align="left" |  Port Macquarie Sharks
+| 26–25
+| align="left" |  Nambucca Heads Roosters
+|
+| align="left" |  Nambucca Heads Roosters
+|- align="center" bgcolor="#F5FAFF" 
+|1999
+| align="left" |  Bellingen Magpies
+| 20–18
+| align="left" |  Port Macquarie Sharks
+|
+| align="left" |  Port Macquarie Sharks
+|- align="center" bgcolor="#F5FAFF" 
+|2000
+| align="left" |  Port Macquarie Sharks
+| 24–12
+| align="left" |  Nambucca Heads Roosters
+|
+| align="left" |  Port Macquarie Sharks
+|- align="center" bgcolor="#F5FAFF" 
+|2001
+| align="left" |  Port Macquarie Sharks
+| 54–26
+| align="left" |  Macksville Sea Eagles
+|
+| align="left" |  Port Macquarie Sharks
+|- align="center" bgcolor="#F5FAFF" 
+|2002
+| align="left" |  Macksville Sea Eagles
+| 39–26
+| align="left" |  Port Macquarie Sharks
+|
+| align="left" |  Port Macquarie Sharks
+|- align="center" bgcolor="#F5FAFF" 
+|2003
+| align="left" |  Macksville Sea Eagles
+| 30–23
+| align="left" |  Orara Valley Axemen
+|
+| align="left" |  Port Macquarie Sharks
+|- align="center" bgcolor="#F5FAFF" 
+|2004
+| align="left" |  Macksville Sea Eagles
+| 34–23
+| align="left" |  Port Macquarie Sharks
+|
+| align="left" |  Port Macquarie Sharks
+|- align="center" bgcolor="#F5FAFF" 
+|2005
+| align="left" |  Macksville Sea Eagles
+| 60–22
+| align="left" |  Orara Valley Axemen
+|
+| align="left" |  Orara Valley Axemen
+|- align="center" bgcolor="#F5FAFF" 
+|2006
+| align="left" |  Port Macquarie Sharks
+| 22–18
+| align="left" |  Sawtell Panthers
+|
+| align="left" |  Port Macquarie Sharks
+|- align="center" bgcolor="#F5FAFF" 
+|2007
+| align="left" |  Macksville Sea Eagles
+| 32–24
+| align="left" |  Orara Valley Axemen
+|
+| align="left" |  Macksville Sea Eagles
+|- align="center" bgcolor="#F5FAFF"
+|2008
+| align="left" |  Orara Valley Axemen
+| 19–18
+| align="left" |  Woolgoolga Seahorses
+|CCA
+| align="left" |  Orara Valley Axemen
+|- align="center" bgcolor="#F5FAFF"
+|2009
+| align="left" |   Sawtell Panthers
+| 21–20
+| align="left" |  Macksville Sea Eagles
+|
+| align="left" |  Sawtell Panthers
+|- align="center" bgcolor="#F5FAFF"
+|2010
+| align="left" |  Port Macquarie Sharks
+| 41–16
+| align="left" |  Coffs Harbour Comets
+|
+| align="left" |  Port Macquarie Sharks
+|- align="center" bgcolor="#F5FAFF"
+|2011
+| align="left" |  Sawtell Panthers
+| 29–28
+| align="left" |  Nambucca Heads Roosters
+|CCA
+| align="left" |  Nambucca Heads Roosters
+|- align="center" bgcolor="#F5FAFF"
+|2012
+| align="left" |  Macleay Valley Mustangs
+| 36–12
+| align="left" |  Nambucca Heads Roosters
+|MA, YT
+| align="left" |  Nambucca Heads Roosters
+|- align="center" bgcolor="#F5FAFF"
+|2013
+| align="left" |  Coffs Harbour Comets
+| 42–20
+| align="left" |  Nambucca Heads Roosters
+|CCA
+| align="left" |  Coffs Harbour Comets
+|- align="center" bgcolor="#F5FAFF"
+|2014
+| align="left" |  Grafton Ghosts
+| 18–16
+| align="left" |  Coffs Harbour Comets
+|DE
+| align="left" |  Grafton Ghosts
+|- align="center" bgcolor="#F5FAFF" 
+|2015
+| align="left" |  South Grafton Rebels 
+| 46–18
+| align="left" |  Coffs Harbour Comets
+|DE
+| align="left" |  South Grafton Rebels
+|- align="center" bgcolor="#F5FAFF" 
+|2016
+| align="left" |  South Grafton Rebels 
+|26–12
+| align="left" |  Grafton Ghosts 
+|DE
+| align="left" |  South Grafton Rebels 
+|- align="center" bgcolor="#F5FAFF"
+|2017
+| align="left" |  Grafton Ghosts 
+|32–12
+| align="left" |  South Grafton Rebels 
+|DE
+| align="left" |  Grafton Ghosts 
+|- align="center" bgcolor="#F5FAFF"
+|2018
+| align="left" |  Coffs Harbour Comets
+|30–14
+| align="left" |  Macksville Sea Eagles 
+|CCA, YT
+| align="left" |  Grafton Ghosts
+|- align="center" bgcolor="#F5FAFF"
+|2019
+| align="left" |  Grafton Ghosts 
+|68-6
+| align="left" |  Coffs Harbour Comets
+|
+| align="left" |  Coffs Harbour Comets
+|-
+| colspan="6" align="center"|  2020 & 2021 seasons cancelled due to COVID-19 Pandemic
+|-align="center" bgcolor="#F5FAFF"
+|2022
+|align="left"|  South Grafton Rebels
+|36-8
+|align="left"|  Orara Valley Axemen
+|
+|align="left"|  Orara Valley Axemen
+|}
+
+=== Leader Board ===
+{|class="wikitable sortable" style ="text-align: center"
+|-
+! Club !! Premierships 
+|-
+| style="text-align:left;" |Nambucca Heads Roosters || 16
+|-
+| style="text-align:left;" |Coffs Harbour Comets || 14 
+|-
+| style="text-align:left;" |Bellingen || 11
+|-
+| style="text-align:left;" |Macksville Sea Eagles || 8 
+|-
+| style="text-align:left;" |Orara Valley Axemen || 8 
+|-
+| style="text-align:left;" |Port Macquarie Sharks || 8 
+|- 
+| style="text-align:left;" |Smithtown || 5 
+|-
+| style="text-align:left;" |Sawtell || 3 
+|-
+| style="text-align:left;" |Grafton Ghosts || 3
+|-
+| style="text-align:left;" |South Grafton Rebels || 3
+|-
+| style="text-align:left;" |Ngaku Warriors || 2
+|-
+| style="text-align:left;" |Macleay Valley Mustangs || 1 
+|}
+
+==Players from Group 2 to play NRL==
+{| class="wikitable"
+|- bgcolor=#FFFFFF
+!!width=10%|Player
+!width=20%|Club
+|-
+|Greg Inglis
+|Bowraville Tigers JRL
+|-
+|Albert Kelly
+|Smithtown Tigers JRL
+|-
+|Kevin Gordon
+|Sawtell Panthers JRL
+|-
+|Aiden Tolman
+|Smithtown Tigers JRL
+|-
+|Wayne Bartrim
+|Macleay Valley Mustangs
+|-
+|Matt Donovan
+|Macksville Sea Eagles
+|-
+|Paul Davis
+|Port Macquarie, Macksville and Dunghutti
+|-
+|Clint Greenshields
+|Sawtell Panthers JRL
+|-
+|Troy Robinson
+|Sawtell Panthers JRL
+|-
+|Mitchell Thomson
+|Sawtell Panthers JRL
+|}
+
+=== Notable players ===
+
+==== Bellingen ====
+*Dylan Edwards
+
+==== Coffs Harbour Comets ====
+
+==== Grafton Ghosts ====
+*Danny Wicks
+*Anthony Don
+
+==== Macksville Sea Eagles ====
+*Matt Donovan
+*Paul Davis
+*Nathan Smith
+
+==== Orara Valley Axemen ====
+*Luke Metcalf
+
+==== Sawtell Panthers ====
+*Kevin Gordon
+*Jarrod Wallace
+*Mitchell Thomson
+*Troy Robinson
+*Clint Greenshields
+*Noel Cleal
+*Jason Alchin
+
+==== South Grafton Rebels ====
+*Brian Graham
+*John Ferguson
+*Ron Gill
+*Fred Felsch
+*Paul Pyers
+*Kevin Stevens
+*Eric Lawrence
+
+==== Woolgoolga Seahorses ====
+
+==== Bowraville Tigers ====
+*Greg Inglis
+
+==== Kempsey Dragons ====
+*Amos Roberts
+
+==== Nambucca Heads Roosters ====
+*Ryan Stig
+*Daniel Fitzhenry
+
+==== Smithtown Tigers ====
+*Albert Kelly
+*Aiden Tolman
+
+==See also==
+
+*Rugby League Competitions in Australia
+
+==Sources==
+{| class="wikitable" 
+|- bgcolor=#bdb76b
+! Years !! Acronym !! Item !! AvailableOnline !! Via
+|-
+| 1967-69, 1971-96 
+| align=center |-
+| Country Rugby League Annual Report 
+| align=center |No
+| State Library of NSW
+|- 
+| 2003 to 2014 
+| align=center |RLW
+| Rugby League Week 
+| align=center |Yes
+| eResources at State Library of NSW
+|- 
+| 2008 to 2019 
+| align=center | CCA
+| Coffs Coast Advocate
+| align=center |Yes
+| Coffs Coast Advocate website
+|- 
+| 2010 to 2019 
+| align=center | DE
+| The Daily Examiner
+| align=center |Yes
+| Daily Examiner website
+|- 
+| 2005 to 2019 
+| align=center |-
+| Various Newspaper Websites 
+| align=center |Yes
+| As referenced
+|}
+
+* Group 2 on Country Rugby League's official site
+

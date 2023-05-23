@@ -1,0 +1,107 @@
+Title: Zmanim
+
+
+
+Zmanim (, literally "times", singular zman) are specific times of the day in Jewish law.
+
+*In Jewish law, a calendar day is defined as running from "evening" to "evening."  This is based on the repetition of the phrase "... and there was evening, and there was morning ..."—evening preceding morning—in the account of creation in Genesis., , , , ,  and . 
+*Additionally, Jewish law requires certain activities to be undertaken "during the day"—or at a certain time during the day—while other activities are to be undertaken "at night"—or at a certain time during the night.
+For either purpose, the status of the twilight hours just after sunset or just before sunrise is ambiguous. Judaism provides its own definitions for this period; at the same time, various rabbinic authorities differ on just how those definitions are to be applied for different purposes.
+
+==Calculations==
+
+===General approach===
+The Talmud often states calculations of these zmanim in terms of the time it takes to walk some distance, stated in mils.  Most authorities reckon the time it takes to walk one mil as being 18 minutes, though there are opinions of up to 24 minutes.  Many authorities hold such calculations to be absolute:  if nightfall follows sundown by "the amount of time it takes to walk four mils," for example, that means exactly "72 minutes after sundown" in all places on all dates.  Other authorities, especially those living in higher latitudes, noted that the darkness of the sky 72 minutes after sundown (for example) can vary substantially from place to place, and from date to date.  They therefore hold that "72 minutes after sundown" actually refers to how dark the sky is 72 minutes after sundown in Jerusalem on an equinox.  Then that degree of darkness is reckoned as being true when the sun has fallen a certain number of degrees below the horizon (for example, 7°5′ below the horizon), and that becomes the actual standard used for all places and all dates.
+
+===Evening===
+One calendar day ends, and the next day begins, during the evening. The Talmud states there is an uncertainty as to whether the day ends at sunset or nightfall, so the time in between has a status of doubt. The Talmud in PesachimBabylonian Talmud, Pesachim 94a) states there are four Biblical miles (mil)  between sunset and nightfall. However, the Talmud in Tractate Shabbat states that there are three-quarters of a mil between sunset and nightfall. 
+*The Geonim and the Vilna Gaon (GR"A) say that the second statement is the correct Halachic time, and the first time is when all of the stars are visible, which has almost no Halachic significance. 
+*Rabbeinu Tam and many other Rishonim say that there are two "sunsets," the first of which, actual sunset, is four mil before nightfall, and the second of which is three-quarters of a mil before. 
+According to the first opinion, nightfall is 13½-18 minutes after sundown (or, equivalently, the sun falls 3–4.65° below the horizon).  According to the second opinion, nightfall occurs exactly 72 minutes (or 90 minutes) after sundown (or, equivalently, the sun falls 16.1° or 20° below the horizon).
+
+However, the abovementioned Talmudic law is referring to the appearance or "medium stars".  However, the Shulchan AruchOC 293:2. rules that since we are unsure what stars are medium or big, we must be stringent to wait for the appearance of small stars.  Since this time is not clearly defined, most communities (at least for the end of the Sabbath) wait somewhere in the area 8.5° solar depression.
+
+(See End of Shabbat below.)
+
+===Morning===
+There are two times for beginning of mitzvot during the day:
+*Daybreak, when some light is visible, or
+*Sunrise, when the ball of the sun rises above the horizon.
+
+The MishnahMegillah 2:4 lists a number of daytime mitzvot should be performed after sunrise, but if they are performed after daybreak, one fulfilled his obligation ex post facto.
+
+The Talmud in Pesachim (see above) holds symmetrically that the time between daybreak and sunrise is also the time in which one can walk four mils.  For morning calculations, daybreak is normally held to be when the sun is 16.1° below the horizon, or a fixed 72 minutes or 90 minutesBased on a 22½ minute mil before sunrise.
+
+After daybreak there is a time known as misheyakir, "when one can recognize [another person four cubits away]." This calculation is used as the earliest time to wear tzitzit, and in parallel, tefillin, because this is when the blue thread of the tzitzit can be distinguished from the white threads.  Misheyakir is generally calculated relative to season and place, and because there are no Talmudic or early sources as to when this time occurs, there are a wide range of opinions.  Most calculate it based on when the sun is 10.2-11.5 degrees below the horizon, but there are opinions that make it as late as 6 degrees.
+
+===Seasonal hours===
+
+For almost all halakhic purposes, each day is divided into twelve equal "hours." There are two major opinions: 
+*The Magen Avraham holds that because one may do "daytime" activities between daybreak and nightfall, one calculates the day from daybreak to nightfall, and divides that period into twelve parts.  Usually this time is computed using daybreak as 72 minutes - or more accurately using when the sun is 16.1 degrees below the horizon, as it is in Jerusalem at the equinox 72 minutes before sunrise - before sunrise, and nightfall as 72 minutes after sunset.  However, the common practice in Jerusalem (following the Tucazinsky luach) is to compute it using 20 degrees (90 minutes at the equinox).
+*The Vilna Gaon holds that although "daytime" activities can start as early as daybreak and end as late as nightfall, their proper time lechatchila (ab initio) is from sunrise to sunset, so one calculates the day from sunrise to sunset and divides that period into twelve parts. 
+The result is that "Magen Avraham times" are earlier in the morning than "Vilna Gaon times"; in practice there are communities that follow each of those standards. For times in the afternoon, the Vilna Gaon's times are earlier, and are almost universally followed.
+
+These are called "seasonal" or "variable" hours because they depend on the length of time between sunrise (or daybreak) and sunset (or nightfall), and those vary through the year.  Near New York, for example, a "seasonal hour" based on the Vilna Gaon's calculations lasts around 45 minutes near winter solstice, around 60 minutes near the equinoxes, and around 75 minutes near summer solstice.
+
+==Times==
+
+===Daybreak===
+Daybreak (עֲלוֹת הַשַּׁחַר, Alot Hashachar) refers to when the first rays of light are visible in the morning.But see Bi'ur Halacha 89, replacing daybreak with Ha'ir Pnei Mizrach.
+*If one has not recited the evening Shema by this time, and the omission was not due to negligence, one can still recite it now, up to sunrise, though one may not say Hashkiveinu or Baruch Hashem L'Olam.
+*If one has prayed Shacharit after this time, one has fulfilled his obligation ex post facto. Furthermore, most mitzvot that must be performed during the day (such as the Four Species or Hallel) may be done after this time, at least ex post facto. 
+*One should not put on tallit and tefillin with blessings before misheyakir (משיכיר).  Ex post facto, if one did so after Alot Hashachar, he fulfilled his obligation.
+
+===Sunrise===
+Sunrise (הָנֵץ הַחַמָּה, Hanetz Hachamah) refers to when the ball of the sun rises above the horizon. It is preferable to pray the morning Shema just before this time and begin the Amidah just afterwards, and praying this way is known as vatikin. Most mitzvot that must be performed during the day (such as the Four Species or Hallel) should be done after this time ab initio.
+
+===Sof Zman Kriyat Shema===
+Sof Zman Kriyat Shema (סוֹף זְמַן קְרִיאַת שְׁמַע) means "end of the time to say the [morning] Shema." This is three halachic hours into the day. These hours are variable/seasonal hours and refer to one twelfth of the time between daybreak and nightfall (according to the Magen Avraham) or one twelfth of the time between sunrise and sunset (according to the Vilna Gaon).
+
+===Sof Zman Tefilah===
+Sof Zman Tefilah (סוֹף זְמַן תְּפִלָּה) means "end of the time to say the Shacharit Amidah." This is four halachic hours into the day. The above comments apply here also. However, since the Amidah is only rabbinically required (unlike the Shema which is Scriptually mandated) it is common to rely on the later time, thus only a few calendars publish the earlier time.
+
+===Midday===
+Midday (חֲצוֹת הַיּוֹם, Chatzot Hayom or just Chatzot) means the midpoint between sunrise and sunset, or equivalently between daybreak and sundown. The absolute latest time for the Shacharit Amidah, ex post facto, is this time. On the Shabbat and on holidays, one is supposed to eat before this time (except on Rosh Hashanah). On Tish'a Ba'av one may sit on a chair at this time, and those who fast on Erev Rosh Hashanah usually eat at this time.
+
+===Mincha Gedolah===
+Minchah Gedolah (מִנְחָה גְּדוֹלָה, literally the greater Minchah), one-half variable hour after midday, is the earliest time to recite Minchah, although one should try, if possible, to wait until Minchah Ketanah (literally the smaller Minchah). On Yom Kippur, Shabbat, and Yom Tov, it is preferable to begin Mussaf by this time, because otherwise it is questionable whether they would be required to pray the more frequent prayer (Mincha) first.See Shulchan Aruch OC OC 286:4 and commentaries.
+
+===Mincha Ketanah===
+Minchah Ketanah (מִנְחָה קְטַנָּה, literally the smaller [window of praying] Minchah), two and one-half variable hours before sunset, is the preferable earliest time to recite Minchah.
+
+===Plag Hamincha===
+Plag Hamincha (פְּלַג הַמִּנְחָה, literally half of the Minchah) is the midpoint between Minchah Ketanah and sunset, i.e. one and one-quarter variable hours before sunset. If one prayed Minchah before this time, one may recite Maariv afterwards (at the conclusion of the Sabbath, this may only be done under extenuating circumstances). Otherwise, one must wait until sunset, unless one is praying as a congregation. Furthermore, it is questionable whether an individual may pray maariv after plag hamincha if he doesn't always recite mincha before Plag Hamincha; nevertheless, the Halachic authorities allow one to do so on Friday night.Shulchan Aruch OC 233:1.
+
+===Sunset===
+Sunset (, Shkiyat Hachamah - often referred to simply as //) is the time at which the ball of the sun falls below the horizon. The next day of the Hebrew calendar begins at this point for almost all purposes.
+
+Some sources indicate that if one ate an additional specified quantity of bread, and a meal eaten now includes the new day's additions in the grace after meals, then they are added. For example, these include ReTzei and YaaLeh VeYaVo on Shabbat Erev Rosh Chodesh.
+
+Mitzvot that must be performed during the day may no longer be performed ab initio. Minchah should not be delayed past now. Maariv may be recited now, although many wait until after nightfall.
+
+===Bein Hashemashot===
+Bein Hashemashot (בֵּין הַשְּׁמָשׁוֹת, literally between the suns) is the period between sunset and nightfall, and is considered a time of questionable status. On the Sabbath, festivals, and fast days the stringencies of both the previous and following days apply. For example, if the fast of Tish'a Ba'av immediately follows the Sabbath, the intervening Bein Hashemashot is forbidden in eating, drinking, and working. However, there are occasional leniencies.
+
+===Nightfall===
+Nightfall (צֵאת הַכּוֹֹכָבִים, Tzet Hakochavim) is described in detail above.  After nightfall, it is considered definitely the following day. All restrictions of the previous day go away, and any Mitzvot that must be performed at night (such as the evening Shema, the Seder, or Bedikat Chametz) may be performed.
+
+====End of Shabbat====
+End of Shabbat (מוצאי שבת, Motzei Shabbat) (or equivalently, the end of a festival or fast), is described in the Talmud as a time when "three medium stars are [visible] in the sky."  There is much discussion of what this means, and not to end Shabbat "too" early, it tends to be construed strictly in practice.  There are various observed practices, all of which have support in the halachic literature:
+*Appearance of three medium-sized stars in the sky.
+*Appearance of three small stars, usually computed at 8.5 degrees solar depression.
+*72 or 90 minutes after sundown ("opinion of Rabbeinu Tam"), with some calculating it as  the corresponding 16.1 or 20 degrees. Common practice in Chasidic and other Charedi communities.
+
+===Midnight===
+Midnight (חֲצוֹת הַלַּילָה, Chatzot Halailah or just Chatzot) is the midpoint between nightfall and daybreak, or equivalently between sunset and sunrise. The evening Shema should be recited by now, and the Afikoman on Passover should be eaten by this time. The Talmud in Berachot rules that all "night" mitzvot should be performed by Chatzot, at least ab initio, in case the person would otherwise fall asleep and then fail to perform the mitzvot.  Some rise at this time and recite Tikkun Chatzot, a series of supplications for the rebuilding of the Temple.
+
+===Other zmanim===
+On the Eve of Passover, chametz may not be eaten after four variable hours, and must be burned before five variable hours.
+
+The Mussaf prayer should preferably be recited before seven variable hours, on days it is recited.
+
+==See also==
+*Jewish law in the polar regions
+*Canonical hours
+*Salat times
+*Relative hour (Jewish law)
+

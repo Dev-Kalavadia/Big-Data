@@ -1,0 +1,212 @@
+Title: Dausa Lok Sabha constituency
+
+
+
+Dausa Lok Sabha constituency is one of the 25 Lok Sabha (parliamentary)  constituencies in Rajasthan state in India.
+
+==Assembly segments==
+Presently, Dausa Lok Sabha constituency comprises eight Vidhan Sabha (legislative assembly) segments. These are: 
+{|class="wikitable" width="500px"  
+!width="50px" style="font-size:75%"|Constituency number
+!width="200px"|Name
+!width="100px" style="font-size:75%"|Reserved for (SC/ST/None)
+!width="150px"|District
+|-
+|57
+|Bassi
+|ST
+|Jaipur
+|-
+| 58
+|Chaksu
+|SC
+|Jaipur
+|-
+|64
+|Thanagazi
+|None
+|Alwar
+|-
+|85
+|Bandikui
+|None
+|Dausa
+|-
+|86
+|Mahuwa
+|None
+|Dausa
+|-
+|87
+|Sikrai
+|SC
+|Dausa
+|-
+|88
+|Dausa
+|None
+|Dausa
+|-
+|89
+|Lalsot
+|ST
+|Dausa
+|-
+|}
+
+== Members of Parliament ==
+{|class ="wikitable sortable" 
+|-
+! SI No. 
+! Year 
+! Name 
+! colspan=2|Party 
+|-
+|1.
+|1952
+|Raj Bahadur
+| rowspan="2" bgcolor="#00BFFF" | ||rowspan="2" |Indian National Congress
+|-
+|2.
+|1957
+|G D Somani
+|-
+|3.
+|1962
+|Prithvi Raj
+| rowspan="2" bgcolor="#0000FF" | ||rowspan="2" |Swatantra Party
+|-
+|4.
+|1967
+|Charanjit Rai
+|-
+|5.
+|1969(by poll) 
+| rowspan="2" |Nawal Kishore Sharma
+| rowspan="2" bgcolor="#00BFFF" | ||rowspan="2" |Indian National Congress
+|-
+|6.
+|1971
+|-
+|7.
+|1977
+|Nathu Singh
+|bgcolor=#1E90FF| ||Janata Party
+|-
+|8.
+|1980
+|Nawal Kishore Sharma
+|bgcolor=#00FFFF| ||Indian National Congress (I)
+|-
+|9.
+|1984
+|Rajesh Pilot
+|bgcolor=#00BFFF| ||Indian National Congress
+|-
+|10.
+|1989
+|Nathu Singh
+|bgcolor=#FF9933| ||Bharatiya Janata Party
+|-
+|11.
+|1991
+| rowspan="4" |Rajesh Pilot
+| rowspan="6" bgcolor="#00BFFF" | ||rowspan="6" |Indian National Congress
+|-
+|12.
+|1996
+|-
+|13.
+|1998
+|-
+|14.
+|1999
+|-
+|15.
+|2000 (by election)
+|Rama Pilot
+|-
+|16.
+|2004
+|Sachin Pilot
+|-
+|17.
+|2009
+|Kirodi Lal Meena
+|bgcolor=#DDDDDD| ||Independent
+|-
+|18.
+|2014
+|Harish Chandra Meena
+| rowspan="2" bgcolor="#FF9933" | ||rowspan="2"|Bharatiya Janata Party
+|-
+|19.
+|2019 
+|Jaskaur Meena 
+|-
+|}
+
+==Election results==
+===2019===
+
+
+
+
+
+
+
+
+
+
+===2014===
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+==See also==
+* Dausa district
+* List of Constituencies of the Lok Sabha
+
+==Notes==
+
+
+==External links==
+*Dausa lok sabha  constituency election 2019 result details
+
+
+
+
+
+
+Category:Dausa district
+Category:Lok Sabha constituencies in Rajasthan

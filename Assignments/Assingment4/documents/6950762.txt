@@ -1,0 +1,134 @@
+Title: Chinese motorcycle Grand Prix
+
+
+The Chinese motorcycle Grand Prix was a motorcycling event that was part of the World Motorcycle Racing season, from 2005 until 2008.
+
+The Chinese grand prix was scheduled to run until 2011, but a low amount of spectator attendance, poor promotion and a lack of commercial interest caused the race to be scrapped from the 2009 calendar onwards.
+
+==Official names and sponsors==
+*2005: Taobao.com Grand Prix of China
+*2006: Polini Grand Prix of China
+*2007: Sinopec Great Wall Lubricants Grand Prix of China
+*2008: Pramac Grand Prix of China
+
+==Winners of the Chinese motorcycle Grand Prix==
+
+===Multiple winners (riders)===
+
+{| class="wikitable" style="font-size: 95%;"
+|-
+!rowspan=2| # Wins
+!rowspan=2| Rider
+!colspan=2| Wins
+|-
+! Category
+! Years won
+|-
+!rowspan=5| 2
+|rowspan=2|  Casey Stoner
+| MotoGP
+| 2007
+|-
+| 250 cc
+| 2005
+|-
+|  Valentino Rossi
+| MotoGP
+| 2005, 2008
+|-
+|rowspan=2|  Mika Kallio
+| 250 cc
+| 2008
+|-
+| 125 cc
+| 2006
+|}
+
+===Multiple winners (manufacturers)===
+
+{| class="wikitable" style="font-size: 95%;"
+|-
+!rowspan=2| # Wins
+!rowspan=2| Manufacturer
+!colspan=2| Wins
+|-
+! Category
+! Years won
+|-
+!rowspan=2| 5
+|rowspan=2|  Aprilia
+| 250 cc
+| 2005, 2006, 2007
+|-
+| 125 cc
+| 2005, 2008
+|-
+!rowspan=3| 2
+|  Yamaha
+| MotoGP
+| 2005, 2008
+|-
+|rowspan=2|  KTM
+| 250 cc
+| 2008
+|-
+| 125 cc
+| 2006
+|}
+
+===By year===
+
+{|class="wikitable" style="font-size: 95%;"
+|-
+!rowspan=2| Year
+!rowspan=2| Track 
+!colspan=2| 125 cc
+!colspan=2| 250 cc
+!colspan=2| MotoGP
+!rowspan=2| Report
+|-
+!Rider
+!Manufacturer
+!Rider
+!Manufacturer
+!Rider
+!Manufacturer
+|-
+! 2008
+| rowspan="4" | Shanghai
+|  Andrea Iannone 
+| Aprilia
+|  Mika Kallio 
+| KTM
+|  Valentino Rossi 
+| Yamaha
+| Report
+|-
+! 2007
+|  Lukáš Pešek 
+| Derbi
+|  Jorge Lorenzo 
+| Aprilia
+|  Casey Stoner 
+| Ducati
+| Report
+|-
+! 2006
+|  Mika Kallio 
+| KTM
+|  Hector Barbera 
+| Aprilia
+|  Dani Pedrosa 
+| Honda
+| Report
+|-
+! 2005
+|  Mattia Pasini
+| Aprilia
+|  Casey Stoner 
+| Aprilia
+|  Valentino Rossi
+| Yamaha
+| Report
+|}
+

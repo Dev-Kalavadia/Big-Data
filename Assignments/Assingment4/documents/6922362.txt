@@ -1,0 +1,109 @@
+Title: Fleet Aircraft
+
+Fleet Aircraft was a Canadian manufacturer of aircraft from 1928 to 1957.
+
+In 1928, the board of Consolidated Aircraft decided to drop their light trainer aircraft and sold the rights to Brewster Aircraft. Reuben H. Fleet founded Fleet Aircraft in Fort Erie, Ontario, to acquire the foreign rights to these aircraft. Consolidated bought back Fleet Aircraft as a separate division in 1929 and formed Fleet Aircraft of Canada in 1930. The Fleet name was dropped for the Consolidated business name in 1939. Fleet Aircraft of Canada produced the Fleet Finch for the RCAF,  and later the Fleet Canuck. Fleet developed a prototype light helicopter, which flew successfully, but was not put into production.Page and Cumming 1990 Fleet ended aircraft manufacturing operations in 1957. The company was renamed Fleet Aerospace, and operated as a division of Magellan Aerospace.
+
+The Fleet Aerospace division was closed in 2003, and later re-opened as Fleet Canada.  The new company was not affiliated with Magellan Aerospace, and it has operated independently since.
+
+==Aircraft==
+thumb|Fleet Fawn
+
+{| class="wikitable sortable"
+|-
+! Model 
+! 1st flight
+! No. built
+! Type
+|-
+|Fleet Model 1
+|1928
+|~90
+|Open cockpit two-seat primary trainer
+|-
+|Fleet Model 2
+|
+|203
+|Open cockpit two-seat primary trainer
+|-
+|Fleet Model 3
+|
+|1
+|Open cockpit two-seat primary trainer
+|-
+|Fleet Model 4
+|
+|1
+|Open cockpit two-seat primary trainer
+|-
+|Fleet Model 5
+|
+|1
+|Open cockpit two-seat primary trainer
+|-
+|Fleet Model 6
+|
+|1
+|Open cockpit two-seat primary trainer
+|-
+|Fleet Model 7 Fawn
+|
+|64-71
+|Open cockpit two-seat primary trainer
+|-
+|Fleet Model 10
+|1939
+|
+|Open cockpit two-seat primary trainer
+|-
+|Fleet Model 11
+|
+|
+|Open cockpit two-seat primary trainer
+|-
+|Fleet Model 14
+|
+|
+|Open cockpit two-seat primary trainer
+|-
+|Fleet Model 16 Finch
+|
+|447
+|Open cockpit two-seat primary trainer
+|-
+|Fleet Model 21
+|
+|11
+|Basic export combat aircraft
+|-
+|Fleet Model 50 Freighter
+|1938
+|5
+|Cargo biplane for bush operations
+|-
+|Fleet Model 60 Fort
+|1940
+|101
+|Intermediate trainer/radio trainer
+|-
+|Fleet Model 80 Canuck
+|
+|198-225
+|Light utility aircraft
+|-
+|Fleet Model 81
+|
+|1
+|Light utility aircraft
+|-
+|Fleet D-10
+|
+|1
+|License-built Doman LZ-5
+|-
+|Fleet Cornell
+|1942
+|1,642
+|License-built Fairchild Cornell
+|}
+

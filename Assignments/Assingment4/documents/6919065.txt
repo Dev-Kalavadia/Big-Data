@@ -1,0 +1,57 @@
+Title: List of places in Alaska (J)
+
+This list of cities, towns, unincorporated communities, counties, and other recognized places in the U.S. state of Alaska also includes information on the number and names of counties in which the place lies, and its lower and upper zip code bounds, if applicable.
+
+
+{| class="wikitable"
+!Name of place
+!Number of counties
+!Principal county
+!Lower zip code
+!Upper zip code
+|----
+|Jack Wade
+|1
+|Southeast Fairbanks Census Area
+| 
+| 
+|----
+|Jakolof Bay
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Johnston
+|1
+|Fairbanks North Star Borough
+|99701
+| 
+|----
+|Jonesville
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Juneau
+|1
+|City and Borough of Juneau
+|99801
+| 
+|----
+|Juneau City and Borough School District
+|1
+|City and Borough of Juneau
+| 
+| 
+|----
+|Juneau International Airport
+|1
+|City and Borough of Juneau
+|99801
+| 
+|----
+|}
+
+ J

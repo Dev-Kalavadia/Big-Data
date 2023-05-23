@@ -1,0 +1,1520 @@
+Title: List of Fox television affiliates (table)
+
+The Fox Broadcasting Company operates an American television network made up of 18 owned-and-operated stations and over 227 affiliates. This is a table listing of Fox affiliates, with Fox-owned stations separated from privately-owned affiliates, and arranged by market ranking based on data compiled by Nielsen Media Research. Eventually, there will be links to and articles on each of the stations, describing their local programming, hosts and technical information, such as broadcast frequencies.
+
+The station's advertised channel number follows the call letters. In most cases, this is their PSIP virtual channel number, representing their pre-digital transition over-the-air frequency.
+
+
+
+== Owned-and-operated stations ==
+
+
+Stations are listed alphabetically by state and city of license. Owned-and-operated stations broadcasting on digital subchannels are italicized.
+
+Notes:
+:1) Two boldface asterisks appearing following a station's call letters (**) indicate a station that was an original Fox-owned station from the network's inception in 1986;
+:2) Two boldface plus signs appearing following a stations call letters (++) indicate a station that was owned by New World Communications prior to its acquisition by News Corporation in 1997;
+:3) This list does not include Fox-owned stations affiliated with MyNetworkTV; a list is available under the article Fox Television Stations.
+
+{|class="wikitable sortable"
+! City of license/Market
+! Station
+! ChannelTV (DT)
+! Year of affiliation
+! Owned since
+! Notes
+|-
+| Phoenix
+| KSAZ-TV ++
+| 10 (10)
+| 1995
+| 1997
+|
+|- style="vertical-align: top; text-align: left;"
+| Los Angeles
+| KTTV **
+| 11 (11)
+| 1986
+| 1986
+|
+|- style="vertical-align: top; text-align: left;"
+| Oakland – San Francisco – San Jose
+| KTVU
+| 2 (31)
+| 1986
+| 2014
+|
+|- style="vertical-align: top; text-align: left;"
+| Washington, D.C.
+| WTTG **
+| 5 (36)
+| 1986
+| 1986
+|
+|- style="vertical-align: top; text-align: left;"
+| Ocala – Gainesville, FL
+| WOGX
+| 51 (31)
+| 1991
+| 2002
+| Semi-satellite of WOFL, Orlando, FL
+|- style="vertical-align: top; text-align: left;"
+| Orlando – Daytona Beach – Melbourne
+| WOFL
+|35 (33)
+| 1986
+| 2002
+|
+|- style="vertical-align: top; text-align: left;"
+| Tampa – St. Petersburg – Sarasota
+| WTVT ++
+| 13 (12)
+| 1994
+| 1997
+|
+|- style="vertical-align: top; text-align: left;"
+| Atlanta
+| WAGA-TV ++
+| 5 (27)
+| 1994
+| 1997
+|
+|- style="vertical-align: top; text-align: left;"
+| Chicago
+| WFLD **
+| 32 (31)
+| 1986
+| 1986
+|
+|- style="vertical-align: top; text-align: left;"
+| Detroit
+| WJBK ++
+| 2 (7)
+| 1994
+| 1997
+|
+|- style="vertical-align: top; text-align: left;"
+| Minneapolis – Saint Paul
+| KMSP-TV
+| 9 (9)
+| 2002
+| 2001
+| previously with Fox from 1986–1988
+|- style="vertical-align: top; text-align: left;"
+| Bemidji
+| KFTC
+| 26 (26)
+| 1999
+| 2002
+| Satellite of KMSP-TV and WFTC, Minneapolis-Saint Paul, MN
+|- style="vertical-align: top; text-align: left;"
+| New York City
+| WNYW **
+| 5 (27)
+| 1986
+| 1986
+|
+|- style="vertical-align: top; text-align: left;"
+| Philadelphia
+| WTXF-TV
+| 29 (31)
+| 1986
+| 1995
+|
+|- style="vertical-align: top; text-align: left;"
+| Austin, Texas
+| KTBC ++
+| 7 (7)
+| 1994
+| 1997
+|
+|- style="vertical-align: top; text-align: left;"
+| Dallas – Fort Worth
+| KDFW ++
+| 4 (35)
+| 1995
+| 1997
+|
+|- style="vertical-align: top; text-align: left;"
+| Houston
+| KRIV **
+| 26 (26)
+| 1986
+| 1986
+|
+|- style="vertical-align: top; text-align: left;"
+| Tacoma – Seattle
+| KCPQ
+| 13 (13)
+| 1986
+| 2020
+|
+|- style="vertical-align: top; text-align: left;"
+| Milwaukee
+| WITI ++
+| 6 (31)
+| 1994
+| 2020
+| Also owned by Fox from 1997–2008
+|- style="vertical-align: top; text-align: left;"
+|}
+
+==Affiliate stations==
+{|class="wikitable sortable"
+! City of license/Market
+! Station
+! ChannelTV (DT)
+! Year of affiliation
+! Ownership
+! Notes
+|- style="vertical-align: top; text-align: left;"
+| Boston
+| WFXT
+| 25 (34)
+| 1986
+| Cox Media Group
+| Owned by Fox from 1987–1990 and 1995–2014
+|- style="vertical-align: top; text-align: left;"
+| Miami – Fort Lauderdale
+| WSVN
+| 7 (9)
+| 1989
+| Sunbeam Television
+|
+|- style="vertical-align: top; text-align: left;"
+| rowspan="2" | Denver || KDVR || 31 (36) || 1986 || rowspan="2" | Nexstar Media Group || rowspan="2" | Owned by Fox from 1995–2008KFCT is a satellite of KDVR
+|-
+| KFCT || 22 (21) || 1994
+
+|- style="vertical-align: top; text-align: left;"
+| Cleveland – Akron
+| WJW-TV ++
+| 8 (8)
+| 1994
+| Nexstar Media Group
+| Owned by Fox from 1997–2008
+|- style="vertical-align: top; text-align: left;"
+| Sacramento – Stockton – Modesto
+| KTXL
+| 40 (22)
+| 1986
+| Nexstar Media Group
+| Oldest continuous Fox affiliate among non-owned-and-operated stations
+|- style="vertical-align: top; text-align: left;"
+| St. Louis
+| KTVI ++
+| 2 (33)
+| 1995
+| Nexstar Media Group
+| Owned by Fox from 1997–2008
+|- style="vertical-align: top; text-align: left;"
+| Belmont – Charlotte
+| WJZYOn July 1, 2013, WJZY replaced charter Fox affiliate WCCB (channel 18); WCCB subsequently replaced WJZY as the CW affiliate for the Charlotte market. ; 
+| 46 (25)
+| 2013
+| Nexstar Media Group
+| Owned by Fox from 2013–2020
+|- style="vertical-align: top; text-align: left;"
+| Portland, Oregon
+| KPTV
+| 12 (12)
+| 2002
+| Gray Television
+| Previously with Fox from 1986–88Owned by Fox from 2001–02
+|- style="vertical-align: top; text-align: left;"
+| Pittsburgh
+| WPGH-TV
+| 53 (20)
+| 1986
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Raleigh – Durham – Fayetteville
+| WRAZ
+| 50 (15)
+| 1998
+| Capitol Broadcasting
+|
+|- style="vertical-align: top; text-align: left;"
+| Indianapolis
+| WXIN
+| 59 (22)
+| 1986
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Baltimore
+| WBFF
+| 45 (26)
+| 1986
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| San Diego
+| KSWB-TV
+| 69 (26)
+| 2008
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Nashville
+| WZTV
+| 17 (20)
+| 1990
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Hartford – New Haven, CT
+| WTIC-TV
+| 61 (34)
+| 1986
+| Tegna
+|
+|- style="vertical-align: top; text-align: left;"
+| Kansas City, Missouri
+| WDAF-TV ++
+| 4 (34)
+| 1994
+| Nexstar Media Group
+| Owned by Fox from 1997–2008
+|- style="vertical-align: top; text-align: left;"
+| Columbus, Ohio
+| WSYX
+| 6.3 (28)
+| 2021
+| Sinclair Broadcast Group
+| Primary channel is affiliated with ABCBrands itself as "Fox 28"Successor to WTTE, which had been with Fox since 1986
+|- style="vertical-align: top; text-align: left;"
+| Salt Lake City
+| KSTU
+| 13 (28)
+| 1986
+| E. W. Scripps Company
+| Owned by Fox from 1990–2008
+|- style="vertical-align: top; text-align: left;"
+| Cincinnati
+| WXIX-TV
+| 19 (15)
+| 1986
+| Gray Television
+|
+|- style="vertical-align: top; text-align: left;"
+| San Antonio
+| KABB
+| 29 (30)
+| 1995
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Greenville – Spartanburg – Asheville
+| WHNS
+| 21 (17)
+| 1988
+| Gray Television
+|
+|- style="vertical-align: top: text-align: left;"
+| West Palm Beach
+| WFLX
+| 29 (35)
+| 1986
+| Gray Television(Operated through SSA by E. W. Scripps Company)
+|
+|- style="vertical-align: top; text-align: left;"
+| Birmingham – Tuscaloosa, AL
+| WBRC
+| 6 (29)
+| 1996
+| Gray Television
+| Owned by Fox from 1995–2008
+|- style="vertical-align: top; text-align: left;"
+| Las Vegas
+| KVVU-TV
+| 5 (9)
+| 1986
+| Gray Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Harrisburg – Lancaster -York – Lebanon
+| WPMT
+| 43 (36)
+| 1986
+| Tegna
+|
+|- style="veritical-align: top; text-align: left;"
+| Grand Rapids – Kalamazoo -Battle Creek, MI
+| WXMI
+| 17 (19)
+| 1986
+| E. W. Scripps Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Portsmouth – Norfolk – Newport News
+| WVBT
+| 43 (21)
+| 1998
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Oklahoma City
+| KOKH-TV
+| 25 (24)
+| 1990
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Albuquerque – Santa Fe
+| KRQE-DT2
+| 13.2
+| 2017
+| Nexstar Media Group
+| Primary channel is affiliated with CBS
+|- style="vertical-align: top; text-align: left;"
+| Greensboro – High Point – Winston-Salem
+| WGHP
+| 8 (31)
+| 1995
+| Nexstar Media Group
+| Owned by Fox from 1995–2008
+|- style="vertical-align: top; text-align: left;"
+| Louisville
+| WDRB-TV
+| 41 (32)
+| 1987
+| Block Communications
+|
+|- style="vertical-align: top; text-align: left;"
+| Jacksonville
+| WFOX-TV
+| 30 (14)
+| 1986
+| Cox Media Group
+|
+|- style="vertical-align: top: text-align: left;"
+| Buffalo
+| WUTV
+| 29 (32)
+| 1990
+| Sinclair Broadcast Group
+| Previously with Fox from 1986–89
+|- style="vertical-align: top; text-align: left;"
+| Memphis
+| WHBQ-TV
+| 13 (13)
+| 1995
+| Imagicomm Communications
+| Owned by Fox from 1995–2014
+|- style="vertical-align: top; text-align: left;"
+| New Orleans 
+| WVUE-DT
+| 8 (29)
+| 1996
+| Gray Television
+|
+|- style="vertical-align: top; text-align: left;"
+|  Providence – New Bedford
+| WNAC-TV
+| 64 (12)
+| 1986
+| Super Towers(Operated by Nexstar Media Group)
+|
+|- style="vertical-align: top; text-align: left;"
+| Scranton – Wilkes-Barre, PA
+| WOLF-TV
+| 56 (22)
+| 1986
+| New Age Media(Operated by Sinclair Broadcast Group)
+|
+|- style="vertical-align: top; text-align: left;"
+| Fresno, California
+| KMPH-TV
+|  26 (28)
+| 1988
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Little Rock
+| KLRT-TV
+| 16 (30)
+| 1990
+| Mission Broadcasting(Operated by Nexstar Media Group)
+|
+|- style="vertical-align: top; text-align: left;"
+| Richmond
+| WRLH-TV
+| 35 (24)
+| 1986
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Albany – Schenectady – Troy, N.Y.
+| WXXA-TV
+| 23 (8)
+| 1986
+| Mission Broadcasting(Operated by Nexstar Media Group)
+|
+|- style="vertical-align: top; text-align: left;"
+| Tulsa
+| KOKI-TV
+| 23 (22)
+| 1986
+| Imagicomm Communications
+|
+|- style="vertical-align: top; text-align: left;"
+| Mobile, AL – Pensacola, FL
+| WALA-TV
+| 10 (9)
+| 1996
+| Gray Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Knoxville
+| WTNZ
+| 43 (15)
+| 1986
+| Lockwood Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Fort Myers, Florida
+| WFTX-TV
+| 36 (34)
+| 1986
+| E. W. Scripps Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Dayton, Ohio
+| WKEF-DT2
+| 22.2 (34)
+| 2021
+| Sinclair Broadcast Group
+| Primary channel is affiliated with ABCBrands itself as "Fox 45"Successor to WRGT, which had been with Fox since 1986
+|- style="vertical-align: top; text-align: left;"
+| Lexington, Kentucky
+| WDKY-TV
+| 56 (19)
+| 1986
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Charleston – Huntington, W.V.
+| WCHS-DT2
+| 8.2 (29)
+| 2021
+| Sinclair Broadcast Group
+| Primary channel is affiliated with ABCBrands itself as "Fox 11"Successor to WVAH-TV, which had been with Fox since 1986
+|- style="vertical-align: top; text-align: left;"
+| rowspan="2" | Roanoke – Lynchburg, VA || WFXR || 27 (36) || 1992 || rowspan="2" | Nexstar Media Group || rowspan="2" | WWCW-DT2 is a satellite of WFXR
+|-
+| WWCW-DT2 || 21.2 (21.2) || 1986
+|- style="vertical-align: top; text-align: left;"
+| rowspan="3" | Wichita, Kansas || KSAS-TV || 24 (26) || 1986 || rowspan="3" | Sinclair Broadcast Group || rowspan="3" | KAAS and KOCW are satellites of KSAS-TV
+|-
+| KAAS-TV || 17 (17) || 1988
+|-
+| KOCW || 14 (14) || 2000
+|- style="vertical-align: top; text-align: left;"
+| Flint – Saginaw – Bay City, MI
+| WSMH
+| 66 (16)
+| 1986
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Green Bay
+| WLUK-TV
+| 11 (18)
+| 1995
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Tucson, Arizona
+| KMSB
+| 11 (25)
+| 1986
+| Tegna(Operated by Gray Television)
+|
+|- style="vertical-align: top; text-align: left;"
+| rowspan="3" | Honolulu || KHON-TV || 2 (8) || rowspan="3" | 1996 || rowspan="3" | Nexstar Media Group || rowspan="3" | KAII and KHAW are satellites of KHON
+|-
+| KAII-TV || 7 (21)
+|-
+| KHAW-TV || 11 (36)
+|- style="vertical-align: top; text-align: left;"|
+| Des Moines
+| KDSM-TV
+| 17 (16)
+| 1986
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Spokane, Washington
+| KAYU-TV
+| 28 (28)
+| 1986
+| Imagicomm Communications
+|
+|- style="vertical-align: top; text-align: left;"
+| Toledo, Ohio
+| WUPW
+| 36 (26)
+| 1986
+| American Spirit Media(Operated through SSA by Tegna)
+|
+|- style="vertical-align: top; text-align: left;"
+| Springfield, Missouri
+| KRBK KRBK replaced KSFX-TV as Springfield's Fox affiliate, effective Sept. 1, 2011; KSFX reverted into an independent station and changed its call letters to KOZL-TV. (, )
+| 49 (22)
+| 2011
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Omaha
+| KPTM
+| 42 (26)
+| 1988
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Columbia, South Carolina
+| WACH
+| 57 (22)
+| 1988
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Portland, Maine
+| WPFO
+| 23 (17)
+| 2003
+| Cunningham Broadcasting(Operated by Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Rochester, New York
+| WUHF
+| 31 (28)
+| 1986
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Huntsville, Alabama
+| WZDX
+| 54 (18)
+| 1990
+| Tegna
+|
+|- style="vertical-align: top; text-align: left;"
+| Paducah, KY – Cape Girardeau, MO – Harrisburg, IL
+| KBSI
+| 23 (36)
+| 1986
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| rowspan="2" | Champaign – Urbana – Springfield, IL || WRSP-TV || 55 (16) || rowspan="2" | 1986 || rowspan="2" | GOCOM Media of Illinois, L.L.C.(Operated by Sinclair Broadcast Group) || rowspan="2" | WCCU is a semi-satellite of WRSP-TV
+|-
+| WCCU || 27 (36)
+|- style="vertical-align: top; text-align: left;"
+| Shreveport-Texarkana
+| KMSS-TV
+| 33 (34)
+| 1986
+| Mission Broadcasting(Operated by Nexstar Media Group)
+|
+|- style="vertical-align: top; text-align: left;"
+| Syracuse, New York
+| WSYT-TV
+| 68 (19)
+| 1986
+| Imagicomm Communications
+|
+|- style="vertical-align: top; text-align: left;"
+| Madison, Wisconsin
+| WMSN-TV
+| 47 (18)
+| 1986
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Chattanooga
+| WTVC-DT2
+| 9.2
+| 2015
+| Sinclair Broadcast Group
+| Primary channel is affiliated with ABCSuccessor to WDSI-TV, which had been with Fox since 1986
+|- style="vertical-align: top; text-align: left;"
+| rowspan="3" | Harlingen – Weslaco -Brownsville – McAllen, TX || KFXV || 60 (16) || 2020 || rowspan="3" | Entravision || rowspan="3" | KMBH-LD and KXFX-CD are satellites of KFXV
+|-
+| KMBH-LD || 67 (20) || rowspan="2" | 2012
+|-
+| KXFX-CD || 20 (20)
+|- style="vertical-align: top; text-align: left;"
+| rowspan="2" | Waco – Temple – Bryan, TX || KWKT-TV || 44 (28) || rowspan="2" | 1986 || rowspan="2" | Nexstar Media Group || rowspan="2" |
+|-
+| KYLE-DT2 || 28.2 (29.2)
+|- style="vertical-align: top; text-align: left;"
+| Cedar Rapids – Waterloo -Iowa City – Dubuque, IA
+| KFXA
+| 28 (27)
+| 1988
+| Second Generation of Iowa(Controlled by Sinclair Broadcast Group)
+|
+|- style="vertical-align: top; text-align: left;"
+| Colorado Springs – Pueblo, CO
+| KXRM-TV
+| 21 (22)
+| 1986
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| El Paso, TX-Las Cruces, NM
+| KFOX-TV
+| 14 (15)
+| 1986
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Savannah, Georgia
+| WTGS
+| 28 (26)
+| 1986
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Jackson, Mississippi
+| WDBD
+| 40 (14)
+| 2006
+| American Spirit Media(Operated through SSA by Gray Television)
+| Previously with Fox from 1988–2001
+|- style="vertical-align: top; text-align: left;"
+| Baton Rouge, Louisiana
+| WGMB-TV
+| 44 (24)
+| 1991
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Burlington, VT – Plattsburgh, N.Y.
+| WFFF-TV
+| 44 (16)
+| 1997
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Tri-Cities, TN-VA
+| WEMT
+| 39 (28)
+| 1987
+| Cunningham Broadcasting(Operated by Sinclair Broadcast Group)
+|
+|- style="vertical-align: top; text-align: left;"
+| South Bend, Indiana
+| WSBT-DT2
+| 22.2
+| 2016
+| Sinclair Broadcast Group
+| Primary channel is affiliated with CBSSuccessor to WSJV, which had been with Fox since 1995
+|- style="vertical-align: top; text-align: left;"
+| Charleston, South Carolina
+| WTAT-TV
+| 24 (17)
+| 1986
+| Cunningham Broadcasting(Operated by Sinclair Broadcast Group)
+|
+|- style="verical-align: top; text-align: left;"
+| Greenville – New Bern – Washington, N.C.
+| WYDO
+| 14 (19)
+| 1992
+| Cunningham Broadcasting(Operated by Sinclair Broadcast Group)
+|
+|- style="vertical-align: top; text-align: left;"
+| Quad Cities, Illinois-Iowa
+| KLJB
+| 18 (30)
+| 1990
+| Mission Broadcasting(Operated by Nexstar Media Group)
+| Previously with Fox from 1986–88
+|- style="vertical-align: top; text-align: left;"
+| Fort Smith, Arkansas
+| KFTA-TV
+| 24 (28)
+| 2006
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Altoona – Johnstown, PA
+| WWCP-TV
+| 8 (8)
+| 1986
+| Horseshoe Curve Communications
+|
+|- style="vertical-align: top; text-align: left;"
+| Florence – Myrtle Beach, S.C.
+| WFXB
+| 43 (36)
+| 1997
+| Bahakel Communications
+|
+|- style="vertical-align: top; text-align: left;"
+| Evansville, Indiana
+| WEVV-DT2WEVV's second digital subchannel replaced WTVW (channel 7) as the Evansville market's Fox affiliate on July 1, 2011; WTVW is now a CW affiliate. ()
+| 44.2
+| 2011
+| Allen Media Broadcasting
+| Primary channel is affiliated with CBSPreviously with Fox from 1986–1995
+|- style="vertical-align: top; text-align: left;"
+| Lincoln – Hastings – Kearney, NE
+| KFXL-TV
+| 51 (15)
+| 2009
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Tallahassee, FL-Thomasville, GA
+| WTWC-DT2
+| 40.2
+| 2014
+| Sinclair Broadcast Group
+| Primary channel is affiliated with NBCBrands itself as "Fox 49"Successor to WTLH, which had been with Fox since 1989
+|- style="vertical-align: top; text-align: left;"
+| Tyler – Longview, TX
+| KFXK-TV
+| 51 (20)
+| 1991
+| White Knight Broadcasting(Operated by Nexstar Media Group)
+|
+|- style="vertical-align: top; text-align: left;"|
+| Reno, Nevada
+| KRXI-TV
+| 11 (23)
+| 1995
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Fort Wayne, Indiana
+| WFFT-TV
+| 55 (20)
+| 2013
+| Allen Media Broadcasting
+| Previously with Fox from 1986–2011WISE's second digital subchannel replaced WFFT-TV (channel 55) as the Fort Wayne market's Fox affiliate from Aug. 1, 2011 until Feb. 28, 2013. ()
+|- style="vertical-align: top; text-align: left;"
+| rowspan="2" | Youngstown, Ohio || WYFX-LD || 62 (32) || rowspan="2" | 1998 || rowspan="2" | Nexstar Media Group || rowspan="2" |
+|-
+| WKBN-DT2 || 27.2
+|- style="vertical-align: top; text-align: left;"
+| Augusta, Georgia
+| WFXG
+| 54 (36)
+| 1990
+| Lockwood Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Boise, Idaho
+| KNIN-TVKNIN replaced KTRV-TV as the Boise market's Fox affiliate on September 1, 2011; KTRV later became an independent station, but is now an MyNetworkTV affiliate as of February 2012. (, , )
+| 9 (10)
+| 2011
+| Gray Television(Operated through SSA by The E. W. Scripps Company)
+|
+|- style="vertical-align: top; text-align: left;"
+| rowspan="2" | Sioux Falls, South Dakota || KDLT-TV || 46.2 || rowspan="2" | 2020 || rowspan="2" | Gray Television || rowspan="2" | Primary channels are affiliated with NBCKDLV-TV is a satellite of KDLT-TVSuccessors to KTTW/KTTM, which had been with Fox since 1987/1992
+|-
+| KDLV-TV || 5.2
+|- style="vertical-align: top; text-align: left;"
+| Springfield – Holyoke, MA
+| WGGB-DT2
+| 40.2
+| 2008
+| Gray Television
+| Primary channel is affiliated with ABC
+|- style="vertical-align: top; text-align: left;"
+| Lansing, Michigan
+| WSYM-TV
+| 47 (28)
+| 1990
+| E. W. Scripps Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Peoria – Bloomington, IL
+| WYZZ-TV
+| 43 (28)
+| 1986
+| Cunningham Broadcasting(Operated by Nexstar Media Group)
+|
+|- style="vertical-align: top; text-align: left;"
+| rowspan="4" | Fargo, North Dakota || KVRR || 15 (19) || rowspan="4" | 1986 || rowspan="4" | Red River Broadcasting ||  rowspan="4" | KBRR, KJRR and KNRR are satellites of KVRR
+|-
+| KBRR || 10 (10)
+|-
+| KJRR || 7 (7)
+|-
+| KNRR || 12 (12)
+|- style="vertical-align: top; text-align: left;"
+| Macon, Georgia
+| WGXA
+| 24 (26)
+| 1996
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Montgomery – Selma, AL
+| WCOV-TV
+| 20 (22)
+| 1986
+| Woods Communications Corporation
+|
+|- style="vertical-align: top; text-align: left;"
+| Moorefield, West Virginia
+| W46BR-D
+| 50
+|
+| Valley Television Cooperative, Inc.
+| Satellite of WTTG-TV
+|- style="vertical-align: top; text-align: left;"
+| rowspan="2" | Cadillac – Traverse City -Sault Ste. Marie, MI || WFQX-TV || 32 (32) || 1990 || rowspan="2" | Cadillac Telecasting || rowspan="2" | WFUP is a satellite of WFQXOperated by Heritage Broadcasting Group
+|-
+| WFUP-TV || 45 (21) || 1993
+|- style="vertical-align: top; text-align: left;"
+| Eugene, Oregon
+| KLSR-TV
+| 34 (31)
+| 1988
+| California Oregon Broadcasting, Inc.
+|
+|- style="vertical-align: top; text-align: left;"
+| rowspan="2" | Santa Barbara – Santa Maria -San Luis Obispo, CA || KKFX-CD || 24 (24) || rowspan="2" | 1998 || rowspan="2" | News-Press & Gazette Company || rowspan="2" |
+|-
+| KCOY-DT2 || 19.2
+|- style="vertical-align: top; text-align: left;"
+| Pendleton, OR
+|KFFX-TV
+| 11 (11)
+| 1999
+| Imagicomm Communications
+|
+|- style="vertical-align: top; text-align: left;"
+| Yakima, WA
+|KCYU-LD
+| 41 (29)
+| 1993
+| Imagicomm Communications
+|
+|- style="vertical-align: top; text-align: left;"
+| Richland – Kennewick, WA
+|KBWU-LD
+| 11 (36)
+| 1989
+| Imagicomm Communications
+|
+|- style="vertical-align: top; text-align: left;"
+| Lafayette, Louisiana
+| KADN-TV
+| 15 (16)
+| 1986
+| Allen Media Broadcasting
+|
+|- style="vertical-align: top; text-align: left;"
+| Monterey – Salinas – Santa Cruz, CA
+| KION-DT2
+| 46.2 (32)
+| 2022
+| News-Press & Gazette Company
+| Primary channel is affiliated with CBSBrands itself as "Fox 35"Successor to KCBA, which had been with Fox since 1986
+|- style="vertical-align: top; text-align: left;"
+| rowspan="2" | Bakersfield, California || KBFX-CD || 58 (29) || rowspan="2" | 1995 || rowspan="2" | Sinclair Broadcast Group || rowspan="2" |
+|-
+| KBAK-DT2 || 33.2
+|-style="vertical-align: top; text-align: left;"
+| Columbus, Georgia
+| WXTX
+| 54 (24)
+| 1986
+| American Spirit Media(Operated by Gray Television)
+|
+|- style="vertical-align: top; text-align: left;"
+| rowspan="2" | La Crosse – Eau Claire, WI || WLAX || 25 (33) || 1986 || rowspan="2" | Nexstar Media Group || rowspan="2" | WEUX is a satellite of WLAX
+|-
+| WEUX-TV || 48 (49) || 1993
+|- style="vertical-align: top; text-align: left;"
+| Corpus Christi, Texas
+| KSCC
+| 38 (19)
+| 2008
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Amarillo, Texas
+| KCIT
+| 14 (15)
+| 1986
+| Mission Broadcasting(Operated by Nexstar Media Group)
+|
+|- style="vertical-align: top; text-align: left;"
+| Chico – Redding, CA
+| KCVU
+| 20 (30)
+| 1987
+| Cunningham Broadcasting(Operated by Sinclair Broadcast Group)
+|
+|- style="vertical-align: top; text-align: left;"
+| Wilmington, North Carolina
+| WSFX-TV
+| 26 (29)
+| 1994
+| American Spirit Media(Operated by Gray Television)
+|
+|- style="vertical-align: top; text-align: left;"
+| Columbus – Tupelo, MS
+| WLOV-TV
+| 27 (16)
+| 1995
+| Coastal Television Broadcasting Company(Operated by Allen Media Broadcasting)
+|
+|- style="vertical-align: top; text-align: left;"
+| Rockford, Illinois
+| WQRF-TV
+| 39 (36)
+| 1989
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Wausau – Rhinelander, WI
+| WZAW-LD
+| 33 (31)
+| 2015
+| Gray Television
+| Successor to WFXS, which had been with Fox since 1999
+|- style="vertical-align: top; text-align: left;"
+| rowspan="2" | Topeka, Kansas || KTMJ-CD || 43 (20) || rowspan="2" | 1989 || rowspan="2" | Nexstar Media Group || rowspan="2" |
+|-
+| KSNT-DT2 || 27.2
+|- style="vertical-align: top; text-align: left;"
+| El Dorado, AR-Monroe, LA
+| KARD
+| 14 (19)
+| 1994
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Columbia – Jefferson City, MO
+| KQFX-LD
+| 22 (30)
+| 1997
+| News-Press & Gazette Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Duluth, MN-Superior, WI
+| KQDS-TV
+| 21 (18)
+| 1999
+| Red River Broadcasting
+|
+|- style="vertical-align: top; text-align: left;"
+| Medford – Klamath Falls, OR
+| KMVU-DT
+| 26 (26)
+| 1994
+| Imagicomm Communications
+|
+|- style="vertical-align: top; text-align: left;"
+| Beaumont, Texas
+| KFDM-DT3
+| 6.3 (15)
+| 2021
+| Sinclair Broadcast Group
+| Primary channel is affiliated with CBSBrands itself as "Fox 4"Successor to KBTV-TV, which had been with Fox since 2009
+|- style="vertical-align: top; text-align: left;"
+| Wichita Falls, TX-Lawton, OK
+| KJTL
+| 18 (15)
+| 1986
+| Mission Broadcasting(Operated by Nexstar Media Group)
+|
+|- style="vertical-align: top; text-align: left;"
+| Lubbock, Texas
+| KJTV-TV
+| 34 (35)
+| 1986
+| Ramar Communications
+|
+|-style="vertical-align: top; text-align: left;"
+| Salisbury, Maryland
+| WBOC-DT2
+| 21.2 (32.4)
+| 2006
+| Draper Holdings Business Trust
+| Primary channel is affiliated with CBS
+|- style="vertical-align: top; text-align: left;"
+| rowspan="2" | Palm Springs, California || KDFX-CD || 33 (33) || rowspan="2" | 1990 || rowspan="2" | News-Press & Gazette Company || rowspan="2" |
+|-
+| KESQ-DT2 || 42.2
+|- style="vertical-align: top; text-align: left;"
+| Erie, Pennsylvania
+| WFXP
+| 66 (26)
+| 1986
+| Mission Broadcasting(Operated by Nexstar Media Group)
+|
+|-style="vertical-align: top; text-align: left;"
+| Sioux City, Iowa
+| KPTH
+| 44 (30)
+| 1999
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Anchorage, Alaska
+| KTBY
+| 4 (20)
+| 1986
+| Coastal Television Broadcasting Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Joplin, MO-Pittsburg, KS
+| KFJX
+| 14 (13)
+| 2005
+| Surtsey Productions(Operated by Saga Communications)
+|
+|- style="vertical-align: top; text-align: left;"
+| Albany, Georgia
+| WFXL
+| 31 (12)
+| 1989
+| Sinclair Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Midland – Odessa, Texas
+| KPEJ-TV
+| 24 (23)
+| 1990
+| Mission Broadcasting(Operated by Nexstar Media Group)
+|
+|- style="vertical-align: top; text-align: left;"
+| rowspan="5" | Bismarck, North Dakota || KFYR-DT2 || 5.2 || rowspan="5" | 2014 || rowspan="5" | Gray Television || rowspan="5" | Primary channels are affiliated with NBCKMOT, KQCD, and KUMV are satellites of KFYR-TVSuccessors to KNDX/KXND, which had been with Fox since 1999
+|-
+| KMOT-DT2 || 10.2
+|-
+| KQCD-DT2 || 7.2
+|-
+| KXND-LP || 38.1
+|-
+| KUMV-DT2 || 8.2
+|- style="vertical-align: top; text-align: left;"
+| Rochester – Austin, MN – Mason City, IA
+| KXLT-TV
+| 47 (26)
+| 1998
+| SagamoreHill Broadcasting(Operated by Gray Television)
+|
+|- style="vertical-align: top; text-align: left;"
+| Terre Haute, Indiana
+| WTHI-DT2Previous affiliate WFXW ended its Fox affiliation and now an affiliate of ABC on September 1, 2011; that station also changed its call letters to WAWV. The Fox affiliation in the Terre Haute market moved to CBS affiliate WTHI-TV's second digital subchannel. (,  )
+| 10.2
+| 2011
+| Allen Media Broadcasting
+| Primary channel is affiliated with CBS
+|- style="vertical-align: top; text-align: left;"
+| rowspan="2" | Bangor, Maine || WFVX-LD || 22 (22) || rowspan="2" | 2003 || rowspan="2" | Rockfleet Broadcasting || rowspan="2" |
+|-
+| WVII-DT2 || 14.2
+|- style="vertical-align: top; text-align: left;"
+| Bluefield – Beckley – Oak Hill, W.V.
+| WVNS-DT2
+| 59.2
+| 2006
+| Nexstar Media Group
+| Primary channel is affiliated with CBSPreviously with Fox from 1996–2001
+|- style="vertical-align: top; text-align: left;"
+| Binghamton, New York
+| WICZ-TV
+| 40 (7)
+| 1996
+| Imagicomm Communications
+|
+|- style="vertical-align: top; text-align: left;"
+| Steubenville, OH-Wheeling, W.V.
+| WTOV-DT2
+| 9.2
+| 2014
+| Sinclair Broadcast Group
+| Primary channel is affiliated with NBC
+|- style="vertical-align: top; text-align: left;"
+| Panama City, Florida
+| WPGX
+| 28 (9)
+| 1988
+| Lockwood Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| rowspan="2" | Pocatello – Idaho Falls, Idaho || KXPI-LD ||  34.2 || rowspan="2" | 2012 || rowspan="2" | VistaWest Media(Operated under SSA by News-Press & Gazette Company) || rowspan="2" |
+|-
+| KIDK-DT2KXPI-LD replaced KFXP as the Pocatello-Idaho Falls market's Fox affiliate on July 1, 2012; KFXP is now a This TV affiliate. () || 3.2
+|- style="vertical-align: top; text-align: left;"
+| Sherman, TX-Ada, OK
+| KXII-DT3According to Fox affiliates site.
+| 12.3
+| 2006
+| Gray Television
+| Primary channel is affiliated with CBS
+|- style="vertical-align: top; text-align: left;"
+| Biloxi – Gulfport, MS
+| WXXV-TV
+| 25 (25)
+| 1986
+| Morris Multimedia
+|
+|- style="vertical-align: top; text-align: left;"
+| Abilene – Sweetwater, TX
+| KXVA
+| 15 (15)
+| 2001
+| Tegna
+|
+|- style="vertical-align: top; text-align: left;"
+| Missoula, Montana
+| KTMF-DT2
+| 23.2 (23.2)
+| 2009
+| Cowles Company
+| Primary channel is affiliated with ABC
+|- style="vertical-align: top; text-align: left;"
+| Yuma, AZ-El Centro, CA
+| KECY-TV
+| 9 (9)
+| 1995
+| News-Press & Gazette Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Hattiesburg – Laurel, MS
+| WHPM-LD
+| 23 (23)
+| 2011
+| Waypoint Media
+|
+|- style="vertical-align: top; text-align: left;"
+| Billings, Montana
+| KHMT
+| 4 (22)
+| 1995
+| Mission Broadcasting(Operated by Nexstar Media Group)
+|
+|- style="vertical-align: top; text-align: left;"
+| Dothan, Alabama
+| WDFX-TV
+| 34 (33)
+| 1991
+| Lockwood Broadcast Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Clarksburg – Weston, W.V.
+| WVFX
+| 10 (10)
+| 1998
+| Gray Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Quincy, IL-Hannibal, MO
+| WGEM-DT3
+| 10.3
+| 1994
+| Gray Television
+| Primary channel is affiliated with NBC
+|- style="vertical-align: top; text-align: left;"
+| Utica, New York
+| WFXV
+| 33 (34)
+| 1986
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| rowspan="2" | Rapid City, South Dakota || KEVN-LD || 7 (23) || rowspan="2" | 2016 || rowspan="2" | Gray Television || rowspan="2" |Successors to KEVN, which had been with Fox since 1996
+|-
+| KHSD-DT2 || 11.2 (5.2)
+|- style="vertical-align: top; text-align: left;"
+| Elmira, New York
+| WYDC
+| 48 (30)
+| 1996
+| Vision Communications L.L.C.
+|
+|- style="vertical-align: top; text-align: left;"
+| Lake Charles, Louisiana
+| KVHP
+| 29 (18)
+| 1986
+| American Spirit Media
+| Operated through SSA by Gray Television
+|- style="vertical-align: top; text-align: left;"
+| Jackson, Tennessee
+| WJKT
+| 16 (21)
+| 2006
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| rowspan="2" | Watertown, New York || WNYF-CD || 28 (35) || rowspan="2" | 2001 || rowspan="2" | Gray Television || rowspan="2" |
+|-
+| WWNY-DT2 || 7.2
+|- style="vertical-align: top; text-align: left;"
+| Harrisonburg, Virginia
+| WSVF-CD
+| 43 (36)
+| 2012
+| Gray Television
+|
+|- style="vertical-align: top; text-align: left;"
+| Alexandria, Louisiana
+| WNTZ-TV
+| 48 (15)
+| 1991
+| Nexstar Media Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Marquette, Michigan
+| WLUC-DT2
+| 6.2 (35.2)
+| 2009
+| Gray Television
+| Primary channel is affiliated with NBC
+|- style="vertical-align: top; text-align: left;"
+| rowspan="2" | Jonesboro, Arkansas || KJNB-LD || 39 (16) || rowspan="2" | 2015 || rowspan="2" | Waypoint Media || rowspan="2" |
+|-
+| KJNE-LD || 42
+|- style="vertical-align: top; text-align: left;"
+| Bowling Green, Kentucky
+| WBKO-DT2 
+| 13.2
+| 2006
+| Gray Television
+| Primary channel is affiliated with ABC
+|- style="vertical-align: top; text-align: left;"
+| Charlottesville, Virginia
+| WCAV-DT2
+| 27.1
+| 2019
+| Lockwood Broadcast Group
+| Primary channel is affiliated with CBSSuccessor to WAHU-CD, which had been with Fox since 2005
+|- style="vertical-align: top; text-align: left;"
+| Grand Junction – Montrose, Colorado
+| KFQX
+| 4 (15)
+| 1993
+| Mission Broadcasting(Operated by Nexstar Media Group)
+|
+|- style="vertical-align: top; text-align: left;"
+| rowspan="2" | Laredo, Texas || KXOF-CD || 31 (31) || rowspan="2" | 2018 || rowspan="2" | Entravision || rowspan="2" |
+|-
+| KLDO-DT3 || 27.3
+|- style="vertical-align: top; text-align: left;"
+| Meridian, Mississippi
+| WGBC
+| 30 (31)
+| 2009
+| Waypoint Media
+|
+|- style="vertical-align: top; text-align: left;"
+| Greenwood – Greenville, Mississippi
+| WABG-DT2
+| 6.2
+| 2006
+| Imagicomm Communications
+| Primary channel is affiliated with ABC
+|- style="vertical-align: top; text-align: left;"
+| Lafayette, Indiana
+| WPBI-LD
+| 16.1
+| 2016
+| Star City Broadcasting
+|
+|- style="vertical-align: top; text-align: left;"
+| Butte – Bozeman, Montana
+| KWYB-DT2
+| 18.2
+| 2000
+| Cowles Company
+| Primary channel is affiliated with ABC
+|- style="vertical-align: top; text-align: left;"
+| Great Falls, Montana
+| KFBB-DT2
+| 5.2 (8.2)
+| 2009
+| Cowles Company
+| Primary channel is affiliated with ABC
+|- style="vertical-align: top; text-align: left;"
+| rowspan="2" | Twin Falls, Idaho || KSVT-LD || 43 (43) || rowspan="2" | 2012 || rowspan="2" | Gray Television || rowspan="2" |
+|-
+| KMVT-DT2KTWT-LP replaced KTXF as the Twin Falls market's Fox affiliate on July 1, 2012; KTXF is now a This TV affiliate. (; ) || 11.3
+|- style="vertical-align: top; text-align: left;"
+| Parkersburg, West Virginia
+| WOVA-LD
+| 22 (20)
+| 2012
+| Gray Television
+|
+|- style="vertical-align: top; text-align: left;"
+| rowspan="2" | Bend, Oregon || KFXO-CD || 39 (15) || rowspan="2" | 1996 || rowspan="2" | News-Press & Gazette Company || rowspan="2" |
+|-
+| KTVZ-DT4 || 21.4 
+|- style="vertical-align: top; text-align: left;"
+| Eureka, California
+| KBVU-TV
+| 28 (28)
+| 1994
+| Cunningham Broadcasting
+| Semi-satellite of KCVU, Chico CAOperated by Sinclair Broadcast Group
+|- style="vertical-align: top; text-align: left;"
+| rowspan="2" | Cheyenne, WY – Scottsbluff, NE || KLWY || 27 (27) || 1986 || rowspan="2" | Coastal Television Broadcasting Company || rowspan="2" | KFNR is a satellite of KFNB, Casper, WY
+|-
+| KFNR || 9 (9) || 2004
+|- style="vertical-align: top; text-align: left;"
+| rowspan="2" | Casper – Riverton, Wyoming || KFNB || 20 (20) || rowspan="2" | 2004 || rowspan="2" | Coastal Television Broadcasting Company || rowspan="2" | KFNE is a satellite of KFNB
+|-
+| KFNE || 10 (10)
+|- style="vertical-align: top; text-align: left;"
+| San Angelo, Texas
+| KIDY
+| 6 (19)
+| 1986
+| Tegna
+|
+|- style="vertical-align: top; text-align: left;"
+| Mankato, Minnesota
+| KEYC-DT2
+| 12.2
+| 2007
+| Gray Television
+| Primary channel is affiliated with CBS
+|- style="vertical-align: top; text-align: left;"
+| Ottumwa, IA-Kirksville, MO
+| KYOU-TV
+| 15 (15)
+| 1992
+| Gray Television
+|
+|- style="vertical-align: top; text-align: left;"
+| St. Joseph, Missouri
+| KNPN-LD
+| 26 (15)
+| 2012
+| News-Press & Gazette Company
+|
+|- style="vertical-align: top; text-align: left;"
+| Lima, Ohio
+| WLIO-DT2
+| 8.2
+| 2002
+| Block Communications
+| Primary channel is affiliated with NBC
+|- style="vertical-align: top; text-align: left;"
+| Fairbanks, Alaska
+| KATN-DT2
+| 2.2
+| 2017
+| Vision Alaska(Operated by Coastal Television Broadcasting Company)
+| Primary channel is affiliated with ABC
+|- style="vertical-align: top; text-align: left;"
+| Zanesville, Ohio
+| WHIZ-DT2
+| 18.2
+| 2022
+| Marquee Broadcasting
+| Primary channel is affiliated with NBCBrands itself as "Fox 5"
+|- style="vertical-align: top; text-align: left;"
+| Victoria, Texas
+| KVCT
+| 19 (11)
+| 1994
+| Surtsey Productions(Operated by Saga Communications)
+|
+|- style="vertical-align: top; text-align: left;"
+| Presque Isle, Maine
+| WAGM-DT2
+| 8.2
+| 2017
+| Gray Television
+| Moved from its primary channel, which had been with Fox since 2006 and is now affiliated with CBS
+|- style="vertical-align: top; text-align: left;"
+| Helena, Montana
+| KHBB-DT2
+| 21.2
+| 2008
+| Cowles Company
+| Primary channel is affiliated with ABC
+|- style="vertical-align: top; text-align: left;"
+| Juneau, Alaska
+| KJUD-DT2
+| 8.2 (11.2)
+| 2011
+| Vision Alaska
+| Primary channel is affiliated with ABC
+|- style="vertical-align: top; text-align: left;"
+| Alpena, Michigan
+| WBKB-DT4
+| 11.4
+| 2022
+| Marks Radio Group
+| Primary channel is affiliated with CBSMoved from its DT2 subchannel, which had been with Fox since 2009 and is now affiliated with NBC
+|- style="vertical-align: top; text-align: left;"
+| rowspan="2" | North Platte, Nebraska || KIIT-CD || 11 (11) || rowspan="2" | 2001 || rowspan="2" | Gray Television || rowspan="2" |
+|-
+| KNOP-DT2 || 2.2
+|- style="vertical-align: top; text-align: left;"
+| Glendive, Montana
+| none
+|
+|
+|
+| Served by KHMT, Hardin/Billings MT
+|- style="vertical-align: top; text-align: left;"
+| rowspan="2" | Dededo, Guam || KEQI-LD || 22 (22) || rowspan="2" | 2004 || rowspan="2" | Sorensen Pacific Broadcasting, Inc. || rowspan="2" |
+|-
+| KTGM-DT2 || 14.2
+|- style="vertical-align: top; text-align: left;"
+| Aguadilla, Puerto Rico
+| WSJP-LD
+| 30.2
+| 2015
+| LKK Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Charlotte Amalie, U.S. Virgin Islands
+| WVXF-DT2
+| 17.2
+| 2014
+| LKK Group
+|
+|- style="vertical-align: top; text-align: left;"
+| Saipan, Northern Mariana Islands
+| KPPI-LD2
+| 7.2
+| 2015
+| Sorensen Pacific Broadcasting, Inc.
+|
+|}
+
+== Fox channels outside the United States ==
+These channels use the Fox brand but do not necessarily air all of the same programmings as the U.S. network.
+
+* Fox – cable television channel available in the UK and Ireland
+* Fox8 (Australia) – a cable television channel available through the Foxtel cable service
+* Fox Televizija (Serbia) – national coverage TV
+* Fox Turkey (Turkey) – terrestrial commercial broadcaster in Turkey and Europe.
+* Star Channel (Latin America) – cable television channel
+
+==See also==
+* List of Fox television affiliates (by U.S. state)
+* List of former Fox television affiliates
+* List of television stations in North America by media market
+
+== Footnotes ==
+
+
+==External links==
+* Official Fox list of affiliates
+
+
+
+
+
+*
+Fox

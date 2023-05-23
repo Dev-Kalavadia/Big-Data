@@ -1,0 +1,34 @@
+Title: International call
+
+International telephone calls are those made between different countries. These telephone calls are processed by international gateway exchanges (switches). Charges for these calls were high initially but declined greatly during the 20th century due to advances in technology liberalization. Originally they were placed via long-distance operators. The calls were transmitted by cable, communications satellite, radio, and more recently, fiber optics and Voice over Internet Protocol (VoIP). International direct dialling was introduced in the 1970s, so calls can be dialed by country code without an operator.
+
+International calls can be paid via telephone card (aka phone card, calling card). These popular telecommunications products allow users to initiate an international call from almost anywhere in the world. These cards typically offer rates lower than most traditional long-distance products and services, and can be used via landline, cellular phone, PBX, and some VoIP services, as well as from some airports and hotels.
+
+In the United Kingdom, there are various ways to make an international call. For users with access to a landline:
+
+* It can be made directly by dialling the country code together with the destination phone number. This is the most expensive way to call internationally, unless a special arrangement is made with the telephone operator. For example, with BT there is an option to add an international add-on to a standard calling plan.
+* Dial-around access numbers allow a landline user to call an 08 or 09 number to connect to a service that routes using LCR rather than direct routes.  This allows the call to be carried cheaper as the user is getting "around" the expensive direct routing method.Dial-around access numbers from Planet Numbers
+* It can also be made with the use of a telephone card. This way, international calls are made by first dialling to a local access telephone number and providing the PIN before dialling the country code together with the destination phone number.  Some companies provide business solutions and accounts for businesses that are making high volumes of international calls.Business Solutions for International Calls
+
+For mobile phone users, the choices used to be very limited but it is no longer the case as mobile phone network operators roll out new pricing models and innovation in call routing developed. There are now numerous ways for a mobile phone user to call internationally:
+
+* It can be made directly by dialling the country code together with the destination phone number. This is the most expensive way to call internationally.
+* It can be made by adding an add-on to an existing mobile phone tariff. A number of mobile phone network operators are offering add-ons for making discounted international calls. Some mobile phone network operators describe their add-ons as giving 'unlimited' minutes for making international calls. However, the official Fair Usage Policy tends to limit the maximum allowable talk time at 3,000 minutes per month.
+* It can be made with the use of a telephone card, as described above. Telephone cards are typically sold in  newsagents or can be purchased from the user's mobile phone using reverse SMS billing
+* It can be made by using a SIM card provided by mobile virtual network operators, which include UWTMobile, Lebara Mobile and LycaMobile. Users of these networks make international calls by dialling the country code together with the destination phone number.
+* It can be made through a call-forwarding service that allows mobile phone users to associate an international phone number with a landline number within the United Kingdom. Users would dial a landline number and the call is then forwarded internationally. This allows mobile phone users to take advantage of their free minutes when accessing the service. Since the provider identifies its users by their Caller ID's, there is no need to provide a PIN when accessing the service.
+* It can be made by first dialling a voice short code, which tends to be operated by a company other than the mobile phone network operator, before entering the country code together with the destination phone number.
+* It can also be made with the use of VoIP applications on smart phones. Such applications include Skype, Google Voice, Fring, and others. Some applications allow users to make free international calls, which are paid by sponsors. These applications make use of the Wi-Fi or 3G connection on the phones to make calls. Alternatively, calls can also be routed by accessing a server through a local or regional phone number.
+
+A Local Dialling Disparity exists where the originating number and the foreign number are on the same network, usually a mobile telephone provider with operations in multiple countries. A less expensive call path is available by routing within the local Mobile Switching Center without going out to the global GMSC to its HLR. Both users are on the same network, so the international call remains within that company's network.
+
+There are instances of telephone country codes covering points in more than one country; the North American Numbering Plan is one example, as is nominally-sovereign Vatican City's use of Italian numbering. The term overseas call is used by the Bell System to distinguish international calls to another country code from NANP-internal calls.
+
+==See also==
+* Call forwarding
+* International direct dialling
+* List of international call prefixes
+* Routing in the PSTN
+* Telephone card
+* VoIP
+

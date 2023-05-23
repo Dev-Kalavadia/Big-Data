@@ -1,0 +1,120 @@
+Title: T29 Heavy Tank
+
+
+The Heavy Tank T29 was an American heavy tank project started in March 1944 to counter the appearance of the German Tiger II heavy tank. The T29 was not ready in time for the war in Europe, but it did provide post-war engineers with opportunities for applying engineering concepts to artillery and automotive components.
+
+==Development== 
+The T29 was based upon a lengthened version of the T26E3 chassis and featured heavier armor, an upgraded Ford GAC engine producing 750 hp at 2,800rpm, which gave it a power-to-weight ratio of 11.68 hp/t,  more comfortable controls for the driver, and a massive new turret incorporating the high-velocity 105 mm gun T5, which was later replaced by a more powerful 105 mm T5E1.
+
+The tank weighed approximately  unloaded and  combat loaded. Its maximum armor thickness was  on the turret (not including the mantlet, which was  thick), compared to   on the German Tiger II's turret. The turret had a turret rotation of 18 degrees per second, taking 20 seconds for a whole 360 degree traverse, and the gun had gun angles of 20°+/-10°. The hull armor consisted of a  thick plate, which was sloped at 54 degrees.
+
+Its 105 mm gun was  longHunnicutt, Firepower, p.216. continental length - from rear face of breech to muzzle (66 calibres, 105 L67) compared to the Jentz & Doyle, Kingtiger Heavy Tank 1942-45, p.8. of the Tiger II's 88 mm (71 calibers long, 88/L71), and had a muzzle velocity of . The tank would have carried a total of 63 rounds, with 46 in ammo racks, the ammo weighing 2.2 tons total. Its T30E1 HE shell could pierce  of concrete at , while its T29E3 High-velocity Armor Piercing could penetrate   at , and  at . Two coaxial 12.7mm machine guns were also mounted in the mantlet. A ball mounted 7.62mm machine gun was carried in the right side of the hull, and a AA 12.7mm machine gun was planned to be mounted on a pintle stem atop the roof. Other trial models had Allison V1710 V12 engines.
+
+The tank had a modest cruising range of . It could cross a cross a trench  wide, wade in water  deep, climb a  step, and could handle a 30 degree slope. The tank was also capable of pivoting on the spot. Suspension consisted of 8 double road wheels with rubber tires, 7 return roller on each side, and had the drive sprockets in the rear. Interestingly, the tank had a crew of six, two acting as a loader for the gun. The T29 featured a coincidence rangefinder projecting from both sides of the turret, distinctively resembling "ears".
+
+The procurement of 1,200 T29s was proposed on 1 March 1945, and revised to 1,152 on 12 April 1945, but by shortly after the end of World War II, only one T29 had been produced, with a second partially completed. In August 1945, the order was cancelled entirely, and it was intended to procure ten T29s for postwar testing. This number was later reduced to eight in July 1947.
+
+Developed at the same time and closely related to the T29, the T30 Heavy Tank was virtually identical, but was mounted with the 155 mm gun T7, featured a more powerful engine, and had an additional crew member to help load the heavy ammunition for the gun. Two vehicles were produced.
+
+The final variation of the T29 concept, the T34 Heavy Tank, mounted a 120 mm gun based upon the contemporary 120mm M1 anti-aircraft gun to further increase the armor penetration capability of the T29.
+
+{| class="wikitable" style="text-align:center;"
+|-
+!
+! T29
+! T29E1
+! T29E3
+|-
+! Length (gun forward)
+|colspan="3"| 
+|-
+! Width
+|colspan="3"|  (over sandshields)
+|-
+! Height
+|colspan="3"|  (over cupola)
+|-
+! Ground clearance
+|colspan="3"|
+|-
+! Top speed
+|colspan="3"| 
+|-
+! Fording
+|colspan="3"| 
+|-
+! Max. grade
+|colspan="3"| 60%
+|-
+! Max. trench
+|colspan="3"| 
+|-
+! Max. wall
+|colspan="3"|
+|-
+! Range
+| 
+|colspan="2"| 
+|-
+! Power
+|  at 2800 rpm
+|  at 2800 rpm
+|  at 2800 rpm
+|-
+! Power-to-weight ratio
+| 
+| 
+| 
+|-
+! Torque
+|  at 1600 rpm
+|  at 1800 rpm
+|  at 1600 rpm
+|-
+! Weight, combat loaded
+| 
+| 
+| 
+|-
+! Ground pressure
+|  ( tracks) ( tracks)
+|  ( tracks) ( tracks)
+|  ( tracks) ( tracks)
+|-
+! Main armament
+| T5E2 105 mm gun
+|colspan="2"| T5E1 105 mm gun
+|-
+! Elevation, main gun
+|colspan="2"| +15° / −10°
+|-
+! Traverse rate
+|colspan="3"| 20 seconds/360°
+|-
+! Main gun ammo
+|colspan="3"| 63 rounds
+|-
+! Firing rate
+|colspan="3"| 6 rounds/minute
+|}
+
+==Surviving tanks==
+thumb|T29E3 at the General George Patton Museum in 2007; note the rangefinders on the side of the turret
+
+There are several surviving T29s at Fort Benning, Georgia. They are being stored in preparation for an Armor exhibit. One has the distinctive rangefinder, while the other does not. Both can be seen as well as many other vehicles in a fenced enclosure on 25 Infantry Regiment Road. One is located in front of the National Armor and Cavalry Museum.
+
+==See also==
+
+* List of U.S. military vehicles by model number
+* Military technology and equipment
+
+===Tanks of comparable role, performance and era===
+* M6A2E1 heavy tank - Prototype used for testing T29's armament system
+* T32 Heavy Tank - Prototype with a similar design; uses a 90 mm cannon
+* T30 Heavy Tank - Identical to the T29, but using a 155 mm cannon
+* T34 Heavy Tank - A modernized T30 using a 120 mm cannon
+* IS-3 heavy tank - Contemporary Soviet assault tank
+* IS-4 heavy tank - Contemporary Soviet heavy tank
+* Caernarvon Mark II - British heavy tank
+* AMX-50 heavy tank - Prototype French heavy tank series
+

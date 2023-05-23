@@ -1,0 +1,76 @@
+Title: Szczytno County
+
+__NOTOC__
+Szczytno County () is a unit of territorial administration and local government (powiat) in Warmian-Masurian Voivodeship, northern Poland. It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat and largest town is Szczytno, which lies  south-east of the regional capital Olsztyn. The only other town in the county is Pasym, lying  north-west of Szczytno.Odległości między miastami (Distances between towns)
+
+The county covers an area of .GIOS (Chief Inspectorate for Environmental Protection)  As of 2006 its total population is 69,289, out of which the population of Szczytno is 25,680, that of Pasym is 2,550, and the rural population is 41,059.Polish official population figures 2006
+
+==Neighbouring counties==
+Szczytno County is bordered by Mrągowo County to the north, Pisz County to the east, Ostrołęka County to the south-east, Przasnysz County to the south, Nidzica County to the west and Olsztyn County to the north-west.
+
+==Administrative division==
+The county is subdivided into eight gminas (one urban, one urban-rural and six rural). These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km²)
+| style="text-align:center;"|Population(2006)
+| style="text-align:center;"|Seat
+|-
+|Szczytno
+|urban
+| style="text-align:right;"|10.0
+| style="text-align:right;"|25,680
+| 
+|-
+|Gmina Szczytno
+|rural
+| style="text-align:right;"|347.3
+| style="text-align:right;"|10,454
+|Szczytno *
+|-
+|Gmina Dźwierzuty
+|rural
+| style="text-align:right;"|263.4
+| style="text-align:right;"|6,631
+|Dźwierzuty
+|-
+|Gmina Wielbark
+|urban-rural
+| style="text-align:right;"|347.9
+| style="text-align:right;"|6,257
+|Wielbark
+|-
+|Gmina Świętajno
+|rural
+| style="text-align:right;"|279.8
+| style="text-align:right;"|5,879
+|Świętajno
+|-
+|Gmina Rozogi
+|rural
+| style="text-align:right;"|224.0
+| style="text-align:right;"|5,643
+|Rozogi
+|-
+|Gmina Pasym
+|urban-rural
+| style="text-align:right;"|149.4
+| style="text-align:right;"|5,184
+|Pasym
+|-
+|Gmina Jedwabno
+|rural
+| style="text-align:right;"|311.5
+| style="text-align:right;"|3,561
+|Jedwabno
+|-
+|colspan=5 style="text-align:right;font-size:90%"|* seat not part of the gmina
+|-
+|}
+
+== Historical population ==
+In 1825 Szczytno County (Kreis Ortelsburg) had 38028 inhabitants, including by mother tongue: 34928 (~92%) Polish and 3100 (~8%) German.
+

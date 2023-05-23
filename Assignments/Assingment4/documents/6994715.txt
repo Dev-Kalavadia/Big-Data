@@ -1,0 +1,46 @@
+Title: 1034 Mozartia
+
+1034 Mozartia, provisional designation , is a stony asteroid from the inner regions of the asteroid belt, approximately 8 kilometers in diameter. It was discovered on 7 September 1924, by Soviet Vladimir Albitsky at Simeiz Observatory on the Crimean peninsula, and named after Wolfgang Amadeus Mozart.
+
+== Orbit and classification ==
+
+Mozartia orbits the Sun in the inner main-belt at a distance of 1.7–2.9 AU once every 3 years and 6 months (1,268 days). Its orbit has an eccentricity of 0.26 and an inclination of 4° with respect to the ecliptic. The body's observation arc begins with its official discovery observation in 1924.
+
+== Physical characteristics ==
+
+In the SMASS classification, Mozartia is a common S-type asteroid.
+
+=== Diameter and albedo ===
+
+According to the survey carried out by NASA's Wide-field Infrared Survey Explorer with its subsequent NEOWISE mission, Mozartia measures 7.919 kilometers in diameter and its surface has an albedo of 0.250.
+
+=== Lightcurves ===
+
+As of 2017, no rotational lightcurve of Mozartia has been obtained. The body's rotation period and shape remain unknown.
+
+== Naming ==
+
+This minor planet was named after the influential Austrian composer Wolfgang Amadeus Mozart (1756–1791). The official  was published by the Minor Planet Center in November 1952 ().
+
+== References ==
+ 
+
+== External links ==
+* Asteroid Lightcurve Database (LCDB), query form (info )
+* Dictionary of Minor Planet Names, Google books
+* Asteroids and comets rotation curves, CdR – Observatoire de Genève, Raoul Behrend
+* Discovery Circumstances: Numbered Minor Planets (1)-(5000) – Minor Planet Center
+* 
+* 
+
+
+
+
+
+
+001034
+Category:Discoveries by Vladimir Albitsky
+Category:Named minor planets
+001034 Mozartia
+001034
+19240907

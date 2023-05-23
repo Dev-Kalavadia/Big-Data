@@ -1,0 +1,173 @@
+Title: New Zealand military ranks
+
+New Zealand military ranks are largely based on those of the United Kingdom. The three services (Army, Navy, and Air Force) have their own rank structure, with a rank equivalency that allows seamless interoperability between the services. All three services form part of the New Zealand Defence Force.
+
+== Commissioned officer ranks ==
+{| style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" border="2" cellpadding="4" cellspacing="0" width="98%"
+|-
+! width="20%" |border|60pxNavy
+! width="20%" |55pxArmy
+! width="20%" |50pxAir Force
+! width="40%" |Notes
+|-
+|Admiral of the Fleet
+|Field marshal
+|Marshal of the Air Force
+||King Charles III is the only current Admiral of the Fleet, Field Marshal and Marshal of the RNZAF.
+|-
+|Vice admiral (VADM)
+|Lieutenant general (LTGEN)
+|Air marshal (AM)
+|Rank held by the currently serving Chief of Defence Force; therefore only one of the services will have this grade filled at any one time. Highest ordinary rank of New Zealand Defence Force personnel.
+|-
+|Rear admiral (RADM)
+|Major general (MAJGEN)
+|Air vice-marshal (AVM)
+|Held by the Vice Chief of Defence Force, Commander Joint Forces New Zealand, and the Chiefs of Army, Navy and Air Force. Other individuals holding this rank would be in specialised (United Nations or other coalition) postings.
+|-
+|Commodore (CDRE)
+|Brigadier (BRIG)
+|Air commodore (AIRCDRE)
+|
+|-
+|Captain (CAPT)
+|Colonel (COL) (Chaplain Class I)
+|Group captain (GPCAPT) (Chaplain Class I)
+|
+|-
+|Commander (CDR)
+|Lieutenant colonel (LTCOL) (Chaplain Class II)
+|Wing commander (WGCDR) (Chaplain Class II)
+|
+|-
+|Lieutenant commander (LT CDR)
+|Major (MAJ) (Chaplain Class III)
+|Squadron leader (SQNLDR) (Chaplain Class III)
+|
+|-
+|Lieutenant (LT)
+|Captain (CAPT) (Chaplain Class IV)
+|Flight lieutenant (FLTLT) (Chaplain Class IV)
+|
+|-
+|Sub lieutenant (SLT)
+|Lieutenant (LT)
+|Flying officer (FGOFF)
+|
+|-
+|Ensign (ENS)
+|Second lieutenant (2LT)
+|Pilot officer (PLTOFF)
+|
+|-
+|Midshipman (MID)
+|Officer cadet (OCDT)
+|Officer cadet (OCDT)
+|The rank of Midshipman is recognised as a commissioned rank, however, the rank of Officer Cadet in the Army and Air Force is not; used only for the purposes of training.
+|}
+
+=== Rank insignia ===
+The rank insignia of commissioned officers.
+{| style="border:1px solid #8888aa; background-color:#f7f8ff; padding:5px; font-size:95%; margin: 0px 12px 12px 0px;"
+
+
+
+
+
+|}
+
+== Non-commissioned personnel ==
+{|border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=98%
+|-
+!width=20%|border|60pxNavy
+!width=20%|55pxArmy
+!width=20%|50pxAir force
+!width=40%|Notes
+|-----
+|Warrant Officer (WO---)
+|Warrant Officer Class One (WO1)
+|Warrant Officer (WO)
+|The Sergeant Major of the Army (SMA) holds this rank. Army Regimental Sergeant Majors (RSMs) also hold this rank.
+|-----
+|
+|Warrant Officer Class Two (WO2)
+| 
+|Company Sergeant Majors (CSMs), Squadron Sergeant Majors (SSMs) and Battery Sergeant Majors (BSMs) hold this rank.
+|-----
+|Chief Petty Officer (CPO---)
+|Staff Sergeant (SSGT)
+|Flight Sergeant (F/S)
+|
+|-----
+|Petty Officer (PO---)
+|Sergeant (SGT)
+|Sergeant (SGT)
+|
+|-----
+|Leading Hand (L---)
+|Bombardier/Corporal (BDR/CPL)
+|Corporal (CPL)
+|Army personnel in artillery units use the rank of Bombardier (BDR) in place of Corporal.
+|-----
+|
+|Lance Bombardier/Lance Corporal (LBDR/LCPL)
+|
+|
+|-----
+|Able rate (A---)
+|
+|Leading Aircraftman (LAC)
+|An Aircraftman is reclassified as a Leading Aircraftman on completion of the Primary Trade Training. As this is a competency-based rank, with no delegation of duties, there is no Army or Navy equivalent.
+|-----
+|Ordinary rate (O---)
+|Gunner (GNR) / Trooper (TPR) / Sapper (SPR) / Signaller (SIG) / Private (PTE) / Craftsman RNZEME
+|Aircraftman (AC)
+|In the Army, an individual's trade title is sometimes interchanged with the rank of Private. 
+|}
+
+Note: Naval other rank personnel are referred to by both their rank and trade. Thus a sailor employed as a chef would generally hold the rank of ordinary chef (OCH), with a few exceptions. A Warrant Officer with a trade of weapon technician would hold the rank of Warrant Officer Weapon Technician (WOWT).
+
+=== Rank insignia ===
+The rank insignia of non-commissioned officers and enlisted personnel.
+{| style="border:1px solid #8888aa; background-color:#f7f8ff; padding:5px; font-size:95%; margin: 0px 12px 12px 0px;"
+
+
+
+
+
+|}
+
+== Definitions ==
+
+=== Non-commissioned officer ===
+A non-commissioned officer is defined as:
+:"(a) In relation to the navy, a rating of warrant officer, chief petty officer, petty officer, or leading rank; and includes—
+::(i) A non-commissioned officer of the army or the air force attached to the navy; and
+::(ii) A person duly attached or lent as a non-commissioned officer to or seconded for service or appointed for duty as a non-commissioned officer with the navy:
+: (b) In relation to the army, a soldier above the rank of private but below the rank of officer cadet; and includes a warrant officer; and also includes—
+::(i) A non-commissioned officer of the navy or the air force attached to the army; and
+::(ii) A person duly attached or lent as a non-commissioned officer to or seconded for service or appointed for duty as a non-commissioned officer with the army:
+:(c) In relation to the air force, an airman above the rank of leading aircraftman but below the rank of officer cadet; and includes a warrant officer; and also includes—
+::(i) A non-commissioned officer of the navy or the army attached to the air force; and
+::(ii) A person duly attached or lent as a non-commissioned officer to or seconded for service or appointed for duty as a non-commissioned officer with the air force:" — Defence Act 1990, Sect 2 (Interpretation)
+
+=== Commissioned officers ===
+Officers of the New Zealand Defence Force are commissioned by the Governor-General of New Zealand on behalf of the monarch of New Zealand, King Charles III. See also Officer (armed forces). Salutes rendered to officers by junior officers and enlisted personnel are indirect salutes to the monarch, based on the officer holding the monarch's authority.
+
+== Higher flag ranks and ceremonial ranks ==
+
+Appointments to the most senior ranks (those above the rank held by the chief of the defence force, usually lieutenant general or equivalent) are ceremonial, for the head of state and members of the royal family.
+
+== References ==
+
+
+== External links ==
+* 
+* 
+* 
+
+
+
+Category:Military of New Zealand
+Category:New Zealand and the Commonwealth of Nations
+Category:New Zealand Defence Force

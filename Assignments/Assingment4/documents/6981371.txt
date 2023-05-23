@@ -1,0 +1,110 @@
+Title: Gija language
+
+
+
+
+Kija (variously spelled Gija, Kitja, Gidja) is an Australian Aboriginal language today spoken by about 100 people, most of whom live in the region from Halls Creek to Kununurra and west to Lansdowne and Tableland Stations in Western Australia. It is a member of the Jarragan language family, a non-Pama-Nyungan family in the East Kimberleys. The Argyle Diamond Mine, on the south western corner of Lake Argyle is on the borders of Gija and Miriwoong country. The Purnululu (pronounced as 'Boornoolooloo') Bungle Bungle National Park is mostly in Gija country.
+
+Kuluwarrang and Walgi may have been dialects.
+
+== Phonology ==
+
+=== Consonants ===
+{| class="IPA wikitable" style="text-align:center"
+! rowspan="2" |
+! colspan="2" |Peripheral
+! colspan="2" |Laminal
+! colspan="2" |Apical
+|-
+!Labial
+!Velar
+!Dental
+!Palatal
+!Alveolar
+!Retroflex
+|- style="text-align: center;"
+!Stop
+|p
+|k
+|t̪
+|c
+|t
+|ʈ
+|- style="text-align: center;"
+!Nasal
+|m
+|ŋ
+|n̪
+|ɲ
+|n
+|ɳ
+|- style="text-align: center;"
+!Lateral
+|
+|
+|
+|ʎ
+|l
+|ɭ
+|- style="text-align: center;"
+!Rhotic
+|
+|
+|
+|
+|r
+|ɻ
+|- style="text-align: center;"
+!Approximant
+| colspan="2" |w
+|
+|j
+|
+|
+|}
+
+* Voiceless stops /p, k, t̪, c, t, ʈ/ can have voiced allophones [b, ɡ, d̪, ɟ, d, ɖ] when in intervocalic positions or when following nasals or liquid consonants. They can also be heard as unreleased when in word-final position.
+* /p, k/ can also be heard as fricatives [β, ɣ] in intervocalic positions or when following liquid consonants.
+* /t̪/ can freely be heard as an affricate [t̪θ] when in initial positions, and also be heard as either voiced fricative [ð] or affricate [d̪ð] sounds when in intervocalic positions.
+* /t, ʈ/ can be heard as flap sounds [ɾ, ɽ] when in intervocalic positions.
+* /r/ can have a voiced flap sound [ɾ] when in intervocalic positions. In word-final positions, it has a voiceless trill [r̥] allophone.
+
+=== Vowels ===
+{| class="wikitable" style="text-align:center"
+!
+!Front
+!Central
+!Back
+|- align="center"
+!High
+|i
+|ɨ
+|u
+|- align="center"
+!Low
+|
+|a aː
+|
+|}
+
+*
+
+{| class="wikitable"
+!Phoneme
+!Allophones
+|-
+|/i/
+|[i], [ɪ]
+|-
+|/ɨ/
+|[ɨ], [ɯ]
+|-
+|/u/
+|[u], [ʊ]
+|-
+|/a/
+|[ä], [e], [ʌ], [ɔ]
+|}
+
+==See also==
+*

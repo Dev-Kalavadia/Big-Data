@@ -1,0 +1,18 @@
+Title: Polyetherimide
+
+
+Polyetherimide (PEI) is an amorphous, amber-to-transparent thermoplastic with characteristics similar to the related plastic PEEK. When comparing PEI to PEEK, the former is cheaper but has lower impact strength and a tighter temperature range.http://www.mcmaster.com/#ultem/=otzvqt  Referenced Oct 7, 2013
+
+Due to its adhesive properties and chemical stability it became a popular bed material for FFF 3D printers.
+
+==Structure==
+The molecular formula of the PEI monomer is  and the molecular weight is 592.61 g/mol. It contains phthalimide and bisphenol A sub-units.
+
+==Properties==
+The glass transition temperature of PEI is 217 °C (422 °F). Its amorphous density at 25 °C is 1.27 g/cm3(.046 lb/in³). It is prone to stress cracking in chlorinated solvents. Polyetherimide is able to resist high temperatures while maintaining stable electrical properties over a wide range of frequencies. This high strength material offers excellent chemical resistance and ductile properties suitable for various applications, even those involving steam exposure.
+
+== References ==
+
+
+Category:Plastics
+Category:Thermoplastics

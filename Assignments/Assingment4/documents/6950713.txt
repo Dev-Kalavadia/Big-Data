@@ -1,0 +1,20 @@
+Title: Financial Management Standard
+
+
+The Financial Management Standard 1997 (also known as the FMS) is a state law of the Queensland Government empowered by the Financial Administration and Audit Act 1977 (Qld). Its primary purpose is to provide the policies and principles to be observed in financial management, including planning, performance management, internal control, and corporate management within Queensland Government.
+
+This is achieved by stating the functions of each accountable officer and statutory body in relation to corporate management. 
+
+A key aspect of the FMS is its directives associated with management of information and communications technology (ICT), included the requirement for detailed ICT planning to ensure appropriate acquisition processes and ongoing management.
+
+Unlike the United States federal law known as the Information Technology Management Reform Act (also known as the Clinger-Cohen Act), the FMS contains explicit references to the use of Enterprise Architecture. In particular the FMS links the planning of ICT directly to the Government Enterprise Architecture.
+
+Penalties, including imprisonment, exist for failure of accountable officers to comply with the requirements of the Financial Administration and Audit Act 1977 (Qld) and associated regulations and the FMS.
+
+==External links==
+*Queensland Government
+*Queensland Treasury
+
+Category:Government of Queensland
+Category:Information technology management
+Category:Financial management

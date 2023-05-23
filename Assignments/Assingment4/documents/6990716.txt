@@ -1,0 +1,38 @@
+Title: Habia (bird)
+
+
+
+Ant tanagers are  birds of the genus Habia.  These are long-tailed and strong billed birds.
+
+==Taxonomy==
+The genus Habia was introduced in 1840 by the English zoologist Edward Blyth. The name is a word used for various finches and tanagers in the Guarani language of Paraguay. The type species was subsequently designated as the red-crowned ant tanager.
+
+==Description==
+The males have a red crest and plumage containing red, brown or sooty hues. Females may resemble the males or be largely yellowish or brown in colour. Formerly placed in the tanager family (Thraupidae), they are actually closer to Cardinalis in the Cardinalidae. Consequently, it can be argued that referring to the members of this genus as ant-tanagers is misleading, but no other common name has gained usage.
+
+All species forage for insects, which can be larger than their bills.  Fruit is a minor part of their diet. red-throated, sooty and black-cheeked ant tanagers form a superspecies; they inhabit second growth and patchy woodland. They look down from a series of low (2–3 m) perches and take prey from foliage or in flight. They follow army ant swarms to catch insects that are fleeing from the ants.
+
+Red-crowned and crested ant tanagers prefer denser undergrowth and watch from higher (4–5 m) perches, often working upwards through the foliage. They are less likely to follow ant columns.
+
+The  female alone builds a cup nest and incubates the two or three eggs. The young leave the nest before they can fly and hide in dense vegetation.
+
+Ant-tanagers have harsh call notes but musical whistled songs.
+
+==Species==
+The genus includes five species.
+{| class="wikitable"
+|-
+! Male!! Female !! Common Name !! Scientific name !! Distribution
+|-
+|150px||150px ||Red-crowned ant tanager|| Habia rubica||Mexico south to Paraguay and northern Argentina, and on Trinidad.
+|- 
+|150px||150px||Red-throated ant tanager|| Habia fuscicauda||southeastern Mexico to eastern Panama.
+|- 
+|150px|| ||Sooty ant tanager|| Habia gutturalis|| Colombia
+|- 
+|150px|| || Black-cheeked ant tanager||Habia atrimaxillaris|| Osa Peninsula of Costa Rica.
+|- 
+|150px || || Crested ant tanager||  Habia cristata|| Colombia
+|- 
+|}
+

@@ -1,0 +1,231 @@
+Title: List of places in Alaska (F)
+
+This list of cities, towns, unincorporated communities, counties, and other recognized places in the U.S. state of Alaska also includes information on the number and names of counties in which the place lies, and its lower and upper zip code bounds, if applicable.
+
+
+{| class="wikitable"
+!Name of place
+!Number of counties
+!Principal county
+!Lower zip code
+!Upper zip code
+|----
+|Fairbanks
+|1
+|Fairbanks North Star Borough
+|99701
+| 
+|----
+|Fairbanks International Airport
+|1
+|Fairbanks North Star Borough
+|99701
+| 
+|----
+|Fairbanks North Star
+|1
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Fairbanks North Star Borough School District
+|1
+|Fairbanks North Star Borough
+| 
+| 
+|----
+|Fairhaven
+|1
+|City and Borough of Juneau
+| 
+| 
+|----
+|Fairview
+|1
+|Municipality of Anchorage
+| 
+| 
+|----
+|Falls
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|False Pass
+|1
+|Aleutians East Borough
+|99508
+| 
+|----
+|False Pass
+|1
+|Aleutians East Borough
+|99583
+| 
+|----
+|Farewell
+|1
+|Yukon-Koyukuk Census Area
+|99629
+| 
+|----
+|Farm Loop
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Federal
+|1
+|Fairbanks North Star Borough
+|99701
+| 
+|----
+|Ferry
+|1
+|Denali Borough
+| 
+| 
+|----
+|Fink Creek
+|1
+|Northwest Arctic Borough
+| 
+| 
+|----
+|Fink Creek-Utica
+|1
+|Northwest Arctic Borough
+| 
+| 
+|----
+|Fire Lake
+|1
+|Municipality of Anchorage
+|99577
+| 
+|----
+|Fishhook
+|1
+|Matanuska-Susitna Borough
+| 
+| 
+|----
+|Fishhook
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Fish Village
+|1
+|Kusilvak Census Area
+| 
+| 
+|----
+|Flat
+|1
+|Yukon-Koyukuk Census Area
+|99584
+| 
+|----
+|Folger
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Fort Glenn
+|1
+|Aleutians West Census Area
+| 
+| 
+|----
+|Fort Greely
+|1
+|Southeast Fairbanks Census Area
+|98733
+| 
+|----
+|Fort Richardson
+|1
+|Municipality of Anchorage
+|99505
+| 
+|----
+|Fortuna Ledge
+|1
+|Kusilvak Census Area
+|99585
+| 
+|----
+|Fort Wainwright
+|1
+|Fairbanks North Star Borough
+|99703
+| 
+|----
+|Fort Yukon
+|1
+|Yukon-Koyukuk Census Area
+|99740
+| 
+|----
+|Fort Yukon Station
+|1
+|Yukon-Koyukuk Census Area
+|99740
+| 
+|----
+|Four Mile Road
+|1
+|Yukon-Koyukuk Census Area
+| 
+| 
+|----
+|Fox
+|1
+|Fairbanks North Star Borough
+|99701
+| 
+|----
+|Fox River
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Freshwater Bay
+|1
+|Skagway-Hoonah-Angoon Census Area
+| 
+| 
+|----
+|Fritz Cove
+|1
+|City and Borough of Juneau
+|99824
+| 
+|----
+|Fritz Creek
+|1
+|Kenai Peninsula Borough
+|99603
+| 
+|----
+|Funny River
+|1
+|Kenai Peninsula Borough
+| 
+| 
+|----
+|Funter
+|1
+|Skagway-Hoonah-Angoon Census Area
+|99801
+| 
+|----
+|}
+
+ F

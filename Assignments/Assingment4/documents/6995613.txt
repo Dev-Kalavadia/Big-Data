@@ -1,0 +1,29 @@
+Title: Santosham Best Music Director Award
+
+
+
+The Santosham Best Music Director Award is given by the Santosham Film magazine as part of its annual Santosham Film Awards for Telugu films.
+
+The award was first given in 2003. Here is a list of the award winners and the films for which they won.
+
+
+{| cellspacing="1" cellpadding="1" border="0" width="50%"
+|- bgcolor="#d1e4fd"
+! Year || Music Director || Film
+|- bgcolor=#edf3fe
+| 2013 || Devi Sri Prasad || Attharintiki Daaredhi
+|-
+| 2012 || Devi Sri Prasad || Gabbar Singh
+|- bgcolor=#edf3fe
+| 2010 || A. R. Rahman || Ye Maaya Chesave
+|-
+| 2008 || Devi Sri Prasad || Jalsa
+|- bgcolor=#edf3fe
+| 2005 || Devi Sri Prasad || Nuvvostanante Nenoddantana
+|-
+| 2004 || Devi Sri Prasad || Varsham
+|- bgcolor=#edf3fe
+| 2003 || M.M. Keeravani || Gangotri
+|-
+|}
+

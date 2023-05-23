@@ -1,0 +1,149 @@
+Title: Acanthothoraci
+
+
+Acanthothoraci (spine chests) is an extinct group of chimaera-like placoderms who were closely related to the rhenanid placoderms.  Superficially, the acanthoracids resembled scaly chimaeras, or (relatively) heavily armored ptyctodonts.  They were distinguished from chimaeras by the presence of large scales and plates, a pair of large spines that emanate from their chests (thus, the order's name), tooth-like beak plates, and the typical bone-enhanced placoderm eyeball.  They were distinguished from other placoderms due to differences in the anatomy of their skulls, and due to patterns on the skull plates and thoracic plates that are unique to this order.
+
+==Fossil record==
+Fossils of the Acanthothoracids are found in various deposits from the Lower Devonian throughout the world.  Fossils of the Palaeacanthaspids are found in Eurasia and Canada, while the Weejasperaspids have only been found in the Taemas Wee Jasper reef, in Southeastern Australia.
+
+==Ecology==
+From what can be inferred from the mouthplates of fossil specimens, the acanthothoracids were ecologically similar to modern-day chimaeras, being a clique of shellfish hunters.  Competition with their relatives, the ptyctodont placoderms, may have been one of the main reasons for the acanthothoracids' extinction prior to the Mid Devonian extinction event.
+
+==Families==
+Three families have been recognized:
+
+* Palaeacanthaspidae is the most widespread of the three families.  Fossils of Palaeacanthaspids are found in Lower Devonian strata of Europe, Canada, Saudi Arabia, and East Asia.  Palaeacanthaspids have short rostrums, and large nostrils situated dorsally on the forehead, almost directly between the eyes.  They also had stout spines emanating from the back of the median dorsal plates of their shoulder-girdles, and a spine emanating on plates directly in front of the pectoral fins.  Dermal plates were decorated with either tubercules or scales with stellate patterns.
+* Weejasperaspididae is restricted to the Emsian Taemas-Wee Jasper "reef" in what is now New South Wales, Australia.  Compared to the corresponding spines of Palaeacanthaspids, the spines of Weejasperaspids are long and tremendously stout.  The armor of Weejasperaspids were decorated with small tubercules.
+* Hagiangellidae is a monogeneric family, currently represented by Hagiangella goujeti, which is restricted to Lochkovian strata of the Khao Loc formation in Tung Vai, Ha Giang Province of Northern Vietnam.  From what can be discerned from the various scrappy fossils, H. goujeti had a relatively high-domed head, especially when compared to the bun-shaped heads of other acanthothoracids, and had serrations on the spines in front of its pectoral fins.
+
+==Relation to other placoderms==
+Most placoderm experts have reached a consensus that Acanthothoracida is the sister group of the rest of Placodermi, save for, perhaps, Stensioella and Pseudopetalichthyida.  This is the result of a careful reexamination of the various members of the Acanthothoracid family Palaeacanthaspidae, in that particular species within that family share various anatomical similarities with other placoderm orders, particularly the anatomies of their braincase, dermal plate arrangement and bone histology.  In 2011, the genus Hagianella, of the monotypic family Hagianellidae, was reappraised as possibly being the sister-group of Ptyctodontida due to similarities of skull anatomies.  As a result, Palaeacanthaspidae and Hagianellidae are now considered to be paraphyletic due to the similarities their members have to primitive members of other placoderm orders.
+
+The family Weejasperaspididae, on the other hand, is considered to be monophyletic.  Because of the Weejasperaspids' generalized anatomy, and strong similarities with the Palaeacanthaspids, but no overt similarities with any other order, save Brindabellaspida, they are regarded as either basal placoderms or very close to the basal placoderm.
+
+==Timeline of genera==
+
+ImageSize  = width:1000px height:auto barincrement:15px
+PlotArea   = left:10px bottom:50px top:10px right:10px
+
+Period      = from:-416 till:-359.2
+TimeAxis    = orientation:horizontal
+ScaleMajor  = unit:year increment:5 start:-416
+ScaleMinor  = unit:year increment:1 start:-416
+TimeAxis    = orientation:hor
+AlignBars   = justify
+
+Colors =
+ #legends
+  id:CAR	  value:claret
+  id:ANK 	 value:rgb(0.4,0.3,0.196)
+  id:HER	  value:teal
+  id:HAD	  value:green
+  id:OMN	  value:blue
+  id:black        value:black
+  id:white        value:white
+  id:paleozoic     value:rgb(0.6,0.75,0.55)
+  id:cambrian   value:rgb(0.49,0.63,0.33)
+  id:ordovician   value:rgb(0,0.57,0.44)
+  id:silurian   value:rgb(0.70,0.88,0.71)
+  id:devonian   value:rgb(0.8,0.55,0.22)
+  id:earlydevonian   value:rgb(0.90,0.71,0.43)
+  id:middledevonian   value:rgb(0.96,0.81,0.51)
+  id:latedevonian   value:rgb(0.96,0.89,0.71)
+  id:carboniferous   value:rgb(0.4,0.65,0.6)
+  id:mississippian value:rgb(0.4,0.56,0.4)
+  id:pennsylvanian value:rgb(0.8,0.77,0.53)
+  id:permian   value:rgb(0.94,0.25,0.24)
+  id:mesozoic     value:rgb(0.38,0.77,0.79)
+  id:triassic     value:rgb(0.51,0.17,0.57) 
+  id:jurassic     value:rgb(0.2,0.7,0.79) 
+  id:cretaceous   value:rgb(0.5,0.78,0.31)
+  id:cenozoic     value:rgb(0.95,0.98,0.11)
+  id:paleogene   value:rgb(0.99,0.6,0.32)
+  id:neogene   value:rgb(0.999999,0.9,0.1)
+  id:quaternary   value:rgb(0.98,0.98,0.50)
+ 
+BarData=
+ bar:eratop
+ bar:space
+ bar:periodtop
+ bar:space
+ bar:NAM1
+ bar:NAM2
+ bar:NAM3
+ bar:NAM4
+ bar:NAM5
+ bar:NAM6
+ bar:NAM7
+ bar:NAM8
+ bar:NAM9
+ bar:NAM10
+
+ bar:space
+ bar:period
+ bar:space
+ bar:era
+
+PlotData=
+ align:center textcolor:black fontsize:M mark:(line,black) width:25 
+ shift:(7,-4)
+  
+ bar:periodtop
+ from: -416    till: -411.2   color:earlydevonian    text:[[Lochkovian]]
+ from: -411.2    till: -407   color:earlydevonian    text:[[Pragian]]
+ from: -407    till: -397.5   color:earlydevonian    text:[[Emsian]]
+ from: -397.5    till: -391.8   color:middledevonian    text:[[Eifelian]]
+ from: -391.8    till: -385.3   color:middledevonian    text:[[Givetian]]
+ from: -385.3    till: -374.5   color:latedevonian    text:[[Frasnian]]
+ from: -374.5    till: -359.2   color:latedevonian    text:[[Famennian]]
+
+ bar:eratop
+ from: -416    till: -359.2   color:devonian    text:[[Devonian]]
+
+PlotData=
+ align:left fontsize:M mark:(line,white) width:5 anchor:till align:left
+
+ color:earlydevonian	bar:NAM1	from:	-416	till:	-414.4	text:	[[Kimaspis]]
+ color:earlydevonian	bar:NAM2	from:	-416	till:	-409.8	text:	[[Kosoraspis]]
+ color:earlydevonian	bar:NAM3	from:	-416	till:	-407	text:	[[Radotina]]
+ color:earlydevonian	bar:NAM4	from:	-412.8	till:	-411.2	text:	[[Dobrowlania]]
+ color:earlydevonian	bar:NAM5	from:	-412.8	till:	-411.2	text:	[[Palaeacanthaspis]]
+ color:earlydevonian	bar:NAM6	from:	-412.8	till:	-411.2	text:	[[Romundina]]
+ color:earlydevonian	bar:NAM7	from:	-411.2	till:	-407	text:	[[Breizosteus]]
+ color:earlydevonian	bar:NAM8	from:	-407	till:	-397.5	text:	[[Kolymaspis]]
+ color:earlydevonian	bar:NAM9	from:	-407	till:	-397.5	text:	[[Murrindalaspis]]
+ color:earlydevonian	bar:NAM10	from:	-407	till:	-397.5	text:	[[Weejasperaspis]]
+
+PlotData=
+ align:center textcolor:black fontsize:M mark:(line,black) width:25 
+  
+ bar:period
+ from: -416    till: -411.2   color:earlydevonian    text:[[Lochkovian]]
+ from: -411.2    till: -407   color:earlydevonian    text:[[Pragian]]
+ from: -407    till: -397.5   color:earlydevonian    text:[[Emsian]]
+ from: -397.5    till: -391.8   color:middledevonian    text:[[Eifelian]]
+ from: -391.8    till: -385.3   color:middledevonian    text:[[Givetian]]
+ from: -385.3    till: -374.5   color:latedevonian    text:[[Frasnian]]
+ from: -374.5    till: -359.2   color:latedevonian    text:[[Famennian]]
+
+ bar:era
+ from: -416    till: -359.2   color:devonian    text:[[Devonian]]
+
+
+== References ==
+
+
+== Further reading ==
+* Janvier, Philippe.  Early Vertebrates  Oxford, New York: Oxford University Press, 1998.  
+* Long, John A. The Rise of Fishes: 500 Million Years of Evolution Baltimore: The Johns Hopkins University Press, 1996.  
+*
+
+== External links ==
+* Mikko's Phylogeny Archive 
+
+
+
+
+ 
+Category:Prehistoric fish orders
+Category:Articles which contain graphical timelines

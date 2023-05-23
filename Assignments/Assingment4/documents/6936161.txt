@@ -1,0 +1,451 @@
+Title: List of municipalities of the Metropolitan City of Messina
+
+The following is a list of the 108 municipalities (comuni) of the Metropolitan City of Messina, Sicily, Italy.
+
+==List==
+{| class="wikitable sortable"
+!ISTAT Code
+!Comune
+!Population (2005)
+|-
+|083107
+|Acquedolci
+| align="right" |5,436
+|-
+|083001
+|Alcara li Fusi
+| align="right" |2,339
+|-
+|083002
+|Alì
+| align="right" |900
+|-
+|083003
+|Alì Terme
+| align="right" |2,609
+|-
+|083004
+|Antillo
+| align="right" |1,055
+|-
+|083005
+|Barcellona Pozzo di Gotto
+| align="right" |41,203
+|-
+|083006
+|Basicò
+| align="right" |730
+|-
+|083007
+|Brolo
+| align="right" |5,595
+|-
+|083008
+|Capizzi
+| align="right" |3,452
+|-
+|083009
+|Capo d'Orlando
+| align="right" |12,919
+|-
+|083010
+|Capri Leone
+| align="right" |4,240
+|-
+|083011
+|Caronia
+| align="right" |3,555
+|-
+|083012
+|Casalvecchio Siculo
+| align="right" |1,074
+|-
+|083013
+|Castel di Lucio
+| align="right" |1,477
+|-
+|083014
+|Castell'Umberto
+| align="right" |3,483
+|-
+|083015
+|Castelmola
+| align="right" |1,107
+|-
+|083016
+|Castroreale
+| align="right" |2,805
+|-
+|083017
+|Cesarò
+| align="right" |2,709
+|-
+|083018
+|Condrò
+| align="right" |510
+|-
+|083019
+|Falcone
+| align="right" |2,927
+|-
+|083020
+|Ficarra
+| align="right" |1,749
+|-
+|083021
+|Fiumedinisi
+| align="right" |1,616
+|-
+|083022
+|Floresta
+| align="right" |594
+|-
+|083023
+|Fondachelli-Fantina
+| align="right" |1,169
+|-
+|083024
+|Forza d'Agrò
+| align="right" |874
+|-
+|083025
+|Francavilla di Sicilia
+| align="right" |4,254
+|-
+|083026
+|Frazzanò
+| align="right" |889
+|-
+|083027
+|Furci Siculo
+| align="right" |3,287
+|-
+|083028
+|Furnari
+| align="right" |3,487
+|-
+|083029
+|Gaggi
+| align="right" |2,812
+|-
+|083030
+|Galati Mamertino
+| align="right" |3,026
+|-
+|083031
+|Gallodoro
+| align="right" |402
+|-
+|083032
+|Giardini-Naxos
+| align="right" |9,359
+|-
+|083033
+|Gioiosa Marea
+| align="right" |7,237
+|-
+|083034
+|Graniti
+| align="right" |1,550
+|-
+|083035
+|Gualtieri Sicaminò
+| align="right" |1,923
+|-
+|083036
+|Itala
+| align="right" |1,687
+|-
+|083037
+|Leni
+| align="right" |654
+|-
+|083038
+|Letojanni
+| align="right" |2,634
+|-
+|083039
+|Librizzi
+| align="right" |1,888
+|-
+|083040
+|Limina
+| align="right" |978
+|-
+|083041
+|Lipari
+| align="right" |10,763
+|-
+|083042
+|Longi
+| align="right" |1,610
+|-
+|083043
+|Malfa
+| align="right" |871
+|-
+|083044
+|Malvagna
+| align="right" |899
+|-
+|083045
+|Mandanici
+| align="right" |695
+|-
+|083046
+|Mazzarrà Sant'Andrea
+| align="right" |1,670
+|-
+|083047
+|Merì
+| align="right" |2,209
+|-
+|083048
+|Messina
+| align="right" |247,592
+|-
+|083049
+|Milazzo
+| align="right" |32,550
+|-
+|083050
+|Militello Rosmarino
+| align="right" |1,402
+|-
+|083051
+|Mirto
+| align="right" |1,083
+|-
+|083052
+|Mistretta
+| align="right" |5,374
+|-
+|083053
+|Mojo Alcantara
+| align="right" |801
+|-
+|083054
+|Monforte San Giorgio
+| align="right" |3,039
+|-
+|083055
+|Mongiuffi Melia
+| align="right" |743
+|-
+|083056
+|Montagnareale
+| align="right" |1,794
+|-
+|083057
+|Montalbano Elicona
+| align="right" |2,687
+|-
+|083058
+|Motta Camastra
+| align="right" |868
+|-
+|083059
+|Motta d'Affermo
+| align="right" |921
+|-
+|083060
+|Naso
+| align="right" |4,380
+|-
+|083061
+|Nizza di Sicilia
+| align="right" |3,615
+|-
+|083062
+|Novara di Sicilia
+| align="right" |1,606
+|-
+|083063
+|Oliveri
+| align="right" |2,076
+|-
+|083064
+|Pace del Mela
+| align="right" |6,169
+|-
+|083065
+|Pagliara
+| align="right" |1,223
+|-
+|083066
+|Patti
+| align="right" |13,224
+|-
+|083067
+|Pettineo
+| align="right" |1,502
+|-
+|083068
+|Piraino
+| align="right" |3,857
+|-
+|083069
+|Raccuja
+| align="right" |1,295
+|-
+|083070
+|Reitano
+| align="right" |915
+|-
+|083071
+|Roccafiorita
+| align="right" |261
+|-
+|083072
+|Roccalumera
+| align="right" |4,145
+|-
+|083073
+|Roccavaldina
+| align="right" |1,194
+|-
+|083074
+|Roccella Valdemone
+| align="right" |802
+|-
+|083075
+|Rodì Milici
+| align="right" |2,304
+|-
+|083076
+|Rometta
+| align="right" |6,458
+|-
+|083077
+|San Filippo del Mela
+| align="right" |7,138
+|-
+|083078
+|San Fratello
+| align="right" |4,371
+|-
+|083079
+|San Marco d'Alunzio
+| align="right" |2,155
+|-
+|083080
+|San Pier Niceto
+| align="right" |3,084
+|-
+|083081
+|San Piero Patti
+| align="right" |3,378
+|-
+|083082
+|San Salvatore di Fitalia
+| align="right" |1,573
+|-
+|083083
+|Santa Domenica Vittoria
+| align="right" |1,148
+|-
+|083084
+|Sant'Agata di Militello
+| align="right" |13,006
+|-
+|083085
+|Sant'Alessio Siculo
+| align="right" |1,363
+|-
+|083086
+|Santa Lucia del Mela
+| align="right" |4,759
+|-
+|083087
+|Santa Marina Salina
+| align="right" |818
+|-
+|083088
+|Sant'Angelo di Brolo
+| align="right" |3,656
+|-
+|083089
+|Santa Teresa di Riva
+| align="right" |9,092
+|-
+|083090
+|San Teodoro
+| align="right" |1,534
+|-
+|083091
+|Santo Stefano di Camastra
+| align="right" |4,553
+|-
+|083092
+|Saponara
+| align="right" |4,040
+|-
+|083093
+|Savoca
+| align="right" |1,661
+|-
+|083094
+|Scaletta Zanclea
+| align="right" |2,511
+|-
+|083095
+|Sinagra
+| align="right" |2,900
+|-
+|083096
+|Spadafora
+| align="right" |5,322
+|-
+|083097
+|Taormina
+| align="right" |10,863
+|-
+|083106
+|Terme Vigliatore
+| align="right" |6,716
+|-
+|083098
+|Torregrotta
+| align="right" |6,826
+|-
+|083108
+|Torrenova
+| align="right" |3,835
+|-
+|083099
+|Tortorici
+| align="right" |7,235
+|-
+|083100
+|Tripi
+| align="right" |1,008
+|-
+|083101
+|Tusa
+| align="right" |3,248
+|-
+|083102
+|Ucria
+| align="right" |1,264
+|-
+|083103
+|Valdina
+| align="right" |1,253
+|-
+|083104
+|Venetico
+| align="right" |3,763
+|-
+|083105
+|Villafranca Tirrena
+| align="right" |8,921
+|-
+|
+|Total
+| align="right" |657,785
+|-
+|}
+
+==See also==
+*List of municipalities of Italy
+

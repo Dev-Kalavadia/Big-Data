@@ -1,0 +1,121 @@
+Title: R7 expressway (Slovakia)
+
+
+R7 is an expressway () in southern Slovakia.
+
+It starts in Bratislava and will end near Lučenec. Its route starts in Bratislava in an intersection with the D1 motorway, and it continues through its other intersection with the D4 motorway and around the towns of Dunajská Streda, Nové Zámky, Veľký Krtíš and Lučenec, where it ends in an intersection with the R2 expressway. Another intersection with the R3 expressway is planned near the village of Horné Semerovce. The European route E575 will lead through the section between Bratislava and Dunajská Streda. The R7 expressway was included in the expressway network by the Resolution of the Slovak Government from November 10, 2004. Along with the R8 expressway it is the only expressway the route of which is not even partially based on plans from before 1989. With the current intentions of the Ministry of Transport, the completion of the entire expressway cannot be expected before 2050.
+
+== History ==
+The R7 expressway was intended to be a dual carriageway in the 90s. The preparation of the project was approved by the Slovak Government on the 26th of June 2003. In October 2005, a comprehensive technical study was prepared, followed by the preparation of documents and variant solutions for routing individual sections for environmental impact assessment. The opinions for the first sections were issued by the Slovak Ministry of Environment in May 2009.
+
+The foundation stone of the outer Bratislava bypass, which includes, in addition to the D4 motorway, also sections of the R7 road, was ceremonially tapped on October 24, 2016, in the presence of the Minister of Transport Árpád Érsek. The first two sections from the Bratislava, South intersection (D4xR7) to holice were opened on the 19th of July 2020. The section between the Bratislava, Nivy and Bratislava, South intersections was opened on the 3rd of October 2021.
+
+== Sections of the expressway ==
+{| class="wikitable sortable"
+!Section
+number
+!Section name
+!Section length in km
+!Year of commencement of works on the section
+!Year of section completion
+!Exits and junctions (x) with other motorways
+|- 
+|1.
+|R7xD1 Bratislava, Nivy I intersection -                         R7xD4 Bratislava - juh (Bratislava, South) intersection
+|6,4
+|2016
+|2021
+|1. Bratislava - Nivy I,     R7xD1intersection
+
+2. Bratislava - Nivy II (Slovnaftská)
+|-
+|2.
+|R7xD4 Bratislava, juh (Bratislava, South) - Šamorín, západ (Šamorín, West)
+|8,4
+|2016
+|2020
+|1. Bratislava - juh,          R7xD4 intersection 
+2. Šamorín - Západ (West)
+|-
+|3.
+|Šamorín, západ (Šamorín, West) - Holice
+|17,4
+|2016
+|2020
+|1. Šamorín - sever (North)
+
+2. Holice
+|- style="background-color: #e56262"
+|4.
+|Holice - Mliečany
+|11,0
+|2028
+|?
+|1. Dunajská Streda
+
+2. Mliečany
+|- style="background-color: #e56262"
+|5.
+|Mliečany - Dolný Bar
+|9,5
+|2028
+|?
+|1. Dolný Bar
+|- style="background-color: #e56262"
+|6.
+|Dolný Bar - Zemné
+|23,5
+|2028
+|?
+|1. Zemné
+|- style="background-color: #e56262"
+|7.
+|Zemné - Nové Zámky
+|14,3
+|2028
+|?
+|1. Nové Zámky
+|- style="background-color: #e56262"
+|8.
+|Nové Zámky - Čaka
+|29,2
+|2028
+|?
+|1. Bešeňov
+
+2. Čaka
+|- style="background-color: #e56262"
+|9.
+|Čaka - Veľký Krtíš
+|71,3
+|2028
+|?
+|1. Šárovce
+
+2. Demandice
+
+3. Tupá
+
+4. Šahy, R7xR3 intersection
+
+5. Tešmák
+
+6. Veľký Krtíš
+|- style="background-color: #e56262"
+|10.
+|Veľký Krtíš - Lučenec, R7xR2 intersection
+|32,8
+|2028
+|?
+|1. Kľačany
+
+2. Lučenec, R7xR2 intersection
+|}
+
+== Gallery ==
+
+File:R7 Ketelec.jpg|R7 expressway near D4 intersection Ketelec
+File:R7 Šamorín 01.jpg|R7 expressway near intersection Šamorín-Západ
+File:R7 Šamorín 02.jpg|R7 expressway near Šamorín
+
+

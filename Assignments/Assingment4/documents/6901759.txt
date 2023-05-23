@@ -1,0 +1,25 @@
+Title: Stone of Eric
+
+
+The Stone of Eric, listed as DR 1 in the Rundata catalog, is a memorial runestone that was found in Northern Germany. This area was part of Denmark during the Viking Age.
+
+==Description==
+The Stone of Eric is one of the Hedeby stones. It was found in 1796 at Danevirke and moved to a park in Schleswig. Like the Skarthi Rune stone, DR 3, it is believed to have been raised in about 995 C.E. Its inscription describes an attack from the Swedish king Eric the Victorious on Hedeby, who took advantage of the fact that Sweyn Forkbeard was campaigning in England.
+
+The inscription refers to King Sweyn's hemþægi or heimþegi (pl. heimþegar), meaning "home-receiver" (i.e., one who is given a house by another). A total of six runestones in Denmark refer to a person with this title, the others being DR 3 in Haddeby, the now-lost DR 154 in Torup, DR 155 in Sjørind, and DR 296 and DR 297 in Hällestad. The use of the term in the inscriptions suggest a strong similarity between heimþegar and the Old Norse term húskarl (literally, "house man"), or housecarl. Like housecarls, heimþegar are in the service of a king or lord, of whom they receive gifts (here, homes) for their service. Some, like Johannes Brøndsted, have interpreted heimþegi as being nothing more than a local Danish variant of húskarl.
+
+The runic text also describes Erik as being a styrimann, a title often translated as "captain" and which describes a person who was responsible for navigation and watchkeeping on a ship. pp. 104-106. This term is also used in inscriptions on Sö 161 in Råby, U 1011 in Örby, U 1016 in Fjuckby, and U Fv1976;104 at the Uppsala Cathedral. Thorulf describes the relationship between himself and Erik using the term félag, which refers to a joint financial venture between partners. Several other runestones mention that the deceased using some form of félag include Sö 292 in Bröta, Vg 112 in Ås, Vg 122 in Abrahamstorp, the now-lost Vg 146 in Slöta, Vg 182 in Skattegården, U 391 in Villa Karlsro, the now-lost U 954 in Söderby, DR 66 and DR 68 in Århus, DR 125 in Dalbyover, DR 127 in Hobro, DR 262 in Fosie, DR 270 in Skivarp, DR 279 in Sjörup, DR 316 in Norra Nöbbelöv, DR 318 in Håstad, DR 321 in Västra Karaby, DR 329 and DR 330 in Gårdstånga, DR 339 in Stora Köpinge, and X UaFv1914;47 in Berezanj, Ukraina.
+
+Erik at the end of the text is described as being drængʀ harþa goþan meaning "a very good valiant man." A drengr in Denmark was a term mainly associated with members of a warrior group. It has been suggested that drengr along with thegn was first used as a title associated with men from Denmark and Sweden in service to Danish kings, but, from its context in inscriptions, over time became more generalized and was used by groups such as merchants or the crew of a ship. Other runestones describing the deceased using the words harþa goþan dræng in some order include DR 68 in Århus, DR 77 in Hjermind, DR 127 in Hobro, DR 268 in Östra Vemmenhög, DR 276 in Örsjö, DR 288 and DR 289 in Bjäresjö, Sm 48 in Torp, Vg 61 in Härlingstorp, Vg 90 in Torestorp, Vg 112 in Ås, Vg 114 in Börjesgården, the now-lost Vg 126 in Larvs, Vg 130 in Skånum, Vg 153 and Vg 154 in Fölene, Vg 157 in Storegården, Vg 162 in Bengtsgården, Vg 179 in Lillegården, Vg 181 in Frugården, Vg 184 in Smula (using a plural form), the now-lost Ög 60 in Järmstastenen, Ög 104 in Gillberga, and possibly on U 610 in Granhammar.
+
+The stone is known locally as the Eriksten.
+
+==Transliteration of the runes into Latin characters==
+:A × þurlfr| × |risþi × stin × þonsi × ¶ × himþigi × suins × eftiʀ × ¶ erik × filaga × sin × ias × uarþ
+:B : tauþr × þo × trekiaʀ ¶ satu × um × haiþa×bu ¶ × i=a=n : h=a=n : u=a=s : s=t=u=r=i:m=a=t=r : t=r=e=g=ʀ × ¶ × harþa : kuþr ×Project Samnordisk Runtextdatabas Svensk - Rundata entry for DR 1.
+
+==See also==
+*List of runestones
+*Sædinge Runestone
+*Sigtrygg Runestones
+

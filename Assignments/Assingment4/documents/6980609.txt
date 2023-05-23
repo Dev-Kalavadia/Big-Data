@@ -1,0 +1,44 @@
+Title: Maziar Ashrafian Bonab
+
+
+Dr Maziar Ashrafian Bonab (MD, MSc, PhD, PGCLTHE) (Persian: مازیار اشرفیان بناب)  is an Iranian forensic pathologist and a medical geneticist specialising in forensic and cancer genetics (the use of the DNA markers in the investigation of crime, biological anthropology and cancer genetics) and Forensic Facial Reconstruction. Part of his groundbreaking research uses human DNA markers (mainly mtDNA and the Y chromosome markers) to identify the ancestral history of humans/human populations in both anthropological and forensic cases. His main area of research is Cancer Genetics.
+thumb
+Maziar was born in Tehran, Iran (September 1966).  Before completing his PhD in Cambridge, he first qualified as a Medical Doctor from Tehran University of Medical Sciences (1984–1991) and worked as a Medical Practitioner in Iran. After completing a postgraduate course in Forensic Medicine at the Iranian Legal Medical Organization (1992), he worked as the head of Hormozgan Province Legal Medical Centre (Iran) for four years (1992–1996). As well as dealing with many different forensic cases and having done more than 400 autopsies, he taught forensic medicine and medical anthropology to the undergraduate and postgraduate degree programmes within the Bandar-Abbas University of Medical Sciences and Bandar-Abbas Islamic Azad University.
+
+From 1996 to 2002, he worked as an academic member of the Iranian Archaeological Research Centre at the Cultural Heritage Organization of Iran (ICHO) - and as a forensic anthropologist, he participated in seventeen archaeological excavations around Iran.Persian 
+
+At the same time as the founder and head of The National Museum of Medical Sciences History (Iran), he worked in the first medical museum in the country and the largest one in the Middle East. In 2003 he completed an MSc degree in Archaeology (2002–2003) at the Department of Biomolecular Sciences; University of Manchester Institute of Science and Technology, and in October 2003, he started a PhD in the field of Genetics at the University of Cambridge.
+He has published various books and papers on his research.
+In his current research, he is using genetic tools to investigate the maternal and paternal history of the Iranian ethnic groups and also the emergence of the first farmers in the Iranian Plateau (eastern parts of the Fertile Crescent) and the origin of Aryans (Indo-Iranians) and Indo-Aryan race theory. His research also included the following:
+* Understanding of how the genetic variants contribute to disease.
+* Development of new methods to address questions regarding genetic disorders, particularly various cancers.
+* Investigation of the genetic variations in the connexin genes that lead to various human disorders, such as diabetes, cardiovascular diseases, congenital disorders and secondary lymphedema.
+* Identifying genes predisposing humans to cancer or contributing to cancer growth through somatic changes.
+
+
+==Published Papers==
+* Upregulation of long non-coding RNAs BACE1 and downregulation of LINC-PINT are associated with CRC clinicopathological characteristics;. Mol Biol Rep. 2022 Nov; 49(11):10259-10267. doi: 10.1007/s11033-022-07707-4. Epub 2022 Sep 10. PMID: 36087249; PMCID: PMC9618545.
+* Oncogenic Role of Connective Tissue Growth Factor Is Associated with Canonical TGF-β Cascade in Colorectal Cancer. Genes (Basel);. 2022 Apr 14;13(4):689. doi: 10.3390/genes13040689. PMID: 35456495; PMCID: PMC9031605.
+* ANRIL as a prognostic biomarker in colon pre-cancerous lesion detection via non-invasive sampling. Genes Genet Syst;. 2022 Apr 21;96(6):285-292. doi: 10.1266/ggs.21-00102. Epub 2022 Mar 17. PMID: 35296566.
+* Insights into the Role of Matrix Metalloproteinases in Precancerous Conditions and Colorectal Cancer;. Cancers (Basel). 2021 Dec 10;13(24):6226. [https://pubmed.ncbi.nlm.nih.gov/34944846/ doi: 10.3390/cancers13246226]. PMID: 34944846; PMCID: PMC8699154.
+* The effective function of circular RNA in colorectal cancer;. Cancer Cell Int. 2021 Sep 17;21(1):496. doi: 10.1186/s12935-021-02196-0. PMID: 34535136; PMCID: PMC8447721.
+* Lack of association between VEGF -2578C/A polymorphism and risk of colorectal cancer in an Iranian population;. Gastroenterol Hepatol Bed Bench. 2020 Winter;13(Suppl1):S47-S52. PMID: 33585003; PMCID: PMC7881395.
+* APC and AXIN2 Are Promising Biomarker Candidates for the Early Detection of Adenomas and Hyperplastic Polyps;. Cancer Inform. 2020 Nov 11;19:1176935120972383. doi: 10.1177/1176935120972383. PMID: 33239858; PMCID: PMC7672736.
+* The Differential DNA Hypermethylation Patterns of microRNA-137 and microRNA-342 Locus in Early Colorectal Lesions and Tumours;. Biomolecules. 2019 Sep 21;9(10):519. doi: 10.3390/biom9100519. PMID: 31546665; PMCID: PMC6843302. 
+* The Application of Gene Expression Profiling in Predictions of Occult Lymph Node Metastasis in Colorectal Cancer Patients;. Biomedicines. 2018 Mar 2;6(1):27. doi: 10.3390/biomedicines6010027. PMID: 29498671; PMCID: PMC5874684.
+* GJA4/Connexin 37 Mutations Correlate with Secondary Lymphedema Following Surgery in Breast Cancer Patients;. Biomedicines. 2018 Feb 22;6(1):23. doi: 10.3390/biomedicines6010023. PMID: 29470392; PMCID: PMC5874680.
+* Mapping Post-Glacial expansions: The Peopling of Southwest Asia;. Sci Rep. 2017 Jan 6;7:40338. doi: 10.1038/srep40338. PMID: 28059138; PMCID: PMC5216412.
+* An old dog and new tricks: Genetic analysis of a Tudor dog recovered from the Mary Rose wreck;. Forensic Sci Int. 2014 Dec;245:51-7. doi: 10.1016/j.forsciint.2014.10.001. Epub 2014 Oct 14. PMID: 25447174.
+* Afghanistan's ethnic groups share a Y-chromosomal heritage structured by historical events;. PLoS One. 2012;7(3):e34288. doi: 10.1371/journal.pone.0034288. Epub 2012 Mar 28. PMID: 22470552; PMCID: PMC3314501.
+* Influences of history, geography, and religion on genetic structure: the Maronites in Lebanon;. Eur J Hum Genet. 2011 Mar;19(3):334-40. doi: 10.1038/ejhg.2010.177. Epub 2010 Dec 1. PMID: 21119711; PMCID: PMC3062011.
+* Distribution of killer cell immunoglobulin-like receptors (KIR) and their HLA-C ligands in two Iranian populations;. Immunogenetics. 2010 Feb;62(2):65-73. doi: 10.1007/s00251-009-0408-5. Erratum in: Immunogenetics. 2010 Apr;62(4):261. Ebrahimi, Zahra [added]. PMID: 19936734; PMCID: PMC2814031.
+* Geographical structure of the Y-chromosomal genetic landscape of the Levant: a coastal-inland contrast;. Ann Hum Genet. 2009 Nov;73(Pt 6):568-81. doi: 10.1111/j.1469-1809.2009.00538.x. Epub 2009 Aug 16. PMID: 19686289; PMCID: PMC3312577.
+* Is urbanization scrambling the genetic structure of human populations? A case study;. Heredity (Edinb). 2007 Mar;98(3):151-6. doi: 10.1038/sj.hdy.6800918. Epub 2006 Nov 15. PMID: 17106453; PMCID: PMC1808191.
+
+==Published Books==
+* Ashrafian Bonab M (2001), Author, “Essentials of Forensic Medicine”, Teimorzadeh Publication Co., Tehran, Iran, ISBN: 964-456-511-8;.
+* Ashrafian Bonab M (2000), Current Surgery Diagnosis and treatment, 9th Edition (Translation: English to Farsi), Teimorzadeh Publication Co., ISBN: 964-456-168-6;.
+* Ashrafian Bonab M (1999), Outline of Fractures, 11th Edition (Translation: English to Farsi), Teimorzadeh Publication Co., ISBN: 964-456-199-6;.
+* Ashrafian Bonab M (1998), Outline of Orthopaedics (Adams), 12th edition (Translation: English to Farsi), Tabib Publication Co., ISBN: 964-456-199-6;.
+* Ashrafian Bonab M (1998), The Archaeology of Human Bones, Simon Mays; (Translation: English to Farsi), Iranian Cultural Heritage Organization publications, ISBN: 964-7483-17-1;.
+

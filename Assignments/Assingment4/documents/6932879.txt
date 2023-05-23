@@ -1,0 +1,106 @@
+Title: Aurora kinase A
+
+Aurora kinase A also known as serine/threonine-protein kinase 6 is an enzyme that in humans is encoded by the AURKA gene.
+
+Aurora A is a member of a family of mitotic serine/threonine kinases. It is implicated with important processes during mitosis and meiosis whose proper function is integral for healthy cell proliferation.  Aurora A is activated by one or more phosphorylations and   its activity peaks during the G2 phase to M phase transition in the cell cycle.
+
+== Discovery ==
+
+The aurora kinases were first identified  in 1990 during a cDNA screen of Xenopus eggs.  The kinase discovered, Eg2, is now referred to as Aurora A.  However, Aurora A's meiotic and mitotic significance was not recognized until 1998.
+
+== Aurora kinase family ==
+
+The human genome contains three members of the aurora kinase family: Aurora kinase A, Aurora kinase B and Aurora C kinase. The Xenopus, Drosophila, and Caenorhabditis elegans genomes, on the other hand, contain orthologues only to Aurora A and Aurora B.
+
+In all studied species, the three Aurora mitotic kinases localize to the centrosome during different phases of mitosis.  The family members have highly conserved C-terminal catalytic domains.  Their N-terminal domains, however, exhibit a large degree of variance in the size and sequence.
+
+Aurora A and Aurora B kinases play important roles in mitosis. The Aurora kinase A is associated with centrosome maturation and separation and thereby regulates spindle assembly and stability. The Aurora kinase B is a chromosome passenger protein and regulates chromosome segregation and cytokinesis.
+
+Although there is evidence to suggest that Aurora C might be a chromosomal passenger protein, the cellular function of it is less clear.
+
+== Localization ==
+
+Aurora A localizes next to the centrosome late in the G1 phase and early in the S phase.  As the cell cycle progresses, concentrations of Aurora A increase and the kinase associates with the mitotic poles and the adjacent spindle microtubules.  Aurora A remains associated with the spindles through telophase. Right before mitotic exit, Aurora A relocalizes to the mid-zone of the spindle.
+
+== Mitosis ==
+
+During mitosis, a mitotic spindle is assembled by using microtubules to tether together the mother centrosome to its daughter.  The resulting mitotic spindle is then used to propel apart the sister chromosomes into what will become the two new daughter cells.  Aurora A is critical for proper formation of mitotic spindle.  It is required for the recruitment of several different proteins important to the spindle formation.  Among these target proteins are TACC, a microtubule-associated protein that stabilizes centrosomal microtubules and Kinesin 5, a motor protein involved in the formation of the bipolar mitotic spindle.  γ-tubulins, the base structure from which centrosomal microtubules polymerize, are also recruited by Aurora A.  Without Aurora A the centrosome does not accumulate the quantity of γ-tubulin that normal centrosomes recruit prior to entering anaphase.  Though the cell cycle continues even in the absence of sufficient γ-tubulin, the centrosome never fully matures; it organizes fewer aster microtubules than normal.
+	
+Furthermore, Aurora A is necessary for the proper separation of the centrosomes after the mitotic spindle has been formed. Without Aurora A, the mitotic spindle, depending on the organism, will either never separate or will begin to separate only to collapse back onto itself.  In the case of the former, it has been suggested that Aurora A cooperates with the kinase Nek2 in Xenopus to dissolve the structure tethering the cell's centrosomes together.  Therefore, without proper expression of Aurora A, the cell's centrosomes are never able to separate.
+
+Aurora A also assures proper organization and alignment of the chromosomes during prometaphase. It is directly involved in the interaction of the kinetochore, the part of the chromosome at which the mitotic spindle attaches and pulls, and the mitotic spindle's extended microtubules.  It is speculated that Aurora B cooperates with Aurora A to complete this task.  In the absence of Aurora A mad2, a protein that normally dissipates once a proper kinetochore-microtubule connection is made, remains present even into metaphase.
+
+Finally, Aurora A helps orchestrate an exit from mitosis by contributing to the completion of cytokinesis- the process by which the cytoplasm of the parent cell is split into two daughter cells. During cytokinesis the mother centriole returns to the mid-body of the mitotic cell at the end of mitosis and causes the central microtubules to release from the mid-body.  The release allows mitosis to run to completion.  Though the exact mechanism by which Aurora A aids cytokinesis is unknown, it is well documented that it relocalizes to the mid-body immediately before the completion of mitosis.
+
+Intriguingly, abolishment of Aurora A through RNAi interference results in different mutant phenotypes in different organisms and cell types.  For example, deletion of Aurora A in C. elegans results in an initial separation of the cell's centrosomes followed by an immediate collapse of the asters.  In Xenopus, deletion disallows the mitotic spindle from ever even forming. And in Drosophila, flies without Aurora A will effectively form spindles and separate but the aster microtubules will be dwarfed.  These observations suggests that while Aurora-A has orthologues in many different organisms, it may play a similar but slightly different role in each.
+
+== Meiosis ==
+
+Aurora A phosphorylation directs the cytoplasmic polyadenylation translation of mRNA's, like the MAP kinase kinase kinase  protein MOS, that are vital to the completion of meiosis in Xenopus Oocytes. Prior to the first meiotic metaphase, Aurora A induces the synthesis of MOS.  The MOS protein accumulates until it exceeds a threshold and then transduces the phosphorylation cascade in the map kinase pathway.  This signal subsequently activates the kinase RSK which in turn binds to the protein Myt1.  Myt1, in complex with RSK, is now unable to inhibit cdc2.  As a consequence, cdc2 permits entry into meiosis.  A similar Aurora A dependent process regulates the transition from meiosis I-meiosis II.
+
+Furthermore, Aurora A has been observed to have a biphasic pattern of activation during progression through meiosis.  It has been suggested that the fluctuations, or phases, of Aurora A activation are dependent on a positive-feedback mechanism with a p13SUC1-associated protein kinase
+
+== Protein translation ==
+
+Aurora A is not only implicated with the translation of MOS during meiosis but also in the polyadenylation and subsequent translation of neural mRNAs whose protein products are associated with synaptic plasticity.
+
+== Clinical significance ==
+
+Aurora A dysregulation has been associated with high occurrence of cancer. For example, one study showed over-expression of Aurora A in 94 percent of the invasive tissue growth in breast cancer, while surrounding, healthy tissues had normal levels of Aurora A expression. Aurora A has also been shown to be involved in the Epithelial–mesenchymal transition and Neuroendocrine Transdifferentiation of Prostate Cancer cells in aggressive disease.
+
+Dysregulation of Aurora A may lead to cancer because Aurora A is required for the completion of cytokinesis. If the cell begins mitosis, duplicates its DNA, but is then not able to divide into two separate cells it becomes an aneuploid- containing more chromosomes than normal.  Aneuploidy is a trait of many cancerous tumors.  Ordinarily, Aurora A expression levels are kept in check by the tumor suppressor protein p53.
+
+Mutations of the chromosome region that contains Aurora A, 20q13, are generally considered to have a poor prognosis.
+
+Osimertinib and rociletinib, two anti cancer drugs for lung cancer, work by shutting off mutant EGFR, which initially kills cancerous tumors, but the tumors rewire and activate Aurora kinase A, becoming cancerous growths again.  According to a 2018 study, targeting both EGFR and Aurora prevents return of drug resistant tumors.
+
+== Interactions ==
+
+Aurora A kinase has been shown to interact with:
+
+* MBD3,
+* NME1,
+* P53,
+* TACC1,
+* TPX2, and
+* UBE2N.
+
+
+== References ==
+
+
+== Further reading ==
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+==External links==
+* 
+* PDBe-KB provides an overview of all the structure information available in the PDB for Human Aurora kinase A 
+* PDBe-KB provides an overview of all the structure information available in the PDB for Mouse Aurora kinase A
+
+
+
+
+
+
+
+Category:Cell cycle
+Category:EC 2.7.11
+Category:Cancer research

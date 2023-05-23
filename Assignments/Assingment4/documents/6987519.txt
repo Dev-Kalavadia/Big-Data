@@ -1,0 +1,41 @@
+Title: Locknut
+
+thumb|Nylon lock nuts ('Nyloc') 
+
+A locknut, also known as a lock nut, locking nut, self-locking nut, prevailing torque nut,. stiff nut or elastic stop nut, is a nut that resists loosening under vibrations and torque. Prevailing torque nuts have some portion of the nut that deforms elastically to provide a locking action.  Free-spinning locknuts exist which carry the advantage of not requiring extra torque until seated. 
+
+==Types==
+
+
+There are various kinds of specialised lock nuts, including:
+
+* Castellated nut
+* Distorted thread locknut
+**Centerlock nut
+**Elliptical offset locknut
+**Toplock nut
+**Philidas nut
+* Interfering thread nut
+**Tapered thread nut
+* Jam nut
+* Jet nut (K-nut).
+* Keps nut (K-nut or washer nut) with a free-spinning washer. In the locknut form, this is a star-type lock washer.
+* Plate nut
+* Polymer insert nut (Nyloc nut)
+* Security locknut All steel reusable nut for high vibration and harsh environments.
+* Serrated face nut
+* Serrated flange nut
+* Speed nut (sheet metal nut or Tinnerman nut)
+* Split beam nut (BINX nut.)
+* Eccentric double nut A free spinning locknut composed of two nuts, one with a protruding section, one with a recessed section.
+
+
+==Prevailing torque values==
+Prevailing torque differentiates a locknut from a free spinning nut based on a value of how much torque is required during installation before clamp loading. For example, on a nylon-insert nut, it is the torque needed to overcome the resistance of the nylon dragging across the mating thread. This torque value is usually not very high relative to final installation torque. Tolerance ranges for torque are specified in some standards such as (ISO, DIN, IFI, ASME, SAE, AN-, MS-, NAS- NASM-).
+
+==Prevention of loosening==
+Locknuts are one way to prevent vibration from loosening a bolted joint.  Other methods include safety wire, lock washers, and thread-locking fluid.
+
+==See also==
+* Mechanical joint
+

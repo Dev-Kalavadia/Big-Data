@@ -1,0 +1,543 @@
+Title: Lycaon (king of Arcadia)
+
+
+
+In Greek mythology, Lycaon (/laɪˈkeɪɒn/; , Lukáо̄n, ) was a king of Arcadia who, in the most popular version of the myth, tested Zeus' omniscience by serving him the roasted flesh of Lycaon's own son Nyctimus, in order to see whether Zeus was truly all-knowing.
+
+In return for these gruesome deeds, Zeus transformed Lycaon into a wolf and killed his offspring; Nyctimus was restored to life.
+
+Despite being notorious for his horrific deeds, Lycaon was also remembered as a culture hero: he was believed to have founded the city Lycosura, to have established a cult of Zeus Lycaeus and to have started the tradition of the Lycaean Games, which Pausanias thinks were older than the Panathenaic Games.Pausanias, 8.2.1 According to Gaius Julius Hyginus (d. AD 17), Lycaon dedicated the first temple to Hermes of Cyllene.Hyginus, Fabulae 225
+
+== Family ==
+Lycaon was the son of Pelasgus and either the Oceanid MeliboeaApollodorus, 3.8.1; Tzetzes on Lycophron, 481 or Deianira, daughter of another Lycaon.Dionysius of Halicarnassus, Antiquitates Romanae 1.11.2 & 1.13.1; Greek Papyri III No. 140b His wife was called Cyllene, an Oread nymph who gave her name to Mount CyllenêDionysius of Halicarnassus, Antiquitates Romanae 1.13.1 though sometimes she was regarded as his mother instead.Apollodorus, 3.8.1; Scholia ad Euripides, Orestes 1642 In some accounts, the Arcadian town Nonakris was thought to have been named after his wife.Pausanias, 8.17.6 Lycaon was also known to have had at least three daughters: Callisto, DiaTzetzes on Lycophron, 480; Scholia on Apollonius Rhodius, Argonautica, 1.1213; Etymologicum Magnum, 288. 33 (under Dryops) and Psophis.Stephanus of Byzantium, s.v. Psōphis
+
+===Sons of Lycaon===
+According to the Bibliotheca (Pseudo-Apollodorus), Lycaon has 50 sons.Apollodorus, 3.8.1 An alternate list of Lycaon's sons is given by Pausanias. According to his account, almost each of them founded a city in Arcadia and became its eponym.Pausanias, 8.3.1–5
+{| class="wikitable"
+|+List of Lycaon's sons
+!Name
+! colspan="2" |Apollodorus
+!Pausanias
+!Others
+!Notes
+|-
+|Acacus
+|
+|
+|✓
+|
+|foster-father of Hermes; founded Acacesium
+|-
+|Acontes
+|1
+|✓
+|
+|
+|
+|-
+|Aegaeon
+|2
+|✓
+|
+|
+|
+|-
+|Alipherus
+|3
+|✓
+|✓
+|
+|founded Aliphera
+|-
+|Ancyor
+|4
+|✓
+|
+|
+|
+|-
+|Archebates
+|5
+|✓
+|
+|
+|
+|-
+|Aseatas
+|
+|
+|✓
+|
+|founded Asea
+|-
+|Bucolion
+|6
+|✓
+|
+|
+|
+|-
+|Canethus
+|7
+|✓
+|
+|
+|
+|-
+|Carteron
+|8
+|✓
+|
+|
+|
+|-
+|Caucon
+|9
+|✓
+|
+|✓Tzetzes on Lycophron, 481
+|eponym of the Caucones that were believed to have settled in Triphylia
+|-
+|Ceteus
+|
+|
+|
+|✓Hyginus, Astronomica 2.1.6 with Araethus of Tegea as authority
+|father of Callisto or Megisto
+|-
+|Charisius
+|
+|
+|✓
+|
+|founded Charisia
+|-
+|Cleitor
+|10
+|✓
+|
+|✓
+|possibly eponym of Cleitor
+|-
+|Coretho
+|11
+|✓
+|
+|
+|
+|-
+|Cromus
+|
+|
+|✓
+|
+|founded Cromi
+|-
+|Cynaethus
+|12
+|✓
+|
+|
+|
+|-
+|Daseatas
+|
+|
+|✓
+|
+|founded Dasea
+|-
+|Eleuther
+|
+|
+|
+|✓Plutarch, Quaestiones Graecae, 39
+|stayed aside from the abomination
+|-
+|Euaemon
+|13
+|✓
+|
+|
+|possibly eponym of Euaemon
+|-
+|Eumetes
+|14
+|✓
+|
+|
+|
+|-
+|Eumon
+|15
+|✓
+|
+|
+|
+|-
+|Genetor
+|16
+|✓
+|
+|
+|
+|-
+|Haemon
+|17
+|✓
+|
+|✓
+|possibly eponym of Haemoniae
+|-
+|Harpaleus
+|18
+|✓
+|
+|
+|
+|-
+|Harpalycus
+|19
+|✓
+|
+|
+|
+|-
+|Helix
+|20
+|✓
+|
+|
+|
+|-
+|Helisson
+|
+|
+|✓
+|
+|founded the town of Helisson (also gave his name to a nearby river)
+|-
+|Heraeus
+|21
+|✓
+|✓
+|
+|founded Heraea
+|-
+|Hopleus
+|22
+|✓
+|
+|
+|
+|-
+|Horus
+|23
+|✓
+|
+|
+|
+|-
+|Hyperes
+|
+|
+|
+|✓Stephanus of Byzantium, s.v. Hyperēsia
+|founded Hyperesia
+|-
+|Hypsus
+|
+|
+|✓
+|
+|founded Hypsus
+|-
+|Lebadus
+|
+|
+|
+|✓
+|stayed aside from the abomination
+|-
+|Leo(n)
+|24
+|✓
+|
+|
+|
+|-
+|Linus
+|25
+|✓
+|
+|
+|
+|-
+|Lycius
+|26
+|✓
+|✓(possibly)
+|✓
+|founded Lycoa
+|-
+|Macareus
+|27
+|✓
+|✓
+|
+|founded Macaria
+|-
+|Macednus
+|28
+|✓
+|
+|
+|founded Macedonia
+|-
+|Maenalus
+|29
+|✓
+|✓
+|✓
+|founded Maenalus
+|-
+|Mantineus
+|30
+|✓
+|✓
+|✓
+|founded Mantinea
+|-
+|Mecisteus
+|31
+|✓
+|
+|
+|
+|-
+|Melaeneus
+|32
+|✓
+|✓ (possibly)
+|
+|founded Melaeneae
+|-
+|Nyctimus
+|33
+|✓
+|✓
+|✓
+|succeeded to Lycaon's power
+|-
+|Oenotrus
+|
+|
+|✓
+|✓Dionysius of Halicarnassus, Antiquitates Romanae 1.11.2
+|the youngest, founded Oenotria in Italy
+|-
+|Orchomenus
+|34
+|✓
+|✓
+|✓
+|founded Orchomenus and Methydrium
+|-
+|Orestheus
+|
+|
+|✓
+|
+|founded Oresthasium
+|-
+|Pallas
+|35
+|✓
+|✓
+|
+|founded Pallantium
+|-
+|Parrhasius
+|
+|
+|
+|✓The dictionary of classical mythology, Pierre Grimal, p. 346-7
+|founded Parrhasia and said to be the father of Arcas
+|-
+|Peraethus
+|
+|
+|✓
+|
+|founded Peraetheis
+|-
+|Peucetius
+|36
+|✓
+|
+|
+|
+|-
+|Phassus
+|37
+|✓
+|
+|
+|
+|-
+|Phigalus
+|
+|
+|✓
+|
+|founded Phigalia
+|-
+|Phineus
+|38
+|✓
+|
+|
+|
+|-
+|Phthius
+|39
+|✓
+|
+|✓
+|possibly eponym of Phthiotis
+|-
+|Physius
+|40
+|✓
+|
+|
+|
+|-
+|Plato(n)
+|41
+|✓
+|
+|
+|
+|-
+|Polichus
+|42
+|✓
+|
+|
+|
+|-
+|Portheus
+|43
+|✓
+|
+|
+|
+|-
+|Prothous
+|44
+|✓
+|
+|
+|
+|-
+|Socleus
+|45
+|✓
+|
+|
+|
+|-
+|Stymphalus
+|46
+|✓
+|
+|✓
+|possibly eponym of the town Stymphalus
+|-
+|Teleboas
+|47
+|✓
+|
+|✓
+|
+|-
+|Tegeates
+|
+|
+|✓
+|
+|founded Tegea
+|-
+|Thesprotus
+|48
+|✓
+|
+|✓
+|founded Thesprotia
+|-
+|Thocnus
+|
+|
+|✓
+|
+|founded Thocnia
+|-
+|Thyraeus
+|
+|
+|✓
+|
+|founded Thyraeum
+|-
+|Titanas
+|49
+|✓
+|
+|
+|
+|-
+|Trapezeus
+|
+|
+|✓
+|
+|founded Trapezus
+|-
+|Tricolonus
+|
+|
+|✓
+|
+|founded Tricoloni
+|}
+
+==Sources==
+There are several versions of the Lycaon myth already reported by Hesiod (Fragmenta astronomica, by Eratosthenes, Catasterismi), told by several authors. The most popular version is the one reported by Ovid in the first book of his Metamorphoses.
+
+The different versions of the myth are as follows:
+
+* According to the Bibliotheca, Lycaon had sired 50 sons with many wives. These sons were the most nefarious and carefree of all people. To test them Zeus visited them in the form of a peasant. They mixed the entrails of a child into the god's meal, whereupon the enraged Zeus threw the meal over the table, which explains the name of the city Trapezus (from τραπέζι "table"), and killed Lycaon and his sons with lightning. Only the youngest son, Nyctimus, was saved due to the intervention of Gaia.Apollodorus, 3.8.1–2
+* John Tzetzes records two similar versions which agree with Apollodorus' account; one mentions that the idea to serve Zeus a slaughtered child belonged to Maenalus, one of Lycaon's sons, while the other makes Nyctimus the victim.
+* According to Pausanias, Lycaon was instantly transformed into a wolf after sacrificing a child on the altar of Zeus and sprinkling the blood on the altar.Pausanias, 8.2.3
+* According to Lycophron, all were transformed into wolves for having devoured Nyctimus. Lycophron extends the characteristics of Lycaon and his sons onto all the Arcadians.Lycophron, 480
+* The version recounted by Hyginus in his FabulaeHyginus, Fabulae, 176 is basically the same as that of Pseudo-Apollodorus. In Astronomica, Hyginus describes the victim of Lycaon as being Arcas, son of Jupiter (Zeus) and Callisto, the daughter of Lycaon. When saved and restored to life, Arcas was brought up to be a hunter. By mistake, he hunted himself and his mother (for the moment transformed into a bear) into a temple where entrance was punished by death. Both were saved by Zeus to constitute the constellations Arctophylax and Ursa Major, the Great Bear.Theoi: Astronomica, Bear-watcher, by Gaius Julius Hyginus (translated by Mary Grant).
+* Nicolaus Damascenus tells that Lycaon's sons were nefarious. To test Zeus they mixed the flesh of a boy into the sacrifices, whereupon all who were present during the murder of the child were killed by lightning.
+* According to Ovid, Lycaon mistrusted and derided the signs of Zeus' divine nature which the god openly demonstrated upon arrival to Arcadia. Determined to find out whether the guest was truly a god or a mortal, Lycaon served Zeus the flesh of a prisoner, partly cooked and partly roasted. Moreover, in his quest to test Zeus' immortality Lycaon attempted to murder the god while he slept. Thereupon Zeus brought the roof down and transformed the fleeing Lycaon into a wolf.Ovid, Metamorphoses, 1. 216 - 239
+* According to the dictionary Suda, Lycaon had diligently been guarding the laws established by his father for the Arcadian people. In order to keep his subjects from injustice, he would tell them that Zeus frequented his home in the guise of a mortal man so as to keep watch over how lawful the humans were. One day when he was about to perform a sacrifice, the people were eager to know if the god was present; to find out if Lycaon told them the truth about Zeus' visits, they killed one of the king's fifty sons and mixed him in with the sacrificial meat, whereupon all of them were killed by lightning.Suda s. v. Lykaōn
+* According to Eratosthenes, Lycaon butchered his grandson (that is, Arcas), who was put together again by Zeus and placed upon the constellations, whereas Lycaon's house was struck by a thunderbolt.Pseudo-Eratosthenes, Catasterismi, 8
+
+== Modern interpretation ==
+The English poet Robert Graves, in his The Greek Myths, explained the origin of Lycaon's myth as follows:
+
+: "The story of Zeus and the boy's guts is not so much a myth as a moral anecdote expressing the disgust felt in more civilized parts of Greece for the ancient cannibalistic practices of Arcadia, which were still performed in the name of Zeus, as "barbarous and unnatural" (Plutarch: Life of Pelopidas). Lycaon's virtuous Athenian contemporary Cecrops, offered only barley—cakes, abstaining even from animal sacrifices. The Lycaonian rites, which the author denies that Zeus ever countenanced, were apparently intended to discourage the wolves from preying on flocks and herds, by sending them a human king. "Lycaeus" means "of the she-wolf", but also "of the light", and the lightning in the Lycaon myth shows that Arcadian Zeus began as a rain-making sacred king—in service to the divine She-wolf, the Moon, to whom the wolfpack howls.Robert Graves. The Greek Myths, section 38: Deucalion's Flood A Great Year of one hundred months, or eight solar years, was divided equally between the sacred king and his tanist; and Lycaon's fifty sons—one for every month of the sacred king's reign—will have been the eaters of the umble soup. The figure twenty-two, unless it has been arrived at by a count of the families who claimed descent from Lycaon and had to participate in the umble-feast, probably refers to the twenty-two five-year lustra which composed a cycle—the 110-year cycle constituting the reign of a particular line of priestesses."
+
+==See also==
+*Damarchus
+*Lykaia
+*Werewolf (lycanthropy)
+*Tantalus
+
+==Notes==
+
+

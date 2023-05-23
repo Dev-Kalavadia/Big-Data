@@ -1,0 +1,67 @@
+Title: No. 247 Squadron RAF
+
+
+No. 247 Squadron was formerly a squadron of the Royal Air Force. It was also known as No. 247 (China British) Squadron in recognition of the donations made by the British  communities of the foreign concessions established on the Chinese coast. The financial gift to provide two fighter squadrons also included the badge in the form of a scroll with Chinese characters Cheu Feng meaning "fierce wind" or Hurricane, and the motto "Rise from the East". The squadron was heavily involved in air operations during the Second World War, and the defence of the United Kingdom during the early years of the Cold War.
+
+==History==
+===Formation and early history (1918–1919)===
+No. 247 Squadron was first formed in the First World War on 20 August 1918 by the amalgamation of No. 336 and 337 Flights of the Royal Naval Air Service. The squadron was equipped with Felixstowe F2A flying boats and its role was reconnaissance and anti-submarine work in the North Sea. With the cessation of hostilities, the squadron was disbanded on 22 January 1919.
+
+===The Second World War===
+Formed from the Shetland Fighter Flight No. 247 Squadron was reformed at Roborough (Plymouth) on 1 August 1940, flying Gloster Gladiator biplanes. Tasked with the defence of the south west of England including the ports of Plymouth and Falmouth, the squadron's first action came on 25 September 1940, when a force of 24 Dornier Do 17s escorted by 12 Messerschmitt Bf 110s flew over the English Channel from France and crossed the coast at Start Point, heading towards Plymouth. Four of the squadron's Gladiators attempted an attack, but the formation was eventually broken up by Hurricanes from Exeter. Two Dorniers managed to reach the target, and bombs fell into the harbour. Too fast for the Gladiators to get into position, the raiders made their escape. The Luftwaffe's tactics changed to night bombing of Britain during the autumn of 1940, and the Gladiators adopted a night defence role. Although several visual night interceptions were made (aided by ground control radar), the obsolete Gladiator had no success against the heavy bombing of the city of Plymouth.
+
+No. 247 Squadron was re-equipped with the Hawker Hurricane on 24 December 1940, and continued to operate by day and night. Due to the poor airfield conditions a detachment was sent to RAF St Eval with its better facilities. Even though the Hurricane was an improvement over the Gladiator, results in night interception were poor and the squadron made little impact in defending Plymouth and Exeter during the Blitz. After a short move to RAF Portreath, the squadron moved to RAF Predannack on 18 June 1941. It was from there on 7 July that the squadron's first 'kill' was made when a Junkers Ju 88 was shot down during a night raid on Falmouth. Various methods were adopted to improve the night fighting capability, including operating in formation with Turbinlite aircraft of 1457 Flight. This bizarre concept consisted of a high powered searchlight attached to the nose of a radar fitted Douglas Havoc, with the intention of illuminating the target, to enable the Hurricane to make its attack. There are no known instances of this being a success. The Hurricane was also tried with radar equipment, but soon heavier, improved performance machines like the Bristol Beaufighter replaced the aircraft in the night-fighting role. From September 1942 until after the war, the unit was stationed at RAF High Ercall in Shropshire, where the local parish church has a Roll of Honour to squadron members who died in the war.
+
+As well as continuing its night defence role the squadron was involved in early offensive "intruder" attacks against Luftwaffe aerodromes in northern France. When the Hawker Typhoon replaced the Hurricane, these type of operations continued in daylight. No. 247 was involved in attacks prior to and including D-Day. Targets included transport systems, and weapon emplacements as well as providing close air support to ground forces. On 27 June 1944, the squadron moved to Coulombs in Normandy, beginning the subsequent drive through France, Belgium, the Netherlands and into Germany. Augmented memoirs of one of the squadron armourers for this period are recorded in Nash (2010).
+
+===Post war===
+After the war, the squadron was re-equipped briefly with the Typhoon's successor, the Hawker Tempest. However the radical change of equipment came in March 1946 when the squadron became the first unit to operate the de Havilland Vampire jet fighter. No.247 Squadron formed part of the UK's air defence during the early Cold War years. The Vampire was replaced by the improved version of the Gloster Meteor, and then the successful Hawker Hunter fighter.
+
+===Missile defence===
+Defence cuts and a change of strategy for the RAF in the late 1950s led to the squadron's second disbandment in 1957. In 1960, the squadron reformed as a Bristol Bloodhound surface-to-air missile unit, before being disbanded for the final time on 31 December 1963.The Royal Air Force – History Section
+
+===Post RAF===
+The squadron number since it final disbandment from the RAF was adopted by the Air Training Corps and is currently based in Ashton-under-Lyne.
+
+==Squadron association==
+An association of former serving members of the squadron was formed in 1987 and continues to the present day. An annual reunion is held, normally in September.
+
+==Aircraft operated==
+{|class="wikitable"
+|+Aircraft operated by no. 536 Squadron RAFMarchant 1996, pp. 151–159.<br>- Jefford 2001, p. 80.<br>- Rawlings 1978, pp. 351–352.<br>- Halley 1988, p. 316.
+! From !! To !! Aircraft !! Version
+|-
+| Aug 1918 || Jan 1919 || Felixstowe F.2 || a
+|-
+| Jan 1940 || Feb 1941 || Gloster Gladiator || Mk.II
+|-
+| Dec 1940 || Jun 1941 || Hawker Hurricane || Mk.I
+|-
+| Jun 1941 || Jan 1942 || Hawker Hurricane || Mks.IIa & IIb
+|-
+| Jan 1942 || Feb 1943 || Hawker Hurricane || Mk.IIc
+|-
+| Jan 1943 || Aug 1945 || Hawker Typhoon || Mk.Ib
+|-
+| Aug 1945 || May 1946 || Hawker Tempest || Mk.II
+|-
+| Mar 1946 || Feb 1949 || de Havilland Vampire || F.1
+|-
+| Oct 1948 || Dec 1949 || de Havilland Vampire || F.3
+|-
+| Nov 1949 || May 1952 || de Havilland Vampire || FB.5
+|-
+| Apr 1952 || Jun 1955 || Gloster Meteor || F.8
+|-
+| Jun 1955 || Jul 1955 || Hawker Hunter || F.1
+|-
+| May 1955 || Mar 1957 || Hawker Hunter || F.4
+|-
+| Mar 1957 || Dec 1957 || Hawker Hunter || F.6
+|-
+| Jul 1960 || Dec 1963 || Bristol Bloodhound SAM ||
+|}
+
+==See also==
+*List of Royal Air Force aircraft squadrons
+

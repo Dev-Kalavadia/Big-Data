@@ -1,0 +1,52 @@
+Title: Myślibórz County
+__NOTOC__
+Myślibórz County () is a unit of territorial administration and local government (powiat) in the West Pomeranian Voivodeship (a voivodeship, or province that is found in northwestern Poland along the German border). It came into being on January 1, 1999, as a result of the Polish local government reforms passed in 1998. Its administrative seat is the town of Myślibórz, which lies  south of the regional capital Szczecin. The county also contains the towns of Barlinek, lying  east of Myślibórz, and Dębno,  southwest of Myślibórz.
+
+The county covers an area of . As of 2006 its total population is 67,412, out of which the population of Barlinek is 14,156, that of Dębno is 13,903, that of Myślibórz is 11,867, and the rural population is 27,486.
+
+==Neighbouring counties==
+Myślibórz County is bordered by Gryfino County to the northwest, Pyrzyce County and Stargard County to the north, Choszczno County to the northeast, Strzelce-Drezdenko County to the east, and Gorzów County to the southeast. It also borders Germany to the west.
+
+==Administrative division==
+The county is subdivided into five gminas. Two of the gminas are rural, whereas the other three have both urban and rural qualities. These are listed in the following table, in descending order of population.
+
+{| width="60%" border="2" cellpadding="3" cellspacing="0" style="font-size:90%;line-height:120%;"
+|-bgcolor="F0F8FF"
+| style="text-align:center;"|Gmina
+| style="text-align:center;"|Type
+| style="text-align:center;"|Area(km2)
+| style="text-align:center;"|Population(2006)
+| style="text-align:center;"|Seat
+|-
+|Gmina Myślibórz
+|urban-rural
+| style="text-align:right;"|328.3
+| style="text-align:right;"|20,898
+|Myślibórz
+|-
+|Gmina Dębno
+|urban-rural
+| style="text-align:right;"|318.8
+| style="text-align:right;"|20,805
+|Dębno
+|-
+|Gmina Barlinek
+|urban-rural
+| style="text-align:right;"|258.8
+| style="text-align:right;"|19,528
+|Barlinek
+|-
+|Gmina Nowogródek Pomorski
+|rural
+| style="text-align:right;"|146.2
+| style="text-align:right;"|3,282
+|Nowogródek Pomorski
+|-
+|Gmina Boleszkowice
+|rural
+| style="text-align:right;"|129.9
+| style="text-align:right;"|2,899
+|Boleszkowice
+|-
+|}
+

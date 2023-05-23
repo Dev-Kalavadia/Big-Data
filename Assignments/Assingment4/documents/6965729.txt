@@ -1,0 +1,141 @@
+Title: List of monospaced typefaces
+
+This list of monospaced typefaces details standard monospaced fonts used in classical typesetting and printing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==Additional monospaced typefaces==
+
+
+
+*Comic Code, a monospaced adaptation of the most infamous yet most popular casual font. https://tosche.net/fonts/comic-code
+*Comic Shanns, a Comic Sans inspired monospaced font. https://github.com/shannpersand/comic-shanns
+*New Heterodox Mono by Hao Chi Kiang https://github.com/hckiang/font-new-heterodox-mono
+*Proggy programming fonts
+*Teeny Tiny Pixls is a 5x3 pixel font "with many European characters included". Its homepage is https://chequered.ink/ but the download link; https://www.fontspace.com/chequered-ink/teeny-tiny-pixls appears to be broken. It can be downloaded from https://www.dafont.com/teeny-tiny-pixls.font
+*Terminal
+*Cozette : A tiny bitmap programming font optimized for coziness, https://github.com/slavfox/Cozette.
+
+==See also==
+*List of display typefaces
+*List of sans serif typefaces
+*List of script typefaces
+*List of serif typefaces
+

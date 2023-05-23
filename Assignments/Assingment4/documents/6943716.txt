@@ -1,0 +1,13 @@
+Title: MATS/2 mineThe MATS/2 is a scatterable Italian circular, plastic-cased minimum metal blast resistant anti-tank blast mine. It uses a pneumatic fuse which is resistant to shock and blast similar to the fuse fitted to the TS-50. The mine's plastic case is waterproof, and the mine can be scattered from a helicopter traveling at up to 200 km/h using the Tecnovar DAT dispensing system. A secondary fuse well is provided in the base for the fitting of anti-handling devices.
+
+The mine's manufacturer claims the mine is capable of disabling any armoured vehicle.
+
+The mine is no longer in production, but is in service with the Italian army.
+
+==Specifications==
+* Diameter: 260 mm
+* Height: 90 mm
+* Weight: 4 kg
+* Explosive content: 2.6 kg of T4 (RDX) or Composition B
+* Operating pressure: less than 180 to 310 kg
+

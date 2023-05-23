@@ -1,0 +1,50 @@
+Title: Japanese trademark lawJapanese trademark law is mainly enacted by . Under this Act, only registered trademarks establish a "trademark" right (Article 18), and examination procedure is necessary for trademarks to be registered (Article 14). Japan's first modern trade mark law was enacted in 1884. The current Trademark Act was enacted in 1958, and has been amended several times since then.
+ 
+On the other hand, the protection for unregistered trademarks is provided by .
+
+==English translation==
+The definitive version of Japanese law is the text in the Japanese language.  An official English-language translation of the law does not exist, but the Ministry of Justice Japan has the website "Japanese Law Translation",Japanese Law Translation where users can search for Japanese laws and their unofficial English translation. IP laws such as Patent Act, Copyright Act, Trademark Act, Design Act and Unfair Competition Prevention Act are included there.
+
+In addition, J-PlatPat offers the public access to IP Gazettes of the Japan Patent Office (JPO) free of charge through internet.
+
+Reliable information on Japanese IP law in English is also provided by the websites of Intellectual Property High Court,Intellectual Property High Court in English Japan Patent Office,Japan Patent Office  in English "Transparency of Japanese Law Project",Japanese Copyright Law and Japanese Patent Law  in English European Patent Office, and Institute of Intellectual Property (IIP) of Japan.Institute of Intellectual Property (IIP) of Japan in English
+
+== Effects of trademark right ==
+{| class="wikitable"
+|-
+| style='width: 12em' |
+| style='width: 12em' | Goods/services identical to it is
+| style='width: 12em' | Goods/services similar to it is
+| style='width: 12em' | Goods/services neither identical nor similar to it is
+|-
+| Use of mark identical to registered trademark for
+| colspan='2' rowspan='2' style='background: #ffcccc' | Infringement of trademark right in terms of Trademark Act (Article 25 and 37(i))
+| rowspan='2' style='background: #ffffcc' | Unfair competition in terms of Unfair Competition Prevention Act, if the registered trademark is well-known and the use is creating confusion, or if the registered trademark is famous (Article 2(1)(i) and (ii))
+|-
+| Use of mark similar to registered trademark for
+|-
+| Use of mark neither identical nor similar to registered trademark for
+| colspan='3' style='background: #ccccff' | Fair
+|}
+{| class="wikitable"
+|-
+| style='width: 12em' |
+| style='width: 12em' | Goods/services identical to it is
+| style='width: 12em' | Goods/services similar to it is
+| style='width: 12em' | Goods/services neither identical nor similar to it is
+|-
+| Use of mark identical to unregistered trademark for
+| colspan='3' rowspan='2' style='background: #ffffcc' | Unfair competition in terms of Unfair Competition Prevention Act, if the unregistered trademark is well-known and the use is creating confusion, or if the unregistered trademark is famous (Article 2(1)(i) and (ii))
+|-
+| Use of mark similar to unregistered trademark for
+|-
+| Use of mark neither identical nor similar to unregistered trademark for
+| colspan='3' style='background: #ccccff' | Fair
+|}
+
+== See also ==
+* Japanese patent law
+* Japanese copyright law
+* Japanese design law
+* Japanese law
+
