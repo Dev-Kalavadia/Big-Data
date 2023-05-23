@@ -1,8 +1,9 @@
 # Big-Data Systems Course
- Big Data Systems Class Repo 
+ 
+## Big Data Systems Class Repo 
 
 
-## Course Description
+### Course Description
 Businesses, governments, individuals, scientific tools, and smart devices continuously create massive amounts of data at an unprecedented scale. Mining or even querying such datasets have become increasingly difficult. Standard database systems were not designed to deal with the size and dynamic format of datasets. This course focuses on conceptual and architectural issues related to designing and deploying data management systems in a "big data" context (Large data volume, velocity, and variety).
 
 
